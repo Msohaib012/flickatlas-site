@@ -1,6 +1,6 @@
 {
  "bucket": "39",
- "count": 56,
+ "count": 65,
  "titles": {
   "movie:1019939": {
    "d": "Hundreds of Beavers (2024): Comedy/Adventure film. Story: In the 19th century, a drunken applejack salesman… See cast, budget $150.0k, and TMDB rating 7.3/10.",
@@ -383,6 +383,134 @@
    "t": "Three O'Clock High (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
   },
+  "movie:1356039": {
+   "d": "Counterattack (2025): Action/Adventure film. Story: When a hostage rescue mission creates a new enemy… See cast and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+   "industry": "world",
+   "k": "Counterattack, Counterattack movie, Counterattack cast, Counterattack story, Counterattack box office collection, Counterattack budget, Counterattack review, Counterattack rating, Counterattack release date, Counterattack trailer, Counterattack Action, Counterattack Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Luis Alberti"
+     },
+     {
+      "@type": "Person",
+      "name": "Noé Hernández"
+     },
+     {
+      "@type": "Person",
+      "name": "Leonardo Alonso"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Curiel"
+     },
+     {
+      "@type": "Person",
+      "name": "Guillermo Nava"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 877,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Counterattack (2025): Action/Adventure film. Story: When a hostage rescue mission creates a new enemy… See cast and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chava Cartas"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1356039",
+    "name": "Counterattack",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1356039"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Counterattack (2025)</h1>\n<p class=\"ssr-lead\">When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2025</li><li>Runtime: 85 minutes</li><li>Director: Chava Cartas</li><li>Genres: Action, Adventure, Thriller</li><li>TMDB rating: 8.3/10 (877 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luis Alberti as Capitán Guerrero</li><li>Noé Hernández as Josefo &quot;El Aguijón&quot; Urías</li><li>Leonardo Alonso as Tanque</li><li>Luis Curiel as Pollo</li><li>Guillermo Nava as Toro</li><li>David Calderón León as Combo</li><li>Mayra Batalla as Lucía</li><li>Israel Islas as Román &quot;El Sacristán&quot; Urías</li><li>Ishbel Bautista as La Cobra</li><li>Frida Jiser as Karla</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Counterattack (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:14239": {
+   "d": "Cool World (1992): Animation/Comedy film. Story: While incarcerated for murder, cartoonist Jack Deebs… See cast, budget $30M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9ODXpqiiBCZPQGQt4kkO5fQjasI.jpg",
+   "industry": "world",
+   "k": "Cool World, Cool World movie, Cool World cast, Cool World story, Cool World box office collection, Cool World budget, Cool World review, Cool World rating, Cool World release date, Cool World trailer, Cool World Animation, Cool World Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kim Basinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabriel Byrne"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Michele Abrams"
+     },
+     {
+      "@type": "Person",
+      "name": "Deirdre O'Connell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 847,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Cool World (1992): Animation/Comedy film. Story: While incarcerated for murder, cartoonist Jack Deebs… See cast, budget $30M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ralph Bakshi"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9ODXpqiiBCZPQGQt4kkO5fQjasI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14239",
+    "name": "Cool World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14239"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cool World (1992)</h1>\n<p class=\"ssr-lead\">While incarcerated for murder, cartoonist Jack Deebs found escape by creating Cool World, a series featuring a voluptuous femme fatale named Holli Would. But the artist becomes a prisoner of his own fantasies when Holli transports Jack into Cool World with a scheme to seduce him and bring herself to life. Hard-boiled detective Frank Harris – the only other human in Cool World – cautions Jack with the law: Noids (humans) don&#x27;t have sex with doodles (cartoons). However, flesh proves weaker than ink as Holli takes human form in Las Vegas, staring in a trans-universal chase that threatens the destruction of both worlds.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 1992</li><li>Runtime: 102 minutes</li><li>Director: Ralph Bakshi</li><li>Genres: Animation, Comedy, Fantasy</li><li>Budget: $30M</li><li>TMDB rating: 5.7/10 (847 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kim Basinger as Holli Would</li><li>Gabriel Byrne as Jack Deebs</li><li>Brad Pitt as Detective Frank Harris</li><li>Michele Abrams as Jennifer Malley</li><li>Deirdre O&#x27;Connell as Isabelle Malley</li><li>Janni Brenn as Agatha Rose Harris</li><li>William Frankfather as Cop</li><li>Greg Collins as Cop</li><li>Maurice LaMarche as Interrogator #2 / Mash / drunken bar patron / Dr. Vincent &quot;Vegas Vinnie&quot; Whiskers / Jack Deebs (super hero version) (voice)</li><li>Michael David Lally as Sparks (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Cool World (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:1437939": {
    "d": "Cocorico 2 (2026): Comedy film. Story: DNA tests before Alice and François's wedding reveal… See cast, TMDB rating 5.3/10, and release date 8 April 2026.",
    "img": "https://image.tmdb.org/t/p/w780/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
@@ -445,6 +573,202 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cocorico 2 (2026)</h1>\n<p class=\"ssr-lead\">DNA tests before Alice and François&#x27;s wedding reveal their fathers - an aristocrat and car dealer - aren&#x27;t as French as they thought.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2026</li><li>Runtime: 91 minutes</li><li>Director: Julien Hervé</li><li>Genres: Comedy</li><li>TMDB rating: 5.3/10 (65 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Clavier as Frédéric Bouvier-Sauvage / Mehmet Suleymanoglu</li><li>Didier Bourdon as Gérard Martin / Djamila</li><li>Marianne Denicourt as Catherine Bouvier-Sauvage</li><li>Sylvie Testud as Nicole Martin</li><li>Chloé Coulloud as Alice Bouvier-Sauvage</li><li>Julien Pestel as François Martin</li><li>Patrick Préjean as Gérard Martin&#x27;s Father</li><li>Fred Testot as Policeman</li><li>Albert Goldberg as Policeman</li><li>Philippe Lefebvre as Restaurant Owner</li></ul>\n</article>",
    "t": "Cocorico 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1439": {
+   "d": "Anna and the King (1999): Drama/Romance film. Story: The story of the romance between the King of Siam… See cast, budget $75M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jW1HUCofeIYSpLLbVqVSsm7nMdN.jpg",
+   "industry": "world",
+   "k": "Anna and the King, Anna and the King movie, Anna and the King cast, Anna and the King story, Anna and the King box office collection, Anna and the King budget, Anna and the King review, Anna and the King rating, Anna and the King release date, Anna and the King Drama, Anna and the King Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jodie Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Chow Yun-Fat"
+     },
+     {
+      "@type": "Person",
+      "name": "Bai Ling"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Felton"
+     },
+     {
+      "@type": "Person",
+      "name": "Syed Alwi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 846,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Anna and the King (1999): Drama/Romance film. Story: The story of the romance between the King of Siam… See cast, budget $75M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andy Tennant"
+     }
+    ],
+    "duration": "PT148M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jW1HUCofeIYSpLLbVqVSsm7nMdN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1439",
+    "name": "Anna and the King",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1439"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Anna and the King (1999)</h1>\n<p class=\"ssr-lead\">The story of the romance between the King of Siam (now Thailand) and the widowed British school teacher Anna Leonowens during the 1860s. Anna teaches the children and becomes romanced by the King. She convinces him that a man can be loved by just one woman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 1999</li><li>Runtime: 148 minutes</li><li>Director: Andy Tennant</li><li>Genres: Drama, Romance, History</li><li>Budget: $75M</li><li>TMDB rating: 6.8/10 (846 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jodie Foster as Anna</li><li>Chow Yun-Fat as King Mongkut</li><li>Bai Ling as Tuptim</li><li>Tom Felton as Louis</li><li>Syed Alwi as The Kralahome</li><li>Randall Duk Kim as General Alak</li><li>Lim Kay Siu as Prince Chowfa</li><li>Melissa Campbell as Princess Fa-Ying</li><li>Keith Chin as Prince Chulalongkorn</li><li>Mano Maniam as Moonshee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Anna and the King (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
+  "movie:15139": {
+   "d": "The Pagemaster (1994): Family/Fantasy film. Story: Rich knows a lot about accidents. So much so, he is… See cast, budget $27M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/60XduQspYjRnvKQszuBtQwhzCDc.jpg",
+   "industry": "world",
+   "k": "The Pagemaster, The Pagemaster movie, The Pagemaster cast, The Pagemaster story, The Pagemaster box office collection, The Pagemaster budget, The Pagemaster review, The Pagemaster rating, The Pagemaster release date, The Pagemaster Family, The Pagemaster Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Macaulay Culkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Lloyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Whoopi Goldberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Welker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 821,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Pagemaster (1994): Family/Fantasy film. Story: Rich knows a lot about accidents. So much so, he is… See cast, budget $27M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pixote Hunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Johnston"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Family",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/60XduQspYjRnvKQszuBtQwhzCDc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15139",
+    "name": "The Pagemaster",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15139"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Pagemaster (1994)</h1>\n<p class=\"ssr-lead\">Rich knows a lot about accidents. So much so, he is scared to do anything that might endanger him, like riding his bike, or climbing into his treehouse. While in an old library, he is mystically transported into the unknown world of books, and he has to try and get home again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 1994</li><li>Runtime: 75 minutes</li><li>Director: Pixote Hunt, Joe Johnston</li><li>Genres: Family, Fantasy, Animation, Adventure</li><li>Budget: $27M</li><li>TMDB rating: 6.4/10 (821 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Macaulay Culkin as Richard Tyler</li><li>Christopher Lloyd as The Pagemaster (voice) / Mr. Dewey</li><li>Patrick Stewart as Adventure (voice)</li><li>Whoopi Goldberg as Fantasy (voice)</li><li>Frank Welker as Horror (voice)</li><li>Leonard Nimoy as Dr. Jekyll / Mr. Hyde (voice)</li><li>Ed Begley Jr. as Alan Tyler</li><li>Mel Harris as Claire Tyler</li><li>George Hearn as Captain Ahab (voice)</li><li>Dorian Harewood as Jamaican Pirates (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "The Pagemaster (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
+  "movie:15739": {
+   "d": "Annie (1982): Comedy/Drama film. Story: An orphan in a facility run by the mean Miss… See cast, budget $35M, TMDB rating 6.5/10, and release date 21 May 1982.",
+   "img": "https://image.tmdb.org/t/p/w780/uP8eElA1j4I2lE0V67bhQaUipkc.jpg",
+   "industry": "world",
+   "k": "Annie, Annie movie, Annie cast, Annie story, Annie box office collection, Annie budget, Annie review, Annie rating, Annie release date, Annie Comedy, Annie Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aileen Quinn"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Finney"
+     },
+     {
+      "@type": "Person",
+      "name": "Carol Burnett"
+     },
+     {
+      "@type": "Person",
+      "name": "Ann Reinking"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Curry"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 819,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Annie (1982): Comedy/Drama film. Story: An orphan in a facility run by the mean Miss… See cast, budget $35M, TMDB rating 6.5/10, and release date 21 May 1982.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Huston"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uP8eElA1j4I2lE0V67bhQaUipkc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15739",
+    "name": "Annie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-05-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15739"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Annie (1982)</h1>\n<p class=\"ssr-lead\">An orphan in a facility run by the mean Miss Hannigan, Annie believes that her parents left her there by mistake. When a rich man named Oliver &quot;Daddy&quot; Warbucks decides to let an orphan live at his home to promote his image, Annie is selected. While Annie gets accustomed to living in Warbucks&#x27; mansion, she still longs to meet her parents. So Warbucks announces a search for them and a reward, which brings out many frauds.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 1982</li><li>Runtime: 127 minutes</li><li>Director: John Huston</li><li>Genres: Comedy, Drama, Family</li><li>Budget: $35M</li><li>TMDB rating: 6.5/10 (819 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aileen Quinn as Annie</li><li>Albert Finney as &#x27;Daddy&#x27; Oliver Warbucks</li><li>Carol Burnett as Miss Hannigan</li><li>Ann Reinking as Grace Farrell</li><li>Tim Curry as Rooster Hannigan</li><li>Bernadette Peters as Lily St. Regis</li><li>Geoffrey Holder as Punjab</li><li>Roger Minami as Asp</li><li>Toni Ann Gisondi as Molly</li><li>Rosanne Sorrentino as Pepper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Annie (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
   },
   "movie:160139": {
    "d": "Night Train to Lisbon (2013): Mystery/Romance film. Story: Raimund Gregorius, having saved a beautiful… See cast, budget $7.7M, and TMDB rating 6.5/10.",
@@ -701,6 +1025,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Brink of War (2026)</h1>\n<p class=\"ssr-lead\">President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2026</li><li>Runtime: 117 minutes</li><li>Director: Michael Russell Gunn</li><li>Genres: Drama, History</li><li>Budget: $21M</li><li>TMDB rating: 6.7/10 (52 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeff Daniels as Ronald Reagan</li><li>Jared Harris as Mikhail Gorbachev</li><li>J.K. Simmons as George Shultz</li><li>Hope Davis as Nancy Reagan</li><li>Branka Katić as Raisa Gorbachev</li><li>Aya Cash as Cleo</li><li>Guy Burnet as Alexander</li><li>Adrian Rawlins as Max Rampleman</li><li>Tim Dutton as Edward Shevardnadze</li><li>Stephen Brennan as Paul Nitze</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Angel Studios</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Brink of War (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1939": {
+   "d": "Laura (1944): Drama/Mystery film. Story: A police detective falls in love with the woman whose… See cast, budget $1.02M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+   "industry": "world",
+   "k": "Laura, Laura movie, Laura cast, Laura story, Laura box office collection, Laura budget, Laura review, Laura rating, Laura release date, Laura Drama, Laura Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dana Andrews"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Tierney"
+     },
+     {
+      "@type": "Person",
+      "name": "Clifton Webb"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Price"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Anderson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 965,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Laura (1944): Drama/Mystery film. Story: A police detective falls in love with the woman whose… See cast, budget $1.02M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Otto Preminger"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1939",
+    "name": "Laura",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1944-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1939"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Laura (1944)</h1>\n<p class=\"ssr-lead\">A police detective falls in love with the woman whose murder he&#x27;s investigating.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 1944</li><li>Runtime: 88 minutes</li><li>Director: Otto Preminger</li><li>Genres: Drama, Mystery</li><li>Budget: $1.02M</li><li>TMDB rating: 7.6/10 (965 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dana Andrews as Det. Lt. Mark McPherson</li><li>Gene Tierney as Laura Hunt</li><li>Clifton Webb as Waldo Lydecker</li><li>Vincent Price as Shelby Carpenter</li><li>Judith Anderson as Ann Treadwell</li><li>Dorothy Adams as Laura&#x27;s Maid Bessie Clary (uncredited)</li><li>Wally Albright as Newsboy (uncredited)</li><li>Bobby Barber as Newsboy (uncredited)</li><li>Harry Carter as Party Guest (uncredited)</li><li>Lane Chandler as Detective (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, YouTube TV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Laura (1944) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1944"
   },
   "movie:20139": {
    "d": "The Children's Hour (1961): Drama film. Story: An unruly student at a private all-girls boarding… See cast, budget $3.6M, and TMDB rating 7.7/10.",
@@ -1861,6 +2249,70 @@
    "t": "The Fox and the Child (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:517839": {
+   "d": "Border (2018): Fantasy/Drama film. Story: When a border guard with a sixth sense for… See cast, TMDB rating 6.7/10, and release date 27 September 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/blHx3LrXsIfefFggOk4gjwdX73i.jpg",
+   "industry": "world",
+   "k": "Border, Border movie, Border cast, Border story, Border box office collection, Border budget, Border review, Border rating, Border release date, Border trailer, Border Fantasy, Border Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eva Melander"
+     },
+     {
+      "@type": "Person",
+      "name": "Eero Milonoff"
+     },
+     {
+      "@type": "Person",
+      "name": "Jörgen Thorsson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ann Petrén"
+     },
+     {
+      "@type": "Person",
+      "name": "Sten Ljunggren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 966,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Border (2018): Fantasy/Drama film. Story: When a border guard with a sixth sense for… See cast, TMDB rating 6.7/10, and release date 27 September 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ali Abbasi"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/blHx3LrXsIfefFggOk4gjwdX73i.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=517839",
+    "name": "Border",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-09-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=517839"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Border (2018)</h1>\n<p class=\"ssr-lead\">When a border guard with a sixth sense for identifying smugglers encounters the first person she cannot prove is guilty, she is forced to confront terrifying revelations about herself and humankind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 September 2018</li><li>Runtime: 110 minutes</li><li>Director: Ali Abbasi</li><li>Genres: Fantasy, Drama, Crime</li><li>TMDB rating: 6.7/10 (966 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eva Melander as Tina</li><li>Eero Milonoff as Vore</li><li>Jörgen Thorsson as Roland</li><li>Ann Petrén as Agneta</li><li>Sten Ljunggren as Tina&#x27;s Father</li><li>Kjell Wilhelmsen as Daniel</li><li>Rakel Wärmländer as Therese</li><li>Andreas Kundler as Robert</li><li>Matti Boustedt as Tomas</li><li>Tomas Åhnstrand as Stefan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Border (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:522039": {
    "d": "The Last Black Man in San Francisco (2019): Drama film. Story: Jimmie Fails dreams of reclaiming the Victorian home… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/n0FzDpOvVhkj3uN7WHXXnAXOKFi.jpg",
@@ -1922,6 +2374,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Black Man in San Francisco (2019)</h1>\n<p class=\"ssr-lead\">Jimmie Fails dreams of reclaiming the Victorian home his grandfather built in the heart of San Francisco. Joined on his quest by his best friend Mont, Jimmie searches for belonging in a rapidly changing city that seems to have left them behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 October 2019</li><li>Runtime: 121 minutes</li><li>Director: Joe Talbot</li><li>Genres: Drama</li><li>TMDB rating: 7.0/10 (382 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jimmie Fails as Jimmie Fails</li><li>Jonathan Majors as Montgomery Allen</li><li>Rob Morgan as James Sr.</li><li>Tichina Arnold as Wanda Fails</li><li>Mike Epps as Bobby</li><li>Finn Wittrock as Clayton</li><li>Danny Glover as Grandpa Allen</li><li>Willie Hen as Preacher</li><li>Jamal Trulove as Kofi</li><li>Antoine Redus as Nitty</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Last Black Man in San Francisco (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:537739": {
+   "d": "Can You Keep a Secret? (2019): Romance/Comedy film. Story: Emma Corrigan, a girl with a few secrets, thinks… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mpHUz9wz3C5MNWcVVHPYOJ6bbqi.jpg",
+   "industry": "world",
+   "k": "Can You Keep a Secret?, Can You Keep a Secret? movie, Can You Keep a Secret? cast, Can You Keep a Secret? story, Can You Keep a Secret? box office collection, Can You Keep a Secret? budget, Can You Keep a Secret? review, Can You Keep a Secret? rating, Can You Keep a Secret? release date, Can You Keep a Secret? trailer, Can You Keep a Secret? Romance, Can You Keep a Secret? Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexandra Daddario"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyler Hoechlin"
+     },
+     {
+      "@type": "Person",
+      "name": "Sunita Mani"
+     },
+     {
+      "@type": "Person",
+      "name": "David Ebert"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Easton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 994,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Can You Keep a Secret? (2019): Romance/Comedy film. Story: Emma Corrigan, a girl with a few secrets, thinks… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Elise Durán"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mpHUz9wz3C5MNWcVVHPYOJ6bbqi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=537739",
+    "name": "Can You Keep a Secret?",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=537739"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Can You Keep a Secret? (2019)</h1>\n<p class=\"ssr-lead\">Emma Corrigan, a girl with a few secrets, thinks she’s about to die on a turbulent plane ride. She spills them all to the handsome stranger sitting next to her. At least, she thought he was a stranger. But then, her company’s young and elusive CEO, arrives at the office. It’s him. And he knows every single humiliating detail about her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 September 2019</li><li>Runtime: 94 minutes</li><li>Director: Elise Durán</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.3/10 (994 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexandra Daddario as Emma Corrigan</li><li>Tyler Hoechlin as Jack Harper</li><li>Sunita Mani as Lissy</li><li>David Ebert as Connor</li><li>Kate Easton as Artemis</li><li>Robert King as Casey</li><li>James Lipsius as Nick</li><li>Laverne Cox as Cybill</li><li>Kimiko Glenn as Gemma</li><li>Sam Asghari as Omar</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Starz Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Can You Keep a Secret? (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
   "movie:6639": {
@@ -2371,6 +2887,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Till (2022)</h1>\n<p class=\"ssr-lead\">The true story of Mamie Till Mobley&#x27;s relentless pursuit of justice for her 14-year-old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2022</li><li>Runtime: 131 minutes</li><li>Director: Chinonye Chukwu</li><li>Genres: Drama, History</li><li>Budget: $33M</li><li>TMDB rating: 7.3/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Danielle Deadwyler as Mamie Till-Mobley</li><li>Jalyn Hall as Emmett Till</li><li>Frankie Faison as John Carthan</li><li>Haley Bennett as Carolyn Bryant</li><li>John Douglas Thompson as Moses Wright</li><li>Whoopi Goldberg as Alma</li><li>Jayme Lawson as Myrlie Evers</li><li>Tosin Cole as Medgar Evers</li><li>Kevin Carroll as Rayfield Mooty</li><li>Sean Patrick Thomas as Gene Mobley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
    "t": "Till (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:85739": {
+   "d": "A.C.A.B. - All Cops Are Bastards (2012): Action/Drama film. Story: A look at the controversial riot cops unit, told… See cast and budget $5M.",
+   "img": "https://image.tmdb.org/t/p/w780/uW7Km2jzTu6kcdpTuKZjo7SXLwT.jpg",
+   "industry": "world",
+   "k": "A.C.A.B. - All Cops Are Bastards, A.C.A.B. - All Cops Are Bastards movie, A.C.A.B. - All Cops Are Bastards cast, A.C.A.B. - All Cops Are Bastards story, A.C.A.B. - All Cops Are Bastards box office collection, A.C.A.B. - All Cops Are Bastards budget, A.C.A.B. - All Cops Are Bastards review, A.C.A.B. - All Cops Are Bastards rating, A.C.A.B. - All Cops Are Bastards release date, A.C.A.B. - All Cops Are Bastards Action, A.C.A.B. - All Cops Are Bastards Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierfrancesco Favino"
+     },
+     {
+      "@type": "Person",
+      "name": "Filippo Nigro"
+     },
+     {
+      "@type": "Person",
+      "name": "Marco Giallini"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Sartoretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Domenico Diele"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 867,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "A.C.A.B. - All Cops Are Bastards (2012): Action/Drama film. Story: A look at the controversial riot cops unit, told… See cast and budget $5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stefano Sollima"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uW7Km2jzTu6kcdpTuKZjo7SXLwT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=85739",
+    "name": "A.C.A.B. - All Cops Are Bastards",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-01-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=85739"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A.C.A.B. - All Cops Are Bastards (2012)</h1>\n<p class=\"ssr-lead\">A look at the controversial riot cops unit, told through the stories of three veteran cops and a young recruit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 January 2012</li><li>Runtime: 105 minutes</li><li>Director: Stefano Sollima</li><li>Genres: Action, Drama, Crime</li><li>Budget: $5M</li><li>TMDB rating: 7.0/10 (867 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierfrancesco Favino as Cobra</li><li>Filippo Nigro as Negro</li><li>Marco Giallini as Mazinga</li><li>Andrea Sartoretti as Carletto</li><li>Domenico Diele as Adriano</li><li>Roberta Spagnuolo as Maria</li><li>Eugenio Mastrandrea as Giancarlo</li><li>Eradis Josende Oberto as Miriam</li><li>Carlo Marino Altomonte as Uomo Sfrattato</li><li>Riccardo Angelini as Maresciallo Reparto Mobile</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "A.C.A.B. - All Cops Are Bastards (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:862739": {
    "d": "The Virgin of the Quarry Lake (2026): Horror/Thriller film. Story: On the eve of the 2001 outbreak, a young woman falls… See cast and TMDB rating 5.9/10.",

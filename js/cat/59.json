@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 53,
+ "count": 60,
  "titles": {
   "movie:10359": {
    "backdrop_path": "/deqB89VLPy9WJzGrb51tU1DyuhN.jpg",
@@ -3661,6 +3661,418 @@
    "vote_average": 7.5,
    "vote_count": 462
   },
+  "movie:2359": {
+   "backdrop_path": "/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Michael Moore"
+    },
+    {
+     "c": "Self",
+     "n": "Tony Benn"
+    },
+    {
+     "c": "Self",
+     "n": "Tucker Albrizzi"
+    },
+    {
+     "c": "Self",
+     "n": "Reggie Cervantes"
+    },
+    {
+     "c": "Self",
+     "n": "John Graham"
+    },
+    {
+     "c": "Self",
+     "n": "Aleida Guevara"
+    },
+    {
+     "c": "Self",
+     "n": "Bill Maher"
+    },
+    {
+     "c": "Self",
+     "n": "Patrick Pedraja"
+    },
+    {
+     "c": "Self",
+     "n": "Linda Peeno"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Billy Crystal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Moore"
+   ],
+   "genres": [
+    "Documentary",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 2359,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A documentary about the corrupt health care system in The United States whose main goal is to make profit even if it means losing people’s lives. \"The more people you deny health insurance, the more money we make\" is the business model for health care providers in America.",
+   "popularity": 1.8604,
+   "poster_path": "/8PxUhW78Oy4DWZNRyUkKYmhGUaH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-05-18",
+   "revenue": 24538513,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This might hurt a little.",
+   "title": "Sicko",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.358,
+   "vote_count": 819
+  },
+  "movie:2759": {
+   "backdrop_path": "/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Anthony 'Tick' Belrose / Mitzi Del Bra",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Adam Whitely / Felicia Jollygoodfellow",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Bernadette Bassenger",
+     "n": "Terence Stamp"
+    },
+    {
+     "c": "Bob Spart",
+     "n": "Bill Hunter"
+    },
+    {
+     "c": "Marion Barber",
+     "n": "Sarah Chadwick"
+    },
+    {
+     "c": "Shirley",
+     "n": "June Marie Bennett"
+    },
+    {
+     "c": "Logowoman",
+     "n": "Rebel Penfold-Russell"
+    },
+    {
+     "c": "Bartender",
+     "n": "John Casey"
+    },
+    {
+     "c": "Miner",
+     "n": "Murray Davies"
+    },
+    {
+     "c": "Piano Player",
+     "n": "Frank Cornelius"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephan Elliott"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 2759,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.",
+   "popularity": 3.1104,
+   "poster_path": "/rSkhcbHkk23fR3qhYJestqtamWK.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1994-08-10",
+   "revenue": 29700000,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Finally, a comedy that will change the way you think, the way you feel, and most importantly... the way you dress.",
+   "title": "The Adventures of Priscilla, Queen of the Desert",
+   "trailer": {
+    "key": "VFmwVI-5lfU",
+    "name": "4K UHD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.26,
+   "vote_count": 979
+  },
+  "movie:2959": {
+   "backdrop_path": "/wS8GxF4NBb7Oab452Ecwqx5cMJs.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Sadie Jones",
+     "n": "Mandy Moore"
+    },
+    {
+     "c": "Ben Murphy",
+     "n": "John Krasinski"
+    },
+    {
+     "c": "Reverend Frank",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Carlisle",
+     "n": "Eric Christian Olsen"
+    },
+    {
+     "c": "Lindsey Jones",
+     "n": "Christine Taylor"
+    },
+    {
+     "c": "Choir Boy",
+     "n": "Josh Flitter"
+    },
+    {
+     "c": "Joel",
+     "n": "DeRay Davis"
+    },
+    {
+     "c": "Mr. Jones",
+     "n": "Peter Strauss"
+    },
+    {
+     "c": "Grandma Jones",
+     "n": "Grace Zabriskie"
+    },
+    {
+     "c": "Mrs. Jones",
+     "n": "Roxanne Hart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ken Kwapis"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 2959,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Newly engaged, Ben and Sadie can't wait to start their life together and live happily ever after. However Sadie's family church's Reverend Frank won't bless their union until they pass his patented, \"foolproof\" marriage prep course consisting of outrageous classes, outlandish homework assignments and some outright invasion of privacy.",
+   "popularity": 1.8862,
+   "poster_path": "/lJbT99nN3jEe23EfQvmlSh6EQ2b.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-07-04",
+   "revenue": 69307224,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "First came love... then came Reverend Frank.",
+   "title": "License to Wed",
+   "trailer": {
+    "key": "HmyfIOp30aI",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.686,
+   "vote_count": 952
+  },
   "movie:298459": {
    "backdrop_path": "/64zKO0Ia4o6YOrTmNFP4irvtB64.jpg",
    "budget": 5100000,
@@ -4387,6 +4799,172 @@
    "vote_average": 6.164,
    "vote_count": 423
   },
+  "movie:339259": {
+   "backdrop_path": "/dVAScapt0EECC9jpvWHFBe2gybs.jpg",
+   "budget": 32679734,
+   "cast": [
+    {
+     "c": "Reinhard Heydrich",
+     "n": "Jason Clarke"
+    },
+    {
+     "c": "Lina von Osten",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "Jan Kubiš",
+     "n": "Jack O'Connell"
+    },
+    {
+     "c": "Jozef Gabčík",
+     "n": "Jack Reynor"
+    },
+    {
+     "c": "Anna Novák",
+     "n": "Mia Wasikowska"
+    },
+    {
+     "c": "Heinrich Himmler",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Josef Valčík",
+     "n": "Thomas M. Wright"
+    },
+    {
+     "c": "Karl Hermann Frank",
+     "n": "Barry Atsma"
+    },
+    {
+     "c": "Muller",
+     "n": "Geoff Bell"
+    },
+    {
+     "c": "Adolf Opálka",
+     "n": "Enzo Cilenti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Cédric Jimenez"
+   ],
+   "genres": [
+    "War",
+    "Action",
+    "History",
+    "Thriller"
+   ],
+   "id": 339259,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "With the Third Reich at its peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII –  Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader – Reinhard Heydrich, head of the Reich Security Main Office, the Gestapo and the architect of the Final Solution.",
+   "popularity": 3.2813,
+   "poster_path": "/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-05-25",
+   "revenue": 4412639,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The true story of how the architect of the Holocaust was assassinated",
+   "title": "The Man with the Iron Heart",
+   "trailer": {
+    "key": "1Lk7-xcJxj0",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 839
+  },
   "movie:438259": {
    "backdrop_path": "/32c48NEZOJxBvpN4FkaObQTOhjH.jpg",
    "budget": 0,
@@ -4512,6 +5090,113 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 345
+  },
+  "movie:449459": {
+   "backdrop_path": "/83LbQ6xMURQYO03Ilqdr3kwLBxD.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "James",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Thomas",
+     "n": "Peter Mullan"
+    },
+    {
+     "c": "Donald",
+     "n": "Connor Swindells"
+    },
+    {
+     "c": "Locke",
+     "n": "Søren Malling"
+    },
+    {
+     "c": "Boor",
+     "n": "Ólafur Darri Ólafsson"
+    },
+    {
+     "c": "Kenny",
+     "n": "Gary Lewis"
+    },
+    {
+     "c": "Mary",
+     "n": "Emma King"
+    },
+    {
+     "c": "Duncan",
+     "n": "Ken Drury"
+    },
+    {
+     "c": "Gherd",
+     "n": "Gary Kane"
+    },
+    {
+     "c": "Galley Hand",
+     "n": "Roderick Gilkison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kristoffer Nyholm"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 449459,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Three lighthouse keepers on an uninhabited island off the coast of Scotland discover something that isn't theirs to keep.",
+   "popularity": 2.3023,
+   "poster_path": "/owYLROHpJWbYWEHjaEvDsnoz4Ux.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-01-04",
+   "revenue": 1202522,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "What's left when the light goes out?",
+   "title": "The Vanishing",
+   "trailer": {
+    "key": "xVez1uCdndc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.781,
+   "vote_count": 816
   },
   "movie:459": {
    "backdrop_path": "/5WuvIg4f2AdFPLUADFjxexVAb2H.jpg",
@@ -5383,6 +6068,193 @@
    "vote_average": 6.181,
    "vote_count": 343
   },
+  "movie:659959": {
+   "backdrop_path": "/5NMxiETEUCT4297zrMdimNR5VqS.jpg",
+   "budget": 6900000,
+   "cast": [
+    {
+     "c": "Alexis Robin",
+     "n": "Félix Lefebvre"
+    },
+    {
+     "c": "David Gorman",
+     "n": "Benjamin Voisin"
+    },
+    {
+     "c": "Kate",
+     "n": "Philippine Velge"
+    },
+    {
+     "c": "Madame Gorman",
+     "n": "Valeria Bruni Tedeschi"
+    },
+    {
+     "c": "Mr. Lefèvre",
+     "n": "Melvil Poupaud"
+    },
+    {
+     "c": "Madame Robin",
+     "n": "Isabelle Nanty"
+    },
+    {
+     "c": "Mr. Robin",
+     "n": "Laurent Fernandez"
+    },
+    {
+     "c": "The Educator",
+     "n": "Aurore Broutin"
+    },
+    {
+     "c": "Bernard",
+     "n": "Bruno Lochet"
+    },
+    {
+     "c": "Luc",
+     "n": "Yoann Zimmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "François Ozon"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 659959,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "What do you dream of when you're 16-years-old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can't get a bigger kick than dying. And that's why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.",
+   "popularity": 2.5286,
+   "poster_path": "/etH2pm1eMxEjY2dlltpQGLVspv.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-07-14",
+   "revenue": 3600000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Whoever dies first, the other promises to dance on his grave.",
+   "title": "Summer of 85",
+   "trailer": {
+    "key": "Bgz9IUKPcmk",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.415,
+   "vote_count": 961
+  },
   "movie:747059": {
    "backdrop_path": "/tj58v7h4d9xDkFr3Hot0qhKdwRf.jpg",
    "budget": 0,
@@ -5587,6 +6459,138 @@
    "type": "movie",
    "vote_average": 6.774,
    "vote_count": 343
+  },
+  "movie:882059": {
+   "backdrop_path": "/1LOT0yesrW1l98qYzMbzx6vCRbi.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Boy",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "June27",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "Voice of Boy (voice)",
+     "n": "H. Jon Benjamin"
+    },
+    {
+     "c": "Melanie Van Der Koy",
+     "n": "Michelle Dockery"
+    },
+    {
+     "c": "Gideon Van Der Koy",
+     "n": "Brett Gelman"
+    },
+    {
+     "c": "Glen Van Der Koy",
+     "n": "Sharlto Copley"
+    },
+    {
+     "c": "Basho",
+     "n": "Andrew Koji"
+    },
+    {
+     "c": "Benny",
+     "n": "Isaiah Mustafa"
+    },
+    {
+     "c": "Hilda Van Der Koy",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Mina",
+     "n": "Quinn Copeland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Moritz Mohr"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action"
+   ],
+   "id": 882059,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
+   "popularity": 3.3316,
+   "poster_path": "/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-04-24",
+   "revenue": 3139717,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let the ass-kicking commence.",
+   "title": "Boy Kills World",
+   "trailer": {
+    "key": "z6NibtjmjOk",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.65,
+   "vote_count": 911
   },
   "movie:9459": {
    "backdrop_path": "/50tOx2lJXuszVjwCjNYHEXnPMWx.jpg",

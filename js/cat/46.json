@@ -1,6 +1,6 @@
 {
  "bucket": "46",
- "count": 58,
+ "count": 67,
  "titles": {
   "movie:10646": {
    "backdrop_path": "/eCtRseKCbltn8C6XW1GhqW0c4VA.jpg",
@@ -467,6 +467,162 @@
    "type": "movie",
    "vote_average": 6.638,
    "vote_count": 29
+  },
+  "movie:12246": {
+   "backdrop_path": "/m50btvvexrrDUpJjSey1C4IU1OD.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Genghis Khan / Temüjin",
+     "n": "Tadanobu Asano"
+    },
+    {
+     "c": "Jamukha",
+     "n": "Sun Honglei"
+    },
+    {
+     "c": "Borte",
+     "n": "Khulan Chuluun"
+    },
+    {
+     "c": "Esugei",
+     "n": "Baasanjav Mijid"
+    },
+    {
+     "c": "Targutai",
+     "n": "Amadu Mamadakov"
+    },
+    {
+     "c": "Dai-Sechen",
+     "n": "He Qi"
+    },
+    {
+     "c": "Monk",
+     "n": "Ben Hon Sun"
+    },
+    {
+     "c": "Boorchu",
+     "n": "Ji Ri Mu Tu"
+    },
+    {
+     "c": "Sorgan-Shira",
+     "n": "You Er"
+    },
+    {
+     "c": "Altan",
+     "n": "Huntun Batu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sergei Bodrov"
+   ],
+   "genres": [
+    "History",
+    "War",
+    "Action"
+   ],
+   "id": 12246,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "The story recounts the early life of Genghis Khan, a slave who went on to conquer half the world in the 11th century.",
+   "popularity": 2.4245,
+   "poster_path": "/8hlyJVMKFJNJb8QRtdfjage2tGF.jpg",
+   "production_countries": [
+    "DE",
+    "KZ",
+    "RU",
+    "HK",
+    "MN"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-09-20",
+   "revenue": 26527510,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "mn"
+   ],
+   "status": "Released",
+   "tagline": "Greatness comes to those who take it.",
+   "title": "Mongol: The Rise of Genghis Khan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.81,
+   "vote_count": 822
   },
   "movie:1228246": {
    "backdrop_path": "/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg",
@@ -3536,6 +3692,144 @@
    "vote_average": 7.087,
    "vote_count": 316
   },
+  "movie:423646": {
+   "backdrop_path": "/rbmJvTsPzVDszka97NguVUALUoh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katja Sekerci",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Danilo Fava",
+     "n": "Denis Moschitto"
+    },
+    {
+     "c": "Nuri Sekerci",
+     "n": "Numan Acar"
+    },
+    {
+     "c": "Habberbeck",
+     "n": "Johannes Krisch"
+    },
+    {
+     "c": "André Möller",
+     "n": "Ulrich Brandhoff"
+    },
+    {
+     "c": "Edda Möller",
+     "n": "Hanna Hilsdorf"
+    },
+    {
+     "c": "Jürgen Möller",
+     "n": "Ulrich Tukur"
+    },
+    {
+     "c": "Hauptkommissar Gerrit Reetz",
+     "n": "Henning Peker"
+    },
+    {
+     "c": "Kommissar Fischer",
+     "n": "Laurens Walter"
+    },
+    {
+     "c": "Michi",
+     "n": "Uwe Rohde"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fatih Akin"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 423646,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Katja's life collapses after the deaths of her husband and son in a bomb attack. After a time of mourning and injustice, Katja seeks revenge.",
+   "popularity": 1.8166,
+   "poster_path": "/AdH8xoP2wAFZDMWiSoCGoLa0DUr.jpg",
+   "production_countries": [
+    "DE",
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-11-23",
+   "revenue": 4997844,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "In the Fade",
+   "trailer": {
+    "key": "UyjnzhXJlHU",
+    "name": "In The Fade - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.903,
+   "vote_count": 924
+  },
   "movie:42446": {
    "backdrop_path": "/ad0n8V9w28K7ZZNcbDjT6PCet3F.jpg",
    "budget": 0,
@@ -3920,6 +4214,216 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 340
+  },
+  "movie:460846": {
+   "backdrop_path": "/41pWNOj2rqKSfsKayS4kAbzpsRt.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Eduardo 'Eddie' Deacon",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Charlie",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Vance",
+     "n": "Liam McIntyre"
+    },
+    {
+     "c": "Mason",
+     "n": "Chad Lindberg"
+    },
+    {
+     "c": "Ruby",
+     "n": "Gabriella Wright"
+    },
+    {
+     "c": "Dead Eyes",
+     "n": "Cung Le"
+    },
+    {
+     "c": "Hood Shooter",
+     "n": "Mark Rhino Smith"
+    },
+    {
+     "c": "Fake US Marshal",
+     "n": "Bashar Rahal"
+    },
+    {
+     "c": "Female backseat agent",
+     "n": "Yana Marinova"
+    },
+    {
+     "c": "Johnny",
+     "n": "Jiro Wang Dong-cheng"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alain Desrochers"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 460846,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An ex-special services veteran, down on his luck and desperate for work, takes a job as a security guard at a run-down mall in a rough area of town. On his first night on the job, he opens the door to a distraught and desperate young girl who has fled the hijacking of a Police motorcade that was transporting her to testify as a witness in a trial. Hot on her heels is the psychopathic hijacker and his team of henchmen, who will stop at nothing to extract and eliminate the witness.",
+   "popularity": 3.3195,
+   "poster_path": "/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-03-04",
+   "revenue": 0,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's going to be a long night.",
+   "title": "Security",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.325,
+   "vote_count": 989
   },
   "movie:475946": {
    "backdrop_path": "/7gZR9nztTzZIskcRCuDfhvrd5Ds.jpg",
@@ -5100,6 +5604,204 @@
    "vote_average": 5.88,
    "vote_count": 367
   },
+  "movie:62046": {
+   "backdrop_path": "/i5RVI7UeGXB0DsuQndwogr6Gzu9.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Tripp",
+     "n": "Patrick Dempsey"
+    },
+    {
+     "c": "Kaitlin",
+     "n": "Ashley Judd"
+    },
+    {
+     "c": "Peanut Butter",
+     "n": "Tim Blake Nelson"
+    },
+    {
+     "c": "Darrien",
+     "n": "Mekhi Phifer"
+    },
+    {
+     "c": "Gates",
+     "n": "Matt Ryan"
+    },
+    {
+     "c": "Gordon Blythe",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Weinstein",
+     "n": "John Ventimiglia"
+    },
+    {
+     "c": "Jelly",
+     "n": "Pruitt Taylor Vince"
+    },
+    {
+     "c": "Mitchell Wolf",
+     "n": "Curtis Armstrong"
+    },
+    {
+     "c": "Rex Newbauer",
+     "n": "Rob Huebel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob Minkoff"
+   ],
+   "genres": [
+    "Mystery",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 62046,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man caught in the middle of two simultaneous robberies at a bank desperately tries to protect the teller with whom he's secretly in love.",
+   "popularity": 2.016,
+   "poster_path": "/uJcxUKIy2GXDODT2pDl0q9XvByq.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-08-19",
+   "revenue": 3142154,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two sets of bank robbers.  One very sticky heist.",
+   "title": "Flypaper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.378,
+   "vote_count": 833
+  },
   "movie:64246": {
    "backdrop_path": "/prs7S1Gp6UL2ByRaZdbmEGNwLOP.jpg",
    "budget": 0,
@@ -5398,6 +6100,114 @@
    "vote_average": 6.359,
    "vote_count": 304
   },
+  "movie:799546": {
+   "backdrop_path": "/iHc14vucwUMl6WuvQa4iPfoEdy9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ani Fanelli",
+     "n": "Mila Kunis"
+    },
+    {
+     "c": "Young Ani",
+     "n": "Chiara Aurelia"
+    },
+    {
+     "c": "Luke Harrison",
+     "n": "Finn Wittrock"
+    },
+    {
+     "c": "Dina",
+     "n": "Connie Britton"
+    },
+    {
+     "c": "Dean Barton",
+     "n": "Alex Barone"
+    },
+    {
+     "c": "Young Dean",
+     "n": "Carson MacCormac"
+    },
+    {
+     "c": "Andrew Larson",
+     "n": "Scoot McNairy"
+    },
+    {
+     "c": "Nell Rutherford",
+     "n": "Justine Lupe"
+    },
+    {
+     "c": "Aaron Wickersham",
+     "n": "Dalmar Abuzeid"
+    },
+    {
+     "c": "Lolo Vincent",
+     "n": "Jennifer Beals"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mike Barker"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 799546,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A successful woman in New York City finds her life upended when she is forced to confront a dark truth that threatens to unravel her meticulously crafted life.",
+   "popularity": 2.7793,
+   "poster_path": "/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-09-30",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Luckiest Girl Alive",
+   "trailer": {
+    "key": "B_XUlbPW-eY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.476,
+   "vote_count": 980
+  },
   "movie:81446": {
    "backdrop_path": "/fynGPtLcobYqBIPTeKIxW8tNvjo.jpg",
    "budget": 4000000,
@@ -5576,6 +6386,116 @@
    "vote_average": 6.0,
    "vote_count": 361
   },
+  "movie:831946": {
+   "backdrop_path": "/i2tcQ9nDJpdJELPA82eCd7Irasd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "JJ Collins",
+     "n": "Elsa Pataky"
+    },
+    {
+     "c": "Alexander Kessel",
+     "n": "Luke Bracey"
+    },
+    {
+     "c": "Beaver Baker",
+     "n": "Aaron Glenane"
+    },
+    {
+     "c": "Ensign Washington",
+     "n": "Belinda Jombwe"
+    },
+    {
+     "c": "Rahul Shah",
+     "n": "Mayen Mehta"
+    },
+    {
+     "c": "Captain Lou Welsh",
+     "n": "Paul Caesar"
+    },
+    {
+     "c": "General Dyson",
+     "n": "Marcus Johnson"
+    },
+    {
+     "c": "Clark Marshall",
+     "n": "Rhys Muldoon"
+    },
+    {
+     "c": "Frank Collins",
+     "n": "Colin Friels"
+    },
+    {
+     "c": "President Wallace",
+     "n": "Zoe Carides"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA15+",
+   "date_kind": "release",
+   "director": [
+    "Matthew Reilly"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 831946,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "A U.S. Army Captain uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent attack threatens her remote missile interceptor station.",
+   "popularity": 3.0597,
+   "poster_path": "/jBKNAfANo4e3rzJtb7aHfYNd7b3.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-05-26",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The world's last defense.",
+   "title": "Interceptor",
+   "trailer": {
+    "key": "OQSoII4Bj1o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.027,
+   "vote_count": 882
+  },
   "movie:8446": {
    "backdrop_path": "/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
    "budget": 0,
@@ -5740,6 +6660,115 @@
    "vote_average": 6.6,
    "vote_count": 333
   },
+  "movie:852046": {
+   "backdrop_path": "/gV31rejG3kVpwH5T7HG8G99eLy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Abdel",
+     "n": "Dali Benssalah"
+    },
+    {
+     "c": "Jérôme",
+     "n": "Anthony Bajon"
+    },
+    {
+     "c": "Sébastien",
+     "n": "Alexis Manenti"
+    },
+    {
+     "c": "Moktar",
+     "n": "Ouassini Embarek"
+    },
+    {
+     "c": "Karim",
+     "n": "Sami Slimane"
+    },
+    {
+     "c": "",
+     "n": "Radostina Rogliano"
+    },
+    {
+     "c": "",
+     "n": "Karim Lasmi"
+    },
+    {
+     "c": "",
+     "n": "Mehdi Abdelhakmi"
+    },
+    {
+     "c": "",
+     "n": "Tarek Haddaji"
+    },
+    {
+     "c": "",
+     "n": "Guy Donald Koukissa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Romain Gavras"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 852046,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Hours after the tragic death of their youngest brother in unexplained circumstances, three siblings have their lives thrown into chaos.",
+   "popularity": 2.0692,
+   "poster_path": "/s8B0GsFEebd0DW2spykLMxnc1Kn.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-09-09",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Athena",
+   "trailer": {
+    "key": "vRunUkdkK8s",
+    "name": "ATHENA directed by Romain Gavras | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.607,
+   "vote_count": 861
+  },
   "movie:866346": {
    "backdrop_path": "/tMi07ApKsBuyHPmbznWnBedWFmf.jpg",
    "budget": 0,
@@ -5877,6 +6906,139 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 358
+  },
+  "movie:937746": {
+   "backdrop_path": "/rniS6AOKTOr5PV7Xok6m7QSzlXg.jpg",
+   "budget": 13272819,
+   "cast": [
+    {
+     "c": "Seydou",
+     "n": "Seydou Sarr"
+    },
+    {
+     "c": "Moussa",
+     "n": "Moustapha Fall"
+    },
+    {
+     "c": "Martin",
+     "n": "Issaka Sawadogo"
+    },
+    {
+     "c": "Ahmed",
+     "n": "Hichem Yacoubi"
+    },
+    {
+     "c": "Charlatan",
+     "n": "Doodou Sagna"
+    },
+    {
+     "c": "Seydou's Mother",
+     "n": "Khady Sy"
+    },
+    {
+     "c": "Seydou's Sister",
+     "n": "Venus Gueye"
+    },
+    {
+     "c": "Sisko",
+     "n": "Cheick Oumar Diaw"
+    },
+    {
+     "c": "Passport Man",
+     "n": "Joe Lassana"
+    },
+    {
+     "c": "Police Officer at Niger Border",
+     "n": "Mamadou Sani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Matteo Garrone"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 937746,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Longing for a brighter future, two Senegalese teenagers embark on a journey from West Africa to Italy. However, between their dreams and reality lies a labyrinth of checkpoints, the Sahara Desert, and the vast waters of the Mediterranean.",
+   "popularity": 2.195,
+   "poster_path": "/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cohen Media Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-09-07",
+   "revenue": 0,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "wo",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Io Capitano",
+   "trailer": {
+    "key": "5Mg_AiPGw-0",
+    "name": "Official US Trailer V2 [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.778,
+   "vote_count": 862
   },
   "movie:946": {
    "backdrop_path": "/7amSQSipxgiQnEejWX6iQonFrZI.jpg",
@@ -6163,6 +7325,128 @@
    "type": "movie",
    "vote_average": 6.063,
    "vote_count": 396
+  },
+  "movie:9846": {
+   "backdrop_path": "/1asVOmgViSEn4yi0EylEdtlL5H9.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Richard Chance",
+     "n": "William L. Petersen"
+    },
+    {
+     "c": "Rick Masters",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "John Vukovich",
+     "n": "John Pankow"
+    },
+    {
+     "c": "Bianca Torres",
+     "n": "Debra Feuer"
+    },
+    {
+     "c": "Carl Cody",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Bob Grimes",
+     "n": "Dean Stockwell"
+    },
+    {
+     "c": "Ruth Lanier",
+     "n": "Darlanne Fluegel"
+    },
+    {
+     "c": "Jim Hart",
+     "n": "Michael Greene"
+    },
+    {
+     "c": "Jeff Rice",
+     "n": "Steve James"
+    },
+    {
+     "c": "Thomas Bateman",
+     "n": "Robert Downey Sr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Friedkin"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Action"
+   ],
+   "id": 9846,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When his longtime partner on the force is killed, reckless U.S. Secret Service agent Richard Chance vows revenge, setting out to nab dangerous counterfeit artist Eric Masters.",
+   "popularity": 3.3422,
+   "poster_path": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-11-01",
+   "revenue": 17307019,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
+   "title": "To Live and Die in L.A.",
+   "trailer": {
+    "key": "BQGB-wufbQU",
+    "name": "Original Trailers",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.119,
+   "vote_count": 864
   },
   "movie:988046": {
    "backdrop_path": "/qg2ar8RD0V543u8T35SxTguGV2W.jpg",

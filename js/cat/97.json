@@ -1,6 +1,6 @@
 {
  "bucket": "97",
- "count": 42,
+ "count": 51,
  "titles": {
   "movie:10397": {
    "backdrop_path": "/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg",
@@ -296,6 +296,103 @@
    "type": "movie",
    "vote_average": 6.679,
    "vote_count": 441
+  },
+  "movie:10497": {
+   "backdrop_path": "/9NwkPVcLBKMrPKU79XinX73HZNa.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Oscar",
+     "n": "Peter Coyote"
+    },
+    {
+     "c": "Mimi",
+     "n": "Emmanuelle Seigner"
+    },
+    {
+     "c": "Nigel",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Fiona",
+     "n": "Kristin Scott Thomas"
+    },
+    {
+     "c": "Mr. Singh",
+     "n": "Victor Banerjee"
+    },
+    {
+     "c": "Amrita Singh",
+     "n": "Sophie Patel"
+    },
+    {
+     "c": "Steward",
+     "n": "Patrick Albenque"
+    },
+    {
+     "c": "Bridge Player",
+     "n": "Smilja Mihailovitch"
+    },
+    {
+     "c": "Bridge Player",
+     "n": "Leo Eckmann"
+    },
+    {
+     "c": "Dado",
+     "n": "Luca Vellani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Romance"
+   ],
+   "id": 10497,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A passenger on a cruise ship develops an irresistible infatuation with an eccentric paraplegic's wife.",
+   "popularity": 4.0857,
+   "poster_path": "/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1992-09-02",
+   "revenue": 1862805,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A kinky voyage with a full head of steam.",
+   "title": "Bitter Moon",
+   "trailer": {
+    "key": "R3EMSHqkbfI",
+    "name": "Bitter Moon - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.093,
+   "vote_count": 908
   },
   "movie:10697": {
    "backdrop_path": "/tcsHNAMeZubqcAEbCQHd41WvEOA.jpg",
@@ -1082,6 +1179,146 @@
    "vote_average": 6.343,
    "vote_count": 334
   },
+  "movie:145197": {
+   "backdrop_path": "/s1DqTGJ96V0Q8YxL9GZVkJi48jZ.jpg",
+   "budget": 100000,
+   "cast": [
+    {
+     "c": "Kris",
+     "n": "Amy Seimetz"
+    },
+    {
+     "c": "Jeff",
+     "n": "Shane Carruth"
+    },
+    {
+     "c": "The Sampler",
+     "n": "Andrew Sensenig"
+    },
+    {
+     "c": "Thief",
+     "n": "Thiago Martins"
+    },
+    {
+     "c": "Wife",
+     "n": "Carolyn King"
+    },
+    {
+     "c": "Maggie",
+     "n": "Mollie Milligan"
+    },
+    {
+     "c": "Monty",
+     "n": "Myles McGee"
+    },
+    {
+     "c": "Lucas",
+     "n": "Ashton Miramontes"
+    },
+    {
+     "c": "Peter",
+     "n": "Andreon Watson"
+    },
+    {
+     "c": "Husband",
+     "n": "Frank Mosley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Shane Carruth"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 145197,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man and woman are drawn together, entangled in the lifecycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+   "popularity": 1.07,
+   "poster_path": "/2T0HNGYXAWc9wqvY130UwLg6Ty7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-08-09",
+   "revenue": 444098,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can force your story's shape, but the color will always bloom upstream.",
+   "title": "Upstream Color",
+   "trailer": {
+    "key": "5U9KmAlrEXU",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.337,
+   "vote_count": 842
+  },
   "movie:1550797": {
    "backdrop_path": "/tombkp3ir9tmm5v9QLnHaDZCWa7.jpg",
    "budget": 0,
@@ -1652,6 +1889,107 @@
    "vote_average": 7.2,
    "vote_count": 430
   },
+  "movie:1997": {
+   "backdrop_path": "/3pZP6t6DV3bsE9AtACZNMnullB2.jpg",
+   "budget": 74500000,
+   "cast": [
+    {
+     "c": "Aidan McRory",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Eugène Normandin",
+     "n": "Jean-Claude Dreyfus"
+    },
+    {
+     "c": "Raoul Normandin",
+     "n": "Freddie Highmore"
+    },
+    {
+     "c": "Mathilde Normandin",
+     "n": "Philippine Leroy-Beaulieu"
+    },
+    {
+     "c": "Saladin",
+     "n": "Moussa Maaskri"
+    },
+    {
+     "c": "Zerbino",
+     "n": "Vincent Scarito"
+    },
+    {
+     "c": "Naï-Rea",
+     "n": "Maï Anh Le"
+    },
+    {
+     "c": "Village Chief",
+     "n": "Jaran Petcharoen"
+    },
+    {
+     "c": "His Excellency",
+     "n": "Oanh Nguyen"
+    },
+    {
+     "c": "Paulette",
+     "n": "Stéphanie Lagarde"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jean-Jacques Annaud"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "id": 1997,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Two tigers are separated as cubs and taken into captivity, only to be reunited years later as enemies by an explorer (Pearce) who inadvertently forces them to fight each other.",
+   "popularity": 2.0429,
+   "poster_path": "/5I2pRuJI3SZVsxP5iaorGaczzkI.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-04-07",
+   "revenue": 62172050,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "Two infant tiger cubs, separated from their parents and each other.",
+   "title": "Two Brothers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.156,
+   "vote_count": 916
+  },
   "movie:19997": {
    "backdrop_path": "/ctUWlPJ0jLYkwyXjvofdQjtRdgu.jpg",
    "budget": 1250000,
@@ -2025,6 +2363,113 @@
    "vote_average": 6.6,
    "vote_count": 334
   },
+  "movie:30197": {
+   "backdrop_path": "/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg",
+   "budget": 947000,
+   "cast": [
+    {
+     "c": "Max Bialystock",
+     "n": "Zero Mostel"
+    },
+    {
+     "c": "Leo Bloom",
+     "n": "Gene Wilder"
+    },
+    {
+     "c": "Lorenzo St. DuBois (L.S.D.)",
+     "n": "Dick Shawn"
+    },
+    {
+     "c": "Franz Liebkind",
+     "n": "Kenneth Mars"
+    },
+    {
+     "c": "\"Hold Me Touch Me\"",
+     "n": "Estelle Winwood"
+    },
+    {
+     "c": "Roger De Bris",
+     "n": "Christopher Hewett"
+    },
+    {
+     "c": "Carmen Ghia",
+     "n": "Andréas Voutsinas"
+    },
+    {
+     "c": "Ulla",
+     "n": "Lee Meredith"
+    },
+    {
+     "c": "Eva Braun",
+     "n": "Renée Taylor"
+    },
+    {
+     "c": "Production Tenor",
+     "n": "Michael Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mel Brooks"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 30197,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A conniving Broadway producer and his meek accountant plan to profit from charming wealthy old biddies to invest in an overbudget production, and then put on a sure-fire disaster, so nobody will ask for their money back — and what's more disastrous than a tasteless musical celebrating Adolf Hitler.",
+   "popularity": 2.6188,
+   "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1968-11-10",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hollywood Never Faced a Zanier Zero Hour!",
+   "title": "The Producers",
+   "trailer": {
+    "key": "Lt19Wna_sG4",
+    "name": "THE PRODUCERS - Newly restored in 4K - Dir. by Mel Brooks and starring Gene Wilder",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 958
+  },
   "movie:36897": {
    "backdrop_path": "/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
    "budget": 0,
@@ -2273,6 +2718,286 @@
    "vote_average": 6.99,
    "vote_count": 437
   },
+  "movie:382597": {
+   "backdrop_path": "/tQn6HwyzGCDCrgfq6fTExnTJptu.jpg",
+   "budget": 32400000,
+   "cast": [
+    {
+     "c": "Johanna Pasquali",
+     "n": "Alice Pol"
+    },
+    {
+     "c": "Eugène Froissard",
+     "n": "Dany Boon"
+    },
+    {
+     "c": "Jacques Pasquali",
+     "n": "Michel Blanc"
+    },
+    {
+     "c": "Viktor",
+     "n": "Yvan Attal"
+    },
+    {
+     "c": "Marie-Caroline Dubarry",
+     "n": "Sabine Azéma"
+    },
+    {
+     "c": "Edouard Dubarry",
+     "n": "Patrick Mille"
+    },
+    {
+     "c": "Patrick Legrand",
+     "n": "François Levantal"
+    },
+    {
+     "c": "Olivier Lopez",
+     "n": "Florent Peyre"
+    },
+    {
+     "c": "La psychologue du Raid",
+     "n": "Anne Marivin"
+    },
+    {
+     "c": "Bernard Dubarry",
+     "n": "Alain Doutey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Dany Boon"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 382597,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "The story of a woman who dreams to join an intervention group in the police department called RAID. Unfortunately, she is rather clumsy and both her family (and soon to be family-in-law) and a veteran of the RAID do not approve. However, Johanna is determined to prove them wrong.",
+   "popularity": 2.1551,
+   "poster_path": "/2RQoRqtsQ9pZpcg7Hcb5fa5eCNx.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-02-01",
+   "revenue": 34598750,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "R.A.I.D. Special Unit",
+   "trailer": {
+    "key": "6alxVThn4vg",
+    "name": "R.A.I.D SPECIAL UNIT official Indonesia Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.735,
+   "vote_count": 966
+  },
+  "movie:397": {
+   "backdrop_path": "/nZbIezWkPHVR2WLkdGqiR5Cy5do.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kate",
+     "n": "Meg Ryan"
+    },
+    {
+     "c": "Luc Teyssier",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Charlie",
+     "n": "Timothy Hutton"
+    },
+    {
+     "c": "Inspector Jean-Paul Cardon",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Bob",
+     "n": "François Cluzet"
+    },
+    {
+     "c": "Juliette",
+     "n": "Suzan Anbeh"
+    },
+    {
+     "c": "Lilly",
+     "n": "Renée Humphrey"
+    },
+    {
+     "c": "M. Campbell",
+     "n": "Michael Riley"
+    },
+    {
+     "c": "Concierge",
+     "n": "Laurent Spielvogel"
+    },
+    {
+     "c": "Octave",
+     "n": "Victor Garrivier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lawrence Kasdan"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 397,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her fiancee admits to infidelity while on a business trip in France, a woman attempts to get her lover back and marry him by traveling to Paris despite her crippling fear of flying.  On the way she unwittingly smuggles something of value that has a charming crook chasing her across France as she chases after her future husband.",
+   "popularity": 2.8267,
+   "poster_path": "/q5hXdMfxSwhuOmWmkTJmm5qVijc.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-05-05",
+   "revenue": 101982854,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Kate's stuck in a place where anything can happen with a guy who'll make sure that it does.",
+   "title": "French Kiss",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.49,
+   "vote_count": 833
+  },
   "movie:4997": {
    "backdrop_path": "/jvgbITybzUZN6upjadXa644cwMD.jpg",
    "budget": 5000000,
@@ -2494,6 +3219,394 @@
    "type": "movie",
    "vote_average": 7.392,
    "vote_count": 360
+  },
+  "movie:567797": {
+   "backdrop_path": "/sGIfwDYvfU0h1G7pGWEhdEi9hT2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aaron Falk",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Gretchen Schoner",
+     "n": "Genevieve O'Reilly"
+    },
+    {
+     "c": "Greg Raco",
+     "n": "Keir O'Donnell"
+    },
+    {
+     "c": "Scott Whitlam",
+     "n": "John Polson"
+    },
+    {
+     "c": "Grant Dow",
+     "n": "Matt Nable"
+    },
+    {
+     "c": "McMurdo",
+     "n": "Eddie Baroo"
+    },
+    {
+     "c": "Luke Hadler",
+     "n": "Martin Dingle Wall"
+    },
+    {
+     "c": "Barb Hadler",
+     "n": "Julia Blake"
+    },
+    {
+     "c": "Gerry Hadler",
+     "n": "Bruce Spence"
+    },
+    {
+     "c": "Ellie Deacon",
+     "n": "BeBe Bettencourt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Connolly"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 567797,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Aaron Falk returns to his drought-stricken hometown to attend a tragic funeral. But his return opens a decades-old wound - the unsolved death of a teenage girl.",
+   "popularity": 1.945,
+   "poster_path": "/zM12bfL2TEqVRXjiQIFUWUMLcCg.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-01-01",
+   "revenue": 15576286,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Where the truth lies.",
+   "title": "The Dry",
+   "trailer": {
+    "key": "WS091OoMtuk",
+    "name": "The Dry - Official Trailer ft. Eric Bana | HD | IFC Films",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.753,
+   "vote_count": 894
+  },
+  "movie:63197": {
+   "backdrop_path": "/hGTK2dnm1vXYpr26QGWjXIVpI9l.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amy Herman",
+     "n": "Amber Perkins"
+    },
+    {
+     "c": "Megan Stewart",
+     "n": "Rachel Quinn"
+    },
+    {
+     "c": "Josh",
+     "n": "Dean Waite"
+    },
+    {
+     "c": "Lexie",
+     "n": "Jael Elizabeth Steinmeyer"
+    },
+    {
+     "c": "Kathy",
+     "n": "Kara Wang"
+    },
+    {
+     "c": "Chelsea",
+     "n": "Brittany Hingle"
+    },
+    {
+     "c": "Angie",
+     "n": "Carolina Sabate"
+    },
+    {
+     "c": "Gideon",
+     "n": "Trigve Hagen"
+    },
+    {
+     "c": "Ben",
+     "n": "Rudy Galvan"
+    },
+    {
+     "c": "Joyce Stewart",
+     "n": "April Stewart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Michael Goi"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 63197,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fourteen-year–old Megan and her best friend Amy spend a lot of time on the internet, posting videos of themselves and chatting with guys online. One night Megan chats with a guy named Josh who convinces her to meet him for a date. The next day, Megan is missing—forever. Based on actual cases of child abduction.",
+   "popularity": 3.3248,
+   "poster_path": "/lDmIqn0HJDjQJZDZaofuyaAnw2X.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-05-01",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Megan and Amy are best friends. They share secrets. They chat with guys online. And in a few days, they will never be seen again.",
+   "title": "Megan Is Missing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 891
   },
   "movie:735697": {
    "backdrop_path": "/1bBq4sVRqqdVIlg1rTF76rgOYU0.jpg",
@@ -2766,6 +3879,114 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 438
+  },
+  "movie:833097": {
+   "backdrop_path": "/iVtpnbPE91vmi3LmcOXycEblwPA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sierra Belmont",
+     "n": "Lindsay Lohan"
+    },
+    {
+     "c": "Jake Russell",
+     "n": "Chord Overstreet"
+    },
+    {
+     "c": "Tad Fairchild",
+     "n": "George Young"
+    },
+    {
+     "c": "Beauregard Belmont",
+     "n": "Jack Wagner"
+    },
+    {
+     "c": "Avy",
+     "n": "Olivia Perez"
+    },
+    {
+     "c": "Alejandra Carlisle",
+     "n": "Alejandra Flores"
+    },
+    {
+     "c": "Ralph",
+     "n": "Sean J. Dillingham"
+    },
+    {
+     "c": "Chestnut Vendor",
+     "n": "Bus Riley"
+    },
+    {
+     "c": "Bianca",
+     "n": "Aliana Lohan"
+    },
+    {
+     "c": "Heather",
+     "n": "Kate Rachesky"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Janeen Damian"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Family"
+   ],
+   "id": 833097,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An engaged, spoiled hotel heiress finds herself in the care of a handsome, blue-collar lodge owner and his precocious daughter after getting amnesia in a skiing accident.",
+   "popularity": 3.3081,
+   "poster_path": "/zgtkXLJagDMlW4iXTCojL5guDeu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-11-10",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This holiday season, fall for the unexpected.",
+   "title": "Falling for Christmas",
+   "trailer": {
+    "key": "bsNIJd45jYM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.192,
+   "vote_count": 910
   },
   "movie:897": {
    "backdrop_path": "/qDEZmaaAGhEso6kvB5kk1CROPwG.jpg",

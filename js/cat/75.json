@@ -1,6 +1,6 @@
 {
  "bucket": "75",
- "count": 48,
+ "count": 56,
  "titles": {
   "movie:1000075": {
    "backdrop_path": "/gqlsgPgxXgWTJsta183hkg3szjW.jpg",
@@ -419,6 +419,116 @@
    "vote_average": 6.466,
    "vote_count": 305
   },
+  "movie:1075": {
+   "backdrop_path": "/vx5Mla7OfNzibnVat2HQuqGrUkc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matko Destanov",
+     "n": "Bajram Severdžan"
+    },
+    {
+     "c": "Dadan Karambolo",
+     "n": "Srđan 'Žika' Todorović"
+    },
+    {
+     "c": "Zarije Destanov",
+     "n": "Zabit Memedov"
+    },
+    {
+     "c": "Zare Destanov",
+     "n": "Florijan Ajdini"
+    },
+    {
+     "c": "Ida Batok",
+     "n": "Branka Katić"
+    },
+    {
+     "c": "Šujka Batok",
+     "n": "Ljubica Adžović"
+    },
+    {
+     "c": "Grga Pitić",
+     "n": "Sabri Sulejmani"
+    },
+    {
+     "c": "Afrodita \"Ladybird\" Karambolo",
+     "n": "Salija Ibraimova"
+    },
+    {
+     "c": "Priest",
+     "n": "Predrag Laković"
+    },
+    {
+     "c": "Second Priest / Show Host",
+     "n": "Predrag 'Miki' Manojlović"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Emir Kusturica"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Crime"
+   ],
+   "id": 1075,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "DE",
+    "YU"
+   ],
+   "original_language": "sr",
+   "overview": "A small-time hustler makes a deal with a notorious gangster to whom he owes money: marry his teenage son to the latter's daughter. However, the young lovers are not as agreeable.",
+   "popularity": 3.3143,
+   "poster_path": "/xxQ9jgYf3xhbUTW98VtCjA1wMLv.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "YU",
+    "CS"
+   ],
+   "providers": [
+    {
+     "name": "Klassiki"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/fy6GVs6ZtKluakv0Z5nuLesmTqx.png",
+     "name": "Pijama Films",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-06-01",
+   "revenue": 353734,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "bg",
+    "sr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Black Cat, White Cat",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.63,
+   "vote_count": 866
+  },
   "movie:10875": {
    "backdrop_path": "/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
    "budget": 13000000,
@@ -826,6 +936,131 @@
    "vote_average": 7.095,
    "vote_count": 404
   },
+  "movie:119675": {
+   "backdrop_path": "/47hvNE7yCYoc2NObbjl7bS9jnIA.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Liberace",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Scott Thorson",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Seymour Heller",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Bob Black",
+     "n": "Scott Bakula"
+    },
+    {
+     "c": "Dr. Jack Startz",
+     "n": "Rob Lowe"
+    },
+    {
+     "c": "Ray Arnett",
+     "n": "Tom Papa"
+    },
+    {
+     "c": "Mr. Felder",
+     "n": "Paul Reiser"
+    },
+    {
+     "c": "Carlucci",
+     "n": "Bruce Ramsay"
+    },
+    {
+     "c": "Mr. Y",
+     "n": "Nicky Katt"
+    },
+    {
+     "c": "Billy Leatherwood",
+     "n": "Cheyenne Jackson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 119675,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the autobiographical novel, the tempestuous 6-year relationship between Liberace and his (much younger) lover, Scott Thorson, is recounted.",
+   "popularity": 2.4371,
+   "poster_path": "/iodt6hrewVXxR415PIjBeuZg3Qs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sundance Now Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-05-26",
+   "revenue": 15600000,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Too much of a good thing is wonderful.",
+   "title": "Behind the Candelabra",
+   "trailer": {
+    "key": "IeqViWgc7QE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.593,
+   "vote_count": 866
+  },
   "movie:120475": {
    "backdrop_path": "/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
    "budget": 0,
@@ -915,6 +1150,169 @@
    "type": "movie",
    "vote_average": 7.168,
    "vote_count": 471
+  },
+  "movie:121875": {
+   "backdrop_path": "/rSlu3MWZzOVBy6e6UEw9mPLMzUO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Germain",
+     "n": "Fabrice Luchini"
+    },
+    {
+     "c": "Claude",
+     "n": "Ernst Umhauer"
+    },
+    {
+     "c": "Jeanne",
+     "n": "Kristin Scott Thomas"
+    },
+    {
+     "c": "Esther",
+     "n": "Emmanuelle Seigner"
+    },
+    {
+     "c": "Rapha fils",
+     "n": "Bastien Ughetto"
+    },
+    {
+     "c": "Rapha père",
+     "n": "Denis Ménochet"
+    },
+    {
+     "c": "Le proviseur",
+     "n": "Jean-François Balmer"
+    },
+    {
+     "c": "Client de la galerie",
+     "n": "Fabrice Colson"
+    },
+    {
+     "c": "Les jumelles Rosalie et Eugénie",
+     "n": "Yolande Moreau"
+    },
+    {
+     "c": "Anouk - la secrétaire",
+     "n": "Catherine Davenier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "François Ozon"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 121875,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A sixteen-year-old boy insinuates himself into the house of a fellow student from his literature class and writes about it in essays for his French teacher. Faced with this gifted and unusual pupil, the teacher rediscovers his enthusiasm for his work, but the boy’s intrusion will unleash a series of uncontrollable events.",
+   "popularity": 3.1947,
+   "poster_path": "/6NCBSCCcyef9aNcABsVGZwuehSC.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-09-26",
+   "revenue": 11879046,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "There’s always a way to get in.",
+   "title": "In the House",
+   "trailer": {
+    "key": "oxbWP_oYLGQ",
+    "name": "In the House / Dans la maison (2012) - Trailer English Subs",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.236,
+   "vote_count": 950
   },
   "movie:1255775": {
    "backdrop_path": "/3MphYnIcLOqy5oVkDTZUiaGfPtN.jpg",
@@ -2355,6 +2753,170 @@
    "vote_average": 8.4,
    "vote_count": 61
   },
+  "movie:174675": {
+   "backdrop_path": "/A4s2K7dunF1IhtapkZnK1OmsrDT.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Ava",
+     "n": "Caity Lotz"
+    },
+    {
+     "c": "Vincent McCarthy",
+     "n": "Toby Stephens"
+    },
+    {
+     "c": "Thomson",
+     "n": "Denis Lawson"
+    },
+    {
+     "c": "James",
+     "n": "Sam Hazeldine"
+    },
+    {
+     "c": "Suri",
+     "n": "Pooneh Hajimohammadi"
+    },
+    {
+     "c": "Tim",
+     "n": "Jonathan Byrne"
+    },
+    {
+     "c": "Mary",
+     "n": "Jade Croot"
+    },
+    {
+     "c": "Paul Dawson (as John Paul Macleod)",
+     "n": "John-Paul Macleod"
+    },
+    {
+     "c": "Paul Dawson's Mother",
+     "n": "Helen Griffin"
+    },
+    {
+     "c": "Lucy",
+     "n": "Siwan Morris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Caradog W. James"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 174675,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Already deep into a second Cold War, Britain’s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.",
+   "popularity": 2.3697,
+   "poster_path": "/nNHAZaTrFVOjwLhkMYm4syUjNw8.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "XLTV Amazon Channel "
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/fMBOrMu7vdw0ktNmakRp746bf3y.png",
+     "name": "XLTV Amazon Channel ",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-04-25",
+   "revenue": 314131,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They rise. We fall.",
+   "title": "The Machine",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.899,
+   "vote_count": 913
+  },
   "movie:1759875": {
    "backdrop_path": "/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
    "budget": 0,
@@ -2814,6 +3376,158 @@
    "type": "movie",
    "vote_average": 5.1,
    "vote_count": 302
+  },
+  "movie:245775": {
+   "backdrop_path": "/pzsd4yHmasqvdnJwmqQboosiGwV.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Yves Saint Laurent",
+     "n": "Pierre Niney"
+    },
+    {
+     "c": "Pierre Bergé",
+     "n": "Guillaume Gallienne"
+    },
+    {
+     "c": "Karl Lagerfeld",
+     "n": "Nikolai Kinski"
+    },
+    {
+     "c": "Victoire Doutreleau",
+     "n": "Charlotte Le Bon"
+    },
+    {
+     "c": "Jacques De Bascher",
+     "n": "Xavier Lafitte"
+    },
+    {
+     "c": "Loulou de la Falaise",
+     "n": "Laura Smet"
+    },
+    {
+     "c": "Betty Catroux",
+     "n": "Marie de Villepin"
+    },
+    {
+     "c": "Fernando Sanchez",
+     "n": "Ruben Alves"
+    },
+    {
+     "c": "Yvonne de Peyerimhoff",
+     "n": "Astrid Whettnall"
+    },
+    {
+     "c": "Lucienne Saint Laurent",
+     "n": "Marianne Basler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jalil Lespert"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 245775,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A look at the life of French designer Yves Saint Laurent from the beginning of his career in 1958 when he met his lover and business partner, Pierre Berge.",
+   "popularity": 1.1423,
+   "poster_path": "/vEepuUvERKdHfUyys1XYbHoERE7.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-01-08",
+   "revenue": 21026290,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "fr",
+    "ru",
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Fashions fade. Style is forever.",
+   "title": "Yves Saint Laurent",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.616,
+   "vote_count": 942
   },
   "movie:27275": {
    "backdrop_path": "/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
@@ -4162,6 +4876,140 @@
    "vote_average": 7.3,
    "vote_count": 314
   },
+  "movie:5375": {
+   "backdrop_path": "/nf9Y9KtrSFqUz3gNbsrgmFJV1S4.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Fred Claus",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Nick (Santa) Claus",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Willie",
+     "n": "John Michael Higgins"
+    },
+    {
+     "c": "Annette Claus",
+     "n": "Miranda Richardson"
+    },
+    {
+     "c": "Wanda Blinkowski",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Mother Claus",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Papa Claus",
+     "n": "Trevor Peacock"
+    },
+    {
+     "c": "DJ Donnie",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Charlene",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "Bob Elf",
+     "n": "Jeremy Swift"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Dobkin"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 5375,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fred Claus and Santa Claus have been estranged brothers for many years. Now Fred must reconcile his differences with his brother whom he believes overshadows him. When an efficiency expert assesses the workings at the North Pole and threatens to shut Santa down, Fred must help his brother to save Christmas.",
+   "popularity": 3.7073,
+   "poster_path": "/9gATbvoRMxVeoHInwS8nR0KZMVc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-11-09",
+   "revenue": 97800000,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everybody has that one relative who can't help but cause problems over the holidays. Even Santa.",
+   "title": "Fred Claus",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.86,
+   "vote_count": 949
+  },
   "movie:714375": {
    "backdrop_path": "/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
    "budget": 0,
@@ -4268,6 +5116,166 @@
    "type": "movie",
    "vote_average": 5.699,
    "vote_count": 319
+  },
+  "movie:759175": {
+   "backdrop_path": "/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Princess",
+     "n": "Joey King"
+    },
+    {
+     "c": "Julius",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Moira",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Linh",
+     "n": "Veronica Ngô"
+    },
+    {
+     "c": "The Queen",
+     "n": "Alex Reid"
+    },
+    {
+     "c": "The King",
+     "n": "Ed Stoppard"
+    },
+    {
+     "c": "Merc Leader",
+     "n": "Antoni Davidov"
+    },
+    {
+     "c": "Merc Brute",
+     "n": "Radoslav Parvanov"
+    },
+    {
+     "c": "Merc #3",
+     "n": "Liudmil Kehaiov"
+    },
+    {
+     "c": "Violet",
+     "n": "Katelyn Rose Downey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Le Van Kiet"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "id": 759175,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+   "popularity": 2.8895,
+   "poster_path": "/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-06-16",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bow to no one.",
+   "title": "The Princess",
+   "trailer": {
+    "key": "6kFCkfdOfMU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.768,
+   "vote_count": 887
   },
   "movie:773975": {
    "backdrop_path": "/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
@@ -4491,6 +5499,125 @@
    "type": "movie",
    "vote_average": 6.882,
    "vote_count": 321
+  },
+  "movie:8975": {
+   "backdrop_path": "/mGT2XVE9MjSkGeTAw3VQFwECBYZ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "John Triton",
+     "n": "John Cena"
+    },
+    {
+     "c": "Rome",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Kate Triton",
+     "n": "Kelly Carlson"
+    },
+    {
+     "c": "Morgan",
+     "n": "Anthony Ray Parker"
+    },
+    {
+     "c": "Angela",
+     "n": "Abigail Bianca"
+    },
+    {
+     "c": "Van Buren",
+     "n": "Jerome Ehlers"
+    },
+    {
+     "c": "Bennett",
+     "n": "Manu Bennett"
+    },
+    {
+     "c": "Vescera",
+     "n": "Damon Gibson"
+    },
+    {
+     "c": "Joe",
+     "n": "Drew Powell"
+    },
+    {
+     "c": "Frank",
+     "n": "Frank Carlopio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Bonito"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 8975,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of diamond thieves on the run kidnap the wife of a recently discharged marine who goes on a chase through the South Carolinian wilderness to retrieve her.",
+   "popularity": 2.6793,
+   "poster_path": "/pONyvBJwHNg5CWu7mtsv4qaq75C.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-10-13",
+   "revenue": 22165608,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "They took his wife. Now he's coming.",
+   "title": "The Marine",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.987,
+   "vote_count": 879
   },
   "movie:9275": {
    "backdrop_path": "/xse1f9OR0PVByGnTChplzUgYz7t.jpg",

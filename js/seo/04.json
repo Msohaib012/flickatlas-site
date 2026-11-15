@@ -1,7 +1,70 @@
 {
  "bucket": "04",
- "count": 63,
+ "count": 71,
  "titles": {
+  "movie:10404": {
+   "d": "Raise the Red Lantern (1991): Drama film. Story: In 1920s China, 19-year-old Songlian becomes a… See cast, budget $1M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+   "industry": "world",
+   "k": "Raise the Red Lantern, Raise the Red Lantern movie, Raise the Red Lantern cast, Raise the Red Lantern story, Raise the Red Lantern box office collection, Raise the Red Lantern budget, Raise the Red Lantern review, Raise the Red Lantern rating, Raise the Red Lantern release date, Raise the Red Lantern trailer, Raise the Red Lantern Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gong Li"
+     },
+     {
+      "@type": "Person",
+      "name": "He Saifei"
+     },
+     {
+      "@type": "Person",
+      "name": "Cao Cuifen"
+     },
+     {
+      "@type": "Person",
+      "name": "Kong Lin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jin Shuyuan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 892,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Raise the Red Lantern (1991): Drama film. Story: In 1920s China, 19-year-old Songlian becomes a… See cast, budget $1M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zhang Yimou"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10404",
+    "name": "Raise the Red Lantern",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-10-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10404"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Raise the Red Lantern (1991)</h1>\n<p class=\"ssr-lead\">In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 October 1991</li><li>Runtime: 125 minutes</li><li>Director: Zhang Yimou</li><li>Genres: Drama</li><li>Budget: $1M</li><li>TMDB rating: 8.0/10 (892 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gong Li as Songlian</li><li>He Saifei as Meishan</li><li>Cao Cuifen as Zhuoyun</li><li>Kong Lin as Yan&#x27;er</li><li>Jin Shuyuan as Yuru</li><li>Ma Jingwu as Chen Zuoqian</li><li>Cui Zhigang as Doctor Gao</li><li>Zhao Qi as Housekeeper</li><li>Chu Xiao as Feipu</li><li>Cao Zengyin as Old Servant</li></ul>\n</article>",
+   "t": "Raise the Red Lantern (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:10604": {
    "d": "Zorba the Greek (1964): Drama film. Story: An uptight English writer traveling to Crete on a… See cast, budget $783.0k, and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
@@ -190,6 +253,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Feed (2026)</h1>\n<p class=\"ssr-lead\">Five social media influencers spend a weekend at a forest retreat but inadvertently awaken and confront the world&#x27;s first vampire.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2026</li><li>Runtime: 82 minutes</li><li>Director: Marco van Belle</li><li>Genres: Horror</li><li>TMDB rating: 6.6/10 (37 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Grace Collender as Orla Ryan</li><li>Rhys Mannion as Austin</li><li>Molly McCann as Ciara Ryan</li><li>Charlotte Bradley as Nora</li><li>Flynn Gray as Cathal</li><li>Daisy Jelley as Nessa</li><li>Clinton Liberty as Lorcan</li><li>Niamh Hogan as Dearg Due</li><li>Noella Brennan as Fiona Ryan</li><li>Dominic Wright as Gareth Ryan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Feed (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:11704": {
+   "d": "The Secret of NIMH (1982): Adventure/Animation film. Story: A widowed field mouse must move her family… See cast, budget $7M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zhw2gjDMedftoaoPeQYertgTAo2.jpg",
+   "industry": "world",
+   "k": "The Secret of NIMH, The Secret of NIMH movie, The Secret of NIMH cast, The Secret of NIMH story, The Secret of NIMH box office collection, The Secret of NIMH budget, The Secret of NIMH review, The Secret of NIMH rating, The Secret of NIMH release date, The Secret of NIMH trailer, The Secret of NIMH Adventure, The Secret of NIMH Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elizabeth Hartman"
+     },
+     {
+      "@type": "Person",
+      "name": "Derek Jacobi"
+     },
+     {
+      "@type": "Person",
+      "name": "Arthur Malet"
+     },
+     {
+      "@type": "Person",
+      "name": "Dom DeLuise"
+     },
+     {
+      "@type": "Person",
+      "name": "Hermione Baddeley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 996,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Secret of NIMH (1982): Adventure/Animation film. Story: A widowed field mouse must move her family… See cast, budget $7M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Don Bluth"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zhw2gjDMedftoaoPeQYertgTAo2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11704",
+    "name": "The Secret of NIMH",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-06-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11704"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Secret of NIMH (1982)</h1>\n<p class=\"ssr-lead\">A widowed field mouse must move her family -- including an ailing son -- to escape a farmer&#x27;s plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 June 1982</li><li>Runtime: 83 minutes</li><li>Director: Don Bluth</li><li>Genres: Adventure, Animation, Family, Fantasy, Mystery, Science Fiction</li><li>Budget: $7M</li><li>TMDB rating: 7.4/10 (996 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elizabeth Hartman as Mrs. Brisby (voice)</li><li>Derek Jacobi as Nicodemus (voice)</li><li>Arthur Malet as Mr. Ages (voice)</li><li>Dom DeLuise as Jeremy (voice)</li><li>Hermione Baddeley as Auntie Shrew (voice)</li><li>Shannen Doherty as Teresa (voice)</li><li>Wil Wheaton as Martin (voice)</li><li>Jodi Hicks as Cynthia (voice)</li><li>Ina Fried as Timothy (voice)</li><li>John Carradine as Great Owl (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Secret of NIMH (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
+  },
+  "movie:11804": {
+   "d": "White Noise (2005): Drama/Horror film. Story: An architect's desire to speak with his wife from… See cast, budget $10M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/71X982Z2hHTRSc2Ez70cpgeGuVu.jpg",
+   "industry": "world",
+   "k": "White Noise, White Noise movie, White Noise cast, White Noise story, White Noise box office collection, White Noise budget, White Noise review, White Noise rating, White Noise release date, White Noise Drama, White Noise Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Deborah Kara Unger"
+     },
+     {
+      "@type": "Person",
+      "name": "Chandra West"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McNeice"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Strange"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 919,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "White Noise (2005): Drama/Horror film. Story: An architect's desire to speak with his wife from… See cast, budget $10M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Geoffrey Sax"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/71X982Z2hHTRSc2Ez70cpgeGuVu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11804",
+    "name": "White Noise",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-01-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11804"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>White Noise (2005)</h1>\n<p class=\"ssr-lead\">An architect&#x27;s desire to speak with his wife from beyond the grave using EVP (Electronic Voice Phenomenon), becomes an obsession with supernatural repercussions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 January 2005</li><li>Runtime: 98 minutes</li><li>Director: Geoffrey Sax</li><li>Genres: Drama, Horror, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 5.6/10 (919 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Keaton as Jonathan Rivers</li><li>Deborah Kara Unger as Sarah Tate</li><li>Chandra West as Anna Rivers</li><li>Ian McNeice as Raymond Price</li><li>Sarah Strange as Jane</li><li>Nicholas Elia as Mike Rivers</li><li>Mike Dopud as Detective Smits</li><li>Marsha Regis as Police Woman</li><li>Brad Sihvon as Minister</li><li>Mitchell Kosterman as Work Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "White Noise (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "movie:1235304": {
    "d": "Colours of Time (2025): History/Drama film. Story: When four distant cousins inherit a 19th-century home… See cast and TMDB rating 7.3/10.",
@@ -381,6 +572,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>53 Sundays (2026)</h1>\n<p class=\"ssr-lead\">When three siblings agree to meet and discuss their aging father&#x27;s future, their reunion spirals into bickering, bantering and reliving old grudges.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2026</li><li>Runtime: 78 minutes</li><li>Director: Cesc Gay</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 5.9/10 (86 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Javier Cámara as Julián</li><li>Carmen Machi as Natalia</li><li>Javier Gutiérrez as Víctor</li><li>Alexandra Jiménez as Carol</li><li>Ricardo Lacámara as Padre</li><li>Rosa Vivas as Marisa</li><li>Carla Soto as Hija 1 Víctor</li><li>Leyre Soto as Hija 2 Víctor</li><li>Pedro Miguel Martínez as Suegro Víctor</li><li>Antonio Márquez as Marido Natalia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "53 Sundays (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13004": {
+   "d": "Barbie and the Diamond Castle (2008): Animation/Family film. Story: Liana and Alexa are best friends who share… See cast and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qhc9m6lg6ia8fKk7Y1mxFntjYYv.jpg",
+   "industry": "world",
+   "k": "Barbie and the Diamond Castle, Barbie and the Diamond Castle movie, Barbie and the Diamond Castle cast, Barbie and the Diamond Castle story, Barbie and the Diamond Castle box office collection, Barbie and the Diamond Castle budget, Barbie and the Diamond Castle review, Barbie and the Diamond Castle rating, Barbie and the Diamond Castle release date, Barbie and the Diamond Castle Animation, Barbie and the Diamond Castle Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Melissa Lyons"
+     },
+     {
+      "@type": "Person",
+      "name": "Maryke Hendrikse"
+     },
+     {
+      "@type": "Person",
+      "name": "Cassidy Ladden"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Oliver"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 904,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Barbie and the Diamond Castle (2008): Animation/Family film. Story: Liana and Alexa are best friends who share… See cast and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gino Nichele"
+     }
+    ],
+    "duration": "PT78M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qhc9m6lg6ia8fKk7Y1mxFntjYYv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13004",
+    "name": "Barbie and the Diamond Castle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-09-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13004"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie and the Diamond Castle (2008)</h1>\n<p class=\"ssr-lead\">Liana and Alexa are best friends who share everything, including their love of singing. Upon meeting a girl inside a mirror, the duo embark on a journey that will put their friendship to the ultimate test.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2008</li><li>Runtime: 78 minutes</li><li>Director: Gino Nichele</li><li>Genres: Animation, Family</li><li>TMDB rating: 7.5/10 (904 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Barbie Roberts / Liana (voice)</li><li>Melissa Lyons as Barbie Roberts / Liana (singing voice)</li><li>Maryke Hendrikse as Melody (voice)</li><li>Cassidy Ladden as Teresa Rivera / Alexa (voice)</li><li>Nicole Oliver as Dori / Maid (voice)</li><li>Chantal Strand as Stacie Roberts (voice)</li><li>Kathleen Barr as Lydia (voice)</li><li>Veena Sood as Sparkles / Lily (voice)</li><li>Lara Janine as Melody (singing voice)</li><li>Heather Doerksen as Phaedra / Waitress (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Barbie and the Diamond Castle (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1302904": {
    "d": "Practical Magic 2 (2026): Romance/Fantasy film. Story: The Owens sisters must confront the dark curse that… See cast, budget $75M, and TMDB rating 7.2/10.",
@@ -896,6 +1151,69 @@
    "t": "A Brighter Summer Day (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:16804": {
+   "d": "Departures (2008): Drama film. Story: Daigo, a cellist, is laid off from his orchestra and… See cast, TMDB rating 7.9/10, and release date 13 September 2008.",
+   "img": "https://image.tmdb.org/t/p/w780/AoWW2J4PoDe0IPuCVQOk50QFS4D.jpg",
+   "industry": "world",
+   "k": "Departures, Departures movie, Departures cast, Departures story, Departures box office collection, Departures budget, Departures review, Departures rating, Departures release date, Departures Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masahiro Motoki"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryoko Hirosue"
+     },
+     {
+      "@type": "Person",
+      "name": "Tsutomu Yamazaki"
+     },
+     {
+      "@type": "Person",
+      "name": "Kimiko Yo"
+     },
+     {
+      "@type": "Person",
+      "name": "Tetta Sugimoto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 975,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Departures (2008): Drama film. Story: Daigo, a cellist, is laid off from his orchestra and… See cast, TMDB rating 7.9/10, and release date 13 September 2008.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yojiro Takita"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AoWW2J4PoDe0IPuCVQOk50QFS4D.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16804",
+    "name": "Departures",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-09-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16804"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Departures (2008)</h1>\n<p class=\"ssr-lead\">Daigo, a cellist, is laid off from his orchestra and moves with his wife back to his small hometown where the living is cheaper. Thinking he’s applying for a job at a travel agency he finds he’s being interviewed for work with departures of a more permanent nature – as an undertaker’s assistant.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 September 2008</li><li>Runtime: 130 minutes</li><li>Director: Yojiro Takita</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (975 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masahiro Motoki as Daigo Kobayashi</li><li>Ryoko Hirosue as Mika Kobayashi</li><li>Tsutomu Yamazaki as Ikuei Sasaki</li><li>Kimiko Yo as Yuriko Kamimura</li><li>Tetta Sugimoto as Yamashita</li><li>Toru Minegishi as Yoshiki Kobayashi</li><li>Tatsuo Yamada as Togashi</li><li>Yukiko Tachibana</li><li>Yukari Tachibana as Rie Yamashita</li><li>Genjitsu Shu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Departures (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:1688804": {
    "d": "Freefall: A Reckoning for Boeing (2026): Documentary film. Story: Following the highly publicized death of Boeing… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
@@ -1022,6 +1340,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Land Before Time III: The Time of the Great Giving (1995)</h1>\n<p class=\"ssr-lead\">When the water supply to the Great Valley is blocked, Littlefoot and his friends must cooperate with a group of bullies to find the reason the cause.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 1995</li><li>Runtime: 70 minutes</li><li>Director: Roy Allen Smith</li><li>Genres: Animation, Adventure, Family</li><li>TMDB rating: 6.2/10 (425 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott McAfee as Littlefoot (voice)</li><li>Candace Hutson as Cera (voice)</li><li>Heather Hogan as Ducky (voice)</li><li>Jeff Bennett as Petrie / Mutt / Iguanadon (voice)</li><li>Rob Paulsen as Spike (voice)</li><li>John Ingle as Narrator / Cera&#x27;s Father (voice)</li><li>Linda Gary as Grandma / Mother Quetzalcoatlus (voice)</li><li>Whit Hertford as Hyp (voice)</li><li>Nicholas Guest as Hyp&#x27;s Father (voice)</li><li>Tress MacNeille as Stegosaurus / Spike &amp; Ducky&#x27;s Mother (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Land Before Time III: The Time of the Great Giving (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
+  },
+  "movie:19904": {
+   "d": "The Stepfather (2009): Horror/Thriller film. Story: Michael Harding returns home from military school to… See cast, budget $20M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n0HbNGwIgfhwtHkAXfyVuIgTyzn.jpg",
+   "industry": "world",
+   "k": "The Stepfather, The Stepfather movie, The Stepfather cast, The Stepfather story, The Stepfather box office collection, The Stepfather budget, The Stepfather review, The Stepfather rating, The Stepfather release date, The Stepfather trailer, The Stepfather Horror, The Stepfather Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dylan Walsh"
+     },
+     {
+      "@type": "Person",
+      "name": "Sela Ward"
+     },
+     {
+      "@type": "Person",
+      "name": "Penn Badgley"
+     },
+     {
+      "@type": "Person",
+      "name": "Amber Heard"
+     },
+     {
+      "@type": "Person",
+      "name": "Sherry Stringfield"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 991,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Stepfather (2009): Horror/Thriller film. Story: Michael Harding returns home from military school to… See cast, budget $20M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nelson McCormick"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n0HbNGwIgfhwtHkAXfyVuIgTyzn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19904",
+    "name": "The Stepfather",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19904"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Stepfather (2009)</h1>\n<p class=\"ssr-lead\">Michael Harding returns home from military school to find his mother happily in love and living with her new boyfriend, David. As the two men get to know each other, Michael becomes more and more suspicious of the man who is always there with a helpful hand. Is he really the man of her dreams or could David be hiding a dark side?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2009</li><li>Runtime: 101 minutes</li><li>Director: Nelson McCormick</li><li>Genres: Horror, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 5.8/10 (991 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dylan Walsh as David Harris</li><li>Sela Ward as Susan Harding</li><li>Penn Badgley as Michael Harding</li><li>Amber Heard as Kelly Porter</li><li>Sherry Stringfield as Leah</li><li>Paige Turco as Jackie Kerns</li><li>Jon Tenney as Jay</li><li>Nancy Linehan Charles as Mrs. Cutter</li><li>Marcuis Harris as Detective Shay</li><li>Braeden Lemasters as Sean Harding</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, YouTube TV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Stepfather (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
   },
   "movie:2204": {
    "d": "Alice in the Cities (1974): Drama film. Story: German journalist Philip Winter has a case of… See cast, TMDB rating 7.7/10, and release date 17 May 1974.",
@@ -1533,6 +1915,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Belle and Sebastian: The Adventure Continues (2015)</h1>\n<p class=\"ssr-lead\">September, 1945. Sebastian impatiently waits for the return of his friend Angelina, whom he has not seen for two years. When the plane carrying the young woman to her small village in the Alps is reported to have crashed in the mountains, Sebastian is convinced that Angelina is still alive. Along with his faithful dog Belle, Sebastian embarks on the most dangerous adventure of his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2015</li><li>Runtime: 97 minutes</li><li>Director: Christian Duguay</li><li>Genres: Adventure, Family</li><li>Budget: $15.1M</li><li>TMDB rating: 6.9/10 (363 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Félix Bossuet as Sébastien</li><li>Tchéky Karyo as César</li><li>Thierry Neuvic as Pierre, Sébastien&#x27;s father</li><li>Margaux Chatelier as Angélina, César&#x27;s niece</li><li>Urbain Cancelier as Mayor</li><li>Thylane Blondeau as Gabrielle</li><li>Joseph Malerba as Alfonso</li><li>Ludi Boeken as Marcel</li><li>Jeffrey Noel as Louis, the mechanic</li><li>Fred Epaud as René</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Belle and Sebastian: The Adventure Continues (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:4104": {
+   "d": "Benny & Joon (1993): Comedy/Drama film. Story: A mentally ill young woman finds love with an… See cast, TMDB rating 7.0/10, and release date 16 April 1993.",
+   "img": "https://image.tmdb.org/t/p/w780/zkWodV1ToZhYXzume3SQjvabWLS.jpg",
+   "industry": "world",
+   "k": "Benny & Joon, Benny & Joon movie, Benny & Joon cast, Benny & Joon story, Benny & Joon box office collection, Benny & Joon budget, Benny & Joon review, Benny & Joon rating, Benny & Joon release date, Benny & Joon trailer, Benny & Joon Comedy, Benny & Joon Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Stuart Masterson"
+     },
+     {
+      "@type": "Person",
+      "name": "Aidan Quinn"
+     },
+     {
+      "@type": "Person",
+      "name": "Julianne Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver Platt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 874,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Benny & Joon (1993): Comedy/Drama film. Story: A mentally ill young woman finds love with an… See cast, TMDB rating 7.0/10, and release date 16 April 1993.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeremiah S. Chechik"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zkWodV1ToZhYXzume3SQjvabWLS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4104",
+    "name": "Benny & Joon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4104"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Benny &amp; Joon (1993)</h1>\n<p class=\"ssr-lead\">A mentally ill young woman finds love with an eccentric man who models himself after Buster Keaton.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 1993</li><li>Runtime: 98 minutes</li><li>Director: Jeremiah S. Chechik</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.0/10 (874 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Depp as Sam</li><li>Mary Stuart Masterson as Juniper &#x27;Joon&#x27; Pearl</li><li>Aidan Quinn as Benjamin &#x27;Benny&#x27; Pearl</li><li>Julianne Moore as Ruthie</li><li>Oliver Platt as Eric</li><li>CCH Pounder as Dr. Garvey</li><li>Dan Hedaya as Thomas</li><li>Joe Grifasi as Mike</li><li>William H. Macy as Randy Burch</li><li>Liane Curtis as Claudia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Benny & Joon (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
   },
   "movie:43904": {
    "d": "L'Atalante (1934): Comedy/Drama film. Story: Newly married couple Juliette and ship captain Jean… See cast and TMDB rating 7.5/10.",
@@ -2170,6 +2616,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Arkansas (2020)</h1>\n<p class=\"ssr-lead\">Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they&#x27;ve never met. But when a deal goes horribly wrong, the consequences are deadly.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 May 2020</li><li>Runtime: 117 minutes</li><li>Director: Clark Duke</li><li>Genres: Crime, Thriller, Action, Mystery</li><li>TMDB rating: 5.8/10 (361 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Hemsworth as Kyle</li><li>Clark Duke as Swin</li><li>Vince Vaughn as Frog</li><li>John Malkovich as Bright</li><li>Eden Brolin as Johanna</li><li>Vivica A. Fox as Her</li><li>Michael Kenneth Williams as Almond</li><li>Patrick Muldoon as Joe</li><li>Jacob Zachar as Stranger</li><li>Juston Street as Barry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Arkansas (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:567604": {
+   "d": "Once Upon a Deadpool (2018): Action/Comedy film. Story: A kidnapped Fred Savage is forced to endure… See cast, budget $110M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+   "industry": "world",
+   "k": "Once Upon a Deadpool, Once Upon a Deadpool movie, Once Upon a Deadpool cast, Once Upon a Deadpool story, Once Upon a Deadpool box office collection, Once Upon a Deadpool budget, Once Upon a Deadpool review, Once Upon a Deadpool rating, Once Upon a Deadpool release date, Once Upon a Deadpool trailer, Once Upon a Deadpool Action, Once Upon a Deadpool Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Brolin"
+     },
+     {
+      "@type": "Person",
+      "name": "Morena Baccarin"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Dennison"
+     },
+     {
+      "@type": "Person",
+      "name": "Zazie Beetz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 886,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Once Upon a Deadpool (2018): Action/Comedy film. Story: A kidnapped Fred Savage is forced to endure… See cast, budget $110M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Leitch"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=567604",
+    "name": "Once Upon a Deadpool",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=567604"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Once Upon a Deadpool (2018)</h1>\n<p class=\"ssr-lead\">A kidnapped Fred Savage is forced to endure Deadpool&#x27;s PG-13 rendition of Deadpool 2, as a Princess Bride-esque story full of magic, wonder, and zero Fs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2018</li><li>Runtime: 118 minutes</li><li>Director: David Leitch</li><li>Genres: Action, Comedy, Adventure</li><li>Budget: $110M</li><li>TMDB rating: 7.1/10 (886 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Reynolds as Wade Wilson / Deadpool / Juggernaut (voice)</li><li>Josh Brolin as Cable</li><li>Morena Baccarin as Vanessa</li><li>Julian Dennison as Firefist</li><li>Zazie Beetz as Domino</li><li>T.J. Miller as Weasel</li><li>Leslie Uggams as Blind Al</li><li>Karan Soni as Dopinder</li><li>Brianna Hildebrand as Negasonic Teenage Warhead</li><li>Jack Kesy as Black Tom</li></ul>\n</article>",
+   "t": "Once Upon a Deadpool (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:576004": {
    "d": "Porno (2019): Comedy/Horror film. Story: When a group of naive teens working at a movie… See cast, TMDB rating 6.0/10, and release date 28 June 2019.",

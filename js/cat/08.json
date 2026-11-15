@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 53,
+ "count": 60,
  "titles": {
   "movie:10208": {
    "backdrop_path": "/4n10DEpEsNOJj5Is1NjpGqrN7Lv.jpg",
@@ -259,6 +259,120 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 366
+  },
+  "movie:11008": {
+   "backdrop_path": "/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+   "budget": 31100000,
+   "cast": [
+    {
+     "c": "Major Payne",
+     "n": "Damon Wayans"
+    },
+    {
+     "c": "Emily",
+     "n": "Karyn Parsons"
+    },
+    {
+     "c": "Cadet Alex Stone",
+     "n": "Steven Martini"
+    },
+    {
+     "c": "Cadet Tiger",
+     "n": "Orlando Brown"
+    },
+    {
+     "c": "Dr. Phillips",
+     "n": "William Hickey"
+    },
+    {
+     "c": "Lt. Colonel Stone",
+     "n": "Michael Ironside"
+    },
+    {
+     "c": "General Decker",
+     "n": "Albert Hall"
+    },
+    {
+     "c": "Cadet Wuliger",
+     "n": "Chris Owen"
+    },
+    {
+     "c": "Cadet Dotson",
+     "n": "Andrew Leeds"
+    },
+    {
+     "c": "Cadet Bryan",
+     "n": "Joseph Blaire"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nick Castle"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 11008,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope.",
+   "popularity": 3.1245,
+   "poster_path": "/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-03-24",
+   "revenue": 30112050,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "He's looking for a few good men... or a few guys old enough to shave.",
+   "title": "Major Payne",
+   "trailer": {
+    "key": "bv4fMbrfrWM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.52,
+   "vote_count": 954
   },
   "movie:11508": {
    "backdrop_path": "/hz95xUI0MhXTpRGjfnT0HkDijtV.jpg",
@@ -649,6 +763,251 @@
    "vote_average": 5.5,
    "vote_count": 155
   },
+  "movie:12208": {
+   "backdrop_path": "/bzd7Uph8qfAB3fi488rIE3x2pWg.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Evelyn Tremble",
+     "n": "Peter Sellers"
+    },
+    {
+     "c": "Vesper Lynd",
+     "n": "Ursula Andress"
+    },
+    {
+     "c": "James Bond",
+     "n": "David Niven"
+    },
+    {
+     "c": "Le Chiffre",
+     "n": "Orson Welles"
+    },
+    {
+     "c": "Mata Bond",
+     "n": "Joanna Pettet"
+    },
+    {
+     "c": "The Detainer",
+     "n": "Daliah Lavi"
+    },
+    {
+     "c": "Jimmy Bond",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Agent Mimi",
+     "n": "Deborah Kerr"
+    },
+    {
+     "c": "Ransome",
+     "n": "William Holden"
+    },
+    {
+     "c": "Le Grand",
+     "n": "Charles Boyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Val Guest",
+    "Ken Hughes",
+    "John Huston",
+    "Joseph McGrath",
+    "Robert Parrish"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Comedy"
+   ],
+   "id": 12208,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Sir James Bond is called back out of retirement to stop SMERSH. In order to trick SMERSH, James thinks up the ultimate plan - that every agent will be named 'James Bond'. One of the Bonds, whose real name is Evelyn Tremble is sent to take on Le Chiffre in a game of baccarat, but all the Bonds get more than they can handle.",
+   "popularity": 5.4965,
+   "poster_path": "/Ah4e2cnzGYvJWgdD3U6qSWQ94mm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1967-04-18",
+   "revenue": 41744718,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en",
+    "fr",
+    "gd",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Casino Royale is too much for one James Bond!",
+   "title": "Casino Royale",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.241,
+   "vote_count": 877
+  },
+  "movie:12508": {
+   "backdrop_path": "/oImvpyBfpXQgFevXWrh1adswdOn.jpg",
+   "budget": 57000000,
+   "cast": [
+    {
+     "c": "Chris 'Izzy' Cole",
+     "n": "Mark Wahlberg"
+    },
+    {
+     "c": "Emily Poule",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "Kirk Cuddy",
+     "n": "Dominic West"
+    },
+    {
+     "c": "A.C.",
+     "n": "Jason Bonham"
+    },
+    {
+     "c": "Jorgen",
+     "n": "Jeff Pilson"
+    },
+    {
+     "c": "Ghode",
+     "n": "Zakk Wylde"
+    },
+    {
+     "c": "Mats, Steel Dragon Road Manager",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Donny Johnson",
+     "n": "Blas Elias"
+    },
+    {
+     "c": "Xander Cummins",
+     "n": "Nick Catanese"
+    },
+    {
+     "c": "Ricki Bell",
+     "n": "Brian Vander Ark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Herek"
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 12508,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wannabe rock star who fronts a Pennsylvania-based tribute band is devastated when his bandmates kick him out of the group he founded. Things begin to look up for Izzy when he is asked to join Steel Dragon, the heavy metal rockers he had been imitating for so long. This film is loosely based on the true story of the band Judas Priest.",
+   "popularity": 1.5641,
+   "poster_path": "/8pRMweo9WA1MvYOLsD2hWyFpZ1V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-09-04",
+   "revenue": 19334145,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of a wanna be who got to be.",
+   "title": "Rock Star",
+   "trailer": {
+    "key": "ZpSUqTJ7X6g",
+    "name": "Rock Star - Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.735,
+   "vote_count": 843
+  },
   "movie:1321008": {
    "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
    "budget": 1000000,
@@ -879,6 +1238,226 @@
    "type": "movie",
    "vote_average": 4.039,
    "vote_count": 348
+  },
+  "movie:1408208": {
+   "backdrop_path": "/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+   "budget": 1400000,
+   "cast": [
+    {
+     "c": "Lost Man",
+     "n": "Kazunari Ninomiya"
+    },
+    {
+     "c": "Walking Man",
+     "n": "Yamato Kochi"
+    },
+    {
+     "c": "The Boy",
+     "n": "Naru Asanuma"
+    },
+    {
+     "c": "High School Student",
+     "n": "Kotone Hanase"
+    },
+    {
+     "c": "Lost Man's Partner",
+     "n": "Nana Komatsu"
+    },
+    {
+     "c": "Screaming Man on Train",
+     "n": "Hirota Otsuka"
+    },
+    {
+     "c": "Mother on Train",
+     "n": "Tara Nakashima"
+    },
+    {
+     "c": "Child",
+     "n": "Reo Soda"
+    },
+    {
+     "c": "Man on Train",
+     "n": "Mikio Ueda"
+    },
+    {
+     "c": "Passerby",
+     "n": "HIKAKIN"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Genki Kawamura"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1408208,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary. If you discover an anomaly, turn back immediately. If you don’t, carry on. Then leave from Exit 8. But even a single oversight will send him back to the beginning. Will he ever reach his goal and escape this infinite corridor?",
+   "popularity": 10.2194,
+   "poster_path": "/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-08-28",
+   "revenue": 43892680,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Turn back.",
+   "title": "Exit 8",
+   "trailer": {
+    "key": "zzEDWwhtAHc",
+    "name": "Final Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 927
   },
   "movie:1442908": {
    "backdrop_path": "/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
@@ -2969,6 +3548,152 @@
    "vote_average": 7.319,
    "vote_count": 381
   },
+  "movie:39108": {
+   "backdrop_path": "/b6u42A4TkZzv3TNhZfmfu5bjuFK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Goku / Son Gohan / Son Goten / Gotenks (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Trunks / Gotenks (voice)",
+     "n": "Takeshi Kusao"
+    },
+    {
+     "c": "Kuririn / Minoshia (voice)",
+     "n": "Mayumi Tanaka"
+    },
+    {
+     "c": "Bulma (voice)",
+     "n": "Hiromi Tsuru"
+    },
+    {
+     "c": "Kame Sennin / Shenlong (voice)",
+     "n": "Masaharu Sato"
+    },
+    {
+     "c": "Videl (voice)",
+     "n": "Yuko Minaguchi"
+    },
+    {
+     "c": "Vegeta (voice)",
+     "n": "Ryo Horikawa"
+    },
+    {
+     "c": "Tapion / Sharpner (voice)",
+     "n": "Hiro Yuuki"
+    },
+    {
+     "c": "Hoi (voice)",
+     "n": "Juji Matsuda"
+    },
+    {
+     "c": "Robber (voice)",
+     "n": "Nobuhiko Kazama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mitsuo Hashimoto"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 39108,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The Z Warriors discover an unopenable music box and are told to open it with the Dragon Balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.",
+   "popularity": 4.6051,
+   "poster_path": "/7uRu9EA3nie0n2mlVDDLlTI3IzC.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-07-15",
+   "revenue": 11694663,
+   "runtime": 51,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "If he doesn't do it, who will?",
+   "title": "Dragon Ball Z: Wrath of the Dragon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 828
+  },
   "movie:400608": {
    "backdrop_path": "/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
    "budget": 0,
@@ -3651,6 +4376,112 @@
    "vote_average": 6.893,
    "vote_count": 351
   },
+  "movie:5708": {
+   "backdrop_path": "/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Ian Curtis",
+     "n": "Sam Riley"
+    },
+    {
+     "c": "Debbie Curtis",
+     "n": "Samantha Morton"
+    },
+    {
+     "c": "Annik Honoré",
+     "n": "Alexandra Maria Lara"
+    },
+    {
+     "c": "Hooky",
+     "n": "Joe Anderson"
+    },
+    {
+     "c": "Rob Greton",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Tony Wilson",
+     "n": "Craig Parkinson"
+    },
+    {
+     "c": "Bernard Sumner",
+     "n": "James Anthony Pearson"
+    },
+    {
+     "c": "Steve Morris",
+     "n": "Harry Treadaway"
+    },
+    {
+     "c": "Twinny",
+     "n": "Robert Shelly"
+    },
+    {
+     "c": "Terry",
+     "n": "Andrew Sheridan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Anton Corbijn"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 5708,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The story of Joy Division’s lead singer Ian Curtis, from his schoolboy days in 1973 to his suicide on the eve of the band's first American tour in 1980.",
+   "popularity": 1.8503,
+   "poster_path": "/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg",
+   "production_countries": [
+    "GB",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-09-12",
+   "revenue": 8200000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He had the spirit, but lost the feeling.",
+   "title": "Control",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.502,
+   "vote_count": 989
+  },
   "movie:617708": {
    "backdrop_path": "/hXjK21t5S6WRR8HnG3apYpZ5lJW.jpg",
    "budget": 0,
@@ -4175,6 +5006,102 @@
    "type": "movie",
    "vote_average": 7.333,
    "vote_count": 412
+  },
+  "movie:726208": {
+   "backdrop_path": "/h00iFXMpGuls2GEnXIGFzQUeaFr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel",
+     "n": "Rodolfo Sancho"
+    },
+    {
+     "c": "Germán",
+     "n": "Ramón Barea"
+    },
+    {
+     "c": "Sofia",
+     "n": "Nerea Barros"
+    },
+    {
+     "c": "Sara",
+     "n": "Belén Fabra"
+    },
+    {
+     "c": "Ruth",
+     "n": "Ana Fernández"
+    },
+    {
+     "c": "Eric",
+     "n": "Lucas Blas"
+    },
+    {
+     "c": "Psicóloga",
+     "n": "Beatriz Arjona"
+    },
+    {
+     "c": "Cliente de librería",
+     "n": "Javier Botet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ángel Gómez Hernández"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 726208,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After a tragic turn of events at the new home he's fixing up, Daniel hears a ghostly plea for help, spurring him to seek out a famous paranormal expert.",
+   "popularity": 1.7046,
+   "poster_path": "/lXvBgevABC9n5R6Gg76R3pN1h2M.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-07-24",
+   "revenue": 443458,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Don't listen to them.",
+   "title": "Don't Listen",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.413,
+   "vote_count": 839
   },
   "movie:73108": {
    "backdrop_path": "/s75xYQOo4Hy2fy229CEfj5jgC2B.jpg",

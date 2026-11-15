@@ -1,6 +1,6 @@
 {
  "bucket": "73",
- "count": 63,
+ "count": 71,
  "titles": {
   "movie:1024773": {
    "backdrop_path": "/dp0rdbGSbZTyWumnbWspXQp87hA.jpg",
@@ -532,6 +532,104 @@
    "vote_average": 6.349,
    "vote_count": 314
   },
+  "movie:10973": {
+   "backdrop_path": "/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
+   "budget": 650000,
+   "cast": [
+    {
+     "c": "Dr. David Reed",
+     "n": "Richard Carlson"
+    },
+    {
+     "c": "Kay Lawrence",
+     "n": "Julie Adams"
+    },
+    {
+     "c": "Dr. Mark Williams",
+     "n": "Richard Denning"
+    },
+    {
+     "c": "Dr. Carl Maia",
+     "n": "Antonio Moreno"
+    },
+    {
+     "c": "Captain Lucas",
+     "n": "Nestor Paiva"
+    },
+    {
+     "c": "Dr. Edwin Thompson",
+     "n": "Whit Bissell"
+    },
+    {
+     "c": "Zee",
+     "n": "Bernie Gozier"
+    },
+    {
+     "c": "Chico",
+     "n": "Henry A. Escalante"
+    },
+    {
+     "c": "The Gill Man In Water (uncredited)",
+     "n": "Ricou Browning"
+    },
+    {
+     "c": "Narrator (voice) (uncredited)",
+     "n": "Art Gilmore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Jack Arnold"
+   ],
+   "genres": [
+    "Adventure",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 10973,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fiancée, Kay.",
+   "popularity": 3.6464,
+   "poster_path": "/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1954-03-05",
+   "revenue": 1300000,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "From the Amazon's forbidden depths came the Creature from the Black Lagoon.",
+   "title": "Creature from the Black Lagoon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 911
+  },
   "movie:1122573": {
    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
    "budget": 70000000,
@@ -663,6 +761,134 @@
    "vote_average": 7.5,
    "vote_count": 1203
   },
+  "movie:11673": {
+   "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cyrano de Bergerac",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Madeleine 'Roxane' Robin",
+     "n": "Anne Brochet"
+    },
+    {
+     "c": "Christian de Neuvillette",
+     "n": "Vincent Perez"
+    },
+    {
+     "c": "Count of Guiche",
+     "n": "Jacques Weber"
+    },
+    {
+     "c": "Ragueneau",
+     "n": "Roland Bertin"
+    },
+    {
+     "c": "'Le Bret'",
+     "n": "Philippe Morier-Genoud"
+    },
+    {
+     "c": "Carbon de Castel-Jaloux",
+     "n": "Pierre Maguelon"
+    },
+    {
+     "c": "The Duenna",
+     "n": "Josiane Stoléru"
+    },
+    {
+     "c": "The Father",
+     "n": "Alain Rimoux"
+    },
+    {
+     "c": "The Child",
+     "n": "Anatole Delalande"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jean-Paul Rappeneau"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "History",
+    "Romance"
+   ],
+   "id": 11673,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
+   "popularity": 1.8942,
+   "poster_path": "/80XJ5UkGuYTKDuALeG03BLk1OT1.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1990-03-28",
+   "revenue": 5822041,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Cyrano de Bergerac",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 862
+  },
   "movie:1196573": {
    "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
    "budget": 0,
@@ -791,6 +1017,178 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 358
+  },
+  "movie:11973": {
+   "backdrop_path": "/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Kenneth O'Donnell",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "John F. Kennedy",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Robert F. Kennedy",
+     "n": "Steven Culp"
+    },
+    {
+     "c": "Robert McNamara",
+     "n": "Dylan Baker"
+    },
+    {
+     "c": "Adlai Stevenson",
+     "n": "Michael Fairman"
+    },
+    {
+     "c": "Dean Rusk",
+     "n": "Henry Strozier"
+    },
+    {
+     "c": "McGeorge Bundy",
+     "n": "Frank Wood"
+    },
+    {
+     "c": "Gen. Curtis LeMay",
+     "n": "Kevin Conway"
+    },
+    {
+     "c": "Ted Sorensen",
+     "n": "Tim Kelleher"
+    },
+    {
+     "c": "Dean Acheson",
+     "n": "Len Cariou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roger Donaldson"
+   ],
+   "genres": [
+    "History",
+    "Thriller"
+   ],
+   "id": 11973,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of the Cuban Missile Crisis in 1962—the nuclear standoff with the USSR sparked by the discovery by the Americans of missile bases established on the Soviet-allied island of Cuba.",
+   "popularity": 3.0334,
+   "poster_path": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-12-25",
+   "revenue": 34566746,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "You'll never believe how close we came.",
+   "title": "Thirteen Days",
+   "trailer": {
+    "key": "PqM102xIbIs",
+    "name": "Official UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.001,
+   "vote_count": 882
   },
   "movie:121873": {
    "backdrop_path": "/li3pr2ZQjmrYuX4YWAPKvU8JaWc.jpg",
@@ -3019,6 +3417,113 @@
    "vote_average": 6.9,
    "vote_count": 402
   },
+  "movie:239573": {
+   "backdrop_path": "/fPIuhCBHyAqZp93spcTTcABz13g.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Dan Trunkman",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Mike Pancake",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Chuck Portnoy",
+     "n": "Sienna Miller"
+    },
+    {
+     "c": "Timothy McWinters",
+     "n": "Tom Wilkinson"
+    },
+    {
+     "c": "Jim Spinch",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Susan Trunkman",
+     "n": "June Diane Raphael"
+    },
+    {
+     "c": "Bill Whilmsley",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Bess Trunkman",
+     "n": "Ella Anderson"
+    },
+    {
+     "c": "Farm Goer",
+     "n": "Anastasia Mousis Sanidopoulos"
+    },
+    {
+     "c": "National Rental Clerk",
+     "n": "Melissa McMeekin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ken Scott"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 239573,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A hard-working small business owner and his two associates travel to Europe to close the most important deal of their lives.  But what began as a routine business trip goes off the rails in every imaginable – and unimaginable – way, including unplanned stops at a massive sex fetish event and a global economic summit.",
+   "popularity": 2.3451,
+   "poster_path": "/eVWVZf3fkx9eNqbHyn9xNlmC2h4.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-03-05",
+   "revenue": 14431253,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Best business trip ever.",
+   "title": "Unfinished Business",
+   "trailer": {
+    "key": "8yb9Dn2mnMg",
+    "name": "Unfinished Business | Official Trailer [HD] | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.47,
+   "vote_count": 909
+  },
   "movie:25673": {
    "backdrop_path": "/49LzDsuSefYnEOaNjsoYLMUDn0r.jpg",
    "budget": 2300000,
@@ -4348,6 +4853,113 @@
    "vote_average": 7.164,
    "vote_count": 344
   },
+  "movie:429473": {
+   "backdrop_path": "/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lou",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Hannah",
+     "n": "Jurnee Smollett-Bell"
+    },
+    {
+     "c": "Philip",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Vee",
+     "n": "Ridley Asha Bateman"
+    },
+    {
+     "c": "Sheriff Rankin",
+     "n": "Matt Craven"
+    },
+    {
+     "c": "Chris",
+     "n": "Greyston Holt"
+    },
+    {
+     "c": "Tony",
+     "n": "Daniel Bernhardt"
+    },
+    {
+     "c": "Gerry",
+     "n": "RJ Fetherstonhaugh"
+    },
+    {
+     "c": "Deputy Torres",
+     "n": "Andres Collantes"
+    },
+    {
+     "c": "Agent Lee",
+     "n": "Marci T. House"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Anna Foerster"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 429473,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+   "popularity": 2.4197,
+   "poster_path": "/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-09-23",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lou",
+   "trailer": {
+    "key": "QILhvR4QPsQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.446,
+   "vote_count": 817
+  },
   "movie:452773": {
    "backdrop_path": "/4Pv4JRqT7LT1F290JbbjQsaB6LD.jpg",
    "budget": 10778400,
@@ -5250,6 +5862,106 @@
    "vote_average": 5.722,
    "vote_count": 398
   },
+  "movie:7873": {
+   "backdrop_path": "/lwK1HY1ml8bnTaQJzzcKfe2q93O.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Jim Luther Davis",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Mike Alonzo",
+     "n": "Freddy Rodríguez"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Eva Longoria"
+    },
+    {
+     "c": "Toussant",
+     "n": "Chaka Forman"
+    },
+    {
+     "c": "Marta",
+     "n": "Tammy Trull"
+    },
+    {
+     "c": "Agent Richards",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Agent Hollenbeck",
+     "n": "Michael Monks"
+    },
+    {
+     "c": "Letty",
+     "n": "Samantha Esteban"
+    },
+    {
+     "c": "Patty",
+     "n": "Tania Verafield"
+    },
+    {
+     "c": "Flaco",
+     "n": "Noel Gugliemi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Ayer"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Action"
+   ],
+   "id": 7873,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jim Davis is an ex-Army Ranger who finds himself slipping back into his old life of petty crime after a job offer from the LAPD evaporates. His best friend is pressured by his girlfriend Sylvia to find a job, but Jim is more interested in hanging out and making cash from small heists, while trying to get a law enforcement job so he can marry his Mexican girlfriend.",
+   "popularity": 2.2253,
+   "poster_path": "/raBWBnGz2X6FQ3iUwPwYQE4FrkY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-09-11",
+   "revenue": 6000000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Take A Ride To The Edge",
+   "title": "Harsh Times",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.423,
+   "vote_count": 823
+  },
   "movie:810873": {
    "backdrop_path": "/2r0O6rOOSfsZ3bIpWTOt0Xabxkf.jpg",
    "budget": 0,
@@ -5478,6 +6190,179 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 413
+  },
+  "movie:88273": {
+   "backdrop_path": "/mcoZV42CxmW07Ob8ynDuZ7wKZSr.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Caroline Mathilde",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Johann Friedrich Struensee",
+     "n": "Mads Mikkelsen"
+    },
+    {
+     "c": "Christian VII",
+     "n": "Mikkel Boe Følsgaard"
+    },
+    {
+     "c": "Juliane Marie",
+     "n": "Trine Dyrholm"
+    },
+    {
+     "c": "Ove Høegh-Guldberg",
+     "n": "David Dencik"
+    },
+    {
+     "c": "Schack Carl Rantzau",
+     "n": "Thomas W. Gabrielsson"
+    },
+    {
+     "c": "Enevold Brandt",
+     "n": "Cyron Melville"
+    },
+    {
+     "c": "J. H. E. Bernstoff",
+     "n": "Bent Mejding"
+    },
+    {
+     "c": "Augusta - Prinsesse af Wales",
+     "n": "Harriet Walter"
+    },
+    {
+     "c": "Louise von Plessen",
+     "n": "Laura Bro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nikolaj Arcel"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "id": 88273,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "A young queen falls in love with her physician, and they start a revolution that changes their nation forever.",
+   "popularity": 2.4954,
+   "poster_path": "/AafVGIirBlCw8Whb4DSPSLX9nGW.jpg",
+   "production_countries": [
+    "CZ",
+    "DK",
+    "DE",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-03-29",
+   "revenue": 14800000,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "da",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Their love affair would divide a nation.",
+   "title": "A Royal Affair",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 970
   },
   "movie:89673": {
    "backdrop_path": "/93M9ejFUVOALHLzeWMUtytxScG4.jpg",
@@ -5884,6 +6769,134 @@
    "type": "movie",
    "vote_average": 6.724,
    "vote_count": 384
+  },
+  "movie:9573": {
+   "backdrop_path": "/6Jatq6wjJ4c2YbPkE5e5VzukEI2.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Terry McCaleb",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Jasper 'Buddy' Noone",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Dr. Bonnie Fox",
+     "n": "Anjelica Huston"
+    },
+    {
+     "c": "Graciella Rivers",
+     "n": "Wanda De Jesus"
+    },
+    {
+     "c": "Detective Jaye Winston",
+     "n": "Tina Lifford"
+    },
+    {
+     "c": "Detective Ronaldo Arrango",
+     "n": "Paul Rodríguez"
+    },
+    {
+     "c": "Detective John Waller",
+     "n": "Dylan Walsh"
+    },
+    {
+     "c": "Raymond Torres",
+     "n": "Mason Lucero"
+    },
+    {
+     "c": "Mr. Toliver",
+     "n": "Gerry Becker"
+    },
+    {
+     "c": "James Lockridge",
+     "n": "Rick Hoffman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 9573,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Still recovering from a heart transplant, a retired FBI profiler returns to service when his own blood analysis offers clues to the identity of a serial killer.",
+   "popularity": 2.5026,
+   "poster_path": "/A6wWJkIREagRWFNu3YotID3n9aW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-08-09",
+   "revenue": 31794718,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "He's a heartbeat away from catching the killer.",
+   "title": "Blood Work",
+   "trailer": {
+    "key": "vMg7LZ-JF6I",
+    "name": "Blood Work - Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.213,
+   "vote_count": 954
   },
   "movie:9973": {
    "backdrop_path": "/wlUmvXfvz2mKuh9AoYB1Ea9S9ZA.jpg",

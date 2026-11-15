@@ -1,6 +1,6 @@
 {
  "bucket": "89",
- "count": 50,
+ "count": 63,
  "titles": {
   "movie:10389": {
    "backdrop_path": "/fEurvklilb04BbyYZM2FtumpyQB.jpg",
@@ -154,6 +154,120 @@
    "type": "movie",
    "vote_average": 6.569,
    "vote_count": 495
+  },
+  "movie:10589": {
+   "backdrop_path": "/4aPNUEIcXK7ISOV6qiQpTekGQez.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Max Burdett",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Lola Cirillo",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Stan Lloyd",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Henri Mooré",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Sophie",
+     "n": "Naomie Harris"
+    },
+    {
+     "c": "Luc",
+     "n": "Troy Garity"
+    },
+    {
+     "c": "Jean-Paul",
+     "n": "Russell Hornsby"
+    },
+    {
+     "c": "Agent Kowalski",
+     "n": "Rex Linn"
+    },
+    {
+     "c": "FBI Driver",
+     "n": "Michael Bowen"
+    },
+    {
+     "c": "Lakers FBI Agent",
+     "n": "Mark Moses"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brett Ratner"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "id": 10589,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An FBI agent is suspicious of two master thieves, quietly enjoying their retirement near what may - or may not - be the biggest score of their careers.",
+   "popularity": 3.1155,
+   "poster_path": "/ldor5Ep0B01TCfwZ2vWWA8VPT6U.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-11-12",
+   "revenue": 61300000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who will walk away?",
+   "title": "After the Sunset",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 918
   },
   "movie:11489": {
    "backdrop_path": "/1ZBPashbl6CQ3IhfbM38A67tNnj.jpg",
@@ -396,6 +510,284 @@
    "type": "movie",
    "vote_average": 7.218,
    "vote_count": 444
+  },
+  "movie:11589": {
+   "backdrop_path": "/eSEhPsuIiKEGdZRrBsAJbEH6AGk.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Sergeant First Class Kelly",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Master Sergeant \"Big Joe\"",
+     "n": "Telly Savalas"
+    },
+    {
+     "c": "Sgt. Oddball (Tank Commander)",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Staff Sergeant \"Crapgame\"",
+     "n": "Don Rickles"
+    },
+    {
+     "c": "Major General Colt",
+     "n": "Carroll O'Connor"
+    },
+    {
+     "c": "Moriarty (Tank Crewman)",
+     "n": "Gavin MacLeod"
+    },
+    {
+     "c": "Capt. Maitland",
+     "n": "Hal Buckley"
+    },
+    {
+     "c": "Pvt. Little Joe",
+     "n": "Stuart Margolin"
+    },
+    {
+     "c": "Pvt. Cowboy",
+     "n": "Jeff Morris"
+    },
+    {
+     "c": "Pvt. Gutowski",
+     "n": "Richard Davalos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brian G. Hutton"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "War"
+   ],
+   "id": 11589,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+   "popularity": 3.8586,
+   "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+   "production_countries": [
+    "US",
+    "YU"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1970-06-22",
+   "revenue": 5200000,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "They set out to rob a bank... and damn near won a war instead!",
+   "title": "Kelly's Heroes",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 879
+  },
+  "movie:12289": {
+   "backdrop_path": "/xDuEjbVlPkXBNiu8Dd7lQyZiNEX.jpg",
+   "budget": 80341000,
+   "cast": [
+    {
+     "c": "Zhou Yu",
+     "n": "Tony Leung Chiu-wai"
+    },
+    {
+     "c": "Zhu Ge Liang",
+     "n": "Takeshi Kaneshiro"
+    },
+    {
+     "c": "Cao Cao",
+     "n": "Zhang Fengyi"
+    },
+    {
+     "c": "Sun Quan",
+     "n": "Chang Chen"
+    },
+    {
+     "c": "Sun Shang Xiang",
+     "n": "Zhao Wei"
+    },
+    {
+     "c": "Zhao Yun",
+     "n": "Hu Jun"
+    },
+    {
+     "c": "Gan Xing",
+     "n": "Shidou Nakamura"
+    },
+    {
+     "c": "Xiao Qiao",
+     "n": "Lin Chi-ling"
+    },
+    {
+     "c": "Liu Bei",
+     "n": "You Yongzhi"
+    },
+    {
+     "c": "Lu Su",
+     "n": "Hou Yong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Woo"
+   ],
+   "genres": [
+    "History",
+    "War",
+    "Action"
+   ],
+   "id": 12289,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "In 208 A.D., in the final days of the Han Dynasty, shrewd Prime Minster Cao convinced the fickle Emperor Han the only way to unite all of China was to declare war on the kingdoms of Xu in the west and East Wu in the south. Thus began a military campaign of unprecedented scale. Left with no other hope for survival, the kingdoms of Xu and East Wu formed an unlikely alliance.",
+   "popularity": 3.8956,
+   "poster_path": "/kKrvVZUxBPpyxnhdk5ZVdH91NyN.jpg",
+   "production_countries": [
+    "CN",
+    "HK",
+    "JP",
+    "KR",
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-07-10",
+   "revenue": 250100000,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "The future will be decided.",
+   "title": "Red Cliff",
+   "trailer": {
+    "key": "pd0bqLQrtdE",
+    "name": "Red Cliff Official HD Trailer John Woo Film",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 930
   },
   "movie:1240889": {
    "backdrop_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
@@ -731,6 +1123,131 @@
    "vote_average": 5.6,
    "vote_count": 423
   },
+  "movie:12689": {
+   "backdrop_path": "/4FmtbkjHHdZRlsaceN8JeFQ8nE3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Georgia Nicolson",
+     "n": "Georgia Groome"
+    },
+    {
+     "c": "Jas",
+     "n": "Eleanor Tomlinson"
+    },
+    {
+     "c": "Robbie Jennings",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Dave the Laugh",
+     "n": "Tommy Bastow"
+    },
+    {
+     "c": "Bob Nicolson",
+     "n": "Alan Davies"
+    },
+    {
+     "c": "Connie Nicolson",
+     "n": "Karen Taylor"
+    },
+    {
+     "c": "Peter Dyer",
+     "n": "Liam Hess"
+    },
+    {
+     "c": "Rosie",
+     "n": "Georgia Henshaw"
+    },
+    {
+     "c": "Ellen",
+     "n": "Manjeeven Grewal"
+    },
+    {
+     "c": "Lindsay Marlings",
+     "n": "Kimberley Nixon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gurinder Chadha"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Romance"
+   ],
+   "id": 12689,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Georgia Nicolson is fourteen, lives with nosey parents who don't understand her, an annoying three year old sister and has to wear a beret to school. She would, however, rather be blonde, have a smaller nose and a boyfriend. Revolving around her hilarious journal entries, prepare to be engulfed in the world of the soaring joys and bottomless angst of being a teenager.",
+   "popularity": 2.9207,
+   "poster_path": "/3WLMr49X84qGiFn1pkCyhS5SEBZ.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-07-25",
+   "revenue": 14924998,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Georgia Nicolson's not going mental, but her life is.",
+   "title": "Angus, Thongs and Perfect Snogging",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.473,
+   "vote_count": 849
+  },
   "movie:13189": {
    "backdrop_path": "/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
    "budget": 0,
@@ -947,6 +1464,122 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 413
+  },
+  "movie:15189": {
+   "backdrop_path": "/hovfur18TPFABZIuJYvgjLpln8V.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Andi",
+     "n": "Emma Roberts"
+    },
+    {
+     "c": "Bruce",
+     "n": "Jake T. Austin"
+    },
+    {
+     "c": "Bernie",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Dave",
+     "n": "Johnny Simmons"
+    },
+    {
+     "c": "Heather",
+     "n": "Kyla Pratt"
+    },
+    {
+     "c": "Mark",
+     "n": "Troy Gentile"
+    },
+    {
+     "c": "Lois Scudder",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Carl Scudder",
+     "n": "Kevin Dillon"
+    },
+    {
+     "c": "ACO Jake",
+     "n": "Ajay Naidu"
+    },
+    {
+     "c": "ACO Max",
+     "n": "Eric Edelstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Thor Freudenthal"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 15189,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Placed in a foster home that doesn't allow pets, 16-year-old Andi and her younger brother, Bruce, turn an abandoned hotel into a home for their dog. Soon other strays arrive, and the hotel becomes a haven for every orphaned canine in town. But the kids have to do some quick thinking to keep the cops off their tails.",
+   "popularity": 2.8024,
+   "poster_path": "/xD2AssTeySNCamlGueai4yAZZfX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-01-16",
+   "revenue": 117000198,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No stray gets turned away.",
+   "title": "Hotel for Dogs",
+   "trailer": {
+    "key": "5m-QGsAN_Fw",
+    "name": "HOTEL FOR DOGS (2009) | International Trailer C | Amblin",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 939
   },
   "movie:1522689": {
    "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
@@ -1719,6 +2352,155 @@
    "vote_average": 7.332,
    "vote_count": 324
   },
+  "movie:1989": {
+   "backdrop_path": "/tj8T9OIM0E51Jf61RJbRbG6vnIJ.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Elizabeth",
+     "n": "Norah Jones"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Arnie",
+     "n": "David Strathairn"
+    },
+    {
+     "c": "Sue Lynne",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Leslie",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Katya",
+     "n": "Cat Power"
+    },
+    {
+     "c": "Travis",
+     "n": "Frankie Faison"
+    },
+    {
+     "c": "Cowboy",
+     "n": "Michael Delano"
+    },
+    {
+     "c": "Boyfriend",
+     "n": "Chad R. Davis"
+    },
+    {
+     "c": "Girlfriend",
+     "n": "Katya Blumenberg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wong Kar-wai"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1989,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Elizabeth has just been through a particularly nasty breakup, and now she's ready to leave her friends and memories behind as she chases her dreams across the country. In order to support herself on her journey, Elizabeth picks up a series of waitress jobs along the way. As Elizabeth crosses paths with a series of lost souls whose yearnings are even greater than her own, their emotional turmoil ultimately helps her gain a greater understanding of her own problems...",
+   "popularity": 3.7451,
+   "poster_path": "/w9w3m2IB9QRZXxi6R51ZamKv3HS.jpg",
+   "production_countries": [
+    "FR",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-11-28",
+   "revenue": 21800000,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How do you say goodbye to someone you can't imagine living without?",
+   "title": "My Blueberry Nights",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.404,
+   "vote_count": 880
+  },
   "movie:209189": {
    "backdrop_path": "/zxxIzU6XjzTQKS9pPeLmYTDTFL1.jpg",
    "budget": 12000000,
@@ -2421,6 +3203,175 @@
    "vote_average": 5.928,
    "vote_count": 423
   },
+  "movie:284689": {
+   "backdrop_path": "/jD0mmfqPRpvJUaPdpLl1vMj38CA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vera Brittain",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Roland Leighton",
+     "n": "Kit Harington"
+    },
+    {
+     "c": "Edward Brittain",
+     "n": "Taron Egerton"
+    },
+    {
+     "c": "Victor Richardson",
+     "n": "Colin Morgan"
+    },
+    {
+     "c": "Mr. Brittain",
+     "n": "Dominic West"
+    },
+    {
+     "c": "Mrs. Brittain",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Hope Milroy",
+     "n": "Hayley Atwell"
+    },
+    {
+     "c": "Mrs. Leighton",
+     "n": "Anna Chancellor"
+    },
+    {
+     "c": "Miss Lorimer",
+     "n": "Miranda Richardson"
+    },
+    {
+     "c": "Aunt Belle",
+     "n": "Joanna Scanlan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Kent"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "War"
+   ],
+   "id": 284689,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Testament of Youth is a powerful story of love, war and remembrance, based on the First World War memoir by Vera Brittain, which has become the classic testimony of that war from a woman’s point of view. A searing journey from youthful hopes and dreams to the edge of despair and back again, it’s a film about young love, the futility of war and how to make sense of the darkest times.",
+   "popularity": 1.9012,
+   "poster_path": "/a6kFsaDCulCLfYHmKLDKTYaddM4.jpg",
+   "production_countries": [
+    "DK",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-01-16",
+   "revenue": 1822250,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Divided by war. United by love.",
+   "title": "Testament of Youth",
+   "trailer": {
+    "key": "gmr6fWhhyaM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.245,
+   "vote_count": 815
+  },
   "movie:287689": {
    "backdrop_path": "/iCP1SCtQfb8p071TZmsLQYbHO78.jpg",
    "budget": 0,
@@ -2793,6 +3744,131 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 304
+  },
+  "movie:328589": {
+   "backdrop_path": "/wG9aQDcbHbk2vzIKwt4XXYroIsN.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Miss Shepherd",
+     "n": "Maggie Smith"
+    },
+    {
+     "c": "Alan Bennett",
+     "n": "Alex Jennings"
+    },
+    {
+     "c": "Ursula Vaughan Williams",
+     "n": "Frances de la Tour"
+    },
+    {
+     "c": "Mam",
+     "n": "Gwen Taylor"
+    },
+    {
+     "c": "Theatre Actor",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Street Trader",
+     "n": "James Corden"
+    },
+    {
+     "c": "Rufus",
+     "n": "Roger Allam"
+    },
+    {
+     "c": "Jehovah's Witness",
+     "n": "Samuel Anderson"
+    },
+    {
+     "c": "Priest",
+     "n": "Dermot Crowley"
+    },
+    {
+     "c": "Underwood",
+     "n": "Jim Broadbent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nicholas Hytner"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 328589,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The true story of the relationship between Alan Bennett and the singular Miss Shepherd, a woman of uncertain origins who ‘temporarily’ parked her van in Bennett’s London driveway and proceeded to live there for 15 years.",
+   "popularity": 2.6465,
+   "poster_path": "/sqz4CGInI1bysFH674HYWtQSmYn.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-10-30",
+   "revenue": 41387687,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A mostly true story",
+   "title": "The Lady in the Van",
+   "trailer": {
+    "key": "_dm-a9R763A",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.395,
+   "vote_count": 826
   },
   "movie:341689": {
    "backdrop_path": "/jtYhUNYtx4LXdCUiFFjUL9yDzSd.jpg",
@@ -3477,6 +4553,284 @@
    "vote_average": 6.429,
    "vote_count": 389
   },
+  "movie:477489": {
+   "backdrop_path": "/y6Zh9ICQDjfwI4kChGzDmq9Ku7p.jpg",
+   "budget": 13749400,
+   "cast": [
+    {
+     "c": "Mathieu",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Anna",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Sarah",
+     "n": "Fantine Harduin"
+    },
+    {
+     "c": "Lucien",
+     "n": "Michel Robin"
+    },
+    {
+     "c": "Colette",
+     "n": "Anna Gaylor"
+    },
+    {
+     "c": "Noé",
+     "n": "Réphaël Ghrenassia"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Erja Malatier"
+    },
+    {
+     "c": "Drunk Policeman",
+     "n": "Alexis Manenti"
+    },
+    {
+     "c": "Monsieur Belkacem",
+     "n": "Maurice Antoni"
+    },
+    {
+     "c": "Young Soldier",
+     "n": "Robin Barde"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Daniel Roby"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 477489,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When a deadly mist engulfs Paris, people find refuge in the upper floors of the buildings. With no information, no electricity and hardly any supplies, Mathieu, Anna and their daughter Sarah try to survive the disaster.",
+   "popularity": 1.5512,
+   "poster_path": "/hjePJQDv7GitTrEU67TANuhbytv.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-04-04",
+   "revenue": 2842040,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Don't breathe. Don't stop.",
+   "title": "Just a Breath Away",
+   "trailer": {
+    "key": "4eU52Gh3P08",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.317,
+   "vote_count": 879
+  },
+  "movie:48289": {
+   "backdrop_path": "/zKK43d0ilNFmhmLUARWow5WlHVr.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Rachel Singer",
+     "n": "Helen Mirren"
+    },
+    {
+     "c": "Stefan Gold",
+     "n": "Tom Wilkinson"
+    },
+    {
+     "c": "Young David Peretz",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "David Peretz",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Young Rachel Singer",
+     "n": "Jessica Chastain"
+    },
+    {
+     "c": "Young Stefan Gold",
+     "n": "Marton Csokas"
+    },
+    {
+     "c": "Dieter Vogel",
+     "n": "Jesper Christensen"
+    },
+    {
+     "c": "Sarah Gold",
+     "n": "Romi Aboulafia"
+    },
+    {
+     "c": "Politicians Wife",
+     "n": "Adar Beck"
+    },
+    {
+     "c": "Ivan Schevchuk",
+     "n": "Morris Perry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Madden"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 48289,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "HU"
+   ],
+   "original_language": "en",
+   "overview": "Rachel Singer is a former Mossad agent who tried to capture a notorious Nazi war criminal – the Surgeon of Birkenau – in a secret Israeli mission that ended with his death on the streets of East Berlin. Now, 30 years later, a man claiming to be the doctor has surfaced, and Rachel must return to Eastern Europe to uncover the truth. Overwhelmed by haunting memories of her younger self and her two fellow agents, the still-celebrated heroine must relive the trauma of those events and confront the debt she has incurred.",
+   "popularity": 2.4171,
+   "poster_path": "/zlavkPAIzIIQppcU9vcQrKZjfmb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-09-30",
+   "revenue": 45636368,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Every secret comes with a price.",
+   "title": "The Debt",
+   "trailer": {
+    "key": "ApMEDQbV2cI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.547,
+   "vote_count": 999
+  },
   "movie:56589": {
    "backdrop_path": "/xHrt20Evw8KBz0MGgRTofQNV6ly.jpg",
    "budget": 0,
@@ -3564,6 +4918,114 @@
    "type": "movie",
    "vote_average": 6.667,
    "vote_count": 300
+  },
+  "movie:583689": {
+   "backdrop_path": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vivian Carter",
+     "n": "Hadley Robinson"
+    },
+    {
+     "c": "Claudia",
+     "n": "Lauren Tsai"
+    },
+    {
+     "c": "Lucy Hernandez",
+     "n": "Alycia Pascual-Peña"
+    },
+    {
+     "c": "Seth Acosta",
+     "n": "Nico Hiraga"
+    },
+    {
+     "c": "Kaitlynn Price",
+     "n": "Sabrina Haskett"
+    },
+    {
+     "c": "Mitchell Wilson",
+     "n": "Patrick Schwarzenegger"
+    },
+    {
+     "c": "Kiera Pascal",
+     "n": "Sydney Park"
+    },
+    {
+     "c": "Amaya",
+     "n": "Anjelika Washington"
+    },
+    {
+     "c": "CJ",
+     "n": "Josie Totah"
+    },
+    {
+     "c": "Lisa Carter",
+     "n": "Amy Poehler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Amy Poehler"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "id": 583689,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+   "popularity": 2.1841,
+   "poster_path": "/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-03-03",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Find your voice.",
+   "title": "Moxie",
+   "trailer": {
+    "key": "Sf34qI1hjKU",
+    "name": "Moxie | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.189,
+   "vote_count": 883
   },
   "movie:5889": {
    "backdrop_path": "/oKGaTHGcveMKUalGLmEIt5CUgNj.jpg",
@@ -4230,6 +5692,128 @@
    "vote_average": 5.902,
    "vote_count": 468
   },
+  "movie:76589": {
+   "backdrop_path": "/8EKxPfuEMg1qP0E1r1ZAk56J7MP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Batman (voice)",
+     "n": "Kevin Conroy"
+    },
+    {
+     "c": "Superman (voice)",
+     "n": "Tim Daly"
+    },
+    {
+     "c": "Wonder Woman (voice)",
+     "n": "Susan Eisenberg"
+    },
+    {
+     "c": "Flash (voice)",
+     "n": "Michael Rosenbaum"
+    },
+    {
+     "c": "Martian Manhunter (voice)",
+     "n": "Carl Lumbly"
+    },
+    {
+     "c": "Metallo (voice)",
+     "n": "Paul Blackthorne"
+    },
+    {
+     "c": "Victor Stone / Cyborg (voice)",
+     "n": "Bumper Robinson"
+    },
+    {
+     "c": "Vandal Savage (voice)",
+     "n": "Phil Morris"
+    },
+    {
+     "c": "Green Lantern (voice)",
+     "n": "Nathan Fillion"
+    },
+    {
+     "c": "Bane (voice)",
+     "n": "Carlos Alazraqui"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lauren Montgomery"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Science Fiction",
+    "Fantasy"
+   ],
+   "id": 76589,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+   "popularity": 2.3055,
+   "poster_path": "/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-02-28",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The end of justice.",
+   "title": "Justice League: Doom",
+   "trailer": {
+    "key": "dBh4HdaEE6A",
+    "name": "Justice League: Doom Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.408,
+   "vote_count": 967
+  },
   "movie:8289": {
    "backdrop_path": "/dO8qUkabhQwBy8lPGawtvWQkdKd.jpg",
    "budget": 0,
@@ -4334,6 +5918,117 @@
    "type": "movie",
    "vote_average": 6.322,
    "vote_count": 360
+  },
+  "movie:889": {
+   "backdrop_path": "/5TgtoN4NjBsRD8PksQSDdWVjuWC.jpg",
+   "budget": 83000000,
+   "cast": [
+    {
+     "c": "Fred Flintstone",
+     "n": "Mark Addy"
+    },
+    {
+     "c": "Barney Rubble",
+     "n": "Stephen Baldwin"
+    },
+    {
+     "c": "Wilma Slaghoople",
+     "n": "Kristen Johnston"
+    },
+    {
+     "c": "Betty O'Shale",
+     "n": "Jane Krakowski"
+    },
+    {
+     "c": "Pearl Slaghoople",
+     "n": "Joan Collins"
+    },
+    {
+     "c": "Chip Rockefeller",
+     "n": "Thomas Gibson"
+    },
+    {
+     "c": "The Great Gazoo / Mick Jagged",
+     "n": "Alan Cumming"
+    },
+    {
+     "c": "Colonel Slaghoople",
+     "n": "Harvey Korman"
+    },
+    {
+     "c": "Roxie",
+     "n": "Alex Meneses"
+    },
+    {
+     "c": "Keith Richrock",
+     "n": "John Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brian Levant"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+   ],
+   "id": 889,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Flintstones are at it again. The Flintstones and the Rubbles head for Rock Vegas with Fred hoping to court the lovely Wilma. Nothing will stand in the way of love, except for the conniving Chip Rockefeller who is the playboy born in Baysville but who has made it in the cutthroat town of Rock Vegas. Will Fred win Wilma's love?",
+   "popularity": 2.5332,
+   "poster_path": "/o4pijWLImp7TQ64Yg2nuUYzdiDy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-04-28",
+   "revenue": 59468275,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready to rock!",
+   "title": "The Flintstones in Viva Rock Vegas",
+   "trailer": {
+    "key": "Eu3zeVVu3ME",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.8,
+   "vote_count": 849
   },
   "movie:93289": {
    "backdrop_path": "/sf3LLFDjkZIABUnHi2tIY02az5r.jpg",

@@ -1,7 +1,199 @@
 {
  "bucket": "23",
- "count": 65,
+ "count": 72,
  "titles": {
+  "movie:1023": {
+   "d": "Adam's Apples (2005): Drama/Comedy film. Story: A neo-nazi sentenced to community service at a church… See cast, budget $3.7M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+   "industry": "world",
+   "k": "Adam's Apples, Adam's Apples movie, Adam's Apples cast, Adam's Apples story, Adam's Apples box office collection, Adam's Apples budget, Adam's Apples review, Adam's Apples rating, Adam's Apples release date, Adam's Apples Drama, Adam's Apples Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mads Mikkelsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ulrich Thomsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Paprika Steen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ole Thestrup"
+     },
+     {
+      "@type": "Person",
+      "name": "Nikolaj Lie Kaas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 838,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Adam's Apples (2005): Drama/Comedy film. Story: A neo-nazi sentenced to community service at a church… See cast, budget $3.7M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anders Thomas Jensen"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1023",
+    "name": "Adam's Apples",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-04-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1023"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Adam&#x27;s Apples (2005)</h1>\n<p class=\"ssr-lead\">A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 April 2005</li><li>Runtime: 95 minutes</li><li>Director: Anders Thomas Jensen</li><li>Genres: Drama, Comedy, Crime</li><li>Budget: $3.7M</li><li>TMDB rating: 7.5/10 (838 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mads Mikkelsen as Ivan</li><li>Ulrich Thomsen as Adam</li><li>Paprika Steen as Sarah</li><li>Ole Thestrup as Dr. Kolberg</li><li>Nikolaj Lie Kaas as Holger</li><li>Nicolas Bro as Gunnar</li><li>Ali Kazim as Khalid</li><li>Gyrd Løfquist as Poul</li><li>Lars Ranthe as Esben</li><li>Peter Reichhardt as Nalle</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Viaplay Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Adam's Apples (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
+  "movie:10323": {
+   "d": "Clash of the Titans (1981): Adventure/Fantasy film. Story: To win the right to marry his love, the beautiful… See cast, budget $12M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rX42FtLbTQC0936u12pYNeuRGyF.jpg",
+   "industry": "world",
+   "k": "Clash of the Titans, Clash of the Titans movie, Clash of the Titans cast, Clash of the Titans story, Clash of the Titans box office collection, Clash of the Titans budget, Clash of the Titans review, Clash of the Titans rating, Clash of the Titans release date, Clash of the Titans trailer, Clash of the Titans Adventure, Clash of the Titans Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Harry Hamlin"
+     },
+     {
+      "@type": "Person",
+      "name": "Judi Bowker"
+     },
+     {
+      "@type": "Person",
+      "name": "Burgess Meredith"
+     },
+     {
+      "@type": "Person",
+      "name": "Maggie Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Ursula Andress"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 914,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Clash of the Titans (1981): Adventure/Fantasy film. Story: To win the right to marry his love, the beautiful… See cast, budget $12M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Desmond Davis"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rX42FtLbTQC0936u12pYNeuRGyF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10323",
+    "name": "Clash of the Titans",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1981-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10323"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Clash of the Titans (1981)</h1>\n<p class=\"ssr-lead\">To win the right to marry his love, the beautiful princess Andromeda, and fulfil his destiny, half-God-half-mortal Perseus must complete various tasks including taming Pegasus, capturing Medusa&#x27;s head and battling the feared Kraken.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 1981</li><li>Runtime: 118 minutes</li><li>Director: Desmond Davis</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $12M</li><li>TMDB rating: 6.9/10 (914 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harry Hamlin as Perseus</li><li>Judi Bowker as Andromeda</li><li>Burgess Meredith as Ammon</li><li>Maggie Smith as Thetis</li><li>Ursula Andress as Aphrodite</li><li>Claire Bloom as Hera</li><li>Siân Phillips as Cassiopeia</li><li>Flora Robson as A Stygian Witch</li><li>Laurence Olivier as Zeus</li><li>Tim Pigott-Smith as Thallo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Clash of the Titans (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1981"
+  },
+  "movie:10423": {
+   "d": "Dragon: The Bruce Lee Story (1993): Drama/History film. Story: This film is a glimpse into the life, love and the… See cast and budget $14M.",
+   "img": "https://image.tmdb.org/t/p/w780/xbDyMo2ZRHc6FIZP4U9VrFt8NLT.jpg",
+   "industry": "world",
+   "k": "Dragon: The Bruce Lee Story, Dragon: The Bruce Lee Story movie, Dragon: The Bruce Lee Story cast, Dragon: The Bruce Lee Story story, Dragon: The Bruce Lee Story box office collection, Dragon: The Bruce Lee Story budget, Dragon: The Bruce Lee Story review, Dragon: The Bruce Lee Story rating, Dragon: The Bruce Lee Story release date, Dragon: The Bruce Lee Story Drama, Dragon: The Bruce Lee Story History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Scott Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Lauren Holly"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Wagner"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Learned"
+     },
+     {
+      "@type": "Person",
+      "name": "Nancy Kwan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 834,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Dragon: The Bruce Lee Story (1993): Drama/History film. Story: This film is a glimpse into the life, love and the… See cast and budget $14M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rob Cohen"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xbDyMo2ZRHc6FIZP4U9VrFt8NLT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10423",
+    "name": "Dragon: The Bruce Lee Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-05-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10423"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon: The Bruce Lee Story (1993)</h1>\n<p class=\"ssr-lead\">This film is a glimpse into the life, love and the unconquerable spirit of the legendary Bruce Lee. From a childhood of rigorous martial arts training, Lee realizes his dream of opening his own kung-fu school in America. Before long, he is discovered by a Hollywood producer and begins a meteoric rise to fame and an all too short reign as one the most charismatic action heroes in cinema history.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 May 1993</li><li>Runtime: 120 minutes</li><li>Director: Rob Cohen</li><li>Genres: Drama, History, Action</li><li>Budget: $14M</li><li>TMDB rating: 6.9/10 (834 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Scott Lee as Bruce Lee</li><li>Lauren Holly as Linda Lee</li><li>Robert Wagner as Bill Krieger</li><li>Michael Learned as Vivian Emery</li><li>Nancy Kwan as Gussie Yang</li><li>Lim Kay Tong as Philip Tan</li><li>Ric Young as Bruce&#x27;s Father</li><li>Wang Luoyong as Yip Man</li><li>Sterling Macer Jr. as Jerome Sprout</li><li>Sven-Ole Thorsen as The Demon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Dragon: The Bruce Lee Story (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
   "movie:11123": {
    "d": "Earthquake (1974): Drama film. Story: Various interconnected people struggle to survive… See cast, budget $7M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
@@ -1283,6 +1475,70 @@
    "t": "Shrek 3-D (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
   },
+  "movie:25623": {
+   "d": "House (1977): Comedy/Fantasy film. Story: Hoping to find a sense of connection to her late… See cast, TMDB rating 7.3/10, and release date 26 August 1977.",
+   "img": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
+   "industry": "world",
+   "k": "House, House movie, House cast, House story, House box office collection, House budget, House review, House rating, House release date, House Comedy, House Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kimiko Ikegami"
+     },
+     {
+      "@type": "Person",
+      "name": "Miki Jinbo"
+     },
+     {
+      "@type": "Person",
+      "name": "Kumiko Ohba"
+     },
+     {
+      "@type": "Person",
+      "name": "Ai Matsubara"
+     },
+     {
+      "@type": "Person",
+      "name": "Mieko Satoh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 863,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "House (1977): Comedy/Fantasy film. Story: Hoping to find a sense of connection to her late… See cast, TMDB rating 7.3/10, and release date 26 August 1977.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nobuhiko Obayashi"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25623",
+    "name": "House",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1977-08-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25623"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>House (1977)</h1>\n<p class=\"ssr-lead\">Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt&#x27;s ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 1977</li><li>Runtime: 88 minutes</li><li>Director: Nobuhiko Obayashi</li><li>Genres: Comedy, Fantasy, Horror</li><li>TMDB rating: 7.3/10 (863 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kimiko Ikegami as Gorgeous / Gorgeous&#x27; Mother</li><li>Miki Jinbo as Kung Fu</li><li>Kumiko Ohba as Fantasy</li><li>Ai Matsubara as Prof</li><li>Mieko Satoh as Mac</li><li>Eriko Tanaka as Melody</li><li>Masayo Miyako as Sweet</li><li>Yōko Minamida as Auntie Karei Hausu</li><li>Kiyohiko Ozaki as Keisuke Togo</li><li>Saho Sasazawa as Daddy Kogarashi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, TCM, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "House (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1977"
+  },
   "movie:285423": {
    "d": "Jarhead 2: Field of Fire (2014): War/Action film. Story: Battle-scarred and disillusioned by the war, Corporal… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/e3mb4TdBQi0KitKjgrK4b737jch.jpg",
@@ -1854,6 +2110,70 @@
    "t": "Final Analysis (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:505423": {
+   "d": "Wounds (2019): Horror/Mystery film. Story: Disturbing and mysterious things begin to happen to a… See cast and TMDB rating 4.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mTD9KWZiIRaSgRq4g9re9yDndTN.jpg",
+   "industry": "world",
+   "k": "Wounds, Wounds movie, Wounds cast, Wounds story, Wounds box office collection, Wounds budget, Wounds review, Wounds rating, Wounds release date, Wounds trailer, Wounds Horror, Wounds Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Armie Hammer"
+     },
+     {
+      "@type": "Person",
+      "name": "Dakota Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Zazie Beetz"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad William Henke"
+     },
+     {
+      "@type": "Person",
+      "name": "Karl Glusman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 888,
+     "ratingValue": 4.0,
+     "worstRating": 0
+    },
+    "description": "Wounds (2019): Horror/Mystery film. Story: Disturbing and mysterious things begin to happen to a… See cast and TMDB rating 4.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Babak Anvari"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mTD9KWZiIRaSgRq4g9re9yDndTN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=505423",
+    "name": "Wounds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=505423"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wounds (2019)</h1>\n<p class=\"ssr-lead\">Disturbing and mysterious things begin to happen to a bartender in New Orleans after he picks up a phone left behind at his bar.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 January 2019</li><li>Runtime: 95 minutes</li><li>Director: Babak Anvari</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 4.0/10 (888 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Armie Hammer as Will</li><li>Dakota Johnson as Carrie</li><li>Zazie Beetz as Alicia</li><li>Brad William Henke as Eric</li><li>Karl Glusman as Jeffrey</li><li>Christin Rankins as Mary</li><li>Benny Thrasher as Jason</li><li>Alexander Biglane as Garrett</li><li>Matthew Underwood as Eric&#x27;s Friend</li><li>Oren Hawxhurst as Marwin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Wounds (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:53023": {
    "d": "Happiness (1965): Drama/Romance film. Story: Though married to the good-natured, beautiful… See cast, TMDB rating 7.5/10, and release date 10 February 1965.",
    "img": "https://image.tmdb.org/t/p/w780/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
@@ -1917,6 +2237,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Happiness (1965)</h1>\n<p class=\"ssr-lead\">Though married to the good-natured, beautiful Thérèse, young husband and father François finds himself falling unquestioningly into an affair with an attractive postal worker.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 February 1965</li><li>Runtime: 80 minutes</li><li>Director: Agnès Varda</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.5/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Drouot as François Chevalier</li><li>Claire Drouot as Thérèse Chevalier</li><li>Olivier Drouot as Pierrot Chevalier</li><li>Sandrine Drouot as Gisou Chevalier</li><li>Marie-France Boyer as Émilie Savignard</li><li>Marcelle Faure-Bertin as Bertin</li><li>Manon Lanclos as Mrs. Mesquier</li><li>Sylvia Saurel as Yvette Mercier</li><li>Marc Eyraud as Joseph Chevalier</li><li>Christian Riehl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
    "t": "Happiness (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1965"
+  },
+  "movie:530723": {
+   "d": "Bad Education (2019): Drama/Crime film. Story: A superintendent of a school district works for the… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
+   "industry": "world",
+   "k": "Bad Education, Bad Education movie, Bad Education cast, Bad Education story, Bad Education box office collection, Bad Education budget, Bad Education review, Bad Education rating, Bad Education release date, Bad Education Drama, Bad Education Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Jackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Allison Janney"
+     },
+     {
+      "@type": "Person",
+      "name": "Geraldine Viswanathan"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Wolff"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafael Casal"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 815,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Bad Education (2019): Drama/Crime film. Story: A superintendent of a school district works for the… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cory Finley"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=530723",
+    "name": "Bad Education",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=530723"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Education (2019)</h1>\n<p class=\"ssr-lead\">A superintendent of a school district works for the betterment of the student’s education when an embezzlement scheme is discovered, threatening to destroy everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2019</li><li>Runtime: 109 minutes</li><li>Director: Cory Finley</li><li>Genres: Drama, Crime, History</li><li>TMDB rating: 6.7/10 (815 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Jackman as Frank Tassone</li><li>Allison Janney as Pam Gluckin</li><li>Geraldine Viswanathan as Rachel Bhargava</li><li>Alex Wolff as Nick Fleischman</li><li>Rafael Casal as Kyle Contreras</li><li>Stephen Spinella as Thomas &#x27;Tom&#x27; Tuggiero</li><li>Annaleigh Ashford as Jenny Aquila</li><li>Ray Romano as Big Bob Spicer</li><li>Hari Dhillon as David Bhargava</li><li>Jeremy Shamos as Phil Metzger</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Bad Education (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:55823": {
    "d": "The Great War (1959): Comedy/War film. Story: Italy, 1916. Oreste Jacovacci and Giovanni Busacca… See cast and TMDB rating 8.1/10.",
@@ -2107,6 +2491,69 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kidz (2020)</h1>\n<p class=\"ssr-lead\">Sara and Nicola are married and in love. Their lives seem to be perfect: they have an angelic six-year-old daughter, thriving careers and a stable marriage. The birth of their second child, which disrupts the family balance, leads to tragicomic scenarios.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 2020</li><li>Runtime: 98 minutes</li><li>Director: Giuseppe Bonito</li><li>Genres: Comedy</li><li>TMDB rating: 6.0/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Valerio Mastandrea as Nicola</li><li>Paola Cortellesi as Sara</li><li>Stefano Fresi as L&#x27;amico giornalista</li><li>Valerio Aprea as Il padre separato</li><li>Paolo Calabresi as Il padre con molti figli</li><li>Andrea Sartoretti as Il padre milionario</li><li>Massimo De Lorenzo as Il cliente</li><li>Gianfelice Imparato as Il prete</li><li>Carlo Luca De Ruggieri as Luca</li><li>Luca Amorosino as Andrea</li></ul>\n</article>",
    "t": "Kidz (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:689723": {
+   "d": "Dangerous Lies (2020): Thriller film. Story: After losing her waitressing job, Katie Franklin… See cast, TMDB rating 6.3/10, and release date 30 April 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/tuqv0jb0o7sBOivgkagKJHuO6X4.jpg",
+   "industry": "world",
+   "k": "Dangerous Lies, Dangerous Lies movie, Dangerous Lies cast, Dangerous Lies story, Dangerous Lies box office collection, Dangerous Lies budget, Dangerous Lies review, Dangerous Lies rating, Dangerous Lies release date, Dangerous Lies trailer, Dangerous Lies Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Camila Mendes"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessie T. Usher"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Chung"
+     },
+     {
+      "@type": "Person",
+      "name": "Cam Gigandet"
+     },
+     {
+      "@type": "Person",
+      "name": "Sasha Alexander"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 921,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Dangerous Lies (2020): Thriller film. Story: After losing her waitressing job, Katie Franklin… See cast, TMDB rating 6.3/10, and release date 30 April 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael M. Scott"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tuqv0jb0o7sBOivgkagKJHuO6X4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=689723",
+    "name": "Dangerous Lies",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-04-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=689723"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dangerous Lies (2020)</h1>\n<p class=\"ssr-lead\">After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she&#x27;s going to survive, Katie will have to question everyone&#x27;s motives — even the people she loves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 April 2020</li><li>Runtime: 96 minutes</li><li>Director: Michael M. Scott</li><li>Genres: Thriller</li><li>TMDB rating: 6.3/10 (921 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Camila Mendes as Katie</li><li>Jessie T. Usher as Adam</li><li>Jamie Chung as Julia Byron Lee</li><li>Cam Gigandet as Mickey Hayden</li><li>Sasha Alexander as Detective Chesler</li><li>Elliott Gould as Leonard</li><li>Michael P. Northey as George Calvern</li><li>Sean Owen Roberts as Ray Gaskin</li><li>Trevor Lerner as Reggie Farrow</li><li>Joe Costa as Dwight</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Dangerous Lies (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
   "movie:787723": {

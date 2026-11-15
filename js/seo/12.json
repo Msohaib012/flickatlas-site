@@ -1,7 +1,70 @@
 {
  "bucket": "12",
- "count": 50,
+ "count": 58,
  "titles": {
+  "movie:10012": {
+   "d": "Cursed (2005): Horror film. Story: A werewolf loose in Los Angeles changes the lives of… See cast, budget $35M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aJ4s9UjVdmkmsnx9NHpmdUqZxlz.jpg",
+   "industry": "world",
+   "k": "Cursed, Cursed movie, Cursed cast, Cursed story, Cursed box office collection, Cursed budget, Cursed review, Cursed rating, Cursed release date, Cursed trailer, Cursed Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christina Ricci"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jesse Eisenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Judy Greer"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Baio"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 917,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "Cursed (2005): Horror film. Story: A werewolf loose in Los Angeles changes the lives of… See cast, budget $35M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wes Craven"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aJ4s9UjVdmkmsnx9NHpmdUqZxlz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10012",
+    "name": "Cursed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-02-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10012"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cursed (2005)</h1>\n<p class=\"ssr-lead\">A werewolf loose in Los Angeles changes the lives of three young adults who, after being mauled by the beast, learn that the only way to break the curse put upon them is to kill the one who started it all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 2005</li><li>Runtime: 97 minutes</li><li>Director: Wes Craven</li><li>Genres: Horror</li><li>Budget: $35M</li><li>TMDB rating: 5.3/10 (917 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christina Ricci as Ellie</li><li>Joshua Jackson as Jake</li><li>Jesse Eisenberg as Jimmy</li><li>Judy Greer as Joannie</li><li>Scott Baio as Scott Baio</li><li>Milo Ventimiglia as Bo</li><li>Kristina Anapau as Brooke</li><li>Portia de Rossi as Zela</li><li>Shannon Elizabeth as Becky</li><li>Mya as Jenny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Cursed (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:103112": {
    "d": "Olé (2006): Comedy film. Story: Two quarreling teachers vie for the same woman. In… See cast, budget $2.2M, and TMDB rating 4.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/tN7oA9zSQQICIPxBr3xS1ekFrLR.jpg",
@@ -511,6 +574,73 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Chaos Theory (2008)</h1>\n<p class=\"ssr-lead\">Frank Allen, a professional speaker who lectures on time management has a perfectly ordered and scheduled life, down to the minute. When his wife sets his clock forward 10 minutes as a joke, his day is thrown off. Deciding that his strictly ordered life has done him little good, he begins to make multiple choice index cards, choosing one at random and doing what is written on the card.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 April 2008</li><li>Runtime: 87 minutes</li><li>Director: Marcos Siega</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 6.4/10 (490 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Reynolds as Frank Allen</li><li>Emily Mortimer as Susan Allen</li><li>Stuart Townsend as Buddy Endrow</li><li>Matreya Fedor as Jesse Allen (7 years)</li><li>Sarah Chalke as Paula Crowe</li><li>Mike Erwin as Ed</li><li>Constance Zimmer as Peg the Teacher</li><li>Elisabeth Harnois as Jesse Allen</li><li>Chris William Martin as Damon</li><li>Jovanna Huguet as Maid of Honor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Chaos Theory (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:13312": {
+   "d": "Inside (2007): Horror film. Story: Months after a tragic accident, Sarah, a young… See cast, budget $3M, TMDB rating 6.8/10, and release date 13 June 2007.",
+   "img": "https://image.tmdb.org/t/p/w780/iumvooyF68waPmQUJ5gfxAurEWi.jpg",
+   "industry": "world",
+   "k": "Inside, Inside movie, Inside cast, Inside story, Inside box office collection, Inside budget, Inside review, Inside rating, Inside release date, Inside Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alysson Paradis"
+     },
+     {
+      "@type": "Person",
+      "name": "Béatrice Dalle"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathalie Roussel"
+     },
+     {
+      "@type": "Person",
+      "name": "François-Régis Marchasson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Baptiste Tabourin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 994,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Inside (2007): Horror film. Story: Months after a tragic accident, Sarah, a young… See cast, budget $3M, TMDB rating 6.8/10, and release date 13 June 2007.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julien Maury"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandre Bustillo"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iumvooyF68waPmQUJ5gfxAurEWi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13312",
+    "name": "Inside",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13312"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Inside (2007)</h1>\n<p class=\"ssr-lead\">Months after a tragic accident, Sarah, a young pregnant woman, must spend Christmas Eve alone in her house before giving birth the next day. But in the middle of the night, a creepy visitor knocks at her door willing to do anything to get what they want, setting off a night of pure terror.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 2007</li><li>Runtime: 83 minutes</li><li>Director: Julien Maury, Alexandre Bustillo</li><li>Genres: Horror</li><li>Budget: $3M</li><li>TMDB rating: 6.8/10 (994 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alysson Paradis as Sarah Scarangelo</li><li>Béatrice Dalle as The Woman</li><li>Nathalie Roussel as Louise Scarangelo</li><li>François-Régis Marchasson as Jean-Pierre Montalban</li><li>Jean-Baptiste Tabourin as Matthieu</li><li>Dominique Frot as The Nurse</li><li>Claude Lulé as The Doctor</li><li>Hyam Zaytoun as Police Officer</li><li>Tahar Rahim as Police Officer</li><li>Emmanuel Guez as Police Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Inside (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:1376412": {
    "d": "The Price to Pay (2026): Thriller/Drama film. Story: In the competitive landscape of French retail, Audrey… See cast and TMDB rating 6.5/10.",
@@ -1024,6 +1154,70 @@
    "t": "Angst (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
   },
+  "movie:20312": {
+   "d": "Interstate 60 (2002): Adventure/Fantasy film. Story: An aspiring painter meets various characters and… See cast, budget $7M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+   "industry": "world",
+   "k": "Interstate 60, Interstate 60 movie, Interstate 60 cast, Interstate 60 story, Interstate 60 box office collection, Interstate 60 budget, Interstate 60 review, Interstate 60 rating, Interstate 60 release date, Interstate 60 Adventure, Interstate 60 Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Marsden"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Oldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Smart"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Lloyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Cooper"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 862,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Interstate 60 (2002): Adventure/Fantasy film. Story: An aspiring painter meets various characters and… See cast, budget $7M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bob Gale"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20312",
+    "name": "Interstate 60",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20312"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Interstate 60 (2002)</h1>\n<p class=\"ssr-lead\">An aspiring painter meets various characters and learns valuable lessons while traveling across America.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2002</li><li>Runtime: 116 minutes</li><li>Director: Bob Gale</li><li>Genres: Adventure, Fantasy, Drama</li><li>Budget: $7M</li><li>TMDB rating: 7.4/10 (862 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Marsden as Neal Oliver</li><li>Gary Oldman as O.W. Grant</li><li>Amy Smart as Lynn Linden</li><li>Christopher Lloyd as Ray</li><li>Chris Cooper as Bob Cody</li><li>Matthew Edison as Quincy</li><li>Wayne Robson as Tolbert</li><li>Michael J. Fox as Mr. Baker</li><li>John Bourgeois as Dad</li><li>Melyssa Ade as Sally</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Warriors and Gangsters Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Interstate 60 (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:21712": {
    "d": "Mind Game (2004): Animation/Romance film. Story: Nishi is a loser who has a crush on his childhood… See cast and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/19SRSM2ybfVpCBxBFLXwyD18WkM.jpg",
@@ -1151,6 +1345,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Nightwatch (1997)</h1>\n<p class=\"ssr-lead\">A law student takes a job as a night watchman at a morgue and begins to discover clues that implicate him as the suspect in a series of murders.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 January 1997</li><li>Runtime: 102 minutes</li><li>Director: Ole Bornedal</li><li>Genres: Drama, Horror, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 6.1/10 (465 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ewan McGregor as Martin Bells</li><li>Patricia Arquette as Katherine</li><li>Josh Brolin as James</li><li>Lauren Graham as Marie</li><li>Nick Nolte as Inspector Cray</li><li>Brad Dourif as Duty Doctor</li><li>Alix Koromzay as Joyce</li><li>Lonny Chapman as Old Watchman</li><li>Anais Evans as Leanne</li><li>Erich Anderson as Newscaster</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Nightwatch (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
+  },
+  "movie:2312": {
+   "d": "In the Name of the King: A Dungeon Siege Tale (2007): Action/Adventure film. Story: A man named Farmer sets out to rescue his kidnapped… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/5M187YumwzNjEdc4AH14dl9yAeB.jpg",
+   "industry": "world",
+   "k": "In the Name of the King: A Dungeon Siege Tale, In the Name of the King: A Dungeon Siege Tale movie, In the Name of the King: A Dungeon Siege Tale cast, In the Name of the King: A Dungeon Siege Tale story, In the Name of the King: A Dungeon Siege Tale box office collection, In the Name of the King: A Dungeon Siege Tale budget, In the Name of the King: A Dungeon Siege Tale review, In the Name of the King: A Dungeon Siege Tale rating, In the Name of the King: A Dungeon Siege Tale release date, In the Name of the King: A Dungeon Siege Tale trailer, In the Name of the King: A Dungeon Siege Tale Action, In the Name of the King: A Dungeon Siege Tale Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Statham"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Liotta"
+     },
+     {
+      "@type": "Person",
+      "name": "Leelee Sobieski"
+     },
+     {
+      "@type": "Person",
+      "name": "John Rhys-Davies"
+     },
+     {
+      "@type": "Person",
+      "name": "Burt Reynolds"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 974,
+     "ratingValue": 4.8,
+     "worstRating": 0
+    },
+    "description": "In the Name of the King: A Dungeon Siege Tale (2007): Action/Adventure film. Story: A man named Farmer sets out to rescue his kidnapped… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Uwe Boll"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5M187YumwzNjEdc4AH14dl9yAeB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2312",
+    "name": "In the Name of the King: A Dungeon Siege Tale",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-11-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2312"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the Name of the King: A Dungeon Siege Tale (2007)</h1>\n<p class=\"ssr-lead\">A man named Farmer sets out to rescue his kidnapped wife and avenge the death of his son – two acts committed by the Krugs, a race of animal-warriors who are controlled by the evil Gallian.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2007</li><li>Runtime: 127 minutes</li><li>Director: Uwe Boll</li><li>Genres: Action, Adventure, Fantasy</li><li>Budget: $60M</li><li>TMDB rating: 4.8/10 (974 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Statham as Farmer</li><li>Ray Liotta as Gallian</li><li>Leelee Sobieski as Muriella</li><li>John Rhys-Davies as Merick</li><li>Burt Reynolds as King Konreid</li><li>Matthew Lillard as Duke Fallow</li><li>Brian J. White as Tarish</li><li>Claire Forlani as Solana</li><li>Ron Perlman as Norick</li><li>Kristanna Loken as Elora</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Hulu, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "In the Name of the King: A Dungeon Siege Tale (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:29912": {
    "d": "The Robe (1953): Drama/History film. Story: Drunk and disillusioned Roman, Marcellus Gallio, wins… See cast, budget $4.35M, and TMDB rating 6.8/10.",
@@ -1342,6 +1600,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ashby (2015)</h1>\n<p class=\"ssr-lead\">When new kid in town Ed Wallis is given an assignment to interview an older person, he turns to his mysterious neighbor, Ashby Holt for help. That new connection leads to unexpected journeys for both of them, as Ashby – who turns out to be a retired CIA assassin – deals with a terminal prognosis, and Ed deals with adjusting to life with his newly single mom and developing relationship with a brainy classmate, Eloise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 April 2015</li><li>Runtime: 102 minutes</li><li>Director: Tony McNamara</li><li>Genres: Drama, Romance, Comedy</li><li>TMDB rating: 6.2/10 (478 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mickey Rourke as Ashby Holt</li><li>Nat Wolff as Ed Wallis</li><li>Emma Roberts as Eloise</li><li>Sarah Silverman as June Wallis</li><li>Adam Aalderks as Valchek</li><li>Seth Dousman as Garry Smits</li><li>Kevin Dunn as Coach Bruton</li><li>Zachary Knighton as Father Ted</li><li>Michael Lerner as Entwhistle</li><li>John Enos III as Coach Wally</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Ashby (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:350312": {
+   "d": "Bāhubali 2: The Conclusion (2017): Action/Adventure film. Story: When Mahendra, the son of Bāhubali, learns about his… See cast and budget $31M.",
+   "img": "https://image.tmdb.org/t/p/w780/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg",
+   "industry": "bollywood",
+   "k": "Bāhubali 2: The Conclusion, Bāhubali 2: The Conclusion movie, Bāhubali 2: The Conclusion cast, Bāhubali 2: The Conclusion story, Bāhubali 2: The Conclusion box office collection, Bāhubali 2: The Conclusion budget, Bāhubali 2: The Conclusion review, Bāhubali 2: The Conclusion rating, Bāhubali 2: The Conclusion release date, Bāhubali 2: The Conclusion Action, Bāhubali 2: The Conclusion Adventure, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Prabhas"
+     },
+     {
+      "@type": "Person",
+      "name": "Rana Daggubati"
+     },
+     {
+      "@type": "Person",
+      "name": "Anushka Shetty"
+     },
+     {
+      "@type": "Person",
+      "name": "Sathyaraj"
+     },
+     {
+      "@type": "Person",
+      "name": "Nassar"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 906,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Bāhubali 2: The Conclusion (2017): Action/Adventure film. Story: When Mahendra, the son of Bāhubali, learns about his… See cast and budget $31M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "S. S. Rajamouli"
+     }
+    ],
+    "duration": "PT167M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=350312",
+    "name": "Bāhubali 2: The Conclusion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-04-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=350312"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bāhubali 2: The Conclusion (2017)</h1>\n<p class=\"ssr-lead\">When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 April 2017</li><li>Runtime: 167 minutes</li><li>Director: S. S. Rajamouli</li><li>Genres: Action, Adventure, Fantasy</li><li>Budget: $31M</li><li>TMDB rating: 7.5/10 (906 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Prabhas as Mahendra &#x27;Sivudu&#x27; Bāhubali / Amarendra Bāhubali</li><li>Rana Daggubati as Bhallaladeva</li><li>Anushka Shetty as Devasena</li><li>Sathyaraj as Karikala Kattappa Nadar</li><li>Nassar as Bijjaladeva</li><li>Ramya Krishnan as Sivagami</li><li>Subbaraju as Kumara Varma</li><li>Tamannaah Bhatia as Avanthika</li><li>Prudhviraj as Official in Kunthala Kingdom</li><li>Rohini as Sanga</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Sony Liv, VI movies and tv, Sonyliv Amazon Channel</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Bāhubali 2: The Conclusion (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:367412": {
    "d": "Whiplash (2013): Drama/Music film. Story: A ferocious, bullying music teacher teaches a… See cast, TMDB rating 7.8/10, and release date 18 January 2013.",
@@ -1778,6 +2100,70 @@
    "t": "It's Such a Beautiful Day (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:49012": {
+   "d": "Arthur (2011): Comedy/Romance film. Story: A drunken playboy stands to lose a wealthy… See cast, budget $40M, TMDB rating 5.6/10, and release date 8 April 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/p2h886S7r4znUYvp1ELOTq7jqUZ.jpg",
+   "industry": "world",
+   "k": "Arthur, Arthur movie, Arthur cast, Arthur story, Arthur box office collection, Arthur budget, Arthur review, Arthur rating, Arthur release date, Arthur trailer, Arthur Comedy, Arthur Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Russell Brand"
+     },
+     {
+      "@type": "Person",
+      "name": "Helen Mirren"
+     },
+     {
+      "@type": "Person",
+      "name": "Greta Gerwig"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Garner"
+     },
+     {
+      "@type": "Person",
+      "name": "Geraldine James"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 830,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Arthur (2011): Comedy/Romance film. Story: A drunken playboy stands to lose a wealthy… See cast, budget $40M, TMDB rating 5.6/10, and release date 8 April 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jason Winer"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/p2h886S7r4znUYvp1ELOTq7jqUZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49012",
+    "name": "Arthur",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49012"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Arthur (2011)</h1>\n<p class=\"ssr-lead\">A drunken playboy stands to lose a wealthy inheritance when he falls for a woman that his family doesn&#x27;t like.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2011</li><li>Runtime: 110 minutes</li><li>Director: Jason Winer</li><li>Genres: Comedy, Romance</li><li>Budget: $40M</li><li>TMDB rating: 5.6/10 (830 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Brand as Arthur</li><li>Helen Mirren as Hobson</li><li>Greta Gerwig as Naomi Quinn</li><li>Jennifer Garner as Susan Johnson</li><li>Geraldine James as Vivienne</li><li>Luis Guzmán as Bitterman</li><li>Nick Nolte as Burt Johnson</li><li>Peter Van Wagner as Naomi&#x27;s Dad</li><li>Christina Jacquelyn Calph as Tiffany</li><li>John Hodgman as Peter, Candy Store Manager</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Arthur (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:517412": {
    "d": "Tesla (2020): History/Drama film. Story: The story of the Promethean struggles of Nikola… See cast, budget $5M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/4tphk3VbqoRtCVuOzlEQxUrpR6c.jpg",
@@ -2036,6 +2422,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Everybody’s Everything (2019)</h1>\n<p class=\"ssr-lead\">The story of artist Lil Peep from his birth in Long Island and meteoric rise as a genre blending pop star &amp; style icon, to his death due to an accidental opioid overdose in Arizona at just 21 years of age.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2019</li><li>Runtime: 116 minutes</li><li>Director: Sebastian Jones, Ramez Silyan</li><li>Genres: Documentary</li><li>TMDB rating: 8.4/10 (311 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lil Peep as Self</li><li>Lil Tracy as Self</li><li>GHOSTEMANE as Self</li><li>Killstation as Self</li><li>Bexey as Self</li><li>Juicy J as Self</li><li>Post Malone as Self</li><li>Liza Womack as Self</li><li>John Womack Jr. as Self</li><li>Fish Narc as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Everybody’s Everything (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:626412": {
+   "d": "Alienoid: Return to the Future (2024): Action/Fantasy film. Story: Ean has a critical mission to return to the future to… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wG2WlIxdYDTdFrHm4WUj6oOjjQS.jpg",
+   "industry": "world",
+   "k": "Alienoid: Return to the Future, Alienoid: Return to the Future movie, Alienoid: Return to the Future cast, Alienoid: Return to the Future story, Alienoid: Return to the Future box office collection, Alienoid: Return to the Future budget, Alienoid: Return to the Future review, Alienoid: Return to the Future rating, Alienoid: Return to the Future release date, Alienoid: Return to the Future trailer, Alienoid: Return to the Future Action, Alienoid: Return to the Future Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryu Jun-yeol"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Tae-ri"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Woo-bin"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Hanee"
+     },
+     {
+      "@type": "Person",
+      "name": "Yum Jung-ah"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 877,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Alienoid: Return to the Future (2024): Action/Fantasy film. Story: Ean has a critical mission to return to the future to… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Choi Dong-hoon"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Action",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wG2WlIxdYDTdFrHm4WUj6oOjjQS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=626412",
+    "name": "Alienoid: Return to the Future",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-01-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=626412"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alienoid: Return to the Future (2024)</h1>\n<p class=\"ssr-lead\">Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 January 2024</li><li>Runtime: 122 minutes</li><li>Director: Choi Dong-hoon</li><li>Genres: Action, Fantasy, Adventure, Science Fiction</li><li>TMDB rating: 6.7/10 (877 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryu Jun-yeol as Muruk</li><li>Kim Tae-ri as Ean</li><li>Kim Woo-bin as Guard / Thunder</li><li>Lee Hanee as Min Gaelin</li><li>Yum Jung-ah as Madam Black</li><li>Jo Woo-jin as Mr. Blue</li><li>Kim Eui-sung as Jajang / Doctor</li><li>Jin Sun-kyu as Nong-pa</li><li>Shin Jung-keun as Right Paw</li><li>Yoon Kyung-ho as Sam-sik</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Alienoid: Return to the Future (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:7012": {
    "d": "The Day After (1983): Science Fiction/Drama film. Story: In the mid-1980s, the U.S. is poised on the brink of… See cast and TMDB rating 6.8/10.",
@@ -2483,6 +2933,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Thursday (1998)</h1>\n<p class=\"ssr-lead\">A former Los Angeles drug dealer moves far away to Texas, making a new life for himself as a married architect in the suburbs. His old crime partner unexpectedly shows up with heroin and gangster business, attracting a slew of violent unsavory characters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 1998</li><li>Runtime: 87 minutes</li><li>Director: Skip Woods</li><li>Genres: Thriller, Action, Comedy, Crime, Drama, Mystery</li><li>TMDB rating: 6.9/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thomas Jane as Casey Wells</li><li>Paula Marshall as Christine</li><li>Aaron Eckhart as Nick</li><li>James Le Gros as Billy Hill</li><li>Paulina Porizkova as Dallas</li><li>Michael Jeter as Dr. Jarvis</li><li>Glenn Plummer as Ice</li><li>Mickey Rourke as Kasarov</li><li>Luck Hari as Cashier</li><li>Bari K. Willerford as Cop</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Thursday (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:9912": {
+   "d": "The World's Fastest Indian (2005): Drama/Adventure film. Story: The life story of New Zealander Burt Munro, who spent… See cast and budget $25M.",
+   "img": "https://image.tmdb.org/t/p/w780/qKxAghWoR2M8ZIheMpbHp8jeXFi.jpg",
+   "industry": "world",
+   "k": "The World's Fastest Indian, The World's Fastest Indian movie, The World's Fastest Indian cast, The World's Fastest Indian story, The World's Fastest Indian box office collection, The World's Fastest Indian budget, The World's Fastest Indian review, The World's Fastest Indian rating, The World's Fastest Indian release date, The World's Fastest Indian trailer, The World's Fastest Indian Drama, The World's Fastest Indian Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Walton Goggins"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Ladd"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Greenwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Iain Rea"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 947,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The World's Fastest Indian (2005): Drama/Adventure film. Story: The life story of New Zealander Burt Munro, who spent… See cast and budget $25M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Donaldson"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Drama",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qKxAghWoR2M8ZIheMpbHp8jeXFi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9912",
+    "name": "The World's Fastest Indian",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9912"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The World&#x27;s Fastest Indian (2005)</h1>\n<p class=\"ssr-lead\">The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah&#x27;s Bonneville Salt Flats in 1967.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2005</li><li>Runtime: 127 minutes</li><li>Director: Roger Donaldson</li><li>Genres: Drama, Adventure, History</li><li>Budget: $25M</li><li>TMDB rating: 7.7/10 (947 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anthony Hopkins as Burt Munro</li><li>Walton Goggins as Marty Dickerson</li><li>Diane Ladd as Ada</li><li>Bruce Greenwood as Jerry</li><li>Iain Rea as George</li><li>Tessa Mitchell as Sarah</li><li>Aaron Murphy as Tom</li><li>Tim Shadbolt as Frank</li><li>Annie Whittle as Fran</li><li>Greg Johnson as Duncan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Dox Amazon Channel, Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The World's Fastest Indian (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "tv:1412": {
    "d": "Arrow (2012) is a Crime and Drama TV series. Explore its story: Spoiled billionaire playboy Oliver Queen is missing…, cast, 8 seasons, and 170 episodes.",

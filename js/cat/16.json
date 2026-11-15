@@ -1,7 +1,126 @@
 {
  "bucket": "16",
- "count": 70,
+ "count": 77,
  "titles": {
+  "movie:10216": {
+   "backdrop_path": "/q5q8kXiPH0oOBfMXwXIC0koe3uV.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Eve",
+     "n": "Natasha Henstridge"
+    },
+    {
+     "c": "Press Lenox",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "Dr. Laura Baker",
+     "n": "Marg Helgenberger"
+    },
+    {
+     "c": "Dennis Gamble",
+     "n": "Mykelti Williamson"
+    },
+    {
+     "c": "Patrick Ross",
+     "n": "Justin Lazard"
+    },
+    {
+     "c": "Senator Ross",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Colonel Burgess",
+     "n": "George Dzundza"
+    },
+    {
+     "c": "Melissa",
+     "n": "Sarah Wynter"
+    },
+    {
+     "c": "Anne Sampas",
+     "n": "Myriam Cyr"
+    },
+    {
+     "c": "Dr. Orinsky",
+     "n": "Baxter Harris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Medak"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Horror"
+   ],
+   "id": 10216,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Having just returned from a mission to Mars, Commander Ross isn't exactly himself. He's slowly becoming a terrifying alien entity with one goal -- to procreate with human women! When countless women suffer gruesome deaths after bearing half-alien offspring, scientist Laura Baker and hired assassin Press Lennox use Eve, a more tempered alien clone, to find Ross and his brood. Before long Eve escapes to mate with Ross.",
+   "popularity": 3.5616,
+   "poster_path": "/8LSBi0bHACZtIiVErUBQ2UXNYLA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-04-10",
+   "revenue": 19200000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mating season begins...",
+   "title": "Species II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 876
+  },
   "movie:1034716": {
    "backdrop_path": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
    "budget": 1000000,
@@ -254,6 +373,222 @@
    "type": "movie",
    "vote_average": 8.079,
    "vote_count": 328
+  },
+  "movie:1116": {
+   "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Damien",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Teddy",
+     "n": "Pádraic Delaney"
+    },
+    {
+     "c": "Dan",
+     "n": "Liam Cunningham"
+    },
+    {
+     "c": "Sinead",
+     "n": "Orla Fitzgerald"
+    },
+    {
+     "c": "Peggy",
+     "n": "Mary O'Riordan"
+    },
+    {
+     "c": "Bernadette",
+     "n": "Mary Murphy"
+    },
+    {
+     "c": "Micheail",
+     "n": "Laurence Barry"
+    },
+    {
+     "c": "Finbar",
+     "n": "Damien Kearney"
+    },
+    {
+     "c": "Leo",
+     "n": "Frank Bourke"
+    },
+    {
+     "c": "Rory",
+     "n": "Myles Horgan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ken Loach"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 1116,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.",
+   "popularity": 2.9249,
+   "poster_path": "/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg",
+   "production_countries": [
+    "IE",
+    "GB",
+    "DE",
+    "IT",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Acorn TV"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "AcornTV Amazon Channel"
+    },
+    {
+     "name": "Acorn TV Apple TV channel"
+    },
+    {
+     "name": "IFC Films Unlimited Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+     "name": "Acorn TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+     "name": "AcornTV Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+     "name": "Acorn TV Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lJ8Lh0SMfJgfWTV3rpFUjuaH26q.png",
+     "name": "IFC Films Unlimited Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-06-23",
+   "revenue": 22903165,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ga",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "War has cost them their innocence... Freedom will cost them their blood.",
+   "title": "The Wind That Shakes the Barley",
+   "trailer": {
+    "key": "6yvHe_ksnDA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 942
   },
   "movie:11316": {
    "backdrop_path": "/isyOwiSRyLRFXdsMn0UiA7mQbXV.jpg",
@@ -1220,6 +1555,124 @@
    "type": "movie",
    "vote_average": 5.899,
    "vote_count": 154
+  },
+  "movie:15516": {
+   "backdrop_path": "/mjxuTe76rA1C9btJtTwb8RVbeng.jpg",
+   "budget": 90000,
+   "cast": [
+    {
+     "c": "Mari Collingwood",
+     "n": "Sandra Peabody"
+    },
+    {
+     "c": "Phyllis Stone",
+     "n": "Lucy Grantham"
+    },
+    {
+     "c": "Krug Stillo",
+     "n": "David Hess"
+    },
+    {
+     "c": "Fred 'Weasel' Padowski",
+     "n": "Fred J. Lincoln"
+    },
+    {
+     "c": "Sadie",
+     "n": "Jeramie Rain"
+    },
+    {
+     "c": "Junior Stillo",
+     "n": "Marc Sheffler"
+    },
+    {
+     "c": "Dr. John Collingwood",
+     "n": "Richard Towers"
+    },
+    {
+     "c": "Mrs. Estelle Collingwood",
+     "n": "Cynthia Carr"
+    },
+    {
+     "c": "Ada",
+     "n": "Ada Washington"
+    },
+    {
+     "c": "Sheriff",
+     "n": "Marshall Anker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wes Craven"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 15516,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the eve of her 17th birthday, Mari and her friend Phyllis set off from the family home to attend a rock concert in the city. Attempting to score some drugs along the way, the pair run afoul of a group of vicious crooks, headed up by the sadistic Krug.",
+   "popularity": 3.0757,
+   "poster_path": "/9fNnBVooUmcMahgEw7AJ4piZnLX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1972-08-30",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To avoid fainting keep repeating, it's only a movie... Only a movie... Only a movie...",
+   "title": "The Last House on the Left",
+   "trailer": {
+    "key": "nIJwP5DsUsA",
+    "name": "LAST HOUSE ON THE LEFT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 830
   },
   "movie:1556616": {
    "backdrop_path": "/5fA3ko0ZHkysz1aNO78jRsey4k4.jpg",
@@ -3005,6 +3458,164 @@
    "vote_average": 5.6,
    "vote_count": 371
   },
+  "movie:245916": {
+   "backdrop_path": "/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Gary Webb",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Anna Simons",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Fred Weil",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "John Cullen",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Ronny Quail",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Norwin Meneses",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Coral Baca",
+     "n": "Paz Vega"
+    },
+    {
+     "c": "Ricky Ross",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Sue Webb",
+     "n": "Rosemarie DeWitt"
+    },
+    {
+     "c": "Alan Fenster",
+     "n": "Tim Blake Nelson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Cuesta"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "History"
+   ],
+   "id": 245916,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A reporter becomes the target of a vicious smear campaign that drives him to the point of suicide after he exposes the CIA's role in arming Contra rebels in Nicaragua and importing cocaine into California. Based on the true story of journalist Gary Webb.",
+   "popularity": 2.0271,
+   "poster_path": "/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-10-09",
+   "revenue": 5200000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Can you keep a national secret?",
+   "title": "Kill the Messenger",
+   "trailer": {
+    "key": "u3jD-NrIVhM",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.629,
+   "vote_count": 960
+  },
   "movie:31216": {
    "backdrop_path": "/crUMmliCpduKqMKsAcT3tPx6e3H.jpg",
    "budget": 0,
@@ -3362,6 +3973,184 @@
    "type": "movie",
    "vote_average": 5.79,
    "vote_count": 495
+  },
+  "movie:364116": {
+   "backdrop_path": "/k6OumxPkrJ4KuirkOU0Gw1KhzdM.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Maria",
+     "n": "Sarah Wayne Callies"
+    },
+    {
+     "c": "Michael",
+     "n": "Jeremy Sisto"
+    },
+    {
+     "c": "Lucy",
+     "n": "Sofia Rosinsky"
+    },
+    {
+     "c": "Oliver",
+     "n": "Logan Creran"
+    },
+    {
+     "c": "Oliver (voice)",
+     "n": "Jax Malcolm"
+    },
+    {
+     "c": "Piki",
+     "n": "Suchitra Pillai"
+    },
+    {
+     "c": "Myrtu",
+     "n": "Javier Botet"
+    },
+    {
+     "c": "Aghori",
+     "n": "Vijay Gupta"
+    },
+    {
+     "c": "Aghori",
+     "n": "Anup Kumar Sharma"
+    },
+    {
+     "c": "Aghori",
+     "n": "Rahil Gilani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Johannes Roberts"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 364116,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Grieving over the loss of her son, a mother struggles with her feelings for her daughter and her husband. She seeks out a ritual that allows her say goodbye to her dead child, opening the veil between the world of the dead and the living. Her daughter becomes the focus of terror. She must now protect against the evil that was once her beloved son.",
+   "popularity": 1.7824,
+   "poster_path": "/z5HubVaGLp1EXQbEXhg6hbEYee9.jpg",
+   "production_countries": [
+    "IN",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-02-25",
+   "revenue": 14332467,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It was never meant to be opened.",
+   "title": "The Other Side of the Door",
+   "trailer": {
+    "key": "rZKWxVa67wk",
+    "name": "THE OTHER SIDE OF THE DOOR - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 919
   },
   "movie:37916": {
    "backdrop_path": "/dFXGxxVSwb9tYNfKMeFnxORmBlt.jpg",
@@ -4969,6 +5758,118 @@
    "vote_average": 6.877,
    "vote_count": 354
   },
+  "movie:6916": {
+   "backdrop_path": "/f7RD6xGAWnFxHYz88HQLEqtlDJ3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kid",
+     "n": "Terence Hill"
+    },
+    {
+     "c": "Ben",
+     "n": "Bud Spencer"
+    },
+    {
+     "c": "Jefe",
+     "n": "John Sharp"
+    },
+    {
+     "c": "Liza",
+     "n": "Patty Shepard"
+    },
+    {
+     "c": "Doctor",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "Attila",
+     "n": "Deogratias Huerta"
+    },
+    {
+     "c": "Paganini",
+     "n": "Manuel de Blas"
+    },
+    {
+     "c": "Jeremias",
+     "n": "Luis Barbero"
+    },
+    {
+     "c": "Director coral",
+     "n": "Emilio Laguna"
+    },
+    {
+     "c": "Feriante",
+     "n": "Rafael Albaicín"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Marcello Fondato"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 6916,
+   "industry": "world",
+   "origin_country": [
+    "ES",
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "After a tied 1st place in a local stunt race, two drivers start a contest to decide who of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.",
+   "popularity": 2.4082,
+   "poster_path": "/oERikPHC3cr9UDCale6YrQxkyNW.jpg",
+   "production_countries": [
+    "ES",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1974-03-29",
+   "revenue": 36782781,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "When the bad guys get mad, the good guys get mad and everything gets madder & madder & madder",
+   "title": "Watch Out, We're Mad",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 914
+  },
   "movie:785516": {
    "backdrop_path": "/zpqAzcQSbFaCscSjSpz2Fv8qSXC.jpg",
    "budget": 0,
@@ -6040,6 +6941,168 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 451
+  },
+  "movie:9516": {
+   "backdrop_path": "/s5PP0ryxAo12jzvPntSEybahpCw.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Caine 'Kaydee' Lawson",
+     "n": "Tyrin Turner"
+    },
+    {
+     "c": "Kevin 'O-Dog'",
+     "n": "Larenz Tate"
+    },
+    {
+     "c": "Pernell",
+     "n": "Glenn Plummer"
+    },
+    {
+     "c": "Ronnie",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Tat Lawson",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Grocery Store Woman",
+     "n": "June Kyoto Lu"
+    },
+    {
+     "c": "Grocery Store Man",
+     "n": "Toshi Toda"
+    },
+    {
+     "c": "Clyde",
+     "n": "Reginald Ballard"
+    },
+    {
+     "c": "Karen Lawson",
+     "n": "Khandi Alexander"
+    },
+    {
+     "c": "Anthony",
+     "n": "Jullian Roy Doster"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Allen Hughes",
+    "Albert Hughes"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 9516,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
+   "popularity": 4.2276,
+   "poster_path": "/guvPiEOeXwROpfCb2LkHkVEvOck.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1993-05-26",
+   "revenue": 27900000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is the truth. This is what's real.",
+   "title": "Menace II Society",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.513,
+   "vote_count": 975
   },
   "movie:95516": {
    "backdrop_path": "/piCrF7kAkTRPAziDUmigIzdJ5ho.jpg",

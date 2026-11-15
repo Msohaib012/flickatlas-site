@@ -1,6 +1,6 @@
 {
  "bucket": "79",
- "count": 50,
+ "count": 61,
  "titles": {
   "movie:1000879": {
    "backdrop_path": "/r0txRSBp0N7zPPP64Pnz9jr2xC7.jpg",
@@ -336,6 +336,125 @@
    "vote_average": 5.813,
    "vote_count": 427
   },
+  "movie:10479": {
+   "backdrop_path": "/euVuflyoWzpaLGOBHZhxwGgldNX.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Col. Hayes Lawrence \"Hodge\" Hodges II",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Col. Terry L. Childers",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Maj. Mark Biggs",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Ambassador Mourain",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "National Security Advisor Bill Sokal",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Mrs. Mourain",
+     "n": "Anne Archer"
+    },
+    {
+     "c": "Capt. Lee",
+     "n": "Blair Underwood"
+    },
+    {
+     "c": "Gen. H. Lawrence Hodges",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Gen. Perry",
+     "n": "Dale Dye"
+    },
+    {
+     "c": "Dr. Ahmar",
+     "n": "Amidou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Friedkin"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 10479,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Marine Colonel is brought to court-martial after ordering his men to fire on demonstrators surrounding the American embassy in Yemen.",
+   "popularity": 2.5227,
+   "poster_path": "/38iMM0sHOqNz315ApF9bEjT4rFA.jpg",
+   "production_countries": [
+    "US",
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-04-07",
+   "revenue": 71000000,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A hero should never have to stand alone.",
+   "title": "Rules of Engagement",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.254,
+   "vote_count": 844
+  },
   "movie:11779": {
    "backdrop_path": "/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
    "budget": 0,
@@ -515,6 +634,101 @@
    "type": "movie",
    "vote_average": 7.476,
    "vote_count": 394
+  },
+  "movie:11879": {
+   "backdrop_path": "/fLqhMfRyMySsqORn0xq7iFWRdcM.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Caleb Colton",
+     "n": "Adrian Pasdar"
+    },
+    {
+     "c": "Mae",
+     "n": "Jenny Wright"
+    },
+    {
+     "c": "Jesse Hooker",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Severen",
+     "n": "Bill Paxton"
+    },
+    {
+     "c": "Diamondback",
+     "n": "Jenette Goldstein"
+    },
+    {
+     "c": "Loy Colton",
+     "n": "Tim Thomerson"
+    },
+    {
+     "c": "Homer",
+     "n": "Joshua John Miller"
+    },
+    {
+     "c": "Sarah Colton",
+     "n": "Marcie Leeds"
+    },
+    {
+     "c": "Deputy Sheriff",
+     "n": "Kenny Call"
+    },
+    {
+     "c": "Ticket Seller",
+     "n": "Edward Corbett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Kathryn Bigelow"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 11879,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A farm boy reluctantly becomes a member of the undead when a girl he meets turns out to be part of a band of vampires who roam the highways in stolen cars.",
+   "popularity": 3.7795,
+   "poster_path": "/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+     "name": "JustWatch TV Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1987-10-02",
+   "revenue": 3400000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "...pray for daylight.",
+   "title": "Near Dark",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 937
   },
   "movie:12579": {
    "backdrop_path": "/OUsYvkuqmGuE63IE5a2QQqW426.jpg",
@@ -1556,6 +1770,125 @@
    "vote_average": 7.3,
    "vote_count": 124
   },
+  "movie:14979": {
+   "backdrop_path": "/de49MfZzcVWpBl84NJGxmwc9PgZ.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Keith Ripley",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Gabriel Martin",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Lt. Weber",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Alexandra Korolenko",
+     "n": "Radha Mitchell"
+    },
+    {
+     "c": "Michaels",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Voutiritsas",
+     "n": "Corey Johnson"
+    },
+    {
+     "c": "Nicky / Victor",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Sudimack",
+     "n": "Michael Hayden"
+    },
+    {
+     "c": "Zykov",
+     "n": "Marcel Iureș"
+    },
+    {
+     "c": "Donley",
+     "n": "Gary Werntz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mimi Leder"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 14979,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A master thief recruits a notorious thief to help him steal two famous Faberge eggs from an impenetrable vault in an effort to pull off one final job and repay his debt to the Russian mob.",
+   "popularity": 1.9383,
+   "poster_path": "/4TOJiqayrIZQGtmmGjM3d7lp5gM.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-01-09",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "nl",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Never trust a thief.",
+   "title": "Thick as Thieves",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.999,
+   "vote_count": 910
+  },
   "movie:1673179": {
    "backdrop_path": "/ex19p6cqhOkTJOU9Rk5LNCGuvnK.jpg",
    "budget": 0,
@@ -1812,6 +2145,130 @@
    "vote_average": 6.0,
    "vote_count": 355
   },
+  "movie:17379": {
+   "backdrop_path": "/7D1v3y0RPoyJBZAx4eGdjcqJUuD.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Georgia Byrd",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Sean Williams",
+     "n": "LL Cool J"
+    },
+    {
+     "c": "Matthew Kragen",
+     "n": "Timothy Hutton"
+    },
+    {
+     "c": "Senator Dillings",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Ms. Burns",
+     "n": "Alicia Witt"
+    },
+    {
+     "c": "Chef Didier",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Rochelle",
+     "n": "Jane Adams"
+    },
+    {
+     "c": "Marlon",
+     "n": "Michel Estime"
+    },
+    {
+     "c": "Ms. Gunther",
+     "n": "Susan Kellermann"
+    },
+    {
+     "c": "Darius",
+     "n": "Jascha Washington"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wayne Wang"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 17379,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The discovery that she has a terminal illness prompts introverted department store saleswoman Georgia Byrd to reflect on what she realizes has been an overly cautious life. With weeks to live, she withdraws her life savings, sells all her possessions and jets off to Europe where she lives it up at a posh hotel. Upbeat and passionate, Georgia charms everybody she meets, including renowned Chef Didier. The only one missing from her new life is her longtime crush Sean Williams.",
+   "popularity": 3.8544,
+   "poster_path": "/2SkM1AHIgCQgdOboER6euPKTxGF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-01-13",
+   "revenue": 38399961,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "She always thought she was somebody special... and she was.",
+   "title": "Last Holiday",
+   "trailer": {
+    "key": "YJMQBqsiN3k",
+    "name": "Last Holiday - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.281,
+   "vote_count": 918
+  },
   "movie:1779": {
    "backdrop_path": "/1TFrt5rlgbAS7WdHfCp142NPt4s.jpg",
    "budget": 160000,
@@ -1920,6 +2377,280 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 329
+  },
+  "movie:18079": {
+   "backdrop_path": "/e4tZvefBtA6P1T0vAPfeXG4Bj3r.jpg",
+   "budget": 1300000,
+   "cast": [
+    {
+     "c": "Marcos",
+     "n": "Ricardo Darín"
+    },
+    {
+     "c": "Juan",
+     "n": "Gastón Pauls"
+    },
+    {
+     "c": "Valéria",
+     "n": "Leticia Brédice"
+    },
+    {
+     "c": "Convenience Store Manager",
+     "n": "Gabo Correa"
+    },
+    {
+     "c": "Aunt",
+     "n": "Pochi Ducasse"
+    },
+    {
+     "c": "Aníbal",
+     "n": "Jorge Noya"
+    },
+    {
+     "c": "Convenience Store Employee 2",
+     "n": "María Mercedes Villagra"
+    },
+    {
+     "c": "Vidal Gandolfo",
+     "n": "Ignasi Abadal"
+    },
+    {
+     "c": "Man on Cell Phone",
+     "n": "Carlos Lanari"
+    },
+    {
+     "c": "Federico",
+     "n": "Tomás Fonzi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fabián Bielinsky"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 18079,
+   "industry": "world",
+   "origin_country": [
+    "AR"
+   ],
+   "original_language": "es",
+   "overview": "Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps, the \"nine queens\".",
+   "popularity": 2.1234,
+   "poster_path": "/u2L4Foderu7SCPci5c3jsUfEJPP.jpg",
+   "production_countries": [
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-08-31",
+   "revenue": 12413888,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "If you think you've got it figured out... you've been conned.",
+   "title": "Nine Queens",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 877
+  },
+  "movie:1879": {
+   "backdrop_path": "/yTKXKR9quKkH8N8szLjWLJ6TLBy.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Matt Drayton",
+     "n": "Spencer Tracy"
+    },
+    {
+     "c": "John Prentice",
+     "n": "Sidney Poitier"
+    },
+    {
+     "c": "Christina Drayton",
+     "n": "Katharine Hepburn"
+    },
+    {
+     "c": "Joanna \"Joey\" Drayton",
+     "n": "Katharine Houghton"
+    },
+    {
+     "c": "Monsignor Ryan",
+     "n": "Cecil Kellaway"
+    },
+    {
+     "c": "Mrs. Prentice",
+     "n": "Beah Richards"
+    },
+    {
+     "c": "Mr. Prentice",
+     "n": "Roy Glenn"
+    },
+    {
+     "c": "Tillie",
+     "n": "Isabel Sanford"
+    },
+    {
+     "c": "Hilary St. George",
+     "n": "Virginia Christine"
+    },
+    {
+     "c": "Carhop",
+     "n": "Alexandra Hay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Stanley Kramer"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 1879,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
+   "popularity": 3.4719,
+   "poster_path": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1967-12-12",
+   "revenue": 56666667,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A love story of today.",
+   "title": "Guess Who's Coming to Dinner",
+   "trailer": {
+    "key": "Rg1pnX3nYc8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.587,
+   "vote_count": 954
   },
   "movie:215379": {
    "backdrop_path": "/d5DAiBywENsRTqVMFSGSZrllEtG.jpg",
@@ -2609,6 +3340,190 @@
    "vote_average": 6.4,
    "vote_count": 321
   },
+  "movie:2779": {
+   "backdrop_path": "/vq4vYFV0TWCCovAFLcdZLCo4Qud.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Chris Magruder",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Betty Ann Fitzgerald",
+     "n": "Helen Hunt"
+    },
+    {
+     "c": "CW Briggs",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Laura Kensington",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Voltan",
+     "n": "David Ogden Stiers"
+    },
+    {
+     "c": "Al",
+     "n": "Brian Markinson"
+    },
+    {
+     "c": "Sam",
+     "n": "John Tormey"
+    },
+    {
+     "c": "Mize",
+     "n": "John Schuck"
+    },
+    {
+     "c": "Jill",
+     "n": "Elizabeth Berkley"
+    },
+    {
+     "c": "Rosie",
+     "n": "Kaili Vernoff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Romance"
+   ],
+   "id": 2779,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "CW Briggs is a veteran insurance investigator, with many successes. Betty Ann Fitzgerald is a new employee in the company he works for, with the task of reorganizing the office. They don't like each other - or at least that's what they think. During a night out with the rest of the office employees, they go to watch Voltan, a magician who secretly hypnotizes both of them.",
+   "popularity": 2.6187,
+   "poster_path": "/mfvWefUp09oaLLxb8KhsvUYi7mX.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-08-24",
+   "revenue": 18914307,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love stings",
+   "title": "The Curse of the Jade Scorpion",
+   "trailer": {
+    "key": "_XQ_jlkWP7Y",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.61,
+   "vote_count": 860
+  },
   "movie:3079": {
    "backdrop_path": "/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
    "budget": 270000,
@@ -2718,6 +3633,127 @@
    "type": "movie",
    "vote_average": 6.768,
    "vote_count": 366
+  },
+  "movie:3179": {
+   "backdrop_path": "/myc2N1GjIKLTjSbIzmI0KEXdaPB.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Beavis / Butt-Head / Tom Anderson / Van Driessen / Principal McVicker (voice)",
+     "n": "Mike Judge"
+    },
+    {
+     "c": "Muddy (voice)",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Dallas (voice)",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Old Woman On Plane and Bus (voice)",
+     "n": "Cloris Leachman"
+    },
+    {
+     "c": "Agent Flemming (voice)",
+     "n": "Robert Stack"
+    },
+    {
+     "c": "Agent Hurly (voice)",
+     "n": "Jacqueline Barba"
+    },
+    {
+     "c": "Flight Attendant / White House Tour Guide (voice)",
+     "n": "Pamela Blair"
+    },
+    {
+     "c": "Ranger at Old Faithful / Press Secretary / Lieutenant at Strategic Air Command (voice)",
+     "n": "Eric Bogosian"
+    },
+    {
+     "c": "Man on Plane / Man in Confession Booth #2 / Old Guy/Jim (voice)",
+     "n": "Kristofor Brown"
+    },
+    {
+     "c": "Motley Crue Roadie #2 / Tourist Man (voice)",
+     "n": "Tony Darling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mike Judge"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Crime",
+    "Music"
+   ],
+   "id": 3179,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Slacker duo Beavis and Butt-Head wake to discover their TV has been stolen. Their search for a new one takes them on a clueless adventure across America, during which they manage to accidentally become America's most wanted.",
+   "popularity": 2.7811,
+   "poster_path": "/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-12-20",
+   "revenue": 63118386,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Coming to a screen bigger than your TV.",
+   "title": "Beavis and Butt-Head Do America",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.656,
+   "vote_count": 819
   },
   "movie:32579": {
    "backdrop_path": "/zonIwzSHU4i8Mh1XG6w0JrPpLJb.jpg",
@@ -2880,6 +3916,215 @@
    "type": "movie",
    "vote_average": 7.98,
    "vote_count": 378
+  },
+  "movie:332979": {
+   "backdrop_path": "/bxhpsZZuho6C07Cijx5xHywz2U2.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Vinny Pazienza",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Kevin Rooney",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Louise Pazienza",
+     "n": "Katey Sagal"
+    },
+    {
+     "c": "Angelo Pazienza",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Lou Duva",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "Ashley",
+     "n": "Christine Evangelista"
+    },
+    {
+     "c": "Doreen Pazienza",
+     "n": "Amanda Clayton"
+    },
+    {
+     "c": "Jon",
+     "n": "Daniel Sauli"
+    },
+    {
+     "c": "Heather",
+     "n": "Tina Casciani"
+    },
+    {
+     "c": "Caesar's Pit Boss",
+     "n": "Gary Galone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ben Younger"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 332979,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The inspirational story of World Champion Boxer Vinny Pazienza, who after a near fatal car crash, which left him not knowing if he'd ever walk again, made one of sports most incredible comebacks.",
+   "popularity": 2.1287,
+   "poster_path": "/cMM9frT6sFEvz7PwHniIDUKcLDo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-03-03",
+   "revenue": 6174491,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "This is what the greatest comeback in sports history looks like",
+   "title": "Bleed for This",
+   "trailer": {
+    "key": "0yfWnRKXRac",
+    "name": "Bleed For This - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.801,
+   "vote_count": 860
   },
   "movie:354979": {
    "backdrop_path": "/eRpVvbvvO7UCA2vTGant3kq1zSc.jpg",
@@ -3183,6 +4428,173 @@
    "type": "movie",
    "vote_average": 7.206,
    "vote_count": 389
+  },
+  "movie:38579": {
+   "backdrop_path": "/cWsoE3pcNDDq7o6nEwBUMEFf8HL.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Marmaduke (voice)",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Mazie (voice)",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Carlos (voice)",
+     "n": "George López"
+    },
+    {
+     "c": "Barbara Winslow",
+     "n": "Caroline Sunshine"
+    },
+    {
+     "c": "Brian Winslow",
+     "n": "Finley Jacobsen"
+    },
+    {
+     "c": "Raisin (voice)",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Giuseppe (voice)",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Jezebel (voice)",
+     "n": "Fergie"
+    },
+    {
+     "c": "Bosco (voice)",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "Phil Winslow",
+     "n": "Lee Pace"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tom Dey"
+   ],
+   "genres": [
+    "Family",
+    "Comedy"
+   ],
+   "id": 38579,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Phil and Debbie Winslow relocate from their native Kansas to the sunny climes of Orange County, their big-hearted, havoc-wreaking Great Dane gets a taste of the dog's life, California-style.",
+   "popularity": 2.2218,
+   "poster_path": "/wNNqAqvOn717AWBhBQskH2Lnzmz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-06-03",
+   "revenue": 83761844,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Live large",
+   "title": "Marmaduke",
+   "trailer": {
+    "key": "AXXzwy7lDtI",
+    "name": "Marmaduke - In Theaters June 4! | Official Trailer (HD)  | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 835
   },
   "movie:450179": {
    "backdrop_path": "/kprXFwqItxrDuDZk0nyPNNCxm6z.jpg",
@@ -3912,6 +5324,162 @@
    "type": "movie",
    "vote_average": 7.342,
    "vote_count": 430
+  },
+  "movie:68179": {
+   "backdrop_path": "/dlReM2zDrOfkvrJj9R96XmhNdS4.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Gary Supernova (voice)",
+     "n": "Rob Corddry"
+    },
+    {
+     "c": "Scorch Supernova (voice)",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Lena (voice)",
+     "n": "Jessica Alba"
+    },
+    {
+     "c": "Hawk (voice)",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Kira Supernova (voice)",
+     "n": "Sarah Jessica Parker"
+    },
+    {
+     "c": "Mr Bing (voice)",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "Ralph (voice) (uncredited)",
+     "n": "Gregg Binkley"
+    },
+    {
+     "c": "Gabby (voice)",
+     "n": "Sofía Vergara"
+    },
+    {
+     "c": "3D Movie Girl (voice)",
+     "n": "Kaitlin Olson"
+    },
+    {
+     "c": "Alien (voice)",
+     "n": "Ashley Eckstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Cal Brunker"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 68179,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Astronaut Scorch Supernova finds himself caught in a trap when he responds to an SOS from a notoriously dangerous alien planet.",
+   "popularity": 3.2403,
+   "poster_path": "/9la0CSCJqwh6io3yk4Xv3aEZxEA.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-02-14",
+   "revenue": 74597643,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Earth's greatest secrets are about to break out!",
+   "title": "Escape from Planet Earth",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.796,
+   "vote_count": 857
   },
   "movie:758879": {
    "backdrop_path": "/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",

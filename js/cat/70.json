@@ -1,6 +1,6 @@
 {
  "bucket": "70",
- "count": 54,
+ "count": 62,
  "titles": {
   "movie:10170": {
    "backdrop_path": "/vPdb3zCAS4nxdRkc5S2hp1zh4pQ.jpg",
@@ -567,6 +567,113 @@
    "vote_average": 6.541,
    "vote_count": 366
   },
+  "movie:11170": {
+   "backdrop_path": "/2aY1ZPtn0Nu0yBxdbG1oPtnpER3.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Jack Lengyel",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Red Dawson",
+     "n": "Matthew Fox"
+    },
+    {
+     "c": "Nate Ruffin",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "President Dedmon",
+     "n": "David Strathairn"
+    },
+    {
+     "c": "Paul Griffen",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Annie Cantrell",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Carole Dawson",
+     "n": "January Jones"
+    },
+    {
+     "c": "Ticket Taker",
+     "n": "Kate Kneeland"
+    },
+    {
+     "c": "Chris Griffen",
+     "n": "Wes Brown"
+    },
+    {
+     "c": "Mickey Jackson",
+     "n": "L. Warren Young"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "McG"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 11170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a plane crash claims the lives of members of the Marshall University football team and some of its fans, the team's new coach and his surviving players try to keep the football program alive.",
+   "popularity": 2.2112,
+   "poster_path": "/5PSiExbg6Fm8MiPJOikBCOcZFnd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-12-12",
+   "revenue": 43500000,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From the ashes we rose.",
+   "title": "We Are Marshall",
+   "trailer": {
+    "key": "y3V6Qz3zz4s",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.898,
+   "vote_count": 841
+  },
   "movie:1166170": {
    "backdrop_path": "/l71OwTdbSuBAF73U10vyjBhGn3.jpg",
    "budget": 0,
@@ -656,6 +763,103 @@
    "type": "movie",
    "vote_average": 7.045,
    "vote_count": 110
+  },
+  "movie:11870": {
+   "backdrop_path": "/d8B0UIH8yBsVKjLDIT9MIeHrlZX.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Jason Shepherd",
+     "n": "Frankie Muniz"
+    },
+    {
+     "c": "Marty Wolf",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Kaylee",
+     "n": "Amanda Bynes"
+    },
+    {
+     "c": "Monty Kirkham",
+     "n": "Amanda Detmer"
+    },
+    {
+     "c": "Mrs. Caldwell",
+     "n": "Sandra Oh"
+    },
+    {
+     "c": "Marcus Duncan",
+     "n": "Russell Hornsby"
+    },
+    {
+     "c": "Harry Shepherd",
+     "n": "Michael Bryan French"
+    },
+    {
+     "c": "Carol Shepherd",
+     "n": "Christine Tucci"
+    },
+    {
+     "c": "Vince",
+     "n": "Lee Majors"
+    },
+    {
+     "c": "Frank Jackson",
+     "n": "Donald Faison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Shawn Levy"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 11870,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After one of his class papers is stolen and turned into a movie, a young student and his best friend exact a hilarious, slapstick revenge on the Hollywood hot shot who has taken credit!",
+   "popularity": 2.3119,
+   "poster_path": "/3EjpQeyOpH8VIaWqIq6SpCQrCks.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-02-08",
+   "revenue": 52970014,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two friends are about to cut one Hollywood big shot down to size.",
+   "title": "Big Fat Liar",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.892,
+   "vote_count": 922
   },
   "movie:1196470": {
    "backdrop_path": "/2xnLwNvea2TSH0M0oc9iEq2KEVp.jpg",
@@ -828,6 +1032,119 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 443
+  },
+  "movie:1236470": {
+   "backdrop_path": "/wofTDrrNvySkjrv2v34jqpPZAP6.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Kevin McKay",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Mary Ludwig",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Chief Martinez",
+     "n": "Yul Vazquez"
+    },
+    {
+     "c": "Ruby Bishop",
+     "n": "Ashlie Atkinson"
+    },
+    {
+     "c": "Linda",
+     "n": "Kimberli Flores"
+    },
+    {
+     "c": "Shaun",
+     "n": "Levi McConaughey"
+    },
+    {
+     "c": "Sherry",
+     "n": "Kay McConaughey"
+    },
+    {
+     "c": "John Messina",
+     "n": "John Messina"
+    },
+    {
+     "c": "Jen Kissoon",
+     "n": "Kate Wharton"
+    },
+    {
+     "c": "Matt McKenzie",
+     "n": "Danny McCarthy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Paul Greengrass"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1236470,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A determined father risks everything to rescue a dedicated teacher and her students from a raging wildfire.",
+   "popularity": 3.459,
+   "poster_path": "/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-09-19",
+   "revenue": 0,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Inspired by a true story of survival.",
+   "title": "The Lost Bus",
+   "trailer": {
+    "key": "kQFiO88d_gk",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.023,
+   "vote_count": 876
   },
   "movie:1241470": {
    "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
@@ -1986,6 +2303,130 @@
    "vote_average": 5.969,
    "vote_count": 65
   },
+  "movie:15070": {
+   "backdrop_path": "/sTkJSkDkJnxCsk2FvKY2OL7NQcy.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Monroe Hutchen",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "George 'Iceman' Chambers",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Mendy Ripstein",
+     "n": "Peter Falk"
+    },
+    {
+     "c": "A.J. Mercker",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Jesus 'Chuy' Campos",
+     "n": "Jon Seda"
+    },
+    {
+     "c": "Mingo Pace",
+     "n": "Wes Studi"
+    },
+    {
+     "c": "James 'Ratbag' Kroycek",
+     "n": "Fisher Stevens"
+    },
+    {
+     "c": "Yank Lewis",
+     "n": "Dayton Callie"
+    },
+    {
+     "c": "Darlene Early",
+     "n": "Amy Aquino"
+    },
+    {
+     "c": "Al",
+     "n": "Johnny Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Walter Hill"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Crime"
+   ],
+   "id": 15070,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Monroe Hutchens is the heavyweight champion of Sweetwater, a maximum security prison. He was convicted to a life sentence due to a passionate crime. Iceman Chambers is the heavyweight champion, who lost his title due to a rape conviction to ten years in Sweetwater. When these two giants collide in the same prison, they fight against each other disputing who is the real champion.",
+   "popularity": 4.119,
+   "poster_path": "/hNnMGIhOguJHZDfryXbsdggWPM7.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-07-17",
+   "revenue": 14946150,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two enemies ... The mob ... The ultimate showdown.",
+   "title": "Undisputed",
+   "trailer": {
+    "key": "AKu7CigaE3A",
+    "name": "Undisputed | Official Trailer (HD) - Wesley Snipes, Ving Rhames | MIRAMAX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.521,
+   "vote_count": 874
+  },
   "movie:160070": {
    "backdrop_path": "/53Gmnw4IEcsLiYEw7GXh8wi1xyU.jpg",
    "budget": 5000000,
@@ -2259,6 +2700,132 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 394
+  },
+  "movie:20770": {
+   "backdrop_path": "/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Megan",
+     "n": "Natasha Lyonne"
+    },
+    {
+     "c": "Graham",
+     "n": "Clea DuVall"
+    },
+    {
+     "c": "Mary Brown",
+     "n": "Cathy Moriarty"
+    },
+    {
+     "c": "Mike",
+     "n": "RuPaul"
+    },
+    {
+     "c": "Hilary",
+     "n": "Melanie Lynskey"
+    },
+    {
+     "c": "Sinead",
+     "n": "Katharine Towne"
+    },
+    {
+     "c": "Jan",
+     "n": "Katrina Phillips"
+    },
+    {
+     "c": "Joel",
+     "n": "Joel Michaely"
+    },
+    {
+     "c": "Andre",
+     "n": "Douglas Spain"
+    },
+    {
+     "c": "Clayton",
+     "n": "Kip Pardue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jamie Babbit"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 20770,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
+   "popularity": 4.5308,
+   "poster_path": "/88hFUrbqSdcSx7P1nDXVRXpkMoh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-08-03",
+   "revenue": 2600000,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy of sexual disorientation.",
+   "title": "But I'm a Cheerleader",
+   "trailer": {
+    "key": "HnUvneNxoz8",
+    "name": "Director’s Cut Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.114,
+   "vote_count": 913
   },
   "movie:2370": {
    "backdrop_path": "/3NSwwxsu8YXIqnGOrfREEsXWkT7.jpg",
@@ -4087,6 +4654,112 @@
    "vote_average": 6.0,
    "vote_count": 401
   },
+  "movie:582570": {
+   "backdrop_path": "/h9cKOZs5z0fVmM9cZ4RPBvcojK5.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alan / Russell / Dawn / Jasper / Ethan / Baby Pete / Lynette",
+     "n": "Marlon Wayans"
+    },
+    {
+     "c": "Marie",
+     "n": "Bresha Webb"
+    },
+    {
+     "c": "Doug",
+     "n": "Michael Ian Black"
+    },
+    {
+     "c": "Linda",
+     "n": "Molly Shannon"
+    },
+    {
+     "c": "Leland",
+     "n": "Glynn Turman"
+    },
+    {
+     "c": "Janet",
+     "n": "Debbi Morgan"
+    },
+    {
+     "c": "Dr. Williams",
+     "n": "Robert Pralgo"
+    },
+    {
+     "c": "Prison Guard",
+     "n": "Jwaundace Candece"
+    },
+    {
+     "c": "Dr. Ellis",
+     "n": "Jason Graham"
+    },
+    {
+     "c": "Trucker",
+     "n": "Casey Hendershot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Michael Tiddes"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 582570,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Father-to-be Alan is shocked to learn that he was born a sextuplet. With his newfound brother Russell riding shotgun, the duo sets out on a hilarious journey to reunite with their remaining long-lost siblings.",
+   "popularity": 2.0577,
+   "poster_path": "/ztGSEcowBoHyRwcK0s5kIKVVXwy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-08-16",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sextuplets",
+   "trailer": {
+    "key": "e0LJNn-GcnY",
+    "name": "Sextuplets | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 886
+  },
   "movie:732670": {
    "backdrop_path": "/ucEQXe6wPpPhgcJh4oXOAvX1lnb.jpg",
    "budget": 0,
@@ -4460,6 +5133,201 @@
    "vote_average": 7.525,
    "vote_count": 304
   },
+  "movie:83770": {
+   "backdrop_path": "/5dUOTVeNPU2CmEfFniQ8TE6HChG.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Dean Moriarty / Neal Cassady",
+     "n": "Garrett Hedlund"
+    },
+    {
+     "c": "Sal Paradise / Jack Kerouac",
+     "n": "Sam Riley"
+    },
+    {
+     "c": "Marylou / LuAnne Henderson",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Jane / Joan Vollmer",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Carlo Marx / Allen Ginsberg",
+     "n": "Tom Sturridge"
+    },
+    {
+     "c": "Ed Dunkle / Al Hinkle",
+     "n": "Danny Morgan"
+    },
+    {
+     "c": "Terry / Bea Franco",
+     "n": "Alice Braga"
+    },
+    {
+     "c": "Galatea Dunkel / Helen Hinkle",
+     "n": "Elisabeth Moss"
+    },
+    {
+     "c": "Camille / Carolyn Cassady",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Old Bull Lee / William S. Burroughs",
+     "n": "Viggo Mortensen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Walter Salles"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 83770,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sal Paradise is a young writer whose life is shaken and ultimately redefined by the arrival of Dean Moriarty, a free-spirited, fearless, fast talking Westerner and his girl, Marylou. Traveling cross-country, Sal and Dean venture out on a personal quest for freedom from the conformity and conservatism engulfing them in search of the unknown, themselves, and the pursuit of “it” -- the pure essence of experience.",
+   "popularity": 2.5371,
+   "poster_path": "/k7LQteD02p3VHixbS6NXHkFdFwT.jpg",
+   "production_countries": [
+    "BR",
+    "FR",
+    "GB",
+    "US",
+    "MX",
+    "CA",
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-05-22",
+   "revenue": 8784318,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "\"The best teacher is experience.\"",
+   "title": "On the Road",
+   "trailer": {
+    "key": "su75_mcryO4",
+    "name": "ON THE ROAD: Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 927
+  },
   "movie:85870": {
    "backdrop_path": "/cY7YLBjPBydrQFrJTnE1BHDSAOG.jpg",
    "budget": 27563396,
@@ -4593,6 +5461,112 @@
    "type": "movie",
    "vote_average": 6.427,
    "vote_count": 314
+  },
+  "movie:864370": {
+   "backdrop_path": "/vqEX1uF3Spl12rOACQ3gJ6j4MSR.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Li Ro-nan",
+     "n": "Ina Tsai"
+    },
+    {
+     "c": "Hsieh Chi-ming",
+     "n": "Ven Kao"
+    },
+    {
+     "c": "Chen Le-tung / Dodo",
+     "n": "Huang Sin-ting"
+    },
+    {
+     "c": "Chen Li-tung / Dom",
+     "n": "Sean Lin"
+    },
+    {
+     "c": "Chen Chen-yuan / Yuan",
+     "n": "Wen Ching-Yu"
+    },
+    {
+     "c": "Spirit-Medium Child",
+     "n": "Queenie Chen"
+    },
+    {
+     "c": "Master Ching",
+     "n": "Peng Yi"
+    },
+    {
+     "c": "",
+     "n": "Lin Yi-qin"
+    },
+    {
+     "c": "Real Estate Agent",
+     "n": "Aaron Hong"
+    },
+    {
+     "c": "Sister Xia",
+     "n": "Huang Ling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Kevin Ko"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 864370,
+   "industry": "world",
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "Six years ago, Li Ronan was cursed after breaking a religious taboo. Now, she must protect her daughter from the consequences of her actions.",
+   "popularity": 5.3643,
+   "poster_path": "/cWz28oGV3cSajWdziVQbqrYCmnX.jpg",
+   "production_countries": [
+    "TW"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-03-18",
+   "revenue": 5700000,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Do you believe in blessings?",
+   "title": "Incantation",
+   "trailer": {
+    "key": "HnyNZdcL_GY",
+    "name": "Official Trailer [ENG SUB]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.864,
+   "vote_count": 913
   },
   "movie:870": {
    "backdrop_path": "/cxULojvpOWYX8AUG5eJpTYS8IbX.jpg",

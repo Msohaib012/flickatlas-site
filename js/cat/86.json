@@ -1,7 +1,143 @@
 {
  "bucket": "86",
- "count": 56,
+ "count": 64,
  "titles": {
+  "movie:1064486": {
+   "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+   "budget": 4350000,
+   "cast": [
+    {
+     "c": "Grace (voice)",
+     "n": "Sarah Snook"
+    },
+    {
+     "c": "Gilbert (voice)",
+     "n": "Kodi Smit-McPhee"
+    },
+    {
+     "c": "Pinky (voice)",
+     "n": "Jacki Weaver"
+    },
+    {
+     "c": "Ruth Appleby (voice)",
+     "n": "Magda Szubanski"
+    },
+    {
+     "c": "Percy Pudel (voice)",
+     "n": "Dominique Pinon"
+    },
+    {
+     "c": "Ken (voice)",
+     "n": "Tony Armstrong"
+    },
+    {
+     "c": "Ian / Narelle (voice)",
+     "n": "Paul Capsis"
+    },
+    {
+     "c": "James the Magistrate (voice)",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Owen Appleby (voice)",
+     "n": "Bernie Clifford"
+    },
+    {
+     "c": "Ben Appleby (voice)",
+     "n": "Davey Thompson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam Elliot"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1064486,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+   "popularity": 5.7558,
+   "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-10-17",
+   "revenue": 7,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Life can only be understood backwards, but we have to live it forwards.",
+   "title": "Memoir of a Snail",
+   "trailer": {
+    "key": "q47QUYb0hjc",
+    "name": "Official Australian Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.064,
+   "vote_count": 862
+  },
   "movie:10886": {
    "backdrop_path": "/ckkDsME8QIqBDp1wO0PvJ2q5ACU.jpg",
    "budget": 8000000,
@@ -138,6 +274,619 @@
    "type": "movie",
    "vote_average": 7.205,
    "vote_count": 383
+  },
+  "movie:11086": {
+   "backdrop_path": "/pDd6GRNOIO9yOtRqtwbG5wrIjnl.jpg",
+   "budget": 72000000,
+   "cast": [
+    {
+     "c": "Peter Appleton",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Harry Trimble",
+     "n": "Martin Landau"
+    },
+    {
+     "c": "Adele Stanton",
+     "n": "Laurie Holden"
+    },
+    {
+     "c": "Emmett Smith",
+     "n": "Gerry Black"
+    },
+    {
+     "c": "Doc Stanton",
+     "n": "David Ogden Stiers"
+    },
+    {
+     "c": "Elvin Glyde",
+     "n": "Bob Balaban"
+    },
+    {
+     "c": "Mayor Ernie Cole",
+     "n": "Jeffrey DeMunn"
+    },
+    {
+     "c": "Congressman Doyle",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Sheriff Cecil Coleman",
+     "n": "Brent Briscoe"
+    },
+    {
+     "c": "Kevin Bannerman",
+     "n": "Ron Rifkin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Frank Darabont"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 11086,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in 1951, a blacklisted Hollywood writer gets into a car accident, loses his memory and settles down in a small town where he is mistaken for a long-lost son.",
+   "popularity": 2.499,
+   "poster_path": "/m9WrB91B8ghxIZhyFugkoSleBE7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-12-21",
+   "revenue": 37317673,
+   "runtime": 153,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes your life comes into focus one frame at a time.",
+   "title": "The Majestic",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.773,
+   "vote_count": 876
+  },
+  "movie:11386": {
+   "backdrop_path": "/k4ZrvqTWADP1nzgXNSKDNk4xOEB.jpg",
+   "budget": 3705538,
+   "cast": [
+    {
+     "c": "Fergus",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Jude",
+     "n": "Miranda Richardson"
+    },
+    {
+     "c": "Dil",
+     "n": "Jaye Davidson"
+    },
+    {
+     "c": "Jody",
+     "n": "Forest Whitaker"
+    },
+    {
+     "c": "Maguire",
+     "n": "Adrian Dunbar"
+    },
+    {
+     "c": "Tinker",
+     "n": "Breffni McKenna"
+    },
+    {
+     "c": "Eddie",
+     "n": "Joe Savino"
+    },
+    {
+     "c": "Tommy",
+     "n": "Birdy Sweeney"
+    },
+    {
+     "c": "Jane",
+     "n": "Andrée Bernard"
+    },
+    {
+     "c": "Col",
+     "n": "Jim Broadbent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Neil Jordan"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 11386,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Irish Republican Army member Fergus forms an unexpected bond with Jody, a kidnapped British soldier in his custody, despite the warnings of fellow IRA members Jude and Maguire. Jody makes Fergus promise he'll visit his girlfriend, Dil, in London, and when Fergus flees to the city, he seeks her out. Hounded by his former IRA colleagues, he finds himself increasingly drawn to the enigmatic, and surprising, Dil.",
+   "popularity": 3.0753,
+   "poster_path": "/9BXGoat9TYgdDqGk2WJmaX9dVoe.jpg",
+   "production_countries": [
+    "GB",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1992-09-02",
+   "revenue": 62548947,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "...play it at your own risk.",
+   "title": "The Crying Game",
+   "trailer": {
+    "key": "FRxmK7Q3yF4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.847,
+   "vote_count": 886
+  },
+  "movie:11586": {
+   "backdrop_path": "/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Regan MacNeil",
+     "n": "Linda Blair"
+    },
+    {
+     "c": "Father Philip Lamont",
+     "n": "Richard Burton"
+    },
+    {
+     "c": "Dr. Gene Tuskin",
+     "n": "Louise Fletcher"
+    },
+    {
+     "c": "Father Lankester Merrin",
+     "n": "Max von Sydow"
+    },
+    {
+     "c": "Older Kokumo",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Edwards",
+     "n": "Ned Beatty"
+    },
+    {
+     "c": "Sharon Spencer",
+     "n": "Kitty Winn"
+    },
+    {
+     "c": "The Cardinal",
+     "n": "Paul Henreid"
+    },
+    {
+     "c": "Liz",
+     "n": "Belinda Beatty"
+    },
+    {
+     "c": "Spanish Girl",
+     "n": "Rose Portillo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Boorman"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 11586,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bizarre nightmares plague Regan MacNeil for years after her possession and exorcism. Has the demon returned? And if so, can the combined faith and knowledge of a Vatican investigator and a research specialist free her from its grasp?",
+   "popularity": 4.0171,
+   "poster_path": "/g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1977-06-17",
+   "revenue": 30749142,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's four years later... What does she remember?",
+   "title": "Exorcist II: The Heretic",
+   "trailer": {
+    "key": "zmMYylgRe4s",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.518,
+   "vote_count": 839
+  },
+  "movie:11686": {
+   "backdrop_path": "/anMnNQ6fTK6y0Y0HnC6UMMBo7HO.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Boris Grushenko",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Sonja",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Anton Inbedkov",
+     "n": "Harold Gould"
+    },
+    {
+     "c": "Countess Alexandrovna",
+     "n": "Olga Georges-Picot"
+    },
+    {
+     "c": "Father",
+     "n": "Zvee Scooler"
+    },
+    {
+     "c": "Mother",
+     "n": "Despo Diamantidou"
+    },
+    {
+     "c": "Voskovec",
+     "n": "Sol Frieder"
+    },
+    {
+     "c": "Natasha",
+     "n": "Jessica Harper"
+    },
+    {
+     "c": "Don Francisco",
+     "n": "Lloyd Battista"
+    },
+    {
+     "c": "Young Boris",
+     "n": "Alfred Lutter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 11686,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+   "popularity": 1.917,
+   "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1975-06-10",
+   "revenue": 20173742,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The Comedy Sensation of the Year!",
+   "title": "Love and Death",
+   "trailer": {
+    "key": "Nrf3X89aDhk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.456,
+   "vote_count": 997
   },
   "movie:11986": {
    "backdrop_path": "/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
@@ -1758,6 +2507,105 @@
    "vote_average": 6.8,
    "vote_count": 350
   },
+  "movie:2086": {
+   "backdrop_path": "/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Gene Watson",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Lynn Watson",
+     "n": "Courtney Chase"
+    },
+    {
+     "c": "Hucy",
+     "n": "Charles S. Dutton"
+    },
+    {
+     "c": "Mr. Smith",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Ms. Jones",
+     "n": "Roma Maffia"
+    },
+    {
+     "c": "Brendan Grant",
+     "n": "Peter Strauss"
+    },
+    {
+     "c": "Krista Brooks",
+     "n": "Gloria Reuben"
+    },
+    {
+     "c": "Gov. Eleanor Grant",
+     "n": "Marsha Mason"
+    },
+    {
+     "c": "Franco (Governor's Bodyguard)",
+     "n": "Miguel Nájera"
+    },
+    {
+     "c": "Officer Trust",
+     "n": "Bill Smitrovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Badham"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
+   "id": 2086,
+   "industry": "world",
+   "origin_country": [],
+   "original_language": "en",
+   "overview": "An ordinary man is suddenly forced into a plot to kill a politician in exchange for his kidnapped daughter's freedom.",
+   "popularity": 2.2567,
+   "poster_path": "/A1FJwUVg84sQSjHVz5jVMXQvifJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-11-22",
+   "revenue": 8175346,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ninety minutes. Six bullets. No choice.",
+   "title": "Nick of Time",
+   "trailer": {
+    "key": "PVT1iXco8bc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.243,
+   "vote_count": 857
+  },
   "movie:21786": {
    "backdrop_path": "/99xMo0iXjCUzV1sYuANA4eUujXv.jpg",
    "budget": 0,
@@ -1878,6 +2726,274 @@
    "type": "movie",
    "vote_average": 6.232,
    "vote_count": 487
+  },
+  "movie:27586": {
+   "backdrop_path": "/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Joan Jett",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Cherie Currie",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Kim Fowley",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Sandy West",
+     "n": "Stella Maeve"
+    },
+    {
+     "c": "Lita Ford",
+     "n": "Scout Taylor-Compton"
+    },
+    {
+     "c": "Robin",
+     "n": "Alia Shawkat"
+    },
+    {
+     "c": "Marie Currie",
+     "n": "Riley Keough"
+    },
+    {
+     "c": "Scottie",
+     "n": "Johnny Lewis"
+    },
+    {
+     "c": "Marie Harmon",
+     "n": "Tatum O'Neal"
+    },
+    {
+     "c": "Donald Currie",
+     "n": "Brett Cullen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Floria Sigismondi"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 27586,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joan Jett and Cherie Currie, two rebellious teenagers from Southern California, become the frontwomen for The Runaways -- the now-legendary group that paved the way for future generations of female rockers. Under the Svengali-like influence of impresario Kim Fowley, the band becomes a huge success.",
+   "popularity": 2.0049,
+   "poster_path": "/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sundance Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-03-19",
+   "revenue": 2995811,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's 1975 and they're about to explode.",
+   "title": "The Runaways",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.473,
+   "vote_count": 876
+  },
+  "movie:2786": {
+   "backdrop_path": "/4zJ9w3lZcZI3mBXcNiq6s8bqpDO.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Ferdinand Griffon, 'Pierrot'",
+     "n": "Jean-Paul Belmondo"
+    },
+    {
+     "c": "Marianne Renoir",
+     "n": "Anna Karina"
+    },
+    {
+     "c": "Maria, Ferdinand's Wife",
+     "n": "Graziella Galvani"
+    },
+    {
+     "c": "Aicha Abadir (uncredited)",
+     "n": "Aicha Abadir"
+    },
+    {
+     "c": "The First Pumpman (uncredited)",
+     "n": "Henri Attal"
+    },
+    {
+     "c": "The Second Brother (uncredited)",
+     "n": "Pascal Aubier"
+    },
+    {
+     "c": "The Third Pumpman (uncredited)",
+     "n": "Maurice Auzel"
+    },
+    {
+     "c": "The Man from the Port (uncredited)",
+     "n": "Raymond Devos"
+    },
+    {
+     "c": "The Gangster (uncredited)",
+     "n": "Roger Dutoit"
+    },
+    {
+     "c": "Samuel Fuller (uncredited)",
+     "n": "Samuel Fuller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Jean-Luc Godard"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Crime"
+   ],
+   "id": 2786,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+   "popularity": 3.1403,
+   "poster_path": "/i124H6iQB4CawrgFW9aZaZs7OBO.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1965-11-05",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "You've met the tame Godard, the love Godard, the think Godard, ...now meet the wild Godard!",
+   "title": "Pierrot le Fou",
+   "trailer": {
+    "key": "TVvhJrrgfs0",
+    "name": "Pierrot Le Fou - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.302,
+   "vote_count": 983
   },
   "movie:3086": {
    "backdrop_path": "/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "09",
- "count": 57,
+ "count": 68,
  "titles": {
   "movie:1002109": {
    "backdrop_path": "/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
@@ -274,6 +274,143 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 401
+  },
+  "movie:10909": {
+   "backdrop_path": "/mSYuqQE8MXwzz3CqtuEIR2cyUfm.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Early Grayce",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Brian Kessler",
+     "n": "David Duchovny"
+    },
+    {
+     "c": "Adele Corners",
+     "n": "Juliette Lewis"
+    },
+    {
+     "c": "Carrie Laughlin",
+     "n": "Michelle Forbes"
+    },
+    {
+     "c": "Mrs. Musgrave",
+     "n": "Sierra Pecheur"
+    },
+    {
+     "c": "Mr. Musgrave",
+     "n": "John Dullaghan"
+    },
+    {
+     "c": "Teenage Girl",
+     "n": "Kathy Larson"
+    },
+    {
+     "c": "Driver",
+     "n": "David Milford"
+    },
+    {
+     "c": "Parole Officer",
+     "n": "Judson Vaughn"
+    },
+    {
+     "c": "Peter",
+     "n": "John Zarchen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dominic Sena"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 10909,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+   "popularity": 2.8269,
+   "poster_path": "/aXyA3UvVaXBoX2zq9zH7NcK5rKT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1993-06-24",
+   "revenue": 2395231,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear never travels alone.",
+   "title": "Kalifornia",
+   "trailer": {
+    "key": "2ut7heVeMnM",
+    "name": "Kalifornia (1993) - Official Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.584,
+   "vote_count": 921
   },
   "movie:11109": {
    "backdrop_path": "/ziJgbmfktniqisfCqJSqQ8VreZe.jpg",
@@ -595,6 +732,128 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 373
+  },
+  "movie:11509": {
+   "backdrop_path": "/rPDcuFniW2yZrSRbLjeNdQy7P45.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Paden",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Emmett",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Malachi 'Mal' Johnson",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Jake",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Cobb",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Hannah",
+     "n": "Rosanna Arquette"
+    },
+    {
+     "c": "Sheriff John T. Langston",
+     "n": "John Cleese"
+    },
+    {
+     "c": "Stella",
+     "n": "Linda Hunt"
+    },
+    {
+     "c": "Slick",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "McKendrick",
+     "n": "Ray Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lawrence Kasdan"
+   ],
+   "genres": [
+    "Western",
+    "Action",
+    "Drama"
+   ],
+   "id": 11509,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four unwitting heroes cross paths on their journey to the sleepy town of Silverado. Little do they know the town where their family and friends reside has been taken over by a corrupt sheriff and a murderous posse. It's up to the sharp-shooting foursome to save the day, but first they have to break each other out of jail, and learn who their real friends are.",
+   "popularity": 5.1012,
+   "poster_path": "/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-07-10",
+   "revenue": 32192570,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Four strangers become friends. Four friends become heroes. On the road to Silverado.",
+   "title": "Silverado",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.934,
+   "vote_count": 869
   },
   "movie:11909": {
    "backdrop_path": "/llPr868m7jtx63Xr0ZItmvYZokv.jpg",
@@ -2331,6 +2590,280 @@
    "vote_average": 5.444,
    "vote_count": 382
   },
+  "movie:1909": {
+   "backdrop_path": "/nnrITCU29fAVFDngn3eEwBsECPX.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Don Juan DeMarco",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Dr. Jack Mickler",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Marilyn Mickler",
+     "n": "Faye Dunaway"
+    },
+    {
+     "c": "Dona Ana",
+     "n": "Géraldine Pailhas"
+    },
+    {
+     "c": "Dr. Paul Showalter",
+     "n": "Bob Dishy"
+    },
+    {
+     "c": "Doña Inez",
+     "n": "Rachel Ticotin"
+    },
+    {
+     "c": "Doña Julia",
+     "n": "Talisa Soto"
+    },
+    {
+     "c": "Dr. Bill Dunsmore",
+     "n": "Stephen Singer"
+    },
+    {
+     "c": "Sultana Gulbeyaz",
+     "n": "Jo Champa"
+    },
+    {
+     "c": "Woman in Restaurant",
+     "n": "Marita Geraghty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jeremy Leven"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1909,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John Arnold DeMarco is a man who believes he is Don Juan, the greatest lover in the world. Clad in a cape and mask, DeMarco undergoes psychiatric treatment with Dr. Jack Mickler to cure him of his apparent delusion. But the psychiatric sessions have an unexpected effect on the psychiatric staff and, most profoundly, Dr Mickler, who rekindles the romance in his complacent marriage.",
+   "popularity": 1.9505,
+   "poster_path": "/fe0TuYz9jCKUba2Omj48K8bWJ8z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-04-07",
+   "revenue": 68792531,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of the man who thought he was the greatest lover in the world... and the people who tried to cure him of it!",
+   "title": "Don Juan DeMarco",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 834
+  },
+  "movie:2009": {
+   "backdrop_path": "/phYwx0HKSdcQyOuK5bMMO8woETT.jpg",
+   "budget": 852510,
+   "cast": [
+    {
+     "c": "Otilia",
+     "n": "Anamaria Marinca"
+    },
+    {
+     "c": "Găbiță",
+     "n": "Laura Vasiliu"
+    },
+    {
+     "c": "Domnu' Bebe",
+     "n": "Vlad Ivanov"
+    },
+    {
+     "c": "Adi",
+     "n": "Alexandru Potocean"
+    },
+    {
+     "c": "Mrs. Radu",
+     "n": "Luminița Gheorghiu"
+    },
+    {
+     "c": "Mr Radu",
+     "n": "Adi Cărăuleanu"
+    },
+    {
+     "c": "Unirea Hotel receptionist",
+     "n": "Liliana Mocanu"
+    },
+    {
+     "c": "Gas pump attendant",
+     "n": "Doru Ana"
+    },
+    {
+     "c": "Mr Rusu",
+     "n": "Ion Sapdaru"
+    },
+    {
+     "c": "Receptionist Tineretului",
+     "n": "Cerasela Iosifescu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Cristian Mungiu"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 2009,
+   "industry": "world",
+   "origin_country": [
+    "RO"
+   ],
+   "original_language": "ro",
+   "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
+   "popularity": 2.9496,
+   "poster_path": "/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+   "production_countries": [
+    "BE",
+    "RO"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-08-24",
+   "revenue": 1185783,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ro"
+   ],
+   "status": "Released",
+   "tagline": "At what moment do we begin to live?",
+   "title": "4 Months, 3 Weeks and 2 Days",
+   "trailer": {
+    "key": "UjS7v4AEYco",
+    "name": "4 Months, 3 Weeks and 2 Days Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.536,
+   "vote_count": 869
+  },
   "movie:21309": {
    "backdrop_path": "/1WW94dBZmOf7LgvjTPqh9cA36KZ.jpg",
    "budget": 1900000,
@@ -2438,6 +2971,223 @@
    "type": "movie",
    "vote_average": 6.561,
    "vote_count": 343
+  },
+  "movie:244509": {
+   "backdrop_path": "/erszaeysMaU83F5XKBa1oUGHF5R.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Dane",
+     "n": "Michael C. Hall"
+    },
+    {
+     "c": "Jim Bob",
+     "n": "Don Johnson"
+    },
+    {
+     "c": "Russell",
+     "n": "Sam Shepard"
+    },
+    {
+     "c": "Ann Dane",
+     "n": "Vinessa Shaw"
+    },
+    {
+     "c": "Ray Price",
+     "n": "Nick Damici"
+    },
+    {
+     "c": "Freddy",
+     "n": "Wyatt Russell"
+    },
+    {
+     "c": "Jack Crow",
+     "n": "Lanny Flaherty"
+    },
+    {
+     "c": "Young Latina Girl on Tape",
+     "n": "Brianda Agramonte"
+    },
+    {
+     "c": "Mex",
+     "n": "Tim Lajcik"
+    },
+    {
+     "c": "Jordan Dane",
+     "n": "Brogan Hall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jim Mickle"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 244509,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While investigating noises in his house one balmy Texas night in 1989, Richard Dane puts a bullet in the brain of a low-life burglar. Although he’s hailed as a small-town hero, Dane soon finds himself fearing for his family’s safety when Freddy’s ex-con father rolls into town, hell-bent on revenge.",
+   "popularity": 1.7155,
+   "poster_path": "/gzHS4ehNU6wapLt9UpA1rNnljiO.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-06-27",
+   "revenue": 427418,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How many men can one bullet kill?",
+   "title": "Cold in July",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 861
+  },
+  "movie:255709": {
+   "backdrop_path": "/cri20wZDTl1X5QpxlWCSJ4HSpTF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dong-hoon",
+     "n": "Sul Kyung-gu"
+    },
+    {
+     "c": "Mi-hee",
+     "n": "Uhm Ji-won"
+    },
+    {
+     "c": "So-won",
+     "n": "Lee Re"
+    },
+    {
+     "c": "Gwang-sik",
+     "n": "Kim Sang-ho"
+    },
+    {
+     "c": "Psychiatrist Jung-sook",
+     "n": "Kim Hae-sook"
+    },
+    {
+     "c": "Young-suk's Mother",
+     "n": "Ra Mi-ran"
+    },
+    {
+     "c": "Detective Squad Chief",
+     "n": "Kwon Tae-won"
+    },
+    {
+     "c": "Prosecutor",
+     "n": "Kang Shin-chul"
+    },
+    {
+     "c": "Paramedic",
+     "n": "Seo Hyun-woo"
+    },
+    {
+     "c": "Vice Principal",
+     "n": "Cha Mi-kyung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Lee Joon-ik"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 255709,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After 8-year-old So-won narrowly survives a brutal sexual assault, her family labors to help her heal while coping with their own rage and grief.",
+   "popularity": 6.67,
+   "poster_path": "/x9yjkm9gIz5qI5fJMUTfBnWiB2o.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-10-02",
+   "revenue": 0,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "We won't let her shed tears again.",
+   "title": "Hope",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.399,
+   "vote_count": 930
   },
   "movie:31909": {
    "backdrop_path": "/2MLj4TuEuc8r25c9RNTANoRqjav.jpg",
@@ -3597,6 +4347,237 @@
    "vote_average": 5.58,
    "vote_count": 493
   },
+  "movie:465109": {
+   "backdrop_path": "/9VMG7cqK895IZ02RfgpJ3JIK71Y.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenny Lustig",
+     "n": "Adam Sandler"
+    },
+    {
+     "c": "Kirby Cordice",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Charles",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Debbie",
+     "n": "Rachel Dratch"
+    },
+    {
+     "c": "Sarah",
+     "n": "Allison Strong"
+    },
+    {
+     "c": "Tyler",
+     "n": "Roland Buck III"
+    },
+    {
+     "c": "Robin",
+     "n": "Katie Hartman"
+    },
+    {
+     "c": "Rose",
+     "n": "Chloe Himmelman"
+    },
+    {
+     "c": "Isaac",
+     "n": "Jake Lippmann"
+    },
+    {
+     "c": "Seymour",
+     "n": "Jim Barone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Smigel"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 465109,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The parents of a soon-to-be married couple make the final preparations for the wedding ceremony.",
+   "popularity": 1.6722,
+   "poster_path": "/60FYEhsnY1gHsqhMbfsC1uOP8cT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-04-27",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "7 days. 2 families. No backing out.",
+   "title": "The Week Of",
+   "trailer": {
+    "key": "vc0fb3xhFHY",
+    "name": "The Week Of | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.458,
+   "vote_count": 872
+  },
+  "movie:467909": {
+   "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Usnavi",
+     "n": "Anthony Ramos"
+    },
+    {
+     "c": "Benny",
+     "n": "Corey Hawkins"
+    },
+    {
+     "c": "Nina Rosario",
+     "n": "Leslie Grace"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Melissa Barrera"
+    },
+    {
+     "c": "Abuela Claudia",
+     "n": "Olga Merediz"
+    },
+    {
+     "c": "Daniela",
+     "n": "Daphne Rubin-Vega"
+    },
+    {
+     "c": "Sonny",
+     "n": "Gregory Díaz IV"
+    },
+    {
+     "c": "Gapo",
+     "n": "Marc Anthony"
+    },
+    {
+     "c": "Kevin Rosario",
+     "n": "Jimmy Smits"
+    },
+    {
+     "c": "Carla",
+     "n": "Stephanie Beatriz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jon M. Chu"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 467909,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.",
+   "popularity": 2.7275,
+   "poster_path": "/lbf7wmrYRieR8fNFLnGiypMoPm1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-06-10",
+   "revenue": 45175167,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The time has come.",
+   "title": "In the Heights",
+   "trailer": {
+    "key": "lCYrqpng9QA",
+    "name": "Powerful",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.102,
+   "vote_count": 827
+  },
   "movie:47909": {
    "backdrop_path": "/m3xCLh3b3QH9QkZx67argsU5PTO.jpg",
    "budget": 0,
@@ -4036,6 +5017,94 @@
    "vote_average": 6.138,
    "vote_count": 482
   },
+  "movie:56909": {
+   "backdrop_path": "/tIxeyVkZIWdIcxc7eZwm5XSfh99.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Giorgio",
+     "n": "Raoul Bova"
+    },
+    {
+     "c": "Luisa",
+     "n": "Barbora Bobuľová"
+    },
+    {
+     "c": "Francesca",
+     "n": "Ambra Angiolini"
+    },
+    {
+     "c": "Piero",
+     "n": "Luca Bizzarri"
+    },
+    {
+     "c": "Virgilio",
+     "n": "Paolo Kessisoglu"
+    },
+    {
+     "c": "Lorenzo",
+     "n": "Ricky Memphis"
+    },
+    {
+     "c": "Marta",
+     "n": "Luisa Ranieri"
+    },
+    {
+     "c": "Eleonora",
+     "n": "Anita Caprioli"
+    },
+    {
+     "c": "Cinzia",
+     "n": "Giulia Michelini"
+    },
+    {
+     "c": "Ivano",
+     "n": "Alessandro Tiberi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Paolo Genovese"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 56909,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Six high school friends in their 40s who haven't seen each other in nearly 20 years rekindle their younger selves after a court cancels their diploma, forcing them to repeat the final high school exam.",
+   "popularity": 0.9257,
+   "poster_path": "/n97HpLLs6flPoxK1VVPMKN2Bc32.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2011-01-21",
+   "revenue": 22043584,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Immature",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.206,
+   "vote_count": 817
+  },
   "movie:588009": {
    "backdrop_path": "/bwXvBFejQFaoXa2TBkZuKPgSjeA.jpg",
    "budget": 0,
@@ -4137,6 +5206,137 @@
    "type": "movie",
    "vote_average": 6.856,
    "vote_count": 303
+  },
+  "movie:649409": {
+   "backdrop_path": "/ok7RdHhVngnwkvKj09tvtOvypG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Curtis 'Curt' Goynes",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Ronald Russo",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Matt Wertz",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Det. Joe Finney",
+     "n": "Jon Hamm"
+    },
+    {
+     "c": "Frank Capelli",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Douglas 'Doug' Jones",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Charley Barnes",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Mary Wertz",
+     "n": "Amy Seimetz"
+    },
+    {
+     "c": "Vanessa Capelli",
+     "n": "Julia Fox"
+    },
+    {
+     "c": "Aldrick Watkins",
+     "n": "Bill Duke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 649409,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of criminals are brought together under mysterious circumstances and have to work together to uncover what's really going on when their simple job goes completely sideways.",
+   "popularity": 3.0092,
+   "poster_path": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-06-24",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Trust is a setup.",
+   "title": "No Sudden Move",
+   "trailer": {
+    "key": "kybqUuHscrM",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.367,
+   "vote_count": 869
   },
   "movie:673309": {
    "backdrop_path": "/jUJP67Lqmwc0hyaDeLKBS2WuS5Y.jpg",
@@ -4296,6 +5496,143 @@
    "type": "movie",
    "vote_average": 7.095,
    "vote_count": 455
+  },
+  "movie:838209": {
+   "backdrop_path": "/kYWk8TW5TkpCWkB0mkUm72N0lb8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kim Sang-duk",
+     "n": "Choi Min-sik"
+    },
+    {
+     "c": "Lee Hwa-rim",
+     "n": "Kim Go-eun"
+    },
+    {
+     "c": "Ko Young-geun",
+     "n": "Yoo Hai-jin"
+    },
+    {
+     "c": "Yoon Bong-gil",
+     "n": "Lee Do-hyun"
+    },
+    {
+     "c": "Park Ji-yong",
+     "n": "Kim Jae-chul"
+    },
+    {
+     "c": "Park Geun-hyeon",
+     "n": "Jeon Jin-gi"
+    },
+    {
+     "c": "Oh Gwang-sim",
+     "n": "Kim Sun-young"
+    },
+    {
+     "c": "Park Ja-hye",
+     "n": "Kim Ji-an"
+    },
+    {
+     "c": "Daimyo Oni",
+     "n": "Kim Min-jun"
+    },
+    {
+     "c": "Daimyo Oni (stand-in)",
+     "n": "Kim Byung-oh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jang Jae-hyun"
+   ],
+   "genres": [
+    "Mystery",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 838209,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains—and soon discovers what happens to those who dare to mess with the wrong grave.",
+   "popularity": 8.5695,
+   "poster_path": "/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-05-03",
+   "revenue": 97974828,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The vicious emerges.",
+   "title": "Exhuma",
+   "trailer": {
+    "key": "j_6_wLF1pDg",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.638,
+   "vote_count": 872
   },
   "movie:872709": {
    "backdrop_path": "/89Kubf8TqJqdJBeePY0vmHzXJFB.jpg",

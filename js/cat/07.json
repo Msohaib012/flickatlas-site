@@ -1,7 +1,286 @@
 {
  "bucket": "07",
- "count": 53,
+ "count": 66,
  "titles": {
+  "movie:10207": {
+   "backdrop_path": "/bHTAGzPTQ0aBm7gmfkSnqaHiajM.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Garrett Blake",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Theresa Osborne",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Dodge Blake",
+     "n": "Paul Newman"
+    },
+    {
+     "c": "Johnny Land",
+     "n": "John Savage"
+    },
+    {
+     "c": "Lina Paul",
+     "n": "Illeana Douglas"
+    },
+    {
+     "c": "Charlie Toschi",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Jason Osborne",
+     "n": "Jesse James"
+    },
+    {
+     "c": "Marta Land",
+     "n": "Bethel Leslie"
+    },
+    {
+     "c": "Hank Land",
+     "n": "Tom Aldredge"
+    },
+    {
+     "c": "Alva",
+     "n": "Viveka Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Luis Mandoki"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 10207,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A woman finds a romantic letter in a bottle washed ashore and tracks down the author, a widowed shipbuilder whose wife died tragically early. As a deep and mutual attraction blossoms, the man struggles to make peace with his past so that he can move on and find happiness.",
+   "popularity": 3.7849,
+   "poster_path": "/ulUjszY6YJFsDUd0E3WolJg6sOp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-02-22",
+   "revenue": 118880016,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story of love lost and found.",
+   "title": "Message in a Bottle",
+   "trailer": {
+    "key": "Wpb616fwYMk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.257,
+   "vote_count": 870
+  },
+  "movie:102207": {
+   "backdrop_path": "/xD9hhKEt0DubqzZ2nBTxQlixewi.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Dan Geraldo",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Pablito Camaron",
+     "n": "Jamel Debbouze"
+    },
+    {
+     "c": "Hermoso",
+     "n": "Fred Testot"
+    },
+    {
+     "c": "Général Pochero",
+     "n": "Lambert Wilson"
+    },
+    {
+     "c": "Caporal",
+     "n": "Patrick Timsit"
+    },
+    {
+     "c": "Pétunia",
+     "n": "Géraldine Nakache"
+    },
+    {
+     "c": "Reine Paya",
+     "n": "Liya Kebede"
+    },
+    {
+     "c": "Clarisse Iris",
+     "n": "Aïssa Maïga"
+    },
+    {
+     "c": "Bolo (as The Great Khali)",
+     "n": "Dalip Singh"
+    },
+    {
+     "c": "Papa Dan",
+     "n": "Jacques Weber"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alain Chabat"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 102207,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When reporter Dan Geraldo arrives in Palombia to hunt for a scoop, he never suspects that he is about to make an incredible discovery... With his resourceful local guide Pablito, D an has one surprise after another during a thrilling adventure that allows him to bring the world some spectacular news: the Marsupilami, a mythical and mischievous animal, really does exist! You too will believe in furry tails!",
+   "popularity": 2.6147,
+   "poster_path": "/yn3ydorp7YigPcnEZgNMvdNHPaF.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-04-03",
+   "revenue": 50100000,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "HOUBA! On the Trail of the Marsupilami",
+   "trailer": {
+    "key": "2c8KARf7mTA",
+    "name": "Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.305,
+   "vote_count": 915
+  },
   "movie:10407": {
    "backdrop_path": "/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
    "budget": 26000000,
@@ -107,6 +386,132 @@
    "type": "movie",
    "vote_average": 6.223,
    "vote_count": 499
+  },
+  "movie:10907": {
+   "backdrop_path": "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+   "budget": 2033000,
+   "cast": [
+    {
+     "c": "Robin Hood",
+     "n": "Errol Flynn"
+    },
+    {
+     "c": "Maid Marian",
+     "n": "Olivia de Havilland"
+    },
+    {
+     "c": "Sir Guy of Gisbourne",
+     "n": "Basil Rathbone"
+    },
+    {
+     "c": "Prince John",
+     "n": "Claude Rains"
+    },
+    {
+     "c": "Will Scarlett",
+     "n": "Patric Knowles"
+    },
+    {
+     "c": "Friar Tuck",
+     "n": "Eugene Pallette"
+    },
+    {
+     "c": "Little John",
+     "n": "Alan Hale"
+    },
+    {
+     "c": "High Sheriff of Nottingham",
+     "n": "Melville Cooper"
+    },
+    {
+     "c": "King Richard the Lion-Heart",
+     "n": "Ian Hunter"
+    },
+    {
+     "c": "Bess",
+     "n": "Una O'Connor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Curtiz",
+    "William Keighley"
+   ],
+   "genres": [
+    "Adventure",
+    "Romance",
+    "Action"
+   ],
+   "id": 10907,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+   "popularity": 3.8067,
+   "poster_path": "/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1938-05-14",
+   "revenue": 3981000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!",
+   "title": "The Adventures of Robin Hood",
+   "trailer": {
+    "key": "bU6rh7nRDgY",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.475,
+   "vote_count": 896
   },
   "movie:1105407": {
    "backdrop_path": "/hPU12uDcsVyaz368yjxa4BjDHXB.jpg",
@@ -400,6 +805,113 @@
    "type": "movie",
    "vote_average": 6.681,
    "vote_count": 406
+  },
+  "movie:11507": {
+   "backdrop_path": "/h5QkdbRmG2VodOCSB0QMhSGcCkI.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Jake Scully",
+     "n": "Craig Wasson"
+    },
+    {
+     "c": "Holly Body",
+     "n": "Melanie Griffith"
+    },
+    {
+     "c": "Sam Bouchard",
+     "n": "Gregg Henry"
+    },
+    {
+     "c": "Gloria Revelle",
+     "n": "Deborah Shelton"
+    },
+    {
+     "c": "Det. Jim McLean",
+     "n": "Guy Boyd"
+    },
+    {
+     "c": "Rubin",
+     "n": "Dennis Franz"
+    },
+    {
+     "c": "Drama Teacher",
+     "n": "David Haskell"
+    },
+    {
+     "c": "Kimberly Hess",
+     "n": "Rebecca Stanley"
+    },
+    {
+     "c": "Corso",
+     "n": "Al Israel"
+    },
+    {
+     "c": "Video Salesman",
+     "n": "Douglas Warhit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian De Palma"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 11507,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.",
+   "popularity": 3.7348,
+   "poster_path": "/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1984-10-25",
+   "revenue": 8801940,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't believe everything you see.",
+   "title": "Body Double",
+   "trailer": {
+    "key": "_B6KEJD605M",
+    "name": "BODY DOUBLE Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.737,
+   "vote_count": 986
   },
   "movie:11607": {
    "backdrop_path": "/nC15YUPsHVmdoj1CJhevZ8nEiDV.jpg",
@@ -1383,6 +1895,96 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 345
+  },
+  "movie:16007": {
+   "backdrop_path": "/mJMriqsFTXzNE37maThHHb6zCGy.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Light Yagami",
+     "n": "Tatsuya Fujiwara"
+    },
+    {
+     "c": "L",
+     "n": "Kenichi Matsuyama"
+    },
+    {
+     "c": "Naomi Misora",
+     "n": "Asaka Seto"
+    },
+    {
+     "c": "Raye Iwamatsu",
+     "n": "Shigeki Hosokawa"
+    },
+    {
+     "c": "Misa Amane",
+     "n": "Erika Toda"
+    },
+    {
+     "c": "Watari",
+     "n": "Shunji Fujimura"
+    },
+    {
+     "c": "Soichiro Yagami",
+     "n": "Takeshi Kaga"
+    },
+    {
+     "c": "Shiori Akino",
+     "n": "Yuu Kashii"
+    },
+    {
+     "c": "Ryuk (voice)",
+     "n": "Shidou Nakamura"
+    },
+    {
+     "c": "Touta Matsuda",
+     "n": "Sota Aoyama"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Shusuke Kaneko"
+   ],
+   "genres": [
+    "Fantasy",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 16007,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Light Yagami finds the \"Death Note,\" a notebook with the power to kill, and decides to create a Utopia by killing the world's criminals, and soon the world's greatest detective, \"L,\" is hired to find the mysterious murderer. An all out battle between the two greatest minds on earth begins and the winner will control the world.",
+   "popularity": 3.3522,
+   "poster_path": "/xiJPZntaz1BMooXfiwi2iZAMbhY.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2006-06-17",
+   "revenue": 29667169,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The battle of wits begins. Whose side are you on?",
+   "title": "Death Note",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 846
   },
   "movie:1631807": {
    "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
@@ -2503,6 +3105,171 @@
    "vote_average": 6.871,
    "vote_count": 315
   },
+  "movie:324807": {
+   "backdrop_path": "/jXSu4omJTmGtyOJJzB0WFzEA08v.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marianne Lane",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Paul De Smedt",
+     "n": "Matthias Schoenaerts"
+    },
+    {
+     "c": "Harry Hawkes",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Penelope Lanier",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Maresciallo",
+     "n": "Corrado Guzzanti"
+    },
+    {
+     "c": "Carabiniere 1",
+     "n": "Alessandro Ferrara"
+    },
+    {
+     "c": "Carabiniere 2",
+     "n": "David Maddalena"
+    },
+    {
+     "c": "Mayor",
+     "n": "Salvatore Gabriele"
+    },
+    {
+     "c": "Restaurant Owner",
+     "n": "Livio Franco Blandino"
+    },
+    {
+     "c": "Mireille",
+     "n": "Aurore Clément"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Luca Guadagnino"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 324807,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "en",
+   "overview": "An American couple, Paul and Marianne, spend their vacation in Italy and experience trouble when Marianne invites a former lover and his teenage daughter to visit, which leads to jealousy and dangerous sexual scenarios.",
+   "popularity": 2.5031,
+   "poster_path": "/hQ8vLJyws0tAYbBmzpTKbjdNHKI.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-11-26",
+   "revenue": 7545758,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "We're all obscene.",
+   "title": "A Bigger Splash",
+   "trailer": {
+    "key": "eBpvKfMWB-o",
+    "name": "A BIGGER SPLASH: Official HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.151,
+   "vote_count": 884
+  },
   "movie:33107": {
    "backdrop_path": "/U3XuW7DgoUsjTP6b4asUnG4ozk.jpg",
    "budget": 0,
@@ -2686,6 +3453,152 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 421
+  },
+  "movie:39107": {
+   "backdrop_path": "/t9z8Wm8c0HnxfPN9YvXgmueG6De.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Son Gokû / Son Gohan / Son Goten / Gogeta / Veku / Gotenks (voice)",
+     "n": "Masako Nozawa"
+    },
+    {
+     "c": "Vegeta / Gogeta / Veku (voice)",
+     "n": "Ryo Horikawa"
+    },
+    {
+     "c": "Trunks / Gotenks (voice)",
+     "n": "Takeshi Kusao"
+    },
+    {
+     "c": "Enma Daiou / Mr. Satan (voice)",
+     "n": "Daisuke Gori"
+    },
+    {
+     "c": "Bulma (voice)",
+     "n": "Hiromi Tsuru"
+    },
+    {
+     "c": "Chi-Chi (voice)",
+     "n": "Naoko Watanabe"
+    },
+    {
+     "c": "Videl / Juliano (voice)",
+     "n": "Yuko Minaguchi"
+    },
+    {
+     "c": "Paikûhan (voice)",
+     "n": "Hikaru Midorikawa"
+    },
+    {
+     "c": "North Kaiô / Narration (voice)",
+     "n": "Joji Yanami"
+    },
+    {
+     "c": "South Kaiô / Grandpa Hayashida (voice)",
+     "n": "Toku Nishio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Shigeyasu Yamauchi"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 39107,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.",
+   "popularity": 4.6863,
+   "poster_path": "/rCU5ddP3FVSDJy81UldUsBuf3ag.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-03-04",
+   "revenue": 23500000,
+   "runtime": 55,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Hell’s gates have opened.",
+   "title": "Dragon Ball Z: Fusion Reborn",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 980
   },
   "movie:4107": {
    "backdrop_path": "/eMiRBwTf7wWyuGCrDI9yHKOoPH8.jpg",
@@ -3142,6 +4055,146 @@
    "vote_average": 6.232,
    "vote_count": 422
   },
+  "movie:471507": {
+   "backdrop_path": "/o2dRMwUUUg601AaFiPXBNwurAhM.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Erin Bell",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Silas",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Petra",
+     "n": "Tatiana Maslany"
+    },
+    {
+     "c": "Chris",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Ethan",
+     "n": "Scoot McNairy"
+    },
+    {
+     "c": "DiFranco",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Gil Lawson",
+     "n": "Toby Huss"
+    },
+    {
+     "c": "Toby",
+     "n": "James Jordan"
+    },
+    {
+     "c": "Shelby",
+     "n": "Jade Pettyjohn"
+    },
+    {
+     "c": "Jay",
+     "n": "Beau Knapp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Karyn Kusama"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama",
+    "Action"
+   ],
+   "id": 471507,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Erin Bell was a young cop, she was given an undercover assignment that ended badly and destroyed her life. Years later, she must face her demons in order to make peace with her past.",
+   "popularity": 2.2331,
+   "poster_path": "/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-01-03",
+   "revenue": 5580940,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's nothing to lose when you've already lost everything",
+   "title": "Destroyer",
+   "trailer": {
+    "key": "bqHaLUoiWZU",
+    "name": "DESTROYER | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.913,
+   "vote_count": 827
+  },
   "movie:505707": {
    "backdrop_path": "/l0vUzd701TzvN3jywXex9G01zpd.jpg",
    "budget": 0,
@@ -3442,6 +4495,180 @@
    "vote_average": 6.201,
    "vote_count": 389
   },
+  "movie:514207": {
+   "backdrop_path": "/cbJNZeFkiG4ggsNcwzBs6yeCXga.jpg",
+   "budget": 8819200,
+   "cast": [
+    {
+     "c": "Artyom / Thomas",
+     "n": "Alexander Petrov"
+    },
+    {
+     "c": "Yulya Lebedeva",
+     "n": "Irina Starshenbaum"
+    },
+    {
+     "c": "General Lebedev",
+     "n": "Oleg Menshikov"
+    },
+    {
+     "c": "Hackon / Hariton",
+     "n": "Rinal Mukhametov"
+    },
+    {
+     "c": "Ivan",
+     "n": "Yura Borisov"
+    },
+    {
+     "c": "Le premier ministre",
+     "n": "Sergey Garmash"
+    },
+    {
+     "c": "VSK major",
+     "n": "Igor Kosterin"
+    },
+    {
+     "c": "Head of IT",
+     "n": "Andrey Nazimov"
+    },
+    {
+     "c": "\"Google\" alias \"La tronche\"",
+     "n": "Evgeny Mikheev"
+    },
+    {
+     "c": "Volvo's Driver",
+     "n": "Stanislav Kisilevskiy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Fyodor Bondarchuk"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Action"
+   ],
+   "id": 514207,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Two years after the fall of the alien ship, the life of a young woman from Moscow has been changed forever. Her growing powers are now at the focus of both human and celestial investigation: an alien force takes an interest in her, and will stop short of nothing, including an invasion. Can love and compassion save humanity, when faced with a much greater and more demanding test this time?",
+   "popularity": 3.7111,
+   "poster_path": "/eNkewJGOW44OznlnfXA8ewWPPmI.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-04-17",
+   "revenue": 32104054,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Invasion",
+   "trailer": {
+    "key": "gIRO1Bwz9f8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.862,
+   "vote_count": 931
+  },
   "movie:521007": {
    "backdrop_path": "/nxIqVM8Kqp6Ej21WiOncTwKzoG1.jpg",
    "budget": 0,
@@ -3568,6 +4795,281 @@
    "type": "movie",
    "vote_average": 5.915,
    "vote_count": 405
+  },
+  "movie:523607": {
+   "backdrop_path": "/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Felicia Montealegre",
+     "n": "Carey Mulligan"
+    },
+    {
+     "c": "Leonard Bernstein",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "David Oppenheim",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Bruno Zirato",
+     "n": "Vincenzo Amato"
+    },
+    {
+     "c": "Isaac",
+     "n": "Greg Hildreth"
+    },
+    {
+     "c": "Jerry Robbins",
+     "n": "Michael Urie"
+    },
+    {
+     "c": "Aaron Copeland",
+     "n": "Brian Klugman"
+    },
+    {
+     "c": "Adolph Green",
+     "n": "Nick Blaemire"
+    },
+    {
+     "c": "Betty Comden",
+     "n": "Mallory Portnoy"
+    },
+    {
+     "c": "Claudio's Guest #1",
+     "n": "Alexandra Santini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Bradley Cooper"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Music"
+   ],
+   "id": 523607,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+   "popularity": 3.1776,
+   "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-12-01",
+   "revenue": 300000,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Maestro",
+   "trailer": {
+    "key": "xvmBVJhs4TA",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.219,
+   "vote_count": 907
+  },
+  "movie:526007": {
+   "backdrop_path": "/eUaCIstB8oLNQd62Krt0hgqrjQg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bart Bromley",
+     "n": "Tye Sheridan"
+    },
+    {
+     "c": "Andrea Rivera",
+     "n": "Ana de Armas"
+    },
+    {
+     "c": "Detective Espada",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Ethel Bromley",
+     "n": "Helen Hunt"
+    },
+    {
+     "c": "Karen Perretti",
+     "n": "Jacque Gray"
+    },
+    {
+     "c": "Nick Perretti",
+     "n": "Johnathon Schaech"
+    },
+    {
+     "c": "Ron Benson",
+     "n": "Joey Miyashima"
+    },
+    {
+     "c": "Jack Miller",
+     "n": "Austin Archer"
+    },
+    {
+     "c": "Car Salesman",
+     "n": "D.L. Walker"
+    },
+    {
+     "c": "Older Salesman",
+     "n": "Walter Platz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Cristofer"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+   ],
+   "id": 526007,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.",
+   "popularity": 2.6788,
+   "poster_path": "/hPWjid7yMatyIDHvku7lCMN7zSi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-02-21",
+   "revenue": 302127,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Someone's always watching.",
+   "title": "The Night Clerk",
+   "trailer": {
+    "key": "flDC7Ar2Deg",
+    "name": "The Night Clerk Official Trailer (2020) - Tye Sheridan, Ana de Armas, John Leguizamo and Helen Hunt",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.179,
+   "vote_count": 954
   },
   "movie:538207": {
    "backdrop_path": "/srEsK6LPJSMd0LndDIzxtBEiKNS.jpg",
@@ -4375,6 +5877,110 @@
    "vote_average": 6.122,
    "vote_count": 459
   },
+  "movie:7007": {
+   "backdrop_path": "/dmaLmrP3PYfhb8P2SWMucZCZqjk.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Capt. John Connor",
+     "n": "Sean Connery"
+    },
+    {
+     "c": "Lt. Webster Smith",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Jingo Asakuma",
+     "n": "Tia Carrere"
+    },
+    {
+     "c": "Eddie Sakamura",
+     "n": "Cary-Hiroyuki Tagawa"
+    },
+    {
+     "c": "Lt. Tom Graham",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Yoshida-san",
+     "n": "Mako"
+    },
+    {
+     "c": "Ishihara",
+     "n": "Stan Egi"
+    },
+    {
+     "c": "Bob Richmond",
+     "n": "Kevin Anderson"
+    },
+    {
+     "c": "Tanaka",
+     "n": "Clyde Kusatsu"
+    },
+    {
+     "c": "Senator John Morton",
+     "n": "Ray Wise"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Philip Kaufman"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 7007,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a prostitute is found dead in a Los Angeles skyscraper occupied by a large Japanese corporation, detectives John Connor and Web Smith are called in to investigate. Although Connor has previous experience working in Japan, cultural differences make their progress difficult until a security disc showing the murder turns up. Close scrutiny proves the disc has been doctored, and the detectives realize they're dealing with a cover-up as well.",
+   "popularity": 2.5694,
+   "poster_path": "/eaoTusWFLCDnIJOwlUaXiWmrLyt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1993-07-30",
+   "revenue": 107198790,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A collision of East and West. A conspiracy of seduction and murder. A battle between tradition and power. Business is war.",
+   "title": "Rising Sun",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.154,
+   "vote_count": 885
+  },
   "movie:795607": {
    "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
    "budget": 0,
@@ -4479,6 +6085,136 @@
    "type": "movie",
    "vote_average": 8.1,
    "vote_count": 399
+  },
+  "movie:79707": {
+   "backdrop_path": "/gB8eFFUw6UA97A7TzrNVrc3D08o.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Asuna Watase (voice)",
+     "n": "Hisako Kanemoto"
+    },
+    {
+     "c": "Ryuji Morisaki (voice)",
+     "n": "Kazuhiko Inoue"
+    },
+    {
+     "c": "Shin / Shun (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Mana (voice)",
+     "n": "Rina Hidaka"
+    },
+    {
+     "c": "Asuna's Mother (voice)",
+     "n": "Fumiko Orikasa"
+    },
+    {
+     "c": "Risa (voice)",
+     "n": "Sumi Shimamoto"
+    },
+    {
+     "c": "Mimi (voice)",
+     "n": "Junko Takeuchi"
+    },
+    {
+     "c": "Seri (voice)",
+     "n": "Kanae Itou"
+    },
+    {
+     "c": "Old Man from Amaurot (voice)",
+     "n": "Tamio Ohki"
+    },
+    {
+     "c": "Student (voice)",
+     "n": "Aki Kanada"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Makoto Shinkai"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ],
+   "id": 79707,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "The film centers on Asuna, a young girl who spends her solitary days listening to the mysterious music emanating from the crystal radio she received from her late father as a memento. One day while walking home she is attacked by a fearsome monster and saved by a mysterious boy named Shun. However, Shun disappears and Asuna embarks on a journey of adventure to the land of Agartha with her teacher Mr. Morisaki to meet a Shun again. Through her journey she comes to know the cruelty and beauty of the world, as well as loss.",
+   "popularity": 3.9809,
+   "poster_path": "/8RE7Zz9oTzOeMcahqm74AWkOVpV.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-05-07",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A journey to say goodbye.",
+   "title": "Children Who Chase Lost Voices",
+   "trailer": {
+    "key": "yxwVJbhqD64",
+    "name": "Makoto Shinkai - CHILDREN WHO CHASE LOST VOICES | On Blu-ray & Digital",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.244,
+   "vote_count": 824
   },
   "movie:809107": {
    "backdrop_path": "/xBHq2c25I776tO1VYrDNQaT5xzZ.jpg",

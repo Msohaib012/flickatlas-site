@@ -1,6 +1,6 @@
 {
  "bucket": "51",
- "count": 53,
+ "count": 61,
  "titles": {
   "movie:10451": {
    "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
@@ -789,6 +789,120 @@
    "type": "movie",
    "vote_average": 6.764,
    "vote_count": 462
+  },
+  "movie:13151": {
+   "backdrop_path": "/jiWfL7ilvshB5i9wUhVRZZNJb5l.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scooby-Doo (voice)",
+     "n": "Scott Innes"
+    },
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Billy West"
+    },
+    {
+     "c": "Daphne Blake (voice)",
+     "n": "Mary Kay Bergman"
+    },
+    {
+     "c": "Fred Jones (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Velma Dinkley (voice)",
+     "n": "B.J. Ward"
+    },
+    {
+     "c": "Simone Lenoir (voice)",
+     "n": "Adrienne Barbeau"
+    },
+    {
+     "c": "Lena Dupree (voice)",
+     "n": "Tara Strong"
+    },
+    {
+     "c": "Beau Neville (voice)",
+     "n": "Cam Clarke"
+    },
+    {
+     "c": "Jacques (voice)",
+     "n": "Jim Cummings"
+    },
+    {
+     "c": "Snakebite Scruggs (voice)",
+     "n": "Mark Hamill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jim Stenstrum"
+   ],
+   "genres": [
+    "Animation",
+    "Mystery",
+    "Family",
+    "Horror"
+   ],
+   "id": 13151,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After going their separate ways, Scooby-Doo, Shaggy, Velma, Daphne, and Fred reunite to investigate the ghost of Moonscar the pirate on a haunted bayou island, but it turns out the swashbuckler's spirit isn't the only creepy character on the island. The sleuths also meet up with cat creatures and zombies... and it looks like for the first time in their lives, these ghouls might actually be real.",
+   "popularity": 4.126,
+   "poster_path": "/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-09-22",
+   "revenue": 0,
+   "runtime": 77,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This time, the monsters are real!",
+   "title": "Scooby-Doo on Zombie Island",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.679,
+   "vote_count": 896
   },
   "movie:13751": {
    "backdrop_path": "/5cQG6wbizKfADPCNp4Tm801VMxH.jpg",
@@ -1930,6 +2044,199 @@
    "vote_average": 5.5,
    "vote_count": 84
   },
+  "movie:174751": {
+   "backdrop_path": "/xXYIWoQLxToV9gzCgmQ1LpgU96X.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Jane Hammond",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Dan Frost",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "John Bishop",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Bill Hammond",
+     "n": "Noah Emmerich"
+    },
+    {
+     "c": "Vic Owen",
+     "n": "Boyd Holbrook"
+    },
+    {
+     "c": "Fitchum",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Buck",
+     "n": "Alex Manette"
+    },
+    {
+     "c": "O'Dowd",
+     "n": "Todd Stashwick"
+    },
+    {
+     "c": "Cunny Charlie",
+     "n": "James Burnett"
+    },
+    {
+     "c": "Slow Jeremiah",
+     "n": "Sam Quinn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gavin O'Connor"
+   ],
+   "genres": [
+    "Western",
+    "Action",
+    "Drama"
+   ],
+   "id": 174751,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After her outlaw husband returns home shot with eight bullets and barely alive, Jane reluctantly reaches out to an ex-lover who she hasn't seen in over ten years to help her defend her farm when the time comes that her husband's gang eventually tracks him down to finish the job.",
+   "popularity": 3.0227,
+   "poster_path": "/hmfZZ7QeD2RTqkCQX09OC2ehawz.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-12-31",
+   "revenue": 3771345,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Jane Got a Gun",
+   "trailer": {
+    "key": "WMW1pjzEhfY",
+    "name": "Jane Got A Gun - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 910
+  },
   "movie:1951": {
    "backdrop_path": "/dbAAQhptC6FyxBJx91IQv9zRiki.jpg",
    "budget": 14200000,
@@ -2048,6 +2355,144 @@
    "type": "movie",
    "vote_average": 6.929,
    "vote_count": 422
+  },
+  "movie:236751": {
+   "backdrop_path": "/11eRKCIIkRnGseeIlWlAqkbiHKl.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Todd Burpo",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Sonja Burpo",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Colton",
+     "n": "Connor Corum"
+    },
+    {
+     "c": "Jay Wilkins",
+     "n": "Thomas Haden Church"
+    },
+    {
+     "c": "Michael",
+     "n": "Jacob Vargas"
+    },
+    {
+     "c": "Cassie",
+     "n": "Lane Styles"
+    },
+    {
+     "c": "Mr. Parker",
+     "n": "Darren Felbel"
+    },
+    {
+     "c": "Arch Angel #2",
+     "n": "Ali Tataryn"
+    },
+    {
+     "c": "Mr. Jackson",
+     "n": "Jon Ted Wynne"
+    },
+    {
+     "c": "Lee Watson",
+     "n": "Darcy Fehr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Randall Wallace"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 236751,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After their young son, Colton, undergoes emergency surgery, small-town parents Todd and Sonja Burpo are overjoyed at the child's miraculous recovery. However, the Burpos are unprepared for what happens next... Colton says that during his surgery he went to heaven and back, and tells his parents things that he couldn't possibly know. Can Todd find the courage and conviction to share his son's extraordinary, life-changing experience with the world?",
+   "popularity": 3.3912,
+   "poster_path": "/tsFovEJuZHVgpvFTHXb37l7ma4F.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-04-16",
+   "revenue": 101300000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Unlock the mystery",
+   "title": "Heaven Is for Real",
+   "trailer": {
+    "key": "N-ewaCVARtM",
+    "name": "Heaven Is For Real - Official Trailer - In Theaters Easter 2014",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.818,
+   "vote_count": 916
   },
   "movie:238751": {
    "backdrop_path": "/lAJLaHbkqXYMxcGO6WZxIhNwh31.jpg",
@@ -2209,6 +2654,175 @@
    "type": "movie",
    "vote_average": 6.507,
    "vote_count": 370
+  },
+  "movie:26451": {
+   "backdrop_path": "/7SUT9mYb7SD88Gz7rFeLbjC2YeG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dottore",
+     "n": "Gian Maria Volonté"
+    },
+    {
+     "c": "Augusta Terzi",
+     "n": "Florinda Bolkan"
+    },
+    {
+     "c": "Police Prefect",
+     "n": "Gianni Santuccio"
+    },
+    {
+     "c": "Biglia",
+     "n": "Orazio Orlando"
+    },
+    {
+     "c": "Antonio Pace",
+     "n": "Sergio Tramonti"
+    },
+    {
+     "c": "Mangani",
+     "n": "Arturo Dominici"
+    },
+    {
+     "c": "Nicola Panunzio",
+     "n": "Aldo Rendine"
+    },
+    {
+     "c": "Augusta's Husband",
+     "n": "Massimo Foschi"
+    },
+    {
+     "c": "Governess",
+     "n": "Aleka Paizi"
+    },
+    {
+     "c": "Canes",
+     "n": "Vittorio Duse"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Elio Petri"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 26451,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Rome, Italy. After committing a heinous crime, a senior police officer exposes evidence incriminating him because his moral commitment prevents him from circumventing the law and the social order it protects.",
+   "popularity": 3.1593,
+   "poster_path": "/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1970-10-16",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Investigation of a Citizen Above Suspicion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.191,
+   "vote_count": 917
   },
   "movie:265851": {
    "backdrop_path": "/c1fDKwLbInSP6AzTFUtiajJ4uGv.jpg",
@@ -3517,6 +4131,113 @@
    "vote_average": 4.7,
    "vote_count": 378
   },
+  "movie:474051": {
+   "backdrop_path": "/yVfhwgLBFDdI1LuaiFfA7y2FbVi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vaughn",
+     "n": "Jack Lowden"
+    },
+    {
+     "c": "Marcus",
+     "n": "Martin McCann"
+    },
+    {
+     "c": "Logan McClay",
+     "n": "Tony Curran"
+    },
+    {
+     "c": "Brian McClay",
+     "n": "Ian Pirie"
+    },
+    {
+     "c": "Kara",
+     "n": "Kitty Lovett"
+    },
+    {
+     "c": "Al McClay",
+     "n": "Cal MacAninch"
+    },
+    {
+     "c": "Frank McClay",
+     "n": "Cameron Jack"
+    },
+    {
+     "c": "Iona",
+     "n": "Kate Bracken"
+    },
+    {
+     "c": "Angus",
+     "n": "George Anton"
+    },
+    {
+     "c": "Mary",
+     "n": "Thérèse Bradley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Matt Palmer"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 474051,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Two lifelong friends head up to an isolated Scottish Highlands village for a weekend hunting trip that descends into a never-ending nightmare as they attempt to cover up a horrific hunting accident.",
+   "popularity": 1.9603,
+   "poster_path": "/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-06-22",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't bury the truth",
+   "title": "Calibre",
+   "trailer": {
+    "key": "x6yaSYAk2KU",
+    "name": "Calibre | Main Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.472,
+   "vote_count": 847
+  },
   "movie:539651": {
    "backdrop_path": "/2JMG17kxeq1w88oHUkesxpIHmTZ.jpg",
    "budget": 5000000,
@@ -4284,6 +5005,139 @@
    "vote_average": 6.365,
    "vote_count": 477
   },
+  "movie:653851": {
+   "backdrop_path": "/tY36rkGlREg5m9CaguckR8jZCye.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Jesse Brown",
+     "n": "Jonathan Majors"
+    },
+    {
+     "c": "Thomas J. Hudner Jr.",
+     "n": "Glen Powell"
+    },
+    {
+     "c": "Daisy Brown",
+     "n": "Christina Jackson"
+    },
+    {
+     "c": "Dick Cevoli",
+     "n": "Thomas Sadoski"
+    },
+    {
+     "c": "Bill Koenig",
+     "n": "Daren Kagasoff"
+    },
+    {
+     "c": "Marty Goode",
+     "n": "Joe Jonas"
+    },
+    {
+     "c": "Bo Lavery",
+     "n": "Spencer Neville"
+    },
+    {
+     "c": "Carol Mohring",
+     "n": "Nick Hargrove"
+    },
+    {
+     "c": "Buddy Gill",
+     "n": "Boone Platt"
+    },
+    {
+     "c": "Captain Sisson",
+     "n": "Dean Denton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.D. Dillard"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "id": 653851,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen.",
+   "popularity": 2.866,
+   "poster_path": "/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-11-23",
+   "revenue": 21768133,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "In America’s forgotten war, they made history.",
+   "title": "Devotion",
+   "trailer": {
+    "key": "nIvBBd8pU1s",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 879
+  },
   "movie:658751": {
    "backdrop_path": "/29D1fbU1bP9vzPvHiYr7aeGG17P.jpg",
    "budget": 0,
@@ -4494,6 +5348,220 @@
    "type": "movie",
    "vote_average": 6.546,
    "vote_count": 345
+  },
+  "movie:703451": {
+   "backdrop_path": "/1phS20ufmCOtT8kPBm3izGo6omk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Debbie",
+     "n": "Reese Witherspoon"
+    },
+    {
+     "c": "Peter Coleman",
+     "n": "Ashton Kutcher"
+    },
+    {
+     "c": "Minka",
+     "n": "Zoë Chao"
+    },
+    {
+     "c": "Theo",
+     "n": "Jesse Williams"
+    },
+    {
+     "c": "Jack",
+     "n": "Wesley Kimmel"
+    },
+    {
+     "c": "Alicia",
+     "n": "Tig Notaro"
+    },
+    {
+     "c": "Zen",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Scarlet",
+     "n": "Rachel Bloom"
+    },
+    {
+     "c": "John Golden",
+     "n": "Griffin Matthews"
+    },
+    {
+     "c": "Becca",
+     "n": "Vella Lovell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Aline Brosh McKenna"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 703451,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When best friends and total opposites Debbie and Peter swap homes for a week, they get a peek into each other's lives that could open the door to love.",
+   "popularity": 2.8255,
+   "poster_path": "/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-02-10",
+   "revenue": 0,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two lives. Two cities. One last chance.",
+   "title": "Your Place or Mine",
+   "trailer": {
+    "key": "5JyfgkPMXk0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.246,
+   "vote_count": 903
+  },
+  "movie:823951": {
+   "backdrop_path": "/boTSprR0BQInY5oNmgKMR2mTFr4.jpg",
+   "budget": 17700000,
+   "cast": [
+    {
+     "c": "Fred",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "Inès Moreau",
+     "n": "Anaïs Demoustier"
+    },
+    {
+     "c": "Héloïse",
+     "n": "Sandrine Kiberlain"
+    },
+    {
+     "c": "Marco",
+     "n": "Jérémie Renier"
+    },
+    {
+     "c": "Samia",
+     "n": "Lyna Khoudri"
+    },
+    {
+     "c": "Martin",
+     "n": "Cédric Kahn"
+    },
+    {
+     "c": "Foued",
+     "n": "Sofian Khammes"
+    },
+    {
+     "c": "Kader",
+     "n": "Sami Outalbali"
+    },
+    {
+     "c": "Djibril",
+     "n": "Stéphane Bak"
+    },
+    {
+     "c": "Rudy",
+     "n": "Raphaël Quenard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Cédric Jimenez"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 823951,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In November 2015, a series of unprecedented and deadly attacks hits Paris. The anti-terrorist police led by Heloise and her chief commander Fred face an unprecedented level of pressure. In a race against the clock, they must find the perpetrators of the attacks as quickly as possible before they can strike again, travelling across Europe and beyond in one of the biggest manhunts in history.",
+   "popularity": 2.8239,
+   "poster_path": "/A5wae5M81jLTuv3WbCJfORxapRA.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-10-05",
+   "revenue": 18114769,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "November",
+   "trailer": {
+    "key": "t8CHwgz4sY4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.037,
+   "vote_count": 914
   },
   "movie:829051": {
    "backdrop_path": "/5pNH4IvHu4A0Fhbtecklw3QFYyY.jpg",

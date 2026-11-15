@@ -1,6 +1,6 @@
 {
  "bucket": "28",
- "count": 57,
+ "count": 59,
  "titles": {
   "movie:10128": {
    "backdrop_path": "/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
@@ -425,6 +425,116 @@
    "type": "movie",
    "vote_average": 6.439,
    "vote_count": 33
+  },
+  "movie:11128": {
+   "backdrop_path": "/jF94vmzKJIL9M60TiRqHuHIEesH.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Jack Morrison",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Captain Mike Kennedy",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Linda Morrison",
+     "n": "Jacinda Barrett"
+    },
+    {
+     "c": "Lenny Richter",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Tommy Drake",
+     "n": "Morris Chestnut"
+    },
+    {
+     "c": "Dennis Gauquin",
+     "n": "Billy Burke"
+    },
+    {
+     "c": "Ray Gauquin",
+     "n": "Balthazar Getty"
+    },
+    {
+     "c": "Tony Corrigan",
+     "n": "Tim Guinee"
+    },
+    {
+     "c": "Frank Mckinny",
+     "n": "Kevin Chapman"
+    },
+    {
+     "c": "Keith Perez",
+     "n": "Jay Hernandez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jay Russell"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "Thriller"
+   ],
+   "id": 11128,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Under the watchful eye of his mentor, Captain Mike Kennedy, probationary firefighter Jack Morrison matures into a seasoned veteran at a Baltimore fire station. However, Jack has reached a crossroads  as the sacrifices he's made have put him in harm's way innumerable times and significantly impacted his relationship with his wife and kids.",
+   "popularity": 2.2669,
+   "poster_path": "/aJWQNUUHVcI7kvlVdUzPS9J8XHt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-10-01",
+   "revenue": 100572044,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their greatest challenge lies in rescuing one of their own.",
+   "title": "Ladder 49",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.482,
+   "vote_count": 928
   },
   "movie:1155828": {
    "backdrop_path": "/CZyMhVVpraYDptLpYXxXjgAuCH.jpg",
@@ -3663,6 +3773,119 @@
    "type": "movie",
    "vote_average": 6.062,
    "vote_count": 306
+  },
+  "movie:506528": {
+   "backdrop_path": "/xfW1t2gb5ObNLJbGX9aEfR9w4s8.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Harriet Tubman",
+     "n": "Cynthia Erivo"
+    },
+    {
+     "c": "William Still",
+     "n": "Leslie Odom Jr."
+    },
+    {
+     "c": "Marie Buchanon",
+     "n": "Janelle Monáe"
+    },
+    {
+     "c": "Ben Ross",
+     "n": "Clarke Peters"
+    },
+    {
+     "c": "Rit Ross",
+     "n": "Vanessa Bell Calloway"
+    },
+    {
+     "c": "Bigger Long",
+     "n": "Omar J. Dorsey"
+    },
+    {
+     "c": "Walter",
+     "n": "Henry Hunter Hall"
+    },
+    {
+     "c": "Robert Ross",
+     "n": "Joseph Lee Anderson"
+    },
+    {
+     "c": "Henry Ross",
+     "n": "Antonio J Bell"
+    },
+    {
+     "c": "John Tubman",
+     "n": "Zackary Momoh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kasi Lemmons"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 506528,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroes. Her courage, ingenuity and tenacity freed hundreds of slaves and changed the course of history.",
+   "popularity": 2.8192,
+   "poster_path": "/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-11-01",
+   "revenue": 0,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Be free or die",
+   "title": "Harriet",
+   "trailer": {
+    "key": "GqoEs4cG6Uw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.311,
+   "vote_count": 969
   },
   "movie:566228": {
    "backdrop_path": "/911kCT2YwGBhFz1CNDfb0La8ybG.jpg",

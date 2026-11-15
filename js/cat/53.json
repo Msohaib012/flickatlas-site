@@ -1,6 +1,6 @@
 {
  "bucket": "53",
- "count": 50,
+ "count": 57,
  "titles": {
   "movie:1008953": {
    "backdrop_path": "/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
@@ -371,6 +371,120 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 307
+  },
+  "movie:11353": {
+   "backdrop_path": "/vLfksvG182LklmmiHek0Al4FdRN.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Bobby Bowfinger",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Kit Ramsey / Jeffernson 'Jiff' Ramsey",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Daisy",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Carol",
+     "n": "Christine Baranski"
+    },
+    {
+     "c": "Dave",
+     "n": "Jamie Kennedy"
+    },
+    {
+     "c": "Hal, Kit's Agent",
+     "n": "Barry Newman"
+    },
+    {
+     "c": "Afrim",
+     "n": "Adam Alexi-Malle"
+    },
+    {
+     "c": "Slater",
+     "n": "Kohl Sudduth"
+    },
+    {
+     "c": "Terry Stricter",
+     "n": "Terence Stamp"
+    },
+    {
+     "c": "Jerry Renfro",
+     "n": "Robert Downey Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Frank Oz"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11353,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the verge of bankruptcy and desperate for his big break, aspiring filmmaker Bobby Bowfinger concocts a crazy plan to make his ultimate dream movie. Rallying a ragtag team that includes a starry-eyed ingenue, a has-been diva and a film studio gofer, he sets out to shoot a blockbuster featuring the biggest star in Hollywood, Kit Ramsey -- only without letting Ramsey know he's in the picture.",
+   "popularity": 2.4866,
+   "poster_path": "/iGuiFYEYwFkaRPl3FgLJYEm6dWq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-08-12",
+   "revenue": 98625775,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The con is on.",
+   "title": "Bowfinger",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.194,
+   "vote_count": 989
   },
   "movie:11653": {
    "backdrop_path": "/xChyWmjDeEH8zOVi9dwVrtIJEfd.jpg",
@@ -1954,6 +2068,115 @@
    "vote_average": 6.7,
    "vote_count": 306
   },
+  "movie:24653": {
+   "backdrop_path": "/6SRoBPlzXUasFegwnY0s4hbpqJz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Titta Di Girolamo",
+     "n": "Toni Servillo"
+    },
+    {
+     "c": "Sofia",
+     "n": "Olivia Magnani"
+    },
+    {
+     "c": "Valerio",
+     "n": "Adriano Giannini"
+    },
+    {
+     "c": "Bank Manager",
+     "n": "Antonio Ballerio"
+    },
+    {
+     "c": "Giulia",
+     "n": "Gianna Paola Scaffidi"
+    },
+    {
+     "c": "Mafioso #1",
+     "n": "Nino D'Agata"
+    },
+    {
+     "c": "Pippo D'Antò",
+     "n": "Vincenzo Vitagliano"
+    },
+    {
+     "c": "Hotel Manager",
+     "n": "Diego Ribon"
+    },
+    {
+     "c": "Hitman #1",
+     "n": "Gilberto Idonea"
+    },
+    {
+     "c": "Handmaid",
+     "n": "Giselda Volodi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Paolo Sorrentino"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 24653,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Lugano, Switzerland. Titta Di Girolamo is a discreet and sullen man who has been living for almost a decade in a modest hotel room, a prisoner of an atrocious routine, apparently without purpose. His past is a mystery, nobody knows what he does for a living, he answers indiscreet questions evasively. What secrets does this enigmatic man hide?",
+   "popularity": 1.7245,
+   "poster_path": "/2ubdrvMHcRTFzkUdmSIuvupLqRS.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-09-24",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Everyone has a dark secret",
+   "title": "The Consequences of Love",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.525,
+   "vote_count": 929
+  },
   "movie:25853": {
    "backdrop_path": "/bypraAsU9NdFm3HXWYLBKPlipke.jpg",
    "budget": 250000,
@@ -2962,6 +3185,161 @@
    "vote_average": 6.0,
    "vote_count": 380
   },
+  "movie:3053": {
+   "backdrop_path": "/pmO4NERkXjJiCfpEuLT1raZS5fA.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Professor Abronsius",
+     "n": "Jack MacGowran"
+    },
+    {
+     "c": "Alfred",
+     "n": "Roman Polanski"
+    },
+    {
+     "c": "Shagal, the Inn-Keeper",
+     "n": "Alfie Bass"
+    },
+    {
+     "c": "Rebecca Shagal",
+     "n": "Jessie Robins"
+    },
+    {
+     "c": "Sarah Shagal",
+     "n": "Sharon Tate"
+    },
+    {
+     "c": "Count von Krolock / Narrator",
+     "n": "Ferdy Mayne"
+    },
+    {
+     "c": "Herbert von Krolock",
+     "n": "Iain Quarrier"
+    },
+    {
+     "c": "Koukol, the Servant",
+     "n": "Terry Downes"
+    },
+    {
+     "c": "Magda, the Maid",
+     "n": "Fiona Lewis"
+    },
+    {
+     "c": "Village Idiot",
+     "n": "Ronald Lacey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 3053,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A noted professor and his dim-witted apprentice fall prey to their inquiring vampires, while on the trail of the ominous damsel in distress.",
+   "popularity": 2.7711,
+   "poster_path": "/nqk9oTXRaukSyhFAwBGGgEnLl43.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1967-11-13",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who says Vampires are no laughing matter?",
+   "title": "The Fearless Vampire Killers",
+   "trailer": {
+    "key": "W527bf_qpqM",
+    "name": "Trailer HD | The Fearless Vampire Killers | Warner Archive",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.945,
+   "vote_count": 868
+  },
   "movie:308453": {
    "backdrop_path": "/57b4FmA9aSNE6wiL439DlKFS5TY.jpg",
    "budget": 3500000,
@@ -3073,6 +3451,95 @@
    "type": "movie",
    "vote_average": 6.035,
    "vote_count": 410
+  },
+  "movie:37653": {
+   "backdrop_path": "/jOncZUo1ce3cOgBWPvnmpilzFUu.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "Pascal Latour",
+     "n": "Pascal Légitimus"
+    },
+    {
+     "c": "Didier Latour",
+     "n": "Didier Bourdon"
+    },
+    {
+     "c": "Bernard Latour",
+     "n": "Bernard Campan"
+    },
+    {
+     "c": "Michael",
+     "n": "Antoine du Merle"
+    },
+    {
+     "c": "Marie",
+     "n": "Anne Jacquemin"
+    },
+    {
+     "c": "Christine",
+     "n": "Marine Jolivet"
+    },
+    {
+     "c": "Geneviève Rougemont",
+     "n": "Annick Alane"
+    },
+    {
+     "c": "Charles-Henri Rougemont",
+     "n": "Pierre Meyrand"
+    },
+    {
+     "c": "Steven, le patron de Pascal",
+     "n": "Bernard Farcy"
+    },
+    {
+     "c": "Brice, le bras droit de Steven",
+     "n": "Élie Semoun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "TP",
+   "date_kind": "release",
+   "director": [
+    "Bernard Campan",
+    "Didier Bourdon"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 37653,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Three half-brothers are reunited at their mother's funeral. After being told of their inheritance they quickly spend the money, only to find out that they will not receive it after all. The men grow closer while deciding how to proceed.",
+   "popularity": 1.5974,
+   "poster_path": "/nPrUw2hLIt9uWrGwfKjr0AbGWgd.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1995-12-13",
+   "revenue": 46000000,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Three Brothers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.98,
+   "vote_count": 841
   },
   "movie:39053": {
    "backdrop_path": "/tZP2xJaUgCFByVMDYHyEOJiCSX6.jpg",
@@ -3450,6 +3917,131 @@
    "type": "movie",
    "vote_average": 5.968,
    "vote_count": 300
+  },
+  "movie:458253": {
+   "backdrop_path": "/l36ekUEEDLMAuL0YAU2Qxfq1i6X.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Sir Lionel Frost (voice)",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Adelina Fortnight (voice)",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Mr. Susan Link (voice)",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Lord Piggot-Dunceby (voice)",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Willard Stenk (voice)",
+     "n": "Timothy Olyphant"
+    },
+    {
+     "c": "Dora the Yeti Elder (voice)",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Ama Lhamu (voice)",
+     "n": "Amrita Acharia"
+    },
+    {
+     "c": "Mr. Collick (voice)",
+     "n": "Matt Lucas"
+    },
+    {
+     "c": "Gamu (voice)",
+     "n": "Ching Valdes-Aran"
+    },
+    {
+     "c": "Mr. Lemuel Lint (voice)",
+     "n": "David Walliams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Butler"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Action"
+   ],
+   "id": 458253,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The charismatic Sir Lionel Frost considers himself to be the world's foremost investigator of myths and monsters. Trouble is, none of his small-minded, high-society peers seems to recognize this. Hoping to finally gain acceptance from these fellow adventurers, Sir Lionel travels to the Pacific Northwest to prove the existence of a legendary creature known as the missing link.",
+   "popularity": 3.9156,
+   "poster_path": "/bqQ38oKuROlAgyZcRII9tqtoPNi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-04-04",
+   "revenue": 26565710,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Discover a comedy of epic proportions.",
+   "title": "Missing Link",
+   "trailer": {
+    "key": "7UalKq-DSXI",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.878,
+   "vote_count": 982
   },
   "movie:461053": {
    "backdrop_path": "/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
@@ -4386,6 +4978,198 @@
    "vote_average": 6.5,
    "vote_count": 344
   },
+  "movie:615453": {
+   "backdrop_path": "/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Young Nezha (voice)",
+     "n": "Lu Yanting"
+    },
+    {
+     "c": "Youth Nezha (voice)",
+     "n": "Joseph"
+    },
+    {
+     "c": "Ao Bing (voice)",
+     "n": "Han Mo"
+    },
+    {
+     "c": "Li Jing (voice)",
+     "n": "Chen Hao"
+    },
+    {
+     "c": "Lady Yin (voice)",
+     "n": "Lu Qi"
+    },
+    {
+     "c": "Master Taiyi (voice)",
+     "n": "Zhang Jiaming"
+    },
+    {
+     "c": "Shen Gongbao (voice)",
+     "n": "Yang Wei"
+    },
+    {
+     "c": "Yuanshi Tianzun / Boundary Beast (voice)",
+     "n": "He Yuxiang"
+    },
+    {
+     "c": "Haiyasha (voice)",
+     "n": "Ren Junpeng"
+    },
+    {
+     "c": "Amblyopia Old Man / Purple Dragon / News Guard (voice)",
+     "n": "Da Hai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jiao Zi"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 615453,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+   "popularity": 10.9687,
+   "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-07-26",
+   "revenue": 742718496,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Fight your fate",
+   "title": "Ne Zha",
+   "trailer": {
+    "key": "PYSiEFeMbZ0",
+    "name": "English Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.907,
+   "vote_count": 992
+  },
   "movie:618253": {
    "backdrop_path": "/jHILyT8ZQ4w1YFJ2RY8KdsLHrbH.jpg",
    "budget": 0,
@@ -5296,6 +6080,149 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 452
+  },
+  "movie:9053": {
+   "backdrop_path": "/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Kasumi",
+     "n": "Devon Aoki"
+    },
+    {
+     "c": "Tina Armstrong",
+     "n": "Jaime Pressly"
+    },
+    {
+     "c": "Max",
+     "n": "Matthew Marsden"
+    },
+    {
+     "c": "Christie Allen",
+     "n": "Holly Valance"
+    },
+    {
+     "c": "Helena Douglas",
+     "n": "Sarah Carter"
+    },
+    {
+     "c": "Ayane",
+     "n": "Natassia Malthe"
+    },
+    {
+     "c": "Ryu Hayabusa",
+     "n": "Kane Kosugi"
+    },
+    {
+     "c": "Hayate",
+     "n": "Collin Chou"
+    },
+    {
+     "c": "Donovan",
+     "n": "Eric Roberts"
+    },
+    {
+     "c": "Bass Armstrong",
+     "n": "Kevin Nash"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Corey Yuen"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "id": 9053,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four beautiful rivals at an invitation-only martial-arts tournament join forces against a sinister threat. Princess Kasumi is an aristocratic warrior trained by martial-arts masters. Tina Armstrong is a wrestling superstar. Helena Douglas is an athlete with a tragic past. Christie Allen earns her keep as a thief and an assassin-for-hire.",
+   "popularity": 4.4875,
+   "poster_path": "/hRcYqTWgbPF3TtpSDfwqRDAJjlv.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-12-08",
+   "revenue": 7600000,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're the ultimate fighters. They've got the looks. They've got the moves, and the men fall at their feet.",
+   "title": "DOA: Dead or Alive",
+   "trailer": {
+    "key": "eZCoTTV40qM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.265,
+   "vote_count": 962
   },
   "movie:916053": {
    "backdrop_path": "/wug15qrt09vllipUKXr6SNf74QT.jpg",

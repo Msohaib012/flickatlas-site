@@ -1,6 +1,6 @@
 {
  "bucket": "55",
- "count": 69,
+ "count": 79,
  "titles": {
   "movie:1002155": {
    "backdrop_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
@@ -250,6 +250,323 @@
    "type": "movie",
    "vote_average": 5.946,
    "vote_count": 355
+  },
+  "movie:10155": {
+   "backdrop_path": "/rq6duKhgffOtMs9LqgyhrJ9Y8EX.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Bobby Cooper",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Jake McKenna",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Grace McKenna",
+     "n": "Jennifer Lopez"
+    },
+    {
+     "c": "Toby N. Tucker",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Jenny",
+     "n": "Claire Danes"
+    },
+    {
+     "c": "Sheriff Virgil Potter",
+     "n": "Powers Boothe"
+    },
+    {
+     "c": "Darrell",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Blind Man",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Biker #1",
+     "n": "Abraham Benrubi"
+    },
+    {
+     "c": "Biker #2",
+     "n": "Richard Rutowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Oliver Stone"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 10155,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a desperate man’s car breaks down in a bizarre desert town while evading vengeful bookies, he becomes entangled in a dangerous love triangle. Caught between a married couple, he’s faced with deadly contracts to kill them both.",
+   "popularity": 2.3555,
+   "poster_path": "/nBPTj1ApIDWo04M14rXFwLPdtr2.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-10-03",
+   "revenue": 6682098,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sex. Murder. Betrayal. Everything that makes life worth living.",
+   "title": "U Turn",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.593,
+   "vote_count": 869
+  },
+  "movie:104755": {
+   "backdrop_path": "/qdrmWfJPewIeZE9gU9ihr9diPbm.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Heidi Hawthorne",
+     "n": "Sheri Moon Zombie"
+    },
+    {
+     "c": "Francis Matthias",
+     "n": "Bruce Davison"
+    },
+    {
+     "c": "Herman Whitey Salvador",
+     "n": "Jeff Daniel Phillips"
+    },
+    {
+     "c": "Lacy Doyle",
+     "n": "Judy Geeson"
+    },
+    {
+     "c": "Margaret Morgan",
+     "n": "Meg Foster"
+    },
+    {
+     "c": "Megan",
+     "n": "Patricia Quinn"
+    },
+    {
+     "c": "Herman Jackson",
+     "n": "Ken Foree"
+    },
+    {
+     "c": "Sonny",
+     "n": "Dee Wallace"
+    },
+    {
+     "c": "Alice Matthias",
+     "n": "María Conchita Alonso"
+    },
+    {
+     "c": "AJ Kennedy",
+     "n": "Richard Fancy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob Zombie"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 104755,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Heidi, a radio DJ, is sent a box containing a record - a \"gift from the Lords\". The sounds within the grooves trigger flashbacks of her town's violent past. Is Heidi going mad, or are the Lords back to take revenge on Salem, Massachusetts?",
+   "popularity": 2.8008,
+   "poster_path": "/nqZ6CGGZpQWt139YioekSYHvvkU.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-04-18",
+   "revenue": 1544989,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We've been waiting...we've always been waiting.",
+   "title": "The Lords of Salem",
+   "trailer": {
+    "key": "V3Z8Vr7N4OI",
+    "name": "Official Australian Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.461,
+   "vote_count": 961
   },
   "movie:10655": {
    "backdrop_path": "/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
@@ -1924,6 +2241,130 @@
    "vote_average": 6.4,
    "vote_count": 468
   },
+  "movie:15255": {
+   "backdrop_path": "/3FhqdmY25ajBgrGOuIMRe0brOci.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "George Chambers",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Yuri Boyka",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "Steven Parker",
+     "n": "Ben Cross"
+    },
+    {
+     "c": "Crot",
+     "n": "Eli Danker"
+    },
+    {
+     "c": "Gaga",
+     "n": "Mark Ivanir"
+    },
+    {
+     "c": "Phil",
+     "n": "Ken Lerner"
+    },
+    {
+     "c": "Davic",
+     "n": "Silvio Simac"
+    },
+    {
+     "c": "Alexi",
+     "n": "Ivaylo Geraskov"
+    },
+    {
+     "c": "Warden Markov",
+     "n": "Valentin Ganev"
+    },
+    {
+     "c": "Dmitri",
+     "n": "Atanas Srebrev"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Isaac Florentine"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 15255,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian jail on trumped-up drug charges. In order to win his freedom he must fight against the jailhouse fighting champ Uri Boyka in a battle to the death. This time he is not fighting for a title, he is fighting for his life!",
+   "popularity": 5.1673,
+   "poster_path": "/2gMCokqpIJoh6u5o06LlOZWsI3k.jpg",
+   "production_countries": [
+    "US",
+    "BG"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-04-11",
+   "revenue": 71000000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Wrongfully accused. Unjustly imprisoned. Now he's fighting back.",
+   "title": "Undisputed II: Last Man Standing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.414,
+   "vote_count": 988
+  },
   "movie:1659155": {
    "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
    "budget": 0,
@@ -2880,6 +3321,169 @@
    "type": "movie",
    "vote_average": 6.037,
    "vote_count": 313
+  },
+  "movie:241855": {
+   "backdrop_path": "/qniTtPxL7kh899XeCl66SsmxAB2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Evan",
+     "n": "Lou Taylor Pucci"
+    },
+    {
+     "c": "Louise",
+     "n": "Nadia Hilker"
+    },
+    {
+     "c": "Thomas",
+     "n": "Nick Nevern"
+    },
+    {
+     "c": "Jackie",
+     "n": "Augie Duke"
+    },
+    {
+     "c": "Tommy",
+     "n": "Jeremy Gardner"
+    },
+    {
+     "c": "Mike",
+     "n": "Vinny Curran"
+    },
+    {
+     "c": "Nicole Russell",
+     "n": "Holly Hawkins"
+    },
+    {
+     "c": "Gail",
+     "n": "Vanessa Bednar"
+    },
+    {
+     "c": "Brad",
+     "n": "Shane Brady"
+    },
+    {
+     "c": "Cop",
+     "n": "Kenzo Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Aaron Moorhead",
+    "Justin Benson"
+   ],
+   "genres": [
+    "Horror",
+    "Romance",
+    "Science Fiction"
+   ],
+   "id": 241855,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young man in a personal tailspin flees the US to Italy, where he sparks up a romance with a woman harboring a dark, primordial secret.",
+   "popularity": 1.3037,
+   "poster_path": "/ghg3kgKDCFcX5ps1BXlgENNd3po.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-10-08",
+   "revenue": 49970,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Love is a monster.",
+   "title": "Spring",
+   "trailer": {
+    "key": "jsDX-0Z67U4",
+    "name": "Official Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.608,
+   "vote_count": 843
   },
   "movie:24655": {
    "backdrop_path": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
@@ -4212,6 +4816,116 @@
    "vote_average": 6.5,
    "vote_count": 404
   },
+  "movie:407655": {
+   "backdrop_path": "/adM7v1IbTXRKuE4AlQ5VyM5GQpt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tessa Golden",
+     "n": "Sofia Carson"
+    },
+    {
+     "c": "Reed West",
+     "n": "Thomas Law"
+    },
+    {
+     "c": "Divine",
+     "n": "Jennifer Tilly"
+    },
+    {
+     "c": "Olympia",
+     "n": "Jazzara Jaslyn"
+    },
+    {
+     "c": "Georgie",
+     "n": "Nicole Fortuin"
+    },
+    {
+     "c": "Athena",
+     "n": "Amy Louise Wilson"
+    },
+    {
+     "c": "Harper",
+     "n": "Ashley de Lange"
+    },
+    {
+     "c": "Freddie Marks",
+     "n": "David Ury"
+    },
+    {
+     "c": "Janet",
+     "n": "Chloe Perling"
+    },
+    {
+     "c": "Bianca",
+     "n": "Ally White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michelle Johnston"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Music"
+   ],
+   "id": 407655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A contemporary musical version of the classic Cinderella story in which the servant step daughter hope to compete in a musical competition for a famous pop star.",
+   "popularity": 3.1644,
+   "poster_path": "/qtxOA6Sb8lK1PfRiwduxYVuzaEv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-08-02",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A magical musical treat for the dreamer in all of us.",
+   "title": "A Cinderella Story: If the Shoe Fits",
+   "trailer": {
+    "key": "797KnoCgnOY",
+    "name": "A Cinderella Story: If the Shoe Fits | Official Trailer [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.17,
+   "vote_count": 876
+  },
   "movie:43555": {
    "backdrop_path": "/bOklbXxgnO6zKCneUJrfM7Z5oOK.jpg",
    "budget": 0,
@@ -4299,6 +5013,334 @@
    "type": "movie",
    "vote_average": 5.1,
    "vote_count": 315
+  },
+  "movie:449755": {
+   "backdrop_path": "/n1daj6hS4yf858HgPfe7kGyjISp.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Ellen Langford",
+     "n": "Eliza Taylor"
+    },
+    {
+     "c": "Debbie Collins",
+     "n": "Andie MacDowell"
+    },
+    {
+     "c": "Jake Collins",
+     "n": "Jake Lacy"
+    },
+    {
+     "c": "Rick",
+     "n": "Ben Rosenbaum"
+    },
+    {
+     "c": "Jim Langford",
+     "n": "Neil Crone"
+    },
+    {
+     "c": "Gray Pittman",
+     "n": "Michael Xavier"
+    },
+    {
+     "c": "Alice",
+     "n": "Lori Hallier"
+    },
+    {
+     "c": "Uncle Zeke",
+     "n": "Anthony Sherwood"
+    },
+    {
+     "c": "Kathy Martin",
+     "n": "Mag Ruffman"
+    },
+    {
+     "c": "Captain Williams",
+     "n": "Bill Lake"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ernie Barbarash"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 449755,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "To inherit her father's company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others.",
+   "popularity": 1.9926,
+   "poster_path": "/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-12-15",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Christmas Inheritance",
+   "trailer": {
+    "key": "K4STcvndzbE",
+    "name": "Christmas Inheritance | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.271,
+   "vote_count": 866
+  },
+  "movie:457955": {
+   "backdrop_path": "/pSkrHRFAC8ZC6b04L7Z2PA0aIq3.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sam",
+     "n": "Anders Danielsen Lie"
+    },
+    {
+     "c": "Sarah",
+     "n": "Golshifteh Farahani"
+    },
+    {
+     "c": "Alfred",
+     "n": "Denis Lavant"
+    },
+    {
+     "c": "Fanny",
+     "n": "Sigrid Bouaziz"
+    },
+    {
+     "c": "Mathieu",
+     "n": "David Kammenos"
+    },
+    {
+     "c": "Neighbor Father",
+     "n": "Jean-Yves Cylly"
+    },
+    {
+     "c": "Neighbor Mother",
+     "n": "Nancy Murillo"
+    },
+    {
+     "c": "Neighbor Daughter",
+     "n": "Lina-Rose Djedje"
+    },
+    {
+     "c": "Zombie Neighbor",
+     "n": "Victor van der Woerd"
+    },
+    {
+     "c": "Zombie Father",
+     "n": "Léo Poulet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Dominique Rocher"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 457955,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After waking up to find himself all alone in an apartment where a massive party was being held the night before, Sam is immediately forced to face a terrifying reality: the living dead have invaded the streets of Paris.",
+   "popularity": 2.302,
+   "poster_path": "/2rR2PxT0clt1Hhw5Cv0YGk5DD2H.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-03-07",
+   "revenue": 95208,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Night Eats the World",
+   "trailer": {
+    "key": "hpFtHtdPgQY",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.035,
+   "vote_count": 852
   },
   "movie:460555": {
    "backdrop_path": "/zYWgVYAI7elv6lpnXCyUtIkSOpM.jpg",
@@ -4811,6 +5853,259 @@
    "vote_average": 6.1,
    "vote_count": 357
   },
+  "movie:618355": {
+   "backdrop_path": "/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Superman (voice)",
+     "n": "Jason Isaacs"
+    },
+    {
+     "c": "Lois Lane (voice)",
+     "n": "Amy Acker"
+    },
+    {
+     "c": "Lex Luthor (voice)",
+     "n": "Diedrich Bader"
+    },
+    {
+     "c": "Diana / Wonder Woman (voice)",
+     "n": "Vanessa Marshall"
+    },
+    {
+     "c": "James Olsen (voice)",
+     "n": "Phil Morris"
+    },
+    {
+     "c": "Brainiac (voice)",
+     "n": "Paul Williams"
+    },
+    {
+     "c": "Ambassador Lee (voice)",
+     "n": "Greg Chun"
+    },
+    {
+     "c": "Batman (voice)",
+     "n": "Roger Craig Smith"
+    },
+    {
+     "c": "Joseph Stalin / Jack Ryder (voice)",
+     "n": "William Salyers"
+    },
+    {
+     "c": "John F. Kennedy / Dwight D. Eisenhower (voice)",
+     "n": "Jim Meskimen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sam Liu"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Animation",
+    "Action"
+   ],
+   "id": 618355,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin’s brand of communism.",
+   "popularity": 2.2756,
+   "poster_path": "/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-02-24",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The cold war is heating up.",
+   "title": "Superman: Red Son",
+   "trailer": {
+    "key": "n0s0FJfyqGk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.049,
+   "vote_count": 933
+  },
+  "movie:773655": {
+   "backdrop_path": "/xxEec408VQY7TIvtpxdkUM3Fux6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Dash Bracket",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Tennyson Foss",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Jeanetta Grace Susan",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Bark Multiverse",
+     "n": "Kumail Nanjiani"
+    },
+    {
+     "c": "Queen Elizabeth II",
+     "n": "Tracey Ullman"
+    },
+    {
+     "c": "Pyrex Flask",
+     "n": "Samson Kayo"
+    },
+    {
+     "c": "Dr. Maggie Gravel",
+     "n": "Leslie Jones"
+    },
+    {
+     "c": "Gemma Nerrick",
+     "n": "Diane Morgan"
+    },
+    {
+     "c": "Kathy Flowers",
+     "n": "Cristin Milioti"
+    },
+    {
+     "c": "Duke Goolies",
+     "n": "Joe Keery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Al Campbell",
+    "Alice Mathias"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 773655,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "2020: A year so [insert adjective of choice here], even the creators of Black Mirror couldn't make it up… but that doesn't mean they don't have a little something to add. This comedy event that tells the story of the dreadful year that was — and perhaps still is? The documentary-style special weaves together some of the world's most (fictitious) renowned voices with real-life archival footage.",
+   "popularity": 1.3883,
+   "poster_path": "/w9FPFsPkeiBDn6WwDHFgniWdVJm.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-12-27",
+   "revenue": 0,
+   "runtime": 71,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"What a shit show!\"",
+   "title": "Death to 2020",
+   "trailer": {
+    "key": "veUqfcyZ_Bo",
+    "name": "Death to 2020 | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.511,
+   "vote_count": 837
+  },
   "movie:791155": {
    "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
    "budget": 0,
@@ -5264,6 +6559,141 @@
    "type": "movie",
    "vote_average": 6.473,
    "vote_count": 382
+  },
+  "movie:8555": {
+   "backdrop_path": "/ooPtDdWP2nuYCoyLJAVwdthf5dN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kate",
+     "n": "Franka Potente"
+    },
+    {
+     "c": "Craig",
+     "n": "Sean Harris"
+    },
+    {
+     "c": "George",
+     "n": "Vas Blackwood"
+    },
+    {
+     "c": "Arthur",
+     "n": "Ken Campbell"
+    },
+    {
+     "c": "Guy",
+     "n": "Jeremy Sheffield"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Paul Rattray"
+    },
+    {
+     "c": "Mandy",
+     "n": "Kelly Scott"
+    },
+    {
+     "c": "Ray The Dog",
+     "n": "Strapper"
+    },
+    {
+     "c": "Woman",
+     "n": "Kathryn Gilfeather"
+    },
+    {
+     "c": "Man",
+     "n": "Grant Ibbs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christopher Smith"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 8555,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Trapped in a London subway station, a woman who's being pursued by a potential attacker heads into the unknown labyrinth of tunnels beneath the city's streets",
+   "popularity": 2.4169,
+   "poster_path": "/w5oxV6MDEfL48FMK9BmYTD2wQRm.jpg",
+   "production_countries": [
+    "DE",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-08-10",
+   "revenue": 7480424,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Your journey terminates here.",
+   "title": "Creep",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.006,
+   "vote_count": 880
   },
   "movie:86555": {
    "backdrop_path": "/2RDNAPa6EW0aW725Gj4V7Sj6vBj.jpg",

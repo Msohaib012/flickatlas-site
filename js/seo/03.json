@@ -1,6 +1,6 @@
 {
  "bucket": "03",
- "count": 57,
+ "count": 66,
  "titles": {
   "movie:11703": {
    "d": "Kiss of the Spider Woman (1985): Drama film. Story: The story of two radically different men thrown… See cast, budget $1.25M, and TMDB rating 7.0/10.",
@@ -1017,6 +1017,70 @@
    "t": "Barbie in the Pink Shoes (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:172803": {
+   "d": "Hours (2013): Drama/Thriller film. Story: A father struggles to keep his infant daughter alive… See cast, budget $4M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6nsaBL3ZCJv00SKQPuGueSuV1HP.jpg",
+   "industry": "world",
+   "k": "Hours, Hours movie, Hours cast, Hours story, Hours box office collection, Hours budget, Hours review, Hours rating, Hours release date, Hours trailer, Hours Drama, Hours Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalia Safran"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Matthew Cook"
+     },
+     {
+      "@type": "Person",
+      "name": "Nancy Nave"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerry Cahill"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 814,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Hours (2013): Drama/Thriller film. Story: A father struggles to keep his infant daughter alive… See cast, budget $4M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eric Heisserer"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6nsaBL3ZCJv00SKQPuGueSuV1HP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=172803",
+    "name": "Hours",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=172803"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hours (2013)</h1>\n<p class=\"ssr-lead\">A father struggles to keep his infant daughter alive in the wake of Hurricane Katrina.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 December 2013</li><li>Runtime: 97 minutes</li><li>Director: Eric Heisserer</li><li>Genres: Drama, Thriller</li><li>Budget: $4M</li><li>TMDB rating: 6.6/10 (814 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Walker as Nolan Hayes</li><li>Natalia Safran as Karen</li><li>Christopher Matthew Cook as Lenny</li><li>Nancy Nave as Sandra</li><li>Kerry Cahill as Nurse Shelly</li><li>Nick Gomez as Lobo</li><li>Tony Bentley as Doctor</li><li>Judd Lormand as Glenn</li><li>Lena Clark as Lucy</li><li>TJ Hassan as Jeremy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Hours (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:19403": {
    "d": "The Mechanic (1972): Action/Crime film. Story: Arthur Bishop is a veteran hit man who, owing to his… See cast, budget $3M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/thMdGESFFPyMTt14AACD0qk9v0m.jpg",
@@ -1208,6 +1272,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ivan Vasilyevich Changes His Profession (1973)</h1>\n<p class=\"ssr-lead\">A scientist builds a time machine and accidentally sends his apartment complex manager and a petty burglar to 16th century Moscow, while Tsar Ivan the Terrible travels to 1973.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 September 1973</li><li>Runtime: 88 minutes</li><li>Director: Leonid Gaidai</li><li>Genres: Comedy, Science Fiction</li><li>TMDB rating: 7.9/10 (434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aleksandr Demyanenko as Aleksandr &#x27;Shurik&#x27; Timofeyev, inventor</li><li>Yuriy Yakovlev as Ivan the Terrible / Ivan Vasilievich Bunsha</li><li>Leonid Kuravlyov as Zhorzh Miloslavsky / knyaz Miloslavsky</li><li>Savely Kramarov as Feofan the diak</li><li>Natalya Seleznyova as Zinaida, Shurik&#x27;s wife</li><li>Natalya Krachkovskaya as Uliana Andreevna Bunsha, superintendent&#x27;s wife</li><li>Natalya Kustinskaya as Yakin&#x27;s mistress</li><li>Vladimir Etush as Anton Semyonovich Shpak, dentist</li><li>Mikhail Pugovkin as film director Yakin</li><li>Sergei Filippov as swedish ambassador</li></ul>\n</article>",
    "t": "Ivan Vasilyevich Changes His Profession (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1973"
+  },
+  "movie:209403": {
+   "d": "Bad Words (2014): Comedy film. Story: Forty-year-old misanthrope, Guy Trilby, enters the… See cast, budget $9.5M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8k4RMVFTGQugzNPSnQUYiiuccf9.jpg",
+   "industry": "world",
+   "k": "Bad Words, Bad Words movie, Bad Words cast, Bad Words story, Bad Words box office collection, Bad Words budget, Bad Words review, Bad Words rating, Bad Words release date, Bad Words trailer, Bad Words Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathryn Hahn"
+     },
+     {
+      "@type": "Person",
+      "name": "Rohan Chand"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Baker Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Allison Janney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 938,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Bad Words (2014): Comedy film. Story: Forty-year-old misanthrope, Guy Trilby, enters the… See cast, budget $9.5M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8k4RMVFTGQugzNPSnQUYiiuccf9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=209403",
+    "name": "Bad Words",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=209403"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Words (2014)</h1>\n<p class=\"ssr-lead\">Forty-year-old misanthrope, Guy Trilby, enters the National Golden Quill Spelling Bee through a loophole in the rules.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2014</li><li>Runtime: 89 minutes</li><li>Director: Jason Bateman</li><li>Genres: Comedy</li><li>Budget: $9.5M</li><li>TMDB rating: 6.4/10 (938 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Bateman as Guy Trilby</li><li>Kathryn Hahn as Jenny Widgeon</li><li>Rohan Chand as Chaitanya Chopra</li><li>Philip Baker Hall as Dr. Bowman</li><li>Allison Janney as Dr. Bernice Deagan</li><li>Ben Falcone as Pete Fowler</li><li>Steve Witting as Proctor at Spelling Bee</li><li>Beth Grant as Bedazzled Judge</li><li>Gwen Parden as Brace Faced Girl</li><li>Anjul Nigam as Sriram Chopra</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Bad Words (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:228203": {
+   "d": "McFarland, USA (2015): Drama/Family film. Story: A track coach in a small California town transforms a… See cast, budget $17.2M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bNxnk75NLddqqnblfjovGGyr71K.jpg",
+   "industry": "world",
+   "k": "McFarland, USA, McFarland, USA movie, McFarland, USA cast, McFarland, USA story, McFarland, USA box office collection, McFarland, USA budget, McFarland, USA review, McFarland, USA rating, McFarland, USA release date, McFarland, USA Drama, McFarland, USA Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Bello"
+     },
+     {
+      "@type": "Person",
+      "name": "Elsie Fisher"
+     },
+     {
+      "@type": "Person",
+      "name": "Morgan Saylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Martha Higareda"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 988,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "McFarland, USA (2015): Drama/Family film. Story: A track coach in a small California town transforms a… See cast, budget $17.2M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Niki Caro"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Drama",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bNxnk75NLddqqnblfjovGGyr71K.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=228203",
+    "name": "McFarland, USA",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=228203"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>McFarland, USA (2015)</h1>\n<p class=\"ssr-lead\">A track coach in a small California town transforms a team of athletes into championship contenders.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 February 2015</li><li>Runtime: 128 minutes</li><li>Director: Niki Caro</li><li>Genres: Drama, Family</li><li>Budget: $17.2M</li><li>TMDB rating: 7.5/10 (988 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as Jim White</li><li>Maria Bello as Cheryl White</li><li>Elsie Fisher as Jamie White</li><li>Morgan Saylor as Julie White</li><li>Martha Higareda as Lupe</li><li>Vincent Martella as Brandon</li><li>Daniel Moncada as Eddie</li><li>Johnny Ortiz as Jose Cardenas</li><li>Diana Maria Riva as Señora Diaz</li><li>Omar Leyva as Señor Diaz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "McFarland, USA (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:244403": {
    "d": "Rudderless (2015): Music/Drama film. Story: A grieving father in a downward spiral stumbles… See cast, budget $5M, and TMDB rating 7.2/10.",
@@ -1465,6 +1656,70 @@
    "t": "SK1 (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:3603": {
+   "d": "Black Sheep (2007): Horror/Comedy film. Story: After a childhood prank by his brother Angus causes… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/w7mfKtfLifJnVoeOvC8Rc9u7yUx.jpg",
+   "industry": "world",
+   "k": "Black Sheep, Black Sheep movie, Black Sheep cast, Black Sheep story, Black Sheep box office collection, Black Sheep budget, Black Sheep review, Black Sheep rating, Black Sheep release date, Black Sheep trailer, Black Sheep Horror, Black Sheep Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nathan Meister"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Feeney"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Mason"
+     },
+     {
+      "@type": "Person",
+      "name": "Tandi Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Min Windle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 866,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Black Sheep (2007): Horror/Comedy film. Story: After a childhood prank by his brother Angus causes… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan King"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w7mfKtfLifJnVoeOvC8Rc9u7yUx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3603",
+    "name": "Black Sheep",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-03-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3603"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Sheep (2007)</h1>\n<p class=\"ssr-lead\">After a childhood prank by his brother Angus causes Henry to develop a phobia of sheep, he must step up to the onslaught of a genetically-mutated man-eating flock with the help of his friend and a young environmentalist.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 2007</li><li>Runtime: 86 minutes</li><li>Director: Jonathan King</li><li>Genres: Horror, Comedy</li><li>TMDB rating: 5.8/10 (866 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nathan Meister as Henry Oldfield</li><li>Peter Feeney as Angus Oldfield</li><li>Danielle Mason as Experience</li><li>Tandi Wright as Dr. Rush</li><li>Min Windle as Investor</li><li>Tammy Davis as Tucker</li><li>Glenis Levestam as Mrs. Mac</li><li>Oliver Driver as Grant</li><li>James Ashcroft as Prebble</li><li>Ian Harcourt as Brash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Apple TV channel, MovieSphere+ Amazon Channel, Starz Roku Premium Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Black Sheep (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:43003": {
    "d": "F for Fake (1973): Documentary film. Story: Documents the lives of infamous fakers Elmyr de Hory… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/kwwuAQpPvewf4voKVMN98KcXEPM.jpg",
@@ -1531,6 +1786,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>F for Fake (1973)</h1>\n<p class=\"ssr-lead\">Documents the lives of infamous fakers Elmyr de Hory and Clifford Irving. De Hory, who later committed suicide to avoid more prison time, made his name by selling forged works of art by painters like Picasso and Matisse. Irving was infamous for writing a fake autobiography of Howard Hughes. Welles moves between documentary and fiction as he examines the fundamental elements of fraud and the people who commit fraud at the expense of others.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 1973</li><li>Runtime: 89 minutes</li><li>Director: Orson Welles, François Reichenbach</li><li>Genres: Documentary</li><li>TMDB rating: 7.4/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Orson Welles as Self</li><li>Oja Kodar as The Girl</li><li>Elmyr de Hory as Self</li><li>Clifford Irving as Self</li><li>Laurence Harvey as Self</li><li>Edith Irving as Self</li><li>David Walsh as Self</li><li>Paul Stewart as Self</li><li>Richard Wilson as Self</li><li>Joseph Cotten as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "F for Fake (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1973"
+  },
+  "movie:459003": {
+   "d": "Mavka: The Forest Song (2023): Animation/Adventure film. Story: Mavka, a Soul of the Forest, faces an impossible… See cast, budget $5M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lyHmhoRj3zXSdeCYbs2oOXLCF4K.jpg",
+   "industry": "world",
+   "k": "Mavka: The Forest Song, Mavka: The Forest Song movie, Mavka: The Forest Song cast, Mavka: The Forest Song story, Mavka: The Forest Song box office collection, Mavka: The Forest Song budget, Mavka: The Forest Song review, Mavka: The Forest Song rating, Mavka: The Forest Song release date, Mavka: The Forest Song trailer, Mavka: The Forest Song Animation, Mavka: The Forest Song Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Natalka Denysenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Artem Pyvovarov"
+     },
+     {
+      "@type": "Person",
+      "name": "Nazar Zadniprovskyi"
+     },
+     {
+      "@type": "Person",
+      "name": "Oleh Skrypka"
+     },
+     {
+      "@type": "Person",
+      "name": "Olena Kravets"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 870,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Mavka: The Forest Song (2023): Animation/Adventure film. Story: Mavka, a Soul of the Forest, faces an impossible… See cast, budget $5M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Oleh Malamuzh"
+     },
+     {
+      "@type": "Person",
+      "name": "Oleksandra Ruban"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lyHmhoRj3zXSdeCYbs2oOXLCF4K.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=459003",
+    "name": "Mavka: The Forest Song",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-03-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=459003"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mavka: The Forest Song (2023)</h1>\n<p class=\"ssr-lead\">Mavka, a Soul of the Forest, faces an impossible choice between love and her duty as Guardian of the Heart of the Forest when she falls for a human, a talented young musician named Lukas.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 2023</li><li>Runtime: 99 minutes</li><li>Director: Oleh Malamuzh, Oleksandra Ruban</li><li>Genres: Animation, Adventure, Family, Fantasy</li><li>Budget: $5M</li><li>TMDB rating: 7.2/10 (870 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natalka Denysenko as Mavka (voice)</li><li>Artem Pyvovarov as Lucas (voice)</li><li>Nazar Zadniprovskyi as Lesh (voice)</li><li>Oleh Skrypka as The One, Who Sits in the Rock (voice)</li><li>Olena Kravets as Kylina (voice)</li><li>Serhii Prytula as Frol (voice)</li><li>Oleh Mykhailiuta as Uncle Leo (voice)</li><li>Nataliia Sumska as The Healer (voice)</li><li>Julia Sanina as Ondina (voice)</li><li>Mykhailo Khoma as Hush (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Mavka: The Forest Song (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:465003": {
+   "d": "The Red Sea Diving Resort (2019): Drama/Thriller film. Story: Sudan, East Africa, 1980. A team of Israeli Mossad… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7XI3DfxdQwvgXTCx29fglvcirQP.jpg",
+   "industry": "world",
+   "k": "The Red Sea Diving Resort, The Red Sea Diving Resort movie, The Red Sea Diving Resort cast, The Red Sea Diving Resort story, The Red Sea Diving Resort box office collection, The Red Sea Diving Resort budget, The Red Sea Diving Resort review, The Red Sea Diving Resort rating, The Red Sea Diving Resort release date, The Red Sea Diving Resort trailer, The Red Sea Diving Resort Drama, The Red Sea Diving Resort Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "Haley Bennett"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Nivola"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Kenneth Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Michiel Huisman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 889,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Red Sea Diving Resort (2019): Drama/Thriller film. Story: Sudan, East Africa, 1980. A team of Israeli Mossad… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gideon Raff"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7XI3DfxdQwvgXTCx29fglvcirQP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=465003",
+    "name": "The Red Sea Diving Resort",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-07-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=465003"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Red Sea Diving Resort (2019)</h1>\n<p class=\"ssr-lead\">Sudan, East Africa, 1980. A team of Israeli Mossad agents plans to rescue and transfer thousands of Ethiopian Jews to Israel. To do so, and to avoid raising suspicions from the inquisitive and ruthless authorities, they establish as a cover a fake diving resort by the Red Sea.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 July 2019</li><li>Runtime: 130 minutes</li><li>Director: Gideon Raff</li><li>Genres: Drama, Thriller, History</li><li>TMDB rating: 6.8/10 (889 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Evans as Ari Levinson</li><li>Haley Bennett as Rachel Reiter</li><li>Alessandro Nivola as Sammy Navon</li><li>Michael Kenneth Williams as Kabede Bimro</li><li>Michiel Huisman as Jacob &#x27;Jake&#x27; Wolf</li><li>Alex Hassell as Max Rose</li><li>Mark Ivanir as Mossad Chief Barack Isaacs</li><li>Chris Chalk as Colonel Abdel Ahmed</li><li>Greg Kinnear as Walton Bowen</li><li>Ben Kingsley as Ethan Levin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Red Sea Diving Resort (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:48303": {
    "d": "Certified Copy (2010): Drama/Romance film. Story: In Tuscany to promote his latest book, a middle-aged… See cast, budget $7M, and TMDB rating 7.0/10.",
@@ -2107,6 +2494,70 @@
    "t": "The Talent of the Hornet (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:706503": {
+   "d": "Lost Bullet (2020): Action/Thriller film. Story: A small time delinquent, turned police mechanic for a… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xQm6l23RBVV3MM7bJxnxHmaZR9L.jpg",
+   "industry": "world",
+   "k": "Lost Bullet, Lost Bullet movie, Lost Bullet cast, Lost Bullet story, Lost Bullet box office collection, Lost Bullet budget, Lost Bullet review, Lost Bullet rating, Lost Bullet release date, Lost Bullet Action, Lost Bullet Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alban Lenoir"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicolas Duvauchelle"
+     },
+     {
+      "@type": "Person",
+      "name": "Rod Paradot"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramzy Bedia"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéfi Celma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 967,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Lost Bullet (2020): Action/Thriller film. Story: A small time delinquent, turned police mechanic for a… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guillaume Pierret"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xQm6l23RBVV3MM7bJxnxHmaZR9L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=706503",
+    "name": "Lost Bullet",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-06-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=706503"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lost Bullet (2020)</h1>\n<p class=\"ssr-lead\">A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2020</li><li>Runtime: 92 minutes</li><li>Director: Guillaume Pierret</li><li>Genres: Action, Thriller, Crime, Drama</li><li>TMDB rating: 6.6/10 (967 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alban Lenoir as Lino</li><li>Nicolas Duvauchelle as Areski</li><li>Rod Paradot as Quentin</li><li>Ramzy Bedia as Charas</li><li>Stéfi Celma as Julia</li><li>Arthur Aspaturian as Kad</li><li>Sébastien Lalanne as Marco</li><li>Patrick Médioni as Jacques</li><li>Alexandre Philip as Jeff</li><li>Stephen Scardicchio as BAC Police Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Lost Bullet (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:851303": {
    "d": "Waiting for Bojangles (2022): Drama/Comedy film. Story: A boy and his eccentric parents leave their home in… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/fu8cHHdmySIX0MEafUv6QkslFlY.jpg",
@@ -2363,6 +2814,70 @@
    "t": "The Book of Solutions (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
   },
+  "movie:9103": {
+   "d": "The Quest (1996): Action/Adventure film. Story: Ghang-gheng, the ancient winner-take-all competition… See cast, budget $12M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vY89P28kXOJCJDfbgjibKqFCydL.jpg",
+   "industry": "world",
+   "k": "The Quest, The Quest movie, The Quest cast, The Quest story, The Quest box office collection, The Quest budget, The Quest review, The Quest rating, The Quest release date, The Quest Action, The Quest Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean-Claude Van Damme"
+     },
+     {
+      "@type": "Person",
+      "name": "Roger Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "James Remar"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack McGee"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Mandylor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 832,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Quest (1996): Action/Adventure film. Story: Ghang-gheng, the ancient winner-take-all competition… See cast, budget $12M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Claude Van Damme"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vY89P28kXOJCJDfbgjibKqFCydL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9103",
+    "name": "The Quest",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-04-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9103"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Quest (1996)</h1>\n<p class=\"ssr-lead\">Ghang-gheng, the ancient winner-take-all competition in which the deadliest fighters from around the world employ the most spectacular feats of martial arts skills ever displayed in order to win the prized Golden Dragon. But fighting prowess alone will not be enough for Chris to triumph over such daunting foes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 April 1996</li><li>Runtime: 95 minutes</li><li>Director: Jean-Claude Van Damme</li><li>Genres: Action, Adventure, Drama</li><li>Budget: $12M</li><li>TMDB rating: 6.2/10 (832 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Van Damme as Christopher Dubois</li><li>Roger Moore as Lord Edgar Dobbs</li><li>James Remar as Maxie Devine</li><li>Jack McGee as Harry Smythe</li><li>Louis Mandylor as Riggi</li><li>Ryan Cutrona as Officer O&#x27;Keefe</li><li>Ze&#x27;ev Revach as Turk Captain</li><li>Janet Gunn as Carrie Newton</li><li>Aki Aleong as Khao</li><li>Abdel Qissi as Khan (Mongolian Fighter)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Quest (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:9403": {
    "d": "Private Parts (1997): Comedy/Drama film. Story: The life and career of shock-jock superstar Howard… See cast, budget $28M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/liPn0q65pOXosCpkr0BTbTHjbRT.jpg",
@@ -2490,6 +3005,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Pope Joan (2009)</h1>\n<p class=\"ssr-lead\">A 9th century woman of English extraction born in the German city of Ingelheim disguises herself as a man and rises through the Vatican ranks.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2009</li><li>Runtime: 149 minutes</li><li>Director: Sönke Wortmann</li><li>Genres: Drama, History, Romance</li><li>TMDB rating: 6.8/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Goodman as Pope Sergius II.</li><li>Johanna Wokalek as Johanna von Ingelheim</li><li>David Wenham as Gerold</li><li>Iain Glen as Village Priest</li><li>Edward Petherbridge as Aesculapius</li><li>Anatole Taubman as Anastasius</li><li>Lotte Flack as Johanna von Ingelheim - Age 10-14</li><li>Tigerlily Hutchinson as Johanna von Ingelheim - Age 6-9</li><li>Jördis Triebel as Joan&#x27;s Mother</li><li>Oliver Cotton as Arsenius</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Pope Joan (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:9703": {
+   "d": "The Last Legion (2007): Action/Adventure film. Story: As the Roman empire crumbles, young Romulus Augustus… See cast, budget $67M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tgaMo8q1HpGTbtpmJm8TYKTpOr4.jpg",
+   "industry": "world",
+   "k": "The Last Legion, The Last Legion movie, The Last Legion cast, The Last Legion story, The Last Legion box office collection, The Last Legion budget, The Last Legion review, The Last Legion rating, The Last Legion release date, The Last Legion Action, The Last Legion Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Colin Firth"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Kingsley"
+     },
+     {
+      "@type": "Person",
+      "name": "Aishwarya Rai Bachchan"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Mullan"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin McKidd"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 881,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "The Last Legion (2007): Action/Adventure film. Story: As the Roman empire crumbles, young Romulus Augustus… See cast, budget $67M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Doug Lefler"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tgaMo8q1HpGTbtpmJm8TYKTpOr4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9703",
+    "name": "The Last Legion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-04-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9703"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Legion (2007)</h1>\n<p class=\"ssr-lead\">As the Roman empire crumbles, young Romulus Augustus flees the city and embarks on a perilous voyage to Britain to track down a legion of supporters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 April 2007</li><li>Runtime: 102 minutes</li><li>Director: Doug Lefler</li><li>Genres: Action, Adventure, Fantasy, War</li><li>Budget: $67M</li><li>TMDB rating: 5.6/10 (881 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Colin Firth as Aurelius</li><li>Ben Kingsley as Ambrosinus</li><li>Aishwarya Rai Bachchan as Mira</li><li>Peter Mullan as Odoacer</li><li>Kevin McKidd as Wulfila</li><li>John Hannah as Nestor</li><li>Iain Glen as Orestes</li><li>Thomas Brodie-Sangster as Romulus Augustus</li><li>Rupert Friend as Demetrius</li><li>Nonso Anozie as Batiatus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate+ Amazon Channel, Amazon Prime Video with Ads, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Last Legion (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "tv:111803": {
    "d": "The White Lotus (2021) is a Comedy and Drama TV series. Explore its story: Follow the exploits of various guests and employees…, cast, and 3 seasons.",

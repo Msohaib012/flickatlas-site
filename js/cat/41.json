@@ -1,6 +1,6 @@
 {
  "bucket": "41",
- "count": 66,
+ "count": 69,
  "titles": {
   "movie:1068141": {
    "backdrop_path": "/5gbeErtfkOgrppxlRYM3whR82NN.jpg",
@@ -2583,6 +2583,133 @@
    "vote_average": 5.3,
    "vote_count": 308
   },
+  "movie:157841": {
+   "backdrop_path": "/q9wnyYMAyKhOvfycUERFNKTHEaL.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "T.S. Spivet",
+     "n": "Kyle Catlett"
+    },
+    {
+     "c": "Dr. Clair",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "G.H. Jibsen",
+     "n": "Judy Davis"
+    },
+    {
+     "c": "Father",
+     "n": "Callum Keith Rennie"
+    },
+    {
+     "c": "Gracie",
+     "n": "Niamh Wilson"
+    },
+    {
+     "c": "Layton",
+     "n": "Jakob Davies"
+    },
+    {
+     "c": "Roy",
+     "n": "Rick Mercer"
+    },
+    {
+     "c": "Giant Hobo",
+     "n": "Robert Maillet"
+    },
+    {
+     "c": "Two Clouds",
+     "n": "Dominique Pinon"
+    },
+    {
+     "c": "Ricky",
+     "n": "Julian Richings"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jean-Pierre Jeunet"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "id": 157841,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A 10-year-old child prodigy cartographer secretly leaves his family's ranch in Montana where he lives with his cowboy father and scientist mother and travels across the country on board a freight train to receive an award at the Smithsonian Institute.",
+   "popularity": 2.5269,
+   "poster_path": "/pmr4h0ZLguYsvxaVmjS0bguLcnB.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Outside TV Features Amzon Channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-10-16",
+   "revenue": 9494789,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Discover the extravagant journey.",
+   "title": "The Young and Prodigious T.S. Spivet",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.889,
+   "vote_count": 920
+  },
   "movie:16241": {
    "backdrop_path": "/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg",
    "budget": 12000000,
@@ -3634,6 +3761,141 @@
    "type": "movie",
    "vote_average": 6.354,
    "vote_count": 386
+  },
+  "movie:262841": {
+   "backdrop_path": "/w0I6KQ3r9DdNZ0tIsD1CA67Hr6x.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Tripp Coley",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Meredith",
+     "n": "Jane Levy"
+    },
+    {
+     "c": "Cindy Coley",
+     "n": "Amy Ryan"
+    },
+    {
+     "c": "Reece Tenneson",
+     "n": "Rob Lowe"
+    },
+    {
+     "c": "Mr. Weathers",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Sheriff Rick",
+     "n": "Barry Pepper"
+    },
+    {
+     "c": "Jake",
+     "n": "Jedidiah Goodacre"
+    },
+    {
+     "c": "Burke",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Wade Coley",
+     "n": "Frank Whaley"
+    },
+    {
+     "c": "Dr. Bill Dowd",
+     "n": "Thomas Lennon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Wedge"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 262841,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tripp is a high school senior with a knack for building trucks who makes an incredible discovery - a gas-guzzling creature named Creech. To protect his mischievous new friend, Tripp hides Creech under the hood of his latest creation, turning it into a real-life super-powered Monster Truck. Together, this unlikely duo with a shared taste for speed team up on a wild and unforgettable journey to reunite Creech with his family.",
+   "popularity": 4.3379,
+   "poster_path": "/aUzNybWqURfeg9BveLr4GOVCkti.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-12-29",
+   "revenue": 64493915,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two different worlds. One monster team.",
+   "title": "Monster Trucks",
+   "trailer": {
+    "key": "Fd0GdvApn-o",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.138,
+   "vote_count": 990
   },
   "movie:28941": {
    "backdrop_path": "/1ctiV8HodFkFOwIjQp3T2znHE19.jpg",
@@ -5019,6 +5281,117 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 321
+  },
+  "movie:525041": {
+   "backdrop_path": "/8oybDLEOvFdUprK8BkFLN2ZwBC1.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Amber Moore",
+     "n": "Rose McIver"
+    },
+    {
+     "c": "Richard Charlton",
+     "n": "Ben Lamb"
+    },
+    {
+     "c": "Helena Charlton",
+     "n": "Alice Krige"
+    },
+    {
+     "c": "Emily Charlton",
+     "n": "Honor Kneafsey"
+    },
+    {
+     "c": "Simon Duxbury",
+     "n": "Theo Devaney"
+    },
+    {
+     "c": "Averill",
+     "n": "Sarah Douglas"
+    },
+    {
+     "c": "Rudy Moore",
+     "n": "John Guerrasio"
+    },
+    {
+     "c": "Louis Zabala",
+     "n": "Andy Lucas"
+    },
+    {
+     "c": "Leopold Plumtree",
+     "n": "Simon Dutton"
+    },
+    {
+     "c": "Ivana Krasnov",
+     "n": "Katarina Čas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Schultz"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 525041,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A year after Amber helped Richard secure the crown. The two are set to tie the knot in a royal Christmas wedding — but their plans are jeopardized when Amber finds herself second-guessing whether or not she's cut out to be queen, and Richard is faced with a political crisis that threatens to tarnish not only the holiday season but the future of the kingdom.",
+   "popularity": 2.0029,
+   "poster_path": "/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-11-30",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "fr",
+    "th",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Christmas Prince: The Royal Wedding",
+   "trailer": {
+    "key": "Y6U-eMDmMoc",
+    "name": "A Christmas Prince: The Royal Wedding | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 974
   },
   "movie:536841": {
    "backdrop_path": "/lFb1Ey6HqCdc2D74Zt5kr7EpQKT.jpg",

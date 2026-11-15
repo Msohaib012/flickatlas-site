@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 57,
+ "count": 61,
  "titles": {
   "movie:1010826": {
    "d": "Killer Book Club (2023): Horror/Thriller film. Story: Eight horror-loving friends fight for their lives… See cast and TMDB rating 5.6/10.",
@@ -130,6 +130,69 @@
    "t": "Friday After Next (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:11026": {
+   "d": "Exorcist: The Beginning (2004): Horror film. Story: Years before Father Merrin helped save Regan… See cast, budget $80M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/A2kXYkGGdeLU20YHPM9qs6GX9nN.jpg",
+   "industry": "world",
+   "k": "Exorcist: The Beginning, Exorcist: The Beginning movie, Exorcist: The Beginning cast, Exorcist: The Beginning story, Exorcist: The Beginning box office collection, Exorcist: The Beginning budget, Exorcist: The Beginning review, Exorcist: The Beginning rating, Exorcist: The Beginning release date, Exorcist: The Beginning Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Izabella Scorupco"
+     },
+     {
+      "@type": "Person",
+      "name": "James D'Arcy"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Wadham"
+     },
+     {
+      "@type": "Person",
+      "name": "Remy Sweeney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 945,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Exorcist: The Beginning (2004): Horror film. Story: Years before Father Merrin helped save Regan… See cast, budget $80M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Renny Harlin"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A2kXYkGGdeLU20YHPM9qs6GX9nN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11026",
+    "name": "Exorcist: The Beginning",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-08-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11026"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Exorcist: The Beginning (2004)</h1>\n<p class=\"ssr-lead\">Years before Father Merrin helped save Regan MacNeil’s soul, he first encounters the demon Pazuzu in East Africa.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 2004</li><li>Runtime: 114 minutes</li><li>Director: Renny Harlin</li><li>Genres: Horror</li><li>Budget: $80M</li><li>TMDB rating: 5.4/10 (945 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Stellan Skarsgård as Father Lankester Merrin</li><li>Izabella Scorupco as Sarah Lesno</li><li>James D&#x27;Arcy as Father Francis</li><li>Julian Wadham as Major Granville</li><li>Remy Sweeney as Joseph</li><li>Andrew French as Chuma</li><li>Antonie Kamerling as Lieutenant Kessel</li><li>Ben Cross as Semelier</li><li>Alan Ford as Jefferies</li><li>Ralph Brown as Sergeant Major</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, Sony Liv, Sonyliv Amazon Channel</li></ul>\n</article>",
+   "t": "Exorcist: The Beginning (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:11326": {
    "d": "Tommy (1975): Drama/Music film. Story: After a series of traumatic childhood events, a… See cast, budget $5M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
@@ -193,6 +256,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tommy (1975)</h1>\n<p class=\"ssr-lead\">After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 1975</li><li>Runtime: 111 minutes</li><li>Director: Ken Russell</li><li>Genres: Drama, Music</li><li>Budget: $5M</li><li>TMDB rating: 6.4/10 (396 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Oliver Reed as Frank</li><li>Ann-Margret as Nora</li><li>Roger Daltrey as Tommy</li><li>Elton John as The Pinball Wizard</li><li>Eric Clapton as The Preacher</li><li>Arthur Brown as The Priest</li><li>Pete Townshend as Himself</li><li>John Entwistle as Himself</li><li>Tina Turner as The Acid Queen</li><li>Paul Nicholas as Cousin Kevin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Core Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Tommy (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
+  },
+  "movie:11826": {
+   "d": "Sexy Beast (2001): Crime/Thriller film. Story: Ex-safecracker Gal Dove has served his time behind… See cast, budget $5M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+   "industry": "world",
+   "k": "Sexy Beast, Sexy Beast movie, Sexy Beast cast, Sexy Beast story, Sexy Beast box office collection, Sexy Beast budget, Sexy Beast review, Sexy Beast rating, Sexy Beast release date, Sexy Beast trailer, Sexy Beast Crime, Sexy Beast Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ray Winstone"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Kingsley"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McShane"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Redman"
+     },
+     {
+      "@type": "Person",
+      "name": "James Fox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 978,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Sexy Beast (2001): Crime/Thriller film. Story: Ex-safecracker Gal Dove has served his time behind… See cast, budget $5M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Glazer"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11826",
+    "name": "Sexy Beast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-01-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11826"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sexy Beast (2001)</h1>\n<p class=\"ssr-lead\">Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 January 2001</li><li>Runtime: 89 minutes</li><li>Director: Jonathan Glazer</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $5M</li><li>TMDB rating: 7.0/10 (978 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ray Winstone as Gal</li><li>Ben Kingsley as Don Logan</li><li>Ian McShane as Teddy Bass</li><li>Amanda Redman as Deedee</li><li>James Fox as Harry</li><li>Cavan Kendall as Aitch</li><li>Julianne White as Jackie</li><li>Álvaro Monje as Enrique</li><li>Robert Atiko as Andy</li><li>Nieves del Amo Oruet as Air Hostess</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Sexy Beast (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
   },
   "movie:1187326": {
    "d": "Tad and The Magic Lamp (2026): Animation/Comedy film. Story: Tadeo, his girlfriend Sara, and his friends Momia… See cast and TMDB rating 8.3/10.",
@@ -992,6 +1119,70 @@
    "t": "ABCs of Death 2 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:19426": {
+   "d": "Nights of Cabiria (1957): Drama/Comedy film. Story: Rome, 1957. A woman, Cabiria, is robbed and left to… See cast and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+   "industry": "world",
+   "k": "Nights of Cabiria, Nights of Cabiria movie, Nights of Cabiria cast, Nights of Cabiria story, Nights of Cabiria box office collection, Nights of Cabiria budget, Nights of Cabiria review, Nights of Cabiria rating, Nights of Cabiria release date, Nights of Cabiria trailer, Nights of Cabiria Drama, Nights of Cabiria Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Giulietta Masina"
+     },
+     {
+      "@type": "Person",
+      "name": "François Périer"
+     },
+     {
+      "@type": "Person",
+      "name": "Franca Marzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Amedeo Nazzari"
+     },
+     {
+      "@type": "Person",
+      "name": "Aldo Silvani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 893,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Nights of Cabiria (1957): Drama/Comedy film. Story: Rome, 1957. A woman, Cabiria, is robbed and left to… See cast and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Federico Fellini"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19426",
+    "name": "Nights of Cabiria",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1957-10-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19426"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nights of Cabiria (1957)</h1>\n<p class=\"ssr-lead\">Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 October 1957</li><li>Runtime: 110 minutes</li><li>Director: Federico Fellini</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 8.0/10 (893 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Giulietta Masina as Maria &#x27;Cabiria&#x27; Ceccarelli</li><li>François Périer as Oscar D&#x27;Onofrio</li><li>Franca Marzi as Wanda</li><li>Amedeo Nazzari as Alberto Lazzari</li><li>Aldo Silvani as The wizard</li><li>Dorian Gray as Jessy</li><li>Ennio Girolami as Amleto, &#x27;il magnaccia&#x27;</li><li>Mario Passante as Uncle of Amleto</li><li>Franco Balducci as Spectator on the Stage of the Cinema (uncredited)</li><li>Ciccio Barbi as Man on the Stage (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Darkroom</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Nights of Cabiria (1957) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1957"
+  },
   "movie:20726": {
    "d": "Little Giants (1994): Comedy/Family film. Story: When Danny O'Shea's daughter is cut from the Peewee… See cast, budget $20M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/gl58xoX8NK95vIgtIMCsKsd2its.jpg",
@@ -1310,6 +1501,81 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Three Musketeers (1973)</h1>\n<p class=\"ssr-lead\">In 17th century France, young D&#x27;Artagnan wants to join the King&#x27;s Musketeers, but instead befriends three legendary musketeers—Athos, Porthos, and Aramis—and together, they become embroiled in the political intrigue surrounding King Louis XIII and his adversaries, particularly the powerful Cardinal Richelieu.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 1973</li><li>Runtime: 107 minutes</li><li>Director: Richard Lester</li><li>Genres: Action, Adventure, Romance</li><li>Budget: $4.5M</li><li>TMDB rating: 6.7/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael York as D&#x27;Artagnan</li><li>Oliver Reed as Athos</li><li>Richard Chamberlain as Aramis</li><li>Frank Finlay as Porthos / O&#x27;Reilly</li><li>Faye Dunaway as Lady de Winter</li><li>Raquel Welch as Constance de Bonancieux</li><li>Christopher Lee as Rochefort</li><li>Geraldine Chaplin as Anna of Austria</li><li>Jean-Pierre Cassel as Louis XIII</li><li>Spike Milligan as M. Bonancieux</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, BFI Player Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "The Three Musketeers (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1973"
+  },
+  "movie:310126": {
+   "d": "The Rich, the Pauper and the Butler (2014): Comedy film. Story: A wealthy broker, his loyal butler, and a poor street… See cast and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pnxtkmyIkuUAdRK1NgnZnUWnUOH.jpg",
+   "industry": "world",
+   "k": "The Rich, the Pauper and the Butler, The Rich, the Pauper and the Butler movie, The Rich, the Pauper and the Butler cast, The Rich, the Pauper and the Butler story, The Rich, the Pauper and the Butler box office collection, The Rich, the Pauper and the Butler budget, The Rich, the Pauper and the Butler review, The Rich, the Pauper and the Butler rating, The Rich, the Pauper and the Butler release date, The Rich, the Pauper and the Butler Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aldo Baglio"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Storti"
+     },
+     {
+      "@type": "Person",
+      "name": "Giacomo Poretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Giuliana Lojodice"
+     },
+     {
+      "@type": "Person",
+      "name": "Guadalupe Lancho"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 901,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "The Rich, the Pauper and the Butler (2014): Comedy film. Story: A wealthy broker, his loyal butler, and a poor street… See cast and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aldo Baglio"
+     },
+     {
+      "@type": "Person",
+      "name": "Morgan Bertacca"
+     },
+     {
+      "@type": "Person",
+      "name": "Giacomo Poretti"
+     },
+     {
+      "@type": "Person",
+      "name": "Giovanni Storti"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pnxtkmyIkuUAdRK1NgnZnUWnUOH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=310126",
+    "name": "The Rich, the Pauper and the Butler",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-12-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=310126"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Rich, the Pauper and the Butler (2014)</h1>\n<p class=\"ssr-lead\">A wealthy broker, his loyal butler, and a poor street seller all see their social positions change in a twist of fate.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 2014</li><li>Runtime: 102 minutes</li><li>Director: Aldo Baglio, Morgan Bertacca, Giacomo Poretti, Giovanni Storti</li><li>Genres: Comedy</li><li>TMDB rating: 5.7/10 (901 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aldo Baglio as Aldo / Samir Uzmin</li><li>Giovanni Storti as Giovanni</li><li>Giacomo Poretti as Giacomo</li><li>Giuliana Lojodice as Calcedonia</li><li>Guadalupe Lancho as Dolores</li><li>Sara D&#x27;Amario as Camilla</li><li>Massimo Popolizio as Father Amerigo</li><li>Francesca Neri as Assia</li><li>Rosalia Porcaro as Samantha</li><li>Giovanni Esposito as Policeman at the airport</li></ul>\n</article>",
+   "t": "The Rich, the Pauper and the Butler (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:347126": {
    "d": "God's Not Dead 2 (2016): Drama film. Story: When a high school teacher is asked a question in… See cast, budget $5M, and TMDB rating 6.2/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "50",
- "count": 58,
+ "count": 64,
  "titles": {
   "movie:10050": {
    "backdrop_path": "/saQxwnIr4ftRmFpJeV9DQI1lsWd.jpg",
@@ -666,6 +666,136 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 407
+  },
+  "movie:11050": {
+   "backdrop_path": "/rZXTcmx7mKysaseyWZHs6wzPAcZ.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Aurora Greenway",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Emma Greenway Horton",
+     "n": "Debra Winger"
+    },
+    {
+     "c": "Garrett Breedlove",
+     "n": "Jack Nicholson"
+    },
+    {
+     "c": "Vernon Dahlart",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Flap Horton",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Sam Burns",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Patsy Clark",
+     "n": "Lisa Hart Carroll"
+    },
+    {
+     "c": "Rosie Dunlop",
+     "n": "Betty King"
+    },
+    {
+     "c": "Teddy Horton",
+     "n": "Huckleberry Fox"
+    },
+    {
+     "c": "Tommy Horton",
+     "n": "Troy Bishop"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "James L. Brooks"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 11050,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aurora, a finicky woman, is in search of true love while her daughter faces marital issues. Together, they help each other deal with problems and find reasons to live a joyful life.",
+   "popularity": 3.4032,
+   "poster_path": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1983-11-20",
+   "revenue": 108423749,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Come to laugh, come to cry, come to care, come to terms.",
+   "title": "Terms of Endearment",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.119,
+   "vote_count": 873
   },
   "movie:114750": {
    "backdrop_path": "/aZXtziEpZR1GpPwzIyr2s1dRWsW.jpg",
@@ -1565,6 +1695,164 @@
    "type": "movie",
    "vote_average": 6.92,
    "vote_count": 113
+  },
+  "movie:13150": {
+   "backdrop_path": "/6QHec9iNhFEGR6UgxQPDa49PAfv.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Ray Tierney",
+     "n": "Edward Norton"
+    },
+    {
+     "c": "Francis Tierney, Sr.",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Jimmy Eagan",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Francis Tierney, Jr.",
+     "n": "Noah Emmerich"
+    },
+    {
+     "c": "Abby Tierney",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Ruben Santiago",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Eddie Carbone",
+     "n": "Frank Grillo"
+    },
+    {
+     "c": "Kenny Dugan",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "Megan Egan",
+     "n": "Lake Bell"
+    },
+    {
+     "c": "Tasha",
+     "n": "Carmen Ejogo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gavin O'Connor"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 13150,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A saga centered on the Tierneys, a multi-generational family of New York City Police officers. The family's moral codes are tested when Ray Tierney investigates a case that reveals an incendiary police corruption scandal involving his own brother-in-law. For Ray, the truth is revelatory, a Pandora's Box that threatens to upend not only the Tierney legacy but the entire NYPD.",
+   "popularity": 2.8689,
+   "poster_path": "/8VZ1ABbtXqwPcc06yXbf3gj3anG.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-09-09",
+   "revenue": 31200557,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Truth. Honor. Loyalty. Family. What are you willing to sacrifice?",
+   "title": "Pride and Glory",
+   "trailer": {
+    "key": "626pWrVEAN8",
+    "name": "Pride and Glory - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.333,
+   "vote_count": 996
   },
   "movie:13350": {
    "backdrop_path": "/ofM2bez3pE2SJBZAUyoQDdVPkJS.jpg",
@@ -2560,6 +2848,172 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 21
+  },
+  "movie:197950": {
+   "backdrop_path": "/yJIRptBDdt92JS4decYj5HL3Q60.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Judge Pierre Michel",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "Gaëtan 'Tany' Zampa",
+     "n": "Gilles Lellouche"
+    },
+    {
+     "c": "Jacqueline Michel",
+     "n": "Céline Sallette"
+    },
+    {
+     "c": "Christiane Zampa",
+     "n": "Mélanie Doutey"
+    },
+    {
+     "c": "'Le Fou'",
+     "n": "Benoît Magimel"
+    },
+    {
+     "c": "Inspector José Alvarez",
+     "n": "Guillaume Gouix"
+    },
+    {
+     "c": "'Le Banquier'",
+     "n": "Bruno Todeschini"
+    },
+    {
+     "c": "Gaston Deferre",
+     "n": "Féodor Atkine"
+    },
+    {
+     "c": "Franky Manzoni",
+     "n": "Moussa Maaskri"
+    },
+    {
+     "c": "Jean Paci",
+     "n": "Pierre Lopez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Cédric Jimenez"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
+   "id": 197950,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Newly transferred to the bustling port city of Marseille to assist with a crackdown on organized crime, energetic young magistrate Pierre Michel is given a rapid-fire tutorial on the ins and outs of an out-of-control drug trade. Pierre's wildly ambitious mission is to take on the French Connection, a highly organized operation that controls the city's underground heroin economy and is overseen by the notorious —and reputedly untouchable— Gaetan Zampa. Fearless, determined and willing to go the distance, Pierre plunges into an underworld world of insane danger and ruthless criminals.",
+   "popularity": 1.7562,
+   "poster_path": "/4IAmHRGH8JRFuL4RYLvzOKNSBuz.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-12-03",
+   "revenue": 12062441,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Marseille 1975. To stop a dangerous drug lord, you need a dangerous cop.",
+   "title": "The Connection",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.125,
+   "vote_count": 973
   },
   "movie:20850": {
    "backdrop_path": "/6l3neUmnMyf2Vu8BAAEVI1dTrBd.jpg",
@@ -4148,6 +4602,208 @@
    "vote_average": 7.447,
    "vote_count": 302
   },
+  "movie:48650": {
+   "backdrop_path": "/abQxLSkGxpHyUxRjRXACt8NbiGf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alba",
+     "n": "Elena Anaya"
+    },
+    {
+     "c": "Natasha",
+     "n": "Natasha Yarovenko"
+    },
+    {
+     "c": "Max",
+     "n": "Enrico Lo Verso"
+    },
+    {
+     "c": "Edurne",
+     "n": "Najwa Nimri"
+    },
+    {
+     "c": "Boy",
+     "n": "Ander Malles"
+    },
+    {
+     "c": "Girl",
+     "n": "Laura Meizoso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Julio Medem"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 48650,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
+   "popularity": 25.0081,
+   "poster_path": "/w90ItYf9qagQKVEBr1uFxPomAtf.jpg",
+   "production_countries": [
+    "ES",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-05-07",
+   "revenue": 844281,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "eu",
+    "it",
+    "ru",
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A night of passion that will change their lives.",
+   "title": "Room in Rome",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 863
+  },
+  "movie:496450": {
+   "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+   "budget": 86000000,
+   "cast": [
+    {
+     "c": "Marinette Dupain-Cheng / Ladybug (voice)",
+     "n": "Anouck Hautbois"
+    },
+    {
+     "c": "Adrien Agreste / Chat Noir (voice)",
+     "n": "Benjamin Bollen"
+    },
+    {
+     "c": "Alya Césaire (voice)",
+     "n": "Fanny Bloc"
+    },
+    {
+     "c": "Nino Lahiffe (voice)",
+     "n": "Alexandre Nguyen"
+    },
+    {
+     "c": "Gabriel Agreste / Le Papillon (voice)",
+     "n": "Antoine Tomé"
+    },
+    {
+     "c": "Chloé Bourgeois / Nathalie Sancoeur (voice)",
+     "n": "Marie Chevalot"
+    },
+    {
+     "c": "Sabrina Raincomprix (voice)",
+     "n": "Marie Nonnenmacher"
+    },
+    {
+     "c": "Tom Dupain (voice)",
+     "n": "Martial Le Minoux"
+    },
+    {
+     "c": "The Magician (voice)",
+     "n": "Flora Kaprielian"
+    },
+    {
+     "c": "Nathaniel Kurtzberg / Ivan Bruel (voice)",
+     "n": "Franck Tordjman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jeremy Zag"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Action",
+    "Romance",
+    "Family"
+   ],
+   "id": 496450,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.",
+   "popularity": 9.0327,
+   "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+   "production_countries": [
+    "CN",
+    "FR",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-07-05",
+   "revenue": 40208268,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The fate of the world is in their hands.",
+   "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+   "trailer": {
+    "key": "3fzFvZToh8o",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.621,
+   "vote_count": 995
+  },
   "movie:516850": {
    "backdrop_path": "/dze068iVyTADUG4WyUxL3H1k2XA.jpg",
    "budget": 0,
@@ -4599,6 +5255,114 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 388
+  },
+  "movie:818750": {
+   "backdrop_path": "/334KZ2yt18AjPN9VmJw68sEkc7U.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tessa",
+     "n": "Joey King"
+    },
+    {
+     "c": "Skylar",
+     "n": "Kyle Allen"
+    },
+    {
+     "c": "Vickie",
+     "n": "Kim Dickens"
+    },
+    {
+     "c": "Mel",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Shannon",
+     "n": "Celeste O'Connor"
+    },
+    {
+     "c": "Doris",
+     "n": "Donna Biscoe"
+    },
+    {
+     "c": "Jazz",
+     "n": "April Parker Jones"
+    },
+    {
+     "c": "Dr. Rita Sarkisian",
+     "n": "Leander Suleiman"
+    },
+    {
+     "c": "Julian",
+     "n": "Jeffrey Vincent Parise"
+    },
+    {
+     "c": "Ms. Duffy",
+     "n": "Diany Rodriguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Arie Posin"
+   ],
+   "genres": [
+    "Romance",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 818750,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
+   "popularity": 2.4153,
+   "poster_path": "/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-02-11",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love never dies.",
+   "title": "The In Between",
+   "trailer": {
+    "key": "26z3pzzQYYA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.338,
+   "vote_count": 865
   },
   "movie:846250": {
    "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",

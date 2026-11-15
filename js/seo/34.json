@@ -1,7 +1,71 @@
 {
  "bucket": "34",
- "count": 46,
+ "count": 55,
  "titles": {
+  "movie:10134": {
+   "d": "Cyborg (1989): Science Fiction/Action film. Story: A martial artist hunts a killer in a plague-infested… See cast, budget $500.0k, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lUHhwf9VRcdnP5gQjnqa337L33M.jpg",
+   "industry": "world",
+   "k": "Cyborg, Cyborg movie, Cyborg cast, Cyborg story, Cyborg box office collection, Cyborg budget, Cyborg review, Cyborg rating, Cyborg release date, Cyborg trailer, Cyborg Science Fiction, Cyborg Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean-Claude Van Damme"
+     },
+     {
+      "@type": "Person",
+      "name": "Deborah Richter"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Klyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Daniels"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralf Moeller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 884,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Cyborg (1989): Science Fiction/Action film. Story: A martial artist hunts a killer in a plague-infested… See cast, budget $500.0k, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Albert Pyun"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lUHhwf9VRcdnP5gQjnqa337L33M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10134",
+    "name": "Cyborg",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10134"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cyborg (1989)</h1>\n<p class=\"ssr-lead\">A martial artist hunts a killer in a plague-infested urban dump of the future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 1989</li><li>Runtime: 86 minutes</li><li>Director: Albert Pyun</li><li>Genres: Science Fiction, Action, Thriller, Adventure</li><li>Budget: $500.0k</li><li>TMDB rating: 5.7/10 (884 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Van Damme as Gibson Rickenbacker</li><li>Deborah Richter as Nady Simmons</li><li>Vincent Klyn as Fender Tremolo</li><li>Alex Daniels as Marshall Strat</li><li>Ralf Moeller as Brick Bardo</li><li>Dayle Haddon as Pearl Prophet</li><li>Blaise Loong as Furman Vux / Pirate / Bandit</li><li>Haley Peterson as Haley</li><li>Terrie Batson as Mary</li><li>Jackson &#x27;Rock&#x27; Pinckney as Tytus / Pirate / Bandit</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Cyborg (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
   "movie:10534": {
    "d": "White Squall (1996): Drama/Adventure film. Story: In 1960, a hardy group of prep school students boards… See cast, budget $38M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
@@ -882,6 +946,70 @@
    "t": "Main Hoon Na (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
   },
+  "movie:1534": {
+   "d": "Pathfinder (2007): Adventure/Action film. Story: A Viking boy is left behind after his clan battles a… See cast, budget $45M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/x1iHrvnxB3IuNBiTvqdfQqeh2mk.jpg",
+   "industry": "world",
+   "k": "Pathfinder, Pathfinder movie, Pathfinder cast, Pathfinder story, Pathfinder box office collection, Pathfinder budget, Pathfinder review, Pathfinder rating, Pathfinder release date, Pathfinder Adventure, Pathfinder Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Karl Urban"
+     },
+     {
+      "@type": "Person",
+      "name": "Moon Bloodgood"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Muñoz"
+     },
+     {
+      "@type": "Person",
+      "name": "Clancy Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Jay Tavare"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 823,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Pathfinder (2007): Adventure/Action film. Story: A Viking boy is left behind after his clan battles a… See cast, budget $45M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marcus Nispel"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x1iHrvnxB3IuNBiTvqdfQqeh2mk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1534",
+    "name": "Pathfinder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-01-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1534"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pathfinder (2007)</h1>\n<p class=\"ssr-lead\">A Viking boy is left behind after his clan battles a Native American tribe. Raised within the tribe, he ultimately becomes their savior in a fight against the Norsemen.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 January 2007</li><li>Runtime: 99 minutes</li><li>Director: Marcus Nispel</li><li>Genres: Adventure, Action</li><li>Budget: $45M</li><li>TMDB rating: 5.7/10 (823 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Karl Urban as Ghost</li><li>Moon Bloodgood as Starfire</li><li>Nicole Muñoz as Little Sister</li><li>Clancy Brown as Gunnar</li><li>Jay Tavare as Blackwing</li><li>Ray G. Thunderchild as Elder #1</li><li>Ralf Moeller as Ulfar</li><li>Russell Means as Pathfinder</li><li>Nathaniel Arcand as Wind In Tree</li><li>Michelle Thrush as Indian Mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Pathfinder (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:1556834": {
    "d": "Lost Horizon (2025): Action/Adventure film. Story: A former soldier, now working for hire, fights to… See cast and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/ofp2O5yUNGjBGXGA5SXdRCFOS74.jpg",
@@ -1073,6 +1201,262 @@
    "t": "Marty, Life Is Short (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:17134": {
+   "d": "12 Rounds (2009): Action/Thriller film. Story: When New Orleans Police Detective Danny Fisher stops… See cast, budget $22M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c2EpOiIhpMtGCnG6HyHgbpyryPd.jpg",
+   "industry": "world",
+   "k": "12 Rounds, 12 Rounds movie, 12 Rounds cast, 12 Rounds story, 12 Rounds box office collection, 12 Rounds budget, 12 Rounds review, 12 Rounds rating, 12 Rounds release date, 12 Rounds trailer, 12 Rounds Action, 12 Rounds Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Cena"
+     },
+     {
+      "@type": "Person",
+      "name": "Aidan Gillen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian J. White"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 887,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "12 Rounds (2009): Action/Thriller film. Story: When New Orleans Police Detective Danny Fisher stops… See cast, budget $22M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Renny Harlin"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c2EpOiIhpMtGCnG6HyHgbpyryPd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17134",
+    "name": "12 Rounds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17134"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>12 Rounds (2009)</h1>\n<p class=\"ssr-lead\">When New Orleans Police Detective Danny Fisher stops a brilliant thief from getting away with a multimillion-dollar heist, the thief&#x27;s girlfriend is accidentally killed. After escaping from prison, the criminal mastermind enacts his revenge, taunting Danny with 12 rounds of near-impossible puzzles and tasks that he must somehow complete to save the life of the woman he loves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2009</li><li>Runtime: 108 minutes</li><li>Director: Renny Harlin</li><li>Genres: Action, Thriller, Crime</li><li>Budget: $22M</li><li>TMDB rating: 5.9/10 (887 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cena as Danny Fisher</li><li>Aidan Gillen as Miles Jackson</li><li>Ashley Scott as Molly Porter</li><li>Steve Harris as George Aiken</li><li>Brian J. White as Hank Carver</li><li>Gonzalo Menendez as Ray Santiago</li><li>Taylor Cole as Erica Kessen</li><li>Kyle Clements as Dave Fisher</li><li>Peter Navy Tuiasosopo as Willie Dumaine</li><li>Travis Davis as Anthony Deluso</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "12 Rounds (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
+  "movie:20334": {
+   "d": "The Shop Around the Corner (1940): Comedy/Drama film. Story: Two employees at a gift shop can barely stand one… See cast and budget $500.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+   "industry": "world",
+   "k": "The Shop Around the Corner, The Shop Around the Corner movie, The Shop Around the Corner cast, The Shop Around the Corner story, The Shop Around the Corner box office collection, The Shop Around the Corner budget, The Shop Around the Corner review, The Shop Around the Corner rating, The Shop Around the Corner release date, The Shop Around the Corner Comedy, The Shop Around the Corner Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margaret Sullavan"
+     },
+     {
+      "@type": "Person",
+      "name": "James Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Morgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Schildkraut"
+     },
+     {
+      "@type": "Person",
+      "name": "Sara Haden"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 889,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "The Shop Around the Corner (1940): Comedy/Drama film. Story: Two employees at a gift shop can barely stand one… See cast and budget $500.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ernst Lubitsch"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20334",
+    "name": "The Shop Around the Corner",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1940-01-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20334"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Shop Around the Corner (1940)</h1>\n<p class=\"ssr-lead\">Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other&#x27;s anonymous pen pal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 January 1940</li><li>Runtime: 99 minutes</li><li>Director: Ernst Lubitsch</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $500.0k</li><li>TMDB rating: 8.0/10 (889 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margaret Sullavan as Klara Novak</li><li>James Stewart as Alfred Kralik</li><li>Frank Morgan as Hugo Matuschek</li><li>Joseph Schildkraut as Ferencz Vadas</li><li>Sara Haden as Flora</li><li>Felix Bressart as Pirovitch</li><li>William Tracy as Pepi Katona</li><li>Inez Courtney as Ilona</li><li>Sarah Edwards as Woman Customer</li><li>Edwin Maxwell as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Shop Around the Corner (1940) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1940"
+  },
+  "movie:203834": {
+   "d": "Jessabelle (2014): Thriller/Horror film. Story: A young woman recuperating at her father's run-down… See cast, budget $4M, and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
+   "industry": "world",
+   "k": "Jessabelle, Jessabelle movie, Jessabelle cast, Jessabelle story, Jessabelle box office collection, Jessabelle budget, Jessabelle review, Jessabelle rating, Jessabelle release date, Jessabelle trailer, Jessabelle Thriller, Jessabelle Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sarah Snook"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Webber"
+     },
+     {
+      "@type": "Person",
+      "name": "Joelle Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "David Andrews"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Ellis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 877,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "Jessabelle (2014): Thriller/Horror film. Story: A young woman recuperating at her father's run-down… See cast, budget $4M, and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Greutert"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=203834",
+    "name": "Jessabelle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=203834"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jessabelle (2014)</h1>\n<p class=\"ssr-lead\">A young woman recuperating at her father&#x27;s run-down home after a tragic accident soon encounters a terrifying presence with a connection to her long-deceased mother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2014</li><li>Runtime: 90 minutes</li><li>Director: Kevin Greutert</li><li>Genres: Thriller, Horror</li><li>Budget: $4M</li><li>TMDB rating: 5.4/10 (877 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sarah Snook as Jessie</li><li>Mark Webber as Preston</li><li>Joelle Carter as Kate</li><li>David Andrews as Leon</li><li>Chris Ellis as Sheriff Pruitt</li><li>Ana de la Reguera as Rosaura</li><li>Brian Hallisay as Mark</li><li>Larisa Oleynik as Samantha</li><li>Amber Stevens West as Dead Girl</li><li>Vaughn Wilson as Moses</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Jessabelle (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:2134": {
+   "d": "The Time Machine (1960): Thriller/Adventure film. Story: A Victorian Englishman travels to the far future and… See cast, budget $750.0k, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oYPYDBPlvvc2ABkf9f4jCCPAswj.jpg",
+   "industry": "world",
+   "k": "The Time Machine, The Time Machine movie, The Time Machine cast, The Time Machine story, The Time Machine box office collection, The Time Machine budget, The Time Machine review, The Time Machine rating, The Time Machine release date, The Time Machine Thriller, The Time Machine Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rod Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Young"
+     },
+     {
+      "@type": "Person",
+      "name": "Yvette Mimieux"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Cabot"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Helmore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 971,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Time Machine (1960): Thriller/Adventure film. Story: A Victorian Englishman travels to the far future and… See cast, budget $750.0k, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Pal"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Thriller",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oYPYDBPlvvc2ABkf9f4jCCPAswj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2134",
+    "name": "The Time Machine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1960-08-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2134"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Time Machine (1960)</h1>\n<p class=\"ssr-lead\">A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 August 1960</li><li>Runtime: 103 minutes</li><li>Director: George Pal</li><li>Genres: Thriller, Adventure, Fantasy, Science Fiction, Romance</li><li>Budget: $750.0k</li><li>TMDB rating: 7.4/10 (971 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rod Taylor as H. George Wells</li><li>Alan Young as David Filby / James Filby</li><li>Yvette Mimieux as Weena</li><li>Sebastian Cabot as Dr. Philip Hilyer</li><li>Tom Helmore as Anthony Bridewell</li><li>Whit Bissell as Walter Kemp</li><li>Doris Lloyd as Mrs. Watchett</li><li>Bob Barran as Eloi Man (uncredited)</li><li>Paul Frees as Talking Rings (voice) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Time Machine (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1960"
+  },
   "movie:25934": {
    "d": "To Sir, with Love (1967): Drama film. Story: A British Guianese engineer starts a job as a high… See cast, budget $625.0k, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/vUZbARc0xY3MjwZnZtybpqbAoK9.jpg",
@@ -1135,6 +1519,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>To Sir, with Love (1967)</h1>\n<p class=\"ssr-lead\">A British Guianese engineer starts a job as a high school teacher in London’s East End, where his uninterested and delinquent pupils are in desperate need of attention and care.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 June 1967</li><li>Runtime: 105 minutes</li><li>Director: James Clavell</li><li>Genres: Drama</li><li>Budget: $625.0k</li><li>TMDB rating: 7.5/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sidney Poitier as Mark Thackeray</li><li>Christian Roberts as Denham</li><li>Judy Geeson as Pamela Dare</li><li>Suzy Kendall as Gillian Blanchard</li><li>Lulu as Barbara &#x27;Babs&#x27; Pegg</li><li>Ann Bell as Mrs. Dare</li><li>Geoffrey Bayldon as Theo Weston</li><li>Faith Brook as Grace Evans</li><li>Patricia Routledge as Clinty Clintridge</li><li>Christopher Chittell as Potter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "To Sir, with Love (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1967"
+  },
+  "movie:34134": {
+   "d": "Barbie in A Mermaid Tale (2010): Animation/Family film. Story: Barbie stars as Merliah, a surfer who learns a… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
+   "industry": "world",
+   "k": "Barbie in A Mermaid Tale, Barbie in A Mermaid Tale movie, Barbie in A Mermaid Tale cast, Barbie in A Mermaid Tale story, Barbie in A Mermaid Tale box office collection, Barbie in A Mermaid Tale budget, Barbie in A Mermaid Tale review, Barbie in A Mermaid Tale rating, Barbie in A Mermaid Tale release date, Barbie in A Mermaid Tale Animation, Barbie in A Mermaid Tale Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kelly Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathleen Barr"
+     },
+     {
+      "@type": "Person",
+      "name": "Tabitha St. Germain"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Mel"
+     },
+     {
+      "@type": "Person",
+      "name": "Nakia Burrise"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 826,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Barbie in A Mermaid Tale (2010): Animation/Family film. Story: Barbie stars as Merliah, a surfer who learns a… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam Wood"
+     }
+    ],
+    "duration": "PT75M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=34134",
+    "name": "Barbie in A Mermaid Tale",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-01-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=34134"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie in A Mermaid Tale (2010)</h1>\n<p class=\"ssr-lead\">Barbie stars as Merliah, a surfer who learns a shocking secret: she&#x27;s a mermaid! She and her dolphin friend set out for an undersea adventure to rescue her mother, the queen of Oceana.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 January 2010</li><li>Runtime: 75 minutes</li><li>Director: Adam Wood</li><li>Genres: Animation, Family, Fantasy</li><li>TMDB rating: 7.3/10 (826 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kelly Sheridan as Merliah (voice)</li><li>Kathleen Barr as Eris / Snouts (voice)</li><li>Tabitha St. Germain as Zuma / Deanne (voice)</li><li>Peter Mel as Surf Announcer (voice)</li><li>Nakia Burrise as Fallon (voice)</li><li>Maryke Hendrikse as Hadley (voice)</li><li>Emma Pierson as Kayla (voice)</li><li>Ciara Janson as Xylie (voice)</li><li>Garry Chalk as Break (voice)</li><li>Nicole Oliver as Calissa (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Barbie in A Mermaid Tale (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:37534": {
    "d": "The New Daughter (2009): Horror/Thriller film. Story: John James is a writer; his wife has left him. He… See cast and TMDB rating 5.3/10.",
@@ -1327,6 +1775,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>That Man from Rio (1964)</h1>\n<p class=\"ssr-lead\">French military man Adrien Dufourquet gets an eight-day furlough to visit his fiancée, Agnès. But when he arrives in Paris, he learns that her late father&#x27;s partner, museum curator Professor Catalan, has just been kidnapped by a group of Amazon tribesmen who have also stolen a priceless statue from the museum. Adrien and Agnès pursue the kidnappers to Brazil, where they learn that the statue is the key to a hidden Amazon treasure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 February 1964</li><li>Runtime: 117 minutes</li><li>Director: Philippe de Broca</li><li>Genres: Adventure, Action, Comedy</li><li>TMDB rating: 7.3/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Paul Belmondo as Adrien Dufourquet</li><li>Françoise Dorléac as Agnès Villermosa</li><li>Jean Servais as Prof. Norbert Catalan</li><li>Simone Renant as Lola</li><li>Adolfo Celi as Señor Mario De Castro</li><li>Roger Dumas as Lebel</li><li>Daniel Ceccaldi as Commissaire</li><li>Ubiracy De Oliveira as &quot;Sir Winston&quot;</li><li>Milton Ribeiro as Tupac</li><li>Lucien Raimbourg as General in wheelchair</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cohen Media Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "That Man from Rio (1964) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1964"
+  },
+  "movie:606234": {
+   "d": "Archive (2020): Science Fiction/Drama film. Story: 2038: George Almore is working on a true… See cast, TMDB rating 6.4/10, and release date 13 August 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg",
+   "industry": "world",
+   "k": "Archive, Archive movie, Archive cast, Archive story, Archive box office collection, Archive budget, Archive review, Archive rating, Archive release date, Archive trailer, Archive Science Fiction, Archive Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Theo James"
+     },
+     {
+      "@type": "Person",
+      "name": "Stacy Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhona Mitra"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Ferdinando"
+     },
+     {
+      "@type": "Person",
+      "name": "Lia Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 897,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Archive (2020): Science Fiction/Drama film. Story: 2038: George Almore is working on a true… See cast, TMDB rating 6.4/10, and release date 13 August 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gavin Rothery"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=606234",
+    "name": "Archive",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-08-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=606234"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Archive (2020)</h1>\n<p class=\"ssr-lead\">2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 2020</li><li>Runtime: 109 minutes</li><li>Director: Gavin Rothery</li><li>Genres: Science Fiction, Drama, Thriller</li><li>TMDB rating: 6.4/10 (897 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Theo James as George Almore</li><li>Stacy Martin as Jules Almore / J3 / J2 (voice)</li><li>Rhona Mitra as Simone</li><li>Peter Ferdinando as Tagg</li><li>Lia Williams as House (voice)</li><li>Toby Jones as Vincent Sinclair</li><li>Richard Glover as Melvin</li><li>Hans Peterson as Elson</li><li>Hadisha Sovetova as Waitress</li><li>Imre Csók as Android</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Archive (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:641934": {
    "d": "Am I OK? (2024): Comedy/Romance film. Story: Lucy and Jane have been best friends for most of… See cast, TMDB rating 6.3/10, and release date 6 June 2024.",
@@ -1714,6 +2226,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Poker Face (2022)</h1>\n<p class=\"ssr-lead\">A yearly high-stakes poker game between childhood friends turns into chaos when the tech billionaire host unveils an elaborate scheme to seek revenge for the ways they&#x27;ve betrayed him over the years. But as his plans unfold, a group of thieves hatch plans of their own breaking into the mansion thinking it is empty. The old friends quickly band together and the years of playing the game help them win their way through a night of terror.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2022</li><li>Runtime: 94 minutes</li><li>Director: Russell Crowe</li><li>Genres: Thriller, Crime</li><li>TMDB rating: 5.6/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Crowe as Jake Foley</li><li>Liam Hemsworth as Michael Nankervis</li><li>RZA as Andrew Johnson</li><li>Brooke Satchwell as Nicole Foley</li><li>Aden Young as Alex Harris</li><li>Steve Bastoni as Paul</li><li>Daniel MacPherson as Sam Levine</li><li>Elsa Pataky as Penelope</li><li>Jack Thompson as Shaman Bill (Paje)</li><li>Jacqueline McKenzie as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Poker Face (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:943134": {
+   "d": "The Animal Kingdom (2023): Adventure/Drama film. Story: In a world hit by a wave of mutations transforming… See cast, budget $15.2M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+   "industry": "world",
+   "k": "The Animal Kingdom, The Animal Kingdom movie, The Animal Kingdom cast, The Animal Kingdom story, The Animal Kingdom box office collection, The Animal Kingdom budget, The Animal Kingdom review, The Animal Kingdom rating, The Animal Kingdom release date, The Animal Kingdom trailer, The Animal Kingdom Adventure, The Animal Kingdom Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Romain Duris"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Kircher"
+     },
+     {
+      "@type": "Person",
+      "name": "Adèle Exarchopoulos"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Mercier"
+     },
+     {
+      "@type": "Person",
+      "name": "Billie Blain"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 995,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Animal Kingdom (2023): Adventure/Drama film. Story: In a world hit by a wave of mutations transforming… See cast, budget $15.2M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thomas Cailley"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=943134",
+    "name": "The Animal Kingdom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-10-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=943134"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Animal Kingdom (2023)</h1>\n<p class=\"ssr-lead\">In a world hit by a wave of mutations transforming humans into animals, François does everything he can to save his wife. As some of the creatures disappear into a nearby forest, he and their son Émile embark on a quest that will change their lives forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 October 2023</li><li>Runtime: 127 minutes</li><li>Director: Thomas Cailley</li><li>Genres: Adventure, Drama, Science Fiction</li><li>Budget: $15.2M</li><li>TMDB rating: 6.9/10 (995 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Romain Duris as François</li><li>Paul Kircher as Émile</li><li>Adèle Exarchopoulos as Julia</li><li>Tom Mercier as Fix</li><li>Billie Blain as Nina</li><li>Xavier Aubert as Jacques</li><li>Saadia Bentaïeb as Naïma</li><li>Gabriel Caballero as Victor</li><li>Iliana Khelifa as Maëlle</li><li>Paul Muguruza as Jordan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Animal Kingdom (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:9534": {
    "d": "The Ferpect Crime (2004): Comedy/Thriller film. Story: A playboy has the tables turned on him when he finds… See cast, budget $6M, and TMDB rating 6.7/10.",

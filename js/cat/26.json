@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 57,
+ "count": 61,
  "titles": {
   "movie:1010826": {
    "backdrop_path": "/lEMO9pVODhiWLgJzuCaYlfJkdNz.jpg",
@@ -205,6 +205,126 @@
    "vote_average": 6.417,
    "vote_count": 487
   },
+  "movie:11026": {
+   "backdrop_path": "/A2kXYkGGdeLU20YHPM9qs6GX9nN.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Father Lankester Merrin",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Sarah Lesno",
+     "n": "Izabella Scorupco"
+    },
+    {
+     "c": "Father Francis",
+     "n": "James D'Arcy"
+    },
+    {
+     "c": "Major Granville",
+     "n": "Julian Wadham"
+    },
+    {
+     "c": "Joseph",
+     "n": "Remy Sweeney"
+    },
+    {
+     "c": "Chuma",
+     "n": "Andrew French"
+    },
+    {
+     "c": "Lieutenant Kessel",
+     "n": "Antonie Kamerling"
+    },
+    {
+     "c": "Semelier",
+     "n": "Ben Cross"
+    },
+    {
+     "c": "Jefferies",
+     "n": "Alan Ford"
+    },
+    {
+     "c": "Sergeant Major",
+     "n": "Ralph Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 11026,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Years before Father Merrin helped save Regan MacNeil’s soul, he first encounters the demon Pazuzu in East Africa.",
+   "popularity": 2.3175,
+   "poster_path": "/dwqVrJfAVHqhJSa1sKBsbttFUcU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-08-20",
+   "revenue": 78000586,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Go back to where the horror began.",
+   "title": "Exorcist: The Beginning",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.386,
+   "vote_count": 945
+  },
   "movie:11326": {
    "backdrop_path": "/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
    "budget": 5000000,
@@ -374,6 +494,167 @@
    "type": "movie",
    "vote_average": 6.444,
    "vote_count": 396
+  },
+  "movie:11826": {
+   "backdrop_path": "/yYUGy4MDM6jbJoamlfo3HT6Guhy.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Gal",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Don Logan",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Teddy Bass",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Deedee",
+     "n": "Amanda Redman"
+    },
+    {
+     "c": "Harry",
+     "n": "James Fox"
+    },
+    {
+     "c": "Aitch",
+     "n": "Cavan Kendall"
+    },
+    {
+     "c": "Jackie",
+     "n": "Julianne White"
+    },
+    {
+     "c": "Enrique",
+     "n": "Álvaro Monje"
+    },
+    {
+     "c": "Andy",
+     "n": "Robert Atiko"
+    },
+    {
+     "c": "Air Hostess",
+     "n": "Nieves del Amo Oruet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Glazer"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 11826,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Ex-safecracker Gal Dove has served his time behind bars and is blissfully retired to a Spanish villa paradise with a wife he adores. The idyll is shattered by the arrival of his nemesis Don Logan, intent on persuading Gal to return to London for one last big job.",
+   "popularity": 3.556,
+   "poster_path": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+   "production_countries": [
+    "ES",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-01-12",
+   "revenue": 0,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Yes or yes?",
+   "title": "Sexy Beast",
+   "trailer": {
+    "key": "osexRaPM_Gc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.002,
+   "vote_count": 978
   },
   "movie:1187326": {
    "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
@@ -1877,6 +2158,174 @@
    "vote_average": 5.4,
    "vote_count": 356
   },
+  "movie:19426": {
+   "backdrop_path": "/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Maria 'Cabiria' Ceccarelli",
+     "n": "Giulietta Masina"
+    },
+    {
+     "c": "Oscar D'Onofrio",
+     "n": "François Périer"
+    },
+    {
+     "c": "Wanda",
+     "n": "Franca Marzi"
+    },
+    {
+     "c": "Alberto Lazzari",
+     "n": "Amedeo Nazzari"
+    },
+    {
+     "c": "The wizard",
+     "n": "Aldo Silvani"
+    },
+    {
+     "c": "Jessy",
+     "n": "Dorian Gray"
+    },
+    {
+     "c": "Amleto, 'il magnaccia'",
+     "n": "Ennio Girolami"
+    },
+    {
+     "c": "Uncle of Amleto",
+     "n": "Mario Passante"
+    },
+    {
+     "c": "Spectator on the Stage of the Cinema (uncredited)",
+     "n": "Franco Balducci"
+    },
+    {
+     "c": "Man on the Stage (uncredited)",
+     "n": "Ciccio Barbi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Federico Fellini"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 19426,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+   "popularity": 2.1241,
+   "poster_path": "/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1957-10-03",
+   "revenue": 752045,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The story of a betrayed but unquenchable little Roman street-walker.",
+   "title": "Nights of Cabiria",
+   "trailer": {
+    "key": "nG91owD7UjM",
+    "name": "NIGHTS OF CABIRIA Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.968,
+   "vote_count": 893
+  },
   "movie:20726": {
    "backdrop_path": "/gl58xoX8NK95vIgtIMCsKsd2its.jpg",
    "budget": 20000000,
@@ -2517,6 +2966,97 @@
    "type": "movie",
    "vote_average": 6.728,
    "vote_count": 386
+  },
+  "movie:310126": {
+   "backdrop_path": "/pnxtkmyIkuUAdRK1NgnZnUWnUOH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Aldo / Samir Uzmin",
+     "n": "Aldo Baglio"
+    },
+    {
+     "c": "Giovanni",
+     "n": "Giovanni Storti"
+    },
+    {
+     "c": "Giacomo",
+     "n": "Giacomo Poretti"
+    },
+    {
+     "c": "Calcedonia",
+     "n": "Giuliana Lojodice"
+    },
+    {
+     "c": "Dolores",
+     "n": "Guadalupe Lancho"
+    },
+    {
+     "c": "Camilla",
+     "n": "Sara D'Amario"
+    },
+    {
+     "c": "Father Amerigo",
+     "n": "Massimo Popolizio"
+    },
+    {
+     "c": "Assia",
+     "n": "Francesca Neri"
+    },
+    {
+     "c": "Samantha",
+     "n": "Rosalia Porcaro"
+    },
+    {
+     "c": "Policeman at the airport",
+     "n": "Giovanni Esposito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "T",
+   "date_kind": "release",
+   "director": [
+    "Aldo Baglio",
+    "Morgan Bertacca",
+    "Giacomo Poretti",
+    "Giovanni Storti"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 310126,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A wealthy broker, his loyal butler, and a poor street seller all see their social positions change in a twist of fate.",
+   "popularity": 0.9785,
+   "poster_path": "/fjnOjxruO6rmUwF2nnnoynYhUHf.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2014-12-11",
+   "revenue": 0,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Rich, the Pauper and the Butler",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.709,
+   "vote_count": 901
   },
   "movie:347126": {
    "backdrop_path": "/j1X0A0tDagEdtG1vmOjvT5hTf82.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "17",
- "count": 74,
+ "count": 86,
  "titles": {
   "movie:10117": {
    "backdrop_path": "/wz9Fntmcqvrd4bqtPCTLp5DeEwc.jpg",
@@ -657,6 +657,143 @@
    "type": "movie",
    "vote_average": 7.679,
    "vote_count": 390
+  },
+  "movie:11517": {
+   "backdrop_path": "/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg",
+   "budget": 68000000,
+   "cast": [
+    {
+     "c": "John",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Charlie",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Grace Santiago",
+     "n": "Jennifer Lopez"
+    },
+    {
+     "c": "Donald Patterson",
+     "n": "Robert Blake"
+    },
+    {
+     "c": "Torch",
+     "n": "Chris Cooper"
+    },
+    {
+     "c": "Riley",
+     "n": "Joe Grifasi"
+    },
+    {
+     "c": "Mr. Brown",
+     "n": "Scott Sowers"
+    },
+    {
+     "c": "Kowalski",
+     "n": "Skipp Sudduth"
+    },
+    {
+     "c": "Woman on Platform",
+     "n": "Aida Turturro"
+    },
+    {
+     "c": "Gambler",
+     "n": "Vincent Pastore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joseph Ruben"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 11517,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brother—a fellow cop—tries to protect him.",
+   "popularity": 4.2824,
+   "poster_path": "/jWBDz6Mf9aQVBiUS76JQsEhvoJl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-11-21",
+   "revenue": 77224232,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get on, or GET OUT THE WAY!",
+   "title": "Money Train",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.863,
+   "vote_count": 928
   },
   "movie:1161617": {
    "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg",
@@ -1921,6 +2058,113 @@
    "vote_average": 7.186,
    "vote_count": 314
   },
+  "movie:1290417": {
+   "backdrop_path": "/jlkvoHXKQHsgf15wp1AV1CTk4e7.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Lisa Fields",
+     "n": "Phoebe Dynevor"
+    },
+    {
+     "c": "Dakota",
+     "n": "Whitney Peak"
+    },
+    {
+     "c": "Dr. Dale Edwards",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Dee",
+     "n": "Alyla Browne"
+    },
+    {
+     "c": "Ron",
+     "n": "Stacy Clausen"
+    },
+    {
+     "c": "Will",
+     "n": "Dante Ubaldi"
+    },
+    {
+     "c": "Billy Olson",
+     "n": "Matt Nable"
+    },
+    {
+     "c": "Joe Sprinkle",
+     "n": "Andrew Lees"
+    },
+    {
+     "c": "Doug the Camera Guy",
+     "n": "Sami Afuni"
+    },
+    {
+     "c": "Trent",
+     "n": "Tyler Coppin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Tommy Wirkola"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 1290417,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a catastrophic hurricane slams a coastal town, stranded residents must survive rapidly rising waters swarming with ravenous sharks.",
+   "popularity": 6.7249,
+   "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2026-04-09",
+   "revenue": 0,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If the flood doesn't kill you...",
+   "title": "Thrash",
+   "trailer": {
+    "key": "hzyOsNyDkbM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.115,
+   "vote_count": 884
+  },
   "movie:1318417": {
    "backdrop_path": "/6Ysw2aEUujGSIGve8x9y5uAFwZA.jpg",
    "budget": 0,
@@ -2668,6 +2912,224 @@
    "type": "movie",
    "vote_average": 7.78,
    "vote_count": 25
+  },
+  "movie:150117": {
+   "backdrop_path": "/lsyeHaNblFjnCWIJhkfBRmxG7QP.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Nat",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Chloe",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Josh",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Guy",
+     "n": "Simon Baker"
+    },
+    {
+     "c": "Naomi",
+     "n": "Minnie Driver"
+    },
+    {
+     "c": "Hugh",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Danny",
+     "n": "Stephen Merchant"
+    },
+    {
+     "c": "Diana",
+     "n": "Jane Asher"
+    },
+    {
+     "c": "Helen",
+     "n": "Daisy Haggard"
+    },
+    {
+     "c": "Alec",
+     "n": "Terence Harvey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dan Mazer"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 150117,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After a quick courtship, two lovers hastily decide to tie the knot. As their first year of marriage unfolds, temptation and incompatibility put their relationship in jeopardy.",
+   "popularity": 2.2721,
+   "poster_path": "/hCSqxrM5Sw6AhDIRfxQ4BenPd9y.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-02-08",
+   "revenue": 29200000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I Give It a Year",
+   "trailer": {
+    "key": "0HOpijEHeII",
+    "name": "I Give It A Year - Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 820
+  },
+  "movie:156717": {
+   "backdrop_path": "/3J1FwvI0JiploGrwsIQ4MTKaW1s.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Carl 'Luke' Lucas / Frankenstein",
+     "n": "Luke Goss"
+    },
+    {
+     "c": "Weyland",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Goldberg",
+     "n": "Danny Trejo"
+    },
+    {
+     "c": "Katrina Banks",
+     "n": "Tanit Phoenix"
+    },
+    {
+     "c": "Niles York",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "14K",
+     "n": "Robin Shou"
+    },
+    {
+     "c": "Dr. Klein",
+     "n": "Langley Kirkwood"
+    },
+    {
+     "c": "Lists",
+     "n": "Frederick Koehler"
+    },
+    {
+     "c": "Amber",
+     "n": "Tanya van Graan"
+    },
+    {
+     "c": "New Doctor",
+     "n": "Sean Cameron Michael"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roel Reiné"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 156717,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Carl Lucas / Frankenstein has won four of his races and needs to win one more to win his freedom. Before his final race, Lucas and his team, car and all, are transferred to another prison where they will compete in a Death Race in the desert. Also, at the same time, Ceaser runs into a marketer who wants to franchise the Death Race program.",
+   "popularity": 3.2602,
+   "poster_path": "/aRV4oC61nmBqypSaXtMXOk99dOM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-01-04",
+   "revenue": 0,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the Inferno.",
+   "title": "Death Race: Inferno",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 864
   },
   "movie:15917": {
    "backdrop_path": "/aqIOQ5UrEGgRTq35BNbwgy7MIU2.jpg",
@@ -3510,6 +3972,91 @@
    "vote_average": 7.115,
    "vote_count": 482
   },
+  "movie:26317": {
+   "backdrop_path": "/xPuGtHPc1aADsfXds87noXVz2Hh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "The Cameraman",
+     "n": "Mikhail Kaufman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "15+",
+   "date_kind": "release",
+   "director": [
+    "Dziga Vertov"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 26317,
+   "industry": "world",
+   "origin_country": [
+    "SU"
+   ],
+   "original_language": "ru",
+   "overview": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+   "popularity": 2.2622,
+   "poster_path": "/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg",
+   "production_countries": [
+    "SU"
+   ],
+   "providers": [
+    {
+     "name": "GuideDoc"
+    },
+    {
+     "name": "Brew"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/zlgqOma3er9QTv5r8g4nhkZCqeN.png",
+     "name": "GuideDoc",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mwGw3KrIZxnACdeojp2a5cO41hi.png",
+     "name": "Brew",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-04-19",
+   "revenue": 0,
+   "runtime": 68,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "The Greatest Documentary Ever Made",
+   "title": "Man with a Movie Camera",
+   "trailer": {
+    "key": "BtTlgxtoqhg",
+    "name": "2014 Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.857,
+   "vote_count": 842
+  },
   "movie:26517": {
    "backdrop_path": "/jYtgrQa9dPw2CPwereWZBAoKzwQ.jpg",
    "budget": 250000,
@@ -3847,6 +4394,282 @@
    "type": "movie",
    "vote_average": 8.161,
    "vote_count": 307
+  },
+  "movie:31417": {
+   "backdrop_path": "/wlqwUNYHMuswEdGo3nSZ9i0LIlc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Professor Génessier",
+     "n": "Pierre Brasseur"
+    },
+    {
+     "c": "Louise",
+     "n": "Alida Valli"
+    },
+    {
+     "c": "Christiane Génessier",
+     "n": "Édith Scob"
+    },
+    {
+     "c": "Edna Gruber",
+     "n": "Juliette Mayniel"
+    },
+    {
+     "c": "Inspector Parot",
+     "n": "Alexandre Rignault"
+    },
+    {
+     "c": "Paulette Mérodon",
+     "n": "Béatrice Altariba"
+    },
+    {
+     "c": "Man from the Pond",
+     "n": "Charles Blavette"
+    },
+    {
+     "c": "Doctor Lherminier, forensic surgeon",
+     "n": "Michel Etcheverry"
+    },
+    {
+     "c": "Police inspector",
+     "n": "Claude Brasseur"
+    },
+    {
+     "c": "Mother of the little sick man",
+     "n": "Yvette Etiévant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Georges Franju"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 31417,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Dr. Génessier is riddled with guilt after an accident that he caused disfigures the face of his daughter, the once beautiful Christiane, who outsiders believe is dead. Dr. Génessier, along with accomplice and laboratory assistant Louise, kidnaps young women and brings them to the Génessier mansion. After rendering his victims unconscious, Dr. Génessier removes their faces and attempts to graft them on to Christiane's.",
+   "popularity": 2.8459,
+   "poster_path": "/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png",
+     "name": "TCM",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1960-01-11",
+   "revenue": 58656,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The horror film with a heart of mystery.",
+   "title": "Eyes Without a Face",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 845
+  },
+  "movie:334517": {
+   "backdrop_path": "/ohHq0PZvDWeFOVtY1QRG04y3zJo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pat Quinlan",
+     "n": "Jamie Dornan"
+    },
+    {
+     "c": "Conor Cruise O'Brien",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Sgt. Jack Prendergast",
+     "n": "Jason O'Mara"
+    },
+    {
+     "c": "General McEntee",
+     "n": "Michael McElhatton"
+    },
+    {
+     "c": "Madame LaFontagne",
+     "n": "Emmanuelle Seigner"
+    },
+    {
+     "c": "Patrice Lumumba",
+     "n": "Richard Lukunku"
+    },
+    {
+     "c": "Moise Tshombe",
+     "n": "Danny Sapani"
+    },
+    {
+     "c": "Man in White Suit",
+     "n": "Andrew Stock"
+    },
+    {
+     "c": "William Reidy",
+     "n": "Fionn O'Shea"
+    },
+    {
+     "c": "Billy (Sniper) Ready",
+     "n": "Sam Keeley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richie Smyth"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 334517,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during the early 1960s.",
+   "popularity": 2.8069,
+   "poster_path": "/adrno1y0mKpMwjSlMQojZEUk82V.jpg",
+   "production_countries": [
+    "IE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-09-19",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "ga"
+   ],
+   "status": "Released",
+   "tagline": "The Irish army's forgotten battle",
+   "title": "The Siege of Jadotville",
+   "trailer": {
+    "key": "rHNtzyXvyLc",
+    "name": "The Siege of Jadotville | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.08,
+   "vote_count": 992
   },
   "movie:382517": {
    "backdrop_path": "/lvxznRSXxzmGGh4kicfmYvZhedK.jpg",
@@ -4392,6 +5215,131 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 312
+  },
+  "movie:410117": {
+   "backdrop_path": "/wztoDoglCOuiEfzl1FS6mglBioF.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katherine Lester",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Sebastian",
+     "n": "Cosmo Jarvis"
+    },
+    {
+     "c": "Alexander Lester",
+     "n": "Paul Hilton"
+    },
+    {
+     "c": "Anna",
+     "n": "Naomi Ackie"
+    },
+    {
+     "c": "Boris Lester",
+     "n": "Christopher Fairbank"
+    },
+    {
+     "c": "Agnes",
+     "n": "Golda Rosheuvel"
+    },
+    {
+     "c": "Teddy",
+     "n": "Anton Palmer"
+    },
+    {
+     "c": "Mary",
+     "n": "Rebecca Manley"
+    },
+    {
+     "c": "Tessa",
+     "n": "Fleur Houdijk"
+    },
+    {
+     "c": "Father Peter",
+     "n": "Cliff Burnett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Oldroyd"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 410117,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Rural England, 1865. Katherine, suffocated by her loveless marriage to a bitter man and restrained by his father's tyranny, unleashes an irresistible force within her, so powerful that she will stop at nothing to get what she wants.",
+   "popularity": 2.6476,
+   "poster_path": "/xWTJbhTwSTJmhLlX5xAOxPhdnXc.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-12-12",
+   "revenue": 5245263,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Lady Macbeth",
+   "trailer": {
+    "key": "TubDRQQA3-k",
+    "name": "Official Australian Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.556,
+   "vote_count": 837
   },
   "movie:41517": {
    "backdrop_path": "/lXI2fhjeoah5d5pxoR9GMogb6Q3.jpg",
@@ -5613,6 +6561,134 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 300
+  },
+  "movie:575417": {
+   "backdrop_path": "/7FQHLt4iNh2TZ58cAAYrZK0xogg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Felix",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Laura",
+     "n": "Rashida Jones"
+    },
+    {
+     "c": "Dean",
+     "n": "Marlon Wayans"
+    },
+    {
+     "c": "Fiona",
+     "n": "Jessica Henwick"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Maya",
+     "n": "Liyanna Muscat"
+    },
+    {
+     "c": "Theo",
+     "n": "Alexandra Mary Reimer"
+    },
+    {
+     "c": "Theo",
+     "n": "Anna Chanel Reimer"
+    },
+    {
+     "c": "Gran",
+     "n": "Barbara Bain"
+    },
+    {
+     "c": "Amanda",
+     "n": "Juliana Canfield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Sofia Coppola"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 575417,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Faced with sudden doubts about her marriage, a young New York mother teams up with her larger-than-life playboy father to tail her husband.",
+   "popularity": 2.2675,
+   "poster_path": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-10-10",
+   "revenue": 992103,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Love, suspicion, and one very opinionated father.",
+   "title": "On the Rocks",
+   "trailer": {
+    "key": "Xn3sK4WiviA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.088,
+   "vote_count": 839
   },
   "movie:576017": {
    "backdrop_path": "/hiqB5fFZ230MeFAGLPahoy06UOE.jpg",
@@ -6946,6 +8022,266 @@
    "vote_average": 5.712,
    "vote_count": 453
   },
+  "movie:858017": {
+   "backdrop_path": "/jKulL2hdp5S7dVbpoItAtdCyzXI.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Owen",
+     "n": "Justice Smith"
+    },
+    {
+     "c": "Maddy",
+     "n": "Jack Haven"
+    },
+    {
+     "c": "Young Owen",
+     "n": "Ian Foreman"
+    },
+    {
+     "c": "Isabel",
+     "n": "Helena Howard"
+    },
+    {
+     "c": "Tara",
+     "n": "Lindsey Jordan"
+    },
+    {
+     "c": "Brenda",
+     "n": "Danielle Deadwyler"
+    },
+    {
+     "c": "Frank",
+     "n": "Fred Durst"
+    },
+    {
+     "c": "Dave",
+     "n": "Conner O'Malley"
+    },
+    {
+     "c": "Amanda / Mr. Melancholy / Marco / Evil Clown",
+     "n": "Emma Portner"
+    },
+    {
+     "c": "Polo",
+     "n": "Madaline Riley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jane Schoenbrun"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 858017,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In late-'90s suburbia, lonely teenager Owen meets Maddy, who introduces him to a mysterious late-night TV show. Questions begin to arise about why the show sometimes seems more real than their own lives, as their view of reality begins to crack.",
+   "popularity": 4.6017,
+   "poster_path": "/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-05-17",
+   "revenue": 5407916,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There is still time.",
+   "title": "I Saw the TV Glow",
+   "trailer": {
+    "key": "kymDzCgPwj0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 867
+  },
+  "movie:8617": {
+   "backdrop_path": "/3jjOF43iyBeauKuPivyA1WDZbII.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Donna Keppel",
+     "n": "Brittany Snow"
+    },
+    {
+     "c": "Bobby",
+     "n": "Scott Porter"
+    },
+    {
+     "c": "Claire",
+     "n": "Jessica Stroup"
+    },
+    {
+     "c": "Lisa Hines",
+     "n": "Dana Davis"
+    },
+    {
+     "c": "Ronnie Heflin",
+     "n": "Collins Pennie"
+    },
+    {
+     "c": "Michael",
+     "n": "Kelly Blatz"
+    },
+    {
+     "c": "Richard Fenton",
+     "n": "Johnathon Schaech"
+    },
+    {
+     "c": "Dr. Elisha Crowe",
+     "n": "Ming-Na Wen"
+    },
+    {
+     "c": "Detective Winn",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Detective Nash",
+     "n": "James Ransone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nelson McCormick"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 8617,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Donna's senior prom is supposed to be the best night of her life, though a sadistic killer from her past has different plans for her and her friends.",
+   "popularity": 1.7435,
+   "poster_path": "/pKSeyN02R5khphImEIpAdBjQgEP.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-04-10",
+   "revenue": 14800000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Night To Die For.",
+   "title": "Prom Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.089,
+   "vote_count": 822
+  },
   "movie:91417": {
    "backdrop_path": "/s4NJh9hLa9ZbgiXfJpjsZ5i47ug.jpg",
    "budget": 0,
@@ -7036,6 +8372,95 @@
    "type": "movie",
    "vote_average": 7.266,
    "vote_count": 453
+  },
+  "movie:9317": {
+   "backdrop_path": "/6FLkGMQXlEJDDpkynZCYlchx2E0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Claude Ratinier (Le Glaude)",
+     "n": "Louis de Funès"
+    },
+    {
+     "c": "Francis Chérasse (Le Bombé)",
+     "n": "Jean Carmet"
+    },
+    {
+     "c": "L'Oxien (La Denrée)",
+     "n": "Jacques Villeret"
+    },
+    {
+     "c": "Francine",
+     "n": "Christine Dejoux"
+    },
+    {
+     "c": "Amelie Poulangeard",
+     "n": "Claude Gensac"
+    },
+    {
+     "c": "Le brigadier-chef",
+     "n": "Henri Génès"
+    },
+    {
+     "c": "Le maire",
+     "n": "Marco Perrin"
+    },
+    {
+     "c": "Le frère d'Amélie Poulangeard",
+     "n": "Max Montavon"
+    },
+    {
+     "c": "Aimée, la patronne de l'hôtel de France",
+     "n": "Perrette Souplex"
+    },
+    {
+     "c": "Le facteur",
+     "n": "Philippe Brizard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Jean Girault"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 9317,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Two buddy farmers are visited by aliens who like their domestic cabbage soup.",
+   "popularity": 2.9745,
+   "poster_path": "/eT52CpkNpVrFqamL2WD6iMZuChf.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1981-12-02",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Cabbage Soup",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.405,
+   "vote_count": 977
   },
   "tv:1417": {
    "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",

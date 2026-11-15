@@ -1,6 +1,6 @@
 {
  "bucket": "54",
- "count": 64,
+ "count": 70,
  "titles": {
   "movie:1015154": {
    "backdrop_path": "/i0YlPmyAfjxWJczVqK0MP88XKU4.jpg",
@@ -166,6 +166,162 @@
    "type": "movie",
    "vote_average": 8.711,
    "vote_count": 45
+  },
+  "movie:10354": {
+   "backdrop_path": "/891kxjT04dJNMhbsyMOlycO5wAN.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Steve Everett",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Frank Louis Beechum",
+     "n": "Isaiah Washington"
+    },
+    {
+     "c": "Bonnie Beechum",
+     "n": "LisaGay Hamilton"
+    },
+    {
+     "c": "Alan Mann",
+     "n": "James Woods"
+    },
+    {
+     "c": "Bob Findley",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Warden Luther Plunkitt",
+     "n": "Bernard Hill"
+    },
+    {
+     "c": "Barbara Everett",
+     "n": "Diane Venora"
+    },
+    {
+     "c": "Réverend Shillerman",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Dale Porthouse",
+     "n": "Michael Jeter"
+    },
+    {
+     "c": "Michelle Ziegler",
+     "n": "Mary McCormack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 10354,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Boozer, skirt chaser, careless father. You could create your own list of reporter Steve Everett's faults but there's no time. A San Quentin Death Row prisoner is slated to die at midnight – a man Everett has suddenly realized is innocent.",
+   "popularity": 2.1324,
+   "poster_path": "/ozrV1xtwU3Y5XOFuVn9T00ZYoiV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-03-19",
+   "revenue": 16700000,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An innocent man has only 12 hours to live...",
+   "title": "True Crime",
+   "trailer": {
+    "key": "0sJ7Yt5oRUs",
+    "name": "True Crime - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.521,
+   "vote_count": 898
   },
   "movie:10754": {
    "backdrop_path": "/wsZm5xX4r2ARPsjz5sRxHh3hA6D.jpg",
@@ -1554,6 +1710,173 @@
    "vote_average": 6.477,
    "vote_count": 448
   },
+  "movie:1554": {
+   "backdrop_path": "/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+   "budget": 1100000,
+   "cast": [
+    {
+     "c": "Zack",
+     "n": "Tom Waits"
+    },
+    {
+     "c": "Jack",
+     "n": "John Lurie"
+    },
+    {
+     "c": "Roberto",
+     "n": "Roberto Benigni"
+    },
+    {
+     "c": "Nicoletta",
+     "n": "Nicoletta Braschi"
+    },
+    {
+     "c": "Laurette",
+     "n": "Ellen Barkin"
+    },
+    {
+     "c": "Bobbie",
+     "n": "Billie Neal"
+    },
+    {
+     "c": "Gig",
+     "n": "Rockets Redglare"
+    },
+    {
+     "c": "Preston",
+     "n": "Vernel Bagneris"
+    },
+    {
+     "c": "Julie",
+     "n": "Timothea"
+    },
+    {
+     "c": "L.C.",
+     "n": "L.C. Drane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jim Jarmusch"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 1554,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+   "popularity": 2.0038,
+   "poster_path": "/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1986-09-25",
+   "revenue": 1529206,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "It's not where you start - It's where you start again.",
+   "title": "Down by Law",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.345,
+   "vote_count": 893
+  },
   "movie:15854": {
    "backdrop_path": "/iezp56ettTUsHWgBjkqvEps5oxc.jpg",
    "budget": 0,
@@ -2021,6 +2344,187 @@
    "type": "movie",
    "vote_average": 6.959,
    "vote_count": 478
+  },
+  "movie:211954": {
+   "backdrop_path": "/eXcgXi3kTzkxLcHIvzaAaFj33NC.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "Valentín",
+     "n": "Eugenio Derbez"
+    },
+    {
+     "c": "Maggie",
+     "n": "Loreto Peralta"
+    },
+    {
+     "c": "Julie",
+     "n": "Jessica Lindsey"
+    },
+    {
+     "c": "Frank Ryan",
+     "n": "Daniel Raymont"
+    },
+    {
+     "c": "Johnny Bravo",
+     "n": "Hugo Stiglitz"
+    },
+    {
+     "c": "Judeisy",
+     "n": "Arcelia Ramírez"
+    },
+    {
+     "c": "Lupe",
+     "n": "Agustín Bernal"
+    },
+    {
+     "c": "Jackie",
+     "n": "Karla Souza"
+    },
+    {
+     "c": "Abogado Julie",
+     "n": "Roger Cudney"
+    },
+    {
+     "c": "Director",
+     "n": "Ari Brickman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Eugenio Derbez"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 211954,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "Valentin is Acapulco's resident playboy, until a former fling leaves a baby on his doorstep and him heading with her out of Mexico.",
+   "popularity": 2.9732,
+   "poster_path": "/x3Ygv0aZbZ3iUMeXyIlSu0Ugyp5.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+     "name": "ViX Premium Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-08-30",
+   "revenue": 99067206,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life doesn't care if you're ready.",
+   "title": "Instructions Not Included",
+   "trailer": {
+    "key": "IWBL3JfQls8",
+    "name": "Instructions Not Included - Tráiler",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.744,
+   "vote_count": 991
   },
   "movie:23954": {
    "backdrop_path": "/27Y0dGVBW0ZowwRjfa6nHbfP2aR.jpg",
@@ -3314,6 +3818,116 @@
    "vote_average": 6.8,
    "vote_count": 392
   },
+  "movie:390054": {
+   "backdrop_path": "/t0ov7AzlRkfuRnDXghcHTIgf4vA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Matt Ocre",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Sergeant Harper",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Captain Syverson",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Haring",
+     "n": "Gonzalo Menendez"
+    },
+    {
+     "c": "Sergeant Burton",
+     "n": "Beau Knapp"
+    },
+    {
+     "c": "1st LT Anthony",
+     "n": "Sam Spruell"
+    },
+    {
+     "c": "Sergeant McGregor",
+     "n": "Tommy Flanagan"
+    },
+    {
+     "c": "Sergeant Dylan Chutsky",
+     "n": "Glen Powell"
+    },
+    {
+     "c": "Enzo",
+     "n": "Neil Brown Jr."
+    },
+    {
+     "c": "Kadeer",
+     "n": "Navid Negahban"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Fernando Coimbra"
+   ],
+   "genres": [
+    "War",
+    "Action",
+    "Drama"
+   ],
+   "id": 390054,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+   "popularity": 2.3249,
+   "poster_path": "/aw2K9mV3DE4ez3glmKmBxpzrDPQ.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-04-21",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Home is a war away.",
+   "title": "Sand Castle",
+   "trailer": {
+    "key": "8hq28cZ938E",
+    "name": "Sand Castle | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.488,
+   "vote_count": 900
+  },
   "movie:4254": {
    "backdrop_path": "/9SBIiF803WgYbLtgstZ64GCW9Hh.jpg",
    "budget": 0,
@@ -4136,6 +4750,133 @@
    "vote_average": 5.776,
    "vote_count": 484
   },
+  "movie:505954": {
+   "backdrop_path": "/daJjtHlqvph7R1Uw1DFUIF0FJe4.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Nikolay Ivushkin",
+     "n": "Alexander Petrov"
+    },
+    {
+     "c": "Vasilenok",
+     "n": "Victor Dobronravov"
+    },
+    {
+     "c": "Anya Yartseva",
+     "n": "Irina Starshenbaum"
+    },
+    {
+     "c": "Klaus Jäger",
+     "n": "Vinzenz Kiefer"
+    },
+    {
+     "c": "Lykov",
+     "n": "Petr Skvortsov"
+    },
+    {
+     "c": "Vasiliy Teterya",
+     "n": "Semyon Treskunov"
+    },
+    {
+     "c": "Korin",
+     "n": "Artyom Bystrov"
+    },
+    {
+     "c": "",
+     "n": "Michael Janibekyan"
+    },
+    {
+     "c": "Demyan Volchok",
+     "n": "Anton Bogdanov"
+    },
+    {
+     "c": "",
+     "n": "Yuliya Dzhulai"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Alexey Sidorov"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 505954,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+   "popularity": 1.8569,
+   "poster_path": "/7oZA31r9NzVGBZOKs5qmKwZyraZ.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-01-01",
+   "revenue": 36220872,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "T-34",
+   "trailer": {
+    "key": "D1UDvi5xL9w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 985
+  },
   "movie:515454": {
    "backdrop_path": "/ewCNsgQ8m12Ul6vfDVQCOHHnJs1.jpg",
    "budget": 0,
@@ -4521,6 +5262,147 @@
    "type": "movie",
    "vote_average": 6.243,
    "vote_count": 412
+  },
+  "movie:530254": {
+   "backdrop_path": "/f8ng3EDMLkuTMupe4TjgiJS1r0S.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "Koo Ja-yoon",
+     "n": "Kim Da-mi"
+    },
+    {
+     "c": "Dr. Baek",
+     "n": "Cho Min-soo"
+    },
+    {
+     "c": "Choi",
+     "n": "Park Hee-soon"
+    },
+    {
+     "c": "Gui Gong-ja / Nobleman",
+     "n": "Choi Woo-shik"
+    },
+    {
+     "c": "Do Myung-hee",
+     "n": "Go Min-si"
+    },
+    {
+     "c": "Mr. Koo",
+     "n": "Choi Jung-woo"
+    },
+    {
+     "c": "Mrs. Koo",
+     "n": "Oh Mi-hee"
+    },
+    {
+     "c": "Chief Do",
+     "n": "Kim Byeong-ok"
+    },
+    {
+     "c": "Long hair girl",
+     "n": "Jeong Da-eun"
+    },
+    {
+     "c": "President Seong",
+     "n": "Lee Ju-won"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Park Hoon-jung"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 530254,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Ja-yoon is a high school student who struggles with memory loss after she endured some unknown trauma during her childhood. While trying to uncover the truth, she is unwittingly dragged into a world of crime and finds herself on a journey that will awaken many secrets hidden deep within.",
+   "popularity": 5.516,
+   "poster_path": "/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg",
+   "production_countries": [
+    "HK",
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-06-27",
+   "revenue": 24340302,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Everything changed after they appeared.",
+   "title": "The Witch: Part 1. The Subversion",
+   "trailer": {
+    "key": "eYJuGhT5nYs",
+    "name": "THE WITCH: SUBVERSION (2020) Official US Trailer | Korean Action Horror Movie",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.914,
+   "vote_count": 823
   },
   "movie:566454": {
    "backdrop_path": "/gCjfb9jUiem4zhzJShnilUuFkmG.jpg",

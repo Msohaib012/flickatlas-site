@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 53,
+ "count": 64,
  "titles": {
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -106,6 +106,125 @@
    "vote_average": 6.414,
    "vote_count": 492
   },
+  "movie:1082195": {
+   "backdrop_path": "/aMbKYfaexixvsBZKc5whYO7yibR.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Terry Husk",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Robert Jay Mathews",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Jamie Bowen",
+     "n": "Tye Sheridan"
+    },
+    {
+     "c": "Joanne Carney",
+     "n": "Jurnee Smollett-Bell"
+    },
+    {
+     "c": "Debbie Mathews",
+     "n": "Alison Oliver"
+    },
+    {
+     "c": "Zillah Craig",
+     "n": "Odessa Young"
+    },
+    {
+     "c": "Bruce Pierce",
+     "n": "Sebastian Pigott"
+    },
+    {
+     "c": "Gary Yarborough/Talk Show Caller",
+     "n": "George Tchortov"
+    },
+    {
+     "c": "Richard Butler",
+     "n": "Victor Slezak"
+    },
+    {
+     "c": "David Lane",
+     "n": "Phillip Forest Lewitski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Justin Kurzel"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 1082195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk into a white supremacist plot to overthrow the federal government.",
+   "popularity": 4.3302,
+   "poster_path": "/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-12-05",
+   "revenue": 1970445,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on the chilling true story.",
+   "title": "The Order",
+   "trailer": {
+    "key": "pPZaOB4ea-0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.567,
+   "vote_count": 998
+  },
   "movie:1115395": {
    "backdrop_path": "/cLXvsCO4KfWSLaXPnJF9GL0NKeg.jpg",
    "budget": 0,
@@ -209,6 +328,126 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 331
+  },
+  "movie:11895": {
+   "backdrop_path": "/fVuhshAl0izxOaWSqNOHLQUcoPM.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Hightower",
+     "n": "Bubba Smith"
+    },
+    {
+     "c": "Tackleberry",
+     "n": "David Graf"
+    },
+    {
+     "c": "Jones",
+     "n": "Michael Winslow"
+    },
+    {
+     "c": "Callahan",
+     "n": "Leslie Easterbrook"
+    },
+    {
+     "c": "Hooks",
+     "n": "Marion Ramsey"
+    },
+    {
+     "c": "Proctor",
+     "n": "Lance Kinsey"
+    },
+    {
+     "c": "Nick",
+     "n": "Matt McCoy"
+    },
+    {
+     "c": "Fackler",
+     "n": "Bruce Mahler"
+    },
+    {
+     "c": "Harris",
+     "n": "G.W. Bailey"
+    },
+    {
+     "c": "Lassard",
+     "n": "George Gaynes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Peter Bonerz"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 11895,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Our favourite police men are called together to deal with a gang who rob banks and jewelers. Using their various talents as well as their extraordinary luck, the crooks stand no chance against our men and women in blue.",
+   "popularity": 3.1875,
+   "poster_path": "/gRFJ3xLewH1rwEplZBfKS4vGpFV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1989-03-09",
+   "revenue": 33200000,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Grads are going undercover in the city to unmask the mastermind of crime.",
+   "title": "Police Academy 6: City Under Siege",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.135,
+   "vote_count": 997
   },
   "movie:12395": {
    "backdrop_path": "/ezqMGAZNg1y2b3TPU9jWKUL8rKM.jpg",
@@ -673,6 +912,96 @@
    "type": "movie",
    "vote_average": 6.875,
    "vote_count": 1234
+  },
+  "movie:13595": {
+   "backdrop_path": "/tkMVZc8JbOtRhzOsxph9jDVquq9.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Chester 'Chazz' Darvey",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Rex",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Pip",
+     "n": "Adam Sandler"
+    },
+    {
+     "c": "Ian",
+     "n": "Joe Mantegna"
+    },
+    {
+     "c": "Officer Wilson",
+     "n": "Chris Farley"
+    },
+    {
+     "c": "Jimmie Wing",
+     "n": "Judd Nelson"
+    },
+    {
+     "c": "Kayla",
+     "n": "Amy Locane"
+    },
+    {
+     "c": "Milo Jackson",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Carter",
+     "n": "David Arquette"
+    },
+    {
+     "c": "Suzzi",
+     "n": "Nina Siemaszko"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Lehmann"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Music"
+   ],
+   "id": 13595,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Lone Rangers have heavy-metal dreams and a single demo tape they can't get anyone to play. The solution: Hijack an FM rock radio station and hold the deejays hostage until they agree to broadcast the band's tape.",
+   "popularity": 2.5011,
+   "poster_path": "/4xPG8pPMyeoec48gKWbbC85EC8j.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1994-08-05",
+   "revenue": 5751882,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The amps are on but nobody's home.",
+   "title": "Airheads",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.226,
+   "vote_count": 872
   },
   "movie:13995": {
    "backdrop_path": "/a7nEljKws5sgtCndAkJtdpGz9pe.jpg",
@@ -1858,6 +2187,189 @@
    "vote_average": 6.673,
    "vote_count": 75
   },
+  "movie:17295": {
+   "backdrop_path": "/ze7GsNSv418o7pzqc9fb00LWWDk.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Ali La Pointe",
+     "n": "Brahim Hadjadj"
+    },
+    {
+     "c": "Colonel Philippe Mathieu",
+     "n": "Jean Martin"
+    },
+    {
+     "c": "El-Hadi Jaffar",
+     "n": "Yacef Saâdi"
+    },
+    {
+     "c": "Fathia",
+     "n": "Samia Kerbash"
+    },
+    {
+     "c": "Captain",
+     "n": "Ugo Paletti"
+    },
+    {
+     "c": "Halima",
+     "n": "Fouzia El Kader"
+    },
+    {
+     "c": "Petit Omar",
+     "n": "Mohamed Ben Kassen"
+    },
+    {
+     "c": "Larbi Ben M'hidi (uncredited)",
+     "n": "Si Mohamed Baghdadi"
+    },
+    {
+     "c": "Mahmoud (uncredited)",
+     "n": "Franco Moruzzi"
+    },
+    {
+     "c": "Captain Dubois (uncredited)",
+     "n": "Tomasso Neri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gillo Pontecorvo"
+   ],
+   "genres": [
+    "Drama",
+    "War",
+    "History"
+   ],
+   "id": 17295,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Former petty criminal Ali la Pointe becomes a commander of the Algerian Front de Liberation Nationale, directing a guerilla insurgency against the colonial French occupation. Paratrooper commander Colonel Phillippe Mathieu, a veteran of World War II and the First Indochina War, is sent to Algeria to reinforce efforts to squelch the uprisings.",
+   "popularity": 3.4322,
+   "poster_path": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+   "production_countries": [
+    "IT",
+    "DZ"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1966-09-08",
+   "revenue": 964028,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The Revolt that Stirred the World!",
+   "title": "The Battle of Algiers",
+   "trailer": {
+    "key": "vhhoS3zOskE",
+    "name": "The Battle of Algiers - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.895,
+   "vote_count": 952
+  },
   "movie:18095": {
    "backdrop_path": "/9VkUkhD1P1tZ27bZNoABjvqlmLZ.jpg",
    "budget": 0,
@@ -2869,6 +3381,276 @@
    "vote_average": 6.7,
    "vote_count": 312
   },
+  "movie:339095": {
+   "backdrop_path": "/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Graham Bricke",
+     "n": "Edgar Ramírez"
+    },
+    {
+     "c": "Kevin Cash",
+     "n": "Michael Pitt"
+    },
+    {
+     "c": "Shelby Dupree",
+     "n": "Anna Brewster"
+    },
+    {
+     "c": "William Sawyer",
+     "n": "Sharlto Copley"
+    },
+    {
+     "c": "Ross King",
+     "n": "Tamer Burjaq"
+    },
+    {
+     "c": "Sidell Turner",
+     "n": "Neels Clasen"
+    },
+    {
+     "c": "Jim Schneider",
+     "n": "Tony Caprari"
+    },
+    {
+     "c": "News Anchor 1",
+     "n": "Kate Normington"
+    },
+    {
+     "c": "Specialist on TV",
+     "n": "Ian Bruce"
+    },
+    {
+     "c": "Collins",
+     "n": "Norman Anstey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Olivier Megaton"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 339095,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.",
+   "popularity": 1.933,
+   "poster_path": "/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-06-05",
+   "revenue": 0,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hr",
+    "da",
+    "el",
+    "ga",
+    "no",
+    "pl",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Last Days of American Crime",
+   "trailer": {
+    "key": "gdWxGwiuhnU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.439,
+   "vote_count": 872
+  },
+  "movie:36095": {
+   "backdrop_path": "/yFNZidMRI7dTr7dklBfo3I2yMsc.jpg",
+   "budget": 20000,
+   "cast": [
+    {
+     "c": "Kenichi Takabe",
+     "n": "Koji Yakusho"
+    },
+    {
+     "c": "Kunio Mamiya",
+     "n": "Masato Hagiwara"
+    },
+    {
+     "c": "Makoto Sakuma",
+     "n": "Tsuyoshi Ujiki"
+    },
+    {
+     "c": "Fumie Takabe",
+     "n": "Anna Nakagawa"
+    },
+    {
+     "c": "Ichiro Kuwano",
+     "n": "Yukijiro Hotaru"
+    },
+    {
+     "c": "Dr. Akiko Miyajima",
+     "n": "Yoriko Doguchi"
+    },
+    {
+     "c": "OIda",
+     "n": "Denden"
+    },
+    {
+     "c": "Fujiwara",
+     "n": "Ren Osugi"
+    },
+    {
+     "c": "Tôru Hanaoka",
+     "n": "Masahiro Toda"
+    },
+    {
+     "c": "Tomoko Hanaoka",
+     "n": "Misayo Haruki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Kiyoshi Kurosawa"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 36095,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A frustrated detective deals with the case of several gruesome murders committed by people who have no recollection of what they've done.",
+   "popularity": 4.8465,
+   "poster_path": "/yTRrqIGusJuzG5Pe3iFQTnHg1Ps.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-12-27",
+   "revenue": 234821,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Madness. Terror. Murder.",
+   "title": "Cure",
+   "trailer": {
+    "key": "pv91E5L6_Tw",
+    "name": "Masters of Cinema Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.609,
+   "vote_count": 946
+  },
   "movie:428495": {
    "backdrop_path": "/tUVpn0woaiBLkeCkBigoRvO1iwh.jpg",
    "budget": 4250000,
@@ -3623,6 +4405,292 @@
    "type": "movie",
    "vote_average": 6.27,
    "vote_count": 437
+  },
+  "movie:590995": {
+   "backdrop_path": "/jb8pEmjgmUlJI3Llbb9x75ZlJ03.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Lily",
+     "n": "Cailee Spaeny"
+    },
+    {
+     "c": "Lourdes",
+     "n": "Zoey Luna"
+    },
+    {
+     "c": "Frankie",
+     "n": "Gideon Adlon"
+    },
+    {
+     "c": "Tabby",
+     "n": "Lovie Simone"
+    },
+    {
+     "c": "Adam",
+     "n": "David Duchovny"
+    },
+    {
+     "c": "Helen",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Timmy",
+     "n": "Nicholas Galitzine"
+    },
+    {
+     "c": "Abe",
+     "n": "Julian Grey"
+    },
+    {
+     "c": "Jacob",
+     "n": "Charles Vandervaart"
+    },
+    {
+     "c": "Isaiah",
+     "n": "Donald MacLean Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Zoe Lister-Jones"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 590995,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.",
+   "popularity": 3.1302,
+   "poster_path": "/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-10-28",
+   "revenue": 2704918,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The ritual begins again.",
+   "title": "The Craft: Legacy",
+   "trailer": {
+    "key": "J60ueFp-jv8",
+    "name": "THE CRAFT: LEGACY - Official Trailer - On Demand Everywhere October 28",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.094,
+   "vote_count": 931
+  },
+  "movie:592695": {
+   "backdrop_path": "/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+   "budget": 1800000,
+   "cast": [
+    {
+     "c": "Bella Cherry",
+     "n": "Sofia Kappel"
+    },
+    {
+     "c": "Joy",
+     "n": "Zelda Morrison"
+    },
+    {
+     "c": "Mike",
+     "n": "Tee Reel"
+    },
+    {
+     "c": "Ava",
+     "n": "Evelyn Claire"
+    },
+    {
+     "c": "Bear",
+     "n": "Chris Cock"
+    },
+    {
+     "c": "Ashley",
+     "n": "Dana DeArmond"
+    },
+    {
+     "c": "Kimberly",
+     "n": "Kendra Spade"
+    },
+    {
+     "c": "Spiegler",
+     "n": "Mark Spiegler"
+    },
+    {
+     "c": "Mother (voice)",
+     "n": "Eva Melander"
+    },
+    {
+     "c": "Caesar",
+     "n": "Lucy Hart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ninja Thyberg"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 592695,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "Bella Cherry arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won't come easy as she harnesses her ambition and cunning to rise to the top of this mesmerizing and singular world.",
+   "popularity": 5.6769,
+   "poster_path": "/TcOsu6iO5prSJbDn9oIQgIW655.jpg",
+   "production_countries": [
+    "SE",
+    "FR",
+    "NL"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-10-08",
+   "revenue": 393824,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "In the pursuit of fame, she discovers the price of pleasure.",
+   "title": "Pleasure",
+   "trailer": {
+    "key": "knFkVoNPRHE",
+    "name": "Official International Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.253,
+   "vote_count": 840
   },
   "movie:62395": {
    "backdrop_path": "/1EoZR0hGuuFIGlxcwChgS3qcCY6.jpg",
@@ -4423,6 +5491,244 @@
    "vote_average": 5.614,
    "vote_count": 346
   },
+  "movie:8095": {
+   "backdrop_path": "/q7fBDmVcU0MWkc8sWt9IKj6YbVd.jpg",
+   "budget": 36115000,
+   "cast": [
+    {
+     "c": "Cleopatra",
+     "n": "Elizabeth Taylor"
+    },
+    {
+     "c": "Marcus Antonius",
+     "n": "Richard Burton"
+    },
+    {
+     "c": "Julius Caesar",
+     "n": "Rex Harrison"
+    },
+    {
+     "c": "High Priestess",
+     "n": "Pamela Brown"
+    },
+    {
+     "c": "Flavius",
+     "n": "George Cole"
+    },
+    {
+     "c": "Sosigenes",
+     "n": "Hume Cronyn"
+    },
+    {
+     "c": "Apollodorus",
+     "n": "Cesare Danova"
+    },
+    {
+     "c": "Brutus",
+     "n": "Kenneth Haigh"
+    },
+    {
+     "c": "Agrippa",
+     "n": "Andrew Keir"
+    },
+    {
+     "c": "Rufio",
+     "n": "Martin Landau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Joseph L. Mankiewicz"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "id": 8095,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Determined to hold on to the throne, Cleopatra seduces the Roman emperor Julius Caesar. When Caesar is murdered, she redirects her attentions to his general, Marc Antony, who vows to take power—but Caesar’s successor has other plans.",
+   "popularity": 5.518,
+   "poster_path": "/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1963-06-12",
+   "revenue": 57779280,
+   "runtime": 251,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The motion picture the world has been waiting for!",
+   "title": "Cleopatra",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 903
+  },
+  "movie:895": {
+   "backdrop_path": "/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg",
+   "budget": 1300000,
+   "cast": [
+    {
+     "c": "Andrei Rublev",
+     "n": "Anatoliy Solonitsyn"
+    },
+    {
+     "c": "Kirill",
+     "n": "Ivan Lapikov"
+    },
+    {
+     "c": "Daniil Chornyy",
+     "n": "Mykola Hrynko"
+    },
+    {
+     "c": "Theophanus the Greek",
+     "n": "Nikolai Sergeyev"
+    },
+    {
+     "c": "God's Fool",
+     "n": "Irma Raush"
+    },
+    {
+     "c": "Boriska",
+     "n": "Nikolay Burlyaev"
+    },
+    {
+     "c": "Grand Duke / Minor Duke",
+     "n": "Yuriy Nazarov"
+    },
+    {
+     "c": "Patrikey",
+     "n": "Yuriy Nikulin"
+    },
+    {
+     "c": "Buffoon",
+     "n": "Rolan Bykov"
+    },
+    {
+     "c": "Stepan, Centurion of the Grand Duke",
+     "n": "Nikolay Grabbe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrei Tarkovsky"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 895,
+   "industry": "world",
+   "origin_country": [
+    "SU"
+   ],
+   "original_language": "ru",
+   "overview": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
+   "popularity": 3.0984,
+   "poster_path": "/jUihkn16SwPPIjuOyo6orHWUep6.jpg",
+   "production_countries": [
+    "SU"
+   ],
+   "providers": [
+    {
+     "name": "Darkroom"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1966-12-16",
+   "revenue": 24173,
+   "runtime": 183,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tt",
+    "ru",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "In much wisdom there is much grief.",
+   "title": "Andrei Rublev",
+   "trailer": {
+    "key": "t1d5FSyMEd8",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.947,
+   "vote_count": 995
+  },
   "movie:9095": {
    "backdrop_path": "/mErnrp6gxgSw7eYVnuos3k8EkWf.jpg",
    "budget": 47000000,
@@ -4536,6 +5842,123 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 350
+  },
+  "movie:9395": {
+   "backdrop_path": "/qvrayOIHOQMo9y9B3u7ACGimuo2.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "Nico Toscani",
+     "n": "Steven Seagal"
+    },
+    {
+     "c": "Delores 'Jacks' Jackson",
+     "n": "Pam Grier"
+    },
+    {
+     "c": "Kurt Zagon",
+     "n": "Henry Silva"
+    },
+    {
+     "c": "Sara Toscani",
+     "n": "Sharon Stone"
+    },
+    {
+     "c": "Detective Lukich",
+     "n": "Ron Dean"
+    },
+    {
+     "c": "Tony Salvano",
+     "n": "Daniel Faraldo"
+    },
+    {
+     "c": "Father Joseph Gennaro",
+     "n": "Joe Greco"
+    },
+    {
+     "c": "Giuseppe",
+     "n": "Vince Viverito"
+    },
+    {
+     "c": "Nelson Fox",
+     "n": "Chelcie Ross"
+    },
+    {
+     "c": "Uncle Branca",
+     "n": "Jack Wallace"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrew Davis"
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 9395,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nico Toscani is an Italian immigrant, American patriot, ex-CIA agent, aikido specialist and unorthodox Chicago policeman. He is as committed to his job as he is to his personalized brand of justice—expert and thorough bone-crushing.",
+   "popularity": 3.7158,
+   "poster_path": "/pS6j4cIrv1LWSIk5NxYvpQwNTsT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1988-04-08",
+   "revenue": 18869631,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "He's a cop who believes no one is above the law.",
+   "title": "Above the Law",
+   "trailer": {
+    "key": "08pYpAgiEHU",
+    "name": "Original Trailer New 2K Scan",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.12,
+   "vote_count": 840
   },
   "movie:97795": {
    "backdrop_path": "/ljIFlIqVbES8p7gtPSYgIMI1alL.jpg",

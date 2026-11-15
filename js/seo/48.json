@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 55,
+ "count": 64,
  "titles": {
   "movie:10348": {
    "d": "Thunderbolt (1995): Action/Thriller film. Story: In order to release his kidnapped sisters, sports car… See cast, budget $3.83M, and TMDB rating 6.5/10.",
@@ -385,6 +385,134 @@
    "t": "Prince Avalanche (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:115348": {
+   "d": "Paranoia (2013): Drama/Thriller film. Story: An entry-level employee at a powerful corporation… See cast, budget $35M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ghgFSYXj2YKJd7YtXtSMJbL4hJg.jpg",
+   "industry": "bollywood",
+   "k": "Paranoia, Paranoia movie, Paranoia cast, Paranoia story, Paranoia box office collection, Paranoia budget, Paranoia review, Paranoia rating, Paranoia release date, Paranoia Drama, Paranoia Thriller, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liam Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Harrison Ford"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Oldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Amber Heard"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Holloway"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 944,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "Paranoia (2013): Drama/Thriller film. Story: An entry-level employee at a powerful corporation… See cast, budget $35M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Luketic"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ghgFSYXj2YKJd7YtXtSMJbL4hJg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=115348",
+    "name": "Paranoia",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-08-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=115348"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Paranoia (2013)</h1>\n<p class=\"ssr-lead\">An entry-level employee at a powerful corporation finds himself occupying a corner office, but at a dangerous price—he must spy on his boss&#x27;s old mentor to secure for him a multi-billion dollar advantage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 2013</li><li>Runtime: 106 minutes</li><li>Director: Robert Luketic</li><li>Genres: Drama, Thriller</li><li>Budget: $35M</li><li>TMDB rating: 5.7/10 (944 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Hemsworth as Adam Cassidy</li><li>Harrison Ford as Jock Goddard</li><li>Gary Oldman as Nicholas Wyatt</li><li>Amber Heard as Emma Jennings</li><li>Josh Holloway as Agent Gamble</li><li>Embeth Davidtz as Judith Bolton</li><li>Richard Dreyfuss as Frank Cassidy</li><li>Julian McMahon as Meechum</li><li>Lucas Till as Kevin</li><li>Angela Sarafyan as Alison</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Paranoia (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:11548": {
+   "d": "*batteries not included (1987): Family/Comedy film. Story: In a soon to be demolished block of apartments, the… See cast, budget $25M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/b7HsWYjyrVkDPkAFFAGZ76iainK.jpg",
+   "industry": "world",
+   "k": "*batteries not included, *batteries not included movie, *batteries not included cast, *batteries not included story, *batteries not included box office collection, *batteries not included budget, *batteries not included review, *batteries not included rating, *batteries not included release date, *batteries not included trailer, *batteries not included Family, *batteries not included Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hume Cronyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Tandy"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank McRae"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Peña"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Carmine"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 857,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "*batteries not included (1987): Family/Comedy film. Story: In a soon to be demolished block of apartments, the… See cast, budget $25M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthew Robbins"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/b7HsWYjyrVkDPkAFFAGZ76iainK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11548",
+    "name": "*batteries not included",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11548"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>*batteries not included (1987)</h1>\n<p class=\"ssr-lead\">In a soon to be demolished block of apartments, the residents resist the criminal methods used to force them to leave so a greedy tycoon can build his new skyscraper. When tiny mechanical aliens land for a recharge, they decide to stay and help out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 1987</li><li>Runtime: 107 minutes</li><li>Director: Matthew Robbins</li><li>Genres: Family, Comedy, Science Fiction</li><li>Budget: $25M</li><li>TMDB rating: 6.7/10 (857 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hume Cronyn as Frank Riley</li><li>Jessica Tandy as Faye Riley</li><li>Frank McRae as Harry Noble</li><li>Elizabeth Peña as Marisa Esteval</li><li>Michael Carmine as Carlos</li><li>Dennis Boutsikaris as Mason Baylor</li><li>Tom Aldredge as Sid Hogenson</li><li>Jane Hoffman as Muriel Hogenson</li><li>John DiSanti as Gus</li><li>John Pankow as Kovacs</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "*batteries not included (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
   "movie:1161048": {
    "d": "The Conference (2023): Horror/Comedy film. Story: A ragtag group of public sector employees battle not… See cast and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/rrucFNW1qOgSPL4n2Fy6CdpBDEY.jpg",
@@ -577,6 +705,70 @@
    "t": "Number 24 (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
   },
+  "movie:12448": {
+   "d": "The Hunchback of Notre Dame II (2002): Animation/Family film. Story: Now that Frollo is gone, Quasimodo rings the bell… See cast and TMDB rating 5.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bCvvGF2QljUG5MpSaTCAC1VMbvy.jpg",
+   "industry": "world",
+   "k": "The Hunchback of Notre Dame II, The Hunchback of Notre Dame II movie, The Hunchback of Notre Dame II cast, The Hunchback of Notre Dame II story, The Hunchback of Notre Dame II box office collection, The Hunchback of Notre Dame II budget, The Hunchback of Notre Dame II review, The Hunchback of Notre Dame II rating, The Hunchback of Notre Dame II release date, The Hunchback of Notre Dame II Animation, The Hunchback of Notre Dame II Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hulce"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Love Hewitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Kandel"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Kimbrough"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 870,
+     "ratingValue": 5.4,
+     "worstRating": 0
+    },
+    "description": "The Hunchback of Notre Dame II (2002): Animation/Family film. Story: Now that Frollo is gone, Quasimodo rings the bell… See cast and TMDB rating 5.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bradley Raymond"
+     }
+    ],
+    "duration": "PT68M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bCvvGF2QljUG5MpSaTCAC1VMbvy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12448",
+    "name": "The Hunchback of Notre Dame II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-02-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12448"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunchback of Notre Dame II (2002)</h1>\n<p class=\"ssr-lead\">Now that Frollo is gone, Quasimodo rings the bell with the help of his new friend and Esmeralda and Phoebus&#x27; little son, Zephyr. But when Quasi stops by a traveling circus owned by evil magician Sarousch, he falls for Madellaine, Sarouch&#x27;s assistant.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 February 2002</li><li>Runtime: 68 minutes</li><li>Director: Bradley Raymond</li><li>Genres: Animation, Family, Comedy, Romance</li><li>TMDB rating: 5.4/10 (870 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hulce as Quasimodo (voice)</li><li>Jennifer Love Hewitt as Madellaine (voice)</li><li>Jason Alexander as Gargoyle Hugo (voice)</li><li>Paul Kandel as Clopin (voice)</li><li>Charles Kimbrough as Gargoyle Victor (voice)</li><li>Michael McKean as Sarousch (voice)</li><li>Demi Moore as Esmeralda (voice)</li><li>Kevin Kline as Phoebus (voice)</li><li>Haley Joel Osment as Zephyr (voice)</li><li>Jane Withers as Gargoyle Laverne (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "The Hunchback of Notre Dame II (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:1317448": {
    "d": "No Place to Be Single (2026): Romance/Comedy film. Story: A brilliant and intelligent love comedy that… See cast and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
@@ -768,6 +960,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ain&#x27;t Them Bodies Saints (2013)</h1>\n<p class=\"ssr-lead\">Bob Muldoon and Ruth Guthrie, an impassioned young outlaw couple on an extended crime spree, are finally apprehended by lawmen after a shootout in the Texas hills. Although Ruth wounds a local officer, Bob takes the blame. But four years later, Bob escapes from prison and sets out to find Ruth and their daughter, born during his incarceration.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2013</li><li>Runtime: 96 minutes</li><li>Director: David Lowery</li><li>Genres: Crime, Drama, Romance, Western</li><li>Budget: $4M</li><li>TMDB rating: 6.1/10 (478 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rooney Mara as Ruth Guthrie</li><li>Casey Affleck as Bob Muldoon</li><li>Ben Foster as Patrick Wheeler</li><li>Keith Carradine as Skerritt</li><li>Kennadie Smith as Sylvie Guthrie</li><li>Jacklynn Smith as Sylvie Guthrie</li><li>Nate Parker as Sweetie</li><li>Robert Longstreet as Cowboy Hat</li><li>Charles Baker as Bear</li><li>Augustine Frizzell as Sissy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Ain't Them Bodies Saints (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
+  },
+  "movie:15648": {
+   "d": "The Perfect Man (2005): Comedy/Drama film. Story: Holly is tired of moving every time her mom Jean… See cast, budget $10M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hPqpB8P8ghhguGok9sSeTdMVjYk.jpg",
+   "industry": "world",
+   "k": "The Perfect Man, The Perfect Man movie, The Perfect Man cast, The Perfect Man story, The Perfect Man box office collection, The Perfect Man budget, The Perfect Man review, The Perfect Man rating, The Perfect Man release date, The Perfect Man Comedy, The Perfect Man Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hilary Duff"
+     },
+     {
+      "@type": "Person",
+      "name": "Heather Locklear"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Noth"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike O'Malley"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Feldman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 833,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Perfect Man (2005): Comedy/Drama film. Story: Holly is tired of moving every time her mom Jean… See cast, budget $10M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mark Rosman"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hPqpB8P8ghhguGok9sSeTdMVjYk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15648",
+    "name": "The Perfect Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-06-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15648"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Perfect Man (2005)</h1>\n<p class=\"ssr-lead\">Holly is tired of moving every time her mom Jean breaks up with yet another second-rate guy. To distract her mother from her latest bad choice, Holly conceives the perfect plan for the perfect man, an imaginary secret admirer who will romance Jean and boost her self-esteem.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 June 2005</li><li>Runtime: 100 minutes</li><li>Director: Mark Rosman</li><li>Genres: Comedy, Drama, Family, Romance</li><li>Budget: $10M</li><li>TMDB rating: 6.2/10 (833 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hilary Duff as Holly Hamilton</li><li>Heather Locklear as Jean Hamilton</li><li>Chris Noth as Ben Cooper</li><li>Mike O&#x27;Malley as Lenny Horton</li><li>Ben Feldman as Adam Forrest</li><li>Vanessa Lengies as Amy Pearl</li><li>Caroline Rhea as Gloria</li><li>Kym Whitley as Dolores</li><li>Aria Wallace as Zoe Hamilton</li><li>Michelle Nolden as Amber</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Perfect Man (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "movie:1589248": {
    "d": "My Best Friend, His Girlfriend and Me (2026): Comedy film. Story: Olli and Matze are best friends living, working and… See cast and TMDB rating 6.3/10.",
@@ -1666,6 +1922,70 @@
    "t": "The Parisian Bitch (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:333348": {
+   "d": "Love the Coopers (2015): Comedy/Family film. Story: When four generations of the Cooper clan come… See cast, budget $17M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5DxFiNyWHCH58nffyCtzMfPjDLJ.jpg",
+   "industry": "world",
+   "k": "Love the Coopers, Love the Coopers movie, Love the Coopers cast, Love the Coopers story, Love the Coopers box office collection, Love the Coopers budget, Love the Coopers review, Love the Coopers rating, Love the Coopers release date, Love the Coopers trailer, Love the Coopers Comedy, Love the Coopers Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Diane Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "John Goodman"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Helms"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Seyfried"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Arkin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 884,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Love the Coopers (2015): Comedy/Family film. Story: When four generations of the Cooper clan come… See cast, budget $17M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jessie Nelson"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5DxFiNyWHCH58nffyCtzMfPjDLJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=333348",
+    "name": "Love the Coopers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-11-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=333348"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Love the Coopers (2015)</h1>\n<p class=\"ssr-lead\">When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 November 2015</li><li>Runtime: 107 minutes</li><li>Director: Jessie Nelson</li><li>Genres: Comedy, Family, Drama</li><li>Budget: $17M</li><li>TMDB rating: 6.0/10 (884 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Diane Keaton as Charlotte Cooper</li><li>John Goodman as Sam Cooper</li><li>Ed Helms as Hank Cooper</li><li>Amanda Seyfried as Ruby</li><li>Alan Arkin as Bucky Newport</li><li>Steve Martin as Rags (voice)</li><li>Olivia Wilde as Eleanor Cooper</li><li>Marisa Tomei as Emma Newport</li><li>Jake Lacy as Joe Bailey</li><li>June Squibb as Aunt Fishy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Love the Coopers (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:34148": {
    "d": "Imitation of Life (1959): Drama/Romance film. Story: In 1940s New York, a white widow who dreams of being… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
@@ -1793,6 +2113,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ondine (2010)</h1>\n<p class=\"ssr-lead\">On the coast of Cork, Syracuse is a divorced fisherman who has stopped drinking. His precocious daughter Annie has failing kidneys. One day, he finds a nearly-drowned young woman in his net; she calls herself Ondine and wants no one to see her. He puts her up in an isolated cottage that was his mother&#x27;s. Annie discovers Ondine&#x27;s presence and believes she is a selkie, a seal that turns human while on land. Syracuse is afraid to hope again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 2010</li><li>Runtime: 111 minutes</li><li>Director: Neil Jordan</li><li>Genres: Drama, Romance</li><li>Budget: $12M</li><li>TMDB rating: 6.4/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Colin Farrell as Syracuse</li><li>Alicja Bachleda-Curuś as Ondine</li><li>Dervla Kirwan as Maura</li><li>Alison Barry as Annie</li><li>Marion O&#x27;Dwyer as Nurse - Dialysis</li><li>Tony Curran as Alex</li><li>Mary O&#x27;Shea as Fish Co Op Worker</li><li>Gemma Reeves as Draper&#x27;s Shop Tracy</li><li>Stephen Rea as Priest</li><li>Norma Sheahan as Librarian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Ondine (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:385448": {
+   "d": "The Little Mermaid (2018): Family/Adventure film. Story: A young reporter and his niece discover a beautiful… See cast and TMDB rating 5.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9GHUJHFFOjJZUhE2jldhiWnoBye.jpg",
+   "industry": "world",
+   "k": "The Little Mermaid, The Little Mermaid movie, The Little Mermaid cast, The Little Mermaid story, The Little Mermaid box office collection, The Little Mermaid budget, The Little Mermaid review, The Little Mermaid rating, The Little Mermaid release date, The Little Mermaid Family, The Little Mermaid Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Poppy Drayton"
+     },
+     {
+      "@type": "Person",
+      "name": "Shirley MacLaine"
+     },
+     {
+      "@type": "Person",
+      "name": "Loreto Peralta"
+     },
+     {
+      "@type": "Person",
+      "name": "William Moseley"
+     },
+     {
+      "@type": "Person",
+      "name": "Gina Gershon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 868,
+     "ratingValue": 5.0,
+     "worstRating": 0
+    },
+    "description": "The Little Mermaid (2018): Family/Adventure film. Story: A young reporter and his niece discover a beautiful… See cast and TMDB rating 5.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Bouchard"
+     },
+     {
+      "@type": "Person",
+      "name": "Blake Harris"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Family",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9GHUJHFFOjJZUhE2jldhiWnoBye.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=385448",
+    "name": "The Little Mermaid",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=385448"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Little Mermaid (2018)</h1>\n<p class=\"ssr-lead\">A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 August 2018</li><li>Runtime: 98 minutes</li><li>Director: Chris Bouchard, Blake Harris</li><li>Genres: Family, Adventure, Fantasy, Romance, Drama</li><li>TMDB rating: 5.0/10 (868 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Poppy Drayton as Elizabeth</li><li>Shirley MacLaine as Eloise</li><li>Loreto Peralta as Elle Harrison</li><li>William Moseley as Cam Harrison</li><li>Gina Gershon as Peggy Gene</li><li>Shanna Collins as Thora</li><li>William Forsythe</li><li>Tom Nowicki as Sid</li><li>Lexy Kolker as Granddaughter Lily</li><li>Claire Crosby as Granddaughter Rose</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Little Mermaid (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:39148": {
    "d": "Dragon Ball: The Path to Power (1996): Animation/Adventure film. Story: A retelling of Dragon Ball's origin with a different… See cast and TMDB rating 7.4/10.",
@@ -2174,6 +2562,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Our Happy Holiday (2019)</h1>\n<p class=\"ssr-lead\">Marion and Ben, thirty years old, meet on Tinder. That&#x27;s about all they have in common; but the opposites attract each other, and they decide in the early morning of their meeting to go on vacation together despite the advice of their entourage. They will finally leave - to Bulgaria, halfway to their dream destinations: Beirut for Marion, Biarritz for Ben. Without a precise plan and, as they will soon discover, with very different conceptions of what a dream holiday should be.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 January 2019</li><li>Runtime: 102 minutes</li><li>Director: Patrick Cassir</li><li>Genres: Comedy</li><li>TMDB rating: 5.7/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Camille Chamoux as Marion</li><li>Jonathan Cohen as Ben</li><li>Camille Cottin as Fleur</li><li>Jérémie Elkaïm as Romain</li><li>Vincent Dedienne as Arthur</li><li>Dominique Valadié as Nicole</li><li>Svetlana Gergova as Koukou</li><li>Bar Levy as Almog</li><li>Aleksandar Aleksiev as Boyan</li><li>Sagi Halperin as Yuval</li></ul>\n</article>",
    "t": "Our Happy Holiday (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:498248": {
+   "d": "Mia and the White Lion (2019): Adventure/Family film. Story: A young girl from London moves to Africa with her… See cast, budget $9.6M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bGgcTfGf8jggZZotx3uKpRF2zbv.jpg",
+   "industry": "world",
+   "k": "Mia and the White Lion, Mia and the White Lion movie, Mia and the White Lion cast, Mia and the White Lion story, Mia and the White Lion box office collection, Mia and the White Lion budget, Mia and the White Lion review, Mia and the White Lion rating, Mia and the White Lion release date, Mia and the White Lion Adventure, Mia and the White Lion Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniah De Villiers"
+     },
+     {
+      "@type": "Person",
+      "name": "Mélanie Laurent"
+     },
+     {
+      "@type": "Person",
+      "name": "Langley Kirkwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Mac Lennan"
+     },
+     {
+      "@type": "Person",
+      "name": "Lionel Newton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 937,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Mia and the White Lion (2019): Adventure/Family film. Story: A young girl from London moves to Africa with her… See cast, budget $9.6M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gilles de Maistre"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bGgcTfGf8jggZZotx3uKpRF2zbv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=498248",
+    "name": "Mia and the White Lion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-08-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=498248"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mia and the White Lion (2019)</h1>\n<p class=\"ssr-lead\">A young girl from London moves to Africa with her parents where she befriends a lion cub.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 August 2019</li><li>Runtime: 98 minutes</li><li>Director: Gilles de Maistre</li><li>Genres: Adventure, Family, Drama</li><li>Budget: $9.6M</li><li>TMDB rating: 7.2/10 (937 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniah De Villiers as Mia Owen</li><li>Mélanie Laurent as Alice Owen</li><li>Langley Kirkwood as John Owen</li><li>Ryan Mac Lennan as Mick Owen</li><li>Lionel Newton as Kevin</li><li>Lillian Dube as Jodie</li><li>Brandon Auret as Dirk</li><li>Elvis the Meerkat as Trevor</li><li>Benjamin Garrad as Daniel</li><li>Andrew Stock as Theuns</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Mia and the White Lion (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
   "movie:50848": {
@@ -2560,6 +3012,74 @@
    "t": "The Sorcerer and the White Snake (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:817648": {
+   "d": "Home Team (2022): Family/Comedy film. Story: Two years after a Super Bowl win when NFL head coach… See cast, budget $44.6M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aGDtBTmSKa1TRmpWwcvqtCQP09v.jpg",
+   "industry": "world",
+   "k": "Home Team, Home Team movie, Home Team cast, Home Team story, Home Team box office collection, Home Team budget, Home Team review, Home Team rating, Home Team release date, Home Team trailer, Home Team Family, Home Team Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin James"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Lautner"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "Jackie Sandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Valentine"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 818,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Home Team (2022): Family/Comedy film. Story: Two years after a Super Bowl win when NFL head coach… See cast, budget $44.6M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charles Kinnane"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Kinnane"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aGDtBTmSKa1TRmpWwcvqtCQP09v.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=817648",
+    "name": "Home Team",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=817648"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Home Team (2022)</h1>\n<p class=\"ssr-lead\">Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2022</li><li>Runtime: 95 minutes</li><li>Director: Charles Kinnane, Daniel Kinnane</li><li>Genres: Family, Comedy, Drama</li><li>Budget: $44.6M</li><li>TMDB rating: 6.6/10 (818 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin James as Sean Payton</li><li>Taylor Lautner as Coach Troy Lambert</li><li>Rob Schneider as Jamie</li><li>Jackie Sandler as Beth</li><li>Gary Valentine as Coach Mitch Bizone</li><li>Lavell Crawford as Gus the Bus Driver</li><li>Chloe Fineman as Intern Emily</li><li>Tait Blum as Connor Payton</li><li>Maxwell Simkins as Paulie</li><li>Jacob Perez as Marcos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Home Team (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:848": {
    "d": "Dragonslayer (1981): Fantasy/Adventure film. Story: A sorcerer and his apprentice are on a mission to… See cast, budget $18M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/wbNKvMdPgOjrsydymIXxHLqIlOZ.jpg",
@@ -2623,6 +3143,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dragonslayer (1981)</h1>\n<p class=\"ssr-lead\">A sorcerer and his apprentice are on a mission to kill an evil dragon to save the King’s daughter from being sacrificed according to a pact that the King himself made with the dragon to protect his kingdom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 1981</li><li>Runtime: 108 minutes</li><li>Director: Matthew Robbins</li><li>Genres: Fantasy, Adventure</li><li>Budget: $18M</li><li>TMDB rating: 6.6/10 (341 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter MacNicol as Galen</li><li>Caitlin Clarke as Valerian</li><li>Ralph Richardson as Ulrich</li><li>John Hallam as Tyrian</li><li>Peter Eyre as Casiodorus Rex</li><li>Albert Salmi as Greil</li><li>Sydney Bromley as Hodge</li><li>Chloe Salaman as Princess Elspeth</li><li>Emrys James as Valerian&#x27;s Father</li><li>Ian McDiarmid as Brother Jacopus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Dragonslayer (1981) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1981"
+  },
+  "movie:852448": {
+   "d": "I Came By (2022): Crime/Thriller film. Story: A rebellious young graffiti artist, who targets the… See cast and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg",
+   "industry": "world",
+   "k": "I Came By, I Came By movie, I Came By cast, I Came By story, I Came By box office collection, I Came By budget, I Came By review, I Came By rating, I Came By release date, I Came By trailer, I Came By Crime, I Came By Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Bonneville"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Macdonald"
+     },
+     {
+      "@type": "Person",
+      "name": "George MacKay"
+     },
+     {
+      "@type": "Person",
+      "name": "Percelle Ascott"
+     },
+     {
+      "@type": "Person",
+      "name": "Varada Sethu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 888,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "I Came By (2022): Crime/Thriller film. Story: A rebellious young graffiti artist, who targets the… See cast and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Babak Anvari"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=852448",
+    "name": "I Came By",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-08-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=852448"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I Came By (2022)</h1>\n<p class=\"ssr-lead\">A rebellious young graffiti artist, who targets the homes of the wealthy elite, discovers a shocking secret that leads him on a journey endangering himself and those closest to him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 August 2022</li><li>Runtime: 110 minutes</li><li>Director: Babak Anvari</li><li>Genres: Crime, Thriller</li><li>TMDB rating: 6.3/10 (888 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Bonneville as Hector Blake</li><li>Kelly Macdonald as Lizzie Nealey</li><li>George MacKay as Toby Nealey</li><li>Percelle Ascott as Jameel &#x27;Jay&#x27; Agassi</li><li>Varada Sethu as Naserine &#x27;Naz&#x27; Raheem</li><li>Franc Ashman as DS Ella Lloyd</li><li>Yazdan Qafouri as Omid</li><li>Antonio Aakeel as Faisal</li><li>Anthony Calf as Superintendent William Roy</li><li>Marilyn Nnadebe as PC Hunter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "I Came By (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:8748": {
    "d": "Eagle vs Shark (2007): Comedy/Romance film. Story: Love blossoms for Lily over double Meaty Boy burgers… See cast and TMDB rating 6.4/10.",

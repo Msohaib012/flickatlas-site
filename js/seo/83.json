@@ -1,7 +1,71 @@
 {
  "bucket": "83",
- "count": 51,
+ "count": 58,
  "titles": {
+  "movie:10083": {
+   "d": "No Way Out (1987): Thriller/Drama film. Story: Navy Lt. Tom Farrell meets a young woman, Susan… See cast, budget $15M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9F6zZuETJWUtkcSEnOc0JLqBHAK.jpg",
+   "industry": "world",
+   "k": "No Way Out, No Way Out movie, No Way Out cast, No Way Out story, No Way Out box office collection, No Way Out budget, No Way Out review, No Way Out rating, No Way Out release date, No Way Out Thriller, No Way Out Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Hackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Young"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Patton"
+     },
+     {
+      "@type": "Person",
+      "name": "Howard Duff"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 875,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "No Way Out (1987): Thriller/Drama film. Story: Navy Lt. Tom Farrell meets a young woman, Susan… See cast, budget $15M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Donaldson"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9F6zZuETJWUtkcSEnOc0JLqBHAK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10083",
+    "name": "No Way Out",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-08-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10083"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>No Way Out (1987)</h1>\n<p class=\"ssr-lead\">Navy Lt. Tom Farrell meets a young woman, Susan Atwell, and they share a passionate fling. Farrell then finds out that his superior, Defense Secretary David Brice, is also romantically involved with Atwell. When the young woman turns up dead, Farrell is put in charge of the murder investigation. He begins to uncover shocking clues about the case, but when details of his encounter with Susan surface, he becomes a suspect as well.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 1987</li><li>Runtime: 114 minutes</li><li>Director: Roger Donaldson</li><li>Genres: Thriller, Drama</li><li>Budget: $15M</li><li>TMDB rating: 6.9/10 (875 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as Lt. Cmdr. Tom Farrell</li><li>Gene Hackman as Defense Secretary David Brice</li><li>Sean Young as Susan Atwell</li><li>Will Patton as Scott Pritchard</li><li>Howard Duff as Senator William &#x27;Billy&#x27; Duvall</li><li>George Dzundza as Sam Hesselman</li><li>Jason Bernard as Major Donovan</li><li>Iman as Nina Beka</li><li>Fred Thompson as CIA Director Marshall</li><li>Leon Russom as Kevin O&#x27;Brien</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "No Way Out (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
   "movie:10183": {
    "d": "Frozen River (2008): Drama/Crime film. Story: A financially strapped mother joins a Mohawk woman to… See cast, budget $1M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/gOhtvGwrVkEM5hCFdyyWKJEOBk8.jpg",
@@ -194,6 +258,69 @@
    "t": "Mother Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:11183": {
+   "d": "French Fried Vacation (1978): Comedy film. Story: Holidaymakers arriving in a Club Med camp on the… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tf2mugFR3vWCuuUQt2hYRfr73vj.jpg",
+   "industry": "world",
+   "k": "French Fried Vacation, French Fried Vacation movie, French Fried Vacation cast, French Fried Vacation story, French Fried Vacation box office collection, French Fried Vacation budget, French Fried Vacation review, French Fried Vacation rating, French Fried Vacation release date, French Fried Vacation Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thierry Lhermitte"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Clavier"
+     },
+     {
+      "@type": "Person",
+      "name": "Gérard Jugnot"
+     },
+     {
+      "@type": "Person",
+      "name": "Josiane Balasko"
+     },
+     {
+      "@type": "Person",
+      "name": "Michel Blanc"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 971,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "French Fried Vacation (1978): Comedy film. Story: Holidaymakers arriving in a Club Med camp on the… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patrice Leconte"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tf2mugFR3vWCuuUQt2hYRfr73vj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11183",
+    "name": "French Fried Vacation",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-11-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11183"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>French Fried Vacation (1978)</h1>\n<p class=\"ssr-lead\">Holidaymakers arriving in a Club Med camp on the Ivory Coast are determined to forget their everyday problems and emotional disappointments. Games, competitions, outings, bathing and sunburn accompany a continual succession of casual affairs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 1978</li><li>Runtime: 96 minutes</li><li>Director: Patrice Leconte</li><li>Genres: Comedy</li><li>TMDB rating: 6.6/10 (971 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thierry Lhermitte as Robert &quot;Popeye&quot; Lespinasse</li><li>Christian Clavier as Jérôme Tarayre</li><li>Gérard Jugnot as Bernard Morin</li><li>Josiane Balasko as Nathalie Morin</li><li>Michel Blanc as Jean-Claude &quot;Jessy&quot; Dusse</li><li>Dominique Lavanant as Christiane Weissmuller</li><li>Bruno Moynot as Gilbert Sellman</li><li>Marie-Anne Chazel as Gisèle &quot;Gigi&quot; André</li><li>Michel Creton as André &quot;Bip Bip&quot; Bourseault</li><li>Luis Rego as Georges &quot;Bobo&quot; Pelletier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li></ul>\n</article>",
+   "t": "French Fried Vacation (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
+  },
   "movie:11483": {
    "d": "Pirates (1986): Adventure/Comedy film. Story: Captain Red runs a hardy pirate ship with the able… See cast, budget $40M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/jBfHr0cZqHXbORe7g6tDKB16MhL.jpg",
@@ -321,6 +448,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The First Great Train Robbery (1978)</h1>\n<p class=\"ssr-lead\">In Victorian England, a master criminal makes elaborate plans to steal a shipment of gold from a moving train.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 1978</li><li>Runtime: 110 minutes</li><li>Director: Michael Crichton</li><li>Genres: Thriller, Adventure, Drama, Crime</li><li>Budget: $6M</li><li>TMDB rating: 6.7/10 (461 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Connery as Edward Pierce</li><li>Donald Sutherland as Robert Agar</li><li>Lesley-Anne Down as Miriam</li><li>Peter Butterworth as Putnam</li><li>Michael Elphick as Burgess</li><li>Alan Webb as Edgar Trent</li><li>Robert Lang as Sharp</li><li>Malcolm Terris as Fowler</li><li>Wayne Sleep as Clean Willy</li><li>Gabrielle Lloyd as Elizabeth Trent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The First Great Train Robbery (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
+  },
+  "movie:11983": {
+   "d": "Proof of Life (2000): Thriller/Action film. Story: When Peter Bowman, an American engineer working in a… See cast, budget $65M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iakEcGh4varespo3U8Cx0UtcNox.jpg",
+   "industry": "world",
+   "k": "Proof of Life, Proof of Life movie, Proof of Life cast, Proof of Life story, Proof of Life box office collection, Proof of Life budget, Proof of Life review, Proof of Life rating, Proof of Life release date, Proof of Life trailer, Proof of Life Thriller, Proof of Life Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Meg Ryan"
+     },
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     },
+     {
+      "@type": "Person",
+      "name": "David Morse"
+     },
+     {
+      "@type": "Person",
+      "name": "Pamela Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "David Caruso"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 917,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Proof of Life (2000): Thriller/Action film. Story: When Peter Bowman, an American engineer working in a… See cast, budget $65M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taylor Hackford"
+     }
+    ],
+    "duration": "PT135M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iakEcGh4varespo3U8Cx0UtcNox.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11983",
+    "name": "Proof of Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-12-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11983"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Proof of Life (2000)</h1>\n<p class=\"ssr-lead\">When Peter Bowman, an American engineer working in a South American country, is captured by anti-government forces, the rebels learn his identity and demand $5 million for his safe return. However, his US employer is on the verge of insolvency and will not provide the ransom. Peter&#x27;s wife Alice is forced to deal with the matter on her own and she retains the services of freelance professional hostage negotiator Terry Thorne.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 December 2000</li><li>Runtime: 135 minutes</li><li>Director: Taylor Hackford</li><li>Genres: Thriller, Action, Drama</li><li>Budget: $65M</li><li>TMDB rating: 6.1/10 (917 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Meg Ryan as Alice Bowman</li><li>Russell Crowe as Terry Thorne</li><li>David Morse as Peter Bowman</li><li>Pamela Reed as Janis Goodman</li><li>David Caruso as Dino</li><li>Anthony Heald as Ted Fellner</li><li>Stanley Anderson as Jerry</li><li>Gottfried John as Eric Kessler</li><li>Alun Armstrong as Wyatt</li><li>Michael Kitchen as Ian Havery</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Proof of Life (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:12583": {
    "d": "Ginger Snaps Back: The Beginning (2004): Horror/Fantasy film. Story: Set in 19th Century Canada, Brigitte and her sister… See cast and budget $3.5M.",
@@ -1144,6 +1335,69 @@
    "t": "I Call Him Dog (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1683": {
+   "d": "The Reaping (2007): Horror film. Story: Katherine Morrissey, a former Christian missionary… See cast, budget $40M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4eakTJuJD3sRGfv1qVWW46iPq82.jpg",
+   "industry": "world",
+   "k": "The Reaping, The Reaping movie, The Reaping cast, The Reaping story, The Reaping box office collection, The Reaping budget, The Reaping review, The Reaping rating, The Reaping release date, The Reaping Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hilary Swank"
+     },
+     {
+      "@type": "Person",
+      "name": "David Morrissey"
+     },
+     {
+      "@type": "Person",
+      "name": "Idris Elba"
+     },
+     {
+      "@type": "Person",
+      "name": "AnnaSophia Robb"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Rea"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 929,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Reaping (2007): Horror film. Story: Katherine Morrissey, a former Christian missionary… See cast, budget $40M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Hopkins"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4eakTJuJD3sRGfv1qVWW46iPq82.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1683",
+    "name": "The Reaping",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-04-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1683"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Reaping (2007)</h1>\n<p class=\"ssr-lead\">Katherine Morrissey, a former Christian missionary, lost her faith after the tragic deaths of her family. Now she applies her expertise to debunking religious phenomena. When a series of biblical plagues overrun a small town, Katherine arrives to prove that a supernatural force is not behind the occurrences, but soon finds that science cannot explain what is happening. Instead, she must regain her faith to combat the evil that waits in a Louisiana swamp.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 April 2007</li><li>Runtime: 99 minutes</li><li>Director: Stephen Hopkins</li><li>Genres: Horror</li><li>Budget: $40M</li><li>TMDB rating: 5.8/10 (929 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hilary Swank as Katherine</li><li>David Morrissey as Doug</li><li>Idris Elba as Ben</li><li>AnnaSophia Robb as Loren McConnell</li><li>Stephen Rea as Father Costigan</li><li>William Ragsdale as Sheriff Cade</li><li>John McConnell as Mayor Brooks</li><li>David Jensen as Jim Wakeman</li><li>Yvonne Landry as Brynn Wakeman</li><li>Samuel Garland as William Wakeman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Reaping (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:183": {
    "d": "The Wizard (1989): Adventure/Comedy film. Story: A boy and his brother run away from home and hitch… See cast, budget $6M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/uDNujlgku4FgHDeOdrfEQk1FtW1.jpg",
@@ -1600,6 +1854,69 @@
    "t": "The Professionals (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1966"
   },
+  "movie:22683": {
+   "d": "Gifted Hands: The Ben Carson Story (2009): Drama film. Story: Gifted Hands: The Ben Carson Story is a movie based… See cast and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xkaeirZBfs9nfz2TJoFHxyOLCcC.jpg",
+   "industry": "world",
+   "k": "Gifted Hands: The Ben Carson Story, Gifted Hands: The Ben Carson Story movie, Gifted Hands: The Ben Carson Story cast, Gifted Hands: The Ben Carson Story story, Gifted Hands: The Ben Carson Story box office collection, Gifted Hands: The Ben Carson Story budget, Gifted Hands: The Ben Carson Story review, Gifted Hands: The Ben Carson Story rating, Gifted Hands: The Ben Carson Story release date, Gifted Hands: The Ben Carson Story trailer, Gifted Hands: The Ben Carson Story Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cuba Gooding Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Kimberly Elise"
+     },
+     {
+      "@type": "Person",
+      "name": "Aunjanue Ellis-Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Harron Atkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Ele Bardha"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 827,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Gifted Hands: The Ben Carson Story (2009): Drama film. Story: Gifted Hands: The Ben Carson Story is a movie based… See cast and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Thomas Carter"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xkaeirZBfs9nfz2TJoFHxyOLCcC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=22683",
+    "name": "Gifted Hands: The Ben Carson Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=22683"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gifted Hands: The Ben Carson Story (2009)</h1>\n<p class=\"ssr-lead\">Gifted Hands: The Ben Carson Story is a movie based on the life story of world-renowned neurosurgeon Ben Carson from 1961 to 1987.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2009</li><li>Runtime: 86 minutes</li><li>Director: Thomas Carter</li><li>Genres: Drama</li><li>TMDB rating: 7.9/10 (827 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cuba Gooding Jr. as Ben Carson</li><li>Kimberly Elise as Sonya Carson</li><li>Aunjanue Ellis-Taylor as Candy</li><li>Harron Atkins as Teen Carl</li><li>Ele Bardha as Dr. Long</li><li>Loren Bass as Yale Professor</li><li>Geoffrey Beauchamp as Dr. Freeman</li><li>Tajh Bellow as Curtis (Child)</li><li>Lesley Bevan as Miss Williamson</li><li>Jesse Christian as Hospital Staff</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Gifted Hands: The Ben Carson Story (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:23383": {
    "d": "Hamlet (1948): Drama film. Story: Winner of four Academy Awards, including Best Picture… See cast, budget $750.0k, and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
@@ -1662,6 +1979,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hamlet (1948)</h1>\n<p class=\"ssr-lead\">Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier’s Hamlet continues to be the most compelling version of Shakespeare’s beloved tragedy. Olivier is at his most inspired—both as director and as the melancholy Dane himself—as he breathes new life into the words of one of the world’s greatest dramatists.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1948</li><li>Runtime: 153 minutes</li><li>Director: Laurence Olivier</li><li>Genres: Drama</li><li>Budget: $750.0k</li><li>TMDB rating: 7.4/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Laurence Olivier as Hamlet - Prince of Denmark / Voice of Ghost</li><li>Basil Sydney as Claudius - The King</li><li>Eileen Herlie as Gertrude - The Queen</li><li>Norman Wooland as Horatio - His Friend</li><li>Felix Aylmer as Polonius - Lord Chamberlain</li><li>Jean Simmons as Ophelia</li><li>Terence Morgan as Laertes</li><li>Peter Cushing as Osric</li><li>Stanley Holloway as Gravedigger</li><li>Russell Thorndike as Priest</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, HBO Max Amazon Channel, Criterion Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Hamlet (1948) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1948"
+  },
+  "movie:25983": {
+   "d": "The House of the Devil (2009): Horror/Mystery film. Story: A young college student who’s struggling financially… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cHFIGss3Lx429OBZGfdF3noKTDV.jpg",
+   "industry": "world",
+   "k": "The House of the Devil, The House of the Devil movie, The House of the Devil cast, The House of the Devil story, The House of the Devil box office collection, The House of the Devil budget, The House of the Devil review, The House of the Devil rating, The House of the Devil release date, The House of the Devil trailer, The House of the Devil Horror, The House of the Devil Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jocelin Donahue"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Noonan"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Woronov"
+     },
+     {
+      "@type": "Person",
+      "name": "Greta Gerwig"
+     },
+     {
+      "@type": "Person",
+      "name": "AJ Bowen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 905,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The House of the Devil (2009): Horror/Mystery film. Story: A young college student who’s struggling financially… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ti West"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cHFIGss3Lx429OBZGfdF3noKTDV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25983",
+    "name": "The House of the Devil",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-10-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25983"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The House of the Devil (2009)</h1>\n<p class=\"ssr-lead\">A young college student who’s struggling financially takes a strange babysitting job which coincides with a full lunar eclipse. She slowly realizes her clients harbor a terrifying secret, putting her life in mortal danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2009</li><li>Runtime: 95 minutes</li><li>Director: Ti West</li><li>Genres: Horror, Mystery</li><li>TMDB rating: 6.2/10 (905 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jocelin Donahue as Samantha</li><li>Tom Noonan as Mr. Ulman</li><li>Mary Woronov as Mrs. Ulman</li><li>Greta Gerwig as Megan</li><li>AJ Bowen as Victor Ulman</li><li>Dee Wallace as Landlady</li><li>Heather Robb as Heather</li><li>Darryl Nau as Random Guy</li><li>Brenda Cooney as Nurse</li><li>Ti West as Favorite Teacher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Bloodstream</li></ul>\n</article>",
+   "t": "The House of the Devil (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
   },
   "movie:303483": {
    "d": "Once in a Lifetime (2014): Drama film. Story: At Léon Blum High School in Créteil, France, a… See cast, TMDB rating 7.4/10, and release date 3 December 2014.",
@@ -2176,6 +2557,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Poison Rose (2019)</h1>\n<p class=\"ssr-lead\">A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 May 2019</li><li>Runtime: 98 minutes</li><li>Director: George Gallo, Francesco Cinquemani</li><li>Genres: Thriller, Crime</li><li>TMDB rating: 4.7/10 (385 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Travolta as Carson Philips</li><li>Morgan Freeman as Doc</li><li>Peter Stormare as Slide</li><li>Famke Janssen as Jayne Hunt</li><li>Robert Patrick as Chief Walsh</li><li>Brendan Fraser as Dr. Miles Mitchell</li><li>Kat Graham as Rose</li><li>Alice Pagani as Violet Gregory</li><li>Steve Eifert as Butler</li><li>Ella Bleu Travolta as Rebecca Hunt</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Poison Rose (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:5683": {
+   "d": "Pee-wee's Big Adventure (1985): Comedy/Adventure film. Story: The eccentric and childish Pee-wee Herman embarks on… See cast and budget $6M.",
+   "img": "https://image.tmdb.org/t/p/w780/8qob0r37GT8YV3lA7pIfcnp0FBQ.jpg",
+   "industry": "world",
+   "k": "Pee-wee's Big Adventure, Pee-wee's Big Adventure movie, Pee-wee's Big Adventure cast, Pee-wee's Big Adventure story, Pee-wee's Big Adventure box office collection, Pee-wee's Big Adventure budget, Pee-wee's Big Adventure review, Pee-wee's Big Adventure rating, Pee-wee's Big Adventure release date, Pee-wee's Big Adventure trailer, Pee-wee's Big Adventure Comedy, Pee-wee's Big Adventure Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Reubens"
+     },
+     {
+      "@type": "Person",
+      "name": "E. G. Daily"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Holton"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Salinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Judd Omen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 902,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Pee-wee's Big Adventure (1985): Comedy/Adventure film. Story: The eccentric and childish Pee-wee Herman embarks on… See cast and budget $6M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Burton"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8qob0r37GT8YV3lA7pIfcnp0FBQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5683",
+    "name": "Pee-wee's Big Adventure",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1985-07-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5683"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pee-wee&#x27;s Big Adventure (1985)</h1>\n<p class=\"ssr-lead\">The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 July 1985</li><li>Runtime: 91 minutes</li><li>Director: Tim Burton</li><li>Genres: Comedy, Adventure, Family</li><li>Budget: $6M</li><li>TMDB rating: 6.5/10 (902 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Reubens as Pee-wee Herman</li><li>E. G. Daily as Dottie</li><li>Mark Holton as Francis</li><li>Diane Salinger as Simone</li><li>Judd Omen as Mickey</li><li>Irving Hellman as Mr. Crowtrey</li><li>Monte Landis as Mario</li><li>Damon Martin as Chip</li><li>Alice Nunn as Large Marge</li><li>David C. Glasser as BMX Kid</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Pee-wee's Big Adventure (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1985"
   },
   "movie:57283": {
    "d": "Häxan (1922): Documentary/Horror film. Story: Grave robbing, torture, possessed nuns, and a satanic… See cast, budget $220.0k, and TMDB rating 7.6/10.",

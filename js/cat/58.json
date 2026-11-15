@@ -1,6 +1,6 @@
 {
  "bucket": "58",
- "count": 57,
+ "count": 62,
  "titles": {
   "movie:10258": {
    "backdrop_path": "/gdJ6j1hmt6dQgObWxDJAHUb58o6.jpg",
@@ -476,6 +476,124 @@
    "type": "movie",
    "vote_average": 6.821,
    "vote_count": 418
+  },
+  "movie:11258": {
+   "backdrop_path": "/tdo5GwYAsdRkYTTMpXM9aZu8DlH.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Jim",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Tom",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Karen",
+     "n": "Minnie Driver"
+    },
+    {
+     "c": "Sheriff Mike Collins",
+     "n": "Randy Quaid"
+    },
+    {
+     "c": "Uncle Charlie",
+     "n": "Ed Asner"
+    },
+    {
+     "c": "Doreen Sears",
+     "n": "Betty White"
+    },
+    {
+     "c": "Henry Sears",
+     "n": "Richard Dysart"
+    },
+    {
+     "c": "Mr. Mehlor",
+     "n": "Dann Florek"
+    },
+    {
+     "c": "Kenny",
+     "n": "Michael A. Goorjian"
+    },
+    {
+     "c": "Ray",
+     "n": "Ricky Harris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mikael Salomon"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
+   "id": 11258,
+   "industry": "world",
+   "origin_country": [
+    "DK",
+    "NZ",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An armored car driver tries to elude a gang of thieves while a flood ravages the countryside.",
+   "popularity": 2.9564,
+   "poster_path": "/ggMcOVSax4lBXjYqqQUJLCtrar3.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "DK",
+    "FR",
+    "JP",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-01-16",
+   "revenue": 19900000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A simple plan. An instant fortune. Just add water.",
+   "title": "Hard Rain",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.871,
+   "vote_count": 844
   },
   "movie:1146058": {
    "backdrop_path": "/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
@@ -1472,6 +1590,133 @@
    "type": "movie",
    "vote_average": 6.21,
    "vote_count": 419
+  },
+  "movie:16558": {
+   "backdrop_path": "/nmElbl3SyII4gJ8uo1jYYHFjmlK.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Claire Stenwick",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Ray Koval",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Howard Tully",
+     "n": "Tom Wilkinson"
+    },
+    {
+     "c": "Richard Garsik",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Jeff Bauer",
+     "n": "Tom McCarthy"
+    },
+    {
+     "c": "Duke Monahan",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Pam Frailes",
+     "n": "Kathleen Chalfant"
+    },
+    {
+     "c": "Ned Guston",
+     "n": "Wayne Duvall"
+    },
+    {
+     "c": "Barbara Bofferd",
+     "n": "Carrie Preston"
+    },
+    {
+     "c": "Boris Fetyov",
+     "n": "Oleg Stefan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tony Gilroy"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 16558,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two romantically involved government operatives Claire Stenwick and Ray Koval team up to manipulate a race between opposing corporations to corner the market on a medical innovation that will reap huge profits and allow them to lead an extravagant lifestyle together. They find themselves on opposing sides as corporate spies; however, as they each try to outdo the other, neither one can decide how far to trust the other in this high-stakes game of cat-and-mouse.",
+   "popularity": 2.8348,
+   "poster_path": "/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-03-18",
+   "revenue": 78176181,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "She's ex-CIA. He's ex-MI6. Together they're stealing a fortune.",
+   "title": "Duplicity",
+   "trailer": {
+    "key": "c_CNK9g9Kj0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 912
   },
   "movie:1662958": {
    "backdrop_path": "/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
@@ -3421,6 +3666,115 @@
    "vote_average": 7.0,
    "vote_count": 381
   },
+  "movie:520758": {
+   "backdrop_path": "/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ginger (voice)",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Rocky (voice)",
+     "n": "Zachary Levi"
+    },
+    {
+     "c": "Molly (voice)",
+     "n": "Bella Ramsey"
+    },
+    {
+     "c": "Bunty (voice)",
+     "n": "Imelda Staunton"
+    },
+    {
+     "c": "Mac (voice)",
+     "n": "Lynn Ferguson"
+    },
+    {
+     "c": "Fowler (voice)",
+     "n": "David Bradley"
+    },
+    {
+     "c": "Babs (voice)",
+     "n": "Jane Horrocks"
+    },
+    {
+     "c": "Nick (voice)",
+     "n": "Romesh Ranganathan"
+    },
+    {
+     "c": "Fetcher (voice)",
+     "n": "Daniel Mays"
+    },
+    {
+     "c": "Frizzle (voice)",
+     "n": "Josie Sedgwick-Davies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 7+",
+   "date_kind": "release",
+   "director": [
+    "Sam Fell"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 520758,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+   "popularity": 5.3663,
+   "poster_path": "/eImY0cjbH0bll8EXSqxqEZIZcmY.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-12-08",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This time, they're breaking in!",
+   "title": "Chicken Run: Dawn of the Nugget",
+   "trailer": {
+    "key": "_-Kz67kea8Q",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.924,
+   "vote_count": 970
+  },
   "movie:538858": {
    "backdrop_path": "/l0YKBu3LaehIFzBNjseLjx7MbaN.jpg",
    "budget": 0,
@@ -4276,6 +4630,219 @@
    "vote_average": 6.6,
    "vote_count": 353
   },
+  "movie:76758": {
+   "backdrop_path": "/ca0a79cbCGWJdan3SEBKkQBSwKi.jpg",
+   "budget": 94000000,
+   "cast": [
+    {
+     "c": "John Miller",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Yu Mo",
+     "n": "Ni Ni"
+    },
+    {
+     "c": "Shu",
+     "n": "Zhang Xinyi"
+    },
+    {
+     "c": "George Chen",
+     "n": "Huang Tianyuan"
+    },
+    {
+     "c": "Yi",
+     "n": "Han Xiting"
+    },
+    {
+     "c": "Ling",
+     "n": "Zhang Doudou"
+    },
+    {
+     "c": "Major Li",
+     "n": "Tong Dawei"
+    },
+    {
+     "c": "Mr. Meng",
+     "n": "Cao Kefan"
+    },
+    {
+     "c": "Colonel Hasegawa",
+     "n": "Atsuro Watabe"
+    },
+    {
+     "c": "Mosquito",
+     "n": "Yuan Yangchunzi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Zhang Yimou"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 76758,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety.",
+   "popularity": 2.5124,
+   "poster_path": "/7NVgVX663tdareijAiv0eLiLn6d.jpg",
+   "production_countries": [
+    "CN",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-12-15",
+   "revenue": 95311434,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fighting for freedom.",
+   "title": "The Flowers of War",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.419,
+   "vote_count": 942
+  },
   "movie:801058": {
    "backdrop_path": "/AcvxSLa140z7qgGQ8G2UjhcgVEY.jpg",
    "budget": 0,
@@ -4563,6 +5130,192 @@
    "type": "movie",
    "vote_average": 6.037,
    "vote_count": 340
+  },
+  "movie:9558": {
+   "backdrop_path": "/4SqkcTDow3cgXUsN2DC2RETbhAZ.jpg",
+   "budget": 5300000,
+   "cast": [
+    {
+     "c": "Frank White",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Dennis Gilley",
+     "n": "David Caruso"
+    },
+    {
+     "c": "Jimmy Jump",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Roy Bishop",
+     "n": "Victor Argo"
+    },
+    {
+     "c": "Thomas Flanigan",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Janet Julian"
+    },
+    {
+     "c": "Larry Wong",
+     "n": "Joey Chin"
+    },
+    {
+     "c": "Lance",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Joey Dalesio",
+     "n": "Paul Calderon"
+    },
+    {
+     "c": "Test Tube",
+     "n": "Steve Buscemi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Abel Ferrara"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 9558,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A former drug lord returns from prison determined to wipe out all his competition and distribute the profits of his operations to New York's poor and lower classes in this stylish and ultra violent modern twist on Robin Hood.",
+   "popularity": 4.2323,
+   "poster_path": "/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lWzSEjT62Ob0XIHXdN7G4OQWCAr.png",
+     "name": "BFI Player Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1990-07-18",
+   "revenue": 2554712,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Not everyone who runs a city is elected.",
+   "title": "King of New York",
+   "trailer": {
+    "key": "bt94pENFmjc",
+    "name": "US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.769,
+   "vote_count": 848
   },
   "movie:960258": {
    "backdrop_path": "/dvHKdXijoN1OEzGcPhd0eRvkfMd.jpg",

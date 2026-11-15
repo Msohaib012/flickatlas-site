@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 65,
+ "count": 68,
  "titles": {
   "movie:1061798": {
    "backdrop_path": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
@@ -490,6 +490,118 @@
    "type": "movie",
    "vote_average": 5.933,
    "vote_count": 373
+  },
+  "movie:11298": {
+   "backdrop_path": "/mv4fsd6dzuHynHkOtYgfOOYEBVy.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Karen White",
+     "n": "Dee Wallace"
+    },
+    {
+     "c": "Dr. George Waggner",
+     "n": "Patrick Macnee"
+    },
+    {
+     "c": "Chris",
+     "n": "Dennis Dugan"
+    },
+    {
+     "c": "R. William 'Bill' Neill",
+     "n": "Christopher Stone"
+    },
+    {
+     "c": "Terry Fisher",
+     "n": "Belinda Balaski"
+    },
+    {
+     "c": "Fred Francis",
+     "n": "Kevin McCarthy"
+    },
+    {
+     "c": "Erle Kenton",
+     "n": "John Carradine"
+    },
+    {
+     "c": "Sam Newfield",
+     "n": "Slim Pickens"
+    },
+    {
+     "c": "Marsha Quist",
+     "n": "Elisabeth Brooks"
+    },
+    {
+     "c": "Eddie Quist",
+     "n": "Robert Picardo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Dante"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 11298,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a bizarre and near fatal encounter with a serial killer, a newswoman is sent to a rehabilitation center whose inhabitants may not be what they seem.",
+   "popularity": 2.7735,
+   "poster_path": "/nRTonikdpMUYr3y3RXESLBhRUov.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1981-01-21",
+   "revenue": 17985893,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Imagine your worst fear a reality.",
+   "title": "The Howling",
+   "trailer": {
+    "key": "yI7qGLXZQJI",
+    "name": "The Howling - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.603,
+   "vote_count": 945
   },
   "movie:1140498": {
    "backdrop_path": "/argJlxQHbXAzyH8fKnjLfoEyDcd.jpg",
@@ -1361,6 +1473,111 @@
    "type": "movie",
    "vote_average": 6.458,
    "vote_count": 48
+  },
+  "movie:12498": {
+   "backdrop_path": "/crj92SZi5iOs0TJC6LScJw2iFMI.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Karl Childers",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Doyle Hargraves",
+     "n": "Dwight Yoakam"
+    },
+    {
+     "c": "Charles Bushman",
+     "n": "J.T. Walsh"
+    },
+    {
+     "c": "Vaughan Cunningham",
+     "n": "John Ritter"
+    },
+    {
+     "c": "Frank Wheatley",
+     "n": "Lucas Black"
+    },
+    {
+     "c": "Linda Wheatley",
+     "n": "Natalie Canerday"
+    },
+    {
+     "c": "Jerry Woolridge",
+     "n": "James Hampton"
+    },
+    {
+     "c": "Karl's Father",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Bill Cox",
+     "n": "Rick Dial"
+    },
+    {
+     "c": "Scooter Hodges",
+     "n": "Brent Briscoe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Billy Bob Thornton"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 12498,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
+   "popularity": 2.7587,
+   "poster_path": "/rioWUWXPFNSjwm9NO2aau9x0wlP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-08-30",
+   "revenue": 34100000,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A simple man. A difficult choice.",
+   "title": "Sling Blade",
+   "trailer": {
+    "key": "DfnPrMypS8U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.517,
+   "vote_count": 915
   },
   "movie:12598": {
    "backdrop_path": "/2y6qnUaICupt4epIdanjgsEzhv9.jpg",
@@ -3396,6 +3613,187 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 382
+  },
+  "movie:198": {
+   "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Maria Tura",
+     "n": "Carole Lombard"
+    },
+    {
+     "c": "Joseph Tura",
+     "n": "Jack Benny"
+    },
+    {
+     "c": "Lieut. Stanislav Sobinski",
+     "n": "Robert Stack"
+    },
+    {
+     "c": "Greenberg",
+     "n": "Felix Bressart"
+    },
+    {
+     "c": "Rawitch",
+     "n": "Lionel Atwill"
+    },
+    {
+     "c": "Professor Alexander Siletsky",
+     "n": "Stanley Ridges"
+    },
+    {
+     "c": "Col. Ehrhardt",
+     "n": "Sig Ruman"
+    },
+    {
+     "c": "Bronski",
+     "n": "Tom Dugan"
+    },
+    {
+     "c": "Producer Dobosh",
+     "n": "Charles Halton"
+    },
+    {
+     "c": "Actor-Adjutant",
+     "n": "George Lynn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ernst Lubitsch"
+   ],
+   "genres": [
+    "Comedy",
+    "War",
+    "Romance"
+   ],
+   "id": 198,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+   "popularity": 2.6911,
+   "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1942-03-06",
+   "revenue": 1500000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The Picture Everyone Wants to See",
+   "title": "To Be or Not to Be",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 886
   },
   "movie:26198": {
    "backdrop_path": "/yqDKFfyMnhmiXJgLHYeykU0iKqC.jpg",

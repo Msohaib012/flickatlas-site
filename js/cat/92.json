@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 49,
+ "count": 58,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -325,6 +325,292 @@
    "vote_average": 5.874,
    "vote_count": 186
   },
+  "movie:10692": {
+   "backdrop_path": "/nLr8MU3e4YVwdSMpzhtiKRsO79b.jpg",
+   "budget": 111000,
+   "cast": [
+    {
+     "c": "Henry",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Becky",
+     "n": "Tracy Arnold"
+    },
+    {
+     "c": "Otis",
+     "n": "Tom Towles"
+    },
+    {
+     "c": "Dead Woman / Dead Prostitute / Hooker #1",
+     "n": "Mary Demas"
+    },
+    {
+     "c": "Waitress",
+     "n": "Anne Bartoletti"
+    },
+    {
+     "c": "Dead Couple - Wife",
+     "n": "Elizabeth Kaden"
+    },
+    {
+     "c": "Dead Couple - Husband",
+     "n": "Ted Kaden"
+    },
+    {
+     "c": "Floating Woman",
+     "n": "Denise Sullivan"
+    },
+    {
+     "c": "Mall Shopper #1",
+     "n": "Anita Ores"
+    },
+    {
+     "c": "Mall Shopper #2",
+     "n": "Megan Ores"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "John McNaughton"
+   ],
+   "genres": [
+    "Crime",
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 10692,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer.",
+   "popularity": 2.552,
+   "poster_path": "/yIvaGoLc95R4noKPjfTYUvuV7qp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1986-09-24",
+   "revenue": 609939,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's not Freddy, he's not Jason...he's real.",
+   "title": "Henry: Portrait of a Serial Killer",
+   "trailer": {
+    "key": "qxxZ8yspQyw",
+    "name": "Henry: Portrait of a Serial Killer Trailer (John McNaughton, 1986)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 822
+  },
+  "movie:11092": {
+   "backdrop_path": "/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Rusty Sabich",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Raymond Horgan",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Sandy Stern",
+     "n": "Raúl Juliá"
+    },
+    {
+     "c": "Barbara Sabich",
+     "n": "Bonnie Bedelia"
+    },
+    {
+     "c": "Judge Larren Lyttle",
+     "n": "Paul Winfield"
+    },
+    {
+     "c": "Carolyn Polhemus",
+     "n": "Greta Scacchi"
+    },
+    {
+     "c": "Detective Dan Lipranzer",
+     "n": "John Spencer"
+    },
+    {
+     "c": "Tommy Molto",
+     "n": "Joe Grifasi"
+    },
+    {
+     "c": "Nico Della Guardia",
+     "n": "Tom Mardirosian"
+    },
+    {
+     "c": "Eugenia",
+     "n": "Anna Maria Horsford"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alan J. Pakula"
+   ],
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 11092,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.",
+   "popularity": 4.2994,
+   "poster_path": "/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1990-07-27",
+   "revenue": 221303188,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some people would kill for love.",
+   "title": "Presumed Innocent",
+   "trailer": {
+    "key": "1baqsbEddrY",
+    "name": "Presumed Innocent (1990)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.82,
+   "vote_count": 873
+  },
   "movie:1290792": {
    "backdrop_path": "/5CdoqLaj2VjMkfXMwUtUwziQJDX.jpg",
    "budget": 0,
@@ -474,6 +760,162 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 26
+  },
+  "movie:13092": {
+   "backdrop_path": "/vak4IwE0sZWBUEpmcoJJWYWXRgN.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Sidney Young",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Alison Olsen",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Lawrence Maddox",
+     "n": "Danny Huston"
+    },
+    {
+     "c": "Sophie Maes",
+     "n": "Megan Fox"
+    },
+    {
+     "c": "Clayton Harding",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Eleanor Johnson",
+     "n": "Gillian Anderson"
+    },
+    {
+     "c": "Vincent Lepak",
+     "n": "Max Minghella"
+    },
+    {
+     "c": "Bill Nathanson",
+     "n": "Jefferson Mays"
+    },
+    {
+     "c": "Richard Young",
+     "n": "Bill Paterson"
+    },
+    {
+     "c": "Mrs. Kowalski",
+     "n": "Miriam Margolyes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert B. Weide"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 13092,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Sidney Young is a down-on-his-luck journalist. Thanks to a stint involving a pig and a glitzy awards ceremony, Sidney turns his fortunes around, attracting the attention of Clayton Harding, editor of New York-based glossy magazine 'Sharps', and landing the holy grail of journalism jobs. The Brit jets off to the Big Apple and moves from one blunder to the next.",
+   "popularity": 2.8897,
+   "poster_path": "/8Xd1mO861aK2OirTbxZrODNhihW.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+     "name": "Rakuten TV",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-10-02",
+   "revenue": 17286299,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's across the pond, and out of his depth.",
+   "title": "How to Lose Friends & Alienate People",
+   "trailer": {
+    "key": "A37JEYMwgRU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.029,
+   "vote_count": 883
   },
   "movie:1316092": {
    "backdrop_path": "/xEc9tzMd1DETn0Zqv2psfBGO2pa.jpg",
@@ -793,6 +1235,121 @@
    "type": "movie",
    "vote_average": 6.385,
    "vote_count": 26
+  },
+  "movie:13492": {
+   "backdrop_path": "/tvcx12hEMeJMcKViZxIn6MxGC8e.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Goëtz",
+     "n": "Samuel Le Bihan"
+    },
+    {
+     "c": "Farid",
+     "n": "Chems Dahmani"
+    },
+    {
+     "c": "Yasmine",
+     "n": "Karina Testa"
+    },
+    {
+     "c": "Alex",
+     "n": "Aurélien Wiik"
+    },
+    {
+     "c": "Mr Bean",
+     "n": "Patrick Ligardes"
+    },
+    {
+     "c": "Tom",
+     "n": "David Saracino"
+    },
+    {
+     "c": "Eva",
+     "n": "Maud Forget"
+    },
+    {
+     "c": "Klaudia",
+     "n": "Amélie Daure"
+    },
+    {
+     "c": "Gilberte",
+     "n": "Estelle Lefébure"
+    },
+    {
+     "c": "La mere",
+     "n": "Rosine Favey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Xavier Gens"
+   ],
+   "genres": [
+    "Drama",
+    "Horror",
+    "Action",
+    "Thriller"
+   ],
+   "id": 13492,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "CH"
+   ],
+   "original_language": "fr",
+   "overview": "A gang of young thieves flee Paris during the violent aftermath of a political election, only to hole up at an Inn run by neo-Nazis.",
+   "popularity": 2.3455,
+   "poster_path": "/6GISAjE0XiSucmzXIhb1tdnV2yC.jpg",
+   "production_countries": [
+    "FR",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-07-01",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "What are your boundaries...",
+   "title": "Frontier(s)",
+   "trailer": {
+    "key": "GmmpJSiqU3Y",
+    "name": "UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.169,
+   "vote_count": 851
   },
   "movie:14092": {
    "backdrop_path": "/f7EQtjydqW0F76fUpBvxqxKskjd.jpg",
@@ -1302,6 +1859,167 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 384
+  },
+  "movie:1492": {
+   "backdrop_path": "/qIgplWrPzo2dpgDDqZKUYRQUOCP.jpg",
+   "budget": 47000000,
+   "cast": [
+    {
+     "c": "Christopher Columbus",
+     "n": "Gérard Depardieu"
+    },
+    {
+     "c": "Sanchez",
+     "n": "Armand Assante"
+    },
+    {
+     "c": "Queen Isabella",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Older Fernando",
+     "n": "Loren Dean"
+    },
+    {
+     "c": "Beatrix",
+     "n": "Ángela Molina"
+    },
+    {
+     "c": "Marchena",
+     "n": "Fernando Rey"
+    },
+    {
+     "c": "Adrian de Moxica",
+     "n": "Michael Wincott"
+    },
+    {
+     "c": "Captain Mendez",
+     "n": "Kevin Dunn"
+    },
+    {
+     "c": "Martín Alonso Pinzón",
+     "n": "Tchéky Karyo"
+    },
+    {
+     "c": "Santangel",
+     "n": "Frank Langella"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "History"
+   ],
+   "id": 1492,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "1492: Conquest of Paradise depicts Christopher Columbus’ discovery of The New World and his effect on the indigenous people.",
+   "popularity": 4.3956,
+   "poster_path": "/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg",
+   "production_countries": [
+    "FR",
+    "ES",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1992-08-09",
+   "revenue": 7191399,
+   "runtime": 154,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Centuries before the exploration of space, there was another voyage into the unknown.",
+   "title": "1492: Conquest of Paradise",
+   "trailer": {
+    "key": "bmnLrzG2zKw",
+    "name": "1492: Conquest of Paradise - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.287,
+   "vote_count": 966
   },
   "movie:1665092": {
    "backdrop_path": "/tKHaRVudYbGlO78UrjkWUtguB8N.jpg",
@@ -2940,6 +3658,182 @@
    "vote_average": 5.293,
    "vote_count": 400
   },
+  "movie:387592": {
+   "backdrop_path": "/o3XZUwX37gqhpoQcBpqturGTF3Z.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Dug (voice)",
+     "n": "Eddie Redmayne"
+    },
+    {
+     "c": "Lord Nooth (voice)",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Goona (voice)",
+     "n": "Maisie Williams"
+    },
+    {
+     "c": "Chief Bobnar (voice)",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Queen Oofeefa (voice)",
+     "n": "Miriam Margolyes"
+    },
+    {
+     "c": "Message Bird / Brian / Bryan / Gonad the Gaul (voice)",
+     "n": "Rob Brydon"
+    },
+    {
+     "c": "Dino / Jurgend (voice)",
+     "n": "Kayvan Novak"
+    },
+    {
+     "c": "Treebor (voice)",
+     "n": "Richard Ayoade"
+    },
+    {
+     "c": "Magma / Additional Voice (voice)",
+     "n": "Selina Griffiths"
+    },
+    {
+     "c": "Asbo (voice)",
+     "n": "Johnny Vegas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Nick Park"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 387592,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Dug, along with his sidekick Hognob, unite a cavemen tribe to save their hidden valley from being spoiled and, all together as a team, to face the menace of a mysterious and mighty enemy, on the turf of an ancient and sacred sport.",
+   "popularity": 2.35,
+   "poster_path": "/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg",
+   "production_countries": [
+    "GB",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-01-26",
+   "revenue": 53431158,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Bronze vs. stone - clash of the ages.",
+   "title": "Early Man",
+   "trailer": {
+    "key": "yb8KO-76l0k",
+    "name": "Trailer #4",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.129,
+   "vote_count": 908
+  },
   "movie:413992": {
    "backdrop_path": "/2gGug6mhhYn6sRrym91n3GAq88A.jpg",
    "budget": 0,
@@ -3268,6 +4162,120 @@
    "vote_average": 6.472,
    "vote_count": 453
   },
+  "movie:4192": {
+   "backdrop_path": "/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+   "budget": 7920000,
+   "cast": [
+    {
+     "c": "Hercule Poirot",
+     "n": "Peter Ustinov"
+    },
+    {
+     "c": "Louise Bourget",
+     "n": "Jane Birkin"
+    },
+    {
+     "c": "Linnet Ridgeway Doyle",
+     "n": "Lois Chiles"
+    },
+    {
+     "c": "Marie Van Schuyler",
+     "n": "Bette Davis"
+    },
+    {
+     "c": "Jacqueline de Bellefort",
+     "n": "Mia Farrow"
+    },
+    {
+     "c": "James Ferguson",
+     "n": "Jon Finch"
+    },
+    {
+     "c": "Rosalie Otterbourne",
+     "n": "Olivia Hussey"
+    },
+    {
+     "c": "Mr. Choudhury",
+     "n": "I.S. Johar"
+    },
+    {
+     "c": "Andrew Pennington",
+     "n": "George Kennedy"
+    },
+    {
+     "c": "Salome Otterbourne",
+     "n": "Angela Lansbury"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Guillermin"
+   ],
+   "genres": [
+    "Mystery"
+   ],
+   "id": 4192,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.",
+   "popularity": 4.1724,
+   "poster_path": "/7qEymSp6wCT19AJxb7T3u6aKpi1.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1978-09-29",
+   "revenue": 14560084,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "A murderer strikes on board the luxury Nile steamer Karnak – and Hercule Poirot faces his most baffling case.",
+   "title": "Death on the Nile",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.155,
+   "vote_count": 968
+  },
   "movie:42892": {
    "backdrop_path": "/7DvsXlSqZhPIVEVmutHo0YcxVgo.jpg",
    "budget": 0,
@@ -3355,6 +4363,119 @@
    "type": "movie",
    "vote_average": 6.412,
    "vote_count": 323
+  },
+  "movie:449992": {
+   "backdrop_path": "/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Ito",
+     "n": "Joe Taslim"
+    },
+    {
+     "c": "Arian",
+     "n": "Iko Uwais"
+    },
+    {
+     "c": "The Operator",
+     "n": "Julie Estelle"
+    },
+    {
+     "c": "Chien Wu",
+     "n": "Sunny Pang"
+    },
+    {
+     "c": "Reina",
+     "n": "Asha Kenyeri Bermudez"
+    },
+    {
+     "c": "Fatih",
+     "n": "Abimana Aryasatya"
+    },
+    {
+     "c": "'White Boy' Bobby",
+     "n": "Zack Lee"
+    },
+    {
+     "c": "Yohan",
+     "n": "Revaldo"
+    },
+    {
+     "c": "Wisnu",
+     "n": "Dimas Anggara"
+    },
+    {
+     "c": "Shinta",
+     "n": "Salvita Decorte"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Timo Tjahjanto"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 449992,
+   "industry": "world",
+   "origin_country": [
+    "ID",
+    "US"
+   ],
+   "original_language": "id",
+   "overview": "After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.",
+   "popularity": 3.7071,
+   "poster_path": "/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+   "production_countries": [
+    "ID",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-10-19",
+   "revenue": 0,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "fr",
+    "id"
+   ],
+   "status": "Released",
+   "tagline": "In search of salvation, he'll make the city rain blood.",
+   "title": "The Night Comes For Us",
+   "trailer": {
+    "key": "HfSisHrUTLM",
+    "name": "The Night Comes For Us | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.975,
+   "vote_count": 898
   },
   "movie:461992": {
    "backdrop_path": "/2Py1YSWpCA2gsZxl0bPk3sOrL37.jpg",
@@ -4667,6 +5788,182 @@
    "type": "movie",
    "vote_average": 6.803,
    "vote_count": 310
+  },
+  "movie:811592": {
+   "backdrop_path": "/srJ7haOhfykoPOYPQrstOaFem08.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jake Harris",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "Zoe Anderson",
+     "n": "Ashley Greene"
+    },
+    {
+     "c": "Jack Yorke",
+     "n": "Ryan Phillippe"
+    },
+    {
+     "c": "Brandon Whitaker",
+     "n": "Emmanuel Imani"
+    },
+    {
+     "c": "Danny Dietler",
+     "n": "Dino Kelly"
+    },
+    {
+     "c": "Lewis Ash",
+     "n": "Jack Parr"
+    },
+    {
+     "c": "Amin Mansur",
+     "n": "Waleed Elgadi"
+    },
+    {
+     "c": "Tom Shields",
+     "n": "Terence Maynard"
+    },
+    {
+     "c": "Hakim Charef",
+     "n": "Jess Liaudin"
+    },
+    {
+     "c": "Adamat",
+     "n": "Andrei Maniata"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "James Nunn"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime",
+    "War"
+   ],
+   "id": 811592,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An elite squad of Navy SEALs, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.",
+   "popularity": 2.8596,
+   "poster_path": "/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-01-10",
+   "revenue": 53600000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Escape is just the beginning.",
+   "title": "One Shot",
+   "trailer": {
+    "key": "8PmV8GFrZzo",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 966
   },
   "movie:876792": {
    "backdrop_path": "/g03h9TULzJZOoXA34Abp5LE7lvt.jpg",

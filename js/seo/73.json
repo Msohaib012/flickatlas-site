@@ -1,6 +1,6 @@
 {
  "bucket": "73",
- "count": 63,
+ "count": 71,
  "titles": {
   "movie:1024773": {
    "d": "It Lives Inside (2023): Horror/Mystery film. Story: Desperate to fit in at school, Sam rejects her Indian… See cast and TMDB rating 5.6/10.",
@@ -258,6 +258,70 @@
    "t": "The Silent Hour (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
   },
+  "movie:10973": {
+   "d": "Creature from the Black Lagoon (1954): Adventure/Horror film. Story: When scientists exploring the Amazon River stumble on… See cast and budget $650.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
+   "industry": "world",
+   "k": "Creature from the Black Lagoon, Creature from the Black Lagoon movie, Creature from the Black Lagoon cast, Creature from the Black Lagoon story, Creature from the Black Lagoon box office collection, Creature from the Black Lagoon budget, Creature from the Black Lagoon review, Creature from the Black Lagoon rating, Creature from the Black Lagoon release date, Creature from the Black Lagoon Adventure, Creature from the Black Lagoon Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Richard Carlson"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Denning"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Moreno"
+     },
+     {
+      "@type": "Person",
+      "name": "Nestor Paiva"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 911,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Creature from the Black Lagoon (1954): Adventure/Horror film. Story: When scientists exploring the Amazon River stumble on… See cast and budget $650.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jack Arnold"
+     }
+    ],
+    "duration": "PT79M",
+    "genre": [
+     "Adventure",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10973",
+    "name": "Creature from the Black Lagoon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1954-03-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10973"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Creature from the Black Lagoon (1954)</h1>\n<p class=\"ssr-lead\">When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist&#x27;s beautiful fiancée, Kay.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 1954</li><li>Runtime: 79 minutes</li><li>Director: Jack Arnold</li><li>Genres: Adventure, Horror, Science Fiction</li><li>Budget: $650.0k</li><li>TMDB rating: 6.8/10 (911 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard Carlson as Dr. David Reed</li><li>Julie Adams as Kay Lawrence</li><li>Richard Denning as Dr. Mark Williams</li><li>Antonio Moreno as Dr. Carl Maia</li><li>Nestor Paiva as Captain Lucas</li><li>Whit Bissell as Dr. Edwin Thompson</li><li>Bernie Gozier as Zee</li><li>Henry A. Escalante as Chico</li><li>Ricou Browning as The Gill Man In Water (uncredited)</li><li>Art Gilmore as Narrator (voice) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Creature from the Black Lagoon (1954) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1954"
+  },
   "movie:1122573": {
    "d": "In the Grey (2026): Action/Crime film. Story: A covert team of elite operatives are living in the… See cast, budget $70M, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
@@ -322,6 +386,70 @@
    "t": "In the Grey (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:11673": {
+   "d": "Cyrano de Bergerac (1990): Drama/Comedy film. Story: Famed swordsman and poet Cyrano de Bergerac is in… See cast and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+   "industry": "world",
+   "k": "Cyrano de Bergerac, Cyrano de Bergerac movie, Cyrano de Bergerac cast, Cyrano de Bergerac story, Cyrano de Bergerac box office collection, Cyrano de Bergerac budget, Cyrano de Bergerac review, Cyrano de Bergerac rating, Cyrano de Bergerac release date, Cyrano de Bergerac Drama, Cyrano de Bergerac Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Depardieu"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Brochet"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Perez"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacques Weber"
+     },
+     {
+      "@type": "Person",
+      "name": "Roland Bertin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 862,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Cyrano de Bergerac (1990): Drama/Comedy film. Story: Famed swordsman and poet Cyrano de Bergerac is in… See cast and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jean-Paul Rappeneau"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11673",
+    "name": "Cyrano de Bergerac",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1990-03-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11673"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cyrano de Bergerac (1990)</h1>\n<p class=\"ssr-lead\">Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 March 1990</li><li>Runtime: 137 minutes</li><li>Director: Jean-Paul Rappeneau</li><li>Genres: Drama, Comedy, History, Romance</li><li>TMDB rating: 7.3/10 (862 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Depardieu as Cyrano de Bergerac</li><li>Anne Brochet as Madeleine &#x27;Roxane&#x27; Robin</li><li>Vincent Perez as Christian de Neuvillette</li><li>Jacques Weber as Count of Guiche</li><li>Roland Bertin as Ragueneau</li><li>Philippe Morier-Genoud as &#x27;Le Bret&#x27;</li><li>Pierre Maguelon as Carbon de Castel-Jaloux</li><li>Josiane Stoléru as The Duenna</li><li>Alain Rimoux as The Father</li><li>Anatole Delalande as The Child</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Cyrano de Bergerac (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1990"
+  },
   "movie:1196573": {
    "d": "She Rides Shotgun (2025): Action/Thriller film. Story: Newly released from prison and marked for death by… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
@@ -385,6 +513,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>She Rides Shotgun (2025)</h1>\n<p class=\"ssr-lead\">Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 July 2025</li><li>Runtime: 120 minutes</li><li>Director: Nick Rowland</li><li>Genres: Action, Thriller, Crime</li><li>TMDB rating: 7.0/10 (358 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Taron Egerton as Nathan Mcclusky</li><li>Ana Sophia Heger as Polly Huff</li><li>Rob Yang as John Park</li><li>Odessa A&#x27;zion as Charlotte</li><li>David Lyons as Jimmy</li><li>John Carroll Lynch as Houser</li><li>Keith Jardine as Magic</li><li>Jamie Bernadette as Mom at School</li><li>Goldie Tom as School Teacher</li><li>Kiko Sanchez as Motel Man No. 1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "She Rides Shotgun (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:11973": {
+   "d": "Thirteen Days (2000): History/Thriller film. Story: The story of the Cuban Missile Crisis in 1962—the… See cast, budget $80M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+   "industry": "world",
+   "k": "Thirteen Days, Thirteen Days movie, Thirteen Days cast, Thirteen Days story, Thirteen Days box office collection, Thirteen Days budget, Thirteen Days review, Thirteen Days rating, Thirteen Days release date, Thirteen Days trailer, Thirteen Days History, Thirteen Days Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Greenwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Culp"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Baker"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Fairman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 882,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Thirteen Days (2000): History/Thriller film. Story: The story of the Cuban Missile Crisis in 1962—the… See cast, budget $80M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Donaldson"
+     }
+    ],
+    "duration": "PT145M",
+    "genre": [
+     "History",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11973",
+    "name": "Thirteen Days",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11973"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Thirteen Days (2000)</h1>\n<p class=\"ssr-lead\">The story of the Cuban Missile Crisis in 1962—the nuclear standoff with the USSR sparked by the discovery by the Americans of missile bases established on the Soviet-allied island of Cuba.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2000</li><li>Runtime: 145 minutes</li><li>Director: Roger Donaldson</li><li>Genres: History, Thriller</li><li>Budget: $80M</li><li>TMDB rating: 7.0/10 (882 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as Kenneth O&#x27;Donnell</li><li>Bruce Greenwood as John F. Kennedy</li><li>Steven Culp as Robert F. Kennedy</li><li>Dylan Baker as Robert McNamara</li><li>Michael Fairman as Adlai Stevenson</li><li>Henry Strozier as Dean Rusk</li><li>Frank Wood as McGeorge Bundy</li><li>Kevin Conway as Gen. Curtis LeMay</li><li>Tim Kelleher as Ted Sorensen</li><li>Len Cariou as Dean Acheson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Thirteen Days (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:121873": {
    "d": "Hannah Arendt (2012): Drama film. Story: A portrait of the genius that shook the world with… See cast, TMDB rating 6.9/10, and release date 11 September 2012.",
@@ -1468,6 +1660,69 @@
    "t": "Saturn in Opposition (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:239573": {
+   "d": "Unfinished Business (2015): Comedy film. Story: A hard-working small business owner and his two… See cast, budget $35M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fPIuhCBHyAqZp93spcTTcABz13g.jpg",
+   "industry": "world",
+   "k": "Unfinished Business, Unfinished Business movie, Unfinished Business cast, Unfinished Business story, Unfinished Business box office collection, Unfinished Business budget, Unfinished Business review, Unfinished Business rating, Unfinished Business release date, Unfinished Business trailer, Unfinished Business Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vince Vaughn"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Sienna Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Wilkinson"
+     },
+     {
+      "@type": "Person",
+      "name": "James Marsden"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 909,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Unfinished Business (2015): Comedy film. Story: A hard-working small business owner and his two… See cast, budget $35M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Scott"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fPIuhCBHyAqZp93spcTTcABz13g.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=239573",
+    "name": "Unfinished Business",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-03-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=239573"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Unfinished Business (2015)</h1>\n<p class=\"ssr-lead\">A hard-working small business owner and his two associates travel to Europe to close the most important deal of their lives. But what began as a routine business trip goes off the rails in every imaginable – and unimaginable – way, including unplanned stops at a massive sex fetish event and a global economic summit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 March 2015</li><li>Runtime: 91 minutes</li><li>Director: Ken Scott</li><li>Genres: Comedy</li><li>Budget: $35M</li><li>TMDB rating: 5.5/10 (909 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vince Vaughn as Dan Trunkman</li><li>Dave Franco as Mike Pancake</li><li>Sienna Miller as Chuck Portnoy</li><li>Tom Wilkinson as Timothy McWinters</li><li>James Marsden as Jim Spinch</li><li>June Diane Raphael as Susan Trunkman</li><li>Nick Frost as Bill Whilmsley</li><li>Ella Anderson as Bess Trunkman</li><li>Anastasia Mousis Sanidopoulos as Farm Goer</li><li>Melissa McMeekin as National Rental Clerk</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Unfinished Business (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:25673": {
    "d": "A Place in the Sun (1951): Drama/Romance film. Story: A young social climber wins the heart of a beautiful… See cast, budget $2.3M, and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/49LzDsuSefYnEOaNjsoYLMUDn0r.jpg",
@@ -2041,6 +2296,70 @@
    "t": "The Miracle Season (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:429473": {
+   "d": "Lou (2022): Action/Thriller film. Story: A young girl is kidnapped during a powerful storm. See cast, TMDB rating 6.4/10, and release date 23 September 2022.",
+   "img": "https://image.tmdb.org/t/p/w780/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
+   "industry": "world",
+   "k": "Lou, Lou movie, Lou cast, Lou story, Lou box office collection, Lou budget, Lou review, Lou rating, Lou release date, Lou trailer, Lou Action, Lou Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Allison Janney"
+     },
+     {
+      "@type": "Person",
+      "name": "Jurnee Smollett-Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Logan Marshall-Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Ridley Asha Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Craven"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 817,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Lou (2022): Action/Thriller film. Story: A young girl is kidnapped during a powerful storm. See cast, TMDB rating 6.4/10, and release date 23 September 2022.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anna Foerster"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=429473",
+    "name": "Lou",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=429473"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lou (2022)</h1>\n<p class=\"ssr-lead\">A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2022</li><li>Runtime: 107 minutes</li><li>Director: Anna Foerster</li><li>Genres: Action, Thriller</li><li>TMDB rating: 6.4/10 (817 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Allison Janney as Lou</li><li>Jurnee Smollett-Bell as Hannah</li><li>Logan Marshall-Green as Philip</li><li>Ridley Asha Bateman as Vee</li><li>Matt Craven as Sheriff Rankin</li><li>Greyston Holt as Chris</li><li>Daniel Bernhardt as Tony</li><li>RJ Fetherstonhaugh as Gerry</li><li>Andres Collantes as Deputy Torres</li><li>Marci T. House as Agent Lee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Lou (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:452773": {
    "d": "Tad, the Lost Explorer, and the Secret of King Midas (2017): Animation/Adventure film. Story: Tad dreams of becoming an archaeologist traveling the… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/4Pv4JRqT7LT1F290JbbjQsaB6LD.jpg",
@@ -2492,6 +2811,70 @@
    "t": "The Colony (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:7873": {
+   "d": "Harsh Times (2005): Crime/Drama film. Story: Jim Davis is an ex-Army Ranger who finds himself… See cast, budget $2M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lwK1HY1ml8bnTaQJzzcKfe2q93O.jpg",
+   "industry": "world",
+   "k": "Harsh Times, Harsh Times movie, Harsh Times cast, Harsh Times story, Harsh Times box office collection, Harsh Times budget, Harsh Times review, Harsh Times rating, Harsh Times release date, Harsh Times Crime, Harsh Times Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Bale"
+     },
+     {
+      "@type": "Person",
+      "name": "Freddy Rodríguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Longoria"
+     },
+     {
+      "@type": "Person",
+      "name": "Chaka Forman"
+     },
+     {
+      "@type": "Person",
+      "name": "Tammy Trull"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 823,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Harsh Times (2005): Crime/Drama film. Story: Jim Davis is an ex-Army Ranger who finds himself… See cast, budget $2M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Ayer"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lwK1HY1ml8bnTaQJzzcKfe2q93O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7873",
+    "name": "Harsh Times",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7873"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Harsh Times (2005)</h1>\n<p class=\"ssr-lead\">Jim Davis is an ex-Army Ranger who finds himself slipping back into his old life of petty crime after a job offer from the LAPD evaporates. His best friend is pressured by his girlfriend Sylvia to find a job, but Jim is more interested in hanging out and making cash from small heists, while trying to get a law enforcement job so he can marry his Mexican girlfriend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2005</li><li>Runtime: 116 minutes</li><li>Director: David Ayer</li><li>Genres: Crime, Drama, Thriller, Action</li><li>Budget: $2M</li><li>TMDB rating: 6.4/10 (823 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Bale as Jim Luther Davis</li><li>Freddy Rodríguez as Mike Alonzo</li><li>Eva Longoria as Sylvia</li><li>Chaka Forman as Toussant</li><li>Tammy Trull as Marta</li><li>J.K. Simmons as Agent Richards</li><li>Michael Monks as Agent Hollenbeck</li><li>Samantha Esteban as Letty</li><li>Tania Verafield as Patty</li><li>Noel Gugliemi as Flaco</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Harsh Times (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:810873": {
    "d": "Single All the Way (2021): Romance/Comedy film. Story: Desperate to avoid his family’s judgment about his… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/2r0O6rOOSfsZ3bIpWTOt0Xabxkf.jpg",
@@ -2622,6 +3005,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>StreetDance 2 (2012)</h1>\n<p class=\"ssr-lead\">After suffering humiliation by the crew Invincible, street dancer Ash looks to gather the best dancers from around the world for a rematch.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 March 2012</li><li>Runtime: 85 minutes</li><li>Director: Max Giwa, Dania Pasquini</li><li>Genres: Music, Romance, Drama</li><li>TMDB rating: 6.2/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Falk Hentschel as Ash</li><li>Sofia Boutella as Eva</li><li>George Sampson as Eddie</li><li>Stephanie Nguyen</li><li>Delphine Nguyen</li><li>Niek Traa</li><li>Elisabetta Di Carlo</li><li>Samuel Revell</li><li>Kaito Masai</li><li>Ali Ramdani</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
    "t": "StreetDance 2 (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:88273": {
+   "d": "A Royal Affair (2012): Drama/History film. Story: A young queen falls in love with her physician, and… See cast, budget $8M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mcoZV42CxmW07Ob8ynDuZ7wKZSr.jpg",
+   "industry": "world",
+   "k": "A Royal Affair, A Royal Affair movie, A Royal Affair cast, A Royal Affair story, A Royal Affair box office collection, A Royal Affair budget, A Royal Affair review, A Royal Affair rating, A Royal Affair release date, A Royal Affair Drama, A Royal Affair History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alicia Vikander"
+     },
+     {
+      "@type": "Person",
+      "name": "Mads Mikkelsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mikkel Boe Følsgaard"
+     },
+     {
+      "@type": "Person",
+      "name": "Trine Dyrholm"
+     },
+     {
+      "@type": "Person",
+      "name": "David Dencik"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 970,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "A Royal Affair (2012): Drama/History film. Story: A young queen falls in love with her physician, and… See cast, budget $8M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nikolaj Arcel"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mcoZV42CxmW07Ob8ynDuZ7wKZSr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=88273",
+    "name": "A Royal Affair",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-03-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=88273"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Royal Affair (2012)</h1>\n<p class=\"ssr-lead\">A young queen falls in love with her physician, and they start a revolution that changes their nation forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 March 2012</li><li>Runtime: 137 minutes</li><li>Director: Nikolaj Arcel</li><li>Genres: Drama, History, Romance</li><li>Budget: $8M</li><li>TMDB rating: 7.3/10 (970 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alicia Vikander as Caroline Mathilde</li><li>Mads Mikkelsen as Johann Friedrich Struensee</li><li>Mikkel Boe Følsgaard as Christian VII</li><li>Trine Dyrholm as Juliane Marie</li><li>David Dencik as Ove Høegh-Guldberg</li><li>Thomas W. Gabrielsson as Schack Carl Rantzau</li><li>Cyron Melville as Enevold Brandt</li><li>Bent Mejding as J. H. E. Bernstoff</li><li>Harriet Walter as Augusta - Prinsesse af Wales</li><li>Laura Bro as Louise von Plessen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Royal Affair (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
   "movie:89673": {
@@ -2814,6 +3261,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Innocent (2022)</h1>\n<p class=\"ssr-lead\">Sylvie, a nearly sixty-year-old woman, has fallen in love with Michel, a thug she marries in prison. The couple dream of starting again with a clean slate by opening a flower shop. But Sylvie’s son Abel, convinced that Michel will fall into a life of crime, disapproves of this relationship.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2022</li><li>Runtime: 99 minutes</li><li>Director: Louis Garrel</li><li>Genres: Comedy, Crime, Romance</li><li>Budget: $4M</li><li>TMDB rating: 6.7/10 (384 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Garrel as Abel Lefranc</li><li>Roschdy Zem as Michel Ferrand</li><li>Noémie Merlant as Clémence Genièvre</li><li>Anouk Grinberg as Sylvie Lefranc</li><li>Jean-Claude Pautot as Jean-Paul</li><li>Yanisse Kebbab as Caviar truck driver</li><li>Léa Wiazemsky as Sylvie&#x27;s witness</li><li>Manda Touré as Woman at the aquarium</li><li>Olga Amelchenko as Maud</li><li>Romain Blachier as Chosen one at the first marriage</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Innocent (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9573": {
+   "d": "Blood Work (2002): Thriller/Crime film. Story: Still recovering from a heart transplant, a retired… See cast, budget $50M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6Jatq6wjJ4c2YbPkE5e5VzukEI2.jpg",
+   "industry": "world",
+   "k": "Blood Work, Blood Work movie, Blood Work cast, Blood Work story, Blood Work box office collection, Blood Work budget, Blood Work review, Blood Work rating, Blood Work release date, Blood Work trailer, Blood Work Thriller, Blood Work Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clint Eastwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Daniels"
+     },
+     {
+      "@type": "Person",
+      "name": "Anjelica Huston"
+     },
+     {
+      "@type": "Person",
+      "name": "Wanda De Jesus"
+     },
+     {
+      "@type": "Person",
+      "name": "Tina Lifford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 954,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Blood Work (2002): Thriller/Crime film. Story: Still recovering from a heart transplant, a retired… See cast, budget $50M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Clint Eastwood"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6Jatq6wjJ4c2YbPkE5e5VzukEI2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9573",
+    "name": "Blood Work",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9573"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blood Work (2002)</h1>\n<p class=\"ssr-lead\">Still recovering from a heart transplant, a retired FBI profiler returns to service when his own blood analysis offers clues to the identity of a serial killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2002</li><li>Runtime: 110 minutes</li><li>Director: Clint Eastwood</li><li>Genres: Thriller, Crime, Action, Mystery, Drama</li><li>Budget: $50M</li><li>TMDB rating: 6.2/10 (954 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clint Eastwood as Terry McCaleb</li><li>Jeff Daniels as Jasper &#x27;Buddy&#x27; Noone</li><li>Anjelica Huston as Dr. Bonnie Fox</li><li>Wanda De Jesus as Graciella Rivers</li><li>Tina Lifford as Detective Jaye Winston</li><li>Paul Rodríguez as Detective Ronaldo Arrango</li><li>Dylan Walsh as Detective John Waller</li><li>Mason Lucero as Raymond Torres</li><li>Gerry Becker as Mr. Toliver</li><li>Rick Hoffman as James Lockridge</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Blood Work (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:9973": {
    "d": "Air Buddies (2006): Adventure/Comedy film. Story: The offspring of sportsman canine Air Bud: B-Dawg… See cast, budget $9M, and TMDB rating 5.9/10.",

@@ -1,7 +1,71 @@
 {
  "bucket": "19",
- "count": 56,
+ "count": 62,
  "titles": {
+  "movie:10019": {
+   "d": "Mannequin (1987): Comedy/Romance film. Story: Jonathan Switcher, an unemployed artist, finds a job… See cast, budget $6M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rbYlmgMV96GcvTe700peiTH5JcS.jpg",
+   "industry": "world",
+   "k": "Mannequin, Mannequin movie, Mannequin cast, Mannequin story, Mannequin box office collection, Mannequin budget, Mannequin review, Mannequin rating, Mannequin release date, Mannequin Comedy, Mannequin Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew McCarthy"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Cattrall"
+     },
+     {
+      "@type": "Person",
+      "name": "Estelle Getty"
+     },
+     {
+      "@type": "Person",
+      "name": "James Spader"
+     },
+     {
+      "@type": "Person",
+      "name": "G.W. Bailey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 865,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Mannequin (1987): Comedy/Romance film. Story: Jonathan Switcher, an unemployed artist, finds a job… See cast, budget $6M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Gottlieb"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rbYlmgMV96GcvTe700peiTH5JcS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10019",
+    "name": "Mannequin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10019"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mannequin (1987)</h1>\n<p class=\"ssr-lead\">Jonathan Switcher, an unemployed artist, finds a job as an assistant window dresser for a department store. When Jonathan happens upon a beautiful mannequin he previously designed, she springs to life and introduces herself as Emmy, an Egyptian under an ancient spell. Despite interference from the store&#x27;s devious manager, Jonathan and his mannequin fall in love while creating eye-catching window displays to keep the struggling store in business.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 1987</li><li>Runtime: 89 minutes</li><li>Director: Michael Gottlieb</li><li>Genres: Comedy, Romance, Fantasy</li><li>Budget: $6M</li><li>TMDB rating: 6.9/10 (865 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew McCarthy as Jonathan Switcher</li><li>Kim Cattrall as Ema &#x27;Emmy&#x27; Hesire</li><li>Estelle Getty as Claire Prince Timkin</li><li>James Spader as Mr. Richards</li><li>G.W. Bailey as Captain Felix Maxwell</li><li>Carole Davis as Roxie Shield</li><li>Meshach Taylor as Hollywood</li><li>Steve Vinovich as B.J. Wert</li><li>Christopher Maher as Armand</li><li>Phyllis Newman as Emmy&#x27;s Mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
+   "t": "Mannequin (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
+  },
   "movie:1010819": {
    "d": "The Little Guy (2022): Animation/Family film. Story: Groot discovers a miniature civilization that… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
@@ -129,6 +193,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Fantastic Fear of Everything (2012)</h1>\n<p class=\"ssr-lead\">Jack is a children&#x27;s author turned crime novelist whose detailed research into the lives of Victorian serial killers has turned him into a paranoid wreck, persecuted by the irrational fear of being murdered. When Jack is thrown a life-line by his long-suffering agent and a mysterious Hollywood executive takes a sudden and inexplicable interest in his script, what should be his big break rapidly turns into his big breakdown, as Jack is forced to confront his worst demons; among them his love life, his laundry and the origin of all fear.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 June 2012</li><li>Runtime: 100 minutes</li><li>Director: Crispian Mills</li><li>Genres: Comedy, Thriller, Horror</li><li>Budget: $1.5M</li><li>TMDB rating: 5.7/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Pegg as Jack</li><li>Paul Freeman as Dr. Friedkin</li><li>Clare Higgins as Clair De Grunwald</li><li>Amara Karan as Sangeet</li><li>Alan Drake as Perkins</li><li>Michael Feast as Disgruntled Diner</li><li>Mo Idriss as Disgruntled Diner</li><li>Elliot Greene as Biggie</li><li>Harley Kierans as Tiny</li><li>Kamal Onyiukah as Noodles</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "A Fantastic Fear of Everything (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
+  },
+  "movie:11219": {
+   "d": "The Trouble with Harry (1955): Comedy/Mystery film. Story: In a quiet Vermont village, a corpse creates… See cast, budget $1.2M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i5MaRm0FsJIpXVLAvrMsMt5YQ5p.jpg",
+   "industry": "world",
+   "k": "The Trouble with Harry, The Trouble with Harry movie, The Trouble with Harry cast, The Trouble with Harry story, The Trouble with Harry box office collection, The Trouble with Harry budget, The Trouble with Harry review, The Trouble with Harry rating, The Trouble with Harry release date, The Trouble with Harry Comedy, The Trouble with Harry Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Forsythe"
+     },
+     {
+      "@type": "Person",
+      "name": "Shirley MacLaine"
+     },
+     {
+      "@type": "Person",
+      "name": "Edmund Gwenn"
+     },
+     {
+      "@type": "Person",
+      "name": "Mildred Natwick"
+     },
+     {
+      "@type": "Person",
+      "name": "Mildred Dunnock"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 946,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Trouble with Harry (1955): Comedy/Mystery film. Story: In a quiet Vermont village, a corpse creates… See cast, budget $1.2M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alfred Hitchcock"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Comedy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i5MaRm0FsJIpXVLAvrMsMt5YQ5p.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11219",
+    "name": "The Trouble with Harry",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1955-10-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11219"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Trouble with Harry (1955)</h1>\n<p class=\"ssr-lead\">In a quiet Vermont village, a corpse creates unexpected chaos as several townspeople each believe they may be to blame.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 October 1955</li><li>Runtime: 99 minutes</li><li>Director: Alfred Hitchcock</li><li>Genres: Comedy, Mystery</li><li>Budget: $1.2M</li><li>TMDB rating: 7.0/10 (946 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Forsythe as Sam Marlowe</li><li>Shirley MacLaine as Jennifer Rogers</li><li>Edmund Gwenn as Captain Wiles</li><li>Mildred Natwick as Miss Gravely</li><li>Mildred Dunnock as Mrs. Wiggs</li><li>Jerry Mathers as Arnie Rogers</li><li>Royal Dano as Calvin Wiggs</li><li>Parker Fennelly as Millionaire</li><li>Barry Macollum as Tramp</li><li>Dwight Marfield as Dr. Greenbow</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Trouble with Harry (1955) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1955"
   },
   "movie:1143319": {
    "d": "Puppy Love (2023): Comedy/Romance film. Story: After a disastrous first date, wild-child Nicole and… See cast and TMDB rating 7.0/10.",
@@ -1586,6 +1714,70 @@
    "t": "Standing Tall (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:339419": {
+   "d": "Loving (2016): Drama/Romance film. Story: In 1958, in the state of Virginia, the idea of… See cast, budget $9M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zjvX2vJmm3f25JujVEp5DEu2eKi.jpg",
+   "industry": "world",
+   "k": "Loving, Loving movie, Loving cast, Loving story, Loving box office collection, Loving budget, Loving review, Loving rating, Loving release date, Loving trailer, Loving Drama, Loving Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joel Edgerton"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruth Negga"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Shannon"
+     },
+     {
+      "@type": "Person",
+      "name": "Marton Csokas"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Kroll"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 988,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Loving (2016): Drama/Romance film. Story: In 1958, in the state of Virginia, the idea of… See cast, budget $9M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Nichols"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zjvX2vJmm3f25JujVEp5DEu2eKi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=339419",
+    "name": "Loving",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=339419"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Loving (2016)</h1>\n<p class=\"ssr-lead\">In 1958, in the state of Virginia, the idea of interracial marriage was not only considered to be immoral to many, it was also illegal. When Richard and Mildred fall in love, they are aware of the eyes staring at them and the words said behind their backs. It&#x27;s when they get married, however, that words and looks become actions, and the two are arrested. The couple decide to take their case all of the way to the Supreme Court in order to fight for their love. Based on a true story.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2016</li><li>Runtime: 123 minutes</li><li>Director: Jeff Nichols</li><li>Genres: Drama, Romance</li><li>Budget: $9M</li><li>TMDB rating: 6.7/10 (988 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joel Edgerton as Richard Loving</li><li>Ruth Negga as Mildred Loving</li><li>Michael Shannon as Grey Villet</li><li>Marton Csokas as Sheriff Brooks</li><li>Nick Kroll as Bernie Cohen</li><li>Bill Camp as Frank Beazley</li><li>Sharon Blackwood as Lola Loving</li><li>Alano Miller as Raymond Green</li><li>Terri Abney as Garnet Jetter</li><li>David Jensen as Judge Bazile</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Loving (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:372519": {
    "d": "The Ten Commandments: The Movie (2016): Drama film. Story: Follows Moses leading and conducting the Hebrew… See cast, budget $39.31M, and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/v6bGT2CgGGs2oClMHMXUs1mgFY6.jpg",
@@ -1648,6 +1840,117 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Ten Commandments: The Movie (2016)</h1>\n<p class=\"ssr-lead\">Follows Moses leading and conducting the Hebrew people from the slavery of Egypt to the freedom towards the Promised Land according to the Ancient Testament Bible book of the Exodus. The story told like never before is faithful to the Scriptures.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2016</li><li>Runtime: 120 minutes</li><li>Director: Alexandre Avancini</li><li>Genres: Drama</li><li>Budget: $39.31M</li><li>TMDB rating: 7.2/10 (308 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Guilherme Winter as Moisés</li><li>Camila Rodrigues as Nefertari</li><li>Sergio Marone as Ramsés</li><li>Paulo Gorgulho as Anrão</li><li>Giselle Itié as Zípora</li><li>Vera Zimmermann as Henutmire</li><li>Denise Del Vecchio as Joquebede</li><li>Zé Carlos Machado as Seti I</li><li>Larissa Maciel as Miriã</li><li>Sidney Sampaio as Oseias/Josué</li></ul>\n</article>",
    "t": "The Ten Commandments: The Movie (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:40619": {
+   "d": "Day & Night (2010): Animation/Family film. Story: When Day, a sunny fellow, encounters Night, a… See cast, TMDB rating 7.7/10, and release date 17 June 2010.",
+   "img": "https://image.tmdb.org/t/p/w780/i05QKKn8GqAdmQSeAztxhuqN6dt.jpg",
+   "industry": "world",
+   "k": "Day & Night, Day & Night movie, Day & Night cast, Day & Night story, Day & Night box office collection, Day & Night budget, Day & Night review, Day & Night rating, Day & Night release date, Day & Night Animation, Day & Night Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Wayne Dyer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 984,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Day & Night (2010): Animation/Family film. Story: When Day, a sunny fellow, encounters Night, a… See cast, TMDB rating 7.7/10, and release date 17 June 2010.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Teddy Newton"
+     }
+    ],
+    "duration": "PT6M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i05QKKn8GqAdmQSeAztxhuqN6dt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=40619",
+    "name": "Day & Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-06-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=40619"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Day &amp; Night (2010)</h1>\n<p class=\"ssr-lead\">When Day, a sunny fellow, encounters Night, a stranger of distinctly darker moods, sparks fly! Day and Night are frightened and suspicious of each other at first, and quickly get off on the wrong foot. But as they discover each other&#x27;s unique qualities--and come to realize that each of them offers a different window onto the same world-the friendship helps both to gain a new perspective.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 June 2010</li><li>Runtime: 6 minutes</li><li>Director: Teddy Newton</li><li>Genres: Animation, Family, Comedy, Fantasy</li><li>TMDB rating: 7.7/10 (984 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Wayne Dyer as Radio Lecturer (voice) (archive sound) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Day & Night (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:424619": {
+   "d": "The Magic Tuche (2018): Comedy film. Story: After a groundbreaking presidential election, Jeff… See cast, budget $15M, and TMDB rating 5.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6aoaFsDMFGHcs7vf0CPViRvA7ww.jpg",
+   "industry": "world",
+   "k": "The Magic Tuche, The Magic Tuche movie, The Magic Tuche cast, The Magic Tuche story, The Magic Tuche box office collection, The Magic Tuche budget, The Magic Tuche review, The Magic Tuche rating, The Magic Tuche release date, The Magic Tuche trailer, The Magic Tuche Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean-Paul Rouve"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabelle Nanty"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Nadeau"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Lottin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 852,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "The Magic Tuche (2018): Comedy film. Story: After a groundbreaking presidential election, Jeff… See cast, budget $15M, and TMDB rating 5.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Baroux"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6aoaFsDMFGHcs7vf0CPViRvA7ww.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=424619",
+    "name": "The Magic Tuche",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-01-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=424619"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Magic Tuche (2018)</h1>\n<p class=\"ssr-lead\">After a groundbreaking presidential election, Jeff Tuche becomes the new President of France and moves in the Elysee with his family to govern the country.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 January 2018</li><li>Runtime: 92 minutes</li><li>Director: Olivier Baroux</li><li>Genres: Comedy</li><li>Budget: $15M</li><li>TMDB rating: 5.3/10 (852 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Paul Rouve as Jeff Tuche</li><li>Isabelle Nanty as Cathy Tuche</li><li>Claire Nadeau as Mamie Suze</li><li>Sarah Stern as Stéphanie Tuche</li><li>Pierre Lottin as Wilfried Tuche</li><li>Théo Fernandez as Donald Tuche</li><li>Scali Delpeyrat as Bernard Bichon, le secrétaire général de l&#x27;Élysée</li><li>Philippe Magnan as Président Papin</li><li>Nicolas Maury as Barna Bé</li><li>Stéphan Wojtowicz as Psy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Magic Tuche (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:431819": {
    "d": "Fireworks (2017): Animation/Romance film. Story: Moshimo, Japan. The annual fireworks festival is… See cast and TMDB rating 6.6/10.",
@@ -2168,6 +2471,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Nobody&#x27;s Fool (2018)</h1>\n<p class=\"ssr-lead\">After serving five years in prison, wild child Tanya looks to her buttoned-up, by-the-book sister Danica to help her get back on her feet. The feisty ex-con becomes suspicious and concerned when Danica tells her that she&#x27;s in a long-distance, online relationship with a mysterious man she&#x27;s never seen. As the polar opposites start to collide, Tanya soon discovers that her sibling&#x27;s picture-perfect life may not be what it seems.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2018</li><li>Runtime: 110 minutes</li><li>Director: Tyler Perry</li><li>Genres: Comedy, Romance</li><li>Budget: $19M</li><li>TMDB rating: 6.0/10 (300 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tiffany Haddish as Tanya</li><li>Tika Sumpter as Danica</li><li>Omari Hardwick as Frank</li><li>Amber Riley as Kalli</li><li>Whoopi Goldberg as Lola</li><li>Mehcad Brooks as Charlie</li><li>Missi Pyle as Lauren Meadows</li><li>Jon Rudnitsky as Benji</li><li>Courtney Henggeler as Hillary</li><li>Chris Rock as Lawrence</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Paramount Plus Premium, Paramount Plus Essential, Paramount+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Nobody's Fool (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:603119": {
+   "d": "The Silencing (2020): Thriller/Action film. Story: A reformed hunter becomes involved in a deadly game… See cast and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pmckm9bRKjUsCMVDwhnSi8dMMEl.jpg",
+   "industry": "world",
+   "k": "The Silencing, The Silencing movie, The Silencing cast, The Silencing story, The Silencing box office collection, The Silencing budget, The Silencing review, The Silencing rating, The Silencing release date, The Silencing Thriller, The Silencing Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nikolaj Coster-Waldau"
+     },
+     {
+      "@type": "Person",
+      "name": "Annabelle Wallis"
+     },
+     {
+      "@type": "Person",
+      "name": "Zahn McClarnon"
+     },
+     {
+      "@type": "Person",
+      "name": "Melanie Scrofano"
+     },
+     {
+      "@type": "Person",
+      "name": "Hero Fiennes Tiffin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 872,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Silencing (2020): Thriller/Action film. Story: A reformed hunter becomes involved in a deadly game… See cast and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robin Pront"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pmckm9bRKjUsCMVDwhnSi8dMMEl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=603119",
+    "name": "The Silencing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-07-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=603119"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Silencing (2020)</h1>\n<p class=\"ssr-lead\">A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 July 2020</li><li>Runtime: 93 minutes</li><li>Director: Robin Pront</li><li>Genres: Thriller, Action, Crime</li><li>TMDB rating: 6.5/10 (872 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nikolaj Coster-Waldau as Rayburn Swanson</li><li>Annabelle Wallis as Sheriff Alice Gustafson</li><li>Zahn McClarnon as Blackhawk</li><li>Melanie Scrofano as Debbie</li><li>Hero Fiennes Tiffin as Brooks</li><li>Patrick Garrow as Jim Needles</li><li>Danielle Ryan as Dr. Patel</li><li>Shaun Smyth as Dr. Boone</li><li>Charlotte Lindsay Marron as Molly</li><li>Brielle Robillard as Gwen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Silencing (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:618219": {
    "d": "Mosul (2019): War/Drama film. Story: When ISIS took their homes, families and city, one… See cast, TMDB rating 6.7/10, and release date 4 September 2019.",

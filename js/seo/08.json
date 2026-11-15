@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 53,
+ "count": 60,
  "titles": {
   "movie:10208": {
    "d": "Muppets from Space (1999): Family/Comedy film. Story: When Gonzo's breakfast cereal tells him that he's the… See cast, budget $24M, and TMDB rating 6.1/10.",
@@ -129,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Inferno (1999)</h1>\n<p class=\"ssr-lead\">Eddie Lomax is a drifter who has been in a suicidal funk since the death of his close friend Johnny. Riding his motorcycle into a small desert town where Johnny once lived, Lomax is confronted by a gang of toughs, who beat him and steal his bike. However, Lomax is not a man to take an injustice lying down, and soon he begins exacting a violent revenge on the men who stole his motorcycle, with local handyman Jubal Early lending a hand and several area ladies offering aid and comfort.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 September 1999</li><li>Runtime: 95 minutes</li><li>Director: John G. Avildsen</li><li>Genres: Action, Drama, Romance</li><li>Budget: $15M</li><li>TMDB rating: 6.2/10 (366 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Van Damme as Eddie Lomax</li><li>Pat Morita as Jubal Early</li><li>Danny Trejo as Johnny Six Toes</li><li>Gabrielle Fitzpatrick as Rhonda Reynolds</li><li>Larry Drake as Ramsey Hogan</li><li>Vincent Schiavelli as Mr. Singh</li><li>David &quot;Shark&quot; Fralick as Matt Hogan</li><li>Silas Weir Mitchell as Jesse Hogan</li><li>Jonathan Avildsen as Petey Hogan</li><li>Jaime Pressly as Dottie Matthews</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Inferno (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
+  },
+  "movie:11008": {
+   "d": "Major Payne (1995): Adventure/Comedy film. Story: Major Benson Winifred Payne is being discharged from… See cast, budget $31.1M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+   "industry": "world",
+   "k": "Major Payne, Major Payne movie, Major Payne cast, Major Payne story, Major Payne box office collection, Major Payne budget, Major Payne review, Major Payne rating, Major Payne release date, Major Payne trailer, Major Payne Adventure, Major Payne Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Damon Wayans"
+     },
+     {
+      "@type": "Person",
+      "name": "Karyn Parsons"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Martini"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "William Hickey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 954,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Major Payne (1995): Adventure/Comedy film. Story: Major Benson Winifred Payne is being discharged from… See cast, budget $31.1M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nick Castle"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11008",
+    "name": "Major Payne",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-03-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11008"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Major Payne (1995)</h1>\n<p class=\"ssr-lead\">Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin&#x27; machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school&#x27;s JROTC program, a bunch of ragtag losers with no hope.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 March 1995</li><li>Runtime: 95 minutes</li><li>Director: Nick Castle</li><li>Genres: Adventure, Comedy, Family</li><li>Budget: $31.1M</li><li>TMDB rating: 6.5/10 (954 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Damon Wayans as Major Payne</li><li>Karyn Parsons as Emily</li><li>Steven Martini as Cadet Alex Stone</li><li>Orlando Brown as Cadet Tiger</li><li>William Hickey as Dr. Phillips</li><li>Michael Ironside as Lt. Colonel Stone</li><li>Albert Hall as General Decker</li><li>Chris Owen as Cadet Wuliger</li><li>Andrew Leeds as Cadet Dotson</li><li>Joseph Blaire as Cadet Bryan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Major Payne (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:11508": {
    "d": "Addams Family Reunion (1998): Comedy/Horror film. Story: The Addams Family goes on a search for their… See cast and TMDB rating 4.8/10.",
@@ -322,6 +386,150 @@
    "t": "Ella McCay (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:12208": {
+   "d": "Casino Royale (1967): Adventure/Action film. Story: Sir James Bond is called back out of retirement to… See cast, budget $12M, and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bzd7Uph8qfAB3fi488rIE3x2pWg.jpg",
+   "industry": "world",
+   "k": "Casino Royale, Casino Royale movie, Casino Royale cast, Casino Royale story, Casino Royale box office collection, Casino Royale budget, Casino Royale review, Casino Royale rating, Casino Royale release date, Casino Royale Adventure, Casino Royale Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Sellers"
+     },
+     {
+      "@type": "Person",
+      "name": "Ursula Andress"
+     },
+     {
+      "@type": "Person",
+      "name": "David Niven"
+     },
+     {
+      "@type": "Person",
+      "name": "Orson Welles"
+     },
+     {
+      "@type": "Person",
+      "name": "Joanna Pettet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 877,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "Casino Royale (1967): Adventure/Action film. Story: Sir James Bond is called back out of retirement to… See cast, budget $12M, and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Val Guest"
+     },
+     {
+      "@type": "Person",
+      "name": "Ken Hughes"
+     },
+     {
+      "@type": "Person",
+      "name": "John Huston"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph McGrath"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Parrish"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bzd7Uph8qfAB3fi488rIE3x2pWg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12208",
+    "name": "Casino Royale",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1967-04-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12208"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Casino Royale (1967)</h1>\n<p class=\"ssr-lead\">Sir James Bond is called back out of retirement to stop SMERSH. In order to trick SMERSH, James thinks up the ultimate plan - that every agent will be named &#x27;James Bond&#x27;. One of the Bonds, whose real name is Evelyn Tremble is sent to take on Le Chiffre in a game of baccarat, but all the Bonds get more than they can handle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 April 1967</li><li>Runtime: 131 minutes</li><li>Director: Val Guest, Ken Hughes, John Huston, Joseph McGrath, Robert Parrish</li><li>Genres: Adventure, Action, Comedy</li><li>Budget: $12M</li><li>TMDB rating: 5.2/10 (877 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Sellers as Evelyn Tremble</li><li>Ursula Andress as Vesper Lynd</li><li>David Niven as James Bond</li><li>Orson Welles as Le Chiffre</li><li>Joanna Pettet as Mata Bond</li><li>Daliah Lavi as The Detainer</li><li>Woody Allen as Jimmy Bond</li><li>Deborah Kerr as Agent Mimi</li><li>William Holden as Ransome</li><li>Charles Boyer as Le Grand</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Casino Royale (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1967"
+  },
+  "movie:12508": {
+   "d": "Rock Star (2001): Music/Drama film. Story: A wannabe rock star who fronts a Pennsylvania-based… See cast, budget $57M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oImvpyBfpXQgFevXWrh1adswdOn.jpg",
+   "industry": "world",
+   "k": "Rock Star, Rock Star movie, Rock Star cast, Rock Star story, Rock Star box office collection, Rock Star budget, Rock Star review, Rock Star rating, Rock Star release date, Rock Star trailer, Rock Star Music, Rock Star Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Wahlberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Aniston"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominic West"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Bonham"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Pilson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 843,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Rock Star (2001): Music/Drama film. Story: A wannabe rock star who fronts a Pennsylvania-based… See cast, budget $57M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Herek"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Music",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oImvpyBfpXQgFevXWrh1adswdOn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12508",
+    "name": "Rock Star",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-09-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12508"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rock Star (2001)</h1>\n<p class=\"ssr-lead\">A wannabe rock star who fronts a Pennsylvania-based tribute band is devastated when his bandmates kick him out of the group he founded. Things begin to look up for Izzy when he is asked to join Steel Dragon, the heavy metal rockers he had been imitating for so long. This film is loosely based on the true story of the band Judas Priest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 2001</li><li>Runtime: 105 minutes</li><li>Director: Stephen Herek</li><li>Genres: Music, Drama, Comedy</li><li>Budget: $57M</li><li>TMDB rating: 6.7/10 (843 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Wahlberg as Chris &#x27;Izzy&#x27; Cole</li><li>Jennifer Aniston as Emily Poule</li><li>Dominic West as Kirk Cuddy</li><li>Jason Bonham as A.C.</li><li>Jeff Pilson as Jorgen</li><li>Zakk Wylde as Ghode</li><li>Timothy Spall as Mats, Steel Dragon Road Manager</li><li>Blas Elias as Donny Johnson</li><li>Nick Catanese as Xander Cummins</li><li>Brian Vander Ark as Ricki Bell</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Rock Star (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:1321008": {
    "d": "Black Box (2026): Horror/Thriller film. Story: Vero Airlines Flight 298 from New Orleans to Seattle… See cast, budget $1M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
@@ -449,6 +657,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Master of Disguise (2002)</h1>\n<p class=\"ssr-lead\">After the patriarch of the Disguisey family is kidnapped by Devlin Bowman in an attempt to steal the most precious treasures from around the world, Italian waiter Pistachio Disguisey utilizes his supernatural ability to disguise himself in an attempt to stop him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 August 2002</li><li>Runtime: 80 minutes</li><li>Director: Perry Andelin Blake</li><li>Genres: Comedy, Family, Fantasy, Adventure</li><li>Budget: $16M</li><li>TMDB rating: 4.0/10 (348 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dana Carvey as Pistachio Disguisey</li><li>Brent Spiner as Devlin Bowman</li><li>Jennifer Esposito as Jennifer Baker</li><li>Harold Gould as Grandfather Disguisey</li><li>James Brolin as Fabbrizio Disguisey</li><li>Austin Wolff as Barney Baker</li><li>Edie McClurg as Mother Disguisey</li><li>Maria Canals-Barrera as Sophia (as Maria Canals)</li><li>Robert Machray as Texas Man</li><li>Michael Bailey Smith as Henchman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Master of Disguise (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
+  },
+  "movie:1408208": {
+   "d": "Exit 8 (2025): Mystery/Thriller film. Story: A man trapped in an endless sterile subway passageway… See cast, budget $1.4M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+   "industry": "world",
+   "k": "Exit 8, Exit 8 movie, Exit 8 cast, Exit 8 story, Exit 8 box office collection, Exit 8 budget, Exit 8 review, Exit 8 rating, Exit 8 release date, Exit 8 trailer, Exit 8 Mystery, Exit 8 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kazunari Ninomiya"
+     },
+     {
+      "@type": "Person",
+      "name": "Yamato Kochi"
+     },
+     {
+      "@type": "Person",
+      "name": "Naru Asanuma"
+     },
+     {
+      "@type": "Person",
+      "name": "Kotone Hanase"
+     },
+     {
+      "@type": "Person",
+      "name": "Nana Komatsu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 927,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Exit 8 (2025): Mystery/Thriller film. Story: A man trapped in an endless sterile subway passageway… See cast, budget $1.4M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Genki Kawamura"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1408208",
+    "name": "Exit 8",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1408208"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Exit 8 (2025)</h1>\n<p class=\"ssr-lead\">A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary. If you discover an anomaly, turn back immediately. If you don’t, carry on. Then leave from Exit 8. But even a single oversight will send him back to the beginning. Will he ever reach his goal and escape this infinite corridor?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2025</li><li>Runtime: 95 minutes</li><li>Director: Genki Kawamura</li><li>Genres: Mystery, Thriller, Horror</li><li>Budget: $1.4M</li><li>TMDB rating: 7.0/10 (927 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kazunari Ninomiya as Lost Man</li><li>Yamato Kochi as Walking Man</li><li>Naru Asanuma as The Boy</li><li>Kotone Hanase as High School Student</li><li>Nana Komatsu as Lost Man&#x27;s Partner</li><li>Hirota Otsuka as Screaming Man on Train</li><li>Tara Nakashima as Mother on Train</li><li>Reo Soda as Child</li><li>Mikio Ueda as Man on Train</li><li>HIKAKIN as Passerby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Exit 8 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:1442908": {
    "d": "The Singers (2026): Music/Drama film. Story: An impromptu singing contest at a dive bar turns a… See cast and TMDB rating 6.8/10.",
@@ -1347,6 +1619,70 @@
    "t": "A Dog's Life (1918) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1918"
   },
+  "movie:39108": {
+   "d": "Dragon Ball Z: Wrath of the Dragon (1995): Animation/Action film. Story: The Z Warriors discover an unopenable music box and… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/b6u42A4TkZzv3TNhZfmfu5bjuFK.jpg",
+   "industry": "world",
+   "k": "Dragon Ball Z: Wrath of the Dragon, Dragon Ball Z: Wrath of the Dragon movie, Dragon Ball Z: Wrath of the Dragon cast, Dragon Ball Z: Wrath of the Dragon story, Dragon Ball Z: Wrath of the Dragon box office collection, Dragon Ball Z: Wrath of the Dragon budget, Dragon Ball Z: Wrath of the Dragon review, Dragon Ball Z: Wrath of the Dragon rating, Dragon Ball Z: Wrath of the Dragon release date, Dragon Ball Z: Wrath of the Dragon Animation, Dragon Ball Z: Wrath of the Dragon Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masako Nozawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Takeshi Kusao"
+     },
+     {
+      "@type": "Person",
+      "name": "Mayumi Tanaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiromi Tsuru"
+     },
+     {
+      "@type": "Person",
+      "name": "Masaharu Sato"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 828,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Dragon Ball Z: Wrath of the Dragon (1995): Animation/Action film. Story: The Z Warriors discover an unopenable music box and… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mitsuo Hashimoto"
+     }
+    ],
+    "duration": "PT51M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/b6u42A4TkZzv3TNhZfmfu5bjuFK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39108",
+    "name": "Dragon Ball Z: Wrath of the Dragon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-07-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39108"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Ball Z: Wrath of the Dragon (1995)</h1>\n<p class=\"ssr-lead\">The Z Warriors discover an unopenable music box and are told to open it with the Dragon Balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 July 1995</li><li>Runtime: 51 minutes</li><li>Director: Mitsuo Hashimoto</li><li>Genres: Animation, Action, Science Fiction</li><li>TMDB rating: 7.4/10 (828 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masako Nozawa as Son Goku / Son Gohan / Son Goten / Gotenks (voice)</li><li>Takeshi Kusao as Trunks / Gotenks (voice)</li><li>Mayumi Tanaka as Kuririn / Minoshia (voice)</li><li>Hiromi Tsuru as Bulma (voice)</li><li>Masaharu Sato as Kame Sennin / Shenlong (voice)</li><li>Yuko Minaguchi as Videl (voice)</li><li>Ryo Horikawa as Vegeta (voice)</li><li>Hiro Yuuki as Tapion / Sharpner (voice)</li><li>Juji Matsuda as Hoi (voice)</li><li>Nobuhiko Kazama as Robber (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Dragon Ball Z: Wrath of the Dragon (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
   "movie:400608": {
    "d": "Bo Burnham: Make Happy (2016): Comedy/Music film. Story: Combining his trademark wit and self-deprecating… See cast and TMDB rating 8.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
@@ -1658,6 +1994,69 @@
    "t": "Minamata (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:5708": {
+   "d": "Control (2007): Drama film. Story: The story of Joy Division’s lead singer Ian Curtis… See cast, budget $5M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
+   "industry": "world",
+   "k": "Control, Control movie, Control cast, Control story, Control box office collection, Control budget, Control review, Control rating, Control release date, Control Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Riley"
+     },
+     {
+      "@type": "Person",
+      "name": "Samantha Morton"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Maria Lara"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Anderson"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Kebbell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 989,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Control (2007): Drama film. Story: The story of Joy Division’s lead singer Ian Curtis… See cast, budget $5M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anton Corbijn"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5708",
+    "name": "Control",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-09-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5708"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Control (2007)</h1>\n<p class=\"ssr-lead\">The story of Joy Division’s lead singer Ian Curtis, from his schoolboy days in 1973 to his suicide on the eve of the band&#x27;s first American tour in 1980.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2007</li><li>Runtime: 122 minutes</li><li>Director: Anton Corbijn</li><li>Genres: Drama</li><li>Budget: $5M</li><li>TMDB rating: 7.5/10 (989 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Riley as Ian Curtis</li><li>Samantha Morton as Debbie Curtis</li><li>Alexandra Maria Lara as Annik Honoré</li><li>Joe Anderson as Hooky</li><li>Toby Kebbell as Rob Greton</li><li>Craig Parkinson as Tony Wilson</li><li>James Anthony Pearson as Bernard Sumner</li><li>Harry Treadaway as Steve Morris</li><li>Robert Shelly as Twinny</li><li>Andrew Sheridan as Terry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI</li></ul>\n</article>",
+   "t": "Control (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:617708": {
    "d": "La Llorona (2019): Thriller/Horror film. Story: Accused of the genocide of Mayan people, retired… See cast, TMDB rating 6.4/10, and release date 25 July 2019.",
    "img": "https://image.tmdb.org/t/p/w780/hXjK21t5S6WRR8HnG3apYpZ5lJW.jpg",
@@ -1848,6 +2247,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Hero (2021)</h1>\n<p class=\"ssr-lead\">Rahim is in prison because of a debt he was unable to repay. During a two-day leave, he tries to convince his creditor to withdraw his complaint against the payment of part of the sum. But things don&#x27;t go as planned. Is he truly a hero?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 December 2021</li><li>Runtime: 127 minutes</li><li>Director: Asghar Farhadi</li><li>Genres: Drama</li><li>TMDB rating: 7.3/10 (412 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amir Jadidi as Rahim Soltani</li><li>Mohsen Tanabandeh as Bahram</li><li>Sahar Goldoost as Farkhondeh</li><li>Fereshteh Sadr Orafaee as Mrs. Radmehr</li><li>Sarina Farhadi as Nazanin</li><li>Ehsan Goodarzi as Nad-e-Ali</li><li>Maryam Shahdaie as Malileh</li><li>Ali Reza Jahandideh as Hossein</li><li>Farrokh Nourbakht as Salehi</li><li>Mohammad Aghebati as Salehpour</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, MUBI, MUBI Amazon Channel, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "A Hero (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:726208": {
+   "d": "Don't Listen (2020): Drama/Horror film. Story: After a tragic turn of events at the new home he's… See cast, TMDB rating 6.4/10, and release date 24 July 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/h00iFXMpGuls2GEnXIGFzQUeaFr.jpg",
+   "industry": "world",
+   "k": "Don't Listen, Don't Listen movie, Don't Listen cast, Don't Listen story, Don't Listen box office collection, Don't Listen budget, Don't Listen review, Don't Listen rating, Don't Listen release date, Don't Listen Drama, Don't Listen Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rodolfo Sancho"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramón Barea"
+     },
+     {
+      "@type": "Person",
+      "name": "Nerea Barros"
+     },
+     {
+      "@type": "Person",
+      "name": "Belén Fabra"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Fernández"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 839,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Don't Listen (2020): Drama/Horror film. Story: After a tragic turn of events at the new home he's… See cast, TMDB rating 6.4/10, and release date 24 July 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ángel Gómez Hernández"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h00iFXMpGuls2GEnXIGFzQUeaFr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=726208",
+    "name": "Don't Listen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-07-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=726208"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Don&#x27;t Listen (2020)</h1>\n<p class=\"ssr-lead\">After a tragic turn of events at the new home he&#x27;s fixing up, Daniel hears a ghostly plea for help, spurring him to seek out a famous paranormal expert.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 July 2020</li><li>Runtime: 98 minutes</li><li>Director: Ángel Gómez Hernández</li><li>Genres: Drama, Horror, Thriller</li><li>TMDB rating: 6.4/10 (839 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rodolfo Sancho as Daniel</li><li>Ramón Barea as Germán</li><li>Nerea Barros as Sofia</li><li>Belén Fabra as Sara</li><li>Ana Fernández as Ruth</li><li>Lucas Blas as Eric</li><li>Beatriz Arjona as Psicóloga</li><li>Javier Botet as Cliente de librería</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Don't Listen (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:73108": {
    "d": "Teen Spirit (2011): Drama/Fantasy film. Story: Amber, a mean popular girl who gets electrocuted and… See cast and TMDB rating 5.9/10.",

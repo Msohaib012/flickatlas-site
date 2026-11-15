@@ -1,6 +1,6 @@
 {
  "bucket": "24",
- "count": 53,
+ "count": 60,
  "titles": {
   "movie:10424": {
    "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
@@ -397,6 +397,126 @@
    "vote_average": 5.452,
    "vote_count": 444
   },
+  "movie:11524": {
+   "backdrop_path": "/3pYudqkEC8rkjqpBw8pqoLUtGHe.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "Frank",
+     "n": "James Caan"
+    },
+    {
+     "c": "Jessie",
+     "n": "Tuesday Weld"
+    },
+    {
+     "c": "Leo Alderman",
+     "n": "Robert Prosky"
+    },
+    {
+     "c": "David 'Okla' Bertinneau",
+     "n": "Willie Nelson"
+    },
+    {
+     "c": "Barry Stratagakis",
+     "n": "Jim Belushi"
+    },
+    {
+     "c": "Vincent Attaglia",
+     "n": "Tom Signorelli"
+    },
+    {
+     "c": "Carl",
+     "n": "Dennis Farina"
+    },
+    {
+     "c": "Nick",
+     "n": "Nick Nickeas"
+    },
+    {
+     "c": "Mitch Kanoff",
+     "n": "W.R. Brown"
+    },
+    {
+     "c": "Guido",
+     "n": "Norm Tobin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Mann"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 11524,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+   "popularity": 3.7858,
+   "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1981-03-27",
+   "revenue": 11494812,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Tonight, his take home pay is $410,000... tax free.",
+   "title": "Thief",
+   "trailer": {
+    "key": "YDa_z0op7iU",
+    "name": "Official Sizzle",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.245,
+   "vote_count": 936
+  },
   "movie:12524": {
    "backdrop_path": "/xwlShstQ7tODGkJJQ2ddM2JoNMu.jpg",
    "budget": 18000000,
@@ -784,6 +904,169 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 348
+  },
+  "movie:14024": {
+   "backdrop_path": "/jpxKKX36mVUxV6gdOxPDSSsc2SA.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Teresa 'Terri' Fletcher",
+     "n": "Hilary Duff"
+    },
+    {
+     "c": "Jay Corgan",
+     "n": "Oliver James"
+    },
+    {
+     "c": "Simon Fletcher",
+     "n": "David Keith"
+    },
+    {
+     "c": "Engelbert  \"Kiwi\" Wilson",
+     "n": "Johnny Lewis"
+    },
+    {
+     "c": "Francis Fletcher",
+     "n": "Rita Wilson"
+    },
+    {
+     "c": "Denise Gilmore",
+     "n": "Dana Davis"
+    },
+    {
+     "c": "Robin Childers",
+     "n": "Lauren C. Mayhew"
+    },
+    {
+     "c": "Sloane",
+     "n": "Kat Dennings"
+    },
+    {
+     "c": "Paul Fletcher",
+     "n": "Jason Ritter"
+    },
+    {
+     "c": "Nina Fletcher",
+     "n": "Rebecca De Mornay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sean McNamara"
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "Romance",
+    "Family"
+   ],
+   "id": 14024,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A coming-of-age story centered around a small-town singer brokenhearted by the death of her brother in a car crash, who had secretly submitted her for a summer session at a performing arts academy in Los Angeles. In the academy, she experiences a whole new way of life in the big city, far from the small town lifestyle she's used to.",
+   "popularity": 1.8022,
+   "poster_path": "/89sfBkVOsgFRPs6uKaBtSMCDSv3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-08-10",
+   "revenue": 14867514,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Don't Hold Back ...Don't Give Up.",
+   "title": "Raise Your Voice",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.552,
+   "vote_count": 879
   },
   "movie:14324": {
    "backdrop_path": "/cRXcuLS1z0820eZ4mOXF08VEdZR.jpg",
@@ -1589,6 +1872,223 @@
    "vote_average": 7.8,
    "vote_count": 24
   },
+  "movie:196024": {
+   "backdrop_path": "/sdGy4hbcDil1vp0Wrw7UIHbJH5F.jpg",
+   "budget": 5650000,
+   "cast": [
+    {
+     "c": "Carl Mørck",
+     "n": "Nikolaj Lie Kaas"
+    },
+    {
+     "c": "Hafez el-Assad",
+     "n": "Fares Fares"
+    },
+    {
+     "c": "Merete Lynggaard",
+     "n": "Sonja Richter"
+    },
+    {
+     "c": "Uffe Lynggaard",
+     "n": "Mikkel Boe Følsgaard"
+    },
+    {
+     "c": "Marcus Jacobsen",
+     "n": "Søren Pilmark"
+    },
+    {
+     "c": "'Lasse'",
+     "n": "Peter Plaugborg"
+    },
+    {
+     "c": "Anker",
+     "n": "Per Scheel Krüger"
+    },
+    {
+     "c": "Hardy",
+     "n": "Troels Lyby"
+    },
+    {
+     "c": "Død mand",
+     "n": "Øyvind Fabricius Holm"
+    },
+    {
+     "c": "Nyhedsvært",
+     "n": "Divya Das"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Mikkel Nørgaard"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 196024,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "Denmark, 2013. Police officers Carl Mørck and Hafez el-Assad, sole members of Department Q, which is focused on closing cold cases, investigate the disappearance of politician Merete Lynggaard, vanished when she and her brother were traveling aboard a ferry five years ago.",
+   "popularity": 1.8197,
+   "poster_path": "/eYnZnDAnWNPrImvznLm7SUQQvAj.jpg",
+   "production_countries": [
+    "DK",
+    "DE",
+    "NO",
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Viaplay Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-10-03",
+   "revenue": 13700000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Nothing is forgotten forever",
+   "title": "The Keeper of Lost Causes",
+   "trailer": {
+    "key": "68sO1s9Hy70",
+    "name": "The Keeper of Lost Causes - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.038,
+   "vote_count": 871
+  },
   "movie:19824": {
    "backdrop_path": "/e0fWkS9iJkLV2jSZ5g2MF2iTIKS.jpg",
    "budget": 6000000,
@@ -2376,6 +2876,127 @@
    "vote_average": 6.227,
    "vote_count": 422
   },
+  "movie:250124": {
+   "backdrop_path": "/jUiH4T53kBjyflRgzVuD6aB8hQi.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Minnie Goetze",
+     "n": "Bel Powley"
+    },
+    {
+     "c": "Charlotte Worthington",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Monroe Rutherford",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Pascal MacCorkill",
+     "n": "Christopher Meloni"
+    },
+    {
+     "c": "Ricky Wasserman",
+     "n": "Austin Lyon"
+    },
+    {
+     "c": "Kimmie Minter",
+     "n": "Madeleine Waters"
+    },
+    {
+     "c": "Tabatha",
+     "n": "Margarita Levieva"
+    },
+    {
+     "c": "Chuck Saunders",
+     "n": "Quinn Nagle"
+    },
+    {
+     "c": "Gretel",
+     "n": "Abby Wait"
+    },
+    {
+     "c": "Burt",
+     "n": "John Parsons"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marielle Heller"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 250124,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Minnie Goetze is a 15-year-old aspiring comic-book artist, coming of age in the haze of the 1970s in San Francisco. Insatiably curious about the world around her, Minnie is a pretty typical teenage girl. Oh, except that she’s sleeping with her mother’s boyfriend.",
+   "popularity": 2.3918,
+   "poster_path": "/5YlUrdYKuscD7pwf3yy9duVLbui.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-08-07",
+   "revenue": 1477002,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "tr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sex, drugs, and recordings of it all.",
+   "title": "The Diary of a Teenage Girl",
+   "trailer": {
+    "key": "G2M9kqb5wVw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.562,
+   "vote_count": 816
+  },
   "movie:308024": {
    "backdrop_path": "/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
    "budget": 0,
@@ -2522,6 +3143,187 @@
    "type": "movie",
    "vote_average": 5.917,
    "vote_count": 379
+  },
+  "movie:318224": {
+   "backdrop_path": "/29VoISagzOfJcuuhFzKQg9ZmEUU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self - Interviewee",
+     "n": "Paul Haggis"
+    },
+    {
+     "c": "Self - Interviewee",
+     "n": "Jason Beghe"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Alex Gibney"
+    },
+    {
+     "c": "Self - Interviewee",
+     "n": "Lawrence Wright"
+    },
+    {
+     "c": "Sara Northrup (voice)",
+     "n": "Sherry Stringfield"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Katie Holmes"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Kirstie Alley"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Karen Black"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Jenna Elfman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Alex Gibney"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 318224,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The film profiles eight former members of the Church of Scientology, shining a light on how they attract true believers and the things they do in the name of religion.",
+   "popularity": 1.5035,
+   "poster_path": "/zWHQYR9srde9nZjU6Dot8qTjoni.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-01-25",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Going Clear: Scientology and the Prison of Belief",
+   "trailer": {
+    "key": "ixgd38EZIR0",
+    "name": "Going Clear: Scientology and the Prison of Belief - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.58,
+   "vote_count": 898
   },
   "movie:33624": {
    "backdrop_path": "/vLkWOUeqIt1HBxBwXM9Rg0zGc0X.jpg",
@@ -2732,6 +3534,163 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 444
+  },
+  "movie:398924": {
+   "backdrop_path": "/iVQifEAWEGA5ajuTjLFv3kFSIOK.jpg",
+   "budget": 21400000,
+   "cast": [
+    {
+     "c": "Joseph",
+     "n": "Dorian Le Clech"
+    },
+    {
+     "c": "Maurice",
+     "n": "Batyste Fleurial"
+    },
+    {
+     "c": "Roman",
+     "n": "Patrick Bruel"
+    },
+    {
+     "c": "Anna",
+     "n": "Elsa Zylberstein"
+    },
+    {
+     "c": "Ambroise Mancelier",
+     "n": "Bernard Campan"
+    },
+    {
+     "c": "Docteur Rosen",
+     "n": "Christian Clavier"
+    },
+    {
+     "c": "Ferdinand",
+     "n": "Kev Adams"
+    },
+    {
+     "c": "Henri",
+     "n": "César Domboy"
+    },
+    {
+     "c": "Albert",
+     "n": "Ilian Bergala"
+    },
+    {
+     "c": "Raoul Mancelier",
+     "n": "Émile Berling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Christian Duguay"
+   ],
+   "genres": [
+    "War",
+    "Drama"
+   ],
+   "id": 398924,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "CA",
+    "CZ"
+   ],
+   "original_language": "fr",
+   "overview": "At the beginning of the 1940s, in a France occupied by Nazi forces, lived the Jewish Joffo family. Happy and tight-knit, she sees her future darken when all members of the family are forced to wear the yellow star. Fearing the worst, the parents organized their family to flee to the free zone in the south of the country. Maurice, twelve years old, and Joseph, ten years old, will therefore leave alone in order to maximize their chances of finding their older brothers already settled in Nice.  The brothers left to their own devices demonstrate an incredible amount of cleverness, courage, and ingenuity to escape the enemy invasion and to try to reunite their family once again.",
+   "popularity": 1.9752,
+   "poster_path": "/kjVPBXfo7frULyUzQ8NRPAflP8G.jpg",
+   "production_countries": [
+    "BE",
+    "CA",
+    "CZ",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Chai Flicks"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png",
+     "name": "Chai Flicks",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-01-18",
+   "revenue": 10898998,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "yi",
+    "ru",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Home Is Where Family Is",
+   "title": "A Bag of Marbles",
+   "trailer": {
+    "key": "vIPluU4V03o",
+    "name": "A Bag of Marbles - Trailer (2017) HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 915
   },
   "movie:45324": {
    "backdrop_path": "/oRRUH6ckp2nQBexR4k6XQvKKcSE.jpg",
@@ -4259,6 +5218,124 @@
    "type": "movie",
    "vote_average": 5.847,
    "vote_count": 451
+  },
+  "movie:9824": {
+   "backdrop_path": "/nrLnodkGvswfPiuKfbdPZN8P5eI.jpg",
+   "budget": 68000000,
+   "cast": [
+    {
+     "c": "Mr. Furious / Roy",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Blue Raja / Jeffrey",
+     "n": "Hank Azaria"
+    },
+    {
+     "c": "Shoveler / Eddie",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Captain Amazing / Lance",
+     "n": "Greg Kinnear"
+    },
+    {
+     "c": "Invisible Boy",
+     "n": "Kel Mitchell"
+    },
+    {
+     "c": "Spleen",
+     "n": "Paul Reubens"
+    },
+    {
+     "c": "Bowler / Carol",
+     "n": "Janeane Garofalo"
+    },
+    {
+     "c": "Sphinx",
+     "n": "Wes Studi"
+    },
+    {
+     "c": "Monica",
+     "n": "Claire Forlani"
+    },
+    {
+     "c": "Casanova Frankenstein",
+     "n": "Geoffrey Rush"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kinka Usher"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 9824,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Champion City's hero Captain Amazing is kidnapped by the recently paroled supervillain Casanova Frankenstein, a trio of average, everyday superheroes -- Mr. Furious, the Shoveler and the Blue Raja -- assemble a new super team to save him.",
+   "popularity": 2.6268,
+   "poster_path": "/ciVSbFmDecOIwlxl9F6GhHVgCVJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-08-06",
+   "revenue": 29762011,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not your classic superheroes...they're the other guys.",
+   "title": "Mystery Men",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.891,
+   "vote_count": 966
   },
   "tv:107124": {
    "backdrop_path": "/kgEFD11dQdi8tCUgdNX1Ul02LlW.jpg",

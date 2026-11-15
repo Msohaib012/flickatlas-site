@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 49,
+ "count": 58,
  "titles": {
   "movie:1008392": {
    "d": "The Blackening (2023): Horror/Comedy film. Story: Seven black friends go away for the weekend, only to… See cast, budget $5M, and TMDB rating 5.8/10.",
@@ -194,6 +194,134 @@
    "t": "In the Blink of an Eye (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:10692": {
+   "d": "Henry: Portrait of a Serial Killer (1986): Crime/Horror film. Story: Arriving in Chicago, Henry moves in with ex-con… See cast and budget $111.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/nLr8MU3e4YVwdSMpzhtiKRsO79b.jpg",
+   "industry": "world",
+   "k": "Henry: Portrait of a Serial Killer, Henry: Portrait of a Serial Killer movie, Henry: Portrait of a Serial Killer cast, Henry: Portrait of a Serial Killer story, Henry: Portrait of a Serial Killer box office collection, Henry: Portrait of a Serial Killer budget, Henry: Portrait of a Serial Killer review, Henry: Portrait of a Serial Killer rating, Henry: Portrait of a Serial Killer release date, Henry: Portrait of a Serial Killer trailer, Henry: Portrait of a Serial Killer Crime, Henry: Portrait of a Serial Killer Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Rooker"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracy Arnold"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Towles"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Demas"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Bartoletti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 822,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Henry: Portrait of a Serial Killer (1986): Crime/Horror film. Story: Arriving in Chicago, Henry moves in with ex-con… See cast and budget $111.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John McNaughton"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Crime",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nLr8MU3e4YVwdSMpzhtiKRsO79b.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10692",
+    "name": "Henry: Portrait of a Serial Killer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-09-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10692"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Henry: Portrait of a Serial Killer (1986)</h1>\n<p class=\"ssr-lead\">Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 September 1986</li><li>Runtime: 83 minutes</li><li>Director: John McNaughton</li><li>Genres: Crime, Horror, Thriller, Drama</li><li>Budget: $111.0k</li><li>TMDB rating: 6.7/10 (822 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Rooker as Henry</li><li>Tracy Arnold as Becky</li><li>Tom Towles as Otis</li><li>Mary Demas as Dead Woman / Dead Prostitute / Hooker #1</li><li>Anne Bartoletti as Waitress</li><li>Elizabeth Kaden as Dead Couple - Wife</li><li>Ted Kaden as Dead Couple - Husband</li><li>Denise Sullivan as Floating Woman</li><li>Anita Ores as Mall Shopper #1</li><li>Megan Ores as Mall Shopper #2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Henry: Portrait of a Serial Killer (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
+  "movie:11092": {
+   "d": "Presumed Innocent (1990): Mystery/Crime film. Story: Rusty Sabich is a deputy prosecutor engaged in an… See cast, budget $22M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+   "industry": "world",
+   "k": "Presumed Innocent, Presumed Innocent movie, Presumed Innocent cast, Presumed Innocent story, Presumed Innocent box office collection, Presumed Innocent budget, Presumed Innocent review, Presumed Innocent rating, Presumed Innocent release date, Presumed Innocent trailer, Presumed Innocent Mystery, Presumed Innocent Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Harrison Ford"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Dennehy"
+     },
+     {
+      "@type": "Person",
+      "name": "Raúl Juliá"
+     },
+     {
+      "@type": "Person",
+      "name": "Bonnie Bedelia"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Winfield"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 873,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Presumed Innocent (1990): Mystery/Crime film. Story: Rusty Sabich is a deputy prosecutor engaged in an… See cast, budget $22M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan J. Pakula"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Mystery",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11092",
+    "name": "Presumed Innocent",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1990-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11092"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Presumed Innocent (1990)</h1>\n<p class=\"ssr-lead\">Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he&#x27;s accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 1990</li><li>Runtime: 127 minutes</li><li>Director: Alan J. Pakula</li><li>Genres: Mystery, Crime, Thriller</li><li>Budget: $22M</li><li>TMDB rating: 6.8/10 (873 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harrison Ford as Rusty Sabich</li><li>Brian Dennehy as Raymond Horgan</li><li>Raúl Juliá as Sandy Stern</li><li>Bonnie Bedelia as Barbara Sabich</li><li>Paul Winfield as Judge Larren Lyttle</li><li>Greta Scacchi as Carolyn Polhemus</li><li>John Spencer as Detective Dan Lipranzer</li><li>Joe Grifasi as Tommy Molto</li><li>Tom Mardirosian as Nico Della Guardia</li><li>Anna Maria Horsford as Eugenia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Presumed Innocent (1990) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1990"
+  },
   "movie:1290792": {
    "d": "One Spoon of Chocolate (2026): Action/Crime film. Story: After serving his country in the Army, Unique is… See cast and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/5CdoqLaj2VjMkfXMwUtUwziQJDX.jpg",
@@ -257,6 +385,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>One Spoon of Chocolate (2026)</h1>\n<p class=\"ssr-lead\">After serving his country in the Army, Unique is falsely accused of assault and sent to prison. Once released, Unique sets up shop in Ohio to restart his life, linking up with his only surviving relative, Ramsey. There’s something insidious happening in this town, though, as its racist sheriff and his crew of similarly bigoted acolytes all have a knack for violence and share a gruesome secret pertaining to a recent string of missing young Black men. When they set their sights on Unique and turn his life upside down, the former soldier has no choice but to bring the ruckus down on the sheriff and his goons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2026</li><li>Runtime: 114 minutes</li><li>Director: RZA</li><li>Genres: Action, Crime, Drama, Thriller</li><li>TMDB rating: 5.5/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shameik Moore as Randy &#x27;Unique&#x27; Joneson</li><li>Blair Underwood as Officer Beem</li><li>RJ Cyler as Ramsee Joneson</li><li>Paris Jackson as Darla</li><li>Emyri Crutchfield as Aretha</li><li>Michael Harney as Sheriff McLeoud</li><li>Harry Goodwins as Jimmy</li><li>Johnell Young as Dap</li><li>Rockmond Dunbar as Mr. Lindsey</li><li>Déjá Dee as Mrs. Lindsey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "One Spoon of Chocolate (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13092": {
+   "d": "How to Lose Friends & Alienate People (2008): Comedy/Romance film. Story: Sidney Young is a down-on-his-luck journalist. Thanks… See cast and budget $28M.",
+   "img": "https://image.tmdb.org/t/p/w780/vak4IwE0sZWBUEpmcoJJWYWXRgN.jpg",
+   "industry": "world",
+   "k": "How to Lose Friends & Alienate People, How to Lose Friends & Alienate People movie, How to Lose Friends & Alienate People cast, How to Lose Friends & Alienate People story, How to Lose Friends & Alienate People box office collection, How to Lose Friends & Alienate People budget, How to Lose Friends & Alienate People review, How to Lose Friends & Alienate People rating, How to Lose Friends & Alienate People release date, How to Lose Friends & Alienate People trailer, How to Lose Friends & Alienate People Comedy, How to Lose Friends & Alienate People Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Pegg"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirsten Dunst"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Huston"
+     },
+     {
+      "@type": "Person",
+      "name": "Megan Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Bridges"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 883,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "How to Lose Friends & Alienate People (2008): Comedy/Romance film. Story: Sidney Young is a down-on-his-luck journalist. Thanks… See cast and budget $28M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert B. Weide"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vak4IwE0sZWBUEpmcoJJWYWXRgN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13092",
+    "name": "How to Lose Friends & Alienate People",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13092"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>How to Lose Friends &amp; Alienate People (2008)</h1>\n<p class=\"ssr-lead\">Sidney Young is a down-on-his-luck journalist. Thanks to a stint involving a pig and a glitzy awards ceremony, Sidney turns his fortunes around, attracting the attention of Clayton Harding, editor of New York-based glossy magazine &#x27;Sharps&#x27;, and landing the holy grail of journalism jobs. The Brit jets off to the Big Apple and moves from one blunder to the next.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2008</li><li>Runtime: 110 minutes</li><li>Director: Robert B. Weide</li><li>Genres: Comedy, Romance, Drama</li><li>Budget: $28M</li><li>TMDB rating: 6.0/10 (883 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Pegg as Sidney Young</li><li>Kirsten Dunst as Alison Olsen</li><li>Danny Huston as Lawrence Maddox</li><li>Megan Fox as Sophie Maes</li><li>Jeff Bridges as Clayton Harding</li><li>Gillian Anderson as Eleanor Johnson</li><li>Max Minghella as Vincent Lepak</li><li>Jefferson Mays as Bill Nathanson</li><li>Bill Paterson as Richard Young</li><li>Miriam Margolyes as Mrs. Kowalski</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Rakuten TV, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "How to Lose Friends & Alienate People (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1316092": {
    "d": "“Wuthering Heights” (2026): Romance/Drama film. Story: Tragedy strikes when Heathcliff falls in love with… See cast, budget $80M, and TMDB rating 6.6/10.",
@@ -385,6 +577,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Erupcja (2026)</h1>\n<p class=\"ssr-lead\">A romantic vacation goes awry when a volcanic eruption strands Bethany and her boyfriend, Rob, in Warsaw, Poland. Taking the explosive event as a sign to ditch her baggage, Bethany reunites with her childhood friend, Nel, to traipse through lofts, clubs, and back alleys—all while becoming entangled in an emotional web that challenges her sense of self.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 2026</li><li>Runtime: 71 minutes</li><li>Director: Pete Ohs</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 6.4/10 (26 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charli xcx as Bethany</li><li>Lena Góra as Nel</li><li>Will Madden as Rob</li><li>Jeremy O. Harris as Claude</li><li>Agata Trzebuchowska as Ula</li><li>Maja Michnacka as Maja</li><li>Jan Lubaczewski as Jan</li><li>Jacek Zubiel as Narrator (voice)</li><li>Marcin Malisz as Partygoer</li><li>Anton Kolbasko as Partygoer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Erupcja (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13492": {
+   "d": "Frontier(s) (2007): Drama/Horror film. Story: A gang of young thieves flee Paris during the violent… See cast, budget $3M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tvcx12hEMeJMcKViZxIn6MxGC8e.jpg",
+   "industry": "world",
+   "k": "Frontier(s), Frontier(s) movie, Frontier(s) cast, Frontier(s) story, Frontier(s) box office collection, Frontier(s) budget, Frontier(s) review, Frontier(s) rating, Frontier(s) release date, Frontier(s) trailer, Frontier(s) Drama, Frontier(s) Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samuel Le Bihan"
+     },
+     {
+      "@type": "Person",
+      "name": "Chems Dahmani"
+     },
+     {
+      "@type": "Person",
+      "name": "Karina Testa"
+     },
+     {
+      "@type": "Person",
+      "name": "Aurélien Wiik"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Ligardes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 851,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Frontier(s) (2007): Drama/Horror film. Story: A gang of young thieves flee Paris during the violent… See cast, budget $3M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Xavier Gens"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tvcx12hEMeJMcKViZxIn6MxGC8e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13492",
+    "name": "Frontier(s)",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13492"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Frontier(s) (2007)</h1>\n<p class=\"ssr-lead\">A gang of young thieves flee Paris during the violent aftermath of a political election, only to hole up at an Inn run by neo-Nazis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2007</li><li>Runtime: 108 minutes</li><li>Director: Xavier Gens</li><li>Genres: Drama, Horror, Action, Thriller</li><li>Budget: $3M</li><li>TMDB rating: 6.2/10 (851 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samuel Le Bihan as Goëtz</li><li>Chems Dahmani as Farid</li><li>Karina Testa as Yasmine</li><li>Aurélien Wiik as Alex</li><li>Patrick Ligardes as Mr Bean</li><li>David Saracino as Tom</li><li>Maud Forget as Eva</li><li>Amélie Daure as Klaudia</li><li>Estelle Lefébure as Gilberte</li><li>Rosine Favey as La mere</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo</li></ul>\n</article>",
+   "t": "Frontier(s) (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:14092": {
    "d": "Ghost in the Shell 2.0 (2008): Action/Animation film. Story: In the year 2029, Section 9, a group of… See cast and TMDB rating 7.4/10.",
@@ -639,6 +895,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Warlords (2007)</h1>\n<p class=\"ssr-lead\">The civil war in China has ruined many lives including General Pang&#x27;s. A wounded General Pang is saved by a beautiful young woman along with two other men. Together they vow to eradicate the rebels.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2007</li><li>Runtime: 126 minutes</li><li>Director: Peter Chan</li><li>Genres: Action, Drama, History</li><li>Budget: $40M</li><li>TMDB rating: 6.8/10 (384 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jet Li as General Pang Qingyun</li><li>Andy Lau Tak-wah as Zhao Er-Hu</li><li>Takeshi Kaneshiro as Jiang Wu-Yang</li><li>Xu Jinglei as Lian</li><li>Wei Zongwan as Lord Chen</li><li>Ku Pao-ming as Lord Jiang</li><li>Wang Kuirong as Lord Di</li><li>Zhou Bo as Lu Da Shan</li><li>Guo Xiaodong as Huang Wen Jin</li><li>Shi Zhaoqi as He Kui</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Magnolia Selects Amazon Channel, Warriors and Gangsters Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Warlords (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:1492": {
+   "d": "1492: Conquest of Paradise (1992): Action/Adventure film. Story: 1492: Conquest of Paradise depicts Christopher… See cast, budget $47M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qIgplWrPzo2dpgDDqZKUYRQUOCP.jpg",
+   "industry": "world",
+   "k": "1492: Conquest of Paradise, 1492: Conquest of Paradise movie, 1492: Conquest of Paradise cast, 1492: Conquest of Paradise story, 1492: Conquest of Paradise box office collection, 1492: Conquest of Paradise budget, 1492: Conquest of Paradise review, 1492: Conquest of Paradise rating, 1492: Conquest of Paradise release date, 1492: Conquest of Paradise trailer, 1492: Conquest of Paradise Action, 1492: Conquest of Paradise Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gérard Depardieu"
+     },
+     {
+      "@type": "Person",
+      "name": "Armand Assante"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Loren Dean"
+     },
+     {
+      "@type": "Person",
+      "name": "Ángela Molina"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 966,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "1492: Conquest of Paradise (1992): Action/Adventure film. Story: 1492: Conquest of Paradise depicts Christopher… See cast, budget $47M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ridley Scott"
+     }
+    ],
+    "duration": "PT154M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qIgplWrPzo2dpgDDqZKUYRQUOCP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1492",
+    "name": "1492: Conquest of Paradise",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1492"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>1492: Conquest of Paradise (1992)</h1>\n<p class=\"ssr-lead\">1492: Conquest of Paradise depicts Christopher Columbus’ discovery of The New World and his effect on the indigenous people.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 1992</li><li>Runtime: 154 minutes</li><li>Director: Ridley Scott</li><li>Genres: Action, Adventure, Drama, History</li><li>Budget: $47M</li><li>TMDB rating: 6.3/10 (966 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Depardieu as Christopher Columbus</li><li>Armand Assante as Sanchez</li><li>Sigourney Weaver as Queen Isabella</li><li>Loren Dean as Older Fernando</li><li>Ángela Molina as Beatrix</li><li>Fernando Rey as Marchena</li><li>Michael Wincott as Adrian de Moxica</li><li>Kevin Dunn as Captain Mendez</li><li>Tchéky Karyo as Martín Alonso Pinzón</li><li>Frank Langella as Santangel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "1492: Conquest of Paradise (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
   },
   "movie:1665092": {
    "d": "Swallowed Star The Movie - Battle on Primal Star (2026): Animation/Adventure film. Story: During his training on the Original Star, Luo Feng… See cast.",
@@ -1408,6 +1728,70 @@
    "t": "Lolo (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:387592": {
+   "d": "Early Man (2018): Family/Comedy film. Story: Dug, along with his sidekick Hognob, unite a cavemen… See cast, budget $50M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o3XZUwX37gqhpoQcBpqturGTF3Z.jpg",
+   "industry": "world",
+   "k": "Early Man, Early Man movie, Early Man cast, Early Man story, Early Man box office collection, Early Man budget, Early Man review, Early Man rating, Early Man release date, Early Man trailer, Early Man Family, Early Man Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eddie Redmayne"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hiddleston"
+     },
+     {
+      "@type": "Person",
+      "name": "Maisie Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothy Spall"
+     },
+     {
+      "@type": "Person",
+      "name": "Miriam Margolyes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 908,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Early Man (2018): Family/Comedy film. Story: Dug, along with his sidekick Hognob, unite a cavemen… See cast, budget $50M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nick Park"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o3XZUwX37gqhpoQcBpqturGTF3Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=387592",
+    "name": "Early Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-01-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=387592"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Early Man (2018)</h1>\n<p class=\"ssr-lead\">Dug, along with his sidekick Hognob, unite a cavemen tribe to save their hidden valley from being spoiled and, all together as a team, to face the menace of a mysterious and mighty enemy, on the turf of an ancient and sacred sport.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 January 2018</li><li>Runtime: 89 minutes</li><li>Director: Nick Park</li><li>Genres: Family, Comedy, Animation, Adventure</li><li>Budget: $50M</li><li>TMDB rating: 6.1/10 (908 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eddie Redmayne as Dug (voice)</li><li>Tom Hiddleston as Lord Nooth (voice)</li><li>Maisie Williams as Goona (voice)</li><li>Timothy Spall as Chief Bobnar (voice)</li><li>Miriam Margolyes as Queen Oofeefa (voice)</li><li>Rob Brydon as Message Bird / Brian / Bryan / Gonad the Gaul (voice)</li><li>Kayvan Novak as Dino / Jurgend (voice)</li><li>Richard Ayoade as Treebor (voice)</li><li>Selina Griffiths as Magma / Additional Voice (voice)</li><li>Johnny Vegas as Asbo (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Early Man (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:413992": {
    "d": "Sweet Virginia (2017): Drama/Thriller film. Story: A former rodeo star, now a motel manager, meets a… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/2gGug6mhhYn6sRrym91n3GAq88A.jpg",
@@ -1540,6 +1924,69 @@
    "t": "StreetDance 3D (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:4192": {
+   "d": "Death on the Nile (1978): Mystery film. Story: As Hercule Poirot enjoys a luxurious cruise down the… See cast, budget $7.92M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+   "industry": "world",
+   "k": "Death on the Nile, Death on the Nile movie, Death on the Nile cast, Death on the Nile story, Death on the Nile box office collection, Death on the Nile budget, Death on the Nile review, Death on the Nile rating, Death on the Nile release date, Death on the Nile Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Peter Ustinov"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Birkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Lois Chiles"
+     },
+     {
+      "@type": "Person",
+      "name": "Bette Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Mia Farrow"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 968,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Death on the Nile (1978): Mystery film. Story: As Hercule Poirot enjoys a luxurious cruise down the… See cast, budget $7.92M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Guillermin"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4192",
+    "name": "Death on the Nile",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-09-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4192"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Death on the Nile (1978)</h1>\n<p class=\"ssr-lead\">As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 September 1978</li><li>Runtime: 140 minutes</li><li>Director: John Guillermin</li><li>Genres: Mystery</li><li>Budget: $7.92M</li><li>TMDB rating: 7.2/10 (968 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Ustinov as Hercule Poirot</li><li>Jane Birkin as Louise Bourget</li><li>Lois Chiles as Linnet Ridgeway Doyle</li><li>Bette Davis as Marie Van Schuyler</li><li>Mia Farrow as Jacqueline de Bellefort</li><li>Jon Finch as James Ferguson</li><li>Olivia Hussey as Rosalie Otterbourne</li><li>I.S. Johar as Mr. Choudhury</li><li>George Kennedy as Andrew Pennington</li><li>Angela Lansbury as Salome Otterbourne</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Death on the Nile (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
+  },
   "movie:42892": {
    "d": "Happy Family (2010): Comedy film. Story: A blocked screenwriter, Ezio, is trying to finish a… See cast, TMDB rating 6.4/10, and release date 26 March 2010.",
    "img": "https://image.tmdb.org/t/p/w780/7DvsXlSqZhPIVEVmutHo0YcxVgo.jpg",
@@ -1602,6 +2049,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Happy Family (2010)</h1>\n<p class=\"ssr-lead\">A blocked screenwriter, Ezio, is trying to finish a story about two off-kilter families thrown together when their teenage children announce they’re getting married. So Ezio writes himself into the story with a romantic part—a development his characters welcome, as they’ve got some ideas of their own for bigger and better roles.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2010</li><li>Runtime: 90 minutes</li><li>Director: Gabriele Salvatores</li><li>Genres: Comedy</li><li>TMDB rating: 6.4/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabio De Luigi as Ezio</li><li>Fabrizio Bentivoglio as Vincenzo</li><li>Margherita Buy as Margherita</li><li>Alice Croci as Marta</li><li>Valeria Bilello as Caterina</li><li>Diego Abatantuono as Marta&#x27;s Father</li><li>Carla Signoris as Marta&#x27;s Mother</li><li>Corinna Agustoni as Grandmother Anna</li><li>Gianmaria Biancuzzi as Filippo</li><li>Federica Fracassi as Federica</li></ul>\n</article>",
    "t": "Happy Family (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:449992": {
+   "d": "The Night Comes For Us (2018): Action/Crime film. Story: After sparing a girl's life during a massacre, an… See cast, budget $2M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+   "industry": "world",
+   "k": "The Night Comes For Us, The Night Comes For Us movie, The Night Comes For Us cast, The Night Comes For Us story, The Night Comes For Us box office collection, The Night Comes For Us budget, The Night Comes For Us review, The Night Comes For Us rating, The Night Comes For Us release date, The Night Comes For Us trailer, The Night Comes For Us Action, The Night Comes For Us Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joe Taslim"
+     },
+     {
+      "@type": "Person",
+      "name": "Iko Uwais"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Estelle"
+     },
+     {
+      "@type": "Person",
+      "name": "Sunny Pang"
+     },
+     {
+      "@type": "Person",
+      "name": "Asha Kenyeri Bermudez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 898,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Night Comes For Us (2018): Action/Crime film. Story: After sparing a girl's life during a massacre, an… See cast, budget $2M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Timo Tjahjanto"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=449992",
+    "name": "The Night Comes For Us",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-10-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=449992"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Night Comes For Us (2018)</h1>\n<p class=\"ssr-lead\">After sparing a girl&#x27;s life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 2018</li><li>Runtime: 121 minutes</li><li>Director: Timo Tjahjanto</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $2M</li><li>TMDB rating: 7.0/10 (898 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joe Taslim as Ito</li><li>Iko Uwais as Arian</li><li>Julie Estelle as The Operator</li><li>Sunny Pang as Chien Wu</li><li>Asha Kenyeri Bermudez as Reina</li><li>Abimana Aryasatya as Fatih</li><li>Zack Lee as &#x27;White Boy&#x27; Bobby</li><li>Revaldo as Yohan</li><li>Dimas Anggara as Wisnu</li><li>Salvita Decorte as Shinta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Night Comes For Us (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:461992": {
    "d": "Hostile (2018): Drama/Horror film. Story: Juliette, a lone survivor of an apocalyptic era… See cast, budget $1M, and TMDB rating 6.0/10.",
@@ -2178,6 +2689,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ferry (2021)</h1>\n<p class=\"ssr-lead\">Before he built a drug empire, Ferry Bouman returns to his hometown on a revenge mission that finds his loyalty tested — and a love that alters his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 May 2021</li><li>Runtime: 106 minutes</li><li>Director: Cecilia Verheyden</li><li>Genres: Crime, Drama, Action</li><li>TMDB rating: 6.8/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Lammers as Ferry Bouman</li><li>Elise Schaap as Danielle van Marken</li><li>Huub Stapel as Ralph Brink</li><li>Monic Hendrickx as Claudia Bouman</li><li>Raymond Thiry as John Zwart</li><li>Maarten Heijmans as Rico</li><li>Yannick van de Velde as Lars van Marken</li><li>Olaf Ait Tami as Robbert</li><li>Juliette van Ardenne as Keesje Bouman</li><li>Bob Stoop as Jack Bouman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Ferry (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:811592": {
+   "d": "One Shot (2022): Action/Thriller film. Story: An elite squad of Navy SEALs, on a covert mission to… See cast and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/srJ7haOhfykoPOYPQrstOaFem08.jpg",
+   "industry": "world",
+   "k": "One Shot, One Shot movie, One Shot cast, One Shot story, One Shot box office collection, One Shot budget, One Shot review, One Shot rating, One Shot release date, One Shot trailer, One Shot Action, One Shot Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Adkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Ashley Greene"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Phillippe"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuel Imani"
+     },
+     {
+      "@type": "Person",
+      "name": "Dino Kelly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 966,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "One Shot (2022): Action/Thriller film. Story: An elite squad of Navy SEALs, on a covert mission to… See cast and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Nunn"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/srJ7haOhfykoPOYPQrstOaFem08.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=811592",
+    "name": "One Shot",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-01-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=811592"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Shot (2022)</h1>\n<p class=\"ssr-lead\">An elite squad of Navy SEALs, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 January 2022</li><li>Runtime: 97 minutes</li><li>Director: James Nunn</li><li>Genres: Action, Thriller, Crime, War</li><li>TMDB rating: 6.7/10 (966 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Adkins as Jake Harris</li><li>Ashley Greene as Zoe Anderson</li><li>Ryan Phillippe as Jack Yorke</li><li>Emmanuel Imani as Brandon Whitaker</li><li>Dino Kelly as Danny Dietler</li><li>Jack Parr as Lewis Ash</li><li>Waleed Elgadi as Amin Mansur</li><li>Terence Maynard as Tom Shields</li><li>Jess Liaudin as Hakim Charef</li><li>Andrei Maniata as Adamat</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "One Shot (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:876792": {
    "d": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022): Animation/Fantasy film. Story: A long-running conspiracy is swirling over a… See cast.",

@@ -1,6 +1,6 @@
 {
  "bucket": "37",
- "count": 53,
+ "count": 60,
  "titles": {
   "movie:10337": {
    "backdrop_path": "/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
@@ -118,6 +118,169 @@
    "type": "movie",
    "vote_average": 6.342,
    "vote_count": 479
+  },
+  "movie:10837": {
+   "backdrop_path": "/rpFJFmZplfOp2JzpmsWzmX72hJK.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Scrooge (voice)",
+     "n": "Alan Young"
+    },
+    {
+     "c": "Launchpad (voice)",
+     "n": "Terence McGovern"
+    },
+    {
+     "c": "Huey / Dewey / Louie / Webby (voice)",
+     "n": "Russi Taylor"
+    },
+    {
+     "c": "Dijon (voice)",
+     "n": "Richard Libertini"
+    },
+    {
+     "c": "Merlock (voice)",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Mrs. Featherby (voice)",
+     "n": "June Foray"
+    },
+    {
+     "c": "Duckworth (voice)",
+     "n": "Chuck McCann"
+    },
+    {
+     "c": "Mrs. Beakley (voice)",
+     "n": "Joan Gerber"
+    },
+    {
+     "c": "Genie (voice)",
+     "n": "Rip Taylor"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Charlie Adler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Bob Hathcock"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 10837,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With his nephews and niece, everyone's favorite rich uncle, Scrooge McDuck, treks from his mansion home in Duckburg in search of the long-lost loot of the thief Collie Baba. But finding the goods isn't quite what it's \"quacked\" up to be! Their thrilling adventure leads to comical chaos, magical mayhem, and a lesson about what is far more valuable than money, gold and jewels.",
+   "popularity": 4.2255,
+   "poster_path": "/tXya1Z9SC51kNOHsFxRqL1GIBua.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1990-08-03",
+   "revenue": 18115724,
+   "runtime": 74,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.699,
+   "vote_count": 968
   },
   "movie:10937": {
    "backdrop_path": "/whKhDehBYjOlJboo3by0JTSQsjv.jpg",
@@ -2264,6 +2427,109 @@
    "vote_average": 6.203,
    "vote_count": 308
   },
+  "movie:18937": {
+   "backdrop_path": "/m58yUAi6CuHJ61eYGtSOaV996qn.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Kayley (voice)",
+     "n": "Jessalyn Gilsig"
+    },
+    {
+     "c": "Kayley (singing voice)",
+     "n": "Andrea Corr"
+    },
+    {
+     "c": "Garrett (voice)",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Garrett (singing voice)",
+     "n": "Bryan White"
+    },
+    {
+     "c": "Ruber (voice)",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Devon (voice)",
+     "n": "Eric Idle"
+    },
+    {
+     "c": "Cornwall (voice)",
+     "n": "Don Rickles"
+    },
+    {
+     "c": "Juliana (voice)",
+     "n": "Jane Seymour"
+    },
+    {
+     "c": "Juliana (singing voice)",
+     "n": "Céline Dion"
+    },
+    {
+     "c": "King Arthur (voice)",
+     "n": "Pierce Brosnan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Frederik Du Chau"
+   ],
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Drama",
+    "Romance",
+    "Family"
+   ],
+   "id": 18937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During the times of King Arthur, Kayley is a brave girl who dreams of following her late father as a Knight of the Round Table. The evil Ruber wants to invade Camelot and take the throne of King Arthur, and Kayley has to stop him.",
+   "popularity": 3.0966,
+   "poster_path": "/pLfFEQ9HTw0HRvBkW3nI9RUze03.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-05-15",
+   "revenue": 38210798,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Share the adventure, laughter and song in a land where magic was born and where wizards, knights and dragons still live.",
+   "title": "Quest for Camelot",
+   "trailer": {
+    "key": "m_UkUkRSJ50",
+    "name": "Quest for Camelot - Trailer F3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.842,
+   "vote_count": 878
+  },
   "movie:23637": {
    "backdrop_path": "/8feVoYD8Ps0p9qI5pmRPKXmLu52.jpg",
    "budget": 0,
@@ -2772,6 +3038,122 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 352
+  },
+  "movie:290637": {
+   "backdrop_path": "/hHwuzYiWtwxUw5Jf1Ue3ZPn04Vt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Kristen",
+     "n": "Sarah Wayne Callies"
+    },
+    {
+     "c": "Hannah",
+     "n": "Veronica Ferres"
+    },
+    {
+     "c": "Jordan",
+     "n": "Lyriq Bent"
+    },
+    {
+     "c": "Annie",
+     "n": "Lauren Beatty"
+    },
+    {
+     "c": "Ghost Annie",
+     "n": "Kalie Hunter"
+    },
+    {
+     "c": "Charlie",
+     "n": "Jack Fulton"
+    },
+    {
+     "c": "Blind Man",
+     "n": "Stephen McHattie"
+    },
+    {
+     "c": "Jane",
+     "n": "Susannah Hoffmann"
+    },
+    {
+     "c": "Angry Villager #1",
+     "n": "Mark Irvingsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Uli Edel"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 290637,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One year after his young son disappeared during a Halloween carnival, Mike Cole is haunted by eerie images and terrifying messages he can’t explain. Together with his estranged wife, he will stop at nothing to unravel the mystery and find their son—and, in doing so, he unearths a legend that refuses to remain buried in the past.",
+   "popularity": 2.171,
+   "poster_path": "/iHG1QcxaRCiFIdSK1HZA6zOEFsl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-09-16",
+   "revenue": 2160298,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil walks among us.",
+   "title": "Pay the Ghost",
+   "trailer": {
+    "key": "MwnEqB_DhLQ",
+    "name": "Pay The Ghost - International Trailer (2015) - Nicolas Cage Movie HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 845
   },
   "movie:310137": {
    "backdrop_path": "/bR9JE8Y5YNYIBqXaDQuTaWKv5B5.jpg",
@@ -4194,6 +4576,160 @@
    "vote_average": 5.638,
    "vote_count": 431
   },
+  "movie:50837": {
+   "backdrop_path": "/eN60BXsEWxFfgatPpYbGMVO5qdM.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "Martha",
+     "n": "Elizabeth Olsen"
+    },
+    {
+     "c": "Lucy",
+     "n": "Sarah Paulson"
+    },
+    {
+     "c": "Ted",
+     "n": "Hugh Dancy"
+    },
+    {
+     "c": "Patrick",
+     "n": "John Hawkes"
+    },
+    {
+     "c": "Watts",
+     "n": "Brady Corbet"
+    },
+    {
+     "c": "Zoe",
+     "n": "Louisa Krause"
+    },
+    {
+     "c": "Max",
+     "n": "Christopher Abbott"
+    },
+    {
+     "c": "Katie",
+     "n": "Maria Dizzia"
+    },
+    {
+     "c": "Sarah",
+     "n": "Julia Garner"
+    },
+    {
+     "c": "Bartender",
+     "n": "Adam David Thompson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sean Durkin"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 50837,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After several years of living with a cult, Martha finally escapes and calls her estranged sister, Lucy, for help. Martha finds herself at the quiet Connecticut home Lucy shares with her new husband, Ted, but the memories of what she experienced in the cult make peace hard to find. As flashbacks continue to torment her, Martha fails to shake a terrible sense of dread, especially in regard to the cult's manipulative leader.",
+   "popularity": 3.5505,
+   "poster_path": "/bgB4sa9UfCyGdamfKAZXyEWuAwR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-10-21",
+   "revenue": 3500000,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can get away, but you can never escape.",
+   "title": "Martha Marcy May Marlene",
+   "trailer": {
+    "key": "ERREgOobLOs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.567,
+   "vote_count": 864
+  },
   "movie:545237": {
    "backdrop_path": "/pbvsoMOOgzqJCpUCnHWwbZqw98D.jpg",
    "budget": 0,
@@ -4339,6 +4875,123 @@
    "vote_average": 6.1,
    "vote_count": 396
   },
+  "movie:6037": {
+   "backdrop_path": "/frM7pCS0vWnT1Utb81YyErmohmg.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lionel Twain",
+     "n": "Truman Capote"
+    },
+    {
+     "c": "Butler Jamesir Bensonmum",
+     "n": "Alec Guinness"
+    },
+    {
+     "c": "Sidney Wang",
+     "n": "Peter Sellers"
+    },
+    {
+     "c": "Dick Charleston",
+     "n": "David Niven"
+    },
+    {
+     "c": "Dora Charleston",
+     "n": "Maggie Smith"
+    },
+    {
+     "c": "Milo Perrier",
+     "n": "James Coco"
+    },
+    {
+     "c": "Sam Diamond",
+     "n": "Peter Falk"
+    },
+    {
+     "c": "Tess Skeffington",
+     "n": "Eileen Brennan"
+    },
+    {
+     "c": "Jessica Marbles",
+     "n": "Elsa Lanchester"
+    },
+    {
+     "c": "Nurse Withers",
+     "n": "Estelle Winwood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Moore"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 6037,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lionel Twain invites the world's five greatest detectives to a 'dinner and murder'. Included are a blind butler, a deaf-mute maid, screams, spinning rooms, secret passages, false identities and more plot turns and twists than are decently allowed.",
+   "popularity": 2.2483,
+   "poster_path": "/7YGYam05qzHy0ZSzfjBSDkVvvU7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1976-06-23",
+   "revenue": 32511047,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "By the time the world's greatest detectives figure out whodunnit... you could die laughing!",
+   "title": "Murder by Death",
+   "trailer": {
+    "key": "mXn8CsQU1-U",
+    "name": "Murder by Death - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 949
+  },
   "movie:68637": {
    "backdrop_path": "/obP94bLjEXGFWQumzkKlBb9Fmzi.jpg",
    "budget": 0,
@@ -4427,6 +5080,112 @@
    "type": "movie",
    "vote_average": 5.0,
    "vote_count": 425
+  },
+  "movie:73937": {
+   "backdrop_path": "/3WD1vyCtqMyqC6QZbDc0DblywNe.jpg",
+   "budget": 41000000,
+   "cast": [
+    {
+     "c": "Stu Preissler",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Brad Harris",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Kenny Bostick",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Raymond Harris",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Annie Auklet",
+     "n": "Anjelica Huston"
+    },
+    {
+     "c": "Ellie",
+     "n": "Rashida Jones"
+    },
+    {
+     "c": "Jessica",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "Brenda Harris",
+     "n": "Dianne Wiest"
+    },
+    {
+     "c": "Edith",
+     "n": "JoBeth Williams"
+    },
+    {
+     "c": "Bill Clemont",
+     "n": "Anthony Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Frankel"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 73937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three fanatical bird-watchers spend an entire year competing to spot the highest number of species as El Nino sends an extraordinary variety of rare breeds flying up into the U.S., but they quickly discover that there are more important things than coming out on top of the competition.",
+   "popularity": 2.9349,
+   "poster_path": "/q6Pr8fWKh664seri2MaQeIJ6eSI.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-10-13",
+   "revenue": 8200000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everyone is searching for something.",
+   "title": "The Big Year",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 926
   },
   "movie:740937": {
    "backdrop_path": "/p30hhjHTRFA08f3Bo3GENQCu6ST.jpg",
@@ -4729,6 +5488,112 @@
    "type": "movie",
    "vote_average": 5.269,
    "vote_count": 342
+  },
+  "movie:800937": {
+   "backdrop_path": "/3FJ53wbpjSAGY98KYiHJ4DQccDr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Stephanie Conway",
+     "n": "Rebel Wilson"
+    },
+    {
+     "c": "Seth Novacelik",
+     "n": "Sam Richardson"
+    },
+    {
+     "c": "Tiffany Blanchette-Balbo",
+     "n": "Zoë Chao"
+    },
+    {
+     "c": "Martha Reiser",
+     "n": "Mary Holland"
+    },
+    {
+     "c": "Blaine Balbo",
+     "n": "Justin Hartley"
+    },
+    {
+     "c": "Jim Conway",
+     "n": "Chris Parnell"
+    },
+    {
+     "c": "Young Stephanie Conway",
+     "n": "Angourie Rice"
+    },
+    {
+     "c": "Young Martha Reiser",
+     "n": "Molly Brown"
+    },
+    {
+     "c": "Young Seth Novacelik",
+     "n": "Zaire Adams"
+    },
+    {
+     "c": "Young Tiffany Blanchette",
+     "n": "Ana Yi Puig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Hardcastle"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 800937,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A 37-year-old woman wakes up from a 22-year coma, and returns to the high school where she was once a popular cheerleader to finish her senior year and become prom queen.",
+   "popularity": 2.4253,
+   "poster_path": "/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-05-11",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "High school has changed. But she hasn't.",
+   "title": "Senior Year",
+   "trailer": {
+    "key": "HCtDkpe89aY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.904,
+   "vote_count": 968
   },
   "movie:801937": {
    "backdrop_path": "/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",

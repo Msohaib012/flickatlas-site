@@ -1,6 +1,6 @@
 {
  "bucket": "45",
- "count": 61,
+ "count": 65,
  "titles": {
   "movie:10445": {
    "backdrop_path": "/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
@@ -1048,6 +1048,114 @@
    "vote_average": 5.5,
    "vote_count": 307
   },
+  "movie:1425045": {
+   "backdrop_path": "/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tim",
+     "n": "Matthias Schweighöfer"
+    },
+    {
+     "c": "Olivia",
+     "n": "Ruby O. Fee"
+    },
+    {
+     "c": "Marvin",
+     "n": "Frederick Lau"
+    },
+    {
+     "c": "Ana",
+     "n": "Salber Lee Williams"
+    },
+    {
+     "c": "Yuri",
+     "n": "Murathan Muslu"
+    },
+    {
+     "c": "Lea",
+     "n": "Sira-Anna Faal"
+    },
+    {
+     "c": "Oswalt",
+     "n": "Axel Werner"
+    },
+    {
+     "c": "Friedman",
+     "n": "Alexander Beyer"
+    },
+    {
+     "c": "Anton",
+     "n": "Josef Berousek"
+    },
+    {
+     "c": "Peter",
+     "n": "Daniele Rizzo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Philip Koch"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 1425045,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+   "popularity": 3.2714,
+   "poster_path": "/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-07-02",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "They want to leave – but their apartment won't let them.",
+   "title": "Brick",
+   "trailer": {
+    "key": "fmi4Qc-cvis",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.777,
+   "vote_count": 818
+  },
   "movie:1510745": {
    "backdrop_path": "/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
    "budget": 0,
@@ -1458,6 +1566,193 @@
    "vote_average": 6.225,
    "vote_count": 51
   },
+  "movie:177945": {
+   "backdrop_path": "/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ryota Nonomiya",
+     "n": "Masaharu Fukuyama"
+    },
+    {
+     "c": "Midori Nonomiya",
+     "n": "Machiko Ono"
+    },
+    {
+     "c": "Yukari Saiki",
+     "n": "Yoko Maki"
+    },
+    {
+     "c": "Yudai Saiki",
+     "n": "Lily Franky"
+    },
+    {
+     "c": "Nobuko Nonomiya",
+     "n": "Jun Fubuki"
+    },
+    {
+     "c": "Kazushi Kamiyama",
+     "n": "Jun Kunimura"
+    },
+    {
+     "c": "Riko Ishizeki",
+     "n": "Kirin Kiki"
+    },
+    {
+     "c": "Ryosuke Nonomiya",
+     "n": "Isao Natsuyagi"
+    },
+    {
+     "c": "Shinichi Yamabe",
+     "n": "Arata Iura"
+    },
+    {
+     "c": "Keita Nonomiya",
+     "n": "Keita Ninomiya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Hirokazu Kore-eda"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 177945,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ryota Nonomiya is a successful businessman driven by money. He learns that his biological son was switched with another child after birth. He must make a life-changing decision and choose his true son or the boy he raised as his own.",
+   "popularity": 3.402,
+   "poster_path": "/r0nejXOf6e4leWhnLuEQOmC5hrX.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-09-28",
+   "revenue": 19978961,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "At what point does a father truly become a father?",
+   "title": "Like Father, Like Son",
+   "trailer": {
+    "key": "gLEPbl2TL8s",
+    "name": "Like Father, Like Son Trailer [Subtitled}",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.717,
+   "vote_count": 836
+  },
   "movie:17845": {
    "backdrop_path": "/eUM3rcy8tQjOJKqyp1VXxqJWCn3.jpg",
    "budget": 3200000,
@@ -1722,6 +2017,286 @@
    "type": "movie",
    "vote_average": 6.251,
    "vote_count": 446
+  },
+  "movie:20345": {
+   "backdrop_path": "/jCh4lxFGREOf3JHDxxnlbWv2xWq.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Sam Dalmas",
+     "n": "Tony Musante"
+    },
+    {
+     "c": "Julia",
+     "n": "Suzy Kendall"
+    },
+    {
+     "c": "Inspector Morosini",
+     "n": "Enrico Maria Salerno"
+    },
+    {
+     "c": "Monica Ranieri",
+     "n": "Eva Renzi"
+    },
+    {
+     "c": "Alberto Ranieri",
+     "n": "Umberto Raho"
+    },
+    {
+     "c": "Professor Carlo Dover",
+     "n": "Renato Romano"
+    },
+    {
+     "c": "Monti",
+     "n": "Giuseppe Castellano"
+    },
+    {
+     "c": "Berto Consalvi",
+     "n": "Mario Adorf"
+    },
+    {
+     "c": "Faiena",
+     "n": "Pino Patti"
+    },
+    {
+     "c": "Garullo",
+     "n": "Gildo Di Marco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dario Argento"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 20345,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "An American writer living in Rome witnesses an attempted murder that is connected to an ongoing killing spree in the city and conducts his own investigation, despite him and his girlfriend being targeted by the killer.",
+   "popularity": 2.1428,
+   "poster_path": "/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg",
+   "production_countries": [
+    "DE",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "IndieFlix"
+    },
+    {
+     "name": "Eternal Family"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Troma NOW"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "IndieFlix Shorts Amazon Channel"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gawu8fJwrJKNvzgTjklQBdVqPCF.png",
+     "name": "IndieFlix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/2IHcGZUPqxy4HhWWN57AGEIKcCW.png",
+     "name": "Eternal Family",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/A8GVl6Pu2O0KVYVtijBHIsZ6LQn.png",
+     "name": "Troma NOW",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/10011zizrQEpO955oxor51BM0IP.png",
+     "name": "IndieFlix Shorts Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1970-06-12",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "All the screaming in the world won't help!",
+   "title": "The Bird with the Crystal Plumage",
+   "trailer": {
+    "key": "UztVF1nJTBo",
+    "name": "The Bird with the Crystal Plumage Official Trailer 4K",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.138,
+   "vote_count": 877
   },
   "movie:21845": {
    "backdrop_path": "/AsiZIxTfcSSj2Ti9s88F17pzjrF.jpg",
@@ -3500,6 +4075,135 @@
    "type": "movie",
    "vote_average": 5.943,
    "vote_count": 430
+  },
+  "movie:407445": {
+   "backdrop_path": "/quVfDYktBYQfojgZ3E9pYrclGse.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robin Cavendish",
+     "n": "Andrew Garfield"
+    },
+    {
+     "c": "Diana Cavendish",
+     "n": "Claire Foy"
+    },
+    {
+     "c": "Teddy Hall",
+     "n": "Hugh Bonneville"
+    },
+    {
+     "c": "Bloggs Blacker / David Blacker",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Mary Dawney",
+     "n": "Miranda Raison"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Dean-Charles Chapman"
+    },
+    {
+     "c": "Lady Neville",
+     "n": "Diana Rigg"
+    },
+    {
+     "c": "Colin Campbell",
+     "n": "Ed Speleers"
+    },
+    {
+     "c": "Nurse Margaret",
+     "n": "Emily Bevan"
+    },
+    {
+     "c": "Dr. Don McQueen",
+     "n": "Ben Lloyd-Hughes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andy Serkis"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 407445,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Based on the true story of Robin, a handsome, brilliant and adventurous man whose life takes a dramatic turn when polio leaves him paralyzed.",
+   "popularity": 2.3982,
+   "poster_path": "/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg",
+   "production_countries": [
+    "CH",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-10-20",
+   "revenue": 5026154,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "With her love, he lived",
+   "title": "Breathe",
+   "trailer": {
+    "key": "dqpfdS0SkZs",
+    "name": "Breathe Official Trailer - In Cinemas October 27",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 822
   },
   "movie:41245": {
    "backdrop_path": "/d9LNlmhjihHAAP1vKCQJo57JQFX.jpg",

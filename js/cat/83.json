@@ -1,7 +1,126 @@
 {
  "bucket": "83",
- "count": 51,
+ "count": 58,
  "titles": {
+  "movie:10083": {
+   "backdrop_path": "/9F6zZuETJWUtkcSEnOc0JLqBHAK.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Lt. Cmdr. Tom Farrell",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Defense Secretary David Brice",
+     "n": "Gene Hackman"
+    },
+    {
+     "c": "Susan Atwell",
+     "n": "Sean Young"
+    },
+    {
+     "c": "Scott Pritchard",
+     "n": "Will Patton"
+    },
+    {
+     "c": "Senator William 'Billy' Duvall",
+     "n": "Howard Duff"
+    },
+    {
+     "c": "Sam Hesselman",
+     "n": "George Dzundza"
+    },
+    {
+     "c": "Major Donovan",
+     "n": "Jason Bernard"
+    },
+    {
+     "c": "Nina Beka",
+     "n": "Iman"
+    },
+    {
+     "c": "CIA Director Marshall",
+     "n": "Fred Thompson"
+    },
+    {
+     "c": "Kevin O'Brien",
+     "n": "Leon Russom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roger Donaldson"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 10083,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Navy Lt. Tom Farrell meets a young woman, Susan Atwell, and they share a passionate fling. Farrell then finds out that his superior, Defense Secretary David Brice, is also romantically involved with Atwell. When the young woman turns up dead, Farrell is put in charge of the murder investigation. He begins to uncover shocking clues about the case, but when details of his encounter with Susan surface, he becomes a suspect as well.",
+   "popularity": 3.245,
+   "poster_path": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1987-08-14",
+   "revenue": 35509515,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Is it a crime of passion, or an act of treason?",
+   "title": "No Way Out",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.858,
+   "vote_count": 875
+  },
   "movie:10183": {
    "backdrop_path": "/gOhtvGwrVkEM5hCFdyyWKJEOBk8.jpg",
    "budget": 1000000,
@@ -479,6 +598,105 @@
    "vote_average": 5.7,
    "vote_count": 231
   },
+  "movie:11183": {
+   "backdrop_path": "/tf2mugFR3vWCuuUQt2hYRfr73vj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Robert \"Popeye\" Lespinasse",
+     "n": "Thierry Lhermitte"
+    },
+    {
+     "c": "Jérôme Tarayre",
+     "n": "Christian Clavier"
+    },
+    {
+     "c": "Bernard Morin",
+     "n": "Gérard Jugnot"
+    },
+    {
+     "c": "Nathalie Morin",
+     "n": "Josiane Balasko"
+    },
+    {
+     "c": "Jean-Claude \"Jessy\" Dusse",
+     "n": "Michel Blanc"
+    },
+    {
+     "c": "Christiane Weissmuller",
+     "n": "Dominique Lavanant"
+    },
+    {
+     "c": "Gilbert Sellman",
+     "n": "Bruno Moynot"
+    },
+    {
+     "c": "Gisèle \"Gigi\" André",
+     "n": "Marie-Anne Chazel"
+    },
+    {
+     "c": "André \"Bip Bip\" Bourseault",
+     "n": "Michel Creton"
+    },
+    {
+     "c": "Georges \"Bobo\" Pelletier",
+     "n": "Luis Rego"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "0",
+   "date_kind": "release",
+   "director": [
+    "Patrice Leconte"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11183,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Holidaymakers arriving in a Club Med camp on the Ivory Coast are determined to forget their everyday problems and emotional disappointments. Games, competitions, outings, bathing and sunburn accompany a continual succession of casual affairs.",
+   "popularity": 1.4419,
+   "poster_path": "/cj82wH8irxpCijTQWIASfYkQylw.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1978-11-11",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "French Fried Vacation",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.593,
+   "vote_count": 971
+  },
   "movie:11483": {
    "backdrop_path": "/jBfHr0cZqHXbORe7g6tDKB16MhL.jpg",
    "budget": 40000000,
@@ -708,6 +926,175 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 461
+  },
+  "movie:11983": {
+   "backdrop_path": "/iakEcGh4varespo3U8Cx0UtcNox.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Alice Bowman",
+     "n": "Meg Ryan"
+    },
+    {
+     "c": "Terry Thorne",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Peter Bowman",
+     "n": "David Morse"
+    },
+    {
+     "c": "Janis Goodman",
+     "n": "Pamela Reed"
+    },
+    {
+     "c": "Dino",
+     "n": "David Caruso"
+    },
+    {
+     "c": "Ted Fellner",
+     "n": "Anthony Heald"
+    },
+    {
+     "c": "Jerry",
+     "n": "Stanley Anderson"
+    },
+    {
+     "c": "Eric Kessler",
+     "n": "Gottfried John"
+    },
+    {
+     "c": "Wyatt",
+     "n": "Alun Armstrong"
+    },
+    {
+     "c": "Ian Havery",
+     "n": "Michael Kitchen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Taylor Hackford"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Drama"
+   ],
+   "id": 11983,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Peter Bowman, an American engineer working in a South American country, is captured by anti-government forces, the rebels learn his identity and demand $5 million for his safe return. However, his US employer is on the verge of insolvency and will not provide the ransom. Peter's wife Alice is forced to deal with the matter on her own and she retains the services of freelance professional hostage negotiator Terry Thorne.",
+   "popularity": 2.0653,
+   "poster_path": "/yw8x2i3vaHZZzpvqvF75E8q2N6M.jpg",
+   "production_countries": [
+    "US",
+    "EC",
+    "GB",
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2000-12-08",
+   "revenue": 62761005,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "For her, it's personal. For him, it's a contract.",
+   "title": "Proof of Life",
+   "trailer": {
+    "key": "btRBnxFQvD0",
+    "name": "Trailer  F1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 917
   },
   "movie:12583": {
    "backdrop_path": "/6WiX5YHelMF0ci2S1xXsiAQ9Jsu.jpg",
@@ -2411,6 +2798,130 @@
    "vote_average": 7.935,
    "vote_count": 23
   },
+  "movie:1683": {
+   "backdrop_path": "/4eakTJuJD3sRGfv1qVWW46iPq82.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Katherine",
+     "n": "Hilary Swank"
+    },
+    {
+     "c": "Doug",
+     "n": "David Morrissey"
+    },
+    {
+     "c": "Ben",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Loren McConnell",
+     "n": "AnnaSophia Robb"
+    },
+    {
+     "c": "Father Costigan",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Sheriff Cade",
+     "n": "William Ragsdale"
+    },
+    {
+     "c": "Mayor Brooks",
+     "n": "John McConnell"
+    },
+    {
+     "c": "Jim Wakeman",
+     "n": "David Jensen"
+    },
+    {
+     "c": "Brynn Wakeman",
+     "n": "Yvonne Landry"
+    },
+    {
+     "c": "William Wakeman",
+     "n": "Samuel Garland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Hopkins"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 1683,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Katherine Morrissey, a former Christian missionary, lost her faith after the tragic deaths of her family. Now she applies her expertise to debunking religious phenomena. When a series of biblical plagues overrun a small town, Katherine arrives to prove that a supernatural force is not behind the occurrences, but soon finds that science cannot explain what is happening. Instead, she must regain her faith to combat the evil that waits in a Louisiana swamp.",
+   "popularity": 2.3616,
+   "poster_path": "/o8Vl4Vxp5LBth9J6Aa3k6PAefxt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-04-04",
+   "revenue": 62771059,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Thousands of years ago, there was a series of bizarre occurrences that many believe to have been the Ten Biblical Plagues. No one thought they could happen again. Until now.",
+   "title": "The Reaping",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.781,
+   "vote_count": 929
+  },
   "movie:183": {
    "backdrop_path": "/uDNujlgku4FgHDeOdrfEQk1FtW1.jpg",
    "budget": 6000000,
@@ -3314,6 +3825,109 @@
    "vote_average": 7.1,
    "vote_count": 370
   },
+  "movie:22683": {
+   "backdrop_path": "/xkaeirZBfs9nfz2TJoFHxyOLCcC.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ben Carson",
+     "n": "Cuba Gooding Jr."
+    },
+    {
+     "c": "Sonya Carson",
+     "n": "Kimberly Elise"
+    },
+    {
+     "c": "Candy",
+     "n": "Aunjanue Ellis-Taylor"
+    },
+    {
+     "c": "Teen Carl",
+     "n": "Harron Atkins"
+    },
+    {
+     "c": "Dr. Long",
+     "n": "Ele Bardha"
+    },
+    {
+     "c": "Yale Professor",
+     "n": "Loren Bass"
+    },
+    {
+     "c": "Dr. Freeman",
+     "n": "Geoffrey Beauchamp"
+    },
+    {
+     "c": "Curtis (Child)",
+     "n": "Tajh Bellow"
+    },
+    {
+     "c": "Miss Williamson",
+     "n": "Lesley Bevan"
+    },
+    {
+     "c": "Hospital Staff",
+     "n": "Jesse Christian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Thomas Carter"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 22683,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gifted Hands: The Ben Carson Story is a movie based on the life story of world-renowned neurosurgeon Ben Carson from 1961 to 1987.",
+   "popularity": 4.0455,
+   "poster_path": "/4NxxtiqezjUmUxoDTOjO5FeJvFt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-02-07",
+   "revenue": 0,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Gifted Hands: The Ben Carson Story",
+   "trailer": {
+    "key": "t0vSS_hCsMc",
+    "name": "Gifted Hands | Official Trailer | Pure Flix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.856,
+   "vote_count": 827
+  },
   "movie:23383": {
    "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
    "budget": 750000,
@@ -3479,6 +4093,140 @@
    "type": "movie",
    "vote_average": 7.404,
    "vote_count": 308
+  },
+  "movie:25983": {
+   "backdrop_path": "/cHFIGss3Lx429OBZGfdF3noKTDV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samantha",
+     "n": "Jocelin Donahue"
+    },
+    {
+     "c": "Mr. Ulman",
+     "n": "Tom Noonan"
+    },
+    {
+     "c": "Mrs. Ulman",
+     "n": "Mary Woronov"
+    },
+    {
+     "c": "Megan",
+     "n": "Greta Gerwig"
+    },
+    {
+     "c": "Victor Ulman",
+     "n": "AJ Bowen"
+    },
+    {
+     "c": "Landlady",
+     "n": "Dee Wallace"
+    },
+    {
+     "c": "Heather",
+     "n": "Heather Robb"
+    },
+    {
+     "c": "Random Guy",
+     "n": "Darryl Nau"
+    },
+    {
+     "c": "Nurse",
+     "n": "Brenda Cooney"
+    },
+    {
+     "c": "Favorite Teacher",
+     "n": "Ti West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ti West"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 25983,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young college student who’s struggling financially takes a strange babysitting job which coincides with a full lunar eclipse. She slowly realizes her clients harbor a terrifying secret, putting her life in mortal danger.",
+   "popularity": 2.4818,
+   "poster_path": "/4abKUbc9IbsndbaY1hacN1iPM0Y.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-10-30",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Talk on the phone. Finish your homework. Watch TV. Die.",
+   "title": "The House of the Devil",
+   "trailer": {
+    "key": "z9vJF61_NLU",
+    "name": "Official HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.211,
+   "vote_count": 905
   },
   "movie:303483": {
    "backdrop_path": "/hQyuTd670x8q1751XJ4a2s9zT5d.jpg",
@@ -4563,6 +5311,120 @@
    "type": "movie",
    "vote_average": 4.727,
    "vote_count": 385
+  },
+  "movie:5683": {
+   "backdrop_path": "/8qob0r37GT8YV3lA7pIfcnp0FBQ.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Pee-wee Herman",
+     "n": "Paul Reubens"
+    },
+    {
+     "c": "Dottie",
+     "n": "E. G. Daily"
+    },
+    {
+     "c": "Francis",
+     "n": "Mark Holton"
+    },
+    {
+     "c": "Simone",
+     "n": "Diane Salinger"
+    },
+    {
+     "c": "Mickey",
+     "n": "Judd Omen"
+    },
+    {
+     "c": "Mr. Crowtrey",
+     "n": "Irving Hellman"
+    },
+    {
+     "c": "Mario",
+     "n": "Monte Landis"
+    },
+    {
+     "c": "Chip",
+     "n": "Damon Martin"
+    },
+    {
+     "c": "Large Marge",
+     "n": "Alice Nunn"
+    },
+    {
+     "c": "BMX Kid",
+     "n": "David C. Glasser"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Family"
+   ],
+   "id": 5683,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike.",
+   "popularity": 3.198,
+   "poster_path": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-07-26",
+   "revenue": 40900000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of a rebel and his bike.",
+   "title": "Pee-wee's Big Adventure",
+   "trailer": {
+    "key": "1UWsZ9k3Rds",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.468,
+   "vote_count": 902
   },
   "movie:57283": {
    "backdrop_path": "/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",

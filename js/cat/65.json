@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 52,
+ "count": 53,
  "titles": {
   "movie:1001865": {
    "backdrop_path": "/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
@@ -5010,6 +5010,181 @@
    "type": "movie",
    "vote_average": 7.335,
    "vote_count": 382
+  },
+  "movie:94365": {
+   "backdrop_path": "/b2AfxdTbNifN9cAH8KVqH51Y4VS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "William \"Bill\" Boss",
+     "n": "Dieter Laser"
+    },
+    {
+     "c": "Daisy",
+     "n": "Bree Olson"
+    },
+    {
+     "c": "Governor Hughes",
+     "n": "Eric Roberts"
+    },
+    {
+     "c": "Dwight Butler",
+     "n": "Laurence R. Harvey"
+    },
+    {
+     "c": "Inmate 297",
+     "n": "Robert LaSardo"
+    },
+    {
+     "c": "Inmate 178",
+     "n": "Tommy Lister Jr."
+    },
+    {
+     "c": "Inmate 346",
+     "n": "Jay Tavare"
+    },
+    {
+     "c": "Dr. Jones",
+     "n": "Clayton Rohner"
+    },
+    {
+     "c": "Self (uncredited)",
+     "n": "Tom Six"
+    },
+    {
+     "c": "Inmate 106",
+     "n": "Peter Blankenstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Tom Six"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 94365,
+   "industry": "world",
+   "origin_country": [
+    "NL",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Taking inspiration from The Human Centipede films, the warden of a notorious and troubled prison looks to create a 500-person human centipede as a solution to his problems.",
+   "popularity": 4.3837,
+   "poster_path": "/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg",
+   "production_countries": [
+    "NL",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-05-22",
+   "revenue": 16184,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "100% politically incorrect.",
+   "title": "The Human Centipede 3 (Final Sequence)",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 3.7,
+   "vote_count": 896
   },
   "movie:963765": {
    "backdrop_path": "/8J5GetxLHw6R380GUBEmH95dvrl.jpg",

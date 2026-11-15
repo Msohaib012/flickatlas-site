@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 53,
+ "count": 60,
  "titles": {
   "movie:10359": {
    "d": "Resurrection (1999): Crime/Mystery film. Story: A jaded homicide detective has been put on the case… See cast, budget $10M, and TMDB rating 6.1/10.",
@@ -1731,6 +1731,197 @@
    "t": "Ninotchka (1939) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1939"
   },
+  "movie:2359": {
+   "d": "Sicko (2007): Documentary/Comedy film. Story: A documentary about the corrupt health care system in… See cast, budget $9M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
+   "industry": "world",
+   "k": "Sicko, Sicko movie, Sicko cast, Sicko story, Sicko box office collection, Sicko budget, Sicko review, Sicko rating, Sicko release date, Sicko Documentary, Sicko Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Benn"
+     },
+     {
+      "@type": "Person",
+      "name": "Tucker Albrizzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Reggie Cervantes"
+     },
+     {
+      "@type": "Person",
+      "name": "John Graham"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 819,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Sicko (2007): Documentary/Comedy film. Story: A documentary about the corrupt health care system in… See cast, budget $9M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Moore"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Documentary",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2359",
+    "name": "Sicko",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-05-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2359"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sicko (2007)</h1>\n<p class=\"ssr-lead\">A documentary about the corrupt health care system in The United States whose main goal is to make profit even if it means losing people’s lives. &quot;The more people you deny health insurance, the more money we make&quot; is the business model for health care providers in America.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2007</li><li>Runtime: 123 minutes</li><li>Director: Michael Moore</li><li>Genres: Documentary, Comedy, Drama</li><li>Budget: $9M</li><li>TMDB rating: 7.4/10 (819 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Moore as Self</li><li>Tony Benn as Self</li><li>Tucker Albrizzi as Self</li><li>Reggie Cervantes as Self</li><li>John Graham as Self</li><li>Aleida Guevara as Self</li><li>Bill Maher as Self</li><li>Patrick Pedraja as Self</li><li>Linda Peeno as Self</li><li>Billy Crystal as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Sicko (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
+  "movie:2759": {
+   "d": "The Adventures of Priscilla, Queen of the Desert (1994): Drama/Comedy film. Story: Two drag performers and a transgender woman travel… See cast and budget $2M.",
+   "img": "https://image.tmdb.org/t/p/w780/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+   "industry": "world",
+   "k": "The Adventures of Priscilla, Queen of the Desert, The Adventures of Priscilla, Queen of the Desert movie, The Adventures of Priscilla, Queen of the Desert cast, The Adventures of Priscilla, Queen of the Desert story, The Adventures of Priscilla, Queen of the Desert box office collection, The Adventures of Priscilla, Queen of the Desert budget, The Adventures of Priscilla, Queen of the Desert review, The Adventures of Priscilla, Queen of the Desert rating, The Adventures of Priscilla, Queen of the Desert release date, The Adventures of Priscilla, Queen of the Desert trailer, The Adventures of Priscilla, Queen of the Desert Drama, The Adventures of Priscilla, Queen of the Desert Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Guy Pearce"
+     },
+     {
+      "@type": "Person",
+      "name": "Terence Stamp"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Hunter"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Chadwick"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 979,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Adventures of Priscilla, Queen of the Desert (1994): Drama/Comedy film. Story: Two drag performers and a transgender woman travel… See cast and budget $2M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephan Elliott"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2759",
+    "name": "The Adventures of Priscilla, Queen of the Desert",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-08-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2759"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Adventures of Priscilla, Queen of the Desert (1994)</h1>\n<p class=\"ssr-lead\">Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 1994</li><li>Runtime: 103 minutes</li><li>Director: Stephan Elliott</li><li>Genres: Drama, Comedy</li><li>Budget: $2M</li><li>TMDB rating: 7.3/10 (979 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugo Weaving as Anthony &#x27;Tick&#x27; Belrose / Mitzi Del Bra</li><li>Guy Pearce as Adam Whitely / Felicia Jollygoodfellow</li><li>Terence Stamp as Bernadette Bassenger</li><li>Bill Hunter as Bob Spart</li><li>Sarah Chadwick as Marion Barber</li><li>June Marie Bennett as Shirley</li><li>Rebel Penfold-Russell as Logowoman</li><li>John Casey as Bartender</li><li>Murray Davies as Miner</li><li>Frank Cornelius as Piano Player</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Adventures of Priscilla, Queen of the Desert (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
+  "movie:2959": {
+   "d": "License to Wed (2007): Comedy film. Story: Newly engaged, Ben and Sadie can't wait to start… See cast, budget $35M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wS8GxF4NBb7Oab452Ecwqx5cMJs.jpg",
+   "industry": "world",
+   "k": "License to Wed, License to Wed movie, License to Wed cast, License to Wed story, License to Wed box office collection, License to Wed budget, License to Wed review, License to Wed rating, License to Wed release date, License to Wed trailer, License to Wed Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mandy Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "John Krasinski"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Christian Olsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Christine Taylor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 952,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "License to Wed (2007): Comedy film. Story: Newly engaged, Ben and Sadie can't wait to start… See cast, budget $35M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ken Kwapis"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wS8GxF4NBb7Oab452Ecwqx5cMJs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2959",
+    "name": "License to Wed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-07-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2959"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>License to Wed (2007)</h1>\n<p class=\"ssr-lead\">Newly engaged, Ben and Sadie can&#x27;t wait to start their life together and live happily ever after. However Sadie&#x27;s family church&#x27;s Reverend Frank won&#x27;t bless their union until they pass his patented, &quot;foolproof&quot; marriage prep course consisting of outrageous classes, outlandish homework assignments and some outright invasion of privacy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 July 2007</li><li>Runtime: 91 minutes</li><li>Director: Ken Kwapis</li><li>Genres: Comedy</li><li>Budget: $35M</li><li>TMDB rating: 5.7/10 (952 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mandy Moore as Sadie Jones</li><li>John Krasinski as Ben Murphy</li><li>Robin Williams as Reverend Frank</li><li>Eric Christian Olsen as Carlisle</li><li>Christine Taylor as Lindsey Jones</li><li>Josh Flitter as Choir Boy</li><li>DeRay Davis as Joel</li><li>Peter Strauss as Mr. Jones</li><li>Grace Zabriskie as Grandma Jones</li><li>Roxanne Hart as Mrs. Jones</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "License to Wed (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:298459": {
    "d": "Next Time I'll Aim for the Heart (2014): Crime/Thriller film. Story: Between 1978 and 1979, the inhabitants of the Oise… See cast and budget $5.1M.",
    "img": "https://image.tmdb.org/t/p/w780/64zKO0Ia4o6YOrTmNFP4irvtB64.jpg",
@@ -1986,6 +2177,70 @@
    "t": "Would I Lie to You? 2 (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
   },
+  "movie:339259": {
+   "d": "The Man with the Iron Heart (2017): War/Action film. Story: With the Third Reich at its peak in 1942, the Czech… See cast and budget $32.68M.",
+   "img": "https://image.tmdb.org/t/p/w780/dVAScapt0EECC9jpvWHFBe2gybs.jpg",
+   "industry": "world",
+   "k": "The Man with the Iron Heart, The Man with the Iron Heart movie, The Man with the Iron Heart cast, The Man with the Iron Heart story, The Man with the Iron Heart box office collection, The Man with the Iron Heart budget, The Man with the Iron Heart review, The Man with the Iron Heart rating, The Man with the Iron Heart release date, The Man with the Iron Heart trailer, The Man with the Iron Heart War, The Man with the Iron Heart Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Clarke"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosamund Pike"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack O'Connell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Reynor"
+     },
+     {
+      "@type": "Person",
+      "name": "Mia Wasikowska"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 839,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Man with the Iron Heart (2017): War/Action film. Story: With the Third Reich at its peak in 1942, the Czech… See cast and budget $32.68M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cédric Jimenez"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "War",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dVAScapt0EECC9jpvWHFBe2gybs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=339259",
+    "name": "The Man with the Iron Heart",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=339259"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Man with the Iron Heart (2017)</h1>\n<p class=\"ssr-lead\">With the Third Reich at its peak in 1942, the Czech resistance in London plans the most ambitious military operation of WWII – Anthropoid. Two young recruits are sent to Prague to assassinate the most ruthless Nazi leader – Reinhard Heydrich, head of the Reich Security Main Office, the Gestapo and the architect of the Final Solution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 May 2017</li><li>Runtime: 120 minutes</li><li>Director: Cédric Jimenez</li><li>Genres: War, Action, History, Thriller</li><li>Budget: $32.68M</li><li>TMDB rating: 6.5/10 (839 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Clarke as Reinhard Heydrich</li><li>Rosamund Pike as Lina von Osten</li><li>Jack O&#x27;Connell as Jan Kubiš</li><li>Jack Reynor as Jozef Gabčík</li><li>Mia Wasikowska as Anna Novák</li><li>Stephen Graham as Heinrich Himmler</li><li>Thomas M. Wright as Josef Valčík</li><li>Barry Atsma as Karl Hermann Frank</li><li>Geoff Bell as Muller</li><li>Enzo Cilenti as Adolf Opálka</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Man with the Iron Heart (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:438259": {
    "d": "Journey's End (2017): War/Drama film. Story: Set in a dugout in Aisne in 1918, a group of British… See cast and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/32c48NEZOJxBvpN4FkaObQTOhjH.jpg",
@@ -2049,6 +2304,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Journey&#x27;s End (2017)</h1>\n<p class=\"ssr-lead\">Set in a dugout in Aisne in 1918, a group of British officers, led by the mentally disintegrating young officer Stanhope, variously await their fate.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2017</li><li>Runtime: 108 minutes</li><li>Director: Saul Dibb</li><li>Genres: War, Drama, Action</li><li>TMDB rating: 6.3/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Asa Butterfield as Raleigh</li><li>Sam Claflin as Captain Stanhope</li><li>Paul Bettany as Osborne</li><li>Tom Sturridge as Hibbert</li><li>Toby Jones as Mason</li><li>Stephen Graham as Trotter</li><li>Robert Glenister as The Colonel</li><li>Theo Barklem-Biggs as Watson</li><li>Miles Jupp as Hardy</li><li>Oliver Dimsdale as Adjutant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Journey's End (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:449459": {
+   "d": "The Vanishing (2019): Thriller/Mystery film. Story: Three lighthouse keepers on an uninhabited island off… See cast, budget $5M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/83LbQ6xMURQYO03Ilqdr3kwLBxD.jpg",
+   "industry": "world",
+   "k": "The Vanishing, The Vanishing movie, The Vanishing cast, The Vanishing story, The Vanishing box office collection, The Vanishing budget, The Vanishing review, The Vanishing rating, The Vanishing release date, The Vanishing trailer, The Vanishing Thriller, The Vanishing Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gerard Butler"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Mullan"
+     },
+     {
+      "@type": "Person",
+      "name": "Connor Swindells"
+     },
+     {
+      "@type": "Person",
+      "name": "Søren Malling"
+     },
+     {
+      "@type": "Person",
+      "name": "Ólafur Darri Ólafsson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 816,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "The Vanishing (2019): Thriller/Mystery film. Story: Three lighthouse keepers on an uninhabited island off… See cast, budget $5M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kristoffer Nyholm"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/83LbQ6xMURQYO03Ilqdr3kwLBxD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=449459",
+    "name": "The Vanishing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=449459"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Vanishing (2019)</h1>\n<p class=\"ssr-lead\">Three lighthouse keepers on an uninhabited island off the coast of Scotland discover something that isn&#x27;t theirs to keep.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 January 2019</li><li>Runtime: 108 minutes</li><li>Director: Kristoffer Nyholm</li><li>Genres: Thriller, Mystery</li><li>Budget: $5M</li><li>TMDB rating: 5.8/10 (816 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gerard Butler as James</li><li>Peter Mullan as Thomas</li><li>Connor Swindells as Donald</li><li>Søren Malling as Locke</li><li>Ólafur Darri Ólafsson as Boor</li><li>Gary Lewis as Kenny</li><li>Emma King as Mary</li><li>Ken Drury as Duncan</li><li>Gary Kane as Gherd</li><li>Roderick Gilkison as Galley Hand</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Vanishing (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:459": {
    "d": "Sissi: The Fateful Years of an Empress (1957): Romance/Drama film. Story: After a wonderful time in Hungary Sissi falls… See cast and TMDB rating 7.1/10.",
@@ -2497,6 +2816,70 @@
    "t": "The Coldest Game (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:659959": {
+   "d": "Summer of 85 (2020): Romance/Drama film. Story: What do you dream of when you're 16-years-old and in… See cast, budget $6.9M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5NMxiETEUCT4297zrMdimNR5VqS.jpg",
+   "industry": "world",
+   "k": "Summer of 85, Summer of 85 movie, Summer of 85 cast, Summer of 85 story, Summer of 85 box office collection, Summer of 85 budget, Summer of 85 review, Summer of 85 rating, Summer of 85 release date, Summer of 85 trailer, Summer of 85 Romance, Summer of 85 Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Félix Lefebvre"
+     },
+     {
+      "@type": "Person",
+      "name": "Benjamin Voisin"
+     },
+     {
+      "@type": "Person",
+      "name": "Philippine Velge"
+     },
+     {
+      "@type": "Person",
+      "name": "Valeria Bruni Tedeschi"
+     },
+     {
+      "@type": "Person",
+      "name": "Melvil Poupaud"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 961,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Summer of 85 (2020): Romance/Drama film. Story: What do you dream of when you're 16-years-old and in… See cast, budget $6.9M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "François Ozon"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5NMxiETEUCT4297zrMdimNR5VqS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=659959",
+    "name": "Summer of 85",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-07-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=659959"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Summer of 85 (2020)</h1>\n<p class=\"ssr-lead\">What do you dream of when you&#x27;re 16-years-old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can&#x27;t get a bigger kick than dying. And that&#x27;s why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 July 2020</li><li>Runtime: 101 minutes</li><li>Director: François Ozon</li><li>Genres: Romance, Drama</li><li>Budget: $6.9M</li><li>TMDB rating: 7.4/10 (961 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Félix Lefebvre as Alexis Robin</li><li>Benjamin Voisin as David Gorman</li><li>Philippine Velge as Kate</li><li>Valeria Bruni Tedeschi as Madame Gorman</li><li>Melvil Poupaud as Mr. Lefèvre</li><li>Isabelle Nanty as Madame Robin</li><li>Laurent Fernandez as Mr. Robin</li><li>Aurore Broutin as The Educator</li><li>Bruno Lochet as Bernard</li><li>Yoann Zimmer as Luc</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Summer of 85 (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:747059": {
    "d": "Burrow (2020): Animation/Family film. Story: A young rabbit embarks on a journey to dig the burrow… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/tj58v7h4d9xDkFr3Hot0qhKdwRf.jpg",
@@ -2602,6 +2985,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Perfect Addiction (2023)</h1>\n<p class=\"ssr-lead\">A female boxing trainer discovers that her champion cage-fighter boyfriend has been cheating on her with her sister and decides to seek revenge by training up his arch-rival to challenge him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 February 2023</li><li>Runtime: 97 minutes</li><li>Director: Castille Landon</li><li>Genres: Drama, Romance</li><li>TMDB rating: 6.8/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kiana Madeira as Sienna Lane</li><li>Ross Butler as Kayden Williams</li><li>Matthew Noszka as Jax Deneris</li><li>Bree Winslow as Beth Lane</li><li>Nicholas Duvernay as Brent Jacobs</li><li>Manu Bennett as Julian</li><li>Ryan Bown as Evan Kessler</li><li>Poppy Gilbert as Cara</li><li>Cecilia Diesch as Athena</li><li>Alex Czerwinski as Bookie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Perfect Addiction (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:882059": {
+   "d": "Boy Kills World (2024): Crime/Thriller film. Story: When his family is murdered, a deaf-mute named Boy… See cast, budget $18M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1LOT0yesrW1l98qYzMbzx6vCRbi.jpg",
+   "industry": "world",
+   "k": "Boy Kills World, Boy Kills World movie, Boy Kills World cast, Boy Kills World story, Boy Kills World box office collection, Boy Kills World budget, Boy Kills World review, Boy Kills World rating, Boy Kills World release date, Boy Kills World trailer, Boy Kills World Crime, Boy Kills World Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bill Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Rothe"
+     },
+     {
+      "@type": "Person",
+      "name": "H. Jon Benjamin"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Dockery"
+     },
+     {
+      "@type": "Person",
+      "name": "Brett Gelman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 911,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Boy Kills World (2024): Crime/Thriller film. Story: When his family is murdered, a deaf-mute named Boy… See cast, budget $18M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Moritz Mohr"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1LOT0yesrW1l98qYzMbzx6vCRbi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=882059",
+    "name": "Boy Kills World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-04-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=882059"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Boy Kills World (2024)</h1>\n<p class=\"ssr-lead\">When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 April 2024</li><li>Runtime: 111 minutes</li><li>Director: Moritz Mohr</li><li>Genres: Crime, Thriller, Action</li><li>Budget: $18M</li><li>TMDB rating: 6.7/10 (911 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Skarsgård as Boy</li><li>Jessica Rothe as June27</li><li>H. Jon Benjamin as Voice of Boy (voice)</li><li>Michelle Dockery as Melanie Van Der Koy</li><li>Brett Gelman as Gideon Van Der Koy</li><li>Sharlto Copley as Glen Van Der Koy</li><li>Andrew Koji as Basho</li><li>Isaiah Mustafa as Benny</li><li>Famke Janssen as Hilda Van Der Koy</li><li>Quinn Copeland as Mina</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "Boy Kills World (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:9459": {
    "d": "Woodstock (1970): Documentary/Music film. Story: An intimate look at the Woodstock Music & Art… See cast, budget $600.0k, and TMDB rating 7.6/10.",

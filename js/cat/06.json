@@ -1,7 +1,180 @@
 {
  "bucket": "06",
- "count": 65,
+ "count": 72,
  "titles": {
+  "movie:10206": {
+   "backdrop_path": "/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Buffy Summers",
+     "n": "Kristy Swanson"
+    },
+    {
+     "c": "Merrick Jamison-Smythe",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Amilyn",
+     "n": "Paul Reubens"
+    },
+    {
+     "c": "Lothos",
+     "n": "Rutger Hauer"
+    },
+    {
+     "c": "Oliver Pike",
+     "n": "Luke Perry"
+    },
+    {
+     "c": "Kimberly Hannah",
+     "n": "Hilary Swank"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Michele Abrams"
+    },
+    {
+     "c": "Benny",
+     "n": "David Arquette"
+    },
+    {
+     "c": "Cassandra",
+     "n": "Natasha Gregson Wagner"
+    },
+    {
+     "c": "Zeph",
+     "n": "Thomas Jane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Fran Rubel Kuzui"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Horror"
+   ],
+   "id": 10206,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Blonde, bouncy Buffy is your typical high school cheerleader. But all that changes when a strange man informs her she's been chosen by fate to kill vampires.",
+   "popularity": 3.5686,
+   "poster_path": "/tcF3S4UdFpuoZEWovMDq5AXazNF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1992-07-24",
+   "revenue": 16624456,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She knows a sucker when she sees one.",
+   "title": "Buffy the Vampire Slayer",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 960
+  },
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
    "budget": 9000000,
@@ -144,6 +317,116 @@
    "type": "movie",
    "vote_average": 6.11,
    "vote_count": 480
+  },
+  "movie:11006": {
+   "backdrop_path": "/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg",
+   "budget": 4300000,
+   "cast": [
+    {
+     "c": "Bandit",
+     "n": "Burt Reynolds"
+    },
+    {
+     "c": "Carrie",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Cledus",
+     "n": "Jerry Reed"
+    },
+    {
+     "c": "Junior",
+     "n": "Mike Henry"
+    },
+    {
+     "c": "Little Enos",
+     "n": "Paul Williams"
+    },
+    {
+     "c": "Big Enos",
+     "n": "Pat McCormick"
+    },
+    {
+     "c": "Buford T. Justice",
+     "n": "Jackie Gleason"
+    },
+    {
+     "c": "Patrolman Traffic Jam",
+     "n": "Alfie Wise"
+    },
+    {
+     "c": "Branford",
+     "n": "George Reynolds"
+    },
+    {
+     "c": "Mr. B.",
+     "n": "Macon McCalman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hal Needham"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 11006,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+   "popularity": 3.2806,
+   "poster_path": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TCM"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1977-05-27",
+   "revenue": 126700000,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"What we have here is a total lack of respect for the law!\"",
+   "title": "Smokey and the Bandit",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 850
   },
   "movie:11306": {
    "backdrop_path": "/pkZyudy6PLofZUQhNhoPH49Qxah.jpg",
@@ -1858,6 +2141,129 @@
    "vote_average": 7.345,
    "vote_count": 113
   },
+  "movie:1406": {
+   "backdrop_path": "/6aavXoygR0nZP4kIKQLdaXLO3z0.jpg",
+   "budget": 27000000,
+   "cast": [
+    {
+     "c": "Mitch Robbins",
+     "n": "Billy Crystal"
+    },
+    {
+     "c": "Phil Berquist",
+     "n": "Daniel Stern"
+    },
+    {
+     "c": "Ed Furillo",
+     "n": "Bruno Kirby"
+    },
+    {
+     "c": "Barbara Robbins",
+     "n": "Patricia Wettig"
+    },
+    {
+     "c": "Bonnie Rayburn",
+     "n": "Helen Slater"
+    },
+    {
+     "c": "Holly Robbins",
+     "n": "Lindsay Crystal"
+    },
+    {
+     "c": "Clay Stone",
+     "n": "Noble Willingham"
+    },
+    {
+     "c": "Curly Washburn",
+     "n": "Jack Palance"
+    },
+    {
+     "c": "Cookie",
+     "n": "Tracey Walter"
+    },
+    {
+     "c": "Barry Shalowitz",
+     "n": "Josh Mostel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Underwood"
+   ],
+   "genres": [
+    "Comedy",
+    "Western"
+   ],
+   "id": 1406,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three New York businessmen decide to take a \"Wild West\" vacation that turns out not to be the relaxing vacation they had envisioned.",
+   "popularity": 3.0077,
+   "poster_path": "/9DVZpm9pQNB3M17cRo752zqUYhL.jpg",
+   "production_countries": [
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1991-06-07",
+   "revenue": 179033791,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Yesterday they were businessmen. Today they're cowboys. Tomorrow they'll be walking funny.",
+   "title": "City Slickers",
+   "trailer": {
+    "key": "o4k7AK6oK9U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.47,
+   "vote_count": 930
+  },
   "movie:1432706": {
    "backdrop_path": "/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
    "budget": 0,
@@ -3555,6 +3961,345 @@
    "vote_average": 5.0,
    "vote_count": 322
   },
+  "movie:253306": {
+   "backdrop_path": "/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kylie Bucknell",
+     "n": "Morgana O'Reilly"
+    },
+    {
+     "c": "Miriam Bucknell",
+     "n": "Rima Te Wiata"
+    },
+    {
+     "c": "Amos",
+     "n": "Glen-Paul Waru"
+    },
+    {
+     "c": "Graeme",
+     "n": "Ross Harper"
+    },
+    {
+     "c": "Dennis",
+     "n": "Cameron Rhodes"
+    },
+    {
+     "c": "Officer Grayson",
+     "n": "Millen Baird"
+    },
+    {
+     "c": "Officer Carson",
+     "n": "Bruce Hopkins"
+    },
+    {
+     "c": "Eugene",
+     "n": "Ryan Lampp"
+    },
+    {
+     "c": "Judge",
+     "n": "Ian Mune"
+    },
+    {
+     "c": "Hollis",
+     "n": "Wallace Chapman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Gerard Johnstone"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 253306,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "NZ"
+   ],
+   "original_language": "en",
+   "overview": "When Kylie Bucknell is sentenced to home detention, she's forced to come to terms with her unsociable behaviour, her blabbering mother and a hostile spirit who seems less than happy about the new living arrangement.",
+   "popularity": 1.1933,
+   "poster_path": "/jPKEeHmUuoDnIaRs6VUqSr4qRGR.jpg",
+   "production_countries": [
+    "NZ"
+   ],
+   "providers": [
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Screambox Amazon Channel"
+    },
+    {
+     "name": "Midnight Pulp"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+     "name": "Screambox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+     "name": "Midnight Pulp",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+     "name": "Midnight Pulp Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+     "name": "ARROW",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-09-04",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Terror gets domesticated.",
+   "title": "Housebound",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.569,
+   "vote_count": 956
+  },
+  "movie:25606": {
+   "backdrop_path": "/mrLqmBNmj5U0QCjcOQ4esB6IBF9.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ugo Fantozzi",
+     "n": "Paolo Villaggio"
+    },
+    {
+     "c": "Signorina Silvani",
+     "n": "Anna Mazzamauro"
+    },
+    {
+     "c": "Filini",
+     "n": "Gigi Reder"
+    },
+    {
+     "c": "Luciano Calboni",
+     "n": "Giuseppe Anatrelli"
+    },
+    {
+     "c": "Count Diego Catellani",
+     "n": "Umberto D'Orsi"
+    },
+    {
+     "c": "Pina Fantozzi",
+     "n": "Liù Bosisio"
+    },
+    {
+     "c": "Megaditta Employee",
+     "n": "Dino Emanuelli"
+    },
+    {
+     "c": "Mariangela Fantozzi",
+     "n": "Plinio Fernando"
+    },
+    {
+     "c": "Duke Count Maria Rita Vittorio Balabam",
+     "n": "Paolo Paoloni"
+    },
+    {
+     "c": "Countess Alfonsina Serbelloni Mazzanti Viendalmare",
+     "n": "Elena Tricoli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Luciano Salce"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 25606,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "A good-natured but unlucky Italian is constantly finding himself in difficult situations, but never losing his mood.",
+   "popularity": 1.2489,
+   "poster_path": "/elGj4wK8fz5NT0weWitmfGizpr8.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1975-03-27",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fantozzi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.78,
+   "vote_count": 908
+  },
   "movie:34106": {
    "backdrop_path": "/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
    "budget": 1640000,
@@ -4100,6 +4845,108 @@
    "type": "movie",
    "vote_average": 7.262,
    "vote_count": 323
+  },
+  "movie:407806": {
+   "backdrop_path": "/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Jelani Cobb"
+    },
+    {
+     "c": "Self",
+     "n": "Angela Davis"
+    },
+    {
+     "c": "Self",
+     "n": "Henry Louis Gates, Jr."
+    },
+    {
+     "c": "Self",
+     "n": "Michelle Alexander"
+    },
+    {
+     "c": "Self - U.S. Senator (D) New Jersey",
+     "n": "Cory Booker"
+    },
+    {
+     "c": "Self",
+     "n": "Marie Gottschalk"
+    },
+    {
+     "c": "Self",
+     "n": "Michael Hough"
+    },
+    {
+     "c": "Self",
+     "n": "Gina Clayton"
+    },
+    {
+     "c": "Self",
+     "n": "David Keene"
+    },
+    {
+     "c": "Self",
+     "n": "James Kilgore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ava DuVernay"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 407806,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+   "popularity": 1.6146,
+   "poster_path": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-10-07",
+   "revenue": 0,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From slave to criminal with one amendment.",
+   "title": "13th",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.826,
+   "vote_count": 821
   },
   "movie:463906": {
    "backdrop_path": "/5yzpA7odHcs926hLptTwAZmFoVN.jpg",
@@ -6114,6 +6961,147 @@
    "type": "movie",
    "vote_average": 6.859,
    "vote_count": 345
+  },
+  "movie:9406": {
+   "backdrop_path": "/3umSuaSibCcNGAnsWYUyauLTZwE.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Andy McDermott",
+     "n": "Tom Everett Scott"
+    },
+    {
+     "c": "Serafine Pigot",
+     "n": "Julie Delpy"
+    },
+    {
+     "c": "Brad",
+     "n": "Vince Vieluf"
+    },
+    {
+     "c": "Chris",
+     "n": "Phil Buckman"
+    },
+    {
+     "c": "Amy Finch",
+     "n": "Julie Bowen"
+    },
+    {
+     "c": "Claude",
+     "n": "Pierre Cosso"
+    },
+    {
+     "c": "Dr. Thierry Pigot",
+     "n": "Thierry Lhermitte"
+    },
+    {
+     "c": "Chief Bonnet",
+     "n": "Maria Machado"
+    },
+    {
+     "c": "Inspector LeDuc",
+     "n": "Tom Novembre"
+    },
+    {
+     "c": "Officer with Flashlight",
+     "n": "Serge Basso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Anthony Waller"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 9406,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An American man unwittingly gets involved with werewolves who have developed a serum allowing them to transform at will.",
+   "popularity": 3.2068,
+   "poster_path": "/1NUOprbP7LLfKPArLJY7wziUiHT.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "LU",
+    "NL",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-05-29",
+   "revenue": 26570463,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Things are about to get a little hairy.",
+   "title": "An American Werewolf in Paris",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.93,
+   "vote_count": 812
   },
   "movie:958006": {
    "backdrop_path": "/bylJq7JEA87YqHMObZUnaP292T2.jpg",

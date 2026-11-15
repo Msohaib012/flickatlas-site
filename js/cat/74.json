@@ -1,6 +1,6 @@
 {
  "bucket": "74",
- "count": 56,
+ "count": 65,
  "titles": {
   "movie:1049574": {
    "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
@@ -913,6 +913,313 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 361
+  },
+  "movie:13374": {
+   "backdrop_path": "/k7dNmXtZeJVpvdoljSFRwpcCYPZ.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Casey Carlyle",
+     "n": "Michelle Trachtenberg"
+    },
+    {
+     "c": "Joan Carlyle",
+     "n": "Joan Cusack"
+    },
+    {
+     "c": "Ann",
+     "n": "Amy Stewart"
+    },
+    {
+     "c": "Mr. Bast",
+     "n": "Steve Ross"
+    },
+    {
+     "c": "Gen Harwood",
+     "n": "Hayden Panettiere"
+    },
+    {
+     "c": "Tina Harwood",
+     "n": "Kim Cattrall"
+    },
+    {
+     "c": "Teddy Harwood",
+     "n": "Trevor Blumas"
+    },
+    {
+     "c": "Nikki",
+     "n": "Kirsten Olson"
+    },
+    {
+     "c": "Tiffany",
+     "n": "Jocelyn Lai"
+    },
+    {
+     "c": "Nikki's Mom",
+     "n": "Connie Ray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Tim Fywell"
+   ],
+   "genres": [
+    "Family",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 13374,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With the help of her coach, her mom, and the boy who drives the Zamboni, nothing can stop Casey Carlyle from realizing her dream to be a champion figure skater.",
+   "popularity": 2.8773,
+   "poster_path": "/ptOO4Or8KyB4k3BRyyUvAPJCfYe.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-03-17",
+   "revenue": 27645491,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Big things happen to those who dream big.",
+   "title": "Ice Princess",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 980
+  },
+  "movie:13474": {
+   "backdrop_path": "/aYMvNOHPozMqpRu76EmzCH0PksC.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Angela Bridges",
+     "n": "Rachel Nichols"
+    },
+    {
+     "c": "Thomas",
+     "n": "Wes Bentley"
+    },
+    {
+     "c": "Bob Harper",
+     "n": "Simon Reynolds"
+    },
+    {
+     "c": "Karl",
+     "n": "Philip Akin"
+    },
+    {
+     "c": "Jody",
+     "n": "Miranda Edwards"
+    },
+    {
+     "c": "Man in Elevator",
+     "n": "Paul Sun-Hyung Lee"
+    },
+    {
+     "c": "Woman in Elevator",
+     "n": "Grace Lynn Kung"
+    },
+    {
+     "c": "Cop #1",
+     "n": "Philip Williams"
+    },
+    {
+     "c": "Cop #2",
+     "n": "Arnold Pinnock"
+    },
+    {
+     "c": "Homeless Woman",
+     "n": "Bathsheba Garnett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Franck Khalfoun"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 13474,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A businesswoman finds herself locked with a unhinged security guard in a parking garage after getting stuck working late on Christmas Eve.",
+   "popularity": 2.447,
+   "poster_path": "/3mTtQSKoFNyvhbcqBUJl8tPRqMz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Ultraplaybox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+     "name": "Ultraplaybox Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-11-09",
+   "revenue": 7766240,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new level of terror.",
+   "title": "P2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.216,
+   "vote_count": 973
   },
   "movie:1361774": {
    "backdrop_path": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
@@ -2269,6 +2576,126 @@
    "type": "movie",
    "vote_average": 7.426,
    "vote_count": 403
+  },
+  "movie:175574": {
+   "backdrop_path": "/bYCYL5mVX4unStJy34wWuofVq2O.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Reggie (voice)",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Jake (voice)",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Jenny (voice)",
+     "n": "Amy Poehler"
+    },
+    {
+     "c": "S.T.E.V.E. (voice)",
+     "n": "George Takei"
+    },
+    {
+     "c": "Myles Standish (voice)",
+     "n": "Colm Meaney"
+    },
+    {
+     "c": "Chief Broadbeak (Voice)",
+     "n": "Keith David"
+    },
+    {
+     "c": "Governor William Bradford (voice)",
+     "n": "Dan Fogler"
+    },
+    {
+     "c": "Ranger / Leatherbeak / President / Hazmats (voice)",
+     "n": "Jimmy Hayward"
+    },
+    {
+     "c": "General Sagan / Hazmats (voice)",
+     "n": "Jeff Biancalana"
+    },
+    {
+     "c": "Danny (voice)",
+     "n": "Danny Carey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jimmy Hayward"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 175574,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two turkeys from opposite sides of the tracks must put aside their differences and team up to travel back in time to change the course of history—and get turkey off the holiday menu for good.",
+   "popularity": 3.7993,
+   "poster_path": "/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-10-30",
+   "revenue": 110000000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The greatest turkey movie of all time.",
+   "title": "Free Birds",
+   "trailer": {
+    "key": "r-RnGP63rpM",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 893
   },
   "movie:17774": {
    "backdrop_path": "/dteOfLObqADjRmWVenb0CDb1qVu.jpg",
@@ -4774,6 +5201,504 @@
    "vote_average": 7.049,
    "vote_count": 477
   },
+  "movie:429174": {
+   "backdrop_path": "/fnWEr4voDR1kp0sXZ1WufM7j2Qp.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Zhenya",
+     "n": "Maryana Spivak"
+    },
+    {
+     "c": "Boris",
+     "n": "Aleksey Rozin"
+    },
+    {
+     "c": "Alyosha",
+     "n": "Matvey Novikov"
+    },
+    {
+     "c": "Coordinator",
+     "n": "Alexey Fateev"
+    },
+    {
+     "c": "Masha",
+     "n": "Marina Vasilyeva"
+    },
+    {
+     "c": "Anton",
+     "n": "Andris Keišs"
+    },
+    {
+     "c": "Zhenya's Mother",
+     "n": "Nataliya Potapova"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Sergey Borisov"
+    },
+    {
+     "c": "Masha's Mother",
+     "n": "Anna Gulyarenko"
+    },
+    {
+     "c": "Kuznetsov",
+     "n": "Artyom Zhigulin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Andrei Zvyagintsev"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 429174,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "Zhenya and Boris are going through a vicious divorce marked by resentment, frustration and recriminations. Already embarking on new lives, each with a new partner, they are impatient to start again, to turn the page – even if it means threatening to abandon their 12-year-old son Alyosha. Until, after witnessing one of their fights, Alyosha disappears.",
+   "popularity": 2.2361,
+   "poster_path": "/oBUsLGZoGuLKMuHj19mjG9iCDoq.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "DE",
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-06-01",
+   "revenue": 3925992,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "A missing child. A marriage destroyed. A country in crisis.",
+   "title": "Loveless",
+   "trailer": {
+    "key": "6h5GuecUU-Q",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.295,
+   "vote_count": 855
+  },
+  "movie:44874": {
+   "backdrop_path": "/5R80JAmEMWbdCkylHDL2NIIbpVP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Barbie Roberts (voice)",
+     "n": "Diana Kaarina"
+    },
+    {
+     "c": "Ken Carson (voice)",
+     "n": "Adrian Petriw"
+    },
+    {
+     "c": "Marie-Alecia 'Alice' (voice)",
+     "n": "Tabitha St. Germain"
+    },
+    {
+     "c": "Aunt Millicent (voice)",
+     "n": "Patricia Drake"
+    },
+    {
+     "c": "Jacqueline (voice)",
+     "n": "Alexa Devine"
+    },
+    {
+     "c": "Delphine (voice)",
+     "n": "Shannon Chan-Kent"
+    },
+    {
+     "c": "Teresa / Incidental (voice)",
+     "n": "Maryke Hendrikse"
+    },
+    {
+     "c": "Grace (voice)",
+     "n": "Kandyse McClure"
+    },
+    {
+     "c": "Raquelle (voice)",
+     "n": "Britt Irvin"
+    },
+    {
+     "c": "Shyne (voice)",
+     "n": "Chiara Zanni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "William Lau"
+   ],
+   "genres": [
+    "Family",
+    "Animation"
+   ],
+   "id": 44874,
+   "industry": "world",
+   "origin_country": [
+    "CA"
+   ],
+   "original_language": "en",
+   "overview": "Barbie, a popular actress on a sabbatical, learns that her fashion designer aunt Millicent has sold her business to a rival. With the help of a few magical beings, Barbie steps in to save the day.",
+   "popularity": 4.543,
+   "poster_path": "/bFnf8f8DXdCANQ7Y62djgubhh4P.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-09-14",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Discover your inner sparkle!",
+   "title": "Barbie: A Fashion Fairytale",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.279,
+   "vote_count": 813
+  },
+  "movie:469274": {
+   "backdrop_path": "/131jup22e3FZOdQ0CmED8iO3t5Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nicky Larson",
+     "n": "Philippe Lacheau"
+    },
+    {
+     "c": "Laura",
+     "n": "Élodie Fontan"
+    },
+    {
+     "c": "Pancho",
+     "n": "Tarek Boudali"
+    },
+    {
+     "c": "Skippy",
+     "n": "Julien Arruti"
+    },
+    {
+     "c": "Letellier / La Main Noire",
+     "n": "Didier Bourdon"
+    },
+    {
+     "c": "Jessica Fox",
+     "n": "Pamela Anderson"
+    },
+    {
+     "c": "Le Psy",
+     "n": "Gérard Jugnot"
+    },
+    {
+     "c": "Mammouth",
+     "n": "Kamel Guenfoud"
+    },
+    {
+     "c": "Femme Skippy",
+     "n": "Audrey Lamy"
+    },
+    {
+     "c": "Belle-Mère Skippy",
+     "n": "Chantal Ladesou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Philippe Lacheau"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 469274,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Nicky Larson is tasked to recover the perfume of Cupid, a perfume that would make anyone who uses it irresistible.",
+   "popularity": 3.0794,
+   "poster_path": "/rrwejDUmCSaca2Afubznkdp3ogB.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2019-02-06",
+   "revenue": 14702744,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "City Hunter",
+   "trailer": {
+    "key": "q2ozziqQay0",
+    "name": "City Hunter / Nicky Larson et le parfum de Cupidon (2019) - Trailer (French)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.47,
+   "vote_count": 862
+  },
+  "movie:472674": {
+   "backdrop_path": "/lXSJETt0cbiemixfHuBpopAg8pT.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Theodore Decker",
+     "n": "Ansel Elgort"
+    },
+    {
+     "c": "Young Theodore Decker",
+     "n": "Oakes Fegley"
+    },
+    {
+     "c": "Samantha Barbour",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "James 'Hobie' Hobart",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Larry Decker",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Xandra",
+     "n": "Sarah Paulson"
+    },
+    {
+     "c": "Kitsey Barbour",
+     "n": "Willa Fitzgerald"
+    },
+    {
+     "c": "Boris Pavlikovsky",
+     "n": "Aneurin Barnard"
+    },
+    {
+     "c": "Young Boris Pavlikovsky",
+     "n": "Finn Wolfhard"
+    },
+    {
+     "c": "Pippa",
+     "n": "Ashleigh Cummings"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Crowley"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 472674,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals 'The Goldfinch', a painting that eventually draws him into a world of crime.",
+   "popularity": 3.2604,
+   "poster_path": "/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-09-12",
+   "revenue": 0,
+   "runtime": 149,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of a stolen life.",
+   "title": "The Goldfinch",
+   "trailer": {
+    "key": "YAfCD9MVq_c",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.116,
+   "vote_count": 970
+  },
   "movie:494974": {
    "backdrop_path": "/eyAv397zDUSRv8Y8BP4IBZDmQIE.jpg",
    "budget": 0,
@@ -5086,6 +6011,127 @@
    "vote_average": 5.837,
    "vote_count": 384
   },
+  "movie:52274": {
+   "backdrop_path": "/18xaRN1i08zqDJWsVPpSYHLIvGL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Julia Levin / Sara",
+     "n": "Belén Rueda"
+    },
+    {
+     "c": "Isaac",
+     "n": "Lluís Homar"
+    },
+    {
+     "c": "Ángel",
+     "n": "Pablo Derqui"
+    },
+    {
+     "c": "Inspector Dimas",
+     "n": "Francesc Orella"
+    },
+    {
+     "c": "Créspulo",
+     "n": "Joan Dalmau"
+    },
+    {
+     "c": "Soledad",
+     "n": "Julia Gutiérrez Caba"
+    },
+    {
+     "c": "Blasco",
+     "n": "Boris Ruiz"
+    },
+    {
+     "c": "Iván",
+     "n": "Dani Codina"
+    },
+    {
+     "c": "Lía Blasco",
+     "n": "Andrea Hermosa"
+    },
+    {
+     "c": "Dr. Román",
+     "n": "Daniel Grao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Guillem Morales"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 52274,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Julia, a woman suffering from a degenerative sight disease, finds her blind sister Sara hung in a basement. Despite all signs pointing to suicide, Julia decides to investigate what she intuitively feels is a murder case.",
+   "popularity": 2.4561,
+   "poster_path": "/p9HqHVdW9oedgRMyZkBov8hDQiW.jpg",
+   "production_countries": [
+    "BE",
+    "ES",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-08-16",
+   "revenue": 12884923,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "You can't hide in the dark.",
+   "title": "Julia's Eyes",
+   "trailer": {
+    "key": "YSnRWQJPvhI",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.659,
+   "vote_count": 905
+  },
   "movie:53174": {
    "backdrop_path": "/oIFtnPkM3jqbq4kGlEjhARvhIxo.jpg",
    "budget": 5650000,
@@ -5233,6 +6279,116 @@
    "type": "movie",
    "vote_average": 7.914,
    "vote_count": 426
+  },
+  "movie:615774": {
+   "backdrop_path": "/cVqwzMSNPS4vgUDlXlSYoWOmGsI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Scooby Doo / Fred Jones (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Daphne Blake (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Shaggy Rogers (voice)",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Velma Dinkley (voice)",
+     "n": "Kate Micucci"
+    },
+    {
+     "c": "Jack / Sheriff (voice)",
+     "n": "David Herman"
+    },
+    {
+     "c": "Cat Person / Sister Withers (voice)",
+     "n": "Janell Cox"
+    },
+    {
+     "c": "Elvira (voice)",
+     "n": "Cassandra Peterson"
+    },
+    {
+     "c": "Lead Cat Person / Narrator (voice)",
+     "n": "Roger Rose"
+    },
+    {
+     "c": "Alan Smithee (voice)",
+     "n": "John Michael Higgins"
+    },
+    {
+     "c": "Seaver (voice)",
+     "n": "Travis Willingham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ethan Spaulding",
+    "Cecilia Aranovich"
+   ],
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Horror"
+   ],
+   "id": 615774,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Scooby-Doo and his pals win an all-expense paid vacation and embark on a trip of a lifetime to a tropical paradise. Their destination however, turns out to be Zombie Island. As soon as they arrive, they realize the place looks strangely familiar and is reminiscent of a trip they took years ago, in which they became wrapped up in a mystery involving zombies. The gang soon learns that their trip to paradise comes with a price when the zombies re-emerge and attack their hotel. Will Scooby-Doo and the Mystery Inc. gang finally solve the mystery behind Zombie Island?",
+   "popularity": 1.9337,
+   "poster_path": "/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-09-03",
+   "revenue": 0,
+   "runtime": 80,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's terror time... again.",
+   "title": "Scooby-Doo! Return to Zombie Island",
+   "trailer": {
+    "key": "wrwoDj-fNxk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.975,
+   "vote_count": 977
   },
   "movie:673174": {
    "backdrop_path": "/61uvGsh4HmhEBDGIUuSEpIjYHdF.jpg",

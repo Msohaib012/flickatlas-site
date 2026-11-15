@@ -1,7 +1,173 @@
 {
  "bucket": "38",
- "count": 50,
+ "count": 57,
  "titles": {
+  "movie:10238": {
+   "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+   "budget": 400000,
+   "cast": [
+    {
+     "c": "Maria",
+     "n": "Liv Ullmann"
+    },
+    {
+     "c": "Karin",
+     "n": "Ingrid Thulin"
+    },
+    {
+     "c": "Anna",
+     "n": "Kari Sylwan"
+    },
+    {
+     "c": "Agnes",
+     "n": "Harriet Andersson"
+    },
+    {
+     "c": "David",
+     "n": "Erland Josephson"
+    },
+    {
+     "c": "Fredrik",
+     "n": "Georg Årlin"
+    },
+    {
+     "c": "Isak",
+     "n": "Anders Ek"
+    },
+    {
+     "c": "Joakim",
+     "n": "Henning Moritzen"
+    },
+    {
+     "c": "Narrator (voice)",
+     "n": "Ingmar Bergman"
+    },
+    {
+     "c": "Girl at a Family Gathering (uncredited)",
+     "n": "Ingrid Sandell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ingmar Bergman"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 10238,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
+   "popularity": 2.623,
+   "poster_path": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+   "production_countries": [
+    "SE"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1972-12-21",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Four women dressed in white in a mansion painted red... haunted by whispers and cries.",
+   "title": "Cries and Whispers",
+   "trailer": {
+    "key": "zc8f9ZlMnTU",
+    "name": "AFS Presents: Ingmar Bergman's Cries and Whispers",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.849,
+   "vote_count": 819
+  },
   "movie:10938": {
    "backdrop_path": "/2qGHNcU8YBIbvNc8HR1YczBeejA.jpg",
    "budget": 0,
@@ -166,6 +332,122 @@
    "type": "movie",
    "vote_average": 7.268,
    "vote_count": 366
+  },
+  "movie:1094138": {
+   "backdrop_path": "/7mQ13AV4qd6A43XxXfSoyYQMzhh.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Katie Kim",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Noel Cassidy",
+     "n": "John Cena"
+    },
+    {
+     "c": "Louis Lewis",
+     "n": "Simu Liu"
+    },
+    {
+     "c": "Shadi",
+     "n": "Ayden Mayeri"
+    },
+    {
+     "c": "DJ Donald",
+     "n": "Donald Watkins"
+    },
+    {
+     "c": "Senior Agent Ash",
+     "n": "Sam Asghari"
+    },
+    {
+     "c": "Machine Gun Kelly",
+     "n": "mgk"
+    },
+    {
+     "c": "Rugged Man",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Grandma Tala",
+     "n": "Dolly de Leon"
+    },
+    {
+     "c": "Sleazy Ron Wexler",
+     "n": "Michael Hitchcock"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Feig"
+   ],
+   "genres": [
+    "Comedy",
+    "Action"
+   ],
+   "id": 1094138,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the near future, a 'Grand Lottery' has been established - the catch: kill the winner before sundown to legally claim their multi-billion dollar jackpot. When Katie Kim mistakenly finds herself with the winning ticket, she reluctantly joins forces with amateur lottery protection agent Noel Cassidy who must get her to sundown in exchange for a piece of her prize.",
+   "popularity": 4.8503,
+   "poster_path": "/7vv0NTaQGOO7M5ZMerp1vMFJsby.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-08-13",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Take the money and run.",
+   "title": "Jackpot!",
+   "trailer": {
+    "key": "IW7pIYtpp50",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.347,
+   "vote_count": 860
   },
   "movie:11338": {
    "backdrop_path": "/4BzmhmxdhAjsK1gcZfytYGAibr0.jpg",
@@ -1465,6 +1747,121 @@
    "type": "movie",
    "vote_average": 6.483,
    "vote_count": 89
+  },
+  "movie:14438": {
+   "backdrop_path": "/3gMtnO5vDznlKsUW7sU9EfRufIc.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Caleb Holt",
+     "n": "Kirk Cameron"
+    },
+    {
+     "c": "Catherine Holt",
+     "n": "Erin Bethea"
+    },
+    {
+     "c": "Michael Simmons",
+     "n": "Ken Bevel"
+    },
+    {
+     "c": "Wayne Floyd",
+     "n": "Stephen Dervan"
+    },
+    {
+     "c": "Terrell Sanders",
+     "n": "Ric Young"
+    },
+    {
+     "c": "Eric Harmon",
+     "n": "Jason McLeod"
+    },
+    {
+     "c": "John Holt",
+     "n": "Harris Malcom"
+    },
+    {
+     "c": "Cheryl Holt",
+     "n": "Phyllis Malcom"
+    },
+    {
+     "c": "Gavin Keller",
+     "n": "Perry Revell"
+    },
+    {
+     "c": "Robin Cates",
+     "n": "Stephanie Makulinski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alex Kendrick"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 14438,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A heroic fire captain values dedication and service to others above all else, but the most important partnership in his life, his marriage, is about to go up in smoke.",
+   "popularity": 2.9216,
+   "poster_path": "/hfoCG75j1YaNyfZGPg0rWy3nFmU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-09-26",
+   "revenue": 33473297,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never leave your partner behind.",
+   "title": "Fireproof",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.701,
+   "vote_count": 887
   },
   "movie:1457938": {
    "backdrop_path": "/6IuoMwcq20Y8xZ7UqQzZwjn0Esc.jpg",
@@ -3797,6 +4194,145 @@
    "vote_average": 6.8,
    "vote_count": 327
   },
+  "movie:48838": {
+   "backdrop_path": "/kuxLjp8ufk066O5YyNU116iVku7.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Harry Mitchel",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Jordan",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Briony Mitchel",
+     "n": "Anna Friel"
+    },
+    {
+     "c": "Billy Norton",
+     "n": "Ben Chaplin"
+    },
+    {
+     "c": "Gant",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "DI Bailey",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Dr. Raju",
+     "n": "Sanjeev Bhaskar"
+    },
+    {
+     "c": "Danny",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Penny",
+     "n": "Ophelia Lovibond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Monahan"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 48838,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A parolee falls for a reclusive movie star while trying to evade a ruthless gangster.",
+   "popularity": 1.5664,
+   "poster_path": "/naQKmThKMtlur92CDgCP6b9aoQE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-11-10",
+   "revenue": 8307227,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not every criminal wants to be one.",
+   "title": "London Boulevard",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.897,
+   "vote_count": 853
+  },
   "movie:508138": {
    "backdrop_path": "/3C14xx4RteMksSUwgYfI52B8Iu6.jpg",
    "budget": 0,
@@ -4244,6 +4780,252 @@
    "type": "movie",
    "vote_average": 6.543,
    "vote_count": 487
+  },
+  "movie:591538": {
+   "backdrop_path": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Macbeth",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Lady Macbeth",
+     "n": "Frances McDormand"
+    },
+    {
+     "c": "Ross",
+     "n": "Alex Hassell"
+    },
+    {
+     "c": "Banquo",
+     "n": "Bertie Carvel"
+    },
+    {
+     "c": "Duncan",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Macduff",
+     "n": "Corey Hawkins"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Harry Melling"
+    },
+    {
+     "c": "Lennox",
+     "n": "Miles Anderson"
+    },
+    {
+     "c": "Witches / Old Man",
+     "n": "Kathryn Hunter"
+    },
+    {
+     "c": "Donalbain",
+     "n": "Matt Helm"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Joel Coen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 591538,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+   "popularity": 3.721,
+   "poster_path": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-12-26",
+   "revenue": 176248,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Tragedy of Macbeth",
+   "trailer": {
+    "key": "ptqe7s6pO7g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.914,
+   "vote_count": 916
+  },
+  "movie:677638": {
+   "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Grizzly (voice)",
+     "n": "Eric Edelstein"
+    },
+    {
+     "c": "Panda (voice)",
+     "n": "Bobby Moynihan"
+    },
+    {
+     "c": "Ice Bear (voice)",
+     "n": "Demetri Martin"
+    },
+    {
+     "c": "Agent Trout (voice)",
+     "n": "Marc Evan Jackson"
+    },
+    {
+     "c": "Charlie (voice)",
+     "n": "Jason Lee"
+    },
+    {
+     "c": "Nom Nom (voice)",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Chloe Park (voice)",
+     "n": "Lo Mutuc"
+    },
+    {
+     "c": "Lucy (voice)",
+     "n": "Ellie Kemper"
+    },
+    {
+     "c": "Darrel (voice)",
+     "n": "Mel Rodriguez"
+    },
+    {
+     "c": "Ranger Tabes (voice)",
+     "n": "Cameron Esposito"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Daniel Chong"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Comedy",
+    "TV Movie"
+   ],
+   "id": 677638,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
+   "popularity": 3.3878,
+   "poster_path": "/khtIr0Gxtz52T10RRQZ42o1a5Ry.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-06-30",
+   "revenue": 0,
+   "runtime": 69,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "FUGITIVES, FRIENDS AND FOREVER BROTHERS.",
+   "title": "We Bare Bears: The Movie",
+   "trailer": {
+    "key": "0ZNsLy2IwcY",
+    "name": "We Bare Bears Movie Official Trailer | Cartoon Network",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.816,
+   "vote_count": 871
   },
   "movie:785538": {
    "backdrop_path": "/iGXrJvq3EVAd7CAt5BicepJYr5M.jpg",
@@ -4788,6 +5570,178 @@
    "type": "movie",
    "vote_average": 6.728,
    "vote_count": 506
+  },
+  "movie:9638": {
+   "backdrop_path": "/71L3VXCRqpfdrSVy3iIWmyKXLTX.jpg",
+   "budget": 300000,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "A. Michael Baldwin"
+    },
+    {
+     "c": "Jody",
+     "n": "Bill Thornbury"
+    },
+    {
+     "c": "Reggie",
+     "n": "Reggie Bannister"
+    },
+    {
+     "c": "Lady in Lavender",
+     "n": "Kathy Lester"
+    },
+    {
+     "c": "The Tall Man",
+     "n": "Angus Scrimm"
+    },
+    {
+     "c": "Fortuneteller's Granddaughter",
+     "n": "Terrie Kalbus"
+    },
+    {
+     "c": "Caretaker",
+     "n": "Kenneth V. Jones"
+    },
+    {
+     "c": "Girlfriend",
+     "n": "Susan Harper"
+    },
+    {
+     "c": "Sally",
+     "n": "Lynn Eastman-Rossi"
+    },
+    {
+     "c": "Toby",
+     "n": "David Arntzen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Don Coscarelli"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 9638,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A teenage boy and his friends face off against a mysterious grave robber, known only as the Tall Man, who employs a lethal arsenal of unearthly weapons.",
+   "popularity": 2.3148,
+   "poster_path": "/eR0uJ0Wje1lYJ4aHEpkcjgIM8d7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1979-12-10",
+   "revenue": 11988469,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If this one doesn't scare you...you're already dead!",
+   "title": "Phantasm",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.488,
+   "vote_count": 827
   },
   "tv:1438": {
    "backdrop_path": "/aQTtua5pG490fMfeKgtYg5B853e.jpg",

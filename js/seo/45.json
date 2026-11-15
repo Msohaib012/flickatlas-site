@@ -1,6 +1,6 @@
 {
  "bucket": "45",
- "count": 61,
+ "count": 65,
  "titles": {
   "movie:10445": {
    "d": "Shadowlands (1993): Drama/Romance film. Story: C.S. Lewis, a world-renowned writer and professor… See cast, budget $22M, and TMDB rating 6.9/10.",
@@ -522,6 +522,70 @@
    "t": "247°F (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:1425045": {
+   "d": "Brick (2025): Thriller/Science Fiction film. Story: When a mysterious brick wall encloses their apartment… See cast and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+   "industry": "world",
+   "k": "Brick, Brick movie, Brick cast, Brick story, Brick box office collection, Brick budget, Brick review, Brick rating, Brick release date, Brick trailer, Brick Thriller, Brick Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthias Schweighöfer"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby O. Fee"
+     },
+     {
+      "@type": "Person",
+      "name": "Frederick Lau"
+     },
+     {
+      "@type": "Person",
+      "name": "Salber Lee Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Murathan Muslu"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 818,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Brick (2025): Thriller/Science Fiction film. Story: When a mysterious brick wall encloses their apartment… See cast and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Philip Koch"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Thriller",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1425045",
+    "name": "Brick",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-07-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1425045"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Brick (2025)</h1>\n<p class=\"ssr-lead\">When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 July 2025</li><li>Runtime: 99 minutes</li><li>Director: Philip Koch</li><li>Genres: Thriller, Science Fiction</li><li>TMDB rating: 5.8/10 (818 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthias Schweighöfer as Tim</li><li>Ruby O. Fee as Olivia</li><li>Frederick Lau as Marvin</li><li>Salber Lee Williams as Ana</li><li>Murathan Muslu as Yuri</li><li>Sira-Anna Faal as Lea</li><li>Axel Werner as Oswalt</li><li>Alexander Beyer as Friedman</li><li>Josef Berousek as Anton</li><li>Daniele Rizzo as Peter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Brick (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:1510745": {
    "d": "Bodycam (2026): Horror film. Story: A call to a quiet suburban home unleashes unthinkable… See cast, TMDB rating 6.0/10, and release date 12 March 2026.",
    "img": "https://image.tmdb.org/t/p/w780/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
@@ -712,6 +776,69 @@
    "t": "Yoh! Bestie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:177945": {
+   "d": "Like Father, Like Son (2013): Drama film. Story: Ryota Nonomiya is a successful businessman driven by… See cast and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg",
+   "industry": "world",
+   "k": "Like Father, Like Son, Like Father, Like Son movie, Like Father, Like Son cast, Like Father, Like Son story, Like Father, Like Son box office collection, Like Father, Like Son budget, Like Father, Like Son review, Like Father, Like Son rating, Like Father, Like Son release date, Like Father, Like Son trailer, Like Father, Like Son Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masaharu Fukuyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Machiko Ono"
+     },
+     {
+      "@type": "Person",
+      "name": "Yoko Maki"
+     },
+     {
+      "@type": "Person",
+      "name": "Lily Franky"
+     },
+     {
+      "@type": "Person",
+      "name": "Jun Fubuki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 836,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Like Father, Like Son (2013): Drama film. Story: Ryota Nonomiya is a successful businessman driven by… See cast and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hirokazu Kore-eda"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kpBl6nGmRaUKmvASc1S3hB9F71q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=177945",
+    "name": "Like Father, Like Son",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-09-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=177945"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Like Father, Like Son (2013)</h1>\n<p class=\"ssr-lead\">Ryota Nonomiya is a successful businessman driven by money. He learns that his biological son was switched with another child after birth. He must make a life-changing decision and choose his true son or the boy he raised as his own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 September 2013</li><li>Runtime: 120 minutes</li><li>Director: Hirokazu Kore-eda</li><li>Genres: Drama</li><li>TMDB rating: 7.7/10 (836 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masaharu Fukuyama as Ryota Nonomiya</li><li>Machiko Ono as Midori Nonomiya</li><li>Yoko Maki as Yukari Saiki</li><li>Lily Franky as Yudai Saiki</li><li>Jun Fubuki as Nobuko Nonomiya</li><li>Jun Kunimura as Kazushi Kamiyama</li><li>Kirin Kiki as Riko Ishizeki</li><li>Isao Natsuyagi as Ryosuke Nonomiya</li><li>Arata Iura as Shinichi Yamabe</li><li>Keita Ninomiya as Keita Nonomiya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Like Father, Like Son (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:17845": {
    "d": "Loft (2008): Drama/Mystery film. Story: Five close friends, all of them married, share a loft… See cast, budget $3.2M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/eUM3rcy8tQjOJKqyp1VXxqJWCn3.jpg",
@@ -839,6 +966,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>2 Days in Paris (2007)</h1>\n<p class=\"ssr-lead\">Marion and Jack try to rekindle their relationship with a visit to Paris, home of Marion&#x27;s parents — and several of her ex-boyfriends.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 February 2007</li><li>Runtime: 96 minutes</li><li>Director: Julie Delpy</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.3/10 (446 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julie Delpy as Marion</li><li>Adam Goldberg as Jack</li><li>Daniel Brühl as Lucas</li><li>Adan Jodorowsky as Mathieu</li><li>Alexandre Nahon as Manu</li><li>Albert Delpy as Jeannot</li><li>Alexia Landeau as Rose - Marion&#x27;s Sister</li><li>Vanessa Seward as Vanessa</li><li>Marie Pillet as Anna - Marion&#x27;s Mother</li><li>Charlotte Maury-Sentier as Robbed Lady</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Philo, Starz Amazon Channel, Starz, Amazon Prime Video with Ads, Starz Apple TV channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "2 Days in Paris (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:20345": {
+   "d": "The Bird with the Crystal Plumage (1970): Horror/Mystery film. Story: An American writer living in Rome witnesses an… See cast and budget $500.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/jCh4lxFGREOf3JHDxxnlbWv2xWq.jpg",
+   "industry": "world",
+   "k": "The Bird with the Crystal Plumage, The Bird with the Crystal Plumage movie, The Bird with the Crystal Plumage cast, The Bird with the Crystal Plumage story, The Bird with the Crystal Plumage box office collection, The Bird with the Crystal Plumage budget, The Bird with the Crystal Plumage review, The Bird with the Crystal Plumage rating, The Bird with the Crystal Plumage release date, The Bird with the Crystal Plumage trailer, The Bird with the Crystal Plumage Horror, The Bird with the Crystal Plumage Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tony Musante"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzy Kendall"
+     },
+     {
+      "@type": "Person",
+      "name": "Enrico Maria Salerno"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Renzi"
+     },
+     {
+      "@type": "Person",
+      "name": "Umberto Raho"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 877,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Bird with the Crystal Plumage (1970): Horror/Mystery film. Story: An American writer living in Rome witnesses an… See cast and budget $500.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dario Argento"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jCh4lxFGREOf3JHDxxnlbWv2xWq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20345",
+    "name": "The Bird with the Crystal Plumage",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1970-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20345"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bird with the Crystal Plumage (1970)</h1>\n<p class=\"ssr-lead\">An American writer living in Rome witnesses an attempted murder that is connected to an ongoing killing spree in the city and conducts his own investigation, despite him and his girlfriend being targeted by the killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 1970</li><li>Runtime: 96 minutes</li><li>Director: Dario Argento</li><li>Genres: Horror, Mystery, Thriller</li><li>Budget: $500.0k</li><li>TMDB rating: 7.1/10 (877 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tony Musante as Sam Dalmas</li><li>Suzy Kendall as Julia</li><li>Enrico Maria Salerno as Inspector Morosini</li><li>Eva Renzi as Monica Ranieri</li><li>Umberto Raho as Alberto Ranieri</li><li>Renato Romano as Professor Carlo Dover</li><li>Giuseppe Castellano as Monti</li><li>Mario Adorf as Berto Consalvi</li><li>Pino Patti as Faiena</li><li>Gildo Di Marco as Garullo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Philo, Fandor, Fandor Amazon Channel, Screambox Amazon Channel, FlixFling, IndieFlix, Eternal Family, Amazon Prime Video with Ads, Troma NOW, Midnight Pulp Amazon Channel, IndieFlix Shorts Amazon Channel, Bloodstream, Cineverse Amazon Channel, ARROW</li><li>Rent: Amazon Video, Fandango At Home, FlixFling, Bloodstream</li><li>Buy: Amazon Video, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "The Bird with the Crystal Plumage (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1970"
   },
   "movie:21845": {
    "d": "Rookie of the Year (1993): Family/Comedy film. Story: When the cast comes off his once broken arm, a… See cast, budget $31M, and TMDB rating 6.2/10.",
@@ -1677,6 +1868,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Casper Meets Wendy (1998)</h1>\n<p class=\"ssr-lead\">When a warlock threatens Wendy the Good Little Witch, she and her aunts hide out at a resort where Casper the Ghost is vacationing with his uncles. Although Casper and Wendy are told ghosts and witches don&#x27;t get along, the two are kindred spirits! This spooky family-friendly adventure finds Casper and Wendy bridging the ghost-witch divide to battle the warlock who is intent on destroying Wendy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 1998</li><li>Runtime: 90 minutes</li><li>Director: Sean McNamara</li><li>Genres: Family, Fantasy, Comedy, TV Movie</li><li>TMDB rating: 5.9/10 (430 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hilary Duff as Wendy</li><li>Shelley Duvall as Gabby</li><li>Cathy Moriarty as Geri</li><li>Teri Garr as Fanny</li><li>George Hamilton as Desmond Spellman</li><li>Jeremy Foley as Casper (voice)</li><li>Jim Ward as Stretch (voice)</li><li>Jess Harnell as Fatso (voice)</li><li>Richard Moll as Jules</li><li>Vincent Schiavelli as Vincent</li></ul>\n</article>",
    "t": "Casper Meets Wendy (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:407445": {
+   "d": "Breathe (2017): Drama/Romance film. Story: Based on the true story of Robin, a handsome… See cast, TMDB rating 7.4/10, and release date 20 October 2017.",
+   "img": "https://image.tmdb.org/t/p/w780/quVfDYktBYQfojgZ3E9pYrclGse.jpg",
+   "industry": "world",
+   "k": "Breathe, Breathe movie, Breathe cast, Breathe story, Breathe box office collection, Breathe budget, Breathe review, Breathe rating, Breathe release date, Breathe trailer, Breathe Drama, Breathe Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew Garfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Claire Foy"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Bonneville"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hollander"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Raison"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 822,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Breathe (2017): Drama/Romance film. Story: Based on the true story of Robin, a handsome… See cast, TMDB rating 7.4/10, and release date 20 October 2017.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andy Serkis"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/quVfDYktBYQfojgZ3E9pYrclGse.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=407445",
+    "name": "Breathe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-10-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=407445"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Breathe (2017)</h1>\n<p class=\"ssr-lead\">Based on the true story of Robin, a handsome, brilliant and adventurous man whose life takes a dramatic turn when polio leaves him paralyzed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 October 2017</li><li>Runtime: 118 minutes</li><li>Director: Andy Serkis</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.4/10 (822 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Garfield as Robin Cavendish</li><li>Claire Foy as Diana Cavendish</li><li>Hugh Bonneville as Teddy Hall</li><li>Tom Hollander as Bloggs Blacker / David Blacker</li><li>Miranda Raison as Mary Dawney</li><li>Dean-Charles Chapman as Jonathan</li><li>Diana Rigg as Lady Neville</li><li>Ed Speleers as Colin Campbell</li><li>Emily Bevan as Nurse Margaret</li><li>Ben Lloyd-Hughes as Dr. Don McQueen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Breathe (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:41245": {
    "d": "Peppermint Candy (2000): Drama film. Story: In the spring of 1999, a group of old friends gather… See cast, TMDB rating 7.5/10, and release date 1 January 2000.",

@@ -1,6 +1,6 @@
 {
  "bucket": "67",
- "count": 58,
+ "count": 69,
  "titles": {
   "movie:10167": {
    "d": "Half Past Dead (2002): Crime/Action film. Story: A man goes undercover in a hi-tech prison to find out… See cast, budget $25M, and TMDB rating 5.1/10.",
@@ -129,6 +129,134 @@
    "t": "Major League II (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:1114967": {
+   "d": "Good Fortune (2025): Comedy/Fantasy film. Story: A well-meaning but rather inept angel named Gabriel… See cast, budget $30M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
+   "industry": "world",
+   "k": "Good Fortune, Good Fortune movie, Good Fortune cast, Good Fortune story, Good Fortune box office collection, Good Fortune budget, Good Fortune review, Good Fortune rating, Good Fortune release date, Good Fortune trailer, Good Fortune Comedy, Good Fortune Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aziz Ansari"
+     },
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Rogen"
+     },
+     {
+      "@type": "Person",
+      "name": "Keke Palmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandra Oh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 901,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Good Fortune (2025): Comedy/Fantasy film. Story: A well-meaning but rather inept angel named Gabriel… See cast, budget $30M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Aziz Ansari"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1114967",
+    "name": "Good Fortune",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-10-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1114967"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Good Fortune (2025)</h1>\n<p class=\"ssr-lead\">A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 October 2025</li><li>Runtime: 97 minutes</li><li>Director: Aziz Ansari</li><li>Genres: Comedy, Fantasy</li><li>Budget: $30M</li><li>TMDB rating: 6.9/10 (901 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aziz Ansari as Arj / Delivery Robots (voice)</li><li>Keanu Reeves as Gabriel</li><li>Seth Rogen as Jeff</li><li>Keke Palmer as Elena</li><li>Sandra Oh as Martha</li><li>Sherry Cola as Linda</li><li>Stephen McKinley Henderson as Azrael</li><li>Blanca Araceli as Rosa</li><li>Joe Mande as Joe</li><li>Aditya Geddada as Navid</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Good Fortune (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:11167": {
+   "d": "Peeping Tom (1960): Thriller/Horror film. Story: Loner Mark Lewis works at a film studio during the… See cast, budget $150.0k, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+   "industry": "world",
+   "k": "Peeping Tom, Peeping Tom movie, Peeping Tom cast, Peeping Tom story, Peeping Tom box office collection, Peeping Tom budget, Peeping Tom review, Peeping Tom rating, Peeping Tom release date, Peeping Tom trailer, Peeping Tom Thriller, Peeping Tom Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Karlheinz Böhm"
+     },
+     {
+      "@type": "Person",
+      "name": "Moira Shearer"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Massey"
+     },
+     {
+      "@type": "Person",
+      "name": "Maxine Audley"
+     },
+     {
+      "@type": "Person",
+      "name": "Brenda Bruce"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 952,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Peeping Tom (1960): Thriller/Horror film. Story: Loner Mark Lewis works at a film studio during the… See cast, budget $150.0k, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Powell"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Thriller",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11167",
+    "name": "Peeping Tom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1960-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11167"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Peeping Tom (1960)</h1>\n<p class=\"ssr-lead\">Loner Mark Lewis works at a film studio during the day and, at night, takes racy photographs of women. Also he&#x27;s making a documentary on fear, which involves recording the reactions of victims as he murders them. He befriends Helen, the daughter of the family living in the apartment below his, and he tells her vaguely about the movie he is making.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 1960</li><li>Runtime: 101 minutes</li><li>Director: Michael Powell</li><li>Genres: Thriller, Horror</li><li>Budget: $150.0k</li><li>TMDB rating: 7.4/10 (952 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Karlheinz Böhm as Mark Lewis</li><li>Moira Shearer as Vivian</li><li>Anna Massey as Helen Stephens</li><li>Maxine Audley as Mrs. Stephens</li><li>Brenda Bruce as Dora</li><li>Miles Malleson as Elderly Gentleman Customer</li><li>Esmond Knight as Arthur Baden</li><li>Martin Miller as Dr. Rosen</li><li>Michael Goodliffe as Don Jarvis</li><li>Jack Watson as Chief Insp. Gregg</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cultpix</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Peeping Tom (1960) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1960"
+  },
   "movie:11367": {
    "d": "Odds and Evens (1978): Comedy/Crime film. Story: A bumbling government agent recruits a trucker whose… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/2OPIWYGSRUPc0UPiA0Xn4gG7CBe.jpg",
@@ -192,6 +320,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Odds and Evens (1978)</h1>\n<p class=\"ssr-lead\">A bumbling government agent recruits a trucker whose gambling knowledge can help crack an illegal Florida operation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 1978</li><li>Runtime: 115 minutes</li><li>Director: Sergio Corbucci</li><li>Genres: Comedy, Crime, Action</li><li>TMDB rating: 7.0/10 (458 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Terence Hill as Johnny Firpo</li><li>Bud Spencer as Charlie Firpo</li><li>Luciano Catenacci as Paragoulis</li><li>Marisa Laurito as Sister Susanna</li><li>Kim McKay as Pupa</li><li>Sal Borgese as Nynfus</li><li>Jerry Lester as Mike Firpo</li><li>Woody Woodbury as Admiral O&#x27;Connor</li><li>Carlo Reali as Marine Officer</li><li>Riccardo Pizzuti as Mancino</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Odds and Evens (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1978"
+  },
+  "movie:11467": {
+   "d": "America's Sweethearts (2001): Comedy/Romance film. Story: In the midst of a nasty public breakup of married… See cast, budget $64.4M, and TMDB rating 5.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vSCrjBiEWPMInaQyFvk2pNyZHHm.jpg",
+   "industry": "world",
+   "k": "America's Sweethearts, America's Sweethearts movie, America's Sweethearts cast, America's Sweethearts story, America's Sweethearts box office collection, America's Sweethearts budget, America's Sweethearts review, America's Sweethearts rating, America's Sweethearts release date, America's Sweethearts trailer, America's Sweethearts Comedy, America's Sweethearts Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julia Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Crystal"
+     },
+     {
+      "@type": "Person",
+      "name": "John Cusack"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Zeta-Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Hank Azaria"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 925,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "America's Sweethearts (2001): Comedy/Romance film. Story: In the midst of a nasty public breakup of married… See cast, budget $64.4M, and TMDB rating 5.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Roth"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vSCrjBiEWPMInaQyFvk2pNyZHHm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11467",
+    "name": "America's Sweethearts",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-07-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11467"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>America&#x27;s Sweethearts (2001)</h1>\n<p class=\"ssr-lead\">In the midst of a nasty public breakup of married movie stars, a studio publicist scrambles to put a cap on the escalating situation as the couple&#x27;s latest film has found it&#x27;s only print kidnapped by the director.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 July 2001</li><li>Runtime: 102 minutes</li><li>Director: Joe Roth</li><li>Genres: Comedy, Romance</li><li>Budget: $64.4M</li><li>TMDB rating: 5.7/10 (925 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Roberts as Kiki Harrison</li><li>Billy Crystal as Lee Phillips</li><li>John Cusack as Eddie Thomas</li><li>Catherine Zeta-Jones as Gwen Harrison</li><li>Hank Azaria as Hector</li><li>Stanley Tucci as Dave Kingman</li><li>Christopher Walken as Hal Weidmann</li><li>Alan Arkin as Wellness Guide</li><li>Seth Green as Danny Wax</li><li>Scot Zeller as Davis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "America's Sweethearts (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
   },
   "movie:1177767": {
    "d": "Mile End Kicks (2026): Comedy/Romance film. Story: Grace Pine, a 24-year-old music critic, moves to… See cast and TMDB rating 5.7/10.",
@@ -580,6 +772,69 @@
    "t": "The Last Kiss (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13567": {
+   "d": "Sleepaway Camp (1983): Horror film. Story: Years after a terrible boating accident, Angela is… See cast, budget $350.0k, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nQbvPYjj3U3pz8alPpHIdvVIoHx.jpg",
+   "industry": "world",
+   "k": "Sleepaway Camp, Sleepaway Camp movie, Sleepaway Camp cast, Sleepaway Camp story, Sleepaway Camp box office collection, Sleepaway Camp budget, Sleepaway Camp review, Sleepaway Camp rating, Sleepaway Camp release date, Sleepaway Camp trailer, Sleepaway Camp Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mike Kellin"
+     },
+     {
+      "@type": "Person",
+      "name": "Katherine Kamhi"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul DeAngelo"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Tiersten"
+     },
+     {
+      "@type": "Person",
+      "name": "Felissa Rose"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 846,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Sleepaway Camp (1983): Horror film. Story: Years after a terrible boating accident, Angela is… See cast, budget $350.0k, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Hiltzik"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nQbvPYjj3U3pz8alPpHIdvVIoHx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13567",
+    "name": "Sleepaway Camp",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-11-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13567"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sleepaway Camp (1983)</h1>\n<p class=\"ssr-lead\">Years after a terrible boating accident, Angela is sent to Camp Arawak where a series of bizarre and violent &quot;accidents&quot; begin to claim the lives of various campers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 November 1983</li><li>Runtime: 85 minutes</li><li>Director: Robert Hiltzik</li><li>Genres: Horror</li><li>Budget: $350.0k</li><li>TMDB rating: 6.3/10 (846 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Kellin as Mel</li><li>Katherine Kamhi as Meg</li><li>Paul DeAngelo as Ronnie</li><li>Jonathan Tiersten as Ricky</li><li>Felissa Rose as Angela</li><li>Karen Fields as Judy</li><li>Christopher Collet as Paul</li><li>Desiree Gould as Aunt Martha</li><li>Owen Hughes as Artie</li><li>Robert Earl Jones as Ben</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Peacock Premium, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder, Night Flight Plus, Screambox Amazon Channel, Amazon Prime Video with Ads, Peacock Premium Plus, Midnight Pulp Amazon Channel, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Sleepaway Camp (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
+  },
   "movie:1433367": {
    "d": "One Night Only (2026): Romance/Comedy film. Story: Two love-starved strangers crash into each other on… See cast, budget $25M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
@@ -643,6 +898,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>One Night Only (2026)</h1>\n<p class=\"ssr-lead\">Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2026</li><li>Runtime: 103 minutes</li><li>Director: Will Gluck</li><li>Genres: Romance, Comedy</li><li>Budget: $25M</li><li>TMDB rating: 6.4/10 (263 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Monica Barbaro as Allie</li><li>Callum Turner as Owen</li><li>Maya Hawke as Malika</li><li>King Princess as Jacinta</li><li>Molly Ringwald as Linda</li><li>LeVar Burton as Rick</li><li>Charlie Gillespie as Ezra Strong</li><li>Quintessa Swindell as Arya</li><li>Mateo Ray Garcia as Troy</li><li>Okieriete Onaodowan as Tejan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "One Night Only (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:15067": {
+   "d": "The Good, the Bad, the Weird (2008): Action/Adventure film. Story: The story of three Korean outlaws in 1930s Manchuria… See cast and budget $10M.",
+   "img": "https://image.tmdb.org/t/p/w780/gec3e76TRGUBx1Ut0c6yuSahVDp.jpg",
+   "industry": "world",
+   "k": "The Good, the Bad, the Weird, The Good, the Bad, the Weird movie, The Good, the Bad, the Weird cast, The Good, the Bad, the Weird story, The Good, the Bad, the Weird box office collection, The Good, the Bad, the Weird budget, The Good, the Bad, the Weird review, The Good, the Bad, the Weird rating, The Good, the Bad, the Weird release date, The Good, the Bad, the Weird trailer, The Good, the Bad, the Weird Action, The Good, the Bad, the Weird Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Song Kang-ho"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Byung-hun"
+     },
+     {
+      "@type": "Person",
+      "name": "Jung Woo-sung"
+     },
+     {
+      "@type": "Person",
+      "name": "Yoon Je-moon"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryu Seung-soo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 868,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Good, the Bad, the Weird (2008): Action/Adventure film. Story: The story of three Korean outlaws in 1930s Manchuria… See cast and budget $10M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kim Jee-woon"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gec3e76TRGUBx1Ut0c6yuSahVDp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=15067",
+    "name": "The Good, the Bad, the Weird",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-07-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=15067"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Good, the Bad, the Weird (2008)</h1>\n<p class=\"ssr-lead\">The story of three Korean outlaws in 1930s Manchuria and their dealings with the Japanese army and Chinese and Russian bandits. The Good (a bounty hunter), the Bad (a hitman), and the Weird (a thief) battle the army and the bandits in a race to use a treasure map to uncover the riches of legend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 2008</li><li>Runtime: 130 minutes</li><li>Director: Kim Jee-woon</li><li>Genres: Action, Adventure, Comedy, Western</li><li>Budget: $10M</li><li>TMDB rating: 7.2/10 (868 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Song Kang-ho as Yoon Tae-goo</li><li>Lee Byung-hun as Park Chang-yi</li><li>Jung Woo-sung as Park Do-won</li><li>Yoon Je-moon as Byung-choon</li><li>Ryu Seung-soo as Man-gil</li><li>Song Young-chang as Kim Pan-joo</li><li>Son Byung-ho as Seo Jae-sik</li><li>Oh Dal-su as Mr. Park</li><li>Lee Chung-ah as Song-yi</li><li>Kim Kwang-il as Two Blades</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Good, the Bad, the Weird (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1523067": {
    "d": "Scuola di seduzione (2026): Comedy film. Story: A love coach helps six different people navigate… See cast, TMDB rating 5.4/10, and release date 1 April 2026.",
@@ -1473,6 +1792,70 @@
    "t": "The Lovers on the Bridge (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:286567": {
+   "d": "Max Steel (2016): Action/Adventure film. Story: The adventures of teenager Max McGrath and alien… See cast, budget $10M, and TMDB rating 5.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dHM5EMGTcGizcBAb1zzVEuDDUYS.jpg",
+   "industry": "world",
+   "k": "Max Steel, Max Steel movie, Max Steel cast, Max Steel story, Max Steel box office collection, Max Steel budget, Max Steel review, Max Steel rating, Max Steel release date, Max Steel trailer, Max Steel Action, Max Steel Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Winchell"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Brener"
+     },
+     {
+      "@type": "Person",
+      "name": "Maria Bello"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana Villafañe"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Garcia"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 888,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Max Steel (2016): Action/Adventure film. Story: The adventures of teenager Max McGrath and alien… See cast, budget $10M, and TMDB rating 5.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stewart Hendler"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dHM5EMGTcGizcBAb1zzVEuDDUYS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=286567",
+    "name": "Max Steel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=286567"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Max Steel (2016)</h1>\n<p class=\"ssr-lead\">The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2016</li><li>Runtime: 92 minutes</li><li>Director: Stewart Hendler</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $10M</li><li>TMDB rating: 5.5/10 (888 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Winchell as Max McGrath</li><li>Josh Brener as Steel (voice)</li><li>Maria Bello as Molly McGrath</li><li>Ana Villafañe as Sofia Martinez</li><li>Andy Garcia as Dr. Miles Edwards</li><li>Mike Doyle as Jim McGrath</li><li>Phillip DeVona as Harkins</li><li>Billy Slaughter as Agent Murphy</li><li>Al Mitchell as Dr. Smith</li><li>Lawrence Kao as Dr. Lee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Amazon Channel, Starz Apple TV channel, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Max Steel (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:300667": {
    "d": "3 Generations (2016): Comedy/Drama film. Story: A teenager transitions from female to male, and his… See cast, budget $10M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
@@ -2103,6 +2486,70 @@
    "t": "The Return of Godzilla (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
   },
+  "movie:467": {
+   "d": "The Hole (2001): Crime/Drama film. Story: Four teenagers at a British private school secretly… See cast, budget $4.16M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o3PJPcTY40mUkj96P6wwhTIN9Rf.jpg",
+   "industry": "world",
+   "k": "The Hole, The Hole movie, The Hole cast, The Hole story, The Hole box office collection, The Hole budget, The Hole review, The Hole rating, The Hole release date, The Hole Crime, The Hole Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Thora Birch"
+     },
+     {
+      "@type": "Person",
+      "name": "Desmond Harrington"
+     },
+     {
+      "@type": "Person",
+      "name": "Keira Knightley"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Embeth Davidtz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 947,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Hole (2001): Crime/Drama film. Story: Four teenagers at a British private school secretly… See cast, budget $4.16M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nick Hamm"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o3PJPcTY40mUkj96P6wwhTIN9Rf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=467",
+    "name": "The Hole",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-04-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=467"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hole (2001)</h1>\n<p class=\"ssr-lead\">Four teenagers at a British private school secretly uncover and explore the depths of a sealed underground hole created decades ago as a possible bomb shelter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 April 2001</li><li>Runtime: 102 minutes</li><li>Director: Nick Hamm</li><li>Genres: Crime, Drama, Horror, Thriller</li><li>Budget: $4.16M</li><li>TMDB rating: 6.2/10 (947 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Thora Birch as Liz Dunn</li><li>Desmond Harrington as Mike Steel</li><li>Keira Knightley as Frances &#x27;Frankie&#x27; Almond Smith</li><li>Laurence Fox as Geoff Bingham</li><li>Embeth Davidtz as Dr. Philippa Horwood</li><li>Steven Waddington as DCS Tom Howard</li><li>Emma Griffiths Malin as Daisy</li><li>Kelly Hunter as DI Chapman</li><li>Daniel Brocklebank as Martyn Taylor</li><li>Jemma Powell as Minnie (as Gemma Powell)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, YouTube</li><li>Buy: Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
+   "t": "The Hole (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:49367": {
    "d": "Two Sons of Francisco (2005): Drama/History film. Story: The story of Francisco, a very simple and poor man… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/fzGvBBXOKmSCMTvaUdRkrf9A5kk.jpg",
@@ -2229,6 +2676,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cedar Rapids (2011)</h1>\n<p class=\"ssr-lead\">A naive Midwesterner insurance salesman travels to a big-city convention in an effort to save the jobs of his co-workers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 February 2011</li><li>Runtime: 87 minutes</li><li>Director: Miguel Arteta</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (476 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ed Helms as Tim Lippe</li><li>John C. Reilly as Dean Ziegler</li><li>Anne Heche as Joan Ostrowski-Fox</li><li>Isiah Whitlock Jr. as Ronald Wilkes</li><li>Stephen Root as Bill Krogstad</li><li>Kurtwood Smith as Orin Helgesson</li><li>Alia Shawkat as Bree</li><li>Thomas Lennon as Roger Lemke</li><li>Rob Corddry as Gary</li><li>Mike O&#x27;Malley as Mike Pyle</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
    "t": "Cedar Rapids (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:5967": {
+   "d": "The Umbrellas of Cherbourg (1964): Drama/Romance film. Story: This simple romantic tragedy begins in 1957. Guy… See cast and budget $200.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg",
+   "industry": "world",
+   "k": "The Umbrellas of Cherbourg, The Umbrellas of Cherbourg movie, The Umbrellas of Cherbourg cast, The Umbrellas of Cherbourg story, The Umbrellas of Cherbourg box office collection, The Umbrellas of Cherbourg budget, The Umbrellas of Cherbourg review, The Umbrellas of Cherbourg rating, The Umbrellas of Cherbourg release date, The Umbrellas of Cherbourg trailer, The Umbrellas of Cherbourg Drama, The Umbrellas of Cherbourg Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Catherine Deneuve"
+     },
+     {
+      "@type": "Person",
+      "name": "Nino Castelnuovo"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Vernon"
+     },
+     {
+      "@type": "Person",
+      "name": "Mireille Perrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Michel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 923,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Umbrellas of Cherbourg (1964): Drama/Romance film. Story: This simple romantic tragedy begins in 1957. Guy… See cast and budget $200.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jacques Demy"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5967",
+    "name": "The Umbrellas of Cherbourg",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1964-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5967"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Umbrellas of Cherbourg (1964)</h1>\n<p class=\"ssr-lead\">This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother&#x27;s chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy&#x27;s return or accepting an offer of marriage from a wealthy diamond merchant.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 1964</li><li>Runtime: 93 minutes</li><li>Director: Jacques Demy</li><li>Genres: Drama, Romance</li><li>Budget: $200.0k</li><li>TMDB rating: 7.4/10 (923 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Catherine Deneuve as Geneviève Emery</li><li>Nino Castelnuovo as Guy Foucher</li><li>Anne Vernon as Madame Emery</li><li>Mireille Perrey as Tante Élise</li><li>Marc Michel as Roland Cassard</li><li>Ellen Farner as Madeleine</li><li>Jean Champion as Aubin</li><li>Jean-Pierre Dorat as Jean</li><li>Harald Wolff as Monsieur Dubourg</li><li>Pierre Caden as Bernard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Umbrellas of Cherbourg (1964) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1964"
   },
   "movie:659067": {
    "d": "Earth and Blood (2020): Action/Thriller film. Story: A sawmill owner and his teenage daughter become… See cast and TMDB rating 6.1/10.",
@@ -2358,6 +2869,74 @@
    "t": "Paradise Now (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:70667": {
+   "d": "Kon-Tiki (2012): Adventure/History film. Story: The true story about legendary explorer Thor… See cast, budget $16.6M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4KJSPoZwJ1TAIaTueDxtkmo5wE1.jpg",
+   "industry": "world",
+   "k": "Kon-Tiki, Kon-Tiki movie, Kon-Tiki cast, Kon-Tiki story, Kon-Tiki box office collection, Kon-Tiki budget, Kon-Tiki review, Kon-Tiki rating, Kon-Tiki release date, Kon-Tiki Adventure, Kon-Tiki History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pål Sverre Hagen"
+     },
+     {
+      "@type": "Person",
+      "name": "Anders Baasmo Christiansen"
+     },
+     {
+      "@type": "Person",
+      "name": "Tobias Santelmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Gustaf Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Odd-Magnus Williamson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 879,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Kon-Tiki (2012): Adventure/History film. Story: The true story about legendary explorer Thor… See cast, budget $16.6M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joachim Rønning"
+     },
+     {
+      "@type": "Person",
+      "name": "Espen Sandberg"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Adventure",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4KJSPoZwJ1TAIaTueDxtkmo5wE1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=70667",
+    "name": "Kon-Tiki",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-08-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=70667"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kon-Tiki (2012)</h1>\n<p class=\"ssr-lead\">The true story about legendary explorer Thor Heyerdahl and his epic crossing of the Pacific on a balsa wood raft in 1947, in an effort to prove it was possible for South Americans to settle in Polynesia in pre-Columbian times.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 August 2012</li><li>Runtime: 118 minutes</li><li>Director: Joachim Rønning, Espen Sandberg</li><li>Genres: Adventure, History</li><li>Budget: $16.6M</li><li>TMDB rating: 6.9/10 (879 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pål Sverre Hagen as Thor Heyerdahl</li><li>Anders Baasmo Christiansen as Herman Watzinger</li><li>Tobias Santelmann as Knut Haugland</li><li>Gustaf Skarsgård as Bengt Danielsson</li><li>Odd-Magnus Williamson as Erik Hesselberg</li><li>Jakob Oftebro as Torstein Raaby</li><li>Agnes Kittelsen as Liv Heyerdahl</li><li>Manuel Cauchi as Jose Bustamente</li><li>Richard Trinder as Løytnant Lewis</li><li>Søren Pilmark as Freuchen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Outside TV Features Amzon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Kon-Tiki (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:741067": {
    "d": "Welcome to Sudden Death (2020): Action/Drama film. Story: Jesse Freeman is a former special forces officer and… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/aO5ILS7qnqtFIprbJ40zla0jhpu.jpg",
@@ -2485,6 +3064,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Quintessential Quintuplets Movie (2022)</h1>\n<p class=\"ssr-lead\">When five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2022</li><li>Runtime: 136 minutes</li><li>Director: Masato Jimbo</li><li>Genres: Animation, Comedy, Romance</li><li>TMDB rating: 8.3/10 (464 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Yoshitsugu Matsuoka as Fuutarou Uesugi (voice)</li><li>Kana Hanazawa as Ichika Nakano (voice)</li><li>Ayana Taketatsu as Nino Nakano (voice)</li><li>Miku Ito as Miku Nakano (voice)</li><li>Ayane Sakura as Yotsuba Nakano (voice)</li><li>Inori Minase as Itsuki Nakano (voice)</li><li>Yuki Kyoka as Rena Nakano (voice)</li><li>Takaya Kuroda as Maruo Nakano (voice)</li><li>Natsumi Takamori as Raiha Uesugi (voice)</li><li>Satoshi Hino as Isanari Uesugi (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Quintessential Quintuplets Movie (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:867": {
+   "d": "Sliver (1993): Drama/Thriller film. Story: A woman moves into a Manhattan apartment, where she… See cast, budget $40M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zu09Mwoo69qwHpcj3gNtKntgUB7.jpg",
+   "industry": "world",
+   "k": "Sliver, Sliver movie, Sliver cast, Sliver story, Sliver box office collection, Sliver budget, Sliver review, Sliver rating, Sliver release date, Sliver trailer, Sliver Drama, Sliver Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sharon Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "William Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Berenger"
+     },
+     {
+      "@type": "Person",
+      "name": "Polly Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Colleen Camp"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 858,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Sliver (1993): Drama/Thriller film. Story: A woman moves into a Manhattan apartment, where she… See cast, budget $40M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Phillip Noyce"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zu09Mwoo69qwHpcj3gNtKntgUB7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=867",
+    "name": "Sliver",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-05-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=867"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sliver (1993)</h1>\n<p class=\"ssr-lead\">A woman moves into a Manhattan apartment, where she learns that the previous tenant&#x27;s life ended under mysterious circumstances.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 1993</li><li>Runtime: 107 minutes</li><li>Director: Phillip Noyce</li><li>Genres: Drama, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 5.6/10 (858 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sharon Stone as Carly Norris</li><li>William Baldwin as Zeke Hawkins</li><li>Tom Berenger as Jack Lansford</li><li>Polly Walker as Vida Warren</li><li>Colleen Camp as Judy Marks</li><li>Amanda Foreman as Samantha Moore</li><li>Martin Landau as Alex Parsons</li><li>CCH Pounder as Victoria Hendrix</li><li>Nina Foch as Mrs. McEvoy</li><li>Keene Curtis as Gus Hale</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Sliver (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
+  "movie:98567": {
+   "d": "Chinese Zodiac (2013): Action/Adventure film. Story: Asian Hawk leads a mercenary team to recover several… See cast, budget $26M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wKPRS8GmIxjV8obWbWC1WsNdUfr.jpg",
+   "industry": "world",
+   "k": "Chinese Zodiac, Chinese Zodiac movie, Chinese Zodiac cast, Chinese Zodiac story, Chinese Zodiac box office collection, Chinese Zodiac budget, Chinese Zodiac review, Chinese Zodiac rating, Chinese Zodiac release date, Chinese Zodiac Action, Chinese Zodiac Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     },
+     {
+      "@type": "Person",
+      "name": "Yao Xingtong"
+     },
+     {
+      "@type": "Person",
+      "name": "Kwon Sang-woo"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Lanxin"
+     },
+     {
+      "@type": "Person",
+      "name": "Liao Fan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 942,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Chinese Zodiac (2013): Action/Adventure film. Story: Asian Hawk leads a mercenary team to recover several… See cast, budget $26M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jackie Chan"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wKPRS8GmIxjV8obWbWC1WsNdUfr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=98567",
+    "name": "Chinese Zodiac",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-01-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=98567"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Chinese Zodiac (2013)</h1>\n<p class=\"ssr-lead\">Asian Hawk leads a mercenary team to recover several lost artifacts from the Old Summer Palace, the bronze heads of the twelve Chinese Zodiac animals which were sacked by the French and British armies from the imperial Summer Palace in Beijing in 1860. Assisted by a Chinese student and a Parisian woman, Hawk stops at nothing to accomplish the mission.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 January 2013</li><li>Runtime: 123 minutes</li><li>Director: Jackie Chan</li><li>Genres: Action, Adventure</li><li>Budget: $26M</li><li>TMDB rating: 6.2/10 (942 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jackie Chan as Jackie / Asian Hawk</li><li>Yao Xingtong as Coco</li><li>Kwon Sang-woo as Simon</li><li>Zhang Lanxin as Bonnie</li><li>Liao Fan as David Liao</li><li>Laura Weissbecker as Catherine de Sichel</li><li>Rosario Amedeo as Pierre Marceau</li><li>Vincent Sze Cho-Lam as Michael Morgan</li><li>Oliver Platt as Lawrence Morgan</li><li>Aventurina King as Student Protester</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Chinese Zodiac (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "tv:1567": {
    "d": "CatDog (1998) is an Animation and Comedy TV series. Explore its story: The life and times of a cat and a dog with a unique…, cast, 3 seasons, and 132 episodes.",

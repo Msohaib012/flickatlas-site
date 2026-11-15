@@ -1,7 +1,127 @@
 {
  "bucket": "90",
- "count": 54,
+ "count": 59,
  "titles": {
+  "movie:1022690": {
+   "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
+   "budget": 49700000,
+   "cast": [
+    {
+     "c": "Dean",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Ricky Stanicky (Rod)",
+     "n": "John Cena"
+    },
+    {
+     "c": "JT",
+     "n": "Andrew Santino"
+    },
+    {
+     "c": "Wes",
+     "n": "Jermaine Fowler"
+    },
+    {
+     "c": "Erin",
+     "n": "Lex Scott Davis"
+    },
+    {
+     "c": "Susan",
+     "n": "Anja Savcic"
+    },
+    {
+     "c": "Summerhayes",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Leona",
+     "n": "Heather Mitchell"
+    },
+    {
+     "c": "Mrs Levine",
+     "n": "Debra Lawrance"
+    },
+    {
+     "c": "Keith",
+     "n": "Daniel Monks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Farrelly"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 1022690,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When three childhood best friends pull a prank gone wrong, they invent the imaginary Ricky Stanicky to get them out of trouble. Twenty years later, the trio still uses the nonexistent Ricky as a handy alibi for their immature behavior. But when their spouses and partners get suspicious and demand to finally meet the fabled Mr. Stanicky, the guilty trio decide to hire a washed-up actor and raunchy celebrity impersonator to bring him to life.",
+   "popularity": 3.6525,
+   "poster_path": "/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-03-07",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's the best friend they never had.",
+   "title": "Ricky Stanicky",
+   "trailer": {
+    "key": "WXpBN_31-Cw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.514,
+   "vote_count": 880
+  },
   "movie:10390": {
    "backdrop_path": "/jYg7oXQUB3yW6WHYVXn5ltXfcpa.jpg",
    "budget": 50000000,
@@ -1116,6 +1236,201 @@
    "type": "movie",
    "vote_average": 5.912,
    "vote_count": 472
+  },
+  "movie:13090": {
+   "backdrop_path": "/3Ke0f7c6InUpoUn2Pi12ayX9EIU.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Rose Lorkowski",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Norah Lorkowski",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Mac",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Joe Lorkowski",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "Winston",
+     "n": "Clifton Collins Jr."
+    },
+    {
+     "c": "Randy",
+     "n": "Eric Christian Olsen"
+    },
+    {
+     "c": "Carl Swanson",
+     "n": "Kevin Chapman"
+    },
+    {
+     "c": "Oscar Lorkowski",
+     "n": "Jason Spevack"
+    },
+    {
+     "c": "Lynn",
+     "n": "Mary Lynn Rajskub"
+    },
+    {
+     "c": "Sherm",
+     "n": "Paul Dooley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christine Jeffs"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 13090,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A single mother and her slacker sister find an unexpected way to turn their lives around in this off-beat dramatic comedy. In order to raise the tuition to send her young son to private school the mom starts an unusual business – a biohazard removal/crime scene clean-up service.",
+   "popularity": 2.1269,
+   "poster_path": "/xwtJyfme086wcz9MXpP0i5Hrgxy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-04-17",
+   "revenue": 16174377,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "life's a messy business.",
+   "title": "Sunshine Cleaning",
+   "trailer": {
+    "key": "syGGh1rbFCI",
+    "name": "Sunshine Cleaning - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.588,
+   "vote_count": 882
   },
   "movie:13190": {
    "backdrop_path": "/aFnF8gvNedNWHoCNTjZWphebecd.jpg",
@@ -2991,6 +3306,132 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 427
+  },
+  "movie:242090": {
+   "backdrop_path": "/x1BL62HL6N8sqGcmn4YRtuGVsh1.jpg",
+   "budget": 100000,
+   "cast": [
+    {
+     "c": "Ethan",
+     "n": "Mark Duplass"
+    },
+    {
+     "c": "Sophie",
+     "n": "Elisabeth Moss"
+    },
+    {
+     "c": "Therapist",
+     "n": "Ted Danson"
+    },
+    {
+     "c": "Waitress",
+     "n": "Kiana Cason"
+    },
+    {
+     "c": "Diner Patron",
+     "n": "Kaitlyn Dodson"
+    },
+    {
+     "c": "Diner Patron",
+     "n": "Lori Farrar"
+    },
+    {
+     "c": "Diner Patron",
+     "n": "Marlene Malin"
+    },
+    {
+     "c": "Diner Patron",
+     "n": "Tim Peddicord"
+    },
+    {
+     "c": "Diner Patron",
+     "n": "Ryan Pederson"
+    },
+    {
+     "c": "Doug (voice)",
+     "n": "Brett Bietz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Charlie McDowell"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 242090,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ethan and Sophie are a married couple on the brink of separation when, at the urging of their therapist, they decide to salvage their relationship by escaping to a beautiful vacation house for the weekend.",
+   "popularity": 2.8133,
+   "poster_path": "/ewsYTI6KKQw3IDPFmVVbHq89kxv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-08-08",
+   "revenue": 513447,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The One I Love",
+   "trailer": {
+    "key": "y_Dk1QdNq4E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.848,
+   "vote_count": 828
   },
   "movie:248390": {
    "backdrop_path": "/zKmAOcB6Y0FQd6R1Vm873INJ952.jpg",
@@ -5612,6 +6053,326 @@
    "type": "movie",
    "vote_average": 6.106,
    "vote_count": 458
+  },
+  "movie:82390": {
+   "backdrop_path": "/qrRugDSIN9i9u0ClGP7X193Akjf.jpg",
+   "budget": 12500000,
+   "cast": [
+    {
+     "c": "Jack Jansen",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Ward Jansen",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Charlotte Bless",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Yardley Acheman",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "Anita / Narrator",
+     "n": "Macy Gray"
+    },
+    {
+     "c": "Hillary Van Wetter",
+     "n": "John Cusack"
+    },
+    {
+     "c": "W.W. Jansen",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Tyree van Wetter",
+     "n": "Ned Bellamy"
+    },
+    {
+     "c": "Ellen Guthrie",
+     "n": "Nealla Gordon"
+    },
+    {
+     "c": "Hustler #1",
+     "n": "Edrick Browne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lee Daniels"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 82390,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A reporter returns to his Florida hometown to investigate a case involving a death row inmate.",
+   "popularity": 2.1719,
+   "poster_path": "/vEQZW279igbQpgQ0SwKuxzxV8UU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-09-14",
+   "revenue": 1353868,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Paperboy",
+   "trailer": {
+    "key": "Um-JcpaEwEo",
+    "name": "The Paperboy - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.5,
+   "vote_count": 829
+  },
+  "movie:9090": {
+   "backdrop_path": "/xga9dXEIJHAjNLGMjw4VDPH7LJB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Vida Boheme",
+     "n": "Patrick Swayze"
+    },
+    {
+     "c": "Noxeema Jackson",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Chi-Chi Rodriguez",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Carol Ann",
+     "n": "Stockard Channing"
+    },
+    {
+     "c": "Beatrice",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Virgil",
+     "n": "Arliss Howard"
+    },
+    {
+     "c": "Bobby Ray",
+     "n": "Jason London"
+    },
+    {
+     "c": "Sheriff Dollard",
+     "n": "Chris Penn"
+    },
+    {
+     "c": "Merna",
+     "n": "Melinda Dillon"
+    },
+    {
+     "c": "Loretta",
+     "n": "Beth Grant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Beeban Kidron"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 9090,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Veteran drag queens Vida Boheme and Noxeema Jackson take novice Chi-Chi Rodriguez under their wing on a madcap road trip across the country to compete in the Drag Queen of America pageant in Los Angeles.",
+   "popularity": 3.6738,
+   "poster_path": "/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-09-08",
+   "revenue": 47774193,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Attitude is everything.",
+   "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+   "trailer": {
+    "key": "sH0zihZWIK0",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 865
   },
   "movie:97690": {
    "backdrop_path": "/tWcZTx3yyFuHruBf4p0w7lDGc7i.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 44,
+ "count": 51,
  "titles": {
   "movie:10243": {
    "d": "The Flight of the Phoenix (1965): Adventure/Drama film. Story: A cargo aircraft crashes in a sandstorm in the Sahara… See cast and budget $5.36M.",
@@ -389,6 +389,69 @@
    "t": "Man on the Run (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13043": {
+   "d": "Camping (2006): Comedy film. Story: Plastic surgeon Michel Saint-Josse is on his way to… See cast, TMDB rating 5.5/10, and release date 26 April 2006.",
+   "img": "https://image.tmdb.org/t/p/w780/pHqTQA8bDaXcnTiJ8fNmRVcpXGP.jpg",
+   "industry": "world",
+   "k": "Camping, Camping movie, Camping cast, Camping story, Camping box office collection, Camping budget, Camping review, Camping rating, Camping release date, Camping Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Franck Dubosc"
+     },
+     {
+      "@type": "Person",
+      "name": "Gérard Lanvin"
+     },
+     {
+      "@type": "Person",
+      "name": "Mathilde Seigner"
+     },
+     {
+      "@type": "Person",
+      "name": "Antoine Duléry"
+     },
+     {
+      "@type": "Person",
+      "name": "Claude Brasseur"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 911,
+     "ratingValue": 5.5,
+     "worstRating": 0
+    },
+    "description": "Camping (2006): Comedy film. Story: Plastic surgeon Michel Saint-Josse is on his way to… See cast, TMDB rating 5.5/10, and release date 26 April 2006.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fabien Onteniente"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pHqTQA8bDaXcnTiJ8fNmRVcpXGP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13043",
+    "name": "Camping",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-04-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13043"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Camping (2006)</h1>\n<p class=\"ssr-lead\">Plastic surgeon Michel Saint-Josse is on his way to Spain where he hopes to spend a stress-free holiday in a luxury hotel with his teenage daughter Vanessa. When his car breaks down near a camping, Michel accepts the offer of help from an extrovert gigolo camper named Patrick Chirac. Whilst their car is being repaired, Michel and Vanessa agree to stay in Patrick’s well proportioned tent, not knowing that, thanks to a series of mishaps, it will be their home for several days...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 April 2006</li><li>Runtime: 95 minutes</li><li>Director: Fabien Onteniente</li><li>Genres: Comedy</li><li>TMDB rating: 5.5/10 (911 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Franck Dubosc as Patrick Chirac</li><li>Gérard Lanvin as Michel Saint-Josse</li><li>Mathilde Seigner as Sophie Gatineau</li><li>Antoine Duléry as Paul Gatineau</li><li>Claude Brasseur as Jacky Pic</li><li>Mylène Demongeot as Laurette Pic</li><li>Abbes Zahmani as José Mendez</li><li>Ari Vatanen as Self</li><li>Christine Citti as Madame Chatel</li><li>Frédérique Bel as Christy Bergougnoux</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, YouTube</li><li>Buy: Apple TV Store, Amazon Video, YouTube</li></ul>\n</article>",
+   "t": "Camping (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:1315843": {
    "d": "Daddy's in Trouble (2026): Comedy film. Story: Roberta is tired of taking care of the house and the… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/pt9wLsvNywyPT3485P30CPRICU.jpg",
@@ -582,6 +645,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mata (2026)</h1>\n<p class=\"ssr-lead\">Wounded while on a clandestine operation in Niger, French secret agent Mata loses track of her colleague Antoine, captured on the spot. Upon her return, she volunteers for a counter-espionage mission in the Alps, with the intuition that this new assignment might somehow be connected to her traumatic mission in Africa. Haunted by Antoine’s captivity and convinced that her managers are hiding information from her, Mata embarks on a race against time, outside any official framework... at the risk of losing everything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 2026</li><li>Runtime: 98 minutes</li><li>Director: Rachel Lang</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.2/10 (27 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eye Haïdara as Mata</li><li>Joséphine Japy as Héloïse</li><li>Raphaël Personnaz as Antoine</li><li>Hakim Jemili as Émile</li><li>Chloé Jouannet as Jeanne</li><li>Juliette Chaigneau as Carole</li><li>Pierre-Antoine Billon as Lucas</li><li>Mélanie Laurent as India</li><li>Aleksandr Kuznetsov</li><li>Brice Bexter as Axel</li></ul>\n</article>",
    "t": "Mata (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:141043": {
+   "d": "A Long Way Down (2014): Comedy/Drama film. Story: Four lost souls—a disgraced TV presenter, a… See cast, TMDB rating 6.2/10, and release date 20 March 2014.",
+   "img": "https://image.tmdb.org/t/p/w780/cA2lXcl4rVKsRltJwVYRqpSqvhq.jpg",
+   "industry": "world",
+   "k": "A Long Way Down, A Long Way Down movie, A Long Way Down cast, A Long Way Down story, A Long Way Down box office collection, A Long Way Down budget, A Long Way Down review, A Long Way Down rating, A Long Way Down release date, A Long Way Down trailer, A Long Way Down Comedy, A Long Way Down Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierce Brosnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Aaron Paul"
+     },
+     {
+      "@type": "Person",
+      "name": "Imogen Poots"
+     },
+     {
+      "@type": "Person",
+      "name": "Toni Collette"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Neill"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 959,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "A Long Way Down (2014): Comedy/Drama film. Story: Four lost souls—a disgraced TV presenter, a… See cast, TMDB rating 6.2/10, and release date 20 March 2014.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pascal Chaumeil"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cA2lXcl4rVKsRltJwVYRqpSqvhq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=141043",
+    "name": "A Long Way Down",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=141043"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Long Way Down (2014)</h1>\n<p class=\"ssr-lead\">Four lost souls—a disgraced TV presenter, a foul-mouthed teen, an isolated single mother, and a failed musician—decide to end their lives on the same night, New Year&#x27;s Eve. When this disillusioned quartet of strangers meet unintentionally at the same suicide hotspot, a London high-rise with the well-earned nickname Topper&#x27;s Tower, they mutually agree to call off their plans for six weeks, forming an unconventional, dysfunctional family. They become media sensations as the Topper House Four and search together for reasons to keep on living.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 March 2014</li><li>Runtime: 96 minutes</li><li>Director: Pascal Chaumeil</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.2/10 (959 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierce Brosnan as Martin Sharp</li><li>Aaron Paul as J.J. Maguire</li><li>Imogen Poots as Jess Crichton</li><li>Toni Collette as Maureen Thompson</li><li>Sam Neill as Chris Crichton</li><li>Rosamund Pike as Penny Chambers</li><li>Tuppence Middleton as Kathy Miller</li><li>Joe Cole as Chas Johnson</li><li>Josef Altin as Matty Thompson</li><li>Sarah Andre White as Shanay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "A Long Way Down (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:143": {
+   "d": "All Quiet on the Western Front (1931): Drama/War film. Story: When a group of idealistic young men join the German… See cast and budget $1.45M.",
+   "img": "https://image.tmdb.org/t/p/w780/yeQGyB8MjpX8KR7rUrP0E3gaviC.jpg",
+   "industry": "world",
+   "k": "All Quiet on the Western Front, All Quiet on the Western Front movie, All Quiet on the Western Front cast, All Quiet on the Western Front story, All Quiet on the Western Front box office collection, All Quiet on the Western Front budget, All Quiet on the Western Front review, All Quiet on the Western Front rating, All Quiet on the Western Front release date, All Quiet on the Western Front Drama, All Quiet on the Western Front War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis Wolheim"
+     },
+     {
+      "@type": "Person",
+      "name": "Lew Ayres"
+     },
+     {
+      "@type": "Person",
+      "name": "John Wray"
+     },
+     {
+      "@type": "Person",
+      "name": "Arnold Lucy"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Alexander"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 999,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "All Quiet on the Western Front (1931): Drama/War film. Story: When a group of idealistic young men join the German… See cast and budget $1.45M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lewis Milestone"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Drama",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yeQGyB8MjpX8KR7rUrP0E3gaviC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=143",
+    "name": "All Quiet on the Western Front",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1931-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=143"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>All Quiet on the Western Front (1931)</h1>\n<p class=\"ssr-lead\">When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 1931</li><li>Runtime: 133 minutes</li><li>Director: Lewis Milestone</li><li>Genres: Drama, War</li><li>Budget: $1.45M</li><li>TMDB rating: 7.8/10 (999 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Wolheim as Stanislaus &#x27;Kat&#x27; Katczinsky</li><li>Lew Ayres as Paul Bäumer</li><li>John Wray as Himmelstoss</li><li>Arnold Lucy as Kantorek</li><li>Ben Alexander as Franz Kemmerich</li><li>Scott Kolk as Leer</li><li>Owen Davis Jr. as Peter</li><li>Walter Rogers as Behn</li><li>William Bakewell as Albert Kropp</li><li>Russell Gleason as Mueller</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "All Quiet on the Western Front (1931) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1931"
   },
   "movie:1481343": {
    "d": "The Devil's Mouth (2026): Horror/Thriller film. Story: A group of college friends' Thailand adventure turns… See cast and TMDB rating 6.5/10.",
@@ -971,6 +1162,138 @@
    "t": "I Want You (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:241843": {
+   "d": "Cooties (2014): Comedy/Horror film. Story: A mysterious virus hits an isolated elementary… See cast, TMDB rating 5.9/10, and release date 10 October 2014.",
+   "img": "https://image.tmdb.org/t/p/w780/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+   "industry": "world",
+   "k": "Cooties, Cooties movie, Cooties cast, Cooties story, Cooties box office collection, Cooties budget, Cooties review, Cooties rating, Cooties release date, Cooties trailer, Cooties Comedy, Cooties Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Alison Pill"
+     },
+     {
+      "@type": "Person",
+      "name": "Rainn Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack McBrayer"
+     },
+     {
+      "@type": "Person",
+      "name": "Nasim Pedrad"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 857,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Cooties (2014): Comedy/Horror film. Story: A mysterious virus hits an isolated elementary… See cast, TMDB rating 5.9/10, and release date 10 October 2014.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan Milott"
+     },
+     {
+      "@type": "Person",
+      "name": "Cary Murnion"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=241843",
+    "name": "Cooties",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=241843"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cooties (2014)</h1>\n<p class=\"ssr-lead\">A mysterious virus hits an isolated elementary school, transforming the kids into a feral swarm of mass savages. An unlikely hero must lead a motley band of teachers in the fight of their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 October 2014</li><li>Runtime: 88 minutes</li><li>Director: Jonathan Milott, Cary Murnion</li><li>Genres: Comedy, Horror, Action, Science Fiction, Thriller</li><li>TMDB rating: 5.9/10 (857 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elijah Wood as Clint</li><li>Alison Pill as Lucy</li><li>Rainn Wilson as Wade</li><li>Jack McBrayer as Tracy</li><li>Nasim Pedrad as Rebekkah</li><li>Leigh Whannell as Doug</li><li>Morgan Lily as Tamra</li><li>Rebecca Marshall as Emily Dopkins</li><li>Jorge Garcia as Rick</li><li>Matt Jones as Sheriff Dave</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Starz, Starz Apple TV channel, MovieSphere+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Cooties (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:255343": {
+   "d": "Escobar: Paradise Lost (2014): Thriller/Romance film. Story: For Pablo Escobar family is everything. When young… See cast, budget $17M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4EMd9DU86rbd9XCjOjLHp5Khtn8.jpg",
+   "industry": "world",
+   "k": "Escobar: Paradise Lost, Escobar: Paradise Lost movie, Escobar: Paradise Lost cast, Escobar: Paradise Lost story, Escobar: Paradise Lost box office collection, Escobar: Paradise Lost budget, Escobar: Paradise Lost review, Escobar: Paradise Lost rating, Escobar: Paradise Lost release date, Escobar: Paradise Lost trailer, Escobar: Paradise Lost Thriller, Escobar: Paradise Lost Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benicio del Toro"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Brady Corbet"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Traisac"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Bardem"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 841,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Escobar: Paradise Lost (2014): Thriller/Romance film. Story: For Pablo Escobar family is everything. When young… See cast, budget $17M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrea Di Stefano"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Thriller",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4EMd9DU86rbd9XCjOjLHp5Khtn8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=255343",
+    "name": "Escobar: Paradise Lost",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=255343"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Escobar: Paradise Lost (2014)</h1>\n<p class=\"ssr-lead\">For Pablo Escobar family is everything. When young surfer Nick falls for Escobar&#x27;s niece, Maria, he finds his life on the line when he&#x27;s pulled into the dangerous world of the family business.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2014</li><li>Runtime: 120 minutes</li><li>Director: Andrea Di Stefano</li><li>Genres: Thriller, Romance</li><li>Budget: $17M</li><li>TMDB rating: 6.3/10 (841 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benicio del Toro as Pablo Escobar</li><li>Josh Hutcherson as Nick</li><li>Brady Corbet as Dylan</li><li>Claudia Traisac as Maria</li><li>Carlos Bardem as Drago</li><li>Ana Girardot as Anne</li><li>Tenoch Huerta Mejía as Roldano Brother</li><li>Laura Londoño as Maria Victoria</li><li>Frank Spano as Christo</li><li>Micke Moreno as Martin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Escobar: Paradise Lost (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:270343": {
    "d": "Love at First Fight (2014): Comedy/Romance film. Story: Arnaud, facing an uncertain future and a dearth of… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/lfVwTozLK9hbMXPjZTaEZ74CpKh.jpg",
@@ -1226,6 +1549,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001)</h1>\n<p class=\"ssr-lead\">Godzilla has become a distant memory for Japan when the destruction of a US submarine raises alarms for Admiral Tachibana. His estranged daughter Yuri investigates the legend of the guardian monsters, who must rise to protect Japan against the vengeful spirits within Godzilla that seek to destroy both the nation and its people for the suffering they inflicted in the Pacific conflict.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 December 2001</li><li>Runtime: 105 minutes</li><li>Director: Shusuke Kaneko</li><li>Genres: Action, Adventure, Horror, Fantasy, Science Fiction</li><li>Budget: $9.4M</li><li>TMDB rating: 7.5/10 (307 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chiharu Niiyama as Yuri Tachibana</li><li>Ryudo Uzaki as SDF Adm. Taizô Tachibana</li><li>Masahiro Kobayashi as Teruaki Takeda</li><li>Shiro Sano as Haruki Kadokura</li><li>Takashi Nishina as AD Aki Maruo</li><li>Kaho Minami as SDF Intelligence Capt. Kumi Emori</li><li>Shin&#x27;ya Ohwada as SDF L:t. Gen. Katsumasa Mikumo</li><li>Kunio Murai as SDF HQ Secretary Masato Hinogaki</li><li>Hiroyuki Watanabe as Yutaka Hirose</li><li>Shingo Katsurayama as SDF Intelligence Maj. Tokihiko Kobayakawa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
    "t": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:38543": {
+   "d": "Ironclad (2011): Romance/Adventure film. Story: In the year 1215, the rebel barons of England have… See cast, budget $25M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rprg34i9MfIRAJdBcjAWaV7JXRe.jpg",
+   "industry": "world",
+   "k": "Ironclad, Ironclad movie, Ironclad cast, Ironclad story, Ironclad box office collection, Ironclad budget, Ironclad review, Ironclad rating, Ironclad release date, Ironclad Romance, Ironclad Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Purefoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Mara"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Flemyng"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Giamatti"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 841,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Ironclad (2011): Romance/Adventure film. Story: In the year 1215, the rebel barons of England have… See cast, budget $25M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jonathan English"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Romance",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rprg34i9MfIRAJdBcjAWaV7JXRe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38543",
+    "name": "Ironclad",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-03-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38543"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ironclad (2011)</h1>\n<p class=\"ssr-lead\">In the year 1215, the rebel barons of England have forced their despised King John to put his royal seal on the Magna Carta, a seminal document that upheld the rights of free men. Yet within months of pledging himself to the great charter, the King reneged on his word and assembled a mercenary army on the south coast of England with the intention of bringing the barons and the country back under his tyrannical rule. Barring his way stood the mighty Rochester castle, a place that would become the symbol of the rebel&#x27;s momentous struggle for justice and freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 March 2011</li><li>Runtime: 121 minutes</li><li>Director: Jonathan English</li><li>Genres: Romance, Adventure, Action, History</li><li>Budget: $25M</li><li>TMDB rating: 6.2/10 (841 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Purefoy as Thomas Marshall</li><li>Kate Mara as Lady Isabel</li><li>Jason Flemyng as Becket</li><li>Paul Giamatti as King John</li><li>Brian Cox as Albany</li><li>Derek Jacobi as Cornhill</li><li>Charles Dance as Stephen Langton, Archbishop of Canterbury</li><li>Aneurin Barnard as Guy</li><li>Jamie Foreman as Coteral</li><li>Mackenzie Crook as Marks</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ironclad (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:4043": {
    "d": "Law of Desire (1987): Drama/Romance film. Story: Pablo, a successful film director, disappointed in… See cast, budget $600.0k, and TMDB rating 7.1/10.",
@@ -2125,6 +2512,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Meet Cute (2022)</h1>\n<p class=\"ssr-lead\">A wildly inventive deconstruction of the romantic comedy built around the question: What would you do if you could travel to your loved ones’ past, heal their traumas, fix their problems, and change them into the perfect partner?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 September 2022</li><li>Runtime: 90 minutes</li><li>Director: Alex Lehmann</li><li>Genres: Comedy, Romance, Science Fiction</li><li>TMDB rating: 5.8/10 (334 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kaley Cuoco as Sheila</li><li>Pete Davidson as Gary</li><li>Deborah S. Craig as June</li><li>Sierra Fisk as Sandra</li><li>Wesley Holloway as Young Gary</li><li>Rock Kohli as Amit</li><li>Hari Nef as Chai</li><li>Kevin Corrigan as Phil the Bartender</li><li>Rebecca Schull as Gertrude</li><li>Pat Bowie as Ethel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Meet Cute (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9343": {
+   "d": "Fitzcarraldo (1982): Drama/Adventure film. Story: Fitzcarraldo is a dreamer who plans to build an opera… See cast, budget $7.36M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+   "industry": "world",
+   "k": "Fitzcarraldo, Fitzcarraldo movie, Fitzcarraldo cast, Fitzcarraldo story, Fitzcarraldo box office collection, Fitzcarraldo budget, Fitzcarraldo review, Fitzcarraldo rating, Fitzcarraldo release date, Fitzcarraldo trailer, Fitzcarraldo Drama, Fitzcarraldo Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Klaus Kinski"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Cardinale"
+     },
+     {
+      "@type": "Person",
+      "name": "José Lewgoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Miguel Ángel Fuentes"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Hittscher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 942,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Fitzcarraldo (1982): Drama/Adventure film. Story: Fitzcarraldo is a dreamer who plans to build an opera… See cast, budget $7.36M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Werner Herzog"
+     }
+    ],
+    "duration": "PT157M",
+    "genre": [
+     "Drama",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9343",
+    "name": "Fitzcarraldo",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-03-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9343"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fitzcarraldo (1982)</h1>\n<p class=\"ssr-lead\">Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 1982</li><li>Runtime: 157 minutes</li><li>Director: Werner Herzog</li><li>Genres: Drama, Adventure</li><li>Budget: $7.36M</li><li>TMDB rating: 7.6/10 (942 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Klaus Kinski as Fitzcarraldo</li><li>Claudia Cardinale as Molly</li><li>José Lewgoy as Don Aquilino</li><li>Miguel Ángel Fuentes as Cholo</li><li>Paul Hittscher as Orinoco Paul</li><li>Huerequeque Enrique Bohórquez as Huerequeque</li><li>Grande Otelo as Station Master</li><li>Peter Berling as Opera Manager</li><li>David Pérez Espinosa as Campa Chief</li><li>Milton Nascimento as Opera House Blackman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Philo, Fandor, Night Flight Plus, Fandor Amazon Channel, Shout! Factory Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Fitzcarraldo (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
   },
   "movie:994143": {
    "d": "Skinamarink (2023): Horror film. Story: Two children wake up in the middle of the night to… See cast, budget $15.0k, and TMDB rating 5.3/10.",

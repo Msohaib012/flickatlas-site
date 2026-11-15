@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 44,
+ "count": 51,
  "titles": {
   "movie:10243": {
    "backdrop_path": "/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
@@ -842,6 +842,131 @@
    "vote_average": 7.462,
    "vote_count": 39
   },
+  "movie:13043": {
+   "backdrop_path": "/pHqTQA8bDaXcnTiJ8fNmRVcpXGP.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Patrick Chirac",
+     "n": "Franck Dubosc"
+    },
+    {
+     "c": "Michel Saint-Josse",
+     "n": "Gérard Lanvin"
+    },
+    {
+     "c": "Sophie Gatineau",
+     "n": "Mathilde Seigner"
+    },
+    {
+     "c": "Paul Gatineau",
+     "n": "Antoine Duléry"
+    },
+    {
+     "c": "Jacky Pic",
+     "n": "Claude Brasseur"
+    },
+    {
+     "c": "Laurette Pic",
+     "n": "Mylène Demongeot"
+    },
+    {
+     "c": "José Mendez",
+     "n": "Abbes Zahmani"
+    },
+    {
+     "c": "Self",
+     "n": "Ari Vatanen"
+    },
+    {
+     "c": "Madame Chatel",
+     "n": "Christine Citti"
+    },
+    {
+     "c": "Christy Bergougnoux",
+     "n": "Frédérique Bel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Fabien Onteniente"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 13043,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Plastic surgeon Michel Saint-Josse is on his way to Spain where he hopes to spend a stress-free holiday in a luxury hotel with his teenage daughter Vanessa. When his car breaks down near a camping, Michel accepts the offer of help from an extrovert gigolo camper named Patrick Chirac. Whilst their car is being repaired, Michel and Vanessa agree to stay in Patrick’s well proportioned tent, not knowing that, thanks to a series of mishaps, it will be their home for several days...",
+   "popularity": 1.1823,
+   "poster_path": "/7flI2OwTuWKQdZiWRZ6tw6ijvEB.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-04-26",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Camping",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.515,
+   "vote_count": 911
+  },
   "movie:1315843": {
    "backdrop_path": "/pt9wLsvNywyPT3485P30CPRICU.jpg",
    "budget": 0,
@@ -1168,6 +1293,334 @@
    "type": "movie",
    "vote_average": 6.222,
    "vote_count": 27
+  },
+  "movie:141043": {
+   "backdrop_path": "/cA2lXcl4rVKsRltJwVYRqpSqvhq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Martin Sharp",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "J.J. Maguire",
+     "n": "Aaron Paul"
+    },
+    {
+     "c": "Jess Crichton",
+     "n": "Imogen Poots"
+    },
+    {
+     "c": "Maureen Thompson",
+     "n": "Toni Collette"
+    },
+    {
+     "c": "Chris Crichton",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Penny Chambers",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "Kathy Miller",
+     "n": "Tuppence Middleton"
+    },
+    {
+     "c": "Chas Johnson",
+     "n": "Joe Cole"
+    },
+    {
+     "c": "Matty Thompson",
+     "n": "Josef Altin"
+    },
+    {
+     "c": "Shanay",
+     "n": "Sarah Andre White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Pascal Chaumeil"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 141043,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Four lost souls—a disgraced TV presenter, a foul-mouthed teen, an isolated single mother, and a failed musician—decide to end their lives on the same night, New Year's Eve. When this disillusioned quartet of strangers meet unintentionally at the same suicide hotspot, a London high-rise with the well-earned nickname Topper's Tower, they mutually agree to call off their plans for six weeks, forming an unconventional, dysfunctional family. They become media sensations as the Topper House Four and search together for reasons to keep on living.",
+   "popularity": 2.4649,
+   "poster_path": "/ibtYPDUQXKK2CIYzMEWgt1VNMlP.jpg",
+   "production_countries": [
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-03-20",
+   "revenue": 7176347,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life is looking up.",
+   "title": "A Long Way Down",
+   "trailer": {
+    "key": "12jCVd5Evko",
+    "name": "A Long Way Down - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.237,
+   "vote_count": 959
+  },
+  "movie:143": {
+   "backdrop_path": "/yeQGyB8MjpX8KR7rUrP0E3gaviC.jpg",
+   "budget": 1448864,
+   "cast": [
+    {
+     "c": "Stanislaus 'Kat' Katczinsky",
+     "n": "Louis Wolheim"
+    },
+    {
+     "c": "Paul Bäumer",
+     "n": "Lew Ayres"
+    },
+    {
+     "c": "Himmelstoss",
+     "n": "John Wray"
+    },
+    {
+     "c": "Kantorek",
+     "n": "Arnold Lucy"
+    },
+    {
+     "c": "Franz Kemmerich",
+     "n": "Ben Alexander"
+    },
+    {
+     "c": "Leer",
+     "n": "Scott Kolk"
+    },
+    {
+     "c": "Peter",
+     "n": "Owen Davis Jr."
+    },
+    {
+     "c": "Behn",
+     "n": "Walter Rogers"
+    },
+    {
+     "c": "Albert Kropp",
+     "n": "William Bakewell"
+    },
+    {
+     "c": "Mueller",
+     "n": "Russell Gleason"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Lewis Milestone"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 143,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+   "popularity": 4.788,
+   "poster_path": "/1wZUB08igw8iLUgF1r4T6aJD65b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1931-07-01",
+   "revenue": 3270000,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "la",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "They left for war as boys never to return as men.",
+   "title": "All Quiet on the Western Front",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.766,
+   "vote_count": 999
   },
   "movie:1481343": {
    "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
@@ -1940,6 +2393,377 @@
    "vote_average": 4.8,
    "vote_count": 378
   },
+  "movie:241843": {
+   "backdrop_path": "/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clint",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Lucy",
+     "n": "Alison Pill"
+    },
+    {
+     "c": "Wade",
+     "n": "Rainn Wilson"
+    },
+    {
+     "c": "Tracy",
+     "n": "Jack McBrayer"
+    },
+    {
+     "c": "Rebekkah",
+     "n": "Nasim Pedrad"
+    },
+    {
+     "c": "Doug",
+     "n": "Leigh Whannell"
+    },
+    {
+     "c": "Tamra",
+     "n": "Morgan Lily"
+    },
+    {
+     "c": "Emily Dopkins",
+     "n": "Rebecca Marshall"
+    },
+    {
+     "c": "Rick",
+     "n": "Jorge Garcia"
+    },
+    {
+     "c": "Sheriff Dave",
+     "n": "Matt Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Milott",
+    "Cary Murnion"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 241843,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A mysterious virus hits an isolated elementary school, transforming the kids into a feral swarm of mass savages. An unlikely hero must lead a motley band of teachers in the fight of their lives.",
+   "popularity": 2.6711,
+   "poster_path": "/oFBQsngRdgxnbO4H1FIbQ0Zuq43.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-10-10",
+   "revenue": 581011,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Please don't feed the children.",
+   "title": "Cooties",
+   "trailer": {
+    "key": "S8xQLN181kY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.921,
+   "vote_count": 857
+  },
+  "movie:255343": {
+   "backdrop_path": "/4EMd9DU86rbd9XCjOjLHp5Khtn8.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Pablo Escobar",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Nick",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Dylan",
+     "n": "Brady Corbet"
+    },
+    {
+     "c": "Maria",
+     "n": "Claudia Traisac"
+    },
+    {
+     "c": "Drago",
+     "n": "Carlos Bardem"
+    },
+    {
+     "c": "Anne",
+     "n": "Ana Girardot"
+    },
+    {
+     "c": "Roldano Brother",
+     "n": "Tenoch Huerta Mejía"
+    },
+    {
+     "c": "Maria Victoria",
+     "n": "Laura Londoño"
+    },
+    {
+     "c": "Christo",
+     "n": "Frank Spano"
+    },
+    {
+     "c": "Martin",
+     "n": "Micke Moreno"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andrea Di Stefano"
+   ],
+   "genres": [
+    "Thriller",
+    "Romance"
+   ],
+   "id": 255343,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "ES"
+   ],
+   "original_language": "en",
+   "overview": "For Pablo Escobar family is everything. When young surfer Nick falls for Escobar's niece, Maria, he finds his life on the line when he's pulled into the dangerous world of the family business.",
+   "popularity": 2.4675,
+   "poster_path": "/4HngNLzCmUYCPB8FbxSZWN0eDKM.jpg",
+   "production_countries": [
+    "FR",
+    "ES",
+    "BE"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-10-11",
+   "revenue": 3758328,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the family",
+   "title": "Escobar: Paradise Lost",
+   "trailer": {
+    "key": "xrABnKrSqds",
+    "name": "ESCOBAR: PARADISE LOST - Official Trailer - Now playing!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.264,
+   "vote_count": 841
+  },
   "movie:270343": {
    "backdrop_path": "/lfVwTozLK9hbMXPjZTaEZ74CpKh.jpg",
    "budget": 0,
@@ -2490,6 +3314,163 @@
    "type": "movie",
    "vote_average": 7.484,
    "vote_count": 307
+  },
+  "movie:38543": {
+   "backdrop_path": "/rprg34i9MfIRAJdBcjAWaV7JXRe.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Thomas Marshall",
+     "n": "James Purefoy"
+    },
+    {
+     "c": "Lady Isabel",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Becket",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "King John",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Albany",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Cornhill",
+     "n": "Derek Jacobi"
+    },
+    {
+     "c": "Stephen Langton, Archbishop of Canterbury",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Guy",
+     "n": "Aneurin Barnard"
+    },
+    {
+     "c": "Coteral",
+     "n": "Jamie Foreman"
+    },
+    {
+     "c": "Marks",
+     "n": "Mackenzie Crook"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan English"
+   ],
+   "genres": [
+    "Romance",
+    "Adventure",
+    "Action",
+    "History"
+   ],
+   "id": 38543,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In the year 1215, the rebel barons of England have forced their despised King John to put his royal seal on the Magna Carta, a seminal document that upheld the rights of free men. Yet within months of pledging himself to the great charter, the King reneged on his word and assembled a mercenary army on the south coast of England with the intention of bringing the barons and the country back under his tyrannical rule. Barring his way stood the mighty Rochester castle, a place that would become the symbol of the rebel's momentous struggle for justice and freedom.",
+   "popularity": 2.077,
+   "poster_path": "/h7CP12wAThhw2WSOA1uIAqxg1fS.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-03-03",
+   "revenue": 5151023,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "en",
+    "hu",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "Heavy metal goes medieval.",
+   "title": "Ironclad",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.15,
+   "vote_count": 841
   },
   "movie:4043": {
    "backdrop_path": "/kx3KdTmefo87oQEEhGqm6dLlAg0.jpg",
@@ -4185,6 +5166,225 @@
    "type": "movie",
    "vote_average": 5.832,
    "vote_count": 334
+  },
+  "movie:9343": {
+   "backdrop_path": "/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+   "budget": 7362000,
+   "cast": [
+    {
+     "c": "Fitzcarraldo",
+     "n": "Klaus Kinski"
+    },
+    {
+     "c": "Molly",
+     "n": "Claudia Cardinale"
+    },
+    {
+     "c": "Don Aquilino",
+     "n": "José Lewgoy"
+    },
+    {
+     "c": "Cholo",
+     "n": "Miguel Ángel Fuentes"
+    },
+    {
+     "c": "Orinoco Paul",
+     "n": "Paul Hittscher"
+    },
+    {
+     "c": "Huerequeque",
+     "n": "Huerequeque Enrique Bohórquez"
+    },
+    {
+     "c": "Station Master",
+     "n": "Grande Otelo"
+    },
+    {
+     "c": "Opera Manager",
+     "n": "Peter Berling"
+    },
+    {
+     "c": "Campa Chief",
+     "n": "David Pérez Espinosa"
+    },
+    {
+     "c": "Opera House Blackman",
+     "n": "Milton Nascimento"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Werner Herzog"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 9343,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+   "popularity": 2.6626,
+   "poster_path": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+   "production_countries": [
+    "DE",
+    "PE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Cineverse Amazon Channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vR0RxwoqbM0ZP10LR3uT6rpuamc.png",
+     "name": "Fandor",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+     "name": "Fandor Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+     "name": "Cineverse Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1982-03-02",
+   "revenue": 0,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "it",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Dare to dream the impossible.",
+   "title": "Fitzcarraldo",
+   "trailer": {
+    "key": "H_OgtTZMSXI",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 942
   },
   "movie:994143": {
    "backdrop_path": "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",

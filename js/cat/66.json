@@ -1,7 +1,183 @@
 {
  "bucket": "66",
- "count": 43,
+ "count": 52,
  "titles": {
+  "movie:10766": {
+   "backdrop_path": "/8zVl291s1qXqc5LrQBByZcqxSNJ.jpg",
+   "budget": 6800000,
+   "cast": [
+    {
+     "c": "Richard Thorn",
+     "n": "William Holden"
+    },
+    {
+     "c": "Ann Thorn",
+     "n": "Lee Grant"
+    },
+    {
+     "c": "Damien Thorn",
+     "n": "Jonathan Scott-Taylor"
+    },
+    {
+     "c": "Paul Buher",
+     "n": "Robert Foxworth"
+    },
+    {
+     "c": "Charles Warren",
+     "n": "Nicholas Pryor"
+    },
+    {
+     "c": "Bill Atherton",
+     "n": "Lew Ayres"
+    },
+    {
+     "c": "Aunt Marion",
+     "n": "Sylvia Sidney"
+    },
+    {
+     "c": "Sergeant Neff",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Mark Thorn",
+     "n": "Lucas Donat"
+    },
+    {
+     "c": "Joan Hart",
+     "n": "Elizabeth Shepherd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Don Taylor"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 10766,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Since the sudden and suspicious deaths of his parents, young Damien has been in the charge of his wealthy aunt and uncle and enrolled in a military school. Widely feared to be the Antichrist, he relentlessly plots to seize control of his uncle's business empire — and the world.",
+   "popularity": 3.7946,
+   "poster_path": "/nZBPvfAgy0GBTEw9YxAuWhoPj96.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1978-06-09",
+   "revenue": 26518355,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The first time was only a warning.",
+   "title": "Damien - Omen II",
+   "trailer": {
+    "key": "57SQ9bDhxDY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.4,
+   "vote_count": 884
+  },
   "movie:1107166": {
    "backdrop_path": "/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
    "budget": 10000000,
@@ -228,6 +404,146 @@
    "vote_average": 5.808,
    "vote_count": 344
   },
+  "movie:11566": {
+   "backdrop_path": "/lpBqjU3OyG9DnIy5BHt0zNw8n0q.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Dave Kovic / Bill Mitchell",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Ellen Mitchell",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Bob Alexander",
+     "n": "Frank Langella"
+    },
+    {
+     "c": "Alan Reed",
+     "n": "Kevin Dunn"
+    },
+    {
+     "c": "Duane Stevenson",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Vice-President Nance",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Murray Blum",
+     "n": "Charles Grodin"
+    },
+    {
+     "c": "Alice",
+     "n": "Faith Prince"
+    },
+    {
+     "c": "Randi",
+     "n": "Laura Linney"
+    },
+    {
+     "c": "White House Tour Guide",
+     "n": "Bonnie Hunt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ivan Reitman"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11566,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sweet-natured Temp Agency operator and amateur Presidential look-alike is recruited by the Secret Service to become a temporary stand-in for the President of the United States.",
+   "popularity": 3.3962,
+   "poster_path": "/n7wQlcexeER5bW7DvV8sji2vRRH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1993-05-07",
+   "revenue": 92000000,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In a country where anybody can become President, anybody just did.",
+   "title": "Dave",
+   "trailer": {
+    "key": "ynC1hITFIzQ",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.657,
+   "vote_count": 881
+  },
   "movie:1165366": {
    "backdrop_path": "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
    "budget": 25000000,
@@ -373,6 +689,162 @@
    "type": "movie",
    "vote_average": 7.817,
    "vote_count": 290
+  },
+  "movie:11866": {
+   "backdrop_path": "/mWXU29QjfjEG37d0c2hE11MWRGq.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Frank Towns",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "AJ",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Elliott",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Kelly",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Rodney",
+     "n": "Tony Curran"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Sticky Fingaz"
+    },
+    {
+     "c": "Sammi",
+     "n": "Jacob Vargas"
+    },
+    {
+     "c": "Ian",
+     "n": "Hugh Laurie"
+    },
+    {
+     "c": "Liddle",
+     "n": "Scott Michael Campbell"
+    },
+    {
+     "c": "Rady",
+     "n": "Kevork Malikyan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Moore"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "id": 11866,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an oil rig in the Gobi Desert of Mongolia proves unproductive, an aircraft crew are sent to shut the operation down and fly them out. On the flight out over the desert on the way to Beijing, Capt. Frank Towns and co-pilot A.J. are unable to keep their cargo plane, a C-119 Flying Boxcar, in the air when a violent sandstorm strikes. Crash-landing in a remote uncharted part of the desert, the two pilots and their passengers -- a crew of oil workers and a drifter -- must work together to survive by rebuilding the aircraft. Soon, low supplies and a band of merciless smugglers add even greater urgency to their task.",
+   "popularity": 3.069,
+   "poster_path": "/pcj6unMsKCw0ogWFlUXmbc9gKap.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-12-17",
+   "revenue": 21009180,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "mn"
+   ],
+   "status": "Released",
+   "tagline": "Out of the ashes, hope will rise.",
+   "title": "Flight of the Phoenix",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 985
   },
   "movie:1272166": {
    "backdrop_path": "/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
@@ -1272,6 +1744,217 @@
    "vote_average": 6.3,
    "vote_count": 307
   },
+  "movie:2266": {
+   "backdrop_path": "/z5SQmAzMAkK54qMQJC9WsZ6PddL.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Touriste (Tuileries)",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Francine (Faubourg Saint-Denis)",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Le cow-boy (Place des Victoires)",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Liz (Quartier des Enfants Rouges)",
+     "n": "Maggie Gyllenhaal"
+    },
+    {
+     "c": "Axel (Tuileries)",
+     "n": "Axel Kiener"
+    },
+    {
+     "c": "Julie (Tuileries)",
+     "n": "Julie Bataille"
+    },
+    {
+     "c": "L'automobiliste (Montmartre)",
+     "n": "Bruno Podalydès"
+    },
+    {
+     "c": "Jeune Femme (Montmartre)",
+     "n": "Florence Muller"
+    },
+    {
+     "c": "Fanny Forestier (Pigalle)",
+     "n": "Fanny Ardant"
+    },
+    {
+     "c": "Zarka (segment \"Quais de Seine\")",
+     "n": "Leïla Bekhti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Olivier Assayas",
+    "Frédéric Auburtin",
+    "Gurinder Chadha",
+    "Sylvain Chomet",
+    "Isabel Coixet",
+    "Wes Craven",
+    "Alfonso Cuarón",
+    "Gérard Depardieu",
+    "Christopher Doyle",
+    "Richard LaGravenese",
+    "Vincenzo Natali",
+    "Alexander Payne",
+    "Walter Salles",
+    "Oliver Schmitz",
+    "Nobuhiro Suwa",
+    "Daniela Thomas",
+    "Tom Tykwer",
+    "Gus Van Sant",
+    "Joel Coen",
+    "Ethan Coen",
+    "Bruno Podalydès"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 2266,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "US",
+    "FR",
+    "LI",
+    "CH"
+   ],
+   "original_language": "fr",
+   "overview": "Olivier Assayas, Gus Van Sant, Wes Craven and Alfonso Cuaron are among the 20 distinguished directors who contribute to this collection of 18 stories, each exploring a different aspect of Parisian life. The colourful characters in this drama include a pair of mimes, a husband trying to choose between his wife and his lover, and a married man who turns to a prostitute for advice.",
+   "popularity": 3.0734,
+   "poster_path": "/mcke8Uvw8QDToAZQ94UGo7VU0g6.jpg",
+   "production_countries": [
+    "FR",
+    "LI",
+    "CH",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-06-21",
+   "revenue": 17489601,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "fr",
+    "en",
+    "zh",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Fall in love with Paris 18 times.",
+   "title": "Paris Je T'aime",
+   "trailer": {
+    "key": "kD7ecYD4-0I",
+    "name": "Paris Je T'aime - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.764,
+   "vote_count": 881
+  },
   "movie:23966": {
    "backdrop_path": "/cxBbDUlZ10GibvyQ2iThASBm1Dj.jpg",
    "budget": 0,
@@ -2032,6 +2715,194 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 309
+  },
+  "movie:347866": {
+   "backdrop_path": "/cUp74WEOfyiJS2Q8oZs8wP5IzSr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Daniel Middleton",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "McKayla Strawberry",
+     "n": "Maika Monroe"
+    },
+    {
+     "c": "Hunter Strawberry",
+     "n": "Alex Roe"
+    },
+    {
+     "c": "Amy Calhoun",
+     "n": "Maia Mitchell"
+    },
+    {
+     "c": "Sergeant Calhoun",
+     "n": "Thomas Jane"
+    },
+    {
+     "c": "Dex",
+     "n": "Emory Cohen"
+    },
+    {
+     "c": "Shep",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Ponytail",
+     "n": "Jack Kesy"
+    },
+    {
+     "c": "Taylor",
+     "n": "Thomas Blake, Jr."
+    },
+    {
+     "c": "Vice Principle Finney",
+     "n": "Kimberly Battista"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Elijah Bynum"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 347866,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1991, a sheltered teenager comes of age during a wild summer on Cape Cod, getting rich from selling pot to gangsters, falling in love for the first time, partying, and eventually realizing that he's in way over his head.",
+   "popularity": 2.1917,
+   "poster_path": "/kPfNAax3PbHj5pAYiO9mc9jDvzt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-07-26",
+   "revenue": 246133,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One summer can change everything.",
+   "title": "Hot Summer Nights",
+   "trailer": {
+    "key": "O5ROSS9ReUY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.569,
+   "vote_count": 852
   },
   "movie:376166": {
    "backdrop_path": "/fPcOyvYdzBPsYgBBVtRgGxcAoMa.jpg",
@@ -3151,6 +4022,120 @@
    "vote_average": 6.8,
    "vote_count": 444
   },
+  "movie:615666": {
+   "backdrop_path": "/odKqOY6VE6C59YAdGHB0b5Havye.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nikolas",
+     "n": "Henry Lawfull"
+    },
+    {
+     "c": "Father Topo",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Mother Vodol",
+     "n": "Sally Hawkins"
+    },
+    {
+     "c": "Aunt Carlotta",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Joel",
+     "n": "Michiel Huisman"
+    },
+    {
+     "c": "Truth Pixie",
+     "n": "Zoe Colletti"
+    },
+    {
+     "c": "Miika (voice)",
+     "n": "Stephen Merchant"
+    },
+    {
+     "c": "Matt",
+     "n": "Joel Fry"
+    },
+    {
+     "c": "Anders",
+     "n": "Rune Temte"
+    },
+    {
+     "c": "King",
+     "n": "Jim Broadbent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gil Kenan"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 615666,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible…",
+   "popularity": 4.2891,
+   "poster_path": "/1sRejtiHOZGggZd9RcmdqbapLM5.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-11-24",
+   "revenue": 3700000,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Experience the magic.",
+   "title": "A Boy Called Christmas",
+   "trailer": {
+    "key": "aFI_aiidke0",
+    "name": "A Boy Called Christmas | Official Trailer | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.275,
+   "vote_count": 845
+  },
   "movie:628866": {
    "backdrop_path": "/3fIELwQezqPoIrfgzCf19r9TymE.jpg",
    "budget": 0,
@@ -3460,6 +4445,180 @@
    "vote_average": 6.842,
    "vote_count": 335
   },
+  "movie:799766": {
+   "backdrop_path": "/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Robbie Williams (voice)",
+     "n": "Robbie Williams"
+    },
+    {
+     "c": "Robbie Williams",
+     "n": "Jonno Davies"
+    },
+    {
+     "c": "Peter",
+     "n": "Steve Pemberton"
+    },
+    {
+     "c": "Betty",
+     "n": "Alison Steadman"
+    },
+    {
+     "c": "Janet",
+     "n": "Kate Mulvany"
+    },
+    {
+     "c": "Nate",
+     "n": "Frazer Hadfield"
+    },
+    {
+     "c": "Nigel Martin-Smith",
+     "n": "Damon Herriman"
+    },
+    {
+     "c": "Nicole Appleton",
+     "n": "Raechelle Banno"
+    },
+    {
+     "c": "Guy Chambers",
+     "n": "Tom Budge"
+    },
+    {
+     "c": "Gary Barlow",
+     "n": "Jake Simmance"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Gracey"
+   ],
+   "genres": [
+    "Music",
+    "Drama"
+   ],
+   "id": 799766,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Follow Robbie Williams' journey from childhood, to being the youngest member of chart-topping boyband Take That, through to his unparalleled achievements as a record-breaking solo artist – all the while confronting the challenges that stratospheric fame and success can bring.",
+   "popularity": 3.8003,
+   "poster_path": "/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US",
+    "CN",
+    "CY"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-12-26",
+   "revenue": 22549151,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fame makes monkeys of us all.",
+   "title": "Better Man",
+   "trailer": {
+    "key": "KVeH5T4wxkE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 958
+  },
   "movie:8866": {
    "backdrop_path": "/2ZWD2t48CbjxcxzaZ8tqqDiY85f.jpg",
    "budget": 0,
@@ -3734,6 +4893,128 @@
    "vote_average": 6.085,
    "vote_count": 340
   },
+  "movie:9566": {
+   "backdrop_path": "/dISWllRkiQ1l5Nbn5JMZbz6RHoh.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Gil Renard",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Bobby Rayburn",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Jewel Stern",
+     "n": "Ellen Barkin"
+    },
+    {
+     "c": "Manny",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Juan Primo",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Ellen Renard",
+     "n": "Patti D'Arbanville"
+    },
+    {
+     "c": "Tim",
+     "n": "Chris Mulkey"
+    },
+    {
+     "c": "Richie Renard",
+     "n": "Andrew J. Ferchland"
+    },
+    {
+     "c": "Sean Rayburn",
+     "n": "Brandon Hammond"
+    },
+    {
+     "c": "Coop",
+     "n": "Charles Hallahan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tony Scott"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 9566,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the San Francisco Giants pay center-fielder, Bobby Rayburn $40 million to lead their team to the World Series, no one is happier or more supportive than #1 fan, Gil Renard.  When Rayburn becomes mired in the worst slump of his career, the obsessed Renard decides to stop at nothing to help his idol regain his former glory—not even murder.",
+   "popularity": 2.9292,
+   "poster_path": "/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-08-15",
+   "revenue": 18626419,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All fans have a favorite player.  This one has a favorite target.",
+   "title": "The Fan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.986,
+   "vote_count": 928
+  },
   "movie:9666": {
    "backdrop_path": "/rQvjuEw7OWthkbZleA4v1nsOcXN.jpg",
    "budget": 20000000,
@@ -3869,6 +5150,120 @@
    "type": "movie",
    "vote_average": 6.488,
    "vote_count": 408
+  },
+  "movie:9966": {
+   "backdrop_path": "/7S6lCJ9ztPUY63mztz0g6toufsj.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Jess",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Roy",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Denise",
+     "n": "Penelope Ann Miller"
+    },
+    {
+     "c": "Burwell",
+     "n": "John Corbett"
+    },
+    {
+     "c": "Bobby",
+     "n": "Dustin Milligan"
+    },
+    {
+     "c": "Colby Price",
+     "n": "William B. Davis"
+    },
+    {
+     "c": "Ben",
+     "n": "Evan Turner"
+    },
+    {
+     "c": "Ben",
+     "n": "Theodore Turner"
+    },
+    {
+     "c": "Plume",
+     "n": "Brent Briscoe"
+    },
+    {
+     "c": "Michael Rollins",
+     "n": "Jodelle Ferland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Danny Pang Phat",
+    "Oxide Pang Chun"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 9966,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the Solomons trade in the craziness of big-city life for the quiet of a North Dakota farm, little do they expect the nightmare that follows. Soon after arriving, teenage Jess and her younger brother see terrifying apparitions and endure attacks from a supernatural source. Jess must warn her disbelieving family before it is too late to save them.",
+   "popularity": 2.8866,
+   "poster_path": "/msPvENst2bQPcjt90d5YKDJ0GQ6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-02-02",
+   "revenue": 55060212,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There is evidence to suggest that children are highly susceptible to paranormal phenomena. They see what adults cannot. They believe what adults deny. And they are trying to warn us.",
+   "title": "The Messengers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 910
   },
   "tv:11466": {
    "backdrop_path": "/91AH5BKrPHSCkUcvUp9mZRMyTCa.jpg",

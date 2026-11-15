@@ -1,7 +1,134 @@
 {
  "bucket": "52",
- "count": 54,
+ "count": 64,
  "titles": {
+  "movie:10052": {
+   "d": "Dragonfly (2002): Thriller/Fantasy film. Story: A grieving doctor is being contacted by his late wife… See cast, budget $60M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kM9D0sVUiaOclaw1dLNm6a2jEG7.jpg",
+   "industry": "world",
+   "k": "Dragonfly, Dragonfly movie, Dragonfly cast, Dragonfly story, Dragonfly box office collection, Dragonfly budget, Dragonfly review, Dragonfly rating, Dragonfly release date, Dragonfly Thriller, Dragonfly Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Morton"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Rifkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Susanna Thompson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathy Bates"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 986,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Dragonfly (2002): Thriller/Fantasy film. Story: A grieving doctor is being contacted by his late wife… See cast, budget $60M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom Shadyac"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Thriller",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kM9D0sVUiaOclaw1dLNm6a2jEG7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10052",
+    "name": "Dragonfly",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-02-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10052"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragonfly (2002)</h1>\n<p class=\"ssr-lead\">A grieving doctor is being contacted by his late wife through his patient&#x27;s near death experiences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 February 2002</li><li>Runtime: 104 minutes</li><li>Director: Tom Shadyac</li><li>Genres: Thriller, Fantasy, Mystery</li><li>Budget: $60M</li><li>TMDB rating: 6.6/10 (986 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as Joe Darrow</li><li>Joe Morton as Hugh Campbell</li><li>Ron Rifkin as Charlie Dickinson</li><li>Susanna Thompson as Emily Darrow</li><li>Kathy Bates as Mrs. Belmont</li><li>Jacob Smith as Ben</li><li>Robert Bailey Jr. as Jeffrey Reardon</li><li>Jay Thomas as Hal</li><li>Lisa Banes as Flora</li><li>Matt Craven as Eric</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Dragonfly (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:10152": {
+   "d": "Dumb and Dumberer: When Harry Met Lloyd (2003): Comedy film. Story: This wacky prequel to the 1994 blockbuster goes back… See cast and budget $19M.",
+   "img": "https://image.tmdb.org/t/p/w780/e2Ppz6IQcukpqyYYJsRkWcsGXvT.jpg",
+   "industry": "world",
+   "k": "Dumb and Dumberer: When Harry Met Lloyd, Dumb and Dumberer: When Harry Met Lloyd movie, Dumb and Dumberer: When Harry Met Lloyd cast, Dumb and Dumberer: When Harry Met Lloyd story, Dumb and Dumberer: When Harry Met Lloyd box office collection, Dumb and Dumberer: When Harry Met Lloyd budget, Dumb and Dumberer: When Harry Met Lloyd review, Dumb and Dumberer: When Harry Met Lloyd rating, Dumb and Dumberer: When Harry Met Lloyd release date, Dumb and Dumberer: When Harry Met Lloyd Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Derek Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Christian Olsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mimi Rogers"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Guzmán"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Nichols"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 971,
+     "ratingValue": 4.2,
+     "worstRating": 0
+    },
+    "description": "Dumb and Dumberer: When Harry Met Lloyd (2003): Comedy film. Story: This wacky prequel to the 1994 blockbuster goes back… See cast and budget $19M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Troy Miller"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/e2Ppz6IQcukpqyYYJsRkWcsGXvT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10152",
+    "name": "Dumb and Dumberer: When Harry Met Lloyd",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-04-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10152"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dumb and Dumberer: When Harry Met Lloyd (2003)</h1>\n<p class=\"ssr-lead\">This wacky prequel to the 1994 blockbuster goes back to the lame-brained Harry and Lloyd&#x27;s days as classmates at a Rhode Island high school, where the unprincipled principal puts the pair in remedial courses as part of a scheme to fleece the school.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 April 2003</li><li>Runtime: 85 minutes</li><li>Director: Troy Miller</li><li>Genres: Comedy</li><li>Budget: $19M</li><li>TMDB rating: 4.2/10 (971 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Derek Richardson as Harry Dunne</li><li>Eric Christian Olsen as Lloyd Christmas</li><li>Mimi Rogers as Mrs. Dunne</li><li>Luis Guzmán as Ray</li><li>Rachel Nichols as Jessica</li><li>Eugene Levy as Principal Collins</li><li>Teal Redmann as Terri</li><li>Shia LaBeouf as Lewis</li><li>Lin Shaye as Margie</li><li>Elden Henson as Turk</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Dumb and Dumberer: When Harry Met Lloyd (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:10452": {
    "d": "Queen Margot (1994): Drama/History film. Story: Paris, Kingdom of France, August 18, 1572. To avoid… See cast, TMDB rating 7.2/10, and release date 13 May 1994.",
    "img": "https://image.tmdb.org/t/p/w780/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
@@ -257,6 +384,70 @@
    "t": "Lonely Hearts (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:13252": {
+   "d": "Cleaner (2007): Crime/Thriller film. Story: Single father and former cop Tom Cutler has an… See cast, budget $25M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z6ueaizIb3vH3l1l4xSr2bET2Am.jpg",
+   "industry": "world",
+   "k": "Cleaner, Cleaner movie, Cleaner cast, Cleaner story, Cleaner box office collection, Cleaner budget, Cleaner review, Cleaner rating, Cleaner release date, Cleaner trailer, Cleaner Crime, Cleaner Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Mendes"
+     },
+     {
+      "@type": "Person",
+      "name": "Luis Guzmán"
+     },
+     {
+      "@type": "Person",
+      "name": "Keke Palmer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 993,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Cleaner (2007): Crime/Thriller film. Story: Single father and former cop Tom Cutler has an… See cast, budget $25M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Renny Harlin"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z6ueaizIb3vH3l1l4xSr2bET2Am.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13252",
+    "name": "Cleaner",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13252"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cleaner (2007)</h1>\n<p class=\"ssr-lead\">Single father and former cop Tom Cutler has an unusual occupation: he cleans up death scenes. But when he&#x27;s called in to sterilize a wealthy suburban residence after a brutal shooting, Cutler is shocked to learn he may have unknowingly erased crucial evidence, entangling himself in a dirty criminal cover-up.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2007</li><li>Runtime: 88 minutes</li><li>Director: Renny Harlin</li><li>Genres: Crime, Thriller, Mystery</li><li>Budget: $25M</li><li>TMDB rating: 6.1/10 (993 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samuel L. Jackson as Tom Cutler</li><li>Ed Harris as Eddie Lorenzo</li><li>Eva Mendes as Ann Norcut</li><li>Luis Guzmán as Det. Jim Vargas</li><li>Keke Palmer as Rose Cutler</li><li>Maggie Lawson as Cherie</li><li>Jose Pablo Cantillo as Miguel</li><li>Robert Forster as Arlo Grange</li><li>Terry Milam as Victim&#x27;s Neighbor</li><li>Marc Macaulay as Vic</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Cleaner (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:13552": {
    "d": "The Doom Generation (1995): Comedy/Drama film. Story: Jordan White and Amy Blue, two troubled teens, pick… See cast, budget $800.0k, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/9mHvO0PzmEgxDtmRq3VeTVELYqb.jpg",
@@ -320,6 +511,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Doom Generation (1995)</h1>\n<p class=\"ssr-lead\">Jordan White and Amy Blue, two troubled teens, pick up an adolescent drifter, Xavier Red. Together, the threesome embarks on a sex- and violence-filled journey through a United States of psychos and quickie marts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 October 1995</li><li>Runtime: 84 minutes</li><li>Director: Gregg Araki</li><li>Genres: Comedy, Drama, Crime</li><li>Budget: $800.0k</li><li>TMDB rating: 6.5/10 (336 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rose McGowan as Amy Blue</li><li>James Duval as Jordan White</li><li>Johnathon Schaech as Xavier Red</li><li>Cress Williams as Peanut</li><li>Dustin Nguyen as Quickiemart Clerk</li><li>Lauren Tewes as TV Anchorwoman</li><li>Margaret Cho as Clerk&#x27;s Wife</li><li>Christopher Knight as TV Anchorman</li><li>Nicky Katt as Carnoburger Cashier</li><li>Johanna Went as Carnoburger Co-Worker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Strand Releasing Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Doom Generation (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
+  },
+  "movie:14052": {
+   "d": "Revenge of the Nerds (1984): Comedy film. Story: At Adams College, the jocks rule from their house on… See cast, budget $6M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/84J4XwvJ0tb7pmgqLQ87TgQHnyN.jpg",
+   "industry": "world",
+   "k": "Revenge of the Nerds, Revenge of the Nerds movie, Revenge of the Nerds cast, Revenge of the Nerds story, Revenge of the Nerds box office collection, Revenge of the Nerds budget, Revenge of the Nerds review, Revenge of the Nerds rating, Revenge of the Nerds release date, Revenge of the Nerds trailer, Revenge of the Nerds Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Carradine"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Edwards"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothy Busfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Curtis Armstrong"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry B. Scott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 855,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Revenge of the Nerds (1984): Comedy film. Story: At Adams College, the jocks rule from their house on… See cast, budget $6M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Kanew"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/84J4XwvJ0tb7pmgqLQ87TgQHnyN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14052",
+    "name": "Revenge of the Nerds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-07-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14052"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Revenge of the Nerds (1984)</h1>\n<p class=\"ssr-lead\">At Adams College, the jocks rule from their house on high, the Alpha Beta fraternity. So when a group of socially-challenged misfits try to go Greek, they&#x27;re instantly rejected by every house on campus. Deciding to start their own frat to protect their outcast brothers, the nerds soon find themselves in a battle royale as the Alpha Betas try to crush their new rivals.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 July 1984</li><li>Runtime: 90 minutes</li><li>Director: Jeff Kanew</li><li>Genres: Comedy</li><li>Budget: $6M</li><li>TMDB rating: 6.4/10 (855 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Carradine as Lewis Skolnick</li><li>Anthony Edwards as Gilbert Lowell</li><li>Timothy Busfield as Arnold Poindexter</li><li>Curtis Armstrong as &#x27;Booger&#x27; Dawson</li><li>Larry B. Scott as Lamar Latrell</li><li>Andrew Cassese as Harold Wormser</li><li>Brian Tochi as Toshiro Takashi</li><li>Julia Montgomery as Betty Childs</li><li>Michelle Meyrink as Judy</li><li>Ted McGinley as Stan Gable</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Sky Store</li></ul>\n</article>",
+   "t": "Revenge of the Nerds (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
   },
   "movie:1421552": {
    "d": "Panda Plan: The Magical Tribe (2026): Action/Comedy film. Story: The panda \"Huhu\" is about to move into a brand new… See cast and budget $2.5k.",
@@ -641,6 +895,70 @@
    "t": "Gary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:184352": {
+   "d": "Tom at the Farm (2014): Drama/Thriller film. Story: A young man travels to an isolated farm for his… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jv247hW6iebdNHwtt8fZdXjZwdV.jpg",
+   "industry": "world",
+   "k": "Tom at the Farm, Tom at the Farm movie, Tom at the Farm cast, Tom at the Farm story, Tom at the Farm box office collection, Tom at the Farm budget, Tom at the Farm review, Tom at the Farm rating, Tom at the Farm release date, Tom at the Farm trailer, Tom at the Farm Drama, Tom at the Farm Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Xavier Dolan"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre-Yves Cardinal"
+     },
+     {
+      "@type": "Person",
+      "name": "Lise Roy"
+     },
+     {
+      "@type": "Person",
+      "name": "Evelyne Brochu"
+     },
+     {
+      "@type": "Person",
+      "name": "Manuel Tadros"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 878,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Tom at the Farm (2014): Drama/Thriller film. Story: A young man travels to an isolated farm for his… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Xavier Dolan"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jv247hW6iebdNHwtt8fZdXjZwdV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=184352",
+    "name": "Tom at the Farm",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=184352"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tom at the Farm (2014)</h1>\n<p class=\"ssr-lead\">A young man travels to an isolated farm for his lover&#x27;s funeral where he&#x27;s quickly drawn into a twisted, sexually charged game by his lover&#x27;s aggressive brother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 March 2014</li><li>Runtime: 105 minutes</li><li>Director: Xavier Dolan</li><li>Genres: Drama, Thriller, Mystery</li><li>TMDB rating: 6.8/10 (878 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Xavier Dolan as Tom</li><li>Pierre-Yves Cardinal as Francis</li><li>Lise Roy as Agathe</li><li>Evelyne Brochu as Sarah</li><li>Manuel Tadros as Bar Owner</li><li>Jacques Lavallée as Priest</li><li>Anne Caron as Doctor</li><li>Olivier Morin as Paul</li><li>Johanne Léveillé as Service Station Employee</li><li>Mathieu Roy as Man at Convenience Store</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Apple TV Store, BFI Player</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Tom at the Farm (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:24452": {
    "d": "The Little Shop of Horrors (1960): Horror/Comedy film. Story: Seymour works in a skid row florist shop and is in… See cast and budget $31.0k.",
    "img": "https://image.tmdb.org/t/p/w780/sGz7JApiDtClRFxffIw3WgRK8y2.jpg",
@@ -961,6 +1279,70 @@
    "t": "The Face of Another (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1966"
   },
+  "movie:294652": {
+   "d": "Son of a Gun (2014): Action/Crime film. Story: Locked up for a minor crime, 19 year old JR quickly… See cast, budget $12M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qF1zeLIhTe3ZtP9q7Ca7EsM9KAR.jpg",
+   "industry": "world",
+   "k": "Son of a Gun, Son of a Gun movie, Son of a Gun cast, Son of a Gun story, Son of a Gun box office collection, Son of a Gun budget, Son of a Gun review, Son of a Gun rating, Son of a Gun release date, Son of a Gun trailer, Son of a Gun Action, Son of a Gun Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Brenton Thwaites"
+     },
+     {
+      "@type": "Person",
+      "name": "Alicia Vikander"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacek Koman"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Nable"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 901,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Son of a Gun (2014): Action/Crime film. Story: Locked up for a minor crime, 19 year old JR quickly… See cast, budget $12M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Julius Avery"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qF1zeLIhTe3ZtP9q7Ca7EsM9KAR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=294652",
+    "name": "Son of a Gun",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=294652"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Son of a Gun (2014)</h1>\n<p class=\"ssr-lead\">Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia&#x27;s most notorious criminal, Brendan Lynch, but protection comes at a price.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2014</li><li>Runtime: 108 minutes</li><li>Director: Julius Avery</li><li>Genres: Action, Crime, Drama, Thriller</li><li>Budget: $12M</li><li>TMDB rating: 6.4/10 (901 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ewan McGregor as Brendan Lynch</li><li>Brenton Thwaites as JR White</li><li>Alicia Vikander as Tasha</li><li>Jacek Koman as Sam</li><li>Matt Nable as Sterlo</li><li>Tom Budge as Josh</li><li>Nash Edgerton as Chris</li><li>Damon Herriman as Private Wilson</li><li>Eddie Baroo as Merv</li><li>Marko Jovanović as Ken</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "Son of a Gun (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:317952": {
    "d": "Cartel Land (2015): Drama/Documentary film. Story: In the Mexican state of Michoacán, Dr. Jose Mireles… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/lHFsMi0uprGSD25sIR1OVeqFiFR.jpg",
@@ -1217,6 +1599,70 @@
    "t": "Our Souls at Night (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:454652": {
+   "d": "Colette (2018): Drama/History film. Story: After marrying a successful Parisian writer known… See cast, TMDB rating 6.9/10, and release date 11 October 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/mNiVBMDBaQU2A5XA1KnvmkL6rPI.jpg",
+   "industry": "world",
+   "k": "Colette, Colette movie, Colette cast, Colette story, Colette box office collection, Colette budget, Colette review, Colette rating, Colette release date, Colette trailer, Colette Drama, Colette History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keira Knightley"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominic West"
+     },
+     {
+      "@type": "Person",
+      "name": "Denise Gough"
+     },
+     {
+      "@type": "Person",
+      "name": "Fiona Shaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Pugh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 968,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Colette (2018): Drama/History film. Story: After marrying a successful Parisian writer known… See cast, TMDB rating 6.9/10, and release date 11 October 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wash Westmoreland"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mNiVBMDBaQU2A5XA1KnvmkL6rPI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=454652",
+    "name": "Colette",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=454652"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Colette (2018)</h1>\n<p class=\"ssr-lead\">After marrying a successful Parisian writer known commonly as Willy, Sidonie-Gabrielle Colette is transplanted from her childhood home in rural France to the intellectual and artistic splendor of Paris. Soon after, Willy convinces Colette to ghostwrite for him. She pens a semi-autobiographical novel about a witty and brazen country girl named Claudine, sparking a bestseller and a cultural sensation. After its success, Colette and Willy become the talk of Paris and their adventures inspire additional Claudine novels.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2018</li><li>Runtime: 112 minutes</li><li>Director: Wash Westmoreland</li><li>Genres: Drama, History</li><li>TMDB rating: 6.9/10 (968 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keira Knightley as Colette</li><li>Dominic West as Willy</li><li>Denise Gough as Missy</li><li>Fiona Shaw as Sido</li><li>Robert Pugh as Jules</li><li>Eleanor Tomlinson as Georgie Raoul-Duval</li><li>Ray Panthaki as Veber</li><li>Dickie Beau as Wague</li><li>Jake Graf as Gaston De Caillavet</li><li>Polina Litvak as Lily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cinemax Amazon Channel, Cinemax Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Colette (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:45752": {
    "d": "Scooby-Doo! Camp Scare (2010): Animation/Comedy film. Story: Scooby and the gang experience outdoor fun as they go… See cast and TMDB rating 7.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/oVROUaJkzEBAlNbUKnXQiiKbJRf.jpg",
@@ -1343,6 +1789,69 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Catcher Was a Spy (2018)</h1>\n<p class=\"ssr-lead\">Former major league baseball player Moe Berg lives a double life working for the Office of Strategic Services in World War II Europe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 June 2018</li><li>Runtime: 94 minutes</li><li>Director: Ben Lewin</li><li>Genres: Drama, War, Thriller, History</li><li>Budget: $14M</li><li>TMDB rating: 6.2/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Rudd as Moe Berg</li><li>Mark Strong as Werner Heisenberg</li><li>Sienna Miller as Estella Huni</li><li>Connie Nielsen as Koranda</li><li>Shea Whigham as Joe Cronin</li><li>Hiroyuki Sanada as Kawabata</li><li>Tom Wilkinson as Paul Scherrer</li><li>William Hope as John Kleran</li><li>Giancarlo Giannini as Professor Eduardo Amaldi</li><li>Pierfrancesco Favino as Martinuzzi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Catcher Was a Spy (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:492452": {
+   "d": "Ben Is Back (2018): Drama film. Story: 19-year-old Ben Burns unexpectedly returns home to… See cast, budget $13M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wFgLR6tJblOm4tyaLlE8eFtXev3.jpg",
+   "industry": "world",
+   "k": "Ben Is Back, Ben Is Back movie, Ben Is Back cast, Ben Is Back story, Ben Is Back box office collection, Ben Is Back budget, Ben Is Back review, Ben Is Back rating, Ben Is Back release date, Ben Is Back trailer, Ben Is Back Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Julia Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Hedges"
+     },
+     {
+      "@type": "Person",
+      "name": "Courtney B. Vance"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathryn Newton"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Bay Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 984,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Ben Is Back (2018): Drama film. Story: 19-year-old Ben Burns unexpectedly returns home to… See cast, budget $13M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Hedges"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wFgLR6tJblOm4tyaLlE8eFtXev3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=492452",
+    "name": "Ben Is Back",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-12-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=492452"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ben Is Back (2018)</h1>\n<p class=\"ssr-lead\">19-year-old Ben Burns unexpectedly returns home to his family&#x27;s suburban home on Christmas Eve morning. Ben&#x27;s mother, Holly, is relieved and welcoming but wary of her son staying clean. Over a turbulent 24 hours, new truths are revealed, and a mother&#x27;s undying love for her son is tested as she does everything in her power to keep him safe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2018</li><li>Runtime: 103 minutes</li><li>Director: Peter Hedges</li><li>Genres: Drama</li><li>Budget: $13M</li><li>TMDB rating: 6.6/10 (984 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Roberts as Holly Burns</li><li>Lucas Hedges as Ben Burns</li><li>Courtney B. Vance as Mr. Beeby</li><li>Kathryn Newton as Ivy Burns</li><li>Rachel Bay Jones as Beth Conyers</li><li>David Zaldivar as Spencer &#x27;Spider&#x27; Webbs</li><li>Alexandra Park as Cara K.</li><li>Michael Esper as Clayton</li><li>Tim Guinee as Phil</li><li>Myra Lucretia Taylor as Sally</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Ben Is Back (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
   "movie:4952": {
@@ -1663,6 +2172,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Immortal (2004)</h1>\n<p class=\"ssr-lead\">In the distant future, Earth is occupied by ancient gods and genetically altered humans. When a god is sentenced to death he seeks a new human host and a woman to bear his child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2004</li><li>Runtime: 103 minutes</li><li>Director: Enki Bilal</li><li>Genres: Drama, Action, Science Fiction</li><li>Budget: $24.67M</li><li>TMDB rating: 5.7/10 (483 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Linda Hardy as Jill</li><li>Thomas Kretschmann as Nikopol</li><li>Charlotte Rampling as Elma Turner</li><li>Yann Collette as Froebe</li><li>Frédéric Pierrot as John</li><li>Thomas M. Pollard as Horus</li><li>Joe Sheridan as Allgood</li><li>Corinne Jaber as Lily Liang</li><li>Olivier Achard as Checker</li><li>Jerry Di Giacomo as Jack Turner</li></ul>\n</article>",
    "t": "Immortal (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
+  },
+  "movie:6552": {
+   "d": "Idle Hands (1999): Comedy/Horror film. Story: Anton is a cheerful but exceedingly non-ambitious… See cast, budget $25M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
+   "industry": "world",
+   "k": "Idle Hands, Idle Hands movie, Idle Hands cast, Idle Hands story, Idle Hands box office collection, Idle Hands budget, Idle Hands review, Idle Hands rating, Idle Hands release date, Idle Hands trailer, Idle Hands Comedy, Idle Hands Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Devon Sawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Elden Henson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Alba"
+     },
+     {
+      "@type": "Person",
+      "name": "Vivica A. Fox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 814,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Idle Hands (1999): Comedy/Horror film. Story: Anton is a cheerful but exceedingly non-ambitious… See cast, budget $25M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rodman Flender"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=6552",
+    "name": "Idle Hands",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-04-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=6552"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Idle Hands (1999)</h1>\n<p class=\"ssr-lead\">Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil&#x27;s playground has a kernel of truth after all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 April 1999</li><li>Runtime: 92 minutes</li><li>Director: Rodman Flender</li><li>Genres: Comedy, Horror, Fantasy</li><li>Budget: $25M</li><li>TMDB rating: 6.2/10 (814 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Devon Sawa as Anton</li><li>Seth Green as Mick</li><li>Elden Henson as Pnub</li><li>Jessica Alba as Molly</li><li>Vivica A. Fox as Debi</li><li>Jack Noseworthy as Randy</li><li>Christopher Hart as The Hand</li><li>Katie Wright as Tanya</li><li>Sean Whalen as McMacy</li><li>Nicholas Sadler as Ruck</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Idle Hands (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
+  "movie:738652": {
+   "d": "Copshop (2021): Thriller/Crime film. Story: On the run from a lethal assassin, a wily con artist… See cast, budget $43.5M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jIkH6cy0Haa1cyitn6gtKmE3lxu.jpg",
+   "industry": "world",
+   "k": "Copshop, Copshop movie, Copshop cast, Copshop story, Copshop box office collection, Copshop budget, Copshop review, Copshop rating, Copshop release date, Copshop trailer, Copshop Thriller, Copshop Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gerard Butler"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Grillo"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexis Louder"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Huss"
+     },
+     {
+      "@type": "Person",
+      "name": "Chad L. Coleman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 988,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Copshop (2021): Thriller/Crime film. Story: On the run from a lethal assassin, a wily con artist… See cast, budget $43.5M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Carnahan"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jIkH6cy0Haa1cyitn6gtKmE3lxu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=738652",
+    "name": "Copshop",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=738652"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Copshop (2021)</h1>\n<p class=\"ssr-lead\">On the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station. However, when the hit man turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2021</li><li>Runtime: 108 minutes</li><li>Director: Joe Carnahan</li><li>Genres: Thriller, Crime, Action</li><li>Budget: $43.5M</li><li>TMDB rating: 6.3/10 (988 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gerard Butler as Bob Viddick</li><li>Frank Grillo as Teddy Murretto</li><li>Alexis Louder as Valerie Young</li><li>Toby Huss as Anthony Lamb</li><li>Chad L. Coleman as Sgt. Duane Mitchell</li><li>Ryan O&#x27;Nan as Officer Huber</li><li>Jose Pablo Cantillo as Officer Peña</li><li>Kaiwi Lyman as Officer Barnes</li><li>Robert Walker Branchaud as Officer Kimball</li><li>Tracey Bonner as Detective Deena Schier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Copshop (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:763152": {
    "d": "More the Merrier (2021): Comedy/Romance film. Story: Multiple stories about the oscillating world of… See cast and TMDB rating 6.6/10.",

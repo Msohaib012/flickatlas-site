@@ -1,7 +1,70 @@
 {
  "bucket": "40",
- "count": 59,
+ "count": 66,
  "titles": {
+  "movie:1040": {
+   "d": "The Leopard (1963): Drama film. Story: As Garibaldi's troops begin the unification of Italy… See cast, TMDB rating 7.7/10, and release date 27 March 1963.",
+   "img": "https://image.tmdb.org/t/p/w780/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+   "industry": "world",
+   "k": "The Leopard, The Leopard movie, The Leopard cast, The Leopard story, The Leopard box office collection, The Leopard budget, The Leopard review, The Leopard rating, The Leopard release date, The Leopard Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Burt Lancaster"
+     },
+     {
+      "@type": "Person",
+      "name": "Claudia Cardinale"
+     },
+     {
+      "@type": "Person",
+      "name": "Alain Delon"
+     },
+     {
+      "@type": "Person",
+      "name": "Paolo Stoppa"
+     },
+     {
+      "@type": "Person",
+      "name": "Rina Morelli"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 994,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "The Leopard (1963): Drama film. Story: As Garibaldi's troops begin the unification of Italy… See cast, TMDB rating 7.7/10, and release date 27 March 1963.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luchino Visconti"
+     }
+    ],
+    "duration": "PT186M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1040",
+    "name": "The Leopard",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1963-03-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1040"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Leopard (1963)</h1>\n<p class=\"ssr-lead\">As Garibaldi&#x27;s troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 1963</li><li>Runtime: 186 minutes</li><li>Director: Luchino Visconti</li><li>Genres: Drama</li><li>TMDB rating: 7.7/10 (994 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Burt Lancaster as Prince Fabrizio Corbera of Salina</li><li>Claudia Cardinale as Angelica Sedara / Bastiana</li><li>Alain Delon as Tancredi Falconeri</li><li>Paolo Stoppa as Don Calogero Sedara</li><li>Rina Morelli as Princess Maria Stella Corbera of Salina</li><li>Romolo Valli as Father Pirrone</li><li>Terence Hill as Count Cavriaghi</li><li>Pierre Clémenti as Francesco Paolo</li><li>Lucilla Morlacchi as Concetta Corbera</li><li>Giuliano Gemma as Garibaldi&#x27;s General</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Leopard (1963) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1963"
+  },
   "movie:10640": {
    "d": "Futureworld (1976): Action/Adventure film. Story: Two years after the Westworld tragedy in the Delos… See cast, budget $2.5M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/kGdrLjZ1J3XlD57LFjUQN6npCFQ.jpg",
@@ -946,6 +1009,134 @@
    "t": "See No Evil 2 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:2440": {
+   "d": "Joint Security Area (2000): Drama/Thriller film. Story: Two North Korean soldiers are killed in the border… See cast, budget $12.5M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/z7w6ACQJTeGYASr1plSwfRe6Ytk.jpg",
+   "industry": "world",
+   "k": "Joint Security Area, Joint Security Area movie, Joint Security Area cast, Joint Security Area story, Joint Security Area box office collection, Joint Security Area budget, Joint Security Area review, Joint Security Area rating, Joint Security Area release date, Joint Security Area trailer, Joint Security Area Drama, Joint Security Area Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lee Young-ae"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee Byung-hun"
+     },
+     {
+      "@type": "Person",
+      "name": "Song Kang-ho"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Tae-woo"
+     },
+     {
+      "@type": "Person",
+      "name": "Shin Ha-kyun"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 908,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Joint Security Area (2000): Drama/Thriller film. Story: Two North Korean soldiers are killed in the border… See cast, budget $12.5M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Park Chan-wook"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/z7w6ACQJTeGYASr1plSwfRe6Ytk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2440",
+    "name": "Joint Security Area",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-09-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2440"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Joint Security Area (2000)</h1>\n<p class=\"ssr-lead\">Two North Korean soldiers are killed in the border area between North and South Korea, prompting an investigation by a neutral body. The lead investigator receives differing accounts from the two sides.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2000</li><li>Runtime: 108 minutes</li><li>Director: Park Chan-wook</li><li>Genres: Drama, Thriller, Mystery</li><li>Budget: $12.5M</li><li>TMDB rating: 7.8/10 (908 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Young-ae as Maj. Sophie E. Jean</li><li>Lee Byung-hun as Sgt. Lee Soo-hyuk</li><li>Song Kang-ho as Sgt. Oh Kyeong-pil</li><li>Kim Tae-woo as Pvt. Nam Sung-shik</li><li>Shin Ha-kyun as Pvt. Jeong Woo-jin</li><li>Herbert Ulrich as Capt. Persson</li><li>Christoph Hofrichter as Maj. Gen. Bruno Botta</li><li>Lee Han-wi as Major Kang</li><li>Koh In-bae as Ri Sun-hye</li><li>Lee Dae-yeon as Sgt. Hwang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Channel K Amazon Channel</li></ul>\n</article>",
+   "t": "Joint Security Area (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
+  "movie:256040": {
+   "d": "Bāhubali: The Beginning (2015): Action/Drama film. Story: The young Shivudu is left as a foundling in a small… See cast, budget $25.13M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg",
+   "industry": "bollywood",
+   "k": "Bāhubali: The Beginning, Bāhubali: The Beginning movie, Bāhubali: The Beginning cast, Bāhubali: The Beginning story, Bāhubali: The Beginning box office collection, Bāhubali: The Beginning budget, Bāhubali: The Beginning review, Bāhubali: The Beginning rating, Bāhubali: The Beginning release date, Bāhubali: The Beginning Action, Bāhubali: The Beginning Drama, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Prabhas"
+     },
+     {
+      "@type": "Person",
+      "name": "Rana Daggubati"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamannaah Bhatia"
+     },
+     {
+      "@type": "Person",
+      "name": "Anushka Shetty"
+     },
+     {
+      "@type": "Person",
+      "name": "Ramya Krishnan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 988,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Bāhubali: The Beginning (2015): Action/Drama film. Story: The young Shivudu is left as a foundling in a small… See cast, budget $25.13M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "S. S. Rajamouli"
+     }
+    ],
+    "duration": "PT159M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=256040",
+    "name": "Bāhubali: The Beginning",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=256040"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bāhubali: The Beginning (2015)</h1>\n<p class=\"ssr-lead\">The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2015</li><li>Runtime: 159 minutes</li><li>Director: S. S. Rajamouli</li><li>Genres: Action, Drama</li><li>Budget: $25.13M</li><li>TMDB rating: 7.6/10 (988 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Prabhas as Mahendra &#x27;Sivudu&#x27; Bāhubali / Amarendra Bāhubali</li><li>Rana Daggubati as Bhallaladeva</li><li>Tamannaah Bhatia as Avanthika</li><li>Anushka Shetty as Devasena</li><li>Ramya Krishnan as Sivagami</li><li>Nassar as Bijjaladeva</li><li>Sathyaraj as Karikala Kattappa Nadar</li><li>Prabhakar as King Kalakeya</li><li>Adivi Sesh as Bhadra</li><li>Kichcha Sudeepa as Aslam Khan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Bāhubali: The Beginning (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:257440": {
    "d": "Term Life (2016): Thriller/Drama film. Story: If Nick Barrow can stay alive for 21 days, he'll die… See cast, budget $16.5M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/8yM0mNM5begExtTdmsi5ZnK4Ipm.jpg",
@@ -1128,6 +1319,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Return to Salem&#x27;s Lot (1987)</h1>\n<p class=\"ssr-lead\">Anthropologist Joe Weber takes his son on a trip to the New England town of Salem&#x27;s Lot, unaware of its vampire population. When the inhabitants reveal their secret, they seek Weber to write a bible for them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 1987</li><li>Runtime: 100 minutes</li><li>Director: Larry Cohen</li><li>Genres: Horror</li><li>Budget: $12M</li><li>TMDB rating: 6.0/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Moriarty as Joe Weber</li><li>Samuel Fuller as Van Meer</li><li>Andrew Duggan as Judge Axel</li><li>Ricky Addison Reed as Jeremy</li><li>June Havoc as Aunt Clara</li><li>Evelyn Keyes as Mrs. Axel</li><li>Tara Reid as Amanda</li><li>James Dixon as Rains</li><li>Jill Gatsby as Sherry</li><li>Ronee Blakley as Sally</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "A Return to Salem's Lot (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
+  },
+  "movie:3040": {
+   "d": "Night Watch (2004): Fantasy/Action film. Story: Among normal humans live the \"Others\" possessing… See cast, budget $10M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2f6La6ZJDIQTNPcn2WSR6qdXy8Q.jpg",
+   "industry": "world",
+   "k": "Night Watch, Night Watch movie, Night Watch cast, Night Watch story, Night Watch box office collection, Night Watch budget, Night Watch review, Night Watch rating, Night Watch release date, Night Watch Fantasy, Night Watch Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Konstantin Khabensky"
+     },
+     {
+      "@type": "Person",
+      "name": "Vladimir Menshov"
+     },
+     {
+      "@type": "Person",
+      "name": "Galina Tyunina"
+     },
+     {
+      "@type": "Person",
+      "name": "Mariya Poroshina"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhanna Friske"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 878,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Night Watch (2004): Fantasy/Action film. Story: Among normal humans live the \"Others\" possessing… See cast, budget $10M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Timur Bekmambetov"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2f6La6ZJDIQTNPcn2WSR6qdXy8Q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3040",
+    "name": "Night Watch",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-07-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3040"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night Watch (2004)</h1>\n<p class=\"ssr-lead\">Among normal humans live the &quot;Others&quot; possessing various supernatural powers. They are divided up into the forces of light and the forces of the dark, who signed a truce several centuries ago to end a devastating battle. Ever since, the forces of light govern the day while the night belongs to their dark opponents. In modern day Moscow the dark Others actually roam the night as vampires while a &quot;Night Watch&quot; of light forces, among them Anton, the movie&#x27;s protagonist, try to control them and limit their outrage</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 July 2004</li><li>Runtime: 114 minutes</li><li>Director: Timur Bekmambetov</li><li>Genres: Fantasy, Action, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 6.2/10 (878 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Konstantin Khabensky as Anton Gorodetsky</li><li>Vladimir Menshov as Geser</li><li>Galina Tyunina as Olga</li><li>Mariya Poroshina as Svetlana</li><li>Zhanna Friske as Alice Donnikova</li><li>Viktor Verzhbitskiy as Zavulon</li><li>Rimma Markova as Witch Darya</li><li>Mariya Mironova as Egor&#x27;s Mother</li><li>Dmitriy Martynov as Egor</li><li>Valeriy Zolotukhin as Kostya’s Father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Night Watch (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "movie:319340": {
    "d": "I Kissed a Girl (2015): Comedy film. Story: Jérémie, 34, wakes up in an apartment he doesn't… See cast, TMDB rating 5.9/10, and release date 28 January 2015.",
@@ -1323,6 +1578,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Krrish (2006)</h1>\n<p class=\"ssr-lead\">In Singapore, Krishna is forced by circumstances to use his superpowers and become a masked superhero named Krrish, before getting drawn towards his lost legacy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 June 2006</li><li>Runtime: 174 minutes</li><li>Director: Rakesh Roshan</li><li>Genres: Action, Science Fiction</li><li>Budget: $5M</li><li>TMDB rating: 6.5/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hrithik Roshan as Krishna Mehra / Krrish / Rohit Mehra</li><li>Priyanka Chopra Jonas as Priya</li><li>Rekha as Sonia Mehra</li><li>Naseeruddin Shah as Dr. Siddhant Arya</li><li>Sharat Saxena as Vikram Sinha</li><li>Manini Mishra as Honey</li><li>Archana Puran Singh as Nayanatara</li><li>Hemant Pandey as Bahadur</li><li>Puneet Issar as Komal Singh</li><li>Xia Bin as Kristian Li</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Ultraplaybox Amazon Channel</li></ul>\n</article>",
    "t": "Krrish (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
+  },
+  "movie:340": {
+   "d": "Everything Is Illuminated (2005): Comedy/Drama film. Story: A young Jewish American man endeavors—with the help… See cast, budget $7M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/v6DoiKp2ThK0VUgWt73JrEN4qa4.jpg",
+   "industry": "world",
+   "k": "Everything Is Illuminated, Everything Is Illuminated movie, Everything Is Illuminated cast, Everything Is Illuminated story, Everything Is Illuminated box office collection, Everything Is Illuminated budget, Everything Is Illuminated review, Everything Is Illuminated rating, Everything Is Illuminated release date, Everything Is Illuminated Comedy, Everything Is Illuminated Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Eugene Hutz"
+     },
+     {
+      "@type": "Person",
+      "name": "Boris Lyoskin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jana Hrabětova"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Safran Foer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 855,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Everything Is Illuminated (2005): Comedy/Drama film. Story: A young Jewish American man endeavors—with the help… See cast, budget $7M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Liev Schreiber"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/v6DoiKp2ThK0VUgWt73JrEN4qa4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=340",
+    "name": "Everything Is Illuminated",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=340"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Everything Is Illuminated (2005)</h1>\n<p class=\"ssr-lead\">A young Jewish American man endeavors—with the help of eccentric, distant relatives—to find the woman who saved his grandfather during World War II—in a Ukrainian village which was ultimately razed by the Nazis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2005</li><li>Runtime: 105 minutes</li><li>Director: Liev Schreiber</li><li>Genres: Comedy, Drama</li><li>Budget: $7M</li><li>TMDB rating: 7.3/10 (855 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elijah Wood as Jonathan Safran Foer</li><li>Eugene Hutz as Alex</li><li>Boris Lyoskin as Grandfather</li><li>Jana Hrabětova as Jonathan&#x27;s Grandmother</li><li>Jonathan Safran Foer as Leaf Blower</li><li>Stephen Samudovsky as Jonathan&#x27;s Grandfather Safran</li><li>Oleksandr Choroshko as Alexander Perchov, Father</li><li>Gil Kazimirov as Igor</li><li>Zuzana Hodková as Alex&#x27;s Mother</li><li>Ljubomir Dezera as Young Jonathan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Everything Is Illuminated (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "movie:36040": {
    "d": "Walkabout (1971): Adventure/Drama film. Story: Under the pretense of having a picnic, a geologist… See cast, budget $1M, and TMDB rating 7.3/10.",
@@ -2107,6 +2426,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Good Luck Charlie, It&#x27;s Christmas! (2011)</h1>\n<p class=\"ssr-lead\">Teddy Duncan&#x27;s middle-class family embarks on a road trip from their home in Denver to visit Mrs. Duncans Parents, the Blankenhoopers, in Palm Springs. When they find themselves stranded between Denver and Utah, they try to hitch a ride to Las Vegas with a seemingly normal older couple in a station wagon from Roswell, New Mexico. It turns out that the couple believes they are the victims of alien abduction. The Duncan&#x27;s must resort to purchasing a clunker Yugo to get to Utah, have their luggage stolen in Las Vegas, and survive a zany Christmas with Grandpa and Grandma Blankenhooper.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 December 2011</li><li>Runtime: 80 minutes</li><li>Director: Arlene Sanford</li><li>Genres: Comedy, Family, Drama, TV Movie</li><li>TMDB rating: 6.7/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bridgit Mendler as Teddy Duncan</li><li>Leigh-Allyn Baker as Amy Duncan</li><li>Jason Dolley as PJ Duncan</li><li>Eric Allan Kramer as Bob Duncan</li><li>Bradley Steven Perry as Gabe Duncan</li><li>Mia Talerico as Charlie Duncan</li><li>Debra Monk as Petunia</li><li>Michael Kagan as Hank</li><li>Abbie Cobb as Jordan</li><li>Pamela Dunlap as Sue</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
    "t": "Good Luck Charlie, It's Christmas! (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:838240": {
+   "d": "Robot Dreams (2023): Animation/Drama film. Story: A lonely dog's friendship with his robot companion… See cast, budget $5.3M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+   "industry": "world",
+   "k": "Robot Dreams, Robot Dreams movie, Robot Dreams cast, Robot Dreams story, Robot Dreams box office collection, Robot Dreams budget, Robot Dreams review, Robot Dreams rating, Robot Dreams release date, Robot Dreams trailer, Robot Dreams Animation, Robot Dreams Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ivan Labanda"
+     },
+     {
+      "@type": "Person",
+      "name": "Tito Trifol"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafa Calvo"
+     },
+     {
+      "@type": "Person",
+      "name": "José García Tos"
+     },
+     {
+      "@type": "Person",
+      "name": "José Luis Mediavilla"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 884,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Robot Dreams (2023): Animation/Drama film. Story: A lonely dog's friendship with his robot companion… See cast, budget $5.3M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pablo Berger"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Animation",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=838240",
+    "name": "Robot Dreams",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=838240"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Robot Dreams (2023)</h1>\n<p class=\"ssr-lead\">A lonely dog&#x27;s friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 2023</li><li>Runtime: 102 minutes</li><li>Director: Pablo Berger</li><li>Genres: Animation, Drama, Comedy, Science Fiction</li><li>Budget: $5.3M</li><li>TMDB rating: 8.0/10 (884 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ivan Labanda as Dog / Robot / Various (voice)</li><li>Tito Trifol as Various (voice)</li><li>Rafa Calvo as Various (voice)</li><li>José García Tos as Various (voice)</li><li>José Luis Mediavilla as Various (voice)</li><li>Graciela Molina as Duck / Various (voice)</li><li>Esther Solans as Various (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Robot Dreams (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:8740": {
+   "d": "The Vanishing (1988): Thriller/Mystery film. Story: Rex and Saskia, a young couple in love, are on… See cast and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gcXbxHjkUwLV4HrE2oJcbP7UGTA.jpg",
+   "industry": "world",
+   "k": "The Vanishing, The Vanishing movie, The Vanishing cast, The Vanishing story, The Vanishing box office collection, The Vanishing budget, The Vanishing review, The Vanishing rating, The Vanishing release date, The Vanishing Thriller, The Vanishing Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bernard-Pierre Donnadieu"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Bervoets"
+     },
+     {
+      "@type": "Person",
+      "name": "Johanna ter Steege"
+     },
+     {
+      "@type": "Person",
+      "name": "Gwen Eckhaus"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Forget"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 916,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Vanishing (1988): Thriller/Mystery film. Story: Rex and Saskia, a young couple in love, are on… See cast and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Sluizer"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gcXbxHjkUwLV4HrE2oJcbP7UGTA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8740",
+    "name": "The Vanishing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-10-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8740"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Vanishing (1988)</h1>\n<p class=\"ssr-lead\">Rex and Saskia, a young couple in love, are on vacation when they stop at a busy service station. Saskia is abducted in broad daylight and three years pass with no answers or closure surrounding her disappearance. Rex has nearly given up all hope when he suddenly begins receiving letters from her abductor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 1988</li><li>Runtime: 106 minutes</li><li>Director: George Sluizer</li><li>Genres: Thriller, Mystery</li><li>TMDB rating: 7.4/10 (916 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bernard-Pierre Donnadieu as Raymond Lemorne</li><li>Gene Bervoets as Rex Hofman</li><li>Johanna ter Steege as Saskia Wagter</li><li>Gwen Eckhaus as Lieneke</li><li>Pierre Forget as Farmer Laurent</li><li>Bernadette Le Saché as Simone Lemorne</li><li>Tania Latarjet as Denise Lemorne</li><li>Lucille Glenn as Gabrielle Lemorne</li><li>Roger Souza as Manager</li><li>Caroline Appéré as Cashier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "The Vanishing (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
   },
   "movie:916740": {
    "d": "Brazen (2022): Thriller/Mystery film. Story: Mystery writer Grace Miller has killer instincts when… See cast and TMDB rating 4.8/10.",

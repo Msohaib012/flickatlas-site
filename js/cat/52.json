@@ -1,7 +1,262 @@
 {
  "bucket": "52",
- "count": 54,
+ "count": 64,
  "titles": {
+  "movie:10052": {
+   "backdrop_path": "/kM9D0sVUiaOclaw1dLNm6a2jEG7.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Joe Darrow",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Hugh Campbell",
+     "n": "Joe Morton"
+    },
+    {
+     "c": "Charlie Dickinson",
+     "n": "Ron Rifkin"
+    },
+    {
+     "c": "Emily Darrow",
+     "n": "Susanna Thompson"
+    },
+    {
+     "c": "Mrs. Belmont",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Ben",
+     "n": "Jacob Smith"
+    },
+    {
+     "c": "Jeffrey Reardon",
+     "n": "Robert Bailey Jr."
+    },
+    {
+     "c": "Hal",
+     "n": "Jay Thomas"
+    },
+    {
+     "c": "Flora",
+     "n": "Lisa Banes"
+    },
+    {
+     "c": "Eric",
+     "n": "Matt Craven"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tom Shadyac"
+   ],
+   "genres": [
+    "Thriller",
+    "Fantasy",
+    "Mystery"
+   ],
+   "id": 10052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A grieving doctor is being contacted by his late wife through his patient's near death experiences.",
+   "popularity": 3.1704,
+   "poster_path": "/tafDYI10ZhorJ6nmsPqUfzQpRLn.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-02-22",
+   "revenue": 52322400,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "When someone you love dies... are they gone forever?",
+   "title": "Dragonfly",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.59,
+   "vote_count": 986
+  },
+  "movie:10152": {
+   "backdrop_path": "/e2Ppz6IQcukpqyYYJsRkWcsGXvT.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Harry Dunne",
+     "n": "Derek Richardson"
+    },
+    {
+     "c": "Lloyd Christmas",
+     "n": "Eric Christian Olsen"
+    },
+    {
+     "c": "Mrs. Dunne",
+     "n": "Mimi Rogers"
+    },
+    {
+     "c": "Ray",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Jessica",
+     "n": "Rachel Nichols"
+    },
+    {
+     "c": "Principal Collins",
+     "n": "Eugene Levy"
+    },
+    {
+     "c": "Terri",
+     "n": "Teal Redmann"
+    },
+    {
+     "c": "Lewis",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Margie",
+     "n": "Lin Shaye"
+    },
+    {
+     "c": "Turk",
+     "n": "Elden Henson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Troy Miller"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10152,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This wacky prequel to the 1994 blockbuster goes back to the lame-brained Harry and Lloyd's days as classmates at a Rhode Island high school, where the unprincipled principal puts the pair in remedial courses as part of a scheme to fleece the school.",
+   "popularity": 3.7996,
+   "poster_path": "/qxD6P3UXASFCdbrVavceZzgOfI9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-04-14",
+   "revenue": 39267515,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The evolution of dumb...",
+   "title": "Dumb and Dumberer: When Harry Met Lloyd",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.167,
+   "vote_count": 971
+  },
   "movie:10452": {
    "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
    "budget": 0,
@@ -690,6 +945,132 @@
    "vote_average": 6.045,
    "vote_count": 397
   },
+  "movie:13252": {
+   "backdrop_path": "/z6ueaizIb3vH3l1l4xSr2bET2Am.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Tom Cutler",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Eddie Lorenzo",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Ann Norcut",
+     "n": "Eva Mendes"
+    },
+    {
+     "c": "Det. Jim Vargas",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Rose Cutler",
+     "n": "Keke Palmer"
+    },
+    {
+     "c": "Cherie",
+     "n": "Maggie Lawson"
+    },
+    {
+     "c": "Miguel",
+     "n": "Jose Pablo Cantillo"
+    },
+    {
+     "c": "Arlo Grange",
+     "n": "Robert Forster"
+    },
+    {
+     "c": "Victim's Neighbor",
+     "n": "Terry Milam"
+    },
+    {
+     "c": "Vic",
+     "n": "Marc Macaulay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 13252,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Single father and former cop Tom Cutler has an unusual occupation: he cleans up death scenes. But when he's called in to sterilize a wealthy suburban residence after a brutal shooting, Cutler is shocked to learn he may have unknowingly erased crucial evidence, entangling himself in a dirty criminal cover-up.",
+   "popularity": 3.2535,
+   "poster_path": "/8KhDbFg9STRlvrOLvaQ7PjOo7XT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-09-11",
+   "revenue": 5796630,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Solving a crime can be dirty work",
+   "title": "Cleaner",
+   "trailer": {
+    "key": "fdF699_b2wI",
+    "name": "Cleaner- Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.095,
+   "vote_count": 993
+  },
   "movie:13552": {
    "backdrop_path": "/9mHvO0PzmEgxDtmRq3VeTVELYqb.jpg",
    "budget": 800000,
@@ -855,6 +1236,111 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 336
+  },
+  "movie:14052": {
+   "backdrop_path": "/84J4XwvJ0tb7pmgqLQ87TgQHnyN.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Lewis Skolnick",
+     "n": "Robert Carradine"
+    },
+    {
+     "c": "Gilbert Lowell",
+     "n": "Anthony Edwards"
+    },
+    {
+     "c": "Arnold Poindexter",
+     "n": "Timothy Busfield"
+    },
+    {
+     "c": "'Booger' Dawson",
+     "n": "Curtis Armstrong"
+    },
+    {
+     "c": "Lamar Latrell",
+     "n": "Larry B. Scott"
+    },
+    {
+     "c": "Harold Wormser",
+     "n": "Andrew Cassese"
+    },
+    {
+     "c": "Toshiro Takashi",
+     "n": "Brian Tochi"
+    },
+    {
+     "c": "Betty Childs",
+     "n": "Julia Montgomery"
+    },
+    {
+     "c": "Judy",
+     "n": "Michelle Meyrink"
+    },
+    {
+     "c": "Stan Gable",
+     "n": "Ted McGinley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jeff Kanew"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 14052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At Adams College, the jocks rule from their house on high, the Alpha Beta fraternity. So when a group of socially-challenged misfits try to go Greek, they're instantly rejected by every house on campus. Deciding to start their own frat to protect their outcast brothers, the nerds soon find themselves in a battle royale as the Alpha Betas try to crush their new rivals.",
+   "popularity": 3.2735,
+   "poster_path": "/v8aETLufi4WIinhQ994oWkehtaC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+     "name": "Sky Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1984-07-20",
+   "revenue": 40900000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They've been laughed at, picked on and put down. But now it's time for the odd to get even!",
+   "title": "Revenge of the Nerds",
+   "trailer": {
+    "key": "kIZH5TKnEeg",
+    "name": "#TBT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.44,
+   "vote_count": 855
   },
   "movie:1421552": {
    "backdrop_path": "/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
@@ -1415,6 +1901,139 @@
    "type": "movie",
    "vote_average": 6.521,
    "vote_count": 73
+  },
+  "movie:184352": {
+   "backdrop_path": "/jv247hW6iebdNHwtt8fZdXjZwdV.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tom",
+     "n": "Xavier Dolan"
+    },
+    {
+     "c": "Francis",
+     "n": "Pierre-Yves Cardinal"
+    },
+    {
+     "c": "Agathe",
+     "n": "Lise Roy"
+    },
+    {
+     "c": "Sarah",
+     "n": "Evelyne Brochu"
+    },
+    {
+     "c": "Bar Owner",
+     "n": "Manuel Tadros"
+    },
+    {
+     "c": "Priest",
+     "n": "Jacques Lavallée"
+    },
+    {
+     "c": "Doctor",
+     "n": "Anne Caron"
+    },
+    {
+     "c": "Paul",
+     "n": "Olivier Morin"
+    },
+    {
+     "c": "Service Station Employee",
+     "n": "Johanne Léveillé"
+    },
+    {
+     "c": "Man at Convenience Store",
+     "n": "Mathieu Roy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Xavier Dolan"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 184352,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young man travels to an isolated farm for his lover's funeral where he's quickly drawn into a twisted, sexually charged game by his lover's aggressive brother.",
+   "popularity": 1.9123,
+   "poster_path": "/df7pp0jSs4wRxfWHtdgCaDPelmm.jpg",
+   "production_countries": [
+    "CA",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "GB"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/waBWwU3aoY1IoypolMtDX4GOVDD.png",
+     "name": "BFI Player",
+     "region": "GB"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "GB"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-03-28",
+   "revenue": 687505,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "What you don't know will hurt you.",
+   "title": "Tom at the Farm",
+   "trailer": {
+    "key": "rZNzJhTczZQ",
+    "name": "Official U.S. Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.772,
+   "vote_count": 878
   },
   "movie:24452": {
    "backdrop_path": "/sGz7JApiDtClRFxffIw3WgRK8y2.jpg",
@@ -2064,6 +2683,186 @@
    "vote_average": 7.766,
    "vote_count": 305
   },
+  "movie:294652": {
+   "backdrop_path": "/qF1zeLIhTe3ZtP9q7Ca7EsM9KAR.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Brendan Lynch",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "JR White",
+     "n": "Brenton Thwaites"
+    },
+    {
+     "c": "Tasha",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Sam",
+     "n": "Jacek Koman"
+    },
+    {
+     "c": "Sterlo",
+     "n": "Matt Nable"
+    },
+    {
+     "c": "Josh",
+     "n": "Tom Budge"
+    },
+    {
+     "c": "Chris",
+     "n": "Nash Edgerton"
+    },
+    {
+     "c": "Private Wilson",
+     "n": "Damon Herriman"
+    },
+    {
+     "c": "Merv",
+     "n": "Eddie Baroo"
+    },
+    {
+     "c": "Ken",
+     "n": "Marko Jovanović"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julius Avery"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 294652,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia's most notorious criminal, Brendan Lynch, but protection comes at a price.",
+   "popularity": 2.2067,
+   "poster_path": "/yRLVyhQfkW2hn15e8NIqarswLAr.jpg",
+   "production_countries": [
+    "AU",
+    "CA",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-10-16",
+   "revenue": 660241,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everyone gets what they deserve",
+   "title": "Son of a Gun",
+   "trailer": {
+    "key": "_9Bf9JkRwzU",
+    "name": "Son of A Gun | Official Trailer HD | A24",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.447,
+   "vote_count": 901
+  },
   "movie:317952": {
    "backdrop_path": "/lHFsMi0uprGSD25sIR1OVeqFiFR.jpg",
    "budget": 0,
@@ -2686,6 +3485,183 @@
    "vote_average": 6.666,
    "vote_count": 486
   },
+  "movie:454652": {
+   "backdrop_path": "/mNiVBMDBaQU2A5XA1KnvmkL6rPI.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Colette",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Willy",
+     "n": "Dominic West"
+    },
+    {
+     "c": "Missy",
+     "n": "Denise Gough"
+    },
+    {
+     "c": "Sido",
+     "n": "Fiona Shaw"
+    },
+    {
+     "c": "Jules",
+     "n": "Robert Pugh"
+    },
+    {
+     "c": "Georgie Raoul-Duval",
+     "n": "Eleanor Tomlinson"
+    },
+    {
+     "c": "Veber",
+     "n": "Ray Panthaki"
+    },
+    {
+     "c": "Wague",
+     "n": "Dickie Beau"
+    },
+    {
+     "c": "Gaston De Caillavet",
+     "n": "Jake Graf"
+    },
+    {
+     "c": "Lily",
+     "n": "Polina Litvak"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wash Westmoreland"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 454652,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After marrying a successful Parisian writer known commonly as Willy, Sidonie-Gabrielle Colette is transplanted from her childhood home in rural France to the intellectual and artistic splendor of Paris. Soon after, Willy convinces Colette to ghostwrite for him. She pens a semi-autobiographical novel about a witty and brazen country girl named Claudine, sparking a bestseller and a cultural sensation. After its success, Colette and Willy become the talk of Paris and their adventures inspire additional Claudine novels.",
+   "popularity": 2.3485,
+   "poster_path": "/5fvcs8x7k16wGdet16qkx1cKBPM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-10-11",
+   "revenue": 14273033,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "History is about to change",
+   "title": "Colette",
+   "trailer": {
+    "key": "c_8U7gjb2k4",
+    "name": "COLETTE | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 968
+  },
   "movie:45752": {
    "backdrop_path": "/oVROUaJkzEBAlNbUKnXQiiKbJRf.jpg",
    "budget": 0,
@@ -2953,6 +3929,130 @@
    "type": "movie",
    "vote_average": 6.168,
    "vote_count": 331
+  },
+  "movie:492452": {
+   "backdrop_path": "/wFgLR6tJblOm4tyaLlE8eFtXev3.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Holly Burns",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Ben Burns",
+     "n": "Lucas Hedges"
+    },
+    {
+     "c": "Mr. Beeby",
+     "n": "Courtney B. Vance"
+    },
+    {
+     "c": "Ivy Burns",
+     "n": "Kathryn Newton"
+    },
+    {
+     "c": "Beth Conyers",
+     "n": "Rachel Bay Jones"
+    },
+    {
+     "c": "Spencer 'Spider' Webbs",
+     "n": "David Zaldivar"
+    },
+    {
+     "c": "Cara K.",
+     "n": "Alexandra Park"
+    },
+    {
+     "c": "Clayton",
+     "n": "Michael Esper"
+    },
+    {
+     "c": "Phil",
+     "n": "Tim Guinee"
+    },
+    {
+     "c": "Sally",
+     "n": "Myra Lucretia Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Hedges"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 492452,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "19-year-old Ben Burns unexpectedly returns home to his family's suburban home on Christmas Eve morning. Ben's mother, Holly, is relieved and welcoming but wary of her son staying clean. Over a turbulent 24 hours, new truths are revealed, and a mother's undying love for her son is tested as she does everything in her power to keep him safe.",
+   "popularity": 1.7358,
+   "poster_path": "/eSPiprXuWqwMGi6t8BkdiTz9Ou3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-12-14",
+   "revenue": 12616995,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One family. One day.",
+   "title": "Ben Is Back",
+   "trailer": {
+    "key": "oXM1MSmWJLA",
+    "name": "Ben Is Back  | Official Trailer  | In Select Theaters December 7",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 984
   },
   "movie:4952": {
    "backdrop_path": "/cPDMOeafVmyguVlwE4ls6HER021.jpg",
@@ -3523,6 +4623,270 @@
    "type": "movie",
    "vote_average": 5.701,
    "vote_count": 483
+  },
+  "movie:6552": {
+   "backdrop_path": "/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Anton",
+     "n": "Devon Sawa"
+    },
+    {
+     "c": "Mick",
+     "n": "Seth Green"
+    },
+    {
+     "c": "Pnub",
+     "n": "Elden Henson"
+    },
+    {
+     "c": "Molly",
+     "n": "Jessica Alba"
+    },
+    {
+     "c": "Debi",
+     "n": "Vivica A. Fox"
+    },
+    {
+     "c": "Randy",
+     "n": "Jack Noseworthy"
+    },
+    {
+     "c": "The Hand",
+     "n": "Christopher Hart"
+    },
+    {
+     "c": "Tanya",
+     "n": "Katie Wright"
+    },
+    {
+     "c": "McMacy",
+     "n": "Sean Whalen"
+    },
+    {
+     "c": "Ruck",
+     "n": "Nicholas Sadler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rodman Flender"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy"
+   ],
+   "id": 6552,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
+   "popularity": 3.1019,
+   "poster_path": "/mCO4gU1lkViGXTkoRBEYrvjDIJu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-04-30",
+   "revenue": 4152230,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The touching story of a boy and his right hand.",
+   "title": "Idle Hands",
+   "trailer": {
+    "key": "HcVrp--9UUc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.219,
+   "vote_count": 814
+  },
+  "movie:738652": {
+   "backdrop_path": "/jIkH6cy0Haa1cyitn6gtKmE3lxu.jpg",
+   "budget": 43500000,
+   "cast": [
+    {
+     "c": "Bob Viddick",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Teddy Murretto",
+     "n": "Frank Grillo"
+    },
+    {
+     "c": "Valerie Young",
+     "n": "Alexis Louder"
+    },
+    {
+     "c": "Anthony Lamb",
+     "n": "Toby Huss"
+    },
+    {
+     "c": "Sgt. Duane Mitchell",
+     "n": "Chad L. Coleman"
+    },
+    {
+     "c": "Officer Huber",
+     "n": "Ryan O'Nan"
+    },
+    {
+     "c": "Officer Peña",
+     "n": "Jose Pablo Cantillo"
+    },
+    {
+     "c": "Officer Barnes",
+     "n": "Kaiwi Lyman"
+    },
+    {
+     "c": "Officer Kimball",
+     "n": "Robert Walker Branchaud"
+    },
+    {
+     "c": "Detective Deena Schier",
+     "n": "Tracey Bonner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Carnahan"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
+   "id": 738652,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station. However, when the hit man turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.",
+   "popularity": 2.6237,
+   "poster_path": "/9LEWWWEhS7SZXFDuH1YYhs0VFct.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-09-09",
+   "revenue": 6807158,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Someone's gotta take the hit.",
+   "title": "Copshop",
+   "trailer": {
+    "key": "uFlyLJbzCt4",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.271,
+   "vote_count": 988
   },
   "movie:763152": {
    "backdrop_path": "/4v64DRdMtx8fQGUZ7hE1R2iChCr.jpg",

@@ -1,7 +1,156 @@
 {
  "bucket": "69",
- "count": 53,
+ "count": 63,
  "titles": {
+  "movie:10069": {
+   "backdrop_path": "/4TMrgGFbH22eQXy6hTcY0BzEPot.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Hutch",
+     "n": "Jon Foster"
+    },
+    {
+     "c": "Abigail",
+     "n": "Samaire Armstrong"
+    },
+    {
+     "c": "Swink",
+     "n": "Frankie Muniz"
+    },
+    {
+     "c": "October",
+     "n": "Sophia Bush"
+    },
+    {
+     "c": "Phineus",
+     "n": "Jimmi Simpson"
+    },
+    {
+     "c": "Miller Banks",
+     "n": "Adam Goldberg"
+    },
+    {
+     "c": "Detective Thibodeaux",
+     "n": "Wendell Pierce"
+    },
+    {
+     "c": "Loomis Crowley",
+     "n": "Milo Ventimiglia"
+    },
+    {
+     "c": "Rex",
+     "n": "Billy Slaughter"
+    },
+    {
+     "c": "Sarah",
+     "n": "Nicole Oppermann"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "William Brent Bell"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 10069,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the brutal death of a friend, a group of friends play an underground video game based on a 17th-century noblewoman, only to discover that dying in the game results in their real-life death.",
+   "popularity": 2.0658,
+   "poster_path": "/hsSJwroE7jugEROB8tmyxJP91Ho.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-03-24",
+   "revenue": 27105095,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Play It To Death.",
+   "title": "Stay Alive",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.8,
+   "vote_count": 867
+  },
   "movie:101669": {
    "backdrop_path": "/yiTNRdUZ5CTUcojwdjITKfBfjRB.jpg",
    "budget": 11000000,
@@ -719,6 +868,182 @@
    "type": "movie",
    "vote_average": 6.16,
    "vote_count": 444
+  },
+  "movie:11569": {
+   "backdrop_path": "/xjeoa7KjnUMQzJXGunHmgMjhHmP.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Joey Summerskill",
+     "n": "Terry Farrell"
+    },
+    {
+     "c": "Pinhead / Elliot",
+     "n": "Doug Bradley"
+    },
+    {
+     "c": "J.P. Monroe",
+     "n": "Kevin Bernhardt"
+    },
+    {
+     "c": "Doc / Camerahead",
+     "n": "Ken Carpenter"
+    },
+    {
+     "c": "Terri",
+     "n": "Paula Marshall"
+    },
+    {
+     "c": "Brad",
+     "n": "Philip Hyland"
+    },
+    {
+     "c": "Kirsty Cotton",
+     "n": "Ashley Laurence"
+    },
+    {
+     "c": "Blond Nurse",
+     "n": "Sharon Ceccatti"
+    },
+    {
+     "c": "Female Cop",
+     "n": "Shanna Lynn"
+    },
+    {
+     "c": "Male Cop",
+     "n": "Bob Bragg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Anthony Hickox"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 11569,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Pinhead is set loose on the sinful streets of New York City to create chaos with a fresh cadre of Cenobitic kin.",
+   "popularity": 3.2159,
+   "poster_path": "/qnXEJp6KP6aIGWhNrg1fOKza4kp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+     "name": "MGM Plus Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1992-09-11",
+   "revenue": 12534961,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What started in Hell will end on Earth.",
+   "title": "Hellraiser III: Hell on Earth",
+   "trailer": {
+    "key": "TDbbVx2YYEw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 902
   },
   "movie:1157869": {
    "backdrop_path": "/mJxnzi4GNQ5i9HGLcTwyrqCEKkl.jpg",
@@ -2136,6 +2461,211 @@
    "vote_average": 5.521,
    "vote_count": 333
   },
+  "movie:24169": {
+   "backdrop_path": "/xEbTrEoVOMpzpvNJkY1EomP7bEl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Puk / Aldo / Beniamino / Dipinto / Aldo",
+     "n": "Aldo Baglio"
+    },
+    {
+     "c": "Maestro Tsu' Nam / Giovanni / Mario / Dipinto / Giovanni",
+     "n": "Giovanni Storti"
+    },
+    {
+     "c": "Pin / Giacomo / Padre Bruno / Dipinto / Giacomo",
+     "n": "Giacomo Poretti"
+    },
+    {
+     "c": "moglie di Aldo (Milano beach) / Maria Antonietta (Falsi prigionieri)",
+     "n": "Silvana Fallisi"
+    },
+    {
+     "c": "moglie di Giacomo (Temperatura basale)",
+     "n": "Sara D'Amario"
+    },
+    {
+     "c": "Dama con l'ermellino (Falsi prigionieri)",
+     "n": "Victoria Cabello"
+    },
+    {
+     "c": "Napoleone Bonaparte (Falsi prigionieri)",
+     "n": "Sergio Bini Bustric"
+    },
+    {
+     "c": "suocera di Aldo (Milano beach)",
+     "n": "Luciana Turina"
+    },
+    {
+     "c": "moglie di Giacomo (Milano Beach)",
+     "n": "Cinzia Massironi"
+    },
+    {
+     "c": "Giovanni's wife (Milano beach)",
+     "n": "Debora Villa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Marcello Cesena"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 24169,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Four comedic episodes framed within the story of a tyrannical Zen master and his two hapless disciples.",
+   "popularity": 0.871,
+   "poster_path": "/tKHHDq1M9xde3UBaefSdV7RZkVQ.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2008-12-19",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Cosmos on the Commode",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 895
+  },
+  "movie:24469": {
+   "backdrop_path": "/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Mia Williams",
+     "n": "Katie Jarvis"
+    },
+    {
+     "c": "Connor O'Reily",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Joanne Williams",
+     "n": "Kierston Wareing"
+    },
+    {
+     "c": "Tyler Williams",
+     "n": "Rebecca Griffiths"
+    },
+    {
+     "c": "Billy",
+     "n": "Harry Treadaway"
+    },
+    {
+     "c": "Billy's Brother",
+     "n": "Jason Maza"
+    },
+    {
+     "c": "Billy's Brother",
+     "n": "Jack Gordon"
+    },
+    {
+     "c": "Kelly",
+     "n": "Joanna Horton"
+    },
+    {
+     "c": "Keeley",
+     "n": "Sarah Bayes"
+    },
+    {
+     "c": "Keeleys Dad",
+     "n": "Grant Wild"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Andrea Arnold"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 24469,
+   "industry": "world",
+   "origin_country": [
+    "NL",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother’s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
+   "popularity": 1.5603,
+   "poster_path": "/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+   "production_countries": [
+    "NL",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-09-11",
+   "revenue": 5900000,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Live, love and give as good as you get.",
+   "title": "Fish Tank",
+   "trailer": {
+    "key": "xf5VOvB5MHA",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.94,
+   "vote_count": 991
+  },
   "movie:24869": {
    "backdrop_path": "/bDB9NAjkB1J7ab3lgydj75aLo7o.jpg",
    "budget": 250000,
@@ -3299,6 +3829,165 @@
    "vote_average": 5.919,
    "vote_count": 467
   },
+  "movie:373569": {
+   "backdrop_path": "/6JsYyN0qmV6fD6wfXFH0VSb3hSB.jpg",
+   "budget": 42000000,
+   "cast": [
+    {
+     "c": "Emily Middleton",
+     "n": "Amy Schumer"
+    },
+    {
+     "c": "Linda Middleton",
+     "n": "Goldie Hawn"
+    },
+    {
+     "c": "James",
+     "n": "Tom Bateman"
+    },
+    {
+     "c": "Roger Simmons",
+     "n": "Christopher Meloni"
+    },
+    {
+     "c": "Ruth",
+     "n": "Wanda Sykes"
+    },
+    {
+     "c": "Jeffrey Middleton",
+     "n": "Ike Barinholtz"
+    },
+    {
+     "c": "Morgado",
+     "n": "Óscar Jaenada"
+    },
+    {
+     "c": "Michael",
+     "n": "Randall Park"
+    },
+    {
+     "c": "Barb",
+     "n": "Joan Cusack"
+    },
+    {
+     "c": "Lew",
+     "n": "Raven Goodwin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Levine"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 373569,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being dumped by her boyfriend on the eve of their vacation to South America, impetuous dreamer Emily convinces her ultra-cautious mother Linda to step in as her travel companion. When the two are promptly kidnapped upon arrival in Ecuador, they must work through their differences to navigate the jungle and reach safety.",
+   "popularity": 3.0901,
+   "poster_path": "/gsleO1KultziWltEAngAEZkxQhf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-05-03",
+   "revenue": 60800000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Mess with me, mess with my mother.",
+   "title": "Snatched",
+   "trailer": {
+    "key": "QcyeYFXdHNQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.328,
+   "vote_count": 842
+  },
   "movie:383869": {
    "backdrop_path": "/7rjGAp3HBM6EZp4WVo8l3FKN2i5.jpg",
    "budget": 8600000,
@@ -4076,6 +4765,162 @@
    "vote_average": 6.861,
    "vote_count": 461
   },
+  "movie:522369": {
+   "backdrop_path": "/bO7uK55yHE7hZobRN798rytCQuq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ricky",
+     "n": "Kris Hitchen"
+    },
+    {
+     "c": "Abby",
+     "n": "Debbie Honeywood"
+    },
+    {
+     "c": "Seb",
+     "n": "Rhys Mcgowan"
+    },
+    {
+     "c": "Liza Jane",
+     "n": "Katie Proctor"
+    },
+    {
+     "c": "Maloney",
+     "n": "Ross Brewster"
+    },
+    {
+     "c": "Henry",
+     "n": "Charlie Richmond"
+    },
+    {
+     "c": "Freddie",
+     "n": "Julian Ions"
+    },
+    {
+     "c": "Rosie",
+     "n": "Sheila Dunkerley"
+    },
+    {
+     "c": "Robert",
+     "n": "Maxie Peters"
+    },
+    {
+     "c": "Ben",
+     "n": "Christopher-John Slater"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Ken Loach"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 522369,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Hoping that self-employment through gig economy can solve their financial woes, a hard-up delivery driver and his wife struggling to raise a family end up trapped in the vicious circle of modern-day labour exploitation.",
+   "popularity": 1.8479,
+   "poster_path": "/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
+   "production_countries": [
+    "GB",
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-10-04",
+   "revenue": 8943790,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Sorry We Missed You",
+   "trailer": {
+    "key": "kzkYwJH91xE",
+    "name": "Sorry We Missed You - official US trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.329,
+   "vote_count": 866
+  },
   "movie:590869": {
    "backdrop_path": "/dUBfcpXkD75WD8ZFgDfUauqFINh.jpg",
    "budget": 0,
@@ -4409,6 +5254,114 @@
    "vote_average": 6.291,
    "vote_count": 443
   },
+  "movie:736769": {
+   "backdrop_path": "/9mXBHMSDLi0Ty0HXcnLtQnqNBmI.jpg",
+   "budget": 47000000,
+   "cast": [
+    {
+     "c": "Fontaine",
+     "n": "John Boyega"
+    },
+    {
+     "c": "Slick Charles",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Yo-Yo",
+     "n": "Teyonah Parris"
+    },
+    {
+     "c": "Nixon",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "The Preacher",
+     "n": "David Alan Grier"
+    },
+    {
+     "c": "Isaac",
+     "n": "J. Alphonse Nicholson"
+    },
+    {
+     "c": "Biddy",
+     "n": "Tamberla Perry"
+    },
+    {
+     "c": "Big Moss",
+     "n": "Eric Robinson Jr."
+    },
+    {
+     "c": "JuneBug",
+     "n": "Trayce Malachi"
+    },
+    {
+     "c": "Crutches",
+     "n": "Shariff Earp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Juel Taylor"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Mystery"
+   ],
+   "id": 736769,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy lurking directly beneath their neighborhood.",
+   "popularity": 2.9363,
+   "poster_path": "/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-06-14",
+   "revenue": 0,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beware cheap imitations.",
+   "title": "They Cloned Tyrone",
+   "trailer": {
+    "key": "2S3M1xFVdVg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.554,
+   "vote_count": 838
+  },
   "movie:765869": {
    "backdrop_path": "/pinPGZW5r9SOFNlSLugpdLwvdyD.jpg",
    "budget": 0,
@@ -4582,6 +5535,113 @@
    "type": "movie",
    "vote_average": 4.9,
    "vote_count": 300
+  },
+  "movie:8069": {
+   "backdrop_path": "/gY8essk1UcNZMK3VRkPpdaUQLDQ.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Barbarella",
+     "n": "Jane Fonda"
+    },
+    {
+     "c": "Pygar",
+     "n": "John Phillip Law"
+    },
+    {
+     "c": "The Great Tyrant",
+     "n": "Anita Pallenberg"
+    },
+    {
+     "c": "Professor Ping",
+     "n": "Marcel Marceau"
+    },
+    {
+     "c": "President of Earth",
+     "n": "Claude Dauphin"
+    },
+    {
+     "c": "Concierge / Durand-Durand",
+     "n": "Milo O'Shea"
+    },
+    {
+     "c": "Captain Moon",
+     "n": "Véronique Vendell"
+    },
+    {
+     "c": "Captain Sun",
+     "n": "Serge Marquand"
+    },
+    {
+     "c": "Stomoxys",
+     "n": "Catherine Chevallier"
+    },
+    {
+     "c": "Glossina",
+     "n": "Marie Therese Chevallier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Roger Vadim"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 8069,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
+   "popularity": 4.2903,
+   "poster_path": "/facTz5BZz4AkJal1FWgjYciekih.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1968-10-10",
+   "revenue": 2500000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "See Barbarella do her thing!",
+   "title": "Barbarella",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.002,
+   "vote_count": 894
   },
   "movie:826769": {
    "backdrop_path": "/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg",
@@ -4844,6 +5904,186 @@
    "vote_average": 6.054,
    "vote_count": 359
   },
+  "movie:9469": {
+   "backdrop_path": "/eW9vrzXW0r8glKx6p27i1iQblsr.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Jake Shuttlesworth",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Jesus Shuttlesworth",
+     "n": "Ray Allen"
+    },
+    {
+     "c": "Lala Bonilla",
+     "n": "Rosario Dawson"
+    },
+    {
+     "c": "Dakota Burns",
+     "n": "Milla Jovovich"
+    },
+    {
+     "c": "Coleman \"Booger\" Sykes",
+     "n": "Hill Harper"
+    },
+    {
+     "c": "Warden Wyatt",
+     "n": "Ned Beatty"
+    },
+    {
+     "c": "Spivey",
+     "n": "Jim Brown"
+    },
+    {
+     "c": "Crudup",
+     "n": "Joseph Lyle Taylor"
+    },
+    {
+     "c": "Uncle Bubba",
+     "n": "Bill Nunn"
+    },
+    {
+     "c": "Aunt Sally",
+     "n": "Michele Shay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Spike Lee"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 9469,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A basketball player's father must try to convince him to go to a college so he can get a shorter prison sentence.",
+   "popularity": 2.4812,
+   "poster_path": "/kd8hRaysUQOz7AvSorZDJHuihcJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/6cgMswJ1yXtJLP1uJhM476h2WTH.png",
+     "name": "TNT",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png",
+     "name": "TBS",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/sksAwn7y5P55CNGZ2znVuwLNM8S.png",
+     "name": "tru TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-05-01",
+   "revenue": 21567853,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The father, the son and the holy game.",
+   "title": "He Got Game",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.749,
+   "vote_count": 832
+  },
   "movie:9669": {
    "backdrop_path": "/oTp23mDGYlgOVp2uxEuAGHFhZic.jpg",
    "budget": 6000000,
@@ -5025,6 +6265,124 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 486
+  },
+  "movie:9969": {
+   "backdrop_path": "/lVSj3d2dvTaK3qO9K2aD1W4L7R0.jpg",
+   "budget": 51000000,
+   "cast": [
+    {
+     "c": "Buddy Hall",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Steve Finch",
+     "n": "Matthew Broderick"
+    },
+    {
+     "c": "Kelly Finch",
+     "n": "Kristin Davis"
+    },
+    {
+     "c": "Tia Hall",
+     "n": "Kristin Chenoweth"
+    },
+    {
+     "c": "Madison Finch",
+     "n": "Alia Shawkat"
+    },
+    {
+     "c": "Gustave",
+     "n": "Fred Armisen"
+    },
+    {
+     "c": "Wallace",
+     "n": "Jorge Garcia"
+    },
+    {
+     "c": "Carter Finch",
+     "n": "Dylan Blue"
+    },
+    {
+     "c": "Ashley Hall",
+     "n": "Kelly Aldridge"
+    },
+    {
+     "c": "Emily Hall",
+     "n": "Sabrina Aldridge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Whitesell"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 9969,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Determined to unseat Steve Finch's reign as the town's holiday season king, Buddy Hall plasters his house with so many decorative lights that it'll be visible from space! When their wives bond, and their kids follow suit, the two men only escalate their rivalry - and their decorating.",
+   "popularity": 4.816,
+   "poster_path": "/smJDzhYGhl6j9OrucsB7IkMNy82.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-11-22",
+   "revenue": 47231070,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There glows the neighborhood.",
+   "title": "Deck the Halls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.623,
+   "vote_count": 851
   },
   "tv:14069": {
    "backdrop_path": "/gpPg6JSixhf9JZbZtD32X3nNYCm.jpg",

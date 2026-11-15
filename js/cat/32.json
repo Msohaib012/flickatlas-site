@@ -1,6 +1,6 @@
 {
  "bucket": "32",
- "count": 49,
+ "count": 58,
  "titles": {
   "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
@@ -173,6 +173,299 @@
    "type": "movie",
    "vote_average": 5.073,
    "vote_count": 447
+  },
+  "movie:10632": {
+   "backdrop_path": "/2T3k09YnrM03CQd1yK3ZQLEHEZH.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "L.T. Bonham",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Aaron Hallam",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Abby Durrell",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Irene Kravitz",
+     "n": "Leslie Stefanson"
+    },
+    {
+     "c": "Ted Chenoweth",
+     "n": "John Finn"
+    },
+    {
+     "c": "Bobby Moret",
+     "n": "José Zúñiga"
+    },
+    {
+     "c": "Harry Van Zandt",
+     "n": "Ron Canada"
+    },
+    {
+     "c": "Dale Hewitt",
+     "n": "Mark Pellegrino"
+    },
+    {
+     "c": "Loretta Kravitz",
+     "n": "Jenna Boyd"
+    },
+    {
+     "c": "Stokes",
+     "n": "Aaron DeCone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Friedkin"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 10632,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallam. A former Special Operations instructor is approached and asked to apprehend Hallam—his former student—who has 'gone rogue' after suffering severe battle stress from his time in Kosovo.",
+   "popularity": 2.9129,
+   "poster_path": "/AvdBPe2XSKm3cGyTKFgbquC2jCo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+     "name": "MGM Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-03-11",
+   "revenue": 34234008,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some men should not be found.",
+   "title": "The Hunted",
+   "trailer": {
+    "key": "53AH-k3go7U",
+    "name": "The Hunted - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.16,
+   "vote_count": 977
+  },
+  "movie:11132": {
+   "backdrop_path": "/z5r8XnWFWTD0shvIlR9yCn85Lna.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Lola",
+     "n": "Lindsay Lohan"
+    },
+    {
+     "c": "Stu",
+     "n": "Adam Garcia"
+    },
+    {
+     "c": "Karen",
+     "n": "Glenne Headly"
+    },
+    {
+     "c": "Ella",
+     "n": "Alison Pill"
+    },
+    {
+     "c": "Sam",
+     "n": "Eli Marienthal"
+    },
+    {
+     "c": "Miss Baggoli",
+     "n": "Carol Kane"
+    },
+    {
+     "c": "Carla",
+     "n": "Megan Fox"
+    },
+    {
+     "c": "Mrs. Gerard",
+     "n": "Sheila McCarthy"
+    },
+    {
+     "c": "Calum",
+     "n": "Tom McCamus"
+    },
+    {
+     "c": "Mr. Gerard",
+     "n": "Richard Fitzpatrick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sara Sugarman"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11132,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After moving to New Jersey, Lola bags a coveted role in a school play, which earns her the wrath of Carla, the most popular girl in school, who will do anything to ruin Lola's life.",
+   "popularity": 2.9107,
+   "poster_path": "/nQA9Ozh9ftLQyJvuKy6sl5zSlH2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2004-02-17",
+   "revenue": 29331068,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "So much drama, so little time.",
+   "title": "Confessions of a Teenage Drama Queen",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.737,
+   "vote_count": 973
   },
   "movie:11632": {
    "backdrop_path": "/eW3GgBzpLcbohMy6I07rSyPROuM.jpg",
@@ -1182,6 +1475,110 @@
    "vote_average": 6.9,
    "vote_count": 133
   },
+  "movie:13532": {
+   "backdrop_path": "/5XeSSkjxmXaLmnLWTyeuihDWx14.jpg",
+   "budget": 3900000,
+   "cast": [
+    {
+     "c": "Eric",
+     "n": "Sam Huntington"
+    },
+    {
+     "c": "Windows",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Hutch",
+     "n": "Dan Fogler"
+    },
+    {
+     "c": "Zoe",
+     "n": "Kristen Bell"
+    },
+    {
+     "c": "Linus",
+     "n": "Christopher Rodriguez Marquette"
+    },
+    {
+     "c": "Chaz",
+     "n": "David Denman"
+    },
+    {
+     "c": "Big Chuck",
+     "n": "Christopher McDonald"
+    },
+    {
+     "c": "Garfunkel",
+     "n": "Isaac Kappy"
+    },
+    {
+     "c": "Admiral Seasholtz / Alien / Roach",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Myron",
+     "n": "Charlie B. Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kyle Newman"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 13532,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1999, Star Wars fanatics take a cross-country trip to George Lucas' Skywalker Ranch so their dying friend can see a screening of The Phantom Menace before its release.",
+   "popularity": 1.8553,
+   "poster_path": "/fitksX4J3xfBjT38YgDUXOlBkHk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-02-06",
+   "revenue": 948753,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never tell them the odds.",
+   "title": "Fanboys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.167,
+   "vote_count": 941
+  },
   "movie:1382832": {
    "backdrop_path": "/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
    "budget": 0,
@@ -1635,6 +2032,285 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 43
+  },
+  "movie:17332": {
+   "backdrop_path": "/7gsAibNmbrBxxWGzuCR5NVLjRyx.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Steve Lopez",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Nathaniel Ayers",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Mary Weston",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Graham Claydon",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "David Carter",
+     "n": "Nelsan Ellis"
+    },
+    {
+     "c": "Adam Crane",
+     "n": "Michael Bunin"
+    },
+    {
+     "c": "Jennifer Ayers",
+     "n": "LisaGay Hamilton"
+    },
+    {
+     "c": "Leslie Bloom",
+     "n": "Rachael Harris"
+    },
+    {
+     "c": "Curt Reynolds",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Flo Ayers",
+     "n": "Lorraine Toussaint"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joe Wright"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 17332,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Los Angeles journalist befriends a homeless Juilliard-trained musician, while looking for a new article for the paper.",
+   "popularity": 2.6347,
+   "poster_path": "/6GnFN9OTkaoeKNzd2Fbp3ZyJjKi.jpg",
+   "production_countries": [
+    "FR",
+    "US",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-04-24",
+   "revenue": 38332994,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life has a mind of its own",
+   "title": "The Soloist",
+   "trailer": {
+    "key": "z1YHoyCxdVQ",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.67,
+   "vote_count": 864
+  },
+  "movie:192132": {
+   "backdrop_path": "/1CbxtdiBSBnihJh5F4nG4sH868L.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "April",
+     "n": "Emma Roberts"
+    },
+    {
+     "c": "Teddy",
+     "n": "Jack Kilmer"
+    },
+    {
+     "c": "Fred",
+     "n": "Nat Wolff"
+    },
+    {
+     "c": "Mr. B",
+     "n": "James Franco"
+    },
+    {
+     "c": "Emily",
+     "n": "Zoe Levin"
+    },
+    {
+     "c": "Stewart",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Skull",
+     "n": "Keegan Allen"
+    },
+    {
+     "c": "Mitch",
+     "n": "Chris Messina"
+    },
+    {
+     "c": "Raquel",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "Sally",
+     "n": "Colleen Camp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gia Coppola"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 192132,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A lack of parental guidance encourages teens in an affluent California town to rebel with substance abuse and casual sex.",
+   "popularity": 2.383,
+   "poster_path": "/yjcwwYP3eSigxLKKVBoVVz85ZWv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-06-06",
+   "revenue": 919591,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In every city some seek love, some look for trouble, others look for both.",
+   "title": "Palo Alto",
+   "trailer": {
+    "key": "yLR_hf-mxu8",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 939
   },
   "movie:20532": {
    "backdrop_path": "/wJfbBUiJH8C9PTAunn11Ms4KN8h.jpg",
@@ -2432,6 +3108,315 @@
    "vote_average": 5.78,
    "vote_count": 457
   },
+  "movie:3132": {
+   "backdrop_path": "/9oLrsekWm3sfEGw5HOav6roW1h7.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Oakes",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Jake Hayes / Kevin Pope",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Seale",
+     "n": "Gabriel Macht"
+    },
+    {
+     "c": "Adrik Vas",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Roland Yates",
+     "n": "John Slattery"
+    },
+    {
+     "c": "Julie",
+     "n": "Kerry Washington"
+    },
+    {
+     "c": "Nicole",
+     "n": "Garcelle Beauvais"
+    },
+    {
+     "c": "Officer Swanson",
+     "n": "Brooke Smith"
+    },
+    {
+     "c": "Mrs. Banks",
+     "n": "Irma P. Hall"
+    },
+    {
+     "c": "Dragan Adjanic",
+     "n": "Matthew Marsh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joel Schumacher"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 3132,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a Harvard-educated CIA agent is killed during an operation, the secret agency recruits his twin brother.",
+   "popularity": 2.6347,
+   "poster_path": "/umu141mcfIEhRLgyQp7TWlGJFW.jpg",
+   "production_countries": [
+    "US",
+    "CZ"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-06-07",
+   "revenue": 65977295,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The world is in good hands.",
+   "title": "Bad Company",
+   "trailer": {
+    "key": "-h8wWFqwmcA",
+    "name": "Bad Company",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.503,
+   "vote_count": 904
+  },
+  "movie:385332": {
+   "backdrop_path": "/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Annie / Bonnie",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Bill",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Vince",
+     "n": "Dexter Fletcher"
+    },
+    {
+     "c": "Alf",
+     "n": "Max Irons"
+    },
+    {
+     "c": "Clinton / Mr Franklyn",
+     "n": "Mike Myers"
+    },
+    {
+     "c": "Chloe Merrywheather",
+     "n": "Katarina Čas"
+    },
+    {
+     "c": "Illing",
+     "n": "Nick Moran"
+    },
+    {
+     "c": "Young Clinton",
+     "n": "Les Loveday"
+    },
+    {
+     "c": "Conejo",
+     "n": "Jourdan Dunn"
+    },
+    {
+     "c": "Lenny",
+     "n": "Matthew Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Vaughn Stein"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Action",
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 385332,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB",
+    "US",
+    "HU"
+   ],
+   "original_language": "en",
+   "overview": "In the dark heart of a sprawling, anonymous city, two assassins carry out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress lead dangerous double lives.  Murderous consequences unravel in the dead of night, as their lives intertwine at the hands of a mysterious criminal mastermind who is hell-bent on revenge.",
+   "popularity": 2.4489,
+   "poster_path": "/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "HK",
+    "IE",
+    "HU"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-05-11",
+   "revenue": 843970,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Revenge never looked so good",
+   "title": "Terminal",
+   "trailer": {
+    "key": "rvA5TTGWsJQ",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.514,
+   "vote_count": 922
+  },
   "movie:415132": {
    "backdrop_path": "/rFjeGAA4cW8PEuVbzayDGLg07l6.jpg",
    "budget": 0,
@@ -2898,6 +3883,68 @@
    "type": "movie",
    "vote_average": 6.817,
    "vote_count": 366
+  },
+  "movie:532": {
+   "backdrop_path": "/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Wallace (voice)",
+     "n": "Peter Sallis"
+    },
+    {
+     "c": "Wendolene (voice)",
+     "n": "Anne Reid"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Nick Park"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy"
+   ],
+   "id": 532,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
+   "popularity": 2.1819,
+   "poster_path": "/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1996-03-07",
+   "revenue": 4638,
+   "runtime": 30,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A cracking wacky adventure.",
+   "title": "A Close Shave",
+   "trailer": {
+    "key": "36GfaI0_B8E",
+    "name": "A Close Shave - The Birth of Shaun the Sheep - Wallace and Gromit",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.604,
+   "vote_count": 992
   },
   "movie:53932": {
    "backdrop_path": "/jz6QSRsQWQUsj8iIdcHltbKkBs3.jpg",
@@ -3460,6 +4507,120 @@
    "type": "movie",
    "vote_average": 7.532,
    "vote_count": 401
+  },
+  "movie:626332": {
+   "backdrop_path": "/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Richard Montañez",
+     "n": "Jesse Garcia"
+    },
+    {
+     "c": "Judy Montañez",
+     "n": "Annie Gonzalez"
+    },
+    {
+     "c": "Vacho Montañez",
+     "n": "Emilio Rivera"
+    },
+    {
+     "c": "Concha Montañez",
+     "n": "Vanessa Martinez"
+    },
+    {
+     "c": "Clarence C. Baker",
+     "n": "Dennis Haysbert"
+    },
+    {
+     "c": "Roger Enrico",
+     "n": "Tony Shalhoub"
+    },
+    {
+     "c": "Abuelito",
+     "n": "Pepe Serna"
+    },
+    {
+     "c": "Tony Romero",
+     "n": "Bobby Soto"
+    },
+    {
+     "c": "Hector Morales",
+     "n": "Jimmy Gonzales"
+    },
+    {
+     "c": "Lonny Mason",
+     "n": "Matt Walsh"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Eva Longoria"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 626332,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The inspiring true story of Richard Montañez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+   "popularity": 3.4592,
+   "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-03-11",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The flavor you know. The story you don't.",
+   "title": "Flamin' Hot",
+   "trailer": {
+    "key": "it7sNRloq-A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 888
   },
   "movie:631132": {
    "backdrop_path": "/ySHlkHDbXztjdjRJ0pZN7FXRnaW.jpg",

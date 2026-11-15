@@ -1,7 +1,121 @@
 {
  "bucket": "85",
- "count": 57,
+ "count": 66,
  "titles": {
+  "movie:10885": {
+   "backdrop_path": "/nzievM20bSwmUMV6ELFA3w2uKtz.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Benjamin Shaw",
+     "n": "Joshua Jackson"
+    },
+    {
+     "c": "Jane Shaw",
+     "n": "Rachael Taylor"
+    },
+    {
+     "c": "Megumi Tanaka",
+     "n": "Megumi Okina"
+    },
+    {
+     "c": "Bruno",
+     "n": "David Denman"
+    },
+    {
+     "c": "Yoko",
+     "n": "Elly Otoguro"
+    },
+    {
+     "c": "Adam",
+     "n": "John Hensley"
+    },
+    {
+     "c": "Seiko",
+     "n": "Maya Hazen"
+    },
+    {
+     "c": "Ritsuo",
+     "n": "James Kyson"
+    },
+    {
+     "c": "Akiko",
+     "n": "Yoshiko Miyazaki"
+    },
+    {
+     "c": "Murase",
+     "n": "Kei Yamamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Masayuki Ochiai"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 10885,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A newly married couple discovers disturbing, ghostly images in photographs they develop after a tragic accident. Fearing the manifestations may be connected, they investigate and learn that some mysteries are better left unsolved.",
+   "popularity": 2.4905,
+   "poster_path": "/t5AEelR6nS0ISwaSZCcUrF2GKZi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-03-21",
+   "revenue": 48555306,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most terrifying images are the ones that are real.",
+   "title": "Shutter",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.529,
+   "vote_count": 859
+  },
   "movie:11085": {
    "backdrop_path": "/dZJpcnokyQ86wrUNooiRJGmDMHT.jpg",
    "budget": 19000000,
@@ -176,6 +290,100 @@
    "type": "movie",
    "vote_average": 7.034,
    "vote_count": 364
+  },
+  "movie:11485": {
+   "backdrop_path": "/dB9pJFYLvaf9w2sYtVH9TYOu6Vr.jpg",
+   "budget": 1530000,
+   "cast": [
+    {
+     "c": "Virgil Starkwell",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Louise",
+     "n": "Janet Margolin"
+    },
+    {
+     "c": "Fritz",
+     "n": "Marcel Hillaire"
+    },
+    {
+     "c": "Miss Blair",
+     "n": "Jacquelyn Hyde"
+    },
+    {
+     "c": "Jake - Convict",
+     "n": "Lonny Chapman"
+    },
+    {
+     "c": "Al - Bank Robber",
+     "n": "Jan Merlin"
+    },
+    {
+     "c": "Chain Gang Warden",
+     "n": "James Anderson"
+    },
+    {
+     "c": "Fred",
+     "n": "Howard Storm"
+    },
+    {
+     "c": "Vince",
+     "n": "Mark Gordon"
+    },
+    {
+     "c": "Frank",
+     "n": "Micil Murphy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 11485,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Virgil Starkwell is intent on becoming a notorious bank robber. Unfortunately for Virgil and his not-so-budding career, he is completely incompetent.",
+   "popularity": 2.2256,
+   "poster_path": "/ks3aoQBDphwelCWkk6KG8n9KIXH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1969-08-18",
+   "revenue": 6080000,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "yi"
+   ],
+   "status": "Released",
+   "tagline": "crime lives!",
+   "title": "Take the Money and Run",
+   "trailer": {
+    "key": "q2hJQ-eBrfo",
+    "name": "Take the Money and Run - Official Trailer - Woody Allen Movie",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.134,
+   "vote_count": 815
   },
   "movie:12185": {
    "backdrop_path": "/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
@@ -2657,6 +2865,367 @@
    "vote_average": 5.319,
    "vote_count": 317
   },
+  "movie:3085": {
+   "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Walter Burns",
+     "n": "Cary Grant"
+    },
+    {
+     "c": "Hildy Johnson",
+     "n": "Rosalind Russell"
+    },
+    {
+     "c": "Bruce Baldwin",
+     "n": "Ralph Bellamy"
+    },
+    {
+     "c": "Sheriff Hartwell",
+     "n": "Gene Lockhart"
+    },
+    {
+     "c": "Murphy",
+     "n": "Porter Hall"
+    },
+    {
+     "c": "Bensinger",
+     "n": "Ernest Truex"
+    },
+    {
+     "c": "Endicott",
+     "n": "Cliff Edwards"
+    },
+    {
+     "c": "Mayor",
+     "n": "Clarence Kolb"
+    },
+    {
+     "c": "McCue",
+     "n": "Roscoe Karns"
+    },
+    {
+     "c": "Wilson",
+     "n": "Frank Jenks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Howard Hawks"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Crime"
+   ],
+   "id": 3085,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper’s star reporter, who also happens to be his estranged wife. She’s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can’t resist a juicy scoop.",
+   "popularity": 2.7378,
+   "poster_path": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Pure Flix"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Dove Amazon Channel"
+    },
+    {
+     "name": "Great American Pure Flix Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1940-01-18",
+   "revenue": 0,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're at each other's throats when they're not in each other's arms!",
+   "title": "His Girl Friday",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 997
+  },
+  "movie:32085": {
+   "backdrop_path": "/7OY9BSM5CYQiHvonQhlQiJGaEnL.jpg",
+   "budget": 60000,
+   "cast": [
+    {
+     "c": "Narrator (voice)",
+     "n": "Vincent Price"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy"
+   ],
+   "id": 32085,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams that annoy his mother.",
+   "popularity": 1.2366,
+   "poster_path": "/sH8CMLnuXbQv9T61mUCPHxZotDJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1982-10-01",
+   "revenue": 0,
+   "runtime": 6,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "While other kids read books like \"Go Jane, Go\" Vincent's favorite author is Edgar Allan Poe.",
+   "title": "Vincent",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.839,
+   "vote_count": 958
+  },
+  "movie:340485": {
+   "backdrop_path": "/fLvgZEMv012AHZk2PAxMyG8WROt.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Star",
+     "n": "Sasha Lane"
+    },
+    {
+     "c": "Jake",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Krystal",
+     "n": "Riley Keough"
+    },
+    {
+     "c": "Pagan",
+     "n": "Arielle Holmes"
+    },
+    {
+     "c": "Corey",
+     "n": "McCaul Lombardi"
+    },
+    {
+     "c": "Katness",
+     "n": "Crystal Ice"
+    },
+    {
+     "c": "QT",
+     "n": "Veronica Ezell"
+    },
+    {
+     "c": "JJ",
+     "n": "Raymond Coalson"
+    },
+    {
+     "c": "Austin",
+     "n": "Garry Howell"
+    },
+    {
+     "c": "Billy",
+     "n": "Chad Cox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andrea Arnold"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 340485,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A restless teenager escapes her troubled home and joins a traveling crew of young drifters selling magazines across the American Midwest. Immersed in a world of reckless partying, risky hustles, and fleeting romances, she searches for freedom and belonging on the open road.",
+   "popularity": 1.8772,
+   "poster_path": "/41SVO0AElBAl7zks9dFhJ0OjHni.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-10-13",
+   "revenue": 2290649,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "American Honey",
+   "trailer": {
+    "key": "y1SpWZm1PLc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 966
+  },
   "movie:38285": {
    "backdrop_path": "/nrlkA1yUj1cryt7qEz8qbrMGAOu.jpg",
    "budget": 0,
@@ -3555,6 +4124,128 @@
    "vote_average": 5.746,
    "vote_count": 338
   },
+  "movie:509585": {
+   "backdrop_path": "/72QAA1dKmOrqZafe7UhHafDTjEq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tobias Ellis",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Vedat",
+     "n": "Omid Memar"
+    },
+    {
+     "c": "Gökçe",
+     "n": "Aylin Tezel"
+    },
+    {
+     "c": "Michael Lutzmann",
+     "n": "Carlo Kitzlinger"
+    },
+    {
+     "c": "Kenan",
+     "n": "Murathan Muslu"
+    },
+    {
+     "c": "Daniel",
+     "n": "Paul Wollin"
+    },
+    {
+     "c": "Natalie",
+     "n": "Aurélie Thépaut"
+    },
+    {
+     "c": "Student",
+     "n": "Max Schimmelpfennig"
+    },
+    {
+     "c": "Alexander Franz (voice)",
+     "n": "Simon Schwarz"
+    },
+    {
+     "c": "Bremen Radar (voice)",
+     "n": "Mario Klischies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Patrick Vollrath"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "id": 509585,
+   "industry": "world",
+   "origin_country": [
+    "DE",
+    "AT",
+    "US",
+    "FR",
+    "CH"
+   ],
+   "original_language": "en",
+   "overview": "When terrorists try to seize control of a Berlin-Paris flight, a soft-spoken young American co-pilot struggles to save the lives of the passengers and crew while forging a surprising connection with one of the hijackers.",
+   "popularity": 1.6735,
+   "poster_path": "/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg",
+   "production_countries": [
+    "AT",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-12-26",
+   "revenue": 0,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "tr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The distress code is only the beginning.",
+   "title": "7500",
+   "trailer": {
+    "key": "Z5Vz9nPw2lg",
+    "name": "7500 – Official Trailer | Prime Video",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.162,
+   "vote_count": 977
+  },
   "movie:5185": {
    "backdrop_path": "/9FxGJdhpvDjb0qvhEjNFT3a1r4L.jpg",
    "budget": 10000000,
@@ -3684,6 +4375,131 @@
    "type": "movie",
    "vote_average": 6.812,
    "vote_count": 356
+  },
+  "movie:528085": {
+   "backdrop_path": "/5UkzNSOK561c2QRy2Zr4AkADzLT.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ethan Whyte",
+     "n": "Kodi Smit-McPhee"
+    },
+    {
+     "c": "Jude Mathers",
+     "n": "Ryan Kwanten"
+    },
+    {
+     "c": "Xanthe Whyte",
+     "n": "Sana'a Shaik"
+    },
+    {
+     "c": "Richard Whyte",
+     "n": "Aaron Glenane"
+    },
+    {
+     "c": "Selene Whyte",
+     "n": "Leeanna Walsman"
+    },
+    {
+     "c": "Regina Jackson",
+     "n": "Deborah Mailman"
+    },
+    {
+     "c": "Young Ethan Whyte",
+     "n": "Finn Little"
+    },
+    {
+     "c": "Young Jude Mathers",
+     "n": "Matt Testro"
+    },
+    {
+     "c": "Billy Mitchell",
+     "n": "Damian Walshe-Howling"
+    },
+    {
+     "c": "Desperate Worker",
+     "n": "Andy McPhee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Seth Larney"
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "id": 528085,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "A lowly utility worker is called to the future by a mysterious radio signal. He must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet.",
+   "popularity": 3.2952,
+   "poster_path": "/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-10-01",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The fight for the future has begun.",
+   "title": "2067",
+   "trailer": {
+    "key": "xKv_Ic8b1VE",
+    "name": "2067 | OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.469,
+   "vote_count": 998
   },
   "movie:528985": {
    "backdrop_path": "/hfwbqmZZBb0qdPVY5e6wT8tdk3E.jpg",
@@ -4483,6 +5299,149 @@
    "vote_average": 5.3,
    "vote_count": 439
   },
+  "movie:604685": {
+   "backdrop_path": "/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Nicholas 'Big Nick' O'Brien",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Donnie 'Jean-Jacques' Wilson",
+     "n": "O'Shea Jackson Jr."
+    },
+    {
+     "c": "Jovanna 'Cleopatra'",
+     "n": "Evin Ahmad"
+    },
+    {
+     "c": "Slavko",
+     "n": "Salvatore Esposito"
+    },
+    {
+     "c": "Holly",
+     "n": "Meadow Williams"
+    },
+    {
+     "c": "Milan Lovren",
+     "n": "Swen Temmel"
+    },
+    {
+     "c": "Connor",
+     "n": "Michael Bisping"
+    },
+    {
+     "c": "Dragan",
+     "n": "Orli Shuka"
+    },
+    {
+     "c": "Vigo",
+     "n": "Rico Verhoeven"
+    },
+    {
+     "c": "Bob",
+     "n": "Jordan Bridges"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christian Gudegast"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 604685,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+   "popularity": 5.4966,
+   "poster_path": "/rxcyxxarD17xMliStDEhM6y2AYQ.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-01-10",
+   "revenue": 58371508,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The score isn't settled.",
+   "title": "Den of Thieves 2: Pantera",
+   "trailer": {
+    "key": "KG1tks1ICiA",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.589,
+   "vote_count": 901
+  },
   "movie:844185": {
    "backdrop_path": "/gkeTxlr34PpxFM1GnuhaLx21gPO.jpg",
    "budget": 0,
@@ -4589,6 +5548,183 @@
    "type": "movie",
    "vote_average": 5.342,
    "vote_count": 404
+  },
+  "movie:89185": {
+   "backdrop_path": "/nuhKYERTbwHmQPoqhl2AuzP2XPM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Tara",
+     "n": "Debby Ryan"
+    },
+    {
+     "c": "Audrey",
+     "n": "Sarena Parmar"
+    },
+    {
+     "c": "Gavin",
+     "n": "Adam DiMarco"
+    },
+    {
+     "c": "Gabe",
+     "n": "Atticus Mitchell"
+    },
+    {
+     "c": "Stacy",
+     "n": "Merritt Patterson"
+    },
+    {
+     "c": "Kim",
+     "n": "Allie Bertram"
+    },
+    {
+     "c": "Barry",
+     "n": "Iain Belcher"
+    },
+    {
+     "c": "Larry",
+     "n": "Rowen Kahn"
+    },
+    {
+     "c": "Principal Moreno",
+     "n": "Nancy Robertson"
+    },
+    {
+     "c": "Rob",
+     "n": "Martin Cummins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Peter Howitt"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "TV Movie",
+    "Music"
+   ],
+   "id": 89185,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "High school senior Tara is so painfully shy that she dreads speaking to anyone in the hallways or getting called on in class. But in the privacy of her bedroom with her iPod in hand, she rocks out -- doing mock broadcasts for Miami's hottest FM radio station, which happens to be owned by her stepfather. When a slot opens up at The SLAM, Tara surprises herself by blossoming behind the mike into confident, \"Radio Rebel\" -- and to everyone's shock, she's a hit!",
+   "popularity": 2.3885,
+   "poster_path": "/wycDdx2BrdNKlyTZoZT8uLeu6dq.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-06-09",
+   "revenue": 0,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Can the girl who never speaks... Become the voice of a generation?",
+   "title": "Radio Rebel",
+   "trailer": {
+    "key": "Lc91iQ1Ivjo",
+    "name": "Radio Rebel: OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.181,
+   "vote_count": 858
   },
   "movie:901385": {
    "backdrop_path": "/dR78i8aMsa8wIuBiHGfU8K5gNL7.jpg",

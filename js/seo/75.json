@@ -1,6 +1,6 @@
 {
  "bucket": "75",
- "count": 48,
+ "count": 56,
  "titles": {
   "movie:1000075": {
    "d": "Largo Winch: The Price of Money (2024): Action/Adventure film. Story: Largo Winch, devastated by the kidnapping of his son… See cast and budget $17M.",
@@ -194,6 +194,70 @@
    "t": "Heaven (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:1075": {
+   "d": "Black Cat, White Cat (1998): Comedy/Romance film. Story: A small-time hustler makes a deal with a notorious… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vx5Mla7OfNzibnVat2HQuqGrUkc.jpg",
+   "industry": "world",
+   "k": "Black Cat, White Cat, Black Cat, White Cat movie, Black Cat, White Cat cast, Black Cat, White Cat story, Black Cat, White Cat box office collection, Black Cat, White Cat budget, Black Cat, White Cat review, Black Cat, White Cat rating, Black Cat, White Cat release date, Black Cat, White Cat Comedy, Black Cat, White Cat Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bajram Severdžan"
+     },
+     {
+      "@type": "Person",
+      "name": "Srđan 'Žika' Todorović"
+     },
+     {
+      "@type": "Person",
+      "name": "Zabit Memedov"
+     },
+     {
+      "@type": "Person",
+      "name": "Florijan Ajdini"
+     },
+     {
+      "@type": "Person",
+      "name": "Branka Katić"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 866,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Black Cat, White Cat (1998): Comedy/Romance film. Story: A small-time hustler makes a deal with a notorious… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emir Kusturica"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vx5Mla7OfNzibnVat2HQuqGrUkc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1075",
+    "name": "Black Cat, White Cat",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1075"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Cat, White Cat (1998)</h1>\n<p class=\"ssr-lead\">A small-time hustler makes a deal with a notorious gangster to whom he owes money: marry his teenage son to the latter&#x27;s daughter. However, the young lovers are not as agreeable.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 1998</li><li>Runtime: 127 minutes</li><li>Director: Emir Kusturica</li><li>Genres: Comedy, Romance, Crime</li><li>TMDB rating: 7.6/10 (866 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bajram Severdžan as Matko Destanov</li><li>Srđan &#x27;Žika&#x27; Todorović as Dadan Karambolo</li><li>Zabit Memedov as Zarije Destanov</li><li>Florijan Ajdini as Zare Destanov</li><li>Branka Katić as Ida Batok</li><li>Ljubica Adžović as Šujka Batok</li><li>Sabri Sulejmani as Grga Pitić</li><li>Salija Ibraimova as Afrodita &quot;Ladybird&quot; Karambolo</li><li>Predrag Laković as Priest</li><li>Predrag &#x27;Miki&#x27; Manojlović as Second Priest / Show Host</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Pijama Films</li></ul>\n</article>",
+   "t": "Black Cat, White Cat (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
   "movie:10875": {
    "d": "The Fabulous Baker Boys (1989): Comedy/Drama film. Story: The lives of two struggling musicians, who happen to… See cast, budget $13M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
@@ -386,6 +450,70 @@
    "t": "The Great Race (1965) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1965"
   },
+  "movie:119675": {
+   "d": "Behind the Candelabra (2013): Drama/Romance film. Story: Based on the autobiographical novel, the tempestuous… See cast, budget $23M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/47hvNE7yCYoc2NObbjl7bS9jnIA.jpg",
+   "industry": "world",
+   "k": "Behind the Candelabra, Behind the Candelabra movie, Behind the Candelabra cast, Behind the Candelabra story, Behind the Candelabra box office collection, Behind the Candelabra budget, Behind the Candelabra review, Behind the Candelabra rating, Behind the Candelabra release date, Behind the Candelabra trailer, Behind the Candelabra Drama, Behind the Candelabra Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Bakula"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Lowe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 866,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Behind the Candelabra (2013): Drama/Romance film. Story: Based on the autobiographical novel, the tempestuous… See cast, budget $23M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Soderbergh"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/47hvNE7yCYoc2NObbjl7bS9jnIA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=119675",
+    "name": "Behind the Candelabra",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=119675"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Behind the Candelabra (2013)</h1>\n<p class=\"ssr-lead\">Based on the autobiographical novel, the tempestuous 6-year relationship between Liberace and his (much younger) lover, Scott Thorson, is recounted.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2013</li><li>Runtime: 118 minutes</li><li>Director: Steven Soderbergh</li><li>Genres: Drama, Romance</li><li>Budget: $23M</li><li>TMDB rating: 6.6/10 (866 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Douglas as Liberace</li><li>Matt Damon as Scott Thorson</li><li>Dan Aykroyd as Seymour Heller</li><li>Scott Bakula as Bob Black</li><li>Rob Lowe as Dr. Jack Startz</li><li>Tom Papa as Ray Arnett</li><li>Paul Reiser as Mr. Felder</li><li>Bruce Ramsay as Carlucci</li><li>Nicky Katt as Mr. Y</li><li>Cheyenne Jackson as Billy Leatherwood</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Behind the Candelabra (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:120475": {
    "d": "Dragon Ball: Episode of Bardock (2011): Action/Animation film. Story: A spin-off scenario taking place after the events of… See cast and TMDB rating 7.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
@@ -449,6 +577,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Ball: Episode of Bardock (2011)</h1>\n<p class=\"ssr-lead\">A spin-off scenario taking place after the events of the TV special Dragon Ball Z: Bardock - The Father of Goku, in which Bardock survives the destruction of Planet Vegeta and is sent into the past, combating Frieza&#x27;s ancestor Chilled and turning into a Super Saiyan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2011</li><li>Runtime: 20 minutes</li><li>Director: Yoshihiro Ueda</li><li>Genres: Action, Animation, Science Fiction</li><li>TMDB rating: 7.2/10 (471 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masako Nozawa as Bardock (voice)</li><li>Ryusei Nakao as Chilled / Frieza (voice)</li><li>Houko Kuwashima as Berry (voice)</li><li>Masashi Ebara as Ipana (voice)</li><li>Keiji Hirai as Toobi (voice)</li><li>Kazuyuki Ishikawa as Kyabira (voice)</li><li>Hiroaki Miura as Zarbon (voice)</li><li>Takashi Nagasako as Dodoria (voice)</li><li>Joji Yanami as Narrator (voice)</li><li>Tomoyo Sasaki as Inhabitant of Plant (voice)</li></ul>\n</article>",
    "t": "Dragon Ball: Episode of Bardock (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:121875": {
+   "d": "In the House (2012): Comedy/Drama film. Story: A sixteen-year-old boy insinuates himself into the… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rSlu3MWZzOVBy6e6UEw9mPLMzUO.jpg",
+   "industry": "world",
+   "k": "In the House, In the House movie, In the House cast, In the House story, In the House box office collection, In the House budget, In the House review, In the House rating, In the House release date, In the House trailer, In the House Comedy, In the House Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fabrice Luchini"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernst Umhauer"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristin Scott Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Emmanuelle Seigner"
+     },
+     {
+      "@type": "Person",
+      "name": "Bastien Ughetto"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 950,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "In the House (2012): Comedy/Drama film. Story: A sixteen-year-old boy insinuates himself into the… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "François Ozon"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rSlu3MWZzOVBy6e6UEw9mPLMzUO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=121875",
+    "name": "In the House",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-09-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=121875"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>In the House (2012)</h1>\n<p class=\"ssr-lead\">A sixteen-year-old boy insinuates himself into the house of a fellow student from his literature class and writes about it in essays for his French teacher. Faced with this gifted and unusual pupil, the teacher rediscovers his enthusiasm for his work, but the boy’s intrusion will unleash a series of uncontrollable events.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 September 2012</li><li>Runtime: 105 minutes</li><li>Director: François Ozon</li><li>Genres: Comedy, Drama, Mystery, Thriller</li><li>TMDB rating: 7.2/10 (950 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fabrice Luchini as Germain</li><li>Ernst Umhauer as Claude</li><li>Kristin Scott Thomas as Jeanne</li><li>Emmanuelle Seigner as Esther</li><li>Bastien Ughetto as Rapha fils</li><li>Denis Ménochet as Rapha père</li><li>Jean-François Balmer as Le proviseur</li><li>Fabrice Colson as Client de la galerie</li><li>Yolande Moreau as Les jumelles Rosalie et Eugénie</li><li>Catherine Davenier as Anouk - la secrétaire</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Fandor Amazon Channel, Cineverse Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "In the House (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:1255775": {
    "d": "Merv (2025): Comedy/Romance film. Story: When their beloved dog Merv loses his spark after… See cast, TMDB rating 5.9/10, and release date 9 December 2025.",
@@ -1155,6 +1347,70 @@
    "t": "Snoopy Presents: There's No Place Like Home, Snoopy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:174675": {
+   "d": "The Machine (2013): Science Fiction/Thriller film. Story: Already deep into a second Cold War, Britain’s… See cast, budget $1.5M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/A4s2K7dunF1IhtapkZnK1OmsrDT.jpg",
+   "industry": "world",
+   "k": "The Machine, The Machine movie, The Machine cast, The Machine story, The Machine box office collection, The Machine budget, The Machine review, The Machine rating, The Machine release date, The Machine Science Fiction, The Machine Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Caity Lotz"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Stephens"
+     },
+     {
+      "@type": "Person",
+      "name": "Denis Lawson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Hazeldine"
+     },
+     {
+      "@type": "Person",
+      "name": "Pooneh Hajimohammadi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 913,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "The Machine (2013): Science Fiction/Thriller film. Story: Already deep into a second Cold War, Britain’s… See cast, budget $1.5M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Caradog W. James"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A4s2K7dunF1IhtapkZnK1OmsrDT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=174675",
+    "name": "The Machine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-04-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=174675"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Machine (2013)</h1>\n<p class=\"ssr-lead\">Already deep into a second Cold War, Britain’s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 April 2013</li><li>Runtime: 92 minutes</li><li>Director: Caradog W. James</li><li>Genres: Science Fiction, Thriller</li><li>Budget: $1.5M</li><li>TMDB rating: 5.9/10 (913 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Caity Lotz as Ava</li><li>Toby Stephens as Vincent McCarthy</li><li>Denis Lawson as Thomson</li><li>Sam Hazeldine as James</li><li>Pooneh Hajimohammadi as Suri</li><li>Jonathan Byrne as Tim</li><li>Jade Croot as Mary</li><li>John-Paul Macleod as Paul Dawson (as John Paul Macleod)</li><li>Helen Griffin as Paul Dawson&#x27;s Mother</li><li>Siwan Morris as Lucy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: XLTV Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Machine (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:1759875": {
    "d": "The Militia (2026): Drama/Thriller film. Story: Daniel Pierce dreams of joining the local Militia… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
@@ -1413,6 +1669,69 @@
    "published": "2026-11-15",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Never on the First Night (2014)</h1>\n<p class=\"ssr-lead\">Julie, a woman who is unlucky in love despite her bubbly demeanor. Her job at a bookstore takes an interesting twist when she discovers a book titled &quot;Happiness Can Be Learned,&quot; and she sets out to fix her love life once and for all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 January 2014</li><li>Runtime: 91 minutes</li><li>Director: Mélissa Drigeard</li><li>Genres: Comedy, Romance, Family</li><li>TMDB rating: 5.1/10 (302 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexandra Lamy as Julie</li><li>Mélanie Doutey as Louise</li><li>Julie Ferrier as Rose</li><li>Jean-Paul Rouve as Marc</li><li>Grégory Fitoussi as Ange</li><li>Julien Boisselier as Charles</li><li>Michel Vuillermoz as Viktor Bells</li><li>Arnaud Henriet as Gilles</li><li>Olivia Côte as L&#x27;animatrice</li><li>Pascal Demolon as Chadenat</li></ul>\n</article>",
    "t": "Never on the First Night (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:245775": {
+   "d": "Yves Saint Laurent (2014): Drama film. Story: A look at the life of French designer Yves Saint… See cast, budget $12M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pzsd4yHmasqvdnJwmqQboosiGwV.jpg",
+   "industry": "world",
+   "k": "Yves Saint Laurent, Yves Saint Laurent movie, Yves Saint Laurent cast, Yves Saint Laurent story, Yves Saint Laurent box office collection, Yves Saint Laurent budget, Yves Saint Laurent review, Yves Saint Laurent rating, Yves Saint Laurent release date, Yves Saint Laurent Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierre Niney"
+     },
+     {
+      "@type": "Person",
+      "name": "Guillaume Gallienne"
+     },
+     {
+      "@type": "Person",
+      "name": "Nikolai Kinski"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlotte Le Bon"
+     },
+     {
+      "@type": "Person",
+      "name": "Xavier Lafitte"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 942,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Yves Saint Laurent (2014): Drama film. Story: A look at the life of French designer Yves Saint… See cast, budget $12M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jalil Lespert"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pzsd4yHmasqvdnJwmqQboosiGwV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=245775",
+    "name": "Yves Saint Laurent",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-01-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=245775"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yves Saint Laurent (2014)</h1>\n<p class=\"ssr-lead\">A look at the life of French designer Yves Saint Laurent from the beginning of his career in 1958 when he met his lover and business partner, Pierre Berge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 January 2014</li><li>Runtime: 106 minutes</li><li>Director: Jalil Lespert</li><li>Genres: Drama</li><li>Budget: $12M</li><li>TMDB rating: 6.6/10 (942 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierre Niney as Yves Saint Laurent</li><li>Guillaume Gallienne as Pierre Bergé</li><li>Nikolai Kinski as Karl Lagerfeld</li><li>Charlotte Le Bon as Victoire Doutreleau</li><li>Xavier Lafitte as Jacques De Bascher</li><li>Laura Smet as Loulou de la Falaise</li><li>Marie de Villepin as Betty Catroux</li><li>Ruben Alves as Fernando Sanchez</li><li>Astrid Whettnall as Yvonne de Peyerimhoff</li><li>Marianne Basler as Lucienne Saint Laurent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Yves Saint Laurent (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
   "movie:27275": {
@@ -1991,6 +2310,70 @@
    "t": "A Twelve-Year Night (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:5375": {
+   "d": "Fred Claus (2007): Action/Comedy film. Story: Fred Claus and Santa Claus have been estranged… See cast, budget $100M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/nf9Y9KtrSFqUz3gNbsrgmFJV1S4.jpg",
+   "industry": "world",
+   "k": "Fred Claus, Fred Claus movie, Fred Claus cast, Fred Claus story, Fred Claus box office collection, Fred Claus budget, Fred Claus review, Fred Claus rating, Fred Claus release date, Fred Claus Action, Fred Claus Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vince Vaughn"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Giamatti"
+     },
+     {
+      "@type": "Person",
+      "name": "John Michael Higgins"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Weisz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 949,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Fred Claus (2007): Action/Comedy film. Story: Fred Claus and Santa Claus have been estranged… See cast, budget $100M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Dobkin"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/nf9Y9KtrSFqUz3gNbsrgmFJV1S4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=5375",
+    "name": "Fred Claus",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-11-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=5375"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fred Claus (2007)</h1>\n<p class=\"ssr-lead\">Fred Claus and Santa Claus have been estranged brothers for many years. Now Fred must reconcile his differences with his brother whom he believes overshadows him. When an efficiency expert assesses the workings at the North Pole and threatens to shut Santa down, Fred must help his brother to save Christmas.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2007</li><li>Runtime: 115 minutes</li><li>Director: David Dobkin</li><li>Genres: Action, Comedy, Drama</li><li>Budget: $100M</li><li>TMDB rating: 5.9/10 (949 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vince Vaughn as Fred Claus</li><li>Paul Giamatti as Nick (Santa) Claus</li><li>John Michael Higgins as Willie</li><li>Miranda Richardson as Annette Claus</li><li>Rachel Weisz as Wanda Blinkowski</li><li>Kathy Bates as Mother Claus</li><li>Trevor Peacock as Papa Claus</li><li>Ludacris as DJ Donnie</li><li>Elizabeth Banks as Charlene</li><li>Jeremy Swift as Bob Elf</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Fred Claus (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:714375": {
    "d": "Fatal Affair (2020): Thriller film. Story: After a brief encounter with David Hammond, an old… See cast, TMDB rating 5.7/10, and release date 16 July 2020.",
    "img": "https://image.tmdb.org/t/p/w780/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
@@ -2053,6 +2436,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fatal Affair (2020)</h1>\n<p class=\"ssr-lead\">After a brief encounter with David Hammond, an old college friend, successful lawyer Ellie Warren tries to mend her marriage with her husband Marcus. But she finds herself caught in a terrifying game of cat and mouse when the encounter escalates into an obsession that jeopardizes everyone she loves.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 2020</li><li>Runtime: 89 minutes</li><li>Director: Peter Sullivan</li><li>Genres: Thriller</li><li>TMDB rating: 5.7/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nia Long as Ellie Warren</li><li>Omar Epps as David Hammond</li><li>Stephen Bishop as Marcus Warren</li><li>Aubrey Cleland as Brittany Warren</li><li>Maya Stojan as Courtney</li><li>KJ Smith as Deborah Hammond</li><li>Jason-Shane Scott as Travis</li><li>Carolyn Hennesy as Janice</li><li>Fredella Calloway as Dr. Leigh Beverly</li><li>Estelle as Linda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Fatal Affair (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:759175": {
+   "d": "The Princess (2022): Action/Fantasy film. Story: A beautiful, strong-willed young royal refuses to wed… See cast and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+   "industry": "world",
+   "k": "The Princess, The Princess movie, The Princess cast, The Princess story, The Princess box office collection, The Princess budget, The Princess review, The Princess rating, The Princess release date, The Princess trailer, The Princess Action, The Princess Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joey King"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominic Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Olga Kurylenko"
+     },
+     {
+      "@type": "Person",
+      "name": "Veronica Ngô"
+     },
+     {
+      "@type": "Person",
+      "name": "Alex Reid"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 887,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Princess (2022): Action/Fantasy film. Story: A beautiful, strong-willed young royal refuses to wed… See cast and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Le Van Kiet"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Action",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=759175",
+    "name": "The Princess",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-06-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=759175"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Princess (2022)</h1>\n<p class=\"ssr-lead\">A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 June 2022</li><li>Runtime: 94 minutes</li><li>Director: Le Van Kiet</li><li>Genres: Action, Fantasy</li><li>TMDB rating: 6.8/10 (887 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joey King as The Princess</li><li>Dominic Cooper as Julius</li><li>Olga Kurylenko as Moira</li><li>Veronica Ngô as Linh</li><li>Alex Reid as The Queen</li><li>Ed Stoppard as The King</li><li>Antoni Davidov as Merc Leader</li><li>Radoslav Parvanov as Merc Brute</li><li>Liudmil Kehaiov as Merc #3</li><li>Katelyn Rose Downey as Violet</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Princess (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:773975": {
    "d": "End of the Road (2022): Drama/Thriller film. Story: Recently widowed mom Brenda fights to protect her… See cast and TMDB rating 5.9/10.",
@@ -2180,6 +2627,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Weekend (1967)</h1>\n<p class=\"ssr-lead\">A supposedly idyllic weekend trip to the countryside turns into a never-ending nightmare of traffic jams, revolution, cannibalism and murder as French bourgeois society starts to collapse under the weight of its own consumer preoccupations.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 December 1967</li><li>Runtime: 104 minutes</li><li>Director: Jean-Luc Godard</li><li>Genres: Comedy</li><li>Budget: $250.0k</li><li>TMDB rating: 6.9/10 (321 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mireille Darc as Corinne Durand</li><li>Jean Yanne as Roland Durand</li><li>Jean-Pierre Kalfon as Le Chef du Front de Libération de la Seine et Oise</li><li>Yves Afonso as Gros Poucet (uncredited)</li><li>Yves Beneyton as Un Membre du FLSO (uncredited)</li><li>Juliet Berto as Une Activiste du FLSO / Jeune Bourgeoise Accidentée (uncredited)</li><li>Michèle Breton as Girl in the Woods (uncredited)</li><li>Michel Cournot as Man From Farmyard (uncredited)</li><li>Lex De Bruijn as Revolutionary (uncredited)</li><li>Omar Diop as Mon Frère Africain (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li></ul>\n</article>",
    "t": "Weekend (1967) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1967"
+  },
+  "movie:8975": {
+   "d": "The Marine (2006): Action film. Story: A group of diamond thieves on the run kidnap the wife… See cast, budget $20M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mGT2XVE9MjSkGeTAw3VQFwECBYZ.jpg",
+   "industry": "world",
+   "k": "The Marine, The Marine movie, The Marine cast, The Marine story, The Marine box office collection, The Marine budget, The Marine review, The Marine rating, The Marine release date, The Marine Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Cena"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Patrick"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Carlson"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Ray Parker"
+     },
+     {
+      "@type": "Person",
+      "name": "Abigail Bianca"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 879,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "The Marine (2006): Action film. Story: A group of diamond thieves on the run kidnap the wife… See cast, budget $20M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Bonito"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mGT2XVE9MjSkGeTAw3VQFwECBYZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8975",
+    "name": "The Marine",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-10-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8975"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Marine (2006)</h1>\n<p class=\"ssr-lead\">A group of diamond thieves on the run kidnap the wife of a recently discharged marine who goes on a chase through the South Carolinian wilderness to retrieve her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 October 2006</li><li>Runtime: 92 minutes</li><li>Director: John Bonito</li><li>Genres: Action</li><li>Budget: $20M</li><li>TMDB rating: 6.0/10 (879 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cena as John Triton</li><li>Robert Patrick as Rome</li><li>Kelly Carlson as Kate Triton</li><li>Anthony Ray Parker as Morgan</li><li>Abigail Bianca as Angela</li><li>Jerome Ehlers as Van Buren</li><li>Manu Bennett as Bennett</li><li>Damon Gibson as Vescera</li><li>Drew Powell as Joe</li><li>Frank Carlopio as Frank</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Marine (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:9275": {
    "d": "Death to Smoochy (2002): Comedy/Crime film. Story: Tells the story of Rainbow Randolph, the corrupt… See cast, budget $55M, and TMDB rating 5.9/10.",

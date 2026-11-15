@@ -1,6 +1,6 @@
 {
  "bucket": "61",
- "count": 53,
+ "count": 63,
  "titles": {
   "movie:10361": {
    "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
@@ -129,6 +129,264 @@
    "type": "movie",
    "vote_average": 6.463,
    "vote_count": 390
+  },
+  "movie:11561": {
+   "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Miles Monroe",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Luna Schlosser",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Erno Windt",
+     "n": "John Beck"
+    },
+    {
+     "c": "Dr. Melik",
+     "n": "Mary Gregory"
+    },
+    {
+     "c": "Herald Cohen",
+     "n": "Brian Avery"
+    },
+    {
+     "c": "Dr. Tryon",
+     "n": "Don Keefer"
+    },
+    {
+     "c": "Dr. Nero",
+     "n": "Mews Small"
+    },
+    {
+     "c": "Dr. Dean",
+     "n": "Peter Hobbs"
+    },
+    {
+     "c": "Jeb Hrmthmg",
+     "n": "Spencer Milligan"
+    },
+    {
+     "c": "Dr. Agon",
+     "n": "John McLiam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 11561,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Miles Monroe, a clarinet-playing health food store proprietor, is revived out of cryostasis 200 years into a future world in order to help rebels fight an oppressive government regime.",
+   "popularity": 2.0495,
+   "poster_path": "/YTYSziZZP5aXt5CDvdEMwKDzme.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "1973-12-17",
+   "revenue": 18344729,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Woody Allen takes a nostalgic look at the future.",
+   "title": "Sleeper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.845,
+   "vote_count": 877
+  },
+  "movie:11661": {
+   "backdrop_path": "/5ChBhGXIX7RgOMSjIlXgBp6UjMf.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Anna Sörensen",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Nikolaus Sprink",
+     "n": "Benno Fürmann"
+    },
+    {
+     "c": "Audebert",
+     "n": "Guillaume Canet"
+    },
+    {
+     "c": "Palmer",
+     "n": "Gary Lewis"
+    },
+    {
+     "c": "Ponchel",
+     "n": "Dany Boon"
+    },
+    {
+     "c": "Horstmayer",
+     "n": "Daniel Brühl"
+    },
+    {
+     "c": "Gordon",
+     "n": "Alex Ferns"
+    },
+    {
+     "c": "Jonathan",
+     "n": "Steven Robertson"
+    },
+    {
+     "c": "Jörg",
+     "n": "Frank Witter"
+    },
+    {
+     "c": "The General",
+     "n": "Bernard Le Coq"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christian Carion"
+   ],
+   "genres": [
+    "Drama",
+    "War",
+    "Romance",
+    "History"
+   ],
+   "id": 11661,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "France, 1914, during World War I. On Christmas Eve, an extraordinary event takes place in the bloody no man's land that the French and the Scots dispute with the Germans…",
+   "popularity": 2.5742,
+   "poster_path": "/9Ka8lKCIiWjnZiMslPQeakS5UhW.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "DE",
+    "RO",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-11-09",
+   "revenue": 17709155,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Without an enemy there can be no war.",
+   "title": "Joyeux Noel",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.344,
+   "vote_count": 966
   },
   "movie:1212461": {
    "backdrop_path": "/77aCeoWOA5toCWk67lTAzrfW92Y.jpg",
@@ -2424,6 +2682,220 @@
    "vote_average": 5.798,
    "vote_count": 386
   },
+  "movie:2061": {
+   "backdrop_path": "/1ZJlf0fxLRRrAn39guNvJi4e7Im.jpg",
+   "budget": 965000,
+   "cast": [
+    {
+     "c": "Frank",
+     "n": "Kim Bodnia"
+    },
+    {
+     "c": "Tonny",
+     "n": "Mads Mikkelsen"
+    },
+    {
+     "c": "Vic",
+     "n": "Laura Drasbæk"
+    },
+    {
+     "c": "Milo",
+     "n": "Zlatko Burić"
+    },
+    {
+     "c": "Radovan",
+     "n": "Slavko Labović"
+    },
+    {
+     "c": "Hasse",
+     "n": "Peter Andersson"
+    },
+    {
+     "c": "Branko",
+     "n": "Vanja Bajicic"
+    },
+    {
+     "c": "Rita",
+     "n": "Lisbeth Rasmussen"
+    },
+    {
+     "c": "Mike",
+     "n": "Levino Jensen"
+    },
+    {
+     "c": "Brian",
+     "n": "Nicolas Winding Refn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Winding Refn"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 2061,
+   "industry": "world",
+   "origin_country": [
+    "DK"
+   ],
+   "original_language": "da",
+   "overview": "A drug pusher grows increasingly desperate after a botched deal leaves him with a large debt to a ruthless drug lord.",
+   "popularity": 2.5076,
+   "poster_path": "/9Myfvq4e2BySE5aosX8UzV9cUME.jpg",
+   "production_countries": [
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-08-30",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "sr",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "You don't have a chance. Seize it!",
+   "title": "Pusher",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.022,
+   "vote_count": 952
+  },
   "movie:209361": {
    "backdrop_path": "/o8QeIgs4CVNjFDZuAzXE1OIEuZ4.jpg",
    "budget": 0,
@@ -3378,6 +3850,166 @@
    "vote_average": 7.287,
    "vote_count": 413
   },
+  "movie:261": {
+   "backdrop_path": "/nXAP7rUMno8DjBFqkM5IZlnpybm.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Maggie Pollitt",
+     "n": "Elizabeth Taylor"
+    },
+    {
+     "c": "Brick Pollitt",
+     "n": "Paul Newman"
+    },
+    {
+     "c": "Harvey 'Big Daddy' Pollitt",
+     "n": "Burl Ives"
+    },
+    {
+     "c": "Ida 'Big Mama' Pollitt",
+     "n": "Judith Anderson"
+    },
+    {
+     "c": "Gooper Pollitt",
+     "n": "Jack Carson"
+    },
+    {
+     "c": "Mae Pollitt",
+     "n": "Madeleine Sherwood"
+    },
+    {
+     "c": "Deacon Davis",
+     "n": "Vaughn Taylor"
+    },
+    {
+     "c": "Dr. Baugh",
+     "n": "Larry Gates"
+    },
+    {
+     "c": "Boy (uncredited)",
+     "n": "Brian Corcoran"
+    },
+    {
+     "c": "Sookey (uncredited)",
+     "n": "Zelda Cleaver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Richard Brooks"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 261,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son.",
+   "popularity": 2.9036,
+   "poster_path": "/5djZZECgqDGuSI1INmrdAcGRBb0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1958-08-29",
+   "revenue": 17570324,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just one pillow on her bed... and just one desire in her heart.",
+   "title": "Cat on a Hot Tin Roof",
+   "trailer": {
+    "key": "SGvJZLJi9sU",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.637,
+   "vote_count": 879
+  },
   "movie:28761": {
    "backdrop_path": "/1ae6AzOM7GjIlNSPjsujbUPavXh.jpg",
    "budget": 24000000,
@@ -3527,6 +4159,220 @@
    "type": "movie",
    "vote_average": 6.415,
    "vote_count": 328
+  },
+  "movie:29161": {
+   "backdrop_path": "/wUZYXiPwHrHY4BKulqLZYru4Qee.jpg",
+   "budget": 3800000,
+   "cast": [
+    {
+     "c": "Jennifer Corvino",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Frau Brückner",
+     "n": "Daria Nicolodi"
+    },
+    {
+     "c": "Professor John McGregor",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "Sophie Broque",
+     "n": "Federica Mastroianni"
+    },
+    {
+     "c": "Vera Brandt",
+     "n": "Fiore Argento"
+    },
+    {
+     "c": "Gisela Sulzer",
+     "n": "Fiorenza Tessari"
+    },
+    {
+     "c": "Headmistress Yetz",
+     "n": "Dalila Di Lazzaro"
+    },
+    {
+     "c": "Inspector Rudolf Geiger",
+     "n": "Patrick Bauchau"
+    },
+    {
+     "c": "UBS Bank Teller",
+     "n": "Alberto Cracco"
+    },
+    {
+     "c": "Karl, Sophie's Boyfriend",
+     "n": "Kaspar Capparoni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dario Argento"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 29161,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "en",
+   "overview": "A young girl, with an amazing ability to communicate with insects, is transferred to an exclusive Swiss boarding school, where her unusual capability might help solve a string of murders.",
+   "popularity": 2.9326,
+   "poster_path": "/dhk14s8ogQkbf6re3HLKV2UBHjx.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Night Flight Plus"
+    },
+    {
+     "name": "Eternal Family"
+    },
+    {
+     "name": "Cineverse"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "IndiePix Unlimited Amazon Channel"
+    },
+    {
+     "name": "Chilling"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/acUxuVlP96MVPbUdxdGu0pUHTht.png",
+     "name": "Night Flight Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/2IHcGZUPqxy4HhWWN57AGEIKcCW.png",
+     "name": "Eternal Family",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+     "name": "Cineverse",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/om1AJmTFbc4B82HszpqJElsMshe.png",
+     "name": "IndiePix Unlimited Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/8MHJUtlpY7PGBclfvjryTzBEB7A.png",
+     "name": "Chilling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1985-01-25",
+   "revenue": 0,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en",
+    "de",
+    "da"
+   ],
+   "status": "Released",
+   "tagline": "Jennifer has a few million close friends. She's going to need them all!",
+   "title": "Phenomena",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 965
   },
   "movie:32761": {
    "backdrop_path": "/aI4PZbPUeuOc91OCi7TmjFza5Rk.jpg",
@@ -4551,6 +5397,189 @@
    "vote_average": 7.307,
    "vote_count": 443
   },
+  "movie:537061": {
+   "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Steven Universe (voice)",
+     "n": "Zach Callison"
+    },
+    {
+     "c": "Pearl / Yellow Pearl (voice)",
+     "n": "Deedee Magno Hall"
+    },
+    {
+     "c": "Garnet (voice)",
+     "n": "Estelle"
+    },
+    {
+     "c": "Amethyst (voice)",
+     "n": "Michaela Dietz"
+    },
+    {
+     "c": "Spinel (voice)",
+     "n": "Sarah Stiles"
+    },
+    {
+     "c": "Greg Universe (voice)",
+     "n": "Tom Scharpling"
+    },
+    {
+     "c": "Bismuth (voice)",
+     "n": "Uzo Aduba"
+    },
+    {
+     "c": "Peridot (voice)",
+     "n": "Shelby Rabara"
+    },
+    {
+     "c": "Lapis Lazuli (voice)",
+     "n": "Jennifer Paz"
+    },
+    {
+     "c": "Yellow Diamond (voice)",
+     "n": "Patti LuPone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Rebecca Sugar"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy",
+    "Drama",
+    "TV Movie"
+   ],
+   "id": 537061,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two years after bringing peace to the galaxy, Steven Universe sees his past come back to haunt him in the form of a deranged Gem who wants to destroy the Earth.",
+   "popularity": 3.6861,
+   "poster_path": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-10-07",
+   "revenue": 0,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The true kinda love.",
+   "title": "Steven Universe: The Movie",
+   "trailer": {
+    "key": "9FGyVAIRI-4",
+    "name": "The Steven Universe Movie - Official Trailer -  Warner Bros. UK",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 889
+  },
   "movie:555561": {
    "backdrop_path": "/nA5X70ESE9NpmSjSmuU2Ms2rOr6.jpg",
    "budget": 0,
@@ -4970,6 +5999,461 @@
    "vote_average": 6.1,
    "vote_count": 319
   },
+  "movie:586461": {
+   "backdrop_path": "/cJNsnbaQnR3Be86gXbwm1oFmH5V.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hunter Conrad",
+     "n": "Haley Bennett"
+    },
+    {
+     "c": "Richie Conrad",
+     "n": "Austin Stowell"
+    },
+    {
+     "c": "Katherine Conrad",
+     "n": "Elizabeth Marvel"
+    },
+    {
+     "c": "Michael Conrad",
+     "n": "David Rasche"
+    },
+    {
+     "c": "Erwin William",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Lucy",
+     "n": "Luna Lauren Vélez"
+    },
+    {
+     "c": "Alice",
+     "n": "Zabryna Guevara"
+    },
+    {
+     "c": "Luay",
+     "n": "Laith Nakli"
+    },
+    {
+     "c": "Aaron",
+     "n": "Babak Tafti"
+    },
+    {
+     "c": "Bev",
+     "n": "Nicole Kang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Carlo Mirabella-Davis"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 586461,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hunter, a newly pregnant housewife, finds herself increasingly compelled to consume dangerous objects. As her husband and his family tighten their control over her life, she must confront the dark secret behind her new obsession.",
+   "popularity": 2.2073,
+   "poster_path": "/40Zrwud1EVxNvcjQkotZo7jmr4L.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-01-15",
+   "revenue": 274674,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Open Up.",
+   "title": "Swallow",
+   "trailer": {
+    "key": "auVZKcxV7XQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.555,
+   "vote_count": 898
+  },
+  "movie:5961": {
+   "backdrop_path": "/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Fanny Ekdahl",
+     "n": "Pernilla Allwin"
+    },
+    {
+     "c": "Alexander Ekdahl",
+     "n": "Bertil Guve"
+    },
+    {
+     "c": "Bishop Edvard Vergérus",
+     "n": "Jan Malmsjö"
+    },
+    {
+     "c": "Emilie Ekdahl",
+     "n": "Ewa Fröling"
+    },
+    {
+     "c": "Helena Ekdahl",
+     "n": "Gunn Wållgren"
+    },
+    {
+     "c": "Carl Ekdahl",
+     "n": "Börje Ahlstedt"
+    },
+    {
+     "c": "Hanna Schwartz",
+     "n": "Anna Bergman"
+    },
+    {
+     "c": "Siri",
+     "n": "Kristina Adolphson"
+    },
+    {
+     "c": "Isak Jacobi",
+     "n": "Erland Josephson"
+    },
+    {
+     "c": "Aron Retzinsky",
+     "n": "Mats Bergman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ingmar Bergman"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 5961,
+   "industry": "world",
+   "origin_country": [
+    "SE"
+   ],
+   "original_language": "sv",
+   "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+   "popularity": 3.2402,
+   "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+   "production_countries": [
+    "SE",
+    "FR",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1982-12-17",
+   "revenue": 6800000,
+   "runtime": 188,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "sv",
+    "yi"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Fanny and Alexander",
+   "trailer": {
+    "key": "UCXoXFdNa1o",
+    "name": "BFI Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.755,
+   "vote_count": 934
+  },
+  "movie:596161": {
+   "backdrop_path": "/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Margaret Blackledge",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "George Blackledge",
+     "n": "Kevin Costner"
+    },
+    {
+     "c": "Lorna Blackledge",
+     "n": "Kayli Carter"
+    },
+    {
+     "c": "Blanche Weboy",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Donnie Weboy",
+     "n": "Will Brittain"
+    },
+    {
+     "c": "Bill Weboy",
+     "n": "Jeffrey Donovan"
+    },
+    {
+     "c": "Peter Dragswolf",
+     "n": "Booboo Stewart"
+    },
+    {
+     "c": "James Blackledge",
+     "n": "Ryan Bruce"
+    },
+    {
+     "c": "Jimmy Blackledge",
+     "n": "Otto Hornung"
+    },
+    {
+     "c": "Jimmy Blackledge",
+     "n": "Bram Hornung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Thomas Bezucha"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Western"
+   ],
+   "id": 596161,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the loss of their son, a retired sheriff and his wife leave their Montana ranch to rescue their young grandson from the clutches of a dangerous family living off the grid in the Dakotas.",
+   "popularity": 2.8137,
+   "poster_path": "/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-11-05",
+   "revenue": 7997460,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fight for family.",
+   "title": "Let Him Go",
+   "trailer": {
+    "key": "bE8pwEF-3TI",
+    "name": "Let Him Go | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.821,
+   "vote_count": 870
+  },
   "movie:610461": {
    "backdrop_path": "/ebKa6nCRkKWU3KIuacEkEe6XSQl.jpg",
    "budget": 0,
@@ -5329,6 +6813,115 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 315
+  },
+  "movie:668461": {
+   "backdrop_path": "/6tAYyCxF0T5oUIH95zMBC3X3W5T.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Nemo",
+     "n": "Marlow Barkley"
+    },
+    {
+     "c": "Flip the Creature",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Phillip",
+     "n": "Chris O'Dowd"
+    },
+    {
+     "c": "Peter",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Agent Green",
+     "n": "Weruche Opia"
+    },
+    {
+     "c": "Ms. Arya",
+     "n": "India de Beaufort"
+    },
+    {
+     "c": "Graciela",
+     "n": "Humberly González"
+    },
+    {
+     "c": "Young Philip",
+     "n": "Cameron Nicoll"
+    },
+    {
+     "c": "Young Peter",
+     "n": "Antonio Raine Pastore"
+    },
+    {
+     "c": "Jamal",
+     "n": "Chris D'Silva"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 668461,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+   "popularity": 3.378,
+   "poster_path": "/tfae1vtjzlE73DPJGlHq88sZKX3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-11-18",
+   "revenue": 0,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every adventure begins with a dream.",
+   "title": "Slumberland",
+   "trailer": {
+    "key": "D7WhLZj5-LY",
+    "name": "World of Dreams | Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.248,
+   "vote_count": 999
   },
   "movie:677561": {
    "backdrop_path": "/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",

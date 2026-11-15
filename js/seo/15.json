@@ -1,6 +1,6 @@
 {
  "bucket": "15",
- "count": 49,
+ "count": 56,
  "titles": {
   "movie:11215": {
    "d": "Baby Boom (1987): Drama/Comedy film. Story: J.C. Wiatt is a talented and ambitious New York City… See cast, budget $15M, and TMDB rating 6.4/10.",
@@ -833,6 +833,70 @@
    "t": "The Internship (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:162215": {
+   "d": "How I Live Now (2013): Drama/Romance film. Story: An American girl, sent to the English countryside to… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tCdypgid7Meg3qpmvquUA9qqLNH.jpg",
+   "industry": "world",
+   "k": "How I Live Now, How I Live Now movie, How I Live Now cast, How I Live Now story, How I Live Now box office collection, How I Live Now budget, How I Live Now review, How I Live Now rating, How I Live Now release date, How I Live Now trailer, How I Live Now Drama, How I Live Now Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "George MacKay"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Holland"
+     },
+     {
+      "@type": "Person",
+      "name": "Harley Bird"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny McEvoy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 986,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "How I Live Now (2013): Drama/Romance film. Story: An American girl, sent to the English countryside to… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Macdonald"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tCdypgid7Meg3qpmvquUA9qqLNH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=162215",
+    "name": "How I Live Now",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-09-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=162215"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>How I Live Now (2013)</h1>\n<p class=\"ssr-lead\">An American girl, sent to the English countryside to stay with relatives, finds love and purpose while fighting for her survival as war envelops the world around her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 2013</li><li>Runtime: 101 minutes</li><li>Director: Kevin Macdonald</li><li>Genres: Drama, Romance, Science Fiction</li><li>TMDB rating: 6.6/10 (986 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saoirse Ronan as Daisy Ryback</li><li>George MacKay as Eddie</li><li>Tom Holland as Isaac</li><li>Harley Bird as Piper</li><li>Danny McEvoy as Joe</li><li>Anna Chancellor as Aunt Penn</li><li>Corey Johnson as Consular Official</li><li>Darren Morfitt as Sergeant</li><li>Sabrina Dickens as Guerilla Soldier Girlfriend</li><li>Stella Gonet as Mrs. McEvoy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Magnolia Selects Amazon Channel, Warriors and Gangsters Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "How I Live Now (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:168615": {
    "d": "Billy and Buddy (2013): Comedy/Family film. Story: Buddy is an abandoned young cocker spaniel waiting… See cast, budget $22.16M, and TMDB rating 4.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/f6HX16K8EJ1ERdDmCHv5yB2fQLh.jpg",
@@ -1353,6 +1417,70 @@
    "t": "Ooops! Noah Is Gone... (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:375315": {
+   "d": "The Salesman (2017): Drama/Thriller film. Story: Forced out of their apartment due to dangerous works… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/woSmQgo1wxE4WRVXWHrmgv3jy2O.jpg",
+   "industry": "world",
+   "k": "The Salesman, The Salesman movie, The Salesman cast, The Salesman story, The Salesman box office collection, The Salesman budget, The Salesman review, The Salesman rating, The Salesman release date, The Salesman trailer, The Salesman Drama, The Salesman Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shahab Hosseini"
+     },
+     {
+      "@type": "Person",
+      "name": "Taraneh Alidoosti"
+     },
+     {
+      "@type": "Person",
+      "name": "Babak Karimi"
+     },
+     {
+      "@type": "Person",
+      "name": "Mina Sadati"
+     },
+     {
+      "@type": "Person",
+      "name": "Mehdi Koushki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 969,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Salesman (2017): Drama/Thriller film. Story: Forced out of their apartment due to dangerous works… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Asghar Farhadi"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/woSmQgo1wxE4WRVXWHrmgv3jy2O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=375315",
+    "name": "The Salesman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-03-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=375315"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Salesman (2017)</h1>\n<p class=\"ssr-lead\">Forced out of their apartment due to dangerous works on a neighboring building, Emad and Rana move into a new flat in the center of Tehran. An incident linked to the previous tenant will dramatically change the young couple’s life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 March 2017</li><li>Runtime: 125 minutes</li><li>Director: Asghar Farhadi</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 7.2/10 (969 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shahab Hosseini as Emad Etesami</li><li>Taraneh Alidoosti as Rana Etesami</li><li>Babak Karimi as Babak</li><li>Mina Sadati as Sanam</li><li>Mehdi Koushki as Siavash</li><li>Farid Sajjadi Hosseini as Naser</li><li>Maral Baniadam as Kati</li><li>Mojtaba Pirzadeh as Majid</li><li>Sam Valipour as Sadra</li><li>Shirin Aghakashi as Esmat</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Cohen Media Amazon Channel, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Salesman (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:397415": {
    "d": "Vengeance: A Love Story (2017): Action/Drama film. Story: When a new friend is brutally assaulted, Detective… See cast, budget $28M, and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/jSOomjSssNJdU7Hrf3CROkNSv6n.jpg",
@@ -1417,6 +1545,70 @@
    "t": "Vengeance: A Love Story (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:41515": {
+   "d": "Yogi Bear (2010): Comedy/Family film. Story: A documentary filmmaker travels to Jellystone Park to… See cast, budget $80M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg",
+   "industry": "world",
+   "k": "Yogi Bear, Yogi Bear movie, Yogi Bear cast, Yogi Bear story, Yogi Bear box office collection, Yogi Bear budget, Yogi Bear review, Yogi Bear rating, Yogi Bear release date, Yogi Bear trailer, Yogi Bear Comedy, Yogi Bear Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Timberlake"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Faris"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Cavanagh"
+     },
+     {
+      "@type": "Person",
+      "name": "T.J. Miller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 974,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Yogi Bear (2010): Comedy/Family film. Story: A documentary filmmaker travels to Jellystone Park to… See cast, budget $80M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eric Brevig"
+     }
+    ],
+    "duration": "PT80M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=41515",
+    "name": "Yogi Bear",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-12-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=41515"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yogi Bear (2010)</h1>\n<p class=\"ssr-lead\">A documentary filmmaker travels to Jellystone Park to shoot a project and soon crosses paths with Yogi Bear, his sidekick Boo-Boo, and Ranger Smith.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 December 2010</li><li>Runtime: 80 minutes</li><li>Director: Eric Brevig</li><li>Genres: Comedy, Family, Animation, Adventure</li><li>Budget: $80M</li><li>TMDB rating: 5.6/10 (974 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dan Aykroyd as Yogi Bear (voice)</li><li>Justin Timberlake as Boo-Boo Bear (voice)</li><li>Anna Faris as Rachel</li><li>Tom Cavanagh as Ranger Smith</li><li>T.J. Miller as Ranger Jones</li><li>Nate Corddry as Chief of Staff</li><li>Andy Daly as Mayor Brown</li><li>David Stott as Mayor&#x27;s Tailor</li><li>Greg Johnson as Dirty Shopper</li><li>Patricia Aldersley as Elderly Purse Lady</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Yogi Bear (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:422715": {
    "d": "The Bride (2017): Mystery/Horror film. Story: This is a story of a small town girl named Nastya. See cast, budget $1.5M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/me5utxTz6hlEgAeQisexKHP27ZU.jpg",
@@ -1480,6 +1672,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Bride (2017)</h1>\n<p class=\"ssr-lead\">This is a story of a small town girl named Nastya. Her newly married husband Ivan drives her to his hometown to meet his family. Upon their arrival Nastya feels she made a wrong decision: she is surrounded by weird people and she sees creepy photos all around the house. Ivan disappears while his family prepares Nastya for a mysterious traditional Russian wedding ceremony. She struggles to calm herself down hoping all this will end and they will live happily ever after. Only if she stays alive...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 2017</li><li>Runtime: 90 minutes</li><li>Director: Svyatoslav Podgaevsky</li><li>Genres: Mystery, Horror, Thriller</li><li>Budget: $1.5M</li><li>TMDB rating: 5.8/10 (380 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Victoria Agalakova as Nastya</li><li>Vyacheslav Chepurchenko as Ivan</li><li>Aleksandra Rebenok as Liza</li><li>Igor Khripunov as Viktor</li><li>Anastasia Akatova as Nastya’s neighbor</li><li>Viktor Solovyov as Ivan and Lisa&#x27;s father</li><li>Dmitriy Kulichkov as Tikhon</li><li>Miroslava Karpovich as The Wife</li><li>Ivan Kozhevnikov as The Husband</li><li>Natalya Grinshpun as Aglaya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "The Bride (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:4515": {
+   "d": "Lions for Lambs (2007): Action/Adventure film. Story: Three stories told simultaneously in ninety minutes… See cast, budget $35M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tfE55NmC3tF2U0DtZkAYKvUHn5k.jpg",
+   "industry": "world",
+   "k": "Lions for Lambs, Lions for Lambs movie, Lions for Lambs cast, Lions for Lambs story, Lions for Lambs box office collection, Lions for Lambs budget, Lions for Lambs review, Lions for Lambs rating, Lions for Lambs release date, Lions for Lambs trailer, Lions for Lambs Action, Lions for Lambs Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Meryl Streep"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Cruise"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Redford"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Garfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Peña"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 883,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Lions for Lambs (2007): Action/Adventure film. Story: Three stories told simultaneously in ninety minutes… See cast, budget $35M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Redford"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tfE55NmC3tF2U0DtZkAYKvUHn5k.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4515",
+    "name": "Lions for Lambs",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4515"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lions for Lambs (2007)</h1>\n<p class=\"ssr-lead\">Three stories told simultaneously in ninety minutes of real time: a Republican Senator who&#x27;s a presidential hopeful gives an hour-long interview to a skeptical television reporter, detailing a strategy for victory in Afghanistan; two special forces ambushed on an Afghani ridge await rescue as Taliban forces close in; a poli-sci professor at a California college invites a student to re-engage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2007</li><li>Runtime: 92 minutes</li><li>Director: Robert Redford</li><li>Genres: Action, Adventure, Drama, History</li><li>Budget: $35M</li><li>TMDB rating: 6.0/10 (883 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Meryl Streep as Janine Roth</li><li>Tom Cruise as Senator Jasper Irving</li><li>Robert Redford as Dr. Stephen Malley</li><li>Andrew Garfield as Todd Hayes</li><li>Michael Peña as Ernest Rodriguez</li><li>Derek Luke as Arian Finch</li><li>Peter Berg as Wirey Pink</li><li>Kevin Dunn as ANX Editor</li><li>Christopher May as Soldier</li><li>Larry Bates as Soldier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Lions for Lambs (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:452015": {
    "d": "Psychokinesis (2018): Fantasy/Action film. Story: An ordinary guy suddenly finds he has superpowers he… See cast and TMDB rating 6.3/10.",
@@ -1676,6 +1932,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Valerie and Her Week of Wonders (1970)</h1>\n<p class=\"ssr-lead\">Valerie, a Czechoslovakian teenager living with her grandmother, is blossoming into womanhood, but that transformation proves secondary to the effects she experiences when she puts on a pair of magic earrings. Now seeing the world around her in a different light, Valerie must endure her sexual awakening while attempting to discern reality from fantasy as she encounters lecherous priest Gracian, a vampire-like stranger and otherworldly carnival folk.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 1970</li><li>Runtime: 73 minutes</li><li>Director: Jaromil Jireš</li><li>Genres: Fantasy, Adventure, Drama</li><li>TMDB rating: 7.0/10 (334 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaroslava Schallerová as Valerie</li><li>Helena Anýžová as Grandmother / Elsa / Mother / Redhead</li><li>Petr Kopřiva as Orlík</li><li>Jiří Prýmek as Tchoř-Constable</li><li>Jan Klusák as Gracián</li><li>Libuše Komancová as Handmaid in Training</li><li>Karel Engel as Coachman Ondřej</li><li>Alena Stojáková as Hedvika</li><li>Otto Hradecký as Landlord</li><li>Martin Wielgus as Tchoř-Father</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Valerie and Her Week of Wonders (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1970"
+  },
+  "movie:475215": {
+   "d": "Mirai (2018): Animation/Family film. Story: Four-year-old Kun struggles with jealousy after his… See cast, TMDB rating 7.2/10, and release date 20 July 2018.",
+   "img": "https://image.tmdb.org/t/p/w780/r2FXILO1vUKXGS9xnPva4kkjdHo.jpg",
+   "industry": "world",
+   "k": "Mirai, Mirai movie, Mirai cast, Mirai story, Mirai box office collection, Mirai budget, Mirai review, Mirai rating, Mirai release date, Mirai trailer, Mirai Animation, Mirai Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Moka Kamishiraishi"
+     },
+     {
+      "@type": "Person",
+      "name": "Haru Kuroki"
+     },
+     {
+      "@type": "Person",
+      "name": "Gen Hoshino"
+     },
+     {
+      "@type": "Person",
+      "name": "Kumiko Aso"
+     },
+     {
+      "@type": "Person",
+      "name": "Mitsuo Yoshihara"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 901,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Mirai (2018): Animation/Family film. Story: Four-year-old Kun struggles with jealousy after his… See cast, TMDB rating 7.2/10, and release date 20 July 2018.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mamoru Hosoda"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r2FXILO1vUKXGS9xnPva4kkjdHo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=475215",
+    "name": "Mirai",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-07-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=475215"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mirai (2018)</h1>\n<p class=\"ssr-lead\">Four-year-old Kun struggles with jealousy after his newborn sister, Mirai, begins receiving most of his family’s attention. Retreating to the garden, he encounters Mirai as a teenager from the future and embarks on extraordinary journeys across his family’s past, gradually discovering new perspectives on love, belonging and what it means to become an older brother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 July 2018</li><li>Runtime: 98 minutes</li><li>Director: Mamoru Hosoda</li><li>Genres: Animation, Family, Fantasy, Adventure, Drama</li><li>TMDB rating: 7.2/10 (901 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Moka Kamishiraishi as Kun (voice)</li><li>Haru Kuroki as Mirai (voice)</li><li>Gen Hoshino as Father (voice)</li><li>Kumiko Aso as Mother (voice)</li><li>Mitsuo Yoshihara as Mysterious Man (voice)</li><li>Yoshiko Miyazaki as Grandmother (voice)</li><li>Koji Yakusho as Grandfather (voice)</li><li>Masaharu Fukuyama as Young Man (voice)</li><li>Kaede Hondo as Baby Mirai (voice)</li><li>Hakuzan Kanda as Robot at the Tokyo Station Lost &amp; Found Center (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Mirai (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:52015": {
+   "d": "Stake Land (2010): Drama/Horror film. Story: Martin was a normal teenage boy before the country… See cast, budget $650.0k, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1CF9VduPpELjzPpX1ELKk2tiaXf.jpg",
+   "industry": "world",
+   "k": "Stake Land, Stake Land movie, Stake Land cast, Stake Land story, Stake Land box office collection, Stake Land budget, Stake Land review, Stake Land rating, Stake Land release date, Stake Land Drama, Stake Land Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Connor Paolo"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Damici"
+     },
+     {
+      "@type": "Person",
+      "name": "Danielle Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly McGillis"
+     },
+     {
+      "@type": "Person",
+      "name": "Gregory Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 921,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Stake Land (2010): Drama/Horror film. Story: Martin was a normal teenage boy before the country… See cast, budget $650.0k, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jim Mickle"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Drama",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1CF9VduPpELjzPpX1ELKk2tiaXf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=52015",
+    "name": "Stake Land",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-09-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=52015"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Stake Land (2010)</h1>\n<p class=\"ssr-lead\">Martin was a normal teenage boy before the country collapsed in an empty pit of economic and political disaster. A vampire epidemic has swept across what is left of the nation&#x27;s abandoned towns and cities, and it&#x27;s up to Mister, a death dealing, rogue vampire hunter, to get Martin safely north to Canada, the continent&#x27;s New Eden.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2010</li><li>Runtime: 98 minutes</li><li>Director: Jim Mickle</li><li>Genres: Drama, Horror, Science Fiction</li><li>Budget: $650.0k</li><li>TMDB rating: 6.2/10 (921 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Connor Paolo as Martin</li><li>Nick Damici as Mister</li><li>Danielle Harris as Belle</li><li>Kelly McGillis as Sister</li><li>Gregory Jones as Martin&#x27;s Father</li><li>Traci Hovel as Martin&#x27;s Mother</li><li>Marianne Hagan as Doctor Foley</li><li>James Godwin as Barn Vamp</li><li>Tim House as Sheriff</li><li>Michael Cerveris as Jebedia Loven</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Bloodstream</li></ul>\n</article>",
+   "t": "Stake Land (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:536115": {
    "d": "Godzilla: The Planet Eater (2018): Animation/Science Fiction film. Story: With no means for defeating Godzilla Earth, mankind… See cast and TMDB rating 6.5/10.",
@@ -1935,6 +2319,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Shut In (2022)</h1>\n<p class=\"ssr-lead\">A young single mother is held captive along with her two children by a violent ex and must plot their escape before it’s too late.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 March 2022</li><li>Runtime: 90 minutes</li><li>Director: D.J. Caruso</li><li>Genres: Thriller, Horror</li><li>TMDB rating: 6.7/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rainey Qualley as Jessica</li><li>Vincent Gallo as Sammy</li><li>Jake Horowitz as Rob</li><li>Luciana VanDette as Lainey</li><li>Aidan Steimer as Mason Nash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Shut In (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:633515": {
+   "d": "The Forgotten Battle (2021): War/History film. Story: During WWII's crucial Battle of the Scheldt, the… See cast, budget $14M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qmCCXB6fn1Sjztm4t56Xviw0uDI.jpg",
+   "industry": "world",
+   "k": "The Forgotten Battle, The Forgotten Battle movie, The Forgotten Battle cast, The Forgotten Battle story, The Forgotten Battle box office collection, The Forgotten Battle budget, The Forgotten Battle review, The Forgotten Battle rating, The Forgotten Battle release date, The Forgotten Battle trailer, The Forgotten Battle War, The Forgotten Battle History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gijs Blom"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Flatters"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Radder"
+     },
+     {
+      "@type": "Person",
+      "name": "Theo Barklem-Biggs"
+     },
+     {
+      "@type": "Person",
+      "name": "Jan Bijvoet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 815,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Forgotten Battle (2021): War/History film. Story: During WWII's crucial Battle of the Scheldt, the… See cast, budget $14M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthijs van Heijningen Jr."
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "War",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qmCCXB6fn1Sjztm4t56Xviw0uDI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=633515",
+    "name": "The Forgotten Battle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=633515"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Forgotten Battle (2021)</h1>\n<p class=\"ssr-lead\">During WWII&#x27;s crucial Battle of the Scheldt, the lives of a glider pilot, a Nazi soldier and a reluctant Resistance recruit tragically intersect.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2021</li><li>Runtime: 126 minutes</li><li>Director: Matthijs van Heijningen Jr.</li><li>Genres: War, History, Drama</li><li>Budget: $14M</li><li>TMDB rating: 7.1/10 (815 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gijs Blom as Marinus van Staveren</li><li>Jamie Flatters as William Sinclair</li><li>Susan Radder as Teuntje Visser</li><li>Theo Barklem-Biggs as John</li><li>Jan Bijvoet as Doctor Visser</li><li>Marthe Schneider as Janna</li><li>Ronald Kalter as Dirk Visser</li><li>Scott Reid as Nigel</li><li>Robert Naylor as Bill</li><li>Tom Felton as Tony Turner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Forgotten Battle (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:65215": {
    "d": "Stewie Griffin: The Untold Story (2005): Adventure/Animation film. Story: The maniacal baby of the Griffin family, Stewie… See cast and TMDB rating 6.9/10.",

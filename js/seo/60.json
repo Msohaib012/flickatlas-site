@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 65,
+ "count": 77,
  "titles": {
   "movie:10560": {
    "d": "Center Stage (2000): Drama/Music film. Story: A group of 12 teenagers from various backgrounds… See cast, budget $29M, and TMDB rating 6.9/10.",
@@ -66,6 +66,70 @@
    "t": "Center Stage (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
   },
+  "movie:10660": {
+   "d": "It Could Happen to You (1994): Comedy/Drama film. Story: Charlie Lang is a simple, kindhearted New York City… See cast, budget $20M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rHqIKBrvmRTExmi7XN31OjRSPKT.jpg",
+   "industry": "world",
+   "k": "It Could Happen to You, It Could Happen to You movie, It Could Happen to You cast, It Could Happen to You story, It Could Happen to You box office collection, It Could Happen to You budget, It Could Happen to You review, It Could Happen to You rating, It Could Happen to You release date, It Could Happen to You Comedy, It Could Happen to You Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Bridget Fonda"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosie Perez"
+     },
+     {
+      "@type": "Person",
+      "name": "Wendell Pierce"
+     },
+     {
+      "@type": "Person",
+      "name": "Isaac Hayes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 982,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "It Could Happen to You (1994): Comedy/Drama film. Story: Charlie Lang is a simple, kindhearted New York City… See cast, budget $20M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Bergman"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rHqIKBrvmRTExmi7XN31OjRSPKT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10660",
+    "name": "It Could Happen to You",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-07-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10660"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>It Could Happen to You (1994)</h1>\n<p class=\"ssr-lead\">Charlie Lang is a simple, kindhearted New York City cop. When he realizes he has no money to tip waitress Yvonne Biasi, Lang offers her half the winnings of his lottery ticket. Amazingly, the ticket happens to be a winner, in the sum of $4 million. True to his word, Lang proceeds to share the prize money with Biasi, which infuriates his greedy wife, Muriel. Not content with the arrangement, Muriel begins scheming to take all the money.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 1994</li><li>Runtime: 101 minutes</li><li>Director: Andrew Bergman</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $20M</li><li>TMDB rating: 6.8/10 (982 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicolas Cage as Charlie Lang</li><li>Bridget Fonda as Yvonne Biasi</li><li>Rosie Perez as Muriel Lang</li><li>Wendell Pierce as Bo Williams</li><li>Isaac Hayes as Angel Dupree</li><li>Víctor Rojas as Jesu</li><li>Seymour Cassel as Jack Gross</li><li>Stanley Tucci as Eddie Biasi</li><li>J.E. Freeman as Sal Bontempo</li><li>Red Buttons as Walter Zakuto</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "It Could Happen to You (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:1086260": {
    "d": "The Astronaut (2025): Horror/Science Fiction film. Story: After returning from her first space mission… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
@@ -129,6 +193,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Astronaut (2025)</h1>\n<p class=\"ssr-lead\">After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 September 2025</li><li>Runtime: 90 minutes</li><li>Director: Jess Varley</li><li>Genres: Horror, Science Fiction, Thriller</li><li>TMDB rating: 6.1/10 (475 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kate Mara as Sam Walker</li><li>Laurence Fishburne as General William Harris</li><li>Gabriel Luna as Mark</li><li>Ivana Miličević as Dr. Michelle Aiden</li><li>Scarlett Holmes as Izzy</li><li>Macy Gray as Val</li><li>Reza Diako as Ethan Marshall</li><li>Daniel Quirke as Guard</li><li>Daiana Madeira as Medical Specialist</li><li>Christine Abernathy as Medical Assistant</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "The Astronaut (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:110160": {
+   "d": "Laurence Anyways (2012): Drama/Romance film. Story: The story of an impossible love between a woman named… See cast, budget $9.5M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kv3HLX9CByUxw92eX2rqCcrT4LJ.jpg",
+   "industry": "world",
+   "k": "Laurence Anyways, Laurence Anyways movie, Laurence Anyways cast, Laurence Anyways story, Laurence Anyways box office collection, Laurence Anyways budget, Laurence Anyways review, Laurence Anyways rating, Laurence Anyways release date, Laurence Anyways trailer, Laurence Anyways Drama, Laurence Anyways Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Melvil Poupaud"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzanne Clément"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathalie Baye"
+     },
+     {
+      "@type": "Person",
+      "name": "Monia Chokri"
+     },
+     {
+      "@type": "Person",
+      "name": "Susan Almgren"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 923,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Laurence Anyways (2012): Drama/Romance film. Story: The story of an impossible love between a woman named… See cast, budget $9.5M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Xavier Dolan"
+     }
+    ],
+    "duration": "PT168M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kv3HLX9CByUxw92eX2rqCcrT4LJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=110160",
+    "name": "Laurence Anyways",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-05-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=110160"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Laurence Anyways (2012)</h1>\n<p class=\"ssr-lead\">The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2012</li><li>Runtime: 168 minutes</li><li>Director: Xavier Dolan</li><li>Genres: Drama, Romance</li><li>Budget: $9.5M</li><li>TMDB rating: 7.6/10 (923 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melvil Poupaud as Laurence Alia</li><li>Suzanne Clément as Fred Bellair</li><li>Nathalie Baye as Julienne Alia</li><li>Monia Chokri as Stéfanie Bellair</li><li>Susan Almgren as Journalist</li><li>Yves Jacques as Michel Lafortune</li><li>Sophie Faucher as Andrée Bellair</li><li>Magalie Lépine-Blondeau as Charlotte</li><li>Catherine Bégin as Mamy Rose</li><li>Emmanuel Schwartz as Baby Rose</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Laurence Anyways (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:11060": {
    "d": "Internal Affairs (1990): Crime/Drama film. Story: Keen young Raymold Avila joins the Internal Affairs… See cast, budget $15M, and TMDB rating 6.4/10.",
@@ -262,6 +390,70 @@
    "t": "Sexual Chronicles of a French Family (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:11560": {
+   "d": "High Crimes (2002): Drama/Mystery film. Story: A female attorney learns that her husband is really a… See cast, budget $42M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qRr6Mm8lywPySB1B7j4WHx7tGwE.jpg",
+   "industry": "world",
+   "k": "High Crimes, High Crimes movie, High Crimes cast, High Crimes story, High Crimes box office collection, High Crimes budget, High Crimes review, High Crimes rating, High Crimes release date, High Crimes Drama, High Crimes Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ashley Judd"
+     },
+     {
+      "@type": "Person",
+      "name": "Morgan Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Caviezel"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Amanda Peet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 931,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "High Crimes (2002): Drama/Mystery film. Story: A female attorney learns that her husband is really a… See cast, budget $42M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carl Franklin"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qRr6Mm8lywPySB1B7j4WHx7tGwE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11560",
+    "name": "High Crimes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-04-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11560"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>High Crimes (2002)</h1>\n<p class=\"ssr-lead\">A female attorney learns that her husband is really a marine officer who has been AWOL for fifteen years and accused of murdering fifteen civilians in El Salvador. Believing her husband when he tells her that he&#x27;s being framed as part of a U.S. Military cover-up, the attorney defends him in a military court.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 April 2002</li><li>Runtime: 115 minutes</li><li>Director: Carl Franklin</li><li>Genres: Drama, Mystery, Thriller, Crime</li><li>Budget: $42M</li><li>TMDB rating: 6.3/10 (931 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ashley Judd as Claire Kubik</li><li>Morgan Freeman as Charlie Grimes</li><li>Jim Caviezel as Tom Kubik</li><li>Adam Scott as Lieutenant Terrence Embry</li><li>Amanda Peet as Jackie</li><li>Bruce Davison as General Bill Marks</li><li>Tom Bower as FBI Agent Mullins</li><li>Juan Carlos Hernández as Major James Hernandez</li><li>Michael Gaston as Major Waldron</li><li>Jude Ciccolella as Colonel Farrell</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li></ul>\n</article>",
+   "t": "High Crimes (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:1160360": {
    "d": "If I Had Legs I'd Kick You (2025): Drama film. Story: With her life crashing down around her, Linda… See cast, budget $1.5M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
@@ -325,6 +517,70 @@
    "t": "If I Had Legs I'd Kick You (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:12160": {
+   "d": "Wyatt Earp (1994): Western/Drama film. Story: From Wichita to Dodge City, to the O.K. Corral in… See cast, budget $63M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8Nhn88ZaR8txXSLptWMBgWm3QnJ.jpg",
+   "industry": "world",
+   "k": "Wyatt Earp, Wyatt Earp movie, Wyatt Earp cast, Wyatt Earp story, Wyatt Earp box office collection, Wyatt Earp budget, Wyatt Earp review, Wyatt Earp rating, Wyatt Earp release date, Wyatt Earp trailer, Wyatt Earp Western, Wyatt Earp Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Gene Hackman"
+     },
+     {
+      "@type": "Person",
+      "name": "David Andrews"
+     },
+     {
+      "@type": "Person",
+      "name": "Linden Ashby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 994,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Wyatt Earp (1994): Western/Drama film. Story: From Wichita to Dodge City, to the O.K. Corral in… See cast, budget $63M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lawrence Kasdan"
+     }
+    ],
+    "duration": "PT191M",
+    "genre": [
+     "Western",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Nhn88ZaR8txXSLptWMBgWm3QnJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12160",
+    "name": "Wyatt Earp",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-06-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12160"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wyatt Earp (1994)</h1>\n<p class=\"ssr-lead\">From Wichita to Dodge City, to the O.K. Corral in Tombstone, Wyatt Earp is taught that nothing matters more than family and the law. Joined by his brothers and Doc Holliday, Earp wages war on the dreaded Clanton and McLaury gangs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 1994</li><li>Runtime: 191 minutes</li><li>Director: Lawrence Kasdan</li><li>Genres: Western, Drama</li><li>Budget: $63M</li><li>TMDB rating: 6.8/10 (994 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as Wyatt Earp</li><li>Dennis Quaid as Doc Holliday</li><li>Gene Hackman as Nicholas Earp</li><li>David Andrews as James Earp</li><li>Linden Ashby as Morgan Earp</li><li>Jeff Fahey as Ike Clanton</li><li>Joanna Going as Josie Marcus</li><li>Mark Harmon as Sheriff Johnny Behan</li><li>Michael Madsen as Virgil Earp</li><li>Catherine O&#x27;Hara as Allie Earp</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Wyatt Earp (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:1243460": {
    "d": "Joe's College Road Trip (2026): Comedy film. Story: To teach his sheltered grandson about the real world… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
@@ -387,6 +643,48 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Joe&#x27;s College Road Trip (2026)</h1>\n<p class=\"ssr-lead\">To teach his sheltered grandson about the real world, Madea&#x27;s foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 2026</li><li>Runtime: 109 minutes</li><li>Director: Tyler Perry</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (78 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tyler Perry as Joe / Madea / Brian</li><li>Jermaine Harris as BJ</li><li>Amber Reign Smith as Destiny</li><li>Bethany Anne Lind as Vikki</li><li>Jeremy Gimenez as Garrett</li><li>Millie Jackson as Geraldine</li><li>Wil Deusner as Stewart</li><li>Patricia Williams as Pearl</li><li>Deetta West as Kathryn</li><li>Shawn Alexander Thompson as Neighbor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Joe's College Road Trip (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13060": {
+   "d": "Lifted (2006): Family/Animation film. Story: When an overconfident teen alien gets behind the… See cast, TMDB rating 7.4/10, and release date 28 December 2006.",
+   "img": "https://image.tmdb.org/t/p/w780/13CqQIOwZ0dkAxgzL7W4VcJLDAg.jpg",
+   "industry": "world",
+   "k": "Lifted, Lifted movie, Lifted cast, Lifted story, Lifted box office collection, Lifted budget, Lifted review, Lifted rating, Lifted release date, Lifted Family, Lifted Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 856,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Lifted (2006): Family/Animation film. Story: When an overconfident teen alien gets behind the… See cast, TMDB rating 7.4/10, and release date 28 December 2006.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Rydstrom"
+     }
+    ],
+    "duration": "PT5M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/13CqQIOwZ0dkAxgzL7W4VcJLDAg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13060",
+    "name": "Lifted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-12-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13060"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lifted (2006)</h1>\n<p class=\"ssr-lead\">When an overconfident teen alien gets behind the controls of a spaceship, he must attempt to abduct a slumbering farmer under the watchful eye of a critical instructor. But abducting humans requires precision and a gentle touch, and within a few missteps it&#x27;s painfully clear why more humans don&#x27;t go missing every year.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 December 2006</li><li>Runtime: 5 minutes</li><li>Director: Gary Rydstrom</li><li>Genres: Family, Animation, Science Fiction, Comedy</li><li>TMDB rating: 7.4/10 (856 votes)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, fuboTV</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Lifted (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:13160": {
    "d": "Over Her Dead Body (2008): Comedy film. Story: After his fiancée, Kate, dies in an accident on their… See cast, budget $10M, and TMDB rating 5.5/10.",
@@ -514,6 +812,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Pati Patni Aur Woh Do (2026)</h1>\n<p class=\"ssr-lead\">A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 2026</li><li>Runtime: 117 minutes</li><li>Director: Mudassar Aziz</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 5.9/10 (24 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ayushmann Khurrana as Prajapati Pandey</li><li>Wamiqa Gabbi as Aparna Pandey</li><li>Rakul Preet Singh as Nilofer Khan</li><li>Sara Ali Khan as Chanchal Kumari</li><li>Vijay Raaz as Dharamveer Singh</li><li>Tigmanshu Dhulia as MLA Gajraj Tiwari</li><li>Ayesha Raza Mishra as Bua Ji</li><li>Vishal Vashishtha as Sudhanshu Tiwari</li><li>Durgesh Kumar as Mahinder</li><li>Deepika Amin as Bhavna Trivedi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Pati Patni Aur Woh Do (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13260": {
+   "d": "Semi-Pro (2008): Comedy film. Story: Jackie Moon is the owner, promoter, coach, and star… See cast, budget $55M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yvB9wgUNyArVMDW4knhbEec5Xlw.jpg",
+   "industry": "world",
+   "k": "Semi-Pro, Semi-Pro movie, Semi-Pro cast, Semi-Pro story, Semi-Pro box office collection, Semi-Pro budget, Semi-Pro review, Semi-Pro rating, Semi-Pro release date, Semi-Pro trailer, Semi-Pro Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Ferrell"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "André 3000"
+     },
+     {
+      "@type": "Person",
+      "name": "Maura Tierney"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Daly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 928,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Semi-Pro (2008): Comedy film. Story: Jackie Moon is the owner, promoter, coach, and star… See cast, budget $55M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kent Alterman"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yvB9wgUNyArVMDW4knhbEec5Xlw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13260",
+    "name": "Semi-Pro",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-02-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13260"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Semi-Pro (2008)</h1>\n<p class=\"ssr-lead\">Jackie Moon is the owner, promoter, coach, and star player of the Flint Michigan Tropics of the American Basketball Association (ABA), the worst team in the league. In 1976 before the ABA collapses, the NBA plans to merge with the best teams of the ABA at the end of the season. Only the top four teams will make the move and the worst teams will fold. If the Tropics want to make it to the NBA, Jackie Moon must rally his team and start winning.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 February 2008</li><li>Runtime: 91 minutes</li><li>Director: Kent Alterman</li><li>Genres: Comedy</li><li>Budget: $55M</li><li>TMDB rating: 5.6/10 (928 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Ferrell as Jackie Moon</li><li>Woody Harrelson as Monix</li><li>André 3000 as Clarence</li><li>Maura Tierney as Lynn</li><li>Andy Daly as Dick Pepperfield</li><li>Will Arnett as Lou Redwood</li><li>Andy Richter as Bobby Dee</li><li>Rob Corddry as Kyle</li><li>Matt Walsh as Father Pat the Ref</li><li>Tim Meadows as Cornelius Banks</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Semi-Pro (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1439660": {
    "d": "Fukushima: A Nuclear Nightmare (2026): Documentary/Drama film. Story: The definitive account of Japan’s struggle as it… See cast and TMDB rating 7.0/10.",
@@ -1215,6 +1576,132 @@
    "t": "My Friends Act II (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
   },
+  "movie:246860": {
+   "d": "Clouds of Sils Maria (2014): Drama film. Story: A veteran actress comes face-to-face with an… See cast, budget $6.6M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yb0hXYnuXp91iFeZGmpWqzfIYsd.jpg",
+   "industry": "world",
+   "k": "Clouds of Sils Maria, Clouds of Sils Maria movie, Clouds of Sils Maria cast, Clouds of Sils Maria story, Clouds of Sils Maria box office collection, Clouds of Sils Maria budget, Clouds of Sils Maria review, Clouds of Sils Maria rating, Clouds of Sils Maria release date, Clouds of Sils Maria trailer, Clouds of Sils Maria Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Juliette Binoche"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloë Grace Moretz"
+     },
+     {
+      "@type": "Person",
+      "name": "Lars Eidinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Flynn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 834,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Clouds of Sils Maria (2014): Drama film. Story: A veteran actress comes face-to-face with an… See cast, budget $6.6M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Assayas"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yb0hXYnuXp91iFeZGmpWqzfIYsd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=246860",
+    "name": "Clouds of Sils Maria",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-08-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=246860"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Clouds of Sils Maria (2014)</h1>\n<p class=\"ssr-lead\">A veteran actress comes face-to-face with an uncomfortable reflection of herself when she agrees to take part in a revival of the play that launched her career 20 years earlier.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 2014</li><li>Runtime: 124 minutes</li><li>Director: Olivier Assayas</li><li>Genres: Drama</li><li>Budget: $6.6M</li><li>TMDB rating: 6.6/10 (834 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Juliette Binoche as Maria Enders</li><li>Kristen Stewart as Valentine</li><li>Chloë Grace Moretz as Jo-Ann Ellis</li><li>Lars Eidinger as Klaus Diesterweg</li><li>Johnny Flynn as Christopher Giles</li><li>Brady Corbet as Piers Roaldson</li><li>Hanns Zischler as Henryk Wald</li><li>Angela Winkler as Rosa Melchior</li><li>Nora Waldstätten as Actress in Sci-Fi movie</li><li>Aljoscha Stadelmann as Urs Kobler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Clouds of Sils Maria (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:249660": {
+   "d": "God's Not Dead (2014): Drama film. Story: After he refuses to disavow his faith, a devout… See cast, budget $17M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8pl2t8FvYHHEAT6ly8YtJJWd1bn.jpg",
+   "industry": "world",
+   "k": "God's Not Dead, God's Not Dead movie, God's Not Dead cast, God's Not Dead story, God's Not Dead box office collection, God's Not Dead budget, God's Not Dead review, God's Not Dead rating, God's Not Dead release date, God's Not Dead trailer, God's Not Dead Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Sorbo"
+     },
+     {
+      "@type": "Person",
+      "name": "Shane Harper"
+     },
+     {
+      "@type": "Person",
+      "name": "David A.R. White"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean Cain"
+     },
+     {
+      "@type": "Person",
+      "name": "Cassidy Gifford"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 990,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "God's Not Dead (2014): Drama film. Story: After he refuses to disavow his faith, a devout… See cast, budget $17M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Harold Cronk"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8pl2t8FvYHHEAT6ly8YtJJWd1bn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=249660",
+    "name": "God's Not Dead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=249660"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>God&#x27;s Not Dead (2014)</h1>\n<p class=\"ssr-lead\">After he refuses to disavow his faith, a devout Christian student must prove the existence of God or else his college philosophy professor will fail him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 March 2014</li><li>Runtime: 113 minutes</li><li>Director: Harold Cronk</li><li>Genres: Drama</li><li>Budget: $17M</li><li>TMDB rating: 6.0/10 (990 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Sorbo as Professor Radisson</li><li>Shane Harper as Josh Wheaton</li><li>David A.R. White as Reverend Dave</li><li>Dean Cain as Mark Shelley</li><li>Cassidy Gifford as Kara</li><li>Marco Khan as Mirsab</li><li>Alex Aristidis as Fahid</li><li>Willie Robertson as Willie Robertson</li><li>Korie Robertson as Korie Robertson</li><li>Hadeel Sittu as Ayisha</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Pure Flix, Great American Pure Flix Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "God's Not Dead (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:2760": {
    "d": "The Lodger: A Story of the London Fog (1927): Crime/Thriller film. Story: London. A mysterious serial killer brutally murders… See cast and budget $14.7k.",
    "img": "https://image.tmdb.org/t/p/w780/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
@@ -1278,6 +1765,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Lodger: A Story of the London Fog (1927)</h1>\n<p class=\"ssr-lead\">London. A mysterious serial killer brutally murders young blond women by stalking them in the night fog. One foggy, sinister night, a young man who claims his name is Jonathan Drew arrives at the guest house run by the Bunting family and rents a room.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 1927</li><li>Runtime: 91 minutes</li><li>Director: Alfred Hitchcock</li><li>Genres: Crime, Thriller, Mystery</li><li>Budget: $14.7k</li><li>TMDB rating: 7.2/10 (365 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ivor Novello as The Lodger Jonathan Drew</li><li>Marie Ault as Mrs. Bunting the Landlady</li><li>Arthur Chesney as Mr. Bunting</li><li>June Tripp as Daisy Bunting</li><li>Malcolm Keen as Joe Chandler</li><li>Reginald Gardiner as Dancer at Ball (uncredited)</li><li>Eve Gray as Showgirl Victim (uncredited)</li><li>Alfred Hitchcock as Man in Newspaper Office (uncredited)</li><li>Alma Reville as Woman Listening to Wireless (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Criterion Channel, TCM, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Lodger: A Story of the London Fog (1927) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1927"
+  },
+  "movie:28260": {
+   "d": "Return of the Living Dead III (1993): Horror/Romance film. Story: Having recently witnessed the horrific results of a… See cast and budget $2M.",
+   "img": "https://image.tmdb.org/t/p/w780/gB6TPrzf8PwKFdkFuEQuKgG8Xyr.jpg",
+   "industry": "world",
+   "k": "Return of the Living Dead III, Return of the Living Dead III movie, Return of the Living Dead III cast, Return of the Living Dead III story, Return of the Living Dead III box office collection, Return of the Living Dead III budget, Return of the Living Dead III review, Return of the Living Dead III rating, Return of the Living Dead III release date, Return of the Living Dead III Horror, Return of the Living Dead III Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Melinda Clarke"
+     },
+     {
+      "@type": "Person",
+      "name": "J. Trevor Edmond"
+     },
+     {
+      "@type": "Person",
+      "name": "Kent McCord"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Douglas"
+     },
+     {
+      "@type": "Person",
+      "name": "James T. Callahan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 942,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Return of the Living Dead III (1993): Horror/Romance film. Story: Having recently witnessed the horrific results of a… See cast and budget $2M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian Yuzna"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Horror",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gB6TPrzf8PwKFdkFuEQuKgG8Xyr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=28260",
+    "name": "Return of the Living Dead III",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=28260"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Return of the Living Dead III (1993)</h1>\n<p class=\"ssr-lead\">Having recently witnessed the horrific results of a top secret project to bring the dead back to life, a distraught teenager performs the operation on his girlfriend after she&#x27;s killed in a motorcycle accident.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 1993</li><li>Runtime: 97 minutes</li><li>Director: Brian Yuzna</li><li>Genres: Horror, Romance</li><li>Budget: $2M</li><li>TMDB rating: 6.6/10 (942 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melinda Clarke as Julie Walker (as Mindy Clarke)</li><li>J. Trevor Edmond as Curt Reynolds</li><li>Kent McCord as Col. John Reynolds</li><li>Sarah Douglas as Lt. Col. Sinclair</li><li>James T. Callahan as Col. Peck</li><li>Basil Wallace as Riverman</li><li>Mike Moroff as Santos</li><li>Julian Scott Urena as Mogo</li><li>Pía Reyes as Alicia (as Pia Reyes)</li><li>Sal Lopez as Felipe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Return of the Living Dead III (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
   },
   "movie:2860": {
    "d": "Claire's Knee (1970): Drama/Romance film. Story: On the eve of his wedding, on holiday on the Lake… See cast and TMDB rating 7.3/10.",
@@ -2634,6 +3185,134 @@
    "t": "My Brother Chases Dinosaurs (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:658760": {
+   "d": "Isi & Ossi (2020): Romance/Comedy film. Story: Isi and Ossi couldn't be any more different: She's a… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2EOy2YSJbzKvlzKpEEKULVYZGlN.jpg",
+   "industry": "world",
+   "k": "Isi & Ossi, Isi & Ossi movie, Isi & Ossi cast, Isi & Ossi story, Isi & Ossi box office collection, Isi & Ossi budget, Isi & Ossi review, Isi & Ossi rating, Isi & Ossi release date, Isi & Ossi Romance, Isi & Ossi Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lisa Vicari"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Mojen"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Hagmeister"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernst Stötzner"
+     },
+     {
+      "@type": "Person",
+      "name": "Christina Hecke"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 973,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Isi & Ossi (2020): Romance/Comedy film. Story: Isi and Ossi couldn't be any more different: She's a… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Oliver Kienle"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2EOy2YSJbzKvlzKpEEKULVYZGlN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=658760",
+    "name": "Isi & Ossi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=658760"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Isi &amp; Ossi (2020)</h1>\n<p class=\"ssr-lead\">Isi and Ossi couldn&#x27;t be any more different: She&#x27;s a billionaire&#x27;s daughter from Heidelberg, he&#x27;s a struggling boxer from the nearby town of Mannheim. But when Isi meets Ossi, the two quickly realize that they can take advantage of one another: She dates the broke boxer to provoke her parents and get them to fund a long-desired chef training in New York. He tries to rip off the rich daughter to finance his first professional boxing match. Their plans soon develop into emotional chaos that challenges everything the two believe to know about money, career and love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 2020</li><li>Runtime: 113 minutes</li><li>Director: Oliver Kienle</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.9/10 (973 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lisa Vicari as Isi</li><li>Dennis Mojen as Ossi</li><li>Lisa Hagmeister as Betty Markowski</li><li>Ernst Stötzner as Grandpa</li><li>Christina Hecke as Claudia Voigt</li><li>Hans-Jochen Wagner as Manfred Voigt</li><li>Walid Al-Atiyat as Tschünni</li><li>Zoë Straub as Camilla</li><li>Bettina Hoppe as Kerstin Wiese</li><li>Saladin Dellers as Marf</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Isi & Ossi (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:67660": {
+   "d": "Think Like a Man (2012): Comedy/Romance film. Story: The balance of power in four couples’ relationships… See cast, budget $12M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c8kjrMDDKrlpikQTgvNGLBZh5V8.jpg",
+   "industry": "world",
+   "k": "Think Like a Man, Think Like a Man movie, Think Like a Man cast, Think Like a Man story, Think Like a Man box office collection, Think Like a Man budget, Think Like a Man review, Think Like a Man rating, Think Like a Man release date, Think Like a Man trailer, Think Like a Man Comedy, Think Like a Man Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Ealy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerry Ferrara"
+     },
+     {
+      "@type": "Person",
+      "name": "Meagan Good"
+     },
+     {
+      "@type": "Person",
+      "name": "Regina Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Hart"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 929,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Think Like a Man (2012): Comedy/Romance film. Story: The balance of power in four couples’ relationships… See cast, budget $12M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Story"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c8kjrMDDKrlpikQTgvNGLBZh5V8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=67660",
+    "name": "Think Like a Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-04-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=67660"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Think Like a Man (2012)</h1>\n<p class=\"ssr-lead\">The balance of power in four couples’ relationships is upset when the women start using the advice in Steve Harvey’s book, Act Like A Lady, Think Like A Man, to get more of what they want from their men. When the men realize that the women have gotten a hold of their relationship “playbook,” they decide that the best defense is a good offense and come up with a plan to use this information to their advantage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 April 2012</li><li>Runtime: 122 minutes</li><li>Director: Tim Story</li><li>Genres: Comedy, Romance</li><li>Budget: $12M</li><li>TMDB rating: 6.8/10 (929 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Ealy as Dominic</li><li>Jerry Ferrara as Jeremy Kern</li><li>Meagan Good as Mya</li><li>Regina Hall as Candace Hall</li><li>Kevin Hart as Cedric Ward</li><li>Taraji P. Henson as Lauren Harris</li><li>Terrence J as Michael Hanover</li><li>Romany Malco as Zeke Freeman</li><li>Gabrielle Union as Kristen</li><li>Jenifer Lewis as Loretta Hanover</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Think Like a Man (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:680860": {
    "d": "I Want You Back (2022): Comedy/Romance film. Story: Peter and Emma thought they were on the precipice of… See cast and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/mpawNP1soprsrfTFFfgn1moC9KM.jpg",
@@ -2760,6 +3439,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Wannabes (2022)</h1>\n<p class=\"ssr-lead\">Daniel and Stéphane, two salesmen working in the same store but who cannot stand each other, decide despite everything to team up to participate in television games so they can pay their debts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 February 2022</li><li>Runtime: 102 minutes</li><li>Director: Jonathan Barré</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Grégoire Ludig as Daniel Santini</li><li>David Marsais as Stéphane Chevalier</li><li>Julien Pestel as Blaise Petit</li><li>Damien Gillard as Fred Costa</li><li>Gaëlle Lebert as Laurence Santini</li><li>Juliette Plumecocq-Mech as Patricia</li><li>Théo Gross as Bastien</li><li>Patrick Hongniat as Gustave Chevalier</li><li>Alexandra Gentil as Léa</li><li>Harmandeep Palminder as FX</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "The Wannabes (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:92060": {
+   "d": "Michael Jackson's Thriller (1983): Horror/Music film. Story: A night at the movies turns terrifying when Michael… See cast and budget $500.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/aVefEnQsfNPUrgsuMszTDt165P0.jpg",
+   "industry": "world",
+   "k": "Michael Jackson's Thriller, Michael Jackson's Thriller movie, Michael Jackson's Thriller cast, Michael Jackson's Thriller story, Michael Jackson's Thriller box office collection, Michael Jackson's Thriller budget, Michael Jackson's Thriller review, Michael Jackson's Thriller rating, Michael Jackson's Thriller release date, Michael Jackson's Thriller Horror, Michael Jackson's Thriller Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ola Ray"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Price"
+     },
+     {
+      "@type": "Person",
+      "name": "Cynthia Garris"
+     },
+     {
+      "@type": "Person",
+      "name": "Mick Garris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 818,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Michael Jackson's Thriller (1983): Horror/Music film. Story: A night at the movies turns terrifying when Michael… See cast and budget $500.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Landis"
+     }
+    ],
+    "duration": "PT14M",
+    "genre": [
+     "Horror",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aVefEnQsfNPUrgsuMszTDt165P0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=92060",
+    "name": "Michael Jackson's Thriller",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-11-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=92060"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Michael Jackson&#x27;s Thriller (1983)</h1>\n<p class=\"ssr-lead\">A night at the movies turns terrifying when Michael and his date are attacked by zombies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 1983</li><li>Runtime: 14 minutes</li><li>Director: John Landis</li><li>Genres: Horror, Music, Thriller</li><li>Budget: $500.0k</li><li>TMDB rating: 8.3/10 (818 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Jackson as Michael Jackson</li><li>Ola Ray as Michael&#x27;s Girlfriend</li><li>Vincent Price as Narrator (voice)</li><li>Cynthia Garris as Zombie (uncredited)</li><li>Mick Garris as Zombie (uncredited)</li><li>Hanala Sagal as Dancer (uncredited)</li><li>Forrest J. Ackerman as Man in Movie Theater (uncredited)</li><li>Reed Armstrong as Zombie (uncredited)</li><li>Rick Baker as Zombie Opening the Crypt (uncredited)</li><li>Miko C. Brando as Zombie (uncredited)</li></ul>\n</article>",
+   "t": "Michael Jackson's Thriller (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
   },
   "movie:9460": {
    "d": "Black Mask (1996): Action film. Story: Super-soldier recruit Tsui Chik is forced to escape… See cast, budget $8M, and TMDB rating 6.2/10.",

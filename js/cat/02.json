@@ -1,6 +1,6 @@
 {
  "bucket": "02",
- "count": 55,
+ "count": 63,
  "titles": {
   "movie:10002": {
    "backdrop_path": "/awqquwDxMN9iuOAgDJZSkUO9yf7.jpg",
@@ -138,6 +138,123 @@
    "vote_average": 6.894,
    "vote_count": 317
   },
+  "movie:11302": {
+   "backdrop_path": "/bnJrWEST2YVuWfZiYP4owjXpjwq.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Fielding Mellish",
+     "n": "Woody Allen"
+    },
+    {
+     "c": "Nancy",
+     "n": "Louise Lasser"
+    },
+    {
+     "c": "General Emilio M. Vargas",
+     "n": "Carlos Montalbán"
+    },
+    {
+     "c": "Yolanda",
+     "n": "Nati Abascal"
+    },
+    {
+     "c": "Esposito",
+     "n": "Jacobo Morales"
+    },
+    {
+     "c": "Luis",
+     "n": "Miguel Ángel Suárez"
+    },
+    {
+     "c": "Diaz",
+     "n": "René Enríquez"
+    },
+    {
+     "c": "Arroyo",
+     "n": "Jack Axelrod"
+    },
+    {
+     "c": "Himself",
+     "n": "Howard Cosell"
+    },
+    {
+     "c": "Mrs. Ruth Mellish",
+     "n": "Charlotte Rae"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11302,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a bumbling New Yorker is dumped by his activist girlfriend, he travels to a tiny Latin American nation and becomes involved in its latest rebellion.",
+   "popularity": 1.6709,
+   "poster_path": "/gK11RUXspxqty0Wq6KoV8J0crKO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1971-04-28",
+   "revenue": 11833696,
+   "runtime": 82,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "yi",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The Revolutionist That Shook the World With LAUGHTER!",
+   "title": "Bananas",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.673,
+   "vote_count": 859
+  },
   "movie:11502": {
    "backdrop_path": "/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
    "budget": 0,
@@ -272,6 +389,188 @@
    "vote_average": 7.264,
    "vote_count": 493
   },
+  "movie:11902": {
+   "backdrop_path": "/6ETx15gNiiAjpBjwIUqN1LdJMKH.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Marko Dren",
+     "n": "Predrag 'Miki' Manojlović"
+    },
+    {
+     "c": "Petar 'Crni' Popara",
+     "n": "Lazar Ristovski"
+    },
+    {
+     "c": "Natalija Zovkov",
+     "n": "Mirjana Joković"
+    },
+    {
+     "c": "Ivan Dren",
+     "n": "Slavko Štimac"
+    },
+    {
+     "c": "Franz",
+     "n": "Ernst Stötzner"
+    },
+    {
+     "c": "Jovan Popara",
+     "n": "Srđan 'Žika' Todorović"
+    },
+    {
+     "c": "Vera",
+     "n": "Mirjana Karanović"
+    },
+    {
+     "c": "Jelena",
+     "n": "Milena Pavlović Čučilović"
+    },
+    {
+     "c": "Deda",
+     "n": "Danilo 'Bata' Stojković"
+    },
+    {
+     "c": "Golub",
+     "n": "Borivoje Todorović"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Emir Kusturica"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "War"
+   ],
+   "id": 11902,
+   "industry": "world",
+   "origin_country": [
+    "YU"
+   ],
+   "original_language": "sr",
+   "overview": "Black marketeers Marko and Blacky manufacture and sell weapons to the Communist resistance in WWII Belgrade, living the good life along the way. Marko's surreal duplicity propels him up the ranks of the Communist Party, and he eventually abandons Blacky and steals his girlfriend. After a lengthy stay in a below-ground shelter, the couple reemerges during the Yugoslav Civil War of the 1990s as Marko sees the opportunity to exploit the situation.",
+   "popularity": 2.5736,
+   "poster_path": "/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+   "production_countries": [
+    "YU",
+    "CZ",
+    "FR",
+    "DE",
+    "HU"
+   ],
+   "providers": [
+    {
+     "name": "Kino Film Collection"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vzHdqyLVfEXK6dNIbsVYH28mn9k.png",
+     "name": "Kino Film Collection",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-10-25",
+   "revenue": 182134,
+   "runtime": 170,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "ru",
+    "sr"
+   ],
+   "status": "Released",
+   "tagline": "ONCE UPON A TIME THERE WAS A COUNTRY",
+   "title": "Underground",
+   "trailer": {
+    "key": "rYTvmLvLchs",
+    "name": "Underground - Official Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.68,
+   "vote_count": 823
+  },
   "movie:12502": {
    "backdrop_path": "/1UHZ53y6dcfPElyuQ5UkqgAxwHi.jpg",
    "budget": 10000000,
@@ -396,6 +695,126 @@
    "type": "movie",
    "vote_average": 6.938,
    "vote_count": 369
+  },
+  "movie:1259102": {
+   "backdrop_path": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Joan",
+     "n": "Elizabeth Olsen"
+    },
+    {
+     "c": "Larry",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Luke",
+     "n": "Callum Turner"
+    },
+    {
+     "c": "Anna",
+     "n": "Da'Vine Joy Randolph"
+    },
+    {
+     "c": "Ryan",
+     "n": "John Early"
+    },
+    {
+     "c": "Older Larry",
+     "n": "Barry Primus"
+    },
+    {
+     "c": "Older Joan",
+     "n": "Betty Buckley"
+    },
+    {
+     "c": "Man in Car",
+     "n": "Darryl Scheelar"
+    },
+    {
+     "c": "Sam",
+     "n": "Danny Mac"
+    },
+    {
+     "c": "Zach",
+     "n": "Damon Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "David Freyne"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 1259102,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
+   "popularity": 8.8194,
+   "poster_path": "/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-11-28",
+   "revenue": 32867848,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can only choose one.",
+   "title": "Eternity",
+   "trailer": {
+    "key": "GzkoY6hUvQQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 926
   },
   "movie:12702": {
    "backdrop_path": "/mCK4c04c4D4c80qZJXuDaIMiQtl.jpg",
@@ -1713,6 +2132,118 @@
    "vote_average": 7.122,
    "vote_count": 393
   },
+  "movie:24402": {
+   "backdrop_path": "/yKsMX3Ril4FVNHJKZukuDe7JemW.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Emmanuelle",
+     "n": "Sylvia Kristel"
+    },
+    {
+     "c": "Mario",
+     "n": "Alain Cuny"
+    },
+    {
+     "c": "Bee",
+     "n": "Marika Green"
+    },
+    {
+     "c": "Jean",
+     "n": "Daniel Sarky"
+    },
+    {
+     "c": "Ariana",
+     "n": "Jeanne Colletin"
+    },
+    {
+     "c": "Marie-Ange",
+     "n": "Christine Boisson"
+    },
+    {
+     "c": "Le deuxième homme dans l'avion",
+     "n": "Gabriel Briand"
+    },
+    {
+     "c": "",
+     "n": "Marion Webb"
+    },
+    {
+     "c": "",
+     "n": "Gregory"
+    },
+    {
+     "c": "Yves (uncredited)",
+     "n": "Yves Rousset-Rouard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Just Jaeckin"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 24402,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "An employee at the French Embassy in Bangkok invites his wife to join him – and enjoy the benefits of their open marriage.",
+   "popularity": 5.556,
+   "poster_path": "/kFq1ffM4ruQmWH6C3SjVWJoqMi6.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/c8H4Jp8qInInqkPSryR80rb7jYO.png",
+     "name": "Film Movement Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1974-06-25",
+   "revenue": 20200000,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Lets you feel good without feeling bad",
+   "title": "Emmanuelle",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.96,
+   "vote_count": 849
+  },
   "movie:25602": {
    "backdrop_path": "/zOau05zQVXB0XIhJ0WUslHHBOh6.jpg",
    "budget": 10000000,
@@ -2251,6 +2782,126 @@
    "type": "movie",
    "vote_average": 5.789,
    "vote_count": 374
+  },
+  "movie:302": {
+   "backdrop_path": "/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
+   "budget": 7800000,
+   "cast": [
+    {
+     "c": "Sarah Morton",
+     "n": "Charlotte Rampling"
+    },
+    {
+     "c": "Julie",
+     "n": "Ludivine Sagnier"
+    },
+    {
+     "c": "John Bosload",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Marcel",
+     "n": "Marc Fayolle"
+    },
+    {
+     "c": "Franck",
+     "n": "Jean-Marie Lamour"
+    },
+    {
+     "c": "Marcel's Daughter",
+     "n": "Mireille Mossé"
+    },
+    {
+     "c": "First Man",
+     "n": "Michel Fau"
+    },
+    {
+     "c": "Second Man",
+     "n": "Jean-Claude Lecas"
+    },
+    {
+     "c": "Waitress at Cafe",
+     "n": "Émilie Gavois-Kahn"
+    },
+    {
+     "c": "Old Man",
+     "n": "Erarde Forestali"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "François Ozon"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 302,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A British crime novelist travels to her publisher's upmarket summer house in Southern France to seek solitude in order to work on her next book. However, the unexpected arrival of the publisher's daughter induces complications and a subsequent crime.",
+   "popularity": 2.6528,
+   "poster_path": "/10xMAznUxI0LZPYyPxA9WjJsThr.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-05-21",
+   "revenue": 22441323,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "On the surface, all is calm.",
+   "title": "Swimming Pool",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.481,
+   "vote_count": 833
   },
   "movie:309302": {
    "backdrop_path": "/5dDUDrH373QJgblJx8BCNSNPIvz.jpg",
@@ -3022,6 +3673,216 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 326
+  },
+  "movie:3902": {
+   "backdrop_path": "/hXGZv8TAFP52jxIZLdIDCVmPJBQ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Jack / Pastor John",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Jude",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Woody / Chaplin Boy",
+     "n": "Marcus Carl Franklin"
+    },
+    {
+     "c": "Billy",
+     "n": "Richard Gere"
+    },
+    {
+     "c": "Robbie",
+     "n": "Heath Ledger"
+    },
+    {
+     "c": "Arthur",
+     "n": "Ben Whishaw"
+    },
+    {
+     "c": "Claire",
+     "n": "Charlotte Gainsbourg"
+    },
+    {
+     "c": "Allen Ginsberg",
+     "n": "David Cross"
+    },
+    {
+     "c": "Keenan Jones / Garrett",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Alice Fabian",
+     "n": "Julianne Moore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Haynes"
+   ],
+   "genres": [
+    "Drama",
+    "Music"
+   ],
+   "id": 3902,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Six actors portray six personas of music legend Bob Dylan in scenes depicting various stages of his life, chronicling his rise from unknown folksinger to international icon and revealing how Dylan constantly reinvented himself.",
+   "popularity": 2.4989,
+   "poster_path": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/adymMNlhhLlJl5xccRCrsh3OehD.png",
+     "name": "Starz Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/h25xjouKmiSmFiiqw0aDXbxGZo7.png",
+     "name": "Starz",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-10-01",
+   "revenue": 4001121,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All I can do is be me, whoever that is.",
+   "title": "I'm Not There",
+   "trailer": {
+    "key": "abVh39ZmUag",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.499,
+   "vote_count": 814
   },
   "movie:444902": {
    "backdrop_path": "/jyf7bNJs4CpZMwoeyo3RbbVtA9r.jpg",
@@ -4271,6 +5132,169 @@
    "vote_average": 6.9,
    "vote_count": 414
   },
+  "movie:75802": {
+   "backdrop_path": "/8DPxvLQGXXd96q59rd5mllgOqVo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Charlotte Dalrymple",
+     "n": "Maggie Gyllenhaal"
+    },
+    {
+     "c": "Dr. Mortimer Granville",
+     "n": "Hugh Dancy"
+    },
+    {
+     "c": "Dr. Robert Dalrymple",
+     "n": "Jonathan Pryce"
+    },
+    {
+     "c": "Emily Dalrymple",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Lord Edmund St. John-Smythe",
+     "n": "Rupert Everett"
+    },
+    {
+     "c": "Fanny",
+     "n": "Ashley Jensen"
+    },
+    {
+     "c": "Molly the Lolly",
+     "n": "Sheridan Smith"
+    },
+    {
+     "c": "Lady St. John-Smythe",
+     "n": "Gemma Jones"
+    },
+    {
+     "c": "Mr. Squyers",
+     "n": "Tobias Menzies"
+    },
+    {
+     "c": "Lord St. John-Smythe",
+     "n": "Malcolm Rennie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tanya Wexler"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 75802,
+   "industry": "world",
+   "origin_country": [
+    "CH",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Two doctors in Victorian England use manual stimulation of female genitalia to cure their patients' ills, leading to the invention of the vibrator.",
+   "popularity": 1.9999,
+   "poster_path": "/ziWnXi2VyNDD9qPi5wmOuolOCIu.jpg",
+   "production_countries": [
+    "GB",
+    "LU",
+    "FR",
+    "DE",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-06-06",
+   "revenue": 9504139,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about the birth of the vibrator in Victorian England.",
+   "title": "Hysteria",
+   "trailer": {
+    "key": "pKgdLjDZ6ig",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.715,
+   "vote_count": 899
+  },
   "movie:759902": {
    "backdrop_path": "/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
    "budget": 0,
@@ -4714,6 +5738,189 @@
    "type": "movie",
    "vote_average": 6.528,
    "vote_count": 378
+  },
+  "movie:925102": {
+   "backdrop_path": "/gCOe0ZSGgfsHob7gdg2xQANwTAD.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yohan Vivès",
+     "n": "Bastien Bouillon"
+    },
+    {
+     "c": "Marceau",
+     "n": "Bouli Lanners"
+    },
+    {
+     "c": "La juge d'instruction",
+     "n": "Anouk Grinberg"
+    },
+    {
+     "c": "Nadia",
+     "n": "Mouna Soualem"
+    },
+    {
+     "c": "Nanie",
+     "n": "Pauline Serieys"
+    },
+    {
+     "c": "Willy",
+     "n": "Théo Cholbi"
+    },
+    {
+     "c": "Fred",
+     "n": "Johann Dionnet"
+    },
+    {
+     "c": "Loïc",
+     "n": "Thibaut Évrard"
+    },
+    {
+     "c": "Boris",
+     "n": "Julien Frison"
+    },
+    {
+     "c": "Jérôme",
+     "n": "Paul Jeanson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Dominik Moll"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 925102,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Young and ambitious Captain Vivés has just been appointed group leader at the Grenoble Criminal Squad when Clara's murder case lands on his desk. Vivés and his team investigate Clara's complex life and relations, but what starts as a professional and methodical immersion into the victim's life soon turns into a haunting obsession.",
+   "popularity": 2.4458,
+   "poster_path": "/9IHnpje2aZ6TI6B385BqGfhcMuB.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-07-13",
+   "revenue": 3467232,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Some crimes will haunt you.",
+   "title": "The Night of the 12th",
+   "trailer": {
+    "key": "58s-pXvTQss",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.894,
+   "vote_count": 813
   },
   "movie:931102": {
    "backdrop_path": "/7vLjt0NthBRvNDv9PVie8KpBWOJ.jpg",

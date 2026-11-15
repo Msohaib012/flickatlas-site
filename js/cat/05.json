@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 65,
+ "count": 73,
  "titles": {
   "movie:10105": {
    "backdrop_path": "/nTyyyUg8p5EWfze3haCzL6aKWfj.jpg",
@@ -1209,6 +1209,170 @@
    "vote_average": 6.9,
    "vote_count": 23
   },
+  "movie:123105": {
+   "backdrop_path": "/qCaDSX1UjgWRGeh5Cmj9SAUbS1L.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Stephanie",
+     "n": "Kristen Connolly"
+    },
+    {
+     "c": "Alex",
+     "n": "Will Rogers"
+    },
+    {
+     "c": "Officer Jimson",
+     "n": "Michael Beasley"
+    },
+    {
+     "c": "Sam",
+     "n": "Christopher Denham"
+    },
+    {
+     "c": "Doctor Michaels",
+     "n": "Kenny Alfonso"
+    },
+    {
+     "c": "Donna Thompson",
+     "n": "Kether Donohue"
+    },
+    {
+     "c": "Steve Slattery - Homeland Security Officer",
+     "n": "Anthony Reynolds"
+    },
+    {
+     "c": "Mayor Stockman",
+     "n": "Frank Deal"
+    },
+    {
+     "c": "Nurse Rebecca",
+     "n": "Kimberly Campbell"
+    },
+    {
+     "c": "Ms. Rosenblatt",
+     "n": "Lamya Jezek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barry Levinson"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 123105,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chaos breaks out in a small Maryland town after an ecological disaster occurs.",
+   "popularity": 1.9131,
+   "poster_path": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-09-13",
+   "revenue": 1581252,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Panic feeds on fear.",
+   "title": "The Bay",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.816,
+   "vote_count": 932
+  },
   "movie:1242705": {
    "backdrop_path": "/p3QVGwMKIrVhA2GpruG1VT00wpI.jpg",
    "budget": 0,
@@ -1487,6 +1651,120 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 26
+  },
+  "movie:1267905": {
+   "backdrop_path": "/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Ivy Rose",
+     "n": "Olivia Colman"
+    },
+    {
+     "c": "Theo Rose",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Barry",
+     "n": "Andy Samberg"
+    },
+    {
+     "c": "Amy",
+     "n": "Kate McKinnon"
+    },
+    {
+     "c": "Janice",
+     "n": "Belinda Bromilow"
+    },
+    {
+     "c": "Jeffrey",
+     "n": "Ncuti Gatwa"
+    },
+    {
+     "c": "Jane",
+     "n": "Sunita Mani"
+    },
+    {
+     "c": "Sally",
+     "n": "Zoë Chao"
+    },
+    {
+     "c": "Rory",
+     "n": "Jamie Demetriou"
+    },
+    {
+     "c": "Eleanor",
+     "n": "Allison Janney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Jay Roach"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 1267905,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
+   "popularity": 5.1761,
+   "poster_path": "/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-08-29",
+   "revenue": 51989385,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "This marriage ain't big enough for the both of them.",
+   "title": "The Roses",
+   "trailer": {
+    "key": "rb3x45F6mrQ",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.651,
+   "vote_count": 823
   },
   "movie:12705": {
    "backdrop_path": "/ahaPgkVmHIVMVVMtqhcvRT8QAXT.jpg",
@@ -3155,6 +3433,188 @@
    "vote_average": 7.193,
    "vote_count": 493
   },
+  "movie:329805": {
+   "backdrop_path": "/wolw69lBchDPHV8zT4SlIBucJM0.jpg",
+   "budget": 10600000,
+   "cast": [
+    {
+     "c": "Georgio Milevski",
+     "n": "Vincent Cassel"
+    },
+    {
+     "c": "Marie-Antoinette Jézéquel, aka 'Tony'",
+     "n": "Emmanuelle Bercot"
+    },
+    {
+     "c": "Solal",
+     "n": "Louis Garrel"
+    },
+    {
+     "c": "Babeth",
+     "n": "Isild Le Besco"
+    },
+    {
+     "c": "Agnès",
+     "n": "Chrystèle Saint-Louis Augustin"
+    },
+    {
+     "c": "Denis Jézéquel",
+     "n": "Patrick Raynal"
+    },
+    {
+     "c": "Pascal",
+     "n": "Paul Hamy"
+    },
+    {
+     "c": "Jean",
+     "n": "Yann Goven"
+    },
+    {
+     "c": "Mayor",
+     "n": "François-Marie Banier"
+    },
+    {
+     "c": "Nico",
+     "n": "Norman Thavaud"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Maïwenn"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 329805,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Tony is admitted to a rehabilitation center after a serious ski accident. Dependent on the medical staff and pain relievers, she takes time to look back on a turbulent relationship that she experienced with Georgio.",
+   "popularity": 2.028,
+   "poster_path": "/kOhRkC7J3jpAgHGC0Uh3SoCqU4c.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JustWatch TV Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png",
+     "name": "JustWatch TV Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-10-21",
+   "revenue": 8003331,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "My King",
+   "trailer": {
+    "key": "V3M0PrkEGdE",
+    "name": "MY KING (MON ROI) - Official U.S. Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.135,
+   "vote_count": 825
+  },
   "movie:339405": {
    "backdrop_path": "/bb5BtQv2hfbgKMOcWtnu5y5RlPE.jpg",
    "budget": 0,
@@ -3543,6 +4003,120 @@
    "vote_average": 6.697,
    "vote_count": 320
   },
+  "movie:401905": {
+   "backdrop_path": "/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Guy Montag",
+     "n": "Michael B. Jordan"
+    },
+    {
+     "c": "Captain Beatty",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Clarisse McClellan",
+     "n": "Sofia Boutella"
+    },
+    {
+     "c": "Toni Morrison",
+     "n": "Khandi Alexander"
+    },
+    {
+     "c": "Raven",
+     "n": "Lilly Singh"
+    },
+    {
+     "c": "Commissioner Nyari",
+     "n": "Martin Donovan"
+    },
+    {
+     "c": "Gustavo",
+     "n": "Andy McQueen"
+    },
+    {
+     "c": "Fireman Douglas",
+     "n": "Dylan Taylor"
+    },
+    {
+     "c": "Historian",
+     "n": "Keir Dullea"
+    },
+    {
+     "c": "Chairman Mao",
+     "n": "Grace Lynn Kung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ramin Bahrani"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 401905,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In an oppressive future, a 'fireman' whose duty is to destroy all books begins to question his task.",
+   "popularity": 2.1798,
+   "poster_path": "/urH9H50gKbUK8U6qTVd89SLQPjx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-05-12",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Knowledge is a dangerous thing",
+   "title": "Fahrenheit 451",
+   "trailer": {
+    "key": "O3irxFd965s",
+    "name": "Fahrenheit 451 - Official Trailer - Official HBO UK",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.448,
+   "vote_count": 982
+  },
   "movie:411405": {
    "backdrop_path": "/dEJTxbGz53wYiVzDWcN5gJ0cjTd.jpg",
    "budget": 0,
@@ -3649,6 +4223,144 @@
    "type": "movie",
    "vote_average": 5.362,
    "vote_count": 304
+  },
+  "movie:425505": {
+   "backdrop_path": "/7oZR0oaFOPrzGkg3ZntEKwMCLTe.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Eli Solinski",
+     "n": "Myles Truitt"
+    },
+    {
+     "c": "Jimmy Solinski",
+     "n": "Jack Reynor"
+    },
+    {
+     "c": "Hal Solinski",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Milly",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Taylor Balik",
+     "n": "James Franco"
+    },
+    {
+     "c": "Morgan Hunter",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Snick",
+     "n": "Ian Matthews"
+    },
+    {
+     "c": "Jake",
+     "n": "Mark O'Brien"
+    },
+    {
+     "c": "Dutch Balik",
+     "n": "Gavin Fox"
+    },
+    {
+     "c": "Remy",
+     "n": "Stephane Garneau-Monten"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Josh Baker",
+    "Jonathan Baker"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 425505,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young boy finds a powerful otherworldly weapon, which he uses to save his older adoptive brother from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.",
+   "popularity": 2.4406,
+   "poster_path": "/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-08-29",
+   "revenue": 10023153,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "All he needed was a way out.",
+   "title": "Kin",
+   "trailer": {
+    "key": "Ac5wrM2uYbk",
+    "name": "KIN (2018 Movie) Official Trailer - Dennis Quaid, Zoë Kravitz",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.082,
+   "vote_count": 913
   },
   "movie:444705": {
    "backdrop_path": "/xlwFzTxkqoBm3dLkfPSZU0rWS9L.jpg",
@@ -4965,6 +5677,359 @@
    "vote_average": 6.7,
    "vote_count": 388
   },
+  "movie:776305": {
+   "backdrop_path": "/7aiVtavsu145yo6n4ZpazwMDLXL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Suzu Naito / Belle (voice)",
+     "n": "Kaho Nakamura"
+    },
+    {
+     "c": "Shinobu Hisatake (voice)",
+     "n": "Ryo Narita"
+    },
+    {
+     "c": "Shinjiro 'Kamishin' Chikami (voice)",
+     "n": "Shota Sometani"
+    },
+    {
+     "c": "Ruka Watanabe (voice)",
+     "n": "Tina Tamashiro"
+    },
+    {
+     "c": "Hiroka 'Hiro' Betsuyaku (voice)",
+     "n": "Lilas Ikuta"
+    },
+    {
+     "c": "Yoshitani (voice)",
+     "n": "Ryoko Moriyama"
+    },
+    {
+     "c": "Kita (voice)",
+     "n": "Michiko Shimizu"
+    },
+    {
+     "c": "Okumoto (voice)",
+     "n": "Fuyumi Sakamoto"
+    },
+    {
+     "c": "Nakai (voice)",
+     "n": "Yoshimi Iwasaki"
+    },
+    {
+     "c": "Hatanaka (voice)",
+     "n": "Sachiyo Nakao"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mamoru Hosoda"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Drama",
+    "Music"
+   ],
+   "id": 776305,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Suzu is a 17-year-old high-school student living in a rural town with her father. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world \"U\" and dives into this alternate reality as her avatar, Belle. Before long, all of U's eyes are fixed on Belle, when, suddenly, a mysterious, dragon-like figure appears before her.",
+   "popularity": 4.0355,
+   "poster_path": "/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-07-16",
+   "revenue": 63501160,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "You are no longer alone.",
+   "title": "Belle",
+   "trailer": {
+    "key": "iLCjdAmsFWo",
+    "name": "English Dub Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.598,
+   "vote_count": 932
+  },
+  "movie:831405": {
+   "backdrop_path": "/4gWUlxECoziJ9TrGNfymNYxZf6Z.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Clark Kent / Superman / Kal-El (voice)",
+     "n": "Justin Hartley"
+    },
+    {
+     "c": "Bruce Wayne / Batman (voice)",
+     "n": "Anson Mount"
+    },
+    {
+     "c": "Lois Lane / Rama Kushna (voice)",
+     "n": "Laura Bailey"
+    },
+    {
+     "c": "Diana Prince / Wonder Woman (voice)",
+     "n": "Janet Varney"
+    },
+    {
+     "c": "Damian Wayne / Robin / Jimmy Olsen (voice)",
+     "n": "Zach Callison"
+    },
+    {
+     "c": "Selina Kyle / Catwoman (voice)",
+     "n": "Anika Noni Rose"
+    },
+    {
+     "c": "Hal Jordan / Green Lantern (voice)",
+     "n": "Brian T. Delaney"
+    },
+    {
+     "c": "Victor Stone / Cyborg (voice)",
+     "n": "Brandon Micheal Hall"
+    },
+    {
+     "c": "Mirror Master Soldier (voice)",
+     "n": "Andrew Morgado"
+    },
+    {
+     "c": "Michael Holt / Mr. Terrific / Waylon Jones / Killer Croc (voice)",
+     "n": "Edwin Hodge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matt Peters"
+   ],
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 831405,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
+   "popularity": 2.939,
+   "poster_path": "/rzrSeqqpm1BwJ3tcTznztBtLLSD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-10-09",
+   "revenue": 0,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A threat to Superman is a threat to society.",
+   "title": "Injustice",
+   "trailer": {
+    "key": "EofvPQAyYp8",
+    "name": "Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.333,
+   "vote_count": 887
+  },
   "movie:84105": {
    "backdrop_path": "/fsiMxZEe8tabMhM11HgGjQO57KV.jpg",
    "budget": 0,
@@ -5454,6 +6519,119 @@
    "type": "movie",
    "vote_average": 6.234,
    "vote_count": 319
+  },
+  "movie:9405": {
+   "backdrop_path": "/ffFiduNAjRdbwwPfhsuDv4tici0.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Jack Quinn",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Yaz",
+     "n": "Dennis Rodman"
+    },
+    {
+     "c": "Stavros",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Goldsmythe",
+     "n": "Paul Freeman"
+    },
+    {
+     "c": "Kathryn Quinn",
+     "n": "Natacha Lindinger"
+    },
+    {
+     "c": "Dr. Maria Trifioli",
+     "n": "Valéria Cavalli"
+    },
+    {
+     "c": "Brandon",
+     "n": "Jay Benedict"
+    },
+    {
+     "c": "Kofi",
+     "n": "Bruno Bilotta"
+    },
+    {
+     "c": "James",
+     "n": "Mario Opinato"
+    },
+    {
+     "c": "Colony Resident",
+     "n": "Orso Maria Guerrini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tsui Hark"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 9405,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "HK"
+   ],
+   "original_language": "en",
+   "overview": "A CIA agent is interned for failing to kill an international terrorist. Escaping from his island exile, he teams up with a flamboyant arms dealer and sets out to find the terrorist and rescue the agent's family. Together they're a two-man arsenal... with enough voltage to rock the free world.",
+   "popularity": 2.5665,
+   "poster_path": "/tUzF2S15iX4Hn6ikbFX1YP3SDEQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-04-04",
+   "revenue": 48138337,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They don't play by the rules.",
+   "title": "Double Team",
+   "trailer": {
+    "key": "-LBlDqsUaGI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.308,
+   "vote_count": 887
   },
   "tv:105": {
    "backdrop_path": "/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "64",
- "count": 59,
+ "count": 70,
  "titles": {
   "movie:10064": {
    "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
@@ -804,6 +804,141 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 429
+  },
+  "movie:1220564": {
+   "backdrop_path": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Marcelo Alves / Armando Solimões / Fernando Solimões",
+     "n": "Wagner Moura"
+    },
+    {
+     "c": "Fátima",
+     "n": "Alice Carvalho"
+    },
+    {
+     "c": "Bobbi",
+     "n": "Gabriel Leone"
+    },
+    {
+     "c": "Tereza Victória",
+     "n": "Isabél Zuaa"
+    },
+    {
+     "c": "Elza",
+     "n": "Maria Fernanda Cândido"
+    },
+    {
+     "c": "Hans",
+     "n": "Udo Kier"
+    },
+    {
+     "c": "Clóvis",
+     "n": "Robson Andrade"
+    },
+    {
+     "c": "Natalício",
+     "n": "Rubens Santos"
+    },
+    {
+     "c": "Antônio",
+     "n": "Licínio Januário"
+    },
+    {
+     "c": "Frentista",
+     "n": "Joálisson Cunha"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Kleber Mendonça Filho"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1220564,
+   "industry": "world",
+   "origin_country": [
+    "BR"
+   ],
+   "original_language": "pt",
+   "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+   "popularity": 5.9644,
+   "poster_path": "/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+   "production_countries": [
+    "BR",
+    "FR",
+    "DE",
+    "NL",
+    "AR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2026-02-27",
+   "revenue": 18988224,
+   "runtime": 161,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Brazil 1977, a time of great mischief.",
+   "title": "The Secret Agent",
+   "trailer": {
+    "key": "9UfrzDKrhEc",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.13,
+   "vote_count": 961
   },
   "movie:1318864": {
    "backdrop_path": "/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg",
@@ -1818,6 +1953,124 @@
    "type": "movie",
    "vote_average": 5.69,
    "vote_count": 29
+  },
+  "movie:15764": {
+   "backdrop_path": "/uiUpvnv8zgA2pm1J7tT8DPLxh84.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Zofia \"Sophie\" Zawistowski",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Nathan Landau",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Stingo",
+     "n": "Peter MacNicol"
+    },
+    {
+     "c": "Yetta",
+     "n": "Rita Karin"
+    },
+    {
+     "c": "Larry",
+     "n": "Stephen D. Newman"
+    },
+    {
+     "c": "Leslie Lapidus",
+     "n": "Greta Turken"
+    },
+    {
+     "c": "Morris Fink",
+     "n": "Josh Mostel"
+    },
+    {
+     "c": "Astrid Weinstein",
+     "n": "Marcell Rosenblatt"
+    },
+    {
+     "c": "Moishe Rosenblum",
+     "n": "Moishe Rosenfeld"
+    },
+    {
+     "c": "Lillian Grossman",
+     "n": "Robin Bartlett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alan J. Pakula"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 15764,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Stingo, a young writer, moves to Brooklyn in 1947 to begin work on his first novel. As he becomes friendly with Sophie and her lover Nathan, he learns that she is a Holocaust survivor. Flashbacks reveal her harrowing story, from pre-war prosperity to Auschwitz. In the present, Sophie and Nathan's relationship increasingly unravels as Stingo grows closer to Sophie and Nathan's fragile mental state becomes ever more apparent.",
+   "popularity": 2.7364,
+   "poster_path": "/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1982-12-08",
+   "revenue": 30036166,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs",
+    "de",
+    "fr",
+    "pl",
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Between the innocent, the romantic, the sensual, and the unthinkable. There are still some things we have yet to imagine.",
+   "title": "Sophie's Choice",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.31,
+   "vote_count": 978
   },
   "movie:16164": {
    "backdrop_path": "/fAiOeRNSCfxEGHuVTd7g8F3JHB.jpg",
@@ -3007,6 +3260,196 @@
    "vote_average": 6.2,
    "vote_count": 380
   },
+  "movie:22164": {
+   "backdrop_path": "/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
+   "budget": 3700000,
+   "cast": [
+    {
+     "c": "Isaiah Bone",
+     "n": "Michael Jai White"
+    },
+    {
+     "c": "Franklin McVeigh",
+     "n": "Julian Sands"
+    },
+    {
+     "c": "Pinball",
+     "n": "Dante Basco"
+    },
+    {
+     "c": "James",
+     "n": "Eamonn Walker"
+    },
+    {
+     "c": "Tamara",
+     "n": "Nona Gaye"
+    },
+    {
+     "c": "Angela",
+     "n": "Michelle Belegrin"
+    },
+    {
+     "c": "Hammerman",
+     "n": "Bob Sapp"
+    },
+    {
+     "c": "Roberto",
+     "n": "Dick Anthony Williams"
+    },
+    {
+     "c": "Tattoo",
+     "n": "Francis Capra"
+    },
+    {
+     "c": "Teddy D",
+     "n": "Ron Yuan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ben Ramsey"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 22164,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Los Angeles, an ex-con takes the underground fighting world by storm in his quest to fulfill a promise to a dead friend.",
+   "popularity": 4.3036,
+   "poster_path": "/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-02-07",
+   "revenue": 3492,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Meet the last man standing.",
+   "title": "Blood and Bone",
+   "trailer": {
+    "key": "8pdKYIapamQ",
+    "name": "UK Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.377,
+   "vote_count": 949
+  },
   "movie:26564": {
    "backdrop_path": "/1mlfORlfu2PtZnlEB3gMKqJy7Qp.jpg",
    "budget": 0,
@@ -3410,6 +3853,153 @@
    "vote_average": 7.0,
    "vote_count": 364
   },
+  "movie:284564": {
+   "backdrop_path": "/fJ53qYWJTLOfI2x0csL1vVYfUpa.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Charly",
+     "n": "Sheri Moon Zombie"
+    },
+    {
+     "c": "Doom-Head",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "Venus Virgo",
+     "n": "Meg Foster"
+    },
+    {
+     "c": "Father Murder",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Pastor Victor",
+     "n": "Daniel Roebuck"
+    },
+    {
+     "c": "Panda Thomas",
+     "n": "Lawrence Hilton-Jacobs"
+    },
+    {
+     "c": "Roscoe Pepper",
+     "n": "Jeff Daniel Phillips"
+    },
+    {
+     "c": "Trixie",
+     "n": "Andrea Dora"
+    },
+    {
+     "c": "Cherry Bomb",
+     "n": "Ginger Lynn Allen"
+    },
+    {
+     "c": "Sister Serpent",
+     "n": "Jane Carr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob Zombie"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 284564,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five carnival workers are kidnapped and held hostage in an abandoned, Hell-like compound where they are forced to participate in a violent game, the goal of which is to survive twelve hours against a gang of sadistic clowns.",
+   "popularity": 2.7468,
+   "poster_path": "/jHkIIkP4O0vUkSACcizOPZQIiF7.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-09-15",
+   "revenue": 850419,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to hell.",
+   "title": "31",
+   "trailer": {
+    "key": "_SBHFmLkF-E",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.408,
+   "vote_count": 886
+  },
   "movie:291264": {
    "backdrop_path": "/aaSXUNaSdzRag4BlgyGJjLYGwDd.jpg",
    "budget": 0,
@@ -3780,6 +4370,137 @@
    "type": "movie",
    "vote_average": 5.323,
    "vote_count": 319
+  },
+  "movie:338964": {
+   "backdrop_path": "/lj7enxOyRXazcCIFJyCn9dLuF2V.jpg",
+   "budget": 26000000,
+   "cast": [
+    {
+     "c": "Willie Soke",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "Sunny Soke",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Marcus Skidmore",
+     "n": "Tony Cox"
+    },
+    {
+     "c": "Diane Hastings",
+     "n": "Christina Hendricks"
+    },
+    {
+     "c": "Thurman Merman",
+     "n": "Brett Kelly"
+    },
+    {
+     "c": "Regent Hastings",
+     "n": "Ryan Hansen"
+    },
+    {
+     "c": "Gina De Luca",
+     "n": "Jenny Zigrino"
+    },
+    {
+     "c": "Dorfman",
+     "n": "Jeff Skowron"
+    },
+    {
+     "c": "Alice",
+     "n": "Cristina Rosato"
+    },
+    {
+     "c": "Jolly Santa",
+     "n": "Mike Starr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mark Waters"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 338964,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fueled by cheap whiskey, greed and hatred, Willie Soke teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie's sliver of humanity. Issues arise when the pair are joined by Willie's horror story of a mother, who raises the bar for the gang's ambitions, while somehow lowering the standards of criminal behavior.",
+   "popularity": 2.7904,
+   "poster_path": "/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-11-23",
+   "revenue": 24100000,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Giving the holidays another shot.",
+   "title": "Bad Santa 2",
+   "trailer": {
+    "key": "8anWq67nXhY",
+    "name": "Bad Santa 2 Official Red Band Trailer #2 (2016) - Broad Green Pictures",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 903
   },
   "movie:351964": {
    "backdrop_path": "/aPmag8IunegXgwDxkcdPLmOvadk.jpg",
@@ -4358,6 +5079,345 @@
    "type": "movie",
    "vote_average": 6.113,
    "vote_count": 407
+  },
+  "movie:44564": {
+   "backdrop_path": "/fgA9yAUvGBiuCQDOvGUbhMIofad.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Ronny Valentine",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Nick Brannen",
+     "n": "Kevin James"
+    },
+    {
+     "c": "Geneva Brannen",
+     "n": "Winona Ryder"
+    },
+    {
+     "c": "Beth",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Dana",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Zip",
+     "n": "Channing Tatum"
+    },
+    {
+     "c": "Herbert Trimpy",
+     "n": "Clint Howard"
+    },
+    {
+     "c": "Burt",
+     "n": "Rance Howard"
+    },
+    {
+     "c": "Sue",
+     "n": "Laura Whyte"
+    },
+    {
+     "c": "Diane Popovich",
+     "n": "Amy Morton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 44564,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Longtime friends Ronny and Nick are partners in an auto-design firm. They are hard at work on a presentation for a dream project that would really launch their company. Then Ronny spots Nick's wife out with another man, and in the process of investigating the possible affair, he learns that Nick has a few secrets of his own. As the presentation nears, Ronny agonizes over what might happen if the truth gets out.",
+   "popularity": 1.9998,
+   "poster_path": "/a7EVBTqeh6NoCFDW24qIp11kyi9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-01-13",
+   "revenue": 67112664,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two best friends. Nothing could come between them... or could it?",
+   "title": "The Dilemma",
+   "trailer": {
+    "key": "0WK6cYefv2I",
+    "name": "The Dilemma - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.4,
+   "vote_count": 955
+  },
+  "movie:4464": {
+   "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+   "budget": 87000000,
+   "cast": [
+    {
+     "c": "Red Pollard",
+     "n": "Tobey Maguire"
+    },
+    {
+     "c": "Narrator",
+     "n": "David McCullough"
+    },
+    {
+     "c": "Charles Howard",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Tom Smith",
+     "n": "Chris Cooper"
+    },
+    {
+     "c": "Marcela Howard",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "George Woolf",
+     "n": "Gary L. Stevens"
+    },
+    {
+     "c": "Samuel D. Riddle",
+     "n": "Eddie Jones"
+    },
+    {
+     "c": "Tick Tock McGlaughlin",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Dutch Doogan",
+     "n": "Royce D. Applegate"
+    },
+    {
+     "c": "Charley Kurtsinger",
+     "n": "Chris McCarron"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gary Ross"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 4464,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+   "popularity": 3.1695,
+   "poster_path": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-07-22",
+   "revenue": 148300000,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The hopes of a nation rode on a long shot.",
+   "title": "Seabiscuit",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.068,
+   "vote_count": 980
   },
   "movie:45964": {
    "backdrop_path": "/3dK12SaczU7Tf8btq7K2F5HQg6F.jpg",
@@ -5820,6 +6880,103 @@
    "vote_average": 5.547,
    "vote_count": 468
   },
+  "movie:83564": {
+   "backdrop_path": "/yJAQSaH6L2TIpF23ojGiBxtbVJJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Papà (voice)",
+     "n": "Tony Fucile"
+    },
+    {
+     "c": "Bambino (voice)",
+     "n": "Krista Sheffler"
+    },
+    {
+     "c": "Nonno (voice)",
+     "n": "Phil Sheridan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Enrico Casarosa"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 83564,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young boy comes of age in the most peculiar of circumstances. Tonight is the very first time his Papa and Grandpa are taking him to work. In an old wooden boat they row far out to sea, and with no land in sight, they stop and wait. A big surprise awaits the boy as he discovers his family's most unusual line of work. Should he follow the example of his Papa, or his Grandpa? Will he be able to find his own way in the midst of their conflicting opinions and timeworn traditions?",
+   "popularity": 1.1609,
+   "poster_path": "/9euW64JUgFlA7fxN8lAmwK6gUaQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-06-22",
+   "revenue": 0,
+   "runtime": 7,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "La luna",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.785,
+   "vote_count": 878
+  },
   "movie:840464": {
    "backdrop_path": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
    "budget": 90000000,
@@ -6073,6 +7230,115 @@
    "type": "movie",
    "vote_average": 4.6,
    "vote_count": 352
+  },
+  "movie:881164": {
+   "backdrop_path": "/254iY5CzFzjnjkP0lUkLpOLvXar.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Loretta McLaughlin",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Jean Cole",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Jack Maclaine",
+     "n": "Chris Cooper"
+    },
+    {
+     "c": "Detective Conley",
+     "n": "Alessandro Nivola"
+    },
+    {
+     "c": "Detective Deline",
+     "n": "Rory Cochrane"
+    },
+    {
+     "c": "Albert DeSalvo",
+     "n": "David Dastmalchian"
+    },
+    {
+     "c": "Eddie Corsetti",
+     "n": "Peter Gerety"
+    },
+    {
+     "c": "Eddie Holland",
+     "n": "Robert John Burke"
+    },
+    {
+     "c": "Daniel Marsh",
+     "n": "Ryan Winkles"
+    },
+    {
+     "c": "James McLaughlin",
+     "n": "Morgan Spector"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matt Ruskin"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller",
+    "History"
+   ],
+   "id": 881164,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Reporters Loretta McLaughlin and Jean Cole bravely pursue the story of the Boston Strangler at great personal risk, putting their own lives on the line in their quest to uncover the truth.",
+   "popularity": 2.8755,
+   "poster_path": "/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-03-16",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Inspired by a true story",
+   "title": "Boston Strangler",
+   "trailer": {
+    "key": "pe7ERBfYFIE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.625,
+   "vote_count": 889
   },
   "movie:9264": {
    "backdrop_path": "/1EhnpDKRkxNKDpMBm8FFsYJl12j.jpg",
@@ -6344,6 +7610,159 @@
    "vote_average": 7.135,
    "vote_count": 426
   },
+  "movie:9664": {
+   "backdrop_path": "/trKRuWe6zReYFhfA8m6DdHbTWs9.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Blaine Rawlings",
+     "n": "James Franco"
+    },
+    {
+     "c": "Eddie Beagle",
+     "n": "David Ellison"
+    },
+    {
+     "c": "Capt. Thenault",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "William Jensen",
+     "n": "Philip Winchester"
+    },
+    {
+     "c": "Mr. Jensen",
+     "n": "Todd Boyce"
+    },
+    {
+     "c": "Sheriff Detweiller",
+     "n": "Mac McDonald"
+    },
+    {
+     "c": "Eugene Skinner",
+     "n": "Abdul Salis"
+    },
+    {
+     "c": "Mrs. Jensen",
+     "n": "Karen Ford"
+    },
+    {
+     "c": "Cinema Usher",
+     "n": "Scott Hazell"
+    },
+    {
+     "c": "Laura",
+     "n": "Ruth Bradley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tony Bill"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 9664,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of the Lafayette Escadrille, young Americans who volunteered for the French military before the U.S. entered World War I, and became the country's first fighter pilots.",
+   "popularity": 2.6181,
+   "poster_path": "/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-09-22",
+   "revenue": 17858059,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "When the world first went to war, they were the first to fly.",
+   "title": "Flyboys",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.516,
+   "vote_count": 895
+  },
   "movie:973164": {
    "backdrop_path": "/nkq7W9EHb4Moj7lSzDiW6uBMedq.jpg",
    "budget": 0,
@@ -6409,6 +7828,121 @@
    "type": "movie",
    "vote_average": 7.373,
    "vote_count": 385
+  },
+  "movie:9964": {
+   "backdrop_path": "/HUnVuk7xCe9bZE5YZcVwMV8xea.jpg",
+   "budget": 25000,
+   "cast": [
+    {
+     "c": "Ozzy / 3rd Class Alien",
+     "n": "Terry Potter"
+    },
+    {
+     "c": "Barry / 3rd Class Alien",
+     "n": "Pete O'Herne"
+    },
+    {
+     "c": "Giles / 3rd Class Alien",
+     "n": "Craig Smith"
+    },
+    {
+     "c": "Frank / 3rd Class Alien",
+     "n": "Mike Minett"
+    },
+    {
+     "c": "Derek / Robert",
+     "n": "Peter Jackson"
+    },
+    {
+     "c": "Alien Leader",
+     "n": "Doug Wren"
+    },
+    {
+     "c": "Alien Leader (voice)",
+     "n": "Peter Vere-Jones"
+    },
+    {
+     "c": "3rd Class Alien",
+     "n": "Ken Hammon"
+    },
+    {
+     "c": "3rd Class Alien",
+     "n": "Robin Griggs"
+    },
+    {
+     "c": "3rd Class Alien",
+     "n": "Michael Gooch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 9964,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "NZ"
+   ],
+   "original_language": "en",
+   "overview": "A team from the intergalactic fast food chain Crumb's Crunchy Delights descends on Earth, planning to make human flesh the newest taste sensation. After they wipe out the New Zealand town Kaihoro, the country’s Astro-Investigation and Defense Service (AIaDS) is called in to deal with the problem. Things are complicated due to Giles, an aid worker who comes to Kaihoro the same day to collect change from the residents. He is captured by the aliens, and AIaDS stages a rescue mission that quickly becomes an all-out assault on the aliens’ headquarters.",
+   "popularity": 2.0055,
+   "poster_path": "/msttMX3undIiaeJLZbMRq94v1bw.jpg",
+   "production_countries": [
+    "NZ"
+   ],
+   "providers": [
+    {
+     "name": "History Vault"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5VGoQun874KipwsAgtc8eagtIkc.png",
+     "name": "History Vault",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1987-12-11",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Watch out Aliens... here comes Derek!",
+   "title": "Bad Taste",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.268,
+   "vote_count": 967
   },
   "tv:124364": {
    "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",

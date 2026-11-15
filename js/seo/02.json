@@ -1,6 +1,6 @@
 {
  "bucket": "02",
- "count": 55,
+ "count": 63,
  "titles": {
   "movie:10002": {
    "d": "Mona Lisa (1986): Crime/Drama film. Story: George is a small-time crook just out of prison who… See cast, TMDB rating 6.9/10, and release date 13 June 1986.",
@@ -66,6 +66,69 @@
    "t": "Mona Lisa (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
   },
+  "movie:11302": {
+   "d": "Bananas (1971): Comedy film. Story: When a bumbling New Yorker is dumped by his activist… See cast, budget $2M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bnJrWEST2YVuWfZiYP4owjXpjwq.jpg",
+   "industry": "world",
+   "k": "Bananas, Bananas movie, Bananas cast, Bananas story, Bananas box office collection, Bananas budget, Bananas review, Bananas rating, Bananas release date, Bananas Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Woody Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Louise Lasser"
+     },
+     {
+      "@type": "Person",
+      "name": "Carlos Montalbán"
+     },
+     {
+      "@type": "Person",
+      "name": "Nati Abascal"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacobo Morales"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 859,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Bananas (1971): Comedy film. Story: When a bumbling New Yorker is dumped by his activist… See cast, budget $2M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Woody Allen"
+     }
+    ],
+    "duration": "PT82M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bnJrWEST2YVuWfZiYP4owjXpjwq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11302",
+    "name": "Bananas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1971-04-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11302"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bananas (1971)</h1>\n<p class=\"ssr-lead\">When a bumbling New Yorker is dumped by his activist girlfriend, he travels to a tiny Latin American nation and becomes involved in its latest rebellion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 April 1971</li><li>Runtime: 82 minutes</li><li>Director: Woody Allen</li><li>Genres: Comedy</li><li>Budget: $2M</li><li>TMDB rating: 6.7/10 (859 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Woody Allen as Fielding Mellish</li><li>Louise Lasser as Nancy</li><li>Carlos Montalbán as General Emilio M. Vargas</li><li>Nati Abascal as Yolanda</li><li>Jacobo Morales as Esposito</li><li>Miguel Ángel Suárez as Luis</li><li>René Enríquez as Diaz</li><li>Jack Axelrod as Arroyo</li><li>Howard Cosell as Himself</li><li>Charlotte Rae as Mrs. Ruth Mellish</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Bananas (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1971"
+  },
   "movie:11502": {
    "d": "Knife in the Water (1962): Drama/Thriller film. Story: On their way to an afternoon on the lake, husband and… See cast and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
@@ -130,6 +193,70 @@
    "t": "Knife in the Water (1962) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1962"
   },
+  "movie:11902": {
+   "d": "Underground (1995): Comedy/Drama film. Story: Black marketeers Marko and Blacky manufacture and… See cast, budget $14M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6ETx15gNiiAjpBjwIUqN1LdJMKH.jpg",
+   "industry": "world",
+   "k": "Underground, Underground movie, Underground cast, Underground story, Underground box office collection, Underground budget, Underground review, Underground rating, Underground release date, Underground trailer, Underground Comedy, Underground Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Predrag 'Miki' Manojlović"
+     },
+     {
+      "@type": "Person",
+      "name": "Lazar Ristovski"
+     },
+     {
+      "@type": "Person",
+      "name": "Mirjana Joković"
+     },
+     {
+      "@type": "Person",
+      "name": "Slavko Štimac"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernst Stötzner"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 823,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Underground (1995): Comedy/Drama film. Story: Black marketeers Marko and Blacky manufacture and… See cast, budget $14M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Emir Kusturica"
+     }
+    ],
+    "duration": "PT170M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6ETx15gNiiAjpBjwIUqN1LdJMKH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11902",
+    "name": "Underground",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-10-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11902"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Underground (1995)</h1>\n<p class=\"ssr-lead\">Black marketeers Marko and Blacky manufacture and sell weapons to the Communist resistance in WWII Belgrade, living the good life along the way. Marko&#x27;s surreal duplicity propels him up the ranks of the Communist Party, and he eventually abandons Blacky and steals his girlfriend. After a lengthy stay in a below-ground shelter, the couple reemerges during the Yugoslav Civil War of the 1990s as Marko sees the opportunity to exploit the situation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 October 1995</li><li>Runtime: 170 minutes</li><li>Director: Emir Kusturica</li><li>Genres: Comedy, Drama, War</li><li>Budget: $14M</li><li>TMDB rating: 7.7/10 (823 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Predrag &#x27;Miki&#x27; Manojlović as Marko Dren</li><li>Lazar Ristovski as Petar &#x27;Crni&#x27; Popara</li><li>Mirjana Joković as Natalija Zovkov</li><li>Slavko Štimac as Ivan Dren</li><li>Ernst Stötzner as Franz</li><li>Srđan &#x27;Žika&#x27; Todorović as Jovan Popara</li><li>Mirjana Karanović as Vera</li><li>Milena Pavlović Čučilović as Jelena</li><li>Danilo &#x27;Bata&#x27; Stojković as Deda</li><li>Borivoje Todorović as Golub</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Kino Film Collection</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Underground (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
   "movie:12502": {
    "d": "Silkwood (1983): Drama film. Story: Like most of the people in her town, Karen Silkwood… See cast, budget $10M, and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/1UHZ53y6dcfPElyuQ5UkqgAxwHi.jpg",
@@ -192,6 +319,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Silkwood (1983)</h1>\n<p class=\"ssr-lead\">Like most of the people in her town, Karen Silkwood works at the local nuclear plant producing highly radioactive plutonium. Exposed one day to a lethal dose of radiation, Karen faces the blank walls of corporate indifference and denial. As her illness increases, her protest grows louder and she becomes an obvious danger to the powers that be.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 1983</li><li>Runtime: 131 minutes</li><li>Director: Mike Nichols</li><li>Genres: Drama</li><li>Budget: $10M</li><li>TMDB rating: 6.9/10 (369 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Meryl Streep as Karen Silkwood</li><li>Kurt Russell as Drew Stephens</li><li>Cher as Dolly Pelliker</li><li>Craig T. Nelson as Winston</li><li>Fred Ward as Morgan</li><li>Diana Scarwid as Angela</li><li>Ron Silver as Paul Stone</li><li>Charles Hallahan as Earl Lapin</li><li>Josef Sommer as Max Richter</li><li>Sudie Bond as Thelma Rice</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Silkwood (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
+  },
+  "movie:1259102": {
+   "d": "Eternity (2025): Romance/Comedy film. Story: In an afterlife where souls have one week to decide… See cast, budget $12M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+   "industry": "world",
+   "k": "Eternity, Eternity movie, Eternity cast, Eternity story, Eternity box office collection, Eternity budget, Eternity review, Eternity rating, Eternity release date, Eternity trailer, Eternity Romance, Eternity Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elizabeth Olsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Miles Teller"
+     },
+     {
+      "@type": "Person",
+      "name": "Callum Turner"
+     },
+     {
+      "@type": "Person",
+      "name": "Da'Vine Joy Randolph"
+     },
+     {
+      "@type": "Person",
+      "name": "John Early"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 926,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Eternity (2025): Romance/Comedy film. Story: In an afterlife where souls have one week to decide… See cast, budget $12M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Freyne"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1259102",
+    "name": "Eternity",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-11-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1259102"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Eternity (2025)</h1>\n<p class=\"ssr-lead\">In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 November 2025</li><li>Runtime: 114 minutes</li><li>Director: David Freyne</li><li>Genres: Romance, Comedy, Drama</li><li>Budget: $12M</li><li>TMDB rating: 7.1/10 (926 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elizabeth Olsen as Joan</li><li>Miles Teller as Larry</li><li>Callum Turner as Luke</li><li>Da&#x27;Vine Joy Randolph as Anna</li><li>John Early as Ryan</li><li>Barry Primus as Older Larry</li><li>Betty Buckley as Older Joan</li><li>Darryl Scheelar as Man in Car</li><li>Danny Mac as Sam</li><li>Damon Johnson as Zach</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Eternity (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:12702": {
    "d": "Critters 3 (1991): Comedy/Horror film. Story: As fanged, furious furballs viciously invade an L.A. See cast and TMDB rating 5.3/10.",
@@ -880,6 +1071,70 @@
    "t": "Ariel (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:24402": {
+   "d": "Emmanuelle (1974): Drama/Romance film. Story: An employee at the French Embassy in Bangkok invites… See cast, budget $500.0k, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yKsMX3Ril4FVNHJKZukuDe7JemW.jpg",
+   "industry": "world",
+   "k": "Emmanuelle, Emmanuelle movie, Emmanuelle cast, Emmanuelle story, Emmanuelle box office collection, Emmanuelle budget, Emmanuelle review, Emmanuelle rating, Emmanuelle release date, Emmanuelle Drama, Emmanuelle Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sylvia Kristel"
+     },
+     {
+      "@type": "Person",
+      "name": "Alain Cuny"
+     },
+     {
+      "@type": "Person",
+      "name": "Marika Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Sarky"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeanne Colletin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 849,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Emmanuelle (1974): Drama/Romance film. Story: An employee at the French Embassy in Bangkok invites… See cast, budget $500.0k, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Just Jaeckin"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yKsMX3Ril4FVNHJKZukuDe7JemW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24402",
+    "name": "Emmanuelle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1974-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24402"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Emmanuelle (1974)</h1>\n<p class=\"ssr-lead\">An employee at the French Embassy in Bangkok invites his wife to join him – and enjoy the benefits of their open marriage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 1974</li><li>Runtime: 95 minutes</li><li>Director: Just Jaeckin</li><li>Genres: Drama, Romance</li><li>Budget: $500.0k</li><li>TMDB rating: 6.0/10 (849 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sylvia Kristel as Emmanuelle</li><li>Alain Cuny as Mario</li><li>Marika Green as Bee</li><li>Daniel Sarky as Jean</li><li>Jeanne Colletin as Ariana</li><li>Christine Boisson as Marie-Ange</li><li>Gabriel Briand as Le deuxième homme dans l&#x27;avion</li><li>Marion Webb</li><li>Gregory</li><li>Yves Rousset-Rouard as Yves (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Film Movement Plus</li><li>Rent: Fandango At Home</li><li>Buy: Fandango At Home</li></ul>\n</article>",
+   "t": "Emmanuelle (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1974"
+  },
   "movie:25602": {
    "d": "Ninja (2009): Action/Crime film. Story: A westerner named Casey, studying Ninjutsu in Japan… See cast, budget $10M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/zOau05zQVXB0XIhJ0WUslHHBOh6.jpg",
@@ -1134,6 +1389,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cut Bank (2014)</h1>\n<p class=\"ssr-lead\">25-year-old Dwayne McLaren, a former athlete turned auto mechanic, dreams of getting out of tiny Cut Bank, Montana the coldest town in America. But his effort to do so sets in motion a deadly series of events that change his life and the life of the town forever...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 October 2014</li><li>Runtime: 94 minutes</li><li>Director: Matt Shakman</li><li>Genres: Crime, Drama, Mystery, Thriller</li><li>Budget: $5M</li><li>TMDB rating: 5.8/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Hemsworth as Dwayne McLaren</li><li>Teresa Palmer as Cassandra Steeley</li><li>John Malkovich as Sheriff Vogel</li><li>Bruce Dern as Georgie Wits</li><li>Billy Bob Thornton as Stan Steeley</li><li>Michael Stuhlbarg as Derby Milton</li><li>Oliver Platt as Joe Barrett</li><li>Ty Olsson as Harvey</li><li>Peyton Kennedy as Rosie</li><li>Marie Zydek as Nurse (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, FlixFling</li></ul>\n</article>",
    "t": "Cut Bank (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:302": {
+   "d": "Swimming Pool (2003): Crime/Thriller film. Story: A British crime novelist travels to her publisher's… See cast, budget $7.8M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
+   "industry": "world",
+   "k": "Swimming Pool, Swimming Pool movie, Swimming Pool cast, Swimming Pool story, Swimming Pool box office collection, Swimming Pool budget, Swimming Pool review, Swimming Pool rating, Swimming Pool release date, Swimming Pool Crime, Swimming Pool Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlotte Rampling"
+     },
+     {
+      "@type": "Person",
+      "name": "Ludivine Sagnier"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Dance"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Fayolle"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean-Marie Lamour"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 833,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Swimming Pool (2003): Crime/Thriller film. Story: A British crime novelist travels to her publisher's… See cast, budget $7.8M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "François Ozon"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=302",
+    "name": "Swimming Pool",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-05-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=302"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Swimming Pool (2003)</h1>\n<p class=\"ssr-lead\">A British crime novelist travels to her publisher&#x27;s upmarket summer house in Southern France to seek solitude in order to work on her next book. However, the unexpected arrival of the publisher&#x27;s daughter induces complications and a subsequent crime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 2003</li><li>Runtime: 102 minutes</li><li>Director: François Ozon</li><li>Genres: Crime, Thriller</li><li>Budget: $7.8M</li><li>TMDB rating: 6.5/10 (833 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlotte Rampling as Sarah Morton</li><li>Ludivine Sagnier as Julie</li><li>Charles Dance as John Bosload</li><li>Marc Fayolle as Marcel</li><li>Jean-Marie Lamour as Franck</li><li>Mireille Mossé as Marcel&#x27;s Daughter</li><li>Michel Fau as First Man</li><li>Jean-Claude Lecas as Second Man</li><li>Émilie Gavois-Kahn as Waitress at Cafe</li><li>Erarde Forestali as Old Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Swimming Pool (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
   },
   "movie:309302": {
    "d": "Wolf Totem (2015): Adventure/Drama film. Story: In 1969, a young Beijing student, Chen Zhen, is sent… See cast, budget $38M, and TMDB rating 6.5/10.",
@@ -1517,6 +1836,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Little Lord Fauntleroy (1980)</h1>\n<p class=\"ssr-lead\">Young Cedric Errol and his widowed mother live in genteel poverty in 1880s Brooklyn after the death of his father. Cedric&#x27;s grandfather, the Earl of Dorincourt, has long ago disowned his son for marrying an American. But after the death of the Earl&#x27;s remaining son, he decides to accept Cedric as his heir.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 1980</li><li>Runtime: 103 minutes</li><li>Director: Jack Gold</li><li>Genres: Family, Drama, TV Movie</li><li>Budget: $6M</li><li>TMDB rating: 7.3/10 (326 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ricky Schroder as Cedric Errol / Lord Fauntleroy</li><li>Alec Guinness as Earl of Dorincourt</li><li>Eric Porter as Mr. Havisham</li><li>Colin Blakely as Silas Hobbs</li><li>Connie Booth as Mrs. Errol</li><li>Rachel Kempson as Lady Lorradaile</li><li>Gerry Cowper as Mellon</li><li>Barry Jackson as Hustings</li><li>Antonia Pemberton as Mrs. Dawson</li><li>John Southworth as Higgins</li></ul>\n</article>",
    "t": "Little Lord Fauntleroy (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
+  },
+  "movie:3902": {
+   "d": "I'm Not There (2007): Drama/Music film. Story: Six actors portray six personas of music legend Bob… See cast, budget $20M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hXGZv8TAFP52jxIZLdIDCVmPJBQ.jpg",
+   "industry": "world",
+   "k": "I'm Not There, I'm Not There movie, I'm Not There cast, I'm Not There story, I'm Not There box office collection, I'm Not There budget, I'm Not There review, I'm Not There rating, I'm Not There release date, I'm Not There trailer, I'm Not There Drama, I'm Not There Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Bale"
+     },
+     {
+      "@type": "Person",
+      "name": "Cate Blanchett"
+     },
+     {
+      "@type": "Person",
+      "name": "Marcus Carl Franklin"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Gere"
+     },
+     {
+      "@type": "Person",
+      "name": "Heath Ledger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 814,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "I'm Not There (2007): Drama/Music film. Story: Six actors portray six personas of music legend Bob… See cast, budget $20M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Todd Haynes"
+     }
+    ],
+    "duration": "PT135M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hXGZv8TAFP52jxIZLdIDCVmPJBQ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3902",
+    "name": "I'm Not There",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3902"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;m Not There (2007)</h1>\n<p class=\"ssr-lead\">Six actors portray six personas of music legend Bob Dylan in scenes depicting various stages of his life, chronicling his rise from unknown folksinger to international icon and revealing how Dylan constantly reinvented himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2007</li><li>Runtime: 135 minutes</li><li>Director: Todd Haynes</li><li>Genres: Drama, Music</li><li>Budget: $20M</li><li>TMDB rating: 6.5/10 (814 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Bale as Jack / Pastor John</li><li>Cate Blanchett as Jude</li><li>Marcus Carl Franklin as Woody / Chaplin Boy</li><li>Richard Gere as Billy</li><li>Heath Ledger as Robbie</li><li>Ben Whishaw as Arthur</li><li>Charlotte Gainsbourg as Claire</li><li>David Cross as Allen Ginsberg</li><li>Bruce Greenwood as Keenan Jones / Garrett</li><li>Julianne Moore as Alice Fabian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, Starz Amazon Channel, Lionsgate+ Amazon Channel, Starz, Starz Apple TV channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "I'm Not There (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:444902": {
    "d": "Dirty Dancing (2017): Drama/Romance film. Story: Spending the summer at a Catskills resort with her… See cast, budget $6M, and TMDB rating 5.5/10.",
@@ -2156,6 +2539,70 @@
    "t": "A Week Away (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:75802": {
+   "d": "Hysteria (2011): Comedy/Romance film. Story: Two doctors in Victorian England use manual… See cast, TMDB rating 6.7/10, and release date 6 June 2011.",
+   "img": "https://image.tmdb.org/t/p/w780/8DPxvLQGXXd96q59rd5mllgOqVo.jpg",
+   "industry": "world",
+   "k": "Hysteria, Hysteria movie, Hysteria cast, Hysteria story, Hysteria box office collection, Hysteria budget, Hysteria review, Hysteria rating, Hysteria release date, Hysteria trailer, Hysteria Comedy, Hysteria Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maggie Gyllenhaal"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Dancy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Pryce"
+     },
+     {
+      "@type": "Person",
+      "name": "Felicity Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Everett"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 899,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Hysteria (2011): Comedy/Romance film. Story: Two doctors in Victorian England use manual… See cast, TMDB rating 6.7/10, and release date 6 June 2011.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tanya Wexler"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8DPxvLQGXXd96q59rd5mllgOqVo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=75802",
+    "name": "Hysteria",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=75802"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hysteria (2011)</h1>\n<p class=\"ssr-lead\">Two doctors in Victorian England use manual stimulation of female genitalia to cure their patients&#x27; ills, leading to the invention of the vibrator.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 June 2011</li><li>Runtime: 100 minutes</li><li>Director: Tanya Wexler</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.7/10 (899 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maggie Gyllenhaal as Charlotte Dalrymple</li><li>Hugh Dancy as Dr. Mortimer Granville</li><li>Jonathan Pryce as Dr. Robert Dalrymple</li><li>Felicity Jones as Emily Dalrymple</li><li>Rupert Everett as Lord Edmund St. John-Smythe</li><li>Ashley Jensen as Fanny</li><li>Sheridan Smith as Molly the Lolly</li><li>Gemma Jones as Lady St. John-Smythe</li><li>Tobias Menzies as Mr. Squyers</li><li>Malcolm Rennie as Lord St. John-Smythe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Hysteria (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:759902": {
    "d": "Hunter Hunter (2022): Horror/Thriller film. Story: A fur trapper leaves his wife and daughter behind to… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/4obIhFZBUxn0aRL1hO1wMyPca8o.jpg",
@@ -2347,6 +2794,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Monkey King (2023)</h1>\n<p class=\"ssr-lead\">A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 July 2023</li><li>Runtime: 92 minutes</li><li>Director: Anthony Stacchi</li><li>Genres: Animation, Fantasy, Adventure, Family, Comedy</li><li>TMDB rating: 6.5/10 (378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jimmy O. Yang as Monkey King (voice)</li><li>Bowen Yang as Dragon King (voice)</li><li>Jolie Hoang-Rappaport as Lin (voice)</li><li>Jo Koy as Benbo (voice)</li><li>Ron Yuan as Babbo (voice)</li><li>Nan Li as Stick (voice)</li><li>Andrew Pang as The Mayor (voice)</li><li>Stephanie Hsu as Mayor&#x27;s Wife (voice)</li><li>Sophie Wu as Red Girl / Child Monkey (voice)</li><li>Hoon Lee as Jade Emperor / Monk (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Monkey King (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:925102": {
+   "d": "The Night of the 12th (2022): Crime/Mystery film. Story: Young and ambitious Captain Vivés has just been… See cast and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gCOe0ZSGgfsHob7gdg2xQANwTAD.jpg",
+   "industry": "world",
+   "k": "The Night of the 12th, The Night of the 12th movie, The Night of the 12th cast, The Night of the 12th story, The Night of the 12th box office collection, The Night of the 12th budget, The Night of the 12th review, The Night of the 12th rating, The Night of the 12th release date, The Night of the 12th trailer, The Night of the 12th Crime, The Night of the 12th Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bastien Bouillon"
+     },
+     {
+      "@type": "Person",
+      "name": "Bouli Lanners"
+     },
+     {
+      "@type": "Person",
+      "name": "Anouk Grinberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Mouna Soualem"
+     },
+     {
+      "@type": "Person",
+      "name": "Pauline Serieys"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 813,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "The Night of the 12th (2022): Crime/Mystery film. Story: Young and ambitious Captain Vivés has just been… See cast and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dominik Moll"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Crime",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gCOe0ZSGgfsHob7gdg2xQANwTAD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=925102",
+    "name": "The Night of the 12th",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-07-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=925102"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Night of the 12th (2022)</h1>\n<p class=\"ssr-lead\">Young and ambitious Captain Vivés has just been appointed group leader at the Grenoble Criminal Squad when Clara&#x27;s murder case lands on his desk. Vivés and his team investigate Clara&#x27;s complex life and relations, but what starts as a professional and methodical immersion into the victim&#x27;s life soon turns into a haunting obsession.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 July 2022</li><li>Runtime: 114 minutes</li><li>Director: Dominik Moll</li><li>Genres: Crime, Mystery, Drama</li><li>TMDB rating: 6.9/10 (813 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bastien Bouillon as Yohan Vivès</li><li>Bouli Lanners as Marceau</li><li>Anouk Grinberg as La juge d&#x27;instruction</li><li>Mouna Soualem as Nadia</li><li>Pauline Serieys as Nanie</li><li>Théo Cholbi as Willy</li><li>Johann Dionnet as Fred</li><li>Thibaut Évrard as Loïc</li><li>Julien Frison as Boris</li><li>Paul Jeanson as Jérôme</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus, France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Night of the 12th (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:931102": {
    "d": "Ride On (2023): Action/Comedy film. Story: A washed-up stuntman and his stunt horse become an… See cast, TMDB rating 7.1/10, and release date 7 April 2023.",

@@ -1,7 +1,71 @@
 {
  "bucket": "06",
- "count": 65,
+ "count": 72,
  "titles": {
+  "movie:10206": {
+   "d": "Buffy the Vampire Slayer (1992): Action/Comedy film. Story: Blonde, bouncy Buffy is your typical high school… See cast, budget $7M, and TMDB rating 5.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
+   "industry": "world",
+   "k": "Buffy the Vampire Slayer, Buffy the Vampire Slayer movie, Buffy the Vampire Slayer cast, Buffy the Vampire Slayer story, Buffy the Vampire Slayer box office collection, Buffy the Vampire Slayer budget, Buffy the Vampire Slayer review, Buffy the Vampire Slayer rating, Buffy the Vampire Slayer release date, Buffy the Vampire Slayer Action, Buffy the Vampire Slayer Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristy Swanson"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Sutherland"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Reubens"
+     },
+     {
+      "@type": "Person",
+      "name": "Rutger Hauer"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Perry"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 960,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Buffy the Vampire Slayer (1992): Action/Comedy film. Story: Blonde, bouncy Buffy is your typical high school… See cast, budget $7M, and TMDB rating 5.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fran Rubel Kuzui"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10206",
+    "name": "Buffy the Vampire Slayer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-07-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10206"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Buffy the Vampire Slayer (1992)</h1>\n<p class=\"ssr-lead\">Blonde, bouncy Buffy is your typical high school cheerleader. But all that changes when a strange man informs her she&#x27;s been chosen by fate to kill vampires.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 July 1992</li><li>Runtime: 85 minutes</li><li>Director: Fran Rubel Kuzui</li><li>Genres: Action, Comedy, Horror</li><li>Budget: $7M</li><li>TMDB rating: 5.6/10 (960 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristy Swanson as Buffy Summers</li><li>Donald Sutherland as Merrick Jamison-Smythe</li><li>Paul Reubens as Amilyn</li><li>Rutger Hauer as Lothos</li><li>Luke Perry as Oliver Pike</li><li>Hilary Swank as Kimberly Hannah</li><li>Michele Abrams as Jennifer</li><li>David Arquette as Benny</li><li>Natasha Gregson Wagner as Cassandra</li><li>Thomas Jane as Zeph</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Buffy the Vampire Slayer (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:10606": {
    "d": "The Philadelphia Experiment (1984): Science Fiction/Adventure film. Story: Based on an \"actual event\" that took place in 1943. See cast and budget $9M.",
    "img": "https://image.tmdb.org/t/p/w780/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Philadelphia Experiment (1984)</h1>\n<p class=\"ssr-lead\">Based on an &quot;actual event&quot; that took place in 1943. About a US Navy Destroyer Escort that disappeared from the Philadelphia Naval Shipyard, and sent two men 40 years into the future to 1984.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 October 1984</li><li>Runtime: 102 minutes</li><li>Director: Stewart Raffill</li><li>Genres: Science Fiction, Adventure, Thriller</li><li>Budget: $9M</li><li>TMDB rating: 6.1/10 (480 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Paré as David Herdeg</li><li>Nancy Allen as Allison Hayes</li><li>Eric Christmas as Dr. James Longstreet</li><li>Bobby Di Cicco as Jim Parker</li><li>Louise Latham as Pamela</li><li>Kene Holliday as Major Clark</li><li>Joe Dorsey as Sheriff Bates</li><li>Michael Currie as Magnussen</li><li>Stephen Tobolowsky as Barney</li><li>Gary Brockette as Adjutant / Andrews</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Google Play Movies, YouTube</li><li>Buy: Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "The Philadelphia Experiment (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
+  },
+  "movie:11006": {
+   "d": "Smokey and the Bandit (1977): Action/Adventure film. Story: A race car driver tries to transport an illegal beer… See cast and budget $4.3M.",
+   "img": "https://image.tmdb.org/t/p/w780/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg",
+   "industry": "world",
+   "k": "Smokey and the Bandit, Smokey and the Bandit movie, Smokey and the Bandit cast, Smokey and the Bandit story, Smokey and the Bandit box office collection, Smokey and the Bandit budget, Smokey and the Bandit review, Smokey and the Bandit rating, Smokey and the Bandit release date, Smokey and the Bandit Action, Smokey and the Bandit Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Burt Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Sally Field"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerry Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Henry"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 850,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Smokey and the Bandit (1977): Action/Adventure film. Story: A race car driver tries to transport an illegal beer… See cast and budget $4.3M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Hal Needham"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11006",
+    "name": "Smokey and the Bandit",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1977-05-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11006"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Smokey and the Bandit (1977)</h1>\n<p class=\"ssr-lead\">A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 May 1977</li><li>Runtime: 96 minutes</li><li>Director: Hal Needham</li><li>Genres: Action, Adventure, Comedy</li><li>Budget: $4.3M</li><li>TMDB rating: 7.0/10 (850 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Burt Reynolds as Bandit</li><li>Sally Field as Carrie</li><li>Jerry Reed as Cledus</li><li>Mike Henry as Junior</li><li>Paul Williams as Little Enos</li><li>Pat McCormick as Big Enos</li><li>Jackie Gleason as Buford T. Justice</li><li>Alfie Wise as Patrolman Traffic Jam</li><li>George Reynolds as Branford</li><li>Macon McCalman as Mr. B.</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Smokey and the Bandit (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1977"
   },
   "movie:11306": {
    "d": "Extreme Measures (1996): Drama/Thriller film. Story: Guy Luthan, a British doctor working at a hospital in… See cast, budget $38M, and TMDB rating 6.0/10.",
@@ -835,6 +963,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Gates (2026)</h1>\n<p class=\"ssr-lead\">Three friends on a road trip witness a murder inside a gated community, only to become trapped and hunted by its residents as suspicion, fear and a sinister patriarch threaten to tear them apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 March 2026</li><li>Runtime: 99 minutes</li><li>Director: John Burr</li><li>Genres: Thriller</li><li>TMDB rating: 7.3/10 (113 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mason Gooding as Derek</li><li>Algee Smith as Kevin</li><li>Keith Powers as Tyon</li><li>James Van Der Beek as Jacob</li><li>Brad Leland as Christopher</li><li>Kylr Coffman as Officer Bobby</li><li>Elle Evans as Elizabeth</li><li>Sofia Hublitz as Roxy</li><li>Aliyah Celeste as Julissa</li><li>Rob Gallavan as Officer Horton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Gates (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1406": {
+   "d": "City Slickers (1991): Comedy/Western film. Story: Three New York businessmen decide to take a \"Wild… See cast, budget $27M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6aavXoygR0nZP4kIKQLdaXLO3z0.jpg",
+   "industry": "world",
+   "k": "City Slickers, City Slickers movie, City Slickers cast, City Slickers story, City Slickers box office collection, City Slickers budget, City Slickers review, City Slickers rating, City Slickers release date, City Slickers trailer, City Slickers Comedy, City Slickers Western, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Billy Crystal"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruno Kirby"
+     },
+     {
+      "@type": "Person",
+      "name": "Patricia Wettig"
+     },
+     {
+      "@type": "Person",
+      "name": "Helen Slater"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 930,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "City Slickers (1991): Comedy/Western film. Story: Three New York businessmen decide to take a \"Wild… See cast, budget $27M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Underwood"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Comedy",
+     "Western"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6aavXoygR0nZP4kIKQLdaXLO3z0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1406",
+    "name": "City Slickers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-06-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1406"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>City Slickers (1991)</h1>\n<p class=\"ssr-lead\">Three New York businessmen decide to take a &quot;Wild West&quot; vacation that turns out not to be the relaxing vacation they had envisioned.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 June 1991</li><li>Runtime: 114 minutes</li><li>Director: Ron Underwood</li><li>Genres: Comedy, Western</li><li>Budget: $27M</li><li>TMDB rating: 6.5/10 (930 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Billy Crystal as Mitch Robbins</li><li>Daniel Stern as Phil Berquist</li><li>Bruno Kirby as Ed Furillo</li><li>Patricia Wettig as Barbara Robbins</li><li>Helen Slater as Bonnie Rayburn</li><li>Lindsay Crystal as Holly Robbins</li><li>Noble Willingham as Clay Stone</li><li>Jack Palance as Curly Washburn</li><li>Tracey Walter as Cookie</li><li>Josh Mostel as Barry Shalowitz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "City Slickers (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
   },
   "movie:1432706": {
    "d": "Bury the Devil (2026): Horror/Thriller film. Story: When a hospice nurse finds herself trapped with a… See cast and TMDB rating 5.7/10.",
@@ -1658,6 +1850,133 @@
    "t": "Keep Watching (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:253306": {
+   "d": "Housebound (2014): Horror/Comedy film. Story: When Kylie Bucknell is sentenced to home detention… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
+   "industry": "world",
+   "k": "Housebound, Housebound movie, Housebound cast, Housebound story, Housebound box office collection, Housebound budget, Housebound review, Housebound rating, Housebound release date, Housebound Horror, Housebound Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Morgana O'Reilly"
+     },
+     {
+      "@type": "Person",
+      "name": "Rima Te Wiata"
+     },
+     {
+      "@type": "Person",
+      "name": "Glen-Paul Waru"
+     },
+     {
+      "@type": "Person",
+      "name": "Ross Harper"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Rhodes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 956,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Housebound (2014): Horror/Comedy film. Story: When Kylie Bucknell is sentenced to home detention… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gerard Johnstone"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3haw0ndhE0MihQHvyIbU9etWpoN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=253306",
+    "name": "Housebound",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-09-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=253306"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Housebound (2014)</h1>\n<p class=\"ssr-lead\">When Kylie Bucknell is sentenced to home detention, she&#x27;s forced to come to terms with her unsociable behaviour, her blabbering mother and a hostile spirit who seems less than happy about the new living arrangement.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 2014</li><li>Runtime: 111 minutes</li><li>Director: Gerard Johnstone</li><li>Genres: Horror, Comedy, Thriller</li><li>TMDB rating: 6.6/10 (956 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Morgana O&#x27;Reilly as Kylie Bucknell</li><li>Rima Te Wiata as Miriam Bucknell</li><li>Glen-Paul Waru as Amos</li><li>Ross Harper as Graeme</li><li>Cameron Rhodes as Dennis</li><li>Millen Baird as Officer Grayson</li><li>Bruce Hopkins as Officer Carson</li><li>Ryan Lampp as Eugene</li><li>Ian Mune as Judge</li><li>Wallace Chapman as Hollis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Fandor, Fandor Amazon Channel, Screambox Amazon Channel, Midnight Pulp, Midnight Pulp Amazon Channel, Bloodstream, Cineverse Amazon Channel, ARROW</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Bloodstream</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Housebound (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:25606": {
+   "d": "Fantozzi (1975): Comedy film. Story: A good-natured but unlucky Italian is constantly… See cast, TMDB rating 7.8/10, and release date 27 March 1975.",
+   "img": "https://image.tmdb.org/t/p/w780/mrLqmBNmj5U0QCjcOQ4esB6IBF9.jpg",
+   "industry": "world",
+   "k": "Fantozzi, Fantozzi movie, Fantozzi cast, Fantozzi story, Fantozzi box office collection, Fantozzi budget, Fantozzi review, Fantozzi rating, Fantozzi release date, Fantozzi Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paolo Villaggio"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Mazzamauro"
+     },
+     {
+      "@type": "Person",
+      "name": "Gigi Reder"
+     },
+     {
+      "@type": "Person",
+      "name": "Giuseppe Anatrelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Umberto D'Orsi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 908,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Fantozzi (1975): Comedy film. Story: A good-natured but unlucky Italian is constantly… See cast, TMDB rating 7.8/10, and release date 27 March 1975.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luciano Salce"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mrLqmBNmj5U0QCjcOQ4esB6IBF9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=25606",
+    "name": "Fantozzi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-03-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=25606"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fantozzi (1975)</h1>\n<p class=\"ssr-lead\">A good-natured but unlucky Italian is constantly finding himself in difficult situations, but never losing his mood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 1975</li><li>Runtime: 108 minutes</li><li>Director: Luciano Salce</li><li>Genres: Comedy</li><li>TMDB rating: 7.8/10 (908 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paolo Villaggio as Ugo Fantozzi</li><li>Anna Mazzamauro as Signorina Silvani</li><li>Gigi Reder as Filini</li><li>Giuseppe Anatrelli as Luciano Calboni</li><li>Umberto D&#x27;Orsi as Count Diego Catellani</li><li>Liù Bosisio as Pina Fantozzi</li><li>Dino Emanuelli as Megaditta Employee</li><li>Plinio Fernando as Mariangela Fantozzi</li><li>Paolo Paoloni as Duke Count Maria Rita Vittorio Balabam</li><li>Elena Tricoli as Countess Alfonsina Serbelloni Mazzanti Viendalmare</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "Fantozzi (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
+  },
   "movie:34106": {
    "d": "You Can't Take It with You (1938): Comedy/Romance film. Story: Alice, the only relatively normal member of the… See cast, budget $1.64M, and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
@@ -1977,6 +2296,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Seventh Company Has Been Found (1975)</h1>\n<p class=\"ssr-lead\">The second part of the Seventh Company adventures.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1975</li><li>Runtime: 80 minutes</li><li>Director: Robert Lamoureux</li><li>Genres: Comedy, War</li><li>TMDB rating: 7.3/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Lefebvre as Pithivier</li><li>Pierre Mondy as Sergent-chef Chaudard</li><li>Henri Guybet as Tassin</li><li>Pierre Tornade as Capitaine Dumont</li><li>Érik Colin as Lieutenant Duvauchel</li><li>Robert Lamoureux as Colonel Blanchet</li><li>Bernard Dhéran as Colonel Voisin</li><li>Jacques Monod as Panadon</li><li>René Bouloc as Le soldat prisonnier qui s&#x27;indigne pour les patates</li><li>Robert Dalban as Colonel Bricard</li></ul>\n</article>",
    "t": "The Seventh Company Has Been Found (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
+  },
+  "movie:407806": {
+   "d": "13th (2016): Documentary film. Story: An in-depth look at the prison system in the United… See cast, TMDB rating 7.8/10, and release date 7 October 2016.",
+   "img": "https://image.tmdb.org/t/p/w780/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+   "industry": "world",
+   "k": "13th, 13th movie, 13th cast, 13th story, 13th box office collection, 13th budget, 13th review, 13th rating, 13th release date, 13th Documentary, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jelani Cobb"
+     },
+     {
+      "@type": "Person",
+      "name": "Angela Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Louis Gates, Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Alexander"
+     },
+     {
+      "@type": "Person",
+      "name": "Cory Booker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 821,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "13th (2016): Documentary film. Story: An in-depth look at the prison system in the United… See cast, TMDB rating 7.8/10, and release date 7 October 2016.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ava DuVernay"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Documentary"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=407806",
+    "name": "13th",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=407806"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>13th (2016)</h1>\n<p class=\"ssr-lead\">An in-depth look at the prison system in the United States and how it reveals the nation&#x27;s history of racial inequality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 October 2016</li><li>Runtime: 101 minutes</li><li>Director: Ava DuVernay</li><li>Genres: Documentary</li><li>TMDB rating: 7.8/10 (821 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jelani Cobb as Self</li><li>Angela Davis as Self</li><li>Henry Louis Gates, Jr. as Self</li><li>Michelle Alexander as Self</li><li>Cory Booker as Self - U.S. Senator (D) New Jersey</li><li>Marie Gottschalk as Self</li><li>Michael Hough as Self</li><li>Gina Clayton as Self</li><li>David Keene as Self</li><li>James Kilgore as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "13th (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:463906": {
    "d": "The Saint (2017): Action/Adventure film. Story: International master thief, Simon Templar, also known… See cast and TMDB rating 5.4/10.",
@@ -2939,6 +3321,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Home (2025)</h1>\n<p class=\"ssr-lead\">A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 August 2025</li><li>Runtime: 95 minutes</li><li>Director: James DeMonaco</li><li>Genres: Horror, Mystery, Thriller</li><li>TMDB rating: 6.9/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pete Davidson as Max</li><li>John Glover as Lou</li><li>Mugga as Juno</li><li>Adam Cantor as Les</li><li>Bruce Altman as Doc Sabian</li><li>Denise Burse as Sadie</li><li>Stuart Rudin as Screaming Man</li><li>Ethan Phillips as Ethan</li><li>Nathalie Schmidt as Ellie</li><li>Mary Beth Peil as Norma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Home (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:9406": {
+   "d": "An American Werewolf in Paris (1997): Horror/Comedy film. Story: An American man unwittingly gets involved with… See cast, budget $22M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3umSuaSibCcNGAnsWYUyauLTZwE.jpg",
+   "industry": "world",
+   "k": "An American Werewolf in Paris, An American Werewolf in Paris movie, An American Werewolf in Paris cast, An American Werewolf in Paris story, An American Werewolf in Paris box office collection, An American Werewolf in Paris budget, An American Werewolf in Paris review, An American Werewolf in Paris rating, An American Werewolf in Paris release date, An American Werewolf in Paris Horror, An American Werewolf in Paris Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Everett Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Delpy"
+     },
+     {
+      "@type": "Person",
+      "name": "Vince Vieluf"
+     },
+     {
+      "@type": "Person",
+      "name": "Phil Buckman"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Bowen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 812,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "An American Werewolf in Paris (1997): Horror/Comedy film. Story: An American man unwittingly gets involved with… See cast, budget $22M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anthony Waller"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3umSuaSibCcNGAnsWYUyauLTZwE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9406",
+    "name": "An American Werewolf in Paris",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-05-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9406"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>An American Werewolf in Paris (1997)</h1>\n<p class=\"ssr-lead\">An American man unwittingly gets involved with werewolves who have developed a serum allowing them to transform at will.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 1997</li><li>Runtime: 98 minutes</li><li>Director: Anthony Waller</li><li>Genres: Horror, Comedy, Fantasy</li><li>Budget: $22M</li><li>TMDB rating: 5.9/10 (812 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Everett Scott as Andy McDermott</li><li>Julie Delpy as Serafine Pigot</li><li>Vince Vieluf as Brad</li><li>Phil Buckman as Chris</li><li>Julie Bowen as Amy Finch</li><li>Pierre Cosso as Claude</li><li>Thierry Lhermitte as Dr. Thierry Pigot</li><li>Maria Machado as Chief Bonnet</li><li>Tom Novembre as Inspector LeDuc</li><li>Serge Basso as Officer with Flashlight</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
+   "t": "An American Werewolf in Paris (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
   },
   "movie:958006": {
    "d": "The Kill Room (2023): Comedy/Crime film. Story: A hitman, his boss, an art dealer and a… See cast, budget $50M, and TMDB rating 5.8/10.",

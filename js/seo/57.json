@@ -1,6 +1,6 @@
 {
  "bucket": "57",
- "count": 59,
+ "count": 66,
  "titles": {
   "movie:10857": {
    "d": "When the Wind Blows (1986): Animation/War film. Story: With the help of government-issued pamphlets, an… See cast and TMDB rating 7.5/10.",
@@ -129,6 +129,134 @@
    "t": "She-Devil (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1989"
   },
+  "movie:1125257": {
+   "d": "Freakier Friday (2025): Comedy/Fantasy film. Story: Years after Tess and Anna endured an identity crisis… See cast, budget $42M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+   "industry": "world",
+   "k": "Freakier Friday, Freakier Friday movie, Freakier Friday cast, Freakier Friday story, Freakier Friday box office collection, Freakier Friday budget, Freakier Friday review, Freakier Friday rating, Freakier Friday release date, Freakier Friday trailer, Freakier Friday Comedy, Freakier Friday Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamie Lee Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Lindsay Lohan"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Butters"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophia Hammons"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Harmon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 834,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Freakier Friday (2025): Comedy/Fantasy film. Story: Years after Tess and Anna endured an identity crisis… See cast, budget $42M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nisha Ganatra"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1125257",
+    "name": "Freakier Friday",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1125257"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Freakier Friday (2025)</h1>\n<p class=\"ssr-lead\">Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2025</li><li>Runtime: 110 minutes</li><li>Director: Nisha Ganatra</li><li>Genres: Comedy, Fantasy, Family</li><li>Budget: $42M</li><li>TMDB rating: 6.8/10 (834 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Lee Curtis as Tess Coleman</li><li>Lindsay Lohan as Anna Coleman</li><li>Julia Butters as Harper Coleman</li><li>Sophia Hammons as Lily Reyes</li><li>Mark Harmon as Ryan</li><li>Manny Jacinto as Eric Reyes</li><li>Maitreyi Ramakrishnan as Ella</li><li>Christina Vidal Mitchell as Maddie</li><li>Haley Hudson as Peg</li><li>Chad Michael Murray as Jake</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Freakier Friday (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
+  "movie:11257": {
+   "d": "A Room with a View (1986): Drama/Romance film. Story: When Lucy Honeychurch and chaperon Charlotte Bartlett… See cast, budget $3M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
+   "industry": "world",
+   "k": "A Room with a View, A Room with a View movie, A Room with a View cast, A Room with a View story, A Room with a View box office collection, A Room with a View budget, A Room with a View review, A Room with a View rating, A Room with a View release date, A Room with a View trailer, A Room with a View Drama, A Room with a View Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Sands"
+     },
+     {
+      "@type": "Person",
+      "name": "Maggie Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Denholm Elliott"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Day-Lewis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 871,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "A Room with a View (1986): Drama/Romance film. Story: When Lucy Honeychurch and chaperon Charlotte Bartlett… See cast, budget $3M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Ivory"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11257",
+    "name": "A Room with a View",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-03-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11257"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Room with a View (1986)</h1>\n<p class=\"ssr-lead\">When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy&#x27;s life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 1986</li><li>Runtime: 117 minutes</li><li>Director: James Ivory</li><li>Genres: Drama, Romance</li><li>Budget: $3M</li><li>TMDB rating: 6.9/10 (871 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Helena Bonham Carter as Lucy Honeychurch</li><li>Julian Sands as George Emerson</li><li>Maggie Smith as Charlotte Bartlett</li><li>Denholm Elliott as Mr. Emerson</li><li>Daniel Day-Lewis as Cecil Vyse</li><li>Simon Callow as The Reverend Mr. Beebe</li><li>Rosemary Leach as Mrs. Honeychurch</li><li>Rupert Graves as Freddy Honeychurch</li><li>Patrick Godfrey as The Reverend Mr. Eager</li><li>Judi Dench as Eleanor Lavish</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Peacock Premium, Britbox Apple TV channel, HBO Max, Peacock Premium Plus, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Room with a View (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
+  },
   "movie:11457": {
    "d": "Life as a House (2001): Drama film. Story: When a man is diagnosed with terminal cancer, he… See cast, budget $18M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/cq0xYG4TIcEPaFPhkgTpDhWLIqo.jpg",
@@ -191,6 +319,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Life as a House (2001)</h1>\n<p class=\"ssr-lead\">When a man is diagnosed with terminal cancer, he takes custody of his misanthropic teenage son, for whom quality time means getting high, engaging in small-time prostitution, and avoiding his father.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 October 2001</li><li>Runtime: 125 minutes</li><li>Director: Irwin Winkler</li><li>Genres: Drama</li><li>Budget: $18M</li><li>TMDB rating: 7.1/10 (468 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Kline as George Monroe</li><li>Hayden Christensen as Sam Monroe</li><li>Kristin Scott Thomas as Robin Kimball</li><li>Jena Malone as Alyssa Beck</li><li>Mary Steenburgen as Colleen Beck</li><li>Ian Somerhalder as Josh</li><li>Jamey Sheridan as Peter Kimball</li><li>Scott Bakula as Officer Kurt Walker</li><li>Sandra Nelson as Nurse</li><li>Sam Robards as David Dokos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Life as a House (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:118957": {
+   "d": "Bait (2012): Horror film. Story: A freak tsunami traps shoppers at a coastal… See cast, budget $33.49M, TMDB rating 5.6/10, and release date 5 September 2012.",
+   "img": "https://image.tmdb.org/t/p/w780/r8xotdjJLzZpdbj3Iz636bUi3oR.jpg",
+   "industry": "world",
+   "k": "Bait, Bait movie, Bait cast, Bait story, Bait box office collection, Bait budget, Bait review, Bait rating, Bait release date, Bait trailer, Bait Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Xavier Samuel"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Brancatisano"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharni Vinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Phoebe Tonkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian McMahon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 837,
+     "ratingValue": 5.6,
+     "worstRating": 0
+    },
+    "description": "Bait (2012): Horror film. Story: A freak tsunami traps shoppers at a coastal… See cast, budget $33.49M, TMDB rating 5.6/10, and release date 5 September 2012.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kimble Rendall"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r8xotdjJLzZpdbj3Iz636bUi3oR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=118957",
+    "name": "Bait",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-09-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=118957"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bait (2012)</h1>\n<p class=\"ssr-lead\">A freak tsunami traps shoppers at a coastal Australian supermarket inside the building ... along with a 12-foot great white shark.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2012</li><li>Runtime: 93 minutes</li><li>Director: Kimble Rendall</li><li>Genres: Horror</li><li>Budget: $33.49M</li><li>TMDB rating: 5.6/10 (837 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Xavier Samuel as Josh</li><li>Richard Brancatisano as Rory</li><li>Sharni Vinson as Tina</li><li>Phoebe Tonkin as Jaimie</li><li>Julian McMahon as Doyle</li><li>Alex Russell as Ryan</li><li>Cariba Heine as Heather</li><li>Lincoln Lewis as Kyle</li><li>Alice Parkinson as Naomi</li><li>Dan Wyllie as Kirby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Bait (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:124157": {
    "d": "The Thieves (2012): Action/Crime film. Story: A gang of South Korean thieves team up with a Hong… See cast, TMDB rating 6.7/10, and release date 25 July 2012.",
@@ -1103,6 +1294,70 @@
    "t": "Dead Weight (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
   },
+  "movie:2057": {
+   "d": "Original Sin (2001): Thriller/Drama film. Story: A young man is plunged into a life of subterfuge… See cast, budget $42M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lFDeRoh5gowXWf0O3ayEAUxePcw.jpg",
+   "industry": "world",
+   "k": "Original Sin, Original Sin movie, Original Sin cast, Original Sin story, Original Sin box office collection, Original Sin budget, Original Sin review, Original Sin rating, Original Sin release date, Original Sin trailer, Original Sin Thriller, Original Sin Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Angelina Jolie"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Jane"
+     },
+     {
+      "@type": "Person",
+      "name": "Gregory Itzin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Thompson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 943,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Original Sin (2001): Thriller/Drama film. Story: A young man is plunged into a life of subterfuge… See cast, budget $42M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Cristofer"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lFDeRoh5gowXWf0O3ayEAUxePcw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2057",
+    "name": "Original Sin",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-05-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2057"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Original Sin (2001)</h1>\n<p class=\"ssr-lead\">A young man is plunged into a life of subterfuge, deceit and mistaken identity in pursuit of a femme fatale whose heart is never quite within his grasp.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 May 2001</li><li>Runtime: 116 minutes</li><li>Director: Michael Cristofer</li><li>Genres: Thriller, Drama, Mystery, Romance, History</li><li>Budget: $42M</li><li>TMDB rating: 6.2/10 (943 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Angelina Jolie as Julia Russell / Bonnie Castle</li><li>Antonio Banderas as Luis Antonio Vargas</li><li>Thomas Jane as Walter Downs / Billy / Mephisto</li><li>Gregory Itzin as Colonel Worth</li><li>Jack Thompson as Alan Jordan</li><li>Allison Mackie as Augusta Jordan</li><li>Joan Pringle as Sara</li><li>Cordelia Richards as Emily Russel</li><li>James Haven as Faust</li><li>Lisa Owen as Margareta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Original Sin (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:2457": {
    "d": "Children of Paradise (1945): Drama/Romance film. Story: In a chaotic 19th-century Paris teeming with… See cast and TMDB rating 8.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/ubERa5VEJlBRglxDSBSL0YBG7XB.jpg",
@@ -1942,6 +2197,70 @@
    "t": "Domino (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:480857": {
+   "d": "Radioactive (2020): Drama/Romance film. Story: The story of Nobel Prize winner Maria… See cast, budget $20M, TMDB rating 6.6/10, and release date 11 March 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/iFFC0ILEzcCGI8fJzixI9lI5n8o.jpg",
+   "industry": "world",
+   "k": "Radioactive, Radioactive movie, Radioactive cast, Radioactive story, Radioactive box office collection, Radioactive budget, Radioactive review, Radioactive rating, Radioactive release date, Radioactive trailer, Radioactive Drama, Radioactive Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rosamund Pike"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Riley"
+     },
+     {
+      "@type": "Person",
+      "name": "Aneurin Barnard"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Russell Beale"
+     },
+     {
+      "@type": "Person",
+      "name": "Katherine Parkinson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 950,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Radioactive (2020): Drama/Romance film. Story: The story of Nobel Prize winner Maria… See cast, budget $20M, TMDB rating 6.6/10, and release date 11 March 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marjane Satrapi"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iFFC0ILEzcCGI8fJzixI9lI5n8o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=480857",
+    "name": "Radioactive",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-03-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=480857"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Radioactive (2020)</h1>\n<p class=\"ssr-lead\">The story of Nobel Prize winner Maria Skłodowska-Curie and her extraordinary scientific discoveries—through the prism of her marriage to husband Pierre—and the seismic and transformative effects their discovery of radium had on the 20th century.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 March 2020</li><li>Runtime: 111 minutes</li><li>Director: Marjane Satrapi</li><li>Genres: Drama, Romance, History</li><li>Budget: $20M</li><li>TMDB rating: 6.6/10 (950 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rosamund Pike as Marie Curie</li><li>Sam Riley as Pierre Curie</li><li>Aneurin Barnard as Paul Langevin</li><li>Simon Russell Beale as Professor Lippmann</li><li>Katherine Parkinson as Jeanne Langevin</li><li>Sian Brooke as Bronia Sklodowska</li><li>Anya Taylor-Joy as Irène Aged 18</li><li>Yvette Feuer as Carla</li><li>Mirjam Novak as Nurse</li><li>Ralph Berkin as Doctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Radioactive (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:481157": {
    "d": "In Her Hands (2018): Comedy film. Story: A young man from a modest family gets the chance of a… See cast, TMDB rating 6.5/10, and release date 26 December 2018.",
    "img": "https://image.tmdb.org/t/p/w780/dss5tC7D0tqQT3A2oTp9U3SVgp5.jpg",
@@ -2650,6 +2969,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Drifting Home (2022)</h1>\n<p class=\"ssr-lead\">One fateful summer, a group of elementary school kids set adrift on an abandoned apartment building must look within themselves to find a way back home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2022</li><li>Runtime: 121 minutes</li><li>Director: Hiroyasu Ishida</li><li>Genres: Animation, Fantasy, Adventure</li><li>TMDB rating: 7.4/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mutsumi Tamura as Kosuke Kumagaya (voice)</li><li>Asami Seto as Natsume Tonai (voice)</li><li>Ayumu Murase as Noppo (voice)</li><li>Daiki Yamashita as Yuzuru Tachibana (voice)</li><li>Yumiko Kobayashi as Taishi Koiwai (voice)</li><li>Inori Minase as Reina Haba (voice)</li><li>Kana Hanazawa as Juri Ando (voice)</li><li>Bin Shimada as Yasuji Kumagaya (voice)</li><li>Rikako Aikawa as Yasuko Kumagaya (voice)</li><li>Nana Mizuki as Satoko Tonai (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Drifting Home (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9457": {
+   "d": "Deep Rising (1998): Adventure/Action film. Story: A group of heavily armed hijackers board a luxury… See cast, budget $45M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AhOphQppjWlWGo0EFsUmfrq1NlR.jpg",
+   "industry": "world",
+   "k": "Deep Rising, Deep Rising movie, Deep Rising cast, Deep Rising story, Deep Rising box office collection, Deep Rising budget, Deep Rising review, Deep Rising rating, Deep Rising release date, Deep Rising Adventure, Deep Rising Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Treat Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Famke Janssen"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Heald"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin J. O'Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Wes Studi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 880,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Deep Rising (1998): Adventure/Action film. Story: A group of heavily armed hijackers board a luxury… See cast, budget $45M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Sommers"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AhOphQppjWlWGo0EFsUmfrq1NlR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9457",
+    "name": "Deep Rising",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9457"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Deep Rising (1998)</h1>\n<p class=\"ssr-lead\">A group of heavily armed hijackers board a luxury ocean liner in the South Pacific Ocean to loot it, only to do battle with a series of large-sized, tentacled, man-eating sea creatures who have taken over the ship first.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 1998</li><li>Runtime: 106 minutes</li><li>Director: Stephen Sommers</li><li>Genres: Adventure, Action, Horror, Science Fiction</li><li>Budget: $45M</li><li>TMDB rating: 6.2/10 (880 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Treat Williams as John Finnegan</li><li>Famke Janssen as Trillian St. James</li><li>Anthony Heald as Simon Canton</li><li>Kevin J. O&#x27;Connor as Joey Pantucci</li><li>Wes Studi as Hanover</li><li>Derrick O&#x27;Connor as Captain Atherton</li><li>Jason Flemyng as Mulligan</li><li>Cliff Curtis as Mamooli</li><li>Clifton Powell as Mason</li><li>Trevor Goddard as T. Ray</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Deep Rising (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
+  "movie:9957": {
+   "d": "The Benchwarmers (2006): Comedy film. Story: A trio of guys try and make up for missed… See cast, budget $33M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/n5yh6oimGdcKIjxzNft5sNX46ip.jpg",
+   "industry": "world",
+   "k": "The Benchwarmers, The Benchwarmers movie, The Benchwarmers cast, The Benchwarmers story, The Benchwarmers box office collection, The Benchwarmers budget, The Benchwarmers review, The Benchwarmers rating, The Benchwarmers release date, The Benchwarmers Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Rob Schneider"
+     },
+     {
+      "@type": "Person",
+      "name": "David Spade"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Heder"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Lovitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Craig Kilborn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 976,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "The Benchwarmers (2006): Comedy film. Story: A trio of guys try and make up for missed… See cast, budget $33M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dennis Dugan"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/n5yh6oimGdcKIjxzNft5sNX46ip.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9957",
+    "name": "The Benchwarmers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-04-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9957"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Benchwarmers (2006)</h1>\n<p class=\"ssr-lead\">A trio of guys try and make up for missed opportunities in childhood by forming a three-player baseball team to compete against standard little league squads.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 April 2006</li><li>Runtime: 85 minutes</li><li>Director: Dennis Dugan</li><li>Genres: Comedy</li><li>Budget: $33M</li><li>TMDB rating: 5.9/10 (976 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Schneider as Gus</li><li>David Spade as Richie</li><li>Jon Heder as Clark</li><li>Jon Lovitz as Mel</li><li>Craig Kilborn as Jerry</li><li>Molly Sims as Liz</li><li>Tim Meadows as Wayne</li><li>Nick Swardson as Howie</li><li>Erinn Bartlett as Salad Girl / Sarah</li><li>Amaury Nolasco as Carlos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Benchwarmers (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "tv:100757": {
    "d": "Outer Banks (2020) is an Action & Adventure and Mystery TV series. Explore its story: On a North Carolina island of haves and have-nots…, cast, and 5 seasons.",

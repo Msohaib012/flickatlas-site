@@ -1,6 +1,6 @@
 {
  "bucket": "47",
- "count": 39,
+ "count": 49,
  "titles": {
   "movie:1020047": {
    "backdrop_path": "/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
@@ -260,6 +260,254 @@
    "type": "movie",
    "vote_average": 6.409,
    "vote_count": 389
+  },
+  "movie:10547": {
+   "backdrop_path": "/dbFQUKS3jBOR61dQ3VDOk7FJff8.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Zane Zaminski",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Ilana Green",
+     "n": "Lindsay Crouse"
+    },
+    {
+     "c": "Calvin",
+     "n": "Richard Schiff"
+    },
+    {
+     "c": "Gordian",
+     "n": "Ron Silver"
+    },
+    {
+     "c": "Char",
+     "n": "Teri Polo"
+    },
+    {
+     "c": "Mrs. Roosevelt",
+     "n": "Phyllis Applegate"
+    },
+    {
+     "c": "Kiki",
+     "n": "Tony T. Johnson"
+    },
+    {
+     "c": "Terraformer",
+     "n": "Alan Coates"
+    },
+    {
+     "c": "DOD #1",
+     "n": "Leon Rippy"
+    },
+    {
+     "c": "DOD #2",
+     "n": "Buddy Joe Hooker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Twohy"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 10547,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Zane Ziminski is an astrophysicist who receives a message that seems to have extraterrestrial origins. Eerily soon after his discovery, Zane is fired. He then embarks on a search to determine the origins of the transmission that leads him into a Hitchcockian labyrinth of paranoia and intrigue.",
+   "popularity": 3.4871,
+   "poster_path": "/4H3VwvIQC1dsMFb2DEGZpbS0JiI.jpg",
+   "production_countries": [
+    "MX",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-05-31",
+   "revenue": 14063331,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The greatest danger facing our world has been the planet's best kept secret... until now.",
+   "title": "The Arrival",
+   "trailer": {
+    "key": "zPKQidRkQ4s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 897
+  },
+  "movie:11047": {
+   "backdrop_path": "/1ljIHeb8SFJVaXNAZfncSZvcHPx.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Astérix / Caligulaminus (voice)",
+     "n": "Roger Carel"
+    },
+    {
+     "c": "Obelix (voice)",
+     "n": "Jacques Morel"
+    },
+    {
+     "c": "Abraracourcix / le marchand de bœufs / Caius Bonus (voice)",
+     "n": "Pierre Tornade"
+    },
+    {
+     "c": "Panoramix (voice)",
+     "n": "Lucien Raimbourg"
+    },
+    {
+     "c": "Marcus Sacapus (voice)",
+     "n": "Pierre Trabaud"
+    },
+    {
+     "c": "le narrateur (voice)",
+     "n": "Bernard Lavalette"
+    },
+    {
+     "c": "(voice)",
+     "n": "Robert Vattier"
+    },
+    {
+     "c": "(voice)",
+     "n": "Georges Carmier"
+    },
+    {
+     "c": "(voice)",
+     "n": "Michel Puterflam"
+    },
+    {
+     "c": "Claudius Catilus / le bourreau (voice)",
+     "n": "Maurice Chevit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ray Goossens"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 11047,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In the year 50 BC, Gaul is occupied by the Romans - nearly. But the small village of Asterix and his friends still resists the Roman legions with the aid of their druid's magic potion, which gives superhuman strength. Learning of this potion, a Roman centurion kidnaps the druid to get the secret formula out of him.",
+   "popularity": 2.8001,
+   "poster_path": "/A2dlVs5WRmAwIPVS5vODhAOkNy7.jpg",
+   "production_countries": [
+    "FR",
+    "BE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1967-12-20",
+   "revenue": 1325312,
+   "runtime": 68,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Asterix the Gaul",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.477,
+   "vote_count": 838
   },
   "movie:11347": {
    "backdrop_path": "/eeBXjRQikfiIlagI0EWTAE1ymLr.jpg",
@@ -1263,6 +1511,115 @@
    "vote_average": 5.97,
    "vote_count": 338
   },
+  "movie:1847": {
+   "backdrop_path": "/eXCKkX8LVo1vRK4GhVoo0bA8jHM.jpg",
+   "budget": 1700000,
+   "cast": [
+    {
+     "c": "Philip Marlowe",
+     "n": "Elliott Gould"
+    },
+    {
+     "c": "Eileen Wade",
+     "n": "Nina van Pallandt"
+    },
+    {
+     "c": "Roger Wade",
+     "n": "Sterling Hayden"
+    },
+    {
+     "c": "Marty Augustine",
+     "n": "Mark Rydell"
+    },
+    {
+     "c": "Dr. Verringer",
+     "n": "Henry Gibson"
+    },
+    {
+     "c": "Harry",
+     "n": "David Arkin"
+    },
+    {
+     "c": "Terry Lennox",
+     "n": "Jim Bouton"
+    },
+    {
+     "c": "Morgan",
+     "n": "Warren Berlinger"
+    },
+    {
+     "c": "Jo Ann Eggenweiler",
+     "n": "Jo Ann Brody"
+    },
+    {
+     "c": "Detective Farmer",
+     "n": "Stephen Coit"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Altman"
+   ],
+   "genres": [
+    "Mystery",
+    "Crime",
+    "Comedy"
+   ],
+   "id": 1847,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+   "popularity": 3.5705,
+   "poster_path": "/16Gu0Vg7tBdoRxg1NJDwlTKx1hG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1973-03-08",
+   "revenue": 959000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Nothing says goodbye like a bullet…",
+   "title": "The Long Goodbye",
+   "trailer": {
+    "key": "XqLUx8RF0EQ",
+    "name": "AFS HELLO GOODBYE: THE LONG GOODBYE",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 846
+  },
   "movie:18747": {
    "backdrop_path": "/uPk8qtv5noHUOnV26ekuoABAEMH.jpg",
    "budget": 0,
@@ -1366,6 +1723,348 @@
    "vote_average": 7.2,
    "vote_count": 307
   },
+  "movie:190847": {
+   "backdrop_path": "/zZUuNeCzA5W6YJweyFLxBN6xTHx.jpg",
+   "budget": 10600000,
+   "cast": [
+    {
+     "c": "Vincent Campbell",
+     "n": "Liev Schreiber"
+    },
+    {
+     "c": "Charles Brunel",
+     "n": "Elias Koteas"
+    },
+    {
+     "c": "Rebecca Lane",
+     "n": "Romola Garai"
+    },
+    {
+     "c": "Kim Aldrich",
+     "n": "Olivia Williams"
+    },
+    {
+     "c": "Robert Irwin",
+     "n": "Johnny Harris"
+    },
+    {
+     "c": "Marko Petrovic",
+     "n": "Goran Kostić"
+    },
+    {
+     "c": "Richard Harrington",
+     "n": "Tom Cullen"
+    },
+    {
+     "c": "Lauren Dalby",
+     "n": "Yusra Warsama"
+    },
+    {
+     "c": "Flight Commander Ellis",
+     "n": "Patrick Joseph Byrnes"
+    },
+    {
+     "c": "Infected Voices (voice)",
+     "n": "Lewis Macleod"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ruairi Robinson"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 190847,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "On the last day of the first manned mission to Mars, a crew member of Tantalus Base believes he has made an astounding discovery – fossilized evidence of bacterial life. Unwilling to let the relief crew claim all the glory, he disobeys orders to pack up and goes out on an unauthorized expedition to collect further samples. But a routine excavation turns to disaster when the porous ground collapses and he falls into a deep crevice. His devastated colleagues attempt to recover his body. However, when another vanishes, they start to suspect that the life-form they have discovered is not without danger.",
+   "popularity": 2.4979,
+   "poster_path": "/kxcQkAhpn8cvJTsU8PXblI5Qq8F.jpg",
+   "production_countries": [
+    "BE",
+    "IE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-08-11",
+   "revenue": 24084,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The search for life is about to end.",
+   "title": "The Last Days on Mars",
+   "trailer": {
+    "key": "u9GqPNcDjBo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.515,
+   "vote_count": 968
+  },
+  "movie:277547": {
+   "backdrop_path": "/xiv9qW6hv5VMhxkPOEGnXKuowTo.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Narrator",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Her",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Scott",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Mallory",
+     "n": "Aubrey Plaza"
+    },
+    {
+     "c": "Samson",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Lyle",
+     "n": "Martin Starr"
+    },
+    {
+     "c": "Bryan",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Stuffy",
+     "n": "Ioan Gruffudd"
+    },
+    {
+     "c": "Granddad",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Dick",
+     "n": "Patrick Warburton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Justin Reardon"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 277547,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young man meets and instantly falls in love with an engaged woman.",
+   "popularity": 2.6889,
+   "poster_path": "/96htqghZlKctNJqDLo2DuC9PEap.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-09-26",
+   "revenue": 1323415,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love... it's a balancing act",
+   "title": "Playing It Cool",
+   "trailer": {
+    "key": "JlvyE_Rhzy8",
+    "name": "Playing it Cool - Official Trailer #1 (2015) - Chris Evans Comedy Movie HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 828
+  },
   "movie:299847": {
    "backdrop_path": "/h0cOt7XbrRiKYdytcdoYFu6I7Jh.jpg",
    "budget": 0,
@@ -1453,6 +2152,224 @@
    "type": "movie",
    "vote_average": 6.144,
    "vote_count": 353
+  },
+  "movie:330947": {
+   "backdrop_path": "/4fj9pWyIA3I2TxXXfXFRfIPbX0a.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Cook",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "BV",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Faye",
+     "n": "Rooney Mara"
+    },
+    {
+     "c": "Rhonda",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Amanda",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Miranda",
+     "n": "Holly Hunter"
+    },
+    {
+     "c": "Zoey",
+     "n": "Bérénice Marlohe"
+    },
+    {
+     "c": "Duane",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Lykke",
+     "n": "Lykke Li"
+    },
+    {
+     "c": "Mrs. Gansmer",
+     "n": "Louanne Stephens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Terrence Malick"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 330947,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.",
+   "popularity": 1.6249,
+   "poster_path": "/itmaNi14GyWguTOywZ0mMzyScW9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    },
+    {
+     "name": "Sundance Now Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-03-17",
+   "revenue": 1710528,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love. Obsession. Betrayal.",
+   "title": "Song to Song",
+   "trailer": {
+    "key": "O4SrVkj84zc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.484,
+   "vote_count": 946
   },
   "movie:367147": {
    "backdrop_path": "/xGbcYt0nBWW7Jp8ujKV841sh96t.jpg",
@@ -2036,6 +2953,231 @@
    "vote_average": 4.8,
    "vote_count": 458
   },
+  "movie:421447": {
+   "backdrop_path": "/a4bLN32DOZkKiJCky97lfNNX9k5.jpg",
+   "budget": 6600000,
+   "cast": [
+    {
+     "c": "Samy Diakhaté",
+     "n": "Ahmed Sylla"
+    },
+    {
+     "c": "Nadia, Samy's Childhood Friend",
+     "n": "Alice Belaïdi"
+    },
+    {
+     "c": "Ben, Radio Animator",
+     "n": "Kévin Razy"
+    },
+    {
+     "c": "Jeff, Mountain Guide",
+     "n": "Nicolas Wanczycki"
+    },
+    {
+     "c": "Max, Radio Animator",
+     "n": "Waly Dia"
+    },
+    {
+     "c": "Evelyne Diakhaté, Samy's Mother",
+     "n": "Maïmouna Gueye"
+    },
+    {
+     "c": "Celestin Diakhaté, Samy's Father",
+     "n": "Denis Mpunga"
+    },
+    {
+     "c": "Houria, Nadia's Mother",
+     "n": "Fadila Belkebla"
+    },
+    {
+     "c": "Nassir",
+     "n": "Moussa Maaskri"
+    },
+    {
+     "c": "Johnny, Sherpa",
+     "n": "Umesh Tamang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Ludovic Bernard"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Adventure"
+   ],
+   "id": 421447,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A true story of Samy, native of La Courneuve, who is out of love for Nadia, decides to climb Mount Everest.",
+   "popularity": 1.7046,
+   "poster_path": "/tlNg2wOSuZOjgrbcLtbetOppUM5.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-01-25",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ne",
+    "de",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Climb",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.697,
+   "vote_count": 914
+  },
+  "movie:430447": {
+   "backdrop_path": "/yPRnoFEhj09i824pqmE2cwfedsN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Madam Mumblechook (voice)",
+     "n": "Yuki Amami"
+    },
+    {
+     "c": "Peter (voice)",
+     "n": "Ryunosuke Kamiki"
+    },
+    {
+     "c": "Mary (voice)",
+     "n": "Hana Sugisaki"
+    },
+    {
+     "c": "Doctor Dee (voice)",
+     "n": "Fumiyo Kohinata"
+    },
+    {
+     "c": "The Red-Haired Witch (voice)",
+     "n": "Hikari Mitsushima"
+    },
+    {
+     "c": "Flanagan (voice)",
+     "n": "Jiro Sato"
+    },
+    {
+     "c": "Zebedee (voice)",
+     "n": "Kenichi Endo"
+    },
+    {
+     "c": "Miss Banks (voice)",
+     "n": "Eri Watanabe"
+    },
+    {
+     "c": "Great-Aunt Charlotte (voice)",
+     "n": "Shinobu Otake"
+    },
+    {
+     "c": "Tib (voice)",
+     "n": "Ikue Otani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hiromasa Yonebayashi"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 430447,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Mary Smith, a young girl who lives with her great-aunt in the countryside, follows a mysterious cat into the nearby forest where she finds a strange flower and an old broom, none of which is as ordinary as it seems.",
+   "popularity": 3.2284,
+   "poster_path": "/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-07-08",
+   "revenue": 42170089,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "From a single lie, everything will change.",
+   "title": "Mary and The Witch's Flower",
+   "trailer": {
+    "key": "u8tsjNYEYKQ",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.167,
+   "vote_count": 955
+  },
   "movie:438347": {
    "backdrop_path": "/vefBoV3dLztLmvbAGEKbCa8QMCa.jpg",
    "budget": 0,
@@ -2264,6 +3406,175 @@
    "type": "movie",
    "vote_average": 6.806,
    "vote_count": 412
+  },
+  "movie:44147": {
+   "backdrop_path": "/TYtLt2X6ju8exHGddwKPuU8crW.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Victor Maynard",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Rose",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Tony",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Ferguson",
+     "n": "Rupert Everett"
+    },
+    {
+     "c": "Mother",
+     "n": "Eileen Atkins"
+    },
+    {
+     "c": "Dixon",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Mike",
+     "n": "Gregor Fisher"
+    },
+    {
+     "c": "Fabian",
+     "n": "Geoff Bell"
+    },
+    {
+     "c": "Gerry Bailey",
+     "n": "Rory Kinnear"
+    },
+    {
+     "c": "Jeweller",
+     "n": "Duncan Duff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Lynn"
+   ],
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": 44147,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Victor Maynard is a middle-aged, solitary assassin who lives to please his formidable mother, despite his own peerless reputation for lethal efficiency. His professional routine is interrupted when he finds himself drawn to one of his intended victims. After sparing her life, he unexpectedly acquires a young apprentice. Believing Victor to be a private detective, his two new companions tag along, while he attempts to thwart the murderous attentions of his unhappy client.",
+   "popularity": 1.8282,
+   "poster_path": "/2USFwF1ji5HmYEMYr7Qx0UUKLzZ.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-06-17",
+   "revenue": 3494154,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They said 'Take her out'. He got the wrong idea.",
+   "title": "Wild Target",
+   "trailer": {
+    "key": "PmS3ePcA6VU",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.457,
+   "vote_count": 823
   },
   "movie:484747": {
    "backdrop_path": "/1IAoK7OVmo5erbrHrch6jMErMJn.jpg",
@@ -3013,6 +4324,119 @@
    "type": "movie",
    "vote_average": 7.373,
    "vote_count": 386
+  },
+  "movie:672647": {
+   "backdrop_path": "/gg9zZB9xLPWmuxOpKw0HX0QLMN6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Mark",
+     "n": "Kyle Allen"
+    },
+    {
+     "c": "Margaret",
+     "n": "Kathryn Newton"
+    },
+    {
+     "c": "Henry",
+     "n": "Jermaine Harris"
+    },
+    {
+     "c": "Phoebe",
+     "n": "Anna Mikami"
+    },
+    {
+     "c": "Daniel",
+     "n": "Josh Hamilton"
+    },
+    {
+     "c": "Emma",
+     "n": "Cleo Fraser"
+    },
+    {
+     "c": "Mr. Pepper",
+     "n": "Al Madrigal"
+    },
+    {
+     "c": "Greta (Margaret's Mother)",
+     "n": "Jorja Fox"
+    },
+    {
+     "c": "Lottery Winner At Diner",
+     "n": "Teance Blackburn"
+    },
+    {
+     "c": "Flight Attendant",
+     "n": "Yoriko Haraguchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ian Samuels"
+   ],
+   "genres": [
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 672647,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two teenagers trapped in an endless time loop set out to find all the tiny things that make that one day perfect.",
+   "popularity": 2.9118,
+   "poster_path": "/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-02-12",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One day. Infinite possibilities.",
+   "title": "The Map of Tiny Perfect Things",
+   "trailer": {
+    "key": "ZOxsfKQWrUg",
+    "name": "The Map of Tiny Perfect Things - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.124,
+   "vote_count": 937
   },
   "movie:730047": {
    "backdrop_path": "/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "18",
- "count": 64,
+ "count": 69,
  "titles": {
   "movie:1010818": {
    "backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
@@ -150,6 +150,114 @@
    "type": "movie",
    "vote_average": 5.271,
    "vote_count": 494
+  },
+  "movie:10218": {
+   "backdrop_path": "/urQRrvRzsBztqjOt7yuxX9gpqw1.jpg",
+   "budget": 200000,
+   "cast": [
+    {
+     "c": "Mike Peters",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Trent Walker",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Rob",
+     "n": "Ron Livingston"
+    },
+    {
+     "c": "Sue",
+     "n": "Patrick Van Horn"
+    },
+    {
+     "c": "Charles",
+     "n": "Alex Désert"
+    },
+    {
+     "c": "Lorraine",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Christy",
+     "n": "Deena Martin"
+    },
+    {
+     "c": "Lisa",
+     "n": "Katherine Kendall"
+    },
+    {
+     "c": "Nikki",
+     "n": "Brooke Langton"
+    },
+    {
+     "c": "Girl with Cigar",
+     "n": "Blake Lindsley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Doug Liman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 10218,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After 6 years together, Mike's girlfriend leaves him, so he travels to LA to be a star. Six months on, he's still not doing very well— so a few of his friends try to reconnect him to the social scene and hopefully help him forget his failed relationship.",
+   "popularity": 2.8423,
+   "poster_path": "/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1996-10-18",
+   "revenue": 4505922,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Cocktails first. Questions later.",
+   "title": "Swingers",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.851,
+   "vote_count": 851
   },
   "movie:10618": {
    "backdrop_path": "/zrSmI2wP2WIkWrgfP7IDSY1F9fW.jpg",
@@ -2611,6 +2719,160 @@
    "vote_average": 7.186,
    "vote_count": 464
   },
+  "movie:19918": {
+   "backdrop_path": "/s9F5NR4Iic3RaE9qk1MkjA1mz3B.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Nikki",
+     "n": "Ashton Kutcher"
+    },
+    {
+     "c": "Samantha",
+     "n": "Anne Heche"
+    },
+    {
+     "c": "Heather",
+     "n": "Margarita Levieva"
+    },
+    {
+     "c": "Harry",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Eva",
+     "n": "Ashley Johnson"
+    },
+    {
+     "c": "Christina",
+     "n": "Sonia Rockwell"
+    },
+    {
+     "c": "Emily",
+     "n": "Rachel Blanchard"
+    },
+    {
+     "c": "Prince Stelio",
+     "n": "Shane Brolly"
+    },
+    {
+     "c": "Sean",
+     "n": "Eric Balfour"
+    },
+    {
+     "c": "Ingrid",
+     "n": "María Conchita Alonso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Mackenzie"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 19918,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A gigolo must contend with the prospect that he has found true love.",
+   "popularity": 2.772,
+   "poster_path": "/27iaV68VjKWQabPhnklWD1kCqb1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-01-16",
+   "revenue": 12035862,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's a business doing pleasure.",
+   "title": "Spread",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.582,
+   "vote_count": 981
+  },
   "movie:25518": {
    "backdrop_path": "/a1ng6McskX9Qg8SJNE98zywG4ki.jpg",
    "budget": 0,
@@ -4098,6 +4360,149 @@
    "vote_average": 6.666,
    "vote_count": 370
   },
+  "movie:410718": {
+   "backdrop_path": "/mGBmiWmi7JqeTWnrPicRbkXcsuO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Self",
+     "n": "Bill Clinton"
+    },
+    {
+     "c": "Self",
+     "n": "John Kerry"
+    },
+    {
+     "c": "Self",
+     "n": "Barack Obama"
+    },
+    {
+     "c": "Self",
+     "n": "Elon Musk"
+    },
+    {
+     "c": "Self",
+     "n": "Pope Francis"
+    },
+    {
+     "c": "Self",
+     "n": "Ban Ki-moon"
+    },
+    {
+     "c": "Self",
+     "n": "Alejandro G. Iñárritu"
+    },
+    {
+     "c": "Self",
+     "n": "Michael Brune"
+    },
+    {
+     "c": "Self",
+     "n": "Marc Mageau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Fisher Stevens"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 410718,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A look at how climate change affects our environment and what society can do to prevent the demise of endangered species, ecosystems, and native communities across the planet.",
+   "popularity": 1.6692,
+   "poster_path": "/2fFTLaLbm8Ak7JBSYQ8Mb3jcFx9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-10-21",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "tr"
+   ],
+   "status": "Released",
+   "tagline": "The science is clear, the future is not.",
+   "title": "Before the Flood",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 841
+  },
   "movie:432618": {
    "backdrop_path": "/kJfFqcP6jb1caPg6VMpAfkHUMLd.jpg",
    "budget": 0,
@@ -5575,6 +5980,77 @@
    "vote_average": 6.023,
    "vote_count": 310
   },
+  "movie:6418": {
+   "backdrop_path": "/kvlXOT8snP7qplRpkOSAZahH5UB.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Jack Whitman",
+     "n": "Jason Schwartzman"
+    },
+    {
+     "c": "Jack's Girlfriend",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Security",
+     "n": "Waris Ahluwalia"
+    },
+    {
+     "c": "Waiter",
+     "n": "Michel Castejon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wes Anderson"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 6418,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a Paris hotel room, Jack Whitman lies on a bed. His phone rings; it's a woman on her way to see him, a surprise. She arrives and the complications of their relationship emerge in bits and pieces. Will they make love? Is their relationship over? (A prequel to The Darjeeling Limited, 2007.)",
+   "popularity": 1.4712,
+   "poster_path": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2008-01-03",
+   "revenue": 0,
+   "runtime": 13,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Hotel Chevalier",
+   "trailer": {
+    "key": "zuHyMEIxnMA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.888,
+   "vote_count": 950
+  },
   "movie:68818": {
    "backdrop_path": "/xmdmLndfx6eibdyp7kDWyFCrhmo.jpg",
    "budget": 0,
@@ -6251,6 +6727,121 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 352
+  },
+  "movie:9918": {
+   "backdrop_path": "/bWN6ZBr6nJNEuHigL9fQWhZ78hd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Don Haskins",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "Bobby Joe Hill",
+     "n": "Derek Luke"
+    },
+    {
+     "c": "Adolph Rupp",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Jerry Armstrong",
+     "n": "Austin Nichols"
+    },
+    {
+     "c": "Moe Iba",
+     "n": "Evan Jones"
+    },
+    {
+     "c": "Harry Flournoy",
+     "n": "Mehcad Brooks"
+    },
+    {
+     "c": "Willie 'Scoops' Cager",
+     "n": "Damaine Radcliff"
+    },
+    {
+     "c": "Orsten Artis",
+     "n": "Alphonso McAuley"
+    },
+    {
+     "c": "Mary Haskins",
+     "n": "Emily Deschanel"
+    },
+    {
+     "c": "Ross Moore",
+     "n": "Red West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "James Gartner"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 9918,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1966, Texas Western coach Don Haskins led the first all-black starting line-up for a college basketball team to the NCAA national championship.",
+   "popularity": 2.3465,
+   "poster_path": "/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-01-13",
+   "revenue": 42647449,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The incredible story of the team that changed the game forever.",
+   "title": "Glory Road",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 832
   },
   "tv:1018": {
    "backdrop_path": "/61OxoiBHvGFOB4gufYfypHyCbI4.jpg",

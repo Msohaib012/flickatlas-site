@@ -1,7 +1,135 @@
 {
  "bucket": "14",
- "count": 55,
+ "count": 62,
  "titles": {
+  "movie:10514": {
+   "d": "The Andromeda Strain (1971): Science Fiction/Thriller film. Story: When virtually all of the residents of Piedmont, New… See cast and budget $6.5M.",
+   "img": "https://image.tmdb.org/t/p/w780/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
+   "industry": "world",
+   "k": "The Andromeda Strain, The Andromeda Strain movie, The Andromeda Strain cast, The Andromeda Strain story, The Andromeda Strain box office collection, The Andromeda Strain budget, The Andromeda Strain review, The Andromeda Strain rating, The Andromeda Strain release date, The Andromeda Strain Science Fiction, The Andromeda Strain Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arthur Hill"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wayne"
+     },
+     {
+      "@type": "Person",
+      "name": "James Olson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Reid"
+     },
+     {
+      "@type": "Person",
+      "name": "Paula Kelly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 864,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Andromeda Strain (1971): Science Fiction/Thriller film. Story: When virtually all of the residents of Piedmont, New… See cast and budget $6.5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Wise"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10514",
+    "name": "The Andromeda Strain",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1971-03-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10514"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Andromeda Strain (1971)</h1>\n<p class=\"ssr-lead\">When virtually all of the residents of Piedmont, New Mexico are found dead after the return to Earth of a space satellite, the head of the US Air Force&#x27;s Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scrambles to a secure laboratory and tries first to isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form, unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 March 1971</li><li>Runtime: 131 minutes</li><li>Director: Robert Wise</li><li>Genres: Science Fiction, Thriller, Drama</li><li>Budget: $6.5M</li><li>TMDB rating: 7.1/10 (864 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arthur Hill as Dr. Jeremy Stone</li><li>David Wayne as Dr. Charles Dutton</li><li>James Olson as Dr. Mark Hall</li><li>Kate Reid as Dr. Ruth Leavitt</li><li>Paula Kelly as Karen Anson</li><li>George Mitchell as Jackson</li><li>Ramon Bieri as Major Manchek</li><li>Peter Hobbs as General Sparks</li><li>Kermit Murdock as Dr. Robertson</li><li>Richard O&#x27;Brien as Grimes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Andromeda Strain (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1971"
+  },
+  "movie:11314": {
+   "d": "Koyaanisqatsi (1983): Documentary/Music film. Story: Takes us to locations all around the US and shows us… See cast, budget $600.0k, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g2ULq1sv4rDY7UsLzaiGdb6zjbj.jpg",
+   "industry": "world",
+   "k": "Koyaanisqatsi, Koyaanisqatsi movie, Koyaanisqatsi cast, Koyaanisqatsi story, Koyaanisqatsi box office collection, Koyaanisqatsi budget, Koyaanisqatsi review, Koyaanisqatsi rating, Koyaanisqatsi release date, Koyaanisqatsi Documentary, Koyaanisqatsi Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ed Asner"
+     },
+     {
+      "@type": "Person",
+      "name": "Pat Benatar"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Carson"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick Cavett"
+     },
+     {
+      "@type": "Person",
+      "name": "Marilyn Chambers"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 814,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Koyaanisqatsi (1983): Documentary/Music film. Story: Takes us to locations all around the US and shows us… See cast, budget $600.0k, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Godfrey Reggio"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Documentary",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g2ULq1sv4rDY7UsLzaiGdb6zjbj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11314",
+    "name": "Koyaanisqatsi",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-04-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11314"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Koyaanisqatsi (1983)</h1>\n<p class=\"ssr-lead\">Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 April 1983</li><li>Runtime: 86 minutes</li><li>Director: Godfrey Reggio</li><li>Genres: Documentary, Music</li><li>Budget: $600.0k</li><li>TMDB rating: 7.9/10 (814 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ed Asner as Self (archive footage)</li><li>Pat Benatar as Self</li><li>Johnny Carson as Self (archive footage)</li><li>Dick Cavett as Self (archive footage)</li><li>Marilyn Chambers as Self (archive footage)</li><li>Sammy Davis Jr. as Self (archive footage)</li><li>Lou Dobbs as Self (archive footage)</li><li>Linda Ellerbee as Self (archive footage)</li><li>Peter Sellers as Self (archive footage)</li><li>Thomas Dolby as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Koyaanisqatsi (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
+  },
   "movie:11414": {
    "d": "The Defiant Ones (1958): Crime/Drama film. Story: Two convicts—one white, one black—escape while… See cast, TMDB rating 7.2/10, and release date 14 August 1958.",
    "img": "https://image.tmdb.org/t/p/w780/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
@@ -65,6 +193,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Defiant Ones (1958)</h1>\n<p class=\"ssr-lead\">Two convicts—one white, one black—escape while chained to each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 August 1958</li><li>Runtime: 96 minutes</li><li>Director: Stanley Kramer</li><li>Genres: Crime, Drama, Adventure, Thriller</li><li>TMDB rating: 7.2/10 (347 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tony Curtis as John &#x27;Joker&#x27; Jackson</li><li>Sidney Poitier as Noah Cullen</li><li>Theodore Bikel as Sheriff Max Muller</li><li>Charles McGraw as Capt. Frank Gibbons</li><li>Lon Chaney Jr. as Big Sam</li><li>King Donovan as Solly</li><li>Claude Akins as Mack</li><li>Lawrence Dobkin as Editor</li><li>Whit Bissell as Lou Gans</li><li>Carl Switzer as Angus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Roku Premium Channel, ScreenPix Apple TV channel, ScreenPix Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Defiant Ones (1958) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1958"
+  },
+  "movie:1152014": {
+   "d": "A Little Something Extra (2024): Comedy/Family film. Story: To escape the police, a father and his son are forced… See cast and budget $6.4M.",
+   "img": "https://image.tmdb.org/t/p/w780/rTNMyZ5JcrfKnPamaYOo9wzq3m5.jpg",
+   "industry": "world",
+   "k": "A Little Something Extra, A Little Something Extra movie, A Little Something Extra cast, A Little Something Extra story, A Little Something Extra box office collection, A Little Something Extra budget, A Little Something Extra review, A Little Something Extra rating, A Little Something Extra release date, A Little Something Extra trailer, A Little Something Extra Comedy, A Little Something Extra Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Artus"
+     },
+     {
+      "@type": "Person",
+      "name": "Clovis Cornillac"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Belaïdi"
+     },
+     {
+      "@type": "Person",
+      "name": "Marc Riso"
+     },
+     {
+      "@type": "Person",
+      "name": "Céline Groussard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 888,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "A Little Something Extra (2024): Comedy/Family film. Story: To escape the police, a father and his son are forced… See cast and budget $6.4M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Artus"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rTNMyZ5JcrfKnPamaYOo9wzq3m5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1152014",
+    "name": "A Little Something Extra",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-05-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1152014"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Little Something Extra (2024)</h1>\n<p class=\"ssr-lead\">To escape the police, a father and his son are forced to find refuge in a summer camp for young adults with mental disabilities, taking on the role of an educator and a boarder. The beginning of troubles and a wonderful human experience that will change them forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2024</li><li>Runtime: 89 minutes</li><li>Director: Artus</li><li>Genres: Comedy, Family</li><li>Budget: $6.4M</li><li>TMDB rating: 7.1/10 (888 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Artus as Paul &#x27;Paulo&#x27; Mounier / Sylvain</li><li>Clovis Cornillac as Lucien &#x27;la Fraise&#x27; Mounier / Orpi</li><li>Alice Belaïdi as Alice</li><li>Marc Riso as Marc</li><li>Céline Groussard as Céline</li><li>Gad Abecassis as Gad</li><li>Ludovic Boul as Ludovic</li><li>Stanislas Carmont as Alexandre</li><li>Marie Colin as Marie</li><li>Thibaut Conan as Thibaut</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Little Something Extra (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
+  "movie:1153714": {
+   "d": "Death of a Unicorn (2025): Horror/Fantasy film. Story: A father and daughter accidentally hit and kill a… See cast, budget $15M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
+   "industry": "world",
+   "k": "Death of a Unicorn, Death of a Unicorn movie, Death of a Unicorn cast, Death of a Unicorn story, Death of a Unicorn box office collection, Death of a Unicorn budget, Death of a Unicorn review, Death of a Unicorn rating, Death of a Unicorn release date, Death of a Unicorn trailer, Death of a Unicorn Horror, Death of a Unicorn Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paul Rudd"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenna Ortega"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Poulter"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard E. Grant"
+     },
+     {
+      "@type": "Person",
+      "name": "Téa Leoni"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 979,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Death of a Unicorn (2025): Horror/Fantasy film. Story: A father and daughter accidentally hit and kill a… See cast, budget $15M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Scharfman"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1153714",
+    "name": "Death of a Unicorn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-03-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1153714"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Death of a Unicorn (2025)</h1>\n<p class=\"ssr-lead\">A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 2025</li><li>Runtime: 107 minutes</li><li>Director: Alex Scharfman</li><li>Genres: Horror, Fantasy, Comedy</li><li>Budget: $15M</li><li>TMDB rating: 6.4/10 (979 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paul Rudd as Elliot</li><li>Jenna Ortega as Ridley</li><li>Will Poulter as Shepard</li><li>Richard E. Grant as Odell</li><li>Téa Leoni as Belinda</li><li>Sunita Mani as Dr. Bhatia</li><li>Steve Park as Dr. Song</li><li>Anthony Carrigan as Griff</li><li>Jessica Hynes as Shaw</li><li>David Pasquesi as Pilot</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Death of a Unicorn (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:11614": {
    "d": "Bomber (1982): Action/Comedy film. Story: Bomber is an unemployed boat captain. One day he… See cast, TMDB rating 6.5/10, and release date 5 August 1982.",
@@ -767,6 +1023,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>3 Ninjas (1992)</h1>\n<p class=\"ssr-lead\">Each year, three brothers Samuel, Jeffrey and Michael Douglas visits their Japanese grandfather, Mori Shintaro whom the boys affectionately refer to as Grandpa, for the summer. Mori is a highly skilled in the fields of Martial arts and Ninjutsu, and for years he has trained the boys in his techniques. After an organized crime ring proves to be too much for the FBI, it&#x27;s time for the 3 brother NINJAS! To use their martial arts skills, they team up to battle the crime ring and outwit some very persistent kidnappers!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 1992</li><li>Runtime: 96 minutes</li><li>Director: Jon Turteltaub</li><li>Genres: Family, Action, Adventure, Comedy</li><li>Budget: $6.5M</li><li>TMDB rating: 5.7/10 (499 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Victor Wong as Grandpa</li><li>Michael Treanor as Rocky</li><li>Max Elliott Slade as Colt</li><li>Chad Power as Tum Tum</li><li>Rand Kingsley as Snyder</li><li>Alan McRae as Sam Douglas</li><li>Margarita Franco as Jessica Douglas</li><li>Kate Sargeant as Emily</li><li>Joel Swetow as Brown</li><li>Professor Toru Tanaka as Rushmore</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li></ul>\n</article>",
    "t": "3 Ninjas (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
+  },
+  "movie:191714": {
+   "d": "The Lunchbox (2013): Drama/Romance film. Story: A mistaken delivery in Mumbai's famously efficient… See cast, budget $3.4M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uwj3rzni98tEYqJae4Cy2k78Xmm.jpg",
+   "industry": "bollywood",
+   "k": "The Lunchbox, The Lunchbox movie, The Lunchbox cast, The Lunchbox story, The Lunchbox box office collection, The Lunchbox budget, The Lunchbox review, The Lunchbox rating, The Lunchbox release date, The Lunchbox trailer, The Lunchbox Drama, The Lunchbox Romance, Indian movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Irrfan Khan"
+     },
+     {
+      "@type": "Person",
+      "name": "Nimrat Kaur"
+     },
+     {
+      "@type": "Person",
+      "name": "Nawazuddin Siddiqui"
+     },
+     {
+      "@type": "Person",
+      "name": "Lillete Dubey"
+     },
+     {
+      "@type": "Person",
+      "name": "Nasir Khan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 865,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Lunchbox (2013): Drama/Romance film. Story: A mistaken delivery in Mumbai's famously efficient… See cast, budget $3.4M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ritesh Batra"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uwj3rzni98tEYqJae4Cy2k78Xmm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=191714",
+    "name": "The Lunchbox",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-09-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=191714"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lunchbox (2013)</h1>\n<p class=\"ssr-lead\">A mistaken delivery in Mumbai&#x27;s famously efficient lunchbox delivery system (Mumbai&#x27;s Dabbawallahs) connects a young housewife to a stranger in the dusk of his life. They build a fantasy world together through notes in the lunchbox. Gradually, this fantasy threatens to overwhelm their reality.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2013</li><li>Runtime: 104 minutes</li><li>Director: Ritesh Batra</li><li>Genres: Drama, Romance</li><li>Budget: $3.4M</li><li>TMDB rating: 7.4/10 (865 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Irrfan Khan as Saajan Fernandes</li><li>Nimrat Kaur as Ila</li><li>Nawazuddin Siddiqui as Shaikh</li><li>Lillete Dubey as Ila&#x27;s Mother</li><li>Nasir Khan as Ila&#x27;s Father</li><li>Bharati Achrekar as Mrs. Khrishnan</li><li>Nakul Vaid as Rajeev</li><li>Yashvi Punneet Nagar as Yashvi</li><li>Denzil Smith as Mr. Shroff</li><li>Shruti Bapna as Meherunissa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Lunchbox (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:2014": {
    "d": "The Edge of Heaven (2007): Drama film. Story: The lives of six German-Turkish immigrants are drawn… See cast, budget $3.8M, and TMDB rating 7.2/10.",
@@ -1715,6 +2035,70 @@
    "t": "Destino (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
   },
+  "movie:366514": {
+   "d": "Up for Love (2016): Comedy/Romance film. Story: Diane is a well-known lawyer, divorced for three… See cast, budget $10M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7SIyCeKoLDhGGVfElwf37cdSykS.jpg",
+   "industry": "world",
+   "k": "Up for Love, Up for Love movie, Up for Love cast, Up for Love story, Up for Love box office collection, Up for Love budget, Up for Love review, Up for Love rating, Up for Love release date, Up for Love Comedy, Up for Love Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Dujardin"
+     },
+     {
+      "@type": "Person",
+      "name": "Virginie Efira"
+     },
+     {
+      "@type": "Person",
+      "name": "Cédric Kahn"
+     },
+     {
+      "@type": "Person",
+      "name": "César Domboy"
+     },
+     {
+      "@type": "Person",
+      "name": "Stéphanie Papanian"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 891,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Up for Love (2016): Comedy/Romance film. Story: Diane is a well-known lawyer, divorced for three… See cast, budget $10M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Laurent Tirard"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7SIyCeKoLDhGGVfElwf37cdSykS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=366514",
+    "name": "Up for Love",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-05-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=366514"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Up for Love (2016)</h1>\n<p class=\"ssr-lead\">Diane is a well-known lawyer, divorced for three years. She loses her mobile telephone and receives a call from the person who finds it. That person is Alexandre, a charming man and the perfect gentleman. They make a connection over the phone and agree to meet up the following day. But when Alexandre arrives, there&#x27;s a surprise in store when Diane discovers he is only 4&#x27; 6&quot; tall. From that moment on, Diane tries to overcome the prejudices of society and her own fears to experience the best time of her life...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 May 2016</li><li>Runtime: 98 minutes</li><li>Director: Laurent Tirard</li><li>Genres: Comedy, Romance, Drama</li><li>Budget: $10M</li><li>TMDB rating: 6.0/10 (891 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Dujardin as Alexandre</li><li>Virginie Efira as Diane</li><li>Cédric Kahn as Bruno, l&#x27;ex de Diane et son associé</li><li>César Domboy as Benji, le fils d&#x27;Alexandre</li><li>Stéphanie Papanian as Coralie, l&#x27;assistante</li><li>Edmonde Franchi as Monique, l&#x27;aide-ménagère</li><li>Manoëlle Gaillard as Nicole, la mère de Diane</li><li>Bruno Gomila as Philippe, le beau-père de Diane</li><li>Myriam Tekaïa as Stéphanie</li><li>François-Dominique Blin as Sébastien (pilote)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Up for Love (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:391714": {
    "d": "On Chesil Beach (2018): Drama/Romance film. Story: In 1962 England, a young couple finds their idyllic… See cast, budget $746.0k, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
@@ -1909,6 +2293,70 @@
    "published": "2026-11-13",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Rememory (2017)</h1>\n<p class=\"ssr-lead\">The widow of a wise professor stumbles upon one of his inventions that&#x27;s able to record and play a person&#x27;s memory.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2017</li><li>Runtime: 111 minutes</li><li>Director: Mark Palansky</li><li>Genres: Science Fiction, Drama, Mystery</li><li>TMDB rating: 6.1/10 (498 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Peter Dinklage as Sam Bloom</li><li>Julia Ormond as Carolyn Dunn</li><li>Martin Donovan as Gordon Dunn</li><li>Anton Yelchin as Todd</li><li>Henry Ian Cusick as Lawton</li><li>Evelyne Brochu as Wendy</li><li>Gracyn Shinyei as Jane Dunn</li><li>Jordana Largy as Freddie</li><li>Colin Lawrence as Mike Buckland</li><li>Carrie Anne Fleming as Norma Myers</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Rememory (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:455714": {
+   "d": "Bad Genius (2017): Drama/Crime film. Story: Lynn, a brilliant student, after helping her friends… See cast, budget $1.84M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gOgBpD5NivnWIqZYTBFSmAtziuJ.jpg",
+   "industry": "world",
+   "k": "Bad Genius, Bad Genius movie, Bad Genius cast, Bad Genius story, Bad Genius box office collection, Bad Genius budget, Bad Genius review, Bad Genius rating, Bad Genius release date, Bad Genius trailer, Bad Genius Drama, Bad Genius Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chutimon Chuengcharoensukying"
+     },
+     {
+      "@type": "Person",
+      "name": "Chanon Santinatornkul"
+     },
+     {
+      "@type": "Person",
+      "name": "Eisaya Hosuwan"
+     },
+     {
+      "@type": "Person",
+      "name": "Teeradon Supapunpinyo"
+     },
+     {
+      "@type": "Person",
+      "name": "Thaneth Warakulnukroh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 895,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Bad Genius (2017): Drama/Crime film. Story: Lynn, a brilliant student, after helping her friends… See cast, budget $1.84M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nattawut Poonpiriya"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gOgBpD5NivnWIqZYTBFSmAtziuJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=455714",
+    "name": "Bad Genius",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=455714"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Genius (2017)</h1>\n<p class=\"ssr-lead\">Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 May 2017</li><li>Runtime: 130 minutes</li><li>Director: Nattawut Poonpiriya</li><li>Genres: Drama, Crime, Thriller, Comedy</li><li>Budget: $1.84M</li><li>TMDB rating: 7.8/10 (895 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chutimon Chuengcharoensukying as Lynn</li><li>Chanon Santinatornkul as Bank</li><li>Eisaya Hosuwan as Grace</li><li>Teeradon Supapunpinyo as Pat</li><li>Thaneth Warakulnukroh as Lynn&#x27;s Father</li><li>Sarinrat Thomas as Headmistress</li><li>Ego Mikitas as Test Centre Supervisor</li><li>Pasin Kuansataporn as Tong</li><li>Sahajak Boonthanakit as Pat&#x27;s Father</li><li>Kanjana Vinaipanid as Pat&#x27;s Mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, OnDemandKorea, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
+   "t": "Bad Genius (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
   "movie:48714": {

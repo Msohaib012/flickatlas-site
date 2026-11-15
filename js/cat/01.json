@@ -1,6 +1,6 @@
 {
  "bucket": "01",
- "count": 56,
+ "count": 61,
  "titles": {
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -518,6 +518,140 @@
    "type": "movie",
    "vote_average": 6.279,
    "vote_count": 749
+  },
+  "movie:1223601": {
+   "backdrop_path": "/dblYnDLvHAjTcjpYgWUEZyNYbqP.jpg",
+   "budget": 12200000,
+   "cast": [
+    {
+     "c": "Aatami Korpi",
+     "n": "Jorma Tommila"
+    },
+    {
+     "c": "Yeagor Dragunov",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "KGB Officer",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "Finnish Man",
+     "n": "Tommi Korpela"
+    },
+    {
+     "c": "Pilot",
+     "n": "Kaspar Velberg"
+    },
+    {
+     "c": "Militsioner",
+     "n": "Pääru Oja"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Erki Laur"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Maksim Demidov"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Mart Nurk"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Riho Rosberg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jalmari Helander"
+   ],
+   "genres": [
+    "Action",
+    "War",
+    "Thriller"
+   ],
+   "id": 1223601,
+   "industry": "world",
+   "origin_country": [
+    "FI"
+   ],
+   "original_language": "fi",
+   "overview": "Returning to the house where his family was brutally murdered during the war, \"the man who refuses to die\" dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
+   "popularity": 6.0344,
+   "poster_path": "/roCMOuMQ55Z2TxVx1vZZTevlo0n.jpg",
+   "production_countries": [
+    "FI",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-10-22",
+   "revenue": 9811703,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fi"
+   ],
+   "status": "Released",
+   "tagline": "When they took his family, he took revenge.",
+   "title": "Sisu: Road to Revenge",
+   "trailer": {
+    "key": "VmStqCXIgio",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 963
   },
   "movie:12501": {
    "backdrop_path": "/mqMCvFJ3fRc7RXa0w6A0VRZ1b7F.jpg",
@@ -1221,6 +1355,186 @@
    "type": "movie",
    "vote_average": 6.225,
    "vote_count": 60
+  },
+  "movie:15301": {
+   "backdrop_path": "/8z8uPdpCBxGMQQGr8IfxRSbXNFs.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Passenger",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Driver",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Mr. Bloom",
+     "n": "Scatman Crothers"
+    },
+    {
+     "c": "Valentine",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Bill",
+     "n": "Vic Morrow"
+    },
+    {
+     "c": "Helen Foley",
+     "n": "Kathleen Quinlan"
+    },
+    {
+     "c": "Ray",
+     "n": "Charles Hallahan"
+    },
+    {
+     "c": "Larry",
+     "n": "Doug McGrath"
+    },
+    {
+     "c": "Mr. Agee",
+     "n": "Murray Matheson"
+    },
+    {
+     "c": "Mr. Conroy",
+     "n": "Bill Quinn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "John Landis",
+    "Joe Dante",
+    "Steven Spielberg",
+    "George Miller"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 15301,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An anthology film presenting remakes of three episodes from the \"Twilight Zone\" TV series—\"Kick the Can\", \"It's a Good Life\" and \"Nightmare at 20,000 Feet\"—and one original story, \"Time Out.\"",
+   "popularity": 3.5875,
+   "poster_path": "/sDWARc5aYTUKE8Y2FIGVgWXuI4K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1983-06-24",
+   "revenue": 29450920,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "vi",
+    "en",
+    "de",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "You're travelling through another dimension. A dimension, not only of sight and sound, but of mind. A journey into a wondrous land whose boundaries are that of imagination. Next stop, the Twilight Zone!",
+   "title": "Twilight Zone: The Movie",
+   "trailer": {
+    "key": "Vcx-Kx_WOvQ",
+    "name": "Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.492,
+   "vote_count": 866
   },
   "movie:1571101": {
    "backdrop_path": "/zihczzQLrtNufyLoofytqQi6yep.jpg",
@@ -3043,6 +3357,108 @@
    "vote_average": 7.415,
    "vote_count": 490
   },
+  "movie:446101": {
+   "backdrop_path": "/kDlwxlCzJmmJra99LlIwr4o9nbZ.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Lily Colson",
+     "n": "Odessa Young"
+    },
+    {
+     "c": "Bex Warren",
+     "n": "Hari Nef"
+    },
+    {
+     "c": "Em Lacey",
+     "n": "ABRA"
+    },
+    {
+     "c": "Sarah Lacey",
+     "n": "Suki Waterhouse"
+    },
+    {
+     "c": "Nancey Lacey",
+     "n": "Anika Noni Rose"
+    },
+    {
+     "c": "Principal Turrell",
+     "n": "Colman Domingo"
+    },
+    {
+     "c": "Grace",
+     "n": "Maude Apatow"
+    },
+    {
+     "c": "Reagan Hall",
+     "n": "Bella Thorne"
+    },
+    {
+     "c": "Nick Mathers",
+     "n": "Joel McHale"
+    },
+    {
+     "c": "Mark",
+     "n": "Bill Skarsgård"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "MA 15+",
+   "date_kind": "release",
+   "director": [
+    "Sam Levinson"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Comedy"
+   ],
+   "id": 446101,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After an anonymous hacker begins leaking the private data of thousands living in a small American town, the townspeople spiral into madness, with four high school seniors at the center of the maelstrom.",
+   "popularity": 2.1314,
+   "poster_path": "/dMg1wPakqPx54yMzm0OuHn1jl42.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-09-21",
+   "revenue": 2900000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You asked for it, America.",
+   "title": "Assassination Nation",
+   "trailer": {
+    "key": "5aWOLvS8lEo",
+    "name": "Trailer - Own it on Blu-ray, DVD & Digital",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.227,
+   "vote_count": 926
+  },
   "movie:470401": {
    "backdrop_path": "/uLEjkm2vcqBcWzH5eX7YvAE8OVJ.jpg",
    "budget": 0,
@@ -3192,6 +3608,115 @@
    "type": "movie",
    "vote_average": 6.57,
    "vote_count": 408
+  },
+  "movie:480001": {
+   "backdrop_path": "/cUkpSTVt0iUbIVFDxvUGs747OMW.jpg",
+   "budget": 1800000,
+   "cast": [
+    {
+     "c": "Casey",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Sensei",
+     "n": "Alessandro Nivola"
+    },
+    {
+     "c": "Anna",
+     "n": "Imogen Poots"
+    },
+    {
+     "c": "Thomas",
+     "n": "Steve Terada"
+    },
+    {
+     "c": "Henry",
+     "n": "David Zellner"
+    },
+    {
+     "c": "Kennith",
+     "n": "Phillip Andre Botello"
+    },
+    {
+     "c": "Alex",
+     "n": "Jason Burkey"
+    },
+    {
+     "c": "Steve",
+     "n": "Mike Brooks"
+    },
+    {
+     "c": "Other Steve",
+     "n": "C.J. Rush"
+    },
+    {
+     "c": "Gun Store Owner",
+     "n": "Davey Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Riley Stearns"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 480001,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.",
+   "popularity": 3.4072,
+   "poster_path": "/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JustWatch TV Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-09-13",
+   "revenue": 2400000,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Art of Self-Defense",
+   "trailer": {
+    "key": "7Bms6Hba-3A",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.591,
+   "vote_count": 886
   },
   "movie:5001": {
    "backdrop_path": "/jnJ4i6vPQETcfjxOvAODxzsdQfX.jpg",
@@ -3627,6 +4152,102 @@
    "type": "movie",
    "vote_average": 5.895,
    "vote_count": 372
+  },
+  "movie:587301": {
+   "backdrop_path": "/9LyPD0Kk0xfEcT8iydKDm2xYyGS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Samia Zibra",
+     "n": "Zita Hanrot"
+    },
+    {
+     "c": "Yanis Bensaadi",
+     "n": "Liam Pierron"
+    },
+    {
+     "c": "Messaoud Boufarra, the math teacher",
+     "n": "Soufiane Guerrab"
+    },
+    {
+     "c": "Moussa",
+     "n": "Moussa Mansaly"
+    },
+    {
+     "c": "Dylan",
+     "n": "Alban Ivanov"
+    },
+    {
+     "c": "Thierry Bouchard, the history-geography teacher",
+     "n": "Antoine Reinartz"
+    },
+    {
+     "c": "Redouane, the sports teacher",
+     "n": "Redouane Bougheraba"
+    },
+    {
+     "c": "Seïkou",
+     "n": "Bakary Diombera"
+    },
+    {
+     "c": "The teacher too beautiful",
+     "n": "Adèle Galloy"
+    },
+    {
+     "c": "Kevin",
+     "n": "Gaspard Gevin-Hié"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "8",
+   "date_kind": "release",
+   "director": [
+    "Grand Corps Malade",
+    "Mehdi Idir"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Family"
+   ],
+   "id": 587301,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In one of the poorest areas of Paris, a school counselor devotes herself to working with disadvantaged students, while facing challenges of her own.",
+   "popularity": 1.5519,
+   "poster_path": "/m0EmaEJmB02iIBA1YWQZGYVLBjA.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2019-08-28",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "School Life",
+   "trailer": {
+    "key": "JGWAnR6axm4",
+    "name": "SCHOOL LIFE - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 821
   },
   "movie:588001": {
    "backdrop_path": "/ensZ2nLvJEtFEioRFE6GJN9JPRI.jpg",

@@ -1,7 +1,122 @@
 {
  "bucket": "88",
- "count": 57,
+ "count": 69,
  "titles": {
+  "movie:10188": {
+   "backdrop_path": "/1ZxO1yMAe6GvhcOLQQ4PwXX2npB.jpg",
+   "budget": 27000000,
+   "cast": [
+    {
+     "c": "Tibby Rollins",
+     "n": "Amber Tamblyn"
+    },
+    {
+     "c": "Lena Kaligaris",
+     "n": "Alexis Bledel"
+    },
+    {
+     "c": "Carmen Lowell",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Bridget Vreeland",
+     "n": "Blake Lively"
+    },
+    {
+     "c": "Julia Beckwith",
+     "n": "Rachel Nichols"
+    },
+    {
+     "c": "Ian",
+     "n": "Tom Wisdom"
+    },
+    {
+     "c": "Christina Lowell",
+     "n": "Rachel Ticotin"
+    },
+    {
+     "c": "Brian McBrian",
+     "n": "Leonardo Nam"
+    },
+    {
+     "c": "Kostas Dounas",
+     "n": "Michael Rady"
+    },
+    {
+     "c": "Professor Nasrin Mehani",
+     "n": "Shohreh Aghdashloo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sanaa Hamri"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 10188,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four young women continue the journey toward adulthood that began with \"The Sisterhood of the Traveling Pants.\" Now three years later, these lifelong friends embark on separate paths for their first year of college and the summer beyond, but remain in touch by sharing their experiences with each other.",
+   "popularity": 2.5804,
+   "poster_path": "/LCzsRo4RTxtWeBYMHnWAmk33U3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-08-06",
+   "revenue": 44352417,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some friends just fit together.",
+   "title": "The Sisterhood of the Traveling Pants 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.25,
+   "vote_count": 821
+  },
   "movie:1088": {
    "backdrop_path": "/dLJ6qwEXg2AglBSClRV5iVYZI1b.jpg",
    "budget": 8000000,
@@ -561,6 +676,119 @@
    "type": "movie",
    "vote_average": 5.934,
    "vote_count": 302
+  },
+  "movie:11888": {
+   "backdrop_path": "/gfwMVCtYjn4VjAQyIZ5bOj6KSu0.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Ted Brooks",
+     "n": "Cuba Gooding Jr."
+    },
+    {
+     "c": "Thunder Jack",
+     "n": "James Coburn"
+    },
+    {
+     "c": "Dr. Rupert Brooks",
+     "n": "Sisqó"
+    },
+    {
+     "c": "Amelia",
+     "n": "Nichelle Nichols"
+    },
+    {
+     "c": "George",
+     "n": "M. Emmet Walsh"
+    },
+    {
+     "c": "Peter Yellowbear",
+     "n": "Graham Greene"
+    },
+    {
+     "c": "Ernie",
+     "n": "Brian Doyle-Murray"
+    },
+    {
+     "c": "Barb",
+     "n": "Joanna Bacalso"
+    },
+    {
+     "c": "Olivier",
+     "n": "Jean Michel Paré"
+    },
+    {
+     "c": "Michael Bolton",
+     "n": "Michael Bolton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brian Levant"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 11888,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a Miami dentist inherits a team of sled dogs, he's got to learn the trade or lose his pack to a crusty mountain man.",
+   "popularity": 2.9547,
+   "poster_path": "/8DDC6z1XyLSiNLzKw1pXcYeAOJ3.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-01-18",
+   "revenue": 81000000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready for mush hour!",
+   "title": "Snow Dogs",
+   "trailer": {
+    "key": "g8OgyRrNL1A",
+    "name": "Snow Dogs",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 814
   },
   "movie:1209288": {
    "backdrop_path": "/tBmJCH9llj1Q9jDOS7vGWnl7GVj.jpg",
@@ -1498,6 +1726,117 @@
    "vote_average": 7.028,
    "vote_count": 108
   },
+  "movie:13688": {
+   "backdrop_path": "/7y0ol1zsvs0GbYR0BdTvWdOIDHo.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Ti Chow",
+     "n": "Stephen Chow"
+    },
+    {
+     "c": "Dicky Chow",
+     "n": "Xu Jiao"
+    },
+    {
+     "c": "Miss Yuen",
+     "n": "Zhang Yuqi"
+    },
+    {
+     "c": "Boss",
+     "n": "Lam Tze-chung"
+    },
+    {
+     "c": "Mr. Cao",
+     "n": "Lee Sheung-Ching"
+    },
+    {
+     "c": "Storm Dragon",
+     "n": "Yao Wenxue"
+    },
+    {
+     "c": "P.E. Teacher",
+     "n": "Steven Fung Min-Hang"
+    },
+    {
+     "c": "Maggie",
+     "n": "Han Yonghua"
+    },
+    {
+     "c": "Chen Junsheng",
+     "n": "Huang Lei"
+    },
+    {
+     "c": "Reporter",
+     "n": "Poon Hang-Sang"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Stephen Chow"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 13688,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "US",
+    "HK"
+   ],
+   "original_language": "cn",
+   "overview": "A poor construction worker, who struggles to keep his son in private school, mistakes an orb he finds in a junkjard for a toy which proves to be much, much more once the young boy starts to play with it.",
+   "popularity": 3.8815,
+   "poster_path": "/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-01-30",
+   "revenue": 47301471,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "It's out of this world.",
+   "title": "CJ7",
+   "trailer": {
+    "key": "pMELrGHqKSo",
+    "name": "CJ7 - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.338,
+   "vote_count": 848
+  },
   "movie:144288": {
    "backdrop_path": "/mrVUkTJHY8MeZRvBDxxmnAhRcxa.jpg",
    "budget": 0,
@@ -1766,6 +2105,125 @@
    "type": "movie",
    "vote_average": 7.81,
    "vote_count": 21
+  },
+  "movie:177888": {
+   "backdrop_path": "/uKoJTTgpyWiu04hzSgPWbyJfjYi.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Brady",
+     "n": "Ross Lynch"
+    },
+    {
+     "c": "McKenzie 'Mack' Fox",
+     "n": "Maia Mitchell"
+    },
+    {
+     "c": "Lela",
+     "n": "Gracie Gillam"
+    },
+    {
+     "c": "Tanner",
+     "n": "Garrett Clayton"
+    },
+    {
+     "c": "Butchy",
+     "n": "John DeLuca"
+    },
+    {
+     "c": "Cheechee",
+     "n": "Chrissie Fit"
+    },
+    {
+     "c": "Aunt Antoinette",
+     "n": "Suzanne Cryer"
+    },
+    {
+     "c": "Big Poppa",
+     "n": "Barry Bostwick"
+    },
+    {
+     "c": "Dr. Fusion",
+     "n": "Kevin Chamberlin"
+    },
+    {
+     "c": "Les Camembert",
+     "n": "Steve Valentine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jeffrey Hornaday"
+   ],
+   "genres": [
+    "Family",
+    "Music",
+    "TV Movie",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 177888,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Life's a beach for surfers Brady and McKenzie – until a rogue wave magically transports them inside the classic '60s beach party flick, \"Wet Side Story,\" where a full-blown rivalry between bikers and surfers threatens to erupt. There, amidst a sea of surfing, singing and dancing, Brady and Mack accidentally change the storyline, and the film’s dreamy hero and heroine fall for them instead of for each other!",
+   "popularity": 2.5524,
+   "poster_path": "/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-08-07",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Getting trapped in a movie... is no day at the beach.",
+   "title": "Teen Beach Movie",
+   "trailer": {
+    "key": "R3MnamU4TfM",
+    "name": "Teen Beach Movie - Official Disney Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 980
   },
   "movie:1888": {
    "backdrop_path": "/x9krjfbtFfv1ouL8A59324M7O0e.jpg",
@@ -2325,6 +2783,381 @@
    "vote_average": 6.1,
    "vote_count": 397
   },
+  "movie:24188": {
+   "backdrop_path": "/uUrV5KSjnZx47Dq7e6STr73iN4N.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Bruno Cortona",
+     "n": "Vittorio Gassman"
+    },
+    {
+     "c": "Roberto Mariani",
+     "n": "Jean-Louis Trintignant"
+    },
+    {
+     "c": "Lilli Cortona",
+     "n": "Catherine Spaak"
+    },
+    {
+     "c": "Danilo Borelli 'Bibi'",
+     "n": "Claudio Gora"
+    },
+    {
+     "c": "Gianna Cortona",
+     "n": "Luciana Angiolillo"
+    },
+    {
+     "c": "Aunt Lidia",
+     "n": "Linda Sini"
+    },
+    {
+     "c": "The Commendatore’s wife",
+     "n": "Franca Polesello"
+    },
+    {
+     "c": "Aunt Enrica",
+     "n": "Bruna Simionato"
+    },
+    {
+     "c": "Bikini girl with leg cast",
+     "n": "Lilly Darelli"
+    },
+    {
+     "c": "Clara, the girl at the Station",
+     "n": "Mila Stanić"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "6",
+   "date_kind": "release",
+   "director": [
+    "Dino Risi"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 24188,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Roberto, a shy law student in Rome, meets Bruno, a forty-year-old exuberant, capricious man, who takes him for a drive through the Roman and Tuscany countries in the summer. When their journey starts to blend into their daily lives though, the pair’s newfound friendship is tested.",
+   "popularity": 2.0545,
+   "poster_path": "/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1962-12-05",
+   "revenue": 1892298,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "it",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Il Sorpasso",
+   "trailer": {
+    "key": "bFf2VID8-qg",
+    "name": "IL SORPASSO - U.S. Re-release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.234,
+   "vote_count": 877
+  },
+  "movie:244088": {
+   "backdrop_path": "/sSN5agmiCE4NIuhWr2a58TRCz1t.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Carla Bernaschi",
+     "n": "Valeria Bruni Tedeschi"
+    },
+    {
+     "c": "Dino Ossola",
+     "n": "Fabrizio Bentivoglio"
+    },
+    {
+     "c": "Roberta",
+     "n": "Valeria Golino"
+    },
+    {
+     "c": "Giovanni Bernaschi",
+     "n": "Fabrizio Gifuni"
+    },
+    {
+     "c": "Donato Russomanno",
+     "n": "Luigi Lo Cascio"
+    },
+    {
+     "c": "Luca Ambrosini",
+     "n": "Giovanni Anzaldo"
+    },
+    {
+     "c": "Serena Ossola",
+     "n": "Matilde Gioli"
+    },
+    {
+     "c": "Massimiliano Bernaschi",
+     "n": "Guglielmo Pinelli"
+    },
+    {
+     "c": "Giampi",
+     "n": "Gigio Alberti"
+    },
+    {
+     "c": "Ispettore",
+     "n": "Bebo Storti"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Paolo Virzì"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 244088,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "The destinies of two families are irrevocably tied together after a cyclist is hit off the road by a jeep in the night before Christmas Eve.",
+   "popularity": 1.5117,
+   "poster_path": "/nQxQ2N2wXksZnHa2ZzdwCbDtmkE.jpg",
+   "production_countries": [
+    "IT",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Film Movement Plus"
+    },
+    {
+     "name": "Film Movement Plus Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-01-09",
+   "revenue": 5809330,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Human Capital",
+   "trailer": {
+    "key": "gkt0wA4OLLA",
+    "name": "Human Capital - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 963
+  },
+  "movie:25188": {
+   "backdrop_path": "/fhzwleXGmiqBuQdWxmEwpkydhm4.jpg",
+   "budget": 1300000,
+   "cast": [
+    {
+     "c": "Sonny Crawford",
+     "n": "Timothy Bottoms"
+    },
+    {
+     "c": "Jacy Farrow",
+     "n": "Cybill Shepherd"
+    },
+    {
+     "c": "Duane Jackson",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Ruth Popper",
+     "n": "Cloris Leachman"
+    },
+    {
+     "c": "Lois Farrow",
+     "n": "Ellen Burstyn"
+    },
+    {
+     "c": "Sam the Lion",
+     "n": "Ben Johnson"
+    },
+    {
+     "c": "Lester Marlow",
+     "n": "Randy Quaid"
+    },
+    {
+     "c": "Abilene",
+     "n": "Clu Gulager"
+    },
+    {
+     "c": "Genevieve",
+     "n": "Eileen Brennan"
+    },
+    {
+     "c": "Billy",
+     "n": "Sam Bottoms"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Peter Bogdanovich"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 25188,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "High school seniors and best friends, Sonny and Duane, live in a dying Texas town. The handsome Duane is dating a local beauty, while Sonny is having an affair with the coach's wife. As graduation nears and both boys contemplate their futures, Duane eyes the army and Sonny takes over a local business. Each struggles to figure out if he can escape this dead-end town and build a better life somewhere else.",
+   "popularity": 3.4503,
+   "poster_path": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1971-10-22",
+   "revenue": 29133000,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Anarene, Texas, 1951. Nothing much has changed…",
+   "title": "The Last Picture Show",
+   "trailer": {
+    "key": "NufO2KXHbKQ",
+    "name": "AFS PRESENTS: THE LAST PICTURE SHOW",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 821
+  },
   "movie:276488": {
    "backdrop_path": "/ewy2aJDFtqMzCrDg0wsZ3G2MOpo.jpg",
    "budget": 0,
@@ -2499,6 +3332,109 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 388
+  },
+  "movie:2788": {
+   "backdrop_path": "/wPW1cMe2XyeLnm2DNDudoDXVSwt.jpg",
+   "budget": 11500000,
+   "cast": [
+    {
+     "c": "Lelaina Pierce",
+     "n": "Winona Ryder"
+    },
+    {
+     "c": "Troy Dyer",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Vickie Miner",
+     "n": "Janeane Garofalo"
+    },
+    {
+     "c": "Sammy Gray",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Michael Grates",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Charlane McGregor",
+     "n": "Swoosie Kurtz"
+    },
+    {
+     "c": "Wes McGregor",
+     "n": "Harry O'Reilly"
+    },
+    {
+     "c": "Helen Anne Pierce",
+     "n": "Susan Norfleet"
+    },
+    {
+     "c": "Tom Pierce",
+     "n": "Joe Don Baker"
+    },
+    {
+     "c": "Tami",
+     "n": "Renée Zellweger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ben Stiller"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
+   "id": 2788,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small circle of friends suffering from post-collegiate blues must confront the hard truth about life, love and the pursuit of gainful employment. As they struggle to map out survival guides for the future, the Gen-X quartet soon begins to realize that reality isn't all it's cracked up to be.",
+   "popularity": 2.3909,
+   "poster_path": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1994-02-18",
+   "revenue": 33351557,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about love in the '90s",
+   "title": "Reality Bites",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.539,
+   "vote_count": 831
   },
   "movie:30588": {
    "backdrop_path": "/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
@@ -3155,6 +4091,342 @@
    "vote_average": 8.116,
    "vote_count": 366
   },
+  "movie:424488": {
+   "backdrop_path": "/lrHfbfrEl9keXee7lLngtKtStS8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Megan Leavey",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Matt Morales",
+     "n": "Ramón Rodríguez"
+    },
+    {
+     "c": "Sergeant Andrew Dean",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Bob",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Jim",
+     "n": "Will Patton"
+    },
+    {
+     "c": "Sills",
+     "n": "Sam Keeley"
+    },
+    {
+     "c": "Gunny Martin",
+     "n": "Common"
+    },
+    {
+     "c": "Jackie Leavey",
+     "n": "Edie Falco"
+    },
+    {
+     "c": "Lt. Michael Forman",
+     "n": "Damson Idris"
+    },
+    {
+     "c": "Barb",
+     "n": "Shannon Tarbet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gabriela Cowperthwaite"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 424488,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.",
+   "popularity": 2.5887,
+   "poster_path": "/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg",
+   "production_countries": [
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-06-09",
+   "revenue": 13406883,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on the true story of a marine's best friend.",
+   "title": "Megan Leavey",
+   "trailer": {
+    "key": "IGGcFbW__XI",
+    "name": "MEGAN LEAVEY  | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 876
+  },
+  "movie:4588": {
+   "backdrop_path": "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Wong Chia Chi / Mrs. Mak",
+     "n": "Tang Wei"
+    },
+    {
+     "c": "Mr. Yee",
+     "n": "Tony Leung Chiu-wai"
+    },
+    {
+     "c": "Kuang Yu Min",
+     "n": "Leehom Wang"
+    },
+    {
+     "c": "Mrs. Yee",
+     "n": "Joan Chen"
+    },
+    {
+     "c": "Old Wu",
+     "n": "Tou Tsung-hua"
+    },
+    {
+     "c": "Lai Shu Jin",
+     "n": "Jacqueline Zhu"
+    },
+    {
+     "c": "Huang Lei",
+     "n": "Ven Kao"
+    },
+    {
+     "c": "Liang Jun Sheng",
+     "n": "Lawrence Ko"
+    },
+    {
+     "c": "Auyang Ling Wen / Mr. Mak",
+     "n": "Johnson Yuen Tak-Cheung"
+    },
+    {
+     "c": "Cho",
+     "n": "Chin Ka-Lok"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Ang Lee"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "id": 4588,
+   "industry": "world",
+   "origin_country": [
+    "TW"
+   ],
+   "original_language": "zh",
+   "overview": "During World War II, a secret agent must seduce, then assassinate an official  who works for the Japanese puppet government in Shanghai. Her mission becomes clouded when she finds herself falling in love with the man she is assigned to kill.",
+   "popularity": 12.5102,
+   "poster_path": "/6c1tqfJEBuIyhQC19SLlLQAUAvJ.jpg",
+   "production_countries": [
+    "CN",
+    "HK",
+    "TW",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-09-24",
+   "revenue": 67100000,
+   "runtime": 158,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "ja",
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To kill the enemy, she would have to capture his heart... and break her own.",
+   "title": "Lust, Caution",
+   "trailer": {
+    "key": "CizN-DvGhrc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.28,
+   "vote_count": 862
+  },
   "movie:463088": {
    "backdrop_path": "/xqHgdHqW2zYKP5loe1o7ScccebV.jpg",
    "budget": 0,
@@ -3465,6 +4737,84 @@
    "type": "movie",
    "vote_average": 7.498,
    "vote_count": 481
+  },
+  "movie:489988": {
+   "backdrop_path": "/2shn4Kiq7qInZgKZhqM5BKie1zL.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "David Kellman"
+    },
+    {
+     "c": "Self",
+     "n": "Robert Shafran"
+    },
+    {
+     "c": "Self",
+     "n": "Lawrence Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Wardle"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 489988,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+   "popularity": 2.4907,
+   "poster_path": "/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-06-29",
+   "revenue": 1041955,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most amazing, incredible, remarkable true story ever told.",
+   "title": "Three Identical Strangers",
+   "trailer": {
+    "key": "uM5TQ4f7ycw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.301,
+   "vote_count": 856
   },
   "movie:51588": {
    "backdrop_path": "/mN0rbiE6kEyVefPTLOBmICfvxJJ.jpg",
@@ -4549,6 +5899,209 @@
    "type": "movie",
    "vote_average": 6.462,
    "vote_count": 495
+  },
+  "movie:84188": {
+   "backdrop_path": "/h8KYW3ptazhrDshynNABMgcfd8A.jpg",
+   "budget": 270000,
+   "cast": [
+    {
+     "c": "Sandra",
+     "n": "Ann Dowd"
+    },
+    {
+     "c": "Becky",
+     "n": "Dreama Walker"
+    },
+    {
+     "c": "Officer Daniels",
+     "n": "Pat Healy"
+    },
+    {
+     "c": "Van",
+     "n": "Bill Camp"
+    },
+    {
+     "c": "Kevin",
+     "n": "Philip Ettinger"
+    },
+    {
+     "c": "Detective Neals",
+     "n": "James McCaffrey"
+    },
+    {
+     "c": "Supplier",
+     "n": "Matt Servitto"
+    },
+    {
+     "c": "Marti",
+     "n": "Ashlie Atkinson"
+    },
+    {
+     "c": "Connie",
+     "n": "Nikiya Mathis"
+    },
+    {
+     "c": "Julio",
+     "n": "Ralph Rodriguez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Craig Zobel"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 84188,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On a particularly busy day at a suburban Ohio fast food restaurant, manager Sandra receives a phone call from a police officer saying that an employee has stolen money from a customer.",
+   "popularity": 2.4282,
+   "poster_path": "/bLdu28fr9txYlHLmEOyGplDT3nH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-08-23",
+   "revenue": 592116,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How far would you go?",
+   "title": "Compliance",
+   "trailer": {
+    "key": "9XGi3_uD0Ms",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.355,
+   "vote_count": 826
   },
   "movie:853588": {
    "backdrop_path": "/k6YjZblaTamvnvDouOJoAdPHaHj.jpg",

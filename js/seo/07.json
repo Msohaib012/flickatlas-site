@@ -1,7 +1,135 @@
 {
  "bucket": "07",
- "count": 53,
+ "count": 66,
  "titles": {
+  "movie:10207": {
+   "d": "Message in a Bottle (1999): Romance/Drama film. Story: A woman finds a romantic letter in a bottle washed… See cast, budget $80M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bHTAGzPTQ0aBm7gmfkSnqaHiajM.jpg",
+   "industry": "world",
+   "k": "Message in a Bottle, Message in a Bottle movie, Message in a Bottle cast, Message in a Bottle story, Message in a Bottle box office collection, Message in a Bottle budget, Message in a Bottle review, Message in a Bottle rating, Message in a Bottle release date, Message in a Bottle trailer, Message in a Bottle Romance, Message in a Bottle Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kevin Costner"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Newman"
+     },
+     {
+      "@type": "Person",
+      "name": "John Savage"
+     },
+     {
+      "@type": "Person",
+      "name": "Illeana Douglas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 870,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Message in a Bottle (1999): Romance/Drama film. Story: A woman finds a romantic letter in a bottle washed… See cast, budget $80M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luis Mandoki"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bHTAGzPTQ0aBm7gmfkSnqaHiajM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10207",
+    "name": "Message in a Bottle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-02-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10207"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Message in a Bottle (1999)</h1>\n<p class=\"ssr-lead\">A woman finds a romantic letter in a bottle washed ashore and tracks down the author, a widowed shipbuilder whose wife died tragically early. As a deep and mutual attraction blossoms, the man struggles to make peace with his past so that he can move on and find happiness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 February 1999</li><li>Runtime: 131 minutes</li><li>Director: Luis Mandoki</li><li>Genres: Romance, Drama</li><li>Budget: $80M</li><li>TMDB rating: 6.3/10 (870 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kevin Costner as Garrett Blake</li><li>Robin Wright as Theresa Osborne</li><li>Paul Newman as Dodge Blake</li><li>John Savage as Johnny Land</li><li>Illeana Douglas as Lina Paul</li><li>Robbie Coltrane as Charlie Toschi</li><li>Jesse James as Jason Osborne</li><li>Bethel Leslie as Marta Land</li><li>Tom Aldredge as Hank Land</li><li>Viveka Davis as Alva</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Message in a Bottle (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
+  "movie:102207": {
+   "d": "HOUBA! On the Trail of the Marsupilami (2012): Family/Adventure film. Story: When reporter Dan Geraldo arrives in Palombia to hunt… See cast and budget $50M.",
+   "img": "https://image.tmdb.org/t/p/w780/xD9hhKEt0DubqzZ2nBTxQlixewi.jpg",
+   "industry": "world",
+   "k": "HOUBA! On the Trail of the Marsupilami, HOUBA! On the Trail of the Marsupilami movie, HOUBA! On the Trail of the Marsupilami cast, HOUBA! On the Trail of the Marsupilami story, HOUBA! On the Trail of the Marsupilami box office collection, HOUBA! On the Trail of the Marsupilami budget, HOUBA! On the Trail of the Marsupilami review, HOUBA! On the Trail of the Marsupilami rating, HOUBA! On the Trail of the Marsupilami release date, HOUBA! On the Trail of the Marsupilami trailer, HOUBA! On the Trail of the Marsupilami Family, HOUBA! On the Trail of the Marsupilami Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alain Chabat"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamel Debbouze"
+     },
+     {
+      "@type": "Person",
+      "name": "Fred Testot"
+     },
+     {
+      "@type": "Person",
+      "name": "Lambert Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Timsit"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 915,
+     "ratingValue": 5.3,
+     "worstRating": 0
+    },
+    "description": "HOUBA! On the Trail of the Marsupilami (2012): Family/Adventure film. Story: When reporter Dan Geraldo arrives in Palombia to hunt… See cast and budget $50M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alain Chabat"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Family",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xD9hhKEt0DubqzZ2nBTxQlixewi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=102207",
+    "name": "HOUBA! On the Trail of the Marsupilami",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-04-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=102207"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>HOUBA! On the Trail of the Marsupilami (2012)</h1>\n<p class=\"ssr-lead\">When reporter Dan Geraldo arrives in Palombia to hunt for a scoop, he never suspects that he is about to make an incredible discovery... With his resourceful local guide Pablito, D an has one surprise after another during a thrilling adventure that allows him to bring the world some spectacular news: the Marsupilami, a mythical and mischievous animal, really does exist! You too will believe in furry tails!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 April 2012</li><li>Runtime: 105 minutes</li><li>Director: Alain Chabat</li><li>Genres: Family, Adventure, Comedy</li><li>Budget: $50M</li><li>TMDB rating: 5.3/10 (915 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alain Chabat as Dan Geraldo</li><li>Jamel Debbouze as Pablito Camaron</li><li>Fred Testot as Hermoso</li><li>Lambert Wilson as Général Pochero</li><li>Patrick Timsit as Caporal</li><li>Géraldine Nakache as Pétunia</li><li>Liya Kebede as Reine Paya</li><li>Aïssa Maïga as Clarisse Iris</li><li>Dalip Singh as Bolo (as The Great Khali)</li><li>Jacques Weber as Papa Dan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "HOUBA! On the Trail of the Marsupilami (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:10407": {
    "d": "Housesitter (1992): Comedy/Romance film. Story: Con artist Gwen moves into Newton's empty home… See cast, budget $26M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/yUUIrkbDObGN6f77QkeDBV9Fsb.jpg",
@@ -65,6 +193,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Housesitter (1992)</h1>\n<p class=\"ssr-lead\">Con artist Gwen moves into Newton&#x27;s empty home without his knowledge and begins setting up house, posing as his new wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 1992</li><li>Runtime: 102 minutes</li><li>Director: Frank Oz</li><li>Genres: Comedy, Romance</li><li>Budget: $26M</li><li>TMDB rating: 6.2/10 (499 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Martin as Newton Davis</li><li>Goldie Hawn as Gwen Phillips</li><li>Dana Delany as Becky Metcalf</li><li>Julie Harris as Edna Davis</li><li>Donald Moffat as George Davis</li><li>Peter MacNicol as Marty</li><li>Richard B. Shull as Ralph</li><li>Laurel Cronin as Mary</li><li>Roy Cooper as Winston Moseby</li><li>Christopher Durang as Reverend Lipton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Housesitter (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
+  },
+  "movie:10907": {
+   "d": "The Adventures of Robin Hood (1938): Adventure/Romance film. Story: Robin Hood fights nobly for justice against the evil… See cast and budget $2.03M.",
+   "img": "https://image.tmdb.org/t/p/w780/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+   "industry": "world",
+   "k": "The Adventures of Robin Hood, The Adventures of Robin Hood movie, The Adventures of Robin Hood cast, The Adventures of Robin Hood story, The Adventures of Robin Hood box office collection, The Adventures of Robin Hood budget, The Adventures of Robin Hood review, The Adventures of Robin Hood rating, The Adventures of Robin Hood release date, The Adventures of Robin Hood trailer, The Adventures of Robin Hood Adventure, The Adventures of Robin Hood Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Errol Flynn"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia de Havilland"
+     },
+     {
+      "@type": "Person",
+      "name": "Basil Rathbone"
+     },
+     {
+      "@type": "Person",
+      "name": "Claude Rains"
+     },
+     {
+      "@type": "Person",
+      "name": "Patric Knowles"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 896,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Adventures of Robin Hood (1938): Adventure/Romance film. Story: Robin Hood fights nobly for justice against the evil… See cast and budget $2.03M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Curtiz"
+     },
+     {
+      "@type": "Person",
+      "name": "William Keighley"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Adventure",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10907",
+    "name": "The Adventures of Robin Hood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1938-05-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10907"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Adventures of Robin Hood (1938)</h1>\n<p class=\"ssr-lead\">Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 1938</li><li>Runtime: 102 minutes</li><li>Director: Michael Curtiz, William Keighley</li><li>Genres: Adventure, Romance, Action</li><li>Budget: $2.03M</li><li>TMDB rating: 7.5/10 (896 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Errol Flynn as Robin Hood</li><li>Olivia de Havilland as Maid Marian</li><li>Basil Rathbone as Sir Guy of Gisbourne</li><li>Claude Rains as Prince John</li><li>Patric Knowles as Will Scarlett</li><li>Eugene Pallette as Friar Tuck</li><li>Alan Hale as Little John</li><li>Melville Cooper as High Sheriff of Nottingham</li><li>Ian Hunter as King Richard the Lion-Heart</li><li>Una O&#x27;Connor as Bess</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Adventures of Robin Hood (1938) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1938"
   },
   "movie:1105407": {
    "d": "Damaged (2024): Action/Drama film. Story: A Chicago detective travels to Scotland after an… See cast, TMDB rating 5.6/10, and release date 12 April 2024.",
@@ -193,6 +389,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The World According to Garp (1982)</h1>\n<p class=\"ssr-lead\">A struggling young writer finds his life and work dominated by his unfaithful wife and his radical feminist mother, whose best-selling manifesto turns her into a cultural icon.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 July 1982</li><li>Runtime: 136 minutes</li><li>Director: George Roy Hill</li><li>Genres: Drama, Comedy</li><li>Budget: $17M</li><li>TMDB rating: 6.7/10 (406 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robin Williams as T.S. Garp</li><li>Mary Beth Hurt as Helen Holm</li><li>Glenn Close as Jenny Fields</li><li>John Lithgow as Roberta Muldoon</li><li>Hume Cronyn as Mr. Fields</li><li>Jessica Tandy as Mrs. Fields</li><li>Swoosie Kurtz as The Hooker</li><li>Brenda Currin as Pooh</li><li>Peter Michael Goetz as John Wolfe</li><li>Jenny Wright as Cushie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The World According to Garp (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
+  },
+  "movie:11507": {
+   "d": "Body Double (1984): Crime/Mystery film. Story: After losing an acting role and his girlfriend, Jake… See cast, budget $10M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/h5QkdbRmG2VodOCSB0QMhSGcCkI.jpg",
+   "industry": "world",
+   "k": "Body Double, Body Double movie, Body Double cast, Body Double story, Body Double box office collection, Body Double budget, Body Double review, Body Double rating, Body Double release date, Body Double trailer, Body Double Crime, Body Double Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Craig Wasson"
+     },
+     {
+      "@type": "Person",
+      "name": "Melanie Griffith"
+     },
+     {
+      "@type": "Person",
+      "name": "Gregg Henry"
+     },
+     {
+      "@type": "Person",
+      "name": "Deborah Shelton"
+     },
+     {
+      "@type": "Person",
+      "name": "Guy Boyd"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 986,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Body Double (1984): Crime/Mystery film. Story: After losing an acting role and his girlfriend, Jake… See cast, budget $10M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian De Palma"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Crime",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/h5QkdbRmG2VodOCSB0QMhSGcCkI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11507",
+    "name": "Body Double",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-10-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11507"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Body Double (1984)</h1>\n<p class=\"ssr-lead\">After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home&#x27;s telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl&#x27;s murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 October 1984</li><li>Runtime: 114 minutes</li><li>Director: Brian De Palma</li><li>Genres: Crime, Mystery, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 6.7/10 (986 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Craig Wasson as Jake Scully</li><li>Melanie Griffith as Holly Body</li><li>Gregg Henry as Sam Bouchard</li><li>Deborah Shelton as Gloria Revelle</li><li>Guy Boyd as Det. Jim McLean</li><li>Dennis Franz as Rubin</li><li>David Haskell as Drama Teacher</li><li>Rebecca Stanley as Kimberly Hess</li><li>Al Israel as Corso</li><li>Douglas Warhit as Video Salesman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Body Double (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
   },
   "movie:11607": {
    "d": "DeepStar Six (1989): Action/Horror film. Story: The crew of an experimental underwater nuclear base… See cast, budget $8M, and TMDB rating 5.5/10.",
@@ -709,6 +969,70 @@
    "t": "Breathe In (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:16007": {
+   "d": "Death Note (2006): Fantasy/Mystery film. Story: Light Yagami finds the \"Death Note,\" a notebook with… See cast, budget $20M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mJMriqsFTXzNE37maThHHb6zCGy.jpg",
+   "industry": "world",
+   "k": "Death Note, Death Note movie, Death Note cast, Death Note story, Death Note box office collection, Death Note budget, Death Note review, Death Note rating, Death Note release date, Death Note Fantasy, Death Note Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tatsuya Fujiwara"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenichi Matsuyama"
+     },
+     {
+      "@type": "Person",
+      "name": "Asaka Seto"
+     },
+     {
+      "@type": "Person",
+      "name": "Shigeki Hosokawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Erika Toda"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 846,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Death Note (2006): Fantasy/Mystery film. Story: Light Yagami finds the \"Death Note,\" a notebook with… See cast, budget $20M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shusuke Kaneko"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Fantasy",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mJMriqsFTXzNE37maThHHb6zCGy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=16007",
+    "name": "Death Note",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-06-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=16007"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Death Note (2006)</h1>\n<p class=\"ssr-lead\">Light Yagami finds the &quot;Death Note,&quot; a notebook with the power to kill, and decides to create a Utopia by killing the world&#x27;s criminals, and soon the world&#x27;s greatest detective, &quot;L,&quot; is hired to find the mysterious murderer. An all out battle between the two greatest minds on earth begins and the winner will control the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 June 2006</li><li>Runtime: 126 minutes</li><li>Director: Shusuke Kaneko</li><li>Genres: Fantasy, Mystery, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 7.1/10 (846 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tatsuya Fujiwara as Light Yagami</li><li>Kenichi Matsuyama as L</li><li>Asaka Seto as Naomi Misora</li><li>Shigeki Hosokawa as Raye Iwamatsu</li><li>Erika Toda as Misa Amane</li><li>Shunji Fujimura as Watari</li><li>Takeshi Kaga as Soichiro Yagami</li><li>Yuu Kashii as Shiori Akino</li><li>Shidou Nakamura as Ryuk (voice)</li><li>Sota Aoyama as Touta Matsuda</li></ul>\n</article>",
+   "t": "Death Note (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:1631807": {
    "d": "The Secret Woman (2026): Drama/Thriller film. Story: After discovering she has a family and a shipping… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
@@ -1223,6 +1547,70 @@
    "t": "Destroy All Monsters (1968) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1968"
   },
+  "movie:324807": {
+   "d": "A Bigger Splash (2015): Drama/Romance film. Story: An American couple, Paul and Marianne, spend their… See cast and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jXSu4omJTmGtyOJJzB0WFzEA08v.jpg",
+   "industry": "world",
+   "k": "A Bigger Splash, A Bigger Splash movie, A Bigger Splash cast, A Bigger Splash story, A Bigger Splash box office collection, A Bigger Splash budget, A Bigger Splash review, A Bigger Splash rating, A Bigger Splash release date, A Bigger Splash trailer, A Bigger Splash Drama, A Bigger Splash Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tilda Swinton"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthias Schoenaerts"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralph Fiennes"
+     },
+     {
+      "@type": "Person",
+      "name": "Dakota Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Corrado Guzzanti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 884,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "A Bigger Splash (2015): Drama/Romance film. Story: An American couple, Paul and Marianne, spend their… See cast and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luca Guadagnino"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jXSu4omJTmGtyOJJzB0WFzEA08v.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=324807",
+    "name": "A Bigger Splash",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-11-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=324807"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Bigger Splash (2015)</h1>\n<p class=\"ssr-lead\">An American couple, Paul and Marianne, spend their vacation in Italy and experience trouble when Marianne invites a former lover and his teenage daughter to visit, which leads to jealousy and dangerous sexual scenarios.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2015</li><li>Runtime: 125 minutes</li><li>Director: Luca Guadagnino</li><li>Genres: Drama, Romance</li><li>TMDB rating: 6.2/10 (884 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tilda Swinton as Marianne Lane</li><li>Matthias Schoenaerts as Paul De Smedt</li><li>Ralph Fiennes as Harry Hawkes</li><li>Dakota Johnson as Penelope Lanier</li><li>Corrado Guzzanti as Maresciallo</li><li>Alessandro Ferrara as Carabiniere 1</li><li>David Maddalena as Carabiniere 2</li><li>Salvatore Gabriele as Mayor</li><li>Livio Franco Blandino as Restaurant Owner</li><li>Aurore Clément as Mireille</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "A Bigger Splash (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:33107": {
    "d": "And Soon the Darkness (2010): Mystery/Thriller film. Story: When two American girls on a bike trip in a remote… See cast and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/U3XuW7DgoUsjTP6b4asUnG4ozk.jpg",
@@ -1286,6 +1674,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>And Soon the Darkness (2010)</h1>\n<p class=\"ssr-lead\">When two American girls on a bike trip in a remote part of Argentina split up and one of them goes missing, the other must find her before her worst fears are realized.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 2010</li><li>Runtime: 91 minutes</li><li>Director: Marcos Efron</li><li>Genres: Mystery, Thriller</li><li>TMDB rating: 5.3/10 (421 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amber Heard as Stephanie</li><li>Odette Annable as Ellie</li><li>Karl Urban as Michael</li><li>César Vianco as Calvo</li><li>Michel Noher as Chucho</li><li>Adriana Barraza as Rosamaria</li><li>Gia Mantegna as Camila</li><li>Luis Sabatini as Luca</li><li>Jorge Booth as Hernán</li><li>Daniel Figuereido as Pedro</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate+ Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "And Soon the Darkness (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:39107": {
+   "d": "Dragon Ball Z: Fusion Reborn (1995): Animation/Action film. Story: Not paying attention to his job, a young demon allows… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/t9z8Wm8c0HnxfPN9YvXgmueG6De.jpg",
+   "industry": "world",
+   "k": "Dragon Ball Z: Fusion Reborn, Dragon Ball Z: Fusion Reborn movie, Dragon Ball Z: Fusion Reborn cast, Dragon Ball Z: Fusion Reborn story, Dragon Ball Z: Fusion Reborn box office collection, Dragon Ball Z: Fusion Reborn budget, Dragon Ball Z: Fusion Reborn review, Dragon Ball Z: Fusion Reborn rating, Dragon Ball Z: Fusion Reborn release date, Dragon Ball Z: Fusion Reborn Animation, Dragon Ball Z: Fusion Reborn Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Masako Nozawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryo Horikawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Takeshi Kusao"
+     },
+     {
+      "@type": "Person",
+      "name": "Daisuke Gori"
+     },
+     {
+      "@type": "Person",
+      "name": "Hiromi Tsuru"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 980,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Dragon Ball Z: Fusion Reborn (1995): Animation/Action film. Story: Not paying attention to his job, a young demon allows… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shigeyasu Yamauchi"
+     }
+    ],
+    "duration": "PT55M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t9z8Wm8c0HnxfPN9YvXgmueG6De.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39107",
+    "name": "Dragon Ball Z: Fusion Reborn",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-03-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39107"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dragon Ball Z: Fusion Reborn (1995)</h1>\n<p class=\"ssr-lead\">Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 March 1995</li><li>Runtime: 55 minutes</li><li>Director: Shigeyasu Yamauchi</li><li>Genres: Animation, Action, Science Fiction</li><li>TMDB rating: 7.6/10 (980 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Masako Nozawa as Son Gokû / Son Gohan / Son Goten / Gogeta / Veku / Gotenks (voice)</li><li>Ryo Horikawa as Vegeta / Gogeta / Veku (voice)</li><li>Takeshi Kusao as Trunks / Gotenks (voice)</li><li>Daisuke Gori as Enma Daiou / Mr. Satan (voice)</li><li>Hiromi Tsuru as Bulma (voice)</li><li>Naoko Watanabe as Chi-Chi (voice)</li><li>Yuko Minaguchi as Videl / Juliano (voice)</li><li>Hikaru Midorikawa as Paikûhan (voice)</li><li>Joji Yanami as North Kaiô / Narration (voice)</li><li>Toku Nishio as South Kaiô / Grandpa Hayashida (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Crunchyroll Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Dragon Ball Z: Fusion Reborn (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:4107": {
    "d": "Bloody Sunday (2002): Drama/History film. Story: The dramatised story of the Irish civil rights… See cast, TMDB rating 7.2/10, and release date 25 January 2002.",
@@ -1554,6 +2006,70 @@
    "t": "Jamon Jamon (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:471507": {
+   "d": "Destroyer (2019): Thriller/Crime film. Story: When Erin Bell was a young cop, she was given an… See cast, budget $9M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o2dRMwUUUg601AaFiPXBNwurAhM.jpg",
+   "industry": "world",
+   "k": "Destroyer, Destroyer movie, Destroyer cast, Destroyer story, Destroyer box office collection, Destroyer budget, Destroyer review, Destroyer rating, Destroyer release date, Destroyer trailer, Destroyer Thriller, Destroyer Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicole Kidman"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Kebbell"
+     },
+     {
+      "@type": "Person",
+      "name": "Tatiana Maslany"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Stan"
+     },
+     {
+      "@type": "Person",
+      "name": "Scoot McNairy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 827,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Destroyer (2019): Thriller/Crime film. Story: When Erin Bell was a young cop, she was given an… See cast, budget $9M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Karyn Kusama"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o2dRMwUUUg601AaFiPXBNwurAhM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=471507",
+    "name": "Destroyer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=471507"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Destroyer (2019)</h1>\n<p class=\"ssr-lead\">When Erin Bell was a young cop, she was given an undercover assignment that ended badly and destroyed her life. Years later, she must face her demons in order to make peace with her past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 January 2019</li><li>Runtime: 121 minutes</li><li>Director: Karyn Kusama</li><li>Genres: Thriller, Crime, Drama, Action</li><li>Budget: $9M</li><li>TMDB rating: 5.9/10 (827 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicole Kidman as Erin Bell</li><li>Toby Kebbell as Silas</li><li>Tatiana Maslany as Petra</li><li>Sebastian Stan as Chris</li><li>Scoot McNairy as Ethan</li><li>Bradley Whitford as DiFranco</li><li>Toby Huss as Gil Lawson</li><li>James Jordan as Toby</li><li>Jade Pettyjohn as Shelby</li><li>Beau Knapp as Jay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Destroyer (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:505707": {
    "d": "Waiting for the Barbarians (2020): Drama/History film. Story: At an isolated frontier outpost, a colonial… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/l0vUzd701TzvN3jywXex9G01zpd.jpg",
@@ -1682,6 +2198,70 @@
    "t": "Killing Zoe (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
   },
+  "movie:514207": {
+   "d": "Invasion (2020): Science Fiction/Drama film. Story: Two years after the fall of the alien ship, the life… See cast, budget $8.82M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cbJNZeFkiG4ggsNcwzBs6yeCXga.jpg",
+   "industry": "world",
+   "k": "Invasion, Invasion movie, Invasion cast, Invasion story, Invasion box office collection, Invasion budget, Invasion review, Invasion rating, Invasion release date, Invasion trailer, Invasion Science Fiction, Invasion Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexander Petrov"
+     },
+     {
+      "@type": "Person",
+      "name": "Irina Starshenbaum"
+     },
+     {
+      "@type": "Person",
+      "name": "Oleg Menshikov"
+     },
+     {
+      "@type": "Person",
+      "name": "Rinal Mukhametov"
+     },
+     {
+      "@type": "Person",
+      "name": "Yura Borisov"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 931,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Invasion (2020): Science Fiction/Drama film. Story: Two years after the fall of the alien ship, the life… See cast, budget $8.82M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fyodor Bondarchuk"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cbJNZeFkiG4ggsNcwzBs6yeCXga.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=514207",
+    "name": "Invasion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-04-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=514207"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Invasion (2020)</h1>\n<p class=\"ssr-lead\">Two years after the fall of the alien ship, the life of a young woman from Moscow has been changed forever. Her growing powers are now at the focus of both human and celestial investigation: an alien force takes an interest in her, and will stop short of nothing, including an invasion. Can love and compassion save humanity, when faced with a much greater and more demanding test this time?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 April 2020</li><li>Runtime: 129 minutes</li><li>Director: Fyodor Bondarchuk</li><li>Genres: Science Fiction, Drama, Action</li><li>Budget: $8.82M</li><li>TMDB rating: 6.9/10 (931 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexander Petrov as Artyom / Thomas</li><li>Irina Starshenbaum as Yulya Lebedeva</li><li>Oleg Menshikov as General Lebedev</li><li>Rinal Mukhametov as Hackon / Hariton</li><li>Yura Borisov as Ivan</li><li>Sergey Garmash as Le premier ministre</li><li>Igor Kosterin as VSK major</li><li>Andrey Nazimov as Head of IT</li><li>Evgeny Mikheev as &quot;Google&quot; alias &quot;La tronche&quot;</li><li>Stanislav Kisilevskiy as Volvo&#x27;s Driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Invasion (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:521007": {
    "d": "Superintelligence (2020): Comedy/Science Fiction film. Story: When an all-powerful Superintelligence chooses to… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/nxIqVM8Kqp6Ej21WiOncTwKzoG1.jpg",
@@ -1744,6 +2324,134 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>Superintelligence (2020)</h1>\n<p class=\"ssr-lead\">When an all-powerful Superintelligence chooses to study the most average person on Earth, Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it’s up to Carol to prove that people are worth saving.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 2020</li><li>Runtime: 106 minutes</li><li>Director: Ben Falcone</li><li>Genres: Comedy, Science Fiction, Romance</li><li>TMDB rating: 5.9/10 (405 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melissa McCarthy as Carol Peters</li><li>James Corden as Superintelligence (voice) / James Corden</li><li>Bobby Cannavale as George Churchill</li><li>Brian Tyree Henry as Dennis Caruso</li><li>Sam Richardson as John Donahue</li><li>Ben Falcone as Charles Kuiper</li><li>Michael Beach as Saul Gomez</li><li>Rachel Ticotin as Director Tyson</li><li>Jean Smart as President Monahan</li><li>Sarah Baker as Emily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Superintelligence (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:523607": {
+   "d": "Maestro (2023): Drama/Romance film. Story: A towering and fearless love story chronicling the… See cast, budget $80M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+   "industry": "world",
+   "k": "Maestro, Maestro movie, Maestro cast, Maestro story, Maestro box office collection, Maestro budget, Maestro review, Maestro rating, Maestro release date, Maestro trailer, Maestro Drama, Maestro Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Carey Mulligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Bomer"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincenzo Amato"
+     },
+     {
+      "@type": "Person",
+      "name": "Greg Hildreth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 907,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Maestro (2023): Drama/Romance film. Story: A towering and fearless love story chronicling the… See cast, budget $80M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=523607",
+    "name": "Maestro",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-12-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=523607"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Maestro (2023)</h1>\n<p class=\"ssr-lead\">A towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 December 2023</li><li>Runtime: 129 minutes</li><li>Director: Bradley Cooper</li><li>Genres: Drama, Romance, Music</li><li>Budget: $80M</li><li>TMDB rating: 6.2/10 (907 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carey Mulligan as Felicia Montealegre</li><li>Bradley Cooper as Leonard Bernstein</li><li>Matt Bomer as David Oppenheim</li><li>Vincenzo Amato as Bruno Zirato</li><li>Greg Hildreth as Isaac</li><li>Michael Urie as Jerry Robbins</li><li>Brian Klugman as Aaron Copeland</li><li>Nick Blaemire as Adolph Green</li><li>Mallory Portnoy as Betty Comden</li><li>Alexandra Santini as Claudio&#x27;s Guest #1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Maestro (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
+  "movie:526007": {
+   "d": "The Night Clerk (2020): Thriller/Crime film. Story: Hotel night clerk Bart Bromley is a highly… See cast, TMDB rating 6.2/10, and release date 21 February 2020.",
+   "img": "https://image.tmdb.org/t/p/w780/eUaCIstB8oLNQd62Krt0hgqrjQg.jpg",
+   "industry": "world",
+   "k": "The Night Clerk, The Night Clerk movie, The Night Clerk cast, The Night Clerk story, The Night Clerk box office collection, The Night Clerk budget, The Night Clerk review, The Night Clerk rating, The Night Clerk release date, The Night Clerk trailer, The Night Clerk Thriller, The Night Clerk Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tye Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Ana de Armas"
+     },
+     {
+      "@type": "Person",
+      "name": "John Leguizamo"
+     },
+     {
+      "@type": "Person",
+      "name": "Helen Hunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacque Gray"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 954,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Night Clerk (2020): Thriller/Crime film. Story: Hotel night clerk Bart Bromley is a highly… See cast, TMDB rating 6.2/10, and release date 21 February 2020.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Cristofer"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Thriller",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eUaCIstB8oLNQd62Krt0hgqrjQg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=526007",
+    "name": "The Night Clerk",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-02-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=526007"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Night Clerk (2020)</h1>\n<p class=\"ssr-lead\">Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 February 2020</li><li>Runtime: 90 minutes</li><li>Director: Michael Cristofer</li><li>Genres: Thriller, Crime, Drama</li><li>TMDB rating: 6.2/10 (954 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tye Sheridan as Bart Bromley</li><li>Ana de Armas as Andrea Rivera</li><li>John Leguizamo as Detective Espada</li><li>Helen Hunt as Ethel Bromley</li><li>Jacque Gray as Karen Perretti</li><li>Johnathon Schaech as Nick Perretti</li><li>Joey Miyashima as Ron Benson</li><li>Austin Archer as Jack Miller</li><li>D.L. Walker as Car Salesman</li><li>Walter Platz as Older Salesman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Starz Apple TV channel, Starz Roku Premium Channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Night Clerk (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
   "movie:538207": {
@@ -2128,6 +2836,70 @@
    "t": "The Decline (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:7007": {
+   "d": "Rising Sun (1993): Action/Drama film. Story: When a prostitute is found dead in a Los Angeles… See cast, budget $40M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dmaLmrP3PYfhb8P2SWMucZCZqjk.jpg",
+   "industry": "world",
+   "k": "Rising Sun, Rising Sun movie, Rising Sun cast, Rising Sun story, Rising Sun box office collection, Rising Sun budget, Rising Sun review, Rising Sun rating, Rising Sun release date, Rising Sun Action, Rising Sun Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sean Connery"
+     },
+     {
+      "@type": "Person",
+      "name": "Wesley Snipes"
+     },
+     {
+      "@type": "Person",
+      "name": "Tia Carrere"
+     },
+     {
+      "@type": "Person",
+      "name": "Cary-Hiroyuki Tagawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Keitel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 885,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Rising Sun (1993): Action/Drama film. Story: When a prostitute is found dead in a Los Angeles… See cast, budget $40M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Philip Kaufman"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dmaLmrP3PYfhb8P2SWMucZCZqjk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7007",
+    "name": "Rising Sun",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1993-07-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7007"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rising Sun (1993)</h1>\n<p class=\"ssr-lead\">When a prostitute is found dead in a Los Angeles skyscraper occupied by a large Japanese corporation, detectives John Connor and Web Smith are called in to investigate. Although Connor has previous experience working in Japan, cultural differences make their progress difficult until a security disc showing the murder turns up. Close scrutiny proves the disc has been doctored, and the detectives realize they&#x27;re dealing with a cover-up as well.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 July 1993</li><li>Runtime: 129 minutes</li><li>Director: Philip Kaufman</li><li>Genres: Action, Drama, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 6.2/10 (885 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Connery as Capt. John Connor</li><li>Wesley Snipes as Lt. Webster Smith</li><li>Tia Carrere as Jingo Asakuma</li><li>Cary-Hiroyuki Tagawa as Eddie Sakamura</li><li>Harvey Keitel as Lt. Tom Graham</li><li>Mako as Yoshida-san</li><li>Stan Egi as Ishihara</li><li>Kevin Anderson as Bob Richmond</li><li>Clyde Kusatsu as Tanaka</li><li>Ray Wise as Senator John Morton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Rising Sun (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1993"
+  },
   "movie:795607": {
    "d": "Green Snake (2021): Animation/Fantasy film. Story: While trying to free her sister from Fahai's… See cast, TMDB rating 8.1/10, and release date 23 July 2021.",
    "img": "https://image.tmdb.org/t/p/w780/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
@@ -2191,6 +2963,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Green Snake (2021)</h1>\n<p class=\"ssr-lead\">While trying to free her sister from Fahai&#x27;s clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can&#x27;t recall his past life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 July 2021</li><li>Runtime: 132 minutes</li><li>Director: Amp Wong</li><li>Genres: Animation, Fantasy, Action, Adventure</li><li>TMDB rating: 8.1/10 (399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tang Xiaoxi as Xiao Qing (voice)</li><li>Zhang Fuzheng as Masked Man (voice)</li><li>Wei Chao as Sima (voice)</li><li>Zhao Mingzhou as Niutou Sect Leader (voice)</li><li>Zheng Xiaopu as Baoqing Fox (voice)</li><li>Song Xuchen as Fahai (voice)</li><li>Qiu Qiu as Sister Sun (voice)</li><li>Zhang Biyu as The Spider Goblin (voice)</li><li>Ma Cheng as Fangzhu Baoqing (voice)</li><li>Zhang Zhe as Xiao Bai (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Green Snake (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:79707": {
+   "d": "Children Who Chase Lost Voices (2011): Animation/Adventure film. Story: The film centers on Asuna, a young girl who spends… See cast and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gB8eFFUw6UA97A7TzrNVrc3D08o.jpg",
+   "industry": "world",
+   "k": "Children Who Chase Lost Voices, Children Who Chase Lost Voices movie, Children Who Chase Lost Voices cast, Children Who Chase Lost Voices story, Children Who Chase Lost Voices box office collection, Children Who Chase Lost Voices budget, Children Who Chase Lost Voices review, Children Who Chase Lost Voices rating, Children Who Chase Lost Voices release date, Children Who Chase Lost Voices trailer, Children Who Chase Lost Voices Animation, Children Who Chase Lost Voices Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hisako Kanemoto"
+     },
+     {
+      "@type": "Person",
+      "name": "Kazuhiko Inoue"
+     },
+     {
+      "@type": "Person",
+      "name": "Miyu Irino"
+     },
+     {
+      "@type": "Person",
+      "name": "Rina Hidaka"
+     },
+     {
+      "@type": "Person",
+      "name": "Fumiko Orikasa"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 824,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Children Who Chase Lost Voices (2011): Animation/Adventure film. Story: The film centers on Asuna, a young girl who spends… See cast and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Makoto Shinkai"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gB8eFFUw6UA97A7TzrNVrc3D08o.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=79707",
+    "name": "Children Who Chase Lost Voices",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-05-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=79707"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Children Who Chase Lost Voices (2011)</h1>\n<p class=\"ssr-lead\">The film centers on Asuna, a young girl who spends her solitary days listening to the mysterious music emanating from the crystal radio she received from her late father as a memento. One day while walking home she is attacked by a fearsome monster and saved by a mysterious boy named Shun. However, Shun disappears and Asuna embarks on a journey of adventure to the land of Agartha with her teacher Mr. Morisaki to meet a Shun again. Through her journey she comes to know the cruelty and beauty of the world, as well as loss.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 May 2011</li><li>Runtime: 116 minutes</li><li>Director: Makoto Shinkai</li><li>Genres: Animation, Adventure, Fantasy, Family</li><li>TMDB rating: 7.2/10 (824 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hisako Kanemoto as Asuna Watase (voice)</li><li>Kazuhiko Inoue as Ryuji Morisaki (voice)</li><li>Miyu Irino as Shin / Shun (voice)</li><li>Rina Hidaka as Mana (voice)</li><li>Fumiko Orikasa as Asuna&#x27;s Mother (voice)</li><li>Sumi Shimamoto as Risa (voice)</li><li>Junko Takeuchi as Mimi (voice)</li><li>Kanae Itou as Seri (voice)</li><li>Tamio Ohki as Old Man from Amaurot (voice)</li><li>Aki Kanada as Student (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Children Who Chase Lost Voices (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:809107": {
    "d": "Z-O-M-B-I-E-S 3 (2022): Fantasy/Comedy film. Story: Zed and Addison are beginning their final year at… See cast, budget $36M, and TMDB rating 7.3/10.",

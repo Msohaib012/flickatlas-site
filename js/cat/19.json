@@ -1,7 +1,108 @@
 {
  "bucket": "19",
- "count": 56,
+ "count": 62,
  "titles": {
+  "movie:10019": {
+   "backdrop_path": "/rbYlmgMV96GcvTe700peiTH5JcS.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Jonathan Switcher",
+     "n": "Andrew McCarthy"
+    },
+    {
+     "c": "Ema 'Emmy' Hesire",
+     "n": "Kim Cattrall"
+    },
+    {
+     "c": "Claire Prince Timkin",
+     "n": "Estelle Getty"
+    },
+    {
+     "c": "Mr. Richards",
+     "n": "James Spader"
+    },
+    {
+     "c": "Captain Felix Maxwell",
+     "n": "G.W. Bailey"
+    },
+    {
+     "c": "Roxie Shield",
+     "n": "Carole Davis"
+    },
+    {
+     "c": "Hollywood",
+     "n": "Meshach Taylor"
+    },
+    {
+     "c": "B.J. Wert",
+     "n": "Steve Vinovich"
+    },
+    {
+     "c": "Armand",
+     "n": "Christopher Maher"
+    },
+    {
+     "c": "Emmy's Mother",
+     "n": "Phyllis Newman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Gottlieb"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Fantasy"
+   ],
+   "id": 10019,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jonathan Switcher, an unemployed artist, finds a job as an assistant window dresser for a department store. When Jonathan happens upon a beautiful mannequin he previously designed, she springs to life and introduces herself as Emmy, an Egyptian under an ancient spell. Despite interference from the store's devious manager, Jonathan and his mannequin fall in love while creating eye-catching window displays to keep the struggling store in business.",
+   "popularity": 3.2599,
+   "poster_path": "/oHMA8euTiZdDFXDi5zaIQQXwl0K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1987-02-13",
+   "revenue": 42700000,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just because Jonathan's fallen in love with a piece of wood, it doesn't make him a dummy.",
+   "title": "Mannequin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 865
+  },
   "movie:1010819": {
    "backdrop_path": "/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
    "budget": 0,
@@ -256,6 +357,102 @@
    "type": "movie",
    "vote_average": 5.663,
    "vote_count": 329
+  },
+  "movie:11219": {
+   "backdrop_path": "/i5MaRm0FsJIpXVLAvrMsMt5YQ5p.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Sam Marlowe",
+     "n": "John Forsythe"
+    },
+    {
+     "c": "Jennifer Rogers",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Captain Wiles",
+     "n": "Edmund Gwenn"
+    },
+    {
+     "c": "Miss Gravely",
+     "n": "Mildred Natwick"
+    },
+    {
+     "c": "Mrs. Wiggs",
+     "n": "Mildred Dunnock"
+    },
+    {
+     "c": "Arnie Rogers",
+     "n": "Jerry Mathers"
+    },
+    {
+     "c": "Calvin Wiggs",
+     "n": "Royal Dano"
+    },
+    {
+     "c": "Millionaire",
+     "n": "Parker Fennelly"
+    },
+    {
+     "c": "Tramp",
+     "n": "Barry Macollum"
+    },
+    {
+     "c": "Dr. Greenbow",
+     "n": "Dwight Marfield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Comedy",
+    "Mystery"
+   ],
+   "id": 11219,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a quiet Vermont village, a corpse creates unexpected chaos as several townspeople each believe they may be to blame.",
+   "popularity": 2.3733,
+   "poster_path": "/uUXLq7fEG3hI46ZFMZzgHj11S6S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1955-10-03",
+   "revenue": 7000000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A different kind of kick-the-bucket comedy!",
+   "title": "The Trouble with Harry",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.974,
+   "vote_count": 946
   },
   "movie:1143319": {
    "backdrop_path": "/pzvnnpJmCtSZMw44WYVEqldhn17.jpg",
@@ -3219,6 +3416,114 @@
    "vote_average": 7.153,
    "vote_count": 499
   },
+  "movie:339419": {
+   "backdrop_path": "/zjvX2vJmm3f25JujVEp5DEu2eKi.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Richard Loving",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Mildred Loving",
+     "n": "Ruth Negga"
+    },
+    {
+     "c": "Grey Villet",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Sheriff Brooks",
+     "n": "Marton Csokas"
+    },
+    {
+     "c": "Bernie Cohen",
+     "n": "Nick Kroll"
+    },
+    {
+     "c": "Frank Beazley",
+     "n": "Bill Camp"
+    },
+    {
+     "c": "Lola Loving",
+     "n": "Sharon Blackwood"
+    },
+    {
+     "c": "Raymond Green",
+     "n": "Alano Miller"
+    },
+    {
+     "c": "Garnet Jetter",
+     "n": "Terri Abney"
+    },
+    {
+     "c": "Judge Bazile",
+     "n": "David Jensen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jeff Nichols"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 339419,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1958, in the state of Virginia, the idea of interracial marriage was not only considered to be immoral to many, it was also illegal. When Richard and Mildred fall in love, they are aware of the eyes staring at them and the words said behind their backs. It's when they get married, however, that words and looks become actions, and the two are arrested. The couple decide to take their case all of the way to the Supreme Court in order to fight for their love. Based on a true story.",
+   "popularity": 2.0423,
+   "poster_path": "/teNPeDIRGWxtvMaJsNa7lw5IgiL.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "History Vault"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-11-04",
+   "revenue": 8996802,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All love is created equal.",
+   "title": "Loving",
+   "trailer": {
+    "key": "33g-ZHBQdNU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.692,
+   "vote_count": 988
+  },
   "movie:372519": {
    "backdrop_path": "/v6bGT2CgGGs2oClMHMXUs1mgFY6.jpg",
    "budget": 39307171,
@@ -3307,6 +3612,243 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 308
+  },
+  "movie:40619": {
+   "backdrop_path": "/i05QKKn8GqAdmQSeAztxhuqN6dt.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Radio Lecturer (voice) (archive sound) (uncredited)",
+     "n": "Wayne Dyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Teddy Newton"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 40619,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Day, a sunny fellow, encounters Night, a stranger of distinctly darker moods, sparks fly! Day and Night are frightened and suspicious of each other at first, and quickly get off on the wrong foot. But as they discover each other's unique qualities--and come to realize that each of them offers a different window onto the same world-the friendship helps both to gain a new perspective.",
+   "popularity": 1.4976,
+   "poster_path": "/hn2tOtidoYZ0D56jR4yknpdP1mU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-06-17",
+   "revenue": 0,
+   "runtime": 6,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Day & Night",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.691,
+   "vote_count": 984
+  },
+  "movie:424619": {
+   "backdrop_path": "/6aoaFsDMFGHcs7vf0CPViRvA7ww.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Jeff Tuche",
+     "n": "Jean-Paul Rouve"
+    },
+    {
+     "c": "Cathy Tuche",
+     "n": "Isabelle Nanty"
+    },
+    {
+     "c": "Mamie Suze",
+     "n": "Claire Nadeau"
+    },
+    {
+     "c": "Stéphanie Tuche",
+     "n": "Sarah Stern"
+    },
+    {
+     "c": "Wilfried Tuche",
+     "n": "Pierre Lottin"
+    },
+    {
+     "c": "Donald Tuche",
+     "n": "Théo Fernandez"
+    },
+    {
+     "c": "Bernard Bichon, le secrétaire général de l'Élysée",
+     "n": "Scali Delpeyrat"
+    },
+    {
+     "c": "Président Papin",
+     "n": "Philippe Magnan"
+    },
+    {
+     "c": "Barna Bé",
+     "n": "Nicolas Maury"
+    },
+    {
+     "c": "Psy",
+     "n": "Stéphan Wojtowicz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Olivier Baroux"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 424619,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After a groundbreaking presidential election, Jeff Tuche becomes the new President of France and moves in the Elysee with his family to govern the country.",
+   "popularity": 1.8584,
+   "poster_path": "/99SuHd12RS16gToStNx9IN6bEXF.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-01-31",
+   "revenue": 47427990,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Magic Tuche",
+   "trailer": {
+    "key": "lolGIZ66G1c",
+    "name": "Les Tuche 3 (2018) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.273,
+   "vote_count": 852
   },
   "movie:431819": {
    "backdrop_path": "/jh6GJSeqyazoKfi3Lu19N1fvr7e.jpg",
@@ -4548,6 +5090,169 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 300
+  },
+  "movie:603119": {
+   "backdrop_path": "/pmckm9bRKjUsCMVDwhnSi8dMMEl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rayburn Swanson",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Sheriff Alice Gustafson",
+     "n": "Annabelle Wallis"
+    },
+    {
+     "c": "Blackhawk",
+     "n": "Zahn McClarnon"
+    },
+    {
+     "c": "Debbie",
+     "n": "Melanie Scrofano"
+    },
+    {
+     "c": "Brooks",
+     "n": "Hero Fiennes Tiffin"
+    },
+    {
+     "c": "Jim Needles",
+     "n": "Patrick Garrow"
+    },
+    {
+     "c": "Dr. Patel",
+     "n": "Danielle Ryan"
+    },
+    {
+     "c": "Dr. Boone",
+     "n": "Shaun Smyth"
+    },
+    {
+     "c": "Molly",
+     "n": "Charlotte Lindsay Marron"
+    },
+    {
+     "c": "Gwen",
+     "n": "Brielle Robillard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robin Pront"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+   ],
+   "id": 603119,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A reformed hunter becomes involved in a deadly game of cat and mouse when he and the local sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+   "popularity": 2.5142,
+   "poster_path": "/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-07-18",
+   "revenue": 0,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It takes a hunter to catch a killer.",
+   "title": "The Silencing",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.505,
+   "vote_count": 872
   },
   "movie:618219": {
    "backdrop_path": "/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",

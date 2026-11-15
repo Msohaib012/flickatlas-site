@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 55,
+ "count": 64,
  "titles": {
   "movie:10348": {
    "backdrop_path": "/4B5L3OQsta7N7qr08yRS44ESIKK.jpg",
@@ -785,6 +785,295 @@
    "vote_average": 6.1,
    "vote_count": 347
   },
+  "movie:115348": {
+   "backdrop_path": "/ghgFSYXj2YKJd7YtXtSMJbL4hJg.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Adam Cassidy",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Jock Goddard",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Nicholas Wyatt",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Emma Jennings",
+     "n": "Amber Heard"
+    },
+    {
+     "c": "Agent Gamble",
+     "n": "Josh Holloway"
+    },
+    {
+     "c": "Judith Bolton",
+     "n": "Embeth Davidtz"
+    },
+    {
+     "c": "Frank Cassidy",
+     "n": "Richard Dreyfuss"
+    },
+    {
+     "c": "Meechum",
+     "n": "Julian McMahon"
+    },
+    {
+     "c": "Kevin",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Alison",
+     "n": "Angela Sarafyan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Luketic"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 115348,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN",
+    "FR",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An entry-level employee at a powerful corporation finds himself occupying a corner office, but at a dangerous price—he must spy on his boss's old mentor to secure for him a multi-billion dollar advantage.",
+   "popularity": 2.2292,
+   "poster_path": "/isbiljuGztxLlcOvrSw5FkQDGEd.jpg",
+   "production_countries": [
+    "IN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-08-14",
+   "revenue": 17056265,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In a war between kings even a pawn can change the game.",
+   "title": "Paranoia",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.713,
+   "vote_count": 944
+  },
+  "movie:11548": {
+   "backdrop_path": "/b7HsWYjyrVkDPkAFFAGZ76iainK.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Frank Riley",
+     "n": "Hume Cronyn"
+    },
+    {
+     "c": "Faye Riley",
+     "n": "Jessica Tandy"
+    },
+    {
+     "c": "Harry Noble",
+     "n": "Frank McRae"
+    },
+    {
+     "c": "Marisa Esteval",
+     "n": "Elizabeth Peña"
+    },
+    {
+     "c": "Carlos",
+     "n": "Michael Carmine"
+    },
+    {
+     "c": "Mason Baylor",
+     "n": "Dennis Boutsikaris"
+    },
+    {
+     "c": "Sid Hogenson",
+     "n": "Tom Aldredge"
+    },
+    {
+     "c": "Muriel Hogenson",
+     "n": "Jane Hoffman"
+    },
+    {
+     "c": "Gus",
+     "n": "John DiSanti"
+    },
+    {
+     "c": "Kovacs",
+     "n": "John Pankow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Matthew Robbins"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 11548,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a soon to be demolished block of apartments, the residents resist the criminal methods used to force them to leave so a greedy tycoon can build his new skyscraper. When tiny mechanical aliens land for a recharge, they decide to stay and help out.",
+   "popularity": 3.0633,
+   "poster_path": "/8NkpnpdLd8J6zCR8ZGTeGTur4uO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1987-12-18",
+   "revenue": 65088797,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Five ordinary people needed a miracle. Then one night, Faye Riley left the window open.",
+   "title": "*batteries not included",
+   "trailer": {
+    "key": "QgLH6ZUg14Q",
+    "name": "Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.743,
+   "vote_count": 857
+  },
   "movie:1161048": {
    "backdrop_path": "/rrucFNW1qOgSPL4n2Fy6CdpBDEY.jpg",
    "budget": 0,
@@ -1101,6 +1390,112 @@
    "type": "movie",
    "vote_average": 7.13,
    "vote_count": 393
+  },
+  "movie:12448": {
+   "backdrop_path": "/bCvvGF2QljUG5MpSaTCAC1VMbvy.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Quasimodo (voice)",
+     "n": "Tom Hulce"
+    },
+    {
+     "c": "Madellaine (voice)",
+     "n": "Jennifer Love Hewitt"
+    },
+    {
+     "c": "Gargoyle Hugo (voice)",
+     "n": "Jason Alexander"
+    },
+    {
+     "c": "Clopin (voice)",
+     "n": "Paul Kandel"
+    },
+    {
+     "c": "Gargoyle Victor (voice)",
+     "n": "Charles Kimbrough"
+    },
+    {
+     "c": "Sarousch (voice)",
+     "n": "Michael McKean"
+    },
+    {
+     "c": "Esmeralda (voice)",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Phoebus (voice)",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Zephyr (voice)",
+     "n": "Haley Joel Osment"
+    },
+    {
+     "c": "Gargoyle Laverne (voice)",
+     "n": "Jane Withers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Bradley Raymond"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 12448,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Now that Frollo is gone, Quasimodo rings the bell with the help of his new friend and Esmeralda and Phoebus' little son, Zephyr. But when Quasi stops by a traveling circus owned by evil magician Sarousch, he falls for Madellaine, Sarouch's assistant.",
+   "popularity": 4.0507,
+   "poster_path": "/14PSM6n9VSsiUwJhT0WZbgOuNvP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-02-06",
+   "revenue": 0,
+   "runtime": 68,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Hunchback of Notre Dame II",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.378,
+   "vote_count": 870
   },
   "movie:1317448": {
    "backdrop_path": "/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
@@ -1516,6 +1911,111 @@
    "type": "movie",
    "vote_average": 6.09,
    "vote_count": 478
+  },
+  "movie:15648": {
+   "backdrop_path": "/hPqpB8P8ghhguGok9sSeTdMVjYk.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Holly Hamilton",
+     "n": "Hilary Duff"
+    },
+    {
+     "c": "Jean Hamilton",
+     "n": "Heather Locklear"
+    },
+    {
+     "c": "Ben Cooper",
+     "n": "Chris Noth"
+    },
+    {
+     "c": "Lenny Horton",
+     "n": "Mike O'Malley"
+    },
+    {
+     "c": "Adam Forrest",
+     "n": "Ben Feldman"
+    },
+    {
+     "c": "Amy Pearl",
+     "n": "Vanessa Lengies"
+    },
+    {
+     "c": "Gloria",
+     "n": "Caroline Rhea"
+    },
+    {
+     "c": "Dolores",
+     "n": "Kym Whitley"
+    },
+    {
+     "c": "Zoe Hamilton",
+     "n": "Aria Wallace"
+    },
+    {
+     "c": "Amber",
+     "n": "Michelle Nolden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mark Rosman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Romance"
+   ],
+   "id": 15648,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Holly is tired of moving every time her mom Jean breaks up with yet another second-rate guy. To distract her mother from her latest bad choice, Holly conceives the perfect plan for the perfect man, an imaginary secret admirer who will romance Jean and boost her self-esteem.",
+   "popularity": 2.5854,
+   "poster_path": "/sT4sCDXcqQBjAqyDaofkRmP0er5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-06-17",
+   "revenue": 19800000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Is it all too good to be true?",
+   "title": "The Perfect Man",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 833
   },
   "movie:1589248": {
    "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
@@ -3312,6 +3812,129 @@
    "vote_average": 5.793,
    "vote_count": 496
   },
+  "movie:333348": {
+   "backdrop_path": "/5DxFiNyWHCH58nffyCtzMfPjDLJ.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Charlotte Cooper",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Sam Cooper",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Hank Cooper",
+     "n": "Ed Helms"
+    },
+    {
+     "c": "Ruby",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Bucky Newport",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "Rags (voice)",
+     "n": "Steve Martin"
+    },
+    {
+     "c": "Eleanor Cooper",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Emma Newport",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Joe Bailey",
+     "n": "Jake Lacy"
+    },
+    {
+     "c": "Aunt Fishy",
+     "n": "June Squibb"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jessie Nelson"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+   ],
+   "id": 333348,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday.",
+   "popularity": 3.5981,
+   "poster_path": "/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-11-12",
+   "revenue": 42426912,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Christmas means comfort, joy and chaos.",
+   "title": "Love the Coopers",
+   "trailer": {
+    "key": "mOc1NEHEh3M",
+    "name": "LOVE THE COOPERS - The Holiday Spirit (Trailer 2)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.005,
+   "vote_count": 884
+  },
   "movie:34148": {
    "backdrop_path": "/v6saYVrDHHs5ansCFz5lIyFUV5X.jpg",
    "budget": 0,
@@ -3557,6 +4180,179 @@
    "type": "movie",
    "vote_average": 6.408,
    "vote_count": 374
+  },
+  "movie:385448": {
+   "backdrop_path": "/9GHUJHFFOjJZUhE2jldhiWnoBye.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elizabeth",
+     "n": "Poppy Drayton"
+    },
+    {
+     "c": "Eloise",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Elle Harrison",
+     "n": "Loreto Peralta"
+    },
+    {
+     "c": "Cam Harrison",
+     "n": "William Moseley"
+    },
+    {
+     "c": "Peggy Gene",
+     "n": "Gina Gershon"
+    },
+    {
+     "c": "Thora",
+     "n": "Shanna Collins"
+    },
+    {
+     "c": "",
+     "n": "William Forsythe"
+    },
+    {
+     "c": "Sid",
+     "n": "Tom Nowicki"
+    },
+    {
+     "c": "Granddaughter Lily",
+     "n": "Lexy Kolker"
+    },
+    {
+     "c": "Granddaughter Rose",
+     "n": "Claire Crosby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Bouchard",
+    "Blake Harris"
+   ],
+   "genres": [
+    "Family",
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 385448,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.",
+   "popularity": 1.8684,
+   "poster_path": "/qEM80vqREgfjk7YhIbl4AgfZ47S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-08-02",
+   "revenue": 2614006,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new twist on the classic tail",
+   "title": "The Little Mermaid",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.0,
+   "vote_count": 868
   },
   "movie:39148": {
    "backdrop_path": "/cJ2CNxc1AQh5raZgxeQreGKxale.jpg",
@@ -4226,6 +5022,140 @@
    "type": "movie",
    "vote_average": 5.664,
    "vote_count": 412
+  },
+  "movie:498248": {
+   "backdrop_path": "/bGgcTfGf8jggZZotx3uKpRF2zbv.jpg",
+   "budget": 9600000,
+   "cast": [
+    {
+     "c": "Mia Owen",
+     "n": "Daniah De Villiers"
+    },
+    {
+     "c": "Alice Owen",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "John Owen",
+     "n": "Langley Kirkwood"
+    },
+    {
+     "c": "Mick Owen",
+     "n": "Ryan Mac Lennan"
+    },
+    {
+     "c": "Kevin",
+     "n": "Lionel Newton"
+    },
+    {
+     "c": "Jodie",
+     "n": "Lillian Dube"
+    },
+    {
+     "c": "Dirk",
+     "n": "Brandon Auret"
+    },
+    {
+     "c": "Trevor",
+     "n": "Elvis the Meerkat"
+    },
+    {
+     "c": "Daniel",
+     "n": "Benjamin Garrad"
+    },
+    {
+     "c": "Theuns",
+     "n": "Andrew Stock"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Gilles de Maistre"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Drama"
+   ],
+   "id": 498248,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A young girl from London moves to Africa with her parents where she befriends a lion cub.",
+   "popularity": 2.9375,
+   "poster_path": "/zXfwBeYe0RnqsJ0dnBoFTB4SSrG.jpg",
+   "production_countries": [
+    "ZA",
+    "DE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-08-23",
+   "revenue": 35487190,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Friendship is the wildest adventure of all",
+   "title": "Mia and the White Lion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.24,
+   "vote_count": 937
   },
   "movie:50848": {
    "backdrop_path": "/xZdIykZigrLEwD7ILa4mvII4VcD.jpg",
@@ -5165,6 +6095,115 @@
    "vote_average": 6.5,
    "vote_count": 333
   },
+  "movie:817648": {
+   "backdrop_path": "/aGDtBTmSKa1TRmpWwcvqtCQP09v.jpg",
+   "budget": 44600000,
+   "cast": [
+    {
+     "c": "Sean Payton",
+     "n": "Kevin James"
+    },
+    {
+     "c": "Coach Troy Lambert",
+     "n": "Taylor Lautner"
+    },
+    {
+     "c": "Jamie",
+     "n": "Rob Schneider"
+    },
+    {
+     "c": "Beth",
+     "n": "Jackie Sandler"
+    },
+    {
+     "c": "Coach Mitch Bizone",
+     "n": "Gary Valentine"
+    },
+    {
+     "c": "Gus the Bus Driver",
+     "n": "Lavell Crawford"
+    },
+    {
+     "c": "Intern Emily",
+     "n": "Chloe Fineman"
+    },
+    {
+     "c": "Connor Payton",
+     "n": "Tait Blum"
+    },
+    {
+     "c": "Paulie",
+     "n": "Maxwell Simkins"
+    },
+    {
+     "c": "Marcos",
+     "n": "Jacob Perez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Charles Kinnane",
+    "Daniel Kinnane"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 817648,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two years after a Super Bowl win when NFL head coach Sean Payton is suspended, he goes back to his hometown and finds himself reconnecting with his 12-year-old son by coaching his Pop Warner football team.",
+   "popularity": 2.0125,
+   "poster_path": "/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-01-28",
+   "revenue": 0,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life doesn't have a playbook.",
+   "title": "Home Team",
+   "trailer": {
+    "key": "xppbyXSxPlo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.612,
+   "vote_count": 818
+  },
   "movie:848": {
    "backdrop_path": "/wbNKvMdPgOjrsydymIXxHLqIlOZ.jpg",
    "budget": 18000000,
@@ -5314,6 +6353,113 @@
    "type": "movie",
    "vote_average": 6.556,
    "vote_count": 341
+  },
+  "movie:852448": {
+   "backdrop_path": "/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Hector Blake",
+     "n": "Hugh Bonneville"
+    },
+    {
+     "c": "Lizzie Nealey",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Toby Nealey",
+     "n": "George MacKay"
+    },
+    {
+     "c": "Jameel 'Jay' Agassi",
+     "n": "Percelle Ascott"
+    },
+    {
+     "c": "Naserine 'Naz' Raheem",
+     "n": "Varada Sethu"
+    },
+    {
+     "c": "DS Ella Lloyd",
+     "n": "Franc Ashman"
+    },
+    {
+     "c": "Omid",
+     "n": "Yazdan Qafouri"
+    },
+    {
+     "c": "Faisal",
+     "n": "Antonio Aakeel"
+    },
+    {
+     "c": "Superintendent William Roy",
+     "n": "Anthony Calf"
+    },
+    {
+     "c": "PC Hunter",
+     "n": "Marilyn Nnadebe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Babak Anvari"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 852448,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A rebellious young graffiti artist, who targets the homes of the wealthy elite, discovers a shocking secret that leads him on a journey endangering himself and those closest to him.",
+   "popularity": 3.2839,
+   "poster_path": "/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-08-19",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "I Came By",
+   "trailer": {
+    "key": "bwHGegiFykU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.261,
+   "vote_count": 888
   },
   "movie:8748": {
    "backdrop_path": "/pVIDe1IBxEnsCEbBP9fQQYIQsm0.jpg",

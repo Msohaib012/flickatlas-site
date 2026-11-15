@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 55,
+ "count": 65,
  "titles": {
   "movie:1010756": {
    "backdrop_path": "/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
@@ -147,6 +147,139 @@
    "vote_average": 6.0,
    "vote_count": 421
   },
+  "movie:10156": {
+   "backdrop_path": "/AfOPonJZYtuJKy57ORBJj1dv3bm.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Moses / Comicus / Torquemada / Jacques / King Louis XVI",
+     "n": "Mel Brooks"
+    },
+    {
+     "c": "Emperor Nero",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "Empress Nympho",
+     "n": "Madeline Kahn"
+    },
+    {
+     "c": "Count de Monet",
+     "n": "Harvey Korman"
+    },
+    {
+     "c": "Madame Defarge",
+     "n": "Cloris Leachman"
+    },
+    {
+     "c": "Swiftus",
+     "n": "Ron Carey"
+    },
+    {
+     "c": "Josephus",
+     "n": "Gregory Hines"
+    },
+    {
+     "c": "Mademoiselle Rimbaud",
+     "n": "Pamela Stephenson"
+    },
+    {
+     "c": "Marcus Vindictus",
+     "n": "Shecky Greene"
+    },
+    {
+     "c": "Chief Caveman",
+     "n": "Sid Caesar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mel Brooks"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10156,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An uproarious version of history that proves nothing is sacred – not even the Roman Empire, the French Revolution and the Spanish Inquisition.",
+   "popularity": 1.854,
+   "poster_path": "/1bMaEfI76yrGjCSDquCippAFIDI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1981-06-12",
+   "revenue": 31672907,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ten million years in the making. The truth, the whole truth, and everything, but the truth!",
+   "title": "History of the World: Part I",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.745,
+   "vote_count": 976
+  },
   "movie:1094556": {
    "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
    "budget": 0,
@@ -270,6 +403,118 @@
    "type": "movie",
    "vote_average": 6.942,
    "vote_count": 335
+  },
+  "movie:10956": {
+   "backdrop_path": "/1g04YnMJQvWFRKOXJlUeZe1rOxF.jpg",
+   "budget": 17700000,
+   "cast": [
+    {
+     "c": "Joe Dirt",
+     "n": "David Spade"
+    },
+    {
+     "c": "Zander Kelly",
+     "n": "Dennis Miller"
+    },
+    {
+     "c": "Brandy",
+     "n": "Brittany Daniel"
+    },
+    {
+     "c": "Robby",
+     "n": "Kid Rock"
+    },
+    {
+     "c": "Kicking Wing",
+     "n": "Adam Beach"
+    },
+    {
+     "c": "Little Joe Dirt",
+     "n": "Erik Per Sullivan"
+    },
+    {
+     "c": "Jill",
+     "n": "Jaime Pressly"
+    },
+    {
+     "c": "Clem",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Charlene the Gator Farmer (uncredited)",
+     "n": "Rosanna Arquette"
+    },
+    {
+     "c": "Joe's Little Sister",
+     "n": "Megan Taylor Harvey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Dennie Gordon"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 10956,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joe Dirt is a janitor with a mullet hairdo, acid-washed jeans and a dream to find the parents that he lost at the Grand Canyon when he was a belligerent, trailer park-raised eight-year-old. Now, blasting Van Halen in his jacked-up economy car, the irrepressibly optimistic Joe hits the road alone in search of his folks.",
+   "popularity": 2.6013,
+   "poster_path": "/yykDEtHk6DMtZK8EaxW88YyQ054.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-04-10",
+   "revenue": 30987695,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Trailer trash wig wearin' acid wash jean lovin' rock concert t-shirt sportin' hero.",
+   "title": "Joe Dirt",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.648,
+   "vote_count": 855
   },
   "movie:11056": {
    "backdrop_path": "/dO9VVu7Z2EqqgGnij7UubQfLGzA.jpg",
@@ -760,6 +1005,115 @@
    "vote_average": 6.9,
    "vote_count": 319
   },
+  "movie:13156": {
+   "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Garth",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Hub",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Walter",
+     "n": "Haley Joel Osment"
+    },
+    {
+     "c": "Adult Walter",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "Mae",
+     "n": "Kyra Sedgwick"
+    },
+    {
+     "c": "Young Hub",
+     "n": "Christian Kane"
+    },
+    {
+     "c": "Stan",
+     "n": "Nicky Katt"
+    },
+    {
+     "c": "Sheik's Grandson",
+     "n": "Eric Balfour"
+    },
+    {
+     "c": "Young Garth",
+     "n": "Kevin Haberer"
+    },
+    {
+     "c": "Jasmine",
+     "n": "Emmanuelle Vaugier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tim McCanlies"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Drama"
+   ],
+   "id": 13156,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+   "popularity": 2.7379,
+   "poster_path": "/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-09-19",
+   "revenue": 48260279,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The McCann brothers have finally met their match.",
+   "title": "Secondhand Lions",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 873
+  },
   "movie:14456": {
    "backdrop_path": "/qDlPT4EStkbQxczswCQsq23OGQ7.jpg",
    "budget": 0,
@@ -1008,6 +1362,118 @@
    "type": "movie",
    "vote_average": 6.943,
    "vote_count": 314
+  },
+  "movie:15356": {
+   "backdrop_path": "/9M7CfAYjhdXJk7em6khWH2aUjq7.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Meg Loughlin",
+     "n": "Blythe Auffarth"
+    },
+    {
+     "c": "David Moran",
+     "n": "Daniel Manche"
+    },
+    {
+     "c": "Eddie",
+     "n": "Michael Zegen"
+    },
+    {
+     "c": "Mrs. Moran",
+     "n": "Catherine Mary Stewart"
+    },
+    {
+     "c": "Mr. Moran",
+     "n": "Grant Show"
+    },
+    {
+     "c": "Willie Chandler Jr.",
+     "n": "Graham Patrick Martin"
+    },
+    {
+     "c": "Adult David Moran",
+     "n": "William Atherton"
+    },
+    {
+     "c": "Ruth Chandler",
+     "n": "Blanche Baker"
+    },
+    {
+     "c": "Homeless Man Hit By Car",
+     "n": "Mark Margolis"
+    },
+    {
+     "c": "Donny Chandler",
+     "n": "Benjamin Ross Kaplan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gregory Wilson"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama",
+    "Horror"
+   ],
+   "id": 15356,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a quiet suburban town in the summer of 1958, two recently orphaned sisters are placed in the care of their mentally unstable Aunt Ruth. But Ruth's depraved sense of discipline will soon lead to unspeakable acts of abuse and torture that involve her young sons, the neighborhood children, and one 12-year-old boy whose life will be changed forever.",
+   "popularity": 4.4566,
+   "poster_path": "/dXjLp7k7ILyg22T0s9VvpPKc9jn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-07-19",
+   "revenue": 0,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In this town, murder became the neighborhood game.",
+   "title": "The Girl Next Door",
+   "trailer": {
+    "key": "biRvF7UwW4Q",
+    "name": "The Girl Next Door (2007) Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.652,
+   "vote_count": 829
   },
   "movie:1554956": {
    "backdrop_path": "/tcm829PtxDSomGOEXxzO7c0sK3p.jpg",
@@ -1966,6 +2432,172 @@
    "vote_average": 6.6,
    "vote_count": 409
   },
+  "movie:2056": {
+   "backdrop_path": "/bX5UVSVDOcuFMJh2zWN6gXbKswM.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Finbar McBride",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Olivia Harris",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Joe Oramas",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Emily",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Cleo",
+     "n": "Raven Goodwin"
+    },
+    {
+     "c": "Henry Styles",
+     "n": "Paul Benjamin"
+    },
+    {
+     "c": "Store Customer",
+     "n": "Jase Blankfort"
+    },
+    {
+     "c": "Cashier",
+     "n": "Paula Garcés"
+    },
+    {
+     "c": "Carl",
+     "n": "Josh Pais"
+    },
+    {
+     "c": "Louis Tiboni",
+     "n": "Richard Kind"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom McCarthy"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 2056,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+   "popularity": 3.5269,
+   "poster_path": "/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+     "name": "JustWatch TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-12-05",
+   "revenue": 8701337,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Loneliness is much better when you have got someone to share it with.",
+   "title": "The Station Agent",
+   "trailer": {
+    "key": "031TV29V3e0",
+    "name": "The Station Agent | Official Trailer (HD) - Peter Dinklage, Michelle Williams | MIRAMAX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.346,
+   "vote_count": 861
+  },
   "movie:216156": {
    "backdrop_path": "/lJKhmgfilbyi0ejGYKTNh7UHZgE.jpg",
    "budget": 0,
@@ -2505,6 +3137,181 @@
    "vote_average": 6.511,
    "vote_count": 325
   },
+  "movie:264656": {
+   "backdrop_path": "/dXLs7RiKzFlD1clG4PrRYxN3g68.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Mary Bee Cuddy",
+     "n": "Hilary Swank"
+    },
+    {
+     "c": "George Briggs",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Arabella Sours",
+     "n": "Grace Gummer"
+    },
+    {
+     "c": "Theoline Belknap",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Gro Svendsen",
+     "n": "Sonja Richter"
+    },
+    {
+     "c": "The Freighter",
+     "n": "Tim Blake Nelson"
+    },
+    {
+     "c": "Aloysius Duffy",
+     "n": "James Spader"
+    },
+    {
+     "c": "Reverend Alfred Dowd",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Bob Giffen",
+     "n": "Evan Jones"
+    },
+    {
+     "c": "Buster Shaver",
+     "n": "Barry Corbin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tommy Lee Jones"
+   ],
+   "genres": [
+    "Western",
+    "Drama"
+   ],
+   "id": 264656,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "When three women living on the edge of the American frontier are driven mad by harsh pioneer life, the task of saving them falls to the pious, independent-minded Mary Bee Cuddy. Transporting the women by covered wagon to Iowa, she soon realizes just how daunting the journey will be, and employs a low-life drifter, George Briggs, to join her. The unlikely pair and the three women head east, where a waiting minister and his wife have offered to take the women in. But the group first must traverse the harsh Nebraska Territories marked by stark beauty, psychological peril and constant threat.",
+   "popularity": 2.8331,
+   "poster_path": "/eGpuOhkm1wG2AxEJShazH5NVGAO.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-05-18",
+   "revenue": 3442853,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Homesman",
+   "trailer": {
+    "key": "SAYQklUPLBI",
+    "name": "The Homesman | Official Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.52,
+   "vote_count": 919
+  },
   "movie:31056": {
    "backdrop_path": "/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",
    "budget": 0,
@@ -2618,6 +3425,283 @@
    "type": "movie",
    "vote_average": 7.78,
    "vote_count": 438
+  },
+  "movie:337556": {
+   "backdrop_path": "/tdGCuUge9wZUYP785WTGVrMIxBk.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gwendolyn Shepherd",
+     "n": "Maria Ehrich"
+    },
+    {
+     "c": "Gideon de Villiers",
+     "n": "Jannis Niewöhner"
+    },
+    {
+     "c": "Graf von St. Germain",
+     "n": "Peter Simonischek"
+    },
+    {
+     "c": "Lucy Montrose",
+     "n": "Josefine Preuß"
+    },
+    {
+     "c": "Paul de Villiers",
+     "n": "Florian Bartholomäi"
+    },
+    {
+     "c": "Charlotte Montrose",
+     "n": "Laura Berlin"
+    },
+    {
+     "c": "Mr. Whitman",
+     "n": "Johannes von Matuschka"
+    },
+    {
+     "c": "Mr. Bernhard",
+     "n": "Johannes Silberschneider"
+    },
+    {
+     "c": "Madeleine „Maddy“ Montrose",
+     "n": "Katharina Thalbach"
+    },
+    {
+     "c": "William de Villiers",
+     "n": "Rolf Kanies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Felix Fuchssteiner",
+    "Katharina Schöde"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Mystery"
+   ],
+   "id": 337556,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "Emerald Green is the stunning conclusion to Kerstin Gier's Ruby Red Trilogy, picking up where Sapphire Blue left off, reaching new heights of intrigue and romance as Gwen finally uncovers the secrets of the time-traveling society and learns her fate.",
+   "popularity": 1.291,
+   "poster_path": "/bIBLt7TVRu22cWtQiMptNUoJ9Ho.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2016-07-07",
+   "revenue": 0,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Emerald Green",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.944,
+   "vote_count": 898
+  },
+  "movie:354556": {
+   "backdrop_path": "/3yBBjRBnw5WTdh936iaTCY9Em9K.jpg",
+   "budget": 5400000,
+   "cast": [
+    {
+     "c": "Arseniy / Arsus",
+     "n": "Anton Pampushnyy"
+    },
+    {
+     "c": "Temirkhan / Khan",
+     "n": "Sanzhar Madi"
+    },
+    {
+     "c": "Ler / Lernik",
+     "n": "Sebastian Sisak"
+    },
+    {
+     "c": "Kseniya",
+     "n": "Alina Lanina"
+    },
+    {
+     "c": "Maj. Elena Larina",
+     "n": "Valeriya Shkirando"
+    },
+    {
+     "c": "Gen. Nikolay Dolgov",
+     "n": "Vyacheslav Razbegaev"
+    },
+    {
+     "c": "Fedor",
+     "n": "Nikolay Shestak"
+    },
+    {
+     "c": "S.W.A.T",
+     "n": "Vladimir Butenko"
+    },
+    {
+     "c": "Avgust Kuratov",
+     "n": "Stanislav Shirin"
+    },
+    {
+     "c": "",
+     "n": "Aleksandr Semyonov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Sarik Andreasyan"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Fantasy",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 354556,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "During the Cold War, an organization called \"Patriot\" created a superhero squad, which includes members of multiple Soviet republics. For years, the heroes had to hide their identities, but, in hard times, they must show themselves again.",
+   "popularity": 2.746,
+   "poster_path": "/sGHAoGdxD9CeJxr1mvKHjgt8eqj.jpg",
+   "production_countries": [
+    "RU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-02-24",
+   "revenue": 15065483,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Squad of Soviet Superheroes",
+   "title": "Guardians",
+   "trailer": {
+    "key": "uyZSbTDG1TU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.008,
+   "vote_count": 842
   },
   "movie:504056": {
    "backdrop_path": "/5MyjGUa2piiEyNH4UcLp3YV9cwo.jpg",
@@ -3388,6 +4472,130 @@
    "vote_average": 5.597,
    "vote_count": 315
   },
+  "movie:632856": {
+   "backdrop_path": "/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Present",
+     "n": "Will Ferrell"
+    },
+    {
+     "c": "Clint Briggs",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Kimberly",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Marley",
+     "n": "Patrick Page"
+    },
+    {
+     "c": "Past",
+     "n": "Sunita Mani"
+    },
+    {
+     "c": "Yet-To-Come",
+     "n": "Loren G. Woods"
+    },
+    {
+     "c": "Yet-To-Come (voice)",
+     "n": "Tracy Morgan"
+    },
+    {
+     "c": "Owen",
+     "n": "Joe Tippett"
+    },
+    {
+     "c": "Wren / Young Carrie",
+     "n": "Marlow Barkley"
+    },
+    {
+     "c": "Nora",
+     "n": "Aimee Carrero"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Sean Anders"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 632856,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
+   "popularity": 6.9079,
+   "poster_path": "/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-11-10",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Start your holidays on a high note.",
+   "title": "Spirited",
+   "trailer": {
+    "key": "tnAJntI3NNs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.813,
+   "vote_count": 834
+  },
   "movie:645856": {
    "backdrop_path": "/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
    "budget": 0,
@@ -3767,6 +4975,102 @@
    "type": "movie",
    "vote_average": 6.718,
    "vote_count": 434
+  },
+  "movie:73456": {
+   "backdrop_path": "/jXD8EoKLyiQzfjWc125hrAzcJ07.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Blair (voice)",
+     "n": "Diana Kaarina"
+    },
+    {
+     "c": "Miss Privet (voice)",
+     "n": "Morwenna Banks"
+    },
+    {
+     "c": "Dame Devin (voice)",
+     "n": "Nicole Oliver"
+    },
+    {
+     "c": "Delancy (voice)",
+     "n": "Brittney Wilson"
+    },
+    {
+     "c": "Portia / Hadley (voice)",
+     "n": "Ali Liebert"
+    },
+    {
+     "c": "Isla (voice)",
+     "n": "Shannon Chan-Kent"
+    },
+    {
+     "c": "Emily (voice)",
+     "n": "Madeleine Peters"
+    },
+    {
+     "c": "Male Announcer (voice)",
+     "n": "Lee Tockar"
+    },
+    {
+     "c": "Female Announcer / Keypad (voice)",
+     "n": "Cathy Weseluck"
+    },
+    {
+     "c": "Blair's Mom (voice)",
+     "n": "Ellen Kennedy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ezekiel Norton"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Fantasy"
+   ],
+   "id": 73456,
+   "industry": "world",
+   "origin_country": [],
+   "original_language": "en",
+   "overview": "Barbie stars as Blair, a waitress in the kingdom of Gardania, who is chosen to go to Princess Charm School, a magical school where students learn to be a princess.",
+   "popularity": 5.7526,
+   "poster_path": "/lI2jPbssax6XX5vDqB9mTJHGzfH.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-08-11",
+   "revenue": 0,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's a Princess in every girl!",
+   "title": "Barbie: Princess Charm School",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.559,
+   "vote_count": 897
   },
   "movie:770156": {
    "backdrop_path": "/7jS69IM8bK7ooOWGFmM9G6JcenO.jpg",

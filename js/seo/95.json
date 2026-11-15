@@ -1,6 +1,6 @@
 {
  "bucket": "95",
- "count": 53,
+ "count": 64,
  "titles": {
   "movie:10295": {
    "d": "Miami Supercops (1985): Action/Comedy film. Story: In 1978, $20 million was stolen from a Detroit bank. See cast and TMDB rating 6.4/10.",
@@ -66,6 +66,70 @@
    "t": "Miami Supercops (1985) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1985"
   },
+  "movie:1082195": {
+   "d": "The Order (2024): Crime/Drama film. Story: A string of violent robberies in the Pacific… See cast, budget $20M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aMbKYfaexixvsBZKc5whYO7yibR.jpg",
+   "industry": "world",
+   "k": "The Order, The Order movie, The Order cast, The Order story, The Order box office collection, The Order budget, The Order review, The Order rating, The Order release date, The Order trailer, The Order Crime, The Order Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jude Law"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicholas Hoult"
+     },
+     {
+      "@type": "Person",
+      "name": "Tye Sheridan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jurnee Smollett-Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Alison Oliver"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 998,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Order (2024): Crime/Drama film. Story: A string of violent robberies in the Pacific… See cast, budget $20M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin Kurzel"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aMbKYfaexixvsBZKc5whYO7yibR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1082195",
+    "name": "The Order",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-12-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1082195"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Order (2024)</h1>\n<p class=\"ssr-lead\">A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk into a white supremacist plot to overthrow the federal government.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2024</li><li>Runtime: 116 minutes</li><li>Director: Justin Kurzel</li><li>Genres: Crime, Drama, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 6.6/10 (998 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jude Law as Terry Husk</li><li>Nicholas Hoult as Robert Jay Mathews</li><li>Tye Sheridan as Jamie Bowen</li><li>Jurnee Smollett-Bell as Joanne Carney</li><li>Alison Oliver as Debbie Mathews</li><li>Odessa Young as Zillah Craig</li><li>Sebastian Pigott as Bruce Pierce</li><li>George Tchortov as Gary Yarborough/Talk Show Caller</li><li>Victor Slezak as Richard Butler</li><li>Phillip Forest Lewitski as David Lane</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "The Order (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
+  },
   "movie:1115395": {
    "d": "Colors of Evil: Red (2024): Crime/Thriller film. Story: When a girl's body is found on a beach in Poland's… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/cLXvsCO4KfWSLaXPnJF9GL0NKeg.jpg",
@@ -129,6 +193,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Colors of Evil: Red (2024)</h1>\n<p class=\"ssr-lead\">When a girl&#x27;s body is found on a beach in Poland&#x27;s Tricity, a prosecutor teams up with the victim&#x27;s mother on an impassioned quest for the truth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 May 2024</li><li>Runtime: 112 minutes</li><li>Director: Adrian Panek</li><li>Genres: Crime, Thriller, Mystery</li><li>TMDB rating: 6.7/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jakub Gierszał as Leopold Bilski</li><li>Maja Ostaszewska as Helena Bogucka</li><li>Zofia Jastrzębska as Monika Bogucka</li><li>Andrzej Konopka as Tadeusz Dubiela</li><li>Przemysław Bluszcz as Łukasz &#x27;Kazar&#x27; Kazarski</li><li>Wojciech Zieliński as Waldemar Mila</li><li>Andrzej Zieliński as Roman Bogucki</li><li>Jan Wieteska as Mario Dubiela</li><li>Zbigniew Stryj as Prosecutor Ambroziak</li><li>Łukasz Pawłowski as Policeman &#x27;Kita&#x27;</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Colors of Evil: Red (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
+  },
+  "movie:11895": {
+   "d": "Police Academy 6: City Under Siege (1989): Comedy/Crime film. Story: Our favourite police men are called together to deal… See cast and budget $15M.",
+   "img": "https://image.tmdb.org/t/p/w780/fVuhshAl0izxOaWSqNOHLQUcoPM.jpg",
+   "industry": "world",
+   "k": "Police Academy 6: City Under Siege, Police Academy 6: City Under Siege movie, Police Academy 6: City Under Siege cast, Police Academy 6: City Under Siege story, Police Academy 6: City Under Siege box office collection, Police Academy 6: City Under Siege budget, Police Academy 6: City Under Siege review, Police Academy 6: City Under Siege rating, Police Academy 6: City Under Siege release date, Police Academy 6: City Under Siege Comedy, Police Academy 6: City Under Siege Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bubba Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "David Graf"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Winslow"
+     },
+     {
+      "@type": "Person",
+      "name": "Leslie Easterbrook"
+     },
+     {
+      "@type": "Person",
+      "name": "Marion Ramsey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 997,
+     "ratingValue": 5.1,
+     "worstRating": 0
+    },
+    "description": "Police Academy 6: City Under Siege (1989): Comedy/Crime film. Story: Our favourite police men are called together to deal… See cast and budget $15M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Bonerz"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fVuhshAl0izxOaWSqNOHLQUcoPM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11895",
+    "name": "Police Academy 6: City Under Siege",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-03-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11895"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Police Academy 6: City Under Siege (1989)</h1>\n<p class=\"ssr-lead\">Our favourite police men are called together to deal with a gang who rob banks and jewelers. Using their various talents as well as their extraordinary luck, the crooks stand no chance against our men and women in blue.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 1989</li><li>Runtime: 84 minutes</li><li>Director: Peter Bonerz</li><li>Genres: Comedy, Crime</li><li>Budget: $15M</li><li>TMDB rating: 5.1/10 (997 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bubba Smith as Hightower</li><li>David Graf as Tackleberry</li><li>Michael Winslow as Jones</li><li>Leslie Easterbrook as Callahan</li><li>Marion Ramsey as Hooks</li><li>Lance Kinsey as Proctor</li><li>Matt McCoy as Nick</li><li>Bruce Mahler as Fackler</li><li>G.W. Bailey as Harris</li><li>George Gaynes as Lassard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Police Academy 6: City Under Siege (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
   },
   "movie:12395": {
    "d": "Thunderheart (1992): Crime/Mystery film. Story: A young mixed-blood FBI agent is assigned to work… See cast, TMDB rating 6.4/10, and release date 3 April 1992.",
@@ -385,6 +513,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>They Will Kill You (2026)</h1>\n<p class=\"ssr-lead\">A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 2026</li><li>Runtime: 94 minutes</li><li>Director: Kirill Sokolov</li><li>Genres: Action, Comedy, Horror</li><li>Budget: $20M</li><li>TMDB rating: 6.9/10 (1234 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zazie Beetz as Asia Reaves</li><li>Patricia Arquette as Lily Woodhouse</li><li>Myha&#x27;la as Maria Reaves</li><li>Paterson Joseph as Ray</li><li>Tom Felton as Kevin</li><li>Heather Graham as Sharon</li><li>Willie Ludik as Bob</li><li>David Viviers as Tall Steve</li><li>Gabe Gabriel as Small Steve</li><li>Viktoria Korotkova as Sophia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "They Will Kill You (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:13595": {
+   "d": "Airheads (1994): Comedy/Crime film. Story: The Lone Rangers have heavy-metal dreams and a single… See cast, budget $15M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tkMVZc8JbOtRhzOsxph9jDVquq9.jpg",
+   "industry": "world",
+   "k": "Airheads, Airheads movie, Airheads cast, Airheads story, Airheads box office collection, Airheads budget, Airheads review, Airheads rating, Airheads release date, Airheads Comedy, Airheads Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brendan Fraser"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Sandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Mantegna"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Farley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 872,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Airheads (1994): Comedy/Crime film. Story: The Lone Rangers have heavy-metal dreams and a single… See cast, budget $15M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Lehmann"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tkMVZc8JbOtRhzOsxph9jDVquq9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13595",
+    "name": "Airheads",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-08-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13595"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Airheads (1994)</h1>\n<p class=\"ssr-lead\">The Lone Rangers have heavy-metal dreams and a single demo tape they can&#x27;t get anyone to play. The solution: Hijack an FM rock radio station and hold the deejays hostage until they agree to broadcast the band&#x27;s tape.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 August 1994</li><li>Runtime: 92 minutes</li><li>Director: Michael Lehmann</li><li>Genres: Comedy, Crime, Music</li><li>Budget: $15M</li><li>TMDB rating: 6.2/10 (872 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brendan Fraser as Chester &#x27;Chazz&#x27; Darvey</li><li>Steve Buscemi as Rex</li><li>Adam Sandler as Pip</li><li>Joe Mantegna as Ian</li><li>Chris Farley as Officer Wilson</li><li>Judd Nelson as Jimmie Wing</li><li>Amy Locane as Kayla</li><li>Michael McKean as Milo Jackson</li><li>David Arquette as Carter</li><li>Nina Siemaszko as Suzzi</li></ul>\n</article>",
+   "t": "Airheads (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
   },
   "movie:13995": {
    "d": "Captain America (1990): Action/Adventure film. Story: During World War II, a brave, patriotic American… See cast, budget $3M, and TMDB rating 4.5/10.",
@@ -951,6 +1143,70 @@
    "t": "Dave Chappelle: The Unstoppable... (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:17295": {
+   "d": "The Battle of Algiers (1966): Drama/War film. Story: Former petty criminal Ali la Pointe becomes a… See cast, budget $800.0k, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ze7GsNSv418o7pzqc9fb00LWWDk.jpg",
+   "industry": "world",
+   "k": "The Battle of Algiers, The Battle of Algiers movie, The Battle of Algiers cast, The Battle of Algiers story, The Battle of Algiers box office collection, The Battle of Algiers budget, The Battle of Algiers review, The Battle of Algiers rating, The Battle of Algiers release date, The Battle of Algiers trailer, The Battle of Algiers Drama, The Battle of Algiers War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brahim Hadjadj"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Martin"
+     },
+     {
+      "@type": "Person",
+      "name": "Yacef Saâdi"
+     },
+     {
+      "@type": "Person",
+      "name": "Samia Kerbash"
+     },
+     {
+      "@type": "Person",
+      "name": "Ugo Paletti"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 952,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "The Battle of Algiers (1966): Drama/War film. Story: Former petty criminal Ali la Pointe becomes a… See cast, budget $800.0k, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gillo Pontecorvo"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Drama",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ze7GsNSv418o7pzqc9fb00LWWDk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17295",
+    "name": "The Battle of Algiers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17295"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Battle of Algiers (1966)</h1>\n<p class=\"ssr-lead\">Former petty criminal Ali la Pointe becomes a commander of the Algerian Front de Liberation Nationale, directing a guerilla insurgency against the colonial French occupation. Paratrooper commander Colonel Phillippe Mathieu, a veteran of World War II and the First Indochina War, is sent to Algeria to reinforce efforts to squelch the uprisings.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 1966</li><li>Runtime: 122 minutes</li><li>Director: Gillo Pontecorvo</li><li>Genres: Drama, War, History</li><li>Budget: $800.0k</li><li>TMDB rating: 7.9/10 (952 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brahim Hadjadj as Ali La Pointe</li><li>Jean Martin as Colonel Philippe Mathieu</li><li>Yacef Saâdi as El-Hadi Jaffar</li><li>Samia Kerbash as Fathia</li><li>Ugo Paletti as Captain</li><li>Fouzia El Kader as Halima</li><li>Mohamed Ben Kassen as Petit Omar</li><li>Si Mohamed Baghdadi as Larbi Ben M&#x27;hidi (uncredited)</li><li>Franco Moruzzi as Mahmoud (uncredited)</li><li>Tomasso Neri as Captain Dubois (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Battle of Algiers (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
+  },
   "movie:18095": {
    "d": "Dragon Ball GT: A Hero's Legacy (1997): Adventure/Action film. Story: Son Goku Jr. is the great-great-grandson of the… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/9VkUkhD1P1tZ27bZNoABjvqlmLZ.jpg",
@@ -1462,6 +1718,134 @@
    "t": "Monster High: The Movie (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:339095": {
+   "d": "The Last Days of American Crime (2020): Action/Crime film. Story: In the not-too-distant future, as a final response to… See cast and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+   "industry": "world",
+   "k": "The Last Days of American Crime, The Last Days of American Crime movie, The Last Days of American Crime cast, The Last Days of American Crime story, The Last Days of American Crime box office collection, The Last Days of American Crime budget, The Last Days of American Crime review, The Last Days of American Crime rating, The Last Days of American Crime release date, The Last Days of American Crime trailer, The Last Days of American Crime Action, The Last Days of American Crime Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Edgar Ramírez"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Brewster"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharlto Copley"
+     },
+     {
+      "@type": "Person",
+      "name": "Tamer Burjaq"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 872,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Last Days of American Crime (2020): Action/Crime film. Story: In the not-too-distant future, as a final response to… See cast and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Olivier Megaton"
+     }
+    ],
+    "duration": "PT148M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=339095",
+    "name": "The Last Days of American Crime",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=339095"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Last Days of American Crime (2020)</h1>\n<p class=\"ssr-lead\">In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2020</li><li>Runtime: 148 minutes</li><li>Director: Olivier Megaton</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 6.4/10 (872 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edgar Ramírez as Graham Bricke</li><li>Michael Pitt as Kevin Cash</li><li>Anna Brewster as Shelby Dupree</li><li>Sharlto Copley as William Sawyer</li><li>Tamer Burjaq as Ross King</li><li>Neels Clasen as Sidell Turner</li><li>Tony Caprari as Jim Schneider</li><li>Kate Normington as News Anchor 1</li><li>Ian Bruce as Specialist on TV</li><li>Norman Anstey as Collins</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "The Last Days of American Crime (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:36095": {
+   "d": "Cure (1997): Horror/Mystery film. Story: A frustrated detective deals with the case of several… See cast, budget $20.0k, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yFNZidMRI7dTr7dklBfo3I2yMsc.jpg",
+   "industry": "world",
+   "k": "Cure, Cure movie, Cure cast, Cure story, Cure box office collection, Cure budget, Cure review, Cure rating, Cure release date, Cure trailer, Cure Horror, Cure Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Koji Yakusho"
+     },
+     {
+      "@type": "Person",
+      "name": "Masato Hagiwara"
+     },
+     {
+      "@type": "Person",
+      "name": "Tsuyoshi Ujiki"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Nakagawa"
+     },
+     {
+      "@type": "Person",
+      "name": "Yukijiro Hotaru"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 946,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Cure (1997): Horror/Mystery film. Story: A frustrated detective deals with the case of several… See cast, budget $20.0k, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kiyoshi Kurosawa"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yFNZidMRI7dTr7dklBfo3I2yMsc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36095",
+    "name": "Cure",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-12-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36095"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cure (1997)</h1>\n<p class=\"ssr-lead\">A frustrated detective deals with the case of several gruesome murders committed by people who have no recollection of what they&#x27;ve done.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 December 1997</li><li>Runtime: 111 minutes</li><li>Director: Kiyoshi Kurosawa</li><li>Genres: Horror, Mystery, Crime</li><li>Budget: $20.0k</li><li>TMDB rating: 7.6/10 (946 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Koji Yakusho as Kenichi Takabe</li><li>Masato Hagiwara as Kunio Mamiya</li><li>Tsuyoshi Ujiki as Makoto Sakuma</li><li>Anna Nakagawa as Fumie Takabe</li><li>Yukijiro Hotaru as Ichiro Kuwano</li><li>Yoriko Doguchi as Dr. Akiko Miyajima</li><li>Denden as OIda</li><li>Ren Osugi as Fujiwara</li><li>Masahiro Toda as Tôru Hanaoka</li><li>Misayo Haruki as Tomoko Hanaoka</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Cure (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
+  },
   "movie:428495": {
    "d": "The Nile Hilton Incident (2017): Thriller/Drama film. Story: Cairo, 2011. A police officer investigates the murder… See cast and budget $4.25M.",
    "img": "https://image.tmdb.org/t/p/w780/tUVpn0woaiBLkeCkBigoRvO1iwh.jpg",
@@ -1852,6 +2236,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Ruthless (2019)</h1>\n<p class=\"ssr-lead\">Milan, Italy, 1967. Santo Russo, a boy of Calabrian origin, arrives north with his parents and younger brother to find better living conditions. Due to an absurd misunderstanding and his father&#x27;s contempt, Santo ends up in prison, where he gets a “true education.” In 1978, he and his friends Slim and Mario embark on a 15-year criminal career, a successful and ruthless spiral of robberies, kidnappings, murders and heroin smuggling.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2019</li><li>Runtime: 111 minutes</li><li>Director: Renato De Maria</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.3/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Riccardo Scamarcio as Santo Russo</li><li>Sara Serraiocco as Mariangela</li><li>Alessio Praticò as Salvatore &#x27;Slim&#x27; Mammone</li><li>Alessandro Tedeschi as Alessandro Tedeschi</li><li>Marie-Ange Casta as Annabelle</li><li>Sara Cardinaletti as Suor Giuseppina</li><li>Angelo Libri as Pantaleone Russo</li><li>Adele Tirante as Caterina Russo</li><li>Michele De Virgilio as Avvocato Giovanni Bova</li><li>Aram Kian as Nuri</li></ul>\n</article>",
    "t": "The Ruthless (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:590995": {
+   "d": "The Craft: Legacy (2020): Horror/Drama film. Story: An eclectic foursome of aspiring teenage witches get… See cast, budget $18M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jb8pEmjgmUlJI3Llbb9x75ZlJ03.jpg",
+   "industry": "world",
+   "k": "The Craft: Legacy, The Craft: Legacy movie, The Craft: Legacy cast, The Craft: Legacy story, The Craft: Legacy box office collection, The Craft: Legacy budget, The Craft: Legacy review, The Craft: Legacy rating, The Craft: Legacy release date, The Craft: Legacy trailer, The Craft: Legacy Horror, The Craft: Legacy Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Cailee Spaeny"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoey Luna"
+     },
+     {
+      "@type": "Person",
+      "name": "Gideon Adlon"
+     },
+     {
+      "@type": "Person",
+      "name": "Lovie Simone"
+     },
+     {
+      "@type": "Person",
+      "name": "David Duchovny"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 931,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "The Craft: Legacy (2020): Horror/Drama film. Story: An eclectic foursome of aspiring teenage witches get… See cast, budget $18M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zoe Lister-Jones"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jb8pEmjgmUlJI3Llbb9x75ZlJ03.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=590995",
+    "name": "The Craft: Legacy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-10-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=590995"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Craft: Legacy (2020)</h1>\n<p class=\"ssr-lead\">An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2020</li><li>Runtime: 94 minutes</li><li>Director: Zoe Lister-Jones</li><li>Genres: Horror, Drama, Fantasy</li><li>Budget: $18M</li><li>TMDB rating: 6.1/10 (931 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cailee Spaeny as Lily</li><li>Zoey Luna as Lourdes</li><li>Gideon Adlon as Frankie</li><li>Lovie Simone as Tabby</li><li>David Duchovny as Adam</li><li>Michelle Monaghan as Helen</li><li>Nicholas Galitzine as Timmy</li><li>Julian Grey as Abe</li><li>Charles Vandervaart as Jacob</li><li>Donald MacLean Jr. as Isaiah</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Craft: Legacy (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
+  "movie:592695": {
+   "d": "Pleasure (2021): Drama film. Story: Bella Cherry arrives in Los Angeles with dreams of… See cast, budget $1.8M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+   "industry": "world",
+   "k": "Pleasure, Pleasure movie, Pleasure cast, Pleasure story, Pleasure box office collection, Pleasure budget, Pleasure review, Pleasure rating, Pleasure release date, Pleasure trailer, Pleasure Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sofia Kappel"
+     },
+     {
+      "@type": "Person",
+      "name": "Zelda Morrison"
+     },
+     {
+      "@type": "Person",
+      "name": "Tee Reel"
+     },
+     {
+      "@type": "Person",
+      "name": "Evelyn Claire"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Cock"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 840,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Pleasure (2021): Drama film. Story: Bella Cherry arrives in Los Angeles with dreams of… See cast, budget $1.8M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ninja Thyberg"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=592695",
+    "name": "Pleasure",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-10-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=592695"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pleasure (2021)</h1>\n<p class=\"ssr-lead\">Bella Cherry arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won&#x27;t come easy as she harnesses her ambition and cunning to rise to the top of this mesmerizing and singular world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 October 2021</li><li>Runtime: 108 minutes</li><li>Director: Ninja Thyberg</li><li>Genres: Drama</li><li>Budget: $1.8M</li><li>TMDB rating: 6.3/10 (840 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sofia Kappel as Bella Cherry</li><li>Zelda Morrison as Joy</li><li>Tee Reel as Mike</li><li>Evelyn Claire as Ava</li><li>Chris Cock as Bear</li><li>Dana DeArmond as Ashley</li><li>Kendra Spade as Kimberly</li><li>Mark Spiegler as Spiegler</li><li>Eva Melander as Mother (voice)</li><li>Lucy Hart as Caesar</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Pleasure (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:62395": {
    "d": "The Miracle of Marcelino (1955): Drama film. Story: Left on the doorstep of a monastery as an infant… See cast and TMDB rating 7.4/10.",
@@ -2283,6 +2794,134 @@
    "t": "Separation (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:8095": {
+   "d": "Cleopatra (1963): Drama/History film. Story: Determined to hold on to the throne, Cleopatra… See cast, budget $36.12M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q7fBDmVcU0MWkc8sWt9IKj6YbVd.jpg",
+   "industry": "world",
+   "k": "Cleopatra, Cleopatra movie, Cleopatra cast, Cleopatra story, Cleopatra box office collection, Cleopatra budget, Cleopatra review, Cleopatra rating, Cleopatra release date, Cleopatra Drama, Cleopatra History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elizabeth Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Burton"
+     },
+     {
+      "@type": "Person",
+      "name": "Rex Harrison"
+     },
+     {
+      "@type": "Person",
+      "name": "Pamela Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "George Cole"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 903,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Cleopatra (1963): Drama/History film. Story: Determined to hold on to the throne, Cleopatra… See cast, budget $36.12M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joseph L. Mankiewicz"
+     }
+    ],
+    "duration": "PT251M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q7fBDmVcU0MWkc8sWt9IKj6YbVd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8095",
+    "name": "Cleopatra",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1963-06-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8095"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cleopatra (1963)</h1>\n<p class=\"ssr-lead\">Determined to hold on to the throne, Cleopatra seduces the Roman emperor Julius Caesar. When Caesar is murdered, she redirects her attentions to his general, Marc Antony, who vows to take power—but Caesar’s successor has other plans.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 June 1963</li><li>Runtime: 251 minutes</li><li>Director: Joseph L. Mankiewicz</li><li>Genres: Drama, History, Romance</li><li>Budget: $36.12M</li><li>TMDB rating: 7.1/10 (903 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elizabeth Taylor as Cleopatra</li><li>Richard Burton as Marcus Antonius</li><li>Rex Harrison as Julius Caesar</li><li>Pamela Brown as High Priestess</li><li>George Cole as Flavius</li><li>Hume Cronyn as Sosigenes</li><li>Cesare Danova as Apollodorus</li><li>Kenneth Haigh as Brutus</li><li>Andrew Keir as Agrippa</li><li>Martin Landau as Rufio</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Cleopatra (1963) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1963"
+  },
+  "movie:895": {
+   "d": "Andrei Rublev (1966): Drama/History film. Story: An expansive Russian drama, this film focuses on the… See cast, budget $1.3M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg",
+   "industry": "world",
+   "k": "Andrei Rublev, Andrei Rublev movie, Andrei Rublev cast, Andrei Rublev story, Andrei Rublev box office collection, Andrei Rublev budget, Andrei Rublev review, Andrei Rublev rating, Andrei Rublev release date, Andrei Rublev trailer, Andrei Rublev Drama, Andrei Rublev History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anatoliy Solonitsyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Ivan Lapikov"
+     },
+     {
+      "@type": "Person",
+      "name": "Mykola Hrynko"
+     },
+     {
+      "@type": "Person",
+      "name": "Nikolai Sergeyev"
+     },
+     {
+      "@type": "Person",
+      "name": "Irma Raush"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 995,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Andrei Rublev (1966): Drama/History film. Story: An expansive Russian drama, this film focuses on the… See cast, budget $1.3M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrei Tarkovsky"
+     }
+    ],
+    "duration": "PT183M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=895",
+    "name": "Andrei Rublev",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1966-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=895"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Andrei Rublev (1966)</h1>\n<p class=\"ssr-lead\">An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 1966</li><li>Runtime: 183 minutes</li><li>Director: Andrei Tarkovsky</li><li>Genres: Drama, History</li><li>Budget: $1.3M</li><li>TMDB rating: 7.9/10 (995 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anatoliy Solonitsyn as Andrei Rublev</li><li>Ivan Lapikov as Kirill</li><li>Mykola Hrynko as Daniil Chornyy</li><li>Nikolai Sergeyev as Theophanus the Greek</li><li>Irma Raush as God&#x27;s Fool</li><li>Nikolay Burlyaev as Boriska</li><li>Yuriy Nazarov as Grand Duke / Minor Duke</li><li>Yuriy Nikulin as Patrikey</li><li>Rolan Bykov as Buffoon</li><li>Nikolay Grabbe as Stepan, Centurion of the Grand Duke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Darkroom</li><li>Rent: Apple TV Store, Fandango At Home</li><li>Buy: Apple TV Store, Fandango At Home</li></ul>\n</article>",
+   "t": "Andrei Rublev (1966) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1966"
+  },
   "movie:9095": {
    "d": "Mary Reilly (1996): Drama/Horror film. Story: A housemaid falls in love with Dr. Jekyll and his… See cast, budget $47M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/mErnrp6gxgSw7eYVnuos3k8EkWf.jpg",
@@ -2346,6 +2985,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Mary Reilly (1996)</h1>\n<p class=\"ssr-lead\">A housemaid falls in love with Dr. Jekyll and his darkly mysterious counterpart, Mr. Hyde.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 February 1996</li><li>Runtime: 108 minutes</li><li>Director: Stephen Frears</li><li>Genres: Drama, Horror, Thriller</li><li>Budget: $47M</li><li>TMDB rating: 5.8/10 (350 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julia Roberts as Mary Reilly</li><li>John Malkovich as Dr. Henry Jekyll / Edward Hyde</li><li>George Cole as Mr. Poole</li><li>Michael Gambon as Mary’s Father</li><li>Glenn Close as Mrs. Farraday</li><li>Kathy Staff as Mrs. Kent</li><li>Michael Sheen as Bradshaw</li><li>Bronagh Gallagher as Annie</li><li>Linda Bassett as Mary&#x27;s Mother</li><li>Ciarán Hinds as Sir Danvers Carew</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Mary Reilly (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:9395": {
+   "d": "Above the Law (1988): Action/Crime film. Story: Nico Toscani is an Italian immigrant, American… See cast, budget $7.5M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qvrayOIHOQMo9y9B3u7ACGimuo2.jpg",
+   "industry": "world",
+   "k": "Above the Law, Above the Law movie, Above the Law cast, Above the Law story, Above the Law box office collection, Above the Law budget, Above the Law review, Above the Law rating, Above the Law release date, Above the Law trailer, Above the Law Action, Above the Law Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steven Seagal"
+     },
+     {
+      "@type": "Person",
+      "name": "Pam Grier"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Silva"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharon Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Ron Dean"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 840,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Above the Law (1988): Action/Crime film. Story: Nico Toscani is an Italian immigrant, American… See cast, budget $7.5M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Davis"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qvrayOIHOQMo9y9B3u7ACGimuo2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9395",
+    "name": "Above the Law",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9395"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Above the Law (1988)</h1>\n<p class=\"ssr-lead\">Nico Toscani is an Italian immigrant, American patriot, ex-CIA agent, aikido specialist and unorthodox Chicago policeman. He is as committed to his job as he is to his personalized brand of justice—expert and thorough bone-crushing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 1988</li><li>Runtime: 99 minutes</li><li>Director: Andrew Davis</li><li>Genres: Action, Crime</li><li>Budget: $7.5M</li><li>TMDB rating: 6.1/10 (840 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steven Seagal as Nico Toscani</li><li>Pam Grier as Delores &#x27;Jacks&#x27; Jackson</li><li>Henry Silva as Kurt Zagon</li><li>Sharon Stone as Sara Toscani</li><li>Ron Dean as Detective Lukich</li><li>Daniel Faraldo as Tony Salvano</li><li>Joe Greco as Father Joseph Gennaro</li><li>Vince Viverito as Giuseppe</li><li>Chelcie Ross as Nelson Fox</li><li>Jack Wallace as Uncle Branca</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Above the Law (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
   },
   "movie:97795": {
    "d": "Apartment 143 (2011): Horror/Thriller film. Story: A team of parapsychologists sets out to investigate a… See cast and TMDB rating 5.1/10.",

@@ -1,7 +1,155 @@
 {
  "bucket": "00",
- "count": 58,
+ "count": 66,
  "titles": {
+  "movie:1010600": {
+   "backdrop_path": "/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Maya",
+     "n": "Madelaine Petsch"
+    },
+    {
+     "c": "Ryan",
+     "n": "Froy Gutierrez"
+    },
+    {
+     "c": "Gregory",
+     "n": "Gabriel Basso"
+    },
+    {
+     "c": "Shelly",
+     "n": "Ema Horvath"
+    },
+    {
+     "c": "Jasmine",
+     "n": "Ella Bruccoleri"
+    },
+    {
+     "c": "Sheriff Rotter",
+     "n": "Richard Brake"
+    },
+    {
+     "c": "911 Operator / Nurse Danica",
+     "n": "Brooke Lena Johnson"
+    },
+    {
+     "c": "Eden",
+     "n": "Rafaella Biscayn-Debest"
+    },
+    {
+     "c": "Deputy Walters",
+     "n": "Pedro Leandro"
+    },
+    {
+     "c": "Chris Sampson",
+     "n": "Florian Clare"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1010600,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+   "popularity": 4.3432,
+   "poster_path": "/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-05-15",
+   "revenue": 48166448,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They don't need a reason.",
+   "title": "The Strangers: Chapter 1",
+   "trailer": {
+    "key": "3pZUQmZdOi4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.658,
+   "vote_count": 876
+  },
   "movie:10900": {
    "backdrop_path": "/iExOE5nfduuD1rL1flHBhkCffxp.jpg",
    "budget": 3500000,
@@ -2030,6 +2178,114 @@
    "vote_average": 6.6,
    "vote_count": 20
   },
+  "movie:1600": {
+   "backdrop_path": "/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Weronika / Véronique",
+     "n": "Irène Jacob"
+    },
+    {
+     "c": "Auntie",
+     "n": "Halina Gryglaszewska"
+    },
+    {
+     "c": "Alexandre Fabbri",
+     "n": "Philippe Volter"
+    },
+    {
+     "c": "Serge",
+     "n": "Guillaume de Tonquédec"
+    },
+    {
+     "c": "Crazy Woman",
+     "n": "Kalina Jędrusik"
+    },
+    {
+     "c": "Conductor",
+     "n": "Aleksander Bardini"
+    },
+    {
+     "c": "Weronika's Father",
+     "n": "Władysław Kowalski"
+    },
+    {
+     "c": "Antek",
+     "n": "Jerzy Gudejko"
+    },
+    {
+     "c": "Lawyer",
+     "n": "Janusz Sterninski"
+    },
+    {
+     "c": "Catherine",
+     "n": "Sandrine Dumas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Krzysztof Kieślowski"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 1600,
+   "industry": "world",
+   "origin_country": [
+    "PL",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Véronique is a beautiful young French woman who aspires to be a renowned singer; Weronika lives in Poland, has a similar career goal and looks identical to Véronique, though the two are not related. The film follows both women as they contend with the ups and downs of their individual lives, with Véronique embarking on an unusual romance with Alexandre Fabbri, a puppeteer who may be able to help her with her existential issues.",
+   "popularity": 3.1053,
+   "poster_path": "/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+   "production_countries": [
+    "FR",
+    "NO",
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/fy6GVs6ZtKluakv0Z5nuLesmTqx.png",
+     "name": "Pijama Films",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1991-05-15",
+   "revenue": 1999955,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it",
+    "pl"
+   ],
+   "status": "Released",
+   "tagline": "Each of us is matched somewhere in the world, by our exact double - someone who shares our thoughts and dreams.",
+   "title": "The Double Life of Véronique",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.484,
+   "vote_count": 935
+  },
   "movie:16000": {
    "backdrop_path": "/Ap9FjTsRBFBKrUSCQ0xUiaQ0yMW.jpg",
    "budget": 18000000,
@@ -2741,6 +2997,155 @@
    "vote_average": 7.0,
    "vote_count": 495
   },
+  "movie:25300": {
+   "backdrop_path": "/gpjHHQcHKBefkgRkroGQHbS8CnG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Michele",
+     "n": "Giuseppe Cristiano"
+    },
+    {
+     "c": "Pino Amitrano",
+     "n": "Dino Abbrescia"
+    },
+    {
+     "c": "Anna",
+     "n": "Aitana Sánchez-Gijón"
+    },
+    {
+     "c": "Sergio",
+     "n": "Diego Abatantuono"
+    },
+    {
+     "c": "Teschio",
+     "n": "Fabio Tetta"
+    },
+    {
+     "c": "Pietro",
+     "n": "Riccardo Zinna"
+    },
+    {
+     "c": "Maria",
+     "n": "Giulia Matturro"
+    },
+    {
+     "c": "Assunta",
+     "n": "Antonella Stefanucci"
+    },
+    {
+     "c": "Remo",
+     "n": "Fabio Antonacci"
+    },
+    {
+     "c": "Felice",
+     "n": "Giorgio Careccia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Salvatores"
+   ],
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 25300,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "GB"
+   ],
+   "original_language": "it",
+   "overview": "In a tiny community enclosed by wheat fields, the adults shelter indoors, while six children venture out on their bikes across the scorched, deserted countryside. Exploring a dilapidated and uninhabited farmhouse, nine-year-old Michele discovers a secret so momentous, so terrible, that he dares not tell anyone about it...",
+   "popularity": 1.5872,
+   "poster_path": "/vTf4qR0OSuV4qBT8As4QoWxSJSq.jpg",
+   "production_countries": [
+    "IT",
+    "ES",
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png",
+     "name": "JustWatch TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2003-02-08",
+   "revenue": 0,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Who can you trust when everyone's a suspect?",
+   "title": "I'm Not Scared",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 984
+  },
   "movie:26900": {
    "backdrop_path": "/oojHJ1BRCeHBkdIEshjP85gDDfY.jpg",
    "budget": 0,
@@ -3103,6 +3508,164 @@
    "vote_average": 7.767,
    "vote_count": 350
   },
+  "movie:300": {
+   "backdrop_path": "/on2LtRJ41aS3vwQfu8F5H1cyV6D.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Stéphane",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Stéphanie",
+     "n": "Charlotte Gainsbourg"
+    },
+    {
+     "c": "Christine Miroux",
+     "n": "Miou-Miou"
+    },
+    {
+     "c": "Guy",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Zoé",
+     "n": "Emma de Caunes"
+    },
+    {
+     "c": "Martine",
+     "n": "Aurélia Petit"
+    },
+    {
+     "c": "Serge",
+     "n": "Sacha Bourdo"
+    },
+    {
+     "c": "Mr. Pouchet",
+     "n": "Pierre Vaneck"
+    },
+    {
+     "c": "Sylvain",
+     "n": "Stéphane Metzger"
+    },
+    {
+     "c": "Gérard",
+     "n": "Alain de Moyencourt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michel Gondry"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 300,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A man entranced by his dreams and imagination is lovestruck with a French woman and feels he can show her his world.",
+   "popularity": 2.4538,
+   "poster_path": "/8bummqwU6MV65ZJvNtKx8Y3NIEk.jpg",
+   "production_countries": [
+    "FR",
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-06-25",
+   "revenue": 9524340,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Close your eyes. Open your heart.",
+   "title": "The Science of Sleep",
+   "trailer": {
+    "key": "dHtE0szIip0",
+    "name": "Trailer 1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.967,
+   "vote_count": 882
+  },
   "movie:31900": {
    "backdrop_path": "/aFGFVXvqOzrK07jnRaSrzIJYp95.jpg",
    "budget": 0,
@@ -3440,6 +4003,134 @@
    "vote_average": 7.5,
    "vote_count": 346
   },
+  "movie:336000": {
+   "backdrop_path": "/lBDOPBbmI0mKqBAakiLZ0BdgzET.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Jeannette Walls",
+     "n": "Brie Larson"
+    },
+    {
+     "c": "Rex Walls",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Rose Mary Walls",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "David",
+     "n": "Max Greenfield"
+    },
+    {
+     "c": "Lori Walls",
+     "n": "Sarah Snook"
+    },
+    {
+     "c": "Jeannette Walls (Age 10)",
+     "n": "Ella Anderson"
+    },
+    {
+     "c": "Lori Walls (Age 12)",
+     "n": "Sadie Sink"
+    },
+    {
+     "c": "Erma Walls",
+     "n": "Robin Bartlett"
+    },
+    {
+     "c": "Jeannette Walls (Age 5 and 6)",
+     "n": "Chandler Head"
+    },
+    {
+     "c": "Brian Walls (Age 5)",
+     "n": "Iain Armitage"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Destin Daniel Cretton"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 336000,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young girl is raised in a dysfunctional family constantly on the run from the FBI. Living in poverty, she comes of age guided by her drunkard, ingenious father who distracts her with magical stories to keep her mind off the family's dire state, and her selfish, nonconformist mother who has no intention of raising a family, along with her younger brother and sister, and her other older sister. Together, they fend for each other as they mature in an unorthodox journey that is their family life.",
+   "popularity": 2.7689,
+   "poster_path": "/8NPP7mliHLlVMHce8SjApiRxgzm.jpg",
+   "production_countries": [
+    "HK",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-08-11",
+   "revenue": 22088533,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Find beauty in the struggle.",
+   "title": "The Glass Castle",
+   "trailer": {
+    "key": "pJUuhCMbWyg",
+    "name": "Official Trailer “Dream”",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.101,
+   "vote_count": 929
+  },
   "movie:384500": {
    "backdrop_path": "/gpJr8PeRNhUXJl7jiGimhIUqGX0.jpg",
    "budget": 0,
@@ -3624,6 +4315,189 @@
    "type": "movie",
    "vote_average": 6.445,
    "vote_count": 453
+  },
+  "movie:403300": {
+   "backdrop_path": "/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Franz Jägerstätter",
+     "n": "August Diehl"
+    },
+    {
+     "c": "Fani Jägerstätter",
+     "n": "Valerie Pachner"
+    },
+    {
+     "c": "Resie",
+     "n": "Maria Simon"
+    },
+    {
+     "c": "Rosalia Jägerstätter",
+     "n": "Karin Neuhäuser"
+    },
+    {
+     "c": "Fr Ferdinand Fürthauer",
+     "n": "Tobias Moretti"
+    },
+    {
+     "c": "Lorenz Schwaninger",
+     "n": "Ulrich Matthes"
+    },
+    {
+     "c": "Captain Herder",
+     "n": "Matthias Schoenaerts"
+    },
+    {
+     "c": "Bishop Joseph Fliessen",
+     "n": "Michael Nyqvist"
+    },
+    {
+     "c": "Waldland",
+     "n": "Franz Rogowski"
+    },
+    {
+     "c": "Mayor of St. Radegund",
+     "n": "Karl Markovics"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Terrence Malick"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "War"
+   ],
+   "id": 403300,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Austrian farmer Franz Jägerstätter faces the threat of execution for refusing to fight for the Nazis during World War II.",
+   "popularity": 2.1913,
+   "poster_path": "/taUkn5MsZIq5kpTABsF2563j5zp.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+     "name": "FXNow",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-08-27",
+   "revenue": 4645140,
+   "runtime": 173,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Better to suffer injustice than to commit it.",
+   "title": "A Hidden Life",
+   "trailer": {
+    "key": "qJXmdY4lVR0",
+    "name": "A HIDDEN LIFE | Official Trailer [HD] | FOX Searchlight",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.2,
+   "vote_count": 825
   },
   "movie:43200": {
    "backdrop_path": "/38W3ELhUprf0aTWyviRggCs1Jmi.jpg",
@@ -4558,6 +5432,135 @@
    "vote_average": 7.1,
    "vote_count": 434
   },
+  "movie:664300": {
+   "backdrop_path": "/feQvRl67oc4AOWN4LhAwkrMWdX4.jpg",
+   "budget": 250000,
+   "cast": [
+    {
+     "c": "Danielle",
+     "n": "Rachel Sennott"
+    },
+    {
+     "c": "Maya",
+     "n": "Molly Gordon"
+    },
+    {
+     "c": "Debbie",
+     "n": "Polly Draper"
+    },
+    {
+     "c": "Max",
+     "n": "Danny Deferrari"
+    },
+    {
+     "c": "Joel",
+     "n": "Fred Melamed"
+    },
+    {
+     "c": "Kim",
+     "n": "Dianna Agron"
+    },
+    {
+     "c": "Katherine",
+     "n": "Glynis Bell"
+    },
+    {
+     "c": "Maureen",
+     "n": "Sondra James"
+    },
+    {
+     "c": "Ellie",
+     "n": "Deborah Offner"
+    },
+    {
+     "c": "Mrs. Bronstein",
+     "n": "Rita Gardner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Emma Seligman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 664300,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "College student Danielle must cover her tracks when she unexpectedly runs into her sugar daddy at a shiva - with her parents, ex-girlfriend and family friends also in attendance.",
+   "popularity": 2.2073,
+   "poster_path": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-06-21",
+   "revenue": 359247,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "One day. One location. Ultimate social anxiety.",
+   "title": "Shiva Baby",
+   "trailer": {
+    "key": "1ribuR9hVv4",
+    "name": "Official International Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.089,
+   "vote_count": 847
+  },
   "movie:689700": {
    "backdrop_path": "/k0bZfbtwZvMtKazaabeLVGQLhGg.jpg",
    "budget": 0,
@@ -4976,6 +5979,181 @@
    "type": "movie",
    "vote_average": 5.946,
    "vote_count": 336
+  },
+  "movie:803700": {
+   "backdrop_path": "/hag9edxgL2RgG9FMfqAV0KgjPK0.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Pietro Guasti",
+     "n": "Luca Marinelli"
+    },
+    {
+     "c": "Bruno Guglielmina",
+     "n": "Alessandro Borghi"
+    },
+    {
+     "c": "Pietro (as a child)",
+     "n": "Lupo Barbiero"
+    },
+    {
+     "c": "Bruno (as a child)",
+     "n": "Cristiano Sassella"
+    },
+    {
+     "c": "Lara",
+     "n": "Elisabetta Mazzullo"
+    },
+    {
+     "c": "Pietro (as a teenager)",
+     "n": "Andrea Palma"
+    },
+    {
+     "c": "Asmi",
+     "n": "Surakshya Panta"
+    },
+    {
+     "c": "Francesca Guasti",
+     "n": "Elena Lietti"
+    },
+    {
+     "c": "Giovanni Guasti",
+     "n": "Filippo Timi"
+    },
+    {
+     "c": "Barbara",
+     "n": "Elisa Zanotto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Charlotte Vandermeersch",
+    "Felix van Groeningen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 803700,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "BE",
+    "FR",
+    "GB"
+   ],
+   "original_language": "it",
+   "overview": "An epic journey of friendship and self-discovery set in the breathtaking Italian Alps, The Eight Mountains follows over four decades the profound, complex relationship between Pietro and Bruno.",
+   "popularity": 1.9124,
+   "poster_path": "/ohD87uTlwOgNuUEYaW82ew9Eds7.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "IT",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-12-21",
+   "revenue": 9494985,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ne",
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Eight Mountains",
+   "trailer": {
+    "key": "ak4yBWxJDj8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.63,
+   "vote_count": 880
   },
   "movie:84200": {
    "backdrop_path": "/o1Xv9blcbKSVxoXQ6kiBOL3W1Mz.jpg",

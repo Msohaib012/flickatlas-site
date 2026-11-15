@@ -1,7 +1,119 @@
 {
  "bucket": "34",
- "count": 46,
+ "count": 55,
  "titles": {
+  "movie:10134": {
+   "backdrop_path": "/lUHhwf9VRcdnP5gQjnqa337L33M.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Gibson Rickenbacker",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Nady Simmons",
+     "n": "Deborah Richter"
+    },
+    {
+     "c": "Fender Tremolo",
+     "n": "Vincent Klyn"
+    },
+    {
+     "c": "Marshall Strat",
+     "n": "Alex Daniels"
+    },
+    {
+     "c": "Brick Bardo",
+     "n": "Ralf Moeller"
+    },
+    {
+     "c": "Pearl Prophet",
+     "n": "Dayle Haddon"
+    },
+    {
+     "c": "Furman Vux / Pirate / Bandit",
+     "n": "Blaise Loong"
+    },
+    {
+     "c": "Haley",
+     "n": "Haley Peterson"
+    },
+    {
+     "c": "Mary",
+     "n": "Terrie Batson"
+    },
+    {
+     "c": "Tytus / Pirate / Bandit",
+     "n": "Jackson 'Rock' Pinckney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Albert Pyun"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 10134,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A martial artist hunts a killer in a plague-infested urban dump of the future.",
+   "popularity": 3.1322,
+   "poster_path": "/nOspcG8HP6KPdMvzezavRbzYCEw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1989-04-07",
+   "revenue": 10166459,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's the first hero of the 21st Century... and he's our only hope.",
+   "title": "Cyborg",
+   "trailer": {
+    "key": "-dv3bpt8_s8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.652,
+   "vote_count": 884
+  },
   "movie:10534": {
    "backdrop_path": "/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
    "budget": 38000000,
@@ -1892,6 +2004,114 @@
    "vote_average": 6.6,
    "vote_count": 454
   },
+  "movie:1534": {
+   "backdrop_path": "/x1iHrvnxB3IuNBiTvqdfQqeh2mk.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Ghost",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Starfire",
+     "n": "Moon Bloodgood"
+    },
+    {
+     "c": "Little Sister",
+     "n": "Nicole Muñoz"
+    },
+    {
+     "c": "Gunnar",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Blackwing",
+     "n": "Jay Tavare"
+    },
+    {
+     "c": "Elder #1",
+     "n": "Ray G. Thunderchild"
+    },
+    {
+     "c": "Ulfar",
+     "n": "Ralf Moeller"
+    },
+    {
+     "c": "Pathfinder",
+     "n": "Russell Means"
+    },
+    {
+     "c": "Wind In Tree",
+     "n": "Nathaniel Arcand"
+    },
+    {
+     "c": "Indian Mother",
+     "n": "Michelle Thrush"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marcus Nispel"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 1534,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Viking boy is left behind after his clan battles a Native American tribe. Raised within the tribe, he ultimately becomes their savior in a fight against the Norsemen.",
+   "popularity": 2.7395,
+   "poster_path": "/mME7efKNTU7jzXTgFkI1t0aQUiz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-01-11",
+   "revenue": 30800000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "is",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Two Worlds, One War. The Ultimate Battle Begins.",
+   "title": "Pathfinder",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.663,
+   "vote_count": 823
+  },
   "movie:1556834": {
    "backdrop_path": "/ofp2O5yUNGjBGXGA5SXdRCFOS74.jpg",
    "budget": 0,
@@ -2257,6 +2477,513 @@
    "vote_average": 7.956,
    "vote_count": 34
   },
+  "movie:17134": {
+   "backdrop_path": "/c2EpOiIhpMtGCnG6HyHgbpyryPd.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Danny Fisher",
+     "n": "John Cena"
+    },
+    {
+     "c": "Miles Jackson",
+     "n": "Aidan Gillen"
+    },
+    {
+     "c": "Molly Porter",
+     "n": "Ashley Scott"
+    },
+    {
+     "c": "George Aiken",
+     "n": "Steve Harris"
+    },
+    {
+     "c": "Hank Carver",
+     "n": "Brian J. White"
+    },
+    {
+     "c": "Ray Santiago",
+     "n": "Gonzalo Menendez"
+    },
+    {
+     "c": "Erica Kessen",
+     "n": "Taylor Cole"
+    },
+    {
+     "c": "Dave Fisher",
+     "n": "Kyle Clements"
+    },
+    {
+     "c": "Willie Dumaine",
+     "n": "Peter Navy Tuiasosopo"
+    },
+    {
+     "c": "Anthony Deluso",
+     "n": "Travis Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 17134,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When New Orleans Police Detective Danny Fisher stops a brilliant thief from getting away with a multimillion-dollar heist, the thief's girlfriend is accidentally killed. After escaping from prison, the criminal mastermind enacts his revenge, taunting Danny with 12 rounds of near-impossible puzzles and tasks that he must somehow complete to save the life of the woman he loves.",
+   "popularity": 2.7199,
+   "poster_path": "/7k7qhrO57sVoBLrNo5HYoTp24sT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-03-19",
+   "revenue": 17280326,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Can you survive 12 rounds for the one you love?",
+   "title": "12 Rounds",
+   "trailer": {
+    "key": "2NvznP_gp_A",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.875,
+   "vote_count": 887
+  },
+  "movie:20334": {
+   "backdrop_path": "/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+   "budget": 500000,
+   "cast": [
+    {
+     "c": "Klara Novak",
+     "n": "Margaret Sullavan"
+    },
+    {
+     "c": "Alfred Kralik",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Hugo Matuschek",
+     "n": "Frank Morgan"
+    },
+    {
+     "c": "Ferencz Vadas",
+     "n": "Joseph Schildkraut"
+    },
+    {
+     "c": "Flora",
+     "n": "Sara Haden"
+    },
+    {
+     "c": "Pirovitch",
+     "n": "Felix Bressart"
+    },
+    {
+     "c": "Pepi Katona",
+     "n": "William Tracy"
+    },
+    {
+     "c": "Ilona",
+     "n": "Inez Courtney"
+    },
+    {
+     "c": "Woman Customer",
+     "n": "Sarah Edwards"
+    },
+    {
+     "c": "Doctor",
+     "n": "Edwin Maxwell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Ernst Lubitsch"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 20334,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
+   "popularity": 3.2022,
+   "poster_path": "/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1940-01-12",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "EVERY GIRL OR FELLOW WHO EVER KEPT A “BLIND DATE”",
+   "title": "The Shop Around the Corner",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.047,
+   "vote_count": 889
+  },
+  "movie:203834": {
+   "backdrop_path": "/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Jessie",
+     "n": "Sarah Snook"
+    },
+    {
+     "c": "Preston",
+     "n": "Mark Webber"
+    },
+    {
+     "c": "Kate",
+     "n": "Joelle Carter"
+    },
+    {
+     "c": "Leon",
+     "n": "David Andrews"
+    },
+    {
+     "c": "Sheriff Pruitt",
+     "n": "Chris Ellis"
+    },
+    {
+     "c": "Rosaura",
+     "n": "Ana de la Reguera"
+    },
+    {
+     "c": "Mark",
+     "n": "Brian Hallisay"
+    },
+    {
+     "c": "Samantha",
+     "n": "Larisa Oleynik"
+    },
+    {
+     "c": "Dead Girl",
+     "n": "Amber Stevens West"
+    },
+    {
+     "c": "Moses",
+     "n": "Vaughn Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kevin Greutert"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "id": 203834,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman recuperating at her father's run-down home after a tragic accident soon encounters a terrifying presence with a connection to her long-deceased mother.",
+   "popularity": 1.9991,
+   "poster_path": "/9WP1ADKCeDG0avA0WSo4mUemTqW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-11-07",
+   "revenue": 6998359,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The dead are back for life.",
+   "title": "Jessabelle",
+   "trailer": {
+    "key": "CoBCEdt_BC8",
+    "name": "Jessabelle (2014) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.429,
+   "vote_count": 877
+  },
+  "movie:2134": {
+   "backdrop_path": "/oYPYDBPlvvc2ABkf9f4jCCPAswj.jpg",
+   "budget": 750000,
+   "cast": [
+    {
+     "c": "H. George Wells",
+     "n": "Rod Taylor"
+    },
+    {
+     "c": "David Filby / James Filby",
+     "n": "Alan Young"
+    },
+    {
+     "c": "Weena",
+     "n": "Yvette Mimieux"
+    },
+    {
+     "c": "Dr. Philip Hilyer",
+     "n": "Sebastian Cabot"
+    },
+    {
+     "c": "Anthony Bridewell",
+     "n": "Tom Helmore"
+    },
+    {
+     "c": "Walter Kemp",
+     "n": "Whit Bissell"
+    },
+    {
+     "c": "Mrs. Watchett",
+     "n": "Doris Lloyd"
+    },
+    {
+     "c": "Eloi Man (uncredited)",
+     "n": "Bob Barran"
+    },
+    {
+     "c": "Talking Rings (voice) (uncredited)",
+     "n": "Paul Frees"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "George Pal"
+   ],
+   "genres": [
+    "Thriller",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction",
+    "Romance"
+   ],
+   "id": 2134,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.",
+   "popularity": 3.5981,
+   "poster_path": "/sotBnRlFJ67cPisjAUXzbPxi9kC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1960-08-17",
+   "revenue": 5902,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You Will Orbit into the Fantastic Future!",
+   "title": "The Time Machine",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.373,
+   "vote_count": 971
+  },
   "movie:25934": {
    "backdrop_path": "/vUZbARc0xY3MjwZnZtybpqbAoK9.jpg",
    "budget": 625000,
@@ -2355,6 +3082,104 @@
    "type": "movie",
    "vote_average": 7.469,
    "vote_count": 372
+  },
+  "movie:34134": {
+   "backdrop_path": "/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Merliah (voice)",
+     "n": "Kelly Sheridan"
+    },
+    {
+     "c": "Eris / Snouts (voice)",
+     "n": "Kathleen Barr"
+    },
+    {
+     "c": "Zuma / Deanne (voice)",
+     "n": "Tabitha St. Germain"
+    },
+    {
+     "c": "Surf Announcer (voice)",
+     "n": "Peter Mel"
+    },
+    {
+     "c": "Fallon (voice)",
+     "n": "Nakia Burrise"
+    },
+    {
+     "c": "Hadley (voice)",
+     "n": "Maryke Hendrikse"
+    },
+    {
+     "c": "Kayla (voice)",
+     "n": "Emma Pierson"
+    },
+    {
+     "c": "Xylie (voice)",
+     "n": "Ciara Janson"
+    },
+    {
+     "c": "Break (voice)",
+     "n": "Garry Chalk"
+    },
+    {
+     "c": "Calissa (voice)",
+     "n": "Nicole Oliver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Adam Wood"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 34134,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Barbie stars as Merliah, a surfer who learns a shocking secret: she's a mermaid! She and her dolphin friend set out for an undersea adventure to rescue her mother, the queen of Oceana.",
+   "popularity": 4.2287,
+   "poster_path": "/jtOlo3AaXVBnqfMeKGFrZUMPFui.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-01-25",
+   "revenue": 16441438,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Barbie Makes A Big Splash!",
+   "title": "Barbie in A Mermaid Tale",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.3,
+   "vote_count": 826
   },
   "movie:37534": {
    "backdrop_path": "/rKaX8ery6hhQn8LT8FWdFyOBQSy.jpg",
@@ -2906,6 +3731,133 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 371
+  },
+  "movie:606234": {
+   "backdrop_path": "/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "George Almore",
+     "n": "Theo James"
+    },
+    {
+     "c": "Jules Almore / J3 / J2 (voice)",
+     "n": "Stacy Martin"
+    },
+    {
+     "c": "Simone",
+     "n": "Rhona Mitra"
+    },
+    {
+     "c": "Tagg",
+     "n": "Peter Ferdinando"
+    },
+    {
+     "c": "House (voice)",
+     "n": "Lia Williams"
+    },
+    {
+     "c": "Vincent Sinclair",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Melvin",
+     "n": "Richard Glover"
+    },
+    {
+     "c": "Elson",
+     "n": "Hans Peterson"
+    },
+    {
+     "c": "Waitress",
+     "n": "Hadisha Sovetova"
+    },
+    {
+     "c": "Android",
+     "n": "Imre Csók"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gavin Rothery"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 606234,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.",
+   "popularity": 2.8476,
+   "poster_path": "/hmz9ySdCqW9FiHpM9JdSCkjQzFA.jpg",
+   "production_countries": [
+    "GB",
+    "HU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-08-13",
+   "revenue": 243279,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Death is not the end",
+   "title": "Archive",
+   "trailer": {
+    "key": "m0J0BwIzURI",
+    "name": "Archive | Official Trailer (HD) | Vertical Entertainment",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.392,
+   "vote_count": 897
   },
   "movie:641934": {
    "backdrop_path": "/fKxGUfI09ubxe594Nl8Om2cMuxH.jpg",
@@ -3768,6 +4720,185 @@
    "type": "movie",
    "vote_average": 5.558,
    "vote_count": 462
+  },
+  "movie:943134": {
+   "backdrop_path": "/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+   "budget": 15200000,
+   "cast": [
+    {
+     "c": "François",
+     "n": "Romain Duris"
+    },
+    {
+     "c": "Émile",
+     "n": "Paul Kircher"
+    },
+    {
+     "c": "Julia",
+     "n": "Adèle Exarchopoulos"
+    },
+    {
+     "c": "Fix",
+     "n": "Tom Mercier"
+    },
+    {
+     "c": "Nina",
+     "n": "Billie Blain"
+    },
+    {
+     "c": "Jacques",
+     "n": "Xavier Aubert"
+    },
+    {
+     "c": "Naïma",
+     "n": "Saadia Bentaïeb"
+    },
+    {
+     "c": "Victor",
+     "n": "Gabriel Caballero"
+    },
+    {
+     "c": "Maëlle",
+     "n": "Iliana Khelifa"
+    },
+    {
+     "c": "Jordan",
+     "n": "Paul Muguruza"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "+13",
+   "date_kind": "release",
+   "director": [
+    "Thomas Cailley"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 943134,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "In a world hit by a wave of mutations transforming humans into animals, François does everything he can to save his wife. As some of the creatures disappear into a nearby forest, he and their son Émile embark on a quest that will change their lives forever.",
+   "popularity": 3.4424,
+   "poster_path": "/39AiQnXlXOjoqBSkiUpTG80rXLw.jpg",
+   "production_countries": [
+    "BE",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-10-04",
+   "revenue": 9138503,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "All creatures crave freedom.",
+   "title": "The Animal Kingdom",
+   "trailer": {
+    "key": "nWAJXTcEEOU",
+    "name": "Official US Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.944,
+   "vote_count": 995
   },
   "movie:9534": {
    "backdrop_path": "/vZUntwE0BLPxvjDVi54qQqxYyOI.jpg",

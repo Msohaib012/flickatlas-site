@@ -1,7 +1,210 @@
 {
  "bucket": "14",
- "count": 55,
+ "count": 62,
  "titles": {
+  "movie:10514": {
+   "backdrop_path": "/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Dr. Jeremy Stone",
+     "n": "Arthur Hill"
+    },
+    {
+     "c": "Dr. Charles Dutton",
+     "n": "David Wayne"
+    },
+    {
+     "c": "Dr. Mark Hall",
+     "n": "James Olson"
+    },
+    {
+     "c": "Dr. Ruth Leavitt",
+     "n": "Kate Reid"
+    },
+    {
+     "c": "Karen Anson",
+     "n": "Paula Kelly"
+    },
+    {
+     "c": "Jackson",
+     "n": "George Mitchell"
+    },
+    {
+     "c": "Major Manchek",
+     "n": "Ramon Bieri"
+    },
+    {
+     "c": "General Sparks",
+     "n": "Peter Hobbs"
+    },
+    {
+     "c": "Dr. Robertson",
+     "n": "Kermit Murdock"
+    },
+    {
+     "c": "Grimes",
+     "n": "Richard O'Brien"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Robert Wise"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 10514,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When virtually all of the residents of Piedmont, New Mexico are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scrambles to a secure laboratory and tries first to isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form, unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
+   "popularity": 3.3466,
+   "poster_path": "/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1971-03-12",
+   "revenue": 12376563,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The picture runs 130 minutes... The story covers 96 of the most critical hours in man's history... The suspense will last through your lifetime!",
+   "title": "The Andromeda Strain",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.053,
+   "vote_count": 864
+  },
+  "movie:11314": {
+   "backdrop_path": "/g2ULq1sv4rDY7UsLzaiGdb6zjbj.jpg",
+   "budget": 600000,
+   "cast": [
+    {
+     "c": "Self (archive footage)",
+     "n": "Ed Asner"
+    },
+    {
+     "c": "Self",
+     "n": "Pat Benatar"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Johnny Carson"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Dick Cavett"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Marilyn Chambers"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Sammy Davis Jr."
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Lou Dobbs"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Linda Ellerbee"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Peter Sellers"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Thomas Dolby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Godfrey Reggio"
+   ],
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "id": 11314,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+   "popularity": 2.3701,
+   "poster_path": "/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1983-04-27",
+   "revenue": 3200000,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "Life out of balance",
+   "title": "Koyaanisqatsi",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 814
+  },
   "movie:11414": {
    "backdrop_path": "/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
    "budget": 0,
@@ -161,6 +364,289 @@
    "type": "movie",
    "vote_average": 7.159,
    "vote_count": 347
+  },
+  "movie:1152014": {
+   "backdrop_path": "/rTNMyZ5JcrfKnPamaYOo9wzq3m5.jpg",
+   "budget": 6400000,
+   "cast": [
+    {
+     "c": "Paul 'Paulo' Mounier / Sylvain",
+     "n": "Artus"
+    },
+    {
+     "c": "Lucien 'la Fraise' Mounier / Orpi",
+     "n": "Clovis Cornillac"
+    },
+    {
+     "c": "Alice",
+     "n": "Alice Belaïdi"
+    },
+    {
+     "c": "Marc",
+     "n": "Marc Riso"
+    },
+    {
+     "c": "Céline",
+     "n": "Céline Groussard"
+    },
+    {
+     "c": "Gad",
+     "n": "Gad Abecassis"
+    },
+    {
+     "c": "Ludovic",
+     "n": "Ludovic Boul"
+    },
+    {
+     "c": "Alexandre",
+     "n": "Stanislas Carmont"
+    },
+    {
+     "c": "Marie",
+     "n": "Marie Colin"
+    },
+    {
+     "c": "Thibaut",
+     "n": "Thibaut Conan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "10",
+   "date_kind": "release",
+   "director": [
+    "Artus"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 1152014,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "To escape the police, a father and his son are forced to find refuge in a summer camp for young adults with mental disabilities, taking on the role of an educator and a boarder. The beginning of troubles and a wonderful human experience that will change them forever.",
+   "popularity": 2.7858,
+   "poster_path": "/luEa603Gz42AgqzTlOvJXAGxR4h.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-05-01",
+   "revenue": 84058132,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Little Something Extra",
+   "trailer": {
+    "key": "_xXtpZvtXyo",
+    "name": "A Little Something Extra / Un p'tit truc en plus (2024) - Trailer (English Subs)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.101,
+   "vote_count": 888
+  },
+  "movie:1153714": {
+   "backdrop_path": "/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Elliot",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Ridley",
+     "n": "Jenna Ortega"
+    },
+    {
+     "c": "Shepard",
+     "n": "Will Poulter"
+    },
+    {
+     "c": "Odell",
+     "n": "Richard E. Grant"
+    },
+    {
+     "c": "Belinda",
+     "n": "Téa Leoni"
+    },
+    {
+     "c": "Dr. Bhatia",
+     "n": "Sunita Mani"
+    },
+    {
+     "c": "Dr. Song",
+     "n": "Steve Park"
+    },
+    {
+     "c": "Griff",
+     "n": "Anthony Carrigan"
+    },
+    {
+     "c": "Shaw",
+     "n": "Jessica Hynes"
+    },
+    {
+     "c": "Pilot",
+     "n": "David Pasquesi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Scharfman"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 1153714,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+   "popularity": 4.7164,
+   "poster_path": "/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-03-27",
+   "revenue": 16423085,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Payback is a beast.",
+   "title": "Death of a Unicorn",
+   "trailer": {
+    "key": "aQOle3MHnGs",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.358,
+   "vote_count": 979
   },
   "movie:11614": {
    "backdrop_path": "/bE5aeaFL5Da4l9SLXNDrvrT2U4X.jpg",
@@ -1698,6 +2184,168 @@
    "type": "movie",
    "vote_average": 5.746,
    "vote_count": 499
+  },
+  "movie:191714": {
+   "backdrop_path": "/uwj3rzni98tEYqJae4Cy2k78Xmm.jpg",
+   "budget": 3400000,
+   "cast": [
+    {
+     "c": "Saajan Fernandes",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Ila",
+     "n": "Nimrat Kaur"
+    },
+    {
+     "c": "Shaikh",
+     "n": "Nawazuddin Siddiqui"
+    },
+    {
+     "c": "Ila's Mother",
+     "n": "Lillete Dubey"
+    },
+    {
+     "c": "Ila's Father",
+     "n": "Nasir Khan"
+    },
+    {
+     "c": "Mrs. Khrishnan",
+     "n": "Bharati Achrekar"
+    },
+    {
+     "c": "Rajeev",
+     "n": "Nakul Vaid"
+    },
+    {
+     "c": "Yashvi",
+     "n": "Yashvi Punneet Nagar"
+    },
+    {
+     "c": "Mr. Shroff",
+     "n": "Denzil Smith"
+    },
+    {
+     "c": "Meherunissa",
+     "n": "Shruti Bapna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Ritesh Batra"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 191714,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "A mistaken delivery in Mumbai's famously efficient lunchbox delivery system (Mumbai's Dabbawallahs) connects a young housewife to a stranger in the dusk of his life. They build a fantasy world together through notes in the lunchbox. Gradually, this fantasy threatens to overwhelm their reality.",
+   "popularity": 2.2296,
+   "poster_path": "/jSOiz1h97i3qwjZJXY8SeLvjPsl.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "IN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-09-20",
+   "revenue": 17240000,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "Can you fall in love with someone you have never met?",
+   "title": "The Lunchbox",
+   "trailer": {
+    "key": "lJxLudSPxsQ",
+    "name": "The Lunchbox- OFFICIAL TRAILER- ON BLU-RAY and DIGITAL",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.416,
+   "vote_count": 865
   },
   "movie:2014": {
    "backdrop_path": "/s3kGgVwM946SWj3iXShDbeJALiT.jpg",
@@ -3622,6 +4270,167 @@
    "vote_average": 7.16,
    "vote_count": 300
   },
+  "movie:366514": {
+   "backdrop_path": "/7SIyCeKoLDhGGVfElwf37cdSykS.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Alexandre",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "Diane",
+     "n": "Virginie Efira"
+    },
+    {
+     "c": "Bruno, l'ex de Diane et son associé",
+     "n": "Cédric Kahn"
+    },
+    {
+     "c": "Benji, le fils d'Alexandre",
+     "n": "César Domboy"
+    },
+    {
+     "c": "Coralie, l'assistante",
+     "n": "Stéphanie Papanian"
+    },
+    {
+     "c": "Monique, l'aide-ménagère",
+     "n": "Edmonde Franchi"
+    },
+    {
+     "c": "Nicole, la mère de Diane",
+     "n": "Manoëlle Gaillard"
+    },
+    {
+     "c": "Philippe, le beau-père de Diane",
+     "n": "Bruno Gomila"
+    },
+    {
+     "c": "Stéphanie",
+     "n": "Myriam Tekaïa"
+    },
+    {
+     "c": "Sébastien (pilote)",
+     "n": "François-Dominique Blin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AL",
+   "date_kind": "release",
+   "director": [
+    "Laurent Tirard"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 366514,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Diane is a well-known lawyer, divorced for three years. She loses her mobile telephone and receives a call from the person who finds it. That person is Alexandre, a charming man and the perfect gentleman. They make a connection over the phone and agree to meet up the following day. But when Alexandre arrives, there's a surprise in store when Diane discovers he is only 4' 6\" tall. From that moment on, Diane tries to overcome the prejudices of society and her own fears to experience the best time of her life...",
+   "popularity": 2.21,
+   "poster_path": "/vBOioZKaGacNtx8G7qZeTPqemk7.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "France Channel Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-05-04",
+   "revenue": 0,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Up for Love",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.027,
+   "vote_count": 891
+  },
   "movie:391714": {
    "backdrop_path": "/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
    "budget": 745971,
@@ -4068,6 +4877,155 @@
    "type": "movie",
    "vote_average": 6.078,
    "vote_count": 498
+  },
+  "movie:455714": {
+   "backdrop_path": "/gOgBpD5NivnWIqZYTBFSmAtziuJ.jpg",
+   "budget": 1839169,
+   "cast": [
+    {
+     "c": "Lynn",
+     "n": "Chutimon Chuengcharoensukying"
+    },
+    {
+     "c": "Bank",
+     "n": "Chanon Santinatornkul"
+    },
+    {
+     "c": "Grace",
+     "n": "Eisaya Hosuwan"
+    },
+    {
+     "c": "Pat",
+     "n": "Teeradon Supapunpinyo"
+    },
+    {
+     "c": "Lynn's Father",
+     "n": "Thaneth Warakulnukroh"
+    },
+    {
+     "c": "Headmistress",
+     "n": "Sarinrat Thomas"
+    },
+    {
+     "c": "Test Centre Supervisor",
+     "n": "Ego Mikitas"
+    },
+    {
+     "c": "Tong",
+     "n": "Pasin Kuansataporn"
+    },
+    {
+     "c": "Pat's Father",
+     "n": "Sahajak Boonthanakit"
+    },
+    {
+     "c": "Pat's Mother",
+     "n": "Kanjana Vinaipanid"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nattawut Poonpiriya"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller",
+    "Comedy"
+   ],
+   "id": 455714,
+   "industry": "world",
+   "origin_country": [
+    "TH"
+   ],
+   "original_language": "th",
+   "overview": "Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.",
+   "popularity": 2.6892,
+   "poster_path": "/g1gW6DQ7QFocDn24QBOZqoYpd3O.jpg",
+   "production_countries": [
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "OnDemandKorea"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/t4tushezwJkXCposaC73oZTwF5a.png",
+     "name": "OnDemandKorea",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-05-03",
+   "revenue": 42350000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "th",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Genius students with one mission... Turning exam answers into millions.",
+   "title": "Bad Genius",
+   "trailer": {
+    "key": "CLdhN4oMxCQ",
+    "name": "BAD GENIUS Official International Trailer (2017) | GDH",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.846,
+   "vote_count": 895
   },
   "movie:48714": {
    "backdrop_path": "/wtlhixFsctfV4LHJiVq95Ho37B6.jpg",

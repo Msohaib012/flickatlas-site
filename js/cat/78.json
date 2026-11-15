@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 47,
+ "count": 51,
  "titles": {
   "movie:10178": {
    "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
@@ -2434,6 +2434,146 @@
    "vote_average": 5.539,
    "vote_count": 345
   },
+  "movie:28978": {
+   "backdrop_path": "/hVla7xGSvz2z3Q81Nijax3zc5N5.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "A Tramp",
+     "n": "Charlie Chaplin"
+    },
+    {
+     "c": "The Circus Proprietor and Ring Master",
+     "n": "Al Ernest Garcia"
+    },
+    {
+     "c": "The Proprietor's Step-Daughter Merna, a Circus Rider",
+     "n": "Merna Kennedy"
+    },
+    {
+     "c": "Rex, a Tight Rope Walker",
+     "n": "Harry Crocker"
+    },
+    {
+     "c": "A Magician",
+     "n": "George Davis"
+    },
+    {
+     "c": "An Old Clown",
+     "n": "Henry Bergman"
+    },
+    {
+     "c": "The Head Property Man",
+     "n": "Tiny Sandford"
+    },
+    {
+     "c": "An Assistant Property Man",
+     "n": "John Rand"
+    },
+    {
+     "c": "A Pickpocket",
+     "n": "Steve Murphy"
+    },
+    {
+     "c": "Clown (uncredited)",
+     "n": "Albert Austin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Charlie Chaplin"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 28978,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+   "popularity": 1.8143,
+   "poster_path": "/sihWAgBYa8yZFVAonGFGbLTVUj2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "The Surf Network Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1928-01-06",
+   "revenue": 0,
+   "runtime": 72,
+   "source": "catalogue",
+   "spoken_languages": [
+    "xx"
+   ],
+   "status": "Released",
+   "tagline": "The Circus is Here!",
+   "title": "The Circus",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.926,
+   "vote_count": 930
+  },
   "movie:31578": {
    "backdrop_path": "/40a2z21BPfsNjDJbhZ0WshZFDF.jpg",
    "budget": 0,
@@ -2659,6 +2799,113 @@
    "type": "movie",
    "vote_average": 6.176,
    "vote_count": 414
+  },
+  "movie:335778": {
+   "backdrop_path": "/lvyU838cy3m0fKSfQIxN8grjxYr.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Clavius",
+     "n": "Joseph Fiennes"
+    },
+    {
+     "c": "Pontius Pilate",
+     "n": "Peter Firth"
+    },
+    {
+     "c": "Yeshua",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Lucius",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Antonius",
+     "n": "Mark Killeen"
+    },
+    {
+     "c": "Mary Magdalene",
+     "n": "María Botto"
+    },
+    {
+     "c": "John",
+     "n": "Mish Boyko"
+    },
+    {
+     "c": "James",
+     "n": "Selva Rasalingam"
+    },
+    {
+     "c": "Peter",
+     "n": "Stewart Scudamore"
+    },
+    {
+     "c": "Joseph of Arimathea",
+     "n": "Antonio Gil"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kevin Reynolds"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "History",
+    "Mystery"
+   ],
+   "id": 335778,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Clavius, a powerful Roman military tribune, and his aide, Lucius, are tasked with solving the mystery of what happened to Jesus in the weeks following the crucifixion, in order to disprove the rumors of a risen Messiah and prevent an uprising in Jerusalem.",
+   "popularity": 2.8541,
+   "poster_path": "/6hGh4z503k8wA8mLlmvwhTSGja.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-02-19",
+   "revenue": 46100000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Witness the manhunt that changed the course of human history",
+   "title": "Risen",
+   "trailer": {
+    "key": "X_GekaqndMI",
+    "name": "RISEN: Now on Blu-ray, DVD & Digital!",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.306,
+   "vote_count": 992
   },
   "movie:370978": {
    "backdrop_path": "/erIfV6Xm60tsEySsrDolb8DoqNP.jpg",
@@ -2916,6 +3163,172 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 409
+  },
+  "movie:522478": {
+   "backdrop_path": "/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Peter Rabbit (voice)",
+     "n": "James Corden"
+    },
+    {
+     "c": "Bea",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Mr. Thomas McGregor",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Nigel Basil-Jones",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "Flopsy Rabbit / The Narrator (voice)",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Mopsy Rabbit (voice)",
+     "n": "Elizabeth Debicki"
+    },
+    {
+     "c": "Cottontail Rabbit (voice)",
+     "n": "Aimee Horne"
+    },
+    {
+     "c": "Benjamin Bunny (voice)",
+     "n": "Colin Moody"
+    },
+    {
+     "c": "Barnabas (voice)",
+     "n": "Lennie James"
+    },
+    {
+     "c": "Tom Kitten (voice)",
+     "n": "Damon Herriman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Will Gluck"
+   ],
+   "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 522478,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Peter Rabbit runs away from his human family when he learns they are going to portray him in a bad light in their book. Soon, he crosses paths with an older rabbit who ropes him into a heist.",
+   "popularity": 4.6989,
+   "poster_path": "/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2021-03-25",
+   "revenue": 153000000,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The garden was just the beginning.",
+   "title": "Peter Rabbit 2: The Runaway",
+   "trailer": {
+    "key": "oCR7-3cxL48",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 928
   },
   "movie:591278": {
    "backdrop_path": "/6hfmHRaZNKzazyDDLli5CbT6L8H.jpg",
@@ -3754,6 +4167,114 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 375
+  },
+  "movie:988078": {
+   "backdrop_path": "/zFsB4MB4BwVYE5tqXe9sYdCH3Vr.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Raquel",
+     "n": "Clara Galle"
+    },
+    {
+     "c": "Ares Hidalgo",
+     "n": "Julio Peña"
+    },
+    {
+     "c": "Yoshi",
+     "n": "Guillermo Lasheras"
+    },
+    {
+     "c": "Daniela",
+     "n": "Natalia Azahara"
+    },
+    {
+     "c": "Apolo Hidalgo",
+     "n": "Hugo Arbues"
+    },
+    {
+     "c": "Artemis Hidalgo",
+     "n": "Eric Masip"
+    },
+    {
+     "c": "Vera",
+     "n": "Andrea Chaparro"
+    },
+    {
+     "c": "Claudia",
+     "n": "Emilia Lazo"
+    },
+    {
+     "c": "Gregory",
+     "n": "Ivan Lapadula"
+    },
+    {
+     "c": "Anna",
+     "n": "Carla Tous"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Marçal Forés"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 988078,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "After a year of long-distance, Raquel and Ares reunite on a steamy beach trip. Faced with fresh flirtations and insecurities, will their love prevail?",
+   "popularity": 3.6417,
+   "poster_path": "/3kULr3y7ZhdY3oCHKwwNT2hqys0.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2023-06-23",
+   "revenue": 0,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Through My Window: Across the Sea",
+   "trailer": {
+    "key": "5LvVaQPNqHU",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 988
   },
   "tv:108978": {
    "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",

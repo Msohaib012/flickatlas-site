@@ -1,6 +1,6 @@
 {
  "bucket": "94",
- "count": 58,
+ "count": 66,
  "titles": {
   "movie:10694": {
    "backdrop_path": "/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
@@ -93,6 +93,124 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 409
+  },
+  "movie:10794": {
+   "backdrop_path": "/jqw9t9nshz9mV79C66PV2giHVw6.jpg",
+   "budget": 1500000,
+   "cast": [
+    {
+     "c": "Hrundi V. Bakshi",
+     "n": "Peter Sellers"
+    },
+    {
+     "c": "Michele Monet",
+     "n": "Claudine Longet"
+    },
+    {
+     "c": "Ballerina",
+     "n": "Natalia Borisova"
+    },
+    {
+     "c": "Nanny",
+     "n": "Jean Carson"
+    },
+    {
+     "c": "Rosalind Dunphy",
+     "n": "Marge Champion"
+    },
+    {
+     "c": "Bernard Stein",
+     "n": "Al Checco"
+    },
+    {
+     "c": "Janice Kane",
+     "n": "Corinne Cole"
+    },
+    {
+     "c": "Wells",
+     "n": "Dick Crockett"
+    },
+    {
+     "c": "Maid",
+     "n": "Frances Davis"
+    },
+    {
+     "c": "Stella D'Angelo",
+     "n": "Danielle De Metz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Blake Edwards"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 10794,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hrundi V. Bakshi, an accident-prone actor from India, is accidentally put on the guest list for an upcoming party at the home of a Hollywood film producer. Unfortunately, from the moment he arrives, one thing after another goes wrong with compounding effect.",
+   "popularity": 2.2418,
+   "poster_path": "/nWZ9rrbMoHHgsvYNdng2EhbjeLf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1968-04-04",
+   "revenue": 2900000,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If you've ever been to a wilder party... you're under arrest!",
+   "title": "The Party",
+   "trailer": {
+    "key": "VvgkolEbjeI",
+    "name": "Official Blu-ray Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.29,
+   "vote_count": 908
   },
   "movie:10994": {
    "backdrop_path": "/yB252zjuN70KFyOUY7MFTfqGa1C.jpg",
@@ -994,6 +1112,98 @@
    "vote_average": 6.0,
    "vote_count": 498
   },
+  "movie:13394": {
+   "backdrop_path": "/5lUaKCo9ypmXbuVeZqKQ9gm8zk4.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Shrek (voice)",
+     "n": "Mike Myers"
+    },
+    {
+     "c": "Donkey (voice)",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Princess Fiona (voice)",
+     "n": "Cameron Diaz"
+    },
+    {
+     "c": "Puss in Boots (voice)",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Pinocchio / Three Pigs (voice)",
+     "n": "Cody Cameron"
+    },
+    {
+     "c": "Gingerbread Man (voice)",
+     "n": "Conrad Vernon"
+    },
+    {
+     "c": "Wolf (voice)",
+     "n": "Aron Warner"
+    },
+    {
+     "c": "Blind Mice (voice)",
+     "n": "Christopher Knights"
+    },
+    {
+     "c": "Santa (voice)",
+     "n": "Gary Trousdale"
+    },
+    {
+     "c": "Suzie Cookie (voice)",
+     "n": "Susan Fitzer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gary Trousdale"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Family"
+   ],
+   "id": 13394,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Christmas tree isn't the only thing green in this new holiday classic. Shrek is back and trying to get into the spirit of the season. After promising Fiona and the kids a Christmas they'll remember, he is forced to take a crash course in the holiday. But just when he thinks he has everything for their quiet family Christmas just right, there is a knock at the door.",
+   "popularity": 4.8426,
+   "poster_path": "/nBfeTZ5ftAbkZXCnGMaCsiA3vOa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2007-11-28",
+   "revenue": 0,
+   "runtime": 28,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Shrek the Halls",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.386,
+   "vote_count": 950
+  },
   "movie:14194": {
    "backdrop_path": "/5vWEcjru7dUIuTgMbwOVfuGMU60.jpg",
    "budget": 11000000,
@@ -1331,6 +1541,171 @@
    "type": "movie",
    "vote_average": 7.026,
    "vote_count": 447
+  },
+  "movie:1494": {
+   "backdrop_path": "/m3zGXY61pnFZ12gXnJgO0Mg0RWG.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Emperor Ping",
+     "n": "Chow Yun-Fat"
+    },
+    {
+     "c": "Empress Phoenix",
+     "n": "Gong Li"
+    },
+    {
+     "c": "Prince Zhai",
+     "n": "Jay Chou"
+    },
+    {
+     "c": "Crown Prince Wan",
+     "n": "Liu Ye"
+    },
+    {
+     "c": "Prince Yu",
+     "n": "Qin Junjie"
+    },
+    {
+     "c": "Jiang Chan",
+     "n": "Li Man"
+    },
+    {
+     "c": "Imperial Physician Jiang",
+     "n": "Ni Dahong"
+    },
+    {
+     "c": "Imperial Physician's Wife",
+     "n": "Chen Jin"
+    },
+    {
+     "c": "Maid",
+     "n": "Siran Ge"
+    },
+    {
+     "c": "Host of the Festival",
+     "n": "Guo Jiulong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Zhang Yimou"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 1494,
+   "industry": "world",
+   "origin_country": [
+    "CN",
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "During China's Tang dynasty the emperor has taken the princess of a neighboring province as his wife. She has borne him two sons and raised his eldest. Now his control over his dominion is complete, including the royal family itself.",
+   "popularity": 4.0588,
+   "poster_path": "/gHkkDpfo5YnOrbVfwtDHi91BkrU.jpg",
+   "production_countries": [
+    "CN",
+    "HK",
+    "GB",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2006-12-14",
+   "revenue": 78568977,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Unspeakable secrets are hidden within the Forbidden City.",
+   "title": "Curse of the Golden Flower",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.011,
+   "vote_count": 913
   },
   "movie:1495694": {
    "backdrop_path": "/yCg9mQpR3nVmX9ku3ObCAIISb5g.jpg",
@@ -3617,6 +3992,180 @@
    "vote_average": 6.13,
    "vote_count": 470
   },
+  "movie:375794": {
+   "backdrop_path": "/3z8cveYwdIz2IZRhm6cHu8f2HRT.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Ezequiel \"Zequi\" Alcántara",
+     "n": "Omar Chaparro"
+    },
+    {
+     "c": "Miss Lucy",
+     "n": "Martha Higareda"
+    },
+    {
+     "c": "Caro",
+     "n": "Fernanda Castillo"
+    },
+    {
+     "c": "Laura",
+     "n": "Carla Adell"
+    },
+    {
+     "c": "Monica",
+     "n": "Regina Pavón"
+    },
+    {
+     "c": "Nayeli",
+     "n": "Karen Furlong"
+    },
+    {
+     "c": "Tania",
+     "n": "Rosanna Engel"
+    },
+    {
+     "c": "Miss Gaby",
+     "n": "Mónica Dionne"
+    },
+    {
+     "c": "Sr. Valdez",
+     "n": "Adal Ramones"
+    },
+    {
+     "c": "Jenny",
+     "n": "Rocío García"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nacho G. Velilla"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 375794,
+   "industry": "world",
+   "origin_country": [
+    "MX"
+   ],
+   "original_language": "es",
+   "overview": "After being released from prison, Zequi, a bank robber, sets out to recover money buried by his accomplice; but is horrified to learn that a high school gymnasium is now over the site where the loot is hidden.",
+   "popularity": 3.129,
+   "poster_path": "/6HfyXfIEywLa2HvcswKi44dDKxL.jpg",
+   "production_countries": [
+    "MX",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2016-09-02",
+   "revenue": 23500000,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The students are bad, the teachers are worse.",
+   "title": "No manches, Frida",
+   "trailer": {
+    "key": "eeDYKlRV9Qs",
+    "name": "No Manches Frida - Official Trailer [US]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 983
+  },
   "movie:396194": {
    "backdrop_path": "/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
    "budget": 0,
@@ -3840,6 +4389,320 @@
    "type": "movie",
    "vote_average": 8.302,
    "vote_count": 396
+  },
+  "movie:40794": {
+   "backdrop_path": "/mApegAM7DCZvsKVfWAtavubycMU.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Tommaso",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Alba",
+     "n": "Nicole Grimaudo"
+    },
+    {
+     "c": "Antonio",
+     "n": "Alessandro Preziosi"
+    },
+    {
+     "c": "Vincenzo",
+     "n": "Ennio Fantastichini"
+    },
+    {
+     "c": "Stefania",
+     "n": "Lunetta Savino"
+    },
+    {
+     "c": "La nonna",
+     "n": "Ilaria Occhini"
+    },
+    {
+     "c": "Elena",
+     "n": "Bianca Nappi"
+    },
+    {
+     "c": "Marco",
+     "n": "Carmine Recano"
+    },
+    {
+     "c": "Salvatore",
+     "n": "Massimiliano Gallo"
+    },
+    {
+     "c": "Teresa",
+     "n": "Paola Minaccioni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "AA",
+   "date_kind": "release",
+   "director": [
+    "Ferzan Özpetek"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 40794,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "Tommaso is the youngest son of the Cantones, a large, traditional southern Italian family operating a pasta-making business since the 1960s. On a trip home from Rome, where he studies literature and lives with his boyfriend, Tommaso decides to tell his parents the truth about himself. But when he is finally ready to come out in front of the entire family, his older brother Antonio ruins his plans.",
+   "popularity": 1.3585,
+   "poster_path": "/gYSXvD0sB2MRXF5YreSWtdcW4Jv.jpg",
+   "production_countries": [
+    "IT"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-03-12",
+   "revenue": 8220215,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The only thing more complicated than love is family.",
+   "title": "Loose Cannons",
+   "trailer": {
+    "key": "XoHtIKBZUbM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.259,
+   "vote_count": 820
+  },
+  "movie:416194": {
+   "backdrop_path": "/vEzvmmLkt64eV1CcWteCo28bCAC.jpg",
+   "budget": 6300000,
+   "cast": [
+    {
+     "c": "Kristian Eikjord",
+     "n": "Kristoffer Joner"
+    },
+    {
+     "c": "Idun Karlsen",
+     "n": "Ane Dahl Torp"
+    },
+    {
+     "c": "Sondre Eikjord",
+     "n": "Jonas Hoff Oftebro"
+    },
+    {
+     "c": "Julia Eikjord",
+     "n": "Edith Haagenrud-Sande"
+    },
+    {
+     "c": "Marit Lindblom",
+     "n": "Kathrine Thorborg Johansen"
+    },
+    {
+     "c": "Himself",
+     "n": "Fredrik Skavlan"
+    },
+    {
+     "c": "Johannes Løberg",
+     "n": "Stig R. Amdam"
+    },
+    {
+     "c": "Hotel Worker",
+     "n": "Catrin Sagen"
+    },
+    {
+     "c": "Ingrid",
+     "n": "Ingvild Haugstad"
+    },
+    {
+     "c": "Receptionist",
+     "n": "Ravdeep Singh Bajwa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Andreas Andersen"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 416194,
+   "industry": "world",
+   "origin_country": [
+    "NO"
+   ],
+   "original_language": "no",
+   "overview": "A geologist races against time to save his estranged wife and two children when a devastating earthquake strikes Oslo, Norway.",
+   "popularity": 2.4397,
+   "poster_path": "/tbP1vcLKUXRJkuffFe3bfOaRRKQ.jpg",
+   "production_countries": [
+    "NO"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    },
+    {
+     "name": "Monsters and Nightmares Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/pcSzaYgwXvQaoPYqtrPXu6nrEdW.png",
+     "name": "Monsters and Nightmares Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-08-31",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "The Wave was only the beginning",
+   "title": "The Quake",
+   "trailer": {
+    "key": "094n7ami6N0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.719,
+   "vote_count": 853
   },
   "movie:448194": {
    "backdrop_path": "/uVH4JeqPyVHWVwsYce1z8CxVG36.jpg",
@@ -4076,6 +4939,203 @@
    "type": "movie",
    "vote_average": 5.904,
    "vote_count": 369
+  },
+  "movie:454294": {
+   "backdrop_path": "/9jRv507vXUJxOfD7fXYQKYFLC7q.jpg",
+   "budget": 59000000,
+   "cast": [
+    {
+     "c": "Alexander \"Alex\" Elliot",
+     "n": "Louis Ashbourne Serkis"
+    },
+    {
+     "c": "Bedders",
+     "n": "Dean Chaumoo"
+    },
+    {
+     "c": "Lance",
+     "n": "Tom Taylor"
+    },
+    {
+     "c": "Kaye",
+     "n": "Rhianna Dorris"
+    },
+    {
+     "c": "Mrs. Elliot",
+     "n": "Denise Gough"
+    },
+    {
+     "c": "Merlin",
+     "n": "Angus Imrie"
+    },
+    {
+     "c": "Old Merlin",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Morgana",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Sophie",
+     "n": "Genevieve O'Reilly"
+    },
+    {
+     "c": "Mrs. Lee",
+     "n": "Noma Dumezweni"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joe Cornish"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ],
+   "id": 454294,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Old-school magic meets the modern world when young Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. Together, they must save mankind from the wicked enchantress Morgana and her army of supernatural warriors.",
+   "popularity": 3.8943,
+   "poster_path": "/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+     "name": "FXNow",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2019-01-16",
+   "revenue": 32140970,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An army to fight. A demon to slay. A world to save. No pressure.",
+   "title": "The Kid Who Would Be King",
+   "trailer": {
+    "key": "Gy7BezfoXss",
+    "name": "THE KID WHO WOULD BE KING | OFFICIAL HD TRAILER #3 |2019",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.2,
+   "vote_count": 883
   },
   "movie:485894": {
    "backdrop_path": "/mUoRmzM8HOQVPUpHgSG3cO92rJH.jpg",
@@ -4957,6 +6017,115 @@
    "type": "movie",
    "vote_average": 7.43,
    "vote_count": 472
+  },
+  "movie:744594": {
+   "backdrop_path": "/4QB2TfxmzgMDLmsVVk1HM4tt7ef.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Jack Gladney",
+     "n": "Adam Driver"
+    },
+    {
+     "c": "Babette Gladney",
+     "n": "Greta Gerwig"
+    },
+    {
+     "c": "Murray Siskind",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Denise Gladney",
+     "n": "Raffey Cassidy"
+    },
+    {
+     "c": "Heinrich Gladney",
+     "n": "Sam Nivola"
+    },
+    {
+     "c": "Steffie Gladney",
+     "n": "May Nivola"
+    },
+    {
+     "c": "Winnie Richards",
+     "n": "Jodie Turner-Smith"
+    },
+    {
+     "c": "Elliot Lasher",
+     "n": "André 3000"
+    },
+    {
+     "c": "Alfonse",
+     "n": "Sam Gold"
+    },
+    {
+     "c": "Grappa",
+     "n": "Carlos Jacott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Noah Baumbach"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 744594,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jack Gladney, professor of Hitler studies at The-College-on-the-Hill, husband to Babette, and father to four children/stepchildren, is torn asunder by a chemical spill from a rail car that releases an \"Airborne Toxic Event\" forcing Jack to confront his biggest fear - his own mortality.",
+   "popularity": 2.3592,
+   "poster_path": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-12-08",
+   "revenue": 71476,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "You can’t hear it if it's everywhere.",
+   "title": "White Noise",
+   "trailer": {
+    "key": "SgwKZAMx_gM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.602,
+   "vote_count": 856
   },
   "movie:79694": {
    "backdrop_path": "/sie33RpTUQJxJq2XXjrOBXJpASL.jpg",

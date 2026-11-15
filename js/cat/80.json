@@ -1,7 +1,111 @@
 {
  "bucket": "80",
- "count": 56,
+ "count": 63,
  "titles": {
+  "movie:10380": {
+   "backdrop_path": "/8UpJ8svNnwVtpu8n62vGke8MOJf.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Fievel Mousekewitz (voice)",
+     "n": "Phillip Glasser"
+    },
+    {
+     "c": "Wylie Burp (voice)",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Mama Mousekewitz (voice)",
+     "n": "Erica Yohn"
+    },
+    {
+     "c": "Tanya Mousekewitz (voice)",
+     "n": "Cathy Cavadini"
+    },
+    {
+     "c": "Papa Mousekewitz (voice)",
+     "n": "Nehemiah Persoff"
+    },
+    {
+     "c": "Tiger (voice)",
+     "n": "Dom DeLuise"
+    },
+    {
+     "c": "Miss Kitty (voice)",
+     "n": "Amy Irving"
+    },
+    {
+     "c": "Cat R. Waul (voice)",
+     "n": "John Cleese"
+    },
+    {
+     "c": "Chula (voice)",
+     "n": "Jon Lovitz"
+    },
+    {
+     "c": "Frenchy (voice)",
+     "n": "Jack Angel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Phil Nibbelink",
+    "Simon Wells"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Western",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 10380,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Some time after the Mousekewitz's have settled in America, they find that they are still having problems with the threat of cats. That makes them eager to try another home out in the west, where they are promised that mice and cats live in peace. Unfortunately, the one making this claim is an oily con artist named Cat R. Waul who is intent on his own sinister plan.",
+   "popularity": 3.9281,
+   "poster_path": "/k4aLupAkHWwHiEDwvqsZFAnUYF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1991-11-21",
+   "revenue": 40766041,
+   "runtime": 75,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Look out pardners, there's a new mouse in town!",
+   "title": "An American Tail: Fievel Goes West",
+   "trailer": {
+    "key": "klGXjnh3NQo",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.325,
+   "vote_count": 825
+  },
   "movie:10480": {
    "backdrop_path": "/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
    "budget": 24000000,
@@ -118,6 +222,114 @@
    "type": "movie",
    "vote_average": 6.068,
    "vote_count": 447
+  },
+  "movie:1052280": {
+   "backdrop_path": "/xU2C64VWhYJMBDrjEsFPbVTWAjN.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Cyrus",
+     "n": "James Morosini"
+    },
+    {
+     "c": "Shelby",
+     "n": "Brittany O'Grady"
+    },
+    {
+     "c": "Forbes",
+     "n": "David Thompson"
+    },
+    {
+     "c": "Nikki",
+     "n": "Alycia Debnam-Carey"
+    },
+    {
+     "c": "Dennis",
+     "n": "Gavin Leatherwood"
+    },
+    {
+     "c": "Maya",
+     "n": "Nina Bloomgarden"
+    },
+    {
+     "c": "Brooke",
+     "n": "Reina Hardesty"
+    },
+    {
+     "c": "Reuben",
+     "n": "Devon Terrell"
+    },
+    {
+     "c": "Beatrice",
+     "n": "Madison Davenport"
+    },
+    {
+     "c": "County Deputy",
+     "n": "Myhraliza Aala"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Greg Jardin"
+   ],
+   "genres": [
+    "Comedy",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "id": 1052280,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+   "popularity": 4.0219,
+   "poster_path": "/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-01-19",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No body is leaving the same as they came.",
+   "title": "It's What's Inside",
+   "trailer": {
+    "key": "RJBNi0CjX5I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.48,
+   "vote_count": 921
   },
   "movie:1056380": {
    "backdrop_path": "/7mij6m3a2rmaj7SvQf1dPyu7mqZ.jpg",
@@ -1578,6 +1790,130 @@
    "vote_average": 5.1,
    "vote_count": 362
   },
+  "movie:1880": {
+   "backdrop_path": "/9fOfsVHZHig6MHPHczv0zMY6cKc.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Jed",
+     "n": "Patrick Swayze"
+    },
+    {
+     "c": "Matt",
+     "n": "Charlie Sheen"
+    },
+    {
+     "c": "Robert",
+     "n": "C. Thomas Howell"
+    },
+    {
+     "c": "Erica",
+     "n": "Lea Thompson"
+    },
+    {
+     "c": "Daryl",
+     "n": "Darren Dalton"
+    },
+    {
+     "c": "Toni",
+     "n": "Jennifer Grey"
+    },
+    {
+     "c": "Andy",
+     "n": "Powers Boothe"
+    },
+    {
+     "c": "Danny",
+     "n": "Brad Savage"
+    },
+    {
+     "c": "Mason",
+     "n": "Ben Johnson"
+    },
+    {
+     "c": "Mr. Eckert",
+     "n": "Harry Dean Stanton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Milius"
+   ],
+   "genres": [
+    "Thriller",
+    "War",
+    "Drama"
+   ],
+   "id": 1880,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town—and their country—from invading Soviet forces.",
+   "popularity": 3.8831,
+   "poster_path": "/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1984-08-10",
+   "revenue": 38400000,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In our time, no foreign army has ever occupied American soil. Until now.",
+   "title": "Red Dawn",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.285,
+   "vote_count": 940
+  },
   "movie:252680": {
    "backdrop_path": "/xzi0mSJJU0de8sXn1d6S4ahzzr.jpg",
    "budget": 5000000,
@@ -2617,6 +2953,124 @@
    "vote_average": 6.383,
    "vote_count": 303
   },
+  "movie:418680": {
+   "backdrop_path": "/tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alan Milne",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Daphne Milne",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Olive",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Christopher Robin Aged 18",
+     "n": "Alex Lawther"
+    },
+    {
+     "c": "Christopher Robin Aged 8",
+     "n": "Will Tilston"
+    },
+    {
+     "c": "Ernest",
+     "n": "Stephen Campbell Moore"
+    },
+    {
+     "c": "Betty",
+     "n": "Vicki Pepperdine"
+    },
+    {
+     "c": "Rupert",
+     "n": "Richard McCabe"
+    },
+    {
+     "c": "Lady O",
+     "n": "Geraldine Somerville"
+    },
+    {
+     "c": "Mary Brown",
+     "n": "Phoebe Waller-Bridge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Simon Curtis"
+   ],
+   "genres": [
+    "Family",
+    "History",
+    "Drama"
+   ],
+   "id": 418680,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The behind the scenes story of the life of A.A. Milne and the creation of the Winnie the Pooh stories inspired by his son Christopher Robin.",
+   "popularity": 2.0352,
+   "poster_path": "/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-09-29",
+   "revenue": 7299662,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Goodbye Christopher Robin",
+   "trailer": {
+    "key": "rX1oe9JmtUw",
+    "name": "GOODBYE CHRISTOPHER ROBIN I Official Trailer | FOX Searchlight",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 928
+  },
   "movie:425980": {
    "backdrop_path": "/eRfANc4xSRNaR8E9fUI9hdLkCWB.jpg",
    "budget": 0,
@@ -2933,6 +3387,146 @@
    "type": "movie",
    "vote_average": 6.652,
    "vote_count": 339
+  },
+  "movie:50780": {
+   "backdrop_path": "/sCjTJ3R8UKmyd9dvMPLQ61nZIfY.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Walter Black",
+     "n": "Mel Gibson"
+    },
+    {
+     "c": "Meredith Black",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Porter Black",
+     "n": "Anton Yelchin"
+    },
+    {
+     "c": "Henry Black",
+     "n": "Riley Thomas Stewart"
+    },
+    {
+     "c": "Norah",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Norah's Mom",
+     "n": "Kelly Coffield Park"
+    },
+    {
+     "c": "Jared",
+     "n": "Zachary Booth"
+    },
+    {
+     "c": "Vice President",
+     "n": "Cherry Jones"
+    },
+    {
+     "c": "Volunteer Dad",
+     "n": "Jeff Corbett"
+    },
+    {
+     "c": "Skeptical Man",
+     "n": "Baylen Thomas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jodie Foster"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 50780,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Suffering from a severe case of depression, toy company CEO Walter Black begins using a beaver hand puppet to help him open up to his family. With his father seemingly going insane, adolescent son Porter pushes for his parents to get a divorce.",
+   "popularity": 1.912,
+   "poster_path": "/nlaWgS7iIb6MG3t0FitV1xdPqIV.jpg",
+   "production_countries": [
+    "AE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "History Vault"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-05-05",
+   "revenue": 970816,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's here to save Walter's life.",
+   "title": "The Beaver",
+   "trailer": {
+    "key": "DOSOWNS3jts",
+    "name": "THE BEAVER - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.375,
+   "vote_count": 969
   },
   "movie:51980": {
    "backdrop_path": "/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
@@ -4212,6 +4806,110 @@
    "vote_average": 5.817,
    "vote_count": 325
   },
+  "movie:890980": {
+   "backdrop_path": "/dtXcuwF1uUi9m0VVfEGEa7GpDzX.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Bárbara Lennie"
+    },
+    {
+     "c": "Samuel Alvar",
+     "n": "Eduard Fernández"
+    },
+    {
+     "c": "Monserrat Castell",
+     "n": "Loreto Mauleón"
+    },
+    {
+     "c": "César Arellano",
+     "n": "Javier Beltrán"
+    },
+    {
+     "c": "Urquieta",
+     "n": "Pablo Derqui"
+    },
+    {
+     "c": "Ruipérez",
+     "n": "Federico Aguado"
+    },
+    {
+     "c": "Doctor Bernardos",
+     "n": "Adelfa Calvo"
+    },
+    {
+     "c": "Ruiz de Pablos",
+     "n": "Antonio Buíl"
+    },
+    {
+     "c": "Inspector Soto",
+     "n": "Dafnis Balduz"
+    },
+    {
+     "c": "Man / Fake Del Olmo / Dr. Donadio",
+     "n": "Lluís Soler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "16",
+   "date_kind": "release",
+   "director": [
+    "Oriol Paulo"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 890980,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "Alice Gould, a private investigator, pretends to be mentally ill in order to enter a psychiatric hospital and gather evidence for the case she is working on: the death of a patient in unclear circumstances.",
+   "popularity": 3.2442,
+   "poster_path": "/n3X9tWYFYfE96BoNgtVffuwzQo.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-10-06",
+   "revenue": 0,
+   "runtime": 155,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "God's Crooked Lines",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.28,
+   "vote_count": 889
+  },
   "movie:926980": {
    "backdrop_path": "/tN5Ws9NXR6N3LR2S39rHfCXrFkN.jpg",
    "budget": 0,
@@ -4633,6 +5331,122 @@
    "type": "movie",
    "vote_average": 7.694,
    "vote_count": 446
+  },
+  "movie:9980": {
+   "backdrop_path": "/m6q0Q6bwJnzoMHWFCplDarmBtIK.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Bill Robinson",
+     "n": "Emilio Estevez"
+    },
+    {
+     "c": "Hendershot",
+     "n": "Pat Hingle"
+    },
+    {
+     "c": "Brett",
+     "n": "Laura Harrington"
+    },
+    {
+     "c": "Connie",
+     "n": "Yeardley Smith"
+    },
+    {
+     "c": "Curt",
+     "n": "John Short"
+    },
+    {
+     "c": "Wanda June",
+     "n": "Ellen McElduff"
+    },
+    {
+     "c": "Duncan",
+     "n": "J.C. Quinn"
+    },
+    {
+     "c": "Camp Loman",
+     "n": "Christopher Murney"
+    },
+    {
+     "c": "Deke",
+     "n": "Holter Graham"
+    },
+    {
+     "c": "Handy",
+     "n": "Frankie Faison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen King"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 9980,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a comet passes close to the earth, machines all over the world come alive and go on homicidal rampages. A group of people at a desolate truck stop are held hostage by a gang of murderous 18-wheelers. The frightened people set out to defeat the killer machines…Or be killed by them.",
+   "popularity": 3.1171,
+   "poster_path": "/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1986-07-13",
+   "revenue": 7400000,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Imagine your worst nightmare...machines take over the world!",
+   "title": "Maximum Overdrive",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.815,
+   "vote_count": 912
   },
   "tv:1480": {
    "backdrop_path": "/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "22",
- "count": 54,
+ "count": 64,
  "titles": {
   "movie:1063422": {
    "backdrop_path": "/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",
@@ -627,6 +627,114 @@
    "vote_average": 5.1,
    "vote_count": 343
   },
+  "movie:12122": {
+   "backdrop_path": "/udqpyMs0zvaP9MjETzhWg04zVKe.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Alan Chaffee",
+     "n": "Christopher Reeve"
+    },
+    {
+     "c": "Susan Verner",
+     "n": "Kirstie Alley"
+    },
+    {
+     "c": "Jill McGowan",
+     "n": "Linda Kozlowski"
+    },
+    {
+     "c": "Frank McGowan",
+     "n": "Michael Paré"
+    },
+    {
+     "c": "Melanie Roberts",
+     "n": "Meredith Salenger"
+    },
+    {
+     "c": "Reverend George",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Sarah",
+     "n": "Pippa Pearthree"
+    },
+    {
+     "c": "Ben Blum",
+     "n": "Peter Jason"
+    },
+    {
+     "c": "Callie Blum",
+     "n": "Constance Forslund"
+    },
+    {
+     "c": "Barbara Chaffee",
+     "n": "Karen Kahn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Carpenter"
+   ],
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 12122,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane.",
+   "popularity": 2.9779,
+   "poster_path": "/hDNZHzYy62mOAsby0PTadKQh7so.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-04-28",
+   "revenue": 9418365,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beware the children.",
+   "title": "Village of the Damned",
+   "trailer": {
+    "key": "oDabkjic1mM",
+    "name": "Village of the Damned (1995) John Carpenter - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 974
+  },
   "movie:12622": {
    "backdrop_path": "/52Lu2SxYuckF0f1Bz9yDvy1cVLa.jpg",
    "budget": 0,
@@ -846,6 +954,113 @@
    "type": "movie",
    "vote_average": 4.3,
    "vote_count": 74
+  },
+  "movie:13122": {
+   "backdrop_path": "/lyGRyMxIYwvPObfOYWYDivMQUqh.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Fool",
+     "n": "Brandon Quintin Adams"
+    },
+    {
+     "c": "Man",
+     "n": "Everett McGill"
+    },
+    {
+     "c": "Woman",
+     "n": "Wendy Robie"
+    },
+    {
+     "c": "Alice",
+     "n": "A. J. Langer"
+    },
+    {
+     "c": "Leroy",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Roach",
+     "n": "Sean Whalen"
+    },
+    {
+     "c": "Grandpa Booker",
+     "n": "Bill Cobbs"
+    },
+    {
+     "c": "Ruby Williams",
+     "n": "Kelly Jo Minter"
+    },
+    {
+     "c": "Spencer",
+     "n": "Jeremy Roberts"
+    },
+    {
+     "c": "Mary",
+     "n": "Conni Marie Brazelton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wes Craven"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 13122,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Trapped inside a fortified home owned by a mysterious couple, a young boy quickly learns the true nature of the homicidal inhabitants, and secret creatures hidden deep within the walls.",
+   "popularity": 3.2239,
+   "poster_path": "/8OWDBVmGdM7HwaDtbDsdn6Rlzqj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1991-11-01",
+   "revenue": 31400000,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In every neighborhood, there is one house that adults whisper about and children cross the street to avoid.",
+   "title": "The People Under the Stairs",
+   "trailer": {
+    "key": "Jp8FkfhSWK4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 815
   },
   "movie:1341422": {
    "backdrop_path": "/eoZGgOb3zbTZXKPbOx5cS6DZYwV.jpg",
@@ -2124,6 +2339,184 @@
    "vote_average": 7.898,
    "vote_count": 482
   },
+  "movie:24122": {
+   "backdrop_path": "/xoWErrVQWvkgi9jCUwUlRb5ZKnb.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Sandy",
+     "n": "Catherine Zeta-Jones"
+    },
+    {
+     "c": "Aram Finklestein",
+     "n": "Justin Bartha"
+    },
+    {
+     "c": "Harry Finklestein",
+     "n": "Art Garfunkel"
+    },
+    {
+     "c": "Roberta Finklestein",
+     "n": "Joanna Gleason"
+    },
+    {
+     "c": "Laura Reilly",
+     "n": "Lynn Whitfield"
+    },
+    {
+     "c": "Frank Jr. (Age 7)",
+     "n": "Andrew Cherry"
+    },
+    {
+     "c": "Daphne",
+     "n": "Kate Jennings Grant"
+    },
+    {
+     "c": "Mitch",
+     "n": "Rob Kerkovich"
+    },
+    {
+     "c": "Trevor",
+     "n": "John Schneider"
+    },
+    {
+     "c": "Frank",
+     "n": "Sam Robards"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bart Freundlich"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 24122,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Upon discovering her husband's infidelity, Sandy leaves the suburbs and moves into the city. There, she befriends Aram, a guy whose wife only married him so she could get a green card. Sandy hires Aram to be her nanny, and it isn't long until Aram and Sandy find out they get along wonderfully and start to date. But is their relationship real or is it, in fact, just a rebound for both of them?",
+   "popularity": 2.965,
+   "poster_path": "/j82RTG8dNyOYhIKspjk5Z0bEmdi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-09-16",
+   "revenue": 21791288,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She's still got it. He's just getting it.",
+   "title": "The Rebound",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.497,
+   "vote_count": 994
+  },
   "movie:31522": {
    "backdrop_path": "/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
    "budget": 160000,
@@ -2745,6 +3138,147 @@
    "vote_average": 7.0,
    "vote_count": 316
   },
+  "movie:340022": {
+   "backdrop_path": "/4zGmfaRPYn9DL9f3e05sNIguU0M.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Harold Soyinka",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "Richard Rusk",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Elaine Markinson",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Sunny",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Mitch Rusk",
+     "n": "Sharlto Copley"
+    },
+    {
+     "c": "Miles",
+     "n": "Harry Treadaway"
+    },
+    {
+     "c": "Angel Valverde",
+     "n": "Yul Vazquez"
+    },
+    {
+     "c": "Bonnie Soyinka",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Mia",
+     "n": "Melonie Díaz"
+    },
+    {
+     "c": "Nelly",
+     "n": "Paris Jackson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nash Edgerton"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Crime"
+   ],
+   "id": 340022,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An American businessman with a stake in a pharmaceutical company that's about to go public finds his life is thrown into turmoil by an incident in Mexico.",
+   "popularity": 2.2363,
+   "poster_path": "/dxeVPklFwng2IowqRPNI4od6aXv.jpg",
+   "production_countries": [
+    "US",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-03-09",
+   "revenue": 11001627,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "An American corporation, the Mexican cartel, chances are this won't end well.",
+   "title": "Gringo",
+   "trailer": {
+    "key": "MnKbM9Zxtn8",
+    "name": "Gringo - Official Redband Trailer [HD] | Amazon Studios",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.888,
+   "vote_count": 837
+  },
   "movie:372822": {
    "backdrop_path": "/jY3GXVS9Tc81Rvnn8kBzfrQHqo6.jpg",
    "budget": 0,
@@ -2941,6 +3475,134 @@
    "type": "movie",
    "vote_average": 5.851,
    "vote_count": 460
+  },
+  "movie:420622": {
+   "backdrop_path": "/ecinn4iRxpQs4mW7Y7n0b41Qgbe.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Dr. William Moulton Marston",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "Elizabeth Marston",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Olive Byrne",
+     "n": "Bella Heathcote"
+    },
+    {
+     "c": "Josette Frank",
+     "n": "Connie Britton"
+    },
+    {
+     "c": "Charles Guyette",
+     "n": "JJ Feild"
+    },
+    {
+     "c": "M.C. Gaines",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Mary",
+     "n": "Monica Giordano"
+    },
+    {
+     "c": "Dorothy Roubicek",
+     "n": "Maggie Castle"
+    },
+    {
+     "c": "Molly Stewart",
+     "n": "Alexa Havins"
+    },
+    {
+     "c": "Sara",
+     "n": "Allie Gallerani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Angela Robinson"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 420622,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and co-created Wonder Woman in 1941.",
+   "popularity": 3.3642,
+   "poster_path": "/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-10-13",
+   "revenue": 1600000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ever wonder?",
+   "title": "Professor Marston and the Wonder Women",
+   "trailer": {
+    "key": "OILVviwLfUM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.134,
+   "vote_count": 972
   },
   "movie:429422": {
    "backdrop_path": "/x7iqHlTbFpZDOMZJHNxfQsG7E13.jpg",
@@ -3227,6 +3889,205 @@
    "vote_average": 6.6,
    "vote_count": 431
   },
+  "movie:450322": {
+   "backdrop_path": "/hm8Gux0946IfeJ1PZwztOo6lVHH.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Charles Dickens",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Scrooge",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Mr. John Dickens",
+     "n": "Jonathan Pryce"
+    },
+    {
+     "c": "John Forster / Ghost of Christmas Present",
+     "n": "Justin Edwards"
+    },
+    {
+     "c": "Kate Dickens",
+     "n": "Morfydd Clark"
+    },
+    {
+     "c": "Haddock / Ghost of Marley",
+     "n": "Donald Sumpter"
+    },
+    {
+     "c": "Thackeray",
+     "n": "Miles Jupp"
+    },
+    {
+     "c": "Leech",
+     "n": "Simon Callow"
+    },
+    {
+     "c": "Mrs. Fisk",
+     "n": "Miriam Margolyes"
+    },
+    {
+     "c": "Chapman",
+     "n": "Ian McNeice"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bharat Nalluri"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Comedy",
+    "Family"
+   ],
+   "id": 450322,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "IE"
+   ],
+   "original_language": "en",
+   "overview": "In 1843, despite the fact that Dickens is a successful writer, the failure of his latest book puts his career at a crossroads, until the moment when, struggling with inspiration and confronting reality with his childhood memories, a new character is born in the depths of his troubled mind; an old, lonely, embittered man, so vivid, so human, that a whole world grows around him, a story so inspiring that changed the meaning of Christmas forever.",
+   "popularity": 3.168,
+   "poster_path": "/qRkzRue5rTzB6PESXBJCKqROOXC.jpg",
+   "production_countries": [
+    "IE",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-10-12",
+   "revenue": 8100000,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "How Charles Dickens wrote “A Christmas Carol” and created a tradition.",
+   "title": "The Man Who Invented Christmas",
+   "trailer": {
+    "key": "nx3ctBjG6yI",
+    "name": "THE MAN WHO INVENTED CHRISTMAS | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.854,
+   "vote_count": 894
+  },
   "movie:502422": {
    "backdrop_path": "/g9uDiHKpk2LvzG3RlmtYZ3ybYZS.jpg",
    "budget": 200000,
@@ -3462,6 +4323,122 @@
    "vote_average": 8.2,
    "vote_count": 393
   },
+  "movie:597922": {
+   "backdrop_path": "/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",
+   "budget": 2800000,
+   "cast": [
+    {
+     "c": "John 'Chickie' Donohue",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Arthur Coates",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Bobby Pappas",
+     "n": "Kyle Allen"
+    },
+    {
+     "c": "The Colonel",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Rick Duggan",
+     "n": "Jake Picking"
+    },
+    {
+     "c": "Kevin McLoone",
+     "n": "Will Ropp"
+    },
+    {
+     "c": "Tom Collins",
+     "n": "Archie Renaux"
+    },
+    {
+     "c": "Christine",
+     "n": "Ruby Ashbourne Serkis"
+    },
+    {
+     "c": "Tommy Minogue",
+     "n": "Will Hochman"
+    },
+    {
+     "c": "Noodle",
+     "n": "Christopher Reed Brown"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Peter Farrelly"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "War"
+   ],
+   "id": 597922,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chickie wants to support his friends fighting in Vietnam, so he does something wild—personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie's life and perspective.",
+   "popularity": 3.9065,
+   "poster_path": "/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg",
+   "production_countries": [
+    "US",
+    "TH"
+   ],
+   "providers": [
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+     "name": "Apple TV",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+     "name": "Apple TV Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-09-23",
+   "revenue": 0,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "Friendship has no last call.",
+   "title": "The Greatest Beer Run Ever",
+   "trailer": {
+    "key": "NqxziDlZOIo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.46,
+   "vote_count": 972
+  },
   "movie:605722": {
    "backdrop_path": "/1QV5TIM7pVm0wcWthKIAj7cXjbJ.jpg",
    "budget": 0,
@@ -3564,6 +4541,130 @@
    "type": "movie",
    "vote_average": 6.632,
    "vote_count": 310
+  },
+  "movie:6522": {
+   "backdrop_path": "/GjoNCBnOdmKz7ZVG0IICfg1GKa.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Rayford Gibson",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Claude Banks",
+     "n": "Martin Lawrence"
+    },
+    {
+     "c": "Willie Long",
+     "n": "Obba Babatundé"
+    },
+    {
+     "c": "Sergeant Dillard",
+     "n": "Nick Cassavetes"
+    },
+    {
+     "c": "Cookie",
+     "n": "Anthony Anderson"
+    },
+    {
+     "c": "Pokerface",
+     "n": "Barry Shabaka Henley"
+    },
+    {
+     "c": "Hoppin' Bob",
+     "n": "Brent Jennings"
+    },
+    {
+     "c": "Jangle Leg",
+     "n": "Bernie Mac"
+    },
+    {
+     "c": "Biscuit",
+     "n": "Miguel A. Núñez Jr."
+    },
+    {
+     "c": "Goldmouth",
+     "n": "Michael Taliferro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ted Demme"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 6522,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two men in 1930s Mississippi become friends after being sentenced to life in prison together for a crime they did not commit.",
+   "popularity": 3.1521,
+   "poster_path": "/saWYpX3ADdmdByQZVrSYUNbQ9GC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "ALLBLK Apple TV channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "ALLBLK Amazon channel "
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1999-04-16",
+   "revenue": 73500000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Share it with someone you love.",
+   "title": "Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.691,
+   "vote_count": 926
   },
   "movie:652722": {
    "backdrop_path": "/6cqogY7SYppI0ZNchaTKszSkxwH.jpg",
@@ -4200,6 +5301,253 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 493
+  },
+  "movie:9622": {
+   "backdrop_path": "/8eX3x7BXwrkLw0hhiHuZ8E0TLmn.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Haru",
+     "n": "Chris Farley"
+    },
+    {
+     "c": "Allison Page / Sally Jones",
+     "n": "Nicollette Sheridan"
+    },
+    {
+     "c": "Gobei",
+     "n": "Robin Shou"
+    },
+    {
+     "c": "Martin Tanley",
+     "n": "Nathaniel Parker"
+    },
+    {
+     "c": "Joey",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Sensei",
+     "n": "Soon-Tek Oh"
+    },
+    {
+     "c": "Nobu",
+     "n": "Keith Cooke"
+    },
+    {
+     "c": "Izumo",
+     "n": "François Chau"
+    },
+    {
+     "c": "Old Japanese Man",
+     "n": "Dale Ishimoto"
+    },
+    {
+     "c": "Head Kobudosai",
+     "n": "Daming Chen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Dennis Dugan"
+   ],
+   "genres": [
+    "Comedy",
+    "Action"
+   ],
+   "id": 9622,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Haru, an orphaned American who washes ashore in Japan and is mistaken for the great White Ninja of legend. Raised among the finest Ninjas, Haru grows strong and big - very big. With the grace of all Three Stooges rolled into one body, Haru is an embarrassment to his clan. But when a beautiful blonde pleads for his help, Haru is given one dangerous, disastrously funny chance to prove himself.",
+   "popularity": 2.8508,
+   "poster_path": "/wAD7nnWh4e6wweffwmkLbf35uf0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-01-17",
+   "revenue": 31480022,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He puts the Mortal back in Kombat.",
+   "title": "Beverly Hills Ninja",
+   "trailer": {
+    "key": "XSwpv54VgK8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.647,
+   "vote_count": 883
+  },
+  "movie:9822": {
+   "backdrop_path": "/dkNjhkEk2tw7hoxx7Ik1YQsdenZ.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Jill Young",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Gregg O'Hara",
+     "n": "Bill Paxton"
+    },
+    {
+     "c": "Strasser",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Garth",
+     "n": "Peter Firth"
+    },
+    {
+     "c": "Harry Ruben",
+     "n": "David Paymer"
+    },
+    {
+     "c": "Cecily Banks",
+     "n": "Regina King"
+    },
+    {
+     "c": "Kweli",
+     "n": "Robert Wisdom"
+    },
+    {
+     "c": "Pindi",
+     "n": "Naveen Andrews"
+    },
+    {
+     "c": "Dr. Baker",
+     "n": "Lawrence Pressman"
+    },
+    {
+     "c": "Dr. Ruth Young",
+     "n": "Linda Purl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ron Underwood"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 9822,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As a child living in Africa, Jill Young saw her mother killed while protecting wild gorillas from poachers led by Andrei Strasser. Now an adult, Jill cares for an orphaned gorilla named Joe -- who, due to a genetic anomaly, is 15 feet tall. When Gregg O'Hara arrives from California and sees the animal, he convinces Jill that Joe would be safest at his wildlife refuge. But Strasser follows them to the U.S., intent on capturing Joe for himself.",
+   "popularity": 2.9872,
+   "poster_path": "/jM39MOyLOxCD6Njz4vfQkGaKkY1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-12-25",
+   "revenue": 0,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sw",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Survival is an instinct.",
+   "title": "Mighty Joe Young",
+   "trailer": {
+    "key": "3tPWHp2KZoY",
+    "name": "Mighty Joe Young - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 914
   },
   "movie:999722": {
    "backdrop_path": "/djPUo00dbry1frPzDLD5dgsmG7e.jpg",

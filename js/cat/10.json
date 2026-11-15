@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 64,
+ "count": 71,
  "titles": {
   "movie:1020910": {
    "backdrop_path": "/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
@@ -2037,6 +2037,120 @@
    "vote_average": 6.953,
    "vote_count": 392
   },
+  "movie:14410": {
+   "backdrop_path": "/xlIxMddSdqyxfY02CilOK4VKWR8.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Christopher 'Biggie' Wallace",
+     "n": "Jamal Woolard"
+    },
+    {
+     "c": "Sean 'Puffy' Combs",
+     "n": "Derek Luke"
+    },
+    {
+     "c": "Lil' Kim",
+     "n": "Naturi Naughton"
+    },
+    {
+     "c": "Tupac \"2Pac\" Shakur",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Faith Evans",
+     "n": "Antonique Smith"
+    },
+    {
+     "c": "Voletta Wallace",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Lil Cease",
+     "n": "Marc John Jefferies"
+    },
+    {
+     "c": "Suge Knight",
+     "n": "Sean Ringgold"
+    },
+    {
+     "c": "Biggie (age 8-13)",
+     "n": "C.J. Wallace"
+    },
+    {
+     "c": "Damion 'D-Roc' Butler",
+     "n": "Dennis L.A. White"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "George Tillman Jr."
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "History"
+   ],
+   "id": 14410,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "\"Notorious\" is the story of Christopher Wallace. Through raw talent and sheer determination, Wallace transforms himself from Brooklyn street hustler (once selling crack to pregnant women) to one of the greatest rappers of all time: The Notorious B.I.G. Follow his meteoric rise to fame and his refusal to succumb to expectations - redefining our notion of \"The American Dream.\"",
+   "popularity": 2.1736,
+   "poster_path": "/62NsZPgueSiE8y7dqtU3FSLFwYw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-01-16",
+   "revenue": 44420671,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No dream is too B.I.G.",
+   "title": "Notorious",
+   "trailer": {
+    "key": "kDDv6pAbN_U",
+    "name": "Notorious- Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.974,
+   "vote_count": 833
+  },
   "movie:1530510": {
    "backdrop_path": "/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
    "budget": 0,
@@ -3155,6 +3269,162 @@
    "vote_average": 5.661,
    "vote_count": 376
   },
+  "movie:242310": {
+   "backdrop_path": "/sg2ABfteLaTvYKe3LPPmQlZMrvN.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Paul Maguire",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Caitlin Maguire",
+     "n": "Aubrey Shea"
+    },
+    {
+     "c": "Vanessa Maguire",
+     "n": "Rachel Nichols"
+    },
+    {
+     "c": "Francis O'Connell",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Detective St. John",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Kane",
+     "n": "Max Ryan"
+    },
+    {
+     "c": "Young Paul",
+     "n": "Weston Cage"
+    },
+    {
+     "c": "Evan",
+     "n": "Jack Falahee"
+    },
+    {
+     "c": "Lisa",
+     "n": "Elena Sanchez"
+    },
+    {
+     "c": "Mike",
+     "n": "Max Fowler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paco Cabezas"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 242310,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the Russian mob kidnaps the daughter of a reformed criminal, he rounds up his old crew and seeks his own brand of justice.",
+   "popularity": 2.294,
+   "poster_path": "/1pC6xTd15iLIs5De7JKQfrDmKyd.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Icon Film Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-05-09",
+   "revenue": 2424381,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The past never stays dead",
+   "title": "Rage",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.2,
+   "vote_count": 832
+  },
   "movie:244610": {
    "backdrop_path": "/o3yBmJQIwjWHmjKjZVkrDiSfukn.jpg",
    "budget": 500000,
@@ -3966,6 +4236,121 @@
    "vote_average": 6.523,
    "vote_count": 349
   },
+  "movie:38410": {
+   "backdrop_path": "/tAi9xQKBgYJVkBTfAtZ0OHEaXfb.jpg",
+   "budget": 200000,
+   "cast": [
+    {
+     "c": "Cheryl Dempsey",
+     "n": "Stacy Chbosky"
+    },
+    {
+     "c": "Edward 'Ed' Carver",
+     "n": "Ben Messmer"
+    },
+    {
+     "c": "Felton Lewis",
+     "n": "Lou George"
+    },
+    {
+     "c": "Leonard Schway",
+     "n": "Ivar Brogger"
+    },
+    {
+     "c": "Simon Alray",
+     "n": "Michael Lawson"
+    },
+    {
+     "c": "Alice Endrisart",
+     "n": "Amy Lyndon"
+    },
+    {
+     "c": "Mike Moakes",
+     "n": "Ron Harper"
+    },
+    {
+     "c": "Samantha Baker",
+     "n": "Samantha Robson"
+    },
+    {
+     "c": "Pam Frears",
+     "n": "Kim Kenny"
+    },
+    {
+     "c": "Karen Tyler",
+     "n": "Beth Tapper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Erick Dowdle"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 38410,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When hundreds of videotapes showing torture, murder and dismemberment are found in an abandoned house, they reveal a serial killer's decade-long reign of terror and become the most disturbing collection of evidence homicide detectives have ever seen.",
+   "popularity": 3.1101,
+   "poster_path": "/8ppkhu3pO3fnXr05YeE7ryKloVd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-04-27",
+   "revenue": 180000,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The terror is real.",
+   "title": "The Poughkeepsie Tapes",
+   "trailer": {
+    "key": "tUpb7MVYLzY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 842
+  },
   "movie:391710": {
    "backdrop_path": "/tWp1P6tGWSMJfmOZxs65SNV0khX.jpg",
    "budget": 10000000,
@@ -4072,6 +4457,109 @@
    "type": "movie",
    "vote_average": 6.427,
    "vote_count": 391
+  },
+  "movie:39210": {
+   "backdrop_path": "/bzCuOfoZ9ZC9AGLs8ZVZ5yo1X16.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Johnny Marco",
+     "n": "Stephen Dorff"
+    },
+    {
+     "c": "Cleo",
+     "n": "Elle Fanning"
+    },
+    {
+     "c": "Sammy",
+     "n": "Chris Pontius"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Laura Chiatti"
+    },
+    {
+     "c": "Layla",
+     "n": "Lala Sloatman"
+    },
+    {
+     "c": "Claire",
+     "n": "Ellie Kemper"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Party Girl #1",
+     "n": "Erin Wasson"
+    },
+    {
+     "c": "Party Girl #2",
+     "n": "Alexandra Williams"
+    },
+    {
+     "c": "Party Girl #3",
+     "n": "Nathalie Fay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sofia Coppola"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 39210,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After withdrawing to the Chateau Marmont, a passionless Hollywood actor reexamines his life when his eleven-year-old daughter surprises him with a visit.",
+   "popularity": 1.8698,
+   "poster_path": "/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg",
+   "production_countries": [
+    "FR",
+    "IT",
+    "JP",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2010-09-03",
+   "revenue": 14788642,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Somewhere",
+   "trailer": {
+    "key": "iEga7Hz9a3U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.074,
+   "vote_count": 845
   },
   "movie:396810": {
    "backdrop_path": "/sEqSMNIkxizIHW8kWKoikVYWeXF.jpg",
@@ -4732,6 +5220,204 @@
    "vote_average": 7.202,
    "vote_count": 439
   },
+  "movie:503210": {
+   "backdrop_path": "/ozIhpAb69vQahq5obDlRGP87Y0m.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Self",
+     "n": "Steven Spielberg"
+    },
+    {
+     "c": "Self",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Self",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Self",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Fay Wray"
+    },
+    {
+     "c": "Self (archive footage)",
+     "n": "Michael Crichton"
+    },
+    {
+     "c": "Self",
+     "n": "Joseph Mazzello"
+    },
+    {
+     "c": "Self",
+     "n": "Ariana Richards"
+    },
+    {
+     "c": "Self",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Self",
+     "n": "Pete Postlethwaite"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "",
+   "date_kind": "release",
+   "director": [
+    "Laurent Bouzereau"
+   ],
+   "genres": [
+    "Documentary"
+   ],
+   "id": 503210,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A multi-part documentary about the making of the Jurassic Park trilogy. Each part walks through the making of part of one of the films, including the hurricane during the shooting of the first film, and how advances in CGI for Jurassic Park helped change the world of special effects forever. All interviews for these retrospective documentaries come with comments from Spielberg, Johnston, Neill, Dern, Goldblum, the effects crews, the child actors, and Peter Stormare. This documentary is broken into six parts: Dawn of a New Era (25 min), Making Prehistory (20 min), The Next Step in Evolution (15 min), Finding the Lost World (28 min), Something Survived (16 min), and The Third Adventure (25 min).",
+   "popularity": 1.3377,
+   "poster_path": "/mPyu59cDdmMDDW9IOtfjVlM0THd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2011-02-05",
+   "revenue": 0,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Return to Jurassic Park",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 849
+  },
+  "movie:532710": {
+   "backdrop_path": "/lwFKeONjTUSbqaaGdJL8vJq2LK1.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Charlie McGee",
+     "n": "Ryan Kiera Armstrong"
+    },
+    {
+     "c": "Andy McGee",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Vicky McGee",
+     "n": "Sydney Lemmon"
+    },
+    {
+     "c": "Dr. Joseph Wanless",
+     "n": "Kurtwood Smith"
+    },
+    {
+     "c": "Rainbird",
+     "n": "Michael Greyeyes"
+    },
+    {
+     "c": "Captain Hollister",
+     "n": "Gloria Reuben"
+    },
+    {
+     "c": "Irv Manders",
+     "n": "John Beasley"
+    },
+    {
+     "c": "Ms. Gardner",
+     "n": "Tina Jung"
+    },
+    {
+     "c": "Darla Gurney",
+     "n": "Hannan Younis"
+    },
+    {
+     "c": "Gavin",
+     "n": "Gavin MacIver-Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Keith Thomas"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 532710,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family's location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.",
+   "popularity": 2.9388,
+   "poster_path": "/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2022-05-12",
+   "revenue": 15039250,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never play with fire.",
+   "title": "Firestarter",
+   "trailer": {
+    "key": "59MJfJPP5eo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.419,
+   "vote_count": 847
+  },
   "movie:567410": {
    "backdrop_path": "/fliLEpVMbHPWLuW1J0aiJl3WtpB.jpg",
    "budget": 0,
@@ -4840,6 +5526,120 @@
    "type": "movie",
    "vote_average": 7.613,
    "vote_count": 413
+  },
+  "movie:5910": {
+   "backdrop_path": "/mdQ6oH7GLM9VerAb8JhsEAyJnHs.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yoshitaka Nishi",
+     "n": "Takeshi Kitano"
+    },
+    {
+     "c": "Nishi's Wife",
+     "n": "Kayoko Kishimoto"
+    },
+    {
+     "c": "Horibe",
+     "n": "Ren Osugi"
+    },
+    {
+     "c": "Nakamura",
+     "n": "Susumu Terajima"
+    },
+    {
+     "c": "Junkyard Owner",
+     "n": "Tetsu Watanabe"
+    },
+    {
+     "c": "Yakuza Hitman",
+     "n": "Hakuryu"
+    },
+    {
+     "c": "Criminal",
+     "n": "Yasuei Yakushiji"
+    },
+    {
+     "c": "Kudo",
+     "n": "Tarô Itsumi"
+    },
+    {
+     "c": "Doctor",
+     "n": "Kenichi Yajima"
+    },
+    {
+     "c": "Tanaka",
+     "n": "Makoto Ashikawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Takeshi Kitano"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 5910,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Beleaguered police detective Nishi takes desperate measures to try and set things right in a world gone wrong. With those close to him suffering their own tribulations, Nishi's methods become increasingly extreme.",
+   "popularity": 2.8708,
+   "poster_path": "/bWIo1nDJnSyGJvVt8bRw8PHBqo4.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1997-10-30",
+   "revenue": 0,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Thank you - thank you for everything.",
+   "title": "Fireworks",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 826
   },
   "movie:63310": {
    "backdrop_path": "/q0arvx5ai3x3vMJICHiCfAfQJzh.jpg",

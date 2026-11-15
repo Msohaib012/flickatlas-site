@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 51,
+ "count": 58,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -188,6 +188,173 @@
    "vote_average": 4.848,
    "vote_count": 473
   },
+  "movie:10477": {
+   "backdrop_path": "/rODTjAT8q1u4ZXIVTCwsBbZo3EE.jpg",
+   "budget": 94000000,
+   "cast": [
+    {
+     "c": "Joe Tanto",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Carl Henry",
+     "n": "Burt Reynolds"
+    },
+    {
+     "c": "Jimmy Bly",
+     "n": "Kip Pardue"
+    },
+    {
+     "c": "Lucretia Clan",
+     "n": "Stacy Edwards"
+    },
+    {
+     "c": "Beau Brandenburg",
+     "n": "Til Schweiger"
+    },
+    {
+     "c": "Cathy Heguy",
+     "n": "Gina Gershon"
+    },
+    {
+     "c": "Sophia Simone",
+     "n": "Estella Warren"
+    },
+    {
+     "c": "Memo Moreno",
+     "n": "Cristián de la Fuente"
+    },
+    {
+     "c": "Crusher",
+     "n": "Brent Briscoe"
+    },
+    {
+     "c": "Demille Bly",
+     "n": "Robert Sean Leonard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 10477,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Talented rookie race-car driver Jimmy Bly has started losing his focus and begins to slip in the race rankings. It's no wonder, with the immense pressure being shoveled on him by his overly ambitious promoter brother as well as Bly's romance with his arch rival's girlfriend Sophia. With much riding on Bly, car owner Carl Henry brings former racing star Joe Tanto on board to help Bly. To drive Bly back to the top of the rankings, Tanto must first deal with the emotional scars left over from a tragic racing accident which nearly took his life.",
+   "popularity": 2.9142,
+   "poster_path": "/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2001-04-27",
+   "revenue": 54744738,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Get ready for the race of your life.",
+   "title": "Driven",
+   "trailer": {
+    "key": "O2QrywxknaM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.182,
+   "vote_count": 874
+  },
   "movie:1084577": {
    "backdrop_path": "/qE0FswzjACs2kvAycYVS2zcmgec.jpg",
    "budget": 0,
@@ -301,6 +468,102 @@
    "type": "movie",
    "vote_average": 5.796,
    "vote_count": 361
+  },
+  "movie:11077": {
+   "backdrop_path": "/zP9nH7BpQ2BAmAkfx5FObVkLxrB.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Ben",
+     "n": "John Ritter"
+    },
+    {
+     "c": "Big Ben",
+     "n": "Jack Warden"
+    },
+    {
+     "c": "Junior",
+     "n": "Michael J. Oliver"
+    },
+    {
+     "c": "Mr. Peabody",
+     "n": "Gilbert Gottfried"
+    },
+    {
+     "c": "Flo",
+     "n": "Amy Yasbeck"
+    },
+    {
+     "c": "Martin Beck",
+     "n": "Michael Richards"
+    },
+    {
+     "c": "Roy",
+     "n": "Peter Jurasik"
+    },
+    {
+     "c": "Lorraine",
+     "n": "Charlotte Akin"
+    },
+    {
+     "c": "Kid #3",
+     "n": "Anna Marie Allred"
+    },
+    {
+     "c": "Catcher",
+     "n": "Adam Anderly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dennis Dugan"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 11077,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ben Healy and his social climbing wife Flo adopt fun-loving seven year old Junior. But they soon discover he's a little monster as he turns a camping trip, a birthday party and even a baseball game into comic nightmares.",
+   "popularity": 4.046,
+   "poster_path": "/4cJK28DhybQGEldJJPtTdKlSbWB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1990-07-27",
+   "revenue": 72000000,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Attila the Hun. Ivan the Terrible. Al Capone. They were all seven once.",
+   "title": "Problem Child",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.197,
+   "vote_count": 972
   },
   "movie:1128377": {
    "backdrop_path": "/9aJUVBiHkEa7a5qx3uU6r8g33ZQ.jpg",
@@ -3788,6 +4051,292 @@
    "vote_average": 5.4,
    "vote_count": 365
   },
+  "movie:523777": {
+   "backdrop_path": "/iohOuTT3OAuvzkiNPFSL7fUWhD6.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Project 77 (voice)",
+     "n": "John Krasinski"
+    },
+    {
+     "c": "Mai (voice)",
+     "n": "Lo Mutuc"
+    },
+    {
+     "c": "Justin Pin / Ares (voice)",
+     "n": "Jason Sudeikis"
+    },
+    {
+     "c": "Momo (voice)",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Dr. Tanner Rice / Q-Bots (voice)",
+     "n": "David Cross"
+    },
+    {
+     "c": "Molly (voice)",
+     "n": "Constance Wu"
+    },
+    {
+     "c": "Greenwood (voice)",
+     "n": "Kiana Ledé"
+    },
+    {
+     "c": "Ani (voice)",
+     "n": "Anna Akana"
+    },
+    {
+     "c": "Ric (voice)",
+     "n": "Issac Ryan Brown"
+    },
+    {
+     "c": "Diagnostic Computer (voice)",
+     "n": "Reba Buhr"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kevin R. Adams",
+    "Joe Ksander"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 523777,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A friendship with a top-secret robot turns a lonely girl's life into a thrilling adventure as they take on bullies, evil bots and a scheming madman.",
+   "popularity": 2.5481,
+   "poster_path": "/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg",
+   "production_countries": [
+    "CA",
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2018-09-07",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Friendship is the ultimate upgrade.",
+   "title": "Next Gen",
+   "trailer": {
+    "key": "uf3ALGKgpGU",
+    "name": "Next Gen | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.0,
+   "vote_count": 890
+  },
+  "movie:577": {
+   "backdrop_path": "/80xhh6ZHyRbpvZLRCeATd0dom6b.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Suzanne Stone",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Larry Maretto",
+     "n": "Matt Dillon"
+    },
+    {
+     "c": "Jimmy Emmett",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Russel Hines",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Janice Maretto",
+     "n": "Illeana Douglas"
+    },
+    {
+     "c": "Lydia Mertz",
+     "n": "Alison Folland"
+    },
+    {
+     "c": "Joe Maretto",
+     "n": "Dan Hedaya"
+    },
+    {
+     "c": "Ed Grant",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Earl Stone",
+     "n": "Kurtwood Smith"
+    },
+    {
+     "c": "Carol Stone",
+     "n": "Holland Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gus Van Sant"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 577,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Suzanne Stone wants to be a world-famous news anchor and she is willing to do anything to get what she wants. What she lacks in intelligence, she makes up for in cold determination and diabolical wiles. As she pursues her goal with relentless focus, she is forced to destroy anything and anyone that may stand in her way, regardless of the ultimate cost or means necessary.",
+   "popularity": 3.37,
+   "poster_path": "/ji0F2HvO58iIrNfbo41lrnYybed.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1995-09-22",
+   "revenue": 21300000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All she wanted was a little attention.",
+   "title": "To Die For",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.597,
+   "vote_count": 942
+  },
   "movie:585077": {
    "backdrop_path": "/wDbcEcTIfTp7yDBj0zVnqpQ24N7.jpg",
    "budget": 0,
@@ -4360,6 +4909,117 @@
    "vote_average": 5.412,
    "vote_count": 453
   },
+  "movie:615677": {
+   "backdrop_path": "/y6FYAhaeFMj9Lsk8OdF2NeWQkbd.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Missy Moreno",
+     "n": "YaYa Gosselin"
+    },
+    {
+     "c": "Noodles",
+     "n": "Lyon Daniels"
+    },
+    {
+     "c": "Wheels",
+     "n": "Andy Walken"
+    },
+    {
+     "c": "Ojo",
+     "n": "Hala Finley"
+    },
+    {
+     "c": "A Capella",
+     "n": "Lotus Blossom"
+    },
+    {
+     "c": "Slo-Mo",
+     "n": "Dylan Henry Lau"
+    },
+    {
+     "c": "Facemaker",
+     "n": "Andrew Díaz"
+    },
+    {
+     "c": "Rewind",
+     "n": "Isaiah Russell-Bailey"
+    },
+    {
+     "c": "Fast Forward",
+     "n": "Akira Akbar"
+    },
+    {
+     "c": "Wild Card",
+     "n": "Nathan Blair"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Rodriguez"
+   ],
+   "genres": [
+    "Family",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 615677,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When alien invaders capture Earth's superheroes, their kids must learn to work together to save their parents - and the planet.",
+   "popularity": 4.1042,
+   "poster_path": "/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-12-25",
+   "revenue": 0,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "fr",
+    "mo",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Power comes in all sizes.",
+   "title": "We Can Be Heroes",
+   "trailer": {
+    "key": "omn2PJEuOTw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.926,
+   "vote_count": 841
+  },
   "movie:658777": {
    "backdrop_path": "/q9lf5lt1QWAPVdPXckFOzCeFB07.jpg",
    "budget": 0,
@@ -4930,6 +5590,117 @@
    "vote_average": 7.383,
    "vote_count": 467
   },
+  "movie:777": {
+   "backdrop_path": "/xjl0yrBwzO1ZOEK8CuIDsD4Ti33.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lieutenant Maréchal",
+     "n": "Jean Gabin"
+    },
+    {
+     "c": "Elsa",
+     "n": "Dita Parlo"
+    },
+    {
+     "c": "Captain de Boëldieu",
+     "n": "Pierre Fresnay"
+    },
+    {
+     "c": "Captain von Rauffenstein",
+     "n": "Erich von Stroheim"
+    },
+    {
+     "c": "Cartier, the Vaudeville Performer",
+     "n": "Julien Carette"
+    },
+    {
+     "c": "Officer",
+     "n": "Georges Péclet"
+    },
+    {
+     "c": "Sergeant Arthur",
+     "n": "Werner Florian"
+    },
+    {
+     "c": "Teacher",
+     "n": "Jean Dasté"
+    },
+    {
+     "c": "Lieutenant Demolder",
+     "n": "Sylvain Itkine"
+    },
+    {
+     "c": "Engineer",
+     "n": "Gaston Modot"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jean Renoir"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 777,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Maréchal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+   "popularity": 1.9707,
+   "poster_path": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Darkroom"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/naf5wQA91UCj0OetKOEYZgWZLqe.png",
+     "name": "Darkroom",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1937-06-04",
+   "revenue": 172885,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "de",
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Great Drama of Human Emotions",
+   "title": "Grand Illusion",
+   "trailer": {
+    "key": "vcO8rEjoG0c",
+    "name": "La Grande Illusion Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.863,
+   "vote_count": 812
+  },
   "movie:788977": {
    "backdrop_path": "/5pUJhaYpDdmOiyMvCh3G1R6G1wi.jpg",
    "budget": 7047000,
@@ -5344,6 +6115,130 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 306
+  },
+  "movie:980477": {
+   "backdrop_path": "/gd9kxeEEONj5SECs4GA8Ddn3czI.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Young Nezha (voice)",
+     "n": "Lu Yanting"
+    },
+    {
+     "c": "Youth Nezha / Jie Jie Shou Left (voice)",
+     "n": "Joseph"
+    },
+    {
+     "c": "Ao Bing (voice)",
+     "n": "Han Mo"
+    },
+    {
+     "c": "Li Jing (voice)",
+     "n": "Chen Hao"
+    },
+    {
+     "c": "Mrs. Yin (voice)",
+     "n": "Lu Qi"
+    },
+    {
+     "c": "Taiyi Zhenren (voice)",
+     "n": "Zhang Jiaming"
+    },
+    {
+     "c": "Shen Gongbao (voice)",
+     "n": "Yang Wei"
+    },
+    {
+     "c": "Wu Liang Xian Weng (voice)",
+     "n": "Wang Deshun"
+    },
+    {
+     "c": "Longwang of the East Sea Ao Guang / Seller (voice)",
+     "n": "Yu Chen"
+    },
+    {
+     "c": "Longwang of the East Sea (voice)",
+     "n": "Li Nan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Jiao Zi"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 980477,
+   "industry": "world",
+   "origin_country": [
+    "CN"
+   ],
+   "original_language": "zh",
+   "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+   "popularity": 17.3263,
+   "poster_path": "/fcs5AdCKliQaQgXsPS9kDejamIJ.jpg",
+   "production_countries": [
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-04-25",
+   "revenue": 2270700370,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Witness a hero reborn.",
+   "title": "Ne Zha 2",
+   "trailer": {
+    "key": "ETlOSBR92Fs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.196,
+   "vote_count": 871
   },
   "tv:1777": {
    "backdrop_path": "/7mgf8w8xPyLnIln0kFo6qH2OEGh.jpg",

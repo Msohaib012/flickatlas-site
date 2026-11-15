@@ -1,6 +1,6 @@
 {
  "bucket": "33",
- "count": 42,
+ "count": 53,
  "titles": {
   "movie:10333": {
    "backdrop_path": "/oqosaCWqrh3geYMksXhBaZQjwOJ.jpg",
@@ -364,6 +364,251 @@
    "vote_average": 5.801,
    "vote_count": 390
   },
+  "movie:1083433": {
+   "backdrop_path": "/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Ava Brucks",
+     "n": "Chase Sui Wonders"
+    },
+    {
+     "c": "Danica Richards",
+     "n": "Madelyn Cline"
+    },
+    {
+     "c": "Milo Griffin",
+     "n": "Jonah Hauer-King"
+    },
+    {
+     "c": "Teddy Spencer",
+     "n": "Tyriq Withers"
+    },
+    {
+     "c": "Stevie Ward",
+     "n": "Sarah Pidgeon"
+    },
+    {
+     "c": "Julie James",
+     "n": "Jennifer Love Hewitt"
+    },
+    {
+     "c": "Ray Bronson",
+     "n": "Freddie Prinze Jr."
+    },
+    {
+     "c": "Helen Shivers",
+     "n": "Sarah Michelle Gellar"
+    },
+    {
+     "c": "Grant Spencer",
+     "n": "Billy Campbell"
+    },
+    {
+     "c": "Karla Wilson",
+     "n": "Brandy Norwood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jennifer Kaytin Robinson"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 1083433,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer…and is hell-bent on revenge.",
+   "popularity": 6.4626,
+   "poster_path": "/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2025-07-16",
+   "revenue": 64808120,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You get the ending you deserve.",
+   "title": "I Know What You Did Last Summer",
+   "trailer": {
+    "key": "IceTkSOSNJI",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.6,
+   "vote_count": 933
+  },
+  "movie:11133": {
+   "backdrop_path": "/qTR9c6R2p4sgax4D2npccHrv4Ze.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Steve Freeling",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Diane Freeling",
+     "n": "JoBeth Williams"
+    },
+    {
+     "c": "Carol Anne Freeling",
+     "n": "Heather O'Rourke"
+    },
+    {
+     "c": "Robbie Freeling",
+     "n": "Oliver Robins"
+    },
+    {
+     "c": "Tangina Barrons",
+     "n": "Zelda Rubinstein"
+    },
+    {
+     "c": "Taylor",
+     "n": "Will Sampson"
+    },
+    {
+     "c": "Kane",
+     "n": "Julian Beck"
+    },
+    {
+     "c": "Gramma-Jess",
+     "n": "Geraldine Fitzgerald"
+    },
+    {
+     "c": "Old Indian",
+     "n": "John P. Whitecloud"
+    },
+    {
+     "c": "Vomit Creature",
+     "n": "Noble Craig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brian Gibson"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 11133,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Freeling family move in with Diane's mother in an effort to escape the trauma and aftermath of Carol Anne's abduction by the Beast. But the Beast is not to be put off so easily and appears in a ghostly apparition as the Reverend Kane, a religious zealot responsible for the deaths of his many followers. His goal is simple - he wants the angelic Carol Anne.",
+   "popularity": 3.1118,
+   "poster_path": "/tVQPv69XWIgzF5n1MRrTuhPyNr5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1986-05-23",
+   "revenue": 40996665,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"They're back.\"",
+   "title": "Poltergeist II: The Other Side",
+   "trailer": {
+    "key": "mjhr8EdGyD0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.999,
+   "vote_count": 822
+  },
   "movie:11333": {
    "backdrop_path": "/lprN6r3ufTAeCtRf1K1uD9eIska.jpg",
    "budget": 0,
@@ -476,6 +721,127 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 376
+  },
+  "movie:113833": {
+   "backdrop_path": "/ooN5xzaxFmf6EB66OzWUu4BIFgO.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Ned Weeks",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Felix Turner",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Bruce Niles",
+     "n": "Taylor Kitsch"
+    },
+    {
+     "c": "Tommy Boatwright",
+     "n": "Jim Parsons"
+    },
+    {
+     "c": "Ben Weeks",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Dr. Emma Brookner",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Mickey Marcus",
+     "n": "Joe Mantello"
+    },
+    {
+     "c": "Buzzy",
+     "n": "BD Wong"
+    },
+    {
+     "c": "Craig",
+     "n": "Jonathan Groff"
+    },
+    {
+     "c": "Sanford",
+     "n": "Stephen Spinella"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18+",
+   "date_kind": "release",
+   "director": [
+    "Ryan Murphy"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 113833,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of the onset of the HIV-AIDS crisis in New York City in the early 1980s, taking an unflinching look at the nation's sexual politics as gay activists and their allies in the medical community fight to expose the truth about the burgeoning epidemic to a city and nation in denial.",
+   "popularity": 1.9528,
+   "poster_path": "/8OJ6qcMSHqEIROdoCsp1w2UrCSC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2014-05-31",
+   "revenue": 0,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To win a war, You have to start one",
+   "title": "The Normal Heart",
+   "trailer": {
+    "key": "QXl_mat0ef0",
+    "name": "The Normal Heart: Trailer (HBO Films)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 941
   },
   "movie:11633": {
    "backdrop_path": "/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
@@ -939,6 +1305,112 @@
    "vote_average": 6.617,
    "vote_count": 145
   },
+  "movie:127533": {
+   "backdrop_path": "/2bHoj05gR7I5gp4oeoDCY6bU42d.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kenshin Himura",
+     "n": "Takeru Satoh"
+    },
+    {
+     "c": "Kaoru Kamiya",
+     "n": "Emi Takei"
+    },
+    {
+     "c": "Udo Jine",
+     "n": "Koji Kikkawa"
+    },
+    {
+     "c": "Megumi Takani",
+     "n": "Yu Aoi"
+    },
+    {
+     "c": "Sanosuke Sagara",
+     "n": "Munetaka Aoki"
+    },
+    {
+     "c": "Gein",
+     "n": "Go Ayano"
+    },
+    {
+     "c": "Banjin Inui",
+     "n": "Genki Sudo"
+    },
+    {
+     "c": "Yahiko Myojin",
+     "n": "Taketo Tanaka"
+    },
+    {
+     "c": "Aritomo Yamagata",
+     "n": "Eiji Okuda"
+    },
+    {
+     "c": "Hajime Saito",
+     "n": "Yosuke Eguchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Keishi Otomo"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "War",
+    "History"
+   ],
+   "id": 127533,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.",
+   "popularity": 4.7421,
+   "poster_path": "/vo3Zs07PZfKNsTrU0pcPZONJcN5.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2012-08-25",
+   "revenue": 61700000,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The journey begins.",
+   "title": "Rurouni Kenshin Part I: Origins",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 966
+  },
   "movie:13633": {
    "backdrop_path": "/yIpaahwOBk4uVUBNcHkoZdcXPCK.jpg",
    "budget": 0,
@@ -1112,6 +1584,113 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 325
+  },
+  "movie:14533": {
+   "backdrop_path": "/4ppGUPBhWrMdYlIiJFmkplRQ9KJ.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Gia",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Linda",
+     "n": "Elizabeth Mitchell"
+    },
+    {
+     "c": "T.J.",
+     "n": "Eric Michael Cole"
+    },
+    {
+     "c": "Stephanie",
+     "n": "Kylie Travis"
+    },
+    {
+     "c": "Joe Carangi",
+     "n": "Louis Giambalvo"
+    },
+    {
+     "c": "Bruce Cooper",
+     "n": "John Considine"
+    },
+    {
+     "c": "Mike Mansfield",
+     "n": "Scott Cohen"
+    },
+    {
+     "c": "Francesco",
+     "n": "Edmund Genest"
+    },
+    {
+     "c": "Kathleen Carangi",
+     "n": "Mercedes Ruehl"
+    },
+    {
+     "c": "Wilhelmina Cooper",
+     "n": "Faye Dunaway"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Cristofer"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "TV Movie"
+   ],
+   "id": 14533,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gia Carangi meteorically rises to modeling fame in the late 1970s but becomes overconsumed by persistent loneliness and drug addiction.",
+   "popularity": 4.058,
+   "poster_path": "/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1998-09-22",
+   "revenue": 0,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Too beautiful to die. Too wild to live.",
+   "title": "Gia",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.097,
+   "vote_count": 867
   },
   "movie:1630433": {
    "backdrop_path": "/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
@@ -1291,6 +1870,144 @@
    "vote_average": 6.8,
    "vote_count": 24
   },
+  "movie:172533": {
+   "backdrop_path": "/d8CHsjcTWV7HylrAXdR9UtY3HFG.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Kate",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Luke",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Jill",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Chris",
+     "n": "Ron Livingston"
+    },
+    {
+     "c": "Dave",
+     "n": "Ti West"
+    },
+    {
+     "c": "Gene Dentler",
+     "n": "Jason Sudeikis"
+    },
+    {
+     "c": "Mike",
+     "n": "Mike Brune"
+    },
+    {
+     "c": "Frank",
+     "n": "Frank V. Ross"
+    },
+    {
+     "c": "Man with Fiance",
+     "n": "Michael Gaertner"
+    },
+    {
+     "c": "Fiance",
+     "n": "Kristin Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joe Swanberg"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 172533,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Weekend trips, office parties, late night conversations, drinking on the job, marriage pressure, biological clocks, holding eye contact a second too long… you know what makes the line between “friends” and “more than friends” really blurry? Beer.",
+   "popularity": 1.8033,
+   "poster_path": "/iunbsMWtkwfrtRzU7hdCHhPjjJf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2013-08-26",
+   "revenue": 343341,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about knowing when to say when.",
+   "title": "Drinking Buddies",
+   "trailer": {
+    "key": "Dj9Q92s97Uc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.956,
+   "vote_count": 900
+  },
   "movie:174733": {
    "backdrop_path": "/q2B3bjLYcxGG11ThDr8gyzCIGAv.jpg",
    "budget": 13000000,
@@ -1441,6 +2158,246 @@
    "type": "movie",
    "vote_average": 6.653,
    "vote_count": 395
+  },
+  "movie:19833": {
+   "backdrop_path": "/baRFkHjBNSEF2frf0Gh8dZBFewl.jpg",
+   "budget": 1100000,
+   "cast": [
+    {
+     "c": "Malcolm Tucker",
+     "n": "Peter Capaldi"
+    },
+    {
+     "c": "Simon Foster",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Judy Molloy",
+     "n": "Gina McKee"
+    },
+    {
+     "c": "Lt Gen. George Miller",
+     "n": "James Gandolfini"
+    },
+    {
+     "c": "Toby Wright",
+     "n": "Chris Addison"
+    },
+    {
+     "c": "Liza Weld",
+     "n": "Anna Chlumsky"
+    },
+    {
+     "c": "Jamie McDonald",
+     "n": "Paul Higgins"
+    },
+    {
+     "c": "Karen Clarke",
+     "n": "Mimi Kennedy"
+    },
+    {
+     "c": "Sir Jonathan Tutt",
+     "n": "Alex Macqueen"
+    },
+    {
+     "c": "Suzy",
+     "n": "Olivia Poulet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Armando Iannucci"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 19833,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The US President and the UK Prime Minister are planning on launching a war in the Middle East, but—behind the scenes—government officials and advisers are either promoting the war or are trying to prevent it.",
+   "popularity": 2.2844,
+   "poster_path": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "IFC Films Unlimited Apple TV channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lJ8Lh0SMfJgfWTV3rpFUjuaH26q.png",
+     "name": "IFC Films Unlimited Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2009-01-22",
+   "revenue": 6200000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The fate of the world is on the line.",
+   "title": "In the Loop",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.01,
+   "vote_count": 830
   },
   "movie:21733": {
    "backdrop_path": "/5KwIMLRVOfwVmYId7IEkhF5vssp.jpg",
@@ -2077,6 +3034,106 @@
    "vote_average": 6.913,
    "vote_count": 410
   },
+  "movie:310133": {
+   "backdrop_path": "/qNwmXl9QyK37cmZHaLEU1xZyZd6.jpg",
+   "budget": 800000,
+   "cast": [
+    {
+     "c": "Sheriff Kretzer",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Travis",
+     "n": "James Freedson-Jackson"
+    },
+    {
+     "c": "Harrison",
+     "n": "Hays Wellford"
+    },
+    {
+     "c": "Bev",
+     "n": "Camryn Manheim"
+    },
+    {
+     "c": "Man",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "Motorcycle Cop",
+     "n": "Sean Hartley"
+    },
+    {
+     "c": "Dispatch",
+     "n": "Kyra Sedgwick"
+    },
+    {
+     "c": "Waiter",
+     "n": "Loi Nguyen"
+    },
+    {
+     "c": "Hostess",
+     "n": "Sit Lenh"
+    },
+    {
+     "c": "Officer",
+     "n": "Chuck Kull"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jon Watts"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 310133,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two kids find themselves in the centre of a deadly game of cat and mouse after taking a sheriff's cruiser for a joy ride.",
+   "popularity": 1.9406,
+   "poster_path": "/6MCvmPcMdbmdsIeRNQhKzLcZorP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2015-07-08",
+   "revenue": 143658,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their first drive could be their last.",
+   "title": "Cop Car",
+   "trailer": {
+    "key": "MBK_9GlVlc0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.0,
+   "vote_count": 959
+  },
   "movie:327833": {
    "backdrop_path": "/y6C5I2qSvkwTmgBgSEIzpw4BtFF.jpg",
    "budget": 10000000,
@@ -2645,6 +3702,156 @@
    "type": "movie",
    "vote_average": 8.2,
    "vote_count": 301
+  },
+  "movie:429733": {
+   "backdrop_path": "/oQP46uMjvAwnrccweiggJqraDuR.jpg",
+   "budget": 2500000,
+   "cast": [
+    {
+     "c": "Derek Cho",
+     "n": "Steven Yeun"
+    },
+    {
+     "c": "Melanie Cross",
+     "n": "Samara Weaving"
+    },
+    {
+     "c": "John Towers",
+     "n": "Steven Brand"
+    },
+    {
+     "c": "Kara Powell",
+     "n": "Caroline Chikezie"
+    },
+    {
+     "c": "Irene Smythe",
+     "n": "Kerry Fox"
+    },
+    {
+     "c": "Lester McGill",
+     "n": "Dallas Roberts"
+    },
+    {
+     "c": "Ewan Niles",
+     "n": "Mark Frost"
+    },
+    {
+     "c": "Colton Snyder",
+     "n": "André Eriksen"
+    },
+    {
+     "c": "Meg",
+     "n": "Claire Dellamar"
+    },
+    {
+     "c": "Oswald",
+     "n": "Nikola Kent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Joe Lynch"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Horror"
+   ],
+   "id": 429733,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A virus spreads through an office complex, causing white-collar workers to act out their worst impulses.",
+   "popularity": 2.3035,
+   "poster_path": "/yFmzgX2YLWnsCi1csyKPNBHPVYB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-11-10",
+   "revenue": 17366,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hostile. Work. Environment.",
+   "title": "Mayhem",
+   "trailer": {
+    "key": "iJJGAInln0c",
+    "name": "Mayhem - OFFICIAL TRAILER",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.446,
+   "vote_count": 864
   },
   "movie:501633": {
    "backdrop_path": "/5IseU9V6zu6T3ZQrPdTjke2WNbz.jpg",
@@ -3263,6 +4470,191 @@
    "vote_average": 6.627,
    "vote_count": 351
   },
+  "movie:6933": {
+   "backdrop_path": "/gbTyTv6mQ1nbdt2jITzmWYNQRpk.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Beth Raymond",
+     "n": "Shannyn Sossamon"
+    },
+    {
+     "c": "Jack Andrews",
+     "n": "Edward Burns"
+    },
+    {
+     "c": "Taylor Anthony",
+     "n": "Ana Claudia Talancón"
+    },
+    {
+     "c": "Ted Summers",
+     "n": "Ray Wise"
+    },
+    {
+     "c": "Leann Cole",
+     "n": "Azura Skye"
+    },
+    {
+     "c": "Brian Sousa",
+     "n": "Johnny Lewis"
+    },
+    {
+     "c": "Shelley Baum",
+     "n": "Meagan Good"
+    },
+    {
+     "c": "Ray Purvis",
+     "n": "Jason Beghe"
+    },
+    {
+     "c": "Marie Layton",
+     "n": "Rhoda Griffis"
+    },
+    {
+     "c": "Ellie Layton",
+     "n": "Ariel Winter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Eric Valette"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 6933,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Several people start receiving voice-mails from their future selves -- messages which include the date, time, and some of the details of their deaths.",
+   "popularity": 2.1672,
+   "poster_path": "/hR0pZVdQ4qxROPRfptRrAzFFPwf.jpg",
+   "production_countries": [
+    "US",
+    "JP",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-01-04",
+   "revenue": 45847751,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What will it sound like when you die?",
+   "title": "One Missed Call",
+   "trailer": {
+    "key": "H9-fOJHnjm0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.368,
+   "vote_count": 827
+  },
   "movie:718633": {
    "backdrop_path": "/iwyKRyOFlOZ1fBdONscHiDEcEgz.jpg",
    "budget": 11000000,
@@ -3777,6 +5169,162 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 334
+  },
+  "movie:839033": {
+   "backdrop_path": "/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Helm Hammerhand (voice)",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Héra (voice)",
+     "n": "Gaia Wise"
+    },
+    {
+     "c": "Wulf (voice)",
+     "n": "Luke Pasqualino"
+    },
+    {
+     "c": "Fréaláf (voice)",
+     "n": "Laurence Ubong Williams"
+    },
+    {
+     "c": "Olwyn (voice)",
+     "n": "Lorraine Ashbourne"
+    },
+    {
+     "c": "Éowyn (voice)",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Freca (voice)",
+     "n": "Shaun Dooley"
+    },
+    {
+     "c": "Haleth (voice)",
+     "n": "Benjamin Wainwright"
+    },
+    {
+     "c": "Háma (voice)",
+     "n": "Yazdan Qafouri"
+    },
+    {
+     "c": "General Targg (voice)",
+     "n": "Michael Wildman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Kenji Kamiyama"
+   ],
+   "genres": [
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Action"
+   ],
+   "id": 839033,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+   "popularity": 8.3526,
+   "poster_path": "/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+   "production_countries": [
+    "JP",
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-12-13",
+   "revenue": 20658572,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hope has yet to abandon these lands.",
+   "title": "The Lord of the Rings: The War of the Rohirrim",
+   "trailer": {
+    "key": "gCUg6Td5fgQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.496,
+   "vote_count": 986
   },
   "tv:117933": {
    "backdrop_path": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",

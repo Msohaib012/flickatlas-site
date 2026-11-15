@@ -1,7 +1,119 @@
 {
  "bucket": "12",
- "count": 50,
+ "count": 58,
  "titles": {
+  "movie:10012": {
+   "backdrop_path": "/aJ4s9UjVdmkmsnx9NHpmdUqZxlz.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Ellie",
+     "n": "Christina Ricci"
+    },
+    {
+     "c": "Jake",
+     "n": "Joshua Jackson"
+    },
+    {
+     "c": "Jimmy",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Joannie",
+     "n": "Judy Greer"
+    },
+    {
+     "c": "Scott Baio",
+     "n": "Scott Baio"
+    },
+    {
+     "c": "Bo",
+     "n": "Milo Ventimiglia"
+    },
+    {
+     "c": "Brooke",
+     "n": "Kristina Anapau"
+    },
+    {
+     "c": "Zela",
+     "n": "Portia de Rossi"
+    },
+    {
+     "c": "Becky",
+     "n": "Shannon Elizabeth"
+    },
+    {
+     "c": "Jenny",
+     "n": "Mya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wes Craven"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 10012,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A werewolf loose in Los Angeles changes the lives of three young adults who, after being mauled by the beast, learn that the only way to break the curse put upon them is to kill the one who started it all.",
+   "popularity": 2.3745,
+   "poster_path": "/em45jL4CfTMyj5V83kj7rhdorJu.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-02-25",
+   "revenue": 19300000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beware the full moon.",
+   "title": "Cursed",
+   "trailer": {
+    "key": "_e56-jMfL9I",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.284,
+   "vote_count": 917
+  },
   "movie:103112": {
    "backdrop_path": "/tN7oA9zSQQICIPxBr3xS1ekFrLR.jpg",
    "budget": 2200000,
@@ -1090,6 +1202,156 @@
    "vote_average": 6.4,
    "vote_count": 490
   },
+  "movie:13312": {
+   "backdrop_path": "/iumvooyF68waPmQUJ5gfxAurEWi.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Sarah Scarangelo",
+     "n": "Alysson Paradis"
+    },
+    {
+     "c": "The Woman",
+     "n": "Béatrice Dalle"
+    },
+    {
+     "c": "Louise Scarangelo",
+     "n": "Nathalie Roussel"
+    },
+    {
+     "c": "Jean-Pierre Montalban",
+     "n": "François-Régis Marchasson"
+    },
+    {
+     "c": "Matthieu",
+     "n": "Jean-Baptiste Tabourin"
+    },
+    {
+     "c": "The Nurse",
+     "n": "Dominique Frot"
+    },
+    {
+     "c": "The Doctor",
+     "n": "Claude Lulé"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Hyam Zaytoun"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Tahar Rahim"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Emmanuel Guez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Julien Maury",
+    "Alexandre Bustillo"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 13312,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Months after a tragic accident, Sarah, a young pregnant woman, must spend Christmas Eve alone in her house before giving birth the next day. But in the middle of the night, a creepy visitor knocks at her door willing to do anything to get what they want, setting off a night of pure terror.",
+   "popularity": 3.2085,
+   "poster_path": "/7gPOYKxoBzhfC8cLNMU3CKgURcm.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-06-13",
+   "revenue": 792184,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Terror comes calling.",
+   "title": "Inside",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.754,
+   "vote_count": 994
+  },
   "movie:1376412": {
    "backdrop_path": "/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg",
    "budget": 0,
@@ -2050,6 +2312,199 @@
    "vote_average": 7.0,
    "vote_count": 456
   },
+  "movie:20312": {
+   "backdrop_path": "/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Neal Oliver",
+     "n": "James Marsden"
+    },
+    {
+     "c": "O.W. Grant",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Lynn Linden",
+     "n": "Amy Smart"
+    },
+    {
+     "c": "Ray",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Bob Cody",
+     "n": "Chris Cooper"
+    },
+    {
+     "c": "Quincy",
+     "n": "Matthew Edison"
+    },
+    {
+     "c": "Tolbert",
+     "n": "Wayne Robson"
+    },
+    {
+     "c": "Mr. Baker",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Dad",
+     "n": "John Bourgeois"
+    },
+    {
+     "c": "Sally",
+     "n": "Melyssa Ade"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bob Gale"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 20312,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
+   "popularity": 2.5506,
+   "poster_path": "/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Warriors and Gangsters Amazon Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png",
+     "name": "Warriors and Gangsters Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-04-13",
+   "revenue": 0,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It began as a wish, became an adventure, and ended as the ultimate road trip.",
+   "title": "Interstate 60",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.405,
+   "vote_count": 862
+  },
   "movie:21712": {
    "backdrop_path": "/19SRSM2ybfVpCBxBFLXwyD18WkM.jpg",
    "budget": 0,
@@ -2331,6 +2786,192 @@
    "type": "movie",
    "vote_average": 6.095,
    "vote_count": 465
+  },
+  "movie:2312": {
+   "backdrop_path": "/5M187YumwzNjEdc4AH14dl9yAeB.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Farmer",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Gallian",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Muriella",
+     "n": "Leelee Sobieski"
+    },
+    {
+     "c": "Merick",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "King Konreid",
+     "n": "Burt Reynolds"
+    },
+    {
+     "c": "Duke Fallow",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Tarish",
+     "n": "Brian J. White"
+    },
+    {
+     "c": "Solana",
+     "n": "Claire Forlani"
+    },
+    {
+     "c": "Norick",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Elora",
+     "n": "Kristanna Loken"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Uwe Boll"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 2312,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man named Farmer sets out to rescue his kidnapped wife and avenge the death of his son – two acts committed by the Krugs, a race of animal-warriors who are controlled by the evil Gallian.",
+   "popularity": 2.8284,
+   "poster_path": "/bbN1lmDk1PT0GsTFCy179sk5nIF.jpg",
+   "production_countries": [
+    "CA",
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+     "name": "Hulu",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2007-11-29",
+   "revenue": 13097915,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Rise and Fight",
+   "title": "In the Name of the King: A Dungeon Siege Tale",
+   "trailer": {
+    "key": "Jo1zfiEeZZs",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 4.776,
+   "vote_count": 974
   },
   "movie:29912": {
    "backdrop_path": "/nWCcl7iY718qikjbYfERstvcBrn.jpg",
@@ -2677,6 +3318,152 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 478
+  },
+  "movie:350312": {
+   "backdrop_path": "/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg",
+   "budget": 31000000,
+   "cast": [
+    {
+     "c": "Mahendra 'Sivudu' Bāhubali / Amarendra Bāhubali",
+     "n": "Prabhas"
+    },
+    {
+     "c": "Bhallaladeva",
+     "n": "Rana Daggubati"
+    },
+    {
+     "c": "Devasena",
+     "n": "Anushka Shetty"
+    },
+    {
+     "c": "Karikala Kattappa Nadar",
+     "n": "Sathyaraj"
+    },
+    {
+     "c": "Bijjaladeva",
+     "n": "Nassar"
+    },
+    {
+     "c": "Sivagami",
+     "n": "Ramya Krishnan"
+    },
+    {
+     "c": "Kumara Varma",
+     "n": "Subbaraju"
+    },
+    {
+     "c": "Avanthika",
+     "n": "Tamannaah Bhatia"
+    },
+    {
+     "c": "Official in Kunthala Kingdom",
+     "n": "Prudhviraj"
+    },
+    {
+     "c": "Sanga",
+     "n": "Rohini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "S. S. Rajamouli"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 350312,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "te",
+   "overview": "When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+   "popularity": 4.8182,
+   "poster_path": "/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2017-04-28",
+   "revenue": 280700000,
+   "runtime": 167,
+   "source": "catalogue",
+   "spoken_languages": [
+    "te"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bāhubali 2: The Conclusion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.488,
+   "vote_count": 906
   },
   "movie:367412": {
    "backdrop_path": "/sO70LyX3CHDNimbUwdGqL6pjrD3.jpg",
@@ -3599,6 +4386,116 @@
    "vote_average": 7.932,
    "vote_count": 387
   },
+  "movie:49012": {
+   "backdrop_path": "/p2h886S7r4znUYvp1ELOTq7jqUZ.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Arthur",
+     "n": "Russell Brand"
+    },
+    {
+     "c": "Hobson",
+     "n": "Helen Mirren"
+    },
+    {
+     "c": "Naomi Quinn",
+     "n": "Greta Gerwig"
+    },
+    {
+     "c": "Susan Johnson",
+     "n": "Jennifer Garner"
+    },
+    {
+     "c": "Vivienne",
+     "n": "Geraldine James"
+    },
+    {
+     "c": "Bitterman",
+     "n": "Luis Guzmán"
+    },
+    {
+     "c": "Burt Johnson",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Naomi's Dad",
+     "n": "Peter Van Wagner"
+    },
+    {
+     "c": "Tiffany",
+     "n": "Christina Jacquelyn Calph"
+    },
+    {
+     "c": "Peter, Candy Store Manager",
+     "n": "John Hodgman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jason Winer"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 49012,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A drunken playboy stands to lose a wealthy inheritance when he falls for a woman that his family doesn't like.",
+   "popularity": 2.8336,
+   "poster_path": "/foUTAJurvnbUoIUbnuUk5dyHx7M.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2011-04-08",
+   "revenue": 48147945,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Meet the world's only loveable billionaire.",
+   "title": "Arthur",
+   "trailer": {
+    "key": "SiJvHi-dUVU",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.552,
+   "vote_count": 830
+  },
   "movie:517412": {
    "backdrop_path": "/4tphk3VbqoRtCVuOzlEQxUrpR6c.jpg",
    "budget": 5000000,
@@ -4147,6 +5044,167 @@
    "type": "movie",
    "vote_average": 8.4,
    "vote_count": 311
+  },
+  "movie:626412": {
+   "backdrop_path": "/wG2WlIxdYDTdFrHm4WUj6oOjjQS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Muruk",
+     "n": "Ryu Jun-yeol"
+    },
+    {
+     "c": "Ean",
+     "n": "Kim Tae-ri"
+    },
+    {
+     "c": "Guard / Thunder",
+     "n": "Kim Woo-bin"
+    },
+    {
+     "c": "Min Gaelin",
+     "n": "Lee Hanee"
+    },
+    {
+     "c": "Madam Black",
+     "n": "Yum Jung-ah"
+    },
+    {
+     "c": "Mr. Blue",
+     "n": "Jo Woo-jin"
+    },
+    {
+     "c": "Jajang / Doctor",
+     "n": "Kim Eui-sung"
+    },
+    {
+     "c": "Nong-pa",
+     "n": "Jin Sun-kyu"
+    },
+    {
+     "c": "Right Paw",
+     "n": "Shin Jung-keun"
+    },
+    {
+     "c": "Sam-sik",
+     "n": "Yoon Kyung-ho"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "M",
+   "date_kind": "release",
+   "director": [
+    "Choi Dong-hoon"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 626412,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+   "popularity": 2.0651,
+   "poster_path": "/4RClncz0GTKPZzSAcAalHCw0h3g.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Fandor"
+    },
+    {
+     "name": "Fandor Amazon Channel"
+    },
+    {
+     "name": "Rakuten Viki"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "Midnight Pulp Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2024-01-10",
+   "revenue": 10824208,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At long last, all secrets shall be unveiled.",
+   "title": "Alienoid: Return to the Future",
+   "trailer": {
+    "key": "s3MawvrYNH4",
+    "name": "Official Int’l Main Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 877
   },
   "movie:7012": {
    "backdrop_path": "/AfBGTLp9JtsWNUJC6rP1U1XCPCE.jpg",
@@ -5109,6 +6167,211 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 396
+  },
+  "movie:9912": {
+   "backdrop_path": "/qKxAghWoR2M8ZIheMpbHp8jeXFi.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Burt Munro",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Marty Dickerson",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Ada",
+     "n": "Diane Ladd"
+    },
+    {
+     "c": "Jerry",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "George",
+     "n": "Iain Rea"
+    },
+    {
+     "c": "Sarah",
+     "n": "Tessa Mitchell"
+    },
+    {
+     "c": "Tom",
+     "n": "Aaron Murphy"
+    },
+    {
+     "c": "Frank",
+     "n": "Tim Shadbolt"
+    },
+    {
+     "c": "Fran",
+     "n": "Annie Whittle"
+    },
+    {
+     "c": "Duncan",
+     "n": "Greg Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roger Donaldson"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure",
+    "History"
+   ],
+   "id": 9912,
+   "industry": "world",
+   "origin_country": [
+    "NZ",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle—a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+   "popularity": 4.0453,
+   "poster_path": "/vUIwPFAAXeCUuS040uGC0xSatcG.jpg",
+   "production_countries": [
+    "NZ",
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Dox Amazon Channel"
+    },
+    {
+     "name": "Magnolia Selects Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/t9kQOukUOI9EcnXN5vtV76HbTfO.png",
+     "name": "Dox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/jGDWtSHBVsAAwJbLONwxR0SquXf.png",
+     "name": "Magnolia Selects Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-10-12",
+   "revenue": 18300000,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Based on one hell of a true story.",
+   "title": "The World's Fastest Indian",
+   "trailer": {
+    "key": "02Yy1vihIKs",
+    "name": "The Worlds Fastest Indian HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.668,
+   "vote_count": 947
   },
   "tv:1412": {
    "backdrop_path": "/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",

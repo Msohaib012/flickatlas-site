@@ -1,6 +1,6 @@
 {
  "bucket": "81",
- "count": 49,
+ "count": 58,
  "titles": {
   "movie:1000081": {
    "backdrop_path": "/jzdVz28uko3lGxuHFYI4n9vPBBe.jpg",
@@ -464,6 +464,195 @@
    "vote_average": 6.484,
    "vote_count": 368
   },
+  "movie:11881": {
+   "backdrop_path": "/rSnMQ82mFlpBLRt2UvohO6sgemd.jpg",
+   "budget": 630000,
+   "cast": [
+    {
+     "c": "Doris Walker",
+     "n": "Maureen O'Hara"
+    },
+    {
+     "c": "Fred Gailey",
+     "n": "John Payne"
+    },
+    {
+     "c": "Kris Kringle",
+     "n": "Edmund Gwenn"
+    },
+    {
+     "c": "Judge Harper",
+     "n": "Gene Lockhart"
+    },
+    {
+     "c": "Susan Walker",
+     "n": "Natalie Wood"
+    },
+    {
+     "c": "Granville Sawyer",
+     "n": "Porter Hall"
+    },
+    {
+     "c": "Charlie Halloran",
+     "n": "William Frawley"
+    },
+    {
+     "c": "Thomas Mara",
+     "n": "Jerome Cowan"
+    },
+    {
+     "c": "Julian Shellhammer",
+     "n": "Philip Tonge"
+    },
+    {
+     "c": "Dr. Pierce (uncredited)",
+     "n": "James Seay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "George Seaton"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "id": 11881,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
+   "popularity": 5.2671,
+   "poster_path": "/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+     "name": "Disney Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1947-06-04",
+   "revenue": 2700000,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Capture the spirit of Christmas with this timeless classic!",
+   "title": "Miracle on 34th Street",
+   "trailer": {
+    "key": "kUwyGo6PQzY",
+    "name": "Miracle On 34th Street | #TBT Trailer | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.368,
+   "vote_count": 885
+  },
   "movie:12281": {
    "backdrop_path": "/lFjONSYWA01SFDxnwRLxjUrh0GR.jpg",
    "budget": 500000,
@@ -613,6 +802,120 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 432
+  },
+  "movie:12481": {
+   "backdrop_path": "/993ZXFkyHGltND6AvlrVlVsveyM.jpg",
+   "budget": 100000,
+   "cast": [
+    {
+     "c": "Cheng Chiu On",
+     "n": "Bruce Lee"
+    },
+    {
+     "c": "Chiao Mei",
+     "n": "Maria Yi"
+    },
+    {
+     "c": "Hsiu Chien",
+     "n": "James Tien Chun"
+    },
+    {
+     "c": "Miss Wuman",
+     "n": "Marilyn Bautista"
+    },
+    {
+     "c": "Boss Mi",
+     "n": "Han Ying-chieh"
+    },
+    {
+     "c": "Boss Mi's son",
+     "n": "Tony Liu Tian-jue"
+    },
+    {
+     "c": "Ah Kun",
+     "n": "Li Kun"
+    },
+    {
+     "c": "Lemonade girl",
+     "n": "Nora Miao"
+    },
+    {
+     "c": "Ah Shan",
+     "n": "Kam Shan"
+    },
+    {
+     "c": "Factory manager",
+     "n": "Chan Chue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lo Wei"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "id": 12481,
+   "industry": "world",
+   "origin_country": [
+    "HK"
+   ],
+   "original_language": "zh",
+   "overview": "Cheng is a young Chinese mainlander who moves in with his expatriate cousins to work at an ice factory in Thailand. He does this with a family promise never to get involved in any fights. However, when members of his family begin disappearing after meeting the management of the factory, the resulting mystery and pressures force him to break that vow and take on the villainy of the Big Boss.",
+   "popularity": 4.5726,
+   "poster_path": "/9VFYDWYnAhXAgyqgs94lwNmMBbk.jpg",
+   "production_countries": [
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "Tencent Video"
+    },
+    {
+     "name": "FlixFling"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+     "name": "Tencent Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "1971-10-23",
+   "revenue": 0,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "vi",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Every limb of his body is a lethal weapon!!!",
+   "title": "The Big Boss",
+   "trailer": {
+    "key": "eFJmVD0qHHg",
+    "name": "Official Arrow Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.072,
+   "vote_count": 888
   },
   "movie:1258181": {
    "backdrop_path": "/rFST4zAaG20VSIxSvYO57nhkkV4.jpg",
@@ -2511,6 +2814,100 @@
    "vote_average": 7.563,
    "vote_count": 40
   },
+  "movie:167581": {
+   "backdrop_path": "/aCNfKTJstRM5LjbLRy2s3cOnNkE.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Marc Borgmann",
+     "n": "Hanno Koffler"
+    },
+    {
+     "c": "Kay Engel",
+     "n": "Max Riemelt"
+    },
+    {
+     "c": "Bettina Bischoff",
+     "n": "Katharina Schüttler"
+    },
+    {
+     "c": "Inge Borgmann",
+     "n": "Maren Kroymann"
+    },
+    {
+     "c": "Wolfgang Borgmann",
+     "n": "Luis Lamprecht"
+    },
+    {
+     "c": "Werner Brandt",
+     "n": "Attila Borlan"
+    },
+    {
+     "c": "Frank Richter",
+     "n": "Oliver Bröcker"
+    },
+    {
+     "c": "Herr Eiden",
+     "n": "Horst Krebs"
+    },
+    {
+     "c": "Gregor Limpinski",
+     "n": "Shenja Lacher"
+    },
+    {
+     "c": "Polizist",
+     "n": "Hassan Lazouane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Stephan Lacant"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 167581,
+   "industry": "world",
+   "origin_country": [
+    "DE"
+   ],
+   "original_language": "de",
+   "overview": "A promising career with the police, a baby on the way... Marc's life seems to be right on track. Then he meets fellow policeman Kay and during their regular jogs Marc experiences a never-before-felt sense of ease and effortlessness – and what it means to fall in love with another man.",
+   "popularity": 1.4387,
+   "poster_path": "/fNmiRDUoAPmfS6q6HW5OH7q4VYA.jpg",
+   "production_countries": [
+    "DE"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2013-05-27",
+   "revenue": 599721,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Free Fall",
+   "trailer": {
+    "key": "RvmOWDARyrM",
+    "name": "Free Fall - Trailer - Peccadillo Pictures",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.66,
+   "vote_count": 863
+  },
   "movie:17281": {
    "backdrop_path": "/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg",
    "budget": 3319355,
@@ -4015,6 +4412,238 @@
    "vote_average": 7.085,
    "vote_count": 317
   },
+  "movie:539181": {
+   "backdrop_path": "/beNLniUH5DLbLbiqQgAJkiIlgpw.jpg",
+   "budget": 1229578,
+   "cast": [
+    {
+     "c": "Kay",
+     "n": "Emily Mortimer"
+    },
+    {
+     "c": "Sam",
+     "n": "Bella Heathcote"
+    },
+    {
+     "c": "Edna",
+     "n": "Robyn Nevin"
+    },
+    {
+     "c": "Jamie",
+     "n": "Chris Bunton"
+    },
+    {
+     "c": "Constable Mike Adler",
+     "n": "Steve Rodgers"
+    },
+    {
+     "c": "Doctor Stanley",
+     "n": "Catherine Glavicic"
+    },
+    {
+     "c": "Alex",
+     "n": "Jeremy Stanford"
+    },
+    {
+     "c": "Grace",
+     "n": "Christina O'Neill"
+    },
+    {
+     "c": "Nursing Home Man",
+     "n": "John Browning"
+    },
+    {
+     "c": "Elderly Man",
+     "n": "Robin Northover"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Natalie Erika James"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 539181,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When elderly mother Edna inexplicably vanishes, her daughter rushes to the family's decaying home, finding clues of her increasing dementia scattered around the house in her absence.",
+   "popularity": 1.4901,
+   "poster_path": "/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "IFC Films Unlimited Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lJ8Lh0SMfJgfWTV3rpFUjuaH26q.png",
+     "name": "IFC Films Unlimited Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-07-17",
+   "revenue": 3238539,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everything Decays.",
+   "title": "Relic",
+   "trailer": {
+    "key": "XWhZDQkq0bw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.091,
+   "vote_count": 868
+  },
   "movie:5781": {
    "backdrop_path": "/79ofDLTW1ozMSYDNWhDYe5cQzAa.jpg",
    "budget": 0,
@@ -4325,6 +4954,180 @@
    "vote_average": 6.5,
    "vote_count": 363
   },
+  "movie:651881": {
+   "backdrop_path": "/sBtBtQ7DigbXx4o1rqp80Pzr1qa.jpg",
+   "budget": 9700000,
+   "cast": [
+    {
+     "c": "Suze Trappet",
+     "n": "Virginie Efira"
+    },
+    {
+     "c": "Jean-Baptiste 'JB' Cuchas",
+     "n": "Albert Dupontel"
+    },
+    {
+     "c": "Serge Blin",
+     "n": "Nicolas Marié"
+    },
+    {
+     "c": "Docteur Lint",
+     "n": "Jackie Berroyer"
+    },
+    {
+     "c": "Mr. Kurtzmann",
+     "n": "Philippe Uchan"
+    },
+    {
+     "c": "Adrien",
+     "n": "Bastien Ughetto"
+    },
+    {
+     "c": "Clara",
+     "n": "Marilou Aussilloux"
+    },
+    {
+     "c": "Le psy",
+     "n": "Michel Vuillermoz"
+    },
+    {
+     "c": "Mr. Tuttle",
+     "n": "Laurent Stocker"
+    },
+    {
+     "c": "Le chasseur publicité",
+     "n": "Terry Gilliam"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Albert Dupontel"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 651881,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "When 43-year-old hairdresser Suze Trappet finds out that she's seriously ill, she decides to go looking for a child she was forced to abandon when she was only 15. On her madcap bureaucratic quest she crosses paths with JB, a 50-year-old man in the middle of a burnout, and Mr. Blin, a blind archivist prone to overenthusiasm. The unlikely trio set off on a hilarious and poignant helterskelter journey across the city in search of Suze's long-lost child.",
+   "popularity": 2.0327,
+   "poster_path": "/iEzAKYpwdfFprRV39B7GxJoz9LV.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "France Channel Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+     "name": "France Channel Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2020-10-21",
+   "revenue": 16955173,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Bye Bye Morons",
+   "trailer": {
+    "key": "QnjEw9uw1Kg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.157,
+   "vote_count": 982
+  },
   "movie:78381": {
    "backdrop_path": "/AmeQAgUg0fTf9qztfkpmXg5sLul.jpg",
    "budget": 7000000,
@@ -4627,6 +5430,389 @@
    "vote_average": 6.696,
    "vote_count": 339
   },
+  "movie:81481": {
+   "backdrop_path": "/3xTS1lDlbpwg63slWSMeHdamOS1.jpg",
+   "budget": 2200000,
+   "cast": [
+    {
+     "c": "Kang In-ho",
+     "n": "Gong Yoo"
+    },
+    {
+     "c": "Seo Yoo-jin",
+     "n": "Jung Yu-mi"
+    },
+    {
+     "c": "Kim Yeon-doo",
+     "n": "Kim Hyeon-soo"
+    },
+    {
+     "c": "Jin Yoo-ri",
+     "n": "Jung In-seo"
+    },
+    {
+     "c": "Jeon Min-soo",
+     "n": "Baek Su-ho"
+    },
+    {
+     "c": "Principal / Principal's Brother",
+     "n": "Jang Kwang"
+    },
+    {
+     "c": "Yoon Ja-ae",
+     "n": "Kim Joo-ryoung"
+    },
+    {
+     "c": "Park Bo-hyeon",
+     "n": "Kim Min-sang"
+    },
+    {
+     "c": "Young-hoon",
+     "n": "Lim Hyun-sung"
+    },
+    {
+     "c": "Attorney Hwang",
+     "n": "Jeon Kuk-hwan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "18",
+   "date_kind": "release",
+   "director": [
+    "Hwang Dong-hyuk"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 81481,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "Based on actual events that took place at Gwangju Inhwa School for the hearing-impaired, where young deaf students were the victims of repeated sexual assaults by faculty members over a period of five years in the early 2000s.",
+   "popularity": 3.4537,
+   "poster_path": "/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [],
+   "providers_wtw": [],
+   "published_at": "2026-11-15",
+   "release_date": "2011-09-22",
+   "revenue": 31500000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "The hideous truth, concealed far too long.",
+   "title": "Silenced",
+   "trailer": {
+    "key": "SSZh4qb8ybs",
+    "name": "SILENCED - Official Int'l Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.159,
+   "vote_count": 831
+  },
+  "movie:8881": {
+   "backdrop_path": "/wWschc3KS0Fe2Rk01KR2tbFWmmL.jpg",
+   "budget": 58000000,
+   "cast": [
+    {
+     "c": "Ernesto Che Guevara",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Fidel Castro",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Camilo Cienfuegos",
+     "n": "Santiago Cabrera"
+    },
+    {
+     "c": "Ramiro Valdés Menéndez",
+     "n": "Vladimir Cruz"
+    },
+    {
+     "c": "Israel Pardo",
+     "n": "Alfredo de Quesada"
+    },
+    {
+     "c": "Jorge Sotus",
+     "n": "Jsu Garcia"
+    },
+    {
+     "c": "Leonardo Tamayo Núñez",
+     "n": "Kahlil Méndez"
+    },
+    {
+     "c": "Celia Sánchez",
+     "n": "Elvira Mínguez"
+    },
+    {
+     "c": "Joel Iglesias Leyva",
+     "n": "Andres Munar"
+    },
+    {
+     "c": "Lisa Howard",
+     "n": "Julia Ormond"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 8881,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ernesto Guevara, known as 'Che', leads a group of Cuban exiles under Fidel Castro in a revolution to overthrow Fulgencio Batista, the dictator of Cuba.",
+   "popularity": 2.5421,
+   "poster_path": "/jWgPiVTmJsHWKVjAy2gvSFUH9yA.jpg",
+   "production_countries": [
+    "US",
+    "ES",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Sundance Now"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uSoP5JLrUjHWDFikg9EJKcm7IvQ.png",
+     "name": "Sundance Now",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2008-09-05",
+   "revenue": 0,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Everyone knows the icon. Few know the man.",
+   "title": "Che: Part One",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 867
+  },
+  "movie:9081": {
+   "backdrop_path": "/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+   "budget": 2000000,
+   "cast": [
+    {
+     "c": "Jesse",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Celine",
+     "n": "Julie Delpy"
+    },
+    {
+     "c": "Main Character",
+     "n": "Wiley Wiggins"
+    },
+    {
+     "c": "Boat Car Guy",
+     "n": "Bill Wise"
+    },
+    {
+     "c": "Man in Car with P.A.",
+     "n": "Alex E. Jones"
+    },
+    {
+     "c": "Interviewed on Television",
+     "n": "Steven Soderbergh"
+    },
+    {
+     "c": "Bartender",
+     "n": "Ken Webster"
+    },
+    {
+     "c": "Angry Man in Jail",
+     "n": "Charles Gunning"
+    },
+    {
+     "c": "Young Girl Playing Paper Game",
+     "n": "Lorelei Linklater"
+    },
+    {
+     "c": "Young Boy Playing Paper Game",
+     "n": "Trevor Jack Brooks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Linklater"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 9081,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+   "popularity": 2.0509,
+   "poster_path": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2002-04-12",
+   "revenue": 3176880,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Dreams. What are they? An escape from reality or reality itself?",
+   "title": "Waking Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.463,
+   "vote_count": 996
+  },
   "movie:920081": {
    "backdrop_path": "/gvNmnvu13TPAewP54hvCyuHwNwR.jpg",
    "budget": 0,
@@ -4920,6 +6106,158 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 430
+  },
+  "movie:9681": {
+   "backdrop_path": "/1WQGyi1Z7823obW2dFMddriDgMQ.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Casanova",
+     "n": "Heath Ledger"
+    },
+    {
+     "c": "Francesca",
+     "n": "Sienna Miller"
+    },
+    {
+     "c": "Pucci",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Paprizzio",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Andrea",
+     "n": "Lena Olin"
+    },
+    {
+     "c": "Lupo",
+     "n": "Omid Djalili"
+    },
+    {
+     "c": "Donato",
+     "n": "Stephen Greif"
+    },
+    {
+     "c": "Dalfonso",
+     "n": "Ken Stott"
+    },
+    {
+     "c": "Casanova's Mother",
+     "n": "Helen McCrory"
+    },
+    {
+     "c": "Tito",
+     "n": "Leigh Lawson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lasse Hallström"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 9681,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With a reputation for seducing members of the opposite sex, regardless of their marital status, a notorious womanizer discovers a beauty who seems impervious to his charms. However, as he continues to pursue the indifferent lady, he finds himself falling in love.",
+   "popularity": 2.4425,
+   "poster_path": "/pp237jqOnlLojQfvCgJHv5yZofL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-15",
+   "release_date": "2005-12-25",
+   "revenue": 37700000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He won every woman's heart. She won his.",
+   "title": "Casanova",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.453,
+   "vote_count": 980
   },
   "movie:9781": {
    "backdrop_path": "/NH15yF3nLKyYpog18sy5ynnGBf.jpg",

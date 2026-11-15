@@ -1,6 +1,6 @@
 {
  "bucket": "78",
- "count": 47,
+ "count": 51,
  "titles": {
   "movie:10178": {
    "d": "The Caine Mutiny (1954): Drama/War film. Story: When a US Naval captain shows signs of mental… See cast, budget $2M, and TMDB rating 7.3/10.",
@@ -1256,6 +1256,70 @@
    "t": "American Ninja 2: The Confrontation (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1987"
   },
+  "movie:28978": {
+   "d": "The Circus (1928): Comedy/Drama film. Story: Charlie, a wandering tramp, becomes a circus handyman… See cast, budget $9M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hVla7xGSvz2z3Q81Nijax3zc5N5.jpg",
+   "industry": "world",
+   "k": "The Circus, The Circus movie, The Circus cast, The Circus story, The Circus box office collection, The Circus budget, The Circus review, The Circus rating, The Circus release date, The Circus Comedy, The Circus Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlie Chaplin"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Ernest Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "Merna Kennedy"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Crocker"
+     },
+     {
+      "@type": "Person",
+      "name": "George Davis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 930,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "The Circus (1928): Comedy/Drama film. Story: Charlie, a wandering tramp, becomes a circus handyman… See cast, budget $9M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Charlie Chaplin"
+     }
+    ],
+    "duration": "PT72M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hVla7xGSvz2z3Q81Nijax3zc5N5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=28978",
+    "name": "The Circus",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1928-01-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=28978"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Circus (1928)</h1>\n<p class=\"ssr-lead\">Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner&#x27;s stepdaughter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 January 1928</li><li>Runtime: 72 minutes</li><li>Director: Charlie Chaplin</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $9M</li><li>TMDB rating: 7.9/10 (930 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlie Chaplin as A Tramp</li><li>Al Ernest Garcia as The Circus Proprietor and Ring Master</li><li>Merna Kennedy as The Proprietor&#x27;s Step-Daughter Merna, a Circus Rider</li><li>Harry Crocker as Rex, a Tight Rope Walker</li><li>George Davis as A Magician</li><li>Henry Bergman as An Old Clown</li><li>Tiny Sandford as The Head Property Man</li><li>John Rand as An Assistant Property Man</li><li>Steve Murphy as A Pickpocket</li><li>Albert Austin as Clown (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li></ul>\n</article>",
+   "t": "The Circus (1928) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1928"
+  },
   "movie:31578": {
    "d": "Body Bags (1993): TV Movie/Horror film. Story: A horror anthology containing three stories: a female… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/40a2z21BPfsNjDJbhZ0WshZFDF.jpg",
@@ -1327,6 +1391,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Body Bags (1993)</h1>\n<p class=\"ssr-lead\">A horror anthology containing three stories: a female college student working a graveyard shift is terrorized by a serial killer; a hair transplant goes horribly wrong; and a baseball player loses an eye and gets a new one from a recently executed murderer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 August 1993</li><li>Runtime: 95 minutes</li><li>Director: John Carpenter, Tobe Hooper, Larry Sulkis</li><li>Genres: TV Movie, Horror</li><li>TMDB rating: 6.2/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Carpenter as Coroner</li><li>Tom Arnold as Man #1</li><li>Tobe Hooper as Man #2</li><li>Robert Carradine as Bill</li><li>Alex Datcher as Anne</li><li>Peter Jason as Gent</li><li>Molly Cheek as Divorcee</li><li>Wes Craven as Pasty Faced Man</li><li>Sam Raimi as Bill - Dead Attendant</li><li>David Naughton as Pete</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Peacock Premium, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel, Amazon Prime Video with Ads, Peacock Premium Plus, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "Body Bags (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
+  },
+  "movie:335778": {
+   "d": "Risen (2016): Action/Adventure film. Story: Clavius, a powerful Roman military tribune, and his… See cast, budget $20M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lvyU838cy3m0fKSfQIxN8grjxYr.jpg",
+   "industry": "world",
+   "k": "Risen, Risen movie, Risen cast, Risen story, Risen box office collection, Risen budget, Risen review, Risen rating, Risen release date, Risen trailer, Risen Action, Risen Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joseph Fiennes"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Firth"
+     },
+     {
+      "@type": "Person",
+      "name": "Cliff Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Felton"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Killeen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 992,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Risen (2016): Action/Adventure film. Story: Clavius, a powerful Roman military tribune, and his… See cast, budget $20M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kevin Reynolds"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lvyU838cy3m0fKSfQIxN8grjxYr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=335778",
+    "name": "Risen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=335778"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Risen (2016)</h1>\n<p class=\"ssr-lead\">Clavius, a powerful Roman military tribune, and his aide, Lucius, are tasked with solving the mystery of what happened to Jesus in the weeks following the crucifixion, in order to disprove the rumors of a risen Messiah and prevent an uprising in Jerusalem.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2016</li><li>Runtime: 107 minutes</li><li>Director: Kevin Reynolds</li><li>Genres: Action, Adventure, Drama, History, Mystery</li><li>Budget: $20M</li><li>TMDB rating: 6.3/10 (992 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joseph Fiennes as Clavius</li><li>Peter Firth as Pontius Pilate</li><li>Cliff Curtis as Yeshua</li><li>Tom Felton as Lucius</li><li>Mark Killeen as Antonius</li><li>María Botto as Mary Magdalene</li><li>Mish Boyko as John</li><li>Selva Rasalingam as James</li><li>Stewart Scudamore as Peter</li><li>Antonio Gil as Joseph of Arimathea</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Risen (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:370978": {
    "d": "Kiki: Love to Love (2016): Comedy/Romance film. Story: Through five stories, the movie addresses sex and… See cast and TMDB rating 6.1/10.",
@@ -1455,6 +1583,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Death Race: Beyond Anarchy (2018)</h1>\n<p class=\"ssr-lead\">Black Ops specialist Connor Gibson infiltrates a maximum security prison to take down legendary driver Frankenstein in a violent and brutal car race.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2018</li><li>Runtime: 111 minutes</li><li>Director: Don Michael Paul</li><li>Genres: Action, Thriller, Science Fiction</li><li>TMDB rating: 6.2/10 (409 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Danny Trejo as Goldberg</li><li>Zach McGowan as Connor Gibson</li><li>Danny Glover as Baltimore Bob</li><li>Frederick Koehler as Lists</li><li>Christine Marzano as Jane</li><li>Yennis Cheung Yan as Gipsy Rose</li><li>Nicholas Aaron as Johnny Law</li><li>Lorina Kamburova as Nazi Bitch</li><li>Julian Seager as The Fireman</li><li>Kellie Blaise as Lone Tech</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Death Race: Beyond Anarchy (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:522478": {
+   "d": "Peter Rabbit 2: The Runaway (2021): Comedy/Family film. Story: Peter Rabbit runs away from his human family when he… See cast and budget $45M.",
+   "img": "https://image.tmdb.org/t/p/w780/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+   "industry": "world",
+   "k": "Peter Rabbit 2: The Runaway, Peter Rabbit 2: The Runaway movie, Peter Rabbit 2: The Runaway cast, Peter Rabbit 2: The Runaway story, Peter Rabbit 2: The Runaway box office collection, Peter Rabbit 2: The Runaway budget, Peter Rabbit 2: The Runaway review, Peter Rabbit 2: The Runaway rating, Peter Rabbit 2: The Runaway release date, Peter Rabbit 2: The Runaway trailer, Peter Rabbit 2: The Runaway Comedy, Peter Rabbit 2: The Runaway Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James Corden"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose Byrne"
+     },
+     {
+      "@type": "Person",
+      "name": "Domhnall Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "David Oyelowo"
+     },
+     {
+      "@type": "Person",
+      "name": "Margot Robbie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 928,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Peter Rabbit 2: The Runaway (2021): Comedy/Family film. Story: Peter Rabbit runs away from his human family when he… See cast and budget $45M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Will Gluck"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=522478",
+    "name": "Peter Rabbit 2: The Runaway",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-03-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=522478"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Peter Rabbit 2: The Runaway (2021)</h1>\n<p class=\"ssr-lead\">Peter Rabbit runs away from his human family when he learns they are going to portray him in a bad light in their book. Soon, he crosses paths with an older rabbit who ropes him into a heist.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 March 2021</li><li>Runtime: 93 minutes</li><li>Director: Will Gluck</li><li>Genres: Comedy, Family, Adventure</li><li>Budget: $45M</li><li>TMDB rating: 7.0/10 (928 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James Corden as Peter Rabbit (voice)</li><li>Rose Byrne as Bea</li><li>Domhnall Gleeson as Mr. Thomas McGregor</li><li>David Oyelowo as Nigel Basil-Jones</li><li>Margot Robbie as Flopsy Rabbit / The Narrator (voice)</li><li>Elizabeth Debicki as Mopsy Rabbit (voice)</li><li>Aimee Horne as Cottontail Rabbit (voice)</li><li>Colin Moody as Benjamin Bunny (voice)</li><li>Lennie James as Barnabas (voice)</li><li>Damon Herriman as Tom Kitten (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Peter Rabbit 2: The Runaway (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:591278": {
    "d": "Game of Thrones: The Last Watch (2019): Documentary film. Story: For a year, acclaimed British filmmaker Jeanie Finlay… See cast and TMDB rating 7.0/10.",
@@ -1841,6 +2033,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Freejack (1992)</h1>\n<p class=\"ssr-lead\">Time-traveling bounty hunters find a doomed race-car driver in the past and bring him to 2009 New York, where his mind will be replaced with that of a terminally ill billionaire.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 1992</li><li>Runtime: 110 minutes</li><li>Director: Geoff Murphy</li><li>Genres: Science Fiction, Action, Crime, Drama</li><li>Budget: $30M</li><li>TMDB rating: 5.5/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emilio Estevez as Alex Furlong</li><li>Mick Jagger as Victor Vacendak</li><li>Rene Russo as Julie Redlund</li><li>Anthony Hopkins as Ian McCandless</li><li>Jonathan Banks as Mark Michelette</li><li>David Johansen as Brad Carter</li><li>Amanda Plummer as Nun</li><li>Frankie Faison as Eagle Man</li><li>Wilbur Fitzgerald as Earnhart</li><li>Esai Morales as Ripper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Freejack (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
+  },
+  "movie:988078": {
+   "d": "Through My Window: Across the Sea (2023): Romance/Drama film. Story: After a year of long-distance, Raquel and Ares… See cast and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zFsB4MB4BwVYE5tqXe9sYdCH3Vr.jpg",
+   "industry": "world",
+   "k": "Through My Window: Across the Sea, Through My Window: Across the Sea movie, Through My Window: Across the Sea cast, Through My Window: Across the Sea story, Through My Window: Across the Sea box office collection, Through My Window: Across the Sea budget, Through My Window: Across the Sea review, Through My Window: Across the Sea rating, Through My Window: Across the Sea release date, Through My Window: Across the Sea trailer, Through My Window: Across the Sea Romance, Through My Window: Across the Sea Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clara Galle"
+     },
+     {
+      "@type": "Person",
+      "name": "Julio Peña"
+     },
+     {
+      "@type": "Person",
+      "name": "Guillermo Lasheras"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalia Azahara"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Arbues"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 988,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Through My Window: Across the Sea (2023): Romance/Drama film. Story: After a year of long-distance, Raquel and Ares… See cast and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marçal Forés"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zFsB4MB4BwVYE5tqXe9sYdCH3Vr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=988078",
+    "name": "Through My Window: Across the Sea",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-06-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=988078"
+   },
+   "modified": "",
+   "published": "2026-11-15",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Through My Window: Across the Sea (2023)</h1>\n<p class=\"ssr-lead\">After a year of long-distance, Raquel and Ares reunite on a steamy beach trip. Faced with fresh flirtations and insecurities, will their love prevail?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 June 2023</li><li>Runtime: 110 minutes</li><li>Director: Marçal Forés</li><li>Genres: Romance, Drama, Comedy</li><li>TMDB rating: 6.6/10 (988 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clara Galle as Raquel</li><li>Julio Peña as Ares Hidalgo</li><li>Guillermo Lasheras as Yoshi</li><li>Natalia Azahara as Daniela</li><li>Hugo Arbues as Apolo Hidalgo</li><li>Eric Masip as Artemis Hidalgo</li><li>Andrea Chaparro as Vera</li><li>Emilia Lazo as Claudia</li><li>Ivan Lapadula as Gregory</li><li>Carla Tous as Anna</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Through My Window: Across the Sea (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "tv:108978": {
    "d": "Reacher (2022) is an Action & Adventure and Crime TV series. Explore its story: Jack Reacher, a veteran military police investigator…, cast, and 4 seasons.",
