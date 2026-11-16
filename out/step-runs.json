@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T16:52:13Z",
-    "run_id": "43737729456",
-    "status": "success",
-    "checked": {
-     "candidates": 345,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Mookuthi Amman 2 Tamil Nadu Box Office Collection Day 9: Nayanthara's Film Nears ₹26 Crore Worldwide Gross",
-      "Sharad Kapoor Viral Video: Sonu Sood & Salman Khan Come Forward To Help Actor After 'Please Help Me' Appeal",
-      "Ramayana Day 11 Collection Early Updates: Ranbir-Yash Get Their HIGHEST Grosser; Crosses 750 Cr In 2nd Weekend",
-      "Ramayana Set to Top 300 Crore at PVR INOX as Ram Gopal Varma Makes Unexpected Claim About Its Actual Budget",
-      "Bachchan's 'Jalsa' was earlier called Mansa, he sold it and bought it at a higher price",
-      "Ravie Dubey humbled by all the love for his portrayal of Lakshman in Ramayana, recalls feeling scared that he would disappoint everyone",
-      "Actor Chetan Hansraj reveals he played 7 characters in Nitesh Tiwari's Ramayana",
-      "An Influencer Literally Went As Slime To The Nickelodeon Kids' Choice Awards, And The Neon Dress Is Bonkers",
-      "I Rewatched Jackie Chan's Rumble In The Bronx And We Forget Why This Is Such A Gem",
-      "How To Watch I'm a Celebrity... Get Me Out Of Here! 2026 Online And Stream Reality Show For Free",
-      "‘WTF?’ SNL Fans Don’t Know Whether To Laugh Or Cry At Sketch That Hit Way Too Close To Home",
-      "I Threw On Avengers Endgame: Encore To Grab All The New Doomsday Scene Timestamps",
-      "Nicholas Hoult’s New Heist Movie Officially Faces a Hold-Up at the Box Office",
-      "‘MobLand’ Star’s New Thriller Officially Removed From Nearly 1K Theaters Ahead of Digital Release",
-      "Quentin Tarantino’s First Movie in 7 Years Officially Arrives in 10 Days",
-      "Ridley Scott’s Blade Runner Franchise Officially Returns in 10 Days",
-      "Nicolas Cage’s Football Biopic & More Prime Video Releases This Week",
-      "Benedict Cumberbatch’s Shocking Comedy & More HBO Max Releases This Week",
-      "Tom Hardy’s TV Finale, Sophie Thatcher’s Horror Series & More Paramount+ Releases This Week",
-      "Dafne Keen’s 2026 Horror Movie & More Hulu Releases This Week"
-     ],
-     "updated": [],
-     "count": 317,
-     "detail": "330 stories, 2 duplicates removed, 15 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-15T18:52:07Z",
     "run_id": "43749012104",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "444 stories, 3 duplicates removed, 9 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T19:51:32Z",
-    "run_id": "43754661735",
+    "run_at": "2026-11-16T17:52:15Z",
+    "run_id": "43922577830",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 473,
+     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
     },
     "changed": {
      "added": [
-      "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
-      "Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff",
-      "418 OTT Release Date: Telugu Horror Thriller Eyed for November Digital Premiere",
-      "Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates"
+      "EXCLUSIVE! Ramayana's ‘Shatrughan’ Nitish Sharma Reacts To Kartik Aaryan Lookalike Comments: 'I Find Them…'",
+      "Ramayana box office collection day 12: Ranbir Kapoor and Yash’s epic inches towards  ₹800 crore milestone despite 57% drop on second Monday",
+      "Zendaya, Margaret Qualley or Inde Navarrette opposite Robert Pattinson's James Bond?: The ultimate Bond Girl wishlist",
+      "‘Show the world his star power’: Producer hails Suriya’s Rs 860 crore 2026 box office run",
+      "Film body lauds Salman Khan and Sonu Sood for offering help to Sharad Kapoor",
+      "Sunny Deol’s Suryaa delayed over CBFC clearance; makers say ‘View film objectively’",
+      "Anirudh Ravichander shuts down career break rumours: ‘The best is yet to come’",
+      "Javed Akhtar recalls meeting Jawaharlal Nehru months before his death: ‘Unforgettable moment’",
+      "Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo",
+      "‘I have two daughters now’: Amala opens up about Sobhita Dhulipala and Zainab Ravdjee",
+      "Malgudi Days’ Swami, Manjunath, lost his dad at 15, was jobless at 17, now shapes policy",
+      "Tiger Shroff returns to work after shooting incident, resumes filming with Janhvi Kapoor",
+      "I'm Glad Even Chris Pratt Is Talking Guardians Of The Galaxy Now James Gunn's Schedule Is Wide Open",
+      "Sydney Sweeney’s 104-Minute Thriller Officially Hits 275 Days on Apple TV Charts",
+      "6 Superhero Movies From the 2000s That Are 10/10 Masterpieces",
+      "One of Britain’s Longest-Running Sitcoms Officially Eyes a Comeback",
+      "Dennis Quaid Reveals Rescue Dogs Stole the Show in Netflix Christmas Movie | Interview",
+      "Kevin Feige’s Secret Wars Comments Reveal Marvel Is Truly Ready to Break the Mold",
+      "Taraji P. Henson is a Baker in Sweet 'Give Me Some Sugah' Film Trailer",
+      "Anya Taylor-Joy's New Netflix Thriller Series Unleashes Retro Look In New Filming Update"
      ],
      "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+     "count": 435,
+     "detail": "462 stories, 1 duplicates removed, 11 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1474,27 +1451,29 @@
      "detail": "+1 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-16T18:15:33Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 11,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "+1 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-15T19:51:32Z",
-    "run_id": "43754661735",
-    "status": "success",
-    "checked": {
-     "candidates": 343,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 331, coming 12"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1908,28 +1887,27 @@
      "detail": "now 340, coming 11"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-16T18:15:34Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 351,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 340, coming 11"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-15T20:27:02Z",
-    "run_id": "43754661735",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "wuxxb4"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2403,19 +2381,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-16T18:21:15Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1f1pv2e",
+      "bagt6x",
+      "1lh9owt",
+      "14i9727",
+      "19d8ylq",
+      "1w8cy4y",
+      "v18wa1",
+      "19ty39t"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2821,19 +2815,27 @@
      "detail": "+0 new rows, 3 updated rows, 669 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T18:21:11Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 690,
+     "detail": "657 collected staging rows from readers; 229 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 669 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3070,39 +3072,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-15T20:27:02Z",
-    "run_id": "43754661735",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "418 OTT Release Date: Telugu Horror Thriller Eyed for November Digital Premiere",
-      "Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates",
-      "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
-      "Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff",
-      "Zehar-e-Mohabbat Episode 26 — Watch Online on HUM TV",
-      "Bano Episode 32 — Watch Online on Geo TV",
-      "Mohabbat Mukhtasir Episode 8 — Watch Online on HUM TV",
-      "Nashtar Episode 32 — Watch Online on Geo TV",
-      "Khushi Episode 64 — Watch Online on HUM TV",
-      "Uswah Episode 53 — Watch Online on Geo TV",
-      "Dastoor Episode 86 — Watch Online on Green TV"
-     ],
-     "updated": [],
-     "count": 11,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3619,19 +3601,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-16T18:21:14Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4",
+      "Bano Episode 33 — Watch Online on Geo TV",
+      "Lagan Lagi Episode 18 — Watch Online on ARY Digital",
+      "Hurmat Episode 13 — Watch Online on HUM TV"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3861,19 +3856,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4193,19 +4188,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4693,19 +4688,28 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-16T18:15:33Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 50,
+     "detail": "news queue items drafted this run; 435 still unprocessed; today by category: movies 8/6, tv_dramas 14/4, episodes 1/2, box_office 11/6, celebrities_events 11/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 2/3, awards 3/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5012,24 +5016,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-16T18:17:51Z",
+    "run_id": "43922577830",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 211,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5364,19 +5370,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 214,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5716,19 +5727,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5978,19 +5994,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6225,19 +6241,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6522,19 +6538,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6775,19 +6791,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7017,19 +7033,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7282,30 +7298,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-14T14:52:50Z",
-    "run_id": "43606959138",
-    "status": "success",
-    "checked": {
-     "candidates": 553,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 540"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7787,19 +7792,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-16T18:16:58Z",
+    "run_id": "43922577830",
+    "status": "success",
+    "checked": {
+     "candidates": 564,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 482"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8039,19 +8055,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-15T17:40:49Z",
-    "run_id": "43737729456",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8321,8 +8337,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-16T18:21:23Z",
+    "run_id": "43922577830",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-16T16:54:09Z"
+ "updated_at": "2026-11-16T18:21:23Z"
 }

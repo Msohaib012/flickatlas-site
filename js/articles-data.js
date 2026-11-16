@@ -164473,5 +164473,219 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-16T18:43:18+05:30"
+  },
+  "196ll1": {
+    "id": "196ll1",
+    "type": "news",
+    "headline": "Bano Episode 33 — Watch Online on Geo TV",
+    "dek": "Bano episode 33 aired on 2026-11-16 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 33 aired on 2026-11-16 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=sN8vDXyDGtY"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 33 aired on 2026-11-16.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=sN8vDXyDGtY",
+      "YouTube views: 149,150."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/sN8vDXyDGtY/hqdefault.jpg",
+        "caption": "Bano Episode 33",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-16T17:00:31Z"
+  },
+  "ax2fe1": {
+    "id": "ax2fe1",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 18 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 18 aired on 2026-11-16 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 18 aired on 2026-11-16 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=-ecSrktp6W4"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 18 aired on 2026-11-16.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=-ecSrktp6W4",
+      "YouTube views: 4,556."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/-ecSrktp6W4/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 18",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-16T17:00:03Z"
+  },
+  "17pc4gy": {
+    "id": "17pc4gy",
+    "type": "news",
+    "headline": "Hurmat Episode 13 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 13 aired on 2026-11-16 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 13 aired on 2026-11-16 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=wWPx6_uskVY"
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 13 aired on 2026-11-16.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=wWPx6_uskVY",
+      "YouTube views: 757,233."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/wWPx6_uskVY/hqdefault.jpg",
+        "caption": "Hurmat Episode 13",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-16T16:00:22Z"
+  },
+  "17z4zfi": {
+    "id": "17z4zfi",
+    "type": "news",
+    "headline": "Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4",
+    "dek": "With James Gunn leaving his leadership role at DC Studios, actor Chris Pratt has addressed the possibility of teaming up with the filmmaker once more for another installment in the Marvel franchise.",
+    "body": [
+      {
+        "h": "Unexpected Shifts in Hollywood",
+        "p": [
+          "Audiences often assume that beloved film franchises reach a definitive end when trilogies wrap up and key creators move on to entirely different universes. For a long time, many fans believed that James Gunn's departure to run DC Studios meant the door was permanently closed on any future adventures for the cosmic superhero team. However, sudden leadership changes in the industry frequently rewrite expectations and create brand new possibilities.",
+          "Recent announcements regarding executive restructuring at DC have unexpectedly opened up filmmakers' schedules. This sudden shift has sparked fresh conversations across the entertainment world, leading cast members to reconsider what might have previously seemed like an impossible return to familiar territory."
+        ]
+      },
+      {
+        "h": "Chris Pratt Weighs In on a Potential Reunion",
+        "p": [
+          "While promoting his project Way of the Warrior Kid during an interview with MovieZine, actor Chris Pratt was directly asked about his willingness to work with Gunn again. Although he had not spoken directly to the director since the DC news broke, his response was notably enthusiastic and encouraging.",
+          "Pratt pointed out the rarity of a single director helming all three films in a major trilogy. He stated clearly that if the filmmaker ever decided to return and spearhead a fourth installment, he would love to be a part of it."
+        ]
+      },
+      {
+        "h": "Reflecting on a Decade of Cosmic Storytelling",
+        "p": [
+          "Gunn spent nearly ten years shaping a collection of unconventional comic book characters into a cinematic family that resonated deeply with global audiences. Through clever writing and unique direction, he managed to make viewers emotionally invested in deeply quirky heroes and even brought audiences to tears over a talking raccoon.",
+          "This extensive creative journey established a distinct tone that combined humor, heart, and stellar soundtracks. The deep bond formed between the cast and their director during those formative years laid the groundwork for enduring fan loyalty."
+        ]
+      },
+      {
+        "h": "Turbulence and Transitions at DC Studios",
+        "p": [
+          "While Marvel enthusiasts ponder the future of their favorite characters, the situation looks quite different for supporters of the competing comic book brand. Gunn and Peter Safran are stepping down as co-heads of DC Studios following a ownership shake-up under Warner Bros.",
+          "With former Marvel executive Jeremy Latcham taking over on December 1, many observers are left questioning the long-term trajectory of the DC Universe. Meanwhile, Gunn remains busy with upcoming projects like Superman in 2025 and its follow-up, Man of Tomorrow, scheduled for July 2027."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding Star-Lord's MCU Future",
+        "p": [
+          "Pratt's recent willingness to return marks a significant shift from his previous perspective. Last year, the actor voiced strong concerns about how difficult it would be to find anyone capable of filling Gunn's shoes if a continuation ever materialized without him.",
+          "At the conclusion of the third movie, Peter Quill traveled back to Earth to reconnect with his grandfather, while Rocket assumed leadership of a new team roster. Although the closing credits promised that Star-Lord would eventually return, studio executives have kept quiet regarding which specific project will feature his comeback."
+        ]
+      },
+      {
+        "h": "Weighing the Odds of a Fourth Film",
+        "p": [
+          "Despite positive remarks from the lead actor, no official announcements indicate that a fourth movie is currently in active development. Gunn repeatedly emphasized that his third installment was intended to close out his trilogy, and he may ultimately prefer to explore non-superhero projects after spending over a decade immersed in comic book cinema.",
+          "Whether he chooses to embrace a completely different cinematic genre or eventually answers a call to head back into deep space remains entirely unconfirmed. Nonetheless, the mere thought of a creative reunion has given hopeful followers plenty to talk about."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Chris Pratt recently discussed the possibility of reuniting with filmmaker James Gunn for another installment in the cosmic superhero franchise. This conversation arose as Gunn's schedule opened up following leadership changes at DC Studios, where he remains focused on upcoming projects like Superman and Man of Tomorrow. Although no official plans for a fourth movie have been confirmed by studios, the actor's encouraging comments have reignited fan speculation about Star-Lord's future in the Marvel Cinematic Universe."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran are stepping down as co-heads of DC Studios.",
+      "Jeremy Latcham is taking over as head of DC Studios on December 1.",
+      "Superman is scheduled for release in 2025.",
+      "Man of Tomorrow is scheduled for July 2027.",
+      "Chris Pratt promoted Way of the Warrior Kid during an interview with MovieZine."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Chris Pratt",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Henry Cavill",
+        "Karen Gillan",
+        "Zoe Saldaña",
+        "Amanda Seyfried",
+        "Robert Pattinson",
+        "Charlize Theron",
+        "Florence Pugh",
+        "Zendaya",
+        "Anthony Mackie",
+        "John Lithgow",
+        "Sarah Sherman",
+        "Bowen Yang",
+        "Ryan LaBee"
+      ],
+      "titles": [
+        "Guardians of the Galaxy",
+        "Guardians of the Galaxy Vol. 3",
+        "Avengers: Doomsday",
+        "Way of the Warrior Kid",
+        "Superman",
+        "Man of Tomorrow",
+        "Lanterns",
+        "Game of Thrones",
+        "House of the Dragon"
+      ]
+    },
+    "keywords": [
+      "Guardians of the Galaxy",
+      "Chris Pratt",
+      "James Gunn",
+      "Star-Lord"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/BNbpC7E3bqqkyaMjmyH4Bf-2000-80.jpg",
+        "caption": "Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 17:15:10 +0000"
   }
 };
