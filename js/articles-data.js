@@ -161283,5 +161283,453 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 16 Nov 2026 01:00:00 EST"
+  },
+  "1f1pv2e": {
+    "id": "1f1pv2e",
+    "type": "news",
+    "headline": "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
+    "dek": "A comprehensive guide to the latest television shows, films, music releases, and video games coming to your favorite streaming devices and platforms.",
+    "body": [
+      {
+        "h": "Grand Theft Auto VI Arrives on Consoles",
+        "p": [
+          "The long-awaited arrival of Grand Theft Auto VI brings players back into a vibrant and chaotic sandbox world. The story follows Jason and Lucia, two young lovers who find themselves involved in car thefts, robberies, and police chases across a flamboyant version of Florida.",
+          "When a routine job goes wrong, the pair becomes tangled in a deep conspiracy. Alongside the expected violence and reckless driving, players can also take breaks from the mayhem to enjoy minigames like basketball and pool when it launches on PlayStation 5 and Xbox X/S."
+        ]
+      },
+      {
+        "h": "Biopics and Drama Films Lead Movie Offerings",
+        "p": [
+          "Several notable biographical and dramatic films are heading to streaming services this week. Nicolas Cage transforms into football coach-turned-broadcaster John Madden in a new film directed by David O. Russell, featuring Kathryn Hahn as his wife Virginia and Christian Bale as Al Davis on Prime Video.",
+          "Meanwhile, HBO Max debuts Tony, an Anthony Bourdain biopic directed and co-written by Matt Johnson. Dominic Sessa stars as the late celebrity chef in a coming-of-age story set over a single summer, offering an appetizer-sized look into a modern culinary icon's life."
+        ]
+      },
+      {
+        "h": "Animated Reimagining and Intense Dramas on Netflix",
+        "p": [
+          "Netflix is adding Steps, an animated musical that retells the Cinderella story from the perspective of the misunderstood and evil stepsisters. The voice cast includes Ali Wong as the lead stepsister, alongside Amanda Seyfried as Cinderella, Daniel Radcliffe, Bette Midler, and Peter Dinklage.",
+          "Also arriving on the platform is the heavy family drama Gentle Monster, starring Léa Seydoux as a woman who discovers disturbing online activities involving her husband and the father of her child."
+        ]
+      },
+      {
+        "h": "Music Documentaries Spotlighting Lisa and Darius Rucker",
+        "p": [
+          "K-pop superstar Lisa is the focus of Always Lalisa, a Sony Music Vision documentary directed by Sue Kim. Available on YouTube Premium, the film follows Lalisa Manobal through a monumental year that included launching her solo album, forming her own management company, and performing at Coachella and the Oscars.",
+          "On Disney and Hulu, fans can catch Darius Rucker: They Called Me Hootie, a documentary exploring the unique career of the Hootie the Blowfish frontman and country music star. Additionally, alternative rock band R.E.M. is releasing a 25th-anniversary edition of their 2001 album Reveal."
+        ]
+      },
+      {
+        "h": "The Altruists and Other Major Series Debuts",
+        "p": [
+          "Netflix's eight-episode limited series The Altruists explores the rise and fall of the cryptocurrency exchange FTX. The show centers on the turbulent romance between founder Sam Bankman-Fried and Caroline Ellison, whose operations left an astronomical financial deficit.",
+          "Other notable television returns include the fourth and final season of the survival drama Yellowjackets on Paramount, the second part of Melania, The Series on Prime Video, and the third season of Percy Jackson and the Olympians adapting The Titan’s Curse on Disney and Hulu."
+        ]
+      },
+      {
+        "h": "British Spy Thriller Secret Service Premieres",
+        "p": [
+          "MGM is introducing Secret Service, a five-part British spy thriller starring Gemma Arterton. The narrative follows MI6 officer Kate Henderson as she investigates covert evidence suggesting a prominent U.K. politician may be operating as a Russian asset.",
+          "The series is adapted from the novel of the same name written by Tom Bradby, adding another layer of political intrigue and suspense to the weekly streaming lineup."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Entertainment journalists from The Associated Press have curated a diverse selection of upcoming digital releases, spanning high-profile video games, music documentaries, and biographical features. Highlights include the launch of Grand Theft Auto VI, new biographical films about John Madden and Anthony Bourdain, and docuseries focusing on public figures and musicians.",
+          "Audiences can also look forward to new seasons of popular drama series, animated fairy-tale retellings, and investigative thrillers across various streaming platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicolas Cage stars as John Madden in a film directed by David O. Russell streaming on Prime Video on Wednesday.",
+      "Kathryn Hahn plays Virginia Madden and Christian Bale plays Al Davis.",
+      "The Anthony Bourdain biopic Tony debuts on HBO Max on Friday, starring Dominic Sessa and directed by Matt Johnson.",
+      "Steps streams on Netflix on Friday, featuring voice performances by Ali Wong, Amanda Seyfried, Daniel Radcliffe, Bette Midler, and Peter Dinklage.",
+      "Gentle Monster premieres on Netflix on Wednesday, starring Léa Seydoux.",
+      "Lisa's documentary Always Lalisa debuts on YouTube Premium on Wednesday, directed by Sue Kim.",
+      "Darius Rucker: They Called Me Hootie premieres on Monday on Disney and Hulu.",
+      "R.E.M. releases a 25th-anniversary edition of Reveal on Friday featuring 17 unreleased tracks.",
+      "The Altruists premieres Thursday on Netflix, focusing on Sam Bankman-Fried and Caroline Ellison.",
+      "The final season of Yellowjackets premieres Friday on Paramount.",
+      "Melania, The Series premieres Friday on Prime Video.",
+      "Percy Jackson and the Olympians season three arrives Friday on Disney and Hulu, adapting The Titan’s Curse with Walker Scobell.",
+      "Secret Service premieres Sunday on MGM, starring Gemma Arterton based on Tom Bradby's novel.",
+      "Grand Theft Auto VI launches Thursday on PlayStation 5 and Xbox X/S, featuring characters Jason and Lucia."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "David O. Russell",
+        "Kathryn Hahn",
+        "Christian Bale",
+        "Anthony Bourdain",
+        "Matt Johnson",
+        "Dominic Sessa",
+        "Mark Kennedy",
+        "Ali Wong",
+        "Amanda Seyfried",
+        "Daniel Radcliffe",
+        "Bette Midler",
+        "Peter Dinklage",
+        "Léa Seydoux",
+        "Lindsey Bahr",
+        "Lisa",
+        "Sue Kim",
+        "Lalisa Manobal",
+        "Darius Rucker",
+        "Maria Sherman",
+        "Sam Bankman-Fried",
+        "Caroline Ellison",
+        "Boyle",
+        "Brett Ratner",
+        "Melania Trump",
+        "Rick Riordan",
+        "Walker Scobell",
+        "Kate Henderson",
+        "Gemma Arterton",
+        "Tom Bradby",
+        "Alicia Rancilio",
+        "Jason",
+        "Lucia",
+        "Lou Kesten"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Always Lalisa",
+        "The Altruists",
+        "Steps",
+        "Yellowjackets",
+        "Madden",
+        "Tony",
+        "Gentle Monster",
+        "Alter Ego",
+        "The White Lotus",
+        "Darius Rucker: They Called Me Hootie",
+        "Reveal",
+        "The Black Session Revealed",
+        "Melania, The Series",
+        "Melania",
+        "Percy Jackson and the Olympians",
+        "The Titan’s Curse",
+        "Secret Service"
+      ]
+    },
+    "keywords": [
+      "GTA VI streaming",
+      "Always Lalisa documentary",
+      "The Altruists Netflix",
+      "Steps animated movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2024/04/17/1600x900/logo/web-series_1713353092172_1713353099719.jpg",
+        "caption": "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 10:32:32 +0530"
+  },
+  "1aj8i2i": {
+    "id": "1aj8i2i",
+    "type": "news",
+    "headline": "Tracker Season 4 Episode 7 Trailer Shows Josh Holloway’s Much-Anticipated Debut",
+    "dek": "Josh Holloway joins the cast of Tracker Season 4 as a rival tracker named Luke, setting up major friction with Justin Hartley’s Colter Shaw in the upcoming episode.",
+    "body": [
+      {
+        "h": "Introduction to Josh Holloway's Guest Role",
+        "p": [
+          "Fans of Lost and Yellowstone have a major reason to tune into the upcoming broadcast of Tracker. Josh Holloway makes his much-anticipated debut as a guest star in the seventh episode of the fourth season.",
+          "A newly released promotional trailer gives audiences their very first look at his character in action. His arrival on the series promises to shake things up for the main protagonist."
+        ]
+      },
+      {
+        "h": "The Clash Between Colter and Luke",
+        "p": [
+          "Holloway steps into the role of Luke, a rival tracker who crosses paths with Justin Hartley’s character, Colter Shaw. The newly unveiled footage establishes that these two men are far from becoming allies.",
+          "Luke actively stands in Colter's way, creating substantial friction that is expected to drive much of the narrative tension throughout the hour."
+        ]
+      },
+      {
+        "h": "Episode Details and Official Synopsis",
+        "p": [
+          "The seventh episode bears the official title “That’s the Job.” According to the network's synopsis, the plot kicks off when Colter is hired to find the missing owner of a small South Carolina inn.",
+          "However, this search immediately places him at direct odds with Luke. The synopsis notes that Luke's reckless methods and questionable morals put innocent lives at serious risk."
+        ]
+      },
+      {
+        "h": "Future Possibilities and Character Dynamics",
+        "p": [
+          "Given the immediate tension established between the two trackers, viewers might hope to see their rivalry stretch beyond a single installment. At present, however, nothing confirms whether Holloway will return for additional episodes.",
+          "For now, audiences will have to tune in to watch how this explosive dynamic unfolds and whether it leaves a lasting impact on the series."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Streaming Options",
+        "p": [
+          "CBS has scheduled the seventh episode to air on November 22. The broadcast will run from 9:30 to 10:30 PM ET/PT.",
+          "Viewers can watch the episode live on the CBS Television Network or stream it digitally on Paramount+. It will also be made available for streaming the following day."
+        ]
+      },
+      {
+        "h": "Differing Approaches to the Job",
+        "p": [
+          "The preview footage for the upcoming installment highlights a sharp contrast in how the two men operate. Colter must track down the missing inn owner while managing a competitor whose dangerous tactics endanger others.",
+          "This ideological clash forms the core conflict of the episode, pushing both characters to their limits as they pursue the same target through very different means."
+        ]
+      },
+      {
+        "h": "Guest Star Appeal and Series Success",
+        "p": [
+          "Josh Holloway represents the latest high-profile name to board the popular drama. The series consistently boasts one of the deepest benches of guest stars on television today.",
+          "This drawing power is easily explained by the show's strong ratings, which give notable actors a compelling reason to participate and leverage that ongoing success for their future projects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Josh Holloway makes his debut as guest star Luke in the seventh episode of Tracker Season 4, titled “That’s the Job.” He plays a rival tracker whose reckless methods put innocent lives at risk while crossing paths with Justin Hartley’s Colter Shaw."
+        ]
+      }
+    ],
+    "facts": [
+      "Tracker Season 4 Episode 7 is titled “That’s the Job.”",
+      "Josh Holloway joins the cast as a guest star playing a rival tracker named Luke.",
+      "Justin Hartley plays the main character, Colter Shaw.",
+      "The episode is scheduled to air on CBS on November 22, from 9:30 to 10:30 PM ET/PT.",
+      "Viewers can watch it live on the CBS Television Network or stream it on Paramount+."
+    ],
+    "entities": {
+      "people": [
+        "Josh Holloway",
+        "Justin Hartley",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "Tracker",
+        "Lost",
+        "Yellowstone"
+      ]
+    },
+    "keywords": [
+      "Tracker Season 4 Episode 7",
+      "Josh Holloway Tracker",
+      "Justin Hartley Colter Shaw",
+      "Tracker CBS show"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-16T121915.420.webp?resize=1200,630",
+        "caption": "Tracker Season 4 Episode 7 Trailer Shows Josh Holloway’s Much-Anticipated Debut",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 06:50:02 +0000"
+  },
+  "1r0fb8k": {
+    "id": "1r0fb8k",
+    "type": "news",
+    "headline": "BTS Sweeps Six Trophies at MMA 2026 While V Addresses Year-End Show Absence",
+    "dek": "Kim Taehyung pens a heartfelt Weverse message to ARMY explaining why BTS is prioritising their global tour over year-end award shows after dominating the Melon Music Awards.",
+    "body": [
+      {
+        "h": "BTS Triumphs at the Melon Music Awards",
+        "p": [
+          "The 18th Melon Music Awards witnessed a massive triumph for BTS, who captured six major trophies at the Gocheok Sky Dome. Among their impressive haul were the coveted Daesangs for Album of the Year, awarded for their latest project ARIRANG, and Artist of the Year.",
+          "The group additionally secured victories in categories such as Stage of the Year, Best Male Group, Global TOP10, and Melon Music Awards TOP10. Although the seven members did not attend the event in person, their pre-recorded video message resonated strongly throughout the venue and with viewers globally."
+        ]
+      },
+      {
+        "h": "A Historic Comeback and Group Unity",
+        "p": [
+          "These recent accolades hold profound significance for the group and their followers, as ARIRANG marks the band's first full-group return following a hiatus lasting three years and nine months. The accompanying concert tour has given supporters worldwide a rare chance to witness all seven members performing live together again.",
+          "In their gratitude video, the septet expressed that 2026 is a period they will cherish forever. They shared their immense happiness at returning to the stage for their supporters after such an extended absence from group activities."
+        ]
+      },
+      {
+        "h": "V's Heartfelt Weverse Communication",
+        "p": [
+          "Following the conclusion of the ceremony, member Kim Taehyung took to Weverse to share an extensive and deeply personal message with the global fanbase. Writing on behalf of the entire group, he addressed the growing discussions surrounding their potential appearances at upcoming year-end ceremonies.",
+          "He mentioned that the members celebrated their multiple wins by enjoying pizza together after finishing their daily schedule. However, the core of his post focused on explaining the band's current scheduling priorities and acknowledging the high expectations of their supporters."
+        ]
+      },
+      {
+        "h": "Recognizing the Patient Global Fanbase",
+        "p": [
+          "Taehyung reflected on reading emotional banners and slogans held up by attendees during their concerts, noting messages about supporters waiting seven, ten, or even thirteen years to see them live. He realized that a routine tour stop for the group often represents a once-in-a-lifetime milestone for individuals in the crowd.",
+          "This realization inspired the members to dedicate themselves entirely to meeting these audiences face-to-face. He clarified that this focus did not stem from comparing whose wait was longer, but rather from a desire to honour every single person's deep anticipation."
+        ]
+      },
+      {
+        "h": "Clarifying the Decision on Year-End Shows",
+        "p": [
+          "Addressing rumours and inquiries directly, V confirmed that the group will sit out the year-end performance circuit. He explained that preparing proper stages for these major televised ceremonies requires immense time and effort, making it difficult to commit without compromising quality.",
+          "Rather than dividing their attention across multiple television broadcasts, the members chose to devote their full energy to the ARIRANG world tour. They wanted to ensure that fans who have waited years for a live concert receive their undivided attention."
+        ]
+      },
+      {
+        "h": "Reassuring Followers Across the World",
+        "p": [
+          "Concluding his message on an affectionate and reassuring note, the singer urged supporters not to feel distant from the group just because of their global stardom. He playfully reminded them of their shared bond before mentioning that he has been filming independent content and planning ways to include fans who cannot attend concerts.",
+          "Other members including RM, J-Hope, and Jungkook also shared their excitement regarding the group's six MMA wins through their respective social media accounts, celebrating the milestone with their global audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS won six awards at the Melon Music Awards, including Album of the Year for ARIRANG and Artist of the Year. Following the ceremony, Kim Taehyung explained via Weverse that the group will skip year-end shows to focus on their world tour and meet waiting fans."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS won six awards at MMA 2026.",
+      "Awards included Album of the Year for ARIRANG and Artist of the Year.",
+      "The ceremony took place at Gocheok Sky Dome.",
+      "ARIRANG is BTS' full-group comeback after a hiatus of three years and nine months.",
+      "Kim Taehyung V posted an explanation on Weverse after the ceremony."
+    ],
+    "entities": {
+      "people": [
+        "Kim Taehyung",
+        "V",
+        "RM",
+        "Jin",
+        "Suga",
+        "J-Hope",
+        "Jimin",
+        "Jungkook"
+      ],
+      "titles": [
+        "ARIRANG"
+      ]
+    },
+    "keywords": [
+      "BTS MMA 2026",
+      "Kim Taehyung Weverse message",
+      "ARIRANG album BTS",
+      "BTS year-end shows absence"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156515680,thumbsize-2624575,width-1280,height-720,resizemode-75/156515680.jpg",
+        "caption": "BTS Sweeps Six Trophies at MMA 2026 While V Addresses Year-End Show Absence",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T07:51:32Z"
+  },
+  "k2s9ip": {
+    "id": "k2s9ip",
+    "type": "news",
+    "headline": "Why Netflix's Mindhunter Outshines True Detective in Realism and Crime Thriller Mastery",
+    "dek": "Exploring how the short-lived Netflix crime series Mindhunter elevated procedural realism and behavioral science beyond the standards set by HBO's True Detective.",
+    "body": [
+      {
+        "h": "The Appeal of Realistic Crime Thrillers",
+        "p": [
+          "Crime drama television has long captured audiences through complex investigations and dark, moody atmospheres. Few modern shows have achieved the cultural footprint of HBO's True Detective, an anthology series celebrated for its multi-Emmy and Golden Globe successes across four distinct seasons. While its detectives frequently navigate personal turmoil and melodrama, the fundamental police work always anchors the wilder elements of its narratives.",
+          "True Detective treats crime scenes like entrances to nightmares while grounding its investigative journeys in believable obstacles. Missed opportunities, unreliable witnesses, and secretive suspects form the backbone of its stories. Yet, despite these commendable efforts to keep crime fiction grounded, another streaming series manages to take this exact formula and push it even further into authentic territory."
+        ]
+      },
+      {
+        "h": "Entering the World of Mindhunter",
+        "p": [
+          "Debuting on Netflix in 2017, Mindhunter follows FBI agents Holden Ford and Bill Tench as they interview imprisoned murderers during the formative years of criminal profiling. Spanning two seasons, the series grounds its narrative in real forensic psychology as the agents sit face-to-face with notorious serial killers. The investigative framework relies heavily on academic research, rigorous preparation, and institutional funding.",
+          "The intellectual rigor of criminal profiling forms the core of the show's suspense. Rather than relying solely on traditional action sequences or explosive police chases, Mindhunter finds gripping tension in office-based analysis, theoretical debates, and the meticulous scrutiny of promising investigative theories by superiors."
+        ]
+      },
+      {
+        "h": "Grounded Source Material and Real Pioneers",
+        "p": [
+          "The exceptional foundation of the Netflix series stems from its source material, specifically the nonfiction book of the same name by John Douglas and Mark Olshaker. The central characters of Holden Ford and Bill Tench draw direct inspiration from real-life profiling pioneers whose work reshaped modern law enforcement understanding of violent criminal minds.",
+          "This deep commitment to factual accuracy shines through every frame of the production. The show meticulously highlights the arduous reality that recognizing a pattern in criminal behavior is vastly different from proving who committed a specific crime in a court of law."
+        ]
+      },
+      {
+        "h": "Uncertainty as a Narrative Driver",
+        "p": [
+          "A major distinction between the two crime dramas lies in how they structure their overarching mysteries. True Detective follows a familiar path of connecting a drip-feed of revelations to ultimately solve the central case. In contrast, Mindhunter creates relentless suspense from the immense difficulty of unearthing those revelations in the first place.",
+          "The imprisoned killers being interviewed frequently lie, boast, manipulate, and contradict themselves, making any knowledge gained feel entirely unreliable. By embracing this profound uncertainty, the series turns procedural hurdles into active plot drivers rather than narrative slowdowns."
+        ]
+      },
+      {
+        "h": "Cinematic Excellence Under David Fincher",
+        "p": [
+          "Despite its cerebral, academic focus, Mindhunter never feels visually flat or ordinary. The precise framing of every shot, combined with the cold, oppressive atmosphere of bureaucratic offices and shadowy interview rooms, creates a distinct and deliberate visual identity.",
+          "Renowned filmmaker David Fincher, who directed several episodes and served as an executive producer, instills the series with the same cinematic polish seen in his past works like Se7en and Zodiac. This stylistic flair matches the visual grandeur of HBO's anthology counterpart."
+        ]
+      },
+      {
+        "h": "The Tragedy of a Premature Cancellation",
+        "p": [
+          "While Mindhunter excels in procedural realism, True Detective maintains a clear advantage through its self-contained anthology format. Each season of the HBO series wraps up its respective investigation completely, protecting characters from cliffhangers and allowing the show to constantly reinvent itself.",
+          "Mindhunter, operating as a long-form multi-season narrative, lacked that safety net. When Netflix placed the show on indefinite hold in 2020, it effectively canceled the series just as long-term plotlines, such as the hunt for the BTK killer, were reaching full stride, leaving its legacy permanently tied to its untimely end."
+        ]
+      },
+      {
+        "h": "Hopes for a Future Movie Trilogy",
+        "p": [
+          "At present, Netflix has no active plans to revive the acclaimed criminal profiling drama, despite persistent viewer demand. Fans remain eager to see the continuation of the characters' disrupted careers and psychological journeys.",
+          "Providing a glimmer of hope, star Holt McCallany revealed via Variety that the principal investigators could potentially return in a movie trilogy. Should this project materialize, it would offer proper closure to one of the most praised crime dramas of the decade."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's acclaimed crime thriller series Mindhunter stands out as a uniquely realistic detective show, surpassing the procedural authenticity of HBO's True Detective by focusing on forensic psychology and prison interviews with real-life serial killers. Despite its critical success and distinct cinematic style helmed by David Fincher, the show was put on indefinite hold in 2020 before its long-term narrative arcs could conclude. Although no official revival is currently planned, cast member Holt McCallany has previously hinted at the possibility of a movie trilogy to continue the story."
+        ]
+      }
+    ],
+    "facts": [
+      "True Detective is an HBO series that has won Golden Globes and multiple Emmys across four standalone anthology seasons.",
+      "Mindhunter debuted on Netflix in 2017 and lasted for two seasons before being put on indefinite hold in 2020.",
+      "Mindhunter follows FBI agents Holden Ford and Bill Tench, played by Jonathan Groff and Holt McCallany respectively.",
+      "Mindhunter draws on the nonfiction book of the same name by John Douglas and Mark Olshaker.",
+      "David Fincher serves as an executive producer and directed several episodes of Mindhunter.",
+      "Holt McCallany hinted via Variety that Ford and Tench could potentially return in a movie trilogy."
+    ],
+    "entities": {
+      "people": [
+        "Tom Russell",
+        "Jonathan Groff",
+        "Holt McCallany",
+        "John Douglas",
+        "Mark Olshaker",
+        "David Fincher",
+        "Sonny Valicenti",
+        "Joe Penhall",
+        "Carl Franklin",
+        "Andrew Dominik",
+        "Andrew Douglas",
+        "Asif Kapadia",
+        "Tobias Lindholm",
+        "Jennifer Haley",
+        "Joshua Donen",
+        "Courtenay Miles",
+        "Carly Wray",
+        "Pamela Cederquist"
+      ],
+      "titles": [
+        "True Detective",
+        "Mindhunter",
+        "Se7en",
+        "Zodiac",
+        "Heroes"
+      ]
+    },
+    "keywords": [
+      "Mindhunter Netflix series",
+      "Mindhunter True Detective comparison",
+      "Jonathan Groff Holden Ford",
+      "Holt McCallany Bill Tench",
+      "David Fincher Mindhunter"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/marty-scowling-in-true-detective.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Netflix's Mindhunter Outshines True Detective in Realism and Crime Thriller Mastery",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 06:00:18 GMT"
   }
 };

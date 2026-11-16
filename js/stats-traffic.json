@@ -1,33 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-11-16T06:55:34Z",
+  "generated": "2026-11-16T08:02:14Z",
   "realtime": {
-    "active_users": 4
+    "active_users": 2
   },
   "today": {
-    "users": 69,
-    "pageviews": 77,
-    "sessions": 69,
-    "avg_session_seconds": 4.1
+    "users": 82,
+    "pageviews": 92,
+    "sessions": 83,
+    "avg_session_seconds": 4.0
   },
   "last7": {
-    "users": 518,
-    "pageviews": 799,
-    "sessions": 560,
-    "avg_session_seconds": 35.6
+    "users": 531,
+    "pageviews": 814,
+    "sessions": 574,
+    "avg_session_seconds": 34.8
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 92,
-      "avg_time_seconds": 260.1
+      "views": 95,
+      "avg_time_seconds": 250.4
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 27,
-      "avg_time_seconds": 18.9
+      "views": 28,
+      "avg_time_seconds": 17.9
     },
     {
       "path": "/ott",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 540,
-      "users": 505
+      "sessions": 554,
+      "users": 518
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 21,
-      "users": 21
+      "sessions": 22,
+      "users": 22
     },
     {
       "source": "google",
@@ -107,15 +107,15 @@
   "countries": [
     {
       "country": "United States",
-      "users": 143
+      "users": 148
     },
     {
       "country": "Brazil",
-      "users": 74
+      "users": 75
     },
     {
       "country": "Singapore",
-      "users": 57
+      "users": 60
     },
     {
       "country": "Hong Kong",
@@ -123,15 +123,15 @@
     },
     {
       "country": "Vietnam",
-      "users": 30
+      "users": 31
     },
     {
       "country": "Argentina",
-      "users": 26
+      "users": 27
     },
     {
       "country": "Colombia",
-      "users": 26
+      "users": 27
     },
     {
       "country": "Bangladesh",
@@ -142,14 +142,14 @@
       "users": 21
     },
     {
-      "country": "Malaysia",
+      "country": "Japan",
       "users": 15
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 510
+      "users": 523
     },
     {
       "device": "mobile",
