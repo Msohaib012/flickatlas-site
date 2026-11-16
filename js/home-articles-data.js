@@ -34,6 +34,161 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 16 Nov 2026 09:43:48 +0200"
   },
+  "izvila": {
+    "id": "izvila",
+    "type": "news",
+    "headline": "Ghilli Actress Nancy Jennifer Marries Karthik In A Traditional Beach Resort Ceremony",
+    "dek": "Nancy Jennifer, widely remembered for playing Thalapathy Vijay's younger sister Bhuvana in the blockbuster movie Ghilli, tied the knot with Karthik in Chennai.",
+    "entities": {
+      "people": [
+        "Nancy Jennifer",
+        "Karthik",
+        "Thalapathy Vijay",
+        "Dharani",
+        "Trisha Krishnan",
+        "Prakash Raj",
+        "Suriya",
+        "Vijayakanth"
+      ],
+      "titles": [
+        "Ghilli",
+        "Nerukku Ner",
+        "Thayagam",
+        "Ulavu Thurai",
+        "February 14",
+        "Unakkum Enakkum",
+        "Jambhavan",
+        "Thozha",
+        "Theeya Velai Seiyyanum Kumaru",
+        "Koottathil Oruthan",
+        "Trip"
+      ]
+    },
+    "keywords": [
+      "Nancy Jennifer wedding",
+      "Ghilli actress marriage",
+      "Nancy Jennifer Karthik",
+      "Thalapathy Vijay sister Ghilli"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156516520,thumbsize-610244,width-1280,height-720,resizemode-75/156516520.jpg",
+        "caption": "Ghilli Actress Nancy Jennifer Marries Karthik In A Traditional Beach Resort Ceremony",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T06:54:17Z"
+  },
+  "x9ykt": {
+    "id": "x9ykt",
+    "type": "news",
+    "headline": "Top 15 Red Carpet Looks Unveiled at the 2026 Governors Awards",
+    "dek": "A-list celebrities gathered in Hollywood for the official kick-off to the awards season, showcasing standout fashion statements from major design houses.",
+    "entities": {
+      "people": [
+        "Travis Scott",
+        "Liza Soberano",
+        "Hoyeon",
+        "Alexander Skarsgard",
+        "Carrie Coon",
+        "Charlize Theron",
+        "Elizabeth Debicki",
+        "Emma Stone",
+        "Lea Seydoux",
+        "Lily James",
+        "Mariana Di Girolamo",
+        "Monica Barbaro",
+        "Penelope Cruz",
+        "Tessa Thompson",
+        "Zendaya"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Governors Awards 2026 best dressed",
+      "Travis Scott Bottega Veneta Governors Awards",
+      "Hoyeon Louis Vuitton red carpet",
+      "Liza Soberano Yara Shoemaker"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/best-dressed-gov.jpg",
+        "caption": "Top 15 Red Carpet Looks Unveiled at the 2026 Governors Awards",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 06:47:48 +0000"
+  },
+  "ewq1wv": {
+    "id": "ewq1wv",
+    "type": "news",
+    "headline": "SBS Variety Hit 'My Grumpy Secretary' Extended to 16 Episodes with Star-Studded Lineup Featuring Jisoo, Kim Jong Kook, and Hwasa",
+    "dek": "The popular Friday night variety show secures a 16-episode extension following overwhelming viewer support, bringing in prominent artists like Kim Jong Kook, BLACKPINK's Jisoo, and Hwasa for unique guest appearances.",
+    "entities": {
+      "people": [
+        "Kim Jong Kook",
+        "Jisoo",
+        "Hwasa",
+        "Lee Seo Jin",
+        "Kim Kwang Kyu"
+      ],
+      "titles": [
+        "My Grumpy Secretary",
+        "Running Man",
+        "Inkigayo"
+      ]
+    },
+    "keywords": [
+      "My Grumpy Secretary",
+      "Kim Jong Kook",
+      "BLACKPINK Jisoo",
+      "Hwasa"
+    ],
+    "images": [],
+    "published": "Mon, 16 Nov 2026 01:00:00 EST"
+  },
+  "10p3zsr": {
+    "id": "10p3zsr",
+    "type": "news",
+    "headline": "Akshay Kumar's Science-Fiction Action Thriller Samuk Locks Theatrical Release Date and Unveils First-Look Poster",
+    "dek": "Bollywood superstar Akshay Kumar has officially announced the arrival date for his upcoming alien survival thriller Samuk, sharing a teaser and first-look poster.",
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Kanishk Varma",
+        "Vipul Amrutlal Shah",
+        "Alec Gillis",
+        "Luke Tumber",
+        "Rukmini Maitra",
+        "Vineet Kumar Singh",
+        "Rajat Kapoor",
+        "Swanand Kirkire",
+        "Banita Sandhu",
+        "Sushant Singh"
+      ],
+      "titles": [
+        "Samuk",
+        "Namastey London",
+        "Waqt",
+        "Holiday"
+      ]
+    },
+    "keywords": [
+      "Samuk release date",
+      "Akshay Kumar Samuk",
+      "Samuk first look poster",
+      "Kanishk Varma Samuk",
+      "Vipul Amrutlal Shah Samuk"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028568.jpg",
+        "caption": "Akshay Kumar's Science-Fiction Action Thriller Samuk Locks Theatrical Release Date and Unveils First-Look Poster",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 05:55:26 +0000"
+  },
   "1o8wjgr": {
     "id": "1o8wjgr",
     "type": "news",
@@ -4426,145 +4581,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 00:46:35 +0000"
-  },
-  "hym7a5": {
-    "id": "hym7a5",
-    "type": "news",
-    "headline": "Ramayana: Rise of a Legend Crosses Rs 1,200 Crore Worldwide on Day 10",
-    "dek": "Ranbir Kapoor and Yash's mythological epic records strong growth on its second Saturday, outperforming previous benchmarks and leading across multiple languages.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sandeep Reddy Vanga"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Animal"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend box office",
-      "Ramayana Day 10 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana Rs 1200 cr worldwide"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135844974,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ramayana: Rise of a Legend Crosses Rs 1,200 Crore Worldwide on Day 10",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T05:57:13+05:30"
-  },
-  "1va309p": {
-    "id": "1va309p",
-    "type": "news",
-    "headline": "Hugh Jackman Confirms Creative Role on Avengers: Doomsday Script",
-    "dek": "Wolverine star Hugh Jackman has been officially credited for contributing additional literary material to the upcoming Marvel Studios blockbuster.",
-    "entities": {
-      "people": [
-        "Hugh Jackman",
-        "Robert Downey Jr.",
-        "Ryan Reynolds",
-        "Sir Patrick Stewart",
-        "Sir Ian McKellen",
-        "Channing Tatum",
-        "Anthony Russo",
-        "Joe Russo",
-        "Pedro Pascal",
-        "Chris Hemsworth",
-        "Vanessa Kirby"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Deadpool & Wolverine",
-        "The Odyssey",
-        "Logan",
-        "Ray Gunn",
-        "Insidious: Out of the Further"
-      ]
-    },
-    "keywords": [
-      "Hugh Jackman Avengers Doomsday",
-      "Avengers Doomsday script",
-      "Hugh Jackman writing credit",
-      "Avengers Doomsday cast"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/10/hugh-jackman-as-wolverine-with-a-bullet-in-his-mouth-in-deadpool-wolverine.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Hugh Jackman Confirms Creative Role on Avengers: Doomsday Script",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 23:59:26 GMT"
-  },
-  "14d66wc": {
-    "id": "14d66wc",
-    "type": "news",
-    "headline": "Sony Mounts Ambitious Oscar Campaign For Spider-Man: Brand New Day Following Massive Box Office Run",
-    "dek": "Following a massive $2.5 billion worldwide box office run, Sony Pictures is pushing hard for major Academy Award recognition with Spider-Man: Brand New Day.",
-    "entities": {
-      "people": [
-        "Tom Rothman"
-      ],
-      "titles": [
-        "Spider-Man: Brand New Day",
-        "Avengers: Doomsday",
-        "Avengers: Endgame",
-        "Spider-Man 2",
-        "Black Panther",
-        "Joker"
-      ]
-    },
-    "keywords": [
-      "Spider-Man Brand New Day",
-      "Sony Pictures Oscar campaign",
-      "Tom Rothman",
-      "Spider-Man Brand New Day box office"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/marvel-finally-has-a-chance-to-fix-the-franchises-biggest-oscar-snub-after-2-5-billion-box-office-success-with-brand-new-day.jpg",
-        "caption": "Sony Mounts Ambitious Oscar Campaign For Spider-Man: Brand New Day Following Massive Box Office Run",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 22:46:44 +0000"
-  },
-  "d5sbwc": {
-    "id": "d5sbwc",
-    "type": "news",
-    "headline": "Tyriq Withers and Daniel Kaluuya Go Viral After FAA Ground Stop Strands Them in Oregon",
-    "dek": "Actors Tyriq Withers and Daniel Kaluuya turned an unexpected airport delay in Eugene into comedy gold with a hilarious local news interview.",
-    "entities": {
-      "people": [
-        "Tyriq Withers",
-        "Daniel Kaluuya",
-        "Gold Meadows",
-        "Sean Duffy"
-      ],
-      "titles": [
-        "Him",
-        "Get Out"
-      ]
-    },
-    "keywords": [
-      "Tyriq Withers Daniel Kaluuya",
-      "FAA ground stop Eugene Oregon",
-      "Tyriq Withers KVAL interview",
-      "Sean Duffy FAA outage"
-    ],
-    "images": [
-      {
-        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-43.jpg",
-        "caption": "Tyriq Withers and Daniel Kaluuya Go Viral After FAA Ground Stop Strands Them in Oregon",
-        "source": "TheWrap"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 22:20:50 +0000"
   },
   "3jqsav": {
     "id": "3jqsav",

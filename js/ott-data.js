@@ -2215,6 +2215,26 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-11",
+      "date_kind": "release",
+      "id": 312359,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-10-09",
       "date_kind": "digital",
       "id": 1148365,
@@ -4279,6 +4299,18 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2022-09-29",
+      "date_kind": "release",
+      "id": 131488,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2022-09-13",
       "date_kind": "release",
       "id": 105248,
@@ -4383,6 +4415,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2019-04-21",
+      "date_kind": "release",
+      "id": 85077,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+          "name": "Movie Sphere+"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2018-11-15",
       "date_kind": "release",
       "id": 84105,
@@ -4470,6 +4518,26 @@ window.FA_OTT = {
         {
           "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
           "name": "fuboTV"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "1999-10-20",
+      "date_kind": "release",
+      "id": 37854,
+      "providers": [
+        {
+          "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
         }
       ],
       "type": "tv"

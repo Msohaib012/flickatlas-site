@@ -20842,7 +20842,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.4793
+    "popularity": 0.4871
   },
   "1687464": {
     "id": 1687464,
@@ -20973,7 +20973,7 @@ window.FA_PUBLISHED = {
     "status": "In Production",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2929
+    "popularity": 0.2114
   },
   "1811878": {
     "id": 1811878,
@@ -20996,7 +20996,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1538
+    "popularity": 0.377
   },
   "1810457": {
     "id": 1810457,
@@ -21048,7 +21048,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.103
+    "popularity": 0.1319
   },
   "1806778": {
     "id": 1806778,
@@ -21075,7 +21075,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2752
+    "popularity": 0.2464
   },
   "1806776": {
     "id": 1806776,
@@ -21102,7 +21102,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.0596
+    "popularity": 0.0959
   },
   "1806769": {
     "id": 1806769,
@@ -21129,7 +21129,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1804
+    "popularity": 0.1306
   },
   "1806768": {
     "id": 1806768,
@@ -21185,7 +21185,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1162
+    "popularity": 0.1522
   },
   "1806755": {
     "id": 1806755,
@@ -21213,7 +21213,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1488
+    "popularity": 0.1636
   },
   "1806752": {
     "id": 1806752,
@@ -21240,7 +21240,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1224
+    "popularity": 0.1385
   },
   "1806738": {
     "id": 1806738,
@@ -21269,7 +21269,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.1137
+    "popularity": 0.0782
   },
   "1806730": {
     "id": 1806730,
@@ -21352,7 +21352,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.0926
+    "popularity": 0.0769
   },
   "1805289": {
     "id": 1805289,
@@ -21489,7 +21489,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.4816
+    "popularity": 0.3931
   },
   "1815736": {
     "id": 1815736,
@@ -21545,7 +21545,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.0779
+    "popularity": 0.159
   },
   "1662511": {
     "id": 1662511,
@@ -21599,7 +21599,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2617
+    "popularity": 0.2368
   },
   "1803546": {
     "id": 1803546,
@@ -21622,7 +21622,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.128
+    "popularity": 0.111
   },
   "1800295": {
     "id": 1800295,
@@ -21647,7 +21647,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.2921
+    "popularity": 0.2412
   },
   "1799909": {
     "id": 1799909,
@@ -21695,7 +21695,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-15",
-    "popularity": 0.3932
+    "popularity": 0.4558
   },
   "1797426": {
     "id": 1797426,
@@ -21934,10 +21934,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.1553
+    "popularity": 0.1819
   },
   "1511829": {
     "id": 1511829,
@@ -21989,10 +21989,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.1359
+    "popularity": 0.2805
   },
   "1307474": {
     "id": 1307474,
@@ -22043,10 +22043,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.1941
+    "popularity": 0.5528
   },
   "1796880": {
     "id": 1796880,
@@ -22089,33 +22089,35 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.3075
+    "popularity": 0.2325
   },
   "1815438": {
     "id": 1815438,
     "type": "movie",
     "title": "erōtikós",
     "poster_path": "/w1Lk1jynfYEAmQxuLfpZX8TIcSo.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/ijvNyQM65zpcaTskuTLBmrqMtEb.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "erōtikós is a documentary that expands upon the mythologies of Eros, addressing love, sexuality, and eroticism through clinical, aesthetic, and political lenses.",
+    "overview": "A poetic and political investigation into eroticism as a vital force. The documentary essay delves into the tension between control and desire to explore what remains of the erotic in a society shaped by guilt and colonial logic. Uniting philosophy, psychoanalysis, and art through deep interviews and visceral performances, the film challenges moral constraints and invites us to recognize the body as the first territory to be counter-colonized.",
     "industry": "world",
-    "original_language": "en",
+    "original_language": "pt",
     "origin_country": [
-      "US"
+      "BR"
     ],
     "production_countries": [],
-    "spoken_languages": [],
+    "spoken_languages": [
+      "pt"
+    ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.3622
+    "popularity": 0.6019
   },
   "1812543": {
     "id": 1812543,
@@ -22137,17 +22139,17 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 1.258
+    "popularity": 0.7119
   },
   "1809555": {
     "id": 1809555,
     "type": "movie",
     "title": "Os Mortos-Vivos: Algo a Temer",
     "poster_path": "/fXwfLY1L6Lvzata2Rv1Cet4CFPV.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/9uxXkx9Dht831bHK3KprcPQk07e.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "",
@@ -22162,10 +22164,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.121
+    "popularity": 0.1337
   },
   "1805456": {
     "id": 1805456,
@@ -22189,10 +22191,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.49
+    "popularity": 0.5547
   },
   "1805451": {
     "id": 1805451,
@@ -22216,10 +22218,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.1206
+    "popularity": 0.0597
   },
   "1803408": {
     "id": 1803408,
@@ -22241,10 +22243,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.7038
+    "popularity": 0.3294
   },
   "1803222": {
     "id": 1803222,
@@ -22268,10 +22270,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.6983
+    "popularity": 0.6799
   },
   "1802622": {
     "id": 1802622,
@@ -22295,10 +22297,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.0594
+    "popularity": 0.2573
   },
   "1797144": {
     "id": 1797144,
@@ -22321,10 +22323,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.133
+    "popularity": 0.1279
   },
   "1796931": {
     "id": 1796931,
@@ -22375,10 +22377,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.3648
+    "popularity": 0.3371
   },
   "1796456": {
     "id": 1796456,
@@ -22402,10 +22404,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.3721
+    "popularity": 0.3492
   },
   "1807995": {
     "id": 1807995,
@@ -22563,10 +22565,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.2914
+    "popularity": 0.2962
   },
   "1773357": {
     "id": 1773357,
@@ -22679,10 +22681,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.9813
+    "popularity": 0.655
   },
   "1765587": {
     "id": 1765587,
@@ -22731,10 +22733,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.4078
+    "popularity": 0.519
   },
   "1615596": {
     "id": 1615596,
@@ -22787,10 +22789,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.7399
+    "popularity": 0.5724
   },
   "1773826": {
     "id": 1773826,
@@ -22814,10 +22816,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 1.0648
+    "popularity": 0.4473
   },
   "1771047": {
     "id": 1771047,
@@ -22839,7 +22841,7 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [
       {
         "name": "Passionflix Amazon Channel",
@@ -22849,7 +22851,7 @@ window.FA_PUBLISHED = {
       }
     ],
     "release_date": "2026-11-16",
-    "popularity": 0.9074
+    "popularity": 0.8334
   },
   "1748010": {
     "id": 1748010,
@@ -22871,10 +22873,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.5626
+    "popularity": 0.5636
   },
   "1733772": {
     "id": 1733772,
@@ -22898,10 +22900,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.5355
+    "popularity": 0.3305
   },
   "1698273": {
     "id": 1698273,
@@ -22923,10 +22925,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.2044
+    "popularity": 0.1906
   },
   "1688811": {
     "id": 1688811,
@@ -22954,7 +22956,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.369
+    "popularity": 0.2839
   },
   "1644267": {
     "id": 1644267,
@@ -22981,7 +22983,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.6699
+    "popularity": 0.5778
   },
   "1624945": {
     "id": 1624945,
@@ -23005,10 +23007,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-16",
-    "popularity": 0.7018
+    "popularity": 0.5108
   },
   "1822061": {
     "id": 1822061,
@@ -29543,5 +29545,572 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-22",
     "popularity": 0.2542
+  },
+  "1299501": {
+    "id": 1299501,
+    "type": "movie",
+    "title": "The Awakening",
+    "poster_path": "/eoxL6ixns1ofw6gq9AsFd1rduW3.jpg",
+    "backdrop_path": "/8zjY32qSA82W1gLZ42gygWz1vTd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "During a global pandemic, Jason and Rebecca Reynolds uncover a conspiracy run by a hidden organisation known as The Order, whose influence reaches into the highest levels of global power. Hunted by The Order's enforcers, the duo race to expose what they've found.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-10",
+    "popularity": 1.4936
+  },
+  "335981": {
+    "id": 335981,
+    "type": "tv",
+    "title": "Cunk on Cinema",
+    "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+    "vote_average": 7.2,
+    "vote_count": 6,
+    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-12",
+    "popularity": 11.5756
+  },
+  "1826815": {
+    "id": 1826815,
+    "type": "movie",
+    "title": "Carmen, La Matador",
+    "poster_path": "/9wse0z4xobXga6zEhza4XwD38d6.jpg",
+    "backdrop_path": "/yenvsRrFqferuEtxjyvSg2hiO86.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.1164
+  },
+  "1821937": {
+    "id": 1821937,
+    "type": "movie",
+    "title": "Beyond the beyond",
+    "poster_path": "/vRzzPkBwLMruI5IAAqpGr4KsTdX.jpg",
+    "backdrop_path": "/aKKSTUQ6O8hRSgrZa90YdGR9hiH.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Following the loss of his partner, David wanders the city, heartbroken and lost. By chance, he comes across an occult shop and decides to step inside for a tarot reading. After laying out the cards, the tarot reader hands him a piece of paper containing a set of instructions: perform a ritual and visit the cemetery at nightfall. As David arrives at the cemetery, overwhelmed by despair, he encounters a spectral presence that brings him comfort.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.2139
+  },
+  "1819753": {
+    "id": 1819753,
+    "type": "movie",
+    "title": "Bitartean, gero",
+    "poster_path": "/oVCFnGgCKmVopArRCdvvDsDyd4Z.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the future, emotions and gestures have disappeared. But we are in the present: five researchers arrive on electric scooters in a village in the Basque Country, searching for what their time has forgotten. Through interviews and observation, they enter the intimacy of its inhabitants, until the boundaries between the different times begin to blur.",
+    "industry": "world",
+    "original_language": "eu",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "eu"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.3286
+  },
+  "1815740": {
+    "id": 1815740,
+    "type": "movie",
+    "title": "Ice Factory Ghost",
+    "poster_path": "/uc8SIL049ElRciyDoPxpnqWAUfu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khmer movie",
+    "industry": "world",
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.2931
+  },
+  "1810479": {
+    "id": 1810479,
+    "type": "movie",
+    "title": "If the Birds Sing",
+    "poster_path": "/xWh6bUCgNZfX46pyM2UXPlteUMz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "We retrace the path that was used by the women who walked up to the penitentiary of Fort San Cristóbal to help political prisoners between 1934 and 1945, as Spain went through Republic, Civil War, and Franco’s dictatorship. We search for their footprints, listen to their voices. The earth remembers.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "es",
+      "eu"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.256
+  },
+  "1806331": {
+    "id": 1806331,
+    "type": "movie",
+    "title": "BLACK STAR",
+    "poster_path": "/w0AtAO1OPJ2uzMdGOMiPXY1Cffp.jpg",
+    "backdrop_path": "/oUJub3RfWDZh8SLDBElLS5erUSd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Wilson trapped in a suffocating labyrinth of solipsism and modern burnout. Over one sleepless night he searches for something with no name, until a black star appears: a repeating light, an immovable loss, bright and black at the same time.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id",
+      "en",
+      "de"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.0738
+  },
+  "1774793": {
+    "id": 1774793,
+    "type": "movie",
+    "title": "Jingle Hell",
+    "poster_path": "/8zjDTCCwBMXBdRNvaLTsjpjaJ3Y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A group of strangers coming from different countries accepts a very exciting invite for Christmas. As they arrive at the location, they soon discover what are the real plans of the mastermind behind the whole thing.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "GB",
+      "AR"
+    ],
+    "production_countries": [
+      "AR",
+      "GB"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.1781
+  },
+  "1625362": {
+    "id": 1625362,
+    "type": "movie",
+    "title": "Holy Wood Dust",
+    "poster_path": "/9pyQnb9hWr0ggm3Qwgka4ALGsBN.jpg",
+    "backdrop_path": "/rqYZdzjP2BPCwX1AUS0lOH0UWmk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Every winter, millions of fir trees are chopped down, admired, and thrown away. The film follows their journey above and below ground, from human rituals to the hidden life inside the trees. A story about trees that we celebrate by cutting them down.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE",
+      "IT",
+      "ES"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.7324
+  },
+  "1611767": {
+    "id": 1611767,
+    "type": "movie",
+    "title": "Clashing Through the Snow",
+    "poster_path": "/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdrop_path": "/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 3.8155
+  },
+  "1545540": {
+    "id": 1545540,
+    "type": "movie",
+    "title": "Axolodyssey",
+    "poster_path": "/fbX705aP0Cqwp1wK6x9qGHMAuSj.jpg",
+    "backdrop_path": "/3Fm7EpqniSi57f8n9Yj4xwNUWKK.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An animated adventure about Jojo the Axolotl, taking on the world to find his family, set in a fantastically inspired Mexican lakeside.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.8137
+  },
+  "1493707": {
+    "id": 1493707,
+    "type": "movie",
+    "title": "The Other You",
+    "poster_path": "/oZ3IAltk7mMfd7V0WVSAAE0fWXw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This film exposes the hidden dangers of dating apps driven by the urgent consumption of sex and entertainment. Behind simple profile pictures often hide pathological narcissists and ambiguous characters. Looking for fleeting encounters, they prey on vulnerable users through flattery and deception.  In this virtual world, emotional connection is entirely absent. Everyone becomes a mere object of desire in a perverse, addictive game of dominance and submission that detaches users from reality. Ultimately, the virtual realm takes over, leading to a profound depersonalization where human beings are completely stripped of their humanity.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.3285
+  },
+  "1826832": {
+    "id": 1826832,
+    "type": "movie",
+    "title": "Revolution for Beginners",
+    "poster_path": "/zqV08QpKuNKYwezUihgGcEF6QzM.jpg",
+    "backdrop_path": "/4rFrUAUIq88eNw0pLmpvJHUbHVd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Romania, 1989. December 21st, the day the anti-communist revolution fully erupted. Everything is turned upside down. In a provincial town, \"neither big nor small, neither nice nor ugly\" - as the ever-present narrator describes it, a small, motley group of people tries to seize power \"in the name of the people.”",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "ro"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-22",
+    "popularity": 0.0194
+  },
+  "1185344": {
+    "id": 1185344,
+    "type": "movie",
+    "title": "The Beast",
+    "poster_path": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+    "backdrop_path": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+    "vote_average": 5.411,
+    "vote_count": 28,
+    "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "GB",
+      "US",
+      "ES",
+      "DE",
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-08",
+    "popularity": 84.5142
+  },
+  "312359": {
+    "id": 312359,
+    "type": "tv",
+    "title": "Dragon Ball Super: Beerus",
+    "poster_path": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+    "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "vote_average": 9.629,
+    "vote_count": 419,
+    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2026-10-11",
+    "popularity": 95.0046
+  },
+  "131488": {
+    "id": 131488,
+    "type": "tv",
+    "title": "The Empress",
+    "poster_path": "/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+    "backdrop_path": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+    "vote_average": 7.7,
+    "vote_count": 191,
+    "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Ended",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2022-09-29",
+    "popularity": 36.0902
+  },
+  "85077": {
+    "id": 85077,
+    "type": "tv",
+    "title": "The Chosen",
+    "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+    "backdrop_path": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+    "vote_average": 8.9,
+    "vote_count": 1061,
+    "overview": "The life of Christ through the eyes of those who encountered him.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Movie Sphere+",
+        "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2019-04-21",
+    "popularity": 88.5153
+  },
+  "37854": {
+    "id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "vote_average": 8.8,
+    "vote_count": 5656,
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "1999-10-20",
+    "popularity": 384.9749
   }
 };

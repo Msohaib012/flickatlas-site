@@ -32835,7 +32835,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.4793,
+    "popularity": 0.4871,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -33061,7 +33061,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The full schedule for the 16th Goddesses of Stardom Tag League Tournament, which kicks off on Sunday, November 1st at Korakuen Hall in Tokyo, has been decided. This tournament will be divided into two blocks, Red Goddesses and Blue Goddesses, with 9 teams in each block, for a total of 18 teams. A total of 72 official matches will be held until Saturday, November 28th at the Okazaki City Gymnasium in Aichi. The top two teams from each block will advance to the final tournament.",
     "industry": "world",
-    "popularity": 0.2929,
+    "popularity": 0.2114,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -33096,7 +33096,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "What if life gave you a second chance? The sea might grant you a second life, but it doesn’t teach you what to do with it.  After surviving a shipwreck in the middle of the Atlantic as a young sailor, a man carries an impossible question for decades: what should he do with the time he was never meant to have?  Through memories, silences, and a relationship shaped by the sea, *Borrowed Time* is an intimate reflection on the fragility of existence, the weight of memory, and the human need to find meaning in second chances.",
     "industry": "world",
-    "popularity": 0.1538,
+    "popularity": 0.377,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -33174,7 +33174,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two realities slowly align as Fang's chaos magic targeting pop star Eileen Rye triggers an unforeseen change. Fang seeks meaning in the mysterious thread they've pulled, both entering a world where memories, dreams, and digital encounters merge.",
     "industry": "world",
-    "popularity": 0.103,
+    "popularity": 0.1319,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -33209,7 +33209,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A junior footballer navigates the brutal hierarchy of a 1988 professional football club steeped in a culture of systemic bullying . His growing unease culminates in a hesitant act of defiance sparking a brutal backlash, turning the violence directly onto him.",
     "industry": "world",
-    "popularity": 0.2752,
+    "popularity": 0.2464,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -33250,7 +33250,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The architect of a virtual world called Presence is interviewed about its profound capabilities – it can trigger lucidity in Alzheimer's patients. Meanwhile, inside Presence, a daughter tries to reconnect with her mother, an Alzheimer's sufferer, and bring her back to the physical world.",
     "industry": "world",
-    "popularity": 0.0596,
+    "popularity": 0.0959,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -33292,7 +33292,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a dark factory, a bullying worker pushes his crew of robots harder and harder. They observe. They learn. And eventually, they act. The machines are learning, but what are we teaching them?",
     "industry": "world",
-    "popularity": 0.1804,
+    "popularity": 0.1306,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -33377,7 +33377,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A film about a mind-numbing job, delicious food, absurd numbers, big dreams, death, and toast.",
     "industry": "world",
-    "popularity": 0.1162,
+    "popularity": 0.1522,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -33418,7 +33418,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "May and Sultan struggle to live within a home consumed by silence after a devastating loss alters their relationship forever. While Sultan clings to hope and the possibility of moving forward, May endures relentless physical pain and carries a secret she cannot bring herself to reveal. As the distance between them grows, old suspicions resurface, and the burden she bears begins to fracture the fragile foundation of their marriage.",
     "industry": "world",
-    "popularity": 0.1488,
+    "popularity": 0.1636,
     "original_language": "ar",
     "origin_country": [
       "AE"
@@ -33460,7 +33460,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Edgar draws dancers in Amsterdam. Everyone knows him.",
     "industry": "world",
-    "popularity": 0.1224,
+    "popularity": 0.1385,
     "original_language": "en",
     "origin_country": [
       "NL"
@@ -33501,7 +33501,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A forty-year-old woman floats in a relationship bubble until she realizes it is too late.",
     "industry": "world",
-    "popularity": 0.1137,
+    "popularity": 0.0782,
     "original_language": "it",
     "origin_country": [
       "AL",
@@ -33629,7 +33629,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Thian 'Tarzan' de Vries is a young kickboxing sensation from the Netherlands who is rapidly conquering the international fight scene. Behind his invincible image, however, lies a turbulent past marked by addiction, crime, and time spent in youth detention. Kickboxing became both his escape and his salvation. As Thian rises through the ranks toward global recognition, an unease grows beneath the surface: can he keep control when the system that protects him begins to crack?",
     "industry": "world",
-    "popularity": 0.0926,
+    "popularity": 0.0769,
     "original_language": "nl",
     "origin_country": [
       "NL"
@@ -33841,7 +33841,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two former coworkers lose their insurance and decide couples therapy is a budget-friendly option",
     "industry": "world",
-    "popularity": 0.4816,
+    "popularity": 0.3931,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -33924,7 +33924,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Ignored by history for 40 years, the Oversteegen sisters' true story inspires \"Murderers\" (1941-1990). Two teenage girls lure a Nazi to his death. Echoing the psychological trauma of war, emigration, and today's chilling winds of fascism, the film asks: what is the true price of murder for a righteous cause, and what remains of our humanity after we are forced to cross the ultimate line?",
     "industry": "world",
-    "popularity": 0.0779,
+    "popularity": 0.159,
     "original_language": "hu",
     "origin_country": [
       "NL"
@@ -34011,7 +34011,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a wasteland of rubble and ruin, J. Doe—a Black Patient Zero—navigates the wreckage of a nation haunted by its own reflection. Pursued by histories of violence, erasure, and resistance, he confronts the ghosts of an unfinished reckoning. Blurring archive and hallucination, Disordered is a visual requiem—part ritual, part rupture—that confronts the consequences of a soul that cannot forget, yet refuses to remember its past.",
     "industry": "world",
-    "popularity": 0.2617,
+    "popularity": 0.2368,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -34050,7 +34050,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A fairy tale about an animated film. The life of this film suddenly takes a cursed turn. The consequences of this change become apparent",
     "industry": "world",
-    "popularity": 0.128,
+    "popularity": 0.111,
     "original_language": "tr",
     "origin_country": [
       "TR"
@@ -34088,7 +34088,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The quest for a lost cyberpunk book written in the 1990s by Pepe Rojo, rumored to be a prophetic work of its time. After uncovering new leads, an obsessed young man embarks on a journey across northern Mexico to track down the remaining fragments and fuel his own delusion.",
     "industry": "world",
-    "popularity": 0.2921,
+    "popularity": 0.2412,
     "original_language": "es",
     "origin_country": [
       "MX"
@@ -34165,7 +34165,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Egos, money and science intersect in this modern American parable that follows the king of the dinosaurs and those who unearth its remains. Paleontologist Dr. Thomas Carr hopes his latest find, a juvenile T. rex, can keep his crucial research alive as he navigates the crumbling world of academia and relentless funding pressure. Meanwhile, commercial fossil hunter Alan Detrich leads multimillion-dollar dinosaur auctions and teams up with a Kansas museum to show off a T. rex specimen so rare it could change the face of prehistory. As these two titans of paleontology clash, we are confronted with two paths for the future of science: raw capitalism or putting collective knowledge before the pursuit of profit.",
     "industry": "world",
-    "popularity": 0.3932,
+    "popularity": 0.4558,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -34551,7 +34551,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1553,
+    "popularity": 0.1819,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -34568,7 +34568,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -34580,7 +34580,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1511829": {
     "id": 1511829,
@@ -34632,7 +34633,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On 3 February 2018, Luca Traini opens fire in the streets of Macerata, wounding six people. Two of them, Kofi Wilson and Omar Fadera, had reached Italy after a dangerous journey from Ghana and Gambia, risking their lives in the desert and in Libya. They believed they were finally safe in Macerata: “Maybe I’m in Heaven,” Kofi says. But they were not.",
     "industry": "world",
-    "popularity": 0.1359,
+    "popularity": 0.2805,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -34649,7 +34650,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "IT"
     ],
@@ -34661,7 +34662,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 61,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1307474": {
     "id": 1307474,
@@ -34713,7 +34715,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1941,
+    "popularity": 0.5528,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -34730,7 +34732,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -34741,7 +34743,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1796880": {
     "id": 1796880,
@@ -34793,7 +34796,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "4 years after the events of “The Noah Movie: The Complete Epic”,  Noah Feliz is operating quietly in New York City.  Things go wrong quickly once again when he almost gets killed at a friendly dinner hosted by fellow don, Salvatore Giorgio. See how it all ends in this fantastic conclusion to an amazing crime saga.",
     "industry": "world",
-    "popularity": 0.3075,
+    "popularity": 0.2325,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -34812,29 +34815,30 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "THE EPIC CONCLUSION TO AN EPIC CRIME SAGA",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "PG-13",
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 29,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1815438": {
     "id": 1815438,
     "type": "movie",
     "title": "erōtikós",
     "poster_path": "/w1Lk1jynfYEAmQxuLfpZX8TIcSo.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/ijvNyQM65zpcaTskuTLBmrqMtEb.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "erōtikós is a documentary that expands upon the mythologies of Eros, addressing love, sexuality, and eroticism through clinical, aesthetic, and political lenses.",
+    "overview": "A poetic and political investigation into eroticism as a vital force. The documentary essay delves into the tension between control and desire to explore what remains of the erotic in a society shaped by guilt and colonial logic. Uniting philosophy, psychoanalysis, and art through deep interviews and visceral performances, the film challenges moral constraints and invites us to recognize the body as the first territory to be counter-colonized.",
     "industry": "world",
-    "popularity": 0.3622,
-    "original_language": "en",
+    "popularity": 0.6019,
+    "original_language": "pt",
     "origin_country": [
-      "US"
+      "BR"
     ],
     "trailer": null,
     "categories": [
@@ -34846,14 +34850,17 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
-    "spoken_languages": [],
+    "spoken_languages": [
+      "pt"
+    ],
     "certification": "",
     "release_date": "2026-11-16",
     "date_kind": "release",
-    "runtime": 0,
-    "providers": []
+    "runtime": 66,
+    "providers": [],
+    "providers_wtw": []
   },
   "1812543": {
     "id": 1812543,
@@ -34865,7 +34872,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In 2005, a group of up-and-coming filmmakers based in Lower Manhattan set out to make an independent horror film called Mulberry Street, in which a virus turns ordinary New Yorkers into rat people. 20 years later, they reflect on the making of the film and what it has to say about the evolution of New York City.",
     "industry": "world",
-    "popularity": 1.258,
+    "popularity": 0.7119,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -34882,7 +34889,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -34891,19 +34898,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 76,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1809555": {
     "id": 1809555,
     "type": "movie",
     "title": "Os Mortos-Vivos: Algo a Temer",
     "poster_path": "/fXwfLY1L6Lvzata2Rv1Cet4CFPV.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/9uxXkx9Dht831bHK3KprcPQk07e.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.121,
+    "popularity": 0.1337,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -34921,7 +34929,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "BR"
     ],
@@ -34930,7 +34938,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1805456": {
     "id": 1805456,
@@ -34942,7 +34951,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "June stays endlessly busy and tethered to her devices to keep her demons at bay. But when she forgets to plug in her phone before falling asleep, she’s forced to face the monster her denial has unleashed.",
     "industry": "world",
-    "popularity": 0.49,
+    "popularity": 0.5547,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -34959,7 +34968,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -34970,7 +34979,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 11,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1805451": {
     "id": 1805451,
@@ -34982,7 +34992,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Set on Halloween night, CUTS follows a group of young friends who cross paths with a mysterious figure wearing a cracked clown mask. What they mistake for an elaborate Halloween prank quickly descends into a brutal fight for survival.",
     "industry": "world",
-    "popularity": 0.1206,
+    "popularity": 0.0597,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -34999,7 +35009,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -35010,7 +35020,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 10,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1803408": {
     "id": 1803408,
@@ -35022,7 +35033,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Childhood friends Ling Zi Ming and Cheng Yi, along with bickering duo Lu Xiang Lin and Yue Yu Zhi, have grown up side by side. The four boys share the happiest days of their youth together, but along the way, subtle changes begin to emerge in their feelings for one another. They once believed they would never have to say goodbye, yet as they grow older, their paths gradually lead them in different directions...",
     "industry": "world",
-    "popularity": 0.7038,
+    "popularity": 0.3294,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -35040,7 +35051,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "CN"
     ],
@@ -35049,7 +35060,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1803222": {
     "id": 1803222,
@@ -35061,7 +35073,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A lonely house on a farm is haunted by a scarecrow, but what lives inside the house is far more dangerous.",
     "industry": "world",
-    "popularity": 0.6983,
+    "popularity": 0.6799,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -35078,7 +35090,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -35089,7 +35101,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 12,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1802622": {
     "id": 1802622,
@@ -35101,7 +35114,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "As a burdened teen girl’s hallucinations intensify, she confides in her devout mother, unaware of a buried truth resurfacing to fracture the reality within their home.",
     "industry": "world",
-    "popularity": 0.0594,
+    "popularity": 0.2573,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -35119,7 +35132,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -35130,7 +35143,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 3,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1797144": {
     "id": 1797144,
@@ -35142,7 +35156,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Eclipse of the moon. The shadow of the earth gets projected onto the moon's surface. The Super-8 camera tries to catch it. A playful imprint on the emulsion, brought back to light by hand in the darkroom.",
     "industry": "world",
-    "popularity": 0.133,
+    "popularity": 0.1279,
     "original_language": "xx",
     "origin_country": [
       "DE",
@@ -35160,7 +35174,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "xx"
@@ -35169,7 +35183,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 4,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1796931": {
     "id": 1796931,
@@ -35222,7 +35237,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Cyprus, July 1974. President Makarios has been ousted in a coup, and a Turkish invasion is imminent. A pilot recounts the very last flight to Nicosia Airport: should he land or not?",
     "industry": "world",
-    "popularity": 0.3648,
+    "popularity": 0.3371,
     "original_language": "nl",
     "origin_country": [
       "NL"
@@ -35239,7 +35254,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "The last flight to Nicosia Airport with captain Adamos Marneros",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "NL"
     ],
@@ -35250,7 +35265,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 42,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1796456": {
     "id": 1796456,
@@ -35262,7 +35278,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An essay film exploring the gap between the propaganda and reality of Soviet labor camps. Composed entirely of archival footage that often evokes a reality all its own, it juxtaposes conflicting accounts from figures including Gorky and Solzhenitsyn.",
     "industry": "world",
-    "popularity": 0.3721,
+    "popularity": 0.3492,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -35279,7 +35295,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "ES"
     ],
@@ -35290,7 +35306,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 84,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1807995": {
     "id": 1807995,
@@ -35509,7 +35526,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On 14 March 1978, 17-year-old Rico Carpaye was killed by far-right militants on the island of Réunion. Those responsible went unpunished. Nearly 50 years later, this desktop documentary unravels the story behind the silence surrounding the crime.",
     "industry": "world",
-    "popularity": 0.2914,
+    "popularity": 0.2962,
     "original_language": "fr",
     "origin_country": [
       "RE"
@@ -35526,7 +35543,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "RE",
       "FR"
@@ -35538,7 +35555,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 87,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1773357": {
     "id": 1773357,
@@ -35667,7 +35685,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Laboring in a Cuban ship graveyard, an almost apocalyptic world of fire and creaking sheets of steel, Pitufo dreams of a better life. An atmospheric, magical glimpse into a life on society's margins.",
     "industry": "world",
-    "popularity": 0.9813,
+    "popularity": 0.655,
     "original_language": "es",
     "origin_country": [
       "CU"
@@ -35684,7 +35702,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "CU",
       "FR",
@@ -35697,7 +35715,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 85,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1765587": {
     "id": 1765587,
@@ -35748,7 +35767,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The film follows the months after December 1, 2024, when Edoardo Bove suddenly collapses on the pitch during Fiorentina’s match against Inter. The incident disrupts what seemed to be a clear path for one of Italian football’s brightest young talents and marks the beginning of an entirely new chapter in his life. From that moment on, Edoardo faces a suddenly uncertain future: will he play again? Will he still be able to do so in Italy? And who is Edoardo beyond football?",
     "industry": "world",
-    "popularity": 0.4078,
+    "popularity": 0.519,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -35765,7 +35784,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "Edoardo Bove is releasing a documentary tracing his on-pitch cardiac arrest and his return to football with Watford.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "IT"
     ],
@@ -35776,7 +35795,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1615596": {
     "id": 1615596,
@@ -35834,7 +35854,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Yang, a nurse with an unusually selective sense of smell, can tolerate only disinfectant and lemon—until she encounters the scent of Fang, a man in a vegetative state. As she imagines her way into his memories, guilt and forbidden desires, the boundaries between intimacy, projection and death begin to dissolve. Moving between waking life and dream, Aroma is a dark contemporary fairy tale about the body, desire, and love that refuses to disappear when the body does.",
     "industry": "world",
-    "popularity": 0.7399,
+    "popularity": 0.5724,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -35853,7 +35873,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "KR",
       "US",
@@ -35866,7 +35886,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 80,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1773826": {
     "id": 1773826,
@@ -35878,7 +35899,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 1.0648,
+    "popularity": 0.4473,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -35895,7 +35916,7 @@ window.FA_PUBLISHED = {
       "Fantasy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "BR"
     ],
@@ -35906,7 +35927,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1771047": {
     "id": 1771047,
@@ -35918,7 +35940,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A no-nonsense PR executive Lori agrees to help a charmingly irresponsible toy empire heir Emmett find love and prove he’s the right man to take over the company when his father retires – all by Christmas. But after a string of hilariously failed dates, she discovers the perfect match might be the one she never planned on: herself.",
     "industry": "world",
-    "popularity": 0.9074,
+    "popularity": 0.8334,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -35937,7 +35959,7 @@ window.FA_PUBLISHED = {
       "TV Movie"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -35953,6 +35975,14 @@ window.FA_PUBLISHED = {
         "region": "US",
         "type": "flatrate"
       }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Passionflix Amazon Channel",
+        "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
     ]
   },
   "1748010": {
@@ -35965,7 +35995,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Documentary on the making and legacy of Mulberry Street featuring new interviews with cast and crew",
     "industry": "world",
-    "popularity": 0.5626,
+    "popularity": 0.5636,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -35982,7 +36012,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -35991,7 +36021,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1733772": {
     "id": 1733772,
@@ -36003,7 +36034,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "At the end of the 70s, Eduardo Kabral continues with his TV show presenting all the members of his crew.",
     "industry": "world",
-    "popularity": 0.5355,
+    "popularity": 0.3305,
     "original_language": "es",
     "origin_country": [
       "MX"
@@ -36020,7 +36051,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "MX"
     ],
@@ -36031,7 +36062,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 24,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1698273": {
     "id": 1698273,
@@ -36043,7 +36075,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On the night of her 21st birthday, a sexually frustrated virgin tries to convince her celibate boyfriend to have sex with her.",
     "industry": "world",
-    "popularity": 0.2044,
+    "popularity": 0.1906,
     "original_language": "en",
     "origin_country": [
       "AU"
@@ -36061,7 +36093,7 @@ window.FA_PUBLISHED = {
       "Romance"
     ],
     "tagline": "All she wants is sex, all he wants is... celibacy?",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -36070,7 +36102,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 9,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1688811": {
     "id": 1688811,
@@ -36082,7 +36115,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Stripped of color and clothes, ready to be cleansed. A young man's midnight bath becomes a surreal nightmare the moment he realizes he is not alone.",
     "industry": "world",
-    "popularity": 0.369,
+    "popularity": 0.2839,
     "original_language": "en",
     "origin_country": [
       "FR"
@@ -36113,7 +36146,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 4,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1644267": {
     "id": 1644267,
@@ -36125,7 +36159,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.6699,
+    "popularity": 0.5778,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -36153,7 +36187,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1624945": {
     "id": 1624945,
@@ -36165,7 +36200,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An ageing Elvis impersonator finally faces up to his demons as he travels through the Irish midlands with his long-lost brother, who has recently quit his life in a monastery.",
     "industry": "world",
-    "popularity": 0.7018,
+    "popularity": 0.5108,
     "original_language": "en",
     "origin_country": [
       "IE"
@@ -36182,7 +36217,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IE"
     ],
@@ -36193,7 +36228,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-16",
     "date_kind": "festival",
     "runtime": 107,
-    "providers": []
+    "providers": [],
+    "providers_wtw": []
   },
   "1822061": {
     "id": 1822061,
@@ -46665,5 +46701,1242 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [],
     "providers_wtw": []
+  },
+  "1299501": {
+    "id": 1299501,
+    "type": "movie",
+    "title": "The Awakening",
+    "poster_path": "/eoxL6ixns1ofw6gq9AsFd1rduW3.jpg",
+    "backdrop_path": "/8zjY32qSA82W1gLZ42gygWz1vTd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "During a global pandemic, Jason and Rebecca Reynolds uncover a conspiracy run by a hidden organisation known as The Order, whose influence reaches into the highest levels of global power. Hunted by The Order's enforcers, the duo race to expose what they've found.",
+    "industry": "world",
+    "popularity": 1.4936,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 7000000,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "The movie they don't want you to see.",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "335981": {
+    "id": 335981,
+    "type": "tv",
+    "title": "Cunk on Cinema",
+    "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+    "vote_average": 7.2,
+    "vote_count": 6,
+    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+    "industry": "world",
+    "popularity": 11.5756,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "_qD_dLCMa3w",
+      "name": "Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-11-12",
+    "networks": [
+      "BBC Two"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 3,
+    "channel": "BBC Two",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 3,
+        "air_date": "2026-11-12",
+        "name": "Miniseries"
+      }
+    ],
+    "created_by": [
+      "Charlie Brooker"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1826815": {
+    "id": 1826815,
+    "type": "movie",
+    "title": "Carmen, La Matador",
+    "poster_path": "/9wse0z4xobXga6zEhza4XwD38d6.jpg",
+    "backdrop_path": "/yenvsRrFqferuEtxjyvSg2hiO86.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1164,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Music",
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1821937": {
+    "id": 1821937,
+    "type": "movie",
+    "title": "Beyond the beyond",
+    "poster_path": "/vRzzPkBwLMruI5IAAqpGr4KsTdX.jpg",
+    "backdrop_path": "/aKKSTUQ6O8hRSgrZa90YdGR9hiH.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Following the loss of his partner, David wanders the city, heartbroken and lost. By chance, he comes across an occult shop and decides to step inside for a tarot reading. After laying out the cards, the tarot reader hands him a piece of paper containing a set of instructions: perform a ritual and visit the cemetery at nightfall. As David arrives at the cemetery, overwhelmed by despair, he encounters a spectral presence that brings him comfort.",
+    "industry": "world",
+    "popularity": 0.2139,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 3,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1819753": {
+    "id": 1819753,
+    "type": "movie",
+    "title": "Bitartean, gero",
+    "poster_path": "/oVCFnGgCKmVopArRCdvvDsDyd4Z.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the future, emotions and gestures have disappeared. But we are in the present: five researchers arrive on electric scooters in a village in the Basque Country, searching for what their time has forgotten. Through interviews and observation, they enter the intimacy of its inhabitants, until the boundaries between the different times begin to blur.",
+    "industry": "world",
+    "popularity": 0.3286,
+    "original_language": "eu",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "eu"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 23,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1815740": {
+    "id": 1815740,
+    "type": "movie",
+    "title": "Ice Factory Ghost",
+    "poster_path": "/uc8SIL049ElRciyDoPxpnqWAUfu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khmer movie",
+    "industry": "world",
+    "popularity": 0.2931,
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1810479": {
+    "id": 1810479,
+    "type": "movie",
+    "title": "If the Birds Sing",
+    "poster_path": "/xWh6bUCgNZfX46pyM2UXPlteUMz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "We retrace the path that was used by the women who walked up to the penitentiary of Fort San Cristóbal to help political prisoners between 1934 and 1945, as Spain went through Republic, Civil War, and Franco’s dictatorship. We search for their footprints, listen to their voices. The earth remembers.",
+    "industry": "world",
+    "popularity": 0.256,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "es",
+      "eu"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "festival",
+    "runtime": 24,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1806331": {
+    "id": 1806331,
+    "type": "movie",
+    "title": "BLACK STAR",
+    "poster_path": "/w0AtAO1OPJ2uzMdGOMiPXY1Cffp.jpg",
+    "backdrop_path": "/oUJub3RfWDZh8SLDBElLS5erUSd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Wilson trapped in a suffocating labyrinth of solipsism and modern burnout. Over one sleepless night he searches for something with no name, until a black star appears: a repeating light, an immovable loss, bright and black at the same time.",
+    "industry": "world",
+    "popularity": 0.0738,
+    "original_language": "en",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "The loudest noise is the silence inside your head.",
+    "status": "Post Production",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id",
+      "en",
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 10,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1774793": {
+    "id": 1774793,
+    "type": "movie",
+    "title": "Jingle Hell",
+    "poster_path": "/8zjDTCCwBMXBdRNvaLTsjpjaJ3Y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A group of strangers coming from different countries accepts a very exciting invite for Christmas. As they arrive at the location, they soon discover what are the real plans of the mastermind behind the whole thing.",
+    "industry": "world",
+    "popularity": 0.1781,
+    "original_language": "es",
+    "origin_country": [
+      "GB",
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR",
+      "GB"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1625362": {
+    "id": 1625362,
+    "type": "movie",
+    "title": "Holy Wood Dust",
+    "poster_path": "/9pyQnb9hWr0ggm3Qwgka4ALGsBN.jpg",
+    "backdrop_path": "/rqYZdzjP2BPCwX1AUS0lOH0UWmk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Every winter, millions of fir trees are chopped down, admired, and thrown away. The film follows their journey above and below ground, from human rituals to the hidden life inside the trees. A story about trees that we celebrate by cutting them down.",
+    "industry": "world",
+    "popularity": 0.7324,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE",
+      "IT",
+      "ES"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1611767": {
+    "id": 1611767,
+    "type": "movie",
+    "title": "Clashing Through the Snow",
+    "poster_path": "/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdrop_path": "/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After weather grounds all flights east for the holidays, two work rivals competing for the same job begrudgingly embark on a cross-country road trip that brings them closer together in ways they never imagined.",
+    "industry": "world",
+    "popularity": 3.8155,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "nOyT9RkGRn4",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "It's beginning to look a lot like chaos.",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1545540": {
+    "id": 1545540,
+    "type": "movie",
+    "title": "Axolodyssey",
+    "poster_path": "/fbX705aP0Cqwp1wK6x9qGHMAuSj.jpg",
+    "backdrop_path": "/3Fm7EpqniSi57f8n9Yj4xwNUWKK.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An animated adventure about Jojo the Axolotl, taking on the world to find his family, set in a fantastically inspired Mexican lakeside.",
+    "industry": "world",
+    "popularity": 0.8137,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 11,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1493707": {
+    "id": 1493707,
+    "type": "movie",
+    "title": "The Other You",
+    "poster_path": "/oZ3IAltk7mMfd7V0WVSAAE0fWXw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This film exposes the hidden dangers of dating apps driven by the urgent consumption of sex and entertainment. Behind simple profile pictures often hide pathological narcissists and ambiguous characters. Looking for fleeting encounters, they prey on vulnerable users through flattery and deception.  In this virtual world, emotional connection is entirely absent. Everyone becomes a mere object of desire in a perverse, addictive game of dominance and submission that detaches users from reality. Ultimately, the virtual realm takes over, leading to a profound depersonalization where human beings are completely stripped of their humanity.",
+    "industry": "world",
+    "popularity": 0.3285,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "festival",
+    "runtime": 20,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1826832": {
+    "id": 1826832,
+    "type": "movie",
+    "title": "Revolution for Beginners",
+    "poster_path": "/zqV08QpKuNKYwezUihgGcEF6QzM.jpg",
+    "backdrop_path": "/4rFrUAUIq88eNw0pLmpvJHUbHVd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Romania, 1989. December 21st, the day the anti-communist revolution fully erupted. Everything is turned upside down. In a provincial town, \"neither big nor small, neither nice nor ugly\" - as the ever-present narrator describes it, a small, motley group of people tries to seize power \"in the name of the people.”",
+    "industry": "world",
+    "popularity": 0.0194,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "ro"
+    ],
+    "certification": "",
+    "release_date": "2026-11-22",
+    "date_kind": "festival",
+    "runtime": 84,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1185344": {
+    "id": 1185344,
+    "type": "movie",
+    "title": "The Beast",
+    "poster_path": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+    "backdrop_path": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+    "vote_average": 5.411,
+    "vote_count": 28,
+    "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+    "industry": "world",
+    "popularity": 84.5142,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "5ckqV_uf8E0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "You know Air Force One. Now meet...",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US",
+      "ES",
+      "DE",
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-08",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "312359": {
+    "id": 312359,
+    "type": "tv",
+    "title": "Dragon Ball Super: Beerus",
+    "poster_path": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+    "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "vote_average": 9.629,
+    "vote_count": 419,
+    "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+    "industry": "world",
+    "popularity": 95.0046,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "lJMXyiENRAM",
+      "name": "Official English Dub Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "TV-PG",
+    "first_air_date": "2026-10-11",
+    "networks": [
+      "Fuji TV",
+      "Tokai Television Broadcasting",
+      "Kansai TV",
+      "Fukui TV",
+      "Hokkaido Cultural Broadcasting",
+      "Iwate Menkoi Television",
+      "TOS",
+      "Sendai Television",
+      "SAGA TV",
+      "Ishikawa TV",
+      "TNC",
+      "OHK",
+      "Kochi Sun Sun Broadcasting",
+      "Television Shin Hiroshima System",
+      "TV Shizuoka",
+      "UMK TV Miyazaki",
+      "NST",
+      "NBS",
+      "Sakuranbo TV",
+      "TSK",
+      "Ehime Broadcasting",
+      "KTS",
+      "Fukushima TV",
+      "AKT",
+      "Toyama Television",
+      "TV Kumamoto",
+      "Okinawa Television Broadcasting",
+      "KTN"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 19,
+    "channel": "Fuji TV",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 19,
+        "air_date": "2026-10-10",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "131488": {
+    "id": 131488,
+    "type": "tv",
+    "title": "The Empress",
+    "poster_path": "/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+    "backdrop_path": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+    "vote_average": 7.7,
+    "vote_count": 191,
+    "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+    "industry": "world",
+    "popularity": 36.0902,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": {
+      "key": "KfySe96FPr8",
+      "name": "The Empress | Official Trailer | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "A",
+    "first_air_date": "2022-09-29",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 18,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2022-09-29",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 6,
+        "air_date": "2024-11-22",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 6,
+        "air_date": "2026-11-12",
+        "name": "Season 3"
+      }
+    ],
+    "created_by": [
+      "Katharina Eyssen"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "85077": {
+    "id": 85077,
+    "type": "tv",
+    "title": "The Chosen",
+    "poster_path": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+    "backdrop_path": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
+    "vote_average": 8.9,
+    "vote_count": 1061,
+    "overview": "The life of Christ through the eyes of those who encountered him.",
+    "industry": "world",
+    "popularity": 88.5153,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "5CVj41dtkIA",
+      "name": "The Chosen: Last Supper Official Trailer (Season 5)",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Family",
+      "Drama"
+    ],
+    "tagline": "Rise up.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2019-04-21",
+    "networks": [
+      "Prime Video",
+      "VidAngel",
+      "Angel",
+      "TheChosen.tv"
+    ],
+    "number_of_seasons": 6,
+    "number_of_episodes": 46,
+    "channel": "Prime Video",
+    "episode_run_time": [
+      60
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 331,
+        "air_date": "2017-12-01",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2019-04-21",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 8,
+        "air_date": "2021-04-04",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 8,
+        "air_date": "2022-12-11",
+        "name": "Season 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 8,
+        "air_date": "2024-06-02",
+        "name": "Season 4"
+      },
+      {
+        "season_number": 5,
+        "episode_count": 8,
+        "air_date": "2025-06-15",
+        "name": "Last Supper"
+      },
+      {
+        "season_number": 6,
+        "episode_count": 6,
+        "air_date": "2026-11-15",
+        "name": "Season 6"
+      }
+    ],
+    "created_by": [
+      "Dallas Jenkins"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Movie Sphere+",
+        "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Movie Sphere+",
+        "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "37854": {
+    "id": 37854,
+    "type": "tv",
+    "title": "One Piece",
+    "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+    "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "vote_average": 8.8,
+    "vote_count": 5656,
+    "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+    "industry": "world",
+    "popularity": 384.9749,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "1KMcoJBMWE4",
+      "name": "We're Just Getting Started Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Animation"
+    ],
+    "tagline": "Set sail for One Piece!",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "1999-10-20",
+    "networks": [
+      "Fuji TV",
+      "Tokai Television Broadcasting"
+    ],
+    "number_of_seasons": 23,
+    "number_of_episodes": 1180,
+    "channel": "Fuji TV",
+    "episode_run_time": [
+      24
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 39,
+        "air_date": "1999-12-15",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 61,
+        "air_date": "1999-10-20",
+        "name": "East Blue"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 16,
+        "air_date": "",
+        "name": "Whiskey Peak & Little Garden"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 14,
+        "air_date": "",
+        "name": "Drum Island"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 39,
+        "air_date": "",
+        "name": "Alabasta"
+      },
+      {
+        "season_number": 5,
+        "episode_count": 13,
+        "air_date": "",
+        "name": "Dreams!, The Zenny Pirate Crew Sortie!, Beyond the Rainbow"
+      },
+      {
+        "season_number": 6,
+        "episode_count": 52,
+        "air_date": "",
+        "name": "Skypiea"
+      },
+      {
+        "season_number": 7,
+        "episode_count": 33,
+        "air_date": "",
+        "name": "G-8 & Long Ring Long Land"
+      },
+      {
+        "season_number": 8,
+        "episode_count": 35,
+        "air_date": "",
+        "name": "Water Seven"
+      },
+      {
+        "season_number": 9,
+        "episode_count": 73,
+        "air_date": "",
+        "name": "Enies Lobby"
+      },
+      {
+        "season_number": 10,
+        "episode_count": 45,
+        "air_date": "",
+        "name": "Thriller Bark"
+      },
+      {
+        "season_number": 11,
+        "episode_count": 26,
+        "air_date": "",
+        "name": "Sabaody Archipelago"
+      },
+      {
+        "season_number": 12,
+        "episode_count": 14,
+        "air_date": "",
+        "name": "Amazon Lily"
+      },
+      {
+        "season_number": 13,
+        "episode_count": 101,
+        "air_date": "",
+        "name": "Impel Down & Marineford"
+      },
+      {
+        "season_number": 14,
+        "episode_count": 58,
+        "air_date": "",
+        "name": "Fishman Island"
+      },
+      {
+        "season_number": 15,
+        "episode_count": 62,
+        "air_date": "",
+        "name": "Punk Hazard"
+      },
+      {
+        "season_number": 16,
+        "episode_count": 50,
+        "air_date": "",
+        "name": "Dressrosa"
+      },
+      {
+        "season_number": 17,
+        "episode_count": 56,
+        "air_date": "",
+        "name": "Dressrosa (2)"
+      },
+      {
+        "season_number": 18,
+        "episode_count": 55,
+        "air_date": "2016-07-13",
+        "name": "Zou"
+      },
+      {
+        "season_number": 19,
+        "episode_count": 74,
+        "air_date": "2017-09-05",
+        "name": "Whole Cake Island"
+      },
+      {
+        "season_number": 20,
+        "episode_count": 14,
+        "air_date": "2019-04-01",
+        "name": "Levely Arc"
+      },
+      {
+        "season_number": 21,
+        "episode_count": 197,
+        "air_date": "2019-07-08",
+        "name": "Wano Country Arc"
+      },
+      {
+        "season_number": 22,
+        "episode_count": 67,
+        "air_date": "",
+        "name": "Egghead"
+      },
+      {
+        "season_number": 23,
+        "episode_count": 25,
+        "air_date": "",
+        "name": "Elbaph"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
   }
 };

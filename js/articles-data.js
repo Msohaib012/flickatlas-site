@@ -160891,5 +160891,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 22:10:00 -0500"
+  },
+  "10p3zsr": {
+    "id": "10p3zsr",
+    "type": "news",
+    "headline": "Akshay Kumar's Science-Fiction Action Thriller Samuk Locks Theatrical Release Date and Unveils First-Look Poster",
+    "dek": "Bollywood superstar Akshay Kumar has officially announced the arrival date for his upcoming alien survival thriller Samuk, sharing a teaser and first-look poster.",
+    "body": [
+      {
+        "h": "Release Date Announcement",
+        "p": [
+          "Bollywood superstar Akshay Kumar has officially locked the theatrical release date for his upcoming science-fiction action thriller titled Samuk. The high-profile project is scheduled to arrive in cinemas on May 28, 2027.",
+          "The release date confirmation came alongside a fresh teaser announcement shared by the leading actor across his social media platforms, generating considerable excitement among moviegoers."
+        ]
+      },
+      {
+        "h": "First Look and Survival Atmosphere",
+        "p": [
+          "Alongside the release date, the creative team offered an initial glimpse into the project's eerie survival-horror aesthetic through a promotional poster and teaser visuals.",
+          "The teaser footage highlights a terrifying extraterrestrial creature's claw emerging against a dark forest backdrop, followed by a lone armed figure played by Akshay Kumar standing inside a rocky cave setting."
+        ]
+      },
+      {
+        "h": "Plot Premise and Character Dynamics",
+        "p": [
+          "The storyline reportedly centers around an elite security officer tasked with the critical mission of protecting the Indian Prime Minister from a dangerous extremist threat.",
+          "Complicating this mission further, the protagonist must also confront a terrifying extraterrestrial creature, blending military action with supernatural horror and science fiction elements."
+        ]
+      },
+      {
+        "h": "Director and Production Team",
+        "p": [
+          "Samuk is directed by filmmaker Kanishk Varma and backed by producer Vipul Amrutlal Shah under the banner of Sunshine Pictures.",
+          "This project marks a major creative reunion between Akshay Kumar and Vipul Shah after a gap of more than a decade, following their previous collaborations on successful films like Namastey London, Waqt, and Holiday."
+        ]
+      },
+      {
+        "h": "International Technical Crew",
+        "p": [
+          "To bring the terrifying antagonist to life, the production enlisted Hollywood creature-effects specialist Alec Gillis, renowned for his contributions to the Alien and Predator franchises.",
+          "Additionally, British action director Luke Tumber is associated with the movie, with the production team prioritizing practical creature effects alongside computer-generated visuals to ensure a realistic survival experience."
+        ]
+      },
+      {
+        "h": "Production Progress and Cast",
+        "p": [
+          "Principal photography has progressed significantly, with the film completing an extensive shooting schedule in the United Kingdom and approximately 80 percent of total production finished by October.",
+          "Beyond the male lead, the movie features an ensemble cast including Rukmini Maitra, Vineet Kumar Singh, Rajat Kapoor, Swanand Kirkire, Banita Sandhu, and Sushant Singh in pivotal roles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Akshay Kumar has announced that his upcoming science-fiction action thriller Samuk will release in theaters on May 28, 2027, accompanied by a teaser poster revealing a survival-horror aesthetic. Directed by Kanishk Varma and produced by Vipul Amrutlal Shah, the film incorporates international creature effects by Alec Gillis and features an ensemble cast led by Kumar."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar's Samuk releases in cinemas on May 28, 2027.",
+      "The film is directed by Kanishk Varma and produced by Vipul Amrutlal Shah under Sunshine Pictures.",
+      "Hollywood creature-effects specialist Alec Gillis and British action director Luke Tumber are associated with the project.",
+      "Approximately 80 percent of production was finished by October after a major shooting schedule in the United Kingdom.",
+      "The cast includes Rukmini Maitra, Vineet Kumar Singh, Rajat Kapoor, Swanand Kirkire, Banita Sandhu, and Sushant Singh."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Kanishk Varma",
+        "Vipul Amrutlal Shah",
+        "Alec Gillis",
+        "Luke Tumber",
+        "Rukmini Maitra",
+        "Vineet Kumar Singh",
+        "Rajat Kapoor",
+        "Swanand Kirkire",
+        "Banita Sandhu",
+        "Sushant Singh"
+      ],
+      "titles": [
+        "Samuk",
+        "Namastey London",
+        "Waqt",
+        "Holiday"
+      ]
+    },
+    "keywords": [
+      "Samuk release date",
+      "Akshay Kumar Samuk",
+      "Samuk first look poster",
+      "Kanishk Varma Samuk",
+      "Vipul Amrutlal Shah Samuk"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028568.jpg",
+        "caption": "Akshay Kumar's Science-Fiction Action Thriller Samuk Locks Theatrical Release Date and Unveils First-Look Poster",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 05:55:26 +0000"
+  },
+  "x9ykt": {
+    "id": "x9ykt",
+    "type": "news",
+    "headline": "Top 15 Red Carpet Looks Unveiled at the 2026 Governors Awards",
+    "dek": "A-list celebrities gathered in Hollywood for the official kick-off to the awards season, showcasing standout fashion statements from major design houses.",
+    "body": [
+      {
+        "h": "The Kick-Off to Awards Season",
+        "p": [
+          "The prestigious Governors Awards officially commenced the annual awards season calendar with a massive gathering of Hollywood talent. Serving as a prominent pre-Oscars gathering, the Sunday night celebration drew more than one hundred high-profile entertainers to the red carpet.",
+          "Industry figures assembled specifically to honor recipients of Honorary Oscars at the venue, creating an environment rich in cinematic prestige and remarkable sartorial displays."
+        ]
+      },
+      {
+        "h": "Venue and Attendance",
+        "p": [
+          "The Ray Dolby Ballroom in Hollywood provided the grand backdrop for the evening proceedings, welcoming an expansive roster of global talent.",
+          "With over one hundred celebrities navigating the photographic line, fashion critics faced the formidable task of narrowing down the standout ensembles of the evening."
+        ]
+      },
+      {
+        "h": "Travis Scott in Bottega Veneta",
+        "p": [
+          "Among the notable attendees making a strong fashion impression was rapper and performer Travis Scott, who secured a spot on the curated top fifteen list.",
+          "Scott opted for contemporary luxury by wearing a mohair and wool jacket paired with matching trousers, drawing from look thirty-nine of Bottega Veneta's Fall collection."
+        ]
+      },
+      {
+        "h": "Liza Soberano in Yara Shoemaker",
+        "p": [
+          "Liza Soberano added to the international flair of the red carpet by selecting an ensemble designed by Yara Shoemaker.",
+          "Her appearance contributed to the diverse range of couture showcased throughout the evening at the Hollywood venue."
+        ]
+      },
+      {
+        "h": "Hoyeon in Louis Vuitton",
+        "p": [
+          "Hoyeon represented luxury French fashion house Louis Vuitton with a striking red carpet presentation.",
+          "The acclaimed star wore a sophisticated black velvet bustier gown elevated by intricate crystal embroidery, completing the look with classic black leather pumps."
+        ]
+      },
+      {
+        "h": "Broader Celebrity Presence",
+        "p": [
+          "The extensive guest list featured numerous other prominent names across cinema and television, including Emma Stone, Zendaya, and Penelope Cruz.",
+          "Additional notable figures spotted on the red carpet ranged from Charlize Theron and Elizabeth Debicki to Alexander Skarsgard and Lily James."
+        ]
+      },
+      {
+        "h": "Significance of the Pre-Oscars Event",
+        "p": [
+          "As a key precursor to the Academy Awards, the Governors Awards continues to serve as an essential platform for major cinematic figures.",
+          "Beyond honoring career achievements with Honorary Oscars, the occasion functions as a primary showcase for top-tier fashion collaborations between celebrities and premier designers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Over one hundred A-list celebrities gathered at the Ray Dolby Ballroom in Hollywood for the 2026 Governors Awards, serving as the official kick-off to awards season. Out of the numerous attendees, fifteen standout red carpet looks were highlighted, featuring notable fashion choices from stars like Travis Scott, Liza Soberano, and Hoyeon."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 Governors Awards took place on Sunday night, November 15, 2026.",
+      "The event was held at the Ray Dolby Ballroom in Hollywood.",
+      "Over 100 celebs walked the red carpet.",
+      "Travis Scott wore Bottega Veneta Fall 2026 collection look 39.",
+      "Liza Soberano wore Yara Shoemaker.",
+      "Hoyeon wore a black velvet bustier gown from Louis Vuitton."
+    ],
+    "entities": {
+      "people": [
+        "Travis Scott",
+        "Liza Soberano",
+        "Hoyeon",
+        "Alexander Skarsgard",
+        "Carrie Coon",
+        "Charlize Theron",
+        "Elizabeth Debicki",
+        "Emma Stone",
+        "Lea Seydoux",
+        "Lily James",
+        "Mariana Di Girolamo",
+        "Monica Barbaro",
+        "Penelope Cruz",
+        "Tessa Thompson",
+        "Zendaya"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Governors Awards 2026 best dressed",
+      "Travis Scott Bottega Veneta Governors Awards",
+      "Hoyeon Louis Vuitton red carpet",
+      "Liza Soberano Yara Shoemaker"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/best-dressed-gov.jpg",
+        "caption": "Top 15 Red Carpet Looks Unveiled at the 2026 Governors Awards",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 06:47:48 +0000"
+  },
+  "izvila": {
+    "id": "izvila",
+    "type": "news",
+    "headline": "Ghilli Actress Nancy Jennifer Marries Karthik In A Traditional Beach Resort Ceremony",
+    "dek": "Nancy Jennifer, widely remembered for playing Thalapathy Vijay's younger sister Bhuvana in the blockbuster movie Ghilli, tied the knot with Karthik in Chennai.",
+    "body": [
+      {
+        "h": "The Wedding Ceremony",
+        "p": [
+          "Former child artist and actress Nancy Jennifer has officially started a new chapter in her life by marrying Karthik. The wedding took place on Sunday, November 15, at a picturesque beach resort situated along the East Coast Road in Chennai.",
+          "The celebration incorporated traditional rituals, with video clips surfacing online to showcase the joyous moments. One particularly popular moment captured by attendees showed Karthik tying the thali around Nancy's neck during the ceremony."
+        ]
+      },
+      {
+        "h": "Viral Social Media Celebrations",
+        "p": [
+          "Footage and photographs from the festivities quickly spread across various social media networks. Well-wishers and enthusiastic supporters flooded digital platforms with congratulatory messages for the newlyweds.",
+          "Many followers affectionately addressed the bride as Bhuvi, demonstrating the enduring impact of her most famous cinematic role. Images reflecting both traditional Hindu customs and elements from Christian ceremonies were shared widely online."
+        ]
+      },
+      {
+        "h": "Memorable Role In Ghilli",
+        "p": [
+          "Nancy achieved widespread recognition among Tamil cinema fans for portraying Bhuvana, the younger sister of Thalapathy Vijay's character, in the film Ghilli. Directed by Dharani, the movie emerged as a major blockbuster.",
+          "Within the narrative, Vijay's character humorously referred to her as 'Arisimootai'. This affectionate nickname resonated strongly with viewers and remains closely tied to her public persona years after the film's release."
+        ]
+      },
+      {
+        "h": "Early Career And Filmography",
+        "p": [
+          "Before her breakout performance in Ghilli, Nancy began her journey in the film industry as a child artiste in the 1997 release Nerukku Ner, which featured Vijay and Suriya. She subsequently appeared in additional early projects like Thayagam and Ulavu Thurai alongside Vijayakanth.",
+          "As her career progressed, she took on roles in several other Tamil movies. Her film credits include February 14, Unakkum Enakkum, Jambhavan, Thozha, Theeya Velai Seiyyanum Kumaru, Koottathil Oruthan, and Trip, alongside television work."
+        ]
+      },
+      {
+        "h": "Transition To Entrepreneurship",
+        "p": [
+          "Though she eventually stepped away from the acting sphere, Nancy's childhood performances ensured she remained a familiar and beloved figure for moviegoers. Her early work laid a lasting foundation for her continued popularity in the Tamil entertainment landscape.",
+          "In recent years, she shifted her professional focus away from cinema toward entrepreneurship. She established her own business venture dedicated to manufacturing chemical-free products."
+        ]
+      },
+      {
+        "h": "Plot Background Of Ghilli",
+        "p": [
+          "The film Ghilli centers on Saravana Velu, a dedicated kabaddi player portrayed by Vijay. Velu steps in to rescue Dhanalakshmi, played by Trisha Krishnan, from Muthupandi, a dangerous gangster attempting to force her into marriage.",
+          "After bringing her safely to Chennai, Velu triggers a high-stakes chase as Muthupandi and his associates launch an extensive search to track them down."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Former actress Nancy Jennifer, famed for playing Thalapathy Vijay's younger sister in Ghilli, married Karthik at a Chennai beach resort on November 15. Fans celebrated the traditional ceremony online by sending warm wishes and recalling her iconic character Bhuvana."
+        ]
+      }
+    ],
+    "facts": [
+      "Nancy Jennifer married Karthik on Sunday, November 15, 2026.",
+      "The wedding ceremony took place at a beach resort along Chennai's East Coast Road.",
+      "Nancy played Vijay's younger sister Bhuvana in the film Ghilli.",
+      "Ghilli was directed by Dharani and starred Vijay, Trisha Krishnan, and Prakash Raj.",
+      "Nancy began her career as a child artist in the 1997 film Nerukku Ner."
+    ],
+    "entities": {
+      "people": [
+        "Nancy Jennifer",
+        "Karthik",
+        "Thalapathy Vijay",
+        "Dharani",
+        "Trisha Krishnan",
+        "Prakash Raj",
+        "Suriya",
+        "Vijayakanth"
+      ],
+      "titles": [
+        "Ghilli",
+        "Nerukku Ner",
+        "Thayagam",
+        "Ulavu Thurai",
+        "February 14",
+        "Unakkum Enakkum",
+        "Jambhavan",
+        "Thozha",
+        "Theeya Velai Seiyyanum Kumaru",
+        "Koottathil Oruthan",
+        "Trip"
+      ]
+    },
+    "keywords": [
+      "Nancy Jennifer wedding",
+      "Ghilli actress marriage",
+      "Nancy Jennifer Karthik",
+      "Thalapathy Vijay sister Ghilli"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156516520,thumbsize-610244,width-1280,height-720,resizemode-75/156516520.jpg",
+        "caption": "Ghilli Actress Nancy Jennifer Marries Karthik In A Traditional Beach Resort Ceremony",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T06:54:17Z"
+  },
+  "ewq1wv": {
+    "id": "ewq1wv",
+    "type": "news",
+    "headline": "SBS Variety Hit 'My Grumpy Secretary' Extended to 16 Episodes with Star-Studded Lineup Featuring Jisoo, Kim Jong Kook, and Hwasa",
+    "dek": "The popular Friday night variety show secures a 16-episode extension following overwhelming viewer support, bringing in prominent artists like Kim Jong Kook, BLACKPINK's Jisoo, and Hwasa for unique guest appearances.",
+    "body": [
+      {
+        "h": "Extension Confirmed Following Viewer Support",
+        "p": [
+          "The popular SBS Friday night program 'My Grumpy Secretary' has officially locked in an extension to 16 episodes. This decision comes on the heels of robust and enthusiastic backing from viewers who have praised the unique premise of the show.",
+          "The program features hosts Lee Seo Jin and Kim Kwang Kyu taking on the role of personal secretaries for various guest stars, tracking their busy schedules from beginning to end and offering audiences a fresh dynamic each week."
+        ]
+      },
+      {
+        "h": "Kim Jong Kook Kicks Off the Special Lineup",
+        "p": [
+          "The newly expanded broadcast schedule begins with multi-talented entertainer Kim Jong Kook as the featured guest. Viewers will watch the hosts assist him through a heavily packed schedule that includes filming for 'Running Man' and managing a concert planning meeting.",
+          "Additionally, the episode will capture a surprise concert event and give fans an unprecedented look inside the gym for a post-workout gathering, marking the first time such a segment has been broadcast on television."
+        ]
+      },
+      {
+        "h": "Jisoo Prepares for Her Solo Comeback",
+        "p": [
+          "Following Kim Jong Kook, BLACKPINK member Jisoo is set to take center stage on the November 27 broadcast. Cameras will follow her preparations for the comeback stage of her solo track 'ADDICTED' on 'Inkigayo'.",
+          "The episode will also highlight rare everyday moments of the star and provide exclusive behind-the-scenes stories regarding her viral 'Louder' stage performance that previously captured massive online attention."
+        ]
+      },
+      {
+        "h": "Hwasa Joins as Nail Art Mates",
+        "p": [
+          "On December 4, singer Hwasa will step into the spotlight to showcase her distinctive chemistry with hosts Lee Seo Jin and Kim Kwang Kyu. The trio will visit a nail salon together, interacting playfully as nail art mates.",
+          "Fans will also get an inside look at the stories behind Hwasa's widely discussed 'Good Goodbye' stage, which previously exploded across various social media platforms."
+        ]
+      },
+      {
+        "h": "Unique Chemistry Drives Upward Momentum",
+        "p": [
+          "The core appeal of 'My Grumpy Secretary' lies in its ability to generate surprising chemistry through pairings with a different celebrity guest every week. This format has steadily built strong audience engagement.",
+          "With the newly announced guest lineup and expanded episode count, the production is well-positioned to maintain its upward momentum in the ratings."
+        ]
+      },
+      {
+        "h": "Anticipation for Future Pairings",
+        "p": [
+          "As the program moves toward its extended run, curiosity continues to grow among fans regarding which additional stars might team up with the two hosts. The potential for further unexpected synergy keeps viewers guessing.",
+          "The show currently airs every Friday night at 11:10 PM KST on SBS, delivering consistent entertainment through its distinctive workplace-shadowing concept."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The SBS variety program 'My Grumpy Secretary' has been extended to 16 episodes due to strong viewer backing. The upcoming schedule features appearances by Kim Jong Kook, BLACKPINK's Jisoo, and Hwasa, highlighting their busy schedules and behind-the-scenes moments."
+        ]
+      }
+    ],
+    "facts": [
+      "My Grumpy Secretary is broadcast every Friday at 11:10 PM KST on SBS.",
+      "The show has been extended to a total of 16 episodes.",
+      "Hosts of the show are Lee Seo Jin and Kim Kwang Kyu.",
+      "Kim Jong Kook will appear on the November 20 episode.",
+      "BLACKPINK's Jisoo will appear on the November 27 episode.",
+      "Hwasa will appear on the December 4 episode."
+    ],
+    "entities": {
+      "people": [
+        "Kim Jong Kook",
+        "Jisoo",
+        "Hwasa",
+        "Lee Seo Jin",
+        "Kim Kwang Kyu"
+      ],
+      "titles": [
+        "My Grumpy Secretary",
+        "Running Man",
+        "Inkigayo"
+      ]
+    },
+    "keywords": [
+      "My Grumpy Secretary",
+      "Kim Jong Kook",
+      "BLACKPINK Jisoo",
+      "Hwasa"
+    ],
+    "images": [],
+    "published": "Mon, 16 Nov 2026 01:00:00 EST"
   }
 };
