@@ -1,1 +1,1 @@
-{"rewrites":[{"destination":"/api-news.json","source":"/api/news"},{"destination":"/api-trends.json","source":"/api/trends"}]}
+{"redirects":[{"destination":"https://flickatlas.co.uk/:path*","permanent":true,"source":"/:path*"}],"rewrites":[{"destination":"/api-news.json","source":"/api/news"},{"destination":"/api-trends.json","source":"/api/trends"}]}
