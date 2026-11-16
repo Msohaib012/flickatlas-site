@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-14T23:51:47Z",
-    "run_id": "43655227912",
-    "status": "success",
-    "checked": {
-     "candidates": 262,
-     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "In 2026, Hugh Jackman and ex-wife Deborah-Lee Furness have listed their New York penthouse for $29.9M",
-      "Diddy (Allegedly) Has Strong Feelings On Russell Brand’s Prison Sentence Amid His Own Incarceration",
-      "I Rewatched The End Of Oak Street, And Yes, That Is A Battlestar Galactica Reference",
-      "Ahead of ‘The Mummy 4,’ Brendan Fraser’s WWII Movie Is Officially Being Pulled From Streaming",
-      "The ‘Insidious’ Franchise Officially Makes a Massive Comeback",
-      "‘Narnia’ Fans Officially Have Limited Time to Watch the Franchise’s Final Movie",
-      "'Percy Jackson and the Olympians' Season 3 Needs To Include These 5 'Titan's Curse' Scenes",
-      "‘Clueless’ Star Officially Confirms Return for Paramount+ Sequel Series",
-      "New 135-Minute Sci-Fi Masterpiece Officially Clears a Major Marvel Milestone at the Box Office",
-      "MCU’s X-Men Magneto Fan-Casting Officially Addressed By Jason Isaacs",
-      "The Batman 2's Filming Timeline Confirmed By Andy Serkis Amid Director Swap",
-      "All 3 NCIS Shows Pulled From CBS Schedule For Another Week",
-      "Pokémon Officially Unveils Its New Hero, Replacing Ash Ketchum",
-      "Jonathan Nolan’s 103-Episode Masterpiece Delivers Peak Sci-Fi Realism",
-      "Star Trek's 1960s Uhura Replacement Lasted Just 2 Episodes",
-      "Pokémon Fans Split Over Our First New Eeveelution In 13 Years",
-      "23 Years Ago, Russell Crowe Starred In An Epic War Masterpiece That Should've Had 5+ Sequels",
-      "Say Goodbye To Buck & Eddie’s Romance In 9-1-1",
-      "Netflix’s Trending 8-Part Psychological Drama Is Unlike Anything Released This Year",
-      "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes"
-     ],
-     "updated": [],
-     "count": 229,
-     "detail": "231 stories, 0 duplicates removed, 31 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-15T00:51:56Z",
     "run_id": "43660176206",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "214 stories, 1 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T02:04:44Z",
-    "run_id": "43665969254",
+    "run_at": "2026-11-15T23:51:56Z",
+    "run_id": "43776971936",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 250,
+     "detail": "RSS/Atom items across 137 sources; 11 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana OTT Deal Update: Makers Have Not Sold Digital Rights Yet, Producer Dil Raju Claims",
-      "Salman Khan Bashes Scout OP in Bigg Boss 20 Over Physical Altercation With Young DSA",
-      "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
-      "Bigg Boss 20 Episode 70: Salman Khan Warns Kanika Mann As Qazi Exposes Her Double Standards"
+      "Udta Teer EXCLUSIVE: Rupinder Walia On First Meeting With Ayushmann Khurrana: He Made Me Feel....",
+      "Michael J. Fox’s Strange Tim Burton Movie Made Just $37 Million, But Calling It A Box-Office Failure Feels Unfair [Opinion]",
+      "I Can’t Stop Watching This Video Of Jimmy Kimmel Hilariously Roasting Matt Damon",
+      "Ebenezer Ending: Sam Claflin On What It Meant To Have Johnny Depp’s Ebenezer Say ‘Merry Christmas’",
+      "What ‘Brad's Friends’ Think About What Happened To His Family After Split With Angelina Jolie",
+      "Dustin Hoffman Tried To 'Fire Himself' From Rain Man, But A Tom Cruise Scene Changed His Mind",
+      "James Bond Finds Its Perfect Replacement in This 6-Episode Miniseries",
+      "Netflix’s 6-Episode Spy Thriller Officially Becomes One of the Biggest Shows in the World",
+      "‘The Gentlemen’ Season 2 Star Officially Makes Major Netflix Move",
+      "Tom Hanks Forgotten Sci-Fi Thriller Is Officially a 300-Day Streaming Superhit",
+      "The 6 Best Fantasy Books Released Since 2020, According to Goodreads",
+      "6 Sci-Fi Movies We Actually Want a Remake Of",
+      "Harrison Ford’s Apple TV Series Officially Expands Season 4 Cast",
+      "Netflix’s 8-Part Thriller Miniseries Is a Near-Perfect Binge",
+      "Anya Taylor-Joy’s $1.3B Fantasy Blockbuster Is Officially a 2026 Streaming Smash",
+      "Nicholas Hoult’s New Heist Thriller Almost Had a Much Darker Ending",
+      "LEGO 'Star Wars' Unveils Never-Before-Made Figures Based On Lucas' Original Vision",
+      "Apple TV's New \"Heat Meets Christopher Nolan\" 8-Part Thriller Series Officially Takes Over the World",
+      "Matt Reeves' Long-Awaited Batman Sequel Officially Gets Disappointing Filming Update",
+      "Michael Myers Returns For New Halloween Series That's Already A #1 Hit"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 222,
+     "detail": "235 stories, 0 duplicates removed, 15 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1446,27 +1423,32 @@
      "detail": "+4 articles, +0 box-office rows, 1 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-15T23:52:18Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
+      "Satvika Veeravalli To Star Alongside Dulquer Salmaan in Aakasamlo Oka Taara",
+      "Kim Woo Bin Leads a Struggling Baseball Squad in Latest GIFT Teaser",
+      "Jr NTR Set to Star in Anil Ravipudi's New Comedy Project"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-15T02:09:32Z",
-    "run_id": "43665969254",
-    "status": "success",
-    "checked": {
-     "candidates": 338,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 328, coming 10"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1856,26 +1838,27 @@
      "detail": "now 333, coming 12"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-15T01:52:03Z",
-    "run_id": "43664962396",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-15T23:52:18Z",
+    "run_id": "43776971936",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 345,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 333, coming 12"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2303,27 +2286,32 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-16T00:00:30Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "159a28",
+      "kfp21m",
+      "1q3m1zk",
+      "zzl5pv",
+      "qqufdk"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-14T23:57:02Z",
-    "run_id": "43655227912",
-    "status": "success",
-    "checked": {
-     "candidates": 674,
-     "detail": "649 collected staging rows from readers; 228 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 657 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2713,19 +2701,27 @@
      "detail": "+0 new rows, 3 updated rows, 662 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T00:00:28Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 681,
+     "detail": "652 collected staging rows from readers; 229 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 662 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2962,32 +2958,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-15T01:52:03Z",
-    "run_id": "43664962396",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "James Gunn Denies Rumours That Skydance Executives Ordered Changes To Man Of Tomorrow",
-      "HBO Reveals First Full Footage From Upcoming Harry Potter Reboot Highlighting Hogwarts Magic",
-      "Gerard Butler's R-Rated Action Blockbuster 300 Is Leaving Paramount+",
-      "'I Play Rocky' Box Office Collection Day 2: Anthony Ippolito Starrer Earns Rs 62 Lakh in India"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3475,19 +3458,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-16T00:00:30Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
+      "Kim Woo Bin Leads a Struggling Baseball Squad in Latest GIFT Teaser",
+      "Satvika Veeravalli To Star Alongside Dulquer Salmaan in Aakasamlo Oka Taara",
+      "Jr NTR Set to Star in Anil Ravipudi's New Comedy Project"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3717,19 +3713,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4049,26 +4045,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-14T23:51:48Z",
-    "run_id": "43655227912",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 96/96 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4538,19 +4527,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-15T23:52:18Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 222 still unprocessed; today by category: movies 12/6, tv_dramas 18/4, episodes 2/2, box_office 13/6, celebrities_events 14/5, upcoming_releases 4/4, ott_streaming 10/4, trailers 3/3, awards 2/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
+      "Satvika Veeravalli To Star Alongside Dulquer Salmaan in Aakasamlo Oka Taara",
+      "Kim Woo Bin Leads a Struggling Baseball Squad in Latest GIFT Teaser",
+      "Jr NTR Set to Star in Anil Ravipudi's New Comedy Project"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4850,19 +4851,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-15T23:53:27Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 53,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5192,24 +5200,24 @@
     "checked": null,
     "changed": null,
     "reason": "error"
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 374,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5534,19 +5542,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5796,19 +5809,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6043,19 +6056,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6342,19 +6355,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6595,19 +6608,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6837,19 +6850,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7102,30 +7115,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-13T21:51:57Z",
-    "run_id": "43514231582",
-    "status": "success",
-    "checked": {
-     "candidates": 546,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 533"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7611,19 +7613,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-15T23:52:35Z",
+    "run_id": "43776971936",
+    "status": "success",
+    "checked": {
+     "candidates": 557,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 544"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7863,19 +7876,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-14T23:57:11Z",
-    "run_id": "43655227912",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8150,8 +8163,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-16T00:00:40Z",
+    "run_id": "43776971936",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-15T22:51:46Z"
+ "updated_at": "2026-11-16T00:00:40Z"
 }

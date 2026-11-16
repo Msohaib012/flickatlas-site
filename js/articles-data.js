@@ -157742,5 +157742,379 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 21:19:59 GMT"
+  },
+  "kkmzp0": {
+    "id": "kkmzp0",
+    "type": "news",
+    "headline": "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
+    "dek": "The hit historical drama The Chosen has officially confirmed its seventh and final season, with filming already wrapped and theatrical premiere plans announced.",
+    "body": [
+      {
+        "h": "Introduction to The Final Chapter",
+        "p": [
+          "As the historical drama series The Chosen returns for its sixth season on Prime Video, audiences are already looking ahead to the future of the beloved program. Starring Jonathan Roumie as Jesus, the show recently dropped its initial sixth-season episodes for streaming enthusiasts.",
+          "While viewers still have a substantial portion of the current narrative to experience, show creators have already mapped out the ultimate conclusion. The program is officially slated to return for a seventh and final season, bringing the multi-year storytelling journey to a definitive close."
+        ]
+      },
+      {
+        "h": "Production and Filming Completion",
+        "p": [
+          "Production on the final seventh season has already reached a major milestone by officially wrapping filming in late September 2026. Creator Dallas Jenkins described finishing the series as a very bittersweet emotional experience during an interview with the Deseret News.",
+          "With shooting successfully completed, the project has already transitioned into post-production with editing well underway. Fans can follow these behind-the-scenes developments through official production pages featuring updates and cast insights."
+        ]
+      },
+      {
+        "h": "Funding and Global Support",
+        "p": [
+          "The ambitious production of the final season achieved complete financial backing thanks to widespread international support. The nonprofit organization Come and See announced that the funding target of $78 million was fully met.",
+          "This financial milestone was made possible by contributions from more than 86,000 individual supporters spanning 175 countries globally. This ensures that all seven planned installments of the overarching series vision are fully supported."
+        ]
+      },
+      {
+        "h": "Release Date Plans and Theatrical Rollout",
+        "p": [
+          "Strategic release plans for the concluding seventh season have already been established by Amazon MGM Studios and 5 2 Studios. The grand finale is scheduled to launch with a theatrical premiere on March 31, 2028, opening with a standalone feature film depicting the resurrection of Jesus.",
+          "Following the initial theatrical run, the remaining episodes of Season 7 will debut on Prime Video. However, an exact streaming schedule and specific premiere dates for the digital platform have not yet been finalized."
+        ]
+      },
+      {
+        "h": "Current Season 6 Release Schedule",
+        "p": [
+          "Before the seventh season arrives, audiences can enjoy the ongoing sixth season, which premiered three initial episodes on Sunday, November 15, 2026. This chapter focuses heavily on the final 24 hours of Jesus' life leading up to the crucifixion.",
+          "The current season will continue streaming weekly episodes through December 6, 2026. Additionally, a feature-length theatrical finale for Season 6 is officially scheduled to hit cinemas on March 12, 2027."
+        ]
+      },
+      {
+        "h": "Creative Vision and Future Projects",
+        "p": [
+          "The choice to conclude the narrative after seven seasons stems directly from the original creative blueprint designed by Dallas Jenkins. Rather than a cancellation, the series was always intended to chronicle the life, ministry, death, and resurrection of Jesus across a structured arc.",
+          "Even though the main series is approaching its conclusion, plans are underway to expand the broader cinematic universe. Future biblical productions discussed by the creator include Joseph of Egypt, Book of Moses, and The Way of the Chosen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Chosen has officially been confirmed for a seventh and final season after series creator Dallas Jenkins mapped out the conclusion of the historical drama. Production wrapped in late September 2026, and funding reached $78 million through supporters across 175 countries, paving the way for a theatrical premiere on March 31, 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Jonathan Roumie stars as Jesus in The Chosen.",
+      "Season 6 premiered on Prime Video on November 15, 2026.",
+      "Production on Season 7 wrapped in late September 2026.",
+      "Season 7 reached its $78 million funding goal on October 29, 2026, with over 86,000 supporters across 175 countries.",
+      "Season 7 is scheduled to begin with a theatrical premiere on March 31, 2028."
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Roumie",
+        "Dallas Jenkins"
+      ],
+      "titles": [
+        "The Chosen",
+        "Joseph of Egypt",
+        "Book of Moses",
+        "The Way of the Chosen"
+      ]
+    },
+    "keywords": [
+      "The Chosen Season 7",
+      "Dallas Jenkins",
+      "Jonathan Roumie",
+      "The Chosen release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/the-chosen-season-6-stills-5-1.jpg",
+        "caption": "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 22:45:36 +0000"
+  },
+  "1uhundh": {
+    "id": "1uhundh",
+    "type": "news",
+    "headline": "Satvika Veeravalli To Star Alongside Dulquer Salmaan in Aakasamlo Oka Taara",
+    "dek": "US-born newcomer Satvika Veeravalli transitions from a corporate engineering career to her feature film debut opposite Dulquer Salmaan in the Telugu project Aakasamlo Oka Taara.",
+    "body": [
+      {
+        "h": "Stepping Into the Spotlight",
+        "p": [
+          "Satvika Veeravalli is preparing for her cinematic debut as the female lead in the upcoming Telugu movie Aakasamlo Oka Taara. The film pairs the newcomer directly opposite popular actor Dulquer Salmaan, marking a major milestone in her transition to the entertainment industry.",
+          "The project is scheduled to hit theatre screens on November 20. Even before this initial film arrives in cinemas, the rising actor has already secured additional acting roles across both the Telugu and Tamil film industries."
+        ]
+      },
+      {
+        "h": "From Engineering to Acting",
+        "p": [
+          "Born in the United States, Satvika initially pursued a path in engineering, eventually earning a master's degree and working a corporate job for two years. However, a deep passion for the arts prompted her to walk away from the corporate world to chase a career in cinema.",
+          "Her background includes rigorous training in Bharatanatyam and Carnatic music. Although she missed out on securing an initial part in Kaantha, a subsequent casting audition ultimately paved the way for her breakthrough casting."
+        ]
+      },
+      {
+        "h": "Character Insights and Rural Roots",
+        "p": [
+          "In Aakasamlo Oka Taara, directed by Pavan Sadineni, Satvika portrays a curious young woman hailing from a village background. Growing up in the US meant her real-life background contrasted sharply with the rural setting and life experiences of her character.",
+          "To inhabit the role convincingly, she underwent a demanding transformation, noting her initial surprise upon seeing herself in the mirror wearing a school uniform. She tapped into memories of her own childhood to capture the calm, innocent, and gentle demeanor of the character."
+        ]
+      },
+      {
+        "h": "A Dream of Space Exploration",
+        "p": [
+          "The narrative follows a young protagonist who remains fiercely focused on an ambitious goal despite facing widespread discouragement from those around her. Her ultimate dream is to travel to space.",
+          "Satvika has expressed great affection for the role, contrasting her own outspoken nature with the quiet gentleness of the character she brings to life on screen."
+        ]
+      },
+      {
+        "h": "Working With Dulquer Salmaan",
+        "p": [
+          "Sharing the screen with an established star like Dulquer Salmaan brought initial nerves for the debutante. She has openly praised her co-star, describing him as a wonderful person who extended tremendous support during production.",
+          "She fondly recalls a demanding festival sequence shot amidst a large crowd where her co-star's backing helped ease her early performance anxieties on set."
+        ]
+      },
+      {
+        "h": "Flipping Narrative Dynamics",
+        "p": [
+          "Reflecting on the core themes of the feature, Satvika highlights how the story subverts traditional cinematic tropes. While conventional tales often place women in supporting positions behind successful men, this feature reverses the dynamic.",
+          "The storyline instead showcases a kind-hearted male lead who actively champions and supports a young woman as she pursues her lofty ambitions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "US-born newcomer Satvika Veeravalli is making her acting debut in the upcoming Telugu film Aakasamlo Oka Taara, starring opposite Dulquer Salmaan in a project directed by Pavan Sadineni. The production, set for a November 20 theatrical release, features Satvika as a village-born woman dreaming of space travel, supported by her co-star both on and off the screen."
+        ]
+      }
+    ],
+    "facts": [
+      "Satvika Veeravalli is making her acting debut opposite Dulquer Salmaan.",
+      "The film is titled Aakasamlo Oka Taara.",
+      "The film is directed by Pavan Sadineni.",
+      "Aakasamlo Oka Taara is scheduled to release in theatres on November 20.",
+      "Satvika Veeravalli was born in the United States and has a master's degree in engineering.",
+      "Satvika Veeravalli worked in her corporate career for two years before pursuing acting.",
+      "Satvika Veeravalli is trained in Carnatic music and Bharatanatyam."
+    ],
+    "entities": {
+      "people": [
+        "Satvika Veeravalli",
+        "Dulquer Salmaan",
+        "Pavan Sadineni"
+      ],
+      "titles": [
+        "Aakasamlo Oka Taara",
+        "Kaantha"
+      ]
+    },
+    "keywords": [
+      "Satvika Veeravalli",
+      "Aakasamlo Oka Taara",
+      "Dulquer Salmaan",
+      "Pavan Sadineni"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/satvika-veeravalli-set-to-make-her-debut-opposite-dulquer-salmaan-in-aakasamlo1794742328.jpg",
+        "caption": "Satvika Veeravalli To Star Alongside Dulquer Salmaan in Aakasamlo Oka Taara",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-15T17:05:32+05:30"
+  },
+  "iabgio": {
+    "id": "iabgio",
+    "type": "news",
+    "headline": "Kim Woo Bin Leads a Struggling Baseball Squad in Latest GIFT Teaser",
+    "dek": "A new preview for the upcoming tvN series GIFT showcases Kim Woo Bin as a former professional pitching coach taking charge of a bottom-ranked high school team.",
+    "body": [
+      {
+        "h": "Introduction to the New GIFT Teaser",
+        "p": [
+          "A fresh promotional clip has been unveiled for the upcoming television series GIFT, highlighting the challenging road ahead for its main characters. The latest video gives viewers a closer look at the rough state of the sports team at the center of the story.",
+          "The newly released footage emphasizes the uphill battle facing both the coaching staff and the young athletes as they attempt to turn their losing streak around."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The drama follows the journey of a former professional baseball pitching coach who undergoes a life-changing experience following an unexpected accident, granting him a unique ability. Armed with this strange power, he steps into the role of head coach for the absolute worst high school baseball squad in the nation.",
+          "Deokcheon High School serves as the primary setting for this underdog narrative, plagued by a history of early tournament exits and a standing near the absolute bottom of the league standings."
+        ]
+      },
+      {
+        "h": "Teaser Highlights and Dialogue",
+        "p": [
+          "The third teaser debuted on November 16, kicking off with the protagonist, Jung Min Yong, asserting with certainty that a player understands fellow players. However, the harsh reality of the Deokcheon High School roster quickly dampens any initial optimism.",
+          "A heavy sigh from the coach follows as he surveys the troubled roster, signaling a chaotic introductory phase for a group on the very brink of complete disbandment."
+        ]
+      },
+      {
+        "h": "Team Spirit and Unpredictable Journeys",
+        "p": [
+          "Despite the overwhelming odds against them, the athletes attempt to rally their spirits with a collective battle cry, vowing to survive the ordeal and emerge victorious after crossing through metaphorical hell.",
+          "Rather than relying on classic sports tropes, the coach explicitly notes that viewers should not expect any astonishing twists or sudden miraculous comebacks, keeping the ultimate trajectory of their campaign shrouded in uncertainty."
+        ]
+      },
+      {
+        "h": "Cast Members and Closing Remarks",
+        "p": [
+          "The preview concludes with a synchronized exchange between the main characters, featuring contributions from both Jung Min Yong and Yoon Seo Jin to define the unique ethos of their athletic venture.",
+          "The sequence wraps up with a shared declaration emphasizing unity and the specific spirit that characterizes Deokcheon baseball."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule",
+        "p": [
+          "Fans eagerly anticipating the premiere do not have much longer to wait, as the program is scheduled to officially launch its broadcast run in early December.",
+          "The network has slated the highly anticipated first episode to air on December 5 at 9:10 p.m. KST."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new teaser for the tvN series GIFT features Kim Woo Bin as a former pro pitching coach leading the worst high school baseball team in the country. The drama is scheduled to premiere on December 5 at 9:10 p.m. KST."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim Woo Bin stars as Jung Min Yong",
+      "Seo Eun Soo stars as Yoon Seo Jin",
+      "The series is broadcast on tvN",
+      "The third teaser was released on November 16, 2026",
+      "The show premieres on December 5 at 9:10 p.m. KST",
+      "The team featured is Deokcheon High School"
+    ],
+    "entities": {
+      "people": [
+        "Kim Woo Bin",
+        "Jung Min Yong",
+        "Seo Eun Soo",
+        "Yoon Seo Jin",
+        "YKang"
+      ],
+      "titles": [
+        "GIFT",
+        "Deokcheon High School"
+      ]
+    },
+    "keywords": [
+      "GIFT teaser",
+      "Kim Woo Bin GIFT",
+      "Seo Eun Soo GIFT",
+      "Deokcheon High School baseball"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/3vvzbj_2d.jpg",
+        "caption": "Kim Woo Bin Leads a Struggling Baseball Squad in Latest GIFT Teaser",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:26:49 +0000"
+  },
+  "3gdj62": {
+    "id": "3gdj62",
+    "type": "news",
+    "headline": "Jr NTR Set to Star in Anil Ravipudi's New Comedy Project",
+    "dek": "The acclaimed actor is stepping away from intense action spectacles to headline a full-fledged comedic entertainer directed by Anil Ravipudi, with production slated to begin in 2027.",
+    "body": [
+      {
+        "h": "An Unexpected Genre Shift",
+        "p": [
+          "In a surprising career move, Jr NTR is preparing to lead an upcoming comedy film directed by Anil Ravipudi. The project represents a notable departure from the intense, action-heavy blockbusters the actor has recently been known for.",
+          "The production team has promised a full-scale laugh riot, giving audiences a rare chance to see the star showcase his comedic timing on the big screen once again."
+        ]
+      },
+      {
+        "h": "Production Details and Banner",
+        "p": [
+          "The yet-untitled feature will be backed by the actor's home banner, NTR Arts, which is spearheaded by his brother, Nandamuri Kalyan Ram.",
+          "According to the current schedule, the film is officially expected to go on floors in the year 2027, marking a major collaboration for the studio."
+        ]
+      },
+      {
+        "h": "Director Anil Ravipudi's Track Record",
+        "p": [
+          "Filmmaker Anil Ravipudi is widely celebrated in Telugu cinema as a hit machine, boasting a strong history of delivering successful comedic entertainers.",
+          "His industry journey includes directing the debut movie Pataas, which was made possible through the initial trust shown by Kalyan Ram."
+        ]
+      },
+      {
+        "h": "A Long-Awaited Collaboration",
+        "p": [
+          "The partnership between the actor and the director has reportedly been in discussion for quite some time, with both creatives acknowledging that the alliance is long overdue.",
+          "Ravipudi expressed enthusiasm for the upcoming venture, playfully remarking that the production would leave audiences laughing out loud very soon."
+        ]
+      },
+      {
+        "h": "Working With Major Superstars",
+        "p": [
+          "Ravipudi is no stranger to handling prominent stars, having previously directed veteran actors such as Chiranjeevi in Mana Shankara Vara Prasad Garu and Nandamuri Balakrishna in Bhagavanth Kesari.",
+          "His notable filmography also features a successful three-film association with Venkatesh Daggubati, which includes the project Sanskruthi Vasthunam."
+        ]
+      },
+      {
+        "h": "A Packed Schedule and Past Comedy Roles",
+        "p": [
+          "While Jr NTR has previously delivered memorable comedic performances in earlier films like Adhurs and Baadshah, humor has taken a backseat in his recent heavy-action projects.",
+          "His busy calendar also features the Dragon film series directed by Prashanth Neel, alongside Trivikram's upcoming project titled God of War."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jr NTR is partnering with director Anil Ravipudi for a new comedy film produced by NTR Arts, with shooting scheduled to begin in 2027. This project offers the star a chance to return to the comedic genre amidst his heavy lineup of large-scale action films."
+        ]
+      }
+    ],
+    "facts": [
+      "Jr NTR is teaming up with director Anil Ravipudi for a comedy entertainer.",
+      "The film is expected to go on floors in 2027.",
+      "The project is being produced by NTR Arts, headed by Nandamuri Kalyan Ram.",
+      "Anil Ravipudi directed Pataas, his directorial debut.",
+      "Anil Ravipudi previously directed Chiranjeevi in Mana Shankara Vara Prasad Garu.",
+      "Anil Ravipudi directed Nandamuri Balakrishna in Bhagavanth Kesari.",
+      "Anil Ravipudi has a three-film association with Venkatesh Daggubati, including Sanskruthi Vasthunam.",
+      "Jr NTR previously starred in comedy roles in Adhurs and Baadshah.",
+      "Jr NTR is awaiting the release of the Dragon film series directed by Prashanth Neel.",
+      "Jr NTR is also associated with Trivikram's God of War."
+    ],
+    "entities": {
+      "people": [
+        "Jr NTR",
+        "Anil Ravipudi",
+        "Nandamuri Kalyan Ram",
+        "Chiranjeevi",
+        "Nandamuri Balakrishna",
+        "Venkatesh Daggubati",
+        "Prashanth Neel",
+        "Trivikram"
+      ],
+      "titles": [
+        "Pataas",
+        "Mana Shankara Vara Prasad Garu",
+        "Bhagavanth Kesari",
+        "Sanskruthi Vasthunam",
+        "Dragon",
+        "Adhurs",
+        "Baadshah",
+        "God of War"
+      ]
+    },
+    "keywords": [
+      "Jr NTR Anil Ravipudi",
+      "Jr NTR comedy film 2027",
+      "NTR Arts Anil Ravipudi",
+      "Jr NTR upcoming movies"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/jr-ntr-s-surprise-move-teams-up-with-anil-ravipudi-for-a-comedy-entertainer1794726951.jpg",
+        "caption": "Jr NTR Set to Star in Anil Ravipudi's New Comedy Project",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-15T12:49:42+05:30"
   }
 };
