@@ -158919,5 +158919,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 01:15:00 +0000"
+  },
+  "3fq31y": {
+    "id": "3fq31y",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 11: Ranbir Kapoor and Yash Starrer Surpasses Rs 750 Crore in India",
+    "dek": "Nitesh Tiwari's directorial venture crosses major domestic and international milestones on its second Sunday.",
+    "body": [
+      {
+        "h": "Second Sunday Surge",
+        "p": [
+          "The epic saga witnessed a remarkable growth spurt on its second Sunday, collecting Rs 75 crore across 23,525 shows on November 15, 2026. This figure marked a notable 33.6 percent increase compared to the previous Sunday's earnings of Rs 56.15 crore.",
+          "Makers expanded show allocations across multiple regional languages to accommodate the surging demand, reflecting strong audience turnout during the film's second week in theatres."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "The domestic performance was anchored by robust numbers from the Hindi version, which contributed Rs 55 crore to the day's tally.",
+          "Regional versions also added steady sums, with the Kannada version bringing in Rs 5.75 crore, Malayalam generating Rs 5 crore, Tamil earning Rs 4.75 crore, and the Telugu version rounding it out with Rs 4.50 crore."
+        ]
+      },
+      {
+        "h": "Cumulative Domestic and Global Totals",
+        "p": [
+          "Following these figures, the total India nett collections for the production crossed the Rs 760.60 crore mark, successfully pushing past the Rs 750 crore milestone in its second week.",
+          "On the global front, the movie accumulated a massive gross collection of Rs 1,384.50 crore, establishing a commanding presence worldwide with IMAX screenings enhancing its cinematic reach."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Helmed by director Nitesh Tiwari and produced by Namit Malhotra through Prime Focus Studios alongside Yash's Monster Mind Creations, the ambitious project features a star-studded cast.",
+          "Ranbir Kapoor portrays Lord Rama, Yash steps into the role of Ravana, Sai Pallavi plays Sita, and Ravie Dubey appears as Lakshman in the multi-part cinematic undertaking."
+        ]
+      },
+      {
+        "h": "International Milestones",
+        "p": [
+          "Beyond domestic success, the film achieved a historic feat in North America by earning $24.1 million over 11 days, overtaking previous contenders to become the top Indian film of all time in the US and Canada.",
+          "Its international rollout has already touched markets such as the UK, North America, Hong Kong, Thailand, Indonesia, and Australia, with further expansions slated across Europe and Latin America."
+        ]
+      },
+      {
+        "h": "Future Global Expansion Plans",
+        "p": [
+          "The release schedule continues throughout November 2026, reaching territories like Brazil, Italy, Ukraine, Hungary, Poland, Argentina, and Colombia.",
+          "Furthermore, producers have scheduled major theatrical launches in four prominent international markets—China, Japan, South Korea, and Russia—during the first quarter of 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana Part 1 crossed Rs 760.60 crore in India after earning Rs 75 crore on its second Sunday, November 15, 2026. The film also set a new milestone in North America while eyeing further global expansions."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned Rs 75 crore on November 15, 2026.",
+      "The total India nett collections reached Rs 760.60 crore.",
+      "Global gross collections touched Rs 1,384.50 crore.",
+      "The film earned $24.1 million in 11 days in North America."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Gitesh Pandya",
+        "Ranveer Singh",
+        "Aditya Dhar",
+        "Ram Gopal Varma"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Dhurandhar: The Revenge",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Part 1 India collection",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156515650,thumbsize-1289695,width-1280,height-720,resizemode-75/156515650.jpg",
+        "caption": "Ramayana Box Office Collection Day 11: Ranbir Kapoor and Yash Starrer Surpasses Rs 750 Crore in India",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T02:21:58Z"
+  },
+  "d9zbs": {
+    "id": "d9zbs",
+    "type": "news",
+    "headline": "Slow Horses Will Conclude With Season 8, Reveals Cast Member Olivia Cooke",
+    "dek": "Star Olivia Cooke shares that the hit spy-thriller series on Apple TV will wrap up its run with its eighth season, sharing her emotional reaction to the final days of filming.",
+    "body": [
+      {
+        "h": "The Final Chapter for Slough House",
+        "p": [
+          "Fans of the acclaimed espionage thriller series are facing bittersweet news regarding the future of the program. Cast member Olivia Cooke recently shared in an interview with The Times that the eighth season will serve as the final outing for the production. While acknowledging that television projects can sometimes leave doors open, she confirmed that the current indication is a definitive conclusion.",
+          "The announcement signals the eventual winding down of a widely celebrated narrative arc. Viewers have followed the adventures of MI5's rejected agents for multiple installments, making the confirmation of an endpoint a significant milestone for the fandom."
+        ]
+      },
+      {
+        "h": "Cast Reactions and Emotional Goodbyes",
+        "p": [
+          "The reality of the show concluding has struck the cast deeply as they film their final scenes. Cooke described a heavy atmosphere on set, noting that the ensemble and crew share a sense of melancholy and distraction as production nears its completion.",
+          "Reflecting on her attachment to the project, the actress admitted to shedding tears in the makeup chair. She noted that she requested a two-week break following the wrap to process the end of an experience she considers a shining light in her career, anticipating a period of feeling down once filming officially stops."
+        ]
+      },
+      {
+        "h": "The Journey of Sid Baker",
+        "p": [
+          "Cooke originated the character Sid Baker during the initial season of the programme. Her apparent departure early in the run left many viewers surprised when the character was seemingly killed off, only for her to make a triumphant return in the sixth season.",
+          "The actress mentioned she was not entirely shocked by the comeback, citing ongoing communication and availability checks over the intervening years. Stepping back into the role felt seamless, as though she had never stepped away from the universe."
+        ]
+      },
+      {
+        "h": "Overcoming Contractual Complications",
+        "p": [
+          "Returning to the spy series required navigating complex professional hurdles due to previous commitments. Cooke explained that her contract for HBO's House of the Dragon contained restrictions preventing her from taking on a long-running series for a competing streaming platform.",
+          "Resolving the conflict required legal intervention and careful negotiation behind the scenes. The actress humorously recalled sending desperate text messages asking for assistance as legal teams worked to smooth out the scheduling and contractual details."
+        ]
+      },
+      {
+        "h": "Upcoming Seasons and Source Material",
+        "p": [
+          "Apple previously renewed the production for an eighth outing back in September, even ahead of the sixth season premiere. The eighth run will consist of six episodes and draws its narrative from Clown Town, which is the ninth book in Mick Herron's Slough House novel series.",
+          "According to the official synopsis, the plot will feature a major confrontation between Jackson Lamb and Diana Taverner, portrayed by Kristin Scott Thomas. After a botched blackmail attempt places Taverner on the defensive, Lamb must uncover one of the agency's darkest secrets."
+        ]
+      },
+      {
+        "h": "Broader Release Schedule and Ensemble",
+        "p": [
+          "Before the final season airs, audiences have additional content to look forward to. A seventh season renewal was announced previously and is anticipated to premiere in 2027, with the eighth season following directly the subsequent year.",
+          "The series boasts a stellar ensemble cast featuring Gary Oldman and Jack Lowden alongside Cooke and Kristin Scott Thomas. The spy thriller continues to maintain high anticipation as it progresses toward its planned conclusion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Olivia Cooke has confirmed that the espionage drama series will end with its upcoming eighth season, evoking strong emotional reactions from the cast during production. The final installment will adapt Mick Herron's ninth book, Clown Town, bringing the story of MI5's outcast agents toward a definitive conclusion following scheduled releases in 2027 and beyond."
+        ]
+      }
+    ],
+    "facts": [
+      "Olivia Cooke revealed to The Times that Slow Horses will end with Season 8.",
+      "Season 8 will consist of six episodes.",
+      "Season 8 is adapted from Clown Town, the ninth book in Mick Herron's Slough House series.",
+      "Season 7 is expected to air in 2027.",
+      "Season 8 was renewed by Apple in September."
+    ],
+    "entities": {
+      "people": [
+        "Olivia Cooke",
+        "Mick Herron",
+        "Jackson Lamb",
+        "Diana Taverner",
+        "Kristin Scott Thomas",
+        "Gary Oldman",
+        "Jack Lowden"
+      ],
+      "titles": [
+        "Slow Horses",
+        "Clown Town",
+        "Slough House",
+        "House of the Dragon"
+      ]
+    },
+    "keywords": [
+      "Slow Horses Season 8",
+      "Olivia Cooke Slow Horses",
+      "Slough House Clown Town",
+      "Slow Horses ending"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/Slow_Horses_Photo_060302.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Slow Horses Will Conclude With Season 8, Reveals Cast Member Olivia Cooke",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:54:30 +0000"
+  },
+  "rjxyi1": {
+    "id": "rjxyi1",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Crosses Major Milestone With Rs 242.05 Crore Worldwide Collection In Ten Days",
+    "dek": "Actor Suriya's latest theatrical release Scene has crossed the Rs 240 crore worldwide mark within ten days, outperforming several previous films.",
+    "body": [
+      {
+        "h": "Theatrical Journey And Worldwide Earnings",
+        "p": [
+          "The theatrical run of actor Suriya's latest film has achieved significant momentum since its arrival in cinemas. Within a period of ten days following its debut, the worldwide gross earnings of the feature crossed the Rs 240 crore mark, eventually reaching a total of Rs 242.05 crore globally.",
+          "The movie managed to pull audiences into cinema halls despite competing against another prominent title, Ramayana. Its steady performance across domestic and overseas territories highlights strong audience retention during its initial phase."
+        ]
+      },
+      {
+        "h": "Tenth Day Domestic Collection Breakdown",
+        "p": [
+          "On its tenth day in theaters, the feature brought in Rs 9.30 crore in net domestic earnings across India according to Sacnilk data. This figure represented a minor decline of 2.1 percent compared to the collections registered on the previous day.",
+          "The release was distributed in multiple linguistic versions. The Tamil version accounted for Rs 7.10 crore through 3,123 shows, while the Telugu version contributed Rs 2.20 crore across 1,253 shows, bringing the total combined show count for Sunday to 4,376."
+        ]
+      },
+      {
+        "h": "Total Domestic Figures And Weekly Trends",
+        "p": [
+          "Following the completion of its tenth day, the cumulative India net collection for the title advanced to Rs 136.50 crore, with the domestic gross figures reaching Rs 158.55 crore. During its opening week alone, the feature generated Rs 111.70 crore in net collections.",
+          "The first three days of the second week contributed an additional Rs 24.80 crore to the domestic ledger. Across the ten-day period, the total number of screenings held across various locations reached 52,077."
+        ]
+      },
+      {
+        "h": "Regional Contributions Across Indian States",
+        "p": [
+          "Tamil Nadu maintained its position as the highest contributing territory for the film, generating a gross collection of Rs 5 crore on its tenth day alone. The Tamil language edition accounted for Rs 109.95 crore of the total domestic net earnings, representing 80.5 percent of the overall India total.",
+          "Meanwhile, the combined territories of Andhra Pradesh and Telangana contributed Rs 2.50 crore, Kerala added Rs 1.85 crore, and Karnataka brought in Rs 1.25 crore. Other regions contributed an additional Rs 20 lakh, culminating in a combined state-wise gross of Rs 10.80 crore for the day."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Releases",
+        "p": [
+          "The current box office trajectory has allowed the feature to exceed the reported lifetime collections of several other projects associated with its lead actor. It surpassed the lifetime earnings of Vishwanath and Sons, which had finished its run at Rs 122.54 crore.",
+          "Additionally, the film moved past the lifetime collections of Karuppu, cementing its financial performance relative to the actor's other recent cinematic outings."
+        ]
+      },
+      {
+        "h": "Comparison With Jithu Madhavan's Aavesham",
+        "p": [
+          "The performance of the title can also be evaluated through comparisons with director Jithu Madhavan's earlier project, Aavesham. At the same ten-day milestone during its own run, Aavesham had registered an India net collection of Rs 4.55 crore for that specific day, bringing its domestic net total to Rs 38.70 crore and domestic gross to Rs 44.51 crore.",
+          "With an overseas gross of Rs 35.50 crore at that stage, Aavesham's worldwide total stood at Rs 80.01 crore. In contrast, the Suriya starrer achieved more than three times that worldwide figure within the identical timeframe."
+        ]
+      },
+      {
+        "h": "Cast Members And Production Context",
+        "p": [
+          "The movie features an ensemble cast that includes Suriya, Naslen, and Nazriya Nazim. Their collaborative presence on screen has helped sustain audience interest throughout the theatrical run.",
+          "Despite competing alongside other major titles like Ramayana in the current entertainment landscape, the feature continues to maintain a substantial presence in cinemas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's latest theatrical release has achieved a worldwide collection of Rs 242.05 crore within ten days, surpassing the lifetime earnings of Vishwanath and Sons. The film also recorded earnings more than three times higher than the ten-day global total of Jithu Madhavan's Aavesham."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released in theatres on November 6.",
+      "The film earned Rs 242.05 crore worldwide in ten days.",
+      "Vishwanath and Sons earned a lifetime collection of Rs 122.54 crore.",
+      "Karuppu earned a lifetime collection of Rs 198.18 crore.",
+      "Day 10 India net collection was Rs 9.30 crore.",
+      "Day 9 India net collection was Rs 9.50 crore.",
+      "The Tamil version contributed Rs 7.10 crore from 3,123 shows on Day 10.",
+      "The Telugu version added Rs 2.20 crore through 1,253 shows on Day 10.",
+      "Total combined shows on Sunday were 4,376.",
+      "India nett collection reached Rs 136.50 crore.",
+      "Domestic gross stands at Rs 158.55 crore.",
+      "Opening week nett collection was Rs 111.70 crore.",
+      "First three days of the second week contributed Rs 24.80 crore.",
+      "Total show count across ten days reached 52,077.",
+      "Tamil Nadu Day 10 gross was Rs 5 crore.",
+      "Andhra Pradesh and Telangana together added Rs 2.50 crore on Day 10.",
+      "Kerala contributed Rs 1.85 crore on Day 10.",
+      "Karnataka contributed Rs 1.25 crore on Day 10.",
+      "Other territories accounted for Rs 20 lakh on Day 10.",
+      "Tamil version contributed Rs 109.95 crore to the domestic net total.",
+      "Aavesham collected Rs 4.55 crore net in India on its tenth day.",
+      "Aavesham domestic net reached Rs 38.70 crore.",
+      "Aavesham India gross reached Rs 44.51 crore.",
+      "Aavesham overseas gross stood at Rs 35.50 crore.",
+      "Aavesham worldwide total stood at Rs 80.01 crore."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Naslen",
+        "Nazriya Nazim"
+      ],
+      "titles": [
+        "Scene",
+        "Vishwanath and Sons",
+        "Karuppu",
+        "Aavesham",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Scene worldwide earnings",
+      "Scene vs Aavesham collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156516457,thumbsize-706288,width-1280,height-720,resizemode-75/156516457.jpg",
+        "caption": "Suriya Starrer Scene Crosses Major Milestone With Rs 242.05 Crore Worldwide Collection In Ten Days",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T02:21:58Z"
+  },
+  "1l788n7": {
+    "id": "1l788n7",
+    "type": "news",
+    "headline": "Main Trailer And Official Poster Released For Seven O′Clock Breakfast Club for the Brokenhearted",
+    "dek": "Discover the newly revealed promotional materials and plot details for the upcoming South Korean film starring Bae Suzy and Lee Jin-Uk.",
+    "body": [
+      {
+        "h": "Main Promotional Materials Unveiled",
+        "p": [
+          "The official promotional campaign for the upcoming motion picture has officially taken a major step forward. Audiences and fans now have access to the main theatrical trailer and primary promotional poster. These newly released assets offer an extended look into the tone, visual style, and character dynamics of the feature film."
+        ]
+      },
+      {
+        "h": "Release Date Set for South Korea",
+        "p": [
+          "Cinemagoers in South Korea can mark their calendars for the official theatrical launch. The feature is scheduled to premiere publicly on December 30, 2026. This upcoming release date positions the film right at the end of the year."
+        ]
+      },
+      {
+        "h": "Starring Cast and Key Characters",
+        "p": [
+          "The cinematic production features a prominent cast of well-known actors. Bae Suzy takes on the leading role of Sa-Gang, while Lee Jin-Uk portrays the main character Ji-Hun. Additional cast members include Yoo Ji-Tae as Pilot Jeong-Su and Keum Sae-Rok as Hyeon-Jeong."
+        ]
+      },
+      {
+        "h": "Plot Synopsis and Breakfast Gathering",
+        "p": [
+          "The narrative centers around individuals dealing with painful separations and romantic heartbreaks. Sa-Gang and Ji-Hun both find themselves attending a unique morning meeting held at seven o'clock, specifically organized for people nursing broken hearts. By gathering together, the attendees are able to share their personal grief and navigate the healing process."
+        ]
+      },
+      {
+        "h": "Character Backgrounds and Past Romances",
+        "p": [
+          "Sa-Gang is employed as a flight attendant who previously experienced a difficult romantic split from Pilot Jeong-Su. Meanwhile, Ji-Hun works as a professional consultant instructor whose long-term relationship with teacher Hyeon-Jeong ultimately came to an end. Each character arrives at the early morning meeting carrying the heavy baggage of their respective past relationships."
+        ]
+      },
+      {
+        "h": "Dialogue and Trailer Highlights",
+        "p": [
+          "The newly debuted video preview provides glimpses of dramatic verbal exchanges among the characters. Key lines include remarks about commemorating breakups, questioning past choices, and attempting to return a lost camera. Dialogue exchanges also touch upon the idea that achieving a proper ending can lead to a proper new beginning."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The main trailer and poster have been released for the South Korean movie Seven O′Clock Breakfast Club for the Brokenhearted, starring Bae Suzy and Lee Jin-Uk. The film is scheduled to premiere on December 30, 2026, and follows characters dealing with past relationships who attend a 7 a.m. breakfast gathering to cope with their heartbreaks."
+        ]
+      }
+    ],
+    "facts": [
+      "Seven O′Clock Breakfast Club for the Brokenhearted is a movie.",
+      "The film stars Bae Suzy and Lee Jin-Uk.",
+      "The movie releases on December 30, 2026 in South Korea.",
+      "Bae Suzy plays Sa-Gang, a flight attendant.",
+      "Lee Jin-Uk plays Ji-Hun, a professional consultant instructor.",
+      "Yoo Ji-Tae plays Pilot Jeong-Su.",
+      "Keum Sae-Rok plays Hyeon-Jeong, a teacher."
+    ],
+    "entities": {
+      "people": [
+        "Bae Suzy",
+        "Lee Jin-Uk",
+        "Yoo Ji-Tae",
+        "Keum Sae-Rok"
+      ],
+      "titles": [
+        "Seven O′Clock Breakfast Club for the Brokenhearted",
+        "Hello, Sadness"
+      ]
+    },
+    "keywords": [
+      "Seven O′Clock Breakfast Club for the Brokenhearted",
+      "Bae Suzy Seven O′Clock Breakfast Club for the Brokenhearted",
+      "Lee Jin-Uk",
+      "Seven O′Clock Breakfast Club for the Brokenhearted trailer"
+    ],
+    "images": [
+      {
+        "url": "https://blog.asianwiki.com/wp-content/uploads/2026/11/Seven_OClock_Breakfast_Club_for_the_Brokenhearted-tp01.jpg",
+        "caption": "Main Trailer And Official Poster Released For Seven O′Clock Breakfast Club for the Brokenhearted",
+        "source": "AsianWiki"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 00:47:17 +0000"
   }
 };

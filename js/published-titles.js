@@ -43464,7 +43464,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-14",
     "date_kind": "release",
     "runtime": 0,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1824297": {
@@ -45257,7 +45264,32 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-13",
     "date_kind": "release",
     "runtime": 86,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1823438": {
