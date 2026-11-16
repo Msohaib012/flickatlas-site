@@ -371,6 +371,52 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-16T19:44:20+05:30"
   },
+  "oade9b": {
+    "id": "oade9b",
+    "type": "news",
+    "headline": "Shruti Haasan Deflects Marriage Inquiry With Witty Divorce Question to Suhasini Maniratnam in Viral Video",
+    "dek": "An online interaction between Shruti Haasan and Suhasini Maniratnam quickly gained internet traction after the younger actress delivered a sharp and humorous counter-inquiry about divorce.",
+    "entities": {
+      "people": [
+        "Shruti Haasan",
+        "Suhasini Maniratnam",
+        "Kamal Haasan",
+        "Sarika",
+        "Shantanu Hazarika",
+        "Pawan Kalyan",
+        "Ram Charan",
+        "Chiranjeevi",
+        "Nandamuri Balakrishna",
+        "Prabhas",
+        "Dulquer Salmaan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Gabbar Is Back",
+        "Vakeel Saab",
+        "Peddi",
+        "Waltair Veerayya",
+        "Veera Simha Reddy",
+        "Salaar",
+        "Aakasam Lo Oka Taara",
+        "Coolie"
+      ]
+    },
+    "keywords": [
+      "Shruti Haasan Suhasini Maniratnam viral clip",
+      "Shruti Haasan marriage comments",
+      "Shruti Haasan Shantanu Hazarika",
+      "Shruti Haasan films"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shruti-haasan-claps-back-at-suhasini-maniratnam-s-marriage-question-in-viral1794834497.jpg",
+        "caption": "Shruti Haasan Deflects Marriage Inquiry With Witty Divorce Question to Suhasini Maniratnam in Viral Video",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T18:43:18+05:30"
+  },
   "1uy5d3j": {
     "id": "1uy5d3j",
     "type": "news",
@@ -4586,49 +4632,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 07:15:57 +0000"
-  },
-  "1wc899q": {
-    "id": "1wc899q",
-    "type": "news",
-    "headline": "Sooraj Barjatya and Yeh Prem Mol Liya Cast Bring Warmth to The Great Indian Kapil Show",
-    "dek": "Director Sooraj Barjatya along with Ayushmann Khurrana and Sharvari charm audiences on Season 5 Episode 8 of Kapil Sharma's talk show.",
-    "entities": {
-      "people": [
-        "Kapil Sharma",
-        "Sooraj Barjatya",
-        "Ayushmann Khurrana",
-        "Sharvari",
-        "Krushna Abhishek",
-        "Kiku Sharda",
-        "Sunil Grover",
-        "Supriya Pathak",
-        "Seema Pahwa",
-        "Swanand Kirkire",
-        "Saumya Tandon",
-        "Geeta Agrawal Sharma",
-        "Surbhi Tiwari"
-      ],
-      "titles": [
-        "The Great Indian Kapil Show",
-        "Yeh Prem Mol Liya",
-        "Maine Pyar Kiya",
-        "Hum Aapke Hain Koun..!"
-      ]
-    },
-    "keywords": [
-      "The Great Indian Kapil Show Yeh Prem Mol Liya",
-      "Sooraj Barjatya Ayushmann Khurrana Sharvari",
-      "Yeh Prem Mol Liya release date",
-      "The Great Indian Kapil Show Season 5 Episode 8"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-great-indian-kapil-show-01.jpg",
-        "caption": "Sooraj Barjatya and Yeh Prem Mol Liya Cast Bring Warmth to The Great Indian Kapil Show",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 07:05:03 +0000"
   },
   "14i9727": {
     "id": "14i9727",

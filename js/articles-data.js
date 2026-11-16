@@ -164365,5 +164365,113 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-16T15:45:20+00:00"
+  },
+  "oade9b": {
+    "id": "oade9b",
+    "type": "news",
+    "headline": "Shruti Haasan Deflects Marriage Inquiry With Witty Divorce Question to Suhasini Maniratnam in Viral Video",
+    "dek": "An online interaction between Shruti Haasan and Suhasini Maniratnam quickly gained internet traction after the younger actress delivered a sharp and humorous counter-inquiry about divorce.",
+    "body": [
+      {
+        "h": "An Unexpected Exchange On Camera",
+        "p": [
+          "During a casual online interview session, veteran film star Suhasini Maniratnam posed a direct question to Shruti Haasan regarding her future marriage intentions. Rather than avoiding the personal inquiry, Shruti surprised both the interviewer and viewers by turning the tables with a cheeky question of her own, asking Suhasini when she intended to divorce her husband. This spontaneous retort momentarily startled the seasoned actress and generated an entertaining moment that swiftly spread across digital platforms.",
+          "The playful yet sharp interaction immediately captured the attention of social media users, turning the clip into a trending topic. Fans and onlookers flooded various platforms to discuss the witty exchange, highlighting Shruti's quick thinking and unfiltered conversational style during the digital media interaction."
+        ]
+      },
+      {
+        "h": "Perspective on Partnerships",
+        "p": [
+          "The actress has frequently articulated her preference for authentic companionship over the traditional legal and social constraints associated with marriage. Her outlook has been partially shaped by observing her parents, Kamal Haasan and Sarika, who wed in 1988 before separating in 2004, offering her distinct lessons regarding personal and artistic partnerships.",
+          "Furthermore, she has openly questioned the elaborate and performative nature characteristic of grand traditional weddings, previously posing the rhetorical question of who such massive spectacles are actually meant to satisfy. Her critical view of conventional wedding culture aligns with her preference for maintaining unconventional and genuine personal connections."
+        ]
+      },
+      {
+        "h": "Past Relationships and Media Focus",
+        "p": [
+          "In her personal life, the multilingual star began a relationship with doodle artist Shantanu Hazarika in 2020 amid the pandemic restrictions. The pair eventually chose to live together in Mumbai, frequently documenting their affection for one another through social media updates.",
+          "After nearly four years of togetherness, the couple reportedly separated in early 2024 due to personal differences. Despite the conclusion of that relationship, her personal life and views on romance continue to attract significant media attention and public curiosity."
+        ]
+      },
+      {
+        "h": "Diverse Acting Portfolio",
+        "p": [
+          "Away from headlines surrounding her personal life, the performer maintains an active career spanning multiple regional film industries. In Telugu cinema, she undertook a brief yet impactful role as Amrutha, the late wife of Pawan Kalyan, in Vakeel Saab, alongside making a special appearance in the track Hellallallo alongside Ram Charan in Peddi.",
+          "Her filmography also features prominent commercial projects where she shared screen space with major stars. She portrayed a RAW agent alongside Chiranjeevi in Waltair Veerayya, acted in Nandamuri Balakrishna's Veera Simha Reddy, and played an outsider entangled in the violent conflicts of Khansaar in the Prabhas-starrer Salaar."
+        ]
+      },
+      {
+        "h": "Upcoming Projects and Recent Appearances",
+        "p": [
+          "The actress continues to expand her cinematic footprint with various upcoming ventures in different languages. She is slated to appear in a significant role within Dulquer Salmaan's upcoming dramatic film titled Aakasam Lo Oka Taara.",
+          "Additionally, her recent work includes an appearance in the Tamil-language feature Coolie, which is headlined by Rajinikanth. These varied roles underline her steady presence across major South Indian cinematic industries."
+        ]
+      },
+      {
+        "h": "Recent Personal Milestones",
+        "p": [
+          "In tandem with her professional commitments, she has also experienced notable updates in her personal living arrangements. Last year, she conducted a housewarming pooja ceremony following her relocation to a new residence in Chennai.",
+          "These milestones, paired with her outspoken views and active film career, keep her consistently positioned in the public eye across entertainment news portals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shruti Haasan responded to a marriage inquiry from Suhasini Maniratnam with a witty counter-question about divorce during an online media interaction, creating a viral moment online. The actress, who values companionship over traditional marriage, maintains a busy acting career across Telugu and Tamil cinema with upcoming projects like Aakasam Lo Oka Taara."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan and Sarika married in 1988 and divorced in 2004.",
+      "Shruti Haasan began dating Shantanu Hazarika in 2020.",
+      "Shruti and Shantanu parted ways in early 2024.",
+      "Shruti Haasan played Pawan Kalyan's late wife Amrutha in Vakeel Saab.",
+      "Shruti Haasan appeared in the song Hellallallo with Ram Charan in Peddi.",
+      "Shruti Haasan played a RAW agent opposite Chiranjeevi in Waltair Veerayya.",
+      "Shruti Haasan starred in Nandamuri Balakrishna's Veera Simha Reddy.",
+      "Shruti Haasan appeared in Prabhas' Salaar.",
+      "Shruti Haasan will be seen in Dulquer Salmaan's drama Aakasam Lo Oka Taara.",
+      "Shruti Haasan appeared in the Tamil-language film Coolie starring Rajinikanth."
+    ],
+    "entities": {
+      "people": [
+        "Shruti Haasan",
+        "Suhasini Maniratnam",
+        "Kamal Haasan",
+        "Sarika",
+        "Shantanu Hazarika",
+        "Pawan Kalyan",
+        "Ram Charan",
+        "Chiranjeevi",
+        "Nandamuri Balakrishna",
+        "Prabhas",
+        "Dulquer Salmaan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Gabbar Is Back",
+        "Vakeel Saab",
+        "Peddi",
+        "Waltair Veerayya",
+        "Veera Simha Reddy",
+        "Salaar",
+        "Aakasam Lo Oka Taara",
+        "Coolie"
+      ]
+    },
+    "keywords": [
+      "Shruti Haasan Suhasini Maniratnam viral clip",
+      "Shruti Haasan marriage comments",
+      "Shruti Haasan Shantanu Hazarika",
+      "Shruti Haasan films"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shruti-haasan-claps-back-at-suhasini-maniratnam-s-marriage-question-in-viral1794834497.jpg",
+        "caption": "Shruti Haasan Deflects Marriage Inquiry With Witty Divorce Question to Suhasini Maniratnam in Viral Video",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T18:43:18+05:30"
   }
 };
