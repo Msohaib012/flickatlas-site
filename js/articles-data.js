@@ -159313,5 +159313,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 00:47:17 +0000"
+  },
+  "p5yih5": {
+    "id": "p5yih5",
+    "type": "news",
+    "headline": "Glenn Close Receives Honorary Oscar After Eight Prior Nominations at the 17th Governors Awards",
+    "dek": "The Academy of Motion Picture Arts and Sciences held its 17th annual Governors Awards, honouring industry veterans including Glenn Close, Ridley Scott, Floyd Norman, Christine Vachon, and Pamela Koffler.",
+    "body": [
+      {
+        "h": "The 17th Governors Awards Ceremony",
+        "p": [
+          "The Academy of Motion Picture Arts and Sciences hosted its 17th annual Governors Awards ceremony at the Ray Dolby Ballroom at Ovation Hollywood. The event brings together industry leaders to celebrate significant cinematic figures whose achievements leave a lasting impression on global filmmaking and inspire future creators.",
+          "Unlike the standard competitive Academy Awards, the honourees for this specific event are chosen directly by the Academy's Board of Governors. The special ceremony was established by the Board of Governors and held its inaugural event on November 14, 2009, to recognize exceptional contributions that may fall outside traditional voting categories."
+        ]
+      },
+      {
+        "h": "Glenn Close's Long-Awaited Academy Recognition",
+        "p": [
+          "Glenn Close finally secured an Oscar statuette in the form of an honorary Academy Award, following a career spanning more than five decades. Prior to this honorary accolade, the veteran actor had accumulated eight competitive Academy Award nominations without securing a win.",
+          "Her journey of competitive nominations began in 1983 with her role in The World According to Garp. Subsequent nods included her work in the thriller Fatal Attraction and her performance in the 2020 film Hillbilly Elegy, cementing her status as one of the finest performers to have missed out on a competitive Academy Award win."
+        ]
+      },
+      {
+        "h": "Ridley Scott Honoured for Cinematic Contributions",
+        "p": [
+          "Filmmaker Ridley Scott joined the list of recipients receiving an honorary Oscar statuette. Known for helming notable titles such as Alien, Blade Runner, and Gladiator, the 88-year-old director has earned four competitive Academy Award nominations throughout his career without taking home a win.",
+          "His previous nominations comprise three bids for Best Director for Thelma Louise, Gladiator, and Black Hawk Down, along with a Best Picture nomination for The Martian. Scott did not attend the physical event and instead accepted his award through a recorded video message."
+        ]
+      },
+      {
+        "h": "Pioneering Animator Floyd Norman Recognised",
+        "p": [
+          "Animator Floyd Norman received recognition for a career in motion pictures spanning 65 years. Beginning his professional journey in 1956, he made history as the first Black animator at Walt Disney Animation Studios.",
+          "During his extensive tenure in the industry, the 91-year-old artist contributed to several classic animated motion pictures, including Sleeping Beauty, 101 Dalmatians, and The Jungle Book."
+        ]
+      },
+      {
+        "h": "Irving G. Thalberg Memorial Award Presented",
+        "p": [
+          "Producers Christine Vachon and Pamela Koffler of Killer Films were awarded the Irving G. Thalberg Memorial Award. This accolade is presented to creative producers whose body of work reflects consistently high quality in motion picture production.",
+          "The duo has previously backed titles such as Hedwig and the Angry Inch, One Hour Photo, and May December. They also earned a Best Picture Oscar nomination for producing the film Past Lives."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 17th Governors Awards celebrated multiple industry veterans, highlighted by Glenn Close receiving an honorary Oscar after eight prior competitive nominations. The Academy also honoured filmmaker Ridley Scott, animator Floyd Norman, and producers Christine Vachon and Pamela Koffler for their respective contributions to cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "The 17th Governors Awards was held on November 15, 2026.",
+      "Glenn Close has received eight Academy Award nominations.",
+      "Glenn Close's first Oscar nomination was in 1983 for The World According to Garp.",
+      "Ridley Scott is 88 years old.",
+      "Floyd Norman is 91 years old.",
+      "Floyd Norman began his career in 1956 as the first Black animator at Walt Disney Animation Studios.",
+      "Christine Vachon and Pamela Koffler received the Irving G. Thalberg Memorial Award.",
+      "The first Governors Awards ceremony was held on November 14, 2009."
+    ],
+    "entities": {
+      "people": [
+        "Glenn Close",
+        "Ridley Scott",
+        "Floyd Norman",
+        "Christine Vachon",
+        "Pamela Koffler",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "The World According to Garp",
+        "Fatal Attraction",
+        "Hillbilly Elegy",
+        "Alien",
+        "Blade Runner",
+        "Gladiator",
+        "Thelma Louise",
+        "Black Hawk Down",
+        "The Martian",
+        "Sleeping Beauty",
+        "101 Dalmatians",
+        "The Jungle Book",
+        "Hedwig and the Angry Inch",
+        "One Hour Photo",
+        "May December",
+        "Past Lives"
+      ]
+    },
+    "keywords": [
+      "Glenn Close honorary Oscar",
+      "Governors Awards",
+      "Ridley Scott",
+      "Floyd Norman",
+      "Irving G Thalberg Memorial Award"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/Ridley_Scott_and_Glenn_Close_1794791863700_kGfz_1794791869030_fKNf_97b54581-78a1-40da-a3bf-ff86f2389306_vOgK.jpg",
+        "caption": "Glenn Close Receives Honorary Oscar After Eight Prior Nominations at the 17th Governors Awards",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 07:20:45 +0530"
+  },
+  "mlbmg1": {
+    "id": "mlbmg1",
+    "type": "news",
+    "headline": "Danny Boyle Reveals the Final Chapter of 28 Years Later Needs Financing Despite a Completed Script",
+    "dek": "Director Danny Boyle shares that while the script for the third installment of the zombie franchise is finished, the production still needs to secure financial backing.",
+    "body": [
+      {
+        "h": "The Current Financial Hurdle",
+        "p": [
+          "Director Danny Boyle has shared an update regarding the planned zombie trilogy, revealing that the third and final installment currently lacks the necessary financial support to move forward. Despite earning favorable reviews from both critics and general audiences, the franchise has encountered box office challenges that have complicated future plans.",
+          "Speaking during an audience talk-back event for his upcoming film Ink, Boyle addressed questions about the continuation of the series. He confirmed that creative partner Alex Garland has already written a fantastic script, but the production team must secure funding before cameras can start rolling."
+        ]
+      },
+      {
+        "h": "Box Office Journey of the Franchise",
+        "p": [
+          "The initial film in the planned trilogy, 28 Years Later, had a respectable run in theaters during the summer of 2025. It pulled in $151 million globally against a production budget of $60 million.",
+          "However, the second installment in the series, titled The Bone Temple, struggled significantly at the box office during the winter season. Directed by Nia DaCosta, the sequel grossed just $58.5 million worldwide, which included a $15 million opening during a sluggish MLK weekend, despite achieving a higher Rotten Tomatoes score than the original 2002 film."
+        ]
+      },
+      {
+        "h": "Original Production Plans and Sony's Strategy",
+        "p": [
+          "When the overarching trilogy was first revealed, Sony's Columbia Pictures and the creative team originally intended to shoot the first two movies back-to-back. Boyle noted back in June 2025 that while the broad narrative arc was outlined, the progression depended heavily on how the opening film performed.",
+          "Sony had previously greenlit the trilogy's finale in December prior to the release of The Bone Temple. Following the sophomore chapter's underperformance, the studio and filmmakers now face an uphill battle in lining up financial backers for the concluding movie."
+        ]
+      },
+      {
+        "h": "Cillian Murphy's Anticipated Return",
+        "p": [
+          "Should the production successfully secure its budget, the third movie will feature a major star who was absent from the preceding chapters. Academy Award winner Cillian Murphy is slated to reprise his iconic role as Jim, the former bike courier who served as the protagonist in the original 2002 movie 28 Days Later.",
+          "Jim's involvement was teased in a surprise cameo during the final scene of The Bone Temple. In that sequence, Jim is seen tutoring his daughter before the pair rescue franchise protagonists Spike and Kellie from a pursuing horde of infected runners."
+        ]
+      },
+      {
+        "h": "A Mathematical Conclusion",
+        "p": [
+          "Danny Boyle has expressed great enthusiasm for how the narrative arc will resolve if the final project comes to fruition. He described the prospective third film as a full-circle moment for both Jim and character Spike.",
+          "According to the director, this concluding chapter will wrap up the entire overarching storyline in a manner he describes as mathematically perfect, provided the necessary funds are raised."
+        ]
+      },
+      {
+        "h": "Danny Boyle's Upcoming Projects",
+        "p": [
+          "While navigating the financing hurdles of his zombie franchise, Boyle has been promoting his separate biographical film project titled Ink. The movie follows the rise to power of Rupert Murdoch and the British tabloid publication The Sun.",
+          "Ink features performances from Jack O'Connell and Guy Pearce, showcasing the origins of tabloid journalism. The feature is scheduled for a select theatrical release in the United States by Netflix on December 11, followed by a streaming premiere on January 8."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Danny Boyle confirms that the final movie in the planned trilogy has a completed script by Alex Garland but still requires funding following the soft box office performance of the second installment, The Bone Temple. If financial backing is secured, Academy Award winner Cillian Murphy will fully reprise his role as Jim for a concluding chapter that ties the overarching story together."
+        ]
+      }
+    ],
+    "facts": [
+      "28 Years Later was released in summer 2025.",
+      "28 Years Later grossed $151 million against a $60 million budget.",
+      "The Bone Temple grossed $58.5 million worldwide.",
+      "The Bone Temple had a $15 million opening on MLK weekend.",
+      "Sony greenlit the trilogy finale in December.",
+      "Cillian Murphy won an Academy Award and will reprise his role as Jim.",
+      "Ink is directed by Danny Boyle and releases in select U.S. theaters on Dec. 11, with a streaming release on Jan. 8."
+    ],
+    "entities": {
+      "people": [
+        "Danny Boyle",
+        "Alex Garland",
+        "Nia DaCosta",
+        "Cillian Murphy",
+        "Jim",
+        "Spike",
+        "Kellie",
+        "Rupert Murdoch",
+        "Jack O'Connell",
+        "Guy Pearce",
+        "Billy Evans"
+      ],
+      "titles": [
+        "Ink",
+        "The Sun",
+        "28 Years Later",
+        "The Bone Temple",
+        "28 Days Later",
+        "You Can See Everything"
+      ]
+    },
+    "keywords": [
+      "28 Years Later",
+      "Danny Boyle",
+      "Cillian Murphy",
+      "The Bone Temple",
+      "Ink film"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Cillian-Murphy-28-Years-Later.jpg",
+        "caption": "Danny Boyle Reveals the Final Chapter of 28 Years Later Needs Financing Despite a Completed Script",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 20:34:04 +0000"
+  },
+  "187tcw6": {
+    "id": "187tcw6",
+    "type": "news",
+    "headline": "Ramayana Versus Adipurush Box Office: How Ranbir Kapoor and Yash Overcame Prabhas's Initial Lead",
+    "dek": "A detailed box office comparison between Nitesh Tiwari's Ramayana and Om Raut's Adipurush highlights how word-of-mouth and visual craft flipped the script after a massive opening day advantage.",
+    "body": [
+      {
+        "h": "The Clash of Two Epic Visions",
+        "p": [
+          "The cinematic adaptations of the ancient epic story featuring Lord Ram and Ravana have yielded starkly different commercial results in Indian cinema. Om Raut's Adipurush and Nitesh Tiwari's Ramayana: Part 1 both arrived as massive pan-India spectacles, yet their journeys at the ticket counters went in completely opposite directions.",
+          "While both projects aimed to bring a timeless cultural tale to the big screen with prominent casts, audience reception proved that a high-profile launch is only half the battle. The contrasting fates of these two heavyweights have become a major talking point among industry analysts and moviegoers alike."
+        ]
+      },
+      {
+        "h": "Initial Openers and Early Trends",
+        "p": [
+          "Riding on the immense post-Baahubali stardom of Prabhas, Adipurush secured a significantly higher opening day collection. The film brought in 86.75 crore net across all languages on its first day, outperforming the initial figures of its contemporary.",
+          "In comparison, the multi-starrer feature starring Ranbir Kapoor, Yash, and Sai Pallavi opened with 65 crore India net on its first day. Although Prabhas's project initially held a 21.75 crore advantage at the start, subsequent days revealed a dramatic shift in momentum as viewer opinions began to circulate."
+        ]
+      },
+      {
+        "h": "The Turning Point and Trajectory",
+        "p": [
+          "Following the opening weekend, the box office trajectories of the two films diverged sharply. Adipurush suffered a steep decline of 81.55% on its first Monday, dropping precipitously from its opening figures to just 16 crore.",
+          "Conversely, the theatrical run led by Ranbir Kapoor and Yash steadily gained strength. After building momentum through the first week, Nitesh Tiwari's directorial venture surged to 115.25 crore on its fifth day and built a massive 430.58 crore lead over its rival's ten-day cumulative total."
+        ]
+      },
+      {
+        "h": "Visual Quality and VFX Standards",
+        "p": [
+          "One of the major factors contributing to the backlash against Adipurush was its substandard visual effects. Critics and audiences heavily criticized the artificial CGI environments and awkward character designs, which hampered the immersive experience.",
+          "On the other hand, Ramayana partnered with Oscar-winning DNEG to deliver top-tier visual craft. This technical precision justified premium ticket formats like IMAX and 3D, keeping viewers engaged and satisfied on the big screen."
+        ]
+      },
+      {
+        "h": "Seasonal Advantage and Release Timing",
+        "p": [
+          "Timing played a crucial role in the commercial outcome of both films. Adipurush hit theaters during the summer season, which is traditionally a slower period for box office returns and lacks major holiday boosts.",
+          "Ramayana benefited from a highly favorable festive window during Diwali. This holiday timing provided a natural catalyst for higher footfalls, amplifying ticket sales and sustaining long-term interest at the box office."
+        ]
+      },
+      {
+        "h": "Family Audiences and Word of Mouth",
+        "p": [
+          "Mythological dramas heavily depend on repeat viewings from families and older demographics during weekdays to sustain their run. When negative word-of-mouth spread about Adipurush, family footfalls completely dried up, pushing daily collections down into single digits by the sixth day.",
+          "In contrast, the strong emotional core of Ramayana converted families into its most loyal supporters. This sustained steady weekday numbers and drove high grosses well into the second weekend."
+        ]
+      },
+      {
+        "h": "Final Milestone and Totals",
+        "p": [
+          "Looking at the ten-day totals, the scale of the difference becomes fully apparent. Adipurush finished its initial run window with 275.75 crore net, whereas Ramayana amassed a colossal 706.33 crore India net in the same timeframe.",
+          "This monumental performance propelled director Nitesh Tiwari into the top tier of the Koimoi Director Ranking, cementing the film as an extraordinary milestone in modern Indian box office history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A box office comparison between Adipurush and Ramayana reveals how audience word-of-mouth and visual execution determine a film's success. Despite Prabhas's film opening 23% higher, Ranbir Kapoor and Yash's venture established a massive 430.58 crore lead over ten days."
+        ]
+      }
+    ],
+    "facts": [
+      "Adipurush opened with 86.75 crore on Day 1.",
+      "Ramayana opened with 65 crore India net on Day 1.",
+      "Adipurush dropped 81.55% on its first Monday to 16 crore.",
+      "Ramayana earned 115.25 crore on Day 5.",
+      "Ramayana reached a 10-day total of 706.33 crore India net.",
+      "Adipurush finished its 10-day total at 275.75 crore.",
+      "Ramayana leads Adipurush by 430.58 crore after 10 days."
+    ],
+    "entities": {
+      "people": [
+        "Prabhas",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Kriti Sanon",
+        "Saif Ali Khan",
+        "Om Raut",
+        "Nitesh Tiwari",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Adipurush",
+        "Baahubali",
+        "Kalki 2898 AD",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Adipurush box office disaster",
+      "Ranbir Kapoor Yash Ramayana",
+      "Prabhas Adipurush comparison"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-vs-adipurush-box-office-01.jpg",
+        "caption": "Ramayana Versus Adipurush Box Office: How Ranbir Kapoor and Yash Overcame Prabhas's Initial Lead",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 02:40:20 +0000"
+  },
+  "1v9ewt2": {
+    "id": "1v9ewt2",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 71: Salman Khan Advises ScoutOP, Mahhi Vij Escapes Elimination",
+    "dek": "Host Salman Khan addresses house dynamics in the seventy-first episode of Bigg Boss 20, schooling Kanika Mann, questioning ScoutOP and Love Gill's bond, and announcing a safe exit for Mahhi Vij.",
+    "body": [
+      {
+        "h": "Introduction to Weekend Ka Vaar",
+        "p": [
+          "The seventy-first episode of Bigg Boss 20 delivered another dose of intense confrontations following Saturday's grilling session. Host Salman Khan took charge on Sunday to address the behavior of several participants over the past week.",
+          "The discussions brought various underlying tensions within the house to the surface, setting the stage for strict feedback and crucial reality checks from the host."
+        ]
+      },
+      {
+        "h": "Salman Khan Schools Kanika Mann",
+        "p": [
+          "During the episode, Salman Khan directly addressed Kanika Mann regarding her conduct inside the house. When Kanika attempted to defend herself and justify her weekly performance, the host questioned if she was trying to argue with him.",
+          "Calling her oversmart, Salman criticized her and Gullu for spending their time sitting in corners and gossiping about fellow participants instead of engaging meaningfully."
+        ]
+      },
+      {
+        "h": "Qazi Touqeer Receives Praise and Correction",
+        "p": [
+          "While addressing other housemates, Salman praised Qazi Touqeer for stepping up and taking a stand whenever required in the game. However, the host also corrected Qazi regarding his previous interactions with Manish Goel.",
+          "Salman pointed out that the argument could have concluded much earlier and in a better manner, specifically noting that using terms like inappropriate touch and eve-teasing was wrong."
+        ]
+      },
+      {
+        "h": "The Dynamic Between ScoutOP and Love Gill",
+        "p": [
+          "House dynamics shifted toward the relationship between ScoutOP and Love Gill, with Qazi Touqeer arguing that Love was playing with Scout's emotions and calling her a hypocrite. Aamrapali Dubey echoed similar sentiments, stating that Love was taking Scout for a ride and enjoying it.",
+          "When questioned by Salman, Scout claimed he treated Love like any other contestant. However, the host disagreed, noting that Scout had lost other friends like Yung DSA and Aamrapali because he kept gravitating back toward Love."
+        ]
+      },
+      {
+        "h": "Scout's Emotional Struggles and Host Advice",
+        "p": [
+          "Salman addressed Scout's recent emotional outbursts, including his decision to shave his head, which the host noted was reminiscent of Radhe from the film Tere Naam. Salman advised Scout to maintain better control over his feelings and live in the present rather than the past.",
+          "The host reminded Scout of the comforting messages sent by his mother and Kaashvi Hiranandani during Diwali week, urging him to respect the wishes of his loved ones. During the conversation, Scout revealed that Kaashvi was his fiancée rather than just a girlfriend."
+        ]
+      },
+      {
+        "h": "The Patang Task Confrontations",
+        "p": [
+          "The housemates participated in a Patang task that brought out numerous grievances. Love felt that Arishfa did not stand by her words and was flying too high, while Gullu objected to Yung calling himself Badshah.",
+          "Kanika targeted Qazi, Arishfa named Scout, Mahhi accused Kanika of insecurity, Yung picked Gullu, and Aamrapali criticized Kanika for stretching matters beyond reasonable limits."
+        ]
+      },
+      {
+        "h": "Mahhi Vij Escapes Elimination",
+        "p": [
+          "Towards the end of the episode, Salman announced the voting results for the week. Mahhi Vij received the least number of votes from the audience.",
+          "Despite securing the lowest vote count, Mahhi managed to escape elimination because of an extra lifeline she held. The host subsequently advised her to take the competition much more seriously moving forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The seventy-first episode of Bigg Boss 20 featured host Salman Khan critiquing Kanika Mann and advising ScoutOP to focus on his individual game instead of his bond with Love Gill. Meanwhile, Mahhi Vij secured the lowest votes but remained safe from elimination due to her extra lifeline."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode number is 71",
+      "Air date is Nov 15, 2026",
+      "Mahhi Vij received the least votes",
+      "Mahhi Vij was saved from elimination due to an extra lifeline"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Kanika Mann",
+        "ScoutOP",
+        "Love Gill",
+        "Qazi Touqeer",
+        "Manish Goel",
+        "Aamrapali Dubey",
+        "Kaashvi Hiranandani",
+        "Yung DSA",
+        "Gullu",
+        "Arishfa",
+        "Mahhi Vij"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Tere Naam"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 71",
+      "Salman Khan Bigg Boss 20",
+      "ScoutOP Love Gill",
+      "Mahhi Vij Bigg Boss"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156515351,thumbsize-395800,width-1280,height-720,resizemode-75/156515351.jpg",
+        "caption": "Bigg Boss 20 Episode 71: Salman Khan Advises ScoutOP, Mahhi Vij Escapes Elimination",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T02:57:29Z"
   }
 };
