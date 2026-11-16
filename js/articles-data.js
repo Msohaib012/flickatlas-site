@@ -160481,5 +160481,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 09:19:01 +0530"
+  },
+  "u6q5rp": {
+    "id": "u6q5rp",
+    "type": "news",
+    "headline": "Mumbai Court Orders Release of Delhi Man Arrested Over Morphed Photos of Sonakshi Sinha",
+    "dek": "A Mumbai court has ordered the release of a Delhi resident arrested following a complaint by Sonakshi Sinha regarding manipulated social media images, citing significant procedural flaws in the arrest.",
+    "body": [
+      {
+        "h": "The Initial Complaint and Police Action",
+        "p": [
+          "Actor Sonakshi Sinha recently initiated legal action after discovering altered and objectionable pictures of herself circulating across various social media networks. Troubled by the unauthorized distribution of these manipulated images, she approached law enforcement to lodge an official complaint against the individuals responsible.",
+          "Acting promptly on the grievance, the Bandra Police launched an investigation into the matter. Their inquiries eventually led them to the capital city, where they identified a suspect allegedly linked to the creation and dissemination of the offensive visual content."
+        ]
+      },
+      {
+        "h": "Detention and Transfer from Delhi",
+        "p": [
+          "The suspect, identified as Aryan Deepak Jain, was taken into custody by authorities from the jurisdiction of the Jagatpuri Police Station in Delhi's Shahdara area. The operation took place during the morning hours, specifically around 10:11 AM.",
+          "Following his detention, the local law enforcement personnel transported him to Mumbai via a flight. Upon arrival, the Bandra Police presented him before a magistrate, seeking a three-day custody period to uncover more details about the electronic devices used in the offense."
+        ]
+      },
+      {
+        "h": "Legal Arguments Presented by the Defence",
+        "p": [
+          "During the court hearing, the defence team representing Aryan comprising lawyers Aman Shahi, Prashant Trivedi, and Aditya Jain strongly contested the legality of the entire apprehension. They argued that the action taken by the authorities violated established protocols.",
+          "The defence lawyers pointed out that their client was never served with a mandatory notice prior to his detention, nor was he given proper explanations regarding the reasons for his arrest. Furthermore, they questioned the unusual haste demonstrated by the police and suggested that the high-profile status of the complainant might have exerted undue pressure on the proceedings."
+        ]
+      },
+      {
+        "h": "Court Observations and Procedural Lapses",
+        "p": [
+          "The presiding magistrate closely examined the sequence of events and noted glaring shortcomings in how the arrest was executed. Particular concern was raised regarding the decision to transport the accused directly to Mumbai without first producing him before the nearest magistrate in Delhi as mandated by legal guidelines.",
+          "Because the prosecution failed to provide a satisfactory justification for bypassing these vital steps, the court declined the request for police custody. The magistrate emphasized that adherence to due process is non-negotiable in such legal matters."
+        ]
+      },
+      {
+        "h": "Rejection of Custody and Subsequent Release",
+        "p": [
+          "The police had initially hoped to secure additional time in custody to trace the specific electronic gadget utilized for generating and spreading the morphed photos online. However, the identification of procedural flaws dismantled the foundation of their custody plea.",
+          "Weighing the arguments and noting the failure to follow proper legal channels, the Mumbai court ultimately rejected the custody plea and ordered the immediate release of the accused man from Delhi."
+        ]
+      },
+      {
+        "h": "Broader Context and Ongoing Concerns",
+        "p": [
+          "This incident highlights the growing legal challenges celebrities face regarding digital harassment, identity manipulation, and the unauthorized spread of modified imagery on public platforms. Online safety and privacy violations continue to be major concerns for public figures navigating digital spaces.",
+          "While the investigation into the dissemination of the objectionable photos remains a point of concern for the complainant, this specific legal hurdle underscores the strict scrutiny courts apply to police procedures during interstate arrests."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A Mumbai court ordered the release of a Delhi man who was arrested after actor Sonakshi Sinha filed a complaint regarding morphed photographs circulated on social media. The court dismissed the police custody request after discovering procedural violations during the arrest and transit from Delhi."
+        ]
+      }
+    ],
+    "facts": [
+      "Sonakshi Sinha filed a police complaint over morphed and objectionable photographs circulated on social media.",
+      "Aryan Deepak Jain was arrested from the Jagatpuri Police Station area in Delhi's Shahdara at around 10:11 AM.",
+      "The Bandra Police brought the accused to Mumbai by flight and sought three days of custody.",
+      "A Mumbai court declined the custody request and ordered the release of the accused due to procedural lapses.",
+      "The defence lawyers representing the accused were Aman Shahi, Prashant Trivedi, and Aditya Jain."
+    ],
+    "entities": {
+      "people": [
+        "Sonakshi Sinha",
+        "Aryan Deepak Jain",
+        "Aman Shahi",
+        "Prashant Trivedi",
+        "Aditya Jain",
+        "Sania Mirza",
+        "Zaheer Iqbal Khan"
+      ],
+      "titles": [
+        "Serving It Up With Sania"
+      ]
+    },
+    "keywords": [
+      "Sonakshi Sinha morphed photos",
+      "Aryan Deepak Jain Delhi man",
+      "Bandra Police Sonakshi Sinha",
+      "Mumbai court release Delhi man"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-9.35.jpg.jpeg",
+        "caption": "Mumbai Court Orders Release of Delhi Man Arrested Over Morphed Photos of Sonakshi Sinha",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 09:43:48 +0200"
+  },
+  "1o8wjgr": {
+    "id": "1o8wjgr",
+    "type": "news",
+    "headline": "Prime Video Sets March 2027 Premiere Date for The Mighty Nein Season 2",
+    "dek": "Critical Role's animated sequel series is officially returning to Prime Video next year, bringing eight brand-new episodes to subscribers worldwide on day one.",
+    "body": [
+      {
+        "h": "The Return Date Announcement",
+        "p": [
+          "Prime Video has officially established the premiere window for the upcoming second season of its acclaimed animated series. Fans eager to continue following the adventures of the sequel show can mark their calendars for early next year.",
+          "The streaming platform utilized the energy of a major convention to share the exciting news with global audiences, confirming precisely when the new chapter will land."
+        ]
+      },
+      {
+        "h": "TwitchCon Reveal Details",
+        "p": [
+          "During a special appearance at TwitchCon on November 15, voice actor Liam O'Brien took the stage to announce the official release date. He revealed that the entire sophomore season will drop on March 24, 2027.",
+          "O'Brien shared the update while hosting a live one-shot game at the event. He was joined by fellow Critical Role members Sam Riegel and Travis Willingham, alongside special guests Benjamin Walker and Maxim Baldry."
+        ]
+      },
+      {
+        "h": "Launch Format and Availability",
+        "p": [
+          "Subscribers will not have to wait week-to-week for new installments when the show returns. Prime Video has confirmed that all eight episodes of the second season will release simultaneously.",
+          "This binge-friendly drop will be accessible to viewers across more than 240 countries and territories worldwide on the day of the premiere."
+        ]
+      },
+      {
+        "h": "Background and Context",
+        "p": [
+          "The animated project serves as a continuation of the broader Critical Role universe, following the massive success of its predecessor. The first season initially debuted on November 19, 2025, and achieved critical acclaim by holding a perfect 100% score on Rotten Tomatoes.",
+          "This specific television adaptation is based on the second tabletop campaign created by the group. The narrative unfolds two decades after the events of The Legend of Vox Machina, shifting its focus to an entirely separate group of characters."
+        ]
+      },
+      {
+        "h": "Plot and Upcoming Adventures",
+        "p": [
+          "The upcoming batch of episodes will direct the central party toward high-stakes maritime escapades. The storyline features a perilous pirate voyage across treacherous open waters.",
+          "At the same time, individual characters will face internal and external struggles. Fjord's expanding abilities pull him toward a darker path, the mysterious Beacon introduces dangerous temptations, and the entire team must balance newfound magic against the strength of their friendship."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "A massive collaborative effort brings the animated world to life on screen. Amazon MGM Studios, Critical Role, Panda Burrow, and Titmouse all serve as producers for the platform.",
+          "The voice cast features returning talent including Laura Bailey, Taliesin Jaffe, Ashley Johnson, Matthew Mercer, Liam O’Brien, Marisha Ray, Sam Riegel, and Travis Willingham. Behind the scenes, Tasha Huo leads the production as showrunner and executive producer alongside the Critical Role founders and Titmouse executives Chris Prynoski, Antonio Canobbio, Ben Kalina, and Shannon Prynoski."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video announced at TwitchCon that the second season of The Mighty Nein will premiere worldwide on March 24, 2027, with all eight episodes releasing simultaneously across more than 240 countries. The animated sequel series, produced by a robust creative team and starring the core Critical Role voice cast, will follow the heroes on a high-seas pirate voyage."
+        ]
+      }
+    ],
+    "facts": [
+      "Prime Video announced the release date on November 15 at TwitchCon.",
+      "The Mighty Nein Season 2 will release on March 24, 2027.",
+      "The season will feature eight episodes dropping simultaneously across more than 240 countries and territories.",
+      "Liam O'Brien voices Caleb Widogast and ran the live one-shot game at TwitchCon.",
+      "The first season premiered on November 19, 2025, and holds a 100% score on Rotten Tomatoes.",
+      "The show is set 20 years after The Legend of Vox Machina and adapts Critical Role's second tabletop campaign.",
+      "Tasha Huo serves as showrunner and executive producer."
+    ],
+    "entities": {
+      "people": [
+        "Devanshi Basu",
+        "Liam O’Brien",
+        "Benjamin Walker",
+        "Maxim Baldry",
+        "Sam Riegel",
+        "Travis Willingham",
+        "Laura Bailey",
+        "Taliesin Jaffe",
+        "Ashley Johnson",
+        "Matthew Mercer",
+        "Marisha Ray",
+        "Tasha Huo",
+        "Chris Prynoski",
+        "Antonio Canobbio",
+        "Ben Kalina",
+        "Shannon Prynoski"
+      ],
+      "titles": [
+        "The Mighty Nein",
+        "The Lord of the Rings: The Rings of Power",
+        "The Legend of Vox Machina"
+      ]
+    },
+    "keywords": [
+      "The Mighty Nein Season 2",
+      "Vox Machina sequel release date",
+      "Prime Video The Mighty Nein",
+      "Critical Role animated series"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-65.jpg?resize=1200,630",
+        "caption": "Prime Video Sets March 2027 Premiere Date for The Mighty Nein Season 2",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 04:14:52 +0000"
+  },
+  "u1k0cw": {
+    "id": "u1k0cw",
+    "type": "news",
+    "headline": "Spy Drama 'Slow Horses' Confirmed to Conclude With Season 8",
+    "dek": "Actor Olivia Cooke reveals that the critically acclaimed spy series starring Gary Oldman will wrap up its run following its eighth season.",
+    "body": [
+      {
+        "h": "The Conclusion of an Espionage Hit",
+        "p": [
+          "The popular spy drama series 'Slow Horses' is heading toward its definitive conclusion after eight seasons. Cast member Olivia Cooke recently shared that the production is moving toward its final chapters, bringing a sense of nostalgia and melancholy to the actors involved.",
+          "The series has captured audiences globally with its unique blend of espionage, dark humor, and thrilling plotlines. As the cast prepares to say goodbye to Slough House, the impending end marks the closure of a major chapter in modern television espionage thrillers."
+        ]
+      },
+      {
+        "h": "Olivia Cooke's Journey and Return",
+        "p": [
+          "Olivia Cooke originally portrayed the character Sid Baker during the first season of the drama. Although her character appeared to meet a grim fate initially, she makes a notable return to Slough House by the sixth season.",
+          "Reflecting on the final schedule, Cooke shared her emotional attachment to the project, admitting that stepping into the make-up chair for the last rounds brought her to tears. She emphasized how important the series has been to her career and personal life."
+        ]
+      },
+      {
+        "h": "Navigating Contractual Hurdles",
+        "p": [
+          "Returning to the spy drama was not entirely straightforward for Cooke due to prior commitments. Her starring role in 'House of the Dragon' created a temporary roadblock regarding streaming exclusivity and long-running series agreements.",
+          "Legal teams had to step in to smooth out the contractual clauses that initially barred her from taking on a long-running series for a competing platform. Fortunately, the hurdles were cleared, allowing her to rejoin the espionage fold."
+        ]
+      },
+      {
+        "h": "Literary Roots and Star-Studded Cast",
+        "p": [
+          "The acclaimed television series is faithfully adapted from the celebrated 'Slough House' novels authored by Mick Herron. It features an ensemble of stellar performers bringing the cynical world of MI5 rejects to life.",
+          "Gary Oldman anchors the production as the notorious, unkempt boss Jackson Lamb. Alongside him, the series features Kristin Scott Thomas as Diana Taverner and Jack Lowden in the role of River Cartwright."
+        ]
+      },
+      {
+        "h": "Upcoming Season Rollout",
+        "p": [
+          "Apple TV officially announced the early renewal of the spy drama for an eighth season back in September, arriving ahead of the sixth season premiere. The sixth season synopsis teases an explosive confrontation between Jackson Lamb and Diana Taverner.",
+          "Looking further down the timeline, the seventh season secured its renewal previously and is slated to premiere in 2027. Following that trajectory, the final eighth season is expected to launch the subsequent year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Olivia Cooke has revealed that the spy drama series 'Slow Horses' will conclude with its eighth season. Cooke, who plays Sid Baker and returned after resolving contract issues involving 'House of the Dragon', expressed sadness over the show's ending as the cast films the final episodes based on Mick Herron's novels."
+        ]
+      }
+    ],
+    "facts": [
+      "Slow Horses will end with season 8",
+      "Olivia Cooke plays Sid Baker",
+      "Sid Baker returns in season 6",
+      "Apple TV renewed Slow Horses for Season 8 in September",
+      "Season 7 is expected to air in 2027",
+      "Gary Oldman plays Jackson Lamb",
+      "Kristin Scott Thomas plays Diana Taverner",
+      "Jack Lowden plays River Cartwright",
+      "The series is adapted from Mick Herron's Slough House novels"
+    ],
+    "entities": {
+      "people": [
+        "Olivia Cooke",
+        "Gary Oldman",
+        "Kristin Scott Thomas",
+        "Jack Lowden",
+        "Mick Herron",
+        "Sid Baker",
+        "Jackson Lamb",
+        "Diana Taverner",
+        "River Cartwright"
+      ],
+      "titles": [
+        "Slow Horses",
+        "House of the Dragon",
+        "Slough House"
+      ]
+    },
+    "keywords": [
+      "Slow Horses",
+      "Olivia Cooke",
+      "Gary Oldman",
+      "Slough House",
+      "House of the Dragon"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2024/04/17/1600x900/logo/web-series_1713353092172_1713353099719.jpg",
+        "caption": "Spy Drama 'Slow Horses' Confirmed to Conclude With Season 8",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 09:32:59 +0530"
+  },
+  "q69mde": {
+    "id": "q69mde",
+    "type": "news",
+    "headline": "The Gilded Age Season 4 Episode 3 Recap: Vengeance, Weddings, and Telephones",
+    "dek": "Agnes van Rhijn faces a devastating social betrayal, Peggy Scott weds Dr. William Kirkland in Newport, and the telephone turns the tide in a high-society war.",
+    "body": [
+      {
+        "h": "Agnes van Rhijn Suffers a Crushing Social Blow",
+        "p": [
+          "Agnes van Rhijn faces an agonizing ordeal in the third episode of the fourth season when her meticulously planned hosting duties for President Grover Cleveland are snatched away. Following a critical profile in the Ladies Home Journal that paints her as too antiquated for the prestigious assignment, Agnes vows intense retaliation.",
+          "However, her grand ambitions are thwarted when Bertha Russell uses modern technology to lobby the White House and Heritage Society directly. Bertha successfully maneuvers to host the presidential dinner in her own modern residence, leaving a furious Agnes to storm across the street in utter disbelief."
+        ]
+      },
+      {
+        "h": "Peggy Scott and Dr. William Kirkland's Newport Wedding",
+        "p": [
+          "Meanwhile, the narrative shifts to Newport for the wedding of Peggy Scott and Dr. William Kirkland. The nuptials immediately test the couple as William surprises Peggy with a purchased vacation home without her prior input, marking the first of several underlying relationship concerns.",
+          "Tensions escalate further when William's controlling mother, Elizabeth Kirkland, displays blatant prejudice against Peggy's family. Elizabeth objects to both the presence of the Fisk Jubilee Singers and the traditional Southern ceremony of jumping the broom championed by Peggy's father Arthur."
+        ]
+      },
+      {
+        "h": "Family Traditions and Nuptial Compromises",
+        "p": [
+          "Despite Elizabeth Kirkland's harsh condemnation of her prospective in-laws and her reluctance to attend, Peggy successfully brokers a delicate compromise. The ceremony ultimately proceeds with both the Fisk Jubilee Singers performing and the couple jumping the broom in slow motion.",
+          "Adding to the romantic developments in Newport, Ada van Rhijn experiences a sudden spark of affection for Dr. Harris, a medical school professor who politely assists her after she drops her purse during the festivities."
+        ]
+      },
+      {
+        "h": "George Russell's Struggles and Business Pressures",
+        "p": [
+          "George Russell continues to battle internal demons this season, wrestling with a dangerous laudanum dependency that severely impacts his temperament. His unpredictable hostility threatens crucial business negotiations with figures like J.D. Rockefeller.",
+          "When Bertha attempts to intervene by offering to host the Rockefellers for dinner, a defensive George snaps at her touch. Yet, by the end of the episode, he acknowledges the immense stakes of her successful coup regarding the presidential dinner, noting it could dictate their family's ultimate survival."
+        ]
+      },
+      {
+        "h": "Oscar and Enid van Rhijn Host Their First Artist Salon",
+        "p": [
+          "Oscar and Enid van Rhijn lean heavily into their aspirations of becoming elite societal influencers by hosting their inaugural artist salon. Dedicated to honoring painter William Merritt Chase, the gathering intentionally excludes traditional matriarchs like Agnes and Bertha.",
+          "The eclectic guest list includes the gossip-loving Mamie Fish and Jack Trotter, who captures the attention of Miss Summers. Concurrently, Enid inadvertently facilitates a flirtatious connection between her husband Oscar and Lee Klein, an apprentice to William Merritt Chase."
+        ]
+      },
+      {
+        "h": "The Arrival of Modernity and Telephones",
+        "p": [
+          "The episode marks a pivotal turning point for technological advancements within the period drama, specifically highlighting the advent of the telephone. Bertha's strategic use of the device allows her to bypass traditional gatekeepers and secure the presidential visit across state lines.",
+          "Upon learning of Bertha's triumph via telephone, a bewildered Agnes laments to Ada about being upended by a magical megaphone device, perfectly encapsulating the generational friction of a changing era."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The latest episode of The Gilded Age delivers high drama as Agnes van Rhijn loses her presidential hosting duties to her rival Bertha Russell after an unflattering magazine profile. Concurrently, Peggy Scott marries Dr. William Kirkland amidst family friction in Newport, while Oscar and Enid van Rhijn host their debut artist salon."
+        ]
+      }
+    ],
+    "facts": [
+      "President Grover Cleveland is hosted by Bertha Russell instead of Agnes van Rhijn.",
+      "Peggy Scott marries Dr. William Kirkland in Newport.",
+      "Elizabeth Kirkland objects to the Fisk Jubilee Singers and jumping the broom.",
+      "George Russell struggles with a laudanum addiction.",
+      "Oscar and Enid van Rhijn host an artist salon honoring William Merritt Chase.",
+      "Dr. Harris is introduced as William's medical school professor."
+    ],
+    "entities": {
+      "people": [
+        "Agnes van Rhijn",
+        "Bertha Russell",
+        "Grover Cleveland",
+        "Christine Baranski",
+        "Peggy Scott",
+        "William Kirkland",
+        "George Russell",
+        "J.D. Rockefeller",
+        "Oscar van Rhijn",
+        "Enid van Rhijn",
+        "William Merritt Chase",
+        "Mamie Fish",
+        "Ashlie Atkinson",
+        "Aurora Fane",
+        "Ada van Rhijn",
+        "Mrs. Foster",
+        "Jack Trotter",
+        "Larry Russell",
+        "Carrie Astor",
+        "Miss Summers",
+        "Lee Klein",
+        "Elizabeth Kirkland",
+        "Arthur",
+        "Dorothy",
+        "Dennis Haysbert",
+        "Dr. Harris",
+        "Liz Kocan"
+      ],
+      "titles": [
+        "The Gilded Age",
+        "Ladies Home Journal",
+        "War",
+        "MobLand",
+        "Nocturne",
+        "The Lord of the Rings: The Rings of Power",
+        "Landman",
+        "Forgetting Sarah Marshall",
+        "Euphoria",
+        "The Roast Of Kevin Hart",
+        "Office Romance"
+      ]
+    },
+    "keywords": [
+      "The Gilded Age Season 4",
+      "Agnes van Rhijn Bertha Russell",
+      "Peggy Scott William Kirkland",
+      "The Gilded Age Episode 3 recap"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/denee-benton-jordan-donica1.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "The Gilded Age Season 4 Episode 3 Recap: Vengeance, Weddings, and Telephones",
+        "source": "Decider"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 22:10:00 -0500"
   }
 };
