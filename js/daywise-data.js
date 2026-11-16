@@ -4491,6 +4491,11 @@ window.FA_DAYWISE = {
       "overseas": 3169572,
       "shows": 23451,
       "occupancy": 45.5
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Day 11",
+      "collection": 7923930
     }
   ],
   "1607833": [
@@ -4781,6 +4786,13 @@ window.FA_DAYWISE = {
       "collection": 105652,
       "shows": 1589,
       "occupancy": 21.7
+    },
+    {
+      "date": "2026-11-15",
+      "day": "Day 10",
+      "collection": 88748,
+      "shows": 771,
+      "occupancy": 27.0
     }
   ],
   "1475799": [

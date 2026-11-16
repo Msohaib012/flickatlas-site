@@ -5537,6 +5537,24 @@
           "sacnilk": 1.88
         }
       },
+      "10": {
+        "date": "2026-11-15",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 27.0
+            },
+            "value": 27.0
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 771
+            },
+            "value": 771
+          }
+        },
+        "india": false
+      },
       "2": {
         "ai_first": false,
         "collection_currency": "USD",

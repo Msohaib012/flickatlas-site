@@ -158500,5 +158500,424 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-16T00:51:25Z"
+  },
+  "1g5as68": {
+    "id": "1g5as68",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 11: Ranbir Kapoor and Yash's Epic Nears Rs 1,400-Crore Milestone",
+    "dek": "The big-budget mythological drama Ramayana continues its steady theatrical run through its second weekend, pulling in massive numbers globally and domestically.",
+    "body": [
+      {
+        "h": "Sustained Box Office Momentum",
+        "p": [
+          "The theatrical run of Ramayana has remained remarkably strong as audiences continued to support the epic feature through its second weekend. Maintaining its momentum both at home and abroad, the cinematic spectacle has advanced rapidly toward the coveted Rs 1,400-crore global milestone.",
+          "Trade figures indicate that viewer enthusiasm has not dipped significantly since the film first opened on November 5, 2026. Both domestic ticket windows and international markets have contributed heavily to this continuing financial success."
+        ]
+      },
+      {
+        "h": "Day 11 Domestic Earnings",
+        "p": [
+          "On its eleventh day in theatres, the feature brought in Rs 75 crore nett across India. This latest single-day collection pushed the cumulative domestic nett total to an impressive Rs 760.60 crore.",
+          "Notably, the Day 11 figure represented a 2.9 per cent increase compared to the Rs 72.90 crore collected on Day 10, demonstrating unusual upward movement during the second week of release."
+        ]
+      },
+      {
+        "h": "Breakdown of First Week and Second Week",
+        "p": [
+          "During its initial eight days in cinemas, the multi-lingual project accumulated Rs 564.60 crore nett domestically. It then injected an additional Rs 196 crore during the first three days of its second week.",
+          "The heavy footfall across thousands of screenings nationwide ensured that the second weekend remained exceptionally lucrative for exhibitors and producers alike."
+        ]
+      },
+      {
+        "h": "Global Gross and International Reach",
+        "p": [
+          "When examining worldwide metrics after eleven days, the total gross stands at a staggering Rs 1,384.50 crore. This figure comprises an Indian gross of Rs 909 crore alongside international earnings totaling Rs 475.50 crore.",
+          "Overseas audiences have proven to be a vital pillar for the project, currently accounting for 34.3 per cent of the overall worldwide collection while the domestic gross inches closer to the Rs 1,000-crore mark."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Across India",
+        "p": [
+          "The domestic triumph is spread across multiple linguistic versions, though the Hindi presentation continues to dominate the charts. After eleven days, the Hindi version alone has secured Rs 582.25 crore nett in India.",
+          "Regional markets have also added substantially to the tally, with the Kannada version bringing in Rs 63.10 crore and the Telugu version collecting Rs 49.40 crore. Meanwhile, the Tamil and Malayalam versions contributed Rs 34.40 crore and Rs 31.45 crore respectively, supported by a massive nationwide allocation of 2,60,567 shows."
+        ]
+      },
+      {
+        "h": "Mythological Background and Production Details",
+        "p": [
+          "Derived from Valmiki's ancient epic, the narrative centers on Lord Rama—viewed as an incarnation of Lord Vishnu—and his fierce conflict against the asura king Ravana following the abduction of Sita. The scale of the production matches the historical weight of the source material.",
+          "The cinematic venture is backed by Namit Malhotra's Prime Focus Studios, working in partnership with DNEG and Yash's Monster Mind Creations. Following the widespread release of the first part, plans are already in motion for a second instalment scheduled to arrive during Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana maintained steady momentum through its second weekend, bringing its 11-day domestic nett collection to Rs 760.60 crore and pushing its worldwide gross close to the Rs 1,400-crore mark. Led by strong performances across multiple language versions and overseas territories, the epic feature continues its successful theatrical run ahead of a planned second instalment in 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana was released in theatres on November 5, 2026.",
+      "On Day 11, the film earned Rs 75 crore nett in India.",
+      "The 11-day domestic nett collection stands at Rs 760.60 crore.",
+      "Day 11 collection marked a 2.9 per cent increase from the Rs 72.90 crore collected on Day 10.",
+      "The film earned Rs 564.60 crore nett in India during its first eight days.",
+      "The second week's first three days added Rs 196 crore.",
+      "Worldwide gross after 11 days stands at Rs 1,384.50 crore.",
+      "India gross is Rs 909 crore and overseas earnings are Rs 475.50 crore.",
+      "International markets account for 34.3 per cent of the worldwide collection.",
+      "The film was screened across 2,60,567 shows in India during the period.",
+      "Hindi version nett collection is Rs 582.25 crore.",
+      "Kannada version collection is Rs 63.10 crore.",
+      "Telugu version collection is Rs 49.40 crore.",
+      "Tamil version collection is Rs 34.40 crore.",
+      "Malayalam version collection is Rs 31.45 crore.",
+      "The second part of the film is scheduled for Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Valmiki",
+        "Lord Rama",
+        "Ravana",
+        "Sita",
+        "Lord Vishnu",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 11 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana India collection"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-7-ranbir-kapoor-film-crosses-rs-900-crore-post-bhai-dooj-125123907-original-sixteen-to-nine.jpg?VersionId=i5NHyCZKDAFFnVfBEz6Ypx95oZcMD9ae",
+        "caption": "Ramayana Box Office Day 11: Ranbir Kapoor and Yash's Epic Nears Rs 1,400-Crore Milestone",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 06:54:44 +0530"
+  },
+  "1iukdu5": {
+    "id": "1iukdu5",
+    "type": "news",
+    "headline": "Netflix Hit Rom-Com Series Surges in Popularity and Secures Season 4 Renewal",
+    "dek": "The acclaimed Netflix series Nobody Wants This has experienced a massive viewership surge following the arrival of its third season, leading to an official renewal for a fourth installment.",
+    "body": [
+      {
+        "h": "A Standout Rom-Com Phenomenon on Streaming",
+        "p": [
+          "In a crowded streaming landscape filled with endless choices, finding a series that genuinely captures public attention is no small feat. Yet, Netflix's romantic comedy series Nobody Wants This has managed to rise above the rest, establishing itself as a major viewer favorite since its debut in 2024.",
+          "Blending humor with a deeply nuanced approach to modern romance, the show has steadily built a passionate fanbase. The recent arrival of its third season has further propelled its popularity, driving a massive surge in watch time and proving that audiences remain deeply invested in the journey of its main characters."
+        ]
+      },
+      {
+        "h": "The Core Romance Between Joanne and Noah",
+        "p": [
+          "At the center of the story is the unexpected and undeniable connection between Joanne, a chaotic podcaster with an agnostic worldview, and Noah, a devout religious leader. Their chance first meeting sparks a romance that instantly defies easy categorization, forcing both characters to reevaluate their perspectives.",
+          "The central conflict of the narrative hinges on their contrasting lifestyles and beliefs. While Joanne openly unpacks her messy dating history on her podcast, Noah is navigating the aftermath of a long-term breakup, all while the couple attempts to bridge the vast gap between their spiritual and secular worlds."
+        ]
+      },
+      {
+        "h": "Family Pressures and Complicated Dynamics",
+        "p": [
+          "Beyond the romantic tension between the two leads, the series derives much of its conflict and comedy from their respective families. Noah's strict and overly involved relatives, particularly his meddlesome mother Bina, make it difficult for Joanne to feel entirely welcome in his world.",
+          "Simultaneously, Joanne's family adds its own brand of chaos to the mix, featuring her quirky divorced parents and her close yet turbulent relationship with her dramatic sister, Morgan. These contrasting family dynamics create continuous obstacles that test the strength of the central relationship."
+        ]
+      },
+      {
+        "h": "Exploring Complex Themes Through Humor",
+        "p": [
+          "While Nobody Wants This is fundamentally a romantic comedy, it refuses to shy away from heavier, more intricate subjects. The clashing of Noah and Joanne's lifestyles allows the series to examine religious faith and personal belief systems from multiple, thoughtful perspectives.",
+          "Rather than relying strictly on standard genre tropes, the show adopts a remarkably grounded tone. This realistic approach to relationship struggles allows it to stand apart from traditional sitcoms, offering viewers a blend of sharp comedy and genuine emotional depth."
+        ]
+      },
+      {
+        "h": "A Standout Ensemble Cast",
+        "p": [
+          "The success of the series is heavily bolstered by its talented supporting ensemble, which brings vibrant energy to every episode. Characters like Morgan, portrayed by Justine Lupe, add sharp wit and familial friction to Joanne's daily life.",
+          "Additionally, the show expands its exploration of partnerships through Noah's brother, Sasha, and his wife, Esther, played by Timothy Simons and Jackie Tohn respectively. Their ongoing domestic struggles provide a compelling parallel to the main romance, rounding out the show's rich character web."
+        ]
+      },
+      {
+        "h": "Surging Viewership and Season 4 Confirmation",
+        "p": [
+          "The release of the third season has translated into extraordinary streaming metrics, driving significant watch times and quickly securing a coveted spot in Netflix's Top 10 rankings. This impressive performance underscored the show's enduring cultural footprint.",
+          "Capitalizing on this immense momentum, Netflix officially announced a Season 4 renewal for the hit comedy, ensuring that fans will get to follow the continuing adventures of Joanne and Noah even though a formal release date has not yet been confirmed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix romantic comedy series Nobody Wants This has experienced a major viewership surge following the release of its third season. Led by Kristen Bell and Adam Brody, the show's exploration of modern romance and family obstacles has prompted an official renewal for a fourth season by the streaming platform."
+        ]
+      }
+    ],
+    "facts": [
+      "Nobody Wants This is a Netflix series that debuted in 2024.",
+      "The series stars Kristen Bell as Joanne and Adam Brody as Noah.",
+      "Tovah Feldshuh plays Noah's mother, Bina Roklov.",
+      "Justine Lupe plays Joanne's sister, Morgan Williams.",
+      "Timothy Simons plays Noah's brother, Sasha, and Jackie Tohn plays his wife, Esther.",
+      "Netflix officially announced a Season 4 renewal for the series following the release of Season 3."
+    ],
+    "entities": {
+      "people": [
+        "Kendall Myers",
+        "Kristen Bell",
+        "Adam Brody",
+        "Tovah Feldshuh",
+        "Timothy Simons",
+        "Jackie Tohn",
+        "Justine Lupe",
+        "Jasneet Singh",
+        "Rachel Reid"
+      ],
+      "titles": [
+        "Nobody Wants This",
+        "When Harry Met Sally",
+        "Love Basketball",
+        "Heated Rivalry",
+        "Titanic"
+      ]
+    },
+    "keywords": [
+      "Nobody Wants This",
+      "Nobody Wants This Season 3",
+      "Kristen Bell Adam Brody",
+      "Netflix Nobody Wants This renewal"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/nobody-wants-this-season-2-justine-lupe-01.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Hit Rom-Com Series Surges in Popularity and Secures Season 4 Renewal",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 01:27:12 GMT"
+  },
+  "sdn072": {
+    "id": "sdn072",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 Box Office Collection Day 10: Nayanthara Starrer Crosses Rs 20 Crore Milestone in India",
+    "dek": "Nayanthara's fantasy sequel Mookuthi Amman 2 has surpassed Rs 20 crore in domestic net collections, though its theatrical momentum has visibly slowed down entering the second week.",
+    "body": [
+      {
+        "h": "Box Office Progress and Milestones",
+        "p": [
+          "The fantasy drama Mookuthi Amman 2 has officially crossed the Rs 20 crore mark in India net earnings during its theatrical run. Despite achieving this notable financial milestone, the feature is encountering difficulties in sustaining the strong momentum established during its opening week.",
+          "On its tenth day in theaters, the movie brought in Rs 84 lakh in India net revenue. This latest single-day addition pushes the film's cumulative domestic net total to Rs 20.09 crore, while the corresponding India gross collection has reached Rs 23.22 crore across various territories."
+        ]
+      },
+      {
+        "h": "Second Week Slowdown and Daily Trends",
+        "p": [
+          "Following a robust debut week that yielded Rs 17.93 crore in domestic net collections, the picture has experienced a marked cooling in its daily ticket sales. The sequential drop highlights a significant shift as the project moves further into its theatrical schedule.",
+          "Specifically, the earnings for the three-day stretch covering days eight through ten added a modest Rs 2.16 crore to the domestic ledger. The domestic gross for this same weekend phase stands at Rs 2.50 crore, supported by a total count of 14,487 shows recorded over its ten-day run."
+        ]
+      },
+      {
+        "h": "Sunday Collection Comparison",
+        "p": [
+          "Data compiled by Sacnilk indicates that the feature collected Rs 84 lakh on Sunday, November 15. This figure represents a slight 1.2% decline compared to the previous day's collection of Rs 85 lakh on Saturday.",
+          "Although the drop from Saturday to Sunday is minimal, it underscores a plateau in audience footfall as word of mouth and initial excitement transition into steady, lower-volume weekday and weekend trends."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version of the movie continues to serve as the primary engine for its domestic commercial success. It has generated Rs 18.99 crore so far, making up an overwhelming 94.5% of the entire domestic net total.",
+          "In contrast, the Telugu version has contributed a smaller share of Rs 1.10 crore, accounting for the remaining 5.5% of the overall India net earnings recorded up to this point in the theatrical run."
+        ]
+      },
+      {
+        "h": "Audience Occupancy and Screening Metrics",
+        "p": [
+          "The Tamil 2D format registered an overall audience occupancy of 35.64% on Sunday across its screenings. Morning shows started off with an 18.82% turnout before seeing a notable increase later in the day.",
+          "Afternoon screenings drew the highest engagement with a 43.55% occupancy rate. This was followed by evening shows at 39.18% and night screenings registering a 34.09% occupancy level."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Plot Background",
+        "p": [
+          "Directed by Sundar C, Mookuthi Amman 2 places Nayanthara in the central titular role supported by an ensemble cast featuring Urvashi, Regina Cassandra, Yogi Babu, and Duniya Vijay. The technical department includes cinematographer Gopi Amarnath, music director Hiphop Tamizha, and editor Fenny Oliver.",
+          "The narrative blends fantasy, mythology, and family drama elements, focusing on a royal family menaced by incoming attackers. A queen sacrifices her life to save her son, prompting the return of Mookuthi Amman to protect the prince and confront a mysterious force of evil."
+        ]
+      },
+      {
+        "h": "The Road Ahead to Rs 30 Crore",
+        "p": [
+          "With its domestic net tally currently positioned at Rs 20.09 crore, the production still faces a substantial gap before it can aspire to reach the Rs 30 crore milestone.",
+          "Industry analysts note that future gains will depend heavily on whether the project can stabilize its weekday numbers and hold onto enough screens in the coming weeks against newer cinematic competition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nayanthara's fantasy sequel Mookuthi Amman 2 has crossed the Rs 20 crore mark in India net collections during its ten-day theatrical run, despite experiencing a noticeable slowdown in its second week. The Tamil language version has driven the vast majority of these earnings, which now stand at a cumulative domestic net total of Rs 20.09 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "The film crossed Rs 20 crore in India net earnings.",
+      "On its tenth day, the movie collected Rs 84 lakh.",
+      "The cumulative domestic net collection reached Rs 20.09 crore.",
+      "The India gross total reached Rs 23.22 crore.",
+      "The collection on Sunday, November 15, was Rs 84 lakh.",
+      "Saturday's collection was Rs 85 lakh.",
+      "The opening week generated Rs 17.93 cr in India net collections.",
+      "Days 8 to 10 added Rs 2.16 cr.",
+      "Domestic gross for days 8 to 10 stands at Rs 2.50 cr.",
+      "The film has registered 14,487 shows over ten days.",
+      "The Tamil version contributed Rs 18.99 cr (94.5%).",
+      "The Telugu version contributed Rs 1.10 cr (5.5%).",
+      "Tamil 2D occupancy on Sunday was 35.64%.",
+      "Morning screenings occupancy was 18.82%.",
+      "Afternoon shows occupancy was 43.55%.",
+      "Evening screenings occupancy was 39.18%.",
+      "Night screenings occupancy was 34.09%."
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "Urvashi",
+        "Regina Cassandra",
+        "Yogi Babu",
+        "Duniya Vijay",
+        "Gopi Amarnath",
+        "Hiphop Tamizha",
+        "Fenny Oliver"
+      ],
+      "titles": [
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 box office",
+      "Nayanthara Mookuthi Amman 2 collection",
+      "Mookuthi Amman 2 day 10",
+      "Sundar C Mookuthi Amman 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135868848,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mookuthi Amman 2 Box Office Collection Day 10: Nayanthara Starrer Crosses Rs 20 Crore Milestone in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T05:58:45+05:30"
+  },
+  "q2fc19": {
+    "id": "q2fc19",
+    "type": "news",
+    "headline": "Prime Video Sets December Premiere for Season 3 of Beast Games",
+    "dek": "The competition series hosted by MrBeast returns for its third season with an international format, bringing competitors from 196 nations to Prime Video.",
+    "body": [
+      {
+        "h": "Release Date Announced",
+        "p": [
+          "Prime Video has officially scheduled the return of its hit competition series, announcing that Season 3 will launch on Wednesday, December 16.",
+          "Viewers will be able to start streaming the opening batch of episodes right away, with the premiere featuring the first three installments of the season."
+        ]
+      },
+      {
+        "h": "Rollout Schedule and Finale",
+        "p": [
+          "Following the initial three-episode launch, the streaming platform will roll out new installments on a weekly basis.",
+          "The weekly schedule will lead up to the grand season finale, which is scheduled to air on Wednesday, January 13."
+        ]
+      },
+      {
+        "h": "Global Stage and Teaser Reveal",
+        "p": [
+          "Fans recently got their first glimpse of the upcoming episodes through a newly released teaser featuring the show's creator and host.",
+          "The footage highlights an expansive global stage, showcasing contestants representing 196 nations alongside iconic backdrops like the Roman Colosseum and a stadium filled with tens of thousands of live audience members."
+        ]
+      },
+      {
+        "h": "TwitchCon Announcement",
+        "p": [
+          "The official premiere date and initial details were revealed during a special presentation event over the weekend.",
+          "Organizers shared the news on Sunday at TwitchCon in San Diego, CA, during the dedicated Prime Video Presents Beast Games Live session."
+        ]
+      },
+      {
+        "h": "Format and Stakes",
+        "p": [
+          "Titled Beast Games: World Champions, the third season brings together competitors from every corner of the planet to battle for a massive $5,000,000 prize.",
+          "Players will face intense challenges testing their strength, skill, and strategy, while navigating international alliances and continent-spanning rivalries."
+        ]
+      },
+      {
+        "h": "Behind the Scenes",
+        "p": [
+          "Donaldson returns to host the series and serves as an executive producer alongside co-creator Tyler Conklin, who also takes on the role of series director.",
+          "Additional executive producers on the project include Michael H. Miller, Rob Buchta, Chris Keiper, Josh Kulic, Michael Cruz, and Jeff Housenbold."
+        ]
+      },
+      {
+        "h": "Global Reach",
+        "p": [
+          "The competition series will be available for streaming exclusively on Prime Video for audiences located in more than 240 countries and territories worldwide.",
+          "The massive international footprint underscores the platform's commitment to delivering large-scale unscripted entertainment to a global viewer base."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has announced a December 16 premiere date for Season 3 of Beast Games, subtitled World Champions. The new season will feature contestants from 196 nations competing for a $5,000,000 prize under the host and executive producer MrBeast."
+        ]
+      }
+    ],
+    "facts": [
+      "Prime Video has set Wednesday, December 16 for the premiere of Beast Games: World Champions.",
+      "The season will launch with three episodes, followed by two weekly episodes leading up to the season finale on Wednesday, January 13.",
+      "Contestants will represent 196 nations around the world.",
+      "The grand prize for the competition is $5,000,000.",
+      "The announcement was made Sunday at TwitchCon in San Diego, CA, at the Prime Video Presents Beast Games Live! session.",
+      "Beast Games will premiere exclusively on Prime Video in more than 240 countries and territories worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Donaldson",
+        "Tyler Conklin",
+        "Michael H. Miller",
+        "Rob Buchta",
+        "Chris Keiper",
+        "Josh Kulic",
+        "Michael Cruz",
+        "Jeff Housenbold",
+        "MrBeast"
+      ],
+      "titles": [
+        "Beast Games",
+        "Beast Games: World Champions"
+      ]
+    },
+    "keywords": [
+      "Beast Games",
+      "MrBeast",
+      "Beast Games Season 3",
+      "Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Beast-Games-2.jpg?w=1024",
+        "caption": "Prime Video Sets December Premiere for Season 3 of Beast Games",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 01:15:00 +0000"
   }
 };
