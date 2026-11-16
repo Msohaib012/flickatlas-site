@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 64,
+ "count": 70,
  "titles": {
   "movie:10348": {
    "d": "Thunderbolt (1995): Action/Thriller film. Story: In order to release his kidnapped sisters, sports car… See cast, budget $3.83M, and TMDB rating 6.5/10.",
@@ -833,6 +833,70 @@
    "t": "No Place to Be Single (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:13448": {
+   "d": "Angels & Demons (2009): Thriller/Mystery film. Story: Harvard symbologist Robert Langdon is recruited by… See cast, budget $150M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
+   "industry": "world",
+   "k": "Angels & Demons, Angels & Demons movie, Angels & Demons cast, Angels & Demons story, Angels & Demons box office collection, Angels & Demons budget, Angels & Demons review, Angels & Demons rating, Angels & Demons release date, Angels & Demons Thriller, Angels & Demons Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Ayelet Zurer"
+     },
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierfrancesco Favino"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7617,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Angels & Demons (2009): Thriller/Mystery film. Story: Harvard symbologist Robert Langdon is recruited by… See cast, budget $150M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Howard"
+     }
+    ],
+    "duration": "PT139M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13448",
+    "name": "Angels & Demons",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-04-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13448"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Angels &amp; Demons (2009)</h1>\n<p class=\"ssr-lead\">Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 April 2009</li><li>Runtime: 139 minutes</li><li>Director: Ron Howard</li><li>Genres: Thriller, Mystery</li><li>Budget: $150M</li><li>TMDB rating: 6.7/10 (7617 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Robert Langdon</li><li>Ewan McGregor as Camerlengo Patrick McKenna</li><li>Ayelet Zurer as Vittoria Vetra</li><li>Stellan Skarsgård as Commander Richter</li><li>Pierfrancesco Favino as Inspector Olivetti</li><li>Nikolaj Lie Kaas as Assassin</li><li>Armin Mueller-Stahl as Cardinal Strauss</li><li>Thure Lindhardt as Chartrand</li><li>David Pasquesi as Claudio Vincenzi</li><li>Cosimo Fusco as Father Simeon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Angels & Demons (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:14648": {
    "d": "Podium (2004): Comedy/Music film. Story: Bernand Fréderic is a mediocre bank executive. He's… See cast, TMDB rating 5.9/10, and release date 11 February 2004.",
    "img": "https://image.tmdb.org/t/p/w780/9XizmVKaw8Fce9J8YUY1LN0i6EQ.jpg",
@@ -1216,6 +1280,70 @@
    "t": "Dear You (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:2048": {
+   "d": "I, Robot (2004): Action/Science Fiction film. Story: In 2035, where robots are commonplace and abide by… See cast, budget $120M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+   "industry": "world",
+   "k": "I, Robot, I, Robot movie, I, Robot cast, I, Robot story, I, Robot box office collection, I, Robot budget, I, Robot review, I, Robot rating, I, Robot release date, I, Robot trailer, I, Robot Action, I, Robot Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Bridget Moynahan"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Tudyk"
+     },
+     {
+      "@type": "Person",
+      "name": "James Cromwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Greenwood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13197,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "I, Robot (2004): Action/Science Fiction film. Story: In 2035, where robots are commonplace and abide by… See cast, budget $120M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Proyas"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2048",
+    "name": "I, Robot",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-08-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2048"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>I, Robot (2004)</h1>\n<p class=\"ssr-lead\">In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 August 2004</li><li>Runtime: 115 minutes</li><li>Director: Alex Proyas</li><li>Genres: Action, Science Fiction</li><li>Budget: $120M</li><li>TMDB rating: 7.0/10 (13197 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Smith as Del Spooner</li><li>Bridget Moynahan as Susan Calvin</li><li>Alan Tudyk as Sonny (voice)</li><li>James Cromwell as Dr. Alfred Lanning</li><li>Bruce Greenwood as Lawrence Robertson</li><li>Adrian Ricard as Granny</li><li>Chi McBride as Lt. John Bergin</li><li>Jerry Wasserman as Baldez</li><li>Fiona Hogan as V.I.K.I. (voice)</li><li>Peter Shinkoda as Chin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "I, Robot (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:2148": {
    "d": "The Cotton Club (1984): Crime/Drama film. Story: Harlem's legendary Cotton Club becomes a hotbed of… See cast, budget $58M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
@@ -1598,6 +1726,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Moonwalkers (2015)</h1>\n<p class=\"ssr-lead\">What if Apollo 11 never actually made it? What if, in reality, Stanley Kubrick secretly shot the famous images of the moon landing in a studio, working for the US administration? This is the premise of a totally plausible conspiracy theory that takes us to swinging sixties London, where a stubborn CIA agent will never find Kubrick but is forced to team up with a lousy manager of a seedy rock band to develop the biggest con of all time.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2015</li><li>Runtime: 107 minutes</li><li>Director: Antoine Bardou-Jacquet</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rupert Grint as Jonny</li><li>Ron Perlman as Kidman</li><li>Robert Sheehan as Leon</li><li>Stephen Campbell Moore as Derek Kaye</li><li>Eric Lampaert as Glenn</li><li>Kevin Bishop as Paul</li><li>Tom Audenaert as Renatus</li><li>Erika Sainte as Ella</li><li>Jay Benedict as Colonel Dickford</li><li>Kerry Shale as Mr. White</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Moonwalkers (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:273248": {
+   "d": "The Hateful Eight (2016): Drama/Mystery film. Story: Bounty hunters seek shelter from a raging blizzard… See cast, budget $44M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+   "industry": "world",
+   "k": "The Hateful Eight, The Hateful Eight movie, The Hateful Eight cast, The Hateful Eight story, The Hateful Eight box office collection, The Hateful Eight budget, The Hateful Eight review, The Hateful Eight rating, The Hateful Eight release date, The Hateful Eight trailer, The Hateful Eight Drama, The Hateful Eight Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kurt Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Jason Leigh"
+     },
+     {
+      "@type": "Person",
+      "name": "Walton Goggins"
+     },
+     {
+      "@type": "Person",
+      "name": "Demián Bichir"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15830,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The Hateful Eight (2016): Drama/Mystery film. Story: Bounty hunters seek shelter from a raging blizzard… See cast, budget $44M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Quentin Tarantino"
+     }
+    ],
+    "duration": "PT188M",
+    "genre": [
+     "Drama",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=273248",
+    "name": "The Hateful Eight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=273248"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hateful Eight (2016)</h1>\n<p class=\"ssr-lead\">Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2016</li><li>Runtime: 188 minutes</li><li>Director: Quentin Tarantino</li><li>Genres: Drama, Mystery, Western</li><li>Budget: $44M</li><li>TMDB rating: 7.8/10 (15830 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Samuel L. Jackson as Major Marquis Warren</li><li>Kurt Russell as John &#x27;The Hangman&#x27; Ruth</li><li>Jennifer Jason Leigh as Daisy Domergue</li><li>Walton Goggins as Sheriff Chris Mannix</li><li>Demián Bichir as Bob</li><li>Tim Roth as Oswaldo Mobray</li><li>Michael Madsen as Joe Gage</li><li>Bruce Dern as General Sandy Smithers</li><li>James Parks as O. B. Jackson</li><li>Dana Gourrier as Minnie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Hateful Eight (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:2748": {
    "d": "Journey to Italy (1954): Drama/Romance film. Story: Married for eight years with no children, Brits… See cast and TMDB rating 7.2/10.",
@@ -2050,6 +2242,70 @@
    "t": "Imitation of Life (1959) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1959"
   },
+  "movie:348": {
+   "d": "Alien (1979): Horror/Science Fiction film. Story: During its return to the earth, commercial spaceship… See cast, budget $11M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+   "industry": "world",
+   "k": "Alien, Alien movie, Alien cast, Alien story, Alien box office collection, Alien budget, Alien review, Alien rating, Alien release date, Alien trailer, Alien Horror, Alien Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Skerritt"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Veronica Cartwright"
+     },
+     {
+      "@type": "Person",
+      "name": "Harry Dean Stanton"
+     },
+     {
+      "@type": "Person",
+      "name": "John Hurt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17142,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Alien (1979): Horror/Science Fiction film. Story: During its return to the earth, commercial spaceship… See cast, budget $11M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ridley Scott"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=348",
+    "name": "Alien",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=348"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alien (1979)</h1>\n<p class=\"ssr-lead\">During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 1979</li><li>Runtime: 117 minutes</li><li>Director: Ridley Scott</li><li>Genres: Horror, Science Fiction</li><li>Budget: $11M</li><li>TMDB rating: 8.2/10 (17142 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Skerritt as Dallas</li><li>Sigourney Weaver as Ripley</li><li>Veronica Cartwright as Lambert</li><li>Harry Dean Stanton as Brett</li><li>John Hurt as Kane</li><li>Ian Holm as Ash</li><li>Yaphet Kotto as Parker</li><li>Bolaji Badejo as Alien</li><li>Helen Horton as Mother (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, fuboTV, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Alien (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
+  },
   "movie:38448": {
    "d": "Ondine (2010): Drama/Romance film. Story: On the coast of Cork, Syracuse is a divorced… See cast, budget $12M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/myYFabjrPz1Gbt3bB3GnEo6OlSN.jpg",
@@ -2309,6 +2565,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Carbone (2017)</h1>\n<p class=\"ssr-lead\">In danger of losing his business, Anthony Roca, an ordinary man, develops a scam that will become the heist of the century. Overtaken by the crime, he will have to deal with betrayal, murder and settling.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 November 2017</li><li>Runtime: 104 minutes</li><li>Director: Olivier Marchal</li><li>Genres: Thriller, Crime</li><li>TMDB rating: 6.7/10 (454 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benoît Magimel as Antoine Roca</li><li>Laura Smet as Noa Van Strecht</li><li>Gringe as Simon Wizman</li><li>Idir Chender as Éric Wizman</li><li>Michaël Youn as Laurent Melki</li><li>Dani as Dolly Wizman</li><li>Patrick Catalifo as Franck Moser</li><li>Gérard Depardieu as Aron Goldstein</li><li>Moussa Maaskri as Kamel Dafri</li><li>Catherine Arditi as Madeleine Roca</li></ul>\n</article>",
    "t": "Carbone (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:4348": {
+   "d": "Pride & Prejudice (2025): Drama/Romance film. Story: A story of love and life among the landed English… See cast, budget $28M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+   "industry": "world",
+   "k": "Pride & Prejudice, Pride & Prejudice movie, Pride & Prejudice cast, Pride & Prejudice story, Pride & Prejudice box office collection, Pride & Prejudice budget, Pride & Prejudice review, Pride & Prejudice rating, Pride & Prejudice release date, Pride & Prejudice trailer, Pride & Prejudice Drama, Pride & Prejudice Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keira Knightley"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Macfadyen"
+     },
+     {
+      "@type": "Person",
+      "name": "Brenda Blethyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosamund Pike"
+     },
+     {
+      "@type": "Person",
+      "name": "Carey Mulligan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9069,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Pride & Prejudice (2025): Drama/Romance film. Story: A story of love and life among the landed English… See cast, budget $28M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Wright"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4348",
+    "name": "Pride & Prejudice",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-07-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4348"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pride &amp; Prejudice (2025)</h1>\n<p class=\"ssr-lead\">A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family&#x27;s future happiness and security is dependent on the daughters making good marriages.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 July 2025</li><li>Runtime: 128 minutes</li><li>Director: Joe Wright</li><li>Genres: Drama, Romance</li><li>Budget: $28M</li><li>TMDB rating: 8.1/10 (9069 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keira Knightley as Elizabeth Bennet</li><li>Matthew Macfadyen as Mr. Darcy</li><li>Brenda Blethyn as Mrs. Bennet</li><li>Rosamund Pike as Jane Bennet</li><li>Carey Mulligan as Kitty Bennet</li><li>Jena Malone as Lydia Bennet</li><li>Talulah Riley as Mary Bennet</li><li>Donald Sutherland as Mr. Bennet</li><li>Simon Woods as Mr. Bingley</li><li>Judi Dench as Lady Catherine de Bourgh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Pride & Prejudice (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
   },
   "movie:438348": {
    "d": "Knock (2017): Comedy film. Story: Doctor Knock is a former thug who has become a doctor… See cast, TMDB rating 6.4/10, and release date 18 October 2017.",
@@ -3271,6 +3591,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Eagle vs Shark (2007)</h1>\n<p class=\"ssr-lead\">Love blossoms for Lily over double Meaty Boy burgers at mid-day when uber-computer nerd Jarrod comes in and leaves with free extra large fries. After gatecrashing Jarrod&#x27;s party and proving her skills on the game console, Lily goes down to Jarrod&#x27;s home town with him so he can settle an old score with a past school bully.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 July 2007</li><li>Runtime: 87 minutes</li><li>Director: Taika Waititi</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 6.4/10 (353 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Loren Taylor as Lily</li><li>Jemaine Clement as Jarrod</li><li>Joel Tobeck as Damon</li><li>Brian Sergent as Jonah</li><li>Craig Hall as Doug</li><li>Rachel House as Nancy</li><li>Morag Hills as Vinny</li><li>Bernard Stewart as Zane</li><li>Taika Waititi as Gordon</li><li>David Fane as Eric Elisi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li></ul>\n</article>",
    "t": "Eagle vs Shark (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:948": {
+   "d": "Halloween (1979): Horror/Thriller film. Story: Fifteen years after murdering his sister on Halloween… See cast, budget $325.0k, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+   "industry": "world",
+   "k": "Halloween, Halloween movie, Halloween cast, Halloween story, Halloween box office collection, Halloween budget, Halloween review, Halloween rating, Halloween release date, Halloween trailer, Halloween Horror, Halloween Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Donald Pleasence"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Lee Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Nancy Kyes"
+     },
+     {
+      "@type": "Person",
+      "name": "P. J. Soles"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Cyphers"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6535,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Halloween (1979): Horror/Thriller film. Story: Fifteen years after murdering his sister on Halloween… See cast, budget $325.0k, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Carpenter"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=948",
+    "name": "Halloween",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-12-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=948"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Halloween (1979)</h1>\n<p class=\"ssr-lead\">Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1979</li><li>Runtime: 91 minutes</li><li>Director: John Carpenter</li><li>Genres: Horror, Thriller</li><li>Budget: $325.0k</li><li>TMDB rating: 7.6/10 (6535 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Donald Pleasence as Loomis</li><li>Jamie Lee Curtis as Laurie</li><li>Nancy Kyes as Annie</li><li>P. J. Soles as Lynda</li><li>Charles Cyphers as Brackett</li><li>Kyle Richards as Lindsey</li><li>Brian Andrews as Tommy</li><li>John Michael Graham as Bob</li><li>Nancy Stephens as Marion</li><li>Arthur Malet as Graveyard Keeper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Halloween (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
   },
   "movie:970348": {
    "d": "The Old Oak (2023): Drama film. Story: A pub landlord in a previously thriving mining… See cast, TMDB rating 7.2/10, and release date 29 September 2023.",

@@ -1,6 +1,6 @@
 {
  "bucket": "70",
- "count": 62,
+ "count": 72,
  "titles": {
   "movie:10170": {
    "backdrop_path": "/vPdb3zCAS4nxdRkc5S2hp1zh4pQ.jpg",
@@ -984,6 +984,116 @@
    "type": "movie",
    "vote_average": 5.853,
    "vote_count": 439
+  },
+  "movie:11970": {
+   "backdrop_path": "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Hercules (voice)",
+     "n": "Tate Donovan"
+    },
+    {
+     "c": "Young Hercules (voice)",
+     "n": "Josh Keaton"
+    },
+    {
+     "c": "Young Hercules (singing voice)",
+     "n": "Roger Bart"
+    },
+    {
+     "c": "Philoctetes (voice)",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Hades (voice)",
+     "n": "James Woods"
+    },
+    {
+     "c": "Meg (voice)",
+     "n": "Susan Egan"
+    },
+    {
+     "c": "Pain (voice)",
+     "n": "Bobcat Goldthwait"
+    },
+    {
+     "c": "Panic (voice)",
+     "n": "Matt Frewer"
+    },
+    {
+     "c": "Zeus (voice)",
+     "n": "Rip Torn"
+    },
+    {
+     "c": "Hera (voice)",
+     "n": "Samantha Eggar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Ron Clements",
+    "John Musker"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 11970,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
+   "popularity": 11.4845,
+   "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-06-20",
+   "revenue": 252712101,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "The man. The myth. The movie.",
+   "title": "Hercules",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.497,
+   "vote_count": 8219
   },
   "movie:1198870": {
    "backdrop_path": null,
@@ -2701,6 +2811,160 @@
    "vote_average": 7.1,
    "vote_count": 394
   },
+  "movie:170": {
+   "backdrop_path": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Jim",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Selena",
+     "n": "Naomie Harris"
+    },
+    {
+     "c": "Frank",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Hannah",
+     "n": "Megan Burns"
+    },
+    {
+     "c": "Major Henry West",
+     "n": "Christopher Eccleston"
+    },
+    {
+     "c": "Mark",
+     "n": "Noah Huntley"
+    },
+    {
+     "c": "Private Clifton",
+     "n": "Luke Mably"
+    },
+    {
+     "c": "Seargent Farrell",
+     "n": "Stuart McQuarrie"
+    },
+    {
+     "c": "Corporal Mitchell",
+     "n": "Ricci Harnett"
+    },
+    {
+     "c": "Private Jones",
+     "n": "Leo Bill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 170,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+   "popularity": 12.7466,
+   "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-10-31",
+   "revenue": 82784517,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The days are numbered.",
+   "title": "28 Days Later",
+   "trailer": {
+    "key": "mWEhfF27O0c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.243,
+   "vote_count": 9080
+  },
   "movie:20770": {
    "backdrop_path": "/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
    "budget": 1200000,
@@ -2826,6 +3090,162 @@
    "type": "movie",
    "vote_average": 7.114,
    "vote_count": 913
+  },
+  "movie:22970": {
+   "backdrop_path": "/wJffMiCnrszaNclKggGixYWB7D7.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Dana Polk",
+     "n": "Kristen Connolly"
+    },
+    {
+     "c": "Marty Mikalski",
+     "n": "Fran Kranz"
+    },
+    {
+     "c": "Curt Vaughn",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Holden McCrea",
+     "n": "Jesse Williams"
+    },
+    {
+     "c": "Jules Louden",
+     "n": "Anna Hutchison"
+    },
+    {
+     "c": "Richard Sitterson",
+     "n": "Richard Jenkins"
+    },
+    {
+     "c": "Steve Hadley",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Wendy Lin",
+     "n": "Amy Acker"
+    },
+    {
+     "c": "Daniel Truman",
+     "n": "Brian J. White"
+    },
+    {
+     "c": "The Director",
+     "n": "Sigourney Weaver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Drew Goddard"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 22970,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.",
+   "popularity": 7.6504,
+   "poster_path": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-01",
+   "revenue": 71038838,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "You think you know the story.",
+   "title": "The Cabin in the Woods",
+   "trailer": {
+    "key": "7NiAWF7VIFY",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.668,
+   "vote_count": 8971
   },
   "movie:2370": {
    "backdrop_path": "/3NSwwxsu8YXIqnGOrfREEsXWkT7.jpg",
@@ -3211,6 +3631,321 @@
    "type": "movie",
    "vote_average": 6.313,
    "vote_count": 394
+  },
+  "movie:274870": {
+   "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Aurora Lane",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Jim Preston",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Arthur",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Gus Mancuso",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Captain Norris",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Executive Officer",
+     "n": "Vince Foster"
+    },
+    {
+     "c": "Communications Officer",
+     "n": "Kara Flowers"
+    },
+    {
+     "c": "Crew Member",
+     "n": "Conor Brophy"
+    },
+    {
+     "c": "Instructor (Hologram)",
+     "n": "Julee Cerda"
+    },
+    {
+     "c": "Best Friend",
+     "n": "Aurora Perrineau"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Morten Tyldum"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Science Fiction"
+   ],
+   "id": 274870,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+   "popularity": 6.495,
+   "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-01-06",
+   "revenue": 303144152,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There is a reason they woke up.",
+   "title": "Passengers",
+   "trailer": {
+    "key": "sipflRaq2vg",
+    "name": "PASSENGERS - Official \"Event\" Trailer (In Theaters Wednesday)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.955,
+   "vote_count": 14678
+  },
+  "movie:338970": {
+   "backdrop_path": "/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+   "budget": 94000000,
+   "cast": [
+    {
+     "c": "Lara Croft",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Richard Croft",
+     "n": "Dominic West"
+    },
+    {
+     "c": "Mathias Vogel",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Lu Ren",
+     "n": "Daniel Wu"
+    },
+    {
+     "c": "Ana Miller",
+     "n": "Kristin Scott Thomas"
+    },
+    {
+     "c": "Mr. Yaffe",
+     "n": "Derek Jacobi"
+    },
+    {
+     "c": "Lieutenant",
+     "n": "Alexandre Willaume"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Tamer Burjaq"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Adrian Collins"
+    },
+    {
+     "c": "Mercenary",
+     "n": "Keenan Arrison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roar Uthaug"
+   ],
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "id": 338970,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+   "popularity": 8.2333,
+   "poster_path": "/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-03-16",
+   "revenue": 274650803,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Her legend begins.",
+   "title": "Tomb Raider",
+   "trailer": {
+    "key": "3KkhD0MnaJU",
+    "name": "TOMB RAIDER - Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.36,
+   "vote_count": 8622
   },
   "movie:34070": {
    "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
@@ -4009,6 +4744,195 @@
    "vote_average": 7.0,
    "vote_count": 325
   },
+  "movie:436270": {
+   "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Black Adam / Teth Adam",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Hawkman / Carter Hall",
+     "n": "Aldis Hodge"
+    },
+    {
+     "c": "Atom Smasher / Al Rothstein",
+     "n": "Noah Centineo"
+    },
+    {
+     "c": "Adrianna Tomaz",
+     "n": "Sarah Shahi"
+    },
+    {
+     "c": "Cyclone / Maxine Hunkel",
+     "n": "Quintessa Swindell"
+    },
+    {
+     "c": "Ishmael / Sabbac / King Ahk-Ton",
+     "n": "Marwan Kenzari"
+    },
+    {
+     "c": "Karim",
+     "n": "Mo Amer"
+    },
+    {
+     "c": "Amon Tomaz",
+     "n": "Bodhi Sabongui"
+    },
+    {
+     "c": "Dr. Fate / Kent Nelson",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Samir",
+     "n": "James Cusati-Moyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jaume Collet-Serra"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 436270,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+   "popularity": 11.5694,
+   "poster_path": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-10-19",
+   "revenue": 393452111,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The world needed a hero. It got Black Adam.",
+   "title": "Black Adam",
+   "trailer": {
+    "key": "mkomfZHG5q4",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.742,
+   "vote_count": 7400
+  },
   "movie:438970": {
    "backdrop_path": "/tV52jYHf2CkFzIMlrn87xs1aPM.jpg",
    "budget": 3000000,
@@ -4654,6 +5578,167 @@
    "vote_average": 6.0,
    "vote_count": 401
   },
+  "movie:570670": {
+   "backdrop_path": "/tweDJNQzBGgsWVF5MC8JhSAk07p.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Cecilia Kass",
+     "n": "Elisabeth Moss"
+    },
+    {
+     "c": "James Lanier",
+     "n": "Aldis Hodge"
+    },
+    {
+     "c": "Sydney Lanier",
+     "n": "Storm Reid"
+    },
+    {
+     "c": "Tom Griffin",
+     "n": "Michael Dorman"
+    },
+    {
+     "c": "Emily Kass",
+     "n": "Harriet Dyer"
+    },
+    {
+     "c": "Adrian Griffin",
+     "n": "Oliver Jackson-Cohen"
+    },
+    {
+     "c": "Marc",
+     "n": "Benedict Hardie"
+    },
+    {
+     "c": "Nurse",
+     "n": "Zara Michales"
+    },
+    {
+     "c": "Doctor Lee",
+     "n": "Renee Lim"
+    },
+    {
+     "c": "Detective Reckley",
+     "n": "Sam Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Leigh Whannell"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 570670,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+   "popularity": 5.6965,
+   "poster_path": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+   "production_countries": [
+    "AU",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-02-26",
+   "revenue": 144492724,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What you can't see can hurt you.",
+   "title": "The Invisible Man",
+   "trailer": {
+    "key": "WO_FJdiY9dA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.076,
+   "vote_count": 6566
+  },
   "movie:582570": {
    "backdrop_path": "/h9cKOZs5z0fVmM9cZ4RPBvcojK5.jpg",
    "budget": 0,
@@ -4759,6 +5844,292 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 886
+  },
+  "movie:670": {
+   "backdrop_path": "/rwf5SUTiEsmfkXAgy15R0UtJUtv.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Oh Dae-su",
+     "n": "Choi Min-sik"
+    },
+    {
+     "c": "Lee Woo-jin",
+     "n": "Yoo Ji-tae"
+    },
+    {
+     "c": "Mi-do",
+     "n": "Kang Hye-jung"
+    },
+    {
+     "c": "Mr. Han",
+     "n": "Kim Byeong-ok"
+    },
+    {
+     "c": "No Joo-hwan",
+     "n": "Ji Dae-han"
+    },
+    {
+     "c": "Park Cheol-woong",
+     "n": "Oh Dal-su"
+    },
+    {
+     "c": "Yoo Hyung-ja",
+     "n": "Lee Seung-shin"
+    },
+    {
+     "c": "Lee Soo-ah",
+     "n": "Yoon Jin-seo"
+    },
+    {
+     "c": "Young Dae-su",
+     "n": "Oh Tae-kyung"
+    },
+    {
+     "c": "Young Woo-jin",
+     "n": "Yoo Yeon-seok"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Park Chan-wook"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 670,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+   "popularity": 13.8211,
+   "poster_path": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Arrow Video Amazon Channel"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "ARROW"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-11-21",
+   "revenue": 17500000,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "15 years of imprisonment, five days of vengeance.",
+   "title": "Oldboy",
+   "trailer": {
+    "key": "tAaBkFChaRg",
+    "name": "Official 20th Anniversary Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.234,
+   "vote_count": 10419
+  },
+  "movie:70": {
+   "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Frankie Dunn",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Maggie Fitzgerald",
+     "n": "Hilary Swank"
+    },
+    {
+     "c": "Eddie Scrap-Iron Dupris",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Danger Barch",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Big Willie Little",
+     "n": "Mike Colter"
+    },
+    {
+     "c": "Billie 'The Blue Bear'",
+     "n": "Lucia Rijker"
+    },
+    {
+     "c": "Father Horvak",
+     "n": "Brían F. O'Byrne"
+    },
+    {
+     "c": "Shawrelle Berry",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Earline Fitzgerald",
+     "n": "Margo Martindale"
+    },
+    {
+     "c": "Mardell Fitzgerald",
+     "n": "Riki Lindhome"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 70,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+   "popularity": 8.3993,
+   "poster_path": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+   "production_countries": [
+    "US",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-03-11",
+   "revenue": 216763646,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ga"
+   ],
+   "status": "Released",
+   "tagline": "Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love.",
+   "title": "Million Dollar Baby",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.953,
+   "vote_count": 10737
   },
   "movie:732670": {
    "backdrop_path": "/ucEQXe6wPpPhgcJh4oXOAvX1lnb.jpg",
@@ -4869,6 +6240,133 @@
    "type": "movie",
    "vote_average": 6.564,
    "vote_count": 377
+  },
+  "movie:76170": {
+   "backdrop_path": "/bEAQfLTykGg232kJogBlxRYaRqU.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Logan",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Mariko",
+     "n": "Tao Okamoto"
+    },
+    {
+     "c": "Yukio",
+     "n": "Rila Fukushima"
+    },
+    {
+     "c": "Harada",
+     "n": "Will Yun Lee"
+    },
+    {
+     "c": "Viper",
+     "n": "Svetlana Khodchenkova"
+    },
+    {
+     "c": "Yashida",
+     "n": "Hal Yamanouchi"
+    },
+    {
+     "c": "Shingen",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "Jean Grey",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Noburo",
+     "n": "Brian Tee"
+    },
+    {
+     "c": "Young Yashida",
+     "n": "Ken Yamamura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Mangold"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 76170,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
+   "popularity": 2.1151,
+   "poster_path": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-07-26",
+   "revenue": 415440673,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "When he's most vulnerable, he's most dangerous.",
+   "title": "The Wolverine",
+   "trailer": {
+    "key": "DwG56k6VGOE",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.434,
+   "vote_count": 10712
   },
   "movie:774370": {
    "backdrop_path": "/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",

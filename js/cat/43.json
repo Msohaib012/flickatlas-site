@@ -1,6 +1,6 @@
 {
  "bucket": "43",
- "count": 51,
+ "count": 61,
  "titles": {
   "movie:10243": {
    "backdrop_path": "/kQVe1fh6H3q5bCMM5nXt1tKS0hv.jpg",
@@ -1293,6 +1293,176 @@
    "type": "movie",
    "vote_average": 6.222,
    "vote_count": 27
+  },
+  "movie:138843": {
+   "backdrop_path": "/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Lorraine Warren",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Ed Warren",
+     "n": "Patrick Wilson"
+    },
+    {
+     "c": "Carolyn Perron",
+     "n": "Lili Taylor"
+    },
+    {
+     "c": "Roger Perron",
+     "n": "Ron Livingston"
+    },
+    {
+     "c": "Nancy",
+     "n": "Hayley McFarland"
+    },
+    {
+     "c": "Judy Warren",
+     "n": "Sterling Jerins"
+    },
+    {
+     "c": "Andrea",
+     "n": "Shanley Caswell"
+    },
+    {
+     "c": "Cindy",
+     "n": "Mackenzie Foy"
+    },
+    {
+     "c": "Christine",
+     "n": "Joey King"
+    },
+    {
+     "c": "April",
+     "n": "Kyla Deaver"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James Wan"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 138843,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+   "popularity": 21.164,
+   "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-08-02",
+   "revenue": 321293998,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on the true case files of the Warrens.",
+   "title": "The Conjuring",
+   "trailer": {
+    "key": "k10ETZ41q5o",
+    "name": "Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.545,
+   "vote_count": 13303
   },
   "movie:141043": {
    "backdrop_path": "/cA2lXcl4rVKsRltJwVYRqpSqvhq.jpg",
@@ -3011,6 +3181,300 @@
    "vote_average": 5.5,
    "vote_count": 420
   },
+  "movie:334543": {
+   "backdrop_path": "/ycABRSIK1Ff10Tc2A6WJHagp1Co.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Saroo Brierley",
+     "n": "Dev Patel"
+    },
+    {
+     "c": "Lucy",
+     "n": "Rooney Mara"
+    },
+    {
+     "c": "John Brierley",
+     "n": "David Wenham"
+    },
+    {
+     "c": "Sue Brierley",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Young Saroo",
+     "n": "Sunny Pawar"
+    },
+    {
+     "c": "Guddu",
+     "n": "Abhishek Bharate"
+    },
+    {
+     "c": "Kamla Munshi",
+     "n": "Priyanka Bose"
+    },
+    {
+     "c": "Mantosh Brierley",
+     "n": "Divian Ladwa"
+    },
+    {
+     "c": "Saroj Sood",
+     "n": "Deepti Naval"
+    },
+    {
+     "c": "Noor",
+     "n": "Tannishtha Chatterjee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Garth Davis"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 334543,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+   "popularity": 5.7149,
+   "poster_path": "/kCELJH1tCmaRLqvwIgKDb09aEaw.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-02-24",
+   "revenue": 140312928,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "bn",
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "The search begins",
+   "title": "Lion",
+   "trailer": {
+    "key": "GKkk-hDigTk",
+    "name": "Lion Official Trailer 2 - Out Now on Blu-Ray and DVD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.034,
+   "vote_count": 7131
+  },
+  "movie:336843": {
+   "backdrop_path": "/zGCfnZ3bCowMY9So9ZGpsyuOYl3.jpg",
+   "budget": 62000000,
+   "cast": [
+    {
+     "c": "Thomas",
+     "n": "Dylan O'Brien"
+    },
+    {
+     "c": "Teresa Agnes",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Newt",
+     "n": "Thomas Brodie-Sangster"
+    },
+    {
+     "c": "Minho",
+     "n": "Ki Hong Lee"
+    },
+    {
+     "c": "Frypan",
+     "n": "Dexter Darden"
+    },
+    {
+     "c": "Brenda",
+     "n": "Rosa Salazar"
+    },
+    {
+     "c": "Jorge",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Gally",
+     "n": "Will Poulter"
+    },
+    {
+     "c": "Janson",
+     "n": "Aidan Gillen"
+    },
+    {
+     "c": "Ava Paige",
+     "n": "Patricia Clarkson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wes Ball"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 336843,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+   "popularity": 8.2633,
+   "poster_path": "/s8K0US4tUEoOrQ1LDh0eppuwGDx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-02-09",
+   "revenue": 288418190,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The end will be WCKD.",
+   "title": "Maze Runner: The Death Cure",
+   "trailer": {
+    "key": "Ww1GiTIJF_Y",
+    "name": "Lego Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.069,
+   "vote_count": 8667
+  },
   "movie:3543": {
    "backdrop_path": "/xNZwsgmAt3aqjKZYWQmUzEij6XD.jpg",
    "budget": 0,
@@ -3192,6 +3656,164 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 459
+  },
+  "movie:361743": {
+   "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Capt. Pete 'Maverick' Mitchell",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Lt. Bradley 'Rooster' Bradshaw",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Penny Benjamin",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Wo-1. Bernie 'Hondo' Coleman",
+     "n": "Bashir Salahuddin"
+    },
+    {
+     "c": "Adm. Beau 'Cyclone' Simpson",
+     "n": "Jon Hamm"
+    },
+    {
+     "c": "Adm. Solomon 'Warlock' Bates",
+     "n": "Charles Parnell"
+    },
+    {
+     "c": "Lt. Natasha 'Phoenix' Trace",
+     "n": "Monica Barbaro"
+    },
+    {
+     "c": "Lt. Robert 'Bob' Floyd",
+     "n": "Lewis Pullman"
+    },
+    {
+     "c": "Lt. Reuben 'Payback' Fitch",
+     "n": "Jay Ellis"
+    },
+    {
+     "c": "Lt. Mickey 'Fanboy' Garcia",
+     "n": "Danny Ramirez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Joseph Kosinski"
+   ],
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "id": 361743,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+   "popularity": 32.5679,
+   "poster_path": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-05-27",
+   "revenue": 1488732821,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Feel the need... The need for speed.",
+   "title": "Top Gun: Maverick",
+   "trailer": {
+    "key": "Klc__shdj88",
+    "name": "40th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.156,
+   "vote_count": 11916
   },
   "movie:36243": {
    "backdrop_path": "/flIztIygNv3r3wgJCDyxfnvH70K.jpg",
@@ -3472,6 +4094,152 @@
    "vote_average": 6.15,
    "vote_count": 841
   },
+  "movie:390043": {
+   "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Michael Bryce",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Darius Kincaid",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Vladislav Dukhovich",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Sonia Kincaid",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Amelia Roussel",
+     "n": "Élodie Yung"
+    },
+    {
+     "c": "Seifert",
+     "n": "Richard E. Grant"
+    },
+    {
+     "c": "Foucher",
+     "n": "Joaquim de Almeida"
+    },
+    {
+     "c": "Rebecca Harr",
+     "n": "Kirsty Mitchell"
+    },
+    {
+     "c": "Ivan",
+     "n": "Yuri Kolokolnikov"
+    },
+    {
+     "c": "Garrett",
+     "n": "Sam Hazeldine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Patrick Hughes"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 390043,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+   "popularity": 7.1066,
+   "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+   "production_countries": [
+    "BG",
+    "CA",
+    "FR",
+    "HK",
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-08-25",
+   "revenue": 176586701,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Everyone's out to get them... If they don't kill each other first.",
+   "title": "The Hitman's Bodyguard",
+   "trailer": {
+    "key": "s6SvOIbaulA",
+    "name": "The Hitman’s Bodyguard (2017) Official Trailer “Sorry” – Ryan Reynolds, Samuel L. Jackson",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.895,
+   "vote_count": 6914
+  },
   "movie:4043": {
    "backdrop_path": "/kx3KdTmefo87oQEEhGqm6dLlAg0.jpg",
    "budget": 600000,
@@ -3631,6 +4399,191 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 342
+  },
+  "movie:45243": {
+   "backdrop_path": "/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Phil Wenneck",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Stu Price",
+     "n": "Ed Helms"
+    },
+    {
+     "c": "Alan Garner",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Doug Billings",
+     "n": "Justin Bartha"
+    },
+    {
+     "c": "Teddy",
+     "n": "Mason Lee"
+    },
+    {
+     "c": "Mr. Chow",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Kingsley",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Sid Garner",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Lauren",
+     "n": "Jamie Chung"
+    },
+    {
+     "c": "Tracy",
+     "n": "Sasha Barrese"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Phillips"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 45243,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group.",
+   "popularity": 10.3718,
+   "poster_path": "/cKZu0Fdkj7dmwbfMpgDqVVCkLJQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-05-27",
+   "revenue": 586764305,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "The wolfpack is back.",
+   "title": "The Hangover Part II",
+   "trailer": {
+    "key": "ohF5ZO_zOYU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.515,
+   "vote_count": 11696
   },
   "movie:463843": {
    "backdrop_path": "/de51GG0AQZj8dUm00aQUi4wisBr.jpg",
@@ -3920,6 +4873,146 @@
    "vote_average": 6.175,
    "vote_count": 434
   },
+  "movie:496243": {
+   "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+   "budget": 11363000,
+   "cast": [
+    {
+     "c": "Kim Ki-taek",
+     "n": "Song Kang-ho"
+    },
+    {
+     "c": "Park Dong-ik",
+     "n": "Lee Sun-kyun"
+    },
+    {
+     "c": "Yeon-kyo",
+     "n": "Cho Yeo-jeong"
+    },
+    {
+     "c": "Ki-woo",
+     "n": "Choi Woo-shik"
+    },
+    {
+     "c": "Ki-jung",
+     "n": "Park So-dam"
+    },
+    {
+     "c": "Moon-gwang",
+     "n": "Lee Jung-eun"
+    },
+    {
+     "c": "Chung-sook",
+     "n": "Jang Hye-jin"
+    },
+    {
+     "c": "Geun-se",
+     "n": "Park Myung-hoon"
+    },
+    {
+     "c": "Da-hye",
+     "n": "Jung Zi-so"
+    },
+    {
+     "c": "Da-song",
+     "n": "Jung Hyeon-jun"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Bong Joon Ho"
+   ],
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 496243,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+   "popularity": 29.949,
+   "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-01-31",
+   "revenue": 257591776,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Act like you own the place.",
+   "title": "Parasite",
+   "trailer": {
+    "key": "bM9QabAojCg",
+    "name": "B&W Version Official Australian Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.489,
+   "vote_count": 21714
+  },
   "movie:496743": {
    "backdrop_path": "/mz8xBEIl1l18e2ToNlV1Tt5HVmJ.jpg",
    "budget": 0,
@@ -4179,6 +5272,126 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 492
+  },
+  "movie:508943": {
+   "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Luca Paguro (voice)",
+     "n": "Jacob Tremblay"
+    },
+    {
+     "c": "Alberto Scorfano (voice)",
+     "n": "Jack Dylan Grazer"
+    },
+    {
+     "c": "Giulia Marcovaldo (voice)",
+     "n": "Emma Berman"
+    },
+    {
+     "c": "Ercole Visconti (voice)",
+     "n": "Saverio Raimondo"
+    },
+    {
+     "c": "Daniela Paguro (voice)",
+     "n": "Maya Rudolph"
+    },
+    {
+     "c": "Massimo Marcovaldo (voice)",
+     "n": "Marco Barricelli"
+    },
+    {
+     "c": "Lorenzo Paguro (voice)",
+     "n": "Jim Gaffigan"
+    },
+    {
+     "c": "Ciccio (voice)",
+     "n": "Peter Sohn"
+    },
+    {
+     "c": "Guido (voice)",
+     "n": "Lorenzo Crisci"
+    },
+    {
+     "c": "Signora Marsigliese (voice)",
+     "n": "Marina Massironi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Enrico Casarosa"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 508943,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+   "popularity": 9.2552,
+   "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-06-17",
+   "revenue": 51074773,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Prepare for an unforgettable trip.",
+   "title": "Luca",
+   "trailer": {
+    "key": "mYfJxlgR2jw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.765,
+   "vote_count": 9237
   },
   "movie:516043": {
    "backdrop_path": "/ftVld1YSBU92swRb1mRryUs7xR2.jpg",
@@ -4487,6 +5700,132 @@
    "type": "movie",
    "vote_average": 6.764,
    "vote_count": 426
+  },
+  "movie:593643": {
+   "backdrop_path": "/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Margot",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "Chef Slowik",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Tyler",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Lillian",
+     "n": "Janet McTeer"
+    },
+    {
+     "c": "Ted",
+     "n": "Paul Adelstein"
+    },
+    {
+     "c": "Bryce",
+     "n": "Rob Yang"
+    },
+    {
+     "c": "Felicity",
+     "n": "Aimee Carrero"
+    },
+    {
+     "c": "Movie Star",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Soren",
+     "n": "Arturo Castro"
+    },
+    {
+     "c": "Richard",
+     "n": "Reed Birney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mark Mylod"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 593643,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+   "popularity": 11.0401,
+   "poster_path": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-11-17",
+   "revenue": 79628200,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Painstakingly prepared. Brilliantly executed.",
+   "title": "The Menu",
+   "trailer": {
+    "key": "C_uTkUGcHv4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.179,
+   "vote_count": 6884
   },
   "movie:670243": {
    "backdrop_path": "/7I1Yj4vz57L6BF6theOaKOs9QYS.jpg",
@@ -5385,6 +6724,122 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 942
+  },
+  "movie:9543": {
+   "backdrop_path": "/iP0capCU4w5nxCDl398CH7yR1r9.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Prince Dastan",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Tamina",
+     "n": "Gemma Arterton"
+    },
+    {
+     "c": "Nizam",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Sheik Amar",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Seso",
+     "n": "Steve Toussaint"
+    },
+    {
+     "c": "Garsiv",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Tus",
+     "n": "Richard Coyle"
+    },
+    {
+     "c": "King Sharaman",
+     "n": "Ronald Pickup"
+    },
+    {
+     "c": "Bis",
+     "n": "Reece Ritchie"
+    },
+    {
+     "c": "Hassansin Leader",
+     "n": "Gísli Örn Garðarsson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mike Newell"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 9543,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world.",
+   "popularity": 6.1888,
+   "poster_path": "/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-05-19",
+   "revenue": 336365676,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Defy the future.",
+   "title": "Prince of Persia: The Sands of Time",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.314,
+   "vote_count": 7420
   },
   "movie:994143": {
    "backdrop_path": "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 73,
+ "count": 83,
  "titles": {
   "movie:1010821": {
    "d": "Groot Takes a Bath (2022): Animation/Family film. Story: Everybody needs some alone time to relax and wash up… See cast and TMDB rating 7.1/10.",
@@ -377,6 +377,69 @@
    "t": "Tess (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1979"
   },
+  "movie:11321": {
+   "d": "Seven Pounds (2008): Drama film. Story: An IRS agent with a fateful secret embarks on an… See cast, budget $55M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mDu3nkdjzkJ9loy3QyppGcLjaI7.jpg",
+   "industry": "world",
+   "k": "Seven Pounds, Seven Pounds movie, Seven Pounds cast, Seven Pounds story, Seven Pounds box office collection, Seven Pounds budget, Seven Pounds review, Seven Pounds rating, Seven Pounds release date, Seven Pounds trailer, Seven Pounds Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosario Dawson"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Ealy"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Pepper"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7467,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Seven Pounds (2008): Drama film. Story: An IRS agent with a fateful secret embarks on an… See cast, budget $55M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gabriele Muccino"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mDu3nkdjzkJ9loy3QyppGcLjaI7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11321",
+    "name": "Seven Pounds",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11321"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Seven Pounds (2008)</h1>\n<p class=\"ssr-lead\">An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2008</li><li>Runtime: 123 minutes</li><li>Director: Gabriele Muccino</li><li>Genres: Drama</li><li>Budget: $55M</li><li>TMDB rating: 7.6/10 (7467 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Smith as Ben</li><li>Rosario Dawson as Emily</li><li>Woody Harrelson as Ezra</li><li>Michael Ealy as Ben&#x27;s Brother</li><li>Barry Pepper as Dan</li><li>Elpidia Carrillo as Connie</li><li>Robinne Lee as Sarah</li><li>Bill Smitrovich as George Ristuccia</li><li>Joe Nuñez as Larry</li><li>Sarah Jane Morris as Susan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Seven Pounds (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:1140521": {
    "d": "The Magic Faraway Tree (2026): Adventure/Family film. Story: A modern family relocates to the countryside where… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
@@ -568,6 +631,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Little Man Tate (1991)</h1>\n<p class=\"ssr-lead\">Dede is a sole parent trying to bring up her son Fred. When it is discovered that Fred is a genius, she is determined to ensure that Fred has all the opportunities that he needs, and that he is not taken advantage of by people who forget that his extremely powerful intellect is harboured in the body and emotions of a child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 September 1991</li><li>Runtime: 99 minutes</li><li>Director: Jodie Foster</li><li>Genres: Drama, Family</li><li>Budget: $10M</li><li>TMDB rating: 6.6/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jodie Foster as Dede Tate</li><li>Dianne Wiest as Jane Grierson</li><li>Adam Hann-Byrd as Fred Tate</li><li>Harry Connick Jr. as Eddie</li><li>David Hyde Pierce as Garth Emmerick</li><li>Debi Mazar as Gina</li><li>P.J. Ochlan as Damon Wells</li><li>Michael Shulman as Matt Montini</li><li>Celia Weston as Miss Nimvel</li><li>George Plimpton as Winston F. Buckner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Little Man Tate (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
+  },
+  "movie:121": {
+   "d": "The Lord of the Rings: The Two Towers (2002): Adventure/Fantasy film. Story: Frodo Baggins and the other members of the Fellowship… See cast and budget $79M.",
+   "img": "https://image.tmdb.org/t/p/w780/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+   "industry": "world",
+   "k": "The Lord of the Rings: The Two Towers, The Lord of the Rings: The Two Towers movie, The Lord of the Rings: The Two Towers cast, The Lord of the Rings: The Two Towers story, The Lord of the Rings: The Two Towers box office collection, The Lord of the Rings: The Two Towers budget, The Lord of the Rings: The Two Towers review, The Lord of the Rings: The Two Towers rating, The Lord of the Rings: The Two Towers release date, The Lord of the Rings: The Two Towers trailer, The Lord of the Rings: The Two Towers Adventure, The Lord of the Rings: The Two Towers Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Viggo Mortensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Astin"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Serkis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24987,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "The Lord of the Rings: The Two Towers (2002): Adventure/Fantasy film. Story: Frodo Baggins and the other members of the Fellowship… See cast and budget $79M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Jackson"
+     }
+    ],
+    "duration": "PT179M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=121",
+    "name": "The Lord of the Rings: The Two Towers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=121"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lord of the Rings: The Two Towers (2002)</h1>\n<p class=\"ssr-lead\">Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers - Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron&#x27;s fortress at Barad-dur, deep within the dark lands of Mordor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2002</li><li>Runtime: 179 minutes</li><li>Director: Peter Jackson</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $79M</li><li>TMDB rating: 8.4/10 (24987 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elijah Wood as Frodo</li><li>Ian McKellen as Gandalf</li><li>Viggo Mortensen as Aragorn</li><li>Sean Astin as Sam</li><li>Andy Serkis as Gollum</li><li>John Rhys-Davies as Gimli / Treebeard (voice)</li><li>Orlando Bloom as Legolas</li><li>Bernard Hill as Théoden</li><li>Miranda Otto as Éowyn</li><li>Dominic Monaghan as Merry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Lord of the Rings: The Two Towers (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:12121": {
    "d": "Made in America (1993): Comedy film. Story: A young black woman discovers that her father was a… See cast, budget $22M, and TMDB rating 5.5/10.",
@@ -2170,6 +2297,70 @@
    "t": "Married to the Mob (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:24021": {
+   "d": "The Twilight Saga: Eclipse (2010): Adventure/Fantasy film. Story: Bella once again finds herself surrounded by danger… See cast and budget $68M.",
+   "img": "https://image.tmdb.org/t/p/w780/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+   "industry": "world",
+   "k": "The Twilight Saga: Eclipse, The Twilight Saga: Eclipse movie, The Twilight Saga: Eclipse cast, The Twilight Saga: Eclipse story, The Twilight Saga: Eclipse box office collection, The Twilight Saga: Eclipse budget, The Twilight Saga: Eclipse review, The Twilight Saga: Eclipse rating, The Twilight Saga: Eclipse release date, The Twilight Saga: Eclipse trailer, The Twilight Saga: Eclipse Adventure, The Twilight Saga: Eclipse Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristen Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Pattinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Lautner"
+     },
+     {
+      "@type": "Person",
+      "name": "Bryce Dallas Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "Dakota Fanning"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9491,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Twilight Saga: Eclipse (2010): Adventure/Fantasy film. Story: Bella once again finds herself surrounded by danger… See cast and budget $68M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Slade"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=24021",
+    "name": "The Twilight Saga: Eclipse",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-06-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=24021"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Twilight Saga: Eclipse (2010)</h1>\n<p class=\"ssr-lead\">Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 June 2010</li><li>Runtime: 124 minutes</li><li>Director: David Slade</li><li>Genres: Adventure, Fantasy, Drama, Romance</li><li>Budget: $68M</li><li>TMDB rating: 6.2/10 (9491 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Stewart as Bella Swan</li><li>Robert Pattinson as Edward Cullen</li><li>Taylor Lautner as Jacob Black</li><li>Bryce Dallas Howard as Victoria</li><li>Dakota Fanning as Jane</li><li>Billy Burke as Charlie Swan</li><li>Peter Facinelli as Dr. Carlisle Cullen</li><li>Elizabeth Reaser as Esme Cullen</li><li>Jackson Rathbone as Jasper Hale</li><li>Kellan Lutz as Emmett Cullen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Twilight Saga: Eclipse (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:2621": {
    "d": "Return to Me (2000): Romance/Comedy film. Story: It took a lot of persuading to get Bob, a recently… See cast, budget $24M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/oNOJoW2XoH3shkQxHtOyacJRBCQ.jpg",
@@ -2489,6 +2680,69 @@
    "t": "Nashville (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
   },
+  "movie:312221": {
+   "d": "Creed (2015): Drama film. Story: The former World Heavyweight Champion Rocky Balboa… See cast, budget $37M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+   "industry": "world",
+   "k": "Creed, Creed movie, Creed cast, Creed story, Creed box office collection, Creed budget, Creed review, Creed rating, Creed release date, Creed trailer, Creed Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael B. Jordan"
+     },
+     {
+      "@type": "Person",
+      "name": "Sylvester Stallone"
+     },
+     {
+      "@type": "Person",
+      "name": "Tessa Thompson"
+     },
+     {
+      "@type": "Person",
+      "name": "Phylicia Rashād"
+     },
+     {
+      "@type": "Person",
+      "name": "Andre Ward"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8228,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Creed (2015): Drama film. Story: The former World Heavyweight Champion Rocky Balboa… See cast, budget $37M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryan Coogler"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=312221",
+    "name": "Creed",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-11-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=312221"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Creed (2015)</h1>\n<p class=\"ssr-lead\">The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 November 2015</li><li>Runtime: 133 minutes</li><li>Director: Ryan Coogler</li><li>Genres: Drama</li><li>Budget: $37M</li><li>TMDB rating: 7.4/10 (8228 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael B. Jordan as Adonis Johnson</li><li>Sylvester Stallone as Rocky Balboa</li><li>Tessa Thompson as Bianca</li><li>Phylicia Rashād as Mary Anne Creed</li><li>Andre Ward as Danny &#x27;Stuntman&#x27; Wheeler</li><li>Tony Bellew as &#x27;Pretty&#x27; Ricky Conlan</li><li>Ritchie Coster as Pete Sporino</li><li>Jacob &#x27;Stitch&#x27; Duran as Stitch</li><li>Graham McTavish as Tommy Holiday</li><li>Malik Bazille as Amir</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Creed (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:33521": {
    "d": "Dracula (1979): Romance/Drama film. Story: In 1913, charming, seductive, and sinister Count… See cast, budget $12.2M, and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/9aDnMjUHhfX0WaCicEaejdKgvlV.jpg",
@@ -2615,6 +2869,70 @@
    "published": "2026-11-14",
    "ssr": "<article class=\"ssr-facts\">\n<h1>BLAME! (2017)</h1>\n<p class=\"ssr-lead\">In the distant technological future, civilization has reached its ultimate Net-based form. An &quot;infection&quot; in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city&#x27;s controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2017</li><li>Runtime: 106 minutes</li><li>Director: Hiroyuki Seshita</li><li>Genres: Action, Drama, Science Fiction, Animation</li><li>TMDB rating: 6.5/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Takahiro Sakurai as Killy (voice)</li><li>Kana Hanazawa as Cibo (voice)</li><li>Sora Amamiya as Zuru (voice)</li><li>Mamoru Miyano as Sutezo (voice)</li><li>Aya Suzaki as Tae (voice)</li><li>Nobunaga Shimazaki as Fusata (voice)</li><li>Nanako Mori as Fuku (voice)</li><li>Kazuhiro Yamaji as Pop (voice)</li><li>Aki Toyosaki as Administration Authority (voice)</li><li>Saori Hayami as Sanakan (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "BLAME! (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:440021": {
+   "d": "Happy Death Day (2017): Comedy/Horror film. Story: Caught in a bizarre and terrifying time warp, college… See cast, budget $4.8M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+   "industry": "world",
+   "k": "Happy Death Day, Happy Death Day movie, Happy Death Day cast, Happy Death Day story, Happy Death Day box office collection, Happy Death Day budget, Happy Death Day review, Happy Death Day rating, Happy Death Day release date, Happy Death Day trailer, Happy Death Day Comedy, Happy Death Day Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jessica Rothe"
+     },
+     {
+      "@type": "Person",
+      "name": "Israel Broussard"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Aitken"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby Modine"
+     },
+     {
+      "@type": "Person",
+      "name": "Blaine Kern III"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6787,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Happy Death Day (2017): Comedy/Horror film. Story: Caught in a bizarre and terrifying time warp, college… See cast, budget $4.8M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Landon"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=440021",
+    "name": "Happy Death Day",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-10-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=440021"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Happy Death Day (2017)</h1>\n<p class=\"ssr-lead\">Caught in a bizarre and terrifying time warp, college student Tree finds herself repeatedly reliving the day of her murder, ultimately realizing that she must identify the killer and the reason for her death before her chances of survival run out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 October 2017</li><li>Runtime: 97 minutes</li><li>Director: Christopher Landon</li><li>Genres: Comedy, Horror, Mystery</li><li>Budget: $4.8M</li><li>TMDB rating: 6.7/10 (6787 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jessica Rothe as Theresa &#x27;Tree&#x27; Gelbman</li><li>Israel Broussard as Carter Davis</li><li>Charles Aitken as Gregory Butler</li><li>Ruby Modine as Lori Spengler</li><li>Blaine Kern III as Nick Sims</li><li>Rachel Matthews as Danielle Bouseman</li><li>Billy Slaughter as Dr. Winter</li><li>Caleb Spillyards as Tim Bauer</li><li>Jimmy Gonzales as Police Officer</li><li>Jason Bayle as David Gelbman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Zee5, Amazon Video</li></ul>\n</article>",
+   "t": "Happy Death Day (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
   "movie:46221": {
@@ -2807,6 +3125,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Midnight Man (2016)</h1>\n<p class=\"ssr-lead\">A girl and her friends find a game in the attic that summons a creature known as The Midnight Man, who uses their worst fears against them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2016</li><li>Runtime: 95 minutes</li><li>Director: Travis Zariwny</li><li>Genres: Horror</li><li>TMDB rating: 5.8/10 (454 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gabrielle Haugh as Alex Luster</li><li>Grayson Gabriel as Miles</li><li>Lin Shaye as Anna</li><li>Robert Englund as Dr. Goodberry</li><li>Em Haine as Kelly</li><li>Louise Linton as Annie Luster</li><li>Abigail Pniowsky as Young Kelly</li><li>Michael Sirow as Alan</li><li>Summer H. Howell as Anna</li><li>Luca Villacis as Jaden</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Midnight Man (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:49521": {
+   "d": "Man of Steel (2013): Action/Adventure film. Story: A young boy learns that he has extraordinary powers… See cast, budget $225M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+   "industry": "world",
+   "k": "Man of Steel, Man of Steel movie, Man of Steel cast, Man of Steel story, Man of Steel box office collection, Man of Steel budget, Man of Steel review, Man of Steel rating, Man of Steel release date, Man of Steel trailer, Man of Steel Action, Man of Steel Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Shannon"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Lane"
+     },
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16824,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Man of Steel (2013): Action/Adventure film. Story: A young boy learns that he has extraordinary powers… See cast, budget $225M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zack Snyder"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49521",
+    "name": "Man of Steel",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-06-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49521"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Man of Steel (2013)</h1>\n<p class=\"ssr-lead\">A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 June 2013</li><li>Runtime: 143 minutes</li><li>Director: Zack Snyder</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $225M</li><li>TMDB rating: 6.7/10 (16824 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Henry Cavill as Clark Kent / Kal-El</li><li>Amy Adams as Lois Lane</li><li>Michael Shannon as General Zod</li><li>Diane Lane as Martha Kent</li><li>Russell Crowe as Jor-El</li><li>Antje Traue as Faora-Ul</li><li>Harry Lennix as General Swanwick</li><li>Richard Schiff as Dr. Emil Hamilton</li><li>Christopher Meloni as Colonel Nathan Hardy</li><li>Kevin Costner as Jonathan Kent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Man of Steel (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:50321": {
    "d": "Mars Needs Moms (2011): Adventure/Animation film. Story: When Martians suddenly abduct his mom, mischievous… See cast, budget $150M, and TMDB rating 6.0/10.",
@@ -3263,6 +3645,134 @@
    "t": "Ainbo: Spirit of the Amazon (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:621": {
+   "d": "Grease (1978): Romance/Comedy film. Story: Australian good girl Sandy and greaser Danny fell in… See cast, budget $6M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2SRJMIoJzABzgyGw01U6VbQbvJD.jpg",
+   "industry": "world",
+   "k": "Grease, Grease movie, Grease cast, Grease story, Grease box office collection, Grease budget, Grease review, Grease rating, Grease release date, Grease trailer, Grease Romance, Grease Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Olivia Newton-John"
+     },
+     {
+      "@type": "Person",
+      "name": "John Travolta"
+     },
+     {
+      "@type": "Person",
+      "name": "Stockard Channing"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Conaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Barry Pearl"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7922,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Grease (1978): Romance/Comedy film. Story: Australian good girl Sandy and greaser Danny fell in… See cast, budget $6M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Randal Kleiser"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2SRJMIoJzABzgyGw01U6VbQbvJD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=621",
+    "name": "Grease",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-06-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=621"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Grease (1978)</h1>\n<p class=\"ssr-lead\">Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they&#x27;re now in the same high school, will they be able to rekindle their romance despite their eccentric friends?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 June 1978</li><li>Runtime: 110 minutes</li><li>Director: Randal Kleiser</li><li>Genres: Romance, Comedy</li><li>Budget: $6M</li><li>TMDB rating: 7.4/10 (7922 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Olivia Newton-John as Sandy</li><li>John Travolta as Danny</li><li>Stockard Channing as Rizzo</li><li>Jeff Conaway as Kenickie</li><li>Barry Pearl as Doody</li><li>Michael Tucci as Sonny</li><li>Kelly Ward as Putzie</li><li>Didi Conn as Frenchy</li><li>Jamie Donnelly as Jan</li><li>Dinah Manoff as Marty</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Grease (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
+  },
+  "movie:68721": {
+   "d": "Iron Man 3 (2013): Action/Adventure film. Story: Plagued with worry and insomnia since saving New York… See cast, budget $200M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+   "industry": "world",
+   "k": "Iron Man 3, Iron Man 3 movie, Iron Man 3 cast, Iron Man 3 story, Iron Man 3 box office collection, Iron Man 3 budget, Iron Man 3 review, Iron Man 3 rating, Iron Man 3 release date, Iron Man 3 trailer, Iron Man 3 Action, Iron Man 3 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Downey Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Gwyneth Paltrow"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Cheadle"
+     },
+     {
+      "@type": "Person",
+      "name": "Guy Pearce"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebecca Hall"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24163,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Iron Man 3 (2013): Action/Adventure film. Story: Plagued with worry and insomnia since saving New York… See cast, budget $200M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shane Black"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=68721",
+    "name": "Iron Man 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-04-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=68721"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Man 3 (2013)</h1>\n<p class=\"ssr-lead\">Plagued with worry and insomnia since saving New York from destruction, Tony Stark, now, is more dependent on the suits that give him his Iron Man persona—so much so that every aspect of his life is affected, including his relationship with Pepper. After a malevolent enemy known as the Mandarin reduces his personal world to rubble, Tony must rely solely on instinct and ingenuity to avenge his losses and protect the people he loves, as he begins an odyssey of rebuilding and retribution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 April 2013</li><li>Runtime: 130 minutes</li><li>Director: Shane Black</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 6.9/10 (24163 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Downey Jr. as Tony Stark</li><li>Gwyneth Paltrow as Pepper Potts</li><li>Don Cheadle as Colonel James Rhodes</li><li>Guy Pearce as Aldrich Killian</li><li>Rebecca Hall as Maya Hansen</li><li>Jon Favreau as Happy Hogan</li><li>Ben Kingsley as Trevor Slattery</li><li>James Badge Dale as Savin</li><li>Stephanie Szostak as Brandt</li><li>Paul Bettany as Jarvis (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Iron Man 3 (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:70821": {
    "d": "Cyberbully (2011): Drama/TV Movie film. Story: A woman tries to help her teenage daughter when she… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/4QFh4odwCHpD3b6zr1Q3XY2GBF7.jpg",
@@ -3583,6 +4093,78 @@
    "t": "Family Switch (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
   },
+  "movie:80321": {
+   "d": "Madagascar 3: Europe's Most Wanted (2012): Animation/Family film. Story: Animal pals Alex, Marty, Melman, and Gloria are still… See cast and budget $145M.",
+   "img": "https://image.tmdb.org/t/p/w780/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
+   "industry": "world",
+   "k": "Madagascar 3: Europe's Most Wanted, Madagascar 3: Europe's Most Wanted movie, Madagascar 3: Europe's Most Wanted cast, Madagascar 3: Europe's Most Wanted story, Madagascar 3: Europe's Most Wanted box office collection, Madagascar 3: Europe's Most Wanted budget, Madagascar 3: Europe's Most Wanted review, Madagascar 3: Europe's Most Wanted rating, Madagascar 3: Europe's Most Wanted release date, Madagascar 3: Europe's Most Wanted trailer, Madagascar 3: Europe's Most Wanted Animation, Madagascar 3: Europe's Most Wanted Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Rock"
+     },
+     {
+      "@type": "Person",
+      "name": "David Schwimmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Jada Pinkett Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Sacha Baron Cohen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6822,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Madagascar 3: Europe's Most Wanted (2012): Animation/Family film. Story: Animal pals Alex, Marty, Melman, and Gloria are still… See cast and budget $145M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Eric Darnell"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom McGrath"
+     },
+     {
+      "@type": "Person",
+      "name": "Conrad Vernon"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=80321",
+    "name": "Madagascar 3: Europe's Most Wanted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-06-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=80321"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Madagascar 3: Europe&#x27;s Most Wanted (2012)</h1>\n<p class=\"ssr-lead\">Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York&#x27;s Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 June 2012</li><li>Runtime: 93 minutes</li><li>Director: Eric Darnell, Tom McGrath, Conrad Vernon</li><li>Genres: Animation, Family, Comedy, Adventure</li><li>Budget: $145M</li><li>TMDB rating: 6.7/10 (6822 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Alex (voice)</li><li>Chris Rock as Marty (voice)</li><li>David Schwimmer as Melman (voice)</li><li>Jada Pinkett Smith as Gloria (voice)</li><li>Sacha Baron Cohen as Julien (voice)</li><li>Cedric the Entertainer as Maurice (voice)</li><li>Andy Richter as Mort (voice)</li><li>Tom McGrath as Skipper / Policeman #1 (voice)</li><li>Frances McDormand as Chantel DuBois (voice)</li><li>Jessica Chastain as Gia (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Madagascar 3: Europe's Most Wanted (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:930921": {
    "d": "Strangeness (2022): Comedy/History film. Story: During a trip to Sicily in 1920, Luigi Pirandello… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
@@ -3646,6 +4228,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Strangeness (2022)</h1>\n<p class=\"ssr-lead\">During a trip to Sicily in 1920, Luigi Pirandello meets two gravediggers-turned-playwrights rehearsing a play with their amateur dramatics. Pirandello takes an interest in the odd couple, having been suffering from writer&#x27;s block while working on his eventual masterpiece, Six Characters in Search of an Author.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 October 2022</li><li>Runtime: 103 minutes</li><li>Director: Roberto Andò</li><li>Genres: Comedy, History, Drama</li><li>TMDB rating: 6.9/10 (367 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Toni Servillo as Luigi Pirandello</li><li>Salvatore Ficarra as Onofrio &quot;Nofrio&quot; Principato</li><li>Valentino Picone as Sebastiano &quot;Bastiano&quot; Vella</li><li>Giulia Andò as Santina</li><li>Rosario Lisma as Mimmo Casà</li><li>Donatella Finocchiaro as La balia</li><li>Aurora Quattrocchi as Maria Antonietta Portolano</li><li>Galatea Ranzi as La madre</li><li>Fausto Russo Alesi as Il padre</li><li>Filippo Luna as Il direttore di scena</li></ul>\n</article>",
    "t": "Strangeness (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:96721": {
+   "d": "Rush (2013): Drama/Action film. Story: In the 1970s, a rivalry propels race car drivers Niki… See cast, budget $38M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+   "industry": "world",
+   "k": "Rush, Rush movie, Rush cast, Rush story, Rush box office collection, Rush budget, Rush review, Rush rating, Rush release date, Rush trailer, Rush Drama, Rush Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Brühl"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Wilde"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Maria Lara"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierfrancesco Favino"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8169,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Rush (2013): Drama/Action film. Story: In the 1970s, a rivalry propels race car drivers Niki… See cast, budget $38M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Howard"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Drama",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=96721",
+    "name": "Rush",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-09-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=96721"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rush (2013)</h1>\n<p class=\"ssr-lead\">In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory — until a horrible accident threatens to end it all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2013</li><li>Runtime: 123 minutes</li><li>Director: Ron Howard</li><li>Genres: Drama, Action</li><li>Budget: $38M</li><li>TMDB rating: 7.7/10 (8169 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Hemsworth as James Hunt</li><li>Daniel Brühl as Niki Lauda</li><li>Olivia Wilde as Suzy Miller</li><li>Alexandra Maria Lara as Marlene Lauda</li><li>Pierfrancesco Favino as Clay Regazzoni</li><li>David Calder as Louis Stanley</li><li>Natalie Dormer as Nurse Gemma</li><li>Stephen Mangan as Alastair Caldwell</li><li>Christian McKay as Lord Hesketh</li><li>Alistair Petrie as Stirling Moss</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Zee5, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Rush (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:9821": {
    "d": "The Mighty (1998): Drama/Comedy film. Story: Kevin, an intelligent guy helps out Maxwell to… See cast, TMDB rating 7.2/10, and release date 30 October 1998.",

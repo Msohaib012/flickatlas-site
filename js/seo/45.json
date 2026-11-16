@@ -1,6 +1,6 @@
 {
  "bucket": "45",
- "count": 65,
+ "count": 71,
  "titles": {
   "movie:10445": {
    "d": "Shadowlands (1993): Drama/Romance film. Story: C.S. Lewis, a world-renowned writer and professor… See cast, budget $22M, and TMDB rating 6.9/10.",
@@ -130,6 +130,74 @@
    "t": "2001 Maniacs (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:109445": {
+   "d": "Frozen (2013): Animation/Family film. Story: Young princess Anna of Arendelle dreams about finding… See cast, budget $150M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+   "industry": "world",
+   "k": "Frozen, Frozen movie, Frozen cast, Frozen story, Frozen box office collection, Frozen budget, Frozen review, Frozen rating, Frozen release date, Frozen trailer, Frozen Animation, Frozen Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristen Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Idina Menzel"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Groff"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Gad"
+     },
+     {
+      "@type": "Person",
+      "name": "Santino Fontana"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 18083,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Frozen (2013): Animation/Family film. Story: Young princess Anna of Arendelle dreams about finding… See cast, budget $150M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Lee"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Buck"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=109445",
+    "name": "Frozen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-11-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=109445"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Frozen (2013)</h1>\n<p class=\"ssr-lead\">Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She&#x27;s accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 November 2013</li><li>Runtime: 102 minutes</li><li>Director: Jennifer Lee, Chris Buck</li><li>Genres: Animation, Family, Adventure, Fantasy</li><li>Budget: $150M</li><li>TMDB rating: 7.2/10 (18083 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Bell as Anna (voice)</li><li>Idina Menzel as Elsa (voice)</li><li>Jonathan Groff as Kristoff (voice)</li><li>Josh Gad as Olaf (voice)</li><li>Santino Fontana as Hans (voice)</li><li>Alan Tudyk as Duke (voice)</li><li>Ciarán Hinds as Pabbie / Grandpa (voice)</li><li>Chris Williams as Oaken (voice)</li><li>Stephen J. Anderson as Kai (voice)</li><li>Maia Wilson as Bulda (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Frozen (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:10945": {
    "d": "Jumpin' Jack Flash (1986): Romance/Comedy film. Story: Terry works for a bank, and uses computers to… See cast, budget $18M, and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/l9jj1CwgCWeCHE2rhzY5Hb0zXcZ.jpg",
@@ -193,6 +261,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Jumpin&#x27; Jack Flash (1986)</h1>\n<p class=\"ssr-lead\">Terry works for a bank, and uses computers to communicate with clients all over the world. One day, she gets a strange coded message from an unknown source. After decoding the message, Terry becomes embroiled in an espionage ring. People are killed, and Terry is chased. Throughout, she remains in contact with this mysterious person, who needs Terry&#x27;s help save his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 1986</li><li>Runtime: 105 minutes</li><li>Director: Penny Marshall</li><li>Genres: Romance, Comedy, Thriller</li><li>Budget: $18M</li><li>TMDB rating: 6.1/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Whoopi Goldberg as Terry Dolittle</li><li>Stephen Collins as Marty Phillips</li><li>John Wood as Jeremy Talbott</li><li>Carol Kane as Cynthia</li><li>Annie Potts as Liz Carlson</li><li>Peter Michael Goetz as Mr. Page</li><li>Roscoe Lee Browne as Archer Lincoln</li><li>Sara Botsford as Sarah Billings</li><li>Jeroen Krabbé as Mark Van Meter</li><li>Vyto Ruginis as Carl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Jumpin' Jack Flash (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
+  },
+  "movie:116745": {
+   "d": "The Secret Life of Walter Mitty (2013): Adventure/Comedy film. Story: A timid magazine photo manager who lives life… See cast and budget $90M.",
+   "img": "https://image.tmdb.org/t/p/w780/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg",
+   "industry": "world",
+   "k": "The Secret Life of Walter Mitty, The Secret Life of Walter Mitty movie, The Secret Life of Walter Mitty cast, The Secret Life of Walter Mitty story, The Secret Life of Walter Mitty box office collection, The Secret Life of Walter Mitty budget, The Secret Life of Walter Mitty review, The Secret Life of Walter Mitty rating, The Secret Life of Walter Mitty release date, The Secret Life of Walter Mitty trailer, The Secret Life of Walter Mitty Adventure, The Secret Life of Walter Mitty Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Wiig"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Penn"
+     },
+     {
+      "@type": "Person",
+      "name": "Shirley MacLaine"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Scott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8616,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Secret Life of Walter Mitty (2013): Adventure/Comedy film. Story: A timid magazine photo manager who lives life… See cast and budget $90M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=116745",
+    "name": "The Secret Life of Walter Mitty",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=116745"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Secret Life of Walter Mitty (2013)</h1>\n<p class=\"ssr-lead\">A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 December 2013</li><li>Runtime: 114 minutes</li><li>Director: Ben Stiller</li><li>Genres: Adventure, Comedy, Drama, Fantasy</li><li>Budget: $90M</li><li>TMDB rating: 7.2/10 (8616 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Walter Mitty</li><li>Kristen Wiig as Cheryl Melhoff</li><li>Sean Penn as Sean O&#x27;Connell</li><li>Shirley MacLaine as Edna Mitty</li><li>Adam Scott as Ted Hendricks</li><li>Kathryn Hahn as Odessa Mitty</li><li>Patton Oswalt as Todd Maher</li><li>Adrian Martinez as Hernando</li><li>Ólafur Darri Ólafsson as Helicopter Pilot</li><li>Gunnar Helgason as Hotel Keeper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Secret Life of Walter Mitty (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:1171145": {
    "d": "Crime 101 (2026): Crime/Thriller film. Story: When an elusive thief whose high-stakes heists unfold… See cast, budget $90M, and TMDB rating 7.0/10.",
@@ -325,6 +457,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fierce Creatures (1997)</h1>\n<p class=\"ssr-lead\">Ex-policeman Rollo Lee is sent to run Marwood Zoo, the newly acquired business of a New Zealand tycoon. In order to meet high profit targets and keep the zoo open, Rollo enforces a new &#x27;fierce creatures&#x27; policy, whereby only the most impressive and dangerous animals are allowed to remain in the zoo. However, the keepers are less enthusiastic about complying with these demands.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 January 1997</li><li>Runtime: 93 minutes</li><li>Director: Robert Young, Fred Schepisi</li><li>Genres: Comedy, Romance</li><li>Budget: $25M</li><li>TMDB rating: 6.2/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cleese as Rollo Lee</li><li>Jamie Lee Curtis as Willa Weston</li><li>Kevin Kline as Vince McCain / Rod McCain</li><li>Michael Palin as Adrian &quot;Bugsy&quot; Malone</li><li>Ronnie Corbett as Reggie</li><li>Carey Lowell as Cub</li><li>Robert Lindsay as Sydney Lotterby</li><li>Bille Brown as Neville Coltrane</li><li>Derek Griffiths as Gerry</li><li>Cynthia Cleese as Pip</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Fierce Creatures (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
+  },
+  "movie:12445": {
+   "d": "Harry Potter and the Deathly Hallows: Part 2 (2011): Adventure/Fantasy film. Story: Harry, Ron and Hermione continue their quest to… See cast and budget $125M.",
+   "img": "https://image.tmdb.org/t/p/w780/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
+   "industry": "world",
+   "k": "Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Deathly Hallows: Part 2 movie, Harry Potter and the Deathly Hallows: Part 2 cast, Harry Potter and the Deathly Hallows: Part 2 story, Harry Potter and the Deathly Hallows: Part 2 box office collection, Harry Potter and the Deathly Hallows: Part 2 budget, Harry Potter and the Deathly Hallows: Part 2 review, Harry Potter and the Deathly Hallows: Part 2 rating, Harry Potter and the Deathly Hallows: Part 2 release date, Harry Potter and the Deathly Hallows: Part 2 trailer, Harry Potter and the Deathly Hallows: Part 2 Adventure, Harry Potter and the Deathly Hallows: Part 2 Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Radcliffe"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Grint"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralph Fiennes"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Rickman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22747,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Harry Potter and the Deathly Hallows: Part 2 (2011): Adventure/Fantasy film. Story: Harry, Ron and Hermione continue their quest to… See cast and budget $125M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Yates"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=12445",
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-07-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=12445"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Harry Potter and the Deathly Hallows: Part 2 (2011)</h1>\n<p class=\"ssr-lead\">Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort&#x27;s formidable skills.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 July 2011</li><li>Runtime: 130 minutes</li><li>Director: David Yates</li><li>Genres: Adventure, Fantasy</li><li>Budget: $125M</li><li>TMDB rating: 8.1/10 (22747 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Radcliffe as Harry Potter</li><li>Emma Watson as Hermione Granger</li><li>Rupert Grint as Ron Weasley</li><li>Ralph Fiennes as Lord Voldemort</li><li>Alan Rickman as Severus Snape</li><li>Michael Gambon as Albus Dumbledore</li><li>Warwick Davis as Griphook / Filius Flitwick</li><li>Helena Bonham Carter as Bellatrix Lestrange</li><li>Ciarán Hinds as Aberforth Dumbledore</li><li>Matthew Lewis as Neville Longbottom</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Harry Potter and the Deathly Hallows: Part 2 (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:1288445": {
    "d": "Mutiny (2026): Action/Thriller film. Story: After witnessing his billionaire boss' murder and… See cast, budget $40M, and TMDB rating 7.6/10.",
@@ -1485,6 +1681,70 @@
    "t": "Cleveland Abduction (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:345": {
+   "d": "Eyes Wide Shut (1999): Drama/Thriller film. Story: After Dr. Bill Harford's wife, Alice, admits to… See cast, budget $65M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+   "industry": "world",
+   "k": "Eyes Wide Shut, Eyes Wide Shut movie, Eyes Wide Shut cast, Eyes Wide Shut story, Eyes Wide Shut box office collection, Eyes Wide Shut budget, Eyes Wide Shut review, Eyes Wide Shut rating, Eyes Wide Shut release date, Eyes Wide Shut trailer, Eyes Wide Shut Drama, Eyes Wide Shut Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Cruise"
+     },
+     {
+      "@type": "Person",
+      "name": "Nicole Kidman"
+     },
+     {
+      "@type": "Person",
+      "name": "Sydney Pollack"
+     },
+     {
+      "@type": "Person",
+      "name": "Marie Richardson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rade Šerbedžija"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7473,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Eyes Wide Shut (1999): Drama/Thriller film. Story: After Dr. Bill Harford's wife, Alice, admits to… See cast, budget $65M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stanley Kubrick"
+     }
+    ],
+    "duration": "PT159M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=345",
+    "name": "Eyes Wide Shut",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-07-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=345"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Eyes Wide Shut (1999)</h1>\n<p class=\"ssr-lead\">After Dr. Bill Harford&#x27;s wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 1999</li><li>Runtime: 159 minutes</li><li>Director: Stanley Kubrick</li><li>Genres: Drama, Thriller, Mystery</li><li>Budget: $65M</li><li>TMDB rating: 7.5/10 (7473 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Cruise as Dr. William Harford</li><li>Nicole Kidman as Alice Harford</li><li>Sydney Pollack as Victor Ziegler</li><li>Marie Richardson as Marion</li><li>Rade Šerbedžija as Milich</li><li>Todd Field as Nick Nightingale</li><li>Vinessa Shaw as Domino</li><li>Alan Cumming as Desk Clerk</li><li>Sky du Mont as Sandor Szavost</li><li>Fay Masterson as Sally</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Eyes Wide Shut (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:347945": {
    "d": "Synchronicity (2015): Mystery/Science Fiction film. Story: A daring physicist travels into the past to stop a… See cast and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/d3dDgrzE5DDR5vDe4qNbXmN57ey.jpg",
@@ -2633,6 +2893,133 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Deep Blue Sea 3 (2020)</h1>\n<p class=\"ssr-lead\">Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a &quot;scientific&quot; team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren&#x27;t just any bull sharks.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 August 2020</li><li>Runtime: 100 minutes</li><li>Director: John Pogue</li><li>Genres: Action, Horror, Science Fiction</li><li>Budget: $5M</li><li>TMDB rating: 5.6/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tania Raymonde as Emma Collins</li><li>Nathaniel Buzolic as Richard Lowell</li><li>Emerson Brooks as Eugene Shaw</li><li>Bren Foster as Lucas</li><li>Reina Aoi as Miya</li><li>Alexander Bhat as Spin</li><li>Siya Mayola as Bahari</li><li>Avumile Qongqo as Nandi</li><li>Brashaad Mayweather as Brown</li><li>Ernest St.Clair as Schill</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Deep Blue Sea 3 (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:7345": {
+   "d": "There Will Be Blood (2008): Drama film. Story: Ruthless silver miner, turned oil prospector, Daniel… See cast, budget $25M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+   "industry": "world",
+   "k": "There Will Be Blood, There Will Be Blood movie, There Will Be Blood cast, There Will Be Blood story, There Will Be Blood box office collection, There Will Be Blood budget, There Will Be Blood review, There Will Be Blood rating, There Will Be Blood release date, There Will Be Blood Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Day-Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Dano"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin J. O'Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Ciarán Hinds"
+     },
+     {
+      "@type": "Person",
+      "name": "Sydney McCallister"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7891,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "There Will Be Blood (2008): Drama film. Story: Ruthless silver miner, turned oil prospector, Daniel… See cast, budget $25M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Thomas Anderson"
+     }
+    ],
+    "duration": "PT158M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7345",
+    "name": "There Will Be Blood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7345"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>There Will Be Blood (2008)</h1>\n<p class=\"ssr-lead\">Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview&#x27;s motives and intentions, starting a slow-burning feud that threatens both their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2008</li><li>Runtime: 158 minutes</li><li>Director: Paul Thomas Anderson</li><li>Genres: Drama</li><li>Budget: $25M</li><li>TMDB rating: 8.1/10 (7891 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Day-Lewis as Daniel Plainview</li><li>Paul Dano as Paul Sunday / Eli Sunday</li><li>Kevin J. O&#x27;Connor as Henry</li><li>Ciarán Hinds as Fletcher Hamilton</li><li>Sydney McCallister as Mary Sunday (young)</li><li>Dillon Freasier as H.W. Plainview</li><li>Hope Elizabeth Reeves as Elizabeth</li><li>Colleen Foy as Mary Sunday</li><li>Barry Del Sherman as H. B. Ailman</li><li>David Willis as Abel Sunday</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "There Will Be Blood (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
+  "movie:745": {
+   "d": "The Sixth Sense (1999): Mystery/Thriller film. Story: Following an unexpected tragedy, child psychologist… See cast, budget $40M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+   "industry": "world",
+   "k": "The Sixth Sense, The Sixth Sense movie, The Sixth Sense cast, The Sixth Sense story, The Sixth Sense box office collection, The Sixth Sense budget, The Sixth Sense review, The Sixth Sense rating, The Sixth Sense release date, The Sixth Sense Mystery, The Sixth Sense Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Haley Joel Osment"
+     },
+     {
+      "@type": "Person",
+      "name": "Toni Collette"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Trevor Morgan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13614,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "The Sixth Sense (1999): Mystery/Thriller film. Story: Following an unexpected tragedy, child psychologist… See cast, budget $40M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "M. Night Shyamalan"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Mystery",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=745",
+    "name": "The Sixth Sense",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=745"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Sixth Sense (1999)</h1>\n<p class=\"ssr-lead\">Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 1999</li><li>Runtime: 107 minutes</li><li>Director: M. Night Shyamalan</li><li>Genres: Mystery, Thriller, Drama</li><li>Budget: $40M</li><li>TMDB rating: 8.0/10 (13614 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as Malcolm Crowe</li><li>Haley Joel Osment as Cole Sear</li><li>Toni Collette as Lynn Sear</li><li>Olivia Williams as Anna Crowe</li><li>Trevor Morgan as Tommy Tammisimo</li><li>Donnie Wahlberg as Vincent Gray</li><li>Peter Anthony Tambakis as Darren</li><li>Jeffrey Zubernis as Bobby</li><li>Bruce Norris as Stanley Cunningham</li><li>Glenn Fitzgerald as Sean</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, YouTube TV, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Sixth Sense (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
   },
   "movie:74945": {
    "d": "War of the Buttons (2011): Adventure/Family film. Story: Occupied France; Lebrac leads a play war between two… See cast and TMDB rating 5.9/10.",

@@ -1,6 +1,6 @@
 {
  "bucket": "13",
- "count": 56,
+ "count": 68,
  "titles": {
   "movie:10213": {
    "d": "From Dusk Till Dawn 3: The Hangman's Daughter (2000): Western/Horror film. Story: Set one hundred years ago, outlaw Johnny Madrid… See cast and budget $5M.",
@@ -322,6 +322,70 @@
    "t": "Street Fighter II: The Animated Movie (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
   },
+  "movie:13": {
+   "d": "Forrest Gump (1994): Comedy/Drama film. Story: A man with a low IQ has accomplished great things in… See cast, budget $55M, and TMDB rating 8.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+   "industry": "world",
+   "k": "Forrest Gump, Forrest Gump movie, Forrest Gump cast, Forrest Gump story, Forrest Gump box office collection, Forrest Gump budget, Forrest Gump review, Forrest Gump rating, Forrest Gump release date, Forrest Gump trailer, Forrest Gump Comedy, Forrest Gump Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Sinise"
+     },
+     {
+      "@type": "Person",
+      "name": "Sally Field"
+     },
+     {
+      "@type": "Person",
+      "name": "Mykelti Williamson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30899,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "Forrest Gump (1994): Comedy/Drama film. Story: A man with a low IQ has accomplished great things in… See cast, budget $55M, and TMDB rating 8.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Zemeckis"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13",
+    "name": "Forrest Gump",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-06-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Forrest Gump (1994)</h1>\n<p class=\"ssr-lead\">A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 June 1994</li><li>Runtime: 142 minutes</li><li>Director: Robert Zemeckis</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $55M</li><li>TMDB rating: 8.5/10 (30899 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Forrest Gump</li><li>Robin Wright as Jenny Curran</li><li>Gary Sinise as Lieutenant Dan Taylor</li><li>Sally Field as Mrs. Gump</li><li>Mykelti Williamson as Bubba Blue</li><li>Michael Conner Humphreys as Young Forrest Gump</li><li>Hanna Hall as Young Jenny Curran</li><li>Haley Joel Osment as Forrest Junior</li><li>Siobhan Fallon Hogan as School Bus Driver</li><li>Rebecca Williams as Nurse at Park Bench</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Forrest Gump (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
   "movie:1304313": {
    "d": "Lee Cronin's The Mummy (2026): Horror/Mystery film. Story: The young daughter of a journalist disappears into… See cast, budget $22M, and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
@@ -640,6 +704,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Day of the Dead (2008)</h1>\n<p class=\"ssr-lead\">When a small Colorado town is overrun by the flesh hungry dead, a small group of survivors try to escape in a last ditch effort to stay alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2008</li><li>Runtime: 86 minutes</li><li>Director: Steve Miner</li><li>Genres: Action, Horror, Science Fiction</li><li>Budget: $18M</li><li>TMDB rating: 5.2/10 (462 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mena Suvari as Sarah Bowman</li><li>Stark Sands as Bud Crain</li><li>Michael Welch as Trevor Bowman</li><li>AnnaLynne McCord as Nina</li><li>Nick Cannon as Salazar</li><li>Matt Rippy as Doctor Logan</li><li>Pat Kilbane as Scientist</li><li>Taylor Hoover as Local Girl</li><li>Christa Campbell as Mrs. Leitner</li><li>Ian McNeice as Paul - DJ</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Peacock Premium, Amazon Prime Video with Ads, Peacock Premium Plus, Shout! Factory Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
    "t": "Day of the Dead (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:137113": {
+   "d": "Edge of Tomorrow (2014): Action/Science Fiction film. Story: Major Bill Cage is an officer who has never seen a… See cast, budget $178M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+   "industry": "world",
+   "k": "Edge of Tomorrow, Edge of Tomorrow movie, Edge of Tomorrow cast, Edge of Tomorrow story, Edge of Tomorrow box office collection, Edge of Tomorrow budget, Edge of Tomorrow review, Edge of Tomorrow rating, Edge of Tomorrow release date, Edge of Tomorrow trailer, Edge of Tomorrow Action, Edge of Tomorrow Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Cruise"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Blunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Brendan Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Paxton"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonas Armstrong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15760,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Edge of Tomorrow (2014): Action/Science Fiction film. Story: Major Bill Cage is an officer who has never seen a… See cast, budget $178M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Doug Liman"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=137113",
+    "name": "Edge of Tomorrow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=137113"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Edge of Tomorrow (2014)</h1>\n<p class=\"ssr-lead\">Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2014</li><li>Runtime: 114 minutes</li><li>Director: Doug Liman</li><li>Genres: Action, Science Fiction</li><li>Budget: $178M</li><li>TMDB rating: 7.6/10 (15760 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Cruise as Cage</li><li>Emily Blunt as Rita</li><li>Brendan Gleeson as General Brigham</li><li>Bill Paxton as Master Sergeant Farell</li><li>Jonas Armstrong as Skinner</li><li>Tony Way as Kimmel</li><li>Kick Gurry as Griff</li><li>Franz Drameh as Ford</li><li>Dragomir Mrsic as Kuntz</li><li>Charlotte Riley as Nance</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Edge of Tomorrow (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:13713": {
    "d": "Jean-Philippe (2006): Comedy/Music film. Story: A bourgeois office drone whose raison d'être is the… See cast and TMDB rating 5.7/10.",
@@ -1409,6 +1537,70 @@
    "t": "Jungle Fever (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:1813": {
+   "d": "The Devil's Advocate (1997): Horror/Drama film. Story: Aspiring Florida defense lawyer Kevin Lomax accepts a… See cast, budget $57M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bFRyrzb16IqM8hTmxT0z1nCaqhr.jpg",
+   "industry": "world",
+   "k": "The Devil's Advocate, The Devil's Advocate movie, The Devil's Advocate cast, The Devil's Advocate story, The Devil's Advocate box office collection, The Devil's Advocate budget, The Devil's Advocate review, The Devil's Advocate rating, The Devil's Advocate release date, The Devil's Advocate trailer, The Devil's Advocate Horror, The Devil's Advocate Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlize Theron"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Judith Ivey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7197,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Devil's Advocate (1997): Horror/Drama film. Story: Aspiring Florida defense lawyer Kevin Lomax accepts a… See cast, budget $57M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taylor Hackford"
+     }
+    ],
+    "duration": "PT144M",
+    "genre": [
+     "Horror",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bFRyrzb16IqM8hTmxT0z1nCaqhr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1813",
+    "name": "The Devil's Advocate",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-10-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1813"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Devil&#x27;s Advocate (1997)</h1>\n<p class=\"ssr-lead\">Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 October 1997</li><li>Runtime: 144 minutes</li><li>Director: Taylor Hackford</li><li>Genres: Horror, Drama, Mystery</li><li>Budget: $57M</li><li>TMDB rating: 7.5/10 (7197 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as Kevin Lomax</li><li>Al Pacino as John Milton</li><li>Charlize Theron as Mary Ann Lomax</li><li>Jeffrey Jones as Eddie Barzoon</li><li>Judith Ivey as Mrs. Lomax</li><li>Connie Nielsen as Christabella</li><li>Craig T. Nelson as Alexander Cullen</li><li>Tamara Tunie as Jackie Heath</li><li>Ruben Santiago-Hudson as Leamon Heath</li><li>Debra Monk as Pam Garrety</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Devil's Advocate (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
+  },
   "movie:193613": {
    "d": "Metallica: Through the Never (2013): Music film. Story: Trip, a young roadie for Metallica, is sent on an… See cast, budget $18M, and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/AfFy1kSasTQcDwJbbTFalwc4fdH.jpg",
@@ -1536,6 +1728,70 @@
    "t": "Ugly, Dirty and Bad (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1976"
   },
+  "movie:19913": {
+   "d": "(500) Days of Summer (2009): Comedy/Drama film. Story: Tom, greeting-card writer and hopeless romantic, is… See cast, budget $7.5M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+   "industry": "world",
+   "k": "(500) Days of Summer, (500) Days of Summer movie, (500) Days of Summer cast, (500) Days of Summer story, (500) Days of Summer box office collection, (500) Days of Summer budget, (500) Days of Summer review, (500) Days of Summer rating, (500) Days of Summer release date, (500) Days of Summer trailer, (500) Days of Summer Comedy, (500) Days of Summer Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joseph Gordon-Levitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Zooey Deschanel"
+     },
+     {
+      "@type": "Person",
+      "name": "Geoffrey Arend"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloë Grace Moretz"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew Gray Gubler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11446,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "(500) Days of Summer (2009): Comedy/Drama film. Story: Tom, greeting-card writer and hopeless romantic, is… See cast, budget $7.5M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marc Webb"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19913",
+    "name": "(500) Days of Summer",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-07-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19913"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>(500) Days of Summer (2009)</h1>\n<p class=\"ssr-lead\">Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 July 2009</li><li>Runtime: 95 minutes</li><li>Director: Marc Webb</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $7.5M</li><li>TMDB rating: 7.3/10 (11446 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joseph Gordon-Levitt as Tom</li><li>Zooey Deschanel as Summer</li><li>Geoffrey Arend as McKenzie</li><li>Chloë Grace Moretz as Rachel</li><li>Matthew Gray Gubler as Paul</li><li>Clark Gregg as Vance</li><li>Patricia Belcher as Millie</li><li>Rachel Boston as Alison</li><li>Minka Kelly as Autumn</li><li>Charles Walker as Millie&#x27;s New Husband</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "(500) Days of Summer (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:2313": {
    "d": "Prime (2005): Comedy/Drama film. Story: A career driven professional from Manhattan is wooed… See cast, budget $22M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/jEMWkXiEJ2Xe0a1G4ArIVlL504I.jpg",
@@ -1600,6 +1856,70 @@
    "t": "Prime (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:238713": {
+   "d": "Spy (2015): Action/Comedy film. Story: A desk-bound CIA analyst volunteers to go undercover… See cast, budget $65M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eHEGPHKHTVhWdXzBQcrTATz9M0I.jpg",
+   "industry": "world",
+   "k": "Spy, Spy movie, Spy cast, Spy story, Spy box office collection, Spy budget, Spy review, Spy rating, Spy release date, Spy trailer, Spy Action, Spy Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Melissa McCarthy"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose Byrne"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Statham"
+     },
+     {
+      "@type": "Person",
+      "name": "Jude Law"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Hart"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6617,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Spy (2015): Action/Comedy film. Story: A desk-bound CIA analyst volunteers to go undercover… See cast, budget $65M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Feig"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eHEGPHKHTVhWdXzBQcrTATz9M0I.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=238713",
+    "name": "Spy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-05-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=238713"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spy (2015)</h1>\n<p class=\"ssr-lead\">A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 May 2015</li><li>Runtime: 120 minutes</li><li>Director: Paul Feig</li><li>Genres: Action, Comedy, Crime</li><li>Budget: $65M</li><li>TMDB rating: 6.8/10 (6617 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Melissa McCarthy as Susan Cooper</li><li>Rose Byrne as Raina Boyanov</li><li>Jason Statham as Rick Ford</li><li>Jude Law as Bradley Fine</li><li>Miranda Hart as Nancy B. Artingstall</li><li>Allison Janney as Elaine Crocker</li><li>Bobby Cannavale as Sergio De Luca</li><li>Peter Serafinowicz as Aldo</li><li>Morena Baccarin as Karen Walker</li><li>Raad Rawi as Tihomir Boyanov</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Spy (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:24913": {
    "d": "April Fool's Day (1986): Horror/Mystery film. Story: On April Fool's Day weekend, a group of college… See cast, budget $5M, and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/lLxz3D3LBhyO3q9F0eBqSjepoD4.jpg",
@@ -1663,6 +1983,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>April Fool&#x27;s Day (1986)</h1>\n<p class=\"ssr-lead\">On April Fool&#x27;s Day weekend, a group of college friends gather together at a secluded island mansion to celebrate their final year of school, where they soon become prey for an unseen murderer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 March 1986</li><li>Runtime: 89 minutes</li><li>Director: Fred Walton</li><li>Genres: Horror, Mystery</li><li>Budget: $5M</li><li>TMDB rating: 6.0/10 (407 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amy Steel as Kit Graham</li><li>Ken Olandt as Rob Ferris</li><li>Deborah Foreman as Muffy / Buffy St. John</li><li>Deborah Goodrich as Nikki Beshears</li><li>Clayton Rohner as Chaz Vyshinski</li><li>Thomas F. Wilson as Arch Cummings</li><li>Jay Baker as Harvey &#x27;Hal&#x27; Edison</li><li>Leah Pinsent as Nan Youngblood</li><li>Griffin O&#x27;Neal as Skip St. John</li><li>Tom Heaton as Constable Potter / Uncle Frank</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "April Fool's Day (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
+  },
+  "movie:260513": {
+   "d": "Incredibles 2 (2018): Action/Adventure film. Story: Elastigirl springs into action to save the day, while… See cast, budget $200M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+   "industry": "world",
+   "k": "Incredibles 2, Incredibles 2 movie, Incredibles 2 cast, Incredibles 2 story, Incredibles 2 box office collection, Incredibles 2 budget, Incredibles 2 review, Incredibles 2 rating, Incredibles 2 release date, Incredibles 2 trailer, Incredibles 2 Action, Incredibles 2 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Craig T. Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Holly Hunter"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Vowell"
+     },
+     {
+      "@type": "Person",
+      "name": "Huck Milner"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Keener"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14089,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Incredibles 2 (2018): Action/Adventure film. Story: Elastigirl springs into action to save the day, while… See cast, budget $200M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brad Bird"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=260513",
+    "name": "Incredibles 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-06-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=260513"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Incredibles 2 (2018)</h1>\n<p class=\"ssr-lead\">Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 June 2018</li><li>Runtime: 118 minutes</li><li>Director: Brad Bird</li><li>Genres: Action, Adventure, Animation, Family</li><li>Budget: $200M</li><li>TMDB rating: 7.5/10 (14089 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Craig T. Nelson as Bob Parr / Mr. Incredible (voice)</li><li>Holly Hunter as Helen Parr / Elastigirl (voice)</li><li>Sarah Vowell as Violet Parr (voice)</li><li>Huck Milner as Dashiell &#x27;Dash&#x27; Parr (voice)</li><li>Catherine Keener as Evelyn Deavor (voice)</li><li>Eli Fucile as Jack-Jack Parr (voice)</li><li>Bob Odenkirk as Winston Deavor (voice)</li><li>Samuel L. Jackson as Lucius Best / Frozone (voice)</li><li>Michael Bird as Tony Rydinger (voice)</li><li>Sophia Bush as Voyd (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Incredibles 2 (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:27813": {
    "d": "Basket Case (1982): Horror/Comedy film. Story: A young man carrying a big basket that contains his… See cast, budget $35.0k, and TMDB rating 6.2/10.",
@@ -1854,6 +2238,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Horror Express (1972)</h1>\n<p class=\"ssr-lead\">Mysterious and unearthly deaths start to occur while Professor Saxton is transporting the frozen remains of a primitive humanoid creature he found in Manchuria back to Europe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 1972</li><li>Runtime: 87 minutes</li><li>Director: Eugenio Martín</li><li>Genres: Horror</li><li>Budget: $300.0k</li><li>TMDB rating: 6.3/10 (356 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christopher Lee as Prof. Sir Alexander Saxton</li><li>Peter Cushing as Dr. Wells</li><li>Telly Savalas as Captain Kazan</li><li>Alberto de Mendoza as Father Pujardov</li><li>Silvia Tortosa as Countess Irina Petrovska</li><li>Julio Peña as Inspector Mirov</li><li>Ángel del Pozo as Yevtushenko</li><li>Helga Liné as Natasha</li><li>Alice Reinheart as Miss Jones</li><li>José Jaspe as Conductor Koniev</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Bloodstream</li></ul>\n</article>",
    "t": "Horror Express (1972) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1972"
+  },
+  "movie:341013": {
+   "d": "Atomic Blonde (2017): Action/Thriller film. Story: An undercover MI6 agent is sent to Berlin during the… See cast, budget $30M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
+   "industry": "world",
+   "k": "Atomic Blonde, Atomic Blonde movie, Atomic Blonde cast, Atomic Blonde story, Atomic Blonde box office collection, Atomic Blonde budget, Atomic Blonde review, Atomic Blonde rating, Atomic Blonde release date, Atomic Blonde trailer, Atomic Blonde Action, Atomic Blonde Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Charlize Theron"
+     },
+     {
+      "@type": "Person",
+      "name": "James McAvoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Marsan"
+     },
+     {
+      "@type": "Person",
+      "name": "John Goodman"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6865,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Atomic Blonde (2017): Action/Thriller film. Story: An undercover MI6 agent is sent to Berlin during the… See cast, budget $30M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Leitch"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=341013",
+    "name": "Atomic Blonde",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-07-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=341013"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Atomic Blonde (2017)</h1>\n<p class=\"ssr-lead\">An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 July 2017</li><li>Runtime: 115 minutes</li><li>Director: David Leitch</li><li>Genres: Action, Thriller</li><li>Budget: $30M</li><li>TMDB rating: 6.4/10 (6865 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Charlize Theron as Lorraine Broughton</li><li>James McAvoy as David Percival</li><li>Eddie Marsan as Spyglass</li><li>John Goodman as Emmett Kurzfeld</li><li>Toby Jones as Eric Gray</li><li>James Faulkner as Chief &quot;C&quot;</li><li>Roland Møller as Aleksander Bremovych</li><li>Sofia Boutella as Delphine Lasalle</li><li>Bill Skarsgård as Merkel</li><li>Sam Hargrave as James Gasciogne</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Atomic Blonde (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:391713": {
+   "d": "Lady Bird (2017): Drama/Comedy film. Story: Lady Bird McPherson, a strong willed, deeply… See cast, budget $10M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/gDcu0DkF7atjWbJtfpw43yZrNoq.jpg",
+   "industry": "world",
+   "k": "Lady Bird, Lady Bird movie, Lady Bird cast, Lady Bird story, Lady Bird box office collection, Lady Bird budget, Lady Bird review, Lady Bird rating, Lady Bird release date, Lady Bird trailer, Lady Bird Drama, Lady Bird Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurie Metcalf"
+     },
+     {
+      "@type": "Person",
+      "name": "Tracy Letts"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Hedges"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothée Chalamet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9273,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Lady Bird (2017): Drama/Comedy film. Story: Lady Bird McPherson, a strong willed, deeply… See cast, budget $10M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Greta Gerwig"
+     }
+    ],
+    "duration": "PT94M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gDcu0DkF7atjWbJtfpw43yZrNoq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=391713",
+    "name": "Lady Bird",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-09-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=391713"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lady Bird (2017)</h1>\n<p class=\"ssr-lead\">Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 2017</li><li>Runtime: 94 minutes</li><li>Director: Greta Gerwig</li><li>Genres: Drama, Comedy</li><li>Budget: $10M</li><li>TMDB rating: 7.2/10 (9273 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saoirse Ronan as Lady Bird McPherson</li><li>Laurie Metcalf as Marion McPherson</li><li>Tracy Letts as Larry McPherson</li><li>Lucas Hedges as Danny O&#x27;Neill</li><li>Timothée Chalamet as Kyle Sheible</li><li>Beanie Feldstein as Julie Steffans</li><li>Lois Smith as Sister Sarah Joan</li><li>Stephen McKinley Henderson as Father Leviatch</li><li>Odeya Rush as Jenna Walton</li><li>Jordan Rodrigues as Miguel McPherson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Zee5, Amazon Video</li></ul>\n</article>",
+   "t": "Lady Bird (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:39513": {
+   "d": "Paul (2011): Adventure/Comedy film. Story: For the past 60 years, a space-traveling smart-ass… See cast, budget $40M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
+   "industry": "world",
+   "k": "Paul, Paul movie, Paul cast, Paul story, Paul box office collection, Paul budget, Paul review, Paul rating, Paul release date, Paul trailer, Paul Adventure, Paul Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Pegg"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Frost"
+     },
+     {
+      "@type": "Person",
+      "name": "Seth Rogen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Wiig"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6565,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Paul (2011): Adventure/Comedy film. Story: For the past 60 years, a space-traveling smart-ass… See cast, budget $40M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Greg Mottola"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39513",
+    "name": "Paul",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39513"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Paul (2011)</h1>\n<p class=\"ssr-lead\">For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he’s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 June 2011</li><li>Runtime: 104 minutes</li><li>Director: Greg Mottola</li><li>Genres: Adventure, Comedy, Science Fiction</li><li>Budget: $40M</li><li>TMDB rating: 6.8/10 (6565 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Pegg as Graeme Willy</li><li>Nick Frost as Clive Gollings</li><li>Seth Rogen as Paul (voice)</li><li>Jason Bateman as Agent Zoil</li><li>Kristen Wiig as Ruth Buggs</li><li>Bill Hader as Haggard</li><li>Blythe Danner as Tara Walton</li><li>Joe Lo Truglio as O&#x27;Reilly</li><li>John Carroll Lynch as Moses Buggs</li><li>Jane Lynch as Pat Stevenson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Paul (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:401513": {
    "d": "Attraction (2017): Drama/Romance film. Story: After an alien ship crash lands in a Russian city… See cast, budget $5.03M, and TMDB rating 6.7/10.",
@@ -2047,6 +2623,70 @@
    "t": "Christmas Wedding Planner (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:49013": {
+   "d": "Cars 2 (2011): Animation/Family film. Story: Star race car Lightning McQueen and his pal Mater… See cast, budget $200M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/robYRZk9LxJTwD7GlZCginji5k.jpg",
+   "industry": "world",
+   "k": "Cars 2, Cars 2 movie, Cars 2 cast, Cars 2 story, Cars 2 box office collection, Cars 2 budget, Cars 2 review, Cars 2 rating, Cars 2 release date, Cars 2 trailer, Cars 2 Animation, Cars 2 Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Larry the Cable Guy"
+     },
+     {
+      "@type": "Person",
+      "name": "Owen Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Caine"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Mortimer"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzy Eddie Izzard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8847,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Cars 2 (2011): Animation/Family film. Story: Star race car Lightning McQueen and his pal Mater… See cast, budget $200M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Lasseter"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/robYRZk9LxJTwD7GlZCginji5k.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49013",
+    "name": "Cars 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49013"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cars 2 (2011)</h1>\n<p class=\"ssr-lead\">Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 June 2011</li><li>Runtime: 106 minutes</li><li>Director: John Lasseter</li><li>Genres: Animation, Family, Adventure, Comedy</li><li>Budget: $200M</li><li>TMDB rating: 6.2/10 (8847 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Larry the Cable Guy as Mater (voice)</li><li>Owen Wilson as Lightning McQueen (voice)</li><li>Michael Caine as Finn McMissile (voice)</li><li>Emily Mortimer as Holley Shiftwell (voice)</li><li>Suzy Eddie Izzard as Sir Miles Axlerod (voice)</li><li>John Turturro as Francesco Bernoulli (voice)</li><li>Brent Musburger as Brent Mustangburger (voice)</li><li>Joe Mantegna as Grem (voice)</li><li>Thomas Kretschmann as Professor Z (voice)</li><li>Peter Jacobson as Acer (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Cars 2 (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:565413": {
    "d": "The King's Musketeers (2018): Adventure/Comedy film. Story: In 17th-century France, the Queen brings the Three… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/2EHwNBnzz48p1v7DXqAc9S2ylLc.jpg",
@@ -2173,6 +2813,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Honeyland (2019)</h1>\n<p class=\"ssr-lead\">When nomadic beekeepers break Honeyland’s basic rule (take half of the honey, but leave half to the bees), the last female beehunter in Europe must save the bees and restore natural balance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 July 2019</li><li>Runtime: 89 minutes</li><li>Director: Ljubomir Stefanov, Tamara Kotevska</li><li>Genres: Documentary</li><li>TMDB rating: 7.9/10 (317 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hatidzhe Muratova as Self</li><li>Nazife Muratova as Self</li><li>Hussein Sam as Self</li><li>Ljutvie Sam as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Honeyland (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:62213": {
+   "d": "Dark Shadows (2012): Comedy/Fantasy film. Story: Vampire Barnabas Collins is inadvertently freed from… See cast, budget $150M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cJYerfZVf2rNwfGMK3MQ8lTbMnY.jpg",
+   "industry": "world",
+   "k": "Dark Shadows, Dark Shadows movie, Dark Shadows cast, Dark Shadows story, Dark Shadows box office collection, Dark Shadows budget, Dark Shadows review, Dark Shadows rating, Dark Shadows release date, Dark Shadows Comedy, Dark Shadows Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Pfeiffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloë Grace Moretz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7841,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Dark Shadows (2012): Comedy/Fantasy film. Story: Vampire Barnabas Collins is inadvertently freed from… See cast, budget $150M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Burton"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cJYerfZVf2rNwfGMK3MQ8lTbMnY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=62213",
+    "name": "Dark Shadows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-05-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=62213"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dark Shadows (2012)</h1>\n<p class=\"ssr-lead\">Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 May 2012</li><li>Runtime: 113 minutes</li><li>Director: Tim Burton</li><li>Genres: Comedy, Fantasy</li><li>Budget: $150M</li><li>TMDB rating: 6.1/10 (7841 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Depp as Barnabas Collins</li><li>Michelle Pfeiffer as Elizabeth Collins Stoddard</li><li>Eva Green as Angelique Bouchard</li><li>Helena Bonham Carter as Dr. Julia Hoffman</li><li>Chloë Grace Moretz as Carolyn Stoddard</li><li>Bella Heathcote as Victoria Winters / Josette DuPres</li><li>Gulliver McGrath as David Collins</li><li>Jackie Earle Haley as Willie Loomis</li><li>Jonny Lee Miller as Roger Collins</li><li>Ray Shirley as Mrs. Johnson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Dark Shadows (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:664413": {
+   "d": "365 Days (2020): Romance/Drama film. Story: A woman falls victim to a dominant mafia boss, who… See cast, budget $5M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+   "industry": "world",
+   "k": "365 Days, 365 Days movie, 365 Days cast, 365 Days story, 365 Days box office collection, 365 Days budget, 365 Days review, 365 Days rating, 365 Days release date, 365 Days Romance, 365 Days Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna-Maria Sieklucka"
+     },
+     {
+      "@type": "Person",
+      "name": "Michele Morrone"
+     },
+     {
+      "@type": "Person",
+      "name": "Bronisław Wrocławski"
+     },
+     {
+      "@type": "Person",
+      "name": "Otar Saralidze"
+     },
+     {
+      "@type": "Person",
+      "name": "Magdalena Lamparska"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9632,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "365 Days (2020): Romance/Drama film. Story: A woman falls victim to a dominant mafia boss, who… See cast, budget $5M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Barbara Białowąs"
+     },
+     {
+      "@type": "Person",
+      "name": "Tomasz Mandes"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Romance",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=664413",
+    "name": "365 Days",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=664413"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>365 Days (2020)</h1>\n<p class=\"ssr-lead\">A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2020</li><li>Runtime: 114 minutes</li><li>Director: Barbara Białowąs, Tomasz Mandes</li><li>Genres: Romance, Drama, Crime</li><li>Budget: $5M</li><li>TMDB rating: 7.0/10 (9632 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna-Maria Sieklucka as Laura Biel</li><li>Michele Morrone as Don Massimo Torricelli</li><li>Bronisław Wrocławski as Mario</li><li>Otar Saralidze as Domenico</li><li>Magdalena Lamparska as Olga</li><li>Natasza Urbańska as Anna</li><li>Grażyna Szapołowska as Mama Laury</li><li>Tomasz Stockinger as Ojciec Laury</li><li>Gianni Parisi as Ojciec Massimo</li><li>Mateusz Łasowski as Martin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "365 Days (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:680813": {
    "d": "Flee (2021): Documentary/Animation film. Story: Recounted mostly through animation to protect his… See cast, budget $3.4M, and TMDB rating 7.7/10.",

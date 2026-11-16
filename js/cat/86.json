@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 64,
+ "count": 71,
  "titles": {
   "movie:1064486": {
    "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
@@ -1958,6 +1958,234 @@
    "vote_average": 6.4,
    "vote_count": 485
   },
+  "movie:181886": {
+   "backdrop_path": "/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+   "budget": 3500000,
+   "cast": [
+    {
+     "c": "Adam / Anthony",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Mary",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "Helen",
+     "n": "Sarah Gadon"
+    },
+    {
+     "c": "Mother",
+     "n": "Isabella Rossellini"
+    },
+    {
+     "c": "Teacher at School",
+     "n": "Joshua Peace"
+    },
+    {
+     "c": "Anthony's Concierge",
+     "n": "Tim Post"
+    },
+    {
+     "c": "Security Guard",
+     "n": "Kedar Brown"
+    },
+    {
+     "c": "Video Store Clerk",
+     "n": "Darryl Dinn"
+    },
+    {
+     "c": "Lady in the Dark Room",
+     "n": "Misha Highstead"
+    },
+    {
+     "c": "Lady in the Dark Room",
+     "n": "Megan Mane"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 181886,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "FR",
+    "ES"
+   ],
+   "original_language": "en",
+   "overview": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+   "popularity": 6.2012,
+   "poster_path": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+   "production_countries": [
+    "CA",
+    "FR",
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "Curzon Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-03-14",
+   "revenue": 3396726,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't escape yourself.",
+   "title": "Enemy",
+   "trailer": {
+    "key": "aVvgt3jIUsc",
+    "name": "Enemy | Official Trailer HD | A24",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.839,
+   "vote_count": 6702
+  },
   "movie:19186": {
    "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
    "budget": 0,
@@ -2727,6 +2955,129 @@
    "vote_average": 6.232,
    "vote_count": 487
   },
+  "movie:244786": {
+   "backdrop_path": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+   "budget": 3300000,
+   "cast": [
+    {
+     "c": "Andrew",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Fletcher",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Jim",
+     "n": "Paul Reiser"
+    },
+    {
+     "c": "Nicole",
+     "n": "Melissa Benoist"
+    },
+    {
+     "c": "Ryan",
+     "n": "Austin Stowell"
+    },
+    {
+     "c": "Carl",
+     "n": "Nate Lang"
+    },
+    {
+     "c": "Uncle Frank",
+     "n": "Chris Mulkey"
+    },
+    {
+     "c": "Mr. Kramer",
+     "n": "Damon Gupton"
+    },
+    {
+     "c": "Aunt Emma",
+     "n": "Suanne Spoke"
+    },
+    {
+     "c": "Dorm Neighbor",
+     "n": "Max Kasch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Damien Chazelle"
+   ],
+   "genres": [
+    "Drama",
+    "Music",
+    "Thriller"
+   ],
+   "id": 244786,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+   "popularity": 29.16,
+   "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-10",
+   "revenue": 50307484,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Do your best, he said…",
+   "title": "Whiplash",
+   "trailer": {
+    "key": "Q7kZy3T6vRM",
+    "name": "10th Anniversary Rerelease Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.376,
+   "vote_count": 17400
+  },
   "movie:27586": {
    "backdrop_path": "/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
    "budget": 10000000,
@@ -3099,6 +3450,149 @@
    "vote_average": 7.262,
    "vote_count": 424
   },
+  "movie:324786": {
+   "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Desmond T. Doss",
+     "n": "Andrew Garfield"
+    },
+    {
+     "c": "Captain Glover",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Sgt Howell",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Dorothy Schuttle",
+     "n": "Teresa Palmer"
+    },
+    {
+     "c": "Smitty Ryker",
+     "n": "Luke Bracey"
+    },
+    {
+     "c": "Tom Doss",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Bertha Doss",
+     "n": "Rachel Griffiths"
+    },
+    {
+     "c": "Lieutenant Manville",
+     "n": "Ryan Corr"
+    },
+    {
+     "c": "Colonel Stelzer",
+     "n": "Richard Roxburgh"
+    },
+    {
+     "c": "Andy 'Ghoul' Walker",
+     "n": "Goran D. Kleut"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mel Gibson"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 324786,
+   "industry": "world",
+   "origin_country": [
+    "AU",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+   "popularity": 19.4302,
+   "poster_path": "/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+   "production_countries": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-12-16",
+   "revenue": 175302354,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One of the greatest heroes in American history never fired a bullet.",
+   "title": "Hacksaw Ridge",
+   "trailer": {
+    "key": "s2-1hz1juBI",
+    "name": "Hacksaw Ridge (2016) Official Trailer – “Believe” - Andrew Garfield",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.192,
+   "vote_count": 15522
+  },
   "movie:333386": {
    "backdrop_path": "/nVR9pzRNznccuOzX6KAyoMTbpLO.jpg",
    "budget": 10000000,
@@ -3287,6 +3781,193 @@
    "vote_average": 5.439,
    "vote_count": 387
   },
+  "movie:351286": {
+   "backdrop_path": "/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Owen Grady",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Claire Dearing",
+     "n": "Bryce Dallas Howard"
+    },
+    {
+     "c": "Eli Mills",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Franklin Webb",
+     "n": "Justice Smith"
+    },
+    {
+     "c": "Zia Rodriguez",
+     "n": "Daniella Pineda"
+    },
+    {
+     "c": "Benjamin Lockwood",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Mr. Eversoll",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Ken Wheatley",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "Ian Malcolm",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Dr. Wu",
+     "n": "BD Wong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "J. A. Bayona"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 351286,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+   "popularity": 11.3933,
+   "poster_path": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-06-08",
+   "revenue": 1310469037,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The park is gone.",
+   "title": "Jurassic World: Fallen Kingdom",
+   "trailer": {
+    "key": "1FJD7jZqZEk",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.518,
+   "vote_count": 13162
+  },
   "movie:352186": {
    "backdrop_path": "/8k7hVAUsMuJqZIRtd6T4Ewo8vfq.jpg",
    "budget": 0,
@@ -3415,6 +4096,237 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 340
+  },
+  "movie:353486": {
+   "backdrop_path": "/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Spencer",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Fridge",
+     "n": "Kevin Hart"
+    },
+    {
+     "c": "Bethany",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Martha",
+     "n": "Karen Gillan"
+    },
+    {
+     "c": "Nigel",
+     "n": "Rhys Darby"
+    },
+    {
+     "c": "Van Pelt",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Alex",
+     "n": "Nick Jonas"
+    },
+    {
+     "c": "Young Spencer",
+     "n": "Alex Wolff"
+    },
+    {
+     "c": "Young Fridge",
+     "n": "Ser'Darius Blain"
+    },
+    {
+     "c": "Young Bethany",
+     "n": "Madison Iseman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jake Kasdan"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 353486,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
+   "popularity": 12.6225,
+   "poster_path": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-12-29",
+   "revenue": 995339117,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The game has evolved.",
+   "title": "Jumanji: Welcome to the Jungle",
+   "trailer": {
+    "key": "10VphsyJhbU",
+    "name": "Official Blu-ray and Digital Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.822,
+   "vote_count": 14935
   },
   "movie:353686": {
    "backdrop_path": "/cY2NRhbnAH4AqeVGZ80EeCzbhoz.jpg",
@@ -3614,6 +4526,141 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 329
+  },
+  "movie:37686": {
+   "backdrop_path": "/x6Dr9i6vhWICxs7hnX2BakcMtPd.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Joe Lamb",
+     "n": "Joel Courtney"
+    },
+    {
+     "c": "Alice Dainard",
+     "n": "Elle Fanning"
+    },
+    {
+     "c": "Charles Kaznyk",
+     "n": "Riley Griffiths"
+    },
+    {
+     "c": "Jackson Lamb",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Nelec",
+     "n": "Noah Emmerich"
+    },
+    {
+     "c": "Jen Kaznyk",
+     "n": "AJ Michalka"
+    },
+    {
+     "c": "Cary McCarthy",
+     "n": "Ryan Lee"
+    },
+    {
+     "c": "Louis Dainard",
+     "n": "Ron Eldard"
+    },
+    {
+     "c": "Martin Read",
+     "n": "Gabriel Basso"
+    },
+    {
+     "c": "Cooper",
+     "n": "Bruce Greenwood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.J. Abrams"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+   ],
+   "id": 37686,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In late 1970s Ohio, a group of friends filming a homemade zombie movie witness a devastating train derailment. Soon after, their quiet town is gripped by unexplained disappearances, strange phenomena, and a growing sense of fear, as they uncover that something terrifying has been set loose.",
+   "popularity": 5.9038,
+   "poster_path": "/pUWIjaMMYJjeBm5bJyE3mIXdQ62.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-06-09",
+   "revenue": 260100000,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It arrives.",
+   "title": "Super 8",
+   "trailer": {
+    "key": "US1E9i6BpUw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.783,
+   "vote_count": 7399
   },
   "movie:39386": {
    "backdrop_path": "/wIK3PmfQFLISrFl455tq99kkVBW.jpg",
@@ -4308,6 +5355,180 @@
    "type": "movie",
    "vote_average": 7.041,
    "vote_count": 440
+  },
+  "movie:507086": {
+   "backdrop_path": "/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg",
+   "budget": 658800000,
+   "cast": [
+    {
+     "c": "Owen Grady",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Claire Dearing",
+     "n": "Bryce Dallas Howard"
+    },
+    {
+     "c": "Ellie Sattler",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Alan Grant",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Ian Malcolm",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Kayla Watts",
+     "n": "DeWanda Wise"
+    },
+    {
+     "c": "Ramsay Cole",
+     "n": "Mamoudou Athie"
+    },
+    {
+     "c": "Maisie Lockwood / Young Charlotte Lockwood",
+     "n": "Isabella Sermon"
+    },
+    {
+     "c": "Lewis Dodgson",
+     "n": "Campbell Scott"
+    },
+    {
+     "c": "Henry Wu",
+     "n": "BD Wong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Colin Trevorrow"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 507086,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+   "popularity": 13.8357,
+   "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-06-01",
+   "revenue": 1004004592,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The epic conclusion of the Jurassic era.",
+   "title": "Jurassic World Dominion",
+   "trailer": {
+    "key": "DtQycgMD4HQ",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.573,
+   "vote_count": 7408
   },
   "movie:53486": {
    "backdrop_path": "/h7vIVkj5sQfFnPdw8WgnV4P84vP.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 71,
+ "count": 75,
  "titles": {
   "movie:1020910": {
    "backdrop_path": "/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
@@ -4031,6 +4031,236 @@
    "vote_average": 7.003,
    "vote_count": 346
   },
+  "movie:271110": {
+   "backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Steve Rogers / Captain America",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Tony Stark / Iron Man",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Natasha Romanoff / Black Widow",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Bucky Barnes / Winter Soldier",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Sam Wilson / Falcon",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Lieutenant James Rhodes / War Machine",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Clint Barton / Hawkeye",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "T'Challa / Black Panther",
+     "n": "Chadwick Boseman"
+    },
+    {
+     "c": "Vision",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Wanda Maximoff / Scarlet Witch",
+     "n": "Elizabeth Olsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Joe Russo",
+    "Anthony Russo"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 271110,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+   "popularity": 22.6351,
+   "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-05-06",
+   "revenue": 1155046416,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ro",
+    "en",
+    "de",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "United we stand. Divided we fall.",
+   "title": "Captain America: Civil War",
+   "trailer": {
+    "key": "dKrVegVI0Us",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.455,
+   "vote_count": 24867
+  },
+  "movie:310": {
+   "backdrop_path": "/m0eJc9CwCy5nowYQdNEaxkHHmj4.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Bruce Nolan",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "God",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Grace Connelly",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "Jack Baylor",
+     "n": "Philip Baker Hall"
+    },
+    {
+     "c": "Susan Ortega",
+     "n": "Catherine Bell"
+    },
+    {
+     "c": "Debbie",
+     "n": "Lisa Ann Walter"
+    },
+    {
+     "c": "Evan Baxter",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Ally Loman",
+     "n": "Nora Dunn"
+    },
+    {
+     "c": "Bobby",
+     "n": "Eddie Jemison"
+    },
+    {
+     "c": "Dallas Coleman",
+     "n": "Paul Satterfield"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tom Shadyac"
+   ],
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 310,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bruce Nolan toils as a \"human interest\" television reporter in Buffalo, NY, but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God — and the Almighty responds, endowing Bruce with all of His divine powers.",
+   "popularity": 10.2356,
+   "poster_path": "/wqkWrOFtYnZSvIMu8Lsmz7WIvKC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-05-23",
+   "revenue": 484592874,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In Bruce we trust?",
+   "title": "Bruce Almighty",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.73,
+   "vote_count": 11891
+  },
   "movie:354110": {
    "backdrop_path": "/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
    "budget": 11000000,
@@ -5308,6 +5538,117 @@
    "vote_average": 6.6,
    "vote_count": 849
   },
+  "movie:510": {
+   "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "Randle Patrick McMurphy",
+     "n": "Jack Nicholson"
+    },
+    {
+     "c": "Billy Bibbit",
+     "n": "Brad Dourif"
+    },
+    {
+     "c": "Nurse Mildred Ratched",
+     "n": "Louise Fletcher"
+    },
+    {
+     "c": "Martini",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Dale Harding",
+     "n": "William Redfield"
+    },
+    {
+     "c": "Orderly Turkle",
+     "n": "Scatman Crothers"
+    },
+    {
+     "c": "Max Taber",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Chief Bromden",
+     "n": "Will Sampson"
+    },
+    {
+     "c": "Dr. John Spivey",
+     "n": "Dean R. Brooks"
+    },
+    {
+     "c": "Ellis",
+     "n": "Michael Berryman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Miloš Forman"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 510,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+   "popularity": 14.0427,
+   "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1975-11-19",
+   "revenue": 108981275,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In this clean, orderly, disciplined world, who needs guys like McMurphy? Everybody.",
+   "title": "One Flew Over the Cuckoo's Nest",
+   "trailer": {
+    "key": "F4da9uRIg8c",
+    "name": "4K Restoration - Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.401,
+   "vote_count": 11971
+  },
   "movie:532710": {
    "backdrop_path": "/lwFKeONjTUSbqaaGdJL8vJq2LK1.jpg",
    "budget": 12000000,
@@ -6220,6 +6561,179 @@
    "type": "movie",
    "vote_average": 7.9,
    "vote_count": 325
+  },
+  "movie:810": {
+   "backdrop_path": "/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Shrek (voice)",
+     "n": "Mike Myers"
+    },
+    {
+     "c": "Donkey (voice)",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Princess Fiona (voice)",
+     "n": "Cameron Diaz"
+    },
+    {
+     "c": "Puss in Boots (voice)",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Queen Lillian (voice)",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "Prince Artie (voice)",
+     "n": "Justin Timberlake"
+    },
+    {
+     "c": "King Harold (voice)",
+     "n": "John Cleese"
+    },
+    {
+     "c": "Doris (voice)",
+     "n": "Larry King"
+    },
+    {
+     "c": "Prince Charming (voice)",
+     "n": "Rupert Everett"
+    },
+    {
+     "c": "Lancelot (voice)",
+     "n": "John Krasinski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Miller"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 810,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.",
+   "popularity": 12.9318,
+   "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-05-17",
+   "revenue": 808310187,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's in for the royal treatment.",
+   "title": "Shrek the Third",
+   "trailer": {
+    "key": "InR865IDDjU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.317,
+   "vote_count": 10138
   },
   "movie:826510": {
    "backdrop_path": "/biMJPdS7bGW7HQTQrHvXxMqOqdC.jpg",

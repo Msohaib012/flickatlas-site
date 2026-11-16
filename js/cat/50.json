@@ -1,6 +1,6 @@
 {
  "bucket": "50",
- "count": 64,
+ "count": 75,
  "titles": {
   "movie:10050": {
    "backdrop_path": "/saQxwnIr4ftRmFpJeV9DQI1lsWd.jpg",
@@ -797,6 +797,129 @@
    "vote_average": 7.119,
    "vote_count": 873
   },
+  "movie:114150": {
+   "backdrop_path": "/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Beca Mitchell",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Aubrey Posen",
+     "n": "Anna Camp"
+    },
+    {
+     "c": "Chloe Beale",
+     "n": "Brittany Snow"
+    },
+    {
+     "c": "Jesse Swanson",
+     "n": "Skylar Astin"
+    },
+    {
+     "c": "Fat Amy",
+     "n": "Rebel Wilson"
+    },
+    {
+     "c": "Cynthia Rose",
+     "n": "Ester Dean"
+    },
+    {
+     "c": "Lilly Onakuramara",
+     "n": "Hana Mae Lee"
+    },
+    {
+     "c": "Bumper Allen",
+     "n": "Adam Devine"
+    },
+    {
+     "c": "Gail Abernathy-McKadden",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "Benji Applebaum",
+     "n": "Ben Platt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jason Moore"
+   ],
+   "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+   ],
+   "id": 114150,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "College student Beca knows she does not want to be part of a clique, but that's exactly where she finds herself after arriving at her new school. Thrust in among mean gals, nice gals and just plain weird gals, Beca finds that the only thing they have in common is how well they sing together. She takes the women of the group out of their comfort zone of traditional arrangements and into a world of amazing harmonic combinations in a fight to the top of college music competitions.",
+   "popularity": 7.0227,
+   "poster_path": "/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-09-28",
+   "revenue": 115647737,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get pitch slapped.",
+   "title": "Pitch Perfect",
+   "trailer": {
+    "key": "HXnjePW3ysU",
+    "name": "TV Spot: \"Let's remix this business\"",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.261,
+   "vote_count": 7065
+  },
   "movie:114750": {
    "backdrop_path": "/aZXtziEpZR1GpPwzIyr2s1dRWsW.jpg",
    "budget": 1300000,
@@ -974,6 +1097,140 @@
    "type": "movie",
    "vote_average": 6.102,
    "vote_count": 494
+  },
+  "movie:119450": {
+   "backdrop_path": "/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Caesar",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Jason Clarke"
+    },
+    {
+     "c": "Koba",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Dreyfus",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Ellie",
+     "n": "Keri Russell"
+    },
+    {
+     "c": "Alexander",
+     "n": "Kodi Smit-McPhee"
+    },
+    {
+     "c": "Blue Eyes",
+     "n": "Nick Thurston"
+    },
+    {
+     "c": "Maurice",
+     "n": "Karin Konoval"
+    },
+    {
+     "c": "Rocket",
+     "n": "Terry Notary"
+    },
+    {
+     "c": "Ash",
+     "n": "Doc Shaw"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Matt Reeves"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 119450,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+   "popularity": 10.8125,
+   "poster_path": "/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-07-10",
+   "revenue": 710644566,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The future is worth fighting for.",
+   "title": "Dawn of the Planet of the Apes",
+   "trailer": {
+    "key": "DpSaTrW4leg",
+    "name": "Official Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.343,
+   "vote_count": 12653
   },
   "movie:11950": {
    "backdrop_path": "/rmTU5rLkN9g3EUEulfXdctJ5gpl.jpg",
@@ -1157,6 +1414,162 @@
    "type": "movie",
    "vote_average": 5.396,
    "vote_count": 371
+  },
+  "movie:1250": {
+   "backdrop_path": "/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Johnny Blaze / Ghost Rider",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Roxanne Simpson",
+     "n": "Eva Mendes"
+    },
+    {
+     "c": "Carter Slade / Phantom Rider",
+     "n": "Sam Elliott"
+    },
+    {
+     "c": "Blackheart / Black King",
+     "n": "Wes Bentley"
+    },
+    {
+     "c": "Mephistopheles / Mephisto",
+     "n": "Peter Fonda"
+    },
+    {
+     "c": "Young Johnny Blaze",
+     "n": "Matt Long"
+    },
+    {
+     "c": "Barton Blaze",
+     "n": "Brett Cullen"
+    },
+    {
+     "c": "Young Roxanne Simpson",
+     "n": "Raquel Alessi"
+    },
+    {
+     "c": "Mack",
+     "n": "Donal Logue"
+    },
+    {
+     "c": "Team Blaze",
+     "n": "Tony Ghosthawk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mark Steven Johnson"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 1250,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
+   "popularity": 8.4816,
+   "poster_path": "/4quwR1VwZouD0YF9AaD72kQAjxH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-01-15",
+   "revenue": 228738393,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Long ago he made a deal to save someone he loved.",
+   "title": "Ghost Rider",
+   "trailer": {
+    "key": "nu6R7ypaz5g",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.625,
+   "vote_count": 6765
   },
   "movie:126250": {
    "backdrop_path": "/wlNvuEelOmUZpAbCuAn7kEADpps.jpg",
@@ -2714,6 +3127,171 @@
    "vote_average": 6.395,
    "vote_count": 57
   },
+  "movie:157350": {
+   "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Tris",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "Four",
+     "n": "Theo James"
+    },
+    {
+     "c": "Natalie",
+     "n": "Ashley Judd"
+    },
+    {
+     "c": "Eric",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "Marcus",
+     "n": "Ray Stevenson"
+    },
+    {
+     "c": "Christina",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Peter",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Andrew",
+     "n": "Tony Goldwyn"
+    },
+    {
+     "c": "Caleb",
+     "n": "Ansel Elgort"
+    },
+    {
+     "c": "Tori",
+     "n": "Maggie Q"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Neil Burger"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 157350,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+   "popularity": 9.841,
+   "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-03-14",
+   "revenue": 288885818,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What makes you different makes you dangerous.",
+   "title": "Divergent",
+   "trailer": {
+    "key": "WI1Jqx47Uw8",
+    "name": "Divergent IMAX® Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.898,
+   "vote_count": 13878
+  },
   "movie:1646950": {
    "backdrop_path": "/rBGP7dcuwBKif01Nb5FzVvHbxcY.jpg",
    "budget": 0,
@@ -3107,6 +3685,143 @@
    "type": "movie",
    "vote_average": 5.942,
    "vote_count": 407
+  },
+  "movie:228150": {
+   "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+   "budget": 68000000,
+   "cast": [
+    {
+     "c": "Don 'Wardaddy' Collier",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Boyd 'Bible' Swan",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Norman Ellison",
+     "n": "Logan Lerman"
+    },
+    {
+     "c": "Trini 'Gordo' Garcia",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Grady 'Coon-Ass' Travis",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Sergeant Binkowski",
+     "n": "Jim Parrack"
+    },
+    {
+     "c": "Sergeant Davis",
+     "n": "Brad William Henke"
+    },
+    {
+     "c": "Sergeant Peterson",
+     "n": "Kevin Vance"
+    },
+    {
+     "c": "Lieutenant Parker",
+     "n": "Xavier Samuel"
+    },
+    {
+     "c": "Captain Waggoner",
+     "n": "Jason Isaacs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "David Ayer"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "Action"
+   ],
+   "id": 228150,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "April, 1945. As the Allies make their final push in the European Theater, a battle-hardened army sergeant commands a Sherman tank with a five-man crew on a deadly mission behind enemy lines.",
+   "popularity": 20.3377,
+   "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-31",
+   "revenue": 211817906,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "War never ends quietly.",
+   "title": "Fury",
+   "trailer": {
+    "key": "09w9MTtZDEM",
+    "name": "Official International Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.546,
+   "vote_count": 13436
   },
   "movie:24750": {
    "backdrop_path": "/1HDpR7nLqQcGSdbC41pSxCPjjyH.jpg",
@@ -3700,6 +4415,141 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 439
+  },
+  "movie:290250": {
+   "backdrop_path": "/oLp6ueqQXNWvWCFwrb6tXDnH0Ye.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Jackson Healy",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Holland March",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Holly March",
+     "n": "Angourie Rice"
+    },
+    {
+     "c": "John Boy",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Amelia Kuttner",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "Tally",
+     "n": "Yaya DaCosta"
+    },
+    {
+     "c": "Older Guy",
+     "n": "Keith David"
+    },
+    {
+     "c": "Blueface",
+     "n": "Beau Knapp"
+    },
+    {
+     "c": "Mrs. Glenn",
+     "n": "Lois Smith"
+    },
+    {
+     "c": "Misty Mountains",
+     "n": "Murielle Telio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Shane Black"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Action"
+   ],
+   "id": 290250,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+   "popularity": 9.8885,
+   "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-05-15",
+   "revenue": 71261763,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're not that nice.",
+   "title": "The Nice Guys",
+   "trailer": {
+    "key": "GQR5zsLHbYw",
+    "name": "Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.138,
+   "vote_count": 9112
   },
   "movie:302150": {
    "backdrop_path": "/fevCa67iK0QuboWsIS3LnCcAlCw.jpg",
@@ -4295,6 +5145,285 @@
    "vote_average": 6.825,
    "vote_count": 331
   },
+  "movie:348350": {
+   "backdrop_path": "/y9jGaGNn1dQDhPkhMumXaLize73.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Han Solo",
+     "n": "Alden Ehrenreich"
+    },
+    {
+     "c": "Chewbacca",
+     "n": "Joonas Suotamo"
+    },
+    {
+     "c": "Tobias Beckett",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Qi'ra",
+     "n": "Emilia Clarke"
+    },
+    {
+     "c": "Lando Calrissian",
+     "n": "Donald Glover"
+    },
+    {
+     "c": "Val",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "L3-37",
+     "n": "Phoebe Waller-Bridge"
+    },
+    {
+     "c": "Dryden Vos",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Rio Durant (voice)",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Enfys Nest",
+     "n": "Erin Kellyman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+   ],
+   "id": 348350,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+   "popularity": 8.4377,
+   "poster_path": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-05-23",
+   "revenue": 392952373,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never tell him the odds.",
+   "title": "Solo: A Star Wars Story",
+   "trailer": {
+    "key": "jPEYpryMp2s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.55,
+   "vote_count": 9654
+  },
+  "movie:350": {
+   "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Miranda Priestly",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Andy Sachs",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Emily",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Nigel",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Christian Thompson",
+     "n": "Simon Baker"
+    },
+    {
+     "c": "Nate",
+     "n": "Adrian Grenier"
+    },
+    {
+     "c": "Lily",
+     "n": "Tracie Thoms"
+    },
+    {
+     "c": "Doug",
+     "n": "Rich Sommer"
+    },
+    {
+     "c": "James Holt",
+     "n": "Daniel Sunjata"
+    },
+    {
+     "c": "Richard Sachs",
+     "n": "David Marshall Grant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Frankel"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 350,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+   "popularity": 18.5821,
+   "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-03-14",
+   "revenue": 326588371,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+   "title": "The Devil Wears Prada",
+   "trailer": {
+    "key": "t4isatjZ0BM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.432,
+   "vote_count": 14441
+  },
   "movie:36950": {
    "backdrop_path": "/9BMEUvc5TxYJF5xmygls2hnhnMP.jpg",
    "budget": 0,
@@ -4601,6 +5730,165 @@
    "type": "movie",
    "vote_average": 7.447,
    "vote_count": 302
+  },
+  "movie:474350": {
+   "backdrop_path": "/6LVSrgm83UYWlrLTCVGmWhFKYO0.jpg",
+   "budget": 79000000,
+   "cast": [
+    {
+     "c": "Beverly Marsh",
+     "n": "Jessica Chastain"
+    },
+    {
+     "c": "Bill Denbrough",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Richie Tozier",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Mike Hanlon",
+     "n": "Isaiah Mustafa"
+    },
+    {
+     "c": "Ben Hanscom",
+     "n": "Jay Ryan"
+    },
+    {
+     "c": "Eddie Kaspbrak",
+     "n": "James Ransone"
+    },
+    {
+     "c": "Stanley Uris",
+     "n": "Andy Bean"
+    },
+    {
+     "c": "Pennywise",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "Young Bill Denbrough",
+     "n": "Jaeden Martell"
+    },
+    {
+     "c": "Young Stanley Uris",
+     "n": "Wyatt Oleff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Andy Muschietti"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 474350,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+   "popularity": 13.4225,
+   "poster_path": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-09-06",
+   "revenue": 473123154,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It ends.",
+   "title": "It Chapter Two",
+   "trailer": {
+    "key": "xhJ5P7Up3jA",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.826,
+   "vote_count": 9988
   },
   "movie:48650": {
    "backdrop_path": "/abQxLSkGxpHyUxRjRXACt8NbiGf.jpg",
@@ -4995,6 +6283,135 @@
    "type": "movie",
    "vote_average": 6.109,
    "vote_count": 354
+  },
+  "movie:550": {
+   "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+   "budget": 63000000,
+   "cast": [
+    {
+     "c": "Narrator",
+     "n": "Edward Norton"
+    },
+    {
+     "c": "Tyler Durden",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Marla Singer",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Robert Paulson",
+     "n": "Meat Loaf"
+    },
+    {
+     "c": "Angel Face",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Richard Chesler (Regional Manager)",
+     "n": "Zach Grenier"
+    },
+    {
+     "c": "The Mechanic",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Ricky",
+     "n": "Eion Bailey"
+    },
+    {
+     "c": "Intern at Hospital",
+     "n": "Richmond Arquette"
+    },
+    {
+     "c": "Thomas at Remaining Men Together",
+     "n": "David Andrews"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 550,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+   "popularity": 33.7556,
+   "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-10-15",
+   "revenue": 100853753,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mischief. Mayhem. Soap.",
+   "title": "Fight Club",
+   "trailer": {
+    "key": "dfeUzm6KF4g",
+    "name": "20th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.437,
+   "vote_count": 33345
   },
   "movie:557950": {
    "backdrop_path": "/9eYrq3NZq3WsCuYQS0q9zPr1eMf.jpg",
@@ -5872,6 +7289,141 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 309
+  },
+  "movie:950": {
+   "backdrop_path": "/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Manny (voice)",
+     "n": "Ray Romano"
+    },
+    {
+     "c": "Sid (voice)",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Diego (voice)",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Ellie (voice)",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Crash (voice)",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Eddie (voice)",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Fast Tony (voice)",
+     "n": "Jay Leno"
+    },
+    {
+     "c": "Lone Gunslinger Vulture (voice)",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Scrat (voice)",
+     "n": "Chris Wedge"
+    },
+    {
+     "c": "Dung Beetle Dad (voice)",
+     "n": "Peter Ackerman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Carlos Saldanha"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 950,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+   "popularity": 11.2464,
+   "poster_path": "/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-04-21",
+   "revenue": 660998756,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Kiss your nuts goodbye.",
+   "title": "Ice Age: The Meltdown",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.732,
+   "vote_count": 10673
   },
   "movie:974250": {
    "backdrop_path": "/8UyO7ivSeU2VVblZEsFUBxOd2wa.jpg",

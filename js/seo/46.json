@@ -1,6 +1,6 @@
 {
  "bucket": "46",
- "count": 67,
+ "count": 74,
  "titles": {
   "movie:10646": {
    "d": "Tomcats (2001): Comedy/Romance film. Story: College buddies chip in and promise that the group's… See cast, budget $11M, and TMDB rating 4.7/10.",
@@ -65,6 +65,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Tomcats (2001)</h1>\n<p class=\"ssr-lead\">College buddies chip in and promise that the group&#x27;s last unmarried man will collect a cash pot. Seven years later, the kitty is worth $500,000 -- money Michael needs to pay a gambling debt. Problem is, the only other single guy is a hopeless womanizer!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 March 2001</li><li>Runtime: 95 minutes</li><li>Director: Gregory Poirier</li><li>Genres: Comedy, Romance</li><li>Budget: $11M</li><li>TMDB rating: 4.7/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jerry O&#x27;Connell as Michael Delaney</li><li>Shannon Elizabeth as Officer Natalie Parker</li><li>Jake Busey as Kyle Brenner</li><li>Horatio Sanz as Steve</li><li>Bernie Casey as Officer Hurley</li><li>Jaime Pressly as Tricia</li><li>David Ogden Stiers as Dr. Crawford</li><li>Travis Fine as Jan</li><li>Heather Stephens as Jill</li><li>Julia Schultz as Shelby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Tomcats (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:106646": {
+   "d": "The Wolf of Wall Street (2013): Crime/Drama film. Story: A New York stockbroker refuses to cooperate in a… See cast, budget $100M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+   "industry": "world",
+   "k": "The Wolf of Wall Street, The Wolf of Wall Street movie, The Wolf of Wall Street cast, The Wolf of Wall Street story, The Wolf of Wall Street box office collection, The Wolf of Wall Street budget, The Wolf of Wall Street review, The Wolf of Wall Street rating, The Wolf of Wall Street release date, The Wolf of Wall Street trailer, The Wolf of Wall Street Crime, The Wolf of Wall Street Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leonardo DiCaprio"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonah Hill"
+     },
+     {
+      "@type": "Person",
+      "name": "Margot Robbie"
+     },
+     {
+      "@type": "Person",
+      "name": "Matthew McConaughey"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Chandler"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 26944,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "The Wolf of Wall Street (2013): Crime/Drama film. Story: A New York stockbroker refuses to cooperate in a… See cast, budget $100M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     }
+    ],
+    "duration": "PT180M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=106646",
+    "name": "The Wolf of Wall Street",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=106646"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Wolf of Wall Street (2013)</h1>\n<p class=\"ssr-lead\">A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort&#x27;s autobiography.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2013</li><li>Runtime: 180 minutes</li><li>Director: Martin Scorsese</li><li>Genres: Crime, Drama, Comedy</li><li>Budget: $100M</li><li>TMDB rating: 8.0/10 (26944 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo DiCaprio as Jordan Belfort</li><li>Jonah Hill as Donnie Azoff</li><li>Margot Robbie as Naomi Lapaglia</li><li>Matthew McConaughey as Mark Hanna</li><li>Kyle Chandler as Agent Patrick Denham</li><li>Rob Reiner as Max Belfort</li><li>Jon Bernthal as Brad</li><li>Jon Favreau as Manny Riskin</li><li>Jean Dujardin as Jean Jacques Saurel</li><li>Joanna Lumley as Aunt Emma</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Wolf of Wall Street (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:10946": {
    "d": "Earth (2007): Documentary film. Story: An epic story of adventure, starring some of the most… See cast, budget $15M, and TMDB rating 7.7/10.",
@@ -1214,6 +1278,69 @@
    "t": "One Piece: Clockwork Island Adventure (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
   },
+  "movie:250546": {
+   "d": "Annabelle (2014): Horror film. Story: A couple begins to experience terrifying supernatural… See cast, budget $6.5M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg",
+   "industry": "world",
+   "k": "Annabelle, Annabelle movie, Annabelle cast, Annabelle story, Annabelle box office collection, Annabelle budget, Annabelle review, Annabelle rating, Annabelle release date, Annabelle trailer, Annabelle Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Annabelle Wallis"
+     },
+     {
+      "@type": "Person",
+      "name": "Ward Horton"
+     },
+     {
+      "@type": "Person",
+      "name": "Tony Amendola"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfre Woodard"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Ladin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6727,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Annabelle (2014): Horror film. Story: A couple begins to experience terrifying supernatural… See cast, budget $6.5M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John R. Leonetti"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=250546",
+    "name": "Annabelle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=250546"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Annabelle (2014)</h1>\n<p class=\"ssr-lead\">A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 October 2014</li><li>Runtime: 99 minutes</li><li>Director: John R. Leonetti</li><li>Genres: Horror</li><li>Budget: $6.5M</li><li>TMDB rating: 5.8/10 (6727 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Annabelle Wallis as Mia Form</li><li>Ward Horton as John Form</li><li>Tony Amendola as Father Perez</li><li>Alfre Woodard as Evelyn</li><li>Eric Ladin as Detective Clarkin</li><li>Kerry O&#x27;Malley as Sharon Higgins</li><li>Brian Howe as Pete Higgins</li><li>Ivar Brogger as Dr. Burgher</li><li>Gabriel Bateman as Robert</li><li>Shiloh Nelson as Nancy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Annabelle (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:257346": {
    "d": "Avengers Confidential: Black Widow & Punisher (2014): Animation/Science Fiction film. Story: When the Punisher takes out a black-market weapons… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/vqQhjCeXbGDz8IeB27IPk0alfKA.jpg",
@@ -1278,6 +1405,70 @@
    "t": "Avengers Confidential: Black Widow & Punisher (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:302946": {
+   "d": "The Accountant (2016): Crime/Thriller film. Story: As a math savant uncooks the books for a new client… See cast, budget $44M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+   "industry": "world",
+   "k": "The Accountant, The Accountant movie, The Accountant cast, The Accountant story, The Accountant box office collection, The Accountant budget, The Accountant review, The Accountant rating, The Accountant release date, The Accountant trailer, The Accountant Crime, The Accountant Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Kendrick"
+     },
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Bernthal"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Tambor"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7747,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Accountant (2016): Crime/Thriller film. Story: As a math savant uncooks the books for a new client… See cast, budget $44M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gavin O'Connor"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=302946",
+    "name": "The Accountant",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-10-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=302946"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Accountant (2016)</h1>\n<p class=\"ssr-lead\">As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2016</li><li>Runtime: 128 minutes</li><li>Director: Gavin O&#x27;Connor</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $44M</li><li>TMDB rating: 7.1/10 (7747 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Affleck as Christian Wolff</li><li>Anna Kendrick as Dana Cummings</li><li>J.K. Simmons as Ray King</li><li>Jon Bernthal as Brax</li><li>Jeffrey Tambor as Francis Silverberg</li><li>Cynthia Addai-Robinson as Marybeth Medina</li><li>John Lithgow as Lamar Blackburn</li><li>Jean Smart as Rita Blackburn</li><li>Andy Umberger as Ed Chilton</li><li>Alison Wright as Justine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Accountant (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:31646": {
    "d": "Piranha II: The Spawning (1982): Horror film. Story: A scuba diving instructor, her biochemist boyfriend… See cast, budget $145.8k, and TMDB rating 4.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/27IZSY74Wmr4JrrhG8oDzO23mRE.jpg",
@@ -1340,6 +1531,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Piranha II: The Spawning (1982)</h1>\n<p class=\"ssr-lead\">A scuba diving instructor, her biochemist boyfriend, and her police chief ex-husband try to link a series of bizarre deaths to a mutant strain of piranha fish whose lair is a sunken freighter ship off a Caribbean island resort.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 July 1982</li><li>Runtime: 94 minutes</li><li>Director: James Cameron</li><li>Genres: Horror</li><li>Budget: $145.8k</li><li>TMDB rating: 4.3/10 (333 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tricia O&#x27;Neil as Anne Kimbrough</li><li>Steve Marachuk as Tyler Sherman</li><li>Lance Henriksen as Police Chief Steve Kimbrough</li><li>Ricky Paull Goldin as Chris Kimbrough</li><li>Ted Richert as Raoul, Hotel Manager</li><li>Leslie Graves as Allison Dumont</li><li>Carole Davis as Jai</li><li>Connie Lynn Hadden as Loretta</li><li>Arnie Ross as Mal the Cook</li><li>Tracey Berg as Beverly</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Piranha II: The Spawning (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1982"
+  },
+  "movie:318846": {
+   "d": "The Big Short (2016): Comedy/Drama film. Story: The men who made millions from a global economic… See cast, budget $28M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+   "industry": "world",
+   "k": "The Big Short, The Big Short movie, The Big Short cast, The Big Short story, The Big Short box office collection, The Big Short budget, The Big Short review, The Big Short rating, The Big Short release date, The Big Short trailer, The Big Short Comedy, The Big Short Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Carell"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Bale"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Gosling"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Marisa Tomei"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10260,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Big Short (2016): Comedy/Drama film. Story: The men who made millions from a global economic… See cast, budget $28M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Adam McKay"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=318846",
+    "name": "The Big Short",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-01-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=318846"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Big Short (2016)</h1>\n<p class=\"ssr-lead\">The men who made millions from a global economic meltdown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2016</li><li>Runtime: 131 minutes</li><li>Director: Adam McKay</li><li>Genres: Comedy, Drama</li><li>Budget: $28M</li><li>TMDB rating: 7.4/10 (10260 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Carell as Mark Baum</li><li>Christian Bale as Michael Burry</li><li>Ryan Gosling as Jared Vennett</li><li>Brad Pitt as Ben Rickert</li><li>Marisa Tomei as Cynthia Baum</li><li>Melissa Leo as Georgia Hale</li><li>Hamish Linklater as Porter Collins</li><li>John Magaro as Charlie Geller</li><li>Rafe Spall as Danny Moses</li><li>Jeremy Strong as Vinny Daniel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Big Short (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:325346": {
    "d": "The Hollars (2016): Drama/Comedy film. Story: Aspiring New York City artist John Hollar returns to… See cast, budget $3.8M, and TMDB rating 6.3/10.",
@@ -1467,6 +1722,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Safe (1995)</h1>\n<p class=\"ssr-lead\">Carol White, a Los Angeles housewife in the late 1980s, comes down with a debilitating illness with no clear diagnosis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 1995</li><li>Runtime: 119 minutes</li><li>Director: Todd Haynes</li><li>Genres: Drama</li><li>Budget: $1M</li><li>TMDB rating: 6.9/10 (374 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julianne Moore as Carol</li><li>Xander Berkeley as Greg</li><li>Peter Friedman as Peter Dunning</li><li>James Le Gros as Chris</li><li>Dean Norris as Mover</li><li>Julie Burgess as Aerobics Instructor</li><li>Ronnie Farer as Barbara</li><li>Jodie Markell as Anita</li><li>Susan Norman as Linda</li><li>Jessica Harper as Joyce</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Safe (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
+  },
+  "movie:339846": {
+   "d": "Baywatch (2017): Comedy/Action film. Story: Devoted lifeguard Mitch Buchannon butts heads with a… See cast, budget $69M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+   "industry": "world",
+   "k": "Baywatch, Baywatch movie, Baywatch cast, Baywatch story, Baywatch box office collection, Baywatch budget, Baywatch review, Baywatch rating, Baywatch release date, Baywatch trailer, Baywatch Comedy, Baywatch Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dwayne Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Zac Efron"
+     },
+     {
+      "@type": "Person",
+      "name": "Priyanka Chopra Jonas"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexandra Daddario"
+     },
+     {
+      "@type": "Person",
+      "name": "Kelly Rohrbach Walton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8703,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Baywatch (2017): Comedy/Action film. Story: Devoted lifeguard Mitch Buchannon butts heads with a… See cast, budget $69M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Seth Gordon"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=339846",
+    "name": "Baywatch",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=339846"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baywatch (2017)</h1>\n<p class=\"ssr-lead\">Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 May 2017</li><li>Runtime: 116 minutes</li><li>Director: Seth Gordon</li><li>Genres: Comedy, Action, Crime</li><li>Budget: $69M</li><li>TMDB rating: 6.1/10 (8703 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dwayne Johnson as Mitch Buchanan</li><li>Zac Efron as Matt Brody</li><li>Priyanka Chopra Jonas as Victoria Leeds</li><li>Alexandra Daddario as Summer Quinn</li><li>Kelly Rohrbach Walton as CJ Parker</li><li>Ilfenesh Hadera as Stephanie Holden</li><li>Jon Bass as Ronnie Greenbaum</li><li>Yahya Abdul-Mateen II as Sgt. Ellerbee</li><li>Hannibal Buress as Dave the Tech</li><li>Rob Huebel as Captain Thorpe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Baywatch (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:34746": {
    "d": "Death Wish V: The Face of Death (1994): Action/Crime film. Story: Paul Kersey is back at working vigilante justice when… See cast and budget $5M.",
@@ -2241,6 +2560,74 @@
    "t": "Chatroom (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:50646": {
+   "d": "Crazy, Stupid, Love. (2011): Comedy/Drama film. Story: Cal Weaver is living the American dream. He has a… See cast, budget $50M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+   "industry": "world",
+   "k": "Crazy, Stupid, Love., Crazy, Stupid, Love. movie, Crazy, Stupid, Love. cast, Crazy, Stupid, Love. story, Crazy, Stupid, Love. box office collection, Crazy, Stupid, Love. budget, Crazy, Stupid, Love. review, Crazy, Stupid, Love. rating, Crazy, Stupid, Love. release date, Crazy, Stupid, Love. trailer, Crazy, Stupid, Love. Comedy, Crazy, Stupid, Love. Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Carell"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Gosling"
+     },
+     {
+      "@type": "Person",
+      "name": "Julianne Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Lio Tipton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9669,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Crazy, Stupid, Love. (2011): Comedy/Drama film. Story: Cal Weaver is living the American dream. He has a… See cast, budget $50M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Glenn Ficarra"
+     },
+     {
+      "@type": "Person",
+      "name": "John Requa"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=50646",
+    "name": "Crazy, Stupid, Love.",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-07-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=50646"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Crazy, Stupid, Love. (2011)</h1>\n<p class=\"ssr-lead\">Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal&#x27;s seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 July 2011</li><li>Runtime: 118 minutes</li><li>Director: Glenn Ficarra, John Requa</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $50M</li><li>TMDB rating: 7.3/10 (9669 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Carell as Cal</li><li>Ryan Gosling as Jacob</li><li>Julianne Moore as Emily</li><li>Emma Stone as Hannah</li><li>Lio Tipton as Jessica</li><li>Jonah Bobo as Robbie</li><li>Joey King as Molly</li><li>Marisa Tomei as Kate</li><li>Beth Littleford as Claire</li><li>John Carroll Lynch as Bernie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Crazy, Stupid, Love. (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:5146": {
    "d": "The In-Laws (2003): Action/Comedy film. Story: Right before his daughter's wedding, a mild-mannered… See cast, budget $40M, and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/2cT8Q75gYiseEuPOE55n3lmBpRk.jpg",
@@ -2820,6 +3207,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Colorful (2010)</h1>\n<p class=\"ssr-lead\">Upon reaching the train station to death, a dejected soul is informed that he is lucky and will have another chance at life. He is placed in the body of a 14-year-old boy named Kobayashi Makoto, who has just committed suicide. Watched over by a neutral spirit named Purapura, the soul must figure out what his greatest sin and mistake in his former life was, before his time limit in Makoto&#x27;s body runs out. He also has a number of other lesser duties he must complete, such as understanding what led Makoto to commit suicide in the first place and learning how to enjoy his second chance at life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2010</li><li>Runtime: 127 minutes</li><li>Director: Keiichi Hara</li><li>Genres: Animation, Drama, Family</li><li>TMDB rating: 7.2/10 (326 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kazato Tomizawa as Makoto Kobayashi (voice)</li><li>Akina Minami as Hiroka Kuwabara (voice)</li><li>Aoi Miyazaki as Shoko Sano (voice)</li><li>Jingi Irie as Saotome (voice)</li><li>Akiyoshi Nakao as Mitsuru Kobayashi (voice)</li><li>Kumiko Aso as Makoto&#x27;s Mother (voice)</li><li>Katsumi Takahashi as Makoto&#x27;s Father (voice)</li><li>Michael as Purapura (voice)</li><li>Manatsu Hayashi as Mao (voice)</li><li>Keiji Fujiwara as Mr. Sawada (voice)</li></ul>\n</article>",
    "t": "Colorful (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:7446": {
+   "d": "Tropic Thunder (2008): Comedy/War film. Story: A group of self-absorbed actors set out to make the… See cast, budget $92M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+   "industry": "world",
+   "k": "Tropic Thunder, Tropic Thunder movie, Tropic Thunder cast, Tropic Thunder story, Tropic Thunder box office collection, Tropic Thunder budget, Tropic Thunder review, Tropic Thunder rating, Tropic Thunder release date, Tropic Thunder trailer, Tropic Thunder Comedy, Tropic Thunder War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Downey Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Jay Baruchel"
+     },
+     {
+      "@type": "Person",
+      "name": "Brandon T. Jackson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7348,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Tropic Thunder (2008): Comedy/War film. Story: A group of self-absorbed actors set out to make the… See cast, budget $92M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Comedy",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7446",
+    "name": "Tropic Thunder",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7446"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tropic Thunder (2008)</h1>\n<p class=\"ssr-lead\">A group of self-absorbed actors set out to make the most expensive war film ever. When budgets skyrocket and schedules fall far behind, the director tries to save the production by leading his cast into the jungles of Southeast Asia, where they inadvertently encounter real danger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2008</li><li>Runtime: 107 minutes</li><li>Director: Ben Stiller</li><li>Genres: Comedy, War, Action, Adventure</li><li>Budget: $92M</li><li>TMDB rating: 6.7/10 (7348 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Tugg Speedman</li><li>Robert Downey Jr. as Kirk Lazarus</li><li>Jack Black as Jeff Portnoy</li><li>Jay Baruchel as Kevin Sandusky</li><li>Brandon T. Jackson as Alpa Chino</li><li>Brandon Soo Hoo as Tran</li><li>Matthew McConaughey as Rick Peck</li><li>Tom Cruise as Les Grossman</li><li>Nick Nolte as Four Leaf Tayback</li><li>Danny McBride as Cody</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Tropic Thunder (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:744746": {
    "d": "Caveat (2021): Horror/Mystery film. Story: A lone drifter suffering from partial memory loss… See cast, budget $350.0k, and TMDB rating 6.4/10.",

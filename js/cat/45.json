@@ -1,6 +1,6 @@
 {
  "bucket": "45",
- "count": 65,
+ "count": 71,
  "titles": {
   "movie:10445": {
    "backdrop_path": "/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
@@ -266,6 +266,128 @@
    "vote_average": 5.5,
    "vote_count": 310
   },
+  "movie:109445": {
+   "backdrop_path": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Anna (voice)",
+     "n": "Kristen Bell"
+    },
+    {
+     "c": "Elsa (voice)",
+     "n": "Idina Menzel"
+    },
+    {
+     "c": "Kristoff (voice)",
+     "n": "Jonathan Groff"
+    },
+    {
+     "c": "Olaf (voice)",
+     "n": "Josh Gad"
+    },
+    {
+     "c": "Hans (voice)",
+     "n": "Santino Fontana"
+    },
+    {
+     "c": "Duke (voice)",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Pabbie / Grandpa (voice)",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Oaken (voice)",
+     "n": "Chris Williams"
+    },
+    {
+     "c": "Kai (voice)",
+     "n": "Stephen J. Anderson"
+    },
+    {
+     "c": "Bulda (voice)",
+     "n": "Maia Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Jennifer Lee",
+    "Chris Buck"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 109445,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+   "popularity": 19.8234,
+   "poster_path": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-11-29",
+   "revenue": 1274219009,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who will save the day? The ice guy? The nice guy? The snow man? Or no man?",
+   "title": "Frozen",
+   "trailer": {
+    "key": "TbQm5doF_Uc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.249,
+   "vote_count": 18083
+  },
   "movie:10945": {
    "backdrop_path": "/l9jj1CwgCWeCHE2rhzY5Hb0zXcZ.jpg",
    "budget": 18000000,
@@ -392,6 +514,124 @@
    "type": "movie",
    "vote_average": 6.077,
    "vote_count": 407
+  },
+  "movie:116745": {
+   "backdrop_path": "/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Walter Mitty",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Cheryl Melhoff",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Sean O'Connell",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Edna Mitty",
+     "n": "Shirley MacLaine"
+    },
+    {
+     "c": "Ted Hendricks",
+     "n": "Adam Scott"
+    },
+    {
+     "c": "Odessa Mitty",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Todd Maher",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Hernando",
+     "n": "Adrian Martinez"
+    },
+    {
+     "c": "Helicopter Pilot",
+     "n": "Ólafur Darri Ólafsson"
+    },
+    {
+     "c": "Hotel Keeper",
+     "n": "Gunnar Helgason"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ben Stiller"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 116745,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+   "popularity": 10.4942,
+   "poster_path": "/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-12-18",
+   "revenue": 188133322,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "is",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Stop dreaming. Start living.",
+   "title": "The Secret Life of Walter Mitty",
+   "trailer": {
+    "key": "Bp_cxxqOaPM",
+    "name": "The Secret Life of Walter Mitty: Extended Trailer - 6 Minutes [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.236,
+   "vote_count": 8616
   },
   "movie:1171145": {
    "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
@@ -605,6 +845,162 @@
    "type": "movie",
    "vote_average": 6.173,
    "vote_count": 408
+  },
+  "movie:12445": {
+   "backdrop_path": "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Harry Potter",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Hermione Granger",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Ron Weasley",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Lord Voldemort",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Severus Snape",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Albus Dumbledore",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Griphook / Filius Flitwick",
+     "n": "Warwick Davis"
+    },
+    {
+     "c": "Bellatrix Lestrange",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Aberforth Dumbledore",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Neville Longbottom",
+     "n": "Matthew Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Yates"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 12445,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+   "popularity": 25.0782,
+   "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-07-12",
+   "revenue": 1341511219,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It all ends.",
+   "title": "Harry Potter and the Deathly Hallows: Part 2",
+   "trailer": {
+    "key": "kwM3kN8PNOc",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.081,
+   "vote_count": 22747
   },
   "movie:1288445": {
    "backdrop_path": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
@@ -3204,6 +3600,140 @@
    "vote_average": 7.275,
    "vote_count": 453
   },
+  "movie:345": {
+   "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Dr. William Harford",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Alice Harford",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "Victor Ziegler",
+     "n": "Sydney Pollack"
+    },
+    {
+     "c": "Marion",
+     "n": "Marie Richardson"
+    },
+    {
+     "c": "Milich",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Nick Nightingale",
+     "n": "Todd Field"
+    },
+    {
+     "c": "Domino",
+     "n": "Vinessa Shaw"
+    },
+    {
+     "c": "Desk Clerk",
+     "n": "Alan Cumming"
+    },
+    {
+     "c": "Sandor Szavost",
+     "n": "Sky du Mont"
+    },
+    {
+     "c": "Sally",
+     "n": "Fay Masterson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stanley Kubrick"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 345,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+   "popularity": 15.5533,
+   "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-07-16",
+   "revenue": 162517900,
+   "runtime": 159,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No dream is ever just a dream.",
+   "title": "Eyes Wide Shut",
+   "trailer": {
+    "key": "qku0sbMkFZo",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.483,
+   "vote_count": 7473
+  },
   "movie:347945": {
    "backdrop_path": "/d3dDgrzE5DDR5vDe4qNbXmN57ey.jpg",
    "budget": 0,
@@ -5695,6 +6225,328 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 374
+  },
+  "movie:7345": {
+   "backdrop_path": "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Daniel Plainview",
+     "n": "Daniel Day-Lewis"
+    },
+    {
+     "c": "Paul Sunday / Eli Sunday",
+     "n": "Paul Dano"
+    },
+    {
+     "c": "Henry",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Fletcher Hamilton",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Mary Sunday (young)",
+     "n": "Sydney McCallister"
+    },
+    {
+     "c": "H.W. Plainview",
+     "n": "Dillon Freasier"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Hope Elizabeth Reeves"
+    },
+    {
+     "c": "Mary Sunday",
+     "n": "Colleen Foy"
+    },
+    {
+     "c": "H. B. Ailman",
+     "n": "Barry Del Sherman"
+    },
+    {
+     "c": "Abel Sunday",
+     "n": "David Willis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Paul Thomas Anderson"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 7345,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+   "popularity": 11.0658,
+   "poster_path": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Kanopy"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-01-30",
+   "revenue": 77208711,
+   "runtime": 158,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There will be greed. There will be vengeance.",
+   "title": "There Will Be Blood",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.06,
+   "vote_count": 7891
+  },
+  "movie:745": {
+   "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Malcolm Crowe",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Cole Sear",
+     "n": "Haley Joel Osment"
+    },
+    {
+     "c": "Lynn Sear",
+     "n": "Toni Collette"
+    },
+    {
+     "c": "Anna Crowe",
+     "n": "Olivia Williams"
+    },
+    {
+     "c": "Tommy Tammisimo",
+     "n": "Trevor Morgan"
+    },
+    {
+     "c": "Vincent Gray",
+     "n": "Donnie Wahlberg"
+    },
+    {
+     "c": "Darren",
+     "n": "Peter Anthony Tambakis"
+    },
+    {
+     "c": "Bobby",
+     "n": "Jeffrey Zubernis"
+    },
+    {
+     "c": "Stanley Cunningham",
+     "n": "Bruce Norris"
+    },
+    {
+     "c": "Sean",
+     "n": "Glenn Fitzgerald"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "M. Night Shyamalan"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 745,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+   "popularity": 13.013,
+   "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-08-06",
+   "revenue": 672800000,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Not every gift is a blessing.",
+   "title": "The Sixth Sense",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.958,
+   "vote_count": 13614
   },
   "movie:74945": {
    "backdrop_path": "/swdekl4vQJ0LOnjSZcmKUIUz26S.jpg",

@@ -1,7 +1,75 @@
 {
  "bucket": "91",
- "count": 73,
+ "count": 81,
  "titles": {
+  "movie:10191": {
+   "d": "How to Train Your Dragon (2010): Fantasy/Adventure film. Story: As the son of a Viking leader on the cusp of manhood… See cast and budget $165M.",
+   "img": "https://image.tmdb.org/t/p/w780/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+   "industry": "world",
+   "k": "How to Train Your Dragon, How to Train Your Dragon movie, How to Train Your Dragon cast, How to Train Your Dragon story, How to Train Your Dragon box office collection, How to Train Your Dragon budget, How to Train Your Dragon review, How to Train Your Dragon rating, How to Train Your Dragon release date, How to Train Your Dragon trailer, How to Train Your Dragon Fantasy, How to Train Your Dragon Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jay Baruchel"
+     },
+     {
+      "@type": "Person",
+      "name": "Gerard Butler"
+     },
+     {
+      "@type": "Person",
+      "name": "Craig Ferguson"
+     },
+     {
+      "@type": "Person",
+      "name": "America Ferrera"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonah Hill"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14929,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "How to Train Your Dragon (2010): Fantasy/Adventure film. Story: As the son of a Viking leader on the cusp of manhood… See cast and budget $165M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Sanders"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean DeBlois"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10191",
+    "name": "How to Train Your Dragon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10191"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>How to Train Your Dragon (2010)</h1>\n<p class=\"ssr-lead\">As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2010</li><li>Runtime: 98 minutes</li><li>Director: Chris Sanders, Dean DeBlois</li><li>Genres: Fantasy, Adventure, Animation, Family</li><li>Budget: $165M</li><li>TMDB rating: 7.9/10 (14929 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jay Baruchel as Hiccup (voice)</li><li>Gerard Butler as Stoick (voice)</li><li>Craig Ferguson as Gobber (voice)</li><li>America Ferrera as Astrid (voice)</li><li>Jonah Hill as Snotlout (voice)</li><li>Christopher Mintz-Plasse as Fishlegs (voice)</li><li>T.J. Miller as Tuffnut (voice)</li><li>Kristen Wiig as Ruffnut (voice)</li><li>Robin Atkin Downes as Ack (voice)</li><li>Philip McGrade as Starkard (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "How to Train Your Dragon (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:10391": {
    "d": "Bless the Child (2000): Drama/Horror film. Story: When Maggie's sister Jenna saddles her with an… See cast, budget $40M, and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/oJUk1lRbpGF55f5N4ZUPDAp0F72.jpg",
@@ -257,6 +325,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Crazy/Beautiful (2001)</h1>\n<p class=\"ssr-lead\">At Pacific Palisades High, a poor Latino falls hard for a troubled girl from the affluent neighborhood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 June 2001</li><li>Runtime: 99 minutes</li><li>Director: John Stockwell</li><li>Genres: Drama, Romance</li><li>Budget: $13M</li><li>TMDB rating: 6.6/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kirsten Dunst as Nicole Oakley</li><li>Jay Hernandez as Carlos Nuñez</li><li>Bruce Davison as Tom Oakley</li><li>Herman Osorio as Luis</li><li>Miguel Castro as Eddie</li><li>Tommy De La Cruz as Victor</li><li>Rolando Molina as Hector</li><li>Soledad St. Hilaire as Mrs. Nuñez</li><li>Lucinda Jenney as Courtney Oakley</li><li>Taryn Manning as Maddy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Crazy/Beautiful (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:1091": {
+   "d": "The Thing (1982): Horror/Mystery film. Story: A research team in Antarctica is hunted by a… See cast, budget $15M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+   "industry": "world",
+   "k": "The Thing, The Thing movie, The Thing cast, The Thing story, The Thing box office collection, The Thing budget, The Thing review, The Thing rating, The Thing release date, The Thing trailer, The Thing Horror, The Thing Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kurt Russell"
+     },
+     {
+      "@type": "Person",
+      "name": "Wilford Brimley"
+     },
+     {
+      "@type": "Person",
+      "name": "T.K. Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "David Clennon"
+     },
+     {
+      "@type": "Person",
+      "name": "Keith David"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8452,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "The Thing (1982): Horror/Mystery film. Story: A research team in Antarctica is hunted by a… See cast, budget $15M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Carpenter"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1091",
+    "name": "The Thing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1982-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1091"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Thing (1982)</h1>\n<p class=\"ssr-lead\">A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 1982</li><li>Runtime: 109 minutes</li><li>Director: John Carpenter</li><li>Genres: Horror, Mystery, Science Fiction</li><li>Budget: $15M</li><li>TMDB rating: 8.1/10 (8452 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kurt Russell as MacReady</li><li>Wilford Brimley as Blair</li><li>T.K. Carter as Nauls</li><li>David Clennon as Palmer</li><li>Keith David as Childs</li><li>Richard Dysart as Dr. Copper</li><li>Charles Hallahan as Norris</li><li>Peter Maloney as Bennings</li><li>Richard Masur as Clark</li><li>Donald Moffat as Garry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Thing (1982) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1982"
   },
   "movie:11091": {
    "d": "Riding in Cars with Boys (2001): Drama/Comedy film. Story: In 1965, a young woman with dreams of becoming a… See cast, budget $48M, and TMDB rating 6.7/10.",
@@ -1458,6 +1590,70 @@
    "t": "NAZA (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1891": {
+   "d": "The Empire Strikes Back (1980): Adventure/Action film. Story: The epic saga continues as Luke Skywalker, in hopes… See cast and budget $18M.",
+   "img": "https://image.tmdb.org/t/p/w780/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+   "industry": "world",
+   "k": "The Empire Strikes Back, The Empire Strikes Back movie, The Empire Strikes Back cast, The Empire Strikes Back story, The Empire Strikes Back box office collection, The Empire Strikes Back budget, The Empire Strikes Back review, The Empire Strikes Back rating, The Empire Strikes Back release date, The Empire Strikes Back trailer, The Empire Strikes Back Adventure, The Empire Strikes Back Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Hamill"
+     },
+     {
+      "@type": "Person",
+      "name": "Harrison Ford"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie Fisher"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Dee Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Daniels"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 19133,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "The Empire Strikes Back (1980): Adventure/Action film. Story: The epic saga continues as Luke Skywalker, in hopes… See cast and budget $18M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Irvin Kershner"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1891",
+    "name": "The Empire Strikes Back",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1980-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1891"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Empire Strikes Back (1980)</h1>\n<p class=\"ssr-lead\">The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 1980</li><li>Runtime: 124 minutes</li><li>Director: Irvin Kershner</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $18M</li><li>TMDB rating: 8.4/10 (19133 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Hamill as Luke Skywalker</li><li>Harrison Ford as Han Solo</li><li>Carrie Fisher as Princess Leia</li><li>Billy Dee Williams as Lando Calrissian</li><li>Anthony Daniels as C-3PO</li><li>David Prowse as Darth Vader</li><li>Peter Mayhew as Chewbacca</li><li>Kenny Baker as R2-D2</li><li>Frank Oz as Yoda (Voice)</li><li>Alec Guinness as Obi-Wan Kenobi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "The Empire Strikes Back (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1980"
+  },
   "movie:21191": {
    "d": "Sin Nombre (2009): Drama/Action film. Story: Sayra, an Indigenous Latina American teenage girl… See cast, TMDB rating 7.6/10, and release date 17 April 2009.",
    "img": "https://image.tmdb.org/t/p/w780/dPJ6Phs6crwoVXiLHntQk2lHz2T.jpg",
@@ -1585,6 +1781,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>State and Main (2000)</h1>\n<p class=\"ssr-lead\">The residents of a small Vermont town don&#x27;t know what hit them when a beleaguered Hollywood film crew brings a chaotic shoot to their quaint village.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 August 2000</li><li>Runtime: 106 minutes</li><li>Director: David Mamet</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 6.3/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alec Baldwin as Bob Berrenger</li><li>Philip Seymour Hoffman as Joseph Turner White</li><li>Charles Durning as Mayor George Bailey</li><li>Clark Gregg as Doug Mackenzie</li><li>Patti LuPone as Sherry Bailey</li><li>William H. Macy as Walt Price</li><li>Sarah Jessica Parker as Claire Wellesley</li><li>David Paymer as Marty Rossen</li><li>Julia Stiles as Carla</li><li>Rebecca Pidgeon as Ann</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "State and Main (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2000"
+  },
+  "movie:245891": {
+   "d": "John Wick (2014): Action/Thriller film. Story: Ex-hitman John Wick comes out of retirement to track… See cast, budget $20M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+   "industry": "world",
+   "k": "John Wick, John Wick movie, John Wick cast, John Wick story, John Wick box office collection, John Wick budget, John Wick review, John Wick rating, John Wick release date, John Wick trailer, John Wick Action, John Wick Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Nyqvist"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfie Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Willem Dafoe"
+     },
+     {
+      "@type": "Person",
+      "name": "Dean Winters"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21632,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "John Wick (2014): Action/Thriller film. Story: Ex-hitman John Wick comes out of retirement to track… See cast, budget $20M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chad Stahelski"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=245891",
+    "name": "John Wick",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=245891"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>John Wick (2014)</h1>\n<p class=\"ssr-lead\">Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2014</li><li>Runtime: 101 minutes</li><li>Director: Chad Stahelski</li><li>Genres: Action, Thriller</li><li>Budget: $20M</li><li>TMDB rating: 7.5/10 (21632 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as John Wick</li><li>Michael Nyqvist as Viggo Tarasov</li><li>Alfie Allen as Iosef Tarasov</li><li>Willem Dafoe as Marcus</li><li>Dean Winters as Avi</li><li>Adrianne Palicki as Ms. Perkins</li><li>Omer Barnea as Gregori</li><li>Toby Leonard Moore as Victor</li><li>Daniel Bernhardt as Kirill</li><li>Bridget Moynahan as Helen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "John Wick (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
+  "movie:256591": {
+   "d": "Focus (2015): Romance/Comedy film. Story: Nicky, an accomplished con artist, gets romantically… See cast, budget $50.1M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+   "industry": "world",
+   "k": "Focus, Focus movie, Focus cast, Focus story, Focus box office collection, Focus budget, Focus review, Focus rating, Focus release date, Focus trailer, Focus Romance, Focus Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Margot Robbie"
+     },
+     {
+      "@type": "Person",
+      "name": "Adrian Martinez"
+     },
+     {
+      "@type": "Person",
+      "name": "Gerald McRaney"
+     },
+     {
+      "@type": "Person",
+      "name": "Rodrigo Santoro"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8520,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Focus (2015): Romance/Comedy film. Story: Nicky, an accomplished con artist, gets romantically… See cast, budget $50.1M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Glenn Ficarra"
+     },
+     {
+      "@type": "Person",
+      "name": "John Requa"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Romance",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=256591",
+    "name": "Focus",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=256591"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Focus (2015)</h1>\n<p class=\"ssr-lead\">Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 February 2015</li><li>Runtime: 105 minutes</li><li>Director: Glenn Ficarra, John Requa</li><li>Genres: Romance, Comedy, Crime</li><li>Budget: $50.1M</li><li>TMDB rating: 6.9/10 (8520 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Smith as Nicky Spurgeon</li><li>Margot Robbie as Jess Barrett</li><li>Adrian Martinez as Farhad</li><li>Gerald McRaney as Owens</li><li>Rodrigo Santoro as Garriga</li><li>BD Wong as Liyuan</li><li>Brennan Brown as Horst</li><li>Robert Taylor as McEwen</li><li>Griff Furst as Gareth</li><li>Dotan Bonen as Gordon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Focus (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:26691": {
    "d": "Neuilly Yo Mama! (2009): Comedy film. Story: Samy moves from the underdeveloped crime-ridden… See cast, TMDB rating 6.0/10, and release date 12 August 2009.",
@@ -2559,6 +2887,70 @@
    "t": "Downhill (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:591": {
+   "d": "The Da Vinci Code (2006): Thriller/Mystery film. Story: A murder in Paris’ Louvre Museum and cryptic clues in… See cast, budget $125M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4NsQl44oXVMiuIM9t7ZsVgYzOkv.jpg",
+   "industry": "world",
+   "k": "The Da Vinci Code, The Da Vinci Code movie, The Da Vinci Code cast, The Da Vinci Code story, The Da Vinci Code box office collection, The Da Vinci Code budget, The Da Vinci Code review, The Da Vinci Code rating, The Da Vinci Code release date, The Da Vinci Code Thriller, The Da Vinci Code Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrey Tautou"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Bettany"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10463,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Da Vinci Code (2006): Thriller/Mystery film. Story: A murder in Paris’ Louvre Museum and cryptic clues in… See cast, budget $125M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Howard"
+     }
+    ],
+    "duration": "PT149M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4NsQl44oXVMiuIM9t7ZsVgYzOkv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=591",
+    "name": "The Da Vinci Code",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=591"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Da Vinci Code (2006)</h1>\n<p class=\"ssr-lead\">A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2006</li><li>Runtime: 149 minutes</li><li>Director: Ron Howard</li><li>Genres: Thriller, Mystery</li><li>Budget: $125M</li><li>TMDB rating: 6.7/10 (10463 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Robert Langdon</li><li>Audrey Tautou as Sophie Neveu</li><li>Ian McKellen as Sir Leigh Teabing</li><li>Jean Reno as Captain Bezu Fache</li><li>Paul Bettany as Silas</li><li>Alfred Molina as Bishop Manuel Aringarosa</li><li>Jürgen Prochnow as André Vernet</li><li>Jean-Yves Berteloot as Rémy Jean</li><li>Etienne Chicot as Lt. Collet</li><li>Jean-Pierre Marielle as Jacques Saunière</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Da Vinci Code (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:593691": {
    "d": "HOMECOMING: A film by Beyoncé (2019): Documentary/Music film. Story: This intimate, in-depth look at Beyoncé's celebrated… See cast and TMDB rating 8.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
@@ -2749,6 +3141,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bring the Soul: The Movie (2019)</h1>\n<p class=\"ssr-lead\">A glimpse into K-pop group BTS’ world away from the stage, featuring intimate group discussions alongside spectacular concert performances from their world tour.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 August 2019</li><li>Runtime: 105 minutes</li><li>Director: Park Jun-soo</li><li>Genres: Music, Documentary</li><li>TMDB rating: 8.3/10 (464 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>RM as Self</li><li>Jin as Self</li><li>SUGA as Self</li><li>j-hope as Self</li><li>Jimin as Self</li><li>V as Self</li><li>Jung Kook as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Kocowa</li></ul>\n</article>",
    "t": "Bring the Soul: The Movie (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:61791": {
+   "d": "Rise of the Planet of the Apes (2011): Thriller/Action film. Story: A highly intelligent chimpanzee named Caesar has been… See cast and budget $93M.",
+   "img": "https://image.tmdb.org/t/p/w780/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
+   "industry": "world",
+   "k": "Rise of the Planet of the Apes, Rise of the Planet of the Apes movie, Rise of the Planet of the Apes cast, Rise of the Planet of the Apes story, Rise of the Planet of the Apes box office collection, Rise of the Planet of the Apes budget, Rise of the Planet of the Apes review, Rise of the Planet of the Apes rating, Rise of the Planet of the Apes release date, Rise of the Planet of the Apes trailer, Rise of the Planet of the Apes Thriller, Rise of the Planet of the Apes Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andy Serkis"
+     },
+     {
+      "@type": "Person",
+      "name": "James Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Freida Pinto"
+     },
+     {
+      "@type": "Person",
+      "name": "John Lithgow"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13249,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Rise of the Planet of the Apes (2011): Thriller/Action film. Story: A highly intelligent chimpanzee named Caesar has been… See cast and budget $93M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rupert Wyatt"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=61791",
+    "name": "Rise of the Planet of the Apes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-08-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=61791"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rise of the Planet of the Apes (2011)</h1>\n<p class=\"ssr-lead\">A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 August 2011</li><li>Runtime: 105 minutes</li><li>Director: Rupert Wyatt</li><li>Genres: Thriller, Action, Drama, Science Fiction</li><li>Budget: $93M</li><li>TMDB rating: 7.4/10 (13249 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andy Serkis as Caesar</li><li>James Franco as Will Rodman</li><li>Freida Pinto as Caroline Aranha</li><li>John Lithgow as Charles Rodman</li><li>Brian Cox as John Landon</li><li>Tom Felton as Dodge Landon</li><li>Tyler Labine as Robert Franklin</li><li>Karin Konoval as Maurice / Court Clerk</li><li>Terry Notary as Rocket / Bright Eyes</li><li>Christopher Gordon as Koba</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Rise of the Planet of the Apes (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:61891": {
    "d": "Anonymous (2011): Drama/History film. Story: Set against the backdrop of the succession of Queen… See cast, budget $30M, and TMDB rating 6.4/10.",
@@ -2941,6 +3397,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Made in Italy (2020)</h1>\n<p class=\"ssr-lead\">A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 July 2020</li><li>Runtime: 94 minutes</li><li>Director: James D&#x27;Arcy</li><li>Genres: Comedy, Drama</li><li>Budget: $101.3k</li><li>TMDB rating: 6.0/10 (306 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Neeson as Robert</li><li>Micheál Richardson as Jack</li><li>Valeria Bilello as Natalia</li><li>Lindsay Duncan as Kate</li><li>Marco Quaglia as Luigi</li><li>Gian Marco Tavani as Marzio</li><li>Heléna Antonio as Raffaella</li><li>Yolanda Kettle as Ruth</li><li>Eileen Walsh as Astrid</li><li>Souad Faress as Ree</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Made in Italy (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:7191": {
+   "d": "Cloverfield (2008): Action/Thriller film. Story: Five young New Yorkers throw their friend a… See cast, budget $25M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
+   "industry": "world",
+   "k": "Cloverfield, Cloverfield movie, Cloverfield cast, Cloverfield story, Cloverfield box office collection, Cloverfield budget, Cloverfield review, Cloverfield rating, Cloverfield release date, Cloverfield Action, Cloverfield Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lizzy Caplan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Lucas"
+     },
+     {
+      "@type": "Person",
+      "name": "T.J. Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Stahl-David"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike Vogel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8245,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Cloverfield (2008): Action/Thriller film. Story: Five young New Yorkers throw their friend a… See cast, budget $25M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt Reeves"
+     }
+    ],
+    "duration": "PT85M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7191",
+    "name": "Cloverfield",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-01-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7191"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cloverfield (2008)</h1>\n<p class=\"ssr-lead\">Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 January 2008</li><li>Runtime: 85 minutes</li><li>Director: Matt Reeves</li><li>Genres: Action, Thriller, Science Fiction</li><li>Budget: $25M</li><li>TMDB rating: 6.7/10 (8245 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lizzy Caplan as Marlena</li><li>Jessica Lucas as Lily</li><li>T.J. Miller as Hud</li><li>Michael Stahl-David as Rob Hawkins</li><li>Mike Vogel as Jason Hawkins</li><li>Odette Annable as Beth McIntyre</li><li>Anjul Nigam as Bodega Cashier</li><li>Margot Farley as Jenn</li><li>Theo Rossi as Antonio</li><li>Brian Klugman as Charlie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Cloverfield (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:791": {
    "d": "The Fog (2005): Horror/Mystery film. Story: Trapped within an eerie mist, the residents of… See cast, budget $18M, and TMDB rating 4.6/10.",

@@ -1,7 +1,135 @@
 {
  "bucket": "01",
- "count": 61,
+ "count": 70,
  "titles": {
+  "movie:101": {
+   "backdrop_path": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Léon Montana",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Mathilda Lando",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Norman Stansfield",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Old Tony",
+     "n": "Danny Aiello"
+    },
+    {
+     "c": "Agent Malky",
+     "n": "Peter Appel"
+    },
+    {
+     "c": "Mathilda's Father",
+     "n": "Michael Badalucco"
+    },
+    {
+     "c": "Mathilda's Mother",
+     "n": "Ellen Greene"
+    },
+    {
+     "c": "Fatman",
+     "n": "Frank Senger"
+    },
+    {
+     "c": "Mathilda's Sister",
+     "n": "Elizabeth Regen"
+    },
+    {
+     "c": "Mathilda's Brother",
+     "n": "Carl J. Matusovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Luc Besson"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action"
+   ],
+   "id": 101,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+   "popularity": 20.3671,
+   "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-09-23",
+   "revenue": 20330788,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "If you want the job done right, hire a professional.",
+   "title": "Léon: The Professional",
+   "trailer": {
+    "key": "DD-6bmOY__g",
+    "name": "30 Year Anniversary 4K Restoration - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.288,
+   "vote_count": 16800
+  },
   "movie:1013601": {
    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
    "budget": 45000000,
@@ -153,6 +281,146 @@
    "type": "movie",
    "vote_average": 6.211,
    "vote_count": 488
+  },
+  "movie:10201": {
+   "backdrop_path": "/l9kUuYVqiZV1r6d4nKUKcQvtLR3.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Carl Allen",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Renee Allison",
+     "n": "Zooey Deschanel"
+    },
+    {
+     "c": "Peter",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Nick",
+     "n": "John Michael Higgins"
+    },
+    {
+     "c": "Norman",
+     "n": "Rhys Darby"
+    },
+    {
+     "c": "Rooney",
+     "n": "Danny Masterson"
+    },
+    {
+     "c": "Tillie",
+     "n": "Fionnula Flanagan"
+    },
+    {
+     "c": "Terence",
+     "n": "Terence Stamp"
+    },
+    {
+     "c": "Lucy",
+     "n": "Sasha Alexander"
+    },
+    {
+     "c": "Stephanie",
+     "n": "Molly Sims"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peyton Reed"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 10201,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.",
+   "popularity": 6.6348,
+   "poster_path": "/8Vk2nQF1kY34x53YnWd5zDaTht.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-12-09",
+   "revenue": 223200000,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "et",
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "One word can change everything.",
+   "title": "Yes Man",
+   "trailer": {
+    "key": "fifBy4N3-_k",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.699,
+   "vote_count": 7687
   },
   "movie:1116201": {
    "backdrop_path": "/seuG9UslSFybML8C4enbrE6Hsyz.jpg",
@@ -1356,6 +1624,174 @@
    "vote_average": 6.225,
    "vote_count": 60
   },
+  "movie:152601": {
+   "backdrop_path": "/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Theodore",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Samantha (voice)",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Letter Writer #1",
+     "n": "Lynn Adrianna"
+    },
+    {
+     "c": "Letter Writer #2",
+     "n": "Lisa Renee Pitts"
+    },
+    {
+     "c": "Letter Writer #3",
+     "n": "Gabe Gomez"
+    },
+    {
+     "c": "Paul",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Text Voice (voice)",
+     "n": "Artt Butler"
+    },
+    {
+     "c": "Sexy Pregnant TV Star",
+     "n": "May Lindstrom"
+    },
+    {
+     "c": "Catherine",
+     "n": "Rooney Mara"
+    },
+    {
+     "c": "Chat Room Friend #2 (voice)",
+     "n": "Bill Hader"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Spike Jonze"
+   ],
+   "genres": [
+    "Romance",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 152601,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+   "popularity": 11.3368,
+   "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-02-14",
+   "revenue": 47351251,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Spike Jonze love story.",
+   "title": "Her",
+   "trailer": {
+    "key": "ne6p6MfLBxc",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.832,
+   "vote_count": 15840
+  },
   "movie:15301": {
    "backdrop_path": "/8z8uPdpCBxGMQQGr8IfxRSbXNFs.jpg",
    "budget": 10000000,
@@ -1968,6 +2404,163 @@
    "vote_average": 7.4,
    "vote_count": 478
   },
+  "movie:203801": {
+   "backdrop_path": "/lZ2MSmrhb3zanyvg0KTNNTzmK9B.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Napoleon Solo",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Illya Kuryakin",
+     "n": "Armie Hammer"
+    },
+    {
+     "c": "Gaby Teller",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Victoria Vinciguerra",
+     "n": "Elizabeth Debicki"
+    },
+    {
+     "c": "Alexander",
+     "n": "Luca Calvani"
+    },
+    {
+     "c": "Uncle Rudi",
+     "n": "Sylvester Groth"
+    },
+    {
+     "c": "Waverly",
+     "n": "Hugh Grant"
+    },
+    {
+     "c": "Sanders",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "Udo",
+     "n": "Christian Berkel"
+    },
+    {
+     "c": "Oleg",
+     "n": "Misha Kuznetsov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Adventure"
+   ],
+   "id": 203801,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.",
+   "popularity": 7.1969,
+   "poster_path": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-08-28",
+   "revenue": 110045109,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en",
+    "ru",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Saving the world never goes out of style.",
+   "title": "The Man from U.N.C.L.E.",
+   "trailer": {
+    "key": "w_Ky4KPzKwY",
+    "name": "Comic-Con Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.079,
+   "vote_count": 7166
+  },
   "movie:20701": {
    "backdrop_path": "/fGEOTZQHYrfB509jdhmfo1rpref.jpg",
    "budget": 3500000,
@@ -2540,6 +3133,174 @@
    "vote_average": 5.753,
    "vote_count": 362
   },
+  "movie:2501": {
+   "backdrop_path": "/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Jason Bourne",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Marie Helena Kreutz",
+     "n": "Franka Potente"
+    },
+    {
+     "c": "Alexander Conklin",
+     "n": "Chris Cooper"
+    },
+    {
+     "c": "The Professor",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Ward Abbott",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Nykwana Wombosi",
+     "n": "Adewale Akinnuoye-Agbaje"
+    },
+    {
+     "c": "Danny Zorn",
+     "n": "Gabriel Mann"
+    },
+    {
+     "c": "Nicky Parsons",
+     "n": "Julia Stiles"
+    },
+    {
+     "c": "Research Tech",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Research Tech",
+     "n": "Josh Hamilton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Doug Liman"
+   ],
+   "genres": [
+    "Action",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 2501,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+   "popularity": 11.9952,
+   "poster_path": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+   "production_countries": [
+    "US",
+    "DE",
+    "CZ"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-10-04",
+   "revenue": 214034224,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "nl",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "He was the perfect weapon until he became the target.",
+   "title": "The Bourne Identity",
+   "trailer": {
+    "key": "PGKK5wACwrU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.49,
+   "vote_count": 10575
+  },
   "movie:28501": {
    "backdrop_path": "/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
    "budget": 200000,
@@ -2668,6 +3429,123 @@
    "type": "movie",
    "vote_average": 6.854,
    "vote_count": 411
+  },
+  "movie:337401": {
+   "backdrop_path": "/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Hua Mulan",
+     "n": "Liu Yifei"
+    },
+    {
+     "c": "Commander Tung",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Xian Niang",
+     "n": "Gong Li"
+    },
+    {
+     "c": "The Emperor",
+     "n": "Jet Li"
+    },
+    {
+     "c": "Böri Khan",
+     "n": "Jason Scott Lee"
+    },
+    {
+     "c": "Chen Honghui",
+     "n": "Yoson An"
+    },
+    {
+     "c": "Hua Zhou",
+     "n": "Tzi Ma"
+    },
+    {
+     "c": "Hua Li",
+     "n": "Rosalind Chao"
+    },
+    {
+     "c": "The Matchmaker",
+     "n": "Cheng Pei-pei"
+    },
+    {
+     "c": "Esteemed Guest",
+     "n": "Ming-Na Wen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Niki Caro"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 337401,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+   "popularity": 6.9924,
+   "poster_path": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-09-04",
+   "revenue": 69965374,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Loyal. Brave. True.",
+   "title": "Mulan",
+   "trailer": {
+    "key": "R-eFm--k21c",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.81,
+   "vote_count": 7220
   },
   "movie:340101": {
    "backdrop_path": "/vZbAwP1LthxHzRnodvVwXKwUk4n.jpg",
@@ -3972,6 +4850,134 @@
    "vote_average": 6.816,
    "vote_count": 438
   },
+  "movie:515001": {
+   "backdrop_path": "/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Jojo",
+     "n": "Roman Griffin Davis"
+    },
+    {
+     "c": "Elsa",
+     "n": "Thomasin McKenzie"
+    },
+    {
+     "c": "Rosie",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Adolf",
+     "n": "Taika Waititi"
+    },
+    {
+     "c": "Captain Klenzendorf",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Fraulein Rahm",
+     "n": "Rebel Wilson"
+    },
+    {
+     "c": "Finkel",
+     "n": "Alfie Allen"
+    },
+    {
+     "c": "Deertz",
+     "n": "Stephen Merchant"
+    },
+    {
+     "c": "Yorki",
+     "n": "Archie Yates"
+    },
+    {
+     "c": "Christoph",
+     "n": "Luke Brandon Field"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Taika Waititi"
+   ],
+   "genres": [
+    "Comedy",
+    "War",
+    "Drama"
+   ],
+   "id": 515001,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
+   "popularity": 8.7165,
+   "poster_path": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-01-31",
+   "revenue": 82468705,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "An anti-hate satire.",
+   "title": "Jojo Rabbit",
+   "trailer": {
+    "key": "tL4McUzXfFI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.969,
+   "vote_count": 10862
+  },
   "movie:550201": {
    "backdrop_path": "/eTpqaNzT0laL3kETlZPdW7LtnCa.jpg",
    "budget": 201822,
@@ -4352,6 +5358,189 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 438
+  },
+  "movie:601": {
+   "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+   "budget": 10500000,
+   "cast": [
+    {
+     "c": "Elliott",
+     "n": "Henry Thomas"
+    },
+    {
+     "c": "Gertie",
+     "n": "Drew Barrymore"
+    },
+    {
+     "c": "Michael",
+     "n": "Robert MacNaughton"
+    },
+    {
+     "c": "Keys",
+     "n": "Peter Coyote"
+    },
+    {
+     "c": "Mary",
+     "n": "Dee Wallace"
+    },
+    {
+     "c": "Pretty Girl",
+     "n": "Erika Eleniak"
+    },
+    {
+     "c": "Greg",
+     "n": "K.C. Martel"
+    },
+    {
+     "c": "Tyler",
+     "n": "C. Thomas Howell"
+    },
+    {
+     "c": "Steve",
+     "n": "Sean Frye"
+    },
+    {
+     "c": "Schoolboy",
+     "n": "David M. O'Dell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Family"
+   ],
+   "id": 601,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+   "popularity": 14.8289,
+   "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1986-05-09",
+   "revenue": 797307407,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+   "title": "E.T. the Extra-Terrestrial",
+   "trailer": {
+    "key": "NsvdZ_z56c0",
+    "name": "2022 40th Anniversary IMAX Release",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.518,
+   "vote_count": 12429
   },
   "movie:676701": {
    "backdrop_path": "/tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg",
@@ -4896,6 +6085,153 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 441
+  },
+  "movie:87101": {
+   "backdrop_path": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+   "budget": 155000000,
+   "cast": [
+    {
+     "c": "Guardian / The Terminator",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "John Connor",
+     "n": "Jason Clarke"
+    },
+    {
+     "c": "Sarah Connor",
+     "n": "Emilia Clarke"
+    },
+    {
+     "c": "Kyle Reese",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "O'Brien",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Danny Dyson",
+     "n": "Dayo Okeniyi"
+    },
+    {
+     "c": "Alex / Skynet",
+     "n": "Matt Smith"
+    },
+    {
+     "c": "Miles Dyson",
+     "n": "Courtney B. Vance"
+    },
+    {
+     "c": "Cop / T-1000",
+     "n": "Lee Byung-hun"
+    },
+    {
+     "c": "Lieutenant Matias",
+     "n": "Michael Gladis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alan Taylor"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+   ],
+   "id": 87101,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+   "popularity": 13.0981,
+   "poster_path": "/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-07-02",
+   "revenue": 440603537,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Reset the future.",
+   "title": "Terminator Genisys",
+   "trailer": {
+    "key": "Dx3ShEjUId0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.965,
+   "vote_count": 9303
   },
   "movie:9401": {
    "backdrop_path": "/7JmTlybgcuEH6uuOIOk96Bupj4Z.jpg",

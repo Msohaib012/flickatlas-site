@@ -1,7 +1,220 @@
 {
  "bucket": "82",
- "count": 67,
+ "count": 75,
  "titles": {
+  "movie:102382": {
+   "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Spider-Man / Peter Parker",
+     "n": "Andrew Garfield"
+    },
+    {
+     "c": "Gwen Stacy",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Electro / Max Dillon",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Green Goblin / Harry Osborn",
+     "n": "Dane DeHaan"
+    },
+    {
+     "c": "Donald Menken",
+     "n": "Colm Feore"
+    },
+    {
+     "c": "Felicia",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Aleksei Sytsevich",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Aunt May",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Mary Parker",
+     "n": "Embeth Davidtz"
+    },
+    {
+     "c": "Richard Parker",
+     "n": "Campbell Scott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Marc Webb"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 102382,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+   "popularity": 17.7802,
+   "poster_path": "/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-04-16",
+   "revenue": 716934779,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "His greatest battle begins.",
+   "title": "The Amazing Spider-Man 2",
+   "trailer": {
+    "key": "DlM2CWNTQ84",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.568,
+   "vote_count": 14969
+  },
   "movie:11082": {
    "backdrop_path": "/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
    "budget": 0,
@@ -2912,6 +3125,156 @@
    "vote_average": 7.374,
    "vote_count": 392
   },
+  "movie:242582": {
+   "backdrop_path": "/aCnpRvVBqltC8ZuVP67C4fdUCb4.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Louis Bloom",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Nina Romina",
+     "n": "Rene Russo"
+    },
+    {
+     "c": "Rick",
+     "n": "Riz Ahmed"
+    },
+    {
+     "c": "Joe Loder",
+     "n": "Bill Paxton"
+    },
+    {
+     "c": "Frank Kruse",
+     "n": "Kevin Rahm"
+    },
+    {
+     "c": "Detective Frontieri",
+     "n": "Michael Hyatt"
+    },
+    {
+     "c": "Detective Lieberman",
+     "n": "Price Carson"
+    },
+    {
+     "c": "Linda",
+     "n": "Ann Cusack"
+    },
+    {
+     "c": "Kent Shocknek",
+     "n": "Kent Shocknek"
+    },
+    {
+     "c": "Sharon Tay",
+     "n": "Sharon Tay"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Dan Gilroy"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 242582,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+   "popularity": 12.7675,
+   "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Sundance Now Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-31",
+   "revenue": 47425835,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The city shines brightest at night.",
+   "title": "Nightcrawler",
+   "trailer": {
+    "key": "7uaYhPpV7G4",
+    "name": "Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.708,
+   "vote_count": 12273
+  },
   "movie:24382": {
    "backdrop_path": "/ryoWP1kvNcwPif6uNbuZwQfrJPy.jpg",
    "budget": 0,
@@ -3565,6 +3928,198 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 323
+  },
+  "movie:331482": {
+   "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Jo March",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Meg March",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Amy March",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Beth March",
+     "n": "Eliza Scanlen"
+    },
+    {
+     "c": "Marmee March",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Laurie",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "Mr. Dashwood",
+     "n": "Tracy Letts"
+    },
+    {
+     "c": "Father March",
+     "n": "Bob Odenkirk"
+    },
+    {
+     "c": "John Brooke",
+     "n": "James Norton"
+    },
+    {
+     "c": "Friedrich Bhaer",
+     "n": "Louis Garrel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Greta Gerwig"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 331482,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+   "popularity": 14.6569,
+   "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-01-17",
+   "revenue": 332103783,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Own your story.",
+   "title": "Little Women",
+   "trailer": {
+    "key": "AST2-4db4ic",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.855,
+   "vote_count": 7149
   },
   "movie:33282": {
    "backdrop_path": "/uIM194h5adOGZP59BvIAJbLjsfV.jpg",
@@ -4339,6 +4894,113 @@
    "vote_average": 5.8,
    "vote_count": 962
   },
+  "movie:466282": {
+   "backdrop_path": "/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lara Jean Song Covey",
+     "n": "Lana Condor"
+    },
+    {
+     "c": "Peter Kavinsky",
+     "n": "Noah Centineo"
+    },
+    {
+     "c": "Josh Sanderson",
+     "n": "Israel Broussard"
+    },
+    {
+     "c": "Margot Song Covey",
+     "n": "Janel Parrish"
+    },
+    {
+     "c": "Katherine \"Kitty\" Song Covey",
+     "n": "Anna Cathcart"
+    },
+    {
+     "c": "Greg Rivera",
+     "n": "Andrew Bachelor"
+    },
+    {
+     "c": "Lucas James",
+     "n": "Trezzo Mahoro"
+    },
+    {
+     "c": "Genevieve",
+     "n": "Emilija Baranac"
+    },
+    {
+     "c": "Christine",
+     "n": "Madeleine Arthur"
+    },
+    {
+     "c": "Daniel Covey",
+     "n": "John Corbett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Susan Johnson"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 466282,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
+   "popularity": 7.1664,
+   "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-08-17",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The letters are out.",
+   "title": "To All the Boys I've Loved Before",
+   "trailer": {
+    "key": "555oiY9RWM4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.587,
+   "vote_count": 8813
+  },
   "movie:467482": {
    "backdrop_path": "/xIWY7Z50MQjcoOciO5JAhsR3F9j.jpg",
    "budget": 0,
@@ -4695,6 +5357,114 @@
    "vote_average": 6.5,
    "vote_count": 956
   },
+  "movie:497582": {
+   "backdrop_path": "/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Enola Holmes",
+     "n": "Millie Bobby Brown"
+    },
+    {
+     "c": "Sherlock Holmes",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Mycroft Holmes",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Eudoria Holmes",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Tewkesbury",
+     "n": "Louis Partridge"
+    },
+    {
+     "c": "Lestrade",
+     "n": "Adeel Akhtar"
+    },
+    {
+     "c": "Miss Harrison",
+     "n": "Fiona Shaw"
+    },
+    {
+     "c": "The Dowager",
+     "n": "Frances de la Tour"
+    },
+    {
+     "c": "Linthorn",
+     "n": "Burn Gorman"
+    },
+    {
+     "c": "Edith",
+     "n": "Susan Wokoma"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Harry Bradbeer"
+   ],
+   "genres": [
+    "Adventure",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 497582,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+   "popularity": 6.6675,
+   "poster_path": "/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-09-22",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mystery runs in the family.",
+   "title": "Enola Holmes",
+   "trailer": {
+    "key": "1d0Zf9sXlHk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.202,
+   "vote_count": 6930
+  },
   "movie:502682": {
    "backdrop_path": "/ut4V8JMXlj7L5qX8jSXbKMY6WT3.jpg",
    "budget": 10000000,
@@ -4958,6 +5728,184 @@
    "vote_average": 7.874,
    "vote_count": 414
   },
+  "movie:53182": {
+   "backdrop_path": "/chjkfyo57JexWo1YeIZRMk8wA4m.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Themistocles",
+     "n": "Sullivan Stapleton"
+    },
+    {
+     "c": "Artemisia",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Queen Gorgo",
+     "n": "Lena Headey"
+    },
+    {
+     "c": "Scylias",
+     "n": "Callan Mulvey"
+    },
+    {
+     "c": "Dillios",
+     "n": "David Wenham"
+    },
+    {
+     "c": "Xerxes",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Calisto",
+     "n": "Jack O'Connell"
+    },
+    {
+     "c": "Ephialtes",
+     "n": "Andrew Tiernan"
+    },
+    {
+     "c": "General Bandari",
+     "n": "Ashraf Barhom"
+    },
+    {
+     "c": "Daxos",
+     "n": "Andrew Pleavin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Noam Murro"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "id": 53182,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Greek general Themistocles attempts to unite all of Greece by leading the charge that will change the course of the war. Themistocles faces the massive invading Persian forces led by mortal-turned-god, Xerxes and Artemesia, the vengeful commander of the Persian navy.",
+   "popularity": 8.6998,
+   "poster_path": "/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg",
+   "production_countries": [
+    "BG",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-03-07",
+   "revenue": 337580051,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Seize your glory!",
+   "title": "300: Rise of an Empire",
+   "trailer": {
+    "key": "bsoJaQ2gZh4",
+    "name": "HD Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.123,
+   "vote_count": 7215
+  },
   "movie:589982": {
    "backdrop_path": "/A9Ub7OXDS0OuEP2DelhYJM8yvrO.jpg",
    "budget": 0,
@@ -5161,6 +6109,144 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 944
+  },
+  "movie:64682": {
+   "backdrop_path": "/cf4YmtSnNhdG7s9ERmXyaDEznEw.jpg",
+   "budget": 105000000,
+   "cast": [
+    {
+     "c": "Jay Gatsby",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Nick Carraway",
+     "n": "Tobey Maguire"
+    },
+    {
+     "c": "Daisy Buchanan",
+     "n": "Carey Mulligan"
+    },
+    {
+     "c": "Tom Buchanan",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Jordan Baker",
+     "n": "Elizabeth Debicki"
+    },
+    {
+     "c": "Myrtle Wilson",
+     "n": "Isla Fisher"
+    },
+    {
+     "c": "George Wilson",
+     "n": "Jason Clarke"
+    },
+    {
+     "c": "Meyer Wolfsheim",
+     "n": "Amitabh Bachchan"
+    },
+    {
+     "c": "Teen Jay Gatsby",
+     "n": "Callan McAuliffe"
+    },
+    {
+     "c": "Catherine",
+     "n": "Adelaide Clemens"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Baz Luhrmann"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 64682,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nick Carraway arrives in New York in 1922, an era of loose morals, glittering jazz and bootleg kings. Chasing his own American Dream, Nick encounters the mysterious millionaire Gatsby and his bewitching cousin Daisy. Soon, Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits. Bearing witness to this new world, Nick pens a tale of impossible love, incorruptible dreams and unforgettable tragedy -- mirroring our own times and struggles.​",
+   "popularity": 8.3218,
+   "poster_path": "/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg",
+   "production_countries": [
+    "US",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-05-17",
+   "revenue": 351040419,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Dream dangerously.",
+   "title": "The Great Gatsby",
+   "trailer": {
+    "key": "l6yANES3TMM",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.345,
+   "vote_count": 13316
   },
   "movie:668482": {
    "backdrop_path": "/jG52tsazn04F1fe8hPZfVv7ICKt.jpg",
@@ -5397,6 +6483,138 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 381
+  },
+  "movie:782": {
+   "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+   "budget": 36000000,
+   "cast": [
+    {
+     "c": "Vincent Freeman",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Irene Cassini",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Jerome Eugene Morrow",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Detective Hugo",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "Adult Anton Freeman",
+     "n": "Loren Dean"
+    },
+    {
+     "c": "Director Josef",
+     "n": "Gore Vidal"
+    },
+    {
+     "c": "\"German\"",
+     "n": "Tony Shalhoub"
+    },
+    {
+     "c": "Caesar",
+     "n": "Ernest Borgnine"
+    },
+    {
+     "c": "Geneticist",
+     "n": "Blair Underwood"
+    },
+    {
+     "c": "Dr. Lamar",
+     "n": "Xander Berkeley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andrew Niccol"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 782,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+   "popularity": 8.2286,
+   "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-07-09",
+   "revenue": 12532777,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "eo"
+   ],
+   "status": "Released",
+   "tagline": "There is no gene for the human spirit.",
+   "title": "Gattaca",
+   "trailer": {
+    "key": "NIIZ2P-fiyI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.568,
+   "vote_count": 7280
   },
   "movie:799882": {
    "backdrop_path": "/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg",

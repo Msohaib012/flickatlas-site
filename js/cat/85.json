@@ -1,6 +1,6 @@
 {
  "bucket": "85",
- "count": 66,
+ "count": 75,
  "titles": {
   "movie:10885": {
    "backdrop_path": "/nzievM20bSwmUMV6ELFA3w2uKtz.jpg",
@@ -491,6 +491,123 @@
    "vote_average": 6.7,
    "vote_count": 466
   },
+  "movie:127585": {
+   "backdrop_path": "/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Logan / Wolverine",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Charles Xavier",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Erik Lehnsherr",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Professor X",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Magneto",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Raven / Mystique",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Storm",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Hank / Beast",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Rogue",
+     "n": "Anna Paquin"
+    },
+    {
+     "c": "Kitty Pryde",
+     "n": "Elliot Page"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bryan Singer"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 127585,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+   "popularity": 13.9498,
+   "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-05-23",
+   "revenue": 748045700,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ru",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "To save the future, they must alter the past.",
+   "title": "X-Men: Days of Future Past",
+   "trailer": {
+    "key": "gsjtg7m1MMM",
+    "name": "X-Men: Days of Future Past | Official Trailer 3 [HD] | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.539,
+   "vote_count": 16897
+  },
   "movie:1371185": {
    "backdrop_path": "/8dlna8rRcf5gDCRzEsjtHizpj1X.jpg",
    "budget": 30000000,
@@ -631,6 +748,132 @@
    "type": "movie",
    "vote_average": 7.333,
    "vote_count": 354
+  },
+  "movie:13885": {
+   "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Sweeney Todd",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Mrs. Lovett",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Judge Turpin",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Beadle",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Pirelli",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Anthony",
+     "n": "Jamie Campbell Bower"
+    },
+    {
+     "c": "Lucy / Beggar Woman",
+     "n": "Laura Michelle Kelly"
+    },
+    {
+     "c": "Johanna",
+     "n": "Jayne Wisener"
+    },
+    {
+     "c": "Toby",
+     "n": "Ed Sanders"
+    },
+    {
+     "c": "Baby Johanna",
+     "n": "Gracie May Weldon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
+   "id": 13885,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+   "popularity": 6.2689,
+   "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-12-21",
+   "revenue": 153384272,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never forget. Never forgive.",
+   "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.172,
+   "vote_count": 6579
   },
   "movie:1397385": {
    "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
@@ -1692,6 +1935,132 @@
    "vote_average": 6.554,
    "vote_count": 37
   },
+  "movie:185": {
+   "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+   "budget": 2200000,
+   "cast": [
+    {
+     "c": "Alex",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Mr. Alexander",
+     "n": "Patrick Magee"
+    },
+    {
+     "c": "Dr. Brodsky",
+     "n": "Carl Duering"
+    },
+    {
+     "c": "Chief Guard",
+     "n": "Michael Bates"
+    },
+    {
+     "c": "Dim",
+     "n": "Warren Clarke"
+    },
+    {
+     "c": "Georgie",
+     "n": "James Marcus"
+    },
+    {
+     "c": "Pete",
+     "n": "Michael Tarn"
+    },
+    {
+     "c": "Catlady",
+     "n": "Miriam Karlin"
+    },
+    {
+     "c": "Mrs. Alexander",
+     "n": "Adrienne Corri"
+    },
+    {
+     "c": "Mum",
+     "n": "Sheila Raynor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NC-17",
+   "date_kind": "release",
+   "director": [
+    "Stanley Kubrick"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Crime"
+   ],
+   "id": 185,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+   "popularity": 12.8462,
+   "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1971-10-28",
+   "revenue": 27033812,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+   "title": "A Clockwork Orange",
+   "trailer": {
+    "key": "2meAsIclTzQ",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 14321
+  },
   "movie:18585": {
    "backdrop_path": "/21mAnWSUYLAIJpmqUd1QgzblpcM.jpg",
    "budget": 3200000,
@@ -1851,6 +2220,172 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 390
+  },
+  "movie:18785": {
+   "backdrop_path": "/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Phil Wenneck",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Stu Price",
+     "n": "Ed Helms"
+    },
+    {
+     "c": "Alan Garner",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Doug Billings",
+     "n": "Justin Bartha"
+    },
+    {
+     "c": "Jade",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Tracy",
+     "n": "Sasha Barrese"
+    },
+    {
+     "c": "Sid Garner",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Mr. Chow",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Melissa",
+     "n": "Rachael Harris"
+    },
+    {
+     "c": "Mike Tyson",
+     "n": "Mike Tyson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Phillips"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 18785,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+   "popularity": 15.0507,
+   "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-06-02",
+   "revenue": 469310836,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some guys just can't handle Vegas.",
+   "title": "The Hangover",
+   "trailer": {
+    "key": "tlize92ffnY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.339,
+   "vote_count": 18755
   },
   "movie:18885": {
    "backdrop_path": "/2m8gk7KmYk5POA5b4Xr7URBsK4P.jpg",
@@ -2699,6 +3234,122 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 437
+  },
+  "movie:285": {
+   "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+   "budget": 300000000,
+   "cast": [
+    {
+     "c": "Jack Sparrow",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Barbossa",
+     "n": "Geoffrey Rush"
+    },
+    {
+     "c": "Will Turner",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Elizabeth Swann",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Norrington",
+     "n": "Jack Davenport"
+    },
+    {
+     "c": "Davy Jones",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Governor Weatherby Swann",
+     "n": "Jonathan Pryce"
+    },
+    {
+     "c": "Pintel",
+     "n": "Lee Arenberg"
+    },
+    {
+     "c": "Ragetti",
+     "n": "Mackenzie Crook"
+    },
+    {
+     "c": "Gibbs",
+     "n": "Kevin McNally"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gore Verbinski"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 285,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+   "popularity": 18.4753,
+   "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-05-19",
+   "revenue": 961691209,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At the end of the world, the adventure begins.",
+   "title": "Pirates of the Caribbean: At World's End",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.28,
+   "vote_count": 16070
   },
   "movie:30685": {
    "backdrop_path": "/oFAwGYk2SIAnNiHjRiTFONE14kI.jpg",
@@ -4681,6 +5332,140 @@
    "vote_average": 6.334,
    "vote_count": 311
   },
+  "movie:530385": {
+   "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Dani",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Christian",
+     "n": "Jack Reynor"
+    },
+    {
+     "c": "Josh",
+     "n": "William Jackson Harper"
+    },
+    {
+     "c": "Mark",
+     "n": "Will Poulter"
+    },
+    {
+     "c": "Pelle",
+     "n": "Vilhelm Blomgren"
+    },
+    {
+     "c": "Maja",
+     "n": "Isabelle Grill"
+    },
+    {
+     "c": "Siv",
+     "n": "Gunnel Fred"
+    },
+    {
+     "c": "Connie",
+     "n": "Ellora Torchia"
+    },
+    {
+     "c": "Simon",
+     "n": "Archie Madekwe"
+    },
+    {
+     "c": "Ulf",
+     "n": "Henrik Norlén"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ari Aster"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 530385,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+   "popularity": 13.2046,
+   "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+   "production_countries": [
+    "SE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-07-03",
+   "revenue": 48498408,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Let the festivities begin.",
+   "title": "Midsommar",
+   "trailer": {
+    "key": "1Vnghdsjmd0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.138,
+   "vote_count": 8639
+  },
   "movie:53985": {
    "backdrop_path": "/sGRYgQkVfUvJiCzz8RZ0Zb1wyHq.jpg",
    "budget": 0,
@@ -5122,6 +5907,127 @@
    "vote_average": 5.115,
    "vote_count": 492
   },
+  "movie:585": {
+   "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Sullivan (voice)",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Mike (voice)",
+     "n": "Billy Crystal"
+    },
+    {
+     "c": "Boo (voice)",
+     "n": "Mary Gibbs"
+    },
+    {
+     "c": "Randall (voice)",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Waternoose (voice)",
+     "n": "James Coburn"
+    },
+    {
+     "c": "Celia (voice)",
+     "n": "Jennifer Tilly"
+    },
+    {
+     "c": "Roz (voice)",
+     "n": "Bob Peterson"
+    },
+    {
+     "c": "Yeti (voice)",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Jeff Fungus (voice)",
+     "n": "Frank Oz"
+    },
+    {
+     "c": "Needleman / Smitty (voice)",
+     "n": "Daniel Gerson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Pete Docter"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 585,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+   "popularity": 21.9421,
+   "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-11-01",
+   "revenue": 650000000,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's nothing personal. It's just their job.",
+   "title": "Monsters, Inc.",
+   "trailer": {
+    "key": "6tCxnHCqqxg",
+    "name": "Monsters, Inc. 3D Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.86,
+   "vote_count": 20525
+  },
   "movie:595985": {
    "backdrop_path": "/ob8w7gQNV4uL43fCGbD6y89rpDn.jpg",
    "budget": 2700000,
@@ -5548,6 +6454,324 @@
    "type": "movie",
    "vote_average": 5.342,
    "vote_count": 404
+  },
+  "movie:85": {
+   "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Indiana Jones",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Marion Ravenwood",
+     "n": "Karen Allen"
+    },
+    {
+     "c": "Dr. René Belloq",
+     "n": "Paul Freeman"
+    },
+    {
+     "c": "Sallah",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "Major Arnold Toht",
+     "n": "Ronald Lacey"
+    },
+    {
+     "c": "Colonel Dietrich",
+     "n": "Wolf Kahler"
+    },
+    {
+     "c": "Gobler",
+     "n": "Anthony Higgins"
+    },
+    {
+     "c": "Dr. Marcus Brody",
+     "n": "Denholm Elliott"
+    },
+    {
+     "c": "Satipo",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Barranca / Monkey Man",
+     "n": "Vic Tablian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 85,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+   "popularity": 16.1021,
+   "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1982-09-07",
+   "revenue": 389925971,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "de",
+    "he",
+    "ar",
+    "ne"
+   ],
+   "status": "Released",
+   "tagline": "The return of the great adventure.",
+   "title": "Raiders of the Lost Ark",
+   "trailer": {
+    "key": "0xQSIdSRlAk",
+    "name": "Paramount Movies Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.928,
+   "vote_count": 14229
+  },
+  "movie:872585": {
+   "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "J. Robert Oppenheimer",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Kitty Oppenheimer",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Leslie Groves",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Lewis Strauss",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Jean Tatlock",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Ernest Lawrence",
+     "n": "Josh Hartnett"
+    },
+    {
+     "c": "Boris Pash",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "David Hill",
+     "n": "Rami Malek"
+    },
+    {
+     "c": "Niels Bohr",
+     "n": "Kenneth Branagh"
+    },
+    {
+     "c": "Edward Teller",
+     "n": "Benny Safdie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "id": 872585,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+   "popularity": 35.2572,
+   "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2023-07-21",
+   "revenue": 952000000,
+   "runtime": 181,
+   "source": "catalogue",
+   "spoken_languages": [
+    "nl",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The world forever changes.",
+   "title": "Oppenheimer",
+   "trailer": {
+    "key": "qiuSBWVdgLI",
+    "name": "Review",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.023,
+   "vote_count": 12920
   },
   "movie:89185": {
    "backdrop_path": "/nuhKYERTbwHmQPoqhl2AuzP2XPM.jpg",

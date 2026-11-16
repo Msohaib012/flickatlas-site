@@ -1,6 +1,6 @@
 {
  "bucket": "87",
- "count": 59,
+ "count": 70,
  "titles": {
   "movie:1030987": {
    "backdrop_path": "/g2EUWSPVSLyzIkrKdxuHSF2wGWh.jpg",
@@ -1689,6 +1689,129 @@
    "vote_average": 5.969,
    "vote_count": 753
   },
+  "movie:1487": {
+   "backdrop_path": "/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+   "budget": 66000000,
+   "cast": [
+    {
+     "c": "Hellboy",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Elizabeth 'Liz' Sherman",
+     "n": "Selma Blair"
+    },
+    {
+     "c": "Abraham 'Abe' Sapien",
+     "n": "Doug Jones"
+    },
+    {
+     "c": "Prof. Trevor 'Broom' Bruttenholm",
+     "n": "John Hurt"
+    },
+    {
+     "c": "John Myers",
+     "n": "Rupert Evans"
+    },
+    {
+     "c": "Tom Manning",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Karl Ruprecht Kroenen",
+     "n": "Ladislav Beran"
+    },
+    {
+     "c": "Ilsa Haupstein",
+     "n": "Bridget Hodson"
+    },
+    {
+     "c": "Grigori Rasputin",
+     "n": "Karel Roden"
+    },
+    {
+     "c": "Sammael",
+     "n": "Brian Steele"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Guillermo del Toro"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action"
+   ],
+   "id": 1487,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+   "popularity": 6.0754,
+   "poster_path": "/21hS8mD8uxBVvf8xVYR30LbbmPO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-05-14",
+   "revenue": 99318987,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From the dark side to our side.",
+   "title": "Hellboy",
+   "trailer": {
+    "key": "qc4-3QmiFak",
+    "name": "Hellboy - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.677,
+   "vote_count": 7726
+  },
   "movie:15587": {
    "backdrop_path": "/6HEwXKpci1B1cEPQdG3CBNAUNHt.jpg",
    "budget": 0,
@@ -2355,6 +2478,115 @@
    "vote_average": 7.241,
    "vote_count": 410
   },
+  "movie:187": {
+   "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Hartigan",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Nancy",
+     "n": "Jessica Alba"
+    },
+    {
+     "c": "Dwight",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Marv",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Cardinal Roark",
+     "n": "Rutger Hauer"
+    },
+    {
+     "c": "Jackie Boy",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Becky",
+     "n": "Alexis Bledel"
+    },
+    {
+     "c": "Bob",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "Senator Roark",
+     "n": "Powers Boothe"
+    },
+    {
+     "c": "Roark Jr. / Yellow Bastard",
+     "n": "Nick Stahl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Rodriguez",
+    "Frank Miller"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 187,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+   "popularity": 7.765,
+   "poster_path": "/cByFo9vMktkRsZ6ji6FvOZggBWv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-04-01",
+   "revenue": 158733820,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There is no justice without sin.",
+   "title": "Sin City",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.465,
+   "vote_count": 9231
+  },
   "movie:1987": {
    "backdrop_path": "/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
    "budget": 0,
@@ -2668,6 +2900,126 @@
    "type": "movie",
    "vote_average": 6.14,
    "vote_count": 479
+  },
+  "movie:206487": {
+   "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+   "budget": 5500000,
+   "cast": [
+    {
+     "c": "The Bartender",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "The Unmarried Mother",
+     "n": "Sarah Snook"
+    },
+    {
+     "c": "Mr. Robertson",
+     "n": "Noah Taylor"
+    },
+    {
+     "c": "Mr. Miles",
+     "n": "Christopher Kirby"
+    },
+    {
+     "c": "Mrs. Stapleton",
+     "n": "Madeleine West"
+    },
+    {
+     "c": "Dr. Belfort",
+     "n": "Jim Knobeloch"
+    },
+    {
+     "c": "Alice",
+     "n": "Freya Stafford"
+    },
+    {
+     "c": "Nurse",
+     "n": "Elise Jansen"
+    },
+    {
+     "c": "Dr. Heinlein",
+     "n": "Tyler Coppin"
+    },
+    {
+     "c": "The Interviewer",
+     "n": "Christopher Stollery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michael Spierig",
+    "Peter Spierig"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 206487,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+   "popularity": 7.6387,
+   "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+   "production_countries": [
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-08-28",
+   "revenue": 5386852,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To save the future he must reshape the past.",
+   "title": "Predestination",
+   "trailer": {
+    "key": "xxG-YfedrfU",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.411,
+   "vote_count": 7489
   },
   "movie:2087": {
    "backdrop_path": "/zwr45axiNqYhTs6IO4wjNOMp054.jpg",
@@ -4047,6 +4399,348 @@
    "vote_average": 7.036,
    "vote_count": 370
   },
+  "movie:328387": {
+   "backdrop_path": "/fg04CQyJzuDJ82jm2meY37n9XyE.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Vee Delmonico",
+     "n": "Emma Roberts"
+    },
+    {
+     "c": "Ian",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Sydney Sloane",
+     "n": "Emily Meade"
+    },
+    {
+     "c": "Tommy Mancuso",
+     "n": "Miles Heizer"
+    },
+    {
+     "c": "Nancy Delmonico",
+     "n": "Juliette Lewis"
+    },
+    {
+     "c": "Liv Kurosawa",
+     "n": "Kimiko Glenn"
+    },
+    {
+     "c": "Ty",
+     "n": "mgk"
+    },
+    {
+     "c": "Wes",
+     "n": "Marc John Jefferies"
+    },
+    {
+     "c": "Azhar",
+     "n": "Samira Wiley"
+    },
+    {
+     "c": "J.P.",
+     "n": "Brian Marc"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Henry Joost",
+    "Ariel Schulman"
+   ],
+   "genres": [
+    "Mystery",
+    "Adventure",
+    "Crime"
+   ],
+   "id": 328387,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Industrious high school senior Vee Delmonico has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.",
+   "popularity": 3.507,
+   "poster_path": "/qmSpHC0CSNyNll9WhlwWYuwoQ28.jpg",
+   "production_countries": [
+    "HK",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-11-25",
+   "revenue": 85241496,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We dare you.",
+   "title": "Nerve",
+   "trailer": {
+    "key": "2PR9MOPTI7g",
+    "name": "Nerve (2016 Movie) - Official Trailer – ‘Watcher or Player?’",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.988,
+   "vote_count": 7141
+  },
+  "movie:335787": {
+   "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Nathan Drake",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "Victor 'Sully' Sullivan",
+     "n": "Mark Wahlberg"
+    },
+    {
+     "c": "Chloe Frazer",
+     "n": "Sophia Ali"
+    },
+    {
+     "c": "Jo Braddock",
+     "n": "Tati Gabrielle"
+    },
+    {
+     "c": "Santiago Moncada",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "The Scotsman",
+     "n": "Steven Waddington"
+    },
+    {
+     "c": "Young Sam",
+     "n": "Rudy Pankow"
+    },
+    {
+     "c": "Young Nate",
+     "n": "Tiernan Jones"
+    },
+    {
+     "c": "Hugo",
+     "n": "Pingi Moli"
+    },
+    {
+     "c": "Guard at Museum",
+     "n": "Jesús Evita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ruben Fleischer"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Mystery"
+   ],
+   "id": 335787,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+   "popularity": 9.9023,
+   "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Channel 4 Plus"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-02-10",
+   "revenue": 407141258,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fortune favors the bold.",
+   "title": "Uncharted",
+   "trailer": {
+    "key": "l-LD16Yzi2c",
+    "name": "UNCHARTED - Final Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.857,
+   "vote_count": 7303
+  },
   "movie:339987": {
    "backdrop_path": "/A2wS0nQsR6EJZxTHzRi3tURIDTY.jpg",
    "budget": 0,
@@ -4457,6 +5151,157 @@
    "type": "movie",
    "vote_average": 4.7,
    "vote_count": 338
+  },
+  "movie:385687": {
+   "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+   "budget": 340000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Letty",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Roman",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Tej",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Jakob",
+     "n": "John Cena"
+    },
+    {
+     "c": "Ramsey",
+     "n": "Nathalie Emmanuel"
+    },
+    {
+     "c": "Mia",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Han",
+     "n": "Sung Kang"
+    },
+    {
+     "c": "Dante",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Little Nobody",
+     "n": "Scott Eastwood"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Louis Leterrier"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 385687,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+   "popularity": 18.3781,
+   "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2023-05-19",
+   "revenue": 704709660,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The end of the road begins.",
+   "title": "Fast X",
+   "trailer": {
+    "key": "eoOaKN4qCKw",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.96,
+   "vote_count": 6638
   },
   "movie:423087": {
    "backdrop_path": "/twq14rFTS6a2SoJsk8LSajR7Hym.jpg",
@@ -5356,6 +6201,155 @@
    "vote_average": 6.02,
    "vote_count": 322
   },
+  "movie:587": {
+   "backdrop_path": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Ed Bloom (young)",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Ed Bloom (senior)",
+     "n": "Albert Finney"
+    },
+    {
+     "c": "Will Bloom",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Sandra Bloom (senior)",
+     "n": "Jessica Lange"
+    },
+    {
+     "c": "Jenny (young & senior) / The Witch",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Sandra Bloom (young)",
+     "n": "Alison Lohman"
+    },
+    {
+     "c": "Dr. Bennett (senior)",
+     "n": "Robert Guillaume"
+    },
+    {
+     "c": "Josephine",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Karl the Giant",
+     "n": "Matthew McGrory"
+    },
+    {
+     "c": "Don Price (age 18-22)",
+     "n": "David Denman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 587,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+   "popularity": 7.2523,
+   "poster_path": "/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-03-26",
+   "revenue": 123200000,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An adventure as big as life itself.",
+   "title": "Big Fish",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.745,
+   "vote_count": 8052
+  },
   "movie:59387": {
    "backdrop_path": "/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
    "budget": 11000000,
@@ -6145,6 +7139,143 @@
    "vote_average": 4.7,
    "vote_count": 872
   },
+  "movie:787": {
+   "backdrop_path": "/wBPxAlZF6ITQ6T5BMmVuVjeduTe.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Jane Smith",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "John Smith",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Eddie",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Benjamin Danz",
+     "n": "Adam Brody"
+    },
+    {
+     "c": "Jasmine",
+     "n": "Kerry Washington"
+    },
+    {
+     "c": "Father",
+     "n": "Keith David"
+    },
+    {
+     "c": "Martin Coleman",
+     "n": "Chris Weitz"
+    },
+    {
+     "c": "Suzy Coleman",
+     "n": "Rachael Huntley"
+    },
+    {
+     "c": "Gwen",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Julie - Associate #1",
+     "n": "Stephanie March"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Doug Liman"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 787,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+   "popularity": 12.1559,
+   "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+   "production_countries": [
+    "US",
+    "CH"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-06-10",
+   "revenue": 487287646,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "'Til death do us part.",
+   "title": "Mr. & Mrs. Smith",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.695,
+   "vote_count": 11687
+  },
   "movie:800787": {
    "backdrop_path": "/bLZ1WGb59JXFRYRFgknOwwiPJ0l.jpg",
    "budget": 0,
@@ -6790,6 +7921,278 @@
    "vote_average": 7.3,
    "vote_count": 833
   },
+  "movie:8587": {
+   "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Simba (voice)",
+     "n": "Matthew Broderick"
+    },
+    {
+     "c": "Nala (voice)",
+     "n": "Moira Kelly"
+    },
+    {
+     "c": "Scar (voice)",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Timon (voice)",
+     "n": "Nathan Lane"
+    },
+    {
+     "c": "Pumbaa (voice)",
+     "n": "Ernie Sabella"
+    },
+    {
+     "c": "Mufasa (voice)",
+     "n": "James Earl Jones"
+    },
+    {
+     "c": "Rafiki (voice)",
+     "n": "Robert Guillaume"
+    },
+    {
+     "c": "Zazu (voice)",
+     "n": "Rowan Atkinson"
+    },
+    {
+     "c": "Shenzi (voice)",
+     "n": "Whoopi Goldberg"
+    },
+    {
+     "c": "Banzai (voice)",
+     "n": "Cheech Marin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Roger Allers",
+    "Rob Minkoff"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Drama"
+   ],
+   "id": 8587,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+   "popularity": 21.7189,
+   "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-10-10",
+   "revenue": 763455561,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The greatest adventure of all is finding our place in the Circle of Life.",
+   "title": "The Lion King",
+   "trailer": {
+    "key": "lFzVJEksoDY",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.25,
+   "vote_count": 20419
+  },
+  "movie:87": {
+   "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Indiana Jones",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Willie Scott",
+     "n": "Kate Capshaw"
+    },
+    {
+     "c": "Short Round",
+     "n": "Ke Huy Quan"
+    },
+    {
+     "c": "Mola Ram",
+     "n": "Amrish Puri"
+    },
+    {
+     "c": "Chattar Lal",
+     "n": "Roshan Seth"
+    },
+    {
+     "c": "Phillip Blumburtt",
+     "n": "Philip Stone"
+    },
+    {
+     "c": "Lao Che",
+     "n": "Roy Chiao"
+    },
+    {
+     "c": "Wu Han",
+     "n": "David Yip"
+    },
+    {
+     "c": "Kao Kan",
+     "n": "Ric Young"
+    },
+    {
+     "c": "Chen",
+     "n": "Chua Kah Joo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 87,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+   "popularity": 11.8691,
+   "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1984-05-23",
+   "revenue": 333107271,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "si"
+   ],
+   "status": "Released",
+   "tagline": "If adventure has a name... it must be Indiana Jones.",
+   "title": "Indiana Jones and the Temple of Doom",
+   "trailer": {
+    "key": "WBdyLyijZhU",
+    "name": "Paramount Movies Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.309,
+   "vote_count": 10531
+  },
   "movie:9087": {
    "backdrop_path": "/hMc2fw8J56H6u4VRWHwLfeXnUCU.jpg",
    "budget": 62000000,
@@ -6913,6 +8316,111 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 819
+  },
+  "movie:9487": {
+   "backdrop_path": "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Flik (voice)",
+     "n": "Dave Foley"
+    },
+    {
+     "c": "Hopper (voice)",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Atta (voice)",
+     "n": "Julia Louis-Dreyfus"
+    },
+    {
+     "c": "Dot (voice)",
+     "n": "Hayden Panettiere"
+    },
+    {
+     "c": "Queen (voice)",
+     "n": "Phyllis Diller"
+    },
+    {
+     "c": "Molt (voice)",
+     "n": "Richard Kind"
+    },
+    {
+     "c": "Slim (voice)",
+     "n": "David Hyde Pierce"
+    },
+    {
+     "c": "Heimlich / Additional Voices (voice)",
+     "n": "Joe Ranft"
+    },
+    {
+     "c": "Francis (voice)",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Manny (voice)",
+     "n": "Jonathan Harris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Lasseter"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 9487,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+   "popularity": 11.0318,
+   "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-11-25",
+   "revenue": 363258859,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An epic of miniature proportions.",
+   "title": "A Bug's Life",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.983,
+   "vote_count": 10035
   },
   "movie:9787": {
    "backdrop_path": "/r19wkx0JESCD74GVyREFLzZN2VA.jpg",

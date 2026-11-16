@@ -1,6 +1,6 @@
 {
  "bucket": "49",
- "count": 58,
+ "count": 64,
  "titles": {
   "movie:10349": {
    "backdrop_path": "/uTlZjD5uZ8C71pt4G8gt5QhhqIJ.jpg",
@@ -1731,6 +1731,155 @@
    "vote_average": 7.05,
    "vote_count": 20
   },
+  "movie:1949": {
+   "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Robert Graysmith",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "David Toschi",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "William Armstrong",
+     "n": "Anthony Edwards"
+    },
+    {
+     "c": "Paul Avery",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Melanie",
+     "n": "Chloë Sevigny"
+    },
+    {
+     "c": "Jack Mulanax",
+     "n": "Elias Koteas"
+    },
+    {
+     "c": "Arthur Leigh Allen",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Melvin Belli",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Martin Lee",
+     "n": "Dermot Mulroney"
+    },
+    {
+     "c": "Bob Vaughn",
+     "n": "Charles Fleischer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 1949,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Police conduct a manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
+   "popularity": 10.9523,
+   "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-07-20",
+   "revenue": 84785914,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's more than one way to lose your life to a killer.",
+   "title": "Zodiac",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.535,
+   "vote_count": 12138
+  },
   "movie:201749": {
    "backdrop_path": "/94NOogxgor0pIM0kgiEVZyurjHq.jpg",
    "budget": 8200000,
@@ -2874,6 +3023,252 @@
    "vote_average": 6.5,
    "vote_count": 312
   },
+  "movie:2649": {
+   "backdrop_path": "/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Nicholas Van Orton",
+     "n": "Michael Douglas"
+    },
+    {
+     "c": "Conrad Van Orton",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Christine",
+     "n": "Deborah Kara Unger"
+    },
+    {
+     "c": "Jim Feingold",
+     "n": "James Rebhorn"
+    },
+    {
+     "c": "Samuel Sutherland",
+     "n": "Peter Donat"
+    },
+    {
+     "c": "Ilsa",
+     "n": "Carroll Baker"
+    },
+    {
+     "c": "Elizabeth",
+     "n": "Anna Katarina"
+    },
+    {
+     "c": "Anson Baer",
+     "n": "Armin Mueller-Stahl"
+    },
+    {
+     "c": "Nicholas' Father",
+     "n": "Charles Martinet"
+    },
+    {
+     "c": "Young Nicholas",
+     "n": "Scott Hunter McGuire"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 2649,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+   "popularity": 8.7572,
+   "poster_path": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-09-12",
+   "revenue": 109423648,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What do you get for the man who has everything...?",
+   "title": "The Game",
+   "trailer": {
+    "key": "DnhDqMJcKZ4",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 7753
+  },
+  "movie:269149": {
+   "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Judy Hopps (voice)",
+     "n": "Ginnifer Goodwin"
+    },
+    {
+     "c": "Nick Wilde (voice)",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Chief Bogo (voice)",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Bellwether (voice)",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Clawhauser (voice)",
+     "n": "Nate Torrence"
+    },
+    {
+     "c": "Bonnie Hopps (voice)",
+     "n": "Bonnie Hunt"
+    },
+    {
+     "c": "Stu Hopps (voice)",
+     "n": "Don Lake"
+    },
+    {
+     "c": "Yax (voice)",
+     "n": "Tommy Chong"
+    },
+    {
+     "c": "Mayor Lionheart (voice)",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Mrs. Otterton (voice)",
+     "n": "Octavia Spencer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Byron Howard",
+    "Rich Moore"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
+   "id": 269149,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+   "popularity": 21.7936,
+   "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-02-11",
+   "revenue": 1025521689,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to the urban jungle.",
+   "title": "Zootopia",
+   "trailer": {
+    "key": "jWM0ct-OLsM",
+    "name": "Official US Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.765,
+   "vote_count": 18743
+  },
   "movie:2749": {
    "backdrop_path": "/dGm3XpCrvwU7DmMz7UFViJtKAYg.jpg",
    "budget": 60000000,
@@ -3157,6 +3552,144 @@
    "type": "movie",
    "vote_average": 5.164,
    "vote_count": 495
+  },
+  "movie:3049": {
+   "backdrop_path": "/mhMnWStdREZiYrWpm1MqTS7J2V5.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Ace Ventura",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Melissa",
+     "n": "Courteney Cox"
+    },
+    {
+     "c": "Einhorn",
+     "n": "Sean Young"
+    },
+    {
+     "c": "Emilio",
+     "n": "Tone Loc"
+    },
+    {
+     "c": "Dan Marino",
+     "n": "Dan Marino"
+    },
+    {
+     "c": "Riddle",
+     "n": "Noble Willingham"
+    },
+    {
+     "c": "Podacter",
+     "n": "Troy Evans"
+    },
+    {
+     "c": "Woodstock",
+     "n": "Raynor Scheine"
+    },
+    {
+     "c": "Camp",
+     "n": "Udo Kier"
+    },
+    {
+     "c": "Vinnie",
+     "n": "Frank Adonis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tom Shadyac"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 3049,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "He's Ace Ventura: Pet Detective. The Ace is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+   "popularity": 7.407,
+   "poster_path": "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-02-04",
+   "revenue": 107217396,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He's the best there is! (Actually, he's the only one there is.)",
+   "title": "Ace Ventura: Pet Detective",
+   "trailer": {
+    "key": "Lc0bgXhpmAE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.585,
+   "vote_count": 6687
   },
   "movie:339849": {
    "backdrop_path": "/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
@@ -4206,6 +4739,193 @@
    "vote_average": 6.598,
    "vote_count": 328
   },
+  "movie:634649": {
+   "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Peter Parker / Spider-Man",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "MJ",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Doctor Strange",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Ned Leeds",
+     "n": "Jacob Batalon"
+    },
+    {
+     "c": "Happy Hogan",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Max Dillon / Electro",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Norman Osborn / Green Goblin",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Dr. Otto Octavius / Doc Ock",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Wong",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Flash Thompson",
+     "n": "Tony Revolori"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jon Watts"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 634649,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+   "popularity": 41.7551,
+   "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-12-17",
+   "revenue": 1921426073,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "Enter the Multiverse.",
+   "title": "Spider-Man: No Way Home",
+   "trailer": {
+    "key": "1mTjfMFyPi8",
+    "name": "Spider-Mans Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.945,
+   "vote_count": 23576
+  },
   "movie:653349": {
    "backdrop_path": "/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
    "budget": 0,
@@ -4926,6 +5646,211 @@
    "type": "movie",
    "vote_average": 5.862,
    "vote_count": 912
+  },
+  "movie:949": {
+   "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Lt. Vincent Hanna",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Neil McCauley",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Chris Shiherlis",
+     "n": "Val Kilmer"
+    },
+    {
+     "c": "Nate",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Michael Cheritto",
+     "n": "Tom Sizemore"
+    },
+    {
+     "c": "Justine",
+     "n": "Diane Venora"
+    },
+    {
+     "c": "Eady",
+     "n": "Amy Brenneman"
+    },
+    {
+     "c": "Charlene Shiherlis",
+     "n": "Ashley Judd"
+    },
+    {
+     "c": "Drucker",
+     "n": "Mykelti Williamson"
+    },
+    {
+     "c": "Casals",
+     "n": "Wes Studi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Michael Mann"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Action"
+   ],
+   "id": 949,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+   "popularity": 16.3302,
+   "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1995-12-15",
+   "revenue": 187400000,
+   "runtime": 170,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "A Los Angeles crime saga.",
+   "title": "Heat",
+   "trailer": {
+    "key": "14oNcFxiVaQ",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.949,
+   "vote_count": 8900
   },
   "movie:964849": {
    "backdrop_path": "/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",

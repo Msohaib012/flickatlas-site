@@ -1,6 +1,6 @@
 {
  "bucket": "11",
- "count": 70,
+ "count": 78,
  "titles": {
   "movie:1019411": {
    "backdrop_path": "/c3tOvnxFp2uUfLs6U8ew52N3FhO.jpg",
@@ -858,6 +858,298 @@
    "type": "movie",
    "vote_average": 6.457,
    "vote_count": 441
+  },
+  "movie:11": {
+   "backdrop_path": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Luke Skywalker",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Han Solo",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Princess Leia Organa",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Grand Moff Tarkin",
+     "n": "Peter Cushing"
+    },
+    {
+     "c": "Obi-Wan \"Ben\" Kenobi",
+     "n": "Alec Guinness"
+    },
+    {
+     "c": "C-3PO",
+     "n": "Anthony Daniels"
+    },
+    {
+     "c": "R2-D2",
+     "n": "Kenny Baker"
+    },
+    {
+     "c": "Chewbacca",
+     "n": "Peter Mayhew"
+    },
+    {
+     "c": "Darth Vader (performer)",
+     "n": "David Prowse"
+    },
+    {
+     "c": "Darth Vader (voice) (uncredited)",
+     "n": "James Earl Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "George Lucas"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 11,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+   "popularity": 31.217,
+   "poster_path": "/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1978-07-01",
+   "revenue": 775398007,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A long time ago in a galaxy far, far away...",
+   "title": "Star Wars",
+   "trailer": {
+    "key": "i-vsILeJ8_8",
+    "name": "Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 23178
+  },
+  "movie:111": {
+   "backdrop_path": "/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Tony Montana",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Manny Ray",
+     "n": "Steven Bauer"
+    },
+    {
+     "c": "Elvira",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Gina",
+     "n": "Mary Elizabeth Mastrantonio"
+    },
+    {
+     "c": "Frank Lopez",
+     "n": "Robert Loggia"
+    },
+    {
+     "c": "Mama Montana",
+     "n": "Miriam Colon"
+    },
+    {
+     "c": "Omar",
+     "n": "F. Murray Abraham"
+    },
+    {
+     "c": "Alejandro Sosa",
+     "n": "Paul Shenar"
+    },
+    {
+     "c": "Bernstein",
+     "n": "Harris Yulin"
+    },
+    {
+     "c": "Chi Chi",
+     "n": "Ángel Salazar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Brian De Palma"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 111,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+   "popularity": 17.8874,
+   "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1983-12-09",
+   "revenue": 66023329,
+   "runtime": 170,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "He loved the American Dream. With a vengeance.",
+   "title": "Scarface",
+   "trailer": {
+    "key": "lZMIrD36MG8",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.154,
+   "vote_count": 13691
   },
   "movie:1120911": {
    "backdrop_path": "/9ewYb0LIBJNds8ZMoobKYUd647g.jpg",
@@ -3716,6 +4008,175 @@
    "vote_average": 6.206,
    "vote_count": 313
   },
+  "movie:257211": {
+   "backdrop_path": "/i8Q2Ei2dPliMLgPWYhRTxIDzh7r.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Ben Whitaker",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Jules Ostin",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Fiona Farwell",
+     "n": "Rene Russo"
+    },
+    {
+     "c": "Matt Ostin",
+     "n": "Anders Holm"
+    },
+    {
+     "c": "Paige Ostin",
+     "n": "JoJo Kushner"
+    },
+    {
+     "c": "Cameron",
+     "n": "Andrew Rannells"
+    },
+    {
+     "c": "Jason",
+     "n": "Adam Devine"
+    },
+    {
+     "c": "Davis",
+     "n": "Zack Pearlman"
+    },
+    {
+     "c": "Lewis",
+     "n": "Jason Orley"
+    },
+    {
+     "c": "Becky",
+     "n": "Christina Scherer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nancy Meyers"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 257211,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+   "popularity": 8.9662,
+   "poster_path": "/rdWkIocdGPEPn9no4wKwQ9LmlY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-10-02",
+   "revenue": 194564672,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Experience never gets old.",
+   "title": "The Intern",
+   "trailer": {
+    "key": "f6dKhzYgksc",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.228,
+   "vote_count": 7600
+  },
   "movie:295011": {
    "backdrop_path": "/kpjp9Wqj6U4wdv4oSEe9FLkNhaQ.jpg",
    "budget": 0,
@@ -4134,6 +4595,157 @@
    "type": "movie",
    "vote_average": 7.803,
    "vote_count": 460
+  },
+  "movie:328111": {
+   "backdrop_path": "/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Max (voice)",
+     "n": "Louis C.K."
+    },
+    {
+     "c": "Duke (voice)",
+     "n": "Eric Stonestreet"
+    },
+    {
+     "c": "Snowball (voice)",
+     "n": "Kevin Hart"
+    },
+    {
+     "c": "Gidget (voice)",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Katie (voice)",
+     "n": "Ellie Kemper"
+    },
+    {
+     "c": "Tiberius (voice)",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Chloe (voice)",
+     "n": "Lake Bell"
+    },
+    {
+     "c": "Pops (voice)",
+     "n": "Dana Carvey"
+    },
+    {
+     "c": "Buddy (voice)",
+     "n": "Hannibal Buress"
+    },
+    {
+     "c": "Mel (voice)",
+     "n": "Bobby Moynihan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Renaud"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 328111,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+   "popularity": 3.821,
+   "poster_path": "/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-08",
+   "revenue": 875457937,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ever wonder what your pets do when you're not home?",
+   "title": "The Secret Life of Pets",
+   "trailer": {
+    "key": "eWI_Jsw9qUs",
+    "name": "Trailer #3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.327,
+   "vote_count": 8737
   },
   "movie:33511": {
    "backdrop_path": "/ouMbyjN1WJKyRqgvwovGl58e4eR.jpg",
@@ -5577,6 +6189,280 @@
    "vote_average": 4.306,
    "vote_count": 425
   },
+  "movie:4011": {
+   "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Adam",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Barbara",
+     "n": "Geena Davis"
+    },
+    {
+     "c": "Lydia",
+     "n": "Winona Ryder"
+    },
+    {
+     "c": "Delia",
+     "n": "Catherine O'Hara"
+    },
+    {
+     "c": "Charles",
+     "n": "Jeffrey Jones"
+    },
+    {
+     "c": "Betelgeuse",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Otho",
+     "n": "Glenn Shadix"
+    },
+    {
+     "c": "Juno",
+     "n": "Sylvia Sidney"
+    },
+    {
+     "c": "Receptionist",
+     "n": "Patrice Martinez"
+    },
+    {
+     "c": "Bernard",
+     "n": "Dick Cavett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 4011,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+   "popularity": 10.0216,
+   "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1989-08-04",
+   "revenue": 84554197,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In this house... if you've seen one ghost... you haven't seen them all.",
+   "title": "Beetlejuice",
+   "trailer": {
+    "key": "po1HJbmow0g",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.368,
+   "vote_count": 8851
+  },
+  "movie:411": {
+   "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "Lucy Pevensie",
+     "n": "Georgie Henley"
+    },
+    {
+     "c": "Edmund Pevensie",
+     "n": "Skandar Keynes"
+    },
+    {
+     "c": "Peter Pevensie",
+     "n": "William Moseley"
+    },
+    {
+     "c": "Susan Pevensie",
+     "n": "Anna Popplewell"
+    },
+    {
+     "c": "White Witch",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Aslan (voice)",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Mr. Tumnus",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Prof. Digory Kirke",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Mr. Beaver (voice)",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Mrs. Beaver (voice)",
+     "n": "Dawn French"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Andrew Adamson"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 411,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+   "popularity": 19.2578,
+   "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-12-07",
+   "revenue": 745013115,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The beloved masterpiece comes to life.",
+   "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.146,
+   "vote_count": 11933
+  },
   "movie:419511": {
    "backdrop_path": "/7aKx0Qk3V5Q1coqriH0BCK9GIXT.jpg",
    "budget": 0,
@@ -6079,6 +6965,256 @@
    "type": "movie",
    "vote_average": 6.24,
    "vote_count": 408
+  },
+  "movie:545611": {
+   "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Evelyn Wang",
+     "n": "Michelle Yeoh"
+    },
+    {
+     "c": "Joy Wang / Jobu Tupaki",
+     "n": "Stephanie Hsu"
+    },
+    {
+     "c": "Waymond Wang",
+     "n": "Ke Huy Quan"
+    },
+    {
+     "c": "Gong Gong",
+     "n": "James Hong"
+    },
+    {
+     "c": "Deirdre Beaubeirdre",
+     "n": "Jamie Lee Curtis"
+    },
+    {
+     "c": "Becky Sregor",
+     "n": "Tallie Medel"
+    },
+    {
+     "c": "Big Nose",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Chad",
+     "n": "Harry Shum Jr."
+    },
+    {
+     "c": "Rick",
+     "n": "Biff Wiff"
+    },
+    {
+     "c": "TV Musical - Queen",
+     "n": "Sunita Mani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Daniel Scheinert",
+    "Daniel Kwan"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 545611,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+   "popularity": 18.1554,
+   "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-09-16",
+   "revenue": 139200000,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The universe is so much bigger than you realize.",
+   "title": "Everything Everywhere All at Once",
+   "trailer": {
+    "key": "wxN1T1uxQ2g",
+    "name": "Everything Everywhere All At Once | Official Trailer HD | A24",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.712,
+   "vote_count": 8664
+  },
+  "movie:62211": {
+   "backdrop_path": "/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Mike (voice)",
+     "n": "Billy Crystal"
+    },
+    {
+     "c": "Sullivan (voice)",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Randy (voice)",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Dean Hardscrabble (voice)",
+     "n": "Helen Mirren"
+    },
+    {
+     "c": "Squishy (voice)",
+     "n": "Peter Sohn"
+    },
+    {
+     "c": "Don (voice)",
+     "n": "Joel Murray"
+    },
+    {
+     "c": "Terri (voice)",
+     "n": "Sean Hayes"
+    },
+    {
+     "c": "Terry (voice)",
+     "n": "Dave Foley"
+    },
+    {
+     "c": "Art (voice)",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Professor Knight (voice)",
+     "n": "Alfred Molina"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Dan Scanlon"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 62211,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.",
+   "popularity": 11.1167,
+   "poster_path": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-06-19",
+   "revenue": 743559465,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Before they were incorporated, they had to be educated.",
+   "title": "Monsters University",
+   "trailer": {
+    "key": "xBzPioph8CI",
+    "name": "Official Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.06,
+   "vote_count": 11671
   },
   "movie:623511": {
    "backdrop_path": "/9JLl9UYkcWbkLWWHtzuVB6fc9Qr.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "35",
- "count": 61,
+ "count": 73,
  "titles": {
   "movie:1001835": {
    "backdrop_path": "/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
@@ -2769,6 +2769,125 @@
    "vote_average": 7.328,
    "vote_count": 29
   },
+  "movie:222935": {
+   "backdrop_path": "/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Hazel Grace Lancaster",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "Augustus Waters",
+     "n": "Ansel Elgort"
+    },
+    {
+     "c": "Isaac",
+     "n": "Nat Wolff"
+    },
+    {
+     "c": "Frannie Lancaster",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Michael Lancaster",
+     "n": "Sam Trammell"
+    },
+    {
+     "c": "Peter van Houten",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Lidewij Vliegenthart",
+     "n": "Lotte Verbeek"
+    },
+    {
+     "c": "Dr. Maria",
+     "n": "Ana Dela Cruz"
+    },
+    {
+     "c": "Dr. Simmons",
+     "n": "Randy Kovitz"
+    },
+    {
+     "c": "Flight Attendant",
+     "n": "Toni Saladna"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Josh Boone"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 222935,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+   "popularity": 5.7093,
+   "poster_path": "/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-07-04",
+   "revenue": 307166834,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life doesn't have to be perfect for love to be extraordinary.",
+   "title": "The Fault in Our Stars",
+   "trailer": {
+    "key": "3Ixw15DE-xY",
+    "name": "Annotated Footnotes Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.585,
+   "vote_count": 11774
+  },
   "movie:227735": {
    "backdrop_path": "/jAXPhMpnJTzBa8oSAP0l9sjYgV8.jpg",
    "budget": 36000000,
@@ -2893,6 +3012,137 @@
    "type": "movie",
    "vote_average": 6.929,
    "vote_count": 380
+  },
+  "movie:235": {
+   "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Gordie Lachance",
+     "n": "Wil Wheaton"
+    },
+    {
+     "c": "Chris Chambers",
+     "n": "River Phoenix"
+    },
+    {
+     "c": "Teddy Duchamp",
+     "n": "Corey Feldman"
+    },
+    {
+     "c": "Vern Tessio",
+     "n": "Jerry O'Connell"
+    },
+    {
+     "c": "Ace Merrill",
+     "n": "Kiefer Sutherland"
+    },
+    {
+     "c": "Billy Tessio",
+     "n": "Casey Siemaszko"
+    },
+    {
+     "c": "Charlie Hogan",
+     "n": "Gary Riley"
+    },
+    {
+     "c": "Eyeball Chambers",
+     "n": "Bradley Gregg"
+    },
+    {
+     "c": "Vince Desjardins",
+     "n": "Jason Oliver"
+    },
+    {
+     "c": "Mr. Lachance",
+     "n": "Marshall Bell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rob Reiner"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 235,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+   "popularity": 8.5127,
+   "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1986-08-22",
+   "revenue": 52289686,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "\"If I could only have one food to eat for the rest of my life?\" \"That's easy. Pez. Cherry flavor Pez. No question about it.\"",
+   "title": "Stand by Me",
+   "trailer": {
+    "key": "2rBenGsz23E",
+    "name": "40th Anniversary | Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.834,
+   "vote_count": 6850
   },
   "movie:253835": {
    "backdrop_path": "/q4MG2j8a7QEjg3ksd4hFXwBSNPf.jpg",
@@ -3187,6 +3437,183 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 352
+  },
+  "movie:282035": {
+   "backdrop_path": "/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Nick Morton",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Jennifer Halsey",
+     "n": "Annabelle Wallis"
+    },
+    {
+     "c": "Ahmanet",
+     "n": "Sofia Boutella"
+    },
+    {
+     "c": "Chris Vail",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Colonel Greenway",
+     "n": "Courtney B. Vance"
+    },
+    {
+     "c": "Henry Jekyll / Edward Hyde",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Malik",
+     "n": "Marwan Kenzari"
+    },
+    {
+     "c": "Dr. Whemple",
+     "n": "Neil Maskell"
+    },
+    {
+     "c": "Set",
+     "n": "Javier Botet"
+    },
+    {
+     "c": "Mr. Brooke",
+     "n": "Andrew Brooke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Alex Kurtzman"
+   ],
+   "genres": [
+    "Fantasy",
+    "Thriller",
+    "Action",
+    "Adventure",
+    "Horror"
+   ],
+   "id": 282035,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+   "popularity": 9.3923,
+   "poster_path": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-06-09",
+   "revenue": 409231607,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to a new world of gods and monsters.",
+   "title": "The Mummy",
+   "trailer": {
+    "key": "s4C1gnqdrew",
+    "name": "Official Trailer #3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.52,
+   "vote_count": 7895
   },
   "movie:283235": {
    "backdrop_path": "/icCQi9Tnyx86C987IoIFchxqMof.jpg",
@@ -3492,6 +3919,234 @@
    "vote_average": 6.477,
    "vote_count": 822
   },
+  "movie:315635": {
+   "backdrop_path": "/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Peter Parker / Spider-Man",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "Adrian Toomes / Vulture",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Tony Stark / Iron Man",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "May Parker",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Happy Hogan",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Pepper Potts",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Michelle",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Aaron Davis",
+     "n": "Donald Glover"
+    },
+    {
+     "c": "Ned",
+     "n": "Jacob Batalon"
+    },
+    {
+     "c": "Liz",
+     "n": "Laura Harrier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jon Watts"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 315635,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+   "popularity": 26.1072,
+   "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-07-07",
+   "revenue": 880978185,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Homework can wait. The city can't.",
+   "title": "Spider-Man: Homecoming",
+   "trailer": {
+    "key": "xEvV3OsE2WM",
+    "name": "Official Trailer #3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.332,
+   "vote_count": 24261
+  },
   "movie:34335": {
    "backdrop_path": "/1Oak5sa1L51ytCxM2KHmrwKE7qF.jpg",
    "budget": 2000000,
@@ -3614,6 +4269,566 @@
    "type": "movie",
    "vote_average": 5.305,
    "vote_count": 344
+  },
+  "movie:35": {
+   "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Homer Simpson / Itchy / Barney / Abe Simpson / Stage Manager / Krusty the Clown / Mayor Quimby / Mayor's Aide / Multi-Eyed Squirrel / Panicky Man / Sideshow Mel / Mr. Teeny / EPA Official / Kissing Cop / Bear / Boy on Phone / NSA Worker / Officer / Santa's Little Helper / Squeaky-Voiced Teen (voice)",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Marge Simpson / Selma Bouvier / Patty Bouvier (voice)",
+     "n": "Julie Kavner"
+    },
+    {
+     "c": "Bart Simpson / Maggie Simpson / Ralph / Nelson / Todd Flanders / TV Daughter / Woman on Phone (voice)",
+     "n": "Nancy Cartwright"
+    },
+    {
+     "c": "Lisa Simpson (voice)",
+     "n": "Yeardley Smith"
+    },
+    {
+     "c": "Professor Frink / Comic Book Guy / Moe / Chief Wiggum / Lou / Carl / Cletus / Bumblebee Man / Male EPA Worker / Dome Depot Announcer / Kissing Cop / Carnival Barker / Counter Man / Apu / Drederick Tatum / Sea Captain / EPA Passenger / Robot / Dr. Nick / Wise Guy (voice)",
+     "n": "Hank Azaria"
+    },
+    {
+     "c": "Scratchy / Mr. Burns / Rev. Lovejoy / Ned Flanders / Lenny / Skull / President Arnold Schwarzenegger / Kent Brockman / Principal Skinner / Dr. Hibbert / Smithers / Toll Booth Man / Guard / Otto / Kang (voice)",
+     "n": "Harry Shearer"
+    },
+    {
+     "c": "Milhouse Van Houten / Jimbo Jones / Rod Flanders (voice)",
+     "n": "Pamela Hayden"
+    },
+    {
+     "c": "Sweet Old Lady / Colin / Mrs. Skinner / Nelson's Mother / Pig / Cat Lady / Female EPA Worker / G.P.S. Woman / Cookie Kwan / Lindsey Naegle / TV Son / Medicine Woman / Girl on Phone (voice)",
+     "n": "Tress MacNeille"
+    },
+    {
+     "c": "Russ Cargill (voice)",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Man / EPA Driver (voice)",
+     "n": "Karl Wiedergott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Silverman"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 35,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+   "popularity": 9.1008,
+   "poster_path": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-07-25",
+   "revenue": 527068851,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "See our family. And feel better about yours.",
+   "title": "The Simpsons Movie",
+   "trailer": {
+    "key": "XPG0MqIcby8",
+    "name": "#TBT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.021,
+   "vote_count": 8831
+  },
+  "movie:37135": {
+   "backdrop_path": "/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Tarzan (voice)",
+     "n": "Tony Goldwyn"
+    },
+    {
+     "c": "Jane Porter (voice)",
+     "n": "Minnie Driver"
+    },
+    {
+     "c": "Kala (voice)",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Young Tarzan (voice)",
+     "n": "Alex D. Linz"
+    },
+    {
+     "c": "Terk (voice)",
+     "n": "Rosie O'Donnell"
+    },
+    {
+     "c": "Clayton (voice)",
+     "n": "Brian Blessed"
+    },
+    {
+     "c": "Professor Archimedes Q. Porter (voice)",
+     "n": "Nigel Hawthorne"
+    },
+    {
+     "c": "Kerchak (voice)",
+     "n": "Lance Henriksen"
+    },
+    {
+     "c": "Tantor (voice)",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Young Tantor (voice)",
+     "n": "Taylor Dempsey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Chris Buck",
+    "Kevin Lima"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "id": 37135,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+   "popularity": 10.9374,
+   "poster_path": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-06-17",
+   "revenue": 448200000,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An immortal legend as you've only imagined.",
+   "title": "Tarzan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.407,
+   "vote_count": 7586
+  },
+  "movie:37735": {
+   "backdrop_path": "/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Olive",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Woodchuck Todd",
+     "n": "Penn Badgley"
+    },
+    {
+     "c": "Marianne",
+     "n": "Amanda Bynes"
+    },
+    {
+     "c": "Brandon",
+     "n": "Dan Byrd"
+    },
+    {
+     "c": "Mr. Griffith",
+     "n": "Thomas Haden Church"
+    },
+    {
+     "c": "Rosemary",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Micah",
+     "n": "Cam Gigandet"
+    },
+    {
+     "c": "Mrs. Griffith",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Principal Gibbons",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "Rhiannon",
+     "n": "Aly Michalka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Will Gluck"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 37735,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Olive, an average high school student, sees her below-the-radar existence turn around overnight once she decides to use the school's gossip grapevine to advance her social standing. Now her classmates are turning against her and the school board is becoming concerned, including her favorite teacher and the distracted guidance counselor. With the support of her hilariously idiosyncratic parents and a little help from a long-time crush, Olive attempts to take on her notorious new identity and crush the rumor mill once and for all.",
+   "popularity": 6.219,
+   "poster_path": "/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-09-16",
+   "revenue": 75026327,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let's not and say we did.",
+   "title": "Easy A",
+   "trailer": {
+    "key": "KNbPnqyvItk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.799,
+   "vote_count": 7636
+  },
+  "movie:396535": {
+   "backdrop_path": "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
+   "budget": 8500000,
+   "cast": [
+    {
+     "c": "Seok-woo",
+     "n": "Gong Yoo"
+    },
+    {
+     "c": "Soo-ahn",
+     "n": "Kim Su-an"
+    },
+    {
+     "c": "Sung-gyeong",
+     "n": "Jung Yu-mi"
+    },
+    {
+     "c": "Sang-hwa",
+     "n": "Don Lee"
+    },
+    {
+     "c": "Yeong-gook",
+     "n": "Choi Woo-shik"
+    },
+    {
+     "c": "Jin-hee",
+     "n": "An So-hee"
+    },
+    {
+     "c": "Yong-suk",
+     "n": "Kim Eui-sung"
+    },
+    {
+     "c": "In-gil",
+     "n": "Ye Su-jeong"
+    },
+    {
+     "c": "Jong-gil",
+     "n": "Park Myung-shin"
+    },
+    {
+     "c": "Homeless Man",
+     "n": "Choi Gwi-hwa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Yeon Sang-ho"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 396535,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+   "popularity": 16.1246,
+   "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-20",
+   "revenue": 87547518,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Get on board to stay alive.",
+   "title": "Train to Busan",
+   "trailer": {
+    "key": "4qm59Rcq1Fw",
+    "name": "[부산행] 10주년 기념 공식 예고편",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.75,
+   "vote_count": 8933
   },
   "movie:4235": {
    "backdrop_path": "/1gNfZauhTpNWRmwtKlJZBqT34fd.jpg",
@@ -3767,6 +4982,187 @@
    "type": "movie",
    "vote_average": 7.58,
    "vote_count": 393
+  },
+  "movie:435": {
+   "backdrop_path": "/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Jack Hall",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Sam Hall",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Terry Rapson",
+     "n": "Ian Holm"
+    },
+    {
+     "c": "Laura Chapman",
+     "n": "Emmy Rossum"
+    },
+    {
+     "c": "Dr. Lucy Hall",
+     "n": "Sela Ward"
+    },
+    {
+     "c": "Jason Evans",
+     "n": "Dash Mihok"
+    },
+    {
+     "c": "Vice President Becker",
+     "n": "Kenneth Welsh"
+    },
+    {
+     "c": "Frank Harris",
+     "n": "Jay O. Sanders"
+    },
+    {
+     "c": "J.D.",
+     "n": "Austin Nichols"
+    },
+    {
+     "c": "President Blake",
+     "n": "Perry King"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roland Emmerich"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 435,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After paleoclimatologist Jack Hall is largely ignored by UN officials when presenting his environmental concerns about the beginning of a new Ice Age, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world. Trying to get to his son, Sam, who is trapped in New York City with his friend Laura and others, Jack and his crew must travel to get to Sam before it's too late.",
+   "popularity": 10.649,
+   "poster_path": "/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-05-28",
+   "revenue": 552639571,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "fr",
+    "ar",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Where will you be?",
+   "title": "The Day After Tomorrow",
+   "trailer": {
+    "key": "HUBDFoMNXzA",
+    "name": "The Day After Tomorrow | #TBT Trailer | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.57,
+   "vote_count": 9264
   },
   "movie:47735": {
    "backdrop_path": "/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
@@ -4042,6 +5438,123 @@
    "type": "movie",
    "vote_average": 7.935,
    "vote_count": 437
+  },
+  "movie:4935": {
+   "backdrop_path": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+   "budget": 24000000,
+   "cast": [
+    {
+     "c": "Sophie (voice)",
+     "n": "Chieko Baisho"
+    },
+    {
+     "c": "Howl (voice)",
+     "n": "Takuya Kimura"
+    },
+    {
+     "c": "Witch of the Waste (voice)",
+     "n": "Akihiro Miwa"
+    },
+    {
+     "c": "Calcifer (voice)",
+     "n": "Tatsuya Gashuin"
+    },
+    {
+     "c": "Markl (voice)",
+     "n": "Ryunosuke Kamiki"
+    },
+    {
+     "c": "Kosho (voice)",
+     "n": "Mitsunori Isaki"
+    },
+    {
+     "c": "Prince Justin / Turnip Head (voice)",
+     "n": "Yo Oizumi"
+    },
+    {
+     "c": "King of Ingary (voice)",
+     "n": "Akio Otsuka"
+    },
+    {
+     "c": "Heen (voice)",
+     "n": "Daijirou Harada"
+    },
+    {
+     "c": "Madame Suliman (voice)",
+     "n": "Haruko Katou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hayao Miyazaki"
+   ],
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 4935,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+   "popularity": 24.8691,
+   "poster_path": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-09-09",
+   "revenue": 236049757,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "A magician, a witch, a castle that has life. A fantastic journey into the world of imagination.",
+   "title": "Howl's Moving Castle",
+   "trailer": {
+    "key": "ARCQf2CEr8k",
+    "name": "20th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.392,
+   "vote_count": 11672
   },
   "movie:50135": {
    "backdrop_path": "/9bKg2Tft4P3AovKHzb7RTflcX3X.jpg",
@@ -4867,6 +6380,126 @@
    "vote_average": 6.981,
    "vote_count": 467
   },
+  "movie:533535": {
+   "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+   "budget": 556800000,
+   "cast": [
+    {
+     "c": "Wade Wilson / Deadpool / Nicepool",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Logan / Wolverine",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Cassandra Nova",
+     "n": "Emma Corrin"
+    },
+    {
+     "c": "Mr. Paradox",
+     "n": "Matthew Macfadyen"
+    },
+    {
+     "c": "Laura / X-23",
+     "n": "Dafne Keen"
+    },
+    {
+     "c": "Happy Hogan",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Peter",
+     "n": "Rob Delaney"
+    },
+    {
+     "c": "Blind Al",
+     "n": "Leslie Uggams"
+    },
+    {
+     "c": "Elektra",
+     "n": "Jennifer Garner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Shawn Levy"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 533535,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+   "popularity": 42.3177,
+   "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2024-07-26",
+   "revenue": 1338073645,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Come together.",
+   "title": "Deadpool & Wolverine",
+   "trailer": {
+    "key": "Idh8n5XuYIA",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.584,
+   "vote_count": 9846
+  },
   "movie:605735": {
    "backdrop_path": "/4y8hoQAveC7dVwAAsJJ78Y89lh9.jpg",
    "budget": 0,
@@ -4966,6 +6599,150 @@
    "type": "movie",
    "vote_average": 5.955,
    "vote_count": 330
+  },
+  "movie:68735": {
+   "backdrop_path": "/aTGvZ3F8QnAD8cPpJRaaqRRxFK6.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Commander Anduin Lothar",
+     "n": "Travis Fimmel"
+    },
+    {
+     "c": "Garona Halforcen",
+     "n": "Paula Patton"
+    },
+    {
+     "c": "Medivh (Guardian)",
+     "n": "Ben Foster"
+    },
+    {
+     "c": "King Llane Wrynn",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Khadgar",
+     "n": "Ben Schnetzer"
+    },
+    {
+     "c": "Durotan / Antonidas",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Orgrim",
+     "n": "Robert Kazinsky"
+    },
+    {
+     "c": "Blackhand",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Karos",
+     "n": "Ryan Robbins"
+    },
+    {
+     "c": "Gul'dan (Wizard)",
+     "n": "Daniel Wu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Duncan Jones"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 68735,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The peaceful realm of Azeroth stands on the brink of war as its civilization faces a fearsome race of invaders: orc warriors fleeing their dying home to colonize another. As a portal opens to connect the two worlds, one army faces destruction and the other faces extinction. From opposing sides, two heroes are set on a collision course that will decide the fate of their family, their people, and their home.",
+   "popularity": 6.8096,
+   "poster_path": "/eGi5aoxaZveqNLtE7BZJCuWwR3G.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-05-25",
+   "revenue": 433677183,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Two worlds. One home.",
+   "title": "Warcraft",
+   "trailer": {
+    "key": "65AjY_nRdqE",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.428,
+   "vote_count": 7605
   },
   "movie:69335": {
    "backdrop_path": "/3Os2EXMHcV9EkO0PWNIvT4phksL.jpg",

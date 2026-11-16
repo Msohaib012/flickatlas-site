@@ -1,6 +1,6 @@
 {
  "bucket": "69",
- "count": 63,
+ "count": 69,
  "titles": {
   "movie:10069": {
    "backdrop_path": "/4TMrgGFbH22eQXy6hTcY0BzEPot.jpg",
@@ -1904,6 +1904,160 @@
    "vote_average": 7.367,
    "vote_count": 60
   },
+  "movie:16869": {
+   "backdrop_path": "/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "LT. Aldo Raine",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Shosanna",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "COL. Hans Landa",
+     "n": "Christoph Waltz"
+    },
+    {
+     "c": "SGT. Donny Donowitz",
+     "n": "Eli Roth"
+    },
+    {
+     "c": "LT. Archie Hicox",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Bridget von Hammersmark",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Fredrick Zoller",
+     "n": "Daniel Brühl"
+    },
+    {
+     "c": "SGT. Hugo Stiglitz",
+     "n": "Til Schweiger"
+    },
+    {
+     "c": "CPL. Wilhelm Wicki",
+     "n": "Gedeon Burkhard"
+    },
+    {
+     "c": "Marcel",
+     "n": "Jacky Ido"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Quentin Tarantino"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+   ],
+   "id": 16869,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+   "popularity": 19.1429,
+   "poster_path": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-10-02",
+   "revenue": 321457747,
+   "runtime": 153,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Once upon a time in Nazi occupied France...",
+   "title": "Inglourious Basterds",
+   "trailer": {
+    "key": "uSEDz-my7XQ",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.217,
+   "vote_count": 25162
+  },
   "movie:17169": {
    "backdrop_path": "/xOxXrSBkxYl9Zcch5YBa0vDPer0.jpg",
    "budget": 15000000,
@@ -3323,6 +3477,164 @@
    "vote_average": 7.46,
    "vote_count": 322
   },
+  "movie:300669": {
+   "backdrop_path": "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
+   "budget": 9900000,
+   "cast": [
+    {
+     "c": "The Blind Man",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Rocky",
+     "n": "Jane Levy"
+    },
+    {
+     "c": "Alex",
+     "n": "Dylan Minnette"
+    },
+    {
+     "c": "Money",
+     "n": "Daniel Zovatto"
+    },
+    {
+     "c": "Diddy",
+     "n": "Emma Bercovici"
+    },
+    {
+     "c": "Cindy",
+     "n": "Franciska Törőcsik"
+    },
+    {
+     "c": "Raul",
+     "n": "Christian Zagia"
+    },
+    {
+     "c": "Ginger",
+     "n": "Katia Bokor"
+    },
+    {
+     "c": "Trevor",
+     "n": "Sergej Onopko"
+    },
+    {
+     "c": "Blind Man's Daughter (Young Emma)",
+     "n": "Olivia Gillies"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Fede Álvarez"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 300669,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
+   "popularity": 5.641,
+   "poster_path": "/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-09-02",
+   "revenue": 158906350,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This house looked like an easy target, until they found what was inside.",
+   "title": "Don't Breathe",
+   "trailer": {
+    "key": "7koudwTqe0Q",
+    "name": "DON'T BREATHE - Official Red Band Trailer (In Theaters August 26)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.019,
+   "vote_count": 8255
+  },
   "movie:312669": {
    "backdrop_path": "/nV2nQc3Y5h4zi3w3FMZOJAvpVOq.jpg",
    "budget": 2000000,
@@ -3439,6 +3751,159 @@
    "type": "movie",
    "vote_average": 5.664,
    "vote_count": 417
+  },
+  "movie:313369": {
+   "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Sebastian",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Mia",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Keith",
+     "n": "John Legend"
+    },
+    {
+     "c": "Laura",
+     "n": "Rosemarie DeWitt"
+    },
+    {
+     "c": "Greg",
+     "n": "Finn Wittrock"
+    },
+    {
+     "c": "Tracy",
+     "n": "Callie Hernandez"
+    },
+    {
+     "c": "Caitlin",
+     "n": "Sonoya Mizuno"
+    },
+    {
+     "c": "Alexis",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "David",
+     "n": "Tom Everett Scott"
+    },
+    {
+     "c": "Josh",
+     "n": "Josh Pence"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Damien Chazelle"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 313369,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+   "popularity": 18.5551,
+   "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-12-09",
+   "revenue": 509183536,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Here's to the fools who dream.",
+   "title": "La La Land",
+   "trailer": {
+    "key": "Zfy4rGzZDes",
+    "name": "10th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.893,
+   "vote_count": 18739
   },
   "movie:321769": {
    "backdrop_path": "/ayfUwTMNSYcra3IfYhP4Et8iRPb.jpg",
@@ -4343,6 +4808,395 @@
    "type": "movie",
    "vote_average": 5.054,
    "vote_count": 303
+  },
+  "movie:436969": {
+   "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Harley Quinn",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Bloodsport",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Peacemaker",
+     "n": "John Cena"
+    },
+    {
+     "c": "Colonel Rick Flag",
+     "n": "Joel Kinnaman"
+    },
+    {
+     "c": "King Shark (voice)",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Amanda Waller",
+     "n": "Viola Davis"
+    },
+    {
+     "c": "Polka-Dot Man",
+     "n": "David Dastmalchian"
+    },
+    {
+     "c": "Ratcatcher 2",
+     "n": "Daniela Melchior"
+    },
+    {
+     "c": "Savant",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Captain Boomerang",
+     "n": "Jai Courtney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James Gunn"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 436969,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+   "popularity": 14.2941,
+   "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-08-06",
+   "revenue": 168717425,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "They’re dying to save the world.",
+   "title": "The Suicide Squad",
+   "trailer": {
+    "key": "eg5ciqQzmK0",
+    "name": "Official “Rain” Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.433,
+   "vote_count": 10096
+  },
+  "movie:45269": {
+   "backdrop_path": "/m4MGxxEgAMqIX9x8MCg5pYeyYjU.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "King George VI",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Lionel Logue",
+     "n": "Geoffrey Rush"
+    },
+    {
+     "c": "Queen Elizabeth",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "King Edward VIII",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Winston Churchill",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "King George V",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Myrtle Logue",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Archbishop Cosmo Lang",
+     "n": "Derek Jacobi"
+    },
+    {
+     "c": "Princess Elizabeth",
+     "n": "Freya Wilson"
+    },
+    {
+     "c": "Princess Margaret",
+     "n": "Ramona Marquez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom Hooper"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 45269,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+   "popularity": 7.1561,
+   "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-03-04",
+   "revenue": 414211549,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Find your voice.",
+   "title": "The King's Speech",
+   "trailer": {
+    "key": "HXMqX9s67kY",
+    "name": "Movie Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.73,
+   "vote_count": 9652
   },
   "movie:46169": {
    "backdrop_path": "/siidi1AD6JNwWqrepY5DhqCCuEX.jpg",
@@ -5535,6 +6389,138 @@
    "type": "movie",
    "vote_average": 4.9,
    "vote_count": 300
+  },
+  "movie:769": {
+   "backdrop_path": "/6qgSKYgkHLL0vAVbsqRfo8KmZgL.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "James Conway",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Henry Hill",
+     "n": "Ray Liotta"
+    },
+    {
+     "c": "Tommy DeVito",
+     "n": "Joe Pesci"
+    },
+    {
+     "c": "Karen Hill",
+     "n": "Lorraine Bracco"
+    },
+    {
+     "c": "Paul Cicero",
+     "n": "Paul Sorvino"
+    },
+    {
+     "c": "Frankie Carbone",
+     "n": "Frank Sivero"
+    },
+    {
+     "c": "Sonny Bunz",
+     "n": "Tony Darrow"
+    },
+    {
+     "c": "Frenchy",
+     "n": "Mike Starr"
+    },
+    {
+     "c": "Billy Batts",
+     "n": "Frank Vincent"
+    },
+    {
+     "c": "Morris Kessler",
+     "n": "Chuck Low"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 769,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+   "popularity": 21.1037,
+   "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1990-09-12",
+   "revenue": 47072327,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Three decades of life in the mafia.",
+   "title": "GoodFellas",
+   "trailer": {
+    "key": "PTBRNXGQR9Q",
+    "name": "BFI Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.451,
+   "vote_count": 15036
   },
   "movie:8069": {
    "backdrop_path": "/gY8essk1UcNZMK3VRkPpdaUQLDQ.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 72,
+ "count": 76,
  "titles": {
   "movie:1023": {
    "backdrop_path": "/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
@@ -749,6 +749,142 @@
    "type": "movie",
    "vote_average": 6.967,
    "vote_count": 75
+  },
+  "movie:13223": {
+   "backdrop_path": "/sO2coXOiWWZL0sr6RsWTS3tu0J9.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Walt Kowalski",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Father Janovich",
+     "n": "Christopher Carley"
+    },
+    {
+     "c": "Thao",
+     "n": "Bee Vang"
+    },
+    {
+     "c": "Sue",
+     "n": "Ahney Her"
+    },
+    {
+     "c": "Mitch Kowalski",
+     "n": "Brian Haley"
+    },
+    {
+     "c": "Karen Kowalski",
+     "n": "Geraldine Hughes"
+    },
+    {
+     "c": "Ashley Kowalski",
+     "n": "Dreama Walker"
+    },
+    {
+     "c": "Steve Kowalski",
+     "n": "Brian Howe"
+    },
+    {
+     "c": "Barber Martin",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Tim Kennedy",
+     "n": "William Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 13223,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+   "popularity": 6.4252,
+   "poster_path": "/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-03-13",
+   "revenue": 270000000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get off my lawn.",
+   "title": "Gran Torino",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.987,
+   "vote_count": 11990
   },
   "movie:1370123": {
    "backdrop_path": "/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
@@ -2241,6 +2377,166 @@
    "vote_average": 6.0,
    "vote_count": 416
   },
+  "movie:18823": {
+   "backdrop_path": "/zRx1HyM1wF6wqEvxV12Ha2WrvlJ.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Perseus",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Io",
+     "n": "Gemma Arterton"
+    },
+    {
+     "c": "Draco",
+     "n": "Mads Mikkelsen"
+    },
+    {
+     "c": "Andromeda",
+     "n": "Alexa Davalos"
+    },
+    {
+     "c": "Calibos / Acrisius",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Hades",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Zeus",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Spyros",
+     "n": "Pete Postlethwaite"
+    },
+    {
+     "c": "Cassiopeia",
+     "n": "Polly Walker"
+    },
+    {
+     "c": "Ozal",
+     "n": "Ashraf Barhom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Louis Leterrier"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 18823,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.",
+   "popularity": 7.2266,
+   "poster_path": "/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "History Vault"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-03-26",
+   "revenue": 493214993,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The clash begins.",
+   "title": "Clash of the Titans",
+   "trailer": {
+    "key": "TfyunOnMGqM",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.919,
+   "vote_count": 6946
+  },
   "movie:19223": {
    "backdrop_path": "/88FnsK3iF9rWdR36N3anp1oYVYJ.jpg",
    "budget": 0,
@@ -3577,6 +3873,127 @@
    "vote_average": 7.534,
    "vote_count": 388
   },
+  "movie:423": {
+   "backdrop_path": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Władysław 'Władek' Szpilman",
+     "n": "Adrien Brody"
+    },
+    {
+     "c": "Captain Wilm Hosenfeld",
+     "n": "Thomas Kretschmann"
+    },
+    {
+     "c": "Father",
+     "n": "Frank Finlay"
+    },
+    {
+     "c": "Mother",
+     "n": "Maureen Lipman"
+    },
+    {
+     "c": "Dorota",
+     "n": "Emilia Fox"
+    },
+    {
+     "c": "Henryk Szpilman",
+     "n": "Ed Stoppard"
+    },
+    {
+     "c": "Regina Szpilman",
+     "n": "Julia Rayner"
+    },
+    {
+     "c": "Halina Szpilman",
+     "n": "Jessica Kate Meyer"
+    },
+    {
+     "c": "Jurek",
+     "n": "Michał Żebrowski"
+    },
+    {
+     "c": "SS Slapping Father",
+     "n": "Wanja Mues"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Roman Polanski"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 423,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "FR",
+    "DE"
+   ],
+   "original_language": "en",
+   "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+   "popularity": 13.9906,
+   "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "PL",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-09-17",
+   "revenue": 120098945,
+   "runtime": 150,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "pl",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Music was his passion. Survival was his masterpiece.",
+   "title": "The Pianist",
+   "trailer": {
+    "key": "og9hFxxdSOg",
+    "name": "4K Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.368,
+   "vote_count": 10633
+  },
   "movie:45523": {
    "backdrop_path": "/pm5YOQhaNaJILOLfcEVxRBNxGVX.jpg",
    "budget": 0,
@@ -3661,6 +4078,176 @@
    "type": "movie",
    "vote_average": 7.799,
    "vote_count": 321
+  },
+  "movie:458723": {
+   "backdrop_path": "/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Adelaide Wilson / Red",
+     "n": "Lupita Nyong'o"
+    },
+    {
+     "c": "Gabe Wilson / Abraham",
+     "n": "Winston Duke"
+    },
+    {
+     "c": "Kitty Tyler / Dahlia",
+     "n": "Elisabeth Moss"
+    },
+    {
+     "c": "Josh Tyler / Tex",
+     "n": "Tim Heidecker"
+    },
+    {
+     "c": "Zora Wilson / Umbrae",
+     "n": "Shahadi Wright Joseph"
+    },
+    {
+     "c": "Jason Wilson / Pluto",
+     "n": "Evan Alex"
+    },
+    {
+     "c": "Russell Thomas / Weyland",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Rayne Thomas / Eartha",
+     "n": "Anna Diop"
+    },
+    {
+     "c": "Becca Tyler / Io",
+     "n": "Cali Sheldon"
+    },
+    {
+     "c": "Lindsey Tyler / Nix",
+     "n": "Noelle Sheldon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jordan Peele"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 458723,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+   "popularity": 7.019,
+   "poster_path": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-03-29",
+   "revenue": 256071218,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Watch yourself.",
+   "title": "Us",
+   "trailer": {
+    "key": "hNCmb-4oXJA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.932,
+   "vote_count": 8421
   },
   "movie:46523": {
    "backdrop_path": "/fkZFA9SHDijvl2tPxZRWogAJeWm.jpg",

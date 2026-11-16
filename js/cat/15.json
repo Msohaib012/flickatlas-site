@@ -1,7 +1,193 @@
 {
  "bucket": "15",
- "count": 56,
+ "count": 66,
  "titles": {
+  "movie:110415": {
+   "backdrop_path": "/55vkNtb83bSwbdWrQTVZTGLBcLx.jpg",
+   "budget": 39200000,
+   "cast": [
+    {
+     "c": "Curtis",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Namgoong Minsu",
+     "n": "Song Kang-ho"
+    },
+    {
+     "c": "Wilford",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Gilliam",
+     "n": "John Hurt"
+    },
+    {
+     "c": "Mason",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Edgar",
+     "n": "Jamie Bell"
+    },
+    {
+     "c": "Tanya",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Andrew",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "Yona",
+     "n": "Ko Asung"
+    },
+    {
+     "c": "Teacher",
+     "n": "Alison Pill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bong Joon Ho"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 110415,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+   "popularity": 10.3188,
+   "poster_path": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-08-01",
+   "revenue": 86758912,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ja",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Fight your way to the front.",
+   "title": "Snowpiercer",
+   "trailer": {
+    "key": "3Np3v7xnNJk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.909,
+   "vote_count": 10842
+  },
   "movie:11215": {
    "backdrop_path": "/i3aD438nOLOASyf1KOZrDZxQXfX.jpg",
    "budget": 15000000,
@@ -138,6 +324,121 @@
    "type": "movie",
    "vote_average": 6.406,
    "vote_count": 434
+  },
+  "movie:115": {
+   "backdrop_path": "/77ElMccPnTMPouRxSdbJ4nEjf69.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "The Dude",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Walter Sobchak",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Maude Lebowski",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Donny",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "The Big Lebowski",
+     "n": "David Huddleston"
+    },
+    {
+     "c": "Brandt",
+     "n": "Philip Seymour Hoffman"
+    },
+    {
+     "c": "Bunny Lebowski",
+     "n": "Tara Reid"
+    },
+    {
+     "c": "Treehorn Thug",
+     "n": "Philip Moon"
+    },
+    {
+     "c": "Treehorn Thug",
+     "n": "Mark Pellegrino"
+    },
+    {
+     "c": "Nihilist",
+     "n": "Peter Stormare"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joel Coen",
+    "Ethan Coen"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 115,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+   "popularity": 11.6743,
+   "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-03-06",
+   "revenue": 47010480,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he",
+    "es",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Times like these call for a Big Lebowski.",
+   "title": "The Big Lebowski",
+   "trailer": {
+    "key": "GiwMMziJdqg",
+    "name": "Park Circus Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.858,
+   "vote_count": 12840
   },
   "movie:1205515": {
    "backdrop_path": "/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
@@ -1544,6 +1845,148 @@
    "vote_average": 6.966,
    "vote_count": 336
   },
+  "movie:158015": {
+   "backdrop_path": "/anFRs7Xi7u2nqqBpmhqvXINAPix.jpg",
+   "budget": 3000000,
+   "cast": [
+    {
+     "c": "James Sandin",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Mary Sandin",
+     "n": "Lena Headey"
+    },
+    {
+     "c": "Charlie Sandin",
+     "n": "Max Burkholder"
+    },
+    {
+     "c": "Zoey Sandin",
+     "n": "Adelaide Kane"
+    },
+    {
+     "c": "Bloody Stranger",
+     "n": "Edwin Hodge"
+    },
+    {
+     "c": "Polite Leader",
+     "n": "Rhys Wakefield"
+    },
+    {
+     "c": "Henry",
+     "n": "Tony Oller"
+    },
+    {
+     "c": "Mrs. Grace Ferrin",
+     "n": "Arija Bareikis"
+    },
+    {
+     "c": "Mr. Cali",
+     "n": "Tom Yi"
+    },
+    {
+     "c": "Mr. Halverson",
+     "n": "Chris Mulkey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James DeMonaco"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 158015,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Given the country's overcrowded prisons, the U.S. government begins to allow 12-hour periods of time in which all illegal activity is legal. During one of these free-for-alls, a family must protect themselves from a home invasion.",
+   "popularity": 9.9988,
+   "poster_path": "/x6hwbnR2nGacSzljqYaXY25w1Me.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-05-31",
+   "revenue": 91266581,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One night a year, all crime is legal.",
+   "title": "The Purge",
+   "trailer": {
+    "key": "aDLGd42PXls",
+    "name": "EST Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.244,
+   "vote_count": 9130
+  },
   "movie:1584215": {
    "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
    "budget": 0,
@@ -2251,6 +2694,138 @@
    "vote_average": 6.076,
    "vote_count": 304
   },
+  "movie:216015": {
+   "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Anastasia Steele",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Christian Grey",
+     "n": "Jamie Dornan"
+    },
+    {
+     "c": "Carla",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Kate",
+     "n": "Eloise Mumford"
+    },
+    {
+     "c": "José",
+     "n": "Victor Rasuk"
+    },
+    {
+     "c": "Elliot Grey",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Dr. Grey",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Mia Grey",
+     "n": "Rita Ora"
+    },
+    {
+     "c": "Taylor",
+     "n": "Max Martini"
+    },
+    {
+     "c": "Ray",
+     "n": "Callum Keith Rennie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sam Taylor-Johnson"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "id": 216015,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+   "popularity": 20.5678,
+   "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-02-11",
+   "revenue": 569651467,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mr. Grey will see you now.",
+   "title": "Fifty Shades of Grey",
+   "trailer": {
+    "key": "6FDTMRK7-24",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.853,
+   "vote_count": 12636
+  },
   "movie:24615": {
    "backdrop_path": "/7gvgpPaDmqPEIMaZTz04Zwhe8dP.jpg",
    "budget": 0,
@@ -2351,6 +2926,127 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 473
+  },
+  "movie:263115": {
+   "backdrop_path": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+   "budget": 97000000,
+   "cast": [
+    {
+     "c": "Logan / X-24",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Laura",
+     "n": "Dafne Keen"
+    },
+    {
+     "c": "Charles",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Gabriela",
+     "n": "Elizabeth Rodriguez"
+    },
+    {
+     "c": "Pierce",
+     "n": "Boyd Holbrook"
+    },
+    {
+     "c": "Caliban",
+     "n": "Stephen Merchant"
+    },
+    {
+     "c": "Dr. Rice",
+     "n": "Richard E. Grant"
+    },
+    {
+     "c": "Macon",
+     "n": "Stephen Dunlevy"
+    },
+    {
+     "c": "Will Munson",
+     "n": "Eriq La Salle"
+    },
+    {
+     "c": "Kathryn Munson",
+     "n": "Elise Neal"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James Mangold"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 263115,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+   "popularity": 19.2986,
+   "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-03-03",
+   "revenue": 619021436,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Someone has come along.",
+   "title": "Logan",
+   "trailer": {
+    "key": "XaE_9pfybL4",
+    "name": "Official UK Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.823,
+   "vote_count": 21083
   },
   "movie:26715": {
    "backdrop_path": "/tdgce7OwwUwF7atRiar1y1AS6eh.jpg",
@@ -3381,6 +4077,125 @@
    "vote_average": 5.788,
    "vote_count": 380
   },
+  "movie:44115": {
+   "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Aron Ralston",
+     "n": "James Franco"
+    },
+    {
+     "c": "Kristi Moore",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Megan McBride",
+     "n": "Amber Tamblyn"
+    },
+    {
+     "c": "Rana",
+     "n": "Clémence Poésy"
+    },
+    {
+     "c": "Sonja Ralston",
+     "n": "Lizzy Caplan"
+    },
+    {
+     "c": "Aron's Mom",
+     "n": "Kate Burton"
+    },
+    {
+     "c": "Aron's Dad",
+     "n": "Treat Williams"
+    },
+    {
+     "c": "Aron's Friend",
+     "n": "Sean Bott"
+    },
+    {
+     "c": "Blue John",
+     "n": "Fenton Quinn"
+    },
+    {
+     "c": "Brion",
+     "n": "John Lawrence"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 44115,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The true story of mountain climber Aron Ralston's remarkable adventure to save himself after a fallen boulder crashes on his arm and traps him in an isolated canyon in Utah.",
+   "popularity": 6.4333,
+   "poster_path": "/h0RMdn0rfl9l5hWXz3tUh6QVkhi.jpg",
+   "production_countries": [
+    "FR",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-01-28",
+   "revenue": 35700000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every second counts.",
+   "title": "127 Hours",
+   "trailer": {
+    "key": "OlhLOWTnVoQ",
+    "name": "127 HOURS - Full Length Official Trailer HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.092,
+   "vote_count": 8407
+  },
   "movie:4515": {
    "backdrop_path": "/tfE55NmC3tF2U0DtZkAYKvUHn5k.jpg",
    "budget": 35000000,
@@ -4159,6 +4974,131 @@
    "vote_average": 6.192,
    "vote_count": 921
   },
+  "movie:530915": {
+   "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Lance Corporal Schofield",
+     "n": "George MacKay"
+    },
+    {
+     "c": "Lance Corporal Blake",
+     "n": "Dean-Charles Chapman"
+    },
+    {
+     "c": "Captain Smith",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Lieutenant Leslie",
+     "n": "Andrew Scott"
+    },
+    {
+     "c": "Lieutenant Blake",
+     "n": "Richard Madden"
+    },
+    {
+     "c": "Lauri",
+     "n": "Claire Duburcq"
+    },
+    {
+     "c": "General Erinmore",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Colonel MacKenzie",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Sergeant Sanders",
+     "n": "Daniel Mays"
+    },
+    {
+     "c": "Major Hepburn",
+     "n": "Adrian Scarborough"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Sam Mendes"
+   ],
+   "genres": [
+    "War",
+    "Drama",
+    "History"
+   ],
+   "id": 530915,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+   "popularity": 10.867,
+   "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "ES",
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-01-17",
+   "revenue": 446064352,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Time is the enemy.",
+   "title": "1917",
+   "trailer": {
+    "key": "gZjQROMAh_s",
+    "name": "Official Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.983,
+   "vote_count": 14126
+  },
   "movie:536115": {
    "backdrop_path": "/q3j4OQFFDKM6fdQt9gE56kfDBNG.jpg",
    "budget": 0,
@@ -4262,6 +5202,155 @@
    "type": "movie",
    "vote_average": 6.495,
    "vote_count": 418
+  },
+  "movie:537915": {
+   "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Tessa Young",
+     "n": "Josephine Langford"
+    },
+    {
+     "c": "Hardin Scott",
+     "n": "Hero Fiennes Tiffin"
+    },
+    {
+     "c": "Landon Gibson",
+     "n": "Shane Paul McGhie"
+    },
+    {
+     "c": "Steph Jones",
+     "n": "Khadijha Red Thunder"
+    },
+    {
+     "c": "Noah Porter",
+     "n": "Dylan Arnold"
+    },
+    {
+     "c": "Zed Evans",
+     "n": "Samuel Larsen"
+    },
+    {
+     "c": "Molly Samuels",
+     "n": "Inanna Sarkis"
+    },
+    {
+     "c": "Carol Young",
+     "n": "Selma Blair"
+    },
+    {
+     "c": "Tristan",
+     "n": "Pia Mia"
+    },
+    {
+     "c": "Jace",
+     "n": "Swen Temmel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jenny Gage"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 537915,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+   "popularity": 11.377,
+   "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-04-11",
+   "revenue": 69497587,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "After your first, life is never the same.",
+   "title": "After",
+   "trailer": {
+    "key": "2ZAdcWHuCmY",
+    "name": "Official Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.098,
+   "vote_count": 8598
   },
   "movie:558915": {
    "backdrop_path": "/rSle4ix2IZ6UMgCDY8L3ngdOmSZ.jpg",
@@ -4509,6 +5598,131 @@
    "type": "movie",
    "vote_average": 6.771,
    "vote_count": 414
+  },
+  "movie:5915": {
+   "backdrop_path": "/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Christopher McCandless / Alexander Supertramp",
+     "n": "Emile Hirsch"
+    },
+    {
+     "c": "Billie McCandless",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Walt McCandless",
+     "n": "William Hurt"
+    },
+    {
+     "c": "Carine McCandless / Additional Narration (voice)",
+     "n": "Jena Malone"
+    },
+    {
+     "c": "Rainey",
+     "n": "Brian H. Dierker"
+    },
+    {
+     "c": "Jan Burres",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Wayne Westerberg",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Tracy Tatro",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Ronald \"Ron\" Franz",
+     "n": "Hal Holbrook"
+    },
+    {
+     "c": "Mads",
+     "n": "Thure Lindhardt"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sean Penn"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 5915,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+   "popularity": 6.2376,
+   "poster_path": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-09-28",
+   "revenue": 56255142,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "da",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Into the heart. Into the soul.",
+   "title": "Into the Wild",
+   "trailer": {
+    "key": "g7ArZ7VD-QQ",
+    "name": "Into The Wild - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.794,
+   "vote_count": 10479
   },
   "movie:629015": {
    "backdrop_path": "/ufagam4FwlIcgPqJlr21EshNkNd.jpg",
@@ -5743,6 +6957,194 @@
    "type": "movie",
    "vote_average": 6.763,
    "vote_count": 475
+  },
+  "movie:9615": {
+   "backdrop_path": "/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Sean Boswell",
+     "n": "Lucas Black"
+    },
+    {
+     "c": "Neela",
+     "n": "Nathalie Kelley"
+    },
+    {
+     "c": "Han Lue",
+     "n": "Sung Kang"
+    },
+    {
+     "c": "Twinkie",
+     "n": "Shad Moss"
+    },
+    {
+     "c": "D.K.",
+     "n": "Brian Tee"
+    },
+    {
+     "c": "Morimoto",
+     "n": "Leonardo Nam"
+    },
+    {
+     "c": "Major Boswell",
+     "n": "Brian Goodman"
+    },
+    {
+     "c": "Clay",
+     "n": "Zachery Ty Bryan"
+    },
+    {
+     "c": "Cindy (Clay's Girlfriend)",
+     "n": "Nikki Griffin"
+    },
+    {
+     "c": "Earl",
+     "n": "Jason Tobin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Justin Lin"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 9615,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In order to avoid a jail sentence, Sean Boswell heads to Tokyo to live with his military father. In a low-rent section of the city, Sean gets caught up in the underground world of drift racing",
+   "popularity": 3.1083,
+   "poster_path": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-06-03",
+   "revenue": 158964610,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "On the streets of Tokyo, speed needs no translation.",
+   "title": "The Fast and the Furious: Tokyo Drift",
+   "trailer": {
+    "key": "K6RWbKMSDcg",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.565,
+   "vote_count": 8029
   },
   "tv:1215": {
    "backdrop_path": "/9o9SS26mUY4cp4iSFk7iwBeAQuP.jpg",

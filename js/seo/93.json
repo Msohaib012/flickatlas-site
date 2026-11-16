@@ -1,7 +1,71 @@
 {
  "bucket": "93",
- "count": 65,
+ "count": 74,
  "titles": {
+  "movie:10193": {
+   "d": "Toy Story 3 (2010): Animation/Family film. Story: Woody, Buzz, and the rest of Andy's toys haven't been… See cast, budget $200M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+   "industry": "world",
+   "k": "Toy Story 3, Toy Story 3 movie, Toy Story 3 cast, Toy Story 3 story, Toy Story 3 box office collection, Toy Story 3 budget, Toy Story 3 review, Toy Story 3 rating, Toy Story 3 release date, Toy Story 3 trailer, Toy Story 3 Animation, Toy Story 3 Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Joan Cusack"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Rickles"
+     },
+     {
+      "@type": "Person",
+      "name": "Wallace Shawn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16457,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Toy Story 3 (2010): Animation/Family film. Story: Woody, Buzz, and the rest of Andy's toys haven't been… See cast, budget $200M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lee Unkrich"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10193",
+    "name": "Toy Story 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10193"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Toy Story 3 (2010)</h1>\n<p class=\"ssr-lead\">Woody, Buzz, and the rest of Andy&#x27;s toys haven&#x27;t been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2010</li><li>Runtime: 103 minutes</li><li>Director: Lee Unkrich</li><li>Genres: Animation, Family, Comedy</li><li>Budget: $200M</li><li>TMDB rating: 7.8/10 (16457 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Woody (voice)</li><li>Tim Allen as Buzz Lightyear (voice)</li><li>Joan Cusack as Jessie (voice)</li><li>Don Rickles as Mr. Potato Head (voice)</li><li>Wallace Shawn as Rex (voice)</li><li>John Ratzenberger as Hamm (voice)</li><li>Estelle Harris as Mrs. Potato Head (voice)</li><li>Blake Clark as Slinky Dog (voice)</li><li>Jeff Pidgeon as Aliens (voice)</li><li>Ned Beatty as Lotso (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Toy Story 3 (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:10493": {
    "d": "Dead Calm (1989): Thriller/Drama film. Story: An Australian couple takes a sailing trip in the… See cast, budget $10.4M, and TMDB rating 6.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/obUtKEx6Eb8Rib330c30BbckF1W.jpg",
@@ -778,6 +842,70 @@
    "t": "Tinsel Town (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:1593": {
+   "d": "Night at the Museum (2006): Fantasy/Family film. Story: Chaos reigns at the natural history museum when night… See cast, budget $110M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+   "industry": "world",
+   "k": "Night at the Museum, Night at the Museum movie, Night at the Museum cast, Night at the Museum story, Night at the Museum box office collection, Night at the Museum budget, Night at the Museum review, Night at the Museum rating, Night at the Museum release date, Night at the Museum Fantasy, Night at the Museum Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Carla Gugino"
+     },
+     {
+      "@type": "Person",
+      "name": "Dick Van Dyke"
+     },
+     {
+      "@type": "Person",
+      "name": "Mickey Rooney"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Cobbs"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11359,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Night at the Museum (2006): Fantasy/Family film. Story: Chaos reigns at the natural history museum when night… See cast, budget $110M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shawn Levy"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Fantasy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1593",
+    "name": "Night at the Museum",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-12-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1593"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night at the Museum (2006)</h1>\n<p class=\"ssr-lead\">Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 December 2006</li><li>Runtime: 108 minutes</li><li>Director: Shawn Levy</li><li>Genres: Fantasy, Family, Comedy</li><li>Budget: $110M</li><li>TMDB rating: 6.6/10 (11359 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Larry Daley</li><li>Carla Gugino as Rebecca</li><li>Dick Van Dyke as Cecil</li><li>Mickey Rooney as Gus</li><li>Bill Cobbs as Reginald</li><li>Jake Cherry as Nick Daley</li><li>Ricky Gervais as Dr. McPhee</li><li>Robin Williams as Theodore Roosevelt</li><li>Kim Raver as Erica Daley</li><li>Patrick Gallagher as Attila the Hun</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Night at the Museum (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
+  },
   "movie:1599993": {
    "d": "Animales (2026): Comedy/Thriller film. Story: Four couples sail the thin line between desire and… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/466HJFm5SCys70ecnqJcSOeAHPG.jpg",
@@ -905,6 +1033,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Northanger Abbey (2007)</h1>\n<p class=\"ssr-lead\">A young woman&#x27;s penchant for sensational Gothic novels leads to misunderstandings in the matters of the heart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 October 2007</li><li>Runtime: 93 minutes</li><li>Director: Jon Jones</li><li>Genres: Romance, Drama, TV Movie</li><li>TMDB rating: 6.8/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Felicity Jones as Catherine Morland</li><li>Carey Mulligan as Isabella Thorpe</li><li>JJ Feild as Henry Tilney</li><li>Geraldine James as Jane Austen (voice)</li><li>Sylvestra Le Touzel as Mrs Allen</li><li>Desmond Barrit as Mr Allen</li><li>William Beck as John Thorpe</li><li>Gerry O&#x27;Brien as Mr. Morland</li><li>Liam McMahon as Sedley</li><li>Catherine Walker as Eleanor Tilney</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, PBS Masterpiece Amazon Channel, BritBox Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store</li><li>Buy: Amazon Video, Apple TV Store</li></ul>\n</article>",
    "t": "Northanger Abbey (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:1893": {
+   "d": "Star Wars: Episode I - The Phantom Menace (1999): Adventure/Action film. Story: Anakin Skywalker, a young slave strong with the… See cast and budget $115M.",
+   "img": "https://image.tmdb.org/t/p/w780/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+   "industry": "world",
+   "k": "Star Wars: Episode I - The Phantom Menace, Star Wars: Episode I - The Phantom Menace movie, Star Wars: Episode I - The Phantom Menace cast, Star Wars: Episode I - The Phantom Menace story, Star Wars: Episode I - The Phantom Menace box office collection, Star Wars: Episode I - The Phantom Menace budget, Star Wars: Episode I - The Phantom Menace review, Star Wars: Episode I - The Phantom Menace rating, Star Wars: Episode I - The Phantom Menace release date, Star Wars: Episode I - The Phantom Menace trailer, Star Wars: Episode I - The Phantom Menace Adventure, Star Wars: Episode I - The Phantom Menace Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liam Neeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Lloyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McDiarmid"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16434,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Star Wars: Episode I - The Phantom Menace (1999): Adventure/Action film. Story: Anakin Skywalker, a young slave strong with the… See cast and budget $115M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Lucas"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1893",
+    "name": "Star Wars: Episode I - The Phantom Menace",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-05-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1893"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Star Wars: Episode I - The Phantom Menace (1999)</h1>\n<p class=\"ssr-lead\">Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 May 1999</li><li>Runtime: 136 minutes</li><li>Director: George Lucas</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $115M</li><li>TMDB rating: 6.6/10 (16434 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liam Neeson as Qui-Gon Jinn</li><li>Ewan McGregor as Obi-Wan Kenobi</li><li>Natalie Portman as Padmé Amidala</li><li>Jake Lloyd as Anakin Skywalker</li><li>Ian McDiarmid as Senator Palpatine</li><li>Pernilla August as Shmi Skywalker</li><li>Oliver Ford Davies as Governor Sio Bibble</li><li>Hugh Quarshie as Captain Panaka</li><li>Ahmed Best as Jar Jar Binks</li><li>Anthony Daniels as C-3PO (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Star Wars: Episode I - The Phantom Menace (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
   },
   "movie:203793": {
    "d": "Stalingrad (2013): War/Action film. Story: A band of determined Russian soldiers fight to hold a… See cast, budget $30M, and TMDB rating 6.3/10.",
@@ -1162,6 +1354,69 @@
    "t": "Scooby-Doo! WrestleMania Mystery (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:259693": {
+   "d": "The Conjuring 2 (2016): Horror film. Story: Lorraine and Ed Warren travel to north London to help… See cast, budget $40M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+   "industry": "world",
+   "k": "The Conjuring 2, The Conjuring 2 movie, The Conjuring 2 cast, The Conjuring 2 story, The Conjuring 2 box office collection, The Conjuring 2 budget, The Conjuring 2 review, The Conjuring 2 rating, The Conjuring 2 release date, The Conjuring 2 trailer, The Conjuring 2 Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vera Farmiga"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Madison Wolfe"
+     },
+     {
+      "@type": "Person",
+      "name": "Frances O'Connor"
+     },
+     {
+      "@type": "Person",
+      "name": "Lauren Esposito"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9545,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Conjuring 2 (2016): Horror film. Story: Lorraine and Ed Warren travel to north London to help… See cast, budget $40M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Wan"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=259693",
+    "name": "The Conjuring 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-06-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=259693"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Conjuring 2 (2016)</h1>\n<p class=\"ssr-lead\">Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 2016</li><li>Runtime: 134 minutes</li><li>Director: James Wan</li><li>Genres: Horror</li><li>Budget: $40M</li><li>TMDB rating: 7.3/10 (9545 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vera Farmiga as Lorraine Warren</li><li>Patrick Wilson as Ed Warren</li><li>Madison Wolfe as Janet Hodgson</li><li>Frances O&#x27;Connor as Peggy Hodgson</li><li>Lauren Esposito as Margaret Hodgson</li><li>Benjamin Haigh as Billy Hodgson</li><li>Patrick McAuley as Johnny Hodgson</li><li>Sterling Jerins as Judy Warren</li><li>Bonnie Aarons as Demon Nun</li><li>Simon McBurney as Maurice Grosse</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Conjuring 2 (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:26593": {
    "d": "Rio Lobo (1970): Western film. Story: After the Civil War, a former Union colonel searches… See cast, TMDB rating 6.5/10, and release date 1 April 1970.",
    "img": "https://image.tmdb.org/t/p/w780/yxAw8UE3MiYbc6yCN3XhVXdG9yx.jpg",
@@ -1352,6 +1607,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Spanish Prisoner (1997)</h1>\n<p class=\"ssr-lead\">An inventor of a secret process suddenly finds himself alone as both his friends and the corporation he works for turn against him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 December 1997</li><li>Runtime: 110 minutes</li><li>Director: David Mamet</li><li>Genres: Drama, Mystery, Thriller</li><li>Budget: $10M</li><li>TMDB rating: 6.8/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Martin as Jimmy Dell</li><li>Campbell Scott as Joe Ross</li><li>Ben Gazzara as Mr. Klein</li><li>Rebecca Pidgeon as Susan Ricci</li><li>Ricky Jay as George Lang</li><li>Felicity Huffman as Pat McCune</li><li>David Pittu as Resort Manager</li><li>J.J. Johnston as Doorman</li><li>Ed O&#x27;Neill as FBI Team Leader</li><li>Clark Gregg as FBI Sniper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "The Spanish Prisoner (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
+  },
+  "movie:295693": {
+   "d": "The Boss Baby (2017): Animation/Comedy film. Story: A story about how a new baby's arrival impacts a… See cast, budget $125M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8280R0bDR1FusPyThAOmAcSC4nu.jpg",
+   "industry": "world",
+   "k": "The Boss Baby, The Boss Baby movie, The Boss Baby cast, The Boss Baby story, The Boss Baby box office collection, The Boss Baby budget, The Boss Baby review, The Boss Baby rating, The Boss Baby release date, The Boss Baby trailer, The Boss Baby Animation, The Boss Baby Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Miles Bakshi"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimmy Kimmel"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Kudrow"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7637,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "The Boss Baby (2017): Animation/Comedy film. Story: A story about how a new baby's arrival impacts a… See cast, budget $125M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom McGrath"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8280R0bDR1FusPyThAOmAcSC4nu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=295693",
+    "name": "The Boss Baby",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-03-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=295693"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Boss Baby (2017)</h1>\n<p class=\"ssr-lead\">A story about how a new baby&#x27;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 March 2017</li><li>Runtime: 97 minutes</li><li>Director: Tom McGrath</li><li>Genres: Animation, Comedy, Family</li><li>Budget: $125M</li><li>TMDB rating: 6.5/10 (7637 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Miles Bakshi as Tim (voice)</li><li>Alec Baldwin as Boss Baby (voice)</li><li>Jimmy Kimmel as Dad (voice)</li><li>Lisa Kudrow as Mom (voice)</li><li>Steve Buscemi as Francis Francis (voice)</li><li>Tobey Maguire as Adult Tim / Narrator (voice)</li><li>James McGrath as Wizzie / Elvis Impersonator (voice)</li><li>Conrad Vernon as Eugene (voice)</li><li>ViviAnn Yee as Staci (voice)</li><li>Eric Bell Jr. as Triplets (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Boss Baby (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:3093": {
    "d": "Basic Instinct 2 (2006): Crime/Mystery film. Story: Novelist Catherine Tramell is once again in trouble… See cast, budget $70M, and TMDB rating 4.9/10.",
@@ -1672,6 +1991,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Just Wright (2010)</h1>\n<p class=\"ssr-lead\">Physical therapist Leslie Wright lands the dream job of working with basketball superstar Scott McKnight, helping him recover from a career-threatening injury. All goes well and soon Leslie finds herself falling in love with him. Just as their friendship deepens, however, Scott focuses his attention back on his tenuous relationship with his ex-fiancé Morgan, Leslie&#x27;s gorgeous godsister, who would love to be the basketball player&#x27;s trophy wife.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 2010</li><li>Runtime: 101 minutes</li><li>Director: Sanaa Hamri</li><li>Genres: Romance, Comedy</li><li>TMDB rating: 6.5/10 (477 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Queen Latifah as Leslie Wright</li><li>Common as Scott McKnight</li><li>Paula Patton as Morgan Alexander</li><li>James Pickens Jr. as Lloyd Wright</li><li>Phylicia Rashād as Ella McKnight</li><li>Pam Grier as Janice Wright</li><li>Laz Alonso as Mark Matthews</li><li>Mehcad Brooks as Angelo Bembrey</li><li>Michael Landes as Nelson Kaspian</li><li>Dwight Howard as Dwight Howard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
    "t": "Just Wright (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:393": {
+   "d": "Kill Bill: Vol. 2 (2004): Action/Crime film. Story: The Bride unwaveringly continues on her roaring… See cast, budget $30M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+   "industry": "world",
+   "k": "Kill Bill: Vol. 2, Kill Bill: Vol. 2 movie, Kill Bill: Vol. 2 cast, Kill Bill: Vol. 2 story, Kill Bill: Vol. 2 box office collection, Kill Bill: Vol. 2 budget, Kill Bill: Vol. 2 review, Kill Bill: Vol. 2 rating, Kill Bill: Vol. 2 release date, Kill Bill: Vol. 2 Action, Kill Bill: Vol. 2 Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Uma Thurman"
+     },
+     {
+      "@type": "Person",
+      "name": "David Carradine"
+     },
+     {
+      "@type": "Person",
+      "name": "Daryl Hannah"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Madsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Gordon Liu Chia-hui"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15681,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Kill Bill: Vol. 2 (2004): Action/Crime film. Story: The Bride unwaveringly continues on her roaring… See cast, budget $30M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Quentin Tarantino"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=393",
+    "name": "Kill Bill: Vol. 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-08-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=393"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kill Bill: Vol. 2 (2004)</h1>\n<p class=\"ssr-lead\">The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there&#x27;s nothing left to do … but kill Bill.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 August 2004</li><li>Runtime: 136 minutes</li><li>Director: Quentin Tarantino</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $30M</li><li>TMDB rating: 7.9/10 (15681 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Uma Thurman as Beatrix Kiddo / The Bride / &#x27;Black Mamba&#x27; / Mommy</li><li>David Carradine as Bill &#x27;Snake Charmer&#x27;</li><li>Daryl Hannah as Elle Driver &#x27;California Mountain Snake&#x27;</li><li>Michael Madsen as Budd &#x27;Sidewinder&#x27;</li><li>Gordon Liu Chia-hui as Johnny Mo / Pai Mei</li><li>Michael Parks as Earl McGraw / Esteban Vihaio</li><li>Perla Haney-Jardine as B.B.</li><li>Vivica A. Fox as Vernita Green &#x27;Copperhead&#x27;</li><li>Ambrosia Kelley as Nikki</li><li>James Parks as Edgar McGraw</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Kill Bill: Vol. 2 (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "movie:396493": {
    "d": "Creep 2 (2017): Horror/Thriller film. Story: After finding an ad online for “video work,” Sara, a… See cast and TMDB rating 6.4/10.",
@@ -2819,6 +3202,69 @@
    "t": "Metal Lords (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:76493": {
+   "d": "The Dictator (2012): Comedy film. Story: The heroic story of a dictator who risks his life to… See cast, budget $65M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jWq20KNbg5txb28tLxJl0yLYuxp.jpg",
+   "industry": "world",
+   "k": "The Dictator, The Dictator movie, The Dictator cast, The Dictator story, The Dictator box office collection, The Dictator budget, The Dictator review, The Dictator rating, The Dictator release date, The Dictator Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sacha Baron Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Kingsley"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Faris"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Mantzoukas"
+     },
+     {
+      "@type": "Person",
+      "name": "Sayed Badreya"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6740,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Dictator (2012): Comedy film. Story: The heroic story of a dictator who risks his life to… See cast, budget $65M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Larry Charles"
+     }
+    ],
+    "duration": "PT83M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jWq20KNbg5txb28tLxJl0yLYuxp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=76493",
+    "name": "The Dictator",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=76493"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Dictator (2012)</h1>\n<p class=\"ssr-lead\">The heroic story of a dictator who risks his life to ensure that democracy would never come to the country he so lovingly oppressed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 2012</li><li>Runtime: 83 minutes</li><li>Director: Larry Charles</li><li>Genres: Comedy</li><li>Budget: $65M</li><li>TMDB rating: 6.3/10 (6740 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sacha Baron Cohen as Aladeen / Efawadh</li><li>Ben Kingsley as Tamir</li><li>Anna Faris as Zoey</li><li>Jason Mantzoukas as Nadal</li><li>Sayed Badreya as Omar</li><li>Adeel Akhtar as Maroush</li><li>Aasif Mandvi as Doctor</li><li>Rizwan Manji as Patient</li><li>Rocky Citron as Baby Aladeen</li><li>Liam Campora as Aladeen Age 6</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Dictator (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:792293": {
    "d": "Dumb Money (2023): History/Comedy film. Story: Vlogger Keith Gill sinks his life savings into… See cast, budget $30M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/dTOQaHP4PjDXU2JwDF6UYqGqRT0.jpg",
@@ -2947,6 +3393,70 @@
    "t": "12 Dates of Christmas (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:82693": {
+   "d": "Silver Linings Playbook (2012): Drama/Comedy film. Story: After losing his job and wife, and spending time in… See cast, budget $21M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+   "industry": "world",
+   "k": "Silver Linings Playbook, Silver Linings Playbook movie, Silver Linings Playbook cast, Silver Linings Playbook story, Silver Linings Playbook box office collection, Silver Linings Playbook budget, Silver Linings Playbook review, Silver Linings Playbook rating, Silver Linings Playbook release date, Silver Linings Playbook trailer, Silver Linings Playbook Drama, Silver Linings Playbook Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Jacki Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Anupam Kher"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12976,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Silver Linings Playbook (2012): Drama/Comedy film. Story: After losing his job and wife, and spending time in… See cast, budget $21M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David O. Russell"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=82693",
+    "name": "Silver Linings Playbook",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-12-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=82693"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Silver Linings Playbook (2012)</h1>\n<p class=\"ssr-lead\">After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 December 2012</li><li>Runtime: 122 minutes</li><li>Director: David O. Russell</li><li>Genres: Drama, Comedy, Romance</li><li>Budget: $21M</li><li>TMDB rating: 7.2/10 (12976 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bradley Cooper as Pat Solatano Jr.</li><li>Jennifer Lawrence as Tiffany Maxwell</li><li>Robert De Niro as Pat Solatano Sr.</li><li>Jacki Weaver as Dolores Solatano</li><li>Anupam Kher as Dr. Cliff Patel</li><li>Chris Tucker as Danny McDaniels</li><li>Julia Stiles as Veronica</li><li>Shea Whigham as Jake Solatano</li><li>John Ortiz as Ronnie</li><li>Paul Herman as Randy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Silver Linings Playbook (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:9393": {
    "d": "Before the Fall (2004): Drama film. Story: In 1942, Friedrich Weimer's boxing skills get him an… See cast, budget $4.5M, and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/7Or5uj52hqOnHWDna13OagcX9aP.jpg",
@@ -3073,6 +3583,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Boy (2026)</h1>\n<p class=\"ssr-lead\">In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 90 minutes</li><li>Director: Louis Clichy</li><li>Genres: Animation, Drama, Family</li><li>TMDB rating: 8.1/10 (48 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Clichy as Christophe (voice)</li><li>Rod Paradot as JB (voice)</li><li>Dimitri Colas as Jean (voice)</li><li>Aurélie Vassort as Catherine (voice)</li><li>Brune Moulin as Clara (voice)</li><li>Alexandre Astier as Michel (voice)</li><li>Jean-Pascal Zadi as The Priest (voice)</li><li>Antoine Philippe as Alcide (voice)</li><li>Margaux Vallé as Sophie (voice)</li><li>Axel Huet as The Bailiff (voice)</li></ul>\n</article>",
    "t": "Iron Boy (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:9693": {
+   "d": "Children of Men (2006): Science Fiction/Thriller film. Story: In 2027, in a chaotic world in which humans can no… See cast, budget $76M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8Y1S9BtmTOh86irwFo7CJ01YPXF.jpg",
+   "industry": "world",
+   "k": "Children of Men, Children of Men movie, Children of Men cast, Children of Men story, Children of Men box office collection, Children of Men budget, Children of Men review, Children of Men rating, Children of Men release date, Children of Men Science Fiction, Children of Men Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Clive Owen"
+     },
+     {
+      "@type": "Person",
+      "name": "Clare-Hope Ashitey"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiwetel Ejiofor"
+     },
+     {
+      "@type": "Person",
+      "name": "Julianne Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Caine"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8293,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Children of Men (2006): Science Fiction/Thriller film. Story: In 2027, in a chaotic world in which humans can no… See cast, budget $76M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alfonso Cuarón"
+     }
+    ],
+    "duration": "PT109M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8Y1S9BtmTOh86irwFo7CJ01YPXF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9693",
+    "name": "Children of Men",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-09-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9693"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Children of Men (2006)</h1>\n<p class=\"ssr-lead\">In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child&#x27;s birth may help scientists save the future of humankind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 September 2006</li><li>Runtime: 109 minutes</li><li>Director: Alfonso Cuarón</li><li>Genres: Science Fiction, Thriller, Action</li><li>Budget: $76M</li><li>TMDB rating: 7.6/10 (8293 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clive Owen as Theo Faron</li><li>Clare-Hope Ashitey as Kee</li><li>Chiwetel Ejiofor as Luke</li><li>Julianne Moore as Julian</li><li>Michael Caine as Jasper</li><li>Pam Ferris as Miriam</li><li>Charlie Hunnam as Patric</li><li>Danny Huston as Nigel</li><li>Peter Mullan as Syd</li><li>Oana Pellea as Marichka</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Children of Men (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "tv:240993": {
    "d": "Ransom Canyon (2025) is a Drama and Western TV series. Explore its story: Passions run deep in a small Texas town, as three…, cast, 2 seasons, and 18 episodes.",

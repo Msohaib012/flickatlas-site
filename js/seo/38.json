@@ -1,7 +1,71 @@
 {
  "bucket": "38",
- "count": 57,
+ "count": 70,
  "titles": {
+  "movie:10138": {
+   "d": "Iron Man 2 (2010): Adventure/Action film. Story: With the world now aware of his dual life as the… See cast, budget $200M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+   "industry": "world",
+   "k": "Iron Man 2, Iron Man 2 movie, Iron Man 2 cast, Iron Man 2 story, Iron Man 2 box office collection, Iron Man 2 budget, Iron Man 2 review, Iron Man 2 rating, Iron Man 2 release date, Iron Man 2 trailer, Iron Man 2 Adventure, Iron Man 2 Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert Downey Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Gwyneth Paltrow"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Cheadle"
+     },
+     {
+      "@type": "Person",
+      "name": "Scarlett Johansson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Rockwell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23245,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Iron Man 2 (2010): Adventure/Action film. Story: With the world now aware of his dual life as the… See cast, budget $200M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Favreau"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10138",
+    "name": "Iron Man 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-04-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10138"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Iron Man 2 (2010)</h1>\n<p class=\"ssr-lead\">With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James &#x27;Rhodey&#x27; Rhodes at his side, must forge new alliances – and confront powerful enemies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 April 2010</li><li>Runtime: 124 minutes</li><li>Director: Jon Favreau</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 6.9/10 (23245 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Downey Jr. as Tony Stark</li><li>Gwyneth Paltrow as Pepper Potts</li><li>Don Cheadle as Lt. Col. James &#x27;Rhodey&#x27; Rhodes</li><li>Scarlett Johansson as Natalie Rushman / Natasha Romanoff</li><li>Sam Rockwell as Justin Hammer</li><li>Mickey Rourke as Ivan Vanko</li><li>Samuel L. Jackson as Nick Fury</li><li>Clark Gregg as Agent Coulson</li><li>John Slattery as Howard Stark</li><li>Garry Shandling as Senator Stern</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Iron Man 2 (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:10238": {
    "d": "Cries and Whispers (1972): Drama film. Story: As Agnes slowly dies of cancer, her sisters are so… See cast, budget $400.0k, and TMDB rating 7.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
@@ -1221,6 +1285,70 @@
    "t": "Frankenstein's Army (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:1538": {
+   "d": "Collateral (2004): Drama/Crime film. Story: Cab driver Max picks up a man who offers him $600 to… See cast, budget $65M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+   "industry": "world",
+   "k": "Collateral, Collateral movie, Collateral cast, Collateral story, Collateral box office collection, Collateral budget, Collateral review, Collateral rating, Collateral release date, Collateral trailer, Collateral Drama, Collateral Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Cruise"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Foxx"
+     },
+     {
+      "@type": "Person",
+      "name": "Jada Pinkett Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Berg"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6644,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Collateral (2004): Drama/Crime film. Story: Cab driver Max picks up a man who offers him $600 to… See cast, budget $65M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Mann"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1538",
+    "name": "Collateral",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-08-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1538"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Collateral (2004)</h1>\n<p class=\"ssr-lead\">Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 August 2004</li><li>Runtime: 120 minutes</li><li>Director: Michael Mann</li><li>Genres: Drama, Crime, Thriller</li><li>Budget: $65M</li><li>TMDB rating: 7.3/10 (6644 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Cruise as Vincent</li><li>Jamie Foxx as Max Durocher</li><li>Jada Pinkett Smith as Annie Farrell</li><li>Mark Ruffalo as Det. Ray Fanning</li><li>Peter Berg as Richard Weidner</li><li>Javier Bardem as Felix Reyes-Torrena</li><li>Bruce McGill as Frank Pedrosa</li><li>Klea Scott as Zee</li><li>Barry Shabaka Henley as Daniel Baker</li><li>Irma P. Hall as Ida Durocher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Collateral (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:1588838": {
    "d": "To the Max (2026): Drama/Adventure film. Story: A group of friends bonded by their love for extreme… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
@@ -1481,6 +1609,134 @@
    "t": "Lesbian Vampire Killers (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:22538": {
+   "d": "Scott Pilgrim vs. the World (2010): Action/Comedy film. Story: As bass guitarist for a garage-rock band, Scott… See cast, budget $73M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
+   "industry": "world",
+   "k": "Scott Pilgrim vs. the World, Scott Pilgrim vs. the World movie, Scott Pilgrim vs. the World cast, Scott Pilgrim vs. the World story, Scott Pilgrim vs. the World box office collection, Scott Pilgrim vs. the World budget, Scott Pilgrim vs. the World review, Scott Pilgrim vs. the World rating, Scott Pilgrim vs. the World release date, Scott Pilgrim vs. the World trailer, Scott Pilgrim vs. the World Action, Scott Pilgrim vs. the World Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Cera"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Elizabeth Winstead"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellen Wong"
+     },
+     {
+      "@type": "Person",
+      "name": "Kieran Culkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Alison Pill"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9029,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Scott Pilgrim vs. the World (2010): Action/Comedy film. Story: As bass guitarist for a garage-rock band, Scott… See cast, budget $73M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edgar Wright"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=22538",
+    "name": "Scott Pilgrim vs. the World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-08-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=22538"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scott Pilgrim vs. the World (2010)</h1>\n<p class=\"ssr-lead\">As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 2010</li><li>Runtime: 113 minutes</li><li>Director: Edgar Wright</li><li>Genres: Action, Comedy, Romance</li><li>Budget: $73M</li><li>TMDB rating: 7.5/10 (9029 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Cera as Scott Pilgrim</li><li>Mary Elizabeth Winstead as Ramona Flowers</li><li>Ellen Wong as Knives Chau</li><li>Kieran Culkin as Wallace Wells</li><li>Alison Pill as Kim Pine</li><li>Mark Webber as Stephen Stills</li><li>Johnny Simmons as Young Neil</li><li>Jason Schwartzman as Gideon Graves</li><li>Anna Kendrick as Stacey Pilgrim</li><li>Aubrey Plaza as Julie Powers</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Scott Pilgrim vs. the World (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
+  "movie:238": {
+   "d": "The Godfather (2025): Drama/Crime film. Story: Spanning the years 1945 to 1955, a chronicle of the… See cast, budget $6M, and TMDB rating 8.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+   "industry": "world",
+   "k": "The Godfather, The Godfather movie, The Godfather cast, The Godfather story, The Godfather box office collection, The Godfather budget, The Godfather review, The Godfather rating, The Godfather release date, The Godfather trailer, The Godfather Drama, The Godfather Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marlon Brando"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "James Caan"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Duvall"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard S. Castellano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23989,
+     "ratingValue": 8.7,
+     "worstRating": 0
+    },
+    "description": "The Godfather (2025): Drama/Crime film. Story: Spanning the years 1945 to 1955, a chronicle of the… See cast, budget $6M, and TMDB rating 8.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francis Ford Coppola"
+     }
+    ],
+    "duration": "PT175M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=238",
+    "name": "The Godfather",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2025-09-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=238"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Godfather (2025)</h1>\n<p class=\"ssr-lead\">Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2025</li><li>Runtime: 175 minutes</li><li>Director: Francis Ford Coppola</li><li>Genres: Drama, Crime</li><li>Budget: $6M</li><li>TMDB rating: 8.7/10 (23989 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marlon Brando as Don Vito Corleone</li><li>Al Pacino as Michael Corleone</li><li>James Caan as Sonny Corleone</li><li>Robert Duvall as Tom Hagen</li><li>Richard S. Castellano as Clemenza</li><li>Diane Keaton as Kay Adams</li><li>Talia Shire as Connie Corleone Rizzi</li><li>Gianni Russo as Carlo Rizzi</li><li>Sterling Hayden as Captain McCluskey</li><li>John Marley as Jack Woltz</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Godfather (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2025"
+  },
   "movie:26338": {
    "d": "Romance (1999): Drama/Romance film. Story: Frustrated by the lack of intimacy in her… See cast, budget $2.7M, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/pi2J4AtHvigbCTYm1sEyQfrifPs.jpg",
@@ -1608,6 +1864,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Falcon Rising (2014)</h1>\n<p class=\"ssr-lead\">Chapman is an ex-marine in Brazil&#x27;s slums, battling the yakuza outfit who attacked his sister and left her for dead.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 September 2014</li><li>Runtime: 103 minutes</li><li>Director: Ernie Barbarash</li><li>Genres: Adventure, Action</li><li>Budget: $4.5M</li><li>TMDB rating: 6.3/10 (400 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Jai White as John &#x27;Falcon&#x27; Chapman</li><li>Neal McDonough as Manny Ridley</li><li>Lateef Crowder as Carlo Bororo</li><li>Laila Ali as Cindy Chapman</li><li>Hazuki Kato as Tomoe</li><li>Masashi Odate as Hirimoto</li><li>Millie Ruperto as Katarina Da&#x27; Silva</li><li>Robert Colón as Police Officer</li><li>Jazmin Caratini as Nurse</li><li>Michael J. Morris as Businessman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
    "t": "Falcon Rising (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:281338": {
+   "d": "War for the Planet of the Apes (2017): Drama/Science Fiction film. Story: Caesar and his apes are forced into a deadly conflict… See cast and budget $150M.",
+   "img": "https://image.tmdb.org/t/p/w780/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+   "industry": "world",
+   "k": "War for the Planet of the Apes, War for the Planet of the Apes movie, War for the Planet of the Apes cast, War for the Planet of the Apes story, War for the Planet of the Apes box office collection, War for the Planet of the Apes budget, War for the Planet of the Apes review, War for the Planet of the Apes rating, War for the Planet of the Apes release date, War for the Planet of the Apes trailer, War for the Planet of the Apes Drama, War for the Planet of the Apes Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andy Serkis"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Karin Konoval"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Notary"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Zahn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10097,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "War for the Planet of the Apes (2017): Drama/Science Fiction film. Story: Caesar and his apes are forced into a deadly conflict… See cast and budget $150M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matt Reeves"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=281338",
+    "name": "War for the Planet of the Apes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-07-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=281338"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>War for the Planet of the Apes (2017)</h1>\n<p class=\"ssr-lead\">Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 July 2017</li><li>Runtime: 140 minutes</li><li>Director: Matt Reeves</li><li>Genres: Drama, Science Fiction, War</li><li>Budget: $150M</li><li>TMDB rating: 7.2/10 (10097 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andy Serkis as Caesar</li><li>Woody Harrelson as The Colonel</li><li>Karin Konoval as Maurice</li><li>Terry Notary as Rocket</li><li>Steve Zahn as Bad Ape</li><li>Amiah Miller as Nova</li><li>Ty Olsson as Red Donkey</li><li>Michael Adamthwaite as Luca</li><li>Toby Kebbell as Koba</li><li>Gabriel Chavarria as Preacher</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "War for the Planet of the Apes (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:30238": {
    "d": "Earthlings (2005): Documentary film. Story: Using hidden cameras and never-before-seen footage… See cast and TMDB rating 8.1/10.",
@@ -1784,6 +2104,70 @@
    "t": "The Student and Mister Henri (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:38": {
+   "d": "Eternal Sunshine of the Spotless Mind (2004): Science Fiction/Drama film. Story: Joel Barish, heartbroken that his girlfriend… See cast and budget $20M.",
+   "img": "https://image.tmdb.org/t/p/w780/95qi5TJMIBI5VzWHia88Pbrye7Z.jpg",
+   "industry": "world",
+   "k": "Eternal Sunshine of the Spotless Mind, Eternal Sunshine of the Spotless Mind movie, Eternal Sunshine of the Spotless Mind cast, Eternal Sunshine of the Spotless Mind story, Eternal Sunshine of the Spotless Mind box office collection, Eternal Sunshine of the Spotless Mind budget, Eternal Sunshine of the Spotless Mind review, Eternal Sunshine of the Spotless Mind rating, Eternal Sunshine of the Spotless Mind release date, Eternal Sunshine of the Spotless Mind Science Fiction, Eternal Sunshine of the Spotless Mind Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Carrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Winslet"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirsten Dunst"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16995,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Eternal Sunshine of the Spotless Mind (2004): Science Fiction/Drama film. Story: Joel Barish, heartbroken that his girlfriend… See cast and budget $20M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michel Gondry"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/95qi5TJMIBI5VzWHia88Pbrye7Z.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38",
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Eternal Sunshine of the Spotless Mind (2004)</h1>\n<p class=\"ssr-lead\">Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2004</li><li>Runtime: 108 minutes</li><li>Director: Michel Gondry</li><li>Genres: Science Fiction, Drama, Romance</li><li>Budget: $20M</li><li>TMDB rating: 8.1/10 (16995 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Carrey as Joel Barish</li><li>Kate Winslet as Clementine Kruczynski</li><li>Kirsten Dunst as Mary</li><li>Mark Ruffalo as Stan</li><li>Elijah Wood as Patrick</li><li>Tom Wilkinson as Dr. Mierzwiak</li><li>Jane Adams as Carrie</li><li>David Cross as Rob</li><li>Deirdre O&#x27;Connell as Hollis</li><li>Thomas Jay Ryan as Frank</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Eternal Sunshine of the Spotless Mind (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:38438": {
    "d": "Buffet Froid (1979): Comedy/Crime film. Story: Alphonse Tram is unwittingly involved in several… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/ler7oT35s8nxJ5H1bnoKufvMQzX.jpg",
@@ -1847,6 +2231,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Buffet Froid (1979)</h1>\n<p class=\"ssr-lead\">Alphonse Tram is unwittingly involved in several murders despite having no memory of committing the crimes. His confusion lead him to confess to his neighbour, Inspector Morvandieu. Alphonse and Morvandieu become the axis around which murders occur.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 December 1979</li><li>Runtime: 93 minutes</li><li>Director: Bertrand Blier</li><li>Genres: Comedy, Crime</li><li>TMDB rating: 7.0/10 (359 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gérard Depardieu as Alphonse Tram</li><li>Bernard Blier as Inspecteur Morvandieu</li><li>Jean Carmet as Le vieil assassin</li><li>Michel Serrault as Le comptable</li><li>Geneviève Page as Geneviève Léonard</li><li>Jean Benguigui as Le tueur à gages</li><li>Marco Perrin as L&#x27;homme dérangé en pleine nuit</li><li>Carole Bouquet as La jeune fille</li><li>Bernard Crombey as Le médecin</li><li>Denise Gence as L&#x27;hôtesse au château</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "Buffet Froid (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1979"
+  },
+  "movie:39538": {
+   "d": "Contagion (2011): Drama/Thriller film. Story: As an epidemic of a lethal airborne virus - that… See cast, budget $60M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg",
+   "industry": "world",
+   "k": "Contagion, Contagion movie, Contagion cast, Contagion story, Contagion box office collection, Contagion budget, Contagion review, Contagion rating, Contagion release date, Contagion Drama, Contagion Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Marion Cotillard"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Fishburne"
+     },
+     {
+      "@type": "Person",
+      "name": "Jude Law"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Winslet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6829,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Contagion (2011): Drama/Thriller film. Story: As an epidemic of a lethal airborne virus - that… See cast, budget $60M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Soderbergh"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=39538",
+    "name": "Contagion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-09-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=39538"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Contagion (2011)</h1>\n<p class=\"ssr-lead\">As an epidemic of a lethal airborne virus - that kills within days - rapidly grows, the worldwide medical community races to find a cure and control the panic that spreads faster than the virus itself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 September 2011</li><li>Runtime: 106 minutes</li><li>Director: Steven Soderbergh</li><li>Genres: Drama, Thriller, Science Fiction</li><li>Budget: $60M</li><li>TMDB rating: 6.7/10 (6829 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marion Cotillard as Leonora Orantes</li><li>Matt Damon as Mitch Emhoff</li><li>Laurence Fishburne as Ellis Cheever</li><li>Jude Law as Alan Krumwiede</li><li>Kate Winslet as Erin Mears</li><li>Jennifer Ehle as Ally Hextall</li><li>Gwyneth Paltrow as Beth Emhoff</li><li>Bryan Cranston as Lyle Haggerty</li><li>Elliott Gould as Ian Sussman</li><li>Chin Han as Sun Feng</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Contagion (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:411638": {
    "d": "The Fury of a Patient Man (2016): Thriller film. Story: Quiet Jose woos cafe worker Ana, but she is unaware… See cast, budget $1.2M, and TMDB rating 6.6/10.",
@@ -2043,6 +2491,70 @@
    "t": "Made in Dagenham (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:4638": {
+   "d": "Hot Fuzz (2007): Crime/Action film. Story: Former London constable Nicholas Angel finds it… See cast, budget $12M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+   "industry": "world",
+   "k": "Hot Fuzz, Hot Fuzz movie, Hot Fuzz cast, Hot Fuzz story, Hot Fuzz box office collection, Hot Fuzz budget, Hot Fuzz review, Hot Fuzz rating, Hot Fuzz release date, Hot Fuzz trailer, Hot Fuzz Crime, Hot Fuzz Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Pegg"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Frost"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Broadbent"
+     },
+     {
+      "@type": "Person",
+      "name": "Paddy Considine"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafe Spall"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8771,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Hot Fuzz (2007): Crime/Action film. Story: Former London constable Nicholas Angel finds it… See cast, budget $12M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edgar Wright"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Crime",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4638",
+    "name": "Hot Fuzz",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4638"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hot Fuzz (2007)</h1>\n<p class=\"ssr-lead\">Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 2007</li><li>Runtime: 121 minutes</li><li>Director: Edgar Wright</li><li>Genres: Crime, Action, Comedy</li><li>Budget: $12M</li><li>TMDB rating: 7.6/10 (8771 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Pegg as Nicholas Angel</li><li>Nick Frost as PC Danny Butterman</li><li>Jim Broadbent as Inspector Frank Butterman</li><li>Paddy Considine as DS Andy Wainwright</li><li>Rafe Spall as DC Andy Cartwright</li><li>Kevin Eldon as Sergeant Tony Fisher</li><li>Olivia Colman as PC Doris Thatcher</li><li>Bill Bailey as Sergeant Turner</li><li>Karl Johnson as PC Bob Walker</li><li>Timothy Dalton as Simon Skinner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Hot Fuzz (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:484638": {
    "d": "15 Minutes of War (2019): War/Action film. Story: February 1976. Somalian rebels hijack a school bus… See cast and TMDB rating 6.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/u4PhTSMSvlE7dE45I7ktXlje2Ea.jpg",
@@ -2170,6 +2682,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>London Boulevard (2010)</h1>\n<p class=\"ssr-lead\">A parolee falls for a reclusive movie star while trying to evade a ruthless gangster.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2010</li><li>Runtime: 103 minutes</li><li>Director: William Monahan</li><li>Genres: Drama, Crime</li><li>Budget: $25M</li><li>TMDB rating: 5.9/10 (853 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Colin Farrell as Harry Mitchel</li><li>Keira Knightley as Charlotte</li><li>David Thewlis as Jordan</li><li>Anna Friel as Briony Mitchel</li><li>Ben Chaplin as Billy Norton</li><li>Ray Winstone as Gant</li><li>Eddie Marsan as DI Bailey</li><li>Sanjeev Bhaskar as Dr. Raju</li><li>Stephen Graham as Danny</li><li>Ophelia Lovibond as Penny</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "London Boulevard (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:49538": {
+   "d": "X-Men: First Class (2011): Action/Science Fiction film. Story: Before Charles Xavier and Erik Lensherr took the… See cast, budget $160M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yhp5Pt4GugkCs5mz63qWz5khHXe.jpg",
+   "industry": "world",
+   "k": "X-Men: First Class, X-Men: First Class movie, X-Men: First Class cast, X-Men: First Class story, X-Men: First Class box office collection, X-Men: First Class budget, X-Men: First Class review, X-Men: First Class rating, X-Men: First Class release date, X-Men: First Class trailer, X-Men: First Class Action, X-Men: First Class Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James McAvoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Fassbender"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Rose Byrne"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Bacon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14046,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "X-Men: First Class (2011): Action/Science Fiction film. Story: Before Charles Xavier and Erik Lensherr took the… See cast, budget $160M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthew Vaughn"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yhp5Pt4GugkCs5mz63qWz5khHXe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49538",
+    "name": "X-Men: First Class",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49538"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>X-Men: First Class (2011)</h1>\n<p class=\"ssr-lead\">Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 2011</li><li>Runtime: 132 minutes</li><li>Director: Matthew Vaughn</li><li>Genres: Action, Science Fiction, Adventure</li><li>Budget: $160M</li><li>TMDB rating: 7.3/10 (14046 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James McAvoy as Charles Xavier (24 Years)</li><li>Michael Fassbender as Erik Lehnsherr</li><li>Jennifer Lawrence as Raven / Mystique</li><li>Rose Byrne as Moira MacTaggert</li><li>Kevin Bacon as Sebastian Shaw</li><li>January Jones as Emma Frost</li><li>Nicholas Hoult as Hank / Beast</li><li>Lucas Till as Alex Summers / Havok</li><li>Zoë Kravitz as Angel Salvadore</li><li>Caleb Landry Jones as Cassidy / Banshee</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "X-Men: First Class (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:508138": {
    "d": "Burn (2019): Thriller/Crime film. Story: Lonely, unstable gas station attendant Melinda is… See cast, TMDB rating 6.1/10, and release date 23 August 2019.",
@@ -2366,6 +2942,70 @@
    "t": "The Shiny Shrimps (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:54138": {
+   "d": "Star Trek Into Darkness (2013): Action/Adventure film. Story: When the crew of the Enterprise is called back home… See cast and budget $190M.",
+   "img": "https://image.tmdb.org/t/p/w780/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+   "industry": "world",
+   "k": "Star Trek Into Darkness, Star Trek Into Darkness movie, Star Trek Into Darkness cast, Star Trek Into Darkness story, Star Trek Into Darkness box office collection, Star Trek Into Darkness budget, Star Trek Into Darkness review, Star Trek Into Darkness rating, Star Trek Into Darkness release date, Star Trek Into Darkness trailer, Star Trek Into Darkness Action, Star Trek Into Darkness Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Cho"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedict Cumberbatch"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Eve"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Greenwood"
+     },
+     {
+      "@type": "Person",
+      "name": "Simon Pegg"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10002,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Star Trek Into Darkness (2013): Action/Adventure film. Story: When the crew of the Enterprise is called back home… See cast and budget $190M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J.J. Abrams"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=54138",
+    "name": "Star Trek Into Darkness",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-05-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=54138"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Star Trek Into Darkness (2013)</h1>\n<p class=\"ssr-lead\">When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis. With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 May 2013</li><li>Runtime: 132 minutes</li><li>Director: J.J. Abrams</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $190M</li><li>TMDB rating: 7.3/10 (10002 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Cho as Sulu</li><li>Benedict Cumberbatch as Khan</li><li>Alice Eve as Carol</li><li>Bruce Greenwood as Pike</li><li>Simon Pegg as Scotty</li><li>Chris Pine as Kirk</li><li>Zachary Quinto as Spock</li><li>Zoe Saldaña as Uhura</li><li>Karl Urban as Bones</li><li>Peter Weller as Marcus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Star Trek Into Darkness (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:591538": {
    "d": "The Tragedy of Macbeth (2021): Drama film. Story: Macbeth, the Thane of Glamis, receives a prophecy… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
@@ -2492,6 +3132,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>We Bare Bears: The Movie (2020)</h1>\n<p class=\"ssr-lead\">When Grizz, Panda, and Ice Bear&#x27;s love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2020</li><li>Runtime: 69 minutes</li><li>Director: Daniel Chong</li><li>Genres: Animation, Adventure, Family, Comedy, TV Movie</li><li>TMDB rating: 7.8/10 (871 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eric Edelstein as Grizzly (voice)</li><li>Bobby Moynihan as Panda (voice)</li><li>Demetri Martin as Ice Bear (voice)</li><li>Marc Evan Jackson as Agent Trout (voice)</li><li>Jason Lee as Charlie (voice)</li><li>Patton Oswalt as Nom Nom (voice)</li><li>Lo Mutuc as Chloe Park (voice)</li><li>Ellie Kemper as Lucy (voice)</li><li>Mel Rodriguez as Darrel (voice)</li><li>Cameron Esposito as Ranger Tabes (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "We Bare Bears: The Movie (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:76338": {
+   "d": "Thor: The Dark World (2013): Action/Adventure film. Story: Thor fights to restore order across the cosmos… but… See cast, budget $170M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+   "industry": "world",
+   "k": "Thor: The Dark World, Thor: The Dark World movie, Thor: The Dark World cast, Thor: The Dark World story, Thor: The Dark World box office collection, Thor: The Dark World budget, Thor: The Dark World review, Thor: The Dark World rating, Thor: The Dark World release date, Thor: The Dark World trailer, Thor: The Dark World Action, Thor: The Dark World Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hiddleston"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Eccleston"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 18980,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Thor: The Dark World (2013): Action/Adventure film. Story: Thor fights to restore order across the cosmos… but… See cast, budget $170M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan Taylor"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=76338",
+    "name": "Thor: The Dark World",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=76338"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Thor: The Dark World (2013)</h1>\n<p class=\"ssr-lead\">Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2013</li><li>Runtime: 112 minutes</li><li>Director: Alan Taylor</li><li>Genres: Action, Adventure, Fantasy</li><li>Budget: $170M</li><li>TMDB rating: 6.5/10 (18980 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Hemsworth as Thor</li><li>Natalie Portman as Jane Foster</li><li>Tom Hiddleston as Loki</li><li>Christopher Eccleston as Malekith</li><li>Anthony Hopkins as Odin</li><li>Jaimie Alexander as Sif</li><li>Zachary Levi as Fandral</li><li>Ray Stevenson as Volstagg</li><li>Tadanobu Asano as Hogun</li><li>Idris Elba as Heimdall</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Thor: The Dark World (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:77338": {
+   "d": "The Intouchables (2012): Drama/Comedy film. Story: A true story of two men who should never have met – a… See cast, budget $13M, and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
+   "industry": "world",
+   "k": "The Intouchables, The Intouchables movie, The Intouchables cast, The Intouchables story, The Intouchables box office collection, The Intouchables budget, The Intouchables review, The Intouchables rating, The Intouchables release date, The Intouchables trailer, The Intouchables Drama, The Intouchables Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "François Cluzet"
+     },
+     {
+      "@type": "Person",
+      "name": "Omar Sy"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Le Ny"
+     },
+     {
+      "@type": "Person",
+      "name": "Audrey Fleurot"
+     },
+     {
+      "@type": "Person",
+      "name": "Joséphine de Meaux"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 19072,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "The Intouchables (2012): Drama/Comedy film. Story: A true story of two men who should never have met – a… See cast, budget $13M, and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Éric Toledano"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivier Nakache"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=77338",
+    "name": "The Intouchables",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-07-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=77338"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Intouchables (2012)</h1>\n<p class=\"ssr-lead\">A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 July 2012</li><li>Runtime: 113 minutes</li><li>Director: Éric Toledano, Olivier Nakache</li><li>Genres: Drama, Comedy</li><li>Budget: $13M</li><li>TMDB rating: 8.3/10 (19072 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>François Cluzet as Philippe</li><li>Omar Sy as Driss</li><li>Anne Le Ny as Yvonne</li><li>Audrey Fleurot as Magalie</li><li>Joséphine de Meaux as La DRH société de courses</li><li>Clotilde Mollet as Marcelle</li><li>Alba Gaïa Bellugi as Elisa</li><li>Cyril Mendy as Adama</li><li>Salimata Kamate as Fatou</li><li>Absa Diatou Toure as Mina</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Intouchables (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:785538": {
    "d": "7 Prisoners (2021): Drama/Crime film. Story: An impoverished teen seeking to escape the clutches… See cast and TMDB rating 7.1/10.",
@@ -2812,6 +3584,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Phantasm (1979)</h1>\n<p class=\"ssr-lead\">A teenage boy and his friends face off against a mysterious grave robber, known only as the Tall Man, who employs a lethal arsenal of unearthly weapons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 December 1979</li><li>Runtime: 89 minutes</li><li>Director: Don Coscarelli</li><li>Genres: Horror, Science Fiction</li><li>Budget: $300.0k</li><li>TMDB rating: 6.5/10 (827 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>A. Michael Baldwin as Mike</li><li>Bill Thornbury as Jody</li><li>Reggie Bannister as Reggie</li><li>Kathy Lester as Lady in Lavender</li><li>Angus Scrimm as The Tall Man</li><li>Terrie Kalbus as Fortuneteller&#x27;s Granddaughter</li><li>Kenneth V. Jones as Caretaker</li><li>Susan Harper as Girlfriend</li><li>Lynn Eastman-Rossi as Sally</li><li>David Arntzen as Toby</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Phantasm (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1979"
+  },
+  "movie:9738": {
+   "d": "Fantastic Four (2005): Action/Fantasy film. Story: During a space voyage, four scientists are altered by… See cast, budget $100M, and TMDB rating 5.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qq9ELjoyllBUMkGisZvcj0fCd43.jpg",
+   "industry": "world",
+   "k": "Fantastic Four, Fantastic Four movie, Fantastic Four cast, Fantastic Four story, Fantastic Four box office collection, Fantastic Four budget, Fantastic Four review, Fantastic Four rating, Fantastic Four release date, Fantastic Four Action, Fantastic Four Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ioan Gruffudd"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Alba"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Chiklis"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian McMahon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10345,
+     "ratingValue": 5.8,
+     "worstRating": 0
+    },
+    "description": "Fantastic Four (2005): Action/Fantasy film. Story: During a space voyage, four scientists are altered by… See cast, budget $100M, and TMDB rating 5.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Story"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Action",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qq9ELjoyllBUMkGisZvcj0fCd43.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9738",
+    "name": "Fantastic Four",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-07-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9738"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fantastic Four (2005)</h1>\n<p class=\"ssr-lead\">During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these &quot;Fantastic Four&quot; must now thwart the evil plans of Dr. Doom and save the world from certain destruction.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 July 2005</li><li>Runtime: 125 minutes</li><li>Director: Tim Story</li><li>Genres: Action, Fantasy, Science Fiction</li><li>Budget: $100M</li><li>TMDB rating: 5.8/10 (10345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ioan Gruffudd as Reed Richards</li><li>Jessica Alba as Sue Storm</li><li>Chris Evans as Johnny Storm</li><li>Michael Chiklis as Ben Grimm</li><li>Julian McMahon as Victor Von Doom</li><li>Hamish Linklater as Leonard</li><li>Kerry Washington as Alicia Masters</li><li>Laurie Holden as Debbie McIlvane</li><li>David Parker as Ernie</li><li>Kevin McNulty as Jimmy O&#x27;Hoolihan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Fantastic Four (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "tv:1438": {
    "d": "The Wire (2002) is a Crime and Drama TV series. Explore its story: Told from the points of view of both the Baltimore…, cast, 5 seasons, and 60 episodes.",

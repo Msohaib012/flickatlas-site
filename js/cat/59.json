@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 60,
+ "count": 68,
  "titles": {
   "movie:10359": {
    "backdrop_path": "/deqB89VLPy9WJzGrb51tU1DyuhN.jpg",
@@ -2140,6 +2140,198 @@
    "vote_average": 5.963,
    "vote_count": 496
   },
+  "movie:1359": {
+   "backdrop_path": "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Patrick Bateman",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Timothy Bryce",
+     "n": "Justin Theroux"
+    },
+    {
+     "c": "Craig McDermott",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "David Van Patten",
+     "n": "Bill Sage"
+    },
+    {
+     "c": "Jean",
+     "n": "Chloë Sevigny"
+    },
+    {
+     "c": "Evelyn Williams",
+     "n": "Reese Witherspoon"
+    },
+    {
+     "c": "Courtney Rawlinson",
+     "n": "Samantha Mathis"
+    },
+    {
+     "c": "Luis Carruthers",
+     "n": "Matt Ross"
+    },
+    {
+     "c": "Paul Allen",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Donald Kimball",
+     "n": "Willem Dafoe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mary Harron"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "id": 1359,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+   "popularity": 13.5983,
+   "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-04-13",
+   "revenue": 34269748,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "Killer looks.",
+   "title": "American Psycho",
+   "trailer": {
+    "key": "81mibtQWWBg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.399,
+   "vote_count": 13006
+  },
   "movie:1370559": {
    "backdrop_path": "/rZZK03ZITcmsf1hn8vNH9oYcx3S.jpg",
    "budget": 0,
@@ -3348,6 +3540,186 @@
    "vote_average": 7.1,
    "vote_count": 314
   },
+  "movie:168259": {
+   "backdrop_path": "/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+   "budget": 190000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Brian O'Conner",
+     "n": "Paul Walker"
+    },
+    {
+     "c": "Luke Hobbs",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Letty Ortiz",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Roman Pearce",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Tej Parker",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Mia Toretto",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Deckard Shaw",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Mr. Nobody",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Ramsey",
+     "n": "Nathalie Emmanuel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Wan"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 168259,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+   "popularity": 9.5359,
+   "poster_path": "/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-04-01",
+   "revenue": 1515400000,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "es",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "Vengeance hits home.",
+   "title": "Furious 7",
+   "trailer": {
+    "key": "B3Ms2yFvus0",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.206,
+   "vote_count": 11638
+  },
   "movie:17159": {
    "backdrop_path": "/zAP5PZVtSIOZwweMaHmNKHJ3xTF.jpg",
    "budget": 0,
@@ -3661,6 +4033,273 @@
    "vote_average": 7.5,
    "vote_count": 462
   },
+  "movie:190859": {
+   "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+   "budget": 58800000,
+   "cast": [
+    {
+     "c": "Chris Kyle",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Taya Renae Kyle",
+     "n": "Sienna Miller"
+    },
+    {
+     "c": "Goat-Winston",
+     "n": "Kyle Gallner"
+    },
+    {
+     "c": "Young Chris Kyle",
+     "n": "Cole Konis"
+    },
+    {
+     "c": "Wayne Kyle",
+     "n": "Ben Reed"
+    },
+    {
+     "c": "Debbie Kyle",
+     "n": "Elise Robertson"
+    },
+    {
+     "c": "Jeff Kyle",
+     "n": "Keir O'Donnell"
+    },
+    {
+     "c": "Young Jeff Kyle",
+     "n": "Luke Sunshine"
+    },
+    {
+     "c": "Dauber",
+     "n": "Kevin Lacz"
+    },
+    {
+     "c": "Pastor",
+     "n": "Troy Vincent"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "War",
+    "Action"
+   ],
+   "id": 190859,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+   "popularity": 9.6714,
+   "poster_path": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-01-16",
+   "revenue": 542300000,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most lethal sniper in U.S. history.",
+   "title": "American Sniper",
+   "trailer": {
+    "key": "iq7smHSQPho",
+    "name": "4K Ultra HD Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.404,
+   "vote_count": 14032
+  },
+  "movie:2059": {
+   "backdrop_path": "/9EnZD3ZWjpJy4IPoQkqTzxvZrso.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Ben Gates",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Abigail Chase",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Riley Poole",
+     "n": "Justin Bartha"
+    },
+    {
+     "c": "Ian Howe",
+     "n": "Sean Bean"
+    },
+    {
+     "c": "Patrick Gates",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Sadusky",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "John Adams Gates",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Shaw",
+     "n": "David Dayan Fisher"
+    },
+    {
+     "c": "Powell",
+     "n": "Stewart Finlay-McLennan"
+    },
+    {
+     "c": "Shippen",
+     "n": "Oleg Taktarov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jon Turteltaub"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Mystery"
+   ],
+   "id": 2059,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.",
+   "popularity": 9.9608,
+   "poster_path": "/jKbZBMRFpF2EfFuvrsDZ2uQYsEQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-01-21",
+   "revenue": 347500000,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In order to break the code, one man will have to break all the rules.",
+   "title": "National Treasure",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.656,
+   "vote_count": 7178
+  },
   "movie:2359": {
    "backdrop_path": "/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
    "budget": 9000000,
@@ -3830,6 +4469,126 @@
    "type": "movie",
    "vote_average": 7.358,
    "vote_count": 819
+  },
+  "movie:241259": {
+   "backdrop_path": "/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Alice Kingsleigh",
+     "n": "Mia Wasikowska"
+    },
+    {
+     "c": "Tarrant Hightopp / Mad Hatter",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Mirana / White Queen",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Iracebeth / Red Queen",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Time",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Tweedledee / Tweedledum",
+     "n": "Matt Lucas"
+    },
+    {
+     "c": "Absolem / Caterpillar (voice)",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Cheshire Cat (voice)",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Nivens McTwisp / White Rabbit (voice)",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Bayard Hamar / Bloodhound (voice)",
+     "n": "Timothy Spall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "James Bobin"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 241259,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.",
+   "popularity": 11.3491,
+   "poster_path": "/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-05-25",
+   "revenue": 299457024,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's time for a little madness.",
+   "title": "Alice Through the Looking Glass",
+   "trailer": {
+    "key": "QtrOm-DBhIM",
+    "name": "Official HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.568,
+   "vote_count": 6948
   },
   "movie:2759": {
    "backdrop_path": "/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
@@ -4798,6 +5557,129 @@
    "type": "movie",
    "vote_average": 6.164,
    "vote_count": 423
+  },
+  "movie:330459": {
+   "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Jyn Erso",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Cassian Andor",
+     "n": "Diego Luna"
+    },
+    {
+     "c": "K-2SO",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Chirrut Imwe",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Baze Malbus",
+     "n": "Jiang Wen"
+    },
+    {
+     "c": "Orson Krennic",
+     "n": "Ben Mendelsohn"
+    },
+    {
+     "c": "Governor Tarkin",
+     "n": "Guy Henry"
+    },
+    {
+     "c": "Saw Gerrera",
+     "n": "Forest Whitaker"
+    },
+    {
+     "c": "Bodhi Rook",
+     "n": "Riz Ahmed"
+    },
+    {
+     "c": "Galen Erso",
+     "n": "Mads Mikkelsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Gareth Edwards"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 330459,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+   "popularity": 10.1303,
+   "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-12-16",
+   "revenue": 1056057273,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Empires are built on fear. Rebellions are built on hope.",
+   "title": "Rogue One: A Star Wars Story",
+   "trailer": {
+    "key": "sC9abcLLQpI",
+    "name": "Trailer #2 (Official)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.511,
+   "vote_count": 16979
   },
   "movie:339259": {
    "backdrop_path": "/dVAScapt0EECC9jpvWHFBe2gybs.jpg",
@@ -5933,6 +6815,235 @@
    "vote_average": 6.7,
    "vote_count": 404
   },
+  "movie:559": {
+   "backdrop_path": "/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+   "budget": 258000000,
+   "cast": [
+    {
+     "c": "Spider-Man / Peter Parker",
+     "n": "Tobey Maguire"
+    },
+    {
+     "c": "Mary Jane Watson",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "New Goblin / Harry Osborn",
+     "n": "James Franco"
+    },
+    {
+     "c": "Sandman / Flint Marko",
+     "n": "Thomas Haden Church"
+    },
+    {
+     "c": "Venom / Eddie Brock",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Gwen Stacy",
+     "n": "Bryce Dallas Howard"
+    },
+    {
+     "c": "May Parker",
+     "n": "Rosemary Harris"
+    },
+    {
+     "c": "J. Jonah Jameson",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Captain Stacy",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Dr. Curt Connors",
+     "n": "Dylan Baker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sam Raimi"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 559,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Peter Parker finally has the girl of his dreams, Mary Jane Watson, and New York City is in the throes of Spider-mania! But when a strange alien symbiote turns Spider-Man's suit black, his darkest demons come to light changing Spider-Man inside as well as out. Spider-Man is in for the fight of his life against a lethal mix of villains - the deadly Sandman, Venom, and the New Goblin - as well as the enemy within himself.",
+   "popularity": 18.5299,
+   "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-05-01",
+   "revenue": 894983373,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The greatest battle lies within.",
+   "title": "Spider-Man 3",
+   "trailer": {
+    "key": "e5wUilOeOmg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.489,
+   "vote_count": 16027
+  },
   "movie:585759": {
    "backdrop_path": "/3UHkAGbm8H8hbgIUuxyMHOHHLuY.jpg",
    "budget": 0,
@@ -6067,6 +7178,167 @@
    "type": "movie",
    "vote_average": 6.181,
    "vote_count": 343
+  },
+  "movie:59859": {
+   "backdrop_path": "/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Dave Lizewski / Kick-Ass",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Mindy Macready / Hit Girl",
+     "n": "Chloë Grace Moretz"
+    },
+    {
+     "c": "Chris D'Amico / The Motherfucker",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Katie Deauxma",
+     "n": "Lyndsy Fonseca"
+    },
+    {
+     "c": "Colonel Stars and Stripes",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Uncle Ralph",
+     "n": "Iain Glen"
+    },
+    {
+     "c": "Marty / Battle Guy",
+     "n": "Clark Duke"
+    },
+    {
+     "c": "Night Bitch",
+     "n": "Lindy Booth"
+    },
+    {
+     "c": "Mr. Lizewski",
+     "n": "Garrett M. Brown"
+    },
+    {
+     "c": "Detective Marcus Williams",
+     "n": "Morris Chestnut"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jeff Wadlow"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "id": 59859,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Kick-Ass' insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.",
+   "popularity": 5.1186,
+   "poster_path": "/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-07-17",
+   "revenue": 60795985,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't fight your destiny.",
+   "title": "Kick-Ass 2",
+   "trailer": {
+    "key": "1zcMLxIuuww",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.405,
+   "vote_count": 6825
   },
   "movie:659959": {
    "backdrop_path": "/5NMxiETEUCT4297zrMdimNR5VqS.jpg",

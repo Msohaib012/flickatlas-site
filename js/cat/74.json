@@ -1,6 +1,6 @@
 {
  "bucket": "74",
- "count": 65,
+ "count": 77,
  "titles": {
   "movie:1049574": {
    "backdrop_path": "/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
@@ -112,6 +112,112 @@
    "type": "movie",
    "vote_average": 5.3,
    "vote_count": 21
+  },
+  "movie:10674": {
+   "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Mulan (voice)",
+     "n": "Ming-Na Wen"
+    },
+    {
+     "c": "Mushu (voice)",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Shang (voice)",
+     "n": "BD Wong"
+    },
+    {
+     "c": "Shan-Yu (voice)",
+     "n": "Miguel Ferrer"
+    },
+    {
+     "c": "Yao (voice)",
+     "n": "Harvey Fierstein"
+    },
+    {
+     "c": "Fa Li (voice)",
+     "n": "Freda Foh Shen"
+    },
+    {
+     "c": "Grandmother Fa (voice)",
+     "n": "June Foray"
+    },
+    {
+     "c": "Chi Fu (voice)",
+     "n": "James Hong"
+    },
+    {
+     "c": "The Matchmaker (voice)",
+     "n": "Miriam Margolyes"
+    },
+    {
+     "c": "The Emperor (voice)",
+     "n": "Pat Morita"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Tony Bancroft",
+    "Barry Cook"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "id": 10674,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Imperial China calls one man from every family to defend the empire from invading Huns, a young woman disguises herself as a soldier to take her ailing father’s place. Facing ruthless invaders, brutal training, and the risk of execution if discovered, she must decide who she truly is—and what she’s willing to fight for.",
+   "popularity": 13.453,
+   "poster_path": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-06-18",
+   "revenue": 304320254,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "The flower that blooms in adversity is the most rare and beautiful of all.",
+   "title": "Mulan",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.901,
+   "vote_count": 10811
   },
   "movie:1074074": {
    "backdrop_path": "/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
@@ -1817,6 +1923,124 @@
    "type": "movie",
    "vote_average": 6.583,
    "vote_count": 24
+  },
+  "movie:14574": {
+   "backdrop_path": "/6aRuABAdhuuDypLGscM7HoEWHx4.jpg",
+   "budget": 12500000,
+   "cast": [
+    {
+     "c": "Bruno",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Mother",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Father",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Lieutenant Kotler",
+     "n": "Rupert Friend"
+    },
+    {
+     "c": "Pavel",
+     "n": "David Hayman"
+    },
+    {
+     "c": "Shmuel",
+     "n": "Jack Scanlon"
+    },
+    {
+     "c": "Gretel",
+     "n": "Amber Beattie"
+    },
+    {
+     "c": "Grandma",
+     "n": "Sheila Hancock"
+    },
+    {
+     "c": "Grandpa",
+     "n": "Richard Johnson"
+    },
+    {
+     "c": "Leon",
+     "n": "Zac Mattoon O'Brien"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mark Herman"
+   ],
+   "genres": [
+    "Drama",
+    "War",
+    "History"
+   ],
+   "id": 14574,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+   "popularity": 9.7456,
+   "poster_path": "/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-05-07",
+   "revenue": 20416563,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Lines may divide us, but hope will unite us.",
+   "title": "The Boy in the Striped Pyjamas",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.817,
+   "vote_count": 7939
   },
   "movie:1480574": {
    "backdrop_path": "/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
@@ -4408,6 +4632,123 @@
    "vote_average": 6.3,
    "vote_count": 416
   },
+  "movie:274": {
+   "backdrop_path": "/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Clarice Starling",
+     "n": "Jodie Foster"
+    },
+    {
+     "c": "Dr. Hannibal Lecter",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Jack Crawford",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Jame Gumb",
+     "n": "Ted Levine"
+    },
+    {
+     "c": "Dr. Frederick Chilton",
+     "n": "Anthony Heald"
+    },
+    {
+     "c": "Catherine Martin",
+     "n": "Brooke Smith"
+    },
+    {
+     "c": "Senator Ruth Martin",
+     "n": "Diane Baker"
+    },
+    {
+     "c": "Ardelia Mapp",
+     "n": "Kasi Lemmons"
+    },
+    {
+     "c": "Barney",
+     "n": "Frankie Faison"
+    },
+    {
+     "c": "Lamar",
+     "n": "Tracey Walter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Demme"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 274,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+   "popularity": 5.1653,
+   "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1991-10-11",
+   "revenue": 272742922,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+   "title": "The Silence of the Lambs",
+   "trailer": {
+    "key": "6iB21hsprAQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.346,
+   "vote_count": 18854
+  },
   "movie:284674": {
    "backdrop_path": "/st3saCQAN1q72ws0gHoFLmQ0rL.jpg",
    "budget": 0,
@@ -4882,6 +5223,140 @@
    "vote_average": 6.028,
    "vote_count": 458
   },
+  "movie:341174": {
+   "backdrop_path": "/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Anastasia Steele",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Christian Grey",
+     "n": "Jamie Dornan"
+    },
+    {
+     "c": "Jack Hyde",
+     "n": "Eric Johnson"
+    },
+    {
+     "c": "Kate Kavanagh",
+     "n": "Eloise Mumford"
+    },
+    {
+     "c": "Leila",
+     "n": "Bella Heathcote"
+    },
+    {
+     "c": "Mia Grey",
+     "n": "Rita Ora"
+    },
+    {
+     "c": "Carla",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Elliot Grey",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "José",
+     "n": "Victor Rasuk"
+    },
+    {
+     "c": "Taylor",
+     "n": "Max Martini"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Foley"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 341174,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.",
+   "popularity": 8.2954,
+   "poster_path": "/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-02-08",
+   "revenue": 381545846,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every fairy tale has a dark side.",
+   "title": "Fifty Shades Darker",
+   "trailer": {
+    "key": "vnLqJLeTMVU",
+    "name": "Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.464,
+   "vote_count": 8047
+  },
   "movie:342474": {
    "backdrop_path": "/oqLKzqL3SIh3ltX1R9kFGjE7yrh.jpg",
    "budget": 0,
@@ -5201,6 +5676,114 @@
    "vote_average": 7.049,
    "vote_count": 477
   },
+  "movie:405774": {
+   "backdrop_path": "/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+   "budget": 19800000,
+   "cast": [
+    {
+     "c": "Malorie Hayes",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Tom",
+     "n": "Trevante Rhodes"
+    },
+    {
+     "c": "Douglas",
+     "n": "John Malkovich"
+    },
+    {
+     "c": "Jessica",
+     "n": "Sarah Paulson"
+    },
+    {
+     "c": "Cheryl",
+     "n": "Jacki Weaver"
+    },
+    {
+     "c": "Lucy",
+     "n": "Rosa Salazar"
+    },
+    {
+     "c": "Olympia",
+     "n": "Danielle Macdonald"
+    },
+    {
+     "c": "Charlie",
+     "n": "Lil Rel Howery"
+    },
+    {
+     "c": "Gary",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Felix",
+     "n": "mgk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Susanne Bier"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 405774,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+   "popularity": 8.2061,
+   "poster_path": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-12-13",
+   "revenue": 0,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never lose sight of survival",
+   "title": "Bird Box",
+   "trailer": {
+    "key": "INJ2bPFy108",
+    "name": "Bird Box | Official Trailer #2 [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.814,
+   "vote_count": 10977
+  },
   "movie:429174": {
    "backdrop_path": "/fnWEr4voDR1kp0sXZ1WufM7j2Qp.jpg",
    "budget": 0,
@@ -5360,6 +5943,207 @@
    "type": "movie",
    "vote_average": 7.295,
    "vote_count": 855
+  },
+  "movie:43074": {
+   "backdrop_path": "/3KDHaahgXlUhmpXzoRZrLc7QSBM.jpg",
+   "budget": 144000000,
+   "cast": [
+    {
+     "c": "Erin Gilbert",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Abby Yates",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Jillian Holtzmann",
+     "n": "Kate McKinnon"
+    },
+    {
+     "c": "Patty Tolan",
+     "n": "Leslie Jones"
+    },
+    {
+     "c": "Kevin",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Rowan North",
+     "n": "Neil Casey"
+    },
+    {
+     "c": "Tour Guide",
+     "n": "Zach Woods"
+    },
+    {
+     "c": "Ed Mulgrave",
+     "n": "Ed Begley Jr."
+    },
+    {
+     "c": "Harold Fillmore",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Higgins Student",
+     "n": "John Milhiser"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Paul Feig"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Comedy"
+   ],
+   "id": 43074,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+   "popularity": 5.8505,
+   "poster_path": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-14",
+   "revenue": 229147509,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Answer the call.",
+   "title": "Ghostbusters",
+   "trailer": {
+    "key": "D3i2CqernTE",
+    "name": "Now on Digital / Coming Soon to Blu-ray & DVD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.345,
+   "vote_count": 6979
   },
   "movie:44874": {
    "backdrop_path": "/5R80JAmEMWbdCkylHDL2NIIbpVP.jpg",
@@ -6132,6 +6916,126 @@
    "vote_average": 6.659,
    "vote_count": 905
   },
+  "movie:527774": {
+   "backdrop_path": "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Raya (voice)",
+     "n": "Kelly Marie Tran"
+    },
+    {
+     "c": "Sisu (voice)",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Namaari (voice)",
+     "n": "Gemma Chan"
+    },
+    {
+     "c": "Tuk Tuk (voice)",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Boun (voice)",
+     "n": "Izaac Wang"
+    },
+    {
+     "c": "Tong (voice)",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Benja (voice)",
+     "n": "Daniel Dae Kim"
+    },
+    {
+     "c": "Little Noi (voice)",
+     "n": "Thalia Tran"
+    },
+    {
+     "c": "Virana (voice)",
+     "n": "Sandra Oh"
+    },
+    {
+     "c": "General Atitaya / Spine Warrior (voice)",
+     "n": "Dichen Lachman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Don Hall",
+    "Carlos López Estrada"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ],
+   "id": 527774,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+   "popularity": 9.1517,
+   "poster_path": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-03-03",
+   "revenue": 130423032,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A quest to save her world.",
+   "title": "Raya and the Last Dragon",
+   "trailer": {
+    "key": "3UFWsEY8Hdc",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.783,
+   "vote_count": 7521
+  },
   "movie:53174": {
    "backdrop_path": "/oIFtnPkM3jqbq4kGlEjhARvhIxo.jpg",
    "budget": 5650000,
@@ -6280,6 +7184,168 @@
    "vote_average": 7.914,
    "vote_count": 426
   },
+  "movie:58574": {
+   "backdrop_path": "/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Dr. John Watson",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Madam Simza Heron",
+     "n": "Noomi Rapace"
+    },
+    {
+     "c": "Professor James Moriarty",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "Irene Adler",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Inspector Lestrade",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Mary Morstan",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Mycroft Holmes",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Colonel Sebastian Moran",
+     "n": "Paul Anderson"
+    },
+    {
+     "c": "Mrs. Hudson",
+     "n": "Geraldine James"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Mystery"
+   ],
+   "id": 58574,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the detective.",
+   "popularity": 6.7416,
+   "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-11-22",
+   "revenue": 334615000,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The game is afoot.",
+   "title": "Sherlock Holmes: A Game of Shadows",
+   "trailer": {
+    "key": "amE1MxxRUFI",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.146,
+   "vote_count": 11289
+  },
   "movie:615774": {
    "backdrop_path": "/cVqwzMSNPS4vgUDlXlSYoWOmGsI.jpg",
    "budget": 0,
@@ -6390,6 +7456,114 @@
    "vote_average": 6.975,
    "vote_count": 977
   },
+  "movie:661374": {
+   "backdrop_path": "/y3uOfZAYwLkbvhunswBCskNMrfI.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Benoit Blanc",
+     "n": "Daniel Craig"
+    },
+    {
+     "c": "Miles Bron",
+     "n": "Edward Norton"
+    },
+    {
+     "c": "Andi Brand",
+     "n": "Janelle Monáe"
+    },
+    {
+     "c": "Claire Debella",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Lionel Toussaint",
+     "n": "Leslie Odom Jr."
+    },
+    {
+     "c": "Birdie Jay",
+     "n": "Kate Hudson"
+    },
+    {
+     "c": "Duke Cody",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Peg",
+     "n": "Jessica Henwick"
+    },
+    {
+     "c": "Whiskey",
+     "n": "Madelyn Cline"
+    },
+    {
+     "c": "Derol",
+     "n": "Noah Segan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Rian Johnson"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "id": 661374,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+   "popularity": 10.2886,
+   "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-11-23",
+   "revenue": 15000000,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When the game ends, the mystery begins.",
+   "title": "Glass Onion: A Knives Out Mystery",
+   "trailer": {
+    "key": "gj5ibYSz8C0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.015,
+   "vote_count": 7404
+  },
   "movie:673174": {
    "backdrop_path": "/61uvGsh4HmhEBDGIUuSEpIjYHdF.jpg",
    "budget": 5989313,
@@ -6496,6 +7670,340 @@
    "type": "movie",
    "vote_average": 6.463,
    "vote_count": 363
+  },
+  "movie:674": {
+   "backdrop_path": "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Harry Potter",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Ron Weasley",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Hermione Granger",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Alastor 'Mad-Eye' Moody",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Albus Dumbledore",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Cedric Diggory",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Lord Voldemort",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Rubeus Hagrid",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Severus Snape",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Barty Crouch Junior",
+     "n": "David Tennant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mike Newell"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 674,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools in the Triwizard Tournament. But if Harry never submitted his name for the Tournament, then who did? Nevertheless, Harry must confront a deadly dragon, fierce water monsters, and an enchanted maze—only to find himself in the cruel grasp of He Who Must Not Be Named.",
+   "popularity": 27.9204,
+   "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-11-18",
+   "revenue": 895921036,
+   "runtime": 157,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Dark and difficult times lie ahead.",
+   "title": "Harry Potter and the Goblet of Fire",
+   "trailer": {
+    "key": "4xkFJgcCQRE",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.804,
+   "vote_count": 22944
+  },
+  "movie:74": {
+   "backdrop_path": "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+   "budget": 132000000,
+   "cast": [
+    {
+     "c": "Ray",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Rachel",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Mary Ann",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Robbie",
+     "n": "Justin Chatwin"
+    },
+    {
+     "c": "Harlan Ogilvy",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Vincent",
+     "n": "Rick Gonzalez"
+    },
+    {
+     "c": "Julio",
+     "n": "Yul Vazquez"
+    },
+    {
+     "c": "Manny the Mechanic",
+     "n": "Lenny Venito"
+    },
+    {
+     "c": "Bartender",
+     "n": "Lisa Ann Walter"
+    },
+    {
+     "c": "Grandmother",
+     "n": "Ann Robinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 74,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+   "popularity": 11.2469,
+   "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-07-01",
+   "revenue": 603873119,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're already here.",
+   "title": "War of the Worlds",
+   "trailer": {
+    "key": "TLnQXsKn5-E",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.58,
+   "vote_count": 9724
   },
   "movie:774": {
    "backdrop_path": "/wNxy6Fqvjh0FsIuk7cgqNNq5PhP.jpg",
@@ -6646,6 +8154,189 @@
    "type": "movie",
    "vote_average": 7.427,
    "vote_count": 320
+  },
+  "movie:80274": {
+   "backdrop_path": "/zWvOs6lepfOI0dPa1ANVcdbkBuY.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Ender Wiggin",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Petra Arkanian",
+     "n": "Hailee Steinfeld"
+    },
+    {
+     "c": "Colonel Hyrum Graff",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Major Gwen Anderson",
+     "n": "Viola Davis"
+    },
+    {
+     "c": "Mazer Rackham",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Valentine Wiggin",
+     "n": "Abigail Breslin"
+    },
+    {
+     "c": "Bean",
+     "n": "Aramis Knight"
+    },
+    {
+     "c": "Bonzo Madrid",
+     "n": "Moisés Arias"
+    },
+    {
+     "c": "Sergeant Dap",
+     "n": "Nonso Anozie"
+    },
+    {
+     "c": "Alai",
+     "n": "Suraj Partha"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gavin Hood"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 80274,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.",
+   "popularity": 5.5392,
+   "poster_path": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+     "name": "Angel Studios",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-11-01",
+   "revenue": 125537191,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is not a game.",
+   "title": "Ender's Game",
+   "trailer": {
+    "key": "vP0cUBi4hwE",
+    "name": "ENDER'S GAME -- Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.592,
+   "vote_count": 6521
   },
   "movie:81774": {
    "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",

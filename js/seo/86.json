@@ -1,6 +1,6 @@
 {
  "bucket": "86",
- "count": 64,
+ "count": 71,
  "titles": {
   "movie:1064486": {
    "d": "Memoir of a Snail (2024): Animation/Comedy film. Story: Forcibly separated from her twin brother when they… See cast, budget $4.35M, and TMDB rating 8.1/10.",
@@ -965,6 +965,70 @@
    "t": "Fright Night Part 2 (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:181886": {
+   "d": "Enemy (2014): Thriller/Mystery film. Story: A mild-mannered college professor discovers a… See cast, budget $3.5M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+   "industry": "world",
+   "k": "Enemy, Enemy movie, Enemy cast, Enemy story, Enemy box office collection, Enemy budget, Enemy review, Enemy rating, Enemy release date, Enemy trailer, Enemy Thriller, Enemy Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jake Gyllenhaal"
+     },
+     {
+      "@type": "Person",
+      "name": "Mélanie Laurent"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Gadon"
+     },
+     {
+      "@type": "Person",
+      "name": "Isabella Rossellini"
+     },
+     {
+      "@type": "Person",
+      "name": "Joshua Peace"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6702,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Enemy (2014): Thriller/Mystery film. Story: A mild-mannered college professor discovers a… See cast, budget $3.5M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Denis Villeneuve"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Thriller",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=181886",
+    "name": "Enemy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=181886"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Enemy (2014)</h1>\n<p class=\"ssr-lead\">A mild-mannered college professor discovers a look-alike actor and delves into the other man&#x27;s private affairs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2014</li><li>Runtime: 91 minutes</li><li>Director: Denis Villeneuve</li><li>Genres: Thriller, Mystery</li><li>Budget: $3.5M</li><li>TMDB rating: 6.8/10 (6702 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jake Gyllenhaal as Adam / Anthony</li><li>Mélanie Laurent as Mary</li><li>Sarah Gadon as Helen</li><li>Isabella Rossellini as Mother</li><li>Joshua Peace as Teacher at School</li><li>Tim Post as Anthony&#x27;s Concierge</li><li>Kedar Brown as Security Guard</li><li>Darryl Dinn as Video Store Clerk</li><li>Misha Highstead as Lady in the Dark Room</li><li>Megan Mane as Lady in the Dark Room</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Cinemax Amazon Channel, HBO Max, Cinemax Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
+   "t": "Enemy (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:19186": {
    "d": "The Parent Trap (1961): Comedy/Family film. Story: Two identical twin sisters, separated at birth by… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
@@ -1349,6 +1413,70 @@
    "t": "Cold Prey (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:244786": {
+   "d": "Whiplash (2014): Drama/Music film. Story: Under the direction of a ruthless instructor, a… See cast, budget $3.3M, and TMDB rating 8.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+   "industry": "world",
+   "k": "Whiplash, Whiplash movie, Whiplash cast, Whiplash story, Whiplash box office collection, Whiplash budget, Whiplash review, Whiplash rating, Whiplash release date, Whiplash trailer, Whiplash Drama, Whiplash Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Miles Teller"
+     },
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Reiser"
+     },
+     {
+      "@type": "Person",
+      "name": "Melissa Benoist"
+     },
+     {
+      "@type": "Person",
+      "name": "Austin Stowell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17400,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "Whiplash (2014): Drama/Music film. Story: Under the direction of a ruthless instructor, a… See cast, budget $3.3M, and TMDB rating 8.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Damien Chazelle"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=244786",
+    "name": "Whiplash",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=244786"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Whiplash (2014)</h1>\n<p class=\"ssr-lead\">Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 October 2014</li><li>Runtime: 107 minutes</li><li>Director: Damien Chazelle</li><li>Genres: Drama, Music, Thriller</li><li>Budget: $3.3M</li><li>TMDB rating: 8.4/10 (17400 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Miles Teller as Andrew</li><li>J.K. Simmons as Fletcher</li><li>Paul Reiser as Jim</li><li>Melissa Benoist as Nicole</li><li>Austin Stowell as Ryan</li><li>Nate Lang as Carl</li><li>Chris Mulkey as Uncle Frank</li><li>Damon Gupton as Mr. Kramer</li><li>Suanne Spoke as Aunt Emma</li><li>Max Kasch as Dorm Neighbor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Whiplash (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:27586": {
    "d": "The Runaways (2010): Drama/Music film. Story: Joan Jett and Cherie Currie, two rebellious teenagers… See cast, budget $10M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/jW0qxSKoyeyPnEov9nZZeiybwt.jpg",
@@ -1541,6 +1669,70 @@
    "t": "The Lady Eve (1941) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1941"
   },
+  "movie:324786": {
+   "d": "Hacksaw Ridge (2016): Drama/History film. Story: WWII American Army Medic Desmond T. Doss, who served… See cast, budget $40M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+   "industry": "world",
+   "k": "Hacksaw Ridge, Hacksaw Ridge movie, Hacksaw Ridge cast, Hacksaw Ridge story, Hacksaw Ridge box office collection, Hacksaw Ridge budget, Hacksaw Ridge review, Hacksaw Ridge rating, Hacksaw Ridge release date, Hacksaw Ridge trailer, Hacksaw Ridge Drama, Hacksaw Ridge History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew Garfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Worthington"
+     },
+     {
+      "@type": "Person",
+      "name": "Vince Vaughn"
+     },
+     {
+      "@type": "Person",
+      "name": "Teresa Palmer"
+     },
+     {
+      "@type": "Person",
+      "name": "Luke Bracey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15522,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Hacksaw Ridge (2016): Drama/History film. Story: WWII American Army Medic Desmond T. Doss, who served… See cast, budget $40M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mel Gibson"
+     }
+    ],
+    "duration": "PT139M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=324786",
+    "name": "Hacksaw Ridge",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=324786"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hacksaw Ridge (2016)</h1>\n<p class=\"ssr-lead\">WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2016</li><li>Runtime: 139 minutes</li><li>Director: Mel Gibson</li><li>Genres: Drama, History, War</li><li>Budget: $40M</li><li>TMDB rating: 8.2/10 (15522 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Garfield as Desmond T. Doss</li><li>Sam Worthington as Captain Glover</li><li>Vince Vaughn as Sgt Howell</li><li>Teresa Palmer as Dorothy Schuttle</li><li>Luke Bracey as Smitty Ryker</li><li>Hugo Weaving as Tom Doss</li><li>Rachel Griffiths as Bertha Doss</li><li>Ryan Corr as Lieutenant Manville</li><li>Richard Roxburgh as Colonel Stelzer</li><li>Goran D. Kleut as Andy &#x27;Ghoul&#x27; Walker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Hacksaw Ridge (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:333386": {
    "d": "The Duel (2020): Western/Drama film. Story: A Texas Ranger investigates a series of unexplained… See cast, budget $10M, and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/nVR9pzRNznccuOzX6KAyoMTbpLO.jpg",
@@ -1605,6 +1797,70 @@
    "t": "The Duel (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:351286": {
+   "d": "Jurassic World: Fallen Kingdom (2018): Adventure/Science Fiction film. Story: Three years after Jurassic World was destroyed, Isla… See cast and budget $170M.",
+   "img": "https://image.tmdb.org/t/p/w780/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg",
+   "industry": "world",
+   "k": "Jurassic World: Fallen Kingdom, Jurassic World: Fallen Kingdom movie, Jurassic World: Fallen Kingdom cast, Jurassic World: Fallen Kingdom story, Jurassic World: Fallen Kingdom box office collection, Jurassic World: Fallen Kingdom budget, Jurassic World: Fallen Kingdom review, Jurassic World: Fallen Kingdom rating, Jurassic World: Fallen Kingdom release date, Jurassic World: Fallen Kingdom trailer, Jurassic World: Fallen Kingdom Adventure, Jurassic World: Fallen Kingdom Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Bryce Dallas Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafe Spall"
+     },
+     {
+      "@type": "Person",
+      "name": "Justice Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniella Pineda"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13162,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Jurassic World: Fallen Kingdom (2018): Adventure/Science Fiction film. Story: Three years after Jurassic World was destroyed, Isla… See cast and budget $170M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J. A. Bayona"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=351286",
+    "name": "Jurassic World: Fallen Kingdom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-06-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=351286"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jurassic World: Fallen Kingdom (2018)</h1>\n<p class=\"ssr-lead\">Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island&#x27;s dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 June 2018</li><li>Runtime: 129 minutes</li><li>Director: J. A. Bayona</li><li>Genres: Adventure, Science Fiction, Thriller</li><li>Budget: $170M</li><li>TMDB rating: 6.5/10 (13162 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Owen Grady</li><li>Bryce Dallas Howard as Claire Dearing</li><li>Rafe Spall as Eli Mills</li><li>Justice Smith as Franklin Webb</li><li>Daniella Pineda as Zia Rodriguez</li><li>James Cromwell as Benjamin Lockwood</li><li>Toby Jones as Mr. Eversoll</li><li>Ted Levine as Ken Wheatley</li><li>Jeff Goldblum as Ian Malcolm</li><li>BD Wong as Dr. Wu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Jurassic World: Fallen Kingdom (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:352186": {
    "d": "Good Kids (2016): Comedy film. Story: Four high school students look to redefine themselves… See cast, TMDB rating 6.3/10, and release date 29 July 2016.",
    "img": "https://image.tmdb.org/t/p/w780/8k7hVAUsMuJqZIRtd6T4Ewo8vfq.jpg",
@@ -1667,6 +1923,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Good Kids (2016)</h1>\n<p class=\"ssr-lead\">Four high school students look to redefine themselves after graduation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 July 2016</li><li>Runtime: 86 minutes</li><li>Director: Chris McCoy</li><li>Genres: Comedy</li><li>TMDB rating: 6.3/10 (340 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicholas Braun as Andy Evans</li><li>Zoey Deutch as Nora Sullivan</li><li>Mateo Arias as Lionel &#x27;The Lion&#x27; Miller</li><li>Israel Broussard as Mike &#x27;Spice&#x27; Jennings</li><li>Julia Garner as Tinsley</li><li>Ashley Judd as Gabby</li><li>Virginia Gardner as Emily</li><li>Randy Couture as Tough Husband</li><li>Demián Bichir as Yaco</li><li>Dayo Okeniyi as Conch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Good Kids (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:353486": {
+   "d": "Jumanji: Welcome to the Jungle (2017): Adventure/Comedy film. Story: Four teenagers in detention discover an old video… See cast and budget $90M.",
+   "img": "https://image.tmdb.org/t/p/w780/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+   "industry": "world",
+   "k": "Jumanji: Welcome to the Jungle, Jumanji: Welcome to the Jungle movie, Jumanji: Welcome to the Jungle cast, Jumanji: Welcome to the Jungle story, Jumanji: Welcome to the Jungle box office collection, Jumanji: Welcome to the Jungle budget, Jumanji: Welcome to the Jungle review, Jumanji: Welcome to the Jungle rating, Jumanji: Welcome to the Jungle release date, Jumanji: Welcome to the Jungle trailer, Jumanji: Welcome to the Jungle Adventure, Jumanji: Welcome to the Jungle Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dwayne Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Hart"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Karen Gillan"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhys Darby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14935,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Jumanji: Welcome to the Jungle (2017): Adventure/Comedy film. Story: Four teenagers in detention discover an old video… See cast and budget $90M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jake Kasdan"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=353486",
+    "name": "Jumanji: Welcome to the Jungle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-12-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=353486"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jumanji: Welcome to the Jungle (2017)</h1>\n<p class=\"ssr-lead\">Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 December 2017</li><li>Runtime: 119 minutes</li><li>Director: Jake Kasdan</li><li>Genres: Adventure, Comedy, Fantasy</li><li>Budget: $90M</li><li>TMDB rating: 6.8/10 (14935 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dwayne Johnson as Spencer</li><li>Kevin Hart as Fridge</li><li>Jack Black as Bethany</li><li>Karen Gillan as Martha</li><li>Rhys Darby as Nigel</li><li>Bobby Cannavale as Van Pelt</li><li>Nick Jonas as Alex</li><li>Alex Wolff as Young Spencer</li><li>Ser&#x27;Darius Blain as Young Fridge</li><li>Madison Iseman as Young Bethany</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Sony Liv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Jumanji: Welcome to the Jungle (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:353686": {
    "d": "Visions (2015): Horror/Mystery film. Story: After moving to a vineyard with her family, a… See cast, TMDB rating 5.3/10, and release date 28 August 2015.",
@@ -1799,6 +2119,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kizumonogatari Part 1: Tekketsu (2016)</h1>\n<p class=\"ssr-lead\">One day, Koyomi Araragi encounters the horrifying vampire, Kiss-shot Acerola-orion Heart-under-blade A.K.A. the &quot;King of Apparitions.&quot; He saves the fatally wounded Kiss-shot by offering his blood at the expense of his own life as a human. Now Koyomi has to face the vampire hunters to retrieve Kiss-shot’s limbs which were taken by these hunters...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 January 2016</li><li>Runtime: 63 minutes</li><li>Director: Tatsuya Oishi, Akiyuki Shinbo</li><li>Genres: Animation, Fantasy, Drama, Mystery, Action</li><li>TMDB rating: 7.7/10 (329 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hiroshi Kamiya as Koyomi Araragi (voice)</li><li>Maaya Sakamoto as Kiss-Shot Acerola-Orion Heart-Under-Blade (voice)</li><li>Yui Horie as Tsubasa Hanekawa (voice)</li><li>Takahiro Sakurai as Meme Oshino (voice)</li><li>Masashi Ebara as Dramaturgy (voice)</li><li>Miyu Irino as Episode (voice)</li><li>Hochu Otsuka as Guillotinecutter (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "Kizumonogatari Part 1: Tekketsu (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:37686": {
+   "d": "Super 8 (2011): Thriller/Science Fiction film. Story: In late 1970s Ohio, a group of friends filming a… See cast, budget $50M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/x6Dr9i6vhWICxs7hnX2BakcMtPd.jpg",
+   "industry": "world",
+   "k": "Super 8, Super 8 movie, Super 8 cast, Super 8 story, Super 8 box office collection, Super 8 budget, Super 8 review, Super 8 rating, Super 8 release date, Super 8 trailer, Super 8 Thriller, Super 8 Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joel Courtney"
+     },
+     {
+      "@type": "Person",
+      "name": "Elle Fanning"
+     },
+     {
+      "@type": "Person",
+      "name": "Riley Griffiths"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Chandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Emmerich"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7399,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Super 8 (2011): Thriller/Science Fiction film. Story: In late 1970s Ohio, a group of friends filming a… See cast, budget $50M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "J.J. Abrams"
+     }
+    ],
+    "duration": "PT112M",
+    "genre": [
+     "Thriller",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x6Dr9i6vhWICxs7hnX2BakcMtPd.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37686",
+    "name": "Super 8",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-06-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37686"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Super 8 (2011)</h1>\n<p class=\"ssr-lead\">In late 1970s Ohio, a group of friends filming a homemade zombie movie witness a devastating train derailment. Soon after, their quiet town is gripped by unexplained disappearances, strange phenomena, and a growing sense of fear, as they uncover that something terrifying has been set loose.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 June 2011</li><li>Runtime: 112 minutes</li><li>Director: J.J. Abrams</li><li>Genres: Thriller, Science Fiction, Mystery</li><li>Budget: $50M</li><li>TMDB rating: 6.8/10 (7399 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joel Courtney as Joe Lamb</li><li>Elle Fanning as Alice Dainard</li><li>Riley Griffiths as Charles Kaznyk</li><li>Kyle Chandler as Jackson Lamb</li><li>Noah Emmerich as Nelec</li><li>AJ Michalka as Jen Kaznyk</li><li>Ryan Lee as Cary McCarthy</li><li>Ron Eldard as Louis Dainard</li><li>Gabriel Basso as Martin Read</li><li>Bruce Greenwood as Cooper</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Super 8 (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:39386": {
    "d": "The Corsican File (2004): Comedy film. Story: Jack Palmer is a Paris-based detective with a huge… See cast, TMDB rating 5.9/10, and release date 6 October 2004.",
@@ -2121,6 +2505,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>And Then There Were None (1945)</h1>\n<p class=\"ssr-lead\">Ten strangers are summoned to a remote island and while they are waiting for the mysterious host to appear, a recording levels serious accusations at each of the guests. Soon they start being murdered, one by one. As the survivors try to keep their wits, they reach a disturbing conclusion: one of them must be the killer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 1945</li><li>Runtime: 98 minutes</li><li>Director: René Clair</li><li>Genres: Crime, Drama, Mystery</li><li>TMDB rating: 7.0/10 (440 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Barry Fitzgerald as Francis Quinncannon</li><li>Walter Huston as Edward Armstrong</li><li>Louis Hayward as Philip Lombard</li><li>Roland Young as William Blore</li><li>June Duprez as Vera Claythorne</li><li>Mischa Auer as Nikita &quot;Nikki&quot; Starloff</li><li>C. Aubrey Smith as John Mandrake</li><li>Judith Anderson as Emily Brent</li><li>Richard Haydn as Thomas Rogers</li><li>Queenie Leonard as Ethel Rogers</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Artiflix</li></ul>\n</article>",
    "t": "And Then There Were None (1945) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1945"
+  },
+  "movie:507086": {
+   "d": "Jurassic World Dominion (2022): Adventure/Science Fiction film. Story: Four years after Isla Nublar was destroyed, dinosaurs… See cast and budget $658.8M.",
+   "img": "https://image.tmdb.org/t/p/w780/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg",
+   "industry": "world",
+   "k": "Jurassic World Dominion, Jurassic World Dominion movie, Jurassic World Dominion cast, Jurassic World Dominion story, Jurassic World Dominion box office collection, Jurassic World Dominion budget, Jurassic World Dominion review, Jurassic World Dominion rating, Jurassic World Dominion release date, Jurassic World Dominion trailer, Jurassic World Dominion Adventure, Jurassic World Dominion Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Bryce Dallas Howard"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Dern"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Neill"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Goldblum"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7408,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Jurassic World Dominion (2022): Adventure/Science Fiction film. Story: Four years after Isla Nublar was destroyed, dinosaurs… See cast and budget $658.8M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Colin Trevorrow"
+     }
+    ],
+    "duration": "PT147M",
+    "genre": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=507086",
+    "name": "Jurassic World Dominion",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=507086"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jurassic World Dominion (2022)</h1>\n<p class=\"ssr-lead\">Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history&#x27;s most fearsome creatures.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2022</li><li>Runtime: 147 minutes</li><li>Director: Colin Trevorrow</li><li>Genres: Adventure, Science Fiction, Thriller</li><li>Budget: $658.8M</li><li>TMDB rating: 6.6/10 (7408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Owen Grady</li><li>Bryce Dallas Howard as Claire Dearing</li><li>Laura Dern as Ellie Sattler</li><li>Sam Neill as Alan Grant</li><li>Jeff Goldblum as Ian Malcolm</li><li>DeWanda Wise as Kayla Watts</li><li>Mamoudou Athie as Ramsay Cole</li><li>Isabella Sermon as Maisie Lockwood / Young Charlotte Lockwood</li><li>Campbell Scott as Lewis Dodgson</li><li>BD Wong as Henry Wu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Jurassic World Dominion (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
   },
   "movie:53486": {
    "d": "The Family Friend (2006): Drama film. Story: Geremia, an aging tailor/money lender, is a… See cast, TMDB rating 7.2/10, and release date 1 October 2006.",

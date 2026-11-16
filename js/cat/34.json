@@ -1,6 +1,6 @@
 {
  "bucket": "34",
- "count": 55,
+ "count": 65,
  "titles": {
   "movie:10134": {
    "backdrop_path": "/lUHhwf9VRcdnP5gQjnqa337L33M.jpg",
@@ -1521,6 +1521,184 @@
    "vote_average": 6.0,
    "vote_count": 489
   },
+  "movie:131634": {
+   "backdrop_path": "/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Katniss Everdeen",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Peeta Mellark",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Gale Hawthorne",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Haymitch Abernathy",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Effie Trinket",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "President Alma Coin",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Plutarch Heavensbee",
+     "n": "Philip Seymour Hoffman"
+    },
+    {
+     "c": "Beetee Latier",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Caesar Flickerman",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "President Coriolanus Snow",
+     "n": "Donald Sutherland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 131634,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the war between the Capitol and the districts reaches its peak, Katniss Everdeen embarks on a perilous mission to liberate Panem and confront President Snow. Joined by a team of trusted allies, she navigates deadly traps, shifting loyalties, and the heavy cost of rebellion, determined to bring freedom to her people and end the Hunger Games once and for all.",
+   "popularity": 25.5361,
+   "poster_path": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-11-20",
+   "revenue": 653428261,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The fire will burn forever.",
+   "title": "The Hunger Games: Mockingjay - Part 2",
+   "trailer": {
+    "key": "SoKIqLEGhI0",
+    "name": "Official Trailer – “Welcome To The 76th Hunger Games”",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.899,
+   "vote_count": 13771
+  },
   "movie:1325734": {
    "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
    "budget": 28000000,
@@ -2594,6 +2772,148 @@
    "vote_average": 5.875,
    "vote_count": 887
   },
+  "movie:1734": {
+   "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+   "budget": 98000000,
+   "cast": [
+    {
+     "c": "Rick O'Connell",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Evelyn O'Connell / Nefertiri",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Jonathan Carnahan",
+     "n": "John Hannah"
+    },
+    {
+     "c": "Ardeth Bay",
+     "n": "Oded Fehr"
+    },
+    {
+     "c": "Imhotep",
+     "n": "Arnold Vosloo"
+    },
+    {
+     "c": "Meela / Anck-Su-Namun",
+     "n": "Patricia Velásquez"
+    },
+    {
+     "c": "Alex O'Connell",
+     "n": "Freddie Boath"
+    },
+    {
+     "c": "Mathayus / The Scorpion King",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Baltus Hafez",
+     "n": "Alun Armstrong"
+    },
+    {
+     "c": "Lock-Nah",
+     "n": "Adewale Akinnuoye-Agbaje"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Stephen Sommers"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 1734,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+   "popularity": 10.7182,
+   "poster_path": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-05-04",
+   "revenue": 443280904,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Adventure is reborn.",
+   "title": "The Mummy Returns",
+   "trailer": {
+    "key": "ptmLrNpmcBo",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.418,
+   "vote_count": 8033
+  },
   "movie:20334": {
    "backdrop_path": "/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
    "budget": 500000,
@@ -2709,6 +3029,162 @@
    "type": "movie",
    "vote_average": 8.047,
    "vote_count": 889
+  },
+  "movie:2034": {
+   "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Alonzo",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Jake",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Roger",
+     "n": "Scott Glenn"
+    },
+    {
+     "c": "Stan Gursky",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Doug Rosselli",
+     "n": "Harris Yulin"
+    },
+    {
+     "c": "Lou Jacobs",
+     "n": "Raymond J. Barry"
+    },
+    {
+     "c": "Smiley",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Paul",
+     "n": "Dr. Dre"
+    },
+    {
+     "c": "Blue",
+     "n": "Snoop Dogg"
+    },
+    {
+     "c": "Sandman's Wife",
+     "n": "Macy Gray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Antoine Fuqua"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "id": 2034,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+   "popularity": 28.3797,
+   "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-10-05",
+   "revenue": 104900000,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "es",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "The only thing more dangerous than the line being crossed, is the cop who will cross it.",
+   "title": "Training Day",
+   "trailer": {
+    "key": "VQ-SCoyUwfg",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.537,
+   "vote_count": 7019
   },
   "movie:203834": {
    "backdrop_path": "/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
@@ -3082,6 +3558,260 @@
    "type": "movie",
    "vote_average": 7.469,
    "vote_count": 372
+  },
+  "movie:277834": {
+   "backdrop_path": "/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Moana (voice)",
+     "n": "Auliʻi Cravalho"
+    },
+    {
+     "c": "Maui (voice)",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Gramma Tala (voice)",
+     "n": "Rachel House"
+    },
+    {
+     "c": "Chief Tui (voice)",
+     "n": "Temuera Morrison"
+    },
+    {
+     "c": "Tamatoa (voice)",
+     "n": "Jemaine Clement"
+    },
+    {
+     "c": "Sina (voice)",
+     "n": "Nicole Scherzinger"
+    },
+    {
+     "c": "Heihei / Villager #3 (voice)",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Toddler Moana (voice)",
+     "n": "Louise Bush"
+    },
+    {
+     "c": "Fisherman (voice)",
+     "n": "Oscar Kightley"
+    },
+    {
+     "c": "Villager #1 (voice)",
+     "n": "Troy Polamalu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "John Musker",
+    "Ron Clements"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Animation"
+   ],
+   "id": 277834,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+   "popularity": 3.5421,
+   "poster_path": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-12-02",
+   "revenue": 690860472,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The ocean is calling.",
+   "title": "Moana",
+   "trailer": {
+    "key": "LKFuXETZUsI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.564,
+   "vote_count": 14181
+  },
+  "movie:299534": {
+   "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+   "budget": 356000000,
+   "cast": [
+    {
+     "c": "Tony Stark / Iron Man",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Steve Rogers / Captain America",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Bruce Banner / Hulk",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Natasha Romanoff / Black Widow",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Clint Barton / Hawkeye",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Thanos",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "James Rhodes / War Machine",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Scott Lang / Ant-Man",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Doctor Strange",
+     "n": "Benedict Cumberbatch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Joe Russo",
+    "Anthony Russo"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 299534,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+   "popularity": 82.3174,
+   "poster_path": "/jtDv3lCnST0fZRvdYFwR5CVwK2x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-04-26",
+   "revenue": 2942649778,
+   "runtime": 181,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "xh"
+   ],
+   "status": "Released",
+   "tagline": "Avenge the fallen.",
+   "title": "Avengers: Endgame",
+   "trailer": {
+    "key": "L2NAh3CIdig",
+    "name": "Encore Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.246,
+   "vote_count": 29317
   },
   "movie:34134": {
    "backdrop_path": "/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
@@ -3732,6 +4462,320 @@
    "vote_average": 7.3,
    "vote_count": 371
   },
+  "movie:524434": {
+   "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Sersi",
+     "n": "Gemma Chan"
+    },
+    {
+     "c": "Ikaris",
+     "n": "Richard Madden"
+    },
+    {
+     "c": "Thena",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Ajak",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Kingo",
+     "n": "Kumail Nanjiani"
+    },
+    {
+     "c": "Sprite",
+     "n": "Lia McHugh"
+    },
+    {
+     "c": "Phastos",
+     "n": "Brian Tyree Henry"
+    },
+    {
+     "c": "Makkari",
+     "n": "Lauren Ridloff"
+    },
+    {
+     "c": "Druig",
+     "n": "Barry Keoghan"
+    },
+    {
+     "c": "Gilgamesh",
+     "n": "Don Lee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chloé Zhao"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 524434,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+   "popularity": 12.8554,
+   "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-11-03",
+   "revenue": 402064899,
+   "runtime": 156,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "hi",
+    "la",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In the beginning...",
+   "title": "Eternals",
+   "trailer": {
+    "key": "x_me3xsvDgk",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.738,
+   "vote_count": 9576
+  },
+  "movie:534": {
+   "backdrop_path": "/uifaXfJxjTMeNttw5u04nHx1G5w.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "John Connor",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Marcus Wright",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Blair Williams",
+     "n": "Moon Bloodgood"
+    },
+    {
+     "c": "Serena",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Kyle Reese",
+     "n": "Anton Yelchin"
+    },
+    {
+     "c": "Barnes",
+     "n": "Common"
+    },
+    {
+     "c": "Soldier on Osprey",
+     "n": "Zach McGowan"
+    },
+    {
+     "c": "Kate Connor",
+     "n": "Bryce Dallas Howard"
+    },
+    {
+     "c": "Virginia",
+     "n": "Jane Alexander"
+    },
+    {
+     "c": "General Ashdown",
+     "n": "Michael Ironside"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "McG"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 534,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe.",
+   "popularity": 8.036,
+   "poster_path": "/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-05-20",
+   "revenue": 371353001,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The end begins.",
+   "title": "Terminator Salvation",
+   "trailer": {
+    "key": "dayIedrLq_U",
+    "name": "Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.108,
+   "vote_count": 7360
+  },
   "movie:606234": {
    "backdrop_path": "/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg",
    "budget": 0,
@@ -3981,6 +5025,337 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 380
+  },
+  "movie:68734": {
+   "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+   "budget": 44500000,
+   "cast": [
+    {
+     "c": "Tony Mendez",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Jack O'Donnell",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Lester Siegel",
+     "n": "Alan Arkin"
+    },
+    {
+     "c": "John Chambers",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Ken Taylor",
+     "n": "Victor Garber"
+    },
+    {
+     "c": "Bob Anders",
+     "n": "Tate Donovan"
+    },
+    {
+     "c": "Cora Lijek",
+     "n": "Clea DuVall"
+    },
+    {
+     "c": "Joe Stafford",
+     "n": "Scoot McNairy"
+    },
+    {
+     "c": "Lee Schatz",
+     "n": "Rory Cochrane"
+    },
+    {
+     "c": "Mark Lijek",
+     "n": "Christopher Denham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ben Affleck"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 68734,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+   "popularity": 6.9378,
+   "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-10-19",
+   "revenue": 232300000,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "de",
+    "fa"
+   ],
+   "status": "Released",
+   "tagline": "The movie was fake. The mission was real.",
+   "title": "Argo",
+   "trailer": {
+    "key": "3RrtxIci4T0",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.283,
+   "vote_count": 9333
+  },
+  "movie:693134": {
+   "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+   "budget": 190000000,
+   "cast": [
+    {
+     "c": "Paul Atreides",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "Chani",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Jessica",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Stilgar",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Gurney Halleck",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Feyd-Rautha",
+     "n": "Austin Butler"
+    },
+    {
+     "c": "Princess Irulan",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Beast Rabban",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Emperor",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Lady Margot Fenring",
+     "n": "Léa Seydoux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 693134,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+   "popularity": 46.2635,
+   "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2024-03-01",
+   "revenue": 714844358,
+   "runtime": 167,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Long live the fighters.",
+   "title": "Dune: Part Two",
+   "trailer": {
+    "key": "U2Qp5pL3ovA",
+    "name": "Official Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.1,
+   "vote_count": 8985
   },
   "movie:754934": {
    "backdrop_path": "/mRZDHjArYNWpOv06kxRK1cduQKh.jpg",
@@ -4720,6 +6095,137 @@
    "type": "movie",
    "vote_average": 5.558,
    "vote_count": 462
+  },
+  "movie:86834": {
+   "backdrop_path": "/5z75Q6nqgwgYfpMB9fVHQcw9gMz.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Noah",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Naameh",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Tubal-cain",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Methuselah",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Ila",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Ham",
+     "n": "Logan Lerman"
+    },
+    {
+     "c": "Shem",
+     "n": "Douglas Booth"
+    },
+    {
+     "c": "Samyaza (voice)",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Magog (voice)",
+     "n": "Mark Margolis"
+    },
+    {
+     "c": "Rameel (voice)",
+     "n": "Kevin Durand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Darren Aronofsky"
+   ],
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
+   "id": 86834,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.",
+   "popularity": 7.2009,
+   "poster_path": "/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-03-07",
+   "revenue": 362600000,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The end of the world… is just the beginning.",
+   "title": "Noah",
+   "trailer": {
+    "key": "fdu10cX3pWA",
+    "name": "Paramount Movies Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.704,
+   "vote_count": 6862
   },
   "movie:943134": {
    "backdrop_path": "/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "11",
- "count": 70,
+ "count": 78,
  "titles": {
   "movie:1019411": {
    "d": "Space Cadet (2024): Comedy film. Story: Tiffany \"Rex\" Simpson has always dreamed of going to… See cast, TMDB rating 5.5/10, and release date 4 July 2024.",
@@ -382,6 +382,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Echo Valley (2025)</h1>\n<p class=\"ssr-lead\">Kate lives a secluded life—until her troubled daughter shows up, frightened and covered in someone else&#x27;s blood. As Kate unravels the shocking truth, she learns just how far a mother will go to try to save her child.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 June 2025</li><li>Runtime: 105 minutes</li><li>Director: Michael Pearce</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.5/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Julianne Moore as Kate Garrett</li><li>Sydney Sweeney as Claire Garrett</li><li>Domhnall Gleeson as Jackie</li><li>Kyle MacLachlan as Richard Garrett</li><li>Fiona Shaw as Leslie Oliver</li><li>Edmund Donovan as Ryan</li><li>Rebecca Creskoff as Emma Hanway</li><li>Audrey Grace Marshall as Mallory Hanway</li><li>Stella Chivee as Harper</li><li>Albert Jones as Detective Ballard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n</article>",
    "t": "Echo Valley (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:11": {
+   "d": "Star Wars (1978): Adventure/Action film. Story: Princess Leia is captured and held hostage by the… See cast, budget $11M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+   "industry": "world",
+   "k": "Star Wars, Star Wars movie, Star Wars cast, Star Wars story, Star Wars box office collection, Star Wars budget, Star Wars review, Star Wars rating, Star Wars release date, Star Wars trailer, Star Wars Adventure, Star Wars Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Hamill"
+     },
+     {
+      "@type": "Person",
+      "name": "Harrison Ford"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie Fisher"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Cushing"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Guinness"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23178,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Star Wars (1978): Adventure/Action film. Story: Princess Leia is captured and held hostage by the… See cast, budget $11M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Lucas"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11",
+    "name": "Star Wars",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1978-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Star Wars (1978)</h1>\n<p class=\"ssr-lead\">Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 1978</li><li>Runtime: 121 minutes</li><li>Director: George Lucas</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $11M</li><li>TMDB rating: 8.2/10 (23178 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Hamill as Luke Skywalker</li><li>Harrison Ford as Han Solo</li><li>Carrie Fisher as Princess Leia Organa</li><li>Peter Cushing as Grand Moff Tarkin</li><li>Alec Guinness as Obi-Wan &quot;Ben&quot; Kenobi</li><li>Anthony Daniels as C-3PO</li><li>Kenny Baker as R2-D2</li><li>Peter Mayhew as Chewbacca</li><li>David Prowse as Darth Vader (performer)</li><li>James Earl Jones as Darth Vader (voice) (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Star Wars (1978) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1978"
+  },
+  "movie:111": {
+   "d": "Scarface (1983): Action/Crime film. Story: After getting a green card in exchange for… See cast, budget $25M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+   "industry": "world",
+   "k": "Scarface, Scarface movie, Scarface cast, Scarface story, Scarface box office collection, Scarface budget, Scarface review, Scarface rating, Scarface release date, Scarface trailer, Scarface Action, Scarface Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Steven Bauer"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Pfeiffer"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Elizabeth Mastrantonio"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Loggia"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13691,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Scarface (1983): Action/Crime film. Story: After getting a green card in exchange for… See cast, budget $25M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brian De Palma"
+     }
+    ],
+    "duration": "PT170M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=111",
+    "name": "Scarface",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1983-12-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=111"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scarface (1983)</h1>\n<p class=\"ssr-lead\">After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 December 1983</li><li>Runtime: 170 minutes</li><li>Director: Brian De Palma</li><li>Genres: Action, Crime, Drama</li><li>Budget: $25M</li><li>TMDB rating: 8.2/10 (13691 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Tony Montana</li><li>Steven Bauer as Manny Ray</li><li>Michelle Pfeiffer as Elvira</li><li>Mary Elizabeth Mastrantonio as Gina</li><li>Robert Loggia as Frank Lopez</li><li>Miriam Colon as Mama Montana</li><li>F. Murray Abraham as Omar</li><li>Paul Shenar as Alejandro Sosa</li><li>Harris Yulin as Bernstein</li><li>Ángel Salazar as Chi Chi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Hungama Play, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Scarface (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1983"
   },
   "movie:1120911": {
    "d": "Saturday Night (2024): Comedy/Drama film. Story: At 11:30pm on October 11, 1975, a ferocious troupe of… See cast, budget $25M, and TMDB rating 6.6/10.",
@@ -1736,6 +1864,69 @@
    "t": "A Field in England (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:257211": {
+   "d": "The Intern (2015): Comedy film. Story: 70-year-old widower Ben Whittaker has discovered that… See cast, budget $35M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/i8Q2Ei2dPliMLgPWYhRTxIDzh7r.jpg",
+   "industry": "world",
+   "k": "The Intern, The Intern movie, The Intern cast, The Intern story, The Intern box office collection, The Intern budget, The Intern review, The Intern rating, The Intern release date, The Intern trailer, The Intern Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Rene Russo"
+     },
+     {
+      "@type": "Person",
+      "name": "Anders Holm"
+     },
+     {
+      "@type": "Person",
+      "name": "JoJo Kushner"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7600,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Intern (2015): Comedy film. Story: 70-year-old widower Ben Whittaker has discovered that… See cast, budget $35M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Nancy Meyers"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i8Q2Ei2dPliMLgPWYhRTxIDzh7r.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=257211",
+    "name": "The Intern",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=257211"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Intern (2015)</h1>\n<p class=\"ssr-lead\">70-year-old widower Ben Whittaker has discovered that retirement isn&#x27;t all it&#x27;s cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2015</li><li>Runtime: 121 minutes</li><li>Director: Nancy Meyers</li><li>Genres: Comedy</li><li>Budget: $35M</li><li>TMDB rating: 7.2/10 (7600 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Ben Whitaker</li><li>Anne Hathaway as Jules Ostin</li><li>Rene Russo as Fiona Farwell</li><li>Anders Holm as Matt Ostin</li><li>JoJo Kushner as Paige Ostin</li><li>Andrew Rannells as Cameron</li><li>Adam Devine as Jason</li><li>Zack Pearlman as Davis</li><li>Jason Orley as Lewis</li><li>Christina Scherer as Becky</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Intern (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:295011": {
    "d": "Patient Zero (2018): Horror/Thriller film. Story: After an unprecedented global pandemic has turned the… See cast and TMDB rating 5.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/kpjp9Wqj6U4wdv4oSEe9FLkNhaQ.jpg",
@@ -1927,6 +2118,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Cameraman (1928)</h1>\n<p class=\"ssr-lead\">A photographer takes up newsreel shooting to impress a secretary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 1928</li><li>Runtime: 74 minutes</li><li>Director: Edward Sedgwick</li><li>Genres: Comedy, Romance, Drama</li><li>TMDB rating: 7.8/10 (460 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Buster Keaton as Buster</li><li>Marceline Day as Sally</li><li>Harold Goodwin as Stagg</li><li>Sidney Bracey as Editor</li><li>Harry Gribbon as Cop</li><li>Ray Cooke as Office Worker (uncredited)</li><li>Vernon Dent as Man in Tight Bathing Suit (uncredited)</li><li>Harry Keaton as Extra in Swimming Pool (uncredited)</li><li>Louise Keaton as Extra in Swimming Pool (uncredited)</li><li>Bert Moorhouse as Randall (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, FlixFling</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Cameraman (1928) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1928"
+  },
+  "movie:328111": {
+   "d": "The Secret Life of Pets (2016): Animation/Comedy film. Story: The quiet life of a terrier named Max is upended when… See cast and budget $75M.",
+   "img": "https://image.tmdb.org/t/p/w780/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
+   "industry": "world",
+   "k": "The Secret Life of Pets, The Secret Life of Pets movie, The Secret Life of Pets cast, The Secret Life of Pets story, The Secret Life of Pets box office collection, The Secret Life of Pets budget, The Secret Life of Pets review, The Secret Life of Pets rating, The Secret Life of Pets release date, The Secret Life of Pets trailer, The Secret Life of Pets Animation, The Secret Life of Pets Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Louis C.K."
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Stonestreet"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Hart"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenny Slate"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellie Kemper"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8737,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Secret Life of Pets (2016): Animation/Comedy film. Story: The quiet life of a terrier named Max is upended when… See cast and budget $75M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Renaud"
+     }
+    ],
+    "duration": "PT86M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c1Ywtvlqls6tPBZ3BqbPtBwHyng.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=328111",
+    "name": "The Secret Life of Pets",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-07-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=328111"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Secret Life of Pets (2016)</h1>\n<p class=\"ssr-lead\">The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 July 2016</li><li>Runtime: 86 minutes</li><li>Director: Chris Renaud</li><li>Genres: Animation, Comedy, Family, Adventure</li><li>Budget: $75M</li><li>TMDB rating: 6.3/10 (8737 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis C.K. as Max (voice)</li><li>Eric Stonestreet as Duke (voice)</li><li>Kevin Hart as Snowball (voice)</li><li>Jenny Slate as Gidget (voice)</li><li>Ellie Kemper as Katie (voice)</li><li>Albert Brooks as Tiberius (voice)</li><li>Lake Bell as Chloe (voice)</li><li>Dana Carvey as Pops (voice)</li><li>Hannibal Buress as Buddy (voice)</li><li>Bobby Moynihan as Mel (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Secret Life of Pets (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:33511": {
    "d": "Nowhere Boy (2009): Drama film. Story: A rebellious teenager, future Beatle John Lennon… See cast, budget $1.5M, and TMDB rating 7.2/10.",
@@ -2548,6 +2803,134 @@
    "t": "Satanic (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:4011": {
+   "d": "Beetlejuice (1989): Fantasy/Comedy film. Story: A newly dead New England couple seeks help from a… See cast, budget $15M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+   "industry": "world",
+   "k": "Beetlejuice, Beetlejuice movie, Beetlejuice cast, Beetlejuice story, Beetlejuice box office collection, Beetlejuice budget, Beetlejuice review, Beetlejuice rating, Beetlejuice release date, Beetlejuice trailer, Beetlejuice Fantasy, Beetlejuice Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Geena Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Winona Ryder"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine O'Hara"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8851,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Beetlejuice (1989): Fantasy/Comedy film. Story: A newly dead New England couple seeks help from a… See cast, budget $15M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Burton"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Fantasy",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4011",
+    "name": "Beetlejuice",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-08-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4011"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beetlejuice (1989)</h1>\n<p class=\"ssr-lead\">A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 August 1989</li><li>Runtime: 92 minutes</li><li>Director: Tim Burton</li><li>Genres: Fantasy, Comedy</li><li>Budget: $15M</li><li>TMDB rating: 7.4/10 (8851 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alec Baldwin as Adam</li><li>Geena Davis as Barbara</li><li>Winona Ryder as Lydia</li><li>Catherine O&#x27;Hara as Delia</li><li>Jeffrey Jones as Charles</li><li>Michael Keaton as Betelgeuse</li><li>Glenn Shadix as Otho</li><li>Sylvia Sidney as Juno</li><li>Patrice Martinez as Receptionist</li><li>Dick Cavett as Bernard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Beetlejuice (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
+  "movie:411": {
+   "d": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005): Adventure/Family film.",
+   "img": "https://image.tmdb.org/t/p/w780/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+   "industry": "world",
+   "k": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe movie, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe cast, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe story, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe box office collection, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe budget, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe review, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe rating, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe release date, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe Adventure, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Georgie Henley"
+     },
+     {
+      "@type": "Person",
+      "name": "Skandar Keynes"
+     },
+     {
+      "@type": "Person",
+      "name": "William Moseley"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Popplewell"
+     },
+     {
+      "@type": "Person",
+      "name": "Tilda Swinton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11933,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005): Adventure/Family film.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Adamson"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=411",
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-12-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=411"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)</h1>\n<p class=\"ssr-lead\">Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 December 2005</li><li>Runtime: 143 minutes</li><li>Director: Andrew Adamson</li><li>Genres: Adventure, Family, Fantasy</li><li>Budget: $180M</li><li>TMDB rating: 7.1/10 (11933 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Georgie Henley as Lucy Pevensie</li><li>Skandar Keynes as Edmund Pevensie</li><li>William Moseley as Peter Pevensie</li><li>Anna Popplewell as Susan Pevensie</li><li>Tilda Swinton as White Witch</li><li>Liam Neeson as Aslan (voice)</li><li>James McAvoy as Mr. Tumnus</li><li>Jim Broadbent as Prof. Digory Kirke</li><li>Ray Winstone as Mr. Beaver (voice)</li><li>Dawn French as Mrs. Beaver (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:419511": {
    "d": "Mister Happiness (2017): Romance/Comedy film. Story: A slacker switches up his cleaning job by pretending… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/7aKx0Qk3V5Q1coqriH0BCK9GIXT.jpg",
@@ -2803,6 +3186,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dark Blue (2002)</h1>\n<p class=\"ssr-lead\">Set during the Rodney King riots, a robbery homicide investigation triggers a series of events that will cause a corrupt LAPD officer to question his tactics.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2002</li><li>Runtime: 118 minutes</li><li>Director: Ron Shelton</li><li>Genres: Crime, Thriller, Drama</li><li>Budget: $15M</li><li>TMDB rating: 6.2/10 (408 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kurt Russell as Eldon Perry</li><li>Scott Speedman as Bobby Keough</li><li>Michael Michele as Beth Williamson</li><li>Brendan Gleeson as Jack van Meter</li><li>Ving Rhames as Arthur Holland</li><li>Kurupt as Darryl Orchard</li><li>Dash Mihok as Gary Sidwell</li><li>Jonathan Banks as James Barcomb</li><li>Lolita Davidovich as Sally Perry</li><li>Khandi Alexander as Janelle Holland</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Dark Blue (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2002"
+  },
+  "movie:545611": {
+   "d": "Everything Everywhere All at Once (2022): Action/Adventure film. Story: An aging Chinese immigrant is swept up in an insane… See cast and budget $25M.",
+   "img": "https://image.tmdb.org/t/p/w780/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+   "industry": "world",
+   "k": "Everything Everywhere All at Once, Everything Everywhere All at Once movie, Everything Everywhere All at Once cast, Everything Everywhere All at Once story, Everything Everywhere All at Once box office collection, Everything Everywhere All at Once budget, Everything Everywhere All at Once review, Everything Everywhere All at Once rating, Everything Everywhere All at Once release date, Everything Everywhere All at Once trailer, Everything Everywhere All at Once Action, Everything Everywhere All at Once Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michelle Yeoh"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephanie Hsu"
+     },
+     {
+      "@type": "Person",
+      "name": "Ke Huy Quan"
+     },
+     {
+      "@type": "Person",
+      "name": "James Hong"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Lee Curtis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8664,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Everything Everywhere All at Once (2022): Action/Adventure film. Story: An aging Chinese immigrant is swept up in an insane… See cast and budget $25M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Daniel Scheinert"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Kwan"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=545611",
+    "name": "Everything Everywhere All at Once",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-09-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=545611"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Everything Everywhere All at Once (2022)</h1>\n<p class=\"ssr-lead\">An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what&#x27;s important to her by connecting with the lives she could have led in other universes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2022</li><li>Runtime: 140 minutes</li><li>Director: Daniel Scheinert, Daniel Kwan</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $25M</li><li>TMDB rating: 7.7/10 (8664 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michelle Yeoh as Evelyn Wang</li><li>Stephanie Hsu as Joy Wang / Jobu Tupaki</li><li>Ke Huy Quan as Waymond Wang</li><li>James Hong as Gong Gong</li><li>Jamie Lee Curtis as Deirdre Beaubeirdre</li><li>Tallie Medel as Becky Sregor</li><li>Jenny Slate as Big Nose</li><li>Harry Shum Jr. as Chad</li><li>Biff Wiff as Rick</li><li>Sunita Mani as TV Musical - Queen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, VI movies and tv, Sonyliv Amazon Channel</li></ul>\n</article>",
+   "t": "Everything Everywhere All at Once (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:62211": {
+   "d": "Monsters University (2013): Animation/Family film. Story: A look at the relationship between Mike and Sulley… See cast, budget $200M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
+   "industry": "world",
+   "k": "Monsters University, Monsters University movie, Monsters University cast, Monsters University story, Monsters University box office collection, Monsters University budget, Monsters University review, Monsters University rating, Monsters University release date, Monsters University trailer, Monsters University Animation, Monsters University Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Billy Crystal"
+     },
+     {
+      "@type": "Person",
+      "name": "John Goodman"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     },
+     {
+      "@type": "Person",
+      "name": "Helen Mirren"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Sohn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11671,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Monsters University (2013): Animation/Family film. Story: A look at the relationship between Mike and Sulley… See cast, budget $200M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dan Scanlon"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=62211",
+    "name": "Monsters University",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-06-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=62211"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monsters University (2013)</h1>\n<p class=\"ssr-lead\">A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren&#x27;t necessarily the best of friends.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2013</li><li>Runtime: 104 minutes</li><li>Director: Dan Scanlon</li><li>Genres: Animation, Family, Comedy, Fantasy</li><li>Budget: $200M</li><li>TMDB rating: 7.1/10 (11671 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Billy Crystal as Mike (voice)</li><li>John Goodman as Sullivan (voice)</li><li>Steve Buscemi as Randy (voice)</li><li>Helen Mirren as Dean Hardscrabble (voice)</li><li>Peter Sohn as Squishy (voice)</li><li>Joel Murray as Don (voice)</li><li>Sean Hayes as Terri (voice)</li><li>Dave Foley as Terry (voice)</li><li>Charlie Day as Art (voice)</li><li>Alfred Molina as Professor Knight (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Monsters University (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:623511": {
    "d": "The Burning Sea (2021): Action/Thriller film. Story: An oil platform dramatically goes down on the… See cast, budget $8.3M, and TMDB rating 6.5/10.",

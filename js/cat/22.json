@@ -1,6 +1,6 @@
 {
  "bucket": "22",
- "count": 64,
+ "count": 72,
  "titles": {
   "movie:1063422": {
    "backdrop_path": "/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg",
@@ -734,6 +734,196 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 974
+  },
+  "movie:122": {
+   "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+   "budget": 94000000,
+   "cast": [
+    {
+     "c": "Frodo",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Gandalf",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Aragorn",
+     "n": "Viggo Mortensen"
+    },
+    {
+     "c": "Sam",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Gollum / Smeagol",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "Merry",
+     "n": "Dominic Monaghan"
+    },
+    {
+     "c": "Pippin",
+     "n": "Billy Boyd"
+    },
+    {
+     "c": "Denethor",
+     "n": "John Noble"
+    },
+    {
+     "c": "Faramir",
+     "n": "David Wenham"
+    },
+    {
+     "c": "Éowyn",
+     "n": "Miranda Otto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 122,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+   "popularity": 34.7015,
+   "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-02-06",
+   "revenue": 1118888979,
+   "runtime": 201,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.",
+   "title": "The Lord of the Rings: The Return of the King",
+   "trailer": {
+    "key": "zckJCxYxn1g",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.507,
+   "vote_count": 27836
   },
   "movie:12622": {
    "backdrop_path": "/52Lu2SxYuckF0f1Bz9yDvy1cVLa.jpg",
@@ -1517,6 +1707,137 @@
    "vote_average": 6.0,
    "vote_count": 362
   },
+  "movie:1422": {
+   "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Billy",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Colin",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Costello",
+     "n": "Jack Nicholson"
+    },
+    {
+     "c": "Dignam",
+     "n": "Mark Wahlberg"
+    },
+    {
+     "c": "Queenan",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Mr. French",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Madolyn",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Brown",
+     "n": "Anthony Anderson"
+    },
+    {
+     "c": "Ellerby",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Cousin Sean",
+     "n": "Kevin Corrigan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 1422,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+   "popularity": 20.1405,
+   "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+   "production_countries": [
+    "HK",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-10-31",
+   "revenue": 291465000,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "Cops or criminals. When you’re facing a loaded gun, what’s the difference?",
+   "title": "The Departed",
+   "trailer": {
+    "key": "r-MiSNsCdQ4",
+    "name": "4K Ultra HD Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.16,
+   "vote_count": 16935
+  },
   "movie:1442922": {
    "backdrop_path": "/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
    "budget": 0,
@@ -1881,6 +2202,183 @@
    "type": "movie",
    "vote_average": 7.5,
    "vote_count": 311
+  },
+  "movie:156022": {
+   "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Robert McCall",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Teddy",
+     "n": "Marton Csokas"
+    },
+    {
+     "c": "Teri",
+     "n": "Chloë Grace Moretz"
+    },
+    {
+     "c": "Masters",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Mandy",
+     "n": "Haley Bennett"
+    },
+    {
+     "c": "Brian Plummer",
+     "n": "Bill Pullman"
+    },
+    {
+     "c": "Susan Plummer",
+     "n": "Melissa Leo"
+    },
+    {
+     "c": "Slavi",
+     "n": "David Meunier"
+    },
+    {
+     "c": "Ralphie",
+     "n": "Johnny Skourtis"
+    },
+    {
+     "c": "Tevi",
+     "n": "Alex Veadov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Antoine Fuqua"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+   ],
+   "id": 156022,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+   "popularity": 15.1959,
+   "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-11-21",
+   "revenue": 192330738,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What do you see when you look at me?",
+   "title": "The Equalizer",
+   "trailer": {
+    "key": "BP_FwE0Z7no",
+    "name": "Official Online Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.297,
+   "vote_count": 10378
   },
   "movie:16222": {
    "backdrop_path": "/hworhPYqwu3z4T7HbuugQk8WVCK.jpg",
@@ -2339,6 +2837,122 @@
    "vote_average": 7.898,
    "vote_count": 482
   },
+  "movie:22": {
+   "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+   "budget": 140000000,
+   "cast": [
+    {
+     "c": "Jack Sparrow",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Barbossa",
+     "n": "Geoffrey Rush"
+    },
+    {
+     "c": "Will Turner",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Elizabeth Swann",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Norrington",
+     "n": "Jack Davenport"
+    },
+    {
+     "c": "Governor Weatherby Swann",
+     "n": "Jonathan Pryce"
+    },
+    {
+     "c": "Pintel",
+     "n": "Lee Arenberg"
+    },
+    {
+     "c": "Ragetti",
+     "n": "Mackenzie Crook"
+    },
+    {
+     "c": "Lt. Gillette",
+     "n": "Damian O'Hare"
+    },
+    {
+     "c": "Murtogg",
+     "n": "Giles New"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA ",
+   "date_kind": "release",
+   "director": [
+    "Gore Verbinski"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 22,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+   "popularity": 24.4345,
+   "poster_path": "/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-08-15",
+   "revenue": 655011224,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare to be blown out of the water.",
+   "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.838,
+   "vote_count": 23107
+  },
   "movie:24122": {
    "backdrop_path": "/xoWErrVQWvkgi9jCUwUlRb5ZKnb.jpg",
    "budget": 0,
@@ -2755,6 +3369,142 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 345
+  },
+  "movie:322": {
+   "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Jimmy Markum",
+     "n": "Sean Penn"
+    },
+    {
+     "c": "Dave Boyle",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Sean Devine",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Whitey Powers",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Celeste Boyle",
+     "n": "Marcia Gay Harden"
+    },
+    {
+     "c": "Annabeth Markum",
+     "n": "Laura Linney"
+    },
+    {
+     "c": "Val Savage",
+     "n": "Kevin Chapman"
+    },
+    {
+     "c": "Brendan Harris",
+     "n": "Tom Guiry"
+    },
+    {
+     "c": "Katie Markum",
+     "n": "Emmy Rossum"
+    },
+    {
+     "c": "Silent Ray Harris",
+     "n": "Spencer Treat Clark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 322,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+   "popularity": 7.5455,
+   "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-10-15",
+   "revenue": 156800000,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We bury our sins, we wash them clean.",
+   "title": "Mystic River",
+   "trailer": {
+    "key": "W7NktJhrRYQ",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.741,
+   "vote_count": 7847
   },
   "movie:334522": {
    "backdrop_path": "/qx9r2keMWhYZgnncVR9DiNvfFnI.jpg",
@@ -4088,6 +4838,294 @@
    "vote_average": 6.854,
    "vote_count": 894
   },
+  "movie:4922": {
+   "backdrop_path": "/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Benjamin Button",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Daisy Fuller",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Queenie",
+     "n": "Taraji P. Henson"
+    },
+    {
+     "c": "Caroline Fuller",
+     "n": "Julia Ormond"
+    },
+    {
+     "c": "Thomas Button",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Elizabeth Abbott",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Tizzy Weathers",
+     "n": "Mahershala Ali"
+    },
+    {
+     "c": "Captain Mike",
+     "n": "Jared Harris"
+    },
+    {
+     "c": "Monsieur Gateau",
+     "n": "Elias Koteas"
+    },
+    {
+     "c": "Grandma Fuller",
+     "n": "Phyllis Somerville"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 4922,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+   "popularity": 10.3077,
+   "poster_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-12-25",
+   "revenue": 335802786,
+   "runtime": 166,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Life isn't measured in minutes, but in moments.",
+   "title": "The Curious Case of Benjamin Button",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.607,
+   "vote_count": 14247
+  },
+  "movie:493922": {
+   "backdrop_path": "/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Annie Graham",
+     "n": "Toni Collette"
+    },
+    {
+     "c": "Peter Graham",
+     "n": "Alex Wolff"
+    },
+    {
+     "c": "Steve Graham",
+     "n": "Gabriel Byrne"
+    },
+    {
+     "c": "Charlie Graham",
+     "n": "Milly Shapiro"
+    },
+    {
+     "c": "Joan",
+     "n": "Ann Dowd"
+    },
+    {
+     "c": "Bridget",
+     "n": "Mallory Bechtel"
+    },
+    {
+     "c": "Aaron",
+     "n": "Brock McKinney"
+    },
+    {
+     "c": "Brendan",
+     "n": "Jake Brown"
+    },
+    {
+     "c": "Mr. Davis",
+     "n": "Morgan Lund"
+    },
+    {
+     "c": "Charlie's Teacher",
+     "n": "Christy Summerhays"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Ari Aster"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 493922,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the matriarch of the Graham family passes away, her daughter begins to unravel cryptic and increasingly terrifying secrets about her ancestry.",
+   "popularity": 13.2487,
+   "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-06-21",
+   "revenue": 87796204,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every family tree hides a secret.",
+   "title": "Hereditary",
+   "trailer": {
+    "key": "MJNR58zaStE",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.297,
+   "vote_count": 9108
+  },
   "movie:502422": {
    "backdrop_path": "/g9uDiHKpk2LvzG3RlmtYZ3ybYZS.jpg",
    "budget": 200000,
@@ -4322,6 +5360,179 @@
    "type": "movie",
    "vote_average": 8.2,
    "vote_count": 393
+  },
+  "movie:577922": {
+   "backdrop_path": "/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+   "budget": 205000000,
+   "cast": [
+    {
+     "c": "Protagonist",
+     "n": "John David Washington"
+    },
+    {
+     "c": "Neil",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Kat",
+     "n": "Elizabeth Debicki"
+    },
+    {
+     "c": "Sator",
+     "n": "Kenneth Branagh"
+    },
+    {
+     "c": "Priya",
+     "n": "Dimple Kapadia"
+    },
+    {
+     "c": "Crosby",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Fay",
+     "n": "Martin Donovan"
+    },
+    {
+     "c": "Wheeler",
+     "n": "Fiona Dourif"
+    },
+    {
+     "c": "Volkov",
+     "n": "Yuri Kolokolnikov"
+    },
+    {
+     "c": "Mahir",
+     "n": "Himesh Patel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 577922,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+   "popularity": 14.464,
+   "poster_path": "/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-12-04",
+   "revenue": 365304105,
+   "runtime": 150,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "et",
+    "ru",
+    "uk"
+   ],
+   "status": "Released",
+   "tagline": "Time runs out.",
+   "title": "Tenet",
+   "trailer": {
+    "key": "KJP5RunZUKk",
+    "name": "Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.171,
+   "vote_count": 11781
   },
   "movie:597922": {
    "backdrop_path": "/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",

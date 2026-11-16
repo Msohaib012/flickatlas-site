@@ -1,6 +1,6 @@
 {
  "bucket": "40",
- "count": 66,
+ "count": 75,
  "titles": {
   "movie:1040": {
    "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
@@ -659,6 +659,126 @@
    "vote_average": 6.956,
    "vote_count": 396
   },
+  "movie:118340": {
+   "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Peter Quill",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Gamora",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Drax",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Groot (voice)",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Rocket (voice)",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Ronan",
+     "n": "Lee Pace"
+    },
+    {
+     "c": "Yondu Udonta",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Nebula",
+     "n": "Karen Gillan"
+    },
+    {
+     "c": "Korath",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Corpsman Dey",
+     "n": "John C. Reilly"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Gunn"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 118340,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+   "popularity": 12.4829,
+   "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-08-08",
+   "revenue": 772776600,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You're Welcome.",
+   "title": "Guardians of the Galaxy",
+   "trailer": {
+    "key": "3CqymRQ1uUU",
+    "name": "trailer 2 UK",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.908,
+   "vote_count": 30660
+  },
   "movie:1224440": {
    "backdrop_path": "/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
    "budget": 2129970,
@@ -1221,6 +1341,128 @@
    "vote_average": 6.551,
    "vote_count": 592
   },
+  "movie:150540": {
+   "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Joy (voice)",
+     "n": "Amy Poehler"
+    },
+    {
+     "c": "Sadness (voice)",
+     "n": "Phyllis Smith"
+    },
+    {
+     "c": "Bing Bong (voice)",
+     "n": "Richard Kind"
+    },
+    {
+     "c": "Fear (voice)",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Anger (voice)",
+     "n": "Lewis Black"
+    },
+    {
+     "c": "Disgust (voice)",
+     "n": "Mindy Kaling"
+    },
+    {
+     "c": "Riley (voice)",
+     "n": "Kaitlyn Dias"
+    },
+    {
+     "c": "Mom (voice)",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Dad (voice)",
+     "n": "Kyle MacLachlan"
+    },
+    {
+     "c": "Forgetter Paula (voice)",
+     "n": "Paula Poundstone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Pete Docter"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 150540,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+   "popularity": 22.5744,
+   "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-06-26",
+   "revenue": 857611174,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Meet the little voices inside your head.",
+   "title": "Inside Out",
+   "trailer": {
+    "key": "1HFv47QHWJU",
+    "name": "Official US Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.906,
+   "vote_count": 24174
+  },
   "movie:15440": {
    "backdrop_path": "/kSKMR5Fn1ICS4nTwyQ9YZR5rTgG.jpg",
    "budget": 0,
@@ -1735,6 +1977,137 @@
    "vote_average": 6.608,
    "vote_count": 446
   },
+  "movie:18240": {
+   "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Margaret Tate",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Andrew Paxton",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Gertrude",
+     "n": "Malin Akerman"
+    },
+    {
+     "c": "Joe Paxton",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Grace Paxton",
+     "n": "Mary Steenburgen"
+    },
+    {
+     "c": "Grandma Annie",
+     "n": "Betty White"
+    },
+    {
+     "c": "Mr. Gilbertson",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Ramone",
+     "n": "Oscar Nuñez"
+    },
+    {
+     "c": "Bob Spaulding",
+     "n": "Aasif Mandvi"
+    },
+    {
+     "c": "Chairman Bergen",
+     "n": "Michael Nouri"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Anne Fletcher"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 18240,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+   "popularity": 14.396,
+   "poster_path": "/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-06-02",
+   "revenue": 317400000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Here comes the bribe...",
+   "title": "The Proposal",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.18,
+   "vote_count": 7904
+  },
   "movie:226140": {
    "backdrop_path": "/uPkbev4PHRJBwRLD2xFrg3dpFMk.jpg",
    "budget": 0,
@@ -1845,6 +2218,179 @@
    "type": "movie",
    "vote_average": 5.31,
    "vote_count": 358
+  },
+  "movie:240": {
+   "backdrop_path": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Don Michael Corleone",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Tom Hagen",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Kay Corleone",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Vito Corleone",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Frederico 'Fredo' Corleone",
+     "n": "John Cazale"
+    },
+    {
+     "c": "Constanzia 'Connie' Corleone",
+     "n": "Talia Shire"
+    },
+    {
+     "c": "Hyman Roth",
+     "n": "Lee Strasberg"
+    },
+    {
+     "c": "Frank Pentangeli",
+     "n": "Michael V. Gazzo"
+    },
+    {
+     "c": "Senator Pat Geary",
+     "n": "G.D. Spradlin"
+    },
+    {
+     "c": "Al Neri",
+     "n": "Richard Bright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Ford Coppola"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 240,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+   "popularity": 25.4715,
+   "poster_path": "/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1974-12-20",
+   "revenue": 102600000,
+   "runtime": 202,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "la",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The rise and fall of the Corleone empire.",
+   "title": "The Godfather Part II",
+   "trailer": {
+    "key": "9O1Iy9od7-A",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.573,
+   "vote_count": 14621
   },
   "movie:2440": {
    "backdrop_path": "/z7w6ACQJTeGYASr1plSwfRe6Ytk.jpg",
@@ -3082,6 +3628,307 @@
    "vote_average": 7.258,
    "vote_count": 855
   },
+  "movie:345940": {
+   "backdrop_path": "/ibKeXahq4JD63z6uWQphqoJLvNw.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Jonas Taylor",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Suyin",
+     "n": "Li Bingbing"
+    },
+    {
+     "c": "Morris",
+     "n": "Rainn Wilson"
+    },
+    {
+     "c": "James 'Mac' Mackreides",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Jaxx",
+     "n": "Ruby Rose"
+    },
+    {
+     "c": "Lori",
+     "n": "Jessica McNamee"
+    },
+    {
+     "c": "Toshi",
+     "n": "Masi Oka"
+    },
+    {
+     "c": "Zhang",
+     "n": "Winston Chao Wen-hsuan"
+    },
+    {
+     "c": "Meiying",
+     "n": "Shuya Sophia Cai"
+    },
+    {
+     "c": "DJ",
+     "n": "Page Kennedy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jon Turteltaub"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 345940,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.",
+   "popularity": 10.0926,
+   "poster_path": "/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-08-10",
+   "revenue": 530517320,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "ja",
+    "th"
+   ],
+   "status": "Released",
+   "tagline": "Pleased to eat you.",
+   "title": "The Meg",
+   "trailer": {
+    "key": "b_4uXy2Y1SQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.246,
+   "vote_count": 8496
+  },
+  "movie:359940": {
+   "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Mildred",
+     "n": "Frances McDormand"
+    },
+    {
+     "c": "Willoughby",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Dixon",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Anne",
+     "n": "Abbie Cornish"
+    },
+    {
+     "c": "Robbie",
+     "n": "Lucas Hedges"
+    },
+    {
+     "c": "Desk Sergeant",
+     "n": "Željko Ivanek"
+    },
+    {
+     "c": "Red Welby",
+     "n": "Caleb Landry Jones"
+    },
+    {
+     "c": "Abercrombie",
+     "n": "Clarke Peters"
+    },
+    {
+     "c": "Penelope",
+     "n": "Samara Weaving"
+    },
+    {
+     "c": "Charlie",
+     "n": "John Hawkes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Martin McDonagh"
+   ],
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "id": 359940,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+   "popularity": 8.8487,
+   "poster_path": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-02-23",
+   "revenue": 162729321,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+   "title": "Three Billboards Outside Ebbing, Missouri",
+   "trailer": {
+    "key": "nefD7UOhLCo",
+    "name": "Official Trailer B",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.049,
+   "vote_count": 11345
+  },
   "movie:36040": {
    "backdrop_path": "/uA5GfPzRU1vRVY7pDfqXQmjRTPI.jpg",
    "budget": 1000000,
@@ -3645,6 +4492,155 @@
    "vote_average": 5.6,
    "vote_count": 461
   },
+  "movie:51540": {
+   "backdrop_path": "/9fkYHcOtaz4cKmlDWw7tqUr5TUt.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Nick Hendricks",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Dale Arbus",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Kurt Buckman",
+     "n": "Jason Sudeikis"
+    },
+    {
+     "c": "Dave Harken",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Julia Harris",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "Bobby Pellitt",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Motherfucker Jones",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Jack Pellit",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Kenny Sommerfeld",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Rhonda Harken",
+     "n": "Julie Bowen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Seth Gordon"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 51540,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For Nick, Kurt and Dale, the only thing that would make the daily grind more tolerable would be to grind their intolerable bosses into dust. Quitting is not an option, so, with the benefit of a few-too-many drinks and some dubious advice from a hustling ex-con, the three friends devise a convoluted and seemingly foolproof plan to rid themselves of their respective employers... permanently.",
+   "popularity": 5.0889,
+   "poster_path": "/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-01",
+   "revenue": 209838559,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ever wish your boss was dead?",
+   "title": "Horrible Bosses",
+   "trailer": {
+    "key": "VpUeQV8sdOc",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.571,
+   "vote_count": 7064
+  },
   "movie:54540": {
    "backdrop_path": "/ekNXqMP50X7w7zAPWuikxdjWlwC.jpg",
    "budget": 12000000,
@@ -3814,6 +4810,168 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 432
+  },
+  "movie:640": {
+   "backdrop_path": "/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg",
+   "budget": 52000000,
+   "cast": [
+    {
+     "c": "Frank Abagnale Jr.",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Carl Hanratty",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Frank Abagnale",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Roger Strong",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Paula Abagnale",
+     "n": "Nathalie Baye"
+    },
+    {
+     "c": "Brenda Strong",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Jack Barnes",
+     "n": "James Brolin"
+    },
+    {
+     "c": "Earl Amdursky",
+     "n": "Brian Howe"
+    },
+    {
+     "c": "Tom Fox",
+     "n": "Frank John Hughes"
+    },
+    {
+     "c": "Paul Morgan",
+     "n": "Steve Eastin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 640,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+   "popularity": 15.3594,
+   "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-12-16",
+   "revenue": 352114312,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The true story of a real fake.",
+   "title": "Catch Me If You Can",
+   "trailer": {
+    "key": "71rDQ7z4eFg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.978,
+   "vote_count": 17884
   },
   "movie:6440": {
    "backdrop_path": "/9gzaEGkgadqCRHbBhZie4qtOthQ.jpg",
@@ -5018,6 +6176,150 @@
    "type": "movie",
    "vote_average": 4.8,
    "vote_count": 423
+  },
+  "movie:9340": {
+   "backdrop_path": "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Mikey",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Brand",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Chunk",
+     "n": "Jeff Cohen"
+    },
+    {
+     "c": "Mouth",
+     "n": "Corey Feldman"
+    },
+    {
+     "c": "Andy",
+     "n": "Kerri Green"
+    },
+    {
+     "c": "Stef",
+     "n": "Martha Plimpton"
+    },
+    {
+     "c": "Data",
+     "n": "Ke Huy Quan"
+    },
+    {
+     "c": "Sloth",
+     "n": "John Matuszak"
+    },
+    {
+     "c": "Jake",
+     "n": "Robert Davi"
+    },
+    {
+     "c": "Francis",
+     "n": "Joe Pantoliano"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Richard Donner"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 9340,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
+   "popularity": 8.6934,
+   "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1986-10-22",
+   "revenue": 69649283,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "es",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "They call themselves \"The Goonies.\" The secret caves. The old lighthouse. The lost map. The treacherous traps. The hidden adventure. And Sloth… Join the adventure.",
+   "title": "The Goonies",
+   "trailer": {
+    "key": "lYLAGAwcpSQ",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.51,
+   "vote_count": 6508
   },
   "movie:9440": {
    "backdrop_path": "/d1yoQm9UAZWjiUT9xw1bSFOPXm.jpg",

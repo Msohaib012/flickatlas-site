@@ -1,7 +1,71 @@
 {
  "bucket": "51",
- "count": 61,
+ "count": 64,
  "titles": {
+  "movie:102651": {
+   "d": "Maleficent (2014): Fantasy/Adventure film. Story: A beautiful, pure-hearted young woman, Maleficent has… See cast, budget $180M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xjotE7aFdZ0D8aGriYjFOtDayct.jpg",
+   "industry": "world",
+   "k": "Maleficent, Maleficent movie, Maleficent cast, Maleficent story, Maleficent box office collection, Maleficent budget, Maleficent review, Maleficent rating, Maleficent release date, Maleficent trailer, Maleficent Fantasy, Maleficent Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Angelina Jolie"
+     },
+     {
+      "@type": "Person",
+      "name": "Elle Fanning"
+     },
+     {
+      "@type": "Person",
+      "name": "Imelda Staunton"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharlto Copley"
+     },
+     {
+      "@type": "Person",
+      "name": "Lesley Manville"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14055,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Maleficent (2014): Fantasy/Adventure film. Story: A beautiful, pure-hearted young woman, Maleficent has… See cast, budget $180M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Stromberg"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xjotE7aFdZ0D8aGriYjFOtDayct.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=102651",
+    "name": "Maleficent",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-07-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=102651"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Maleficent (2014)</h1>\n<p class=\"ssr-lead\">A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. She rises to be the land&#x27;s fiercest protector, but she ultimately suffers a ruthless betrayal – an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King&#x27;s successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom – and to Maleficent&#x27;s true happiness as well.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 July 2014</li><li>Runtime: 97 minutes</li><li>Director: Robert Stromberg</li><li>Genres: Fantasy, Adventure, Action, Family, Romance</li><li>Budget: $180M</li><li>TMDB rating: 7.1/10 (14055 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Angelina Jolie as Maleficent</li><li>Elle Fanning as Aurora</li><li>Imelda Staunton as Knotgrass</li><li>Sharlto Copley as Stefan</li><li>Lesley Manville as Flittle</li><li>Juno Temple as Thistletwit</li><li>Sam Riley as Diaval</li><li>Brenton Thwaites as Prince Phillip</li><li>Kenneth Cranham as King Henry</li><li>Sarah Flind as Princess Leila&#x27;s Handmaiden</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Maleficent (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:10451": {
    "d": "Eat Drink Man Woman (1994): Comedy/Drama film. Story: Retired and widowed Chinese master chef Chu lives in… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
@@ -2100,6 +2164,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Calibre (2018)</h1>\n<p class=\"ssr-lead\">Two lifelong friends head up to an isolated Scottish Highlands village for a weekend hunting trip that descends into a never-ending nightmare as they attempt to cover up a horrific hunting accident.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 June 2018</li><li>Runtime: 101 minutes</li><li>Director: Matt Palmer</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.5/10 (847 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Lowden as Vaughn</li><li>Martin McCann as Marcus</li><li>Tony Curran as Logan McClay</li><li>Ian Pirie as Brian McClay</li><li>Kitty Lovett as Kara</li><li>Cal MacAninch as Al McClay</li><li>Cameron Jack as Frank McClay</li><li>Kate Bracken as Iona</li><li>George Anton as Angus</li><li>Thérèse Bradley as Mary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Calibre (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:49051": {
+   "d": "The Hobbit: An Unexpected Journey (2012): Adventure/Fantasy film. Story: Bilbo Baggins, a hobbit enjoying his quiet life, is… See cast and budget $250M.",
+   "img": "https://image.tmdb.org/t/p/w780/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+   "industry": "world",
+   "k": "The Hobbit: An Unexpected Journey, The Hobbit: An Unexpected Journey movie, The Hobbit: An Unexpected Journey cast, The Hobbit: An Unexpected Journey story, The Hobbit: An Unexpected Journey box office collection, The Hobbit: An Unexpected Journey budget, The Hobbit: An Unexpected Journey review, The Hobbit: An Unexpected Journey rating, The Hobbit: An Unexpected Journey release date, The Hobbit: An Unexpected Journey trailer, The Hobbit: An Unexpected Journey Adventure, The Hobbit: An Unexpected Journey Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Martin Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Armitage"
+     },
+     {
+      "@type": "Person",
+      "name": "James Nesbitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Ken Stott"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20342,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Hobbit: An Unexpected Journey (2012): Adventure/Fantasy film. Story: Bilbo Baggins, a hobbit enjoying his quiet life, is… See cast and budget $250M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Jackson"
+     }
+    ],
+    "duration": "PT169M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49051",
+    "name": "The Hobbit: An Unexpected Journey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-12-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49051"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hobbit: An Unexpected Journey (2012)</h1>\n<p class=\"ssr-lead\">Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 December 2012</li><li>Runtime: 169 minutes</li><li>Director: Peter Jackson</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $250M</li><li>TMDB rating: 7.4/10 (20342 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Martin Freeman as Bilbo Baggins</li><li>Ian McKellen as Gandalf the Grey</li><li>Richard Armitage as Thorin Oakenshield</li><li>James Nesbitt as Bofur</li><li>Ken Stott as Balin</li><li>Sylvester McCoy as Radagast the Brown</li><li>Barry Humphries as The Great Goblin</li><li>Dean O&#x27;Gorman as Fili</li><li>Aidan Turner as Kili</li><li>Graham McTavish as Dwalin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Hobbit: An Unexpected Journey (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:4951": {
+   "d": "10 Things I Hate About You (1999): Comedy/Romance film. Story: After discovering his high school crush can't date… See cast and budget $16M.",
+   "img": "https://image.tmdb.org/t/p/w780/4ssWRanWTKN9CQ0tfq5S1whP7tr.jpg",
+   "industry": "world",
+   "k": "10 Things I Hate About You, 10 Things I Hate About You movie, 10 Things I Hate About You cast, 10 Things I Hate About You story, 10 Things I Hate About You box office collection, 10 Things I Hate About You budget, 10 Things I Hate About You review, 10 Things I Hate About You rating, 10 Things I Hate About You release date, 10 Things I Hate About You Comedy, 10 Things I Hate About You Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Heath Ledger"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Stiles"
+     },
+     {
+      "@type": "Person",
+      "name": "Joseph Gordon-Levitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Larisa Oleynik"
+     },
+     {
+      "@type": "Person",
+      "name": "David Krumholtz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9313,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "10 Things I Hate About You (1999): Comedy/Romance film. Story: After discovering his high school crush can't date… See cast and budget $16M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gil Junger"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4ssWRanWTKN9CQ0tfq5S1whP7tr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4951",
+    "name": "10 Things I Hate About You",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-03-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4951"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>10 Things I Hate About You (1999)</h1>\n<p class=\"ssr-lead\">After discovering his high school crush can&#x27;t date until her brash older sister does, a lovesick teen enlists a bad-boy classmate to woo her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 March 1999</li><li>Runtime: 97 minutes</li><li>Director: Gil Junger</li><li>Genres: Comedy, Romance, Drama</li><li>Budget: $16M</li><li>TMDB rating: 7.6/10 (9313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Heath Ledger as Patrick Verona</li><li>Julia Stiles as Katarina Stratford</li><li>Joseph Gordon-Levitt as Cameron James</li><li>Larisa Oleynik as Bianca Stratford</li><li>David Krumholtz as Michael Eckman</li><li>Andrew Keegan as Joey Donner</li><li>Susan May Pratt as Mandella</li><li>Gabrielle Union as Chastity</li><li>Larry Miller as Walter Stratford</li><li>Daryl Mitchell as Mr. Morgan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "10 Things I Hate About You (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
   },
   "movie:539651": {
    "d": "Don't Let Go (2019): Horror/Mystery film. Story: A detective suffering from a personal loss receives a… See cast, budget $5M, and TMDB rating 6.9/10.",

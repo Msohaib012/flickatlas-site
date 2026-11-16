@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 64,
+ "count": 75,
  "titles": {
   "movie:10052": {
    "backdrop_path": "/kM9D0sVUiaOclaw1dLNm6a2jEG7.jpg",
@@ -1342,6 +1342,168 @@
    "vote_average": 6.44,
    "vote_count": 855
   },
+  "movie:141052": {
+   "backdrop_path": "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+   "budget": 300000000,
+   "cast": [
+    {
+     "c": "Batman / Bruce Wayne",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Superman / Clark Kent",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Lois Lane",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Wonder Woman / Diana Prince",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "The Flash / Barry Allen",
+     "n": "Ezra Miller"
+    },
+    {
+     "c": "Aquaman / Arthur Curry",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Cyborg / Victor Stone",
+     "n": "Ray Fisher"
+    },
+    {
+     "c": "Alfred",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Martha Kent",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Queen Hippolyta",
+     "n": "Connie Nielsen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Zack Snyder"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 141052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+   "popularity": 12.9307,
+   "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-11-17",
+   "revenue": 661326987,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can't save the world alone.",
+   "title": "Justice League",
+   "trailer": {
+    "key": "PXrgvNXfN7M",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.062,
+   "vote_count": 14110
+  },
   "movie:1421552": {
    "backdrop_path": "/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
    "budget": 2500,
@@ -1602,6 +1764,127 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 360
+  },
+  "movie:158852": {
+   "backdrop_path": "/udYOmbW1JEZjVd726PWHlmptxPi.jpg",
+   "budget": 190000000,
+   "cast": [
+    {
+     "c": "Casey Newton",
+     "n": "Britt Robertson"
+    },
+    {
+     "c": "Frank Walker",
+     "n": "George Clooney"
+    },
+    {
+     "c": "Athena",
+     "n": "Raffey Cassidy"
+    },
+    {
+     "c": "David Nix",
+     "n": "Hugh Laurie"
+    },
+    {
+     "c": "Eddie Newton",
+     "n": "Tim McGraw"
+    },
+    {
+     "c": "Frank's Dad",
+     "n": "Chris Bauer"
+    },
+    {
+     "c": "Young Casey Newton",
+     "n": "Shiloh Nelson"
+    },
+    {
+     "c": "Ursula",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Hugo",
+     "n": "Keegan-Michael Key"
+    },
+    {
+     "c": "Young Frank Walker",
+     "n": "Thomas Robinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brad Bird"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "id": 158852,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\"",
+   "popularity": 7.8381,
+   "poster_path": "/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-05-19",
+   "revenue": 209200000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Imagine a place where nothing is impossible.",
+   "title": "Tomorrowland",
+   "trailer": {
+    "key": "4kAHjjNL7ms",
+    "name": "Tomorrowland IMAX® Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.312,
+   "vote_count": 7584
   },
   "movie:1595852": {
    "backdrop_path": "/98uiDns59GUw26SQSCFmuSHTki3.jpg",
@@ -2035,6 +2318,165 @@
    "vote_average": 6.772,
    "vote_count": 878
   },
+  "movie:20352": {
+   "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+   "budget": 69000000,
+   "cast": [
+    {
+     "c": "Gru (voice)",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Vector (voice)",
+     "n": "Jason Segel"
+    },
+    {
+     "c": "Dr Nefario (voice)",
+     "n": "Russell Brand"
+    },
+    {
+     "c": "Margo (voice)",
+     "n": "Miranda Cosgrove"
+    },
+    {
+     "c": "Edith (voice)",
+     "n": "Dana Gaier Ellis"
+    },
+    {
+     "c": "Agnes (voice)",
+     "n": "Elsie Fisher"
+    },
+    {
+     "c": "Tim the Minion / Bob the Minion / Mark the Minion / Phil the Minion / Stuart the Minion (voice)",
+     "n": "Pierre Coffin"
+    },
+    {
+     "c": "Gru's Mom (voice)",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "Mr. Perkins (voice)",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Miss Hattie (voice)",
+     "n": "Kristen Wiig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Pierre Coffin",
+    "Chris Renaud"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Science Fiction",
+    "Family"
+   ],
+   "id": 20352,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.",
+   "popularity": 19.6547,
+   "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-08-06",
+   "revenue": 543284256,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Superbad. Superdad.",
+   "title": "Despicable Me",
+   "trailer": {
+    "key": "zzCZ1W_CUoI",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.264,
+   "vote_count": 16575
+  },
   "movie:24452": {
    "backdrop_path": "/sGz7JApiDtClRFxffIw3WgRK8y2.jpg",
    "budget": 31000,
@@ -2411,6 +2853,117 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 315
+  },
+  "movie:284052": {
+   "backdrop_path": "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "Dr. Stephen Strange",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Mordo",
+     "n": "Chiwetel Ejiofor"
+    },
+    {
+     "c": "Dr. Christine Palmer",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Wong",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Kaecilius",
+     "n": "Mads Mikkelsen"
+    },
+    {
+     "c": "The Ancient One",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Dr. Nicodemus West",
+     "n": "Michael Stuhlbarg"
+    },
+    {
+     "c": "Jonathan Pangborn",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Lucian / Strong Zealot",
+     "n": "Scott Adkins"
+    },
+    {
+     "c": "Brunette Zealot",
+     "n": "Zara Phythian"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Scott Derrickson"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Action"
+   ],
+   "id": 284052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+   "popularity": 16.4355,
+   "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-11-04",
+   "revenue": 676343174,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The impossibilities are endless.",
+   "title": "Doctor Strange",
+   "trailer": {
+    "key": "HSzx-zryEgM",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.425,
+   "vote_count": 24214
   },
   "movie:293452": {
    "backdrop_path": "/4Xu5gaD3bZwN8w7qQklPo7bfjiI.jpg",
@@ -3041,6 +3594,446 @@
    "type": "movie",
    "vote_average": 7.174,
    "vote_count": 384
+  },
+  "movie:324552": {
+   "backdrop_path": "/Aa9Lx6gotP0szl9tlt5SPCN08oF.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "John Wick",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Cassian",
+     "n": "Common"
+    },
+    {
+     "c": "Bowery King",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Santino D'Antonio",
+     "n": "Riccardo Scamarcio"
+    },
+    {
+     "c": "Ares",
+     "n": "Ruby Rose"
+    },
+    {
+     "c": "Charon",
+     "n": "Lance Reddick"
+    },
+    {
+     "c": "Abram Tarasov",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Helen Wick",
+     "n": "Bridget Moynahan"
+    },
+    {
+     "c": "Julius",
+     "n": "Franco Nero"
+    },
+    {
+     "c": "Aurelio",
+     "n": "John Leguizamo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Chad Stahelski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 324552,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+   "popularity": 14.9087,
+   "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-02-24",
+   "revenue": 171539887,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he",
+    "it",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Never stab the devil in the back!",
+   "title": "John Wick: Chapter 2",
+   "trailer": {
+    "key": "LZrX9mffH8Y",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.347,
+   "vote_count": 14845
+  },
+  "movie:324852": {
+   "backdrop_path": "/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Gru / Dru (voice)",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Lucy (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Balthazar Bratt (voice)",
+     "n": "Trey Parker"
+    },
+    {
+     "c": "Margo (voice)",
+     "n": "Miranda Cosgrove"
+    },
+    {
+     "c": "Edith (voice)",
+     "n": "Dana Gaier Ellis"
+    },
+    {
+     "c": "Agnes (voice)",
+     "n": "Nhev Scharrel"
+    },
+    {
+     "c": "Minions / Museum Director / Additional Voice (voice)",
+     "n": "Pierre Coffin"
+    },
+    {
+     "c": "Fritz / Silas Ramsbottom (voice)",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Gru’s Mom (voice)",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "Valerie Da Vinci (voice)",
+     "n": "Jenny Slate"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kyle Balda",
+    "Pierre Coffin"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 324852,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
+   "popularity": 7.4957,
+   "poster_path": "/e72KCMHNkbZ6USRJmABeqwmaJ5n.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-06-15",
+   "revenue": 1034800131,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Oh brother.",
+   "title": "Despicable Me 3",
+   "trailer": {
+    "key": "oagwBHoh6Rs",
+    "name": "Official Trailer #3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.466,
+   "vote_count": 7878
+  },
+  "movie:338952": {
+   "backdrop_path": "/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Newt Scamander",
+     "n": "Eddie Redmayne"
+    },
+    {
+     "c": "Tina Goldstein",
+     "n": "Katherine Waterston"
+    },
+    {
+     "c": "Jacob Kowalski",
+     "n": "Dan Fogler"
+    },
+    {
+     "c": "Queenie Goldstein",
+     "n": "Alison Sudol"
+    },
+    {
+     "c": "Grindelwald",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Albus Dumbledore",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Credence Barebone",
+     "n": "Ezra Miller"
+    },
+    {
+     "c": "Leta Lestrange",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Theseus Scamander",
+     "n": "Callum Turner"
+    },
+    {
+     "c": "Nagini",
+     "n": "Claudia Kim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "David Yates"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 338952,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+   "popularity": 7.2734,
+   "poster_path": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-11-16",
+   "revenue": 654900000,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Fate of one. Future of all.",
+   "title": "Fantastic Beasts: The Crimes of Grindelwald",
+   "trailer": {
+    "key": "8bYBOVWLNIs",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.825,
+   "vote_count": 11804
   },
   "movie:35052": {
    "backdrop_path": "/xJO5o209Ok1p0uJafkk1WHtrUJH.jpg",
@@ -3767,6 +4760,192 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 356
+  },
+  "movie:464052": {
+   "backdrop_path": "/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Diana Prince",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Steve Trevor",
+     "n": "Chris Pine"
+    },
+    {
+     "c": "Barbara Minerva",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Maxwell Lord",
+     "n": "Pedro Pascal"
+    },
+    {
+     "c": "Antiope",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Hippolyta",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Young Diana",
+     "n": "Lilly Aspell"
+    },
+    {
+     "c": "Emir Said Bin Abydos",
+     "n": "Amr Waked"
+    },
+    {
+     "c": "Handsome Man",
+     "n": "Kristoffer Polaha"
+    },
+    {
+     "c": "Co-Worker Carol",
+     "n": "Natasha Rothwell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Patty Jenkins"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 464052,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+   "popularity": 9.7557,
+   "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-12-24",
+   "revenue": 169601036,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new era of wonder begins.",
+   "title": "Wonder Woman 1984",
+   "trailer": {
+    "key": "EMgbWouN4wE",
+    "name": "Retro Remix Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.335,
+   "vote_count": 9370
   },
   "movie:467952": {
    "backdrop_path": "/pHFNaNHqiaZ2myMAsylIm2y17c7.jpg",
@@ -4624,6 +5803,168 @@
    "vote_average": 5.701,
    "vote_count": 483
   },
+  "movie:652": {
+   "backdrop_path": "/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Achilles",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Paris",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Hector",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Agamemnon",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Odysseus",
+     "n": "Sean Bean"
+    },
+    {
+     "c": "Menelaus",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Helen",
+     "n": "Diane Kruger"
+    },
+    {
+     "c": "Priam",
+     "n": "Peter O'Toole"
+    },
+    {
+     "c": "Briseis",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Andromache",
+     "n": "Saffron Burrows"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wolfgang Petersen"
+   ],
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "id": 652,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+   "popularity": 20.2526,
+   "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-06-25",
+   "revenue": 497409852,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For passion. For honor. For destiny. For victory. For love.",
+   "title": "Troy",
+   "trailer": {
+    "key": "P8xLgg-MNKw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.194,
+   "vote_count": 11723
+  },
   "movie:6552": {
    "backdrop_path": "/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
    "budget": 25000000,
@@ -4887,6 +6228,149 @@
    "type": "movie",
    "vote_average": 6.271,
    "vote_count": 988
+  },
+  "movie:752": {
+   "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+   "budget": 54000000,
+   "cast": [
+    {
+     "c": "Evey",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "V / William Rookwood",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Finch",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Deitrich",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Adam Sutler",
+     "n": "John Hurt"
+    },
+    {
+     "c": "Creedy",
+     "n": "Tim Pigott-Smith"
+    },
+    {
+     "c": "Dominic",
+     "n": "Rupert Graves"
+    },
+    {
+     "c": "Lewis Prothero",
+     "n": "Roger Allam"
+    },
+    {
+     "c": "Dascomb",
+     "n": "Ben Miles"
+    },
+    {
+     "c": "Delia Surridge",
+     "n": "Sinéad Cusack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James McTeigue"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 752,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+   "popularity": 12.5386,
+   "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-03-15",
+   "revenue": 134686457,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "People should not be afraid of their governments. Governments should be afraid of their people.",
+   "title": "V for Vendetta",
+   "trailer": {
+    "key": "krWn5ta9RG4",
+    "name": "20th Anniversary",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.898,
+   "vote_count": 16186
   },
   "movie:763152": {
    "backdrop_path": "/4v64DRdMtx8fQGUZ7hE1R2iChCr.jpg",
@@ -5606,6 +7090,150 @@
    "type": "movie",
    "vote_average": 6.194,
    "vote_count": 395
+  },
+  "movie:9552": {
+   "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Chris MacNeil",
+     "n": "Ellen Burstyn"
+    },
+    {
+     "c": "Regan MacNeil",
+     "n": "Linda Blair"
+    },
+    {
+     "c": "Father Damien Karras",
+     "n": "Jason Miller"
+    },
+    {
+     "c": "Father Lankester Merrin",
+     "n": "Max von Sydow"
+    },
+    {
+     "c": "Lt. Bill Kinderman",
+     "n": "Lee J. Cobb"
+    },
+    {
+     "c": "Father Joseph Kevin Dyer",
+     "n": "William O'Malley"
+    },
+    {
+     "c": "Sharon Spencer",
+     "n": "Kitty Winn"
+    },
+    {
+     "c": "Dr. Klein",
+     "n": "Barton Heyman"
+    },
+    {
+     "c": "Dr. Barringer",
+     "n": "Peter Masterson"
+    },
+    {
+     "c": "Burke Dennings",
+     "n": "Jack MacGowran"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "William Friedkin"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 9552,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+   "popularity": 16.6224,
+   "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1977-08-27",
+   "revenue": 430872776,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "fr",
+    "la",
+    "ar",
+    "el",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house…And a man has been sent for as a last resort. This man is The Exorcist.",
+   "title": "The Exorcist",
+   "trailer": {
+    "key": "BU2eYAO31Cc",
+    "name": "4K Ultra HD Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.752,
+   "vote_count": 9043
   },
   "tv:129552": {
    "backdrop_path": "/gklrevVndG98GHGDwfm8y8kxESo.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "68",
- "count": 57,
+ "count": 64,
  "titles": {
   "movie:10168": {
    "backdrop_path": "/xbYDtVWOOL84KaZjM5JnQ5QYAuX.jpg",
@@ -1223,6 +1223,172 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 352
+  },
+  "movie:1368": {
+   "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "John Rambo",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Col. Samuel Trautman",
+     "n": "Richard Crenna"
+    },
+    {
+     "c": "Hope Sheriff Will Teasle",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "State Police Capt. Dave Kern",
+     "n": "Bill McKinney"
+    },
+    {
+     "c": "Deputy Sgt. Arthur Galt",
+     "n": "Jack Starrett"
+    },
+    {
+     "c": "Deputy Balford",
+     "n": "Michael Talbott"
+    },
+    {
+     "c": "Deputy Ward",
+     "n": "Chris Mulkey"
+    },
+    {
+     "c": "Orval the Dog Man",
+     "n": "John McLiam"
+    },
+    {
+     "c": "Deputy Lester",
+     "n": "Alf Humphreys"
+    },
+    {
+     "c": "Deputy Mitch",
+     "n": "David Caruso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ted Kotcheff"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 1368,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+   "popularity": 13.4228,
+   "poster_path": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+   "production_countries": [
+    "US",
+    "AN"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1982-12-18",
+   "revenue": 125212904,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This time he's fighting for his life.",
+   "title": "First Blood",
+   "trailer": {
+    "key": "Rl_4vPKDijQ",
+    "name": "Official Lionsgate 40th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.52,
+   "vote_count": 7238
   },
   "movie:1396368": {
    "backdrop_path": "/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
@@ -2714,6 +2880,269 @@
    "vote_average": 7.614,
    "vote_count": 417
   },
+  "movie:2668": {
+   "backdrop_path": "/m8t7K3LcAY7bpyQ7iQ5kGsrcjnh.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Ichabod Crane",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Katrina Van Tassel",
+     "n": "Christina Ricci"
+    },
+    {
+     "c": "Lady Mary Van Tassel / Crone Witch",
+     "n": "Miranda Richardson"
+    },
+    {
+     "c": "Baltus Van Tassel",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Brom Van Brunt",
+     "n": "Casper Van Dien"
+    },
+    {
+     "c": "Reverend Steenwyck",
+     "n": "Jeffrey Jones"
+    },
+    {
+     "c": "Bürgermeister Phillipse",
+     "n": "Richard Griffiths"
+    },
+    {
+     "c": "Dr. Lancaster",
+     "n": "Ian McDiarmid"
+    },
+    {
+     "c": "Notary Hardenbrook",
+     "n": "Michael Gough"
+    },
+    {
+     "c": "Hessian Horseman",
+     "n": "Christopher Walken"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Fantasy",
+    "Thriller",
+    "Mystery",
+    "Horror"
+   ],
+   "id": 2668,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+   "popularity": 8.1595,
+   "poster_path": "/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Discovery+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-07-14",
+   "revenue": 206071526,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Heads will roll.",
+   "title": "Sleepy Hollow",
+   "trailer": {
+    "key": "XB-y10r77V8",
+    "name": "25th Anniversary Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.202,
+   "vote_count": 7721
+  },
+  "movie:268": {
+   "backdrop_path": "/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Batman / Bruce Wayne",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Joker / Jack Napier",
+     "n": "Jack Nicholson"
+    },
+    {
+     "c": "Vicki Vale",
+     "n": "Kim Basinger"
+    },
+    {
+     "c": "Alexander Knox",
+     "n": "Robert Wuhl"
+    },
+    {
+     "c": "Commissioner Gordon",
+     "n": "Pat Hingle"
+    },
+    {
+     "c": "Harvey Dent",
+     "n": "Billy Dee Williams"
+    },
+    {
+     "c": "Alfred",
+     "n": "Michael Gough"
+    },
+    {
+     "c": "Grissom",
+     "n": "Jack Palance"
+    },
+    {
+     "c": "Alicia",
+     "n": "Jerry Hall"
+    },
+    {
+     "c": "Bob the Goon",
+     "n": "Tracey Walter"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Crime"
+   ],
+   "id": 268,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+   "popularity": 11.4049,
+   "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1990-03-13",
+   "revenue": 411348924,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Justice is always darkest before the dawn.",
+   "title": "Batman",
+   "trailer": {
+    "key": "ygK7sAavO0c",
+    "name": "Modern Trailer Recut",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.234,
+   "vote_count": 8957
+  },
   "movie:277368": {
    "backdrop_path": "/2e703w8SGp65F9BVRlSK8w5kPeD.jpg",
    "budget": 0,
@@ -2992,6 +3421,153 @@
    "vote_average": 6.022,
    "vote_count": 461
   },
+  "movie:300668": {
+   "backdrop_path": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Lena",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Dr Ventress",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Anya Thorensen",
+     "n": "Gina Rodriguez"
+    },
+    {
+     "c": "Josie Radek",
+     "n": "Tessa Thompson"
+    },
+    {
+     "c": "Cass Sheppard",
+     "n": "Tuva Novotny"
+    },
+    {
+     "c": "Kane",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Lomax",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Humanoid / Katie (Med Student)",
+     "n": "Sonoya Mizuno"
+    },
+    {
+     "c": "Daniel",
+     "n": "David Gyasi"
+    },
+    {
+     "c": "Paramedic",
+     "n": "John Schwab"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Garland"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 300668,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+   "popularity": 8.6533,
+   "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-02-23",
+   "revenue": 43070915,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fear what's inside.",
+   "title": "Annihilation",
+   "trailer": {
+    "key": "89OP78l9oF0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.5,
+   "vote_count": 9782
+  },
   "movie:30368": {
    "backdrop_path": "/pKeatSUHRrlcTmkAOQ9tvESbCCe.jpg",
    "budget": 0,
@@ -3171,6 +3747,137 @@
    "type": "movie",
    "vote_average": 7.575,
    "vote_count": 386
+  },
+  "movie:343668": {
+   "backdrop_path": "/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
+   "budget": 104000000,
+   "cast": [
+    {
+     "c": "Eggsy",
+     "n": "Taron Egerton"
+    },
+    {
+     "c": "Harry Hart",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Poppy",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Merlin",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Princess Tilde",
+     "n": "Hanna Alström"
+    },
+    {
+     "c": "Ginger",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Whiskey",
+     "n": "Pedro Pascal"
+    },
+    {
+     "c": "Tequila",
+     "n": "Channing Tatum"
+    },
+    {
+     "c": "Charlie",
+     "n": "Edward Holcroft"
+    },
+    {
+     "c": "Champ",
+     "n": "Jeff Bridges"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Matthew Vaughn"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Action"
+   ],
+   "id": 343668,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
+   "popularity": 9.5426,
+   "poster_path": "/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+   "production_countries": [
+    "GB",
+    "US",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-09-22",
+   "revenue": 410902662,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv",
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "A proper spy movie.",
+   "title": "Kingsman: The Golden Circle",
+   "trailer": {
+    "key": "0fvqnGmr9S8",
+    "name": "Kingsman: The Golden Circle | Official Trailer 2 [HD] | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.937,
+   "vote_count": 11541
   },
   "movie:344268": {
    "backdrop_path": "/8evrj3SBDnrWxXExle9z6wvsMT6.jpg",
@@ -3490,6 +4197,131 @@
    "vote_average": 5.749,
    "vote_count": 323
   },
+  "movie:36668": {
+   "backdrop_path": "/nLMXULCGLnzRxz11txPzPqbOHSz.jpg",
+   "budget": 210000000,
+   "cast": [
+    {
+     "c": "Logan / Wolverine",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Ororo Munroe / Storm",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Erik Lehnsherr / Magneto",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Professor Charles Xavier",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Jean Grey / Phoenix",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Marie / Rogue",
+     "n": "Anna Paquin"
+    },
+    {
+     "c": "Dr. Henry 'Hank' McCoy / Beast",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "Scott Summers / Cyclops",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Raven Darkholme / Mystique",
+     "n": "Rebecca Romijn"
+    },
+    {
+     "c": "Bobby Drake / Iceman",
+     "n": "Shawn Ashmore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brett Ratner"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 36668,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men led by Professor Charles Xavier, and Magneto's Brotherhood of Mutants.",
+   "popularity": 0.6486,
+   "poster_path": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-05-24",
+   "revenue": 459359555,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Take a stand.",
+   "title": "X-Men: The Last Stand",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.427,
+   "vote_count": 10818
+  },
   "movie:37768": {
    "backdrop_path": "/mdyeJRmLW3IPCo0e1oEmR8WBklm.jpg",
    "budget": 0,
@@ -3754,6 +4586,120 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 446
+  },
+  "movie:404368": {
+   "backdrop_path": "/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Ralph (voice)",
+     "n": "John C. Reilly"
+    },
+    {
+     "c": "Vanellope (voice)",
+     "n": "Sarah Silverman"
+    },
+    {
+     "c": "Shank (voice)",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Yesss (voice)",
+     "n": "Taraji P. Henson"
+    },
+    {
+     "c": "Felix (voice)",
+     "n": "Jack McBrayer"
+    },
+    {
+     "c": "Butcher Boy (voice)",
+     "n": "Timothy Simons"
+    },
+    {
+     "c": "eBay Bidder / Surge Protector (voice)",
+     "n": "Phil Johnston"
+    },
+    {
+     "c": "Rapunzel (voice)",
+     "n": "Mandy Moore"
+    },
+    {
+     "c": "Tiana (voice)",
+     "n": "Anika Noni Rose"
+    },
+    {
+     "c": "Pocahontas (voice)",
+     "n": "Irene Bedard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Phil Johnston",
+    "Rich Moore"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Science Fiction",
+    "Family"
+   ],
+   "id": 404368,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet — the netizens — to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
+   "popularity": 8.6975,
+   "poster_path": "/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-11-23",
+   "revenue": 529323962,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who broke the internet?",
+   "title": "Ralph Breaks the Internet",
+   "trailer": {
+    "key": "T73h5bmD8Dc",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.143,
+   "vote_count": 8382
   },
   "movie:41668": {
    "backdrop_path": "/k4WfbmcyIJEW7U5ELt0wgVNr6g.jpg",

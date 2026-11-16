@@ -1,6 +1,6 @@
 {
  "bucket": "25",
- "count": 59,
+ "count": 63,
  "titles": {
   "movie:10425": {
    "backdrop_path": "/o1QOSrwY9cjkEi1f9RL3tYxUFta.jpg",
@@ -167,6 +167,170 @@
    "type": "movie",
    "vote_average": 6.166,
    "vote_count": 419
+  },
+  "movie:10625": {
+   "backdrop_path": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Cady Heron",
+     "n": "Lindsay Lohan"
+    },
+    {
+     "c": "Regina George",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Janis Ian",
+     "n": "Lizzy Caplan"
+    },
+    {
+     "c": "Gretchen Wieners",
+     "n": "Lacey Chabert"
+    },
+    {
+     "c": "Karen Smith",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Damian",
+     "n": "Daniel Franzese"
+    },
+    {
+     "c": "Aaron Samuels",
+     "n": "Jonathan Bennett"
+    },
+    {
+     "c": "Kevin Gnapoor",
+     "n": "Rajiv Surendra"
+    },
+    {
+     "c": "Ms. Norbury",
+     "n": "Tina Fey"
+    },
+    {
+     "c": "Mr. Duvall",
+     "n": "Tim Meadows"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Mark Waters"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 10625,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+   "popularity": 12.743,
+   "poster_path": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-04-30",
+   "revenue": 130195052,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sw",
+    "en",
+    "de",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "Watch your back.",
+   "title": "Mean Girls",
+   "trailer": {
+    "key": "EMzEmGfTuM4",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.229,
+   "vote_count": 9796
   },
   "movie:11025": {
    "backdrop_path": "/13UkK69iyMsB45H2p1WPXJPS87w.jpg",
@@ -3961,6 +4125,141 @@
    "vote_average": 5.2,
    "vote_count": 350
   },
+  "movie:425": {
+   "backdrop_path": "/tyVAGH1vw9JDgxPyTUQPn91nIYc.jpg",
+   "budget": 59000000,
+   "cast": [
+    {
+     "c": "Manfred 'Manny' (voice)",
+     "n": "Ray Romano"
+    },
+    {
+     "c": "Sid (voice)",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Diego (voice)",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Soto (voice)",
+     "n": "Goran Višnjić"
+    },
+    {
+     "c": "Zeke (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Rhino (voice)",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Rhino / Start (voice)",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Saber-Toothed Tiger (voice)",
+     "n": "Diedrich Bader"
+    },
+    {
+     "c": "Saber-Toothed Tiger / Freaky Mammal (voice)",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Female Sloth (voice)",
+     "n": "Lorri Bagley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Chris Wedge"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 425,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+   "popularity": 18.9759,
+   "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-05-10",
+   "revenue": 383257136,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sub-zero heroes.",
+   "title": "Ice Age",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.388,
+   "vote_count": 14828
+  },
   "movie:437425": {
    "backdrop_path": "/luSylfUQyA3N56EXAguoGJVSHOP.jpg",
    "budget": 0,
@@ -4464,6 +4763,115 @@
    "type": "movie",
    "vote_average": 6.722,
    "vote_count": 480
+  },
+  "movie:566525": {
+   "backdrop_path": "/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Shaun / Shang-Chi",
+     "n": "Simu Liu"
+    },
+    {
+     "c": "Xu Wenwu",
+     "n": "Tony Leung Chiu-wai"
+    },
+    {
+     "c": "Katy",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Trevor Slattery",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Xialing",
+     "n": "Zhang Meng'er"
+    },
+    {
+     "c": "Li",
+     "n": "Fala Chen"
+    },
+    {
+     "c": "Ying Nan",
+     "n": "Michelle Yeoh"
+    },
+    {
+     "c": "Master Guang Bo",
+     "n": "Yuen Wah"
+    },
+    {
+     "c": "Razor Fist",
+     "n": "Florian Munteanu"
+    },
+    {
+     "c": "Death Dealer",
+     "n": "Andy Le"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Destin Daniel Cretton"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 566525,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+   "popularity": 20.5689,
+   "poster_path": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-09-03",
+   "revenue": 432243292,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "You can't outrun your destiny.",
+   "title": "Shang-Chi and the Legend of the Ten Rings",
+   "trailer": {
+    "key": "8YjFbMbfXaQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.478,
+   "vote_count": 10955
   },
   "movie:56825": {
    "backdrop_path": "/lgvDsg2dA1G1oshflzD3QVcBg9C.jpg",
@@ -6178,6 +6586,110 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 317
+  },
+  "movie:9325": {
+   "backdrop_path": "/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Mowgli the Man Cub (voice)",
+     "n": "Bruce Reitherman"
+    },
+    {
+     "c": "Baloo the Bear (voice)",
+     "n": "Phil Harris"
+    },
+    {
+     "c": "Bagheera the Panther (voice)",
+     "n": "Sebastian Cabot"
+    },
+    {
+     "c": "Shere Khan the Tiger (voice)",
+     "n": "George Sanders"
+    },
+    {
+     "c": "Kaa the Snake (voice)",
+     "n": "Sterling Holloway"
+    },
+    {
+     "c": "King Louie of the Apes (voice)",
+     "n": "Louis Prima"
+    },
+    {
+     "c": "Col. Hathi the Elephant / Buzzie (voice)",
+     "n": "J. Pat O'Malley"
+    },
+    {
+     "c": "Junior (voice)",
+     "n": "Clint Howard"
+    },
+    {
+     "c": "Dizzy (voice)",
+     "n": "Chad Stuart"
+    },
+    {
+     "c": "Flaps (voice)",
+     "n": "Lord Tim Hudson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Wolfgang Reitherman"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 9325,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+   "popularity": 9.0779,
+   "poster_path": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1967-10-18",
+   "revenue": 378000000,
+   "runtime": 78,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Jungle is JUMPIN'!",
+   "title": "The Jungle Book",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.285,
+   "vote_count": 6845
   },
   "movie:9625": {
    "backdrop_path": "/oFs99SgcuVOwGhtew77rBKniNmi.jpg",

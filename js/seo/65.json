@@ -1,6 +1,6 @@
 {
  "bucket": "65",
- "count": 53,
+ "count": 64,
  "titles": {
   "movie:1001865": {
    "d": "Scrooge: A Christmas Carol (2022): Animation/Family film. Story: On a cold Christmas Eve, selfish miser Ebenezer… See cast and TMDB rating 6.8/10.",
@@ -896,6 +896,70 @@
    "t": "Untold: Jail Blazers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:165": {
+   "d": "Back to the Future Part II (1989): Adventure/Comedy film. Story: Marty and Doc are at it again as the time-traveling… See cast and budget $40M.",
+   "img": "https://image.tmdb.org/t/p/w780/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+   "industry": "world",
+   "k": "Back to the Future Part II, Back to the Future Part II movie, Back to the Future Part II cast, Back to the Future Part II story, Back to the Future Part II box office collection, Back to the Future Part II budget, Back to the Future Part II review, Back to the Future Part II rating, Back to the Future Part II release date, Back to the Future Part II Adventure, Back to the Future Part II Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael J. Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Lloyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Lea Thompson"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas F. Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Elisabeth Shue"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14523,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Back to the Future Part II (1989): Adventure/Comedy film. Story: Marty and Doc are at it again as the time-traveling… See cast and budget $40M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Zemeckis"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=165",
+    "name": "Back to the Future Part II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1989-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=165"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Back to the Future Part II (1989)</h1>\n<p class=\"ssr-lead\">Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 1989</li><li>Runtime: 108 minutes</li><li>Director: Robert Zemeckis</li><li>Genres: Adventure, Comedy, Science Fiction</li><li>Budget: $40M</li><li>TMDB rating: 7.8/10 (14523 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael J. Fox as Marty McFly / Marty McFly Junior / Marlene McFly</li><li>Christopher Lloyd as Doctor Emmett Brown</li><li>Lea Thompson as Lorraine</li><li>Thomas F. Wilson as Biff Tannen / Griff</li><li>Elisabeth Shue as Jennifer</li><li>James Tolkan as Strickland</li><li>Jeffrey Weissman as George McFly</li><li>Casey Siemaszko as 3-D</li><li>Billy Zane as Match</li><li>J.J. Cohen as Skinhead</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Hungama Play, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Back to the Future Part II (1989) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1989"
+  },
   "movie:1665": {
    "d": "Last Days (2005): Drama film. Story: The life and struggles of a notorious rock musician… See cast, budget $5M, and TMDB rating 5.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/pH6tXFobpuxD7J9kVe0YeKWAnMk.jpg",
@@ -1087,6 +1151,70 @@
    "t": "The Abominable Dr. Phibes (1971) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1971"
   },
+  "movie:1865": {
+   "d": "Pirates of the Caribbean: On Stranger Tides (2011): Adventure/Action film. Story: When Jack crosses paths with a woman from his past… See cast and budget $379M.",
+   "img": "https://image.tmdb.org/t/p/w780/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+   "industry": "world",
+   "k": "Pirates of the Caribbean: On Stranger Tides, Pirates of the Caribbean: On Stranger Tides movie, Pirates of the Caribbean: On Stranger Tides cast, Pirates of the Caribbean: On Stranger Tides story, Pirates of the Caribbean: On Stranger Tides box office collection, Pirates of the Caribbean: On Stranger Tides budget, Pirates of the Caribbean: On Stranger Tides review, Pirates of the Caribbean: On Stranger Tides rating, Pirates of the Caribbean: On Stranger Tides release date, Pirates of the Caribbean: On Stranger Tides trailer, Pirates of the Caribbean: On Stranger Tides Adventure, Pirates of the Caribbean: On Stranger Tides Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     },
+     {
+      "@type": "Person",
+      "name": "Penélope Cruz"
+     },
+     {
+      "@type": "Person",
+      "name": "Geoffrey Rush"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McShane"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin McNally"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15445,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Pirates of the Caribbean: On Stranger Tides (2011): Adventure/Action film. Story: When Jack crosses paths with a woman from his past… See cast and budget $379M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rob Marshall"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1865",
+    "name": "Pirates of the Caribbean: On Stranger Tides",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1865"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pirates of the Caribbean: On Stranger Tides (2011)</h1>\n<p class=\"ssr-lead\">When Jack crosses paths with a woman from his past, he&#x27;s not sure if it&#x27;s love...or if she&#x27;s a ruthless con artist using him to find the fabled Fountain of Youth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2011</li><li>Runtime: 136 minutes</li><li>Director: Rob Marshall</li><li>Genres: Adventure, Action, Fantasy</li><li>Budget: $379M</li><li>TMDB rating: 6.6/10 (15445 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Depp as Jack Sparrow</li><li>Penélope Cruz as Angelica</li><li>Geoffrey Rush as Hector Barbossa</li><li>Ian McShane as Edward &quot;Blackbeard&quot; Teach</li><li>Kevin McNally as Joshamee Gibbs</li><li>Sam Claflin as Philip</li><li>Àstrid Bergès-Frisbey as Syrena</li><li>Stephen Graham as Scrum</li><li>Keith Richards as Captain Teague</li><li>Richard Griffiths as King George</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Pirates of the Caribbean: On Stranger Tides (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:19165": {
    "d": "The Land Before Time V: The Mysterious Island (1997): Animation/Family film. Story: The Great Valley turns barren and herds of dinosaurs… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/1U2wQbsCqAydFB4jMC7fqs8Frs3.jpg",
@@ -1277,6 +1405,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Fame (2009)</h1>\n<p class=\"ssr-lead\">At New York&#x27;s High School of Performing Arts, students from all walks of life get the chance to hone their skills as singers, actors, dancers, and more. Over four years, these young men and women will see if they truly have the dedication and talent to achieve success, while still juggling regular schoolwork, feelings of self-doubt, and budding romances.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 2009</li><li>Runtime: 107 minutes</li><li>Director: Kevin Tancharoen</li><li>Genres: Music, Comedy, Drama, Romance</li><li>Budget: $18M</li><li>TMDB rating: 5.7/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kay Panabaker as Jenny Garrison</li><li>Walter Perez as Victor Taveras</li><li>Naturi Naughton as Denise Dupree</li><li>Asher Book as Marco</li><li>Kherington Payne as Alice Ellerton</li><li>Collins Pennie as Malik Washburn</li><li>Kristy Flores as Rosie Martinez</li><li>Paul McGill as Kevin Barrett</li><li>Bebe Neuwirth as Ms. Kraft</li><li>Paul Iacono as Neil Baczynsky</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Fame (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:314365": {
+   "d": "Spotlight (2016): Drama/History film. Story: The true story of how the Boston Globe uncovered the… See cast, budget $20M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+   "industry": "world",
+   "k": "Spotlight, Spotlight movie, Spotlight cast, Spotlight story, Spotlight box office collection, Spotlight budget, Spotlight review, Spotlight rating, Spotlight release date, Spotlight trailer, Spotlight Drama, Spotlight History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mark Ruffalo"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel McAdams"
+     },
+     {
+      "@type": "Person",
+      "name": "Liev Schreiber"
+     },
+     {
+      "@type": "Person",
+      "name": "John Slattery"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9093,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Spotlight (2016): Drama/History film. Story: The true story of how the Boston Globe uncovered the… See cast, budget $20M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom McCarthy"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=314365",
+    "name": "Spotlight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=314365"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spotlight (2016)</h1>\n<p class=\"ssr-lead\">The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2016</li><li>Runtime: 129 minutes</li><li>Director: Tom McCarthy</li><li>Genres: Drama, History</li><li>Budget: $20M</li><li>TMDB rating: 7.8/10 (9093 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mark Ruffalo as Michael Rezendes</li><li>Michael Keaton as Walter &#x27;Robby&#x27; Robinson</li><li>Rachel McAdams as Sacha Pfeiffer</li><li>Liev Schreiber as Marty Baron</li><li>John Slattery as Ben Bradlee, Jr.</li><li>Brian d&#x27;Arcy James as Matt Carroll</li><li>Stanley Tucci as Mitchell Garabedian</li><li>Elena Wohl as Barbara</li><li>Gene Amoroso as Steve Kurkjian</li><li>Doug Murray as Peter Canellos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Spotlight (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:329865": {
+   "d": "Arrival (2016): Drama/Science Fiction film. Story: Taking place after alien crafts land around the… See cast, budget $47M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+   "industry": "world",
+   "k": "Arrival, Arrival movie, Arrival cast, Arrival story, Arrival box office collection, Arrival budget, Arrival review, Arrival rating, Arrival release date, Arrival trailer, Arrival Drama, Arrival Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeremy Renner"
+     },
+     {
+      "@type": "Person",
+      "name": "Forest Whitaker"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Stuhlbarg"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark O'Brien"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20188,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Arrival (2016): Drama/Science Fiction film. Story: Taking place after alien crafts land around the… See cast, budget $47M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Denis Villeneuve"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=329865",
+    "name": "Arrival",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=329865"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Arrival (2016)</h1>\n<p class=\"ssr-lead\">Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2016</li><li>Runtime: 116 minutes</li><li>Director: Denis Villeneuve</li><li>Genres: Drama, Science Fiction, Mystery</li><li>Budget: $47M</li><li>TMDB rating: 7.6/10 (20188 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amy Adams as Louise Banks</li><li>Jeremy Renner as Ian Donnelly</li><li>Forest Whitaker as Colonel Weber</li><li>Michael Stuhlbarg as Agent Halpern</li><li>Mark O&#x27;Brien as Captain Marks</li><li>Tzi Ma as General Shang</li><li>Abigail Pniowsky as 8-Year-Old Hannah</li><li>Julia Scarlett Dan as 12-Year-Old Hannah</li><li>Jadyn Malone as 6-Year-Old Hannah</li><li>Frank Schorpion as Dr. Kettler</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Arrival (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:34065": {
    "d": "Pokémon: Destiny Deoxys (2004): Family/Adventure film. Story: Deoxys, a Pokémon from outer space, terrorizes the… See cast and TMDB rating 6.7/10.",
@@ -1602,6 +1858,70 @@
    "t": "Dilwale (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:37165": {
+   "d": "The Truman Show (1998): Comedy/Drama film. Story: In a picture-perfect seaside town, an insurance… See cast, budget $60M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+   "industry": "world",
+   "k": "The Truman Show, The Truman Show movie, The Truman Show cast, The Truman Show story, The Truman Show box office collection, The Truman Show budget, The Truman Show review, The Truman Show rating, The Truman Show release date, The Truman Show trailer, The Truman Show Comedy, The Truman Show Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Carrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Linney"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Emmerich"
+     },
+     {
+      "@type": "Person",
+      "name": "Natascha McElhone"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21238,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "The Truman Show (1998): Comedy/Drama film. Story: In a picture-perfect seaside town, an insurance… See cast, budget $60M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Weir"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=37165",
+    "name": "The Truman Show",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-06-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=37165"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Truman Show (1998)</h1>\n<p class=\"ssr-lead\">In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 June 1998</li><li>Runtime: 103 minutes</li><li>Director: Peter Weir</li><li>Genres: Comedy, Drama</li><li>Budget: $60M</li><li>TMDB rating: 8.2/10 (21238 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Carrey as Truman Burbank</li><li>Ed Harris as Christof</li><li>Laura Linney as Meryl</li><li>Noah Emmerich as Marlon</li><li>Natascha McElhone as Lauren / Sylvia</li><li>Holland Taylor as Truman&#x27;s Mother</li><li>Paul Giamatti as Control Room Director</li><li>Brian Delate as Truman&#x27;s Father</li><li>Peter Krause as Lawrence</li><li>Blair Slater as Young Truman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Truman Show (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
   "movie:374465": {
    "d": "Things to Come (2016): Drama film. Story: Nathalie teaches philosophy at a high school in… See cast, budget $2.1M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/7enN15KGCXEYxb10bx3EOM8h9DI.jpg",
@@ -1664,6 +1984,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Things to Come (2016)</h1>\n<p class=\"ssr-lead\">Nathalie teaches philosophy at a high school in Paris. She is passionate about her job and particularly enjoys passing on the pleasure of thinking. Married with two children, she divides her time between her family, former students and her very possessive mother. One day, Nathalie’s husband announces he is leaving her for another woman. With freedom thrust upon her, Nathalie must reinvent her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 April 2016</li><li>Runtime: 102 minutes</li><li>Director: Mia Hansen-Løve</li><li>Genres: Drama</li><li>Budget: $2.1M</li><li>TMDB rating: 6.5/10 (351 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Isabelle Huppert as Nathalie Chazeaux</li><li>André Marcon as Heinz</li><li>Roman Kolinka as Fabien</li><li>Édith Scob as Yvette</li><li>Sarah Le Picard as Chloé</li><li>Solal Forte as Johann</li><li>Élise Lhomeau as Elsa</li><li>Lionel Dray as Hugo</li><li>Yves Heck as Daniel</li><li>Grégoire Montana-Haroche as Simon (élève lycée)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC+ Amazon Channel, AMC+ Roku Premium Channel, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Things to Come (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:38365": {
+   "d": "Grown Ups (2010): Comedy film. Story: After their high school basketball coach passes away… See cast, budget $80M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kARonxQpuSZdFraTKlCThWOBCtu.jpg",
+   "industry": "world",
+   "k": "Grown Ups, Grown Ups movie, Grown Ups cast, Grown Ups story, Grown Ups box office collection, Grown Ups budget, Grown Ups review, Grown Ups rating, Grown Ups release date, Grown Ups trailer, Grown Ups Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Adam Sandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin James"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Rock"
+     },
+     {
+      "@type": "Person",
+      "name": "David Spade"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Schneider"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6983,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Grown Ups (2010): Comedy film. Story: After their high school basketball coach passes away… See cast, budget $80M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dennis Dugan"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kARonxQpuSZdFraTKlCThWOBCtu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38365",
+    "name": "Grown Ups",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-06-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38365"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Grown Ups (2010)</h1>\n<p class=\"ssr-lead\">After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 June 2010</li><li>Runtime: 102 minutes</li><li>Director: Dennis Dugan</li><li>Genres: Comedy</li><li>Budget: $80M</li><li>TMDB rating: 6.4/10 (6983 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Adam Sandler as Lenny Feder</li><li>Kevin James as Eric Lamonsoff</li><li>Chris Rock as Kurt McKenzie</li><li>David Spade as Marcus Higgins</li><li>Rob Schneider as Rob Hilliard</li><li>Salma Hayek Pinault as Roxanne Chase-Feder</li><li>Maria Bello as Sally Lamonsoff</li><li>Maya Rudolph as Deanne McKenzie</li><li>Joyce Van Patten as Gloria</li><li>Ebony Jo-Ann as Mama Ronzoni</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Grown Ups (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:41665": {
    "d": "Fantozzi in Heaven (1993): Comedy film. Story: One by one, with a sweet but inexorable rate, Ugo's… See cast and TMDB rating 5.8/10.",
@@ -1855,6 +2238,70 @@
    "t": "With Open Arms (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:447365": {
+   "d": "Guardians of the Galaxy Vol. 3 (2023): Science Fiction/Adventure film. Story: Peter Quill, still reeling from the loss of Gamora… See cast and budget $250M.",
+   "img": "https://image.tmdb.org/t/p/w780/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+   "industry": "world",
+   "k": "Guardians of the Galaxy Vol. 3, Guardians of the Galaxy Vol. 3 movie, Guardians of the Galaxy Vol. 3 cast, Guardians of the Galaxy Vol. 3 story, Guardians of the Galaxy Vol. 3 box office collection, Guardians of the Galaxy Vol. 3 budget, Guardians of the Galaxy Vol. 3 review, Guardians of the Galaxy Vol. 3 rating, Guardians of the Galaxy Vol. 3 release date, Guardians of the Galaxy Vol. 3 trailer, Guardians of the Galaxy Vol. 3 Science Fiction, Guardians of the Galaxy Vol. 3 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Karen Gillan"
+     },
+     {
+      "@type": "Person",
+      "name": "Pom Klementieff"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9114,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Guardians of the Galaxy Vol. 3 (2023): Science Fiction/Adventure film. Story: Peter Quill, still reeling from the loss of Gamora… See cast and budget $250M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Gunn"
+     }
+    ],
+    "duration": "PT150M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=447365",
+    "name": "Guardians of the Galaxy Vol. 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-05-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=447365"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Guardians of the Galaxy Vol. 3 (2023)</h1>\n<p class=\"ssr-lead\">Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 May 2023</li><li>Runtime: 150 minutes</li><li>Director: James Gunn</li><li>Genres: Science Fiction, Adventure, Action</li><li>Budget: $250M</li><li>TMDB rating: 7.9/10 (9114 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Peter Quill / Star-Lord</li><li>Zoe Saldaña as Gamora</li><li>Dave Bautista as Drax</li><li>Karen Gillan as Nebula</li><li>Pom Klementieff as Mantis</li><li>Vin Diesel as Groot (voice)</li><li>Bradley Cooper as Rocket (voice)</li><li>Sean Gunn as Kraglin / Young Rocket (voice)</li><li>Chukwudi Iwuji as The High Evolutionary</li><li>Will Poulter as Adam Warlock</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Guardians of the Galaxy Vol. 3 (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:447665": {
    "d": "Kickboxer: Retaliation (2018): Action/Drama film. Story: One year after the events of \"Kickboxer: Vengeance\"… See cast, budget $13M, and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/kU4EafCWSksRo8Lnno91mzOURgN.jpg",
@@ -1918,6 +2365,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Kickboxer: Retaliation (2018)</h1>\n<p class=\"ssr-lead\">One year after the events of &quot;Kickboxer: Vengeance&quot;, Kurt Sloan has vowed never to return to Thailand. However, while gearing up for a MMA title shot, he finds himself sedated and forced back into Thailand, this time in prison. He is there because the ones responsible want him to face a 6&#x27;8&quot; 400 lbs. beast named Mongkut and in return for the fight, Kurt will get two million dollars and his freedom back. Kurt at first refuses, in which a bounty is placed on his head as a way to force him to face Mongkut. Kurt soon learns he will have no other choice and will undergo his most rigorous training yet under some unexpected mentors in order to face Mongkut in hopes to regain his freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 February 2018</li><li>Runtime: 110 minutes</li><li>Director: Dimitri Logothetis</li><li>Genres: Action, Drama</li><li>Budget: $13M</li><li>TMDB rating: 5.4/10 (335 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alain Moussi as Kurt Sloane</li><li>Christopher Lambert as Thomas Moore</li><li>Jean-Claude Van Damme as Master Durand</li><li>Mike Tyson as Briggs</li><li>Sara Malakul Lane as Liu</li><li>Hafþór Júlíus Björnsson as Mongkut</li><li>Sam Medina as Crawford</li><li>Steven Swadling as Joseph King</li><li>Miles Strommen as Rupert</li><li>Jessica Jann as Gamon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Kickboxer: Retaliation (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:450465": {
+   "d": "Glass (2019): Thriller/Drama film. Story: In a series of escalating encounters, former security… See cast, budget $20M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+   "industry": "world",
+   "k": "Glass, Glass movie, Glass cast, Glass story, Glass box office collection, Glass budget, Glass review, Glass rating, Glass release date, Glass trailer, Glass Thriller, Glass Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "James McAvoy"
+     },
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Paulson"
+     },
+     {
+      "@type": "Person",
+      "name": "Anya Taylor-Joy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9386,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Glass (2019): Thriller/Drama film. Story: In a series of escalating encounters, former security… See cast, budget $20M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "M. Night Shyamalan"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=450465",
+    "name": "Glass",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-01-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=450465"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Glass (2019)</h1>\n<p class=\"ssr-lead\">In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 2019</li><li>Runtime: 129 minutes</li><li>Director: M. Night Shyamalan</li><li>Genres: Thriller, Drama, Science Fiction</li><li>Budget: $20M</li><li>TMDB rating: 6.7/10 (9386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>James McAvoy as Patricia / Dennis / Hedwig / The Beast / Barry / Heinrich / Jade / Ian / Mary Reynolds / Norma / Jalin / Kat / B.T. / Kevin Wendell Crumb / Mr. Pritchard / Felida / Luke / Goddard / Samuel / Polly</li><li>Bruce Willis as David Dunn / The Overseer</li><li>Samuel L. Jackson as Elijah Price / Mr. Glass</li><li>Sarah Paulson as Dr. Ellie Staple</li><li>Anya Taylor-Joy as Casey Cooke</li><li>Spencer Treat Clark as Joseph Dunn</li><li>Charlayne Woodard as Mrs. Price</li><li>Luke Kirby as Pierce</li><li>Adam David Thompson as Daryl</li><li>M. Night Shyamalan as Jai, Security Guard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Glass (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
+  "movie:460465": {
+   "d": "Mortal Kombat (2021): Action/Fantasy film. Story: Washed-up MMA fighter Cole Young, unaware of his… See cast, budget $20M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+   "industry": "world",
+   "k": "Mortal Kombat, Mortal Kombat movie, Mortal Kombat cast, Mortal Kombat story, Mortal Kombat box office collection, Mortal Kombat budget, Mortal Kombat review, Mortal Kombat rating, Mortal Kombat release date, Mortal Kombat trailer, Mortal Kombat Action, Mortal Kombat Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lewis Tan"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica McNamee"
+     },
+     {
+      "@type": "Person",
+      "name": "Mehcad Brooks"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Lawson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ludi Lin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7154,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Mortal Kombat (2021): Action/Fantasy film. Story: Washed-up MMA fighter Cole Young, unaware of his… See cast, budget $20M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Simon McQuoid"
+     }
+    ],
+    "duration": "PT110M",
+    "genre": [
+     "Action",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=460465",
+    "name": "Mortal Kombat",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-04-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=460465"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mortal Kombat (2021)</h1>\n<p class=\"ssr-lead\">Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung&#x27;s best warrior, Sub-Zero, seeks out and trains with Earth&#x27;s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 April 2021</li><li>Runtime: 110 minutes</li><li>Director: Simon McQuoid</li><li>Genres: Action, Fantasy, Adventure</li><li>Budget: $20M</li><li>TMDB rating: 7.0/10 (7154 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lewis Tan as Cole Young</li><li>Jessica McNamee as Sonya Blade</li><li>Mehcad Brooks as Jax</li><li>Josh Lawson as Kano</li><li>Ludi Lin as Liu Kang</li><li>Max Huang as Kung Lao</li><li>Tadanobu Asano as Lord Raiden</li><li>Chin Han as Shang Tsung</li><li>Hiroyuki Sanada as Hanzo Hasashi / Scorpion</li><li>Joe Taslim as Bi-Han / Sub-Zero</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Mortal Kombat (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:492565": {
    "d": "The Kid (2019): Western/Drama film. Story: New Mexico Territory, 1880. Rio Cutler and his older… See cast, budget $8M, and TMDB rating 6.0/10.",
@@ -2173,6 +2748,70 @@
    "t": "Zola (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:565": {
+   "d": "The Ring (2003): Horror/Mystery film. Story: Journalist Rachel Keller investigates a strange… See cast, budget $48M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+   "industry": "world",
+   "k": "The Ring, The Ring movie, The Ring cast, The Ring story, The Ring box office collection, The Ring budget, The Ring review, The Ring rating, The Ring release date, The Ring trailer, The Ring Horror, The Ring Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Naomi Watts"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Henderson"
+     },
+     {
+      "@type": "Person",
+      "name": "David Dorfman"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Alexander"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6982,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "The Ring (2003): Horror/Mystery film. Story: Journalist Rachel Keller investigates a strange… See cast, budget $48M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gore Verbinski"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=565",
+    "name": "The Ring",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-02-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=565"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Ring (2003)</h1>\n<p class=\"ssr-lead\">Journalist Rachel Keller investigates a strange videotape that may be behind the untimely deaths of four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring in order to save herself and her son.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2003</li><li>Runtime: 115 minutes</li><li>Director: Gore Verbinski</li><li>Genres: Horror, Mystery</li><li>Budget: $48M</li><li>TMDB rating: 6.7/10 (6982 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Naomi Watts as Rachel Keller</li><li>Martin Henderson as Noah Clay</li><li>David Dorfman as Aidan Keller</li><li>Brian Cox as Richard Morgan</li><li>Jane Alexander as Dr. Grasnik</li><li>Lindsay Frost as Ruth Embry</li><li>Amber Tamblyn as Katie Embry</li><li>Rachael Bella as Rebecca Kotler</li><li>Daveigh Chase as Samara Morgan</li><li>Shannon Cochran as Anna Morgan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Ring (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:567965": {
    "d": "Misbehaviour (2021): Drama/History film. Story: A group of women involved in the Women's Liberation… See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/pfgIFToEcoXkOg83Cpx5lUct3qV.jpg",
@@ -2236,6 +2875,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Misbehaviour (2021)</h1>\n<p class=\"ssr-lead\">A group of women involved in the Women&#x27;s Liberation Movement hatched a plan to invade the stage and disrupt the live broadcast at the 1970 Miss World competition in London, resulting in overnight fame for the newly-formed organization. When the show resumed, the results caused an uproar and turned the Western ideal of beauty on its head.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 2021</li><li>Runtime: 107 minutes</li><li>Director: Philippa Lowthorpe</li><li>Genres: Drama, History, Comedy</li><li>TMDB rating: 6.4/10 (312 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keira Knightley as Sally Alexander</li><li>Gugu Mbatha-Raw as Jennifer Hosten - Miss Grenada</li><li>Jessie Buckley as Jo Robinson</li><li>Keeley Hawes as Julia Morley</li><li>Phyllis Logan as Evelyn Alexander</li><li>Lesley Manville as Dolores Hope</li><li>Rhys Ifans as Eric Morley</li><li>Greg Kinnear as Bob Hope</li><li>John Heffernan as Gareth</li><li>Suki Waterhouse as Sandra Anne Wolsfeld - Miss USA</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Misbehaviour (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:65": {
+   "d": "8 Mile (2002): Drama/Music film. Story: For Jimmy Smith, Jr., life is a daily fight just to… See cast, budget $41M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+   "industry": "world",
+   "k": "8 Mile, 8 Mile movie, 8 Mile cast, 8 Mile story, 8 Mile box office collection, 8 Mile budget, 8 Mile review, 8 Mile rating, 8 Mile release date, 8 Mile Drama, 8 Mile Music, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eminem"
+     },
+     {
+      "@type": "Person",
+      "name": "Kim Basinger"
+     },
+     {
+      "@type": "Person",
+      "name": "Mekhi Phifer"
+     },
+     {
+      "@type": "Person",
+      "name": "Brittany Murphy"
+     },
+     {
+      "@type": "Person",
+      "name": "Evan Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8080,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "8 Mile (2002): Drama/Music film. Story: For Jimmy Smith, Jr., life is a daily fight just to… See cast, budget $41M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Curtis Hanson"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Drama",
+     "Music"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=65",
+    "name": "8 Mile",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-11-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=65"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>8 Mile (2002)</h1>\n<p class=\"ssr-lead\">For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit&#x27;s vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2002</li><li>Runtime: 111 minutes</li><li>Director: Curtis Hanson</li><li>Genres: Drama, Music</li><li>Budget: $41M</li><li>TMDB rating: 7.1/10 (8080 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eminem as Jimmy</li><li>Kim Basinger as Stephanie</li><li>Mekhi Phifer as Future</li><li>Brittany Murphy as Alex</li><li>Evan Jones as Cheddar Bob</li><li>Omar Benson Miller as Sol George</li><li>De&#x27;Angelo Wilson as DJ IZ</li><li>Eugene Byrd as Wink</li><li>Taryn Manning as Janeane</li><li>Larry Hudson as Bouncer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "8 Mile (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:724665": {
    "d": "Confess, Fletch (2022): Comedy/Mystery film. Story: The roguishly charming and endlessly troublesome… See cast, budget $20M, and TMDB rating 6.2/10.",

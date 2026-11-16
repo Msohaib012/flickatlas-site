@@ -1,6 +1,6 @@
 {
  "bucket": "71",
- "count": 75,
+ "count": 85,
  "titles": {
   "movie:100271": {
    "d": "A Letter to Momo (2012): Comedy/Fantasy film. Story: A shy 11-year-old's life takes a strange turn when… See cast and TMDB rating 7.3/10.",
@@ -706,6 +706,70 @@
    "t": "The Deaths of Ian Stone (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:1271": {
+   "d": "300 (2007): Action/Adventure film. Story: A story very loosely based the 480 B.C. Battle of… See cast, budget $65M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+   "industry": "world",
+   "k": "300, 300 movie, 300 cast, 300 story, 300 box office collection, 300 budget, 300 review, 300 rating, 300 release date, 300 trailer, 300 Action, 300 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gerard Butler"
+     },
+     {
+      "@type": "Person",
+      "name": "Lena Headey"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominic West"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wenham"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent Regan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15298,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "300 (2007): Action/Adventure film. Story: A story very loosely based the 480 B.C. Battle of… See cast, budget $65M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zack Snyder"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1271",
+    "name": "300",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-03-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1271"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>300 (2007)</h1>\n<p class=\"ssr-lead\">A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 2007</li><li>Runtime: 117 minutes</li><li>Director: Zack Snyder</li><li>Genres: Action, Adventure, War</li><li>Budget: $65M</li><li>TMDB rating: 7.2/10 (15298 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gerard Butler as King Leonidas</li><li>Lena Headey as Gorgo</li><li>Dominic West as Theron</li><li>David Wenham as Dilios/Narrator</li><li>Vincent Regan as Captain</li><li>Michael Fassbender as Stelios</li><li>Tom Wisdom as Astinos</li><li>Andrew Pleavin as Daxos</li><li>Andrew Tiernan as Ephialtes</li><li>Rodrigo Santoro as Xerxes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "300 (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:12771": {
    "d": "Serving Sara (2002): Comedy film. Story: When Sara is served divorce papers while she is in… See cast, budget $29M, and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/qZiQ1ISNYjk6xn61NKwpcOGSG9a.jpg",
@@ -1157,6 +1221,70 @@
    "t": "Picture This (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:1571": {
+   "d": "Live Free or Die Hard (2007): Action/Thriller film. Story: John McClane is back and badder than ever, and this… See cast, budget $110M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+   "industry": "world",
+   "k": "Live Free or Die Hard, Live Free or Die Hard movie, Live Free or Die Hard cast, Live Free or Die Hard story, Live Free or Die Hard box office collection, Live Free or Die Hard budget, Live Free or Die Hard review, Live Free or Die Hard rating, Live Free or Die Hard release date, Live Free or Die Hard Action, Live Free or Die Hard Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Timothy Olyphant"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Long"
+     },
+     {
+      "@type": "Person",
+      "name": "Cliff Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Elizabeth Winstead"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6626,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Live Free or Die Hard (2007): Action/Thriller film. Story: John McClane is back and badder than ever, and this… See cast, budget $110M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Len Wiseman"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1571",
+    "name": "Live Free or Die Hard",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1571"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Live Free or Die Hard (2007)</h1>\n<p class=\"ssr-lead\">John McClane is back and badder than ever, and this time he calls on the services of a young hacker in his bid to stop a ring of Internet terrorists intent on taking control of America&#x27;s computer infrastructure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 June 2007</li><li>Runtime: 128 minutes</li><li>Director: Len Wiseman</li><li>Genres: Action, Thriller</li><li>Budget: $110M</li><li>TMDB rating: 6.6/10 (6626 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as John McClane</li><li>Timothy Olyphant as Thomas Gabriel</li><li>Justin Long as Matt Farrell</li><li>Cliff Curtis as Deputy Director Miguel Bowman</li><li>Mary Elizabeth Winstead as Lucy McClane</li><li>Jonathan Sadowski as Trey</li><li>Maggie Q as Mai Linh</li><li>Andrew Friedman as Casper</li><li>Kevin Smith as Warlock - Frederick Kaludis</li><li>Yorgo Constantine as Russo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Live Free or Die Hard (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:1628071": {
    "d": "Ip Man: Kung Fu Legend (2026): Action film. Story: In 1950s Hong Kong, British merchants and Chinese… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
@@ -1219,6 +1347,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Ip Man: Kung Fu Legend (2026)</h1>\n<p class=\"ssr-lead\">In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2026</li><li>Runtime: 94 minutes</li><li>Director: Li Liming</li><li>Genres: Action</li><li>TMDB rating: 7.0/10 (33 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dennis To Yu-hang as Ip Man</li><li>Philip Condron as James</li><li>Steven Dasz as Parker</li><li>Lee Yiu-king</li><li>Yan Yanlong</li><li>Zhang Tingfei</li><li>Zhou Xiaofei</li><li>Addison Ford as Lei Yihu</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Tencent Video</li></ul>\n</article>",
    "t": "Ip Man: Kung Fu Legend (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:1771": {
+   "d": "Captain America: The First Avenger (2011): Action/Adventure film. Story: During World War II, Steve Rogers is a sickly man… See cast and budget $140M.",
+   "img": "https://image.tmdb.org/t/p/w780/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+   "industry": "world",
+   "k": "Captain America: The First Avenger, Captain America: The First Avenger movie, Captain America: The First Avenger cast, Captain America: The First Avenger story, Captain America: The First Avenger box office collection, Captain America: The First Avenger budget, Captain America: The First Avenger review, Captain America: The First Avenger rating, Captain America: The First Avenger release date, Captain America: The First Avenger trailer, Captain America: The First Avenger Action, Captain America: The First Avenger Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "Hayley Atwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Stan"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommy Lee Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23526,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Captain America: The First Avenger (2011): Action/Adventure film. Story: During World War II, Steve Rogers is a sickly man… See cast and budget $140M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Johnston"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1771",
+    "name": "Captain America: The First Avenger",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-07-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1771"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Captain America: The First Avenger (2011)</h1>\n<p class=\"ssr-lead\">During World War II, Steve Rogers is a sickly man from Brooklyn who&#x27;s transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler&#x27;s ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2011</li><li>Runtime: 124 minutes</li><li>Director: Joe Johnston</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $140M</li><li>TMDB rating: 7.0/10 (23526 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Evans as Captain America / Steve Rogers</li><li>Hayley Atwell as Peggy Carter</li><li>Sebastian Stan as James Buchanan &#x27;Bucky&#x27; Barnes</li><li>Tommy Lee Jones as Colonel Chester Phillips</li><li>Hugo Weaving as Johann Schmidt / Red Skull</li><li>Dominic Cooper as Howard Stark</li><li>Richard Armitage as Heinz Kruger</li><li>Stanley Tucci as Dr. Abraham Erskine</li><li>Samuel L. Jackson as Nick Fury</li><li>Toby Jones as Dr. Arnim Zola</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Captain America: The First Avenger (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
   },
   "movie:177271": {
    "d": "LEGO Batman: The Movie - DC Super Heroes Unite (2013): Family/Animation film. Story: Joker teams up with Lex Luthor to destroy the world… See cast.",
@@ -2114,6 +2306,70 @@
    "t": "The Devil Conspiracy (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
   },
+  "movie:333371": {
+   "d": "10 Cloverfield Lane (2016): Thriller/Science Fiction film. Story: After a catastrophic car crash, a young woman wakes… See cast and budget $15M.",
+   "img": "https://image.tmdb.org/t/p/w780/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+   "industry": "world",
+   "k": "10 Cloverfield Lane, 10 Cloverfield Lane movie, 10 Cloverfield Lane cast, 10 Cloverfield Lane story, 10 Cloverfield Lane box office collection, 10 Cloverfield Lane budget, 10 Cloverfield Lane review, 10 Cloverfield Lane rating, 10 Cloverfield Lane release date, 10 Cloverfield Lane trailer, 10 Cloverfield Lane Thriller, 10 Cloverfield Lane Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John Goodman"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Elizabeth Winstead"
+     },
+     {
+      "@type": "Person",
+      "name": "John Gallagher Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas M. Griffin"
+     },
+     {
+      "@type": "Person",
+      "name": "Suzanne Cryer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9068,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "10 Cloverfield Lane (2016): Thriller/Science Fiction film. Story: After a catastrophic car crash, a young woman wakes… See cast and budget $15M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dan Trachtenberg"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Thriller",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=333371",
+    "name": "10 Cloverfield Lane",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-03-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=333371"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>10 Cloverfield Lane (2016)</h1>\n<p class=\"ssr-lead\">After a catastrophic car crash, a young woman wakes up in a survivalist&#x27;s underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 March 2016</li><li>Runtime: 104 minutes</li><li>Director: Dan Trachtenberg</li><li>Genres: Thriller, Science Fiction, Drama, Horror</li><li>Budget: $15M</li><li>TMDB rating: 7.0/10 (9068 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John Goodman as Howard</li><li>Mary Elizabeth Winstead as Michelle</li><li>John Gallagher Jr. as Emmett</li><li>Douglas M. Griffin as Driver</li><li>Suzanne Cryer as Woman</li><li>Bradley Cooper as Ben (voice)</li><li>Sumalee Montano as Voice on Radio (voice)</li><li>Frank Mottek as Radio Broadcaster (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "10 Cloverfield Lane (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:359871": {
    "d": "My Scientology Movie (2016): Documentary film. Story: After being denied access to the Church of… See cast, TMDB rating 6.6/10, and release date 5 May 2016.",
    "img": "https://image.tmdb.org/t/p/w780/dqoPH4sRFhBASjrmqgPOasA1ztT.jpg",
@@ -2176,6 +2432,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>My Scientology Movie (2016)</h1>\n<p class=\"ssr-lead\">After being denied access to the Church of Scientology&#x27;s headquarters, documentarian Louis Theroux teams up with ex-Scientology official Marty Rathbun to stage re-enactments of alleged abuses within the organization. Theroux soon discovers that the church is watching his every move.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 May 2016</li><li>Runtime: 99 minutes</li><li>Director: John Dower</li><li>Genres: Documentary</li><li>TMDB rating: 6.6/10 (318 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Louis Theroux as Self</li><li>Tom De Vocht as Self</li><li>Marty Rathbun as Self</li><li>Jefferson Hawkins as Self</li><li>Andrew Perez as David Miscavige</li><li>Marc Headley as Self</li><li>Paz de la Huerta as Self</li><li>Rob Alter as Tom Cruise</li><li>David Miscavige as Self (archive footage)</li><li>Tom Cruise as Self (Archive Footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Dox Amazon Channel, Magnolia Selects Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
    "t": "My Scientology Movie (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:373571": {
+   "d": "Godzilla: King of the Monsters (2019): Science Fiction/Action film. Story: Follows the heroic efforts of the crypto-zoological… See cast and budget $170M.",
+   "img": "https://image.tmdb.org/t/p/w780/mzRJpkWPjXdXak0WCc8ZxVH4hug.jpg",
+   "industry": "world",
+   "k": "Godzilla: King of the Monsters, Godzilla: King of the Monsters movie, Godzilla: King of the Monsters cast, Godzilla: King of the Monsters story, Godzilla: King of the Monsters box office collection, Godzilla: King of the Monsters budget, Godzilla: King of the Monsters review, Godzilla: King of the Monsters rating, Godzilla: King of the Monsters release date, Godzilla: King of the Monsters trailer, Godzilla: King of the Monsters Science Fiction, Godzilla: King of the Monsters Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kyle Chandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Vera Farmiga"
+     },
+     {
+      "@type": "Person",
+      "name": "Millie Bobby Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Ken Watanabe"
+     },
+     {
+      "@type": "Person",
+      "name": "Zhang Ziyi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7020,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Godzilla: King of the Monsters (2019): Science Fiction/Action film. Story: Follows the heroic efforts of the crypto-zoological… See cast and budget $170M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Dougherty"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mzRJpkWPjXdXak0WCc8ZxVH4hug.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=373571",
+    "name": "Godzilla: King of the Monsters",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=373571"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Godzilla: King of the Monsters (2019)</h1>\n<p class=\"ssr-lead\">Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity&#x27;s very existence hanging in the balance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 May 2019</li><li>Runtime: 132 minutes</li><li>Director: Michael Dougherty</li><li>Genres: Science Fiction, Action</li><li>Budget: $170M</li><li>TMDB rating: 6.7/10 (7020 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kyle Chandler as Mark Russell</li><li>Vera Farmiga as Emma Russell</li><li>Millie Bobby Brown as Madison Russell</li><li>Ken Watanabe as Dr. Ishiro Serizawa</li><li>Zhang Ziyi as Dr. Ilene Chen / Dr. Ling</li><li>Bradley Whitford as Dr. Rick Stanton</li><li>Sally Hawkins as Dr. Vivienne Graham</li><li>Charles Dance as Alan Jonah</li><li>Thomas Middleditch as Sam Coleman</li><li>Aisha Hinds as Colonel Diane Foster</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Godzilla: King of the Monsters (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:374671": {
    "d": "After the Storm (2016): Drama film. Story: Ryota is an unpopular writer although he won a… See cast, TMDB rating 7.2/10, and release date 21 May 2016.",
@@ -2598,6 +2918,74 @@
    "t": "Lou (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:445571": {
+   "d": "Game Night (2018): Mystery/Comedy film. Story: Max and Annie's weekly game night gets kicked up a… See cast, budget $37M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+   "industry": "world",
+   "k": "Game Night, Game Night movie, Game Night cast, Game Night story, Game Night box office collection, Game Night budget, Game Night review, Game Night rating, Game Night release date, Game Night trailer, Game Night Mystery, Game Night Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel McAdams"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Chandler"
+     },
+     {
+      "@type": "Person",
+      "name": "Sharon Horgan"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Magnussen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6611,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Game Night (2018): Mystery/Comedy film. Story: Max and Annie's weekly game night gets kicked up a… See cast, budget $37M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Francis Daley"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Goldstein"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Mystery",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=445571",
+    "name": "Game Night",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-03-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=445571"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Game Night (2018)</h1>\n<p class=\"ssr-lead\">Max and Annie&#x27;s weekly game night gets kicked up a notch when Max&#x27;s brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it&#x27;s all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 2018</li><li>Runtime: 100 minutes</li><li>Director: John Francis Daley, Jonathan Goldstein</li><li>Genres: Mystery, Comedy, Crime</li><li>Budget: $37M</li><li>TMDB rating: 6.8/10 (6611 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Bateman as Max</li><li>Rachel McAdams as Annie</li><li>Kyle Chandler as Brooks</li><li>Sharon Horgan as Sarah</li><li>Billy Magnussen as Ryan</li><li>Lamorne Morris as Kevin</li><li>Kylie Bunbury as Michelle</li><li>Jesse Plemons as Gary</li><li>Michael C. Hall as The Bulgarian</li><li>Danny Huston as Donald Anderton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Game Night (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:460071": {
    "d": "Lizzie (2018): Crime/Drama film. Story: Massachusetts, 1892. An unmarried woman of 32 and a… See cast, TMDB rating 6.2/10, and release date 14 September 2018.",
    "img": "https://image.tmdb.org/t/p/w780/gv3wsm1EzFwd9QF9WPedwjlHG0H.jpg",
@@ -2661,6 +3049,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Lizzie (2018)</h1>\n<p class=\"ssr-lead\">Massachusetts, 1892. An unmarried woman of 32 and a social outcast, Lizzie lives a claustrophobic life under her father&#x27;s cold and domineering control. When Bridget Sullivan, a young maid, comes to work for the family, Lizzie finds a sympathetic, kindred spirit, and a secret intimacy soon blossoms into a wicked plan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 2018</li><li>Runtime: 106 minutes</li><li>Director: Craig William Macneill</li><li>Genres: Crime, Drama, Thriller</li><li>TMDB rating: 6.2/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chloë Sevigny as Lizzie Borden</li><li>Kristen Stewart as Bridget &quot;Maggie&quot; Sullivan</li><li>Jamey Sheridan as Andrew Borden</li><li>Fiona Shaw as Abby Borden</li><li>Kim Dickens as Emma Borden</li><li>Denis O&#x27;Hare as John Morse</li><li>Jeff Perry as Andrew Jennings</li><li>Jody Matzer as Deputy Fleet</li><li>Daniel Wachs as Dr. Bowen</li><li>Roscoe Sandlin as Judge Blaisdell</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Lizzie (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:47971": {
+   "d": "xXx: Return of Xander Cage (2017): Action/Adventure film. Story: Xander Cage is left for dead after an incident… See cast, budget $85M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+   "industry": "world",
+   "k": "xXx: Return of Xander Cage, xXx: Return of Xander Cage movie, xXx: Return of Xander Cage cast, xXx: Return of Xander Cage story, xXx: Return of Xander Cage box office collection, xXx: Return of Xander Cage budget, xXx: Return of Xander Cage review, xXx: Return of Xander Cage rating, xXx: Return of Xander Cage release date, xXx: Return of Xander Cage trailer, xXx: Return of Xander Cage Action, xXx: Return of Xander Cage Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Donnie Yen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby Rose"
+     },
+     {
+      "@type": "Person",
+      "name": "Deepika Padukone"
+     },
+     {
+      "@type": "Person",
+      "name": "Toni Collette"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9381,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "xXx: Return of Xander Cage (2017): Action/Adventure film. Story: Xander Cage is left for dead after an incident… See cast, budget $85M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "D.J. Caruso"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=47971",
+    "name": "xXx: Return of Xander Cage",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-01-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=47971"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>xXx: Return of Xander Cage (2017)</h1>\n<p class=\"ssr-lead\">Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2017</li><li>Runtime: 107 minutes</li><li>Director: D.J. Caruso</li><li>Genres: Action, Adventure, Crime</li><li>Budget: $85M</li><li>TMDB rating: 6.1/10 (9381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Xander Cage</li><li>Donnie Yen as Xiang</li><li>Ruby Rose as Adele Wolff</li><li>Deepika Padukone as Serena Unger</li><li>Toni Collette as Jane Marke</li><li>Samuel L. Jackson as Agent Augustus Gibbons</li><li>Ice Cube as Darius Stone / xXx</li><li>Rory McCann as Tennyson Torch</li><li>Nina Dobrev as Rebecca &#x27;Becky&#x27; Clearidge</li><li>Tony Jaa as Talon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "xXx: Return of Xander Cage (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:489471": {
    "d": "The Dawn Wall (2017): Documentary/Adventure film. Story: In an unbelievable story of perseverance, free… See cast and TMDB rating 8.0/10.",
@@ -3053,6 +3505,70 @@
    "t": "Night Teeth (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
   },
+  "movie:671": {
+   "d": "Harry Potter and the Philosopher's Stone (2002): Adventure/Fantasy film. Story: Harry Potter has lived under the stairs at his aunt… See cast and budget $125M.",
+   "img": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+   "industry": "world",
+   "k": "Harry Potter and the Philosopher's Stone, Harry Potter and the Philosopher's Stone movie, Harry Potter and the Philosopher's Stone cast, Harry Potter and the Philosopher's Stone story, Harry Potter and the Philosopher's Stone box office collection, Harry Potter and the Philosopher's Stone budget, Harry Potter and the Philosopher's Stone review, Harry Potter and the Philosopher's Stone rating, Harry Potter and the Philosopher's Stone release date, Harry Potter and the Philosopher's Stone trailer, Harry Potter and the Philosopher's Stone Adventure, Harry Potter and the Philosopher's Stone Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Radcliffe"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Grint"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Felton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30634,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Harry Potter and the Philosopher's Stone (2002): Adventure/Fantasy film. Story: Harry Potter has lived under the stairs at his aunt… See cast and budget $125M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Columbus"
+     }
+    ],
+    "duration": "PT152M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=671",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-04-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=671"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Harry Potter and the Philosopher&#x27;s Stone (2002)</h1>\n<p class=\"ssr-lead\">Harry Potter has lived under the stairs at his aunt and uncle&#x27;s house his whole life. But on his 11th birthday, he learns he&#x27;s a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school&#x27;s kindly headmaster, Harry uncovers the truth about his parents&#x27; deaths—and about the villain who&#x27;s to blame.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 April 2002</li><li>Runtime: 152 minutes</li><li>Director: Chris Columbus</li><li>Genres: Adventure, Fantasy</li><li>Budget: $125M</li><li>TMDB rating: 7.9/10 (30634 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Radcliffe as Harry Potter</li><li>Rupert Grint as Ron Weasley</li><li>Emma Watson as Hermione Granger</li><li>Richard Harris as Albus Dumbledore</li><li>Tom Felton as Draco Malfoy</li><li>Alan Rickman as Severus Snape</li><li>Robbie Coltrane as Hagrid</li><li>Maggie Smith as Professor McGonagall</li><li>Richard Griffiths as Uncle Vernon Dursley</li><li>Ian Hart as Professor Quirrell / Voldemort (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Harry Potter and the Philosopher's Stone (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:675871": {
    "d": "Super Troopers 3 (2026): Comedy/Crime film. Story: When Farva’s wildly over-the-top Indian engagement to… See cast, budget $20M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
@@ -3181,6 +3697,70 @@
    "t": "Deathstroke: Knights & Dragons - The Movie (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:771": {
+   "d": "Home Alone (1991): Comedy/Family film. Story: Eight-year-old Kevin McCallister makes the most of… See cast, budget $18M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+   "industry": "world",
+   "k": "Home Alone, Home Alone movie, Home Alone cast, Home Alone story, Home Alone box office collection, Home Alone budget, Home Alone review, Home Alone rating, Home Alone release date, Home Alone trailer, Home Alone Comedy, Home Alone Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Macaulay Culkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Pesci"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "John Heard"
+     },
+     {
+      "@type": "Person",
+      "name": "Roberts Blossom"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13072,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Home Alone (1991): Comedy/Family film. Story: Eight-year-old Kevin McCallister makes the most of… See cast, budget $18M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Columbus"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=771",
+    "name": "Home Alone",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-10-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=771"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Home Alone (1991)</h1>\n<p class=\"ssr-lead\">Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 October 1991</li><li>Runtime: 103 minutes</li><li>Director: Chris Columbus</li><li>Genres: Comedy, Family</li><li>Budget: $18M</li><li>TMDB rating: 7.5/10 (13072 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Macaulay Culkin as Kevin</li><li>Joe Pesci as Harry</li><li>Daniel Stern as Marv</li><li>John Heard as Peter</li><li>Roberts Blossom as Marley</li><li>Catherine O&#x27;Hara as Kate</li><li>Angela Goethals as Linnie</li><li>Devin Ratray as Buzz</li><li>Gerry Bamman as Uncle Frank</li><li>Hillary Wolf as Megan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Home Alone (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:801071": {
    "d": "The Jack in the Box: Awakening (2022): Horror film. Story: When a vintage Jack-in-the-box is opened by a dying… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
@@ -3307,6 +3887,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Goliath (2022)</h1>\n<p class=\"ssr-lead\">Patrick is a tenacious lawyer specializing in environmental law. France is a schoolteacher who becomes an activist after her husband develops cancer from exposure to a pesticide. Mathias is an ambitious lobbyist working for an international chemical corporation. The paths of these characters collide as the lives of thousands are affected by a tragic act that sparks a powerful movement while the corporation fights to prevent the truth from being revealed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 2022</li><li>Runtime: 121 minutes</li><li>Director: Frédéric Tellier</li><li>Genres: Thriller, Drama</li><li>TMDB rating: 6.8/10 (413 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gilles Lellouche as Patrick Fameau</li><li>Pierre Niney as Mathias Rozen</li><li>Emmanuelle Bercot as France</li><li>Laurent Stocker as Paul</li><li>Yannick Renier as Zef</li><li>Chloé Stefani as Lucie Tauran</li><li>Marie Gillain as Audrey</li><li>Jacques Perrin as Richard Vannec</li><li>Heidi-Éva Clavier as Nadia</li><li>Malik Amraoui as Abel</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: France Channel Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "Goliath (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:8871": {
+   "d": "How the Grinch Stole Christmas (2000): Family/Comedy film. Story: The Grinch decides to rob Whoville of Christmas - but… See cast and budget $123M.",
+   "img": "https://image.tmdb.org/t/p/w780/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+   "industry": "world",
+   "k": "How the Grinch Stole Christmas, How the Grinch Stole Christmas movie, How the Grinch Stole Christmas cast, How the Grinch Stole Christmas story, How the Grinch Stole Christmas box office collection, How the Grinch Stole Christmas budget, How the Grinch Stole Christmas review, How the Grinch Stole Christmas rating, How the Grinch Stole Christmas release date, How the Grinch Stole Christmas trailer, How the Grinch Stole Christmas Family, How the Grinch Stole Christmas Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Carrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Momsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeffrey Tambor"
+     },
+     {
+      "@type": "Person",
+      "name": "Christine Baranski"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Irwin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8582,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "How the Grinch Stole Christmas (2000): Family/Comedy film. Story: The Grinch decides to rob Whoville of Christmas - but… See cast and budget $123M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ron Howard"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8871",
+    "name": "How the Grinch Stole Christmas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-11-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8871"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>How the Grinch Stole Christmas (2000)</h1>\n<p class=\"ssr-lead\">The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2000</li><li>Runtime: 105 minutes</li><li>Director: Ron Howard</li><li>Genres: Family, Comedy, Fantasy</li><li>Budget: $123M</li><li>TMDB rating: 6.8/10 (8582 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Carrey as Grinch</li><li>Taylor Momsen as Cindy Lou Who</li><li>Jeffrey Tambor as Mayor Augustus Maywho</li><li>Christine Baranski as Martha May Whovier</li><li>Bill Irwin as Lou Lou Who</li><li>Molly Shannon as Betty Lou Who</li><li>Clint Howard as Whobris</li><li>Josh Ryan Evans as 8-Year-Old Grinch</li><li>Mindy Sterling as Clarnella</li><li>Bryce Dallas Howard as Surprised Who</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "How the Grinch Stole Christmas (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:9071": {
    "d": "Living in Oblivion (1995): Comedy film. Story: Low-budget independent filmmaker Nick Reve tries to… See cast, budget $500.0k, and TMDB rating 7.2/10.",

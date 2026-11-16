@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 71,
+ "count": 79,
  "titles": {
   "movie:10404": {
    "d": "Raise the Red Lantern (1991): Drama film. Story: In 1920s China, 19-year-old Songlian becomes a… See cast, budget $1M, and TMDB rating 8.0/10.",
@@ -765,6 +765,70 @@
    "t": "License to Drive (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
   },
+  "movie:13804": {
+   "d": "Fast & Furious (2009): Action/Crime film. Story: When a crime brings them back to L.A., fugitive… See cast, budget $85M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+   "industry": "world",
+   "k": "Fast & Furious, Fast & Furious movie, Fast & Furious cast, Fast & Furious story, Fast & Furious box office collection, Fast & Furious budget, Fast & Furious review, Fast & Furious rating, Fast & Furious release date, Fast & Furious trailer, Fast & Furious Action, Fast & Furious Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Rodriguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordana Brewster"
+     },
+     {
+      "@type": "Person",
+      "name": "John Ortiz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8152,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Fast & Furious (2009): Action/Crime film. Story: When a crime brings them back to L.A., fugitive… See cast, budget $85M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Justin Lin"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=13804",
+    "name": "Fast & Furious",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-04-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=13804"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fast &amp; Furious (2009)</h1>\n<p class=\"ssr-lead\">When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O&#x27;Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what&#x27;s possible behind the wheel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 April 2009</li><li>Runtime: 107 minutes</li><li>Director: Justin Lin</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $85M</li><li>TMDB rating: 6.7/10 (8152 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Dominic Toretto</li><li>Paul Walker as Brian O&#x27;Conner</li><li>Michelle Rodriguez as Letty Ortiz</li><li>Jordana Brewster as Mia Toretto</li><li>John Ortiz as Ramon Campos</li><li>Laz Alonso as Fenix Calderon</li><li>Gal Gadot as Gisele Yashar</li><li>Jack Conley as Penning</li><li>Shea Whigham as Michael Stasiak</li><li>Liza Lapira as Trinh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Fast & Furious (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:1404304": {
    "d": "The Isolate Thief (2026): Action/Drama film. Story: One bitter-cold winter during the Civil War, a young… See cast and TMDB rating 7.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
@@ -1405,6 +1469,74 @@
    "t": "The Stepfather (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:20504": {
+   "d": "The Book of Eli (2010): Action/Thriller film. Story: A post-apocalyptic tale, in which a lone man fights… See cast, budget $80M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+   "industry": "world",
+   "k": "The Book of Eli, The Book of Eli movie, The Book of Eli cast, The Book of Eli story, The Book of Eli box office collection, The Book of Eli budget, The Book of Eli review, The Book of Eli rating, The Book of Eli release date, The Book of Eli Action, The Book of Eli Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Denzel Washington"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Oldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Mila Kunis"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Stevenson"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Beals"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7014,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Book of Eli (2010): Action/Thriller film. Story: A post-apocalyptic tale, in which a lone man fights… See cast, budget $80M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Allen Hughes"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Hughes"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20504",
+    "name": "The Book of Eli",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-03-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20504"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Book of Eli (2010)</h1>\n<p class=\"ssr-lead\">A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2010</li><li>Runtime: 118 minutes</li><li>Director: Allen Hughes, Albert Hughes</li><li>Genres: Action, Thriller, Science Fiction</li><li>Budget: $80M</li><li>TMDB rating: 6.8/10 (7014 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Denzel Washington as Eli</li><li>Gary Oldman as Carnegie</li><li>Mila Kunis as Solara</li><li>Ray Stevenson as Redridge</li><li>Jennifer Beals as Claudia</li><li>Michael Gambon as George</li><li>Tom Waits as Engineer</li><li>Frances de la Tour as Martha</li><li>Evan Jones as Martz</li><li>Joe Pingue as Hoyt</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Book of Eli (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:2204": {
    "d": "Alice in the Cities (1974): Drama film. Story: German journalist Philip Winter has a case of… See cast, TMDB rating 7.7/10, and release date 17 May 1974.",
    "img": "https://image.tmdb.org/t/p/w780/gDibTI8sDBhFnczL3VqHhlnfq78.jpg",
@@ -1659,6 +1791,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Post Grad (2009)</h1>\n<p class=\"ssr-lead\">Ryden Malby has a master plan. Graduate college, get a great job, hang out with her best friend and find the perfect guy. But her plan spins hilariously out of control when she’s forced to move back home with her eccentric family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 2009</li><li>Runtime: 89 minutes</li><li>Director: Vicky Jenson</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $15M</li><li>TMDB rating: 5.0/10 (331 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexis Bledel as Ryden Malby</li><li>Zach Gilford as Adam Davies</li><li>Michael Keaton as Walter Malby</li><li>Jane Lynch as Carmella Malby</li><li>Bobby Coleman as Hunter Malby</li><li>Carol Burnett as Grandma Maureen</li><li>Rodrigo Santoro as David Santiago</li><li>Catherine Reitman as Jessica Bard</li><li>Mary Anne McGarry as Barbara Snaff</li><li>J.K. Simmons as Roy Davies</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Post Grad (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:262504": {
+   "d": "Allegiant (2016): Adventure/Science Fiction film. Story: Beatrice Prior and Tobias Eaton venture into the… See cast, budget $110M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+   "industry": "world",
+   "k": "Allegiant, Allegiant movie, Allegiant cast, Allegiant story, Allegiant box office collection, Allegiant budget, Allegiant review, Allegiant rating, Allegiant release date, Allegiant trailer, Allegiant Adventure, Allegiant Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shailene Woodley"
+     },
+     {
+      "@type": "Person",
+      "name": "Theo James"
+     },
+     {
+      "@type": "Person",
+      "name": "Miles Teller"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoë Kravitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Naomi Watts"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7170,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Allegiant (2016): Adventure/Science Fiction film. Story: Beatrice Prior and Tobias Eaton venture into the… See cast, budget $110M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Schwentke"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=262504",
+    "name": "Allegiant",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-03-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=262504"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Allegiant (2016)</h1>\n<p class=\"ssr-lead\">Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 March 2016</li><li>Runtime: 120 minutes</li><li>Director: Robert Schwentke</li><li>Genres: Adventure, Science Fiction, Action</li><li>Budget: $110M</li><li>TMDB rating: 6.1/10 (7170 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shailene Woodley as Beatrice &#x27;Tris&#x27; Prior</li><li>Theo James as Tobias &#x27;Four&#x27; Eaton</li><li>Miles Teller as Peter Hayes</li><li>Zoë Kravitz as Christina</li><li>Naomi Watts as Evelyn Johnson-Eaton</li><li>Jeff Daniels as David</li><li>Ansel Elgort as Caleb Prior</li><li>Octavia Spencer as Johanna Reyes</li><li>Keiynan Lonsdale as Uriah Pedrad</li><li>Daniel Dae Kim as Jack Kang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Movie Sphere+</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Allegiant (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:309304": {
    "d": "Grandma (2015): Comedy/Drama film. Story: Self-described misanthrope Elle Reid has her… See cast, budget $600.0k, and TMDB rating 6.4/10.",
@@ -1916,6 +2112,70 @@
    "t": "Belle and Sebastian: The Adventure Continues (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:337404": {
+   "d": "Cruella (2021): Comedy/Crime film. Story: In 1970s London amidst the punk rock revolution, a… See cast, budget $200M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+   "industry": "world",
+   "k": "Cruella, Cruella movie, Cruella cast, Cruella story, Cruella box office collection, Cruella budget, Cruella review, Cruella rating, Cruella release date, Cruella trailer, Cruella Comedy, Cruella Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emma Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Thompson"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Fry"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Walter Hauser"
+     },
+     {
+      "@type": "Person",
+      "name": "John McCrea"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10455,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Cruella (2021): Comedy/Crime film. Story: In 1970s London amidst the punk rock revolution, a… See cast, budget $200M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Craig Gillespie"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=337404",
+    "name": "Cruella",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-05-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=337404"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cruella (2021)</h1>\n<p class=\"ssr-lead\">In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 May 2021</li><li>Runtime: 134 minutes</li><li>Director: Craig Gillespie</li><li>Genres: Comedy, Crime</li><li>Budget: $200M</li><li>TMDB rating: 8.0/10 (10455 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Stone as Estella / Cruella</li><li>Emma Thompson as The Baroness</li><li>Joel Fry as Jasper</li><li>Paul Walter Hauser as Horace</li><li>John McCrea as Artie</li><li>Emily Beecham as Catherine / Maid</li><li>Mark Strong as John the Valet</li><li>Kayvan Novak as Roger</li><li>Kirby Howell-Baptiste as Anita Darling</li><li>Jamie Demetriou as Gerald</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Cruella (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:4104": {
    "d": "Benny & Joon (1993): Comedy/Drama film. Story: A mentally ill young woman finds love with an… See cast, TMDB rating 7.0/10, and release date 16 April 1993.",
    "img": "https://image.tmdb.org/t/p/w780/zkWodV1ToZhYXzume3SQjvabWLS.jpg",
@@ -1980,6 +2240,70 @@
    "t": "Benny & Joon (1993) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1993"
   },
+  "movie:419704": {
+   "d": "Ad Astra (2019): Science Fiction/Drama film. Story: The near future, a time when both hope and hardships… See cast, budget $87.5M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/duengnNbJdTdjR329SmAAJO4stC.jpg",
+   "industry": "world",
+   "k": "Ad Astra, Ad Astra movie, Ad Astra cast, Ad Astra story, Ad Astra box office collection, Ad Astra budget, Ad Astra review, Ad Astra rating, Ad Astra release date, Ad Astra trailer, Ad Astra Science Fiction, Ad Astra Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Tommy Lee Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Liv Tyler"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruth Negga"
+     },
+     {
+      "@type": "Person",
+      "name": "Donald Sutherland"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7546,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Ad Astra (2019): Science Fiction/Drama film. Story: The near future, a time when both hope and hardships… See cast, budget $87.5M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Gray"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/duengnNbJdTdjR329SmAAJO4stC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=419704",
+    "name": "Ad Astra",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-09-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=419704"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ad Astra (2019)</h1>\n<p class=\"ssr-lead\">The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 September 2019</li><li>Runtime: 123 minutes</li><li>Director: James Gray</li><li>Genres: Science Fiction, Drama</li><li>Budget: $87.5M</li><li>TMDB rating: 6.1/10 (7546 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brad Pitt as Roy McBride</li><li>Tommy Lee Jones as H. Clifford McBride</li><li>Liv Tyler as Eve</li><li>Ruth Negga as Helen Lantos</li><li>Donald Sutherland as Thomas Pruitt</li><li>Kimberly Elise as Lorraine Deavers</li><li>Loren Dean as Donald Stanford</li><li>Donnie Keshawarz as Captain Lawrence Tanner</li><li>Sean Blakemore as Willie Levant</li><li>Bobby Nish as Franklin Yoshida</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, fuboTV, YouTube TV, FXNow, Netflix Standard with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Ad Astra (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
+  },
   "movie:43904": {
    "d": "L'Atalante (1934): Comedy/Drama film. Story: Newly married couple Juliette and ship captain Jean… See cast and TMDB rating 7.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
@@ -2043,6 +2367,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>L&#x27;Atalante (1934)</h1>\n<p class=\"ssr-lead\">Newly married couple Juliette and ship captain Jean struggle through marriage as they travel on the L&#x27;Atalante along with the captain&#x27;s first mate and a cabin boy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 1934</li><li>Runtime: 88 minutes</li><li>Director: Jean Vigo</li><li>Genres: Comedy, Drama, Romance</li><li>TMDB rating: 7.5/10 (489 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michel Simon as Père Jules</li><li>Dita Parlo as Juliette</li><li>Jean Dasté as Jean</li><li>Gilles Margaritis as Peddler</li><li>Louis Lefebvre as Cabin Boy</li><li>Maurice Gilles as Office Manager</li><li>Raphaël Diligent as Raspoutine, the boatman</li><li>Claude Aveline as (uncredited)</li><li>René Blech as Best Man at Wedding (uncredited)</li><li>Lou Bonin as Passenger at Railway Station (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Darkroom</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "L'Atalante (1934) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1934"
+  },
+  "movie:447404": {
+   "d": "Pokémon Detective Pikachu (2019): Action/Adventure film. Story: In a world where people collect pocket-size monsters… See cast and budget $150M.",
+   "img": "https://image.tmdb.org/t/p/w780/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+   "industry": "world",
+   "k": "Pokémon Detective Pikachu, Pokémon Detective Pikachu movie, Pokémon Detective Pikachu cast, Pokémon Detective Pikachu story, Pokémon Detective Pikachu box office collection, Pokémon Detective Pikachu budget, Pokémon Detective Pikachu review, Pokémon Detective Pikachu rating, Pokémon Detective Pikachu release date, Pokémon Detective Pikachu trailer, Pokémon Detective Pikachu Action, Pokémon Detective Pikachu Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Justice Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathryn Newton"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Nighy"
+     },
+     {
+      "@type": "Person",
+      "name": "Ken Watanabe"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7605,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Pokémon Detective Pikachu (2019): Action/Adventure film. Story: In a world where people collect pocket-size monsters… See cast and budget $150M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rob Letterman"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=447404",
+    "name": "Pokémon Detective Pikachu",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-05-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=447404"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pokémon Detective Pikachu (2019)</h1>\n<p class=\"ssr-lead\">In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 May 2019</li><li>Runtime: 105 minutes</li><li>Director: Rob Letterman</li><li>Genres: Action, Adventure, Fantasy</li><li>Budget: $150M</li><li>TMDB rating: 6.9/10 (7605 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Reynolds as Detective Pikachu (voice)</li><li>Justice Smith as Tim Goodman</li><li>Kathryn Newton as Lucy Stevens</li><li>Bill Nighy as Howard Clifford</li><li>Ken Watanabe as Lieutenant Hide Yoshida</li><li>Chris Geere as Roger Clifford</li><li>Suki Waterhouse as Ms. Norman</li><li>Josette Simon as Grams</li><li>Alejandro De Mesa as Bartender</li><li>Rita Ora as Dr. Ann Laurent</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Pokémon Detective Pikachu (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:451504": {
    "d": "Joint Custody (2017): Comedy film. Story: A wife finds out her husband has a mistress. She… See cast, TMDB rating 5.7/10, and release date 20 December 2017.",
@@ -2744,6 +3132,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Porno (2019)</h1>\n<p class=\"ssr-lead\">When a group of naive teens working at a movie theater in a small Christian town discover a mysterious film hidden in its basement, they unleash an alluring succubus who gives them a sex education…written in blood.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2019</li><li>Runtime: 98 minutes</li><li>Director: Keola Racela</li><li>Genres: Comedy, Horror</li><li>TMDB rating: 6.0/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Evan Daves as Abe</li><li>Larry Saperstein as Todd</li><li>Jillian Mueller as Chaz</li><li>Glenn Stott as Ricky</li><li>Robbie Tann as Heavy Metal Jeff</li><li>Katelyn Pearce as Lilith</li><li>Bill Phillips as Mr. Pike</li><li>Peter Reznikoff as Lord Beekman</li><li>Amber Paul as Woman</li><li>David Arrow as Man</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: ARROW</li><li>Rent: Apple TV Store, Fandango At Home</li><li>Buy: Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "Porno (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:60304": {
+   "d": "Hansel & Gretel: Witch Hunters (2013): Fantasy/Horror film. Story: After getting a taste for blood as children, Hansel… See cast and budget $50M.",
+   "img": "https://image.tmdb.org/t/p/w780/mJSe5dxKu8Sq0GfdjdWVqdGvzfV.jpg",
+   "industry": "world",
+   "k": "Hansel & Gretel: Witch Hunters, Hansel & Gretel: Witch Hunters movie, Hansel & Gretel: Witch Hunters cast, Hansel & Gretel: Witch Hunters story, Hansel & Gretel: Witch Hunters box office collection, Hansel & Gretel: Witch Hunters budget, Hansel & Gretel: Witch Hunters review, Hansel & Gretel: Witch Hunters rating, Hansel & Gretel: Witch Hunters release date, Hansel & Gretel: Witch Hunters trailer, Hansel & Gretel: Witch Hunters Fantasy, Hansel & Gretel: Witch Hunters Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jeremy Renner"
+     },
+     {
+      "@type": "Person",
+      "name": "Gemma Arterton"
+     },
+     {
+      "@type": "Person",
+      "name": "Famke Janssen"
+     },
+     {
+      "@type": "Person",
+      "name": "Pihla Viitala"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Stormare"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7296,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Hansel & Gretel: Witch Hunters (2013): Fantasy/Horror film. Story: After getting a taste for blood as children, Hansel… See cast and budget $50M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tommy Wirkola"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Fantasy",
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mJSe5dxKu8Sq0GfdjdWVqdGvzfV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=60304",
+    "name": "Hansel & Gretel: Witch Hunters",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-01-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=60304"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hansel &amp; Gretel: Witch Hunters (2013)</h1>\n<p class=\"ssr-lead\">After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 2013</li><li>Runtime: 88 minutes</li><li>Director: Tommy Wirkola</li><li>Genres: Fantasy, Horror, Action</li><li>Budget: $50M</li><li>TMDB rating: 6.1/10 (7296 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jeremy Renner as Hansel</li><li>Gemma Arterton as Gretel</li><li>Famke Janssen as Muriel</li><li>Pihla Viitala as Mina</li><li>Peter Stormare as Sheriff Berringer</li><li>Kathrin Kühnel as Adrianna</li><li>Thomas Scharff as Father</li><li>Rainer Bock as Mayor Engleman</li><li>Derek Mears as Edward</li><li>Robin Atkin Downes as Edward (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Hansel & Gretel: Witch Hunters (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:604": {
+   "d": "The Matrix Reloaded (2003): Action/Thriller film. Story: The Resistance builds in numbers as humans are freed… See cast, budget $150M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+   "industry": "world",
+   "k": "The Matrix Reloaded, The Matrix Reloaded movie, The Matrix Reloaded cast, The Matrix Reloaded story, The Matrix Reloaded box office collection, The Matrix Reloaded budget, The Matrix Reloaded review, The Matrix Reloaded rating, The Matrix Reloaded release date, The Matrix Reloaded trailer, The Matrix Reloaded Action, The Matrix Reloaded Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Fishburne"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie-Anne Moss"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Jada Pinkett Smith"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12545,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Matrix Reloaded (2003): Action/Thriller film. Story: The Resistance builds in numbers as humans are freed… See cast, budget $150M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lana Wachowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Lilly Wachowski"
+     }
+    ],
+    "duration": "PT138M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=604",
+    "name": "The Matrix Reloaded",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-05-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=604"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Matrix Reloaded (2003)</h1>\n<p class=\"ssr-lead\">The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 May 2003</li><li>Runtime: 138 minutes</li><li>Director: Lana Wachowski, Lilly Wachowski</li><li>Genres: Action, Thriller, Science Fiction</li><li>Budget: $150M</li><li>TMDB rating: 7.1/10 (12545 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as Neo</li><li>Laurence Fishburne as Morpheus</li><li>Carrie-Anne Moss as Trinity</li><li>Hugo Weaving as Agent Smith</li><li>Jada Pinkett Smith as Niobe</li><li>Gloria Foster as The Oracle</li><li>Harold Perrineau as Link</li><li>Monica Bellucci as Persephone</li><li>Harry Lennix as Commander Lock</li><li>Lambert Wilson as The Merovingian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Matrix Reloaded (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
   },
   "movie:628704": {
    "d": "Midnight (2021): Thriller/Crime film. Story: A serial killer ruthlessly hunts down a deaf woman… See cast, TMDB rating 7.1/10, and release date 30 June 2021.",

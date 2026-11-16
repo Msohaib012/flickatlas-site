@@ -1,6 +1,6 @@
 {
  "bucket": "90",
- "count": 59,
+ "count": 63,
  "titles": {
   "movie:1022690": {
    "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
@@ -4684,6 +4684,153 @@
    "vote_average": 6.189,
    "vote_count": 352
   },
+  "movie:406990": {
+   "backdrop_path": "/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "The Settman Siblings",
+     "n": "Noomi Rapace"
+    },
+    {
+     "c": "Nicolette Cayman",
+     "n": "Glenn Close"
+    },
+    {
+     "c": "Terrence Settman",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Adrian Knowles",
+     "n": "Marwan Kenzari"
+    },
+    {
+     "c": "Joe",
+     "n": "Christian Rubeck"
+    },
+    {
+     "c": "Jerry",
+     "n": "Pål Sverre Hagen"
+    },
+    {
+     "c": "Eddie",
+     "n": "Tomiwa Edun"
+    },
+    {
+     "c": "Zaquia",
+     "n": "Cassie Clare"
+    },
+    {
+     "c": "Dutch",
+     "n": "Cameron Jack"
+    },
+    {
+     "c": "The Young Settman Siblings",
+     "n": "Clara Read"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tommy Wirkola"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery",
+    "Action"
+   ],
+   "id": 406990,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+   "popularity": 6.6971,
+   "poster_path": "/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-08-18",
+   "revenue": 27975429,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Seven sisters. One identity.",
+   "title": "What Happened to Monday",
+   "trailer": {
+    "key": "idZPTuwcMJA",
+    "name": "What Happened To Monday | Official Trailer [HD] | Netflix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.133,
+   "vote_count": 6636
+  },
   "movie:407890": {
    "backdrop_path": "/a26Gj4TqFKEdku1XLIWLFpzUgv4.jpg",
    "budget": 8000000,
@@ -5661,6 +5808,399 @@
    "vote_average": 5.4,
    "vote_count": 414
   },
+  "movie:64690": {
+   "backdrop_path": "/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Driver",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Irene",
+     "n": "Carey Mulligan"
+    },
+    {
+     "c": "Shannon",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Bernie Rose",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Standard",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Blanche",
+     "n": "Christina Hendricks"
+    },
+    {
+     "c": "Nino",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Benicio",
+     "n": "Kaden Leos"
+    },
+    {
+     "c": "Tan Suit",
+     "n": "Jeff Wolfe"
+    },
+    {
+     "c": "Cook",
+     "n": "James Biberi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Nicolas Winding Refn"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 64690,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+   "popularity": 12.8364,
+   "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Icon Film Amazon Channel"
+    },
+    {
+     "name": "Sundance Now Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-09-30",
+   "revenue": 79713640,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are no clean getaways.",
+   "title": "Drive",
+   "trailer": {
+    "key": "inTc4Q_gEWQ",
+    "name": "Movie Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.582,
+   "vote_count": 14252
+  },
+  "movie:72190": {
+   "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Gerry Lane",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Karen Lane",
+     "n": "Mireille Enos"
+    },
+    {
+     "c": "Segen",
+     "n": "Daniella Kertesz"
+    },
+    {
+     "c": "Captain Speke",
+     "n": "James Badge Dale"
+    },
+    {
+     "c": "Jurgen Warmbrunn",
+     "n": "Ludi Boeken"
+    },
+    {
+     "c": "Parajumper",
+     "n": "Matthew Fox"
+    },
+    {
+     "c": "Thierry Umutoni",
+     "n": "Fana Mokoena"
+    },
+    {
+     "c": "Ex-CIA Agent",
+     "n": "David Morse"
+    },
+    {
+     "c": "Andrew Fassbach",
+     "n": "Elyes Gabel"
+    },
+    {
+     "c": "Constance Lane",
+     "n": "Sterling Jerins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Marc Forster"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 72190,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+   "popularity": 16.3559,
+   "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-06-19",
+   "revenue": 531865000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There will come a day when the world we know will end.",
+   "title": "World War Z",
+   "trailer": {
+    "key": "TvRCQM2HrXs",
+    "name": "Official Movie Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.858,
+   "vote_count": 17310
+  },
   "movie:7290": {
    "backdrop_path": "/1RsbtQ0hhEORWszanaWom6pK51D.jpg",
    "budget": 26000000,
@@ -6254,6 +6794,127 @@
    "type": "movie",
    "vote_average": 5.5,
    "vote_count": 829
+  },
+  "movie:82690": {
+   "backdrop_path": "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "Ralph (voice)",
+     "n": "John C. Reilly"
+    },
+    {
+     "c": "Vanellope (voice)",
+     "n": "Sarah Silverman"
+    },
+    {
+     "c": "Felix (voice)",
+     "n": "Jack McBrayer"
+    },
+    {
+     "c": "Calhoun (voice)",
+     "n": "Jane Lynch"
+    },
+    {
+     "c": "King Candy (voice)",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Sour Bill / Zangief (voice)",
+     "n": "Rich Moore"
+    },
+    {
+     "c": "Gene / Zombie (voice)",
+     "n": "Raymond S. Persi"
+    },
+    {
+     "c": "Taffyta Muttonfudge (voice)",
+     "n": "Mindy Kaling"
+    },
+    {
+     "c": "Rancis Fluggerbutter (voice)",
+     "n": "Jamie Elman"
+    },
+    {
+     "c": "Wynnchel (voice)",
+     "n": "Adam Carolla"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Rich Moore"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 82690,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
+   "popularity": 11.7371,
+   "poster_path": "/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-11-01",
+   "revenue": 471222889,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When the game is over, the fun begins.",
+   "title": "Wreck-It Ralph",
+   "trailer": {
+    "key": "87E6N7ToCxs",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.359,
+   "vote_count": 13473
   },
   "movie:9090": {
    "backdrop_path": "/xga9dXEIJHAjNLGMjw4VDPH7LJB.jpg",

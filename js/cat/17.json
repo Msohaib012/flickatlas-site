@@ -1,6 +1,6 @@
 {
  "bucket": "17",
- "count": 86,
+ "count": 94,
  "titles": {
   "movie:10117": {
    "backdrop_path": "/wz9Fntmcqvrd4bqtPCTLp5DeEwc.jpg",
@@ -1246,6 +1246,157 @@
    "vote_average": 5.211,
    "vote_count": 64
   },
+  "movie:122917": {
+   "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Gandalf the Grey",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Bilbo Baggins",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Thorin Oakenshield",
+     "n": "Richard Armitage"
+    },
+    {
+     "c": "Legolas",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Tauriel",
+     "n": "Evangeline Lilly"
+    },
+    {
+     "c": "Bard",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "King Thranduil",
+     "n": "Lee Pace"
+    },
+    {
+     "c": "Smaug / Sauron (voice)",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Balin",
+     "n": "Ken Stott"
+    },
+    {
+     "c": "Kili",
+     "n": "Aidan Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 122917,
+   "industry": "world",
+   "origin_country": [
+    "NZ"
+   ],
+   "original_language": "en",
+   "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+   "popularity": 22.1219,
+   "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-12-10",
+   "revenue": 956019788,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Will you follow me... one last time?",
+   "title": "The Hobbit: The Battle of the Five Armies",
+   "trailer": {
+    "key": "Y6Fv5StfAxA",
+    "name": "Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.341,
+   "vote_count": 15991
+  },
   "movie:1244517": {
    "backdrop_path": "/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
    "budget": 0,
@@ -2415,6 +2566,147 @@
    "type": "movie",
    "vote_average": 6.569,
    "vote_count": 108
+  },
+  "movie:1417": {
+   "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Ofelia",
+     "n": "Ivana Baquero"
+    },
+    {
+     "c": "Capitán Vidal",
+     "n": "Sergi López"
+    },
+    {
+     "c": "Mercedes",
+     "n": "Maribel Verdú"
+    },
+    {
+     "c": "Fauno / Pale Man",
+     "n": "Doug Jones"
+    },
+    {
+     "c": "Carmen",
+     "n": "Ariadna Gil"
+    },
+    {
+     "c": "Dr. Ferreiro",
+     "n": "Álex Angulo"
+    },
+    {
+     "c": "Pedro",
+     "n": "Roger Casamajor"
+    },
+    {
+     "c": "Garcés",
+     "n": "Manolo Solo"
+    },
+    {
+     "c": "Serrano",
+     "n": "César Vea"
+    },
+    {
+     "c": "El Tarta",
+     "n": "Ivan Massagué"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Guillermo del Toro"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "War"
+   ],
+   "id": 1417,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+   "popularity": 15.2139,
+   "poster_path": "/khBQ6nN5FLfg9XgPXIZDkABJjqo.jpg",
+   "production_countries": [
+    "MX",
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-10-11",
+   "revenue": 83258226,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Innocence has a power evil cannot imagine.",
+   "title": "Pan's Labyrinth",
+   "trailer": {
+    "key": "OBGKGm3RYos",
+    "name": "Official 20th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.77,
+   "vote_count": 11921
   },
   "movie:14517": {
    "backdrop_path": "/zDkLBWZmt8jZrEhdKoUKoaEwETC.jpg",
@@ -3727,6 +4019,178 @@
    "vote_average": 5.774,
    "vote_count": 349
   },
+  "movie:187017": {
+   "backdrop_path": "/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Schmidt",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Jenko",
+     "n": "Channing Tatum"
+    },
+    {
+     "c": "The Ghost",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Zook",
+     "n": "Wyatt Russell"
+    },
+    {
+     "c": "Maya",
+     "n": "Amber Stevens West"
+    },
+    {
+     "c": "Mercedes",
+     "n": "Jillian Bell"
+    },
+    {
+     "c": "Captain Dickson",
+     "n": "Ice Cube"
+    },
+    {
+     "c": "Keith Yang",
+     "n": "Keith Lucas"
+    },
+    {
+     "c": "Kenny Yang",
+     "n": "Kenneth Lucas"
+    },
+    {
+     "c": "Deputy Chief Hardy",
+     "n": "Nick Offerman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Action"
+   ],
+   "id": 187017,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+   "popularity": 6.5082,
+   "poster_path": "/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-06-05",
+   "revenue": 331333876,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're not 21 anymore.",
+   "title": "22 Jump Street",
+   "trailer": {
+    "key": "qP755JkDxyM",
+    "name": "Final Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.827,
+   "vote_count": 8852
+  },
   "movie:18917": {
    "backdrop_path": "/jExkMK7bByCh4AjpEa4eOixtnUt.jpg",
    "budget": 0,
@@ -3972,6 +4436,166 @@
    "vote_average": 7.115,
    "vote_count": 482
   },
+  "movie:217": {
+   "backdrop_path": "/p96949hcwUG2BwE6MgKmw0uYNCx.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Indiana Jones",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Irina Spalko",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Marion Ravenwood",
+     "n": "Karen Allen"
+    },
+    {
+     "c": "Mutt Williams",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "George 'Mac' McHale",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Professor Harold Oxley",
+     "n": "John Hurt"
+    },
+    {
+     "c": "Dean Charles Stanforth",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Antonin Dovchenko",
+     "n": "Igor Jijikine"
+    },
+    {
+     "c": "Russian Suit",
+     "n": "Dimitri Diatchenko"
+    },
+    {
+     "c": "Russian Suit",
+     "n": "Ilia Volok"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 217,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+   "popularity": 9.4108,
+   "poster_path": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-05-21",
+   "revenue": 786636033,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "The adventure continues...",
+   "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+   "trailer": {
+    "key": "kTJy1rFBtVw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.027,
+   "vote_count": 9386
+  },
   "movie:26317": {
    "backdrop_path": "/xPuGtHPc1aADsfXds87noXVz2Hh.jpg",
    "budget": 0,
@@ -4161,6 +4785,145 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 334
+  },
+  "movie:286217": {
+   "backdrop_path": "/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
+   "budget": 108000000,
+   "cast": [
+    {
+     "c": "Mark Watney",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Melissa Lewis",
+     "n": "Jessica Chastain"
+    },
+    {
+     "c": "Annie Montrose",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Theodore \"Teddy\" Sanders",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Rick Martinez",
+     "n": "Michael Peña"
+    },
+    {
+     "c": "Mitch Henderson",
+     "n": "Sean Bean"
+    },
+    {
+     "c": "Beth Johanssen",
+     "n": "Kate Mara"
+    },
+    {
+     "c": "Chris Beck",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Alex Vogel",
+     "n": "Aksel Hennie"
+    },
+    {
+     "c": "Vincent Kapoor",
+     "n": "Chiwetel Ejiofor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Adventure"
+   ],
+   "id": 286217,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+   "popularity": 16.4433,
+   "poster_path": "/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-10-02",
+   "revenue": 631058917,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Bring him home.",
+   "title": "The Martian",
+   "trailer": {
+    "key": "ej3ioOneTy8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.712,
+   "vote_count": 22129
   },
   "movie:30017": {
    "backdrop_path": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
@@ -5445,6 +6208,485 @@
    "type": "movie",
    "vote_average": 5.757,
    "vote_count": 409
+  },
+  "movie:420817": {
+   "backdrop_path": "/rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg",
+   "budget": 183000000,
+   "cast": [
+    {
+     "c": "Aladdin",
+     "n": "Mena Massoud"
+    },
+    {
+     "c": "Genie / Mariner",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Jasmine",
+     "n": "Naomi Scott"
+    },
+    {
+     "c": "Jafar",
+     "n": "Marwan Kenzari"
+    },
+    {
+     "c": "Sultan",
+     "n": "Navid Negahban"
+    },
+    {
+     "c": "Dalia",
+     "n": "Nasim Pedrad"
+    },
+    {
+     "c": "Prince Anders",
+     "n": "Billy Magnussen"
+    },
+    {
+     "c": "Hakim",
+     "n": "Numan Acar"
+    },
+    {
+     "c": "Omar",
+     "n": "Jordan A. Nash"
+    },
+    {
+     "c": "Lian",
+     "n": "Taliyah Blair"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Family"
+   ],
+   "id": 420817,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
+   "popularity": 9.681,
+   "poster_path": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-05-24",
+   "revenue": 1054304000,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Choose wisely.",
+   "title": "Aladdin",
+   "trailer": {
+    "key": "h44kpghglWw",
+    "name": "Disney's Aladdin",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.073,
+   "vote_count": 10923
+  },
+  "movie:429617": {
+   "backdrop_path": "/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Peter Parker / Spider-Man",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "Quentin Beck / Mysterio",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Nick Fury",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "May Parker",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Happy Hogan",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "MJ",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Ned Leeds",
+     "n": "Jacob Batalon"
+    },
+    {
+     "c": "Flash Thompson",
+     "n": "Tony Revolori"
+    },
+    {
+     "c": "Betty Brant",
+     "n": "Angourie Rice"
+    },
+    {
+     "c": "Brad Davis",
+     "n": "Remy Hii"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jon Watts"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 429617,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+   "popularity": 20.1611,
+   "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-07-04",
+   "revenue": 1132723226,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cs",
+    "nl",
+    "en",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "It's time to step up.",
+   "title": "Spider-Man: Far From Home",
+   "trailer": {
+    "key": "LFoz8ZJWmPs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.385,
+   "vote_count": 17910
+  },
+  "movie:49017": {
+   "backdrop_path": "/oa0bHsnrD96miW3Yx10HWb211Sj.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Vlad Tepes / Dracula",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "Mirena / Mina Murray",
+     "n": "Sarah Gadon"
+    },
+    {
+     "c": "Mehmed II",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Ingeras",
+     "n": "Art Parkinson"
+    },
+    {
+     "c": "Master Vampire",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Dimitru",
+     "n": "Diarmaid Murtagh"
+    },
+    {
+     "c": "Brother Lucian",
+     "n": "Paul Kaye"
+    },
+    {
+     "c": "Cazan",
+     "n": "William Houston"
+    },
+    {
+     "c": "Captain Petru",
+     "n": "Noah Huntley"
+    },
+    {
+     "c": "Simion",
+     "n": "Ronan Vibert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gary Shore"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 49017,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire, Dracula.",
+   "popularity": 5.1369,
+   "poster_path": "/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-01",
+   "revenue": 217124280,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every bloodline has a beginning.",
+   "title": "Dracula Untold",
+   "trailer": {
+    "key": "BRhjwiglXvQ",
+    "name": "Custom Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.468,
+   "vote_count": 6703
   },
   "movie:4917": {
    "backdrop_path": "/sWOQBQYkJvm8W7HGk6J8OAjPl2V.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "04",
- "count": 71,
+ "count": 79,
  "titles": {
   "movie:10404": {
    "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
@@ -1479,6 +1479,180 @@
    "vote_average": 6.6,
    "vote_count": 436
   },
+  "movie:13804": {
+   "backdrop_path": "/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Brian O'Conner",
+     "n": "Paul Walker"
+    },
+    {
+     "c": "Letty Ortiz",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Mia Toretto",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Ramon Campos",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Fenix Calderon",
+     "n": "Laz Alonso"
+    },
+    {
+     "c": "Gisele Yashar",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Penning",
+     "n": "Jack Conley"
+    },
+    {
+     "c": "Michael Stasiak",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "Trinh",
+     "n": "Liza Lapira"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Justin Lin"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 13804,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
+   "popularity": 1.1228,
+   "poster_path": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+   "production_countries": [
+    "US",
+    "MX",
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-04-02",
+   "revenue": 363164265,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "New model. Original parts.",
+   "title": "Fast & Furious",
+   "trailer": {
+    "key": "ne5E7hOQqn0",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.681,
+   "vote_count": 8152
+  },
   "movie:1404304": {
    "backdrop_path": "/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
    "budget": 0,
@@ -2829,6 +3003,138 @@
    "vote_average": 5.831,
    "vote_count": 991
   },
+  "movie:20504": {
+   "backdrop_path": "/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Eli",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Carnegie",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Solara",
+     "n": "Mila Kunis"
+    },
+    {
+     "c": "Redridge",
+     "n": "Ray Stevenson"
+    },
+    {
+     "c": "Claudia",
+     "n": "Jennifer Beals"
+    },
+    {
+     "c": "George",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Engineer",
+     "n": "Tom Waits"
+    },
+    {
+     "c": "Martha",
+     "n": "Frances de la Tour"
+    },
+    {
+     "c": "Martz",
+     "n": "Evan Jones"
+    },
+    {
+     "c": "Hoyt",
+     "n": "Joe Pingue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Allen Hughes",
+    "Albert Hughes"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 20504,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.",
+   "popularity": 8.3162,
+   "poster_path": "/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-03-19",
+   "revenue": 157107755,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some will kill to have it. He will kill to protect it.",
+   "title": "The Book of Eli",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.811,
+   "vote_count": 7014
+  },
   "movie:2204": {
    "backdrop_path": "/gDibTI8sDBhFnczL3VqHhlnfq78.jpg",
    "budget": 0,
@@ -3383,6 +3689,160 @@
    "type": "movie",
    "vote_average": 5.0,
    "vote_count": 331
+  },
+  "movie:262504": {
+   "backdrop_path": "/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Beatrice 'Tris' Prior",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "Tobias 'Four' Eaton",
+     "n": "Theo James"
+    },
+    {
+     "c": "Peter Hayes",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Christina",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Evelyn Johnson-Eaton",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "David",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Caleb Prior",
+     "n": "Ansel Elgort"
+    },
+    {
+     "c": "Johanna Reyes",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Uriah Pedrad",
+     "n": "Keiynan Lonsdale"
+    },
+    {
+     "c": "Jack Kang",
+     "n": "Daniel Dae Kim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Schwentke"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 262504,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+   "popularity": 5.8914,
+   "poster_path": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-03-09",
+   "revenue": 179246868,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The truth lies beyond the wall.",
+   "title": "Allegiant",
+   "trailer": {
+    "key": "ESJBomF-9Y8",
+    "name": "The Divergent Series: Allegiant IMAX® Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.1,
+   "vote_count": 7170
   },
   "movie:309304": {
    "backdrop_path": "/kiVn09vghnscMWMqlX8uoQuXtMW.jpg",
@@ -3962,6 +4422,129 @@
    "vote_average": 6.899,
    "vote_count": 363
   },
+  "movie:337404": {
+   "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Estella / Cruella",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "The Baroness",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Jasper",
+     "n": "Joel Fry"
+    },
+    {
+     "c": "Horace",
+     "n": "Paul Walter Hauser"
+    },
+    {
+     "c": "Artie",
+     "n": "John McCrea"
+    },
+    {
+     "c": "Catherine / Maid",
+     "n": "Emily Beecham"
+    },
+    {
+     "c": "John the Valet",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Roger",
+     "n": "Kayvan Novak"
+    },
+    {
+     "c": "Anita Darling",
+     "n": "Kirby Howell-Baptiste"
+    },
+    {
+     "c": "Gerald",
+     "n": "Jamie Demetriou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Craig Gillespie"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 337404,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+   "popularity": 9.8933,
+   "poster_path": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-05-26",
+   "revenue": 233503234,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Hello cruel world.",
+   "title": "Cruella",
+   "trailer": {
+    "key": "jpZrVxvG3mk",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.958,
+   "vote_count": 10455
+  },
   "movie:4104": {
    "backdrop_path": "/zkWodV1ToZhYXzume3SQjvabWLS.jpg",
    "budget": 0,
@@ -4086,6 +4669,224 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 874
+  },
+  "movie:419704": {
+   "backdrop_path": "/duengnNbJdTdjR329SmAAJO4stC.jpg",
+   "budget": 87500000,
+   "cast": [
+    {
+     "c": "Roy McBride",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "H. Clifford McBride",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Eve",
+     "n": "Liv Tyler"
+    },
+    {
+     "c": "Helen Lantos",
+     "n": "Ruth Negga"
+    },
+    {
+     "c": "Thomas Pruitt",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Lorraine Deavers",
+     "n": "Kimberly Elise"
+    },
+    {
+     "c": "Donald Stanford",
+     "n": "Loren Dean"
+    },
+    {
+     "c": "Captain Lawrence Tanner",
+     "n": "Donnie Keshawarz"
+    },
+    {
+     "c": "Willie Levant",
+     "n": "Sean Blakemore"
+    },
+    {
+     "c": "Franklin Yoshida",
+     "n": "Bobby Nish"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Gray"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 419704,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+   "popularity": 3.8601,
+   "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+   "production_countries": [
+    "BR",
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+     "name": "FXNow",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-09-17",
+   "revenue": 127461872,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "The answers we seek are just outside our reach.",
+   "title": "Ad Astra",
+   "trailer": {
+    "key": "BsCNKuB93BA",
+    "name": "Ad Astra | IMAX Trailer [HD] | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.146,
+   "vote_count": 7546
   },
   "movie:43904": {
    "backdrop_path": "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
@@ -4230,6 +5031,169 @@
    "type": "movie",
    "vote_average": 7.484,
    "vote_count": 489
+  },
+  "movie:447404": {
+   "backdrop_path": "/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Detective Pikachu (voice)",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Tim Goodman",
+     "n": "Justice Smith"
+    },
+    {
+     "c": "Lucy Stevens",
+     "n": "Kathryn Newton"
+    },
+    {
+     "c": "Howard Clifford",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Lieutenant Hide Yoshida",
+     "n": "Ken Watanabe"
+    },
+    {
+     "c": "Roger Clifford",
+     "n": "Chris Geere"
+    },
+    {
+     "c": "Ms. Norman",
+     "n": "Suki Waterhouse"
+    },
+    {
+     "c": "Grams",
+     "n": "Josette Simon"
+    },
+    {
+     "c": "Bartender",
+     "n": "Alejandro De Mesa"
+    },
+    {
+     "c": "Dr. Ann Laurent",
+     "n": "Rita Ora"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Rob Letterman"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 447404,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+   "popularity": 6.8426,
+   "poster_path": "/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-05-10",
+   "revenue": 450063166,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Partner up!",
+   "title": "Pokémon Detective Pikachu",
+   "trailer": {
+    "key": "S_uE8kX0CkY",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.889,
+   "vote_count": 7605
   },
   "movie:451504": {
    "backdrop_path": "/ndyDDRLitBb97W27PYsF7c8UHKP.jpg",
@@ -5611,6 +6575,312 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 437
+  },
+  "movie:60304": {
+   "backdrop_path": "/mJSe5dxKu8Sq0GfdjdWVqdGvzfV.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Hansel",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Gretel",
+     "n": "Gemma Arterton"
+    },
+    {
+     "c": "Muriel",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Mina",
+     "n": "Pihla Viitala"
+    },
+    {
+     "c": "Sheriff Berringer",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Adrianna",
+     "n": "Kathrin Kühnel"
+    },
+    {
+     "c": "Father",
+     "n": "Thomas Scharff"
+    },
+    {
+     "c": "Mayor Engleman",
+     "n": "Rainer Bock"
+    },
+    {
+     "c": "Edward",
+     "n": "Derek Mears"
+    },
+    {
+     "c": "Edward (voice)",
+     "n": "Robin Atkin Downes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tommy Wirkola"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Action"
+   ],
+   "id": 60304,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.",
+   "popularity": 7.1688,
+   "poster_path": "/j343Rpj3WeNvP0SV80zveve70io.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-01-17",
+   "revenue": 226349749,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Revenge is sweeter than candy.",
+   "title": "Hansel & Gretel: Witch Hunters",
+   "trailer": {
+    "key": "ErGy23X0B9Q",
+    "name": "Hansel & Gretel: Witch Hunters Official Restricted Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.116,
+   "vote_count": 7296
+  },
+  "movie:604": {
+   "backdrop_path": "/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Neo",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Morpheus",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Trinity",
+     "n": "Carrie-Anne Moss"
+    },
+    {
+     "c": "Agent Smith",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Niobe",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "The Oracle",
+     "n": "Gloria Foster"
+    },
+    {
+     "c": "Link",
+     "n": "Harold Perrineau"
+    },
+    {
+     "c": "Persephone",
+     "n": "Monica Bellucci"
+    },
+    {
+     "c": "Commander Lock",
+     "n": "Harry Lennix"
+    },
+    {
+     "c": "The Merovingian",
+     "n": "Lambert Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lana Wachowski",
+    "Lilly Wachowski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 604,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+   "popularity": 13.8389,
+   "poster_path": "/8xEVAe84zlL9rkfYT6dZXero4KK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-05-15",
+   "revenue": 738599701,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Free your mind.",
+   "title": "The Matrix Reloaded",
+   "trailer": {
+    "key": "zmYE3tg26Qc",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.087,
+   "vote_count": 12545
   },
   "movie:628704": {
    "backdrop_path": "/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",

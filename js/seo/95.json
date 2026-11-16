@@ -1,7 +1,71 @@
 {
  "bucket": "95",
- "count": 64,
+ "count": 74,
  "titles": {
+  "movie:10195": {
+   "d": "Thor (2011): Adventure/Fantasy film. Story: Against his father Odin's will, The Mighty Thor - a… See cast, budget $150M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+   "industry": "world",
+   "k": "Thor, Thor movie, Thor cast, Thor story, Thor box office collection, Thor budget, Thor review, Thor rating, Thor release date, Thor trailer, Thor Adventure, Thor Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hiddleston"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Hopkins"
+     },
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23077,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Thor (2011): Adventure/Fantasy film. Story: Against his father Odin's will, The Mighty Thor - a… See cast, budget $150M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kenneth Branagh"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10195",
+    "name": "Thor",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-04-29"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10195"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Thor (2011)</h1>\n<p class=\"ssr-lead\">Against his father Odin&#x27;s will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 29 April 2011</li><li>Runtime: 115 minutes</li><li>Director: Kenneth Branagh</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $150M</li><li>TMDB rating: 6.8/10 (23077 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Hemsworth as Thor</li><li>Natalie Portman as Jane Foster</li><li>Tom Hiddleston as Loki</li><li>Anthony Hopkins as Odin</li><li>Stellan Skarsgård as Erik Selvig</li><li>Kat Dennings as Darcy Lewis</li><li>Clark Gregg as Agent Coulson</li><li>Colm Feore as King Laufey</li><li>Idris Elba as Heimdall</li><li>Ray Stevenson as Volstagg</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Thor (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:10295": {
    "d": "Miami Supercops (1985): Action/Comedy film. Story: In 1978, $20 million was stolen from a Detroit bank. See cast and TMDB rating 6.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
@@ -1271,6 +1335,70 @@
    "t": "Dragon Ball GT: A Hero's Legacy (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
   },
+  "movie:1895": {
+   "d": "Star Wars: Episode III - Revenge of the Sith (2005): Adventure/Action film. Story: When the sinister Sith unveil a thousand-year-old… See cast and budget $113M.",
+   "img": "https://image.tmdb.org/t/p/w780/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+   "industry": "world",
+   "k": "Star Wars: Episode III - Revenge of the Sith, Star Wars: Episode III - Revenge of the Sith movie, Star Wars: Episode III - Revenge of the Sith cast, Star Wars: Episode III - Revenge of the Sith story, Star Wars: Episode III - Revenge of the Sith box office collection, Star Wars: Episode III - Revenge of the Sith budget, Star Wars: Episode III - Revenge of the Sith review, Star Wars: Episode III - Revenge of the Sith rating, Star Wars: Episode III - Revenge of the Sith release date, Star Wars: Episode III - Revenge of the Sith trailer, Star Wars: Episode III - Revenge of the Sith Adventure, Star Wars: Episode III - Revenge of the Sith Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hayden Christensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McDiarmid"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15515,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Star Wars: Episode III - Revenge of the Sith (2005): Adventure/Action film. Story: When the sinister Sith unveil a thousand-year-old… See cast and budget $113M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "George Lucas"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1895",
+    "name": "Star Wars: Episode III - Revenge of the Sith",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1895"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Star Wars: Episode III - Revenge of the Sith (2005)</h1>\n<p class=\"ssr-lead\">When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2005</li><li>Runtime: 140 minutes</li><li>Director: George Lucas</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $113M</li><li>TMDB rating: 7.5/10 (15515 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hayden Christensen as Anakin Skywalker / Darth Vader</li><li>Ewan McGregor as Obi-Wan Kenobi</li><li>Natalie Portman as Padmé Amidala</li><li>Ian McDiarmid as Chancellor Palpatine / Darth Sidious</li><li>Samuel L. Jackson as Mace Windu</li><li>Jimmy Smits as Senator Bail Organa</li><li>Frank Oz as Yoda (voice)</li><li>Anthony Daniels as C-3PO</li><li>Christopher Lee as Count Dooku</li><li>Keisha Castle-Hughes as Queen of Naboo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Star Wars: Episode III - Revenge of the Sith (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:195": {
    "d": "Trouble in Paradise (1932): Comedy/Crime film. Story: Thief Gaston Monescu and pickpocket Lily are partners… See cast and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
@@ -1334,6 +1462,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Trouble in Paradise (1932)</h1>\n<p class=\"ssr-lead\">Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette&#x27;s personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 1932</li><li>Runtime: 83 minutes</li><li>Director: Ernst Lubitsch</li><li>Genres: Comedy, Crime, Romance</li><li>TMDB rating: 7.4/10 (328 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Miriam Hopkins as Lily</li><li>Kay Francis as Mariette</li><li>Herbert Marshall as Gaston</li><li>Charles Ruggles as Major</li><li>Edward Everett Horton as Francois</li><li>C. Aubrey Smith as Giron</li><li>Robert Greig as Jacques</li><li>Luis Alberni as Annoyed Opera Fan (uncredited)</li><li>Hooper Atchley as Insurance Agent (uncredited)</li><li>Tyler Brooke as Commercial Singer (uncredited)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Trouble in Paradise (1932) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1932"
+  },
+  "movie:1995": {
+   "d": "Lara Croft: Tomb Raider (2001): Adventure/Action film. Story: Orphaned heiress, English aristocrat and intrepid… See cast, budget $115M, and TMDB rating 5.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+   "industry": "world",
+   "k": "Lara Croft: Tomb Raider, Lara Croft: Tomb Raider movie, Lara Croft: Tomb Raider cast, Lara Croft: Tomb Raider story, Lara Croft: Tomb Raider box office collection, Lara Croft: Tomb Raider budget, Lara Croft: Tomb Raider review, Lara Croft: Tomb Raider rating, Lara Croft: Tomb Raider release date, Lara Croft: Tomb Raider Adventure, Lara Croft: Tomb Raider Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Angelina Jolie"
+     },
+     {
+      "@type": "Person",
+      "name": "Iain Glen"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Craig"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Barrie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6764,
+     "ratingValue": 5.9,
+     "worstRating": 0
+    },
+    "description": "Lara Croft: Tomb Raider (2001): Adventure/Action film. Story: Orphaned heiress, English aristocrat and intrepid… See cast, budget $115M, and TMDB rating 5.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Simon West"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1995",
+    "name": "Lara Croft: Tomb Raider",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-09-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1995"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lara Croft: Tomb Raider (2001)</h1>\n<p class=\"ssr-lead\">Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artifact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman&#x27;s unlimited power?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 September 2001</li><li>Runtime: 101 minutes</li><li>Director: Simon West</li><li>Genres: Adventure, Action</li><li>Budget: $115M</li><li>TMDB rating: 5.9/10 (6764 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Angelina Jolie as Lara Croft</li><li>Iain Glen as Manfred Powell</li><li>Daniel Craig as Alex West</li><li>Noah Taylor as Bryce</li><li>Chris Barrie as Hillary</li><li>Jon Voight as Lord Richard Croft</li><li>Julian Rhind-Tutt as Mr. Pimms</li><li>Leslie Phillips as Wilson</li><li>Richard Johnson as Distinguished Gentleman</li><li>Robert Phillips as Assault Team Leader (Julius)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Lara Croft: Tomb Raider (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
+  "movie:19995": {
+   "d": "Avatar (2010): Science Fiction/Action film. Story: In the 22nd century, a paraplegic Marine is… See cast, budget $237M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+   "industry": "world",
+   "k": "Avatar, Avatar movie, Avatar cast, Avatar story, Avatar box office collection, Avatar budget, Avatar review, Avatar rating, Avatar release date, Avatar trailer, Avatar Science Fiction, Avatar Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Worthington"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Lang"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Rodriguez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 35037,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Avatar (2010): Science Fiction/Action film. Story: In the 22nd century, a paraplegic Marine is… See cast, budget $237M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Cameron"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=19995",
+    "name": "Avatar",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-08-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=19995"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Avatar (2010)</h1>\n<p class=\"ssr-lead\">In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 2010</li><li>Runtime: 162 minutes</li><li>Director: James Cameron</li><li>Genres: Science Fiction, Action, Adventure</li><li>Budget: $237M</li><li>TMDB rating: 7.6/10 (35037 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Worthington as Jake Sully</li><li>Zoe Saldaña as Neytiri</li><li>Sigourney Weaver as Dr. Grace Augustine</li><li>Stephen Lang as Colonel Miles Quaritch</li><li>Michelle Rodriguez as Trudy Chacon</li><li>Giovanni Ribisi as Parker Selfridge</li><li>Joel David Moore as Norm Spellman</li><li>CCH Pounder as Mo&#x27;at</li><li>Wes Studi as Eytukan</li><li>Laz Alonso as Tsu&#x27;Tey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Avatar (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
   },
   "movie:25095": {
    "d": "Wuthering Heights (1992): Drama/Romance film. Story: Young orphan Heathcliff is adopted by the wealthy… See cast and TMDB rating 6.7/10.",
@@ -1462,6 +1718,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>She&#x27;s Gotta Have It (1986)</h1>\n<p class=\"ssr-lead\">The story of Nola Darling&#x27;s simultaneous sexual relationships with three different men is told by her and by her partners and other friends. All three men wanted her to commit solely to them; Nola resists being &quot;owned&quot; by a single partner.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 August 1986</li><li>Runtime: 84 minutes</li><li>Director: Spike Lee</li><li>Genres: Comedy, Romance</li><li>Budget: $175.0k</li><li>TMDB rating: 6.6/10 (375 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tracy Camilla Johns as Nola Darling</li><li>Tommy Redmond Hicks as Jamie Overstreet</li><li>John Canada Terrell as Greer Childs</li><li>Spike Lee as Mars Blackmon</li><li>Raye Dowell as Opal Gilstrap</li><li>Joie Lee as Clorinda Bradford</li><li>S. Epatha Merkerson as Doctor Jamison</li><li>Bill Lee as Sonny Darling</li><li>Cheryl Burr as Ava</li><li>Aaron Dugger as Noble</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "She's Gotta Have It (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
+  },
+  "movie:283995": {
+   "d": "Guardians of the Galaxy Vol. 2 (2017): Science Fiction/Adventure film. Story: The Guardians must fight to keep their newfound… See cast and budget $200M.",
+   "img": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+   "industry": "world",
+   "k": "Guardians of the Galaxy Vol. 2, Guardians of the Galaxy Vol. 2 movie, Guardians of the Galaxy Vol. 2 cast, Guardians of the Galaxy Vol. 2 story, Guardians of the Galaxy Vol. 2 box office collection, Guardians of the Galaxy Vol. 2 budget, Guardians of the Galaxy Vol. 2 review, Guardians of the Galaxy Vol. 2 rating, Guardians of the Galaxy Vol. 2 release date, Guardians of the Galaxy Vol. 2 trailer, Guardians of the Galaxy Vol. 2 Science Fiction, Guardians of the Galaxy Vol. 2 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23755,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Guardians of the Galaxy Vol. 2 (2017): Science Fiction/Adventure film. Story: The Guardians must fight to keep their newfound… See cast and budget $200M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Gunn"
+     }
+    ],
+    "duration": "PT137M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=283995",
+    "name": "Guardians of the Galaxy Vol. 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=283995"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Guardians of the Galaxy Vol. 2 (2017)</h1>\n<p class=\"ssr-lead\">The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill&#x27;s true parentage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 May 2017</li><li>Runtime: 137 minutes</li><li>Director: James Gunn</li><li>Genres: Science Fiction, Adventure, Action</li><li>Budget: $200M</li><li>TMDB rating: 7.6/10 (23755 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Peter Quill / Star-Lord</li><li>Zoe Saldaña as Gamora</li><li>Dave Bautista as Drax</li><li>Vin Diesel as Baby Groot (voice)</li><li>Bradley Cooper as Rocket (voice)</li><li>Kurt Russell as Ego</li><li>Michael Rooker as Yondu</li><li>Karen Gillan as Nebula</li><li>Pom Klementieff as Mantis</li><li>Sylvester Stallone as Stakar Ogord</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Guardians of the Galaxy Vol. 2 (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:29095": {
    "d": "Waxwork (1988): Horror/Comedy film. Story: Wealthy slacker Mark, his new girlfriend Sarah, and… See cast, budget $3M, and TMDB rating 6.2/10.",
@@ -2041,6 +2361,134 @@
    "t": "Faces Places (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:453395": {
+   "d": "Doctor Strange in the Multiverse of Madness (2022): Fantasy/Action film. Story: Doctor Strange, with the help of mystical allies both… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+   "industry": "world",
+   "k": "Doctor Strange in the Multiverse of Madness, Doctor Strange in the Multiverse of Madness movie, Doctor Strange in the Multiverse of Madness cast, Doctor Strange in the Multiverse of Madness story, Doctor Strange in the Multiverse of Madness box office collection, Doctor Strange in the Multiverse of Madness budget, Doctor Strange in the Multiverse of Madness review, Doctor Strange in the Multiverse of Madness rating, Doctor Strange in the Multiverse of Madness release date, Doctor Strange in the Multiverse of Madness trailer, Doctor Strange in the Multiverse of Madness Fantasy, Doctor Strange in the Multiverse of Madness Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benedict Cumberbatch"
+     },
+     {
+      "@type": "Person",
+      "name": "Xochitl Gomez"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Olsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiwetel Ejiofor"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedict Wong"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11135,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Doctor Strange in the Multiverse of Madness (2022): Fantasy/Action film. Story: Doctor Strange, with the help of mystical allies both… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Raimi"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=453395",
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-05-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=453395"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Doctor Strange in the Multiverse of Madness (2022)</h1>\n<p class=\"ssr-lead\">Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 May 2022</li><li>Runtime: 126 minutes</li><li>Director: Sam Raimi</li><li>Genres: Fantasy, Action, Adventure</li><li>Budget: $295.4M</li><li>TMDB rating: 7.2/10 (11135 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benedict Cumberbatch as Doctor Stephen Strange</li><li>Xochitl Gomez as America Chavez</li><li>Elizabeth Olsen as Wanda Maximoff / The Scarlet Witch</li><li>Chiwetel Ejiofor as Baron Mordo</li><li>Benedict Wong as Wong</li><li>Rachel McAdams as Dr. Christine Palmer</li><li>Jett Klyne as Tommy Maximoff</li><li>Julian Hilliard as Billy Maximoff</li><li>Michael Stuhlbarg as Dr. Nic West</li><li>Hayley Atwell as Captain Carter</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Doctor Strange in the Multiverse of Madness (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:46195": {
+   "d": "Rio (2011): Animation/Adventure film. Story: Captured by smugglers when he was just a hatchling, a… See cast, budget $90M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
+   "industry": "world",
+   "k": "Rio, Rio movie, Rio cast, Rio story, Rio box office collection, Rio budget, Rio review, Rio rating, Rio release date, Rio trailer, Rio Animation, Rio Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jesse Eisenberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Leslie Mann"
+     },
+     {
+      "@type": "Person",
+      "name": "Jane Lynch"
+     },
+     {
+      "@type": "Person",
+      "name": "will.i.am"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7415,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Rio (2011): Animation/Adventure film. Story: Captured by smugglers when he was just a hatchling, a… See cast, budget $90M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Carlos Saldanha"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=46195",
+    "name": "Rio",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2011-04-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=46195"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rio (2011)</h1>\n<p class=\"ssr-lead\">Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2011</li><li>Runtime: 96 minutes</li><li>Director: Carlos Saldanha</li><li>Genres: Animation, Adventure, Comedy, Family</li><li>Budget: $90M</li><li>TMDB rating: 6.8/10 (7415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jesse Eisenberg as Blu (voice)</li><li>Anne Hathaway as Jewel (voice)</li><li>Leslie Mann as Linda (voice)</li><li>Jane Lynch as Alice / Goose (voice)</li><li>will.i.am as Pedro (voice)</li><li>George López as Rafael (voice)</li><li>Wanda Sykes as Chloe / Goose (voice)</li><li>Jamie Foxx as Nico (voice)</li><li>Rodrigo Santoro as Tulio (voice)</li><li>Jemaine Clement as Nigel (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Rio (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2011"
+  },
   "movie:501395": {
    "d": "True History of the Kelly Gang (2019): Crime/Drama film. Story: Set against the badlands of Australia where the… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/6xIZ4GCZ5Dhjv8tYU88ZbZ4PwxQ.jpg",
@@ -2104,6 +2552,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>True History of the Kelly Gang (2019)</h1>\n<p class=\"ssr-lead\">Set against the badlands of Australia where the English rule with a bloody fist and the Irish endure, Ned Kelly discovers he comes from a line of Irish rebels — an uncompromising army of cross dressing bandits immortalised for terrorising their oppressors back in Ireland. Fuelled by the unfair arrest of his mother, Kelly recruits a wild bunch of warriors to plot one of the most audacious attacks of anarchy and rebellion the country has ever seen.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 December 2019</li><li>Runtime: 125 minutes</li><li>Director: Justin Kurzel</li><li>Genres: Crime, Drama, Western, Thriller</li><li>TMDB rating: 5.9/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>George MacKay as Ned Kelly</li><li>Nicholas Hoult as Sgt. Fitzpatrick</li><li>Essie Davis as Ellen Kelly</li><li>Russell Crowe as Harry Power</li><li>Charlie Hunnam as Sergeant O&#x27;Neil</li><li>Orlando Schwerdt as Young Ned Kelly</li><li>Earl Cave as Dan Kelly</li><li>Sean Keenan as Joe Byrne</li><li>Thomasin McKenzie as Mary Hearn</li><li>Rory Collins as Mary&#x27;s Baby Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "True History of the Kelly Gang (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:512195": {
+   "d": "Red Notice (2021): Action/Comedy film. Story: An Interpol-issued Red Notice is a global alert to… See cast, budget $160M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
+   "industry": "world",
+   "k": "Red Notice, Red Notice movie, Red Notice cast, Red Notice story, Red Notice box office collection, Red Notice budget, Red Notice review, Red Notice rating, Red Notice release date, Red Notice trailer, Red Notice Action, Red Notice Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dwayne Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Gal Gadot"
+     },
+     {
+      "@type": "Person",
+      "name": "Ritu Arya"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Diamantopoulos"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6762,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Red Notice (2021): Action/Comedy film. Story: An Interpol-issued Red Notice is a global alert to… See cast, budget $160M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rawson Marshall Thurber"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=512195",
+    "name": "Red Notice",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=512195"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Red Notice (2021)</h1>\n<p class=\"ssr-lead\">An Interpol-issued Red Notice is a global alert to hunt and capture the world&#x27;s most wanted. But when a daring heist brings together the FBI&#x27;s top profiler and two rival criminals, there&#x27;s no telling what will happen.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2021</li><li>Runtime: 118 minutes</li><li>Director: Rawson Marshall Thurber</li><li>Genres: Action, Comedy, Crime</li><li>Budget: $160M</li><li>TMDB rating: 6.7/10 (6762 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dwayne Johnson as John Hartley</li><li>Ryan Reynolds as Nolan Booth</li><li>Gal Gadot as Sarah Black / The Bishop</li><li>Ritu Arya as Inspector Urvashi Das</li><li>Chris Diamantopoulos as Sotto Voce</li><li>Ivan Mbakop as Tambwe</li><li>Vincenzo Amato as Director Gallo</li><li>Rafael Petardi as Security Chief Ricci</li><li>Seth Michaels as Souvenir Stand Owner</li><li>Sebastien Large as Gelato Truck Driver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Red Notice (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:5595": {
    "d": "Fermat's Room (2007): Mystery/Thriller film. Story: Four mathematicians are imprisoned in a shrinking… See cast and TMDB rating 6.6/10.",
@@ -2236,6 +2748,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Ruthless (2019)</h1>\n<p class=\"ssr-lead\">Milan, Italy, 1967. Santo Russo, a boy of Calabrian origin, arrives north with his parents and younger brother to find better living conditions. Due to an absurd misunderstanding and his father&#x27;s contempt, Santo ends up in prison, where he gets a “true education.” In 1978, he and his friends Slim and Mario embark on a 15-year criminal career, a successful and ruthless spiral of robberies, kidnappings, murders and heroin smuggling.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 2019</li><li>Runtime: 111 minutes</li><li>Director: Renato De Maria</li><li>Genres: Crime, Drama</li><li>TMDB rating: 6.3/10 (437 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Riccardo Scamarcio as Santo Russo</li><li>Sara Serraiocco as Mariangela</li><li>Alessio Praticò as Salvatore &#x27;Slim&#x27; Mammone</li><li>Alessandro Tedeschi as Alessandro Tedeschi</li><li>Marie-Ange Casta as Annabelle</li><li>Sara Cardinaletti as Suor Giuseppina</li><li>Angelo Libri as Pantaleone Russo</li><li>Adele Tirante as Caterina Russo</li><li>Michele De Virgilio as Avvocato Giovanni Bova</li><li>Aram Kian as Nuri</li></ul>\n</article>",
    "t": "The Ruthless (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:58595": {
+   "d": "Snow White and the Huntsman (2012): Adventure/Fantasy film. Story: After the Evil Queen marries the King, she performs a… See cast and budget $170M.",
+   "img": "https://image.tmdb.org/t/p/w780/KBe9fHU5rVg4daoKnFwl1Cbc28.jpg",
+   "industry": "world",
+   "k": "Snow White and the Huntsman, Snow White and the Huntsman movie, Snow White and the Huntsman cast, Snow White and the Huntsman story, Snow White and the Huntsman box office collection, Snow White and the Huntsman budget, Snow White and the Huntsman review, Snow White and the Huntsman rating, Snow White and the Huntsman release date, Snow White and the Huntsman trailer, Snow White and the Huntsman Adventure, Snow White and the Huntsman Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristen Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlize Theron"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Claflin"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McShane"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8432,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Snow White and the Huntsman (2012): Adventure/Fantasy film. Story: After the Evil Queen marries the King, she performs a… See cast and budget $170M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Rupert Sanders"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/KBe9fHU5rVg4daoKnFwl1Cbc28.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=58595",
+    "name": "Snow White and the Huntsman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=58595"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Snow White and the Huntsman (2012)</h1>\n<p class=\"ssr-lead\">After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2012</li><li>Runtime: 127 minutes</li><li>Director: Rupert Sanders</li><li>Genres: Adventure, Fantasy, Drama</li><li>Budget: $170M</li><li>TMDB rating: 6.0/10 (8432 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Stewart as Snow White</li><li>Chris Hemsworth as The Huntsman</li><li>Charlize Theron as Queen Ravenna</li><li>Sam Claflin as William</li><li>Ian McShane as Beith</li><li>Ray Winstone as Gort</li><li>Nick Frost as Nion</li><li>Noah Huntley as King Magnus</li><li>Toby Jones as Coll</li><li>Eddie Marsan as Duir</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Snow White and the Huntsman (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:590995": {
    "d": "The Craft: Legacy (2020): Horror/Drama film. Story: An eclectic foursome of aspiring teenage witches get… See cast, budget $18M, and TMDB rating 6.1/10.",
@@ -3049,6 +3625,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Above the Law (1988)</h1>\n<p class=\"ssr-lead\">Nico Toscani is an Italian immigrant, American patriot, ex-CIA agent, aikido specialist and unorthodox Chicago policeman. He is as committed to his job as he is to his personalized brand of justice—expert and thorough bone-crushing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 April 1988</li><li>Runtime: 99 minutes</li><li>Director: Andrew Davis</li><li>Genres: Action, Crime</li><li>Budget: $7.5M</li><li>TMDB rating: 6.1/10 (840 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steven Seagal as Nico Toscani</li><li>Pam Grier as Delores &#x27;Jacks&#x27; Jackson</li><li>Henry Silva as Kurt Zagon</li><li>Sharon Stone as Sara Toscani</li><li>Ron Dean as Detective Lukich</li><li>Daniel Faraldo as Tony Salvano</li><li>Joe Greco as Father Joseph Gennaro</li><li>Vince Viverito as Giuseppe</li><li>Chelcie Ross as Nelson Fox</li><li>Jack Wallace as Uncle Branca</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Above the Law (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:95": {
+   "d": "Armageddon (1998): Action/Science Fiction film. Story: When an asteroid threatens to collide with Earth… See cast, budget $140M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+   "industry": "world",
+   "k": "Armageddon, Armageddon movie, Armageddon cast, Armageddon story, Armageddon box office collection, Armageddon budget, Armageddon review, Armageddon rating, Armageddon release date, Armageddon Action, Armageddon Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Bob Thornton"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Liv Tyler"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Patton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8971,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Armageddon (1998): Action/Science Fiction film. Story: When an asteroid threatens to collide with Earth… See cast, budget $140M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Bay"
+     }
+    ],
+    "duration": "PT151M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=95",
+    "name": "Armageddon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=95"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Armageddon (1998)</h1>\n<p class=\"ssr-lead\">When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn&#x27;t good enough for his daughter, until the mission proves otherwise.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 1998</li><li>Runtime: 151 minutes</li><li>Director: Michael Bay</li><li>Genres: Action, Science Fiction, Adventure</li><li>Budget: $140M</li><li>TMDB rating: 6.8/10 (8971 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as Harry S. Stamper</li><li>Billy Bob Thornton as Dan Truman</li><li>Ben Affleck as A.J. Frost</li><li>Liv Tyler as Grace Stamper</li><li>Will Patton as Chick</li><li>Steve Buscemi as Rockhound</li><li>William Fichtner as Willie Sharp</li><li>Owen Wilson as Oscar</li><li>Michael Clarke Duncan as Bear</li><li>Peter Stormare as Lev Andropov</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Armageddon (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
   },
   "movie:97795": {
    "d": "Apartment 143 (2011): Horror/Thriller film. Story: A team of parapsychologists sets out to investigate a… See cast and TMDB rating 5.1/10.",

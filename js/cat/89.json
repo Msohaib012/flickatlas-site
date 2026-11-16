@@ -1,7 +1,137 @@
 {
  "bucket": "89",
- "count": 63,
+ "count": 72,
  "titles": {
+  "movie:1022789": {
+   "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Joy (voice)",
+     "n": "Amy Poehler"
+    },
+    {
+     "c": "Anxiety (voice)",
+     "n": "Maya Hawke"
+    },
+    {
+     "c": "Riley (voice)",
+     "n": "Kensington Tallman"
+    },
+    {
+     "c": "Disgust (voice)",
+     "n": "Liza Lapira"
+    },
+    {
+     "c": "Fear (voice)",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Anger (voice)",
+     "n": "Lewis Black"
+    },
+    {
+     "c": "Sadness (voice)",
+     "n": "Phyllis Smith"
+    },
+    {
+     "c": "Envy (voice)",
+     "n": "Ayo Edebiri"
+    },
+    {
+     "c": "Valentina (voice)",
+     "n": "Lilimar"
+    },
+    {
+     "c": "Grace (voice)",
+     "n": "Grace Lu"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Kelsey Mann"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 1022789,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+   "popularity": 23.7658,
+   "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2024-06-14",
+   "revenue": 1698863816,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Make room for new emotions.",
+   "title": "Inside Out 2",
+   "trailer": {
+    "key": "u69y5Ie519M",
+    "name": "Announce Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.537,
+   "vote_count": 7167
+  },
   "movie:10389": {
    "backdrop_path": "/fEurvklilb04BbyYZM2FtumpyQB.jpg",
    "budget": 10706075,
@@ -1123,6 +1253,135 @@
    "vote_average": 5.6,
    "vote_count": 423
   },
+  "movie:126889": {
+   "backdrop_path": "/iXXPaQPfQowpQ5UvhsHLj9BgFhe.jpg",
+   "budget": 97000000,
+   "cast": [
+    {
+     "c": "David / Walter",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Daniels",
+     "n": "Katherine Waterston"
+    },
+    {
+     "c": "Oram",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Tennessee",
+     "n": "Danny McBride"
+    },
+    {
+     "c": "Lope",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Karine",
+     "n": "Carmen Ejogo"
+    },
+    {
+     "c": "Ricks",
+     "n": "Jussie Smollett"
+    },
+    {
+     "c": "Upworth",
+     "n": "Callie Hernandez"
+    },
+    {
+     "c": "Faris",
+     "n": "Amy Seimetz"
+    },
+    {
+     "c": "Hallett",
+     "n": "Nathaniel Dean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 126889,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The crew of the colony ship Covenant, bound for a remote planet on the far side of the galaxy, discovers what they think is an uncharted paradise but is actually a dark, dangerous world.",
+   "popularity": 10.6444,
+   "poster_path": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-05-12",
+   "revenue": 240891763,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The path to paradise begins in hell.",
+   "title": "Alien: Covenant",
+   "trailer": {
+    "key": "svnAD0TApb8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.193,
+   "vote_count": 9812
+  },
   "movie:12689": {
    "backdrop_path": "/4FmtbkjHHdZRlsaceN8JeFQ8nE3.jpg",
    "budget": 0,
@@ -1464,6 +1723,128 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 413
+  },
+  "movie:150689": {
+   "backdrop_path": "/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+   "budget": 95000000,
+   "cast": [
+    {
+     "c": "Cinderella",
+     "n": "Lily James"
+    },
+    {
+     "c": "Stepmother, Lady Tremaine",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Prince",
+     "n": "Richard Madden"
+    },
+    {
+     "c": "Grand Duke",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Anastasia Tremaine",
+     "n": "Holliday Grainger"
+    },
+    {
+     "c": "Drizella Tremaine",
+     "n": "Sophie McShera"
+    },
+    {
+     "c": "King",
+     "n": "Derek Jacobi"
+    },
+    {
+     "c": "Fairy Godmother",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Captain",
+     "n": "Nonso Anozie"
+    },
+    {
+     "c": "Cinderella's Father",
+     "n": "Ben Chaplin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kenneth Branagh"
+   ],
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Family",
+    "Drama"
+   ],
+   "id": 150689,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
+   "popularity": 12.369,
+   "poster_path": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-03-06",
+   "revenue": 543514353,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Midnight is just the beginning.",
+   "title": "Cinderella",
+   "trailer": {
+    "key": "n44EWI92Tc8",
+    "name": "UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.826,
+   "vote_count": 7569
   },
   "movie:15189": {
    "backdrop_path": "/hovfur18TPFABZIuJYvgjLpln8V.jpg",
@@ -2352,6 +2733,139 @@
    "vote_average": 7.332,
    "vote_count": 324
   },
+  "movie:195589": {
+   "backdrop_path": "/hwn0kQiRXhF8G1bEA8NqhIApkXd.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Mac Radner",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Teddy Sanders",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Kelly Radner",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Pete Regazolli",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Scoonie Schofield",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Garf",
+     "n": "Jerrod Carmichael"
+    },
+    {
+     "c": "Jimmy Blevins",
+     "n": "Ike Barinholtz"
+    },
+    {
+     "c": "Paula Faldt",
+     "n": "Carla Gallo"
+    },
+    {
+     "c": "Brooke Shy",
+     "n": "Halston Sage"
+    },
+    {
+     "c": "Assjuice",
+     "n": "Craig Roberts"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Nicholas Stoller"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 195589,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.",
+   "popularity": 4.7636,
+   "poster_path": "/sN1RU08CMi8xkRIibremh3AOdgw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Ultraplaybox Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+     "name": "Ultraplaybox Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-05-08",
+   "revenue": 270665134,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Family vs. Frat",
+   "title": "Neighbors",
+   "trailer": {
+    "key": "VI18Jc2roqY",
+    "name": "Restricted Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.175,
+   "vote_count": 7495
+  },
   "movie:1989": {
    "backdrop_path": "/tj8T9OIM0E51Jf61RJbRbG6vnIJ.jpg",
    "budget": 10000000,
@@ -3042,6 +3556,146 @@
    "type": "movie",
    "vote_average": 6.697,
    "vote_count": 347
+  },
+  "movie:258489": {
+   "backdrop_path": "/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "John Clayton / Tarzan",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Captain Leon Rom",
+     "n": "Christoph Waltz"
+    },
+    {
+     "c": "George Washington Williams",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Jane Porter",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Chief Mbonga",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Prime Minister",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Captain Kerchover",
+     "n": "Casper Crump"
+    },
+    {
+     "c": "Mr. Frum",
+     "n": "Simon Russell Beale"
+    },
+    {
+     "c": "Muviro",
+     "n": "Yule Masiteng"
+    },
+    {
+     "c": "Kwete",
+     "n": "Osy Ikhile"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Yates"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+   ],
+   "id": 258489,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.",
+   "popularity": 6.939,
+   "poster_path": "/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+   "production_countries": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-01",
+   "revenue": 356743061,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Human. Nature.",
+   "title": "The Legend of Tarzan",
+   "trailer": {
+    "key": "dLmKio67pVQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.927,
+   "vote_count": 6690
   },
   "movie:284289": {
    "backdrop_path": "/a0wiBOMVRkGaj5gjWFVJ2TTBLHB.jpg",
@@ -4175,6 +4829,130 @@
    "vote_average": 7.056,
    "vote_count": 322
   },
+  "movie:389": {
+   "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+   "budget": 397751,
+   "cast": [
+    {
+     "c": "Juror 1",
+     "n": "Martin Balsam"
+    },
+    {
+     "c": "Juror 2",
+     "n": "John Fiedler"
+    },
+    {
+     "c": "Juror 3",
+     "n": "Lee J. Cobb"
+    },
+    {
+     "c": "Juror 4",
+     "n": "E.G. Marshall"
+    },
+    {
+     "c": "Juror 5",
+     "n": "Jack Klugman"
+    },
+    {
+     "c": "Juror 6",
+     "n": "Edward Binns"
+    },
+    {
+     "c": "Juror 7",
+     "n": "Jack Warden"
+    },
+    {
+     "c": "Juror 8",
+     "n": "Henry Fonda"
+    },
+    {
+     "c": "Juror 9",
+     "n": "Joseph Sweeney"
+    },
+    {
+     "c": "Juror 10",
+     "n": "Ed Begley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Sidney Lumet"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 389,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+   "popularity": 21.3801,
+   "poster_path": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1957-04-10",
+   "revenue": 4360000,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It explodes like 12 sticks of dynamite!",
+   "title": "12 Angry Men",
+   "trailer": {
+    "key": "TEN-2uTi2c0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.577,
+   "vote_count": 10600
+  },
   "movie:390989": {
    "backdrop_path": "/5DCdmzO434x7KRy6maH2rdj6GTj.jpg",
    "budget": 0,
@@ -4831,6 +5609,151 @@
    "vote_average": 6.547,
    "vote_count": 999
   },
+  "movie:489": {
+   "backdrop_path": "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Will Hunting",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Sean Maguire",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Chuckie Sullivan",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Gerald Lambeau",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Skylar",
+     "n": "Minnie Driver"
+    },
+    {
+     "c": "Morgan O'Mally",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Billy McBride",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "MIT Student",
+     "n": "Vik Sahay"
+    },
+    {
+     "c": "Tom",
+     "n": "John Mighton"
+    },
+    {
+     "c": "Krystyn",
+     "n": "Rachel Majorowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Gus Van Sant"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 489,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+   "popularity": 17.1589,
+   "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-01-09",
+   "revenue": 225933435,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some people can never believe in themselves, until someone believes in them.",
+   "title": "Good Will Hunting",
+   "trailer": {
+    "key": "ReIJ1lbL-Q8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.169,
+   "vote_count": 14599
+  },
   "movie:56589": {
    "backdrop_path": "/xHrt20Evw8KBz0MGgRTofQNV6ly.jpg",
    "budget": 0,
@@ -4918,6 +5841,202 @@
    "type": "movie",
    "vote_average": 6.667,
    "vote_count": 300
+  },
+  "movie:580489": {
+   "backdrop_path": "/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Eddie Brock / Venom",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Cletus Kasady / Carnage",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Anne Weying",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Frances Louise Barrison / Shriek",
+     "n": "Naomie Harris"
+    },
+    {
+     "c": "Dr. Dan Lewis",
+     "n": "Reid Scott"
+    },
+    {
+     "c": "Detective Mulligan",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Mrs. Chen",
+     "n": "Peggy Lu"
+    },
+    {
+     "c": "Dr. Pazzo",
+     "n": "Sian Webber"
+    },
+    {
+     "c": "Mugging Victim",
+     "n": "Michelle Greenidge"
+    },
+    {
+     "c": "Beaten Mugger",
+     "n": "Rob Bowen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andy Serkis"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 580489,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+   "popularity": 12.3624,
+   "poster_path": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-09-30",
+   "revenue": 506863592,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You are what you eat.",
+   "title": "Venom: Let There Be Carnage",
+   "trailer": {
+    "key": "GVwq2HlKYpE",
+    "name": "Rom-Com Sequel Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.717,
+   "vote_count": 11587
   },
   "movie:583689": {
    "backdrop_path": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
@@ -6029,6 +7148,170 @@
    "type": "movie",
    "vote_average": 4.8,
    "vote_count": 849
+  },
+  "movie:89": {
+   "backdrop_path": "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+   "budget": 48000000,
+   "cast": [
+    {
+     "c": "Indiana Jones",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Professor Henry Jones",
+     "n": "Sean Connery"
+    },
+    {
+     "c": "Marcus Brody",
+     "n": "Denholm Elliott"
+    },
+    {
+     "c": "Elsa",
+     "n": "Alison Doody"
+    },
+    {
+     "c": "Sallah",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "Walter Donovan",
+     "n": "Julian Glover"
+    },
+    {
+     "c": "Young Indy",
+     "n": "River Phoenix"
+    },
+    {
+     "c": "Vogel",
+     "n": "Michael Byrne"
+    },
+    {
+     "c": "Kazım",
+     "n": "Kevork Malikyan"
+    },
+    {
+     "c": "Grail Knight",
+     "n": "Robert Eddison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 89,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+   "popularity": 11.2579,
+   "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1990-07-26",
+   "revenue": 474171806,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "de",
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "Have the adventure of your life keeping up with the Joneses.",
+   "title": "Indiana Jones and the Last Crusade",
+   "trailer": {
+    "key": "DKg36LBVgfg",
+    "name": "Paramount Movies Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.859,
+   "vote_count": 11543
   },
   "movie:93289": {
    "backdrop_path": "/sf3LLFDjkZIABUnHi2tIY02az5r.jpg",

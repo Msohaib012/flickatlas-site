@@ -1,6 +1,6 @@
 {
  "bucket": "36",
- "count": 54,
+ "count": 60,
  "titles": {
   "movie:10536": {
    "backdrop_path": "/jkYdRAhshaRwiRAB4KdDz1Ocj4e.jpg",
@@ -158,6 +158,137 @@
    "type": "movie",
    "vote_average": 6.925,
    "vote_count": 915
+  },
+  "movie:11036": {
+   "backdrop_path": "/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+   "budget": 29000000,
+   "cast": [
+    {
+     "c": "Noah Calhoun",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Allie Hamilton",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Older Allie",
+     "n": "Gena Rowlands"
+    },
+    {
+     "c": "Older Noah 'Duke'",
+     "n": "James Garner"
+    },
+    {
+     "c": "Anne Hamilton",
+     "n": "Joan Allen"
+    },
+    {
+     "c": "John Hamilton",
+     "n": "David Thornton"
+    },
+    {
+     "c": "Lon Hammond",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Fin",
+     "n": "Kevin Connolly"
+    },
+    {
+     "c": "Frank Calhoun",
+     "n": "Sam Shepard"
+    },
+    {
+     "c": "Nurse Esther",
+     "n": "Starletta DuPois"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Nick Cassavetes"
+   ],
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": 11036,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+   "popularity": 22.6006,
+   "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-06-25",
+   "revenue": 115600000,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Behind every great love is a great story.",
+   "title": "The Notebook",
+   "trailer": {
+    "key": "FC6biTjEyZw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.889,
+   "vote_count": 13055
   },
   "movie:11536": {
    "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
@@ -1738,6 +1869,320 @@
    "vote_average": 5.0,
    "vote_count": 34
   },
+  "movie:14836": {
+   "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Coraline Jones (voice)",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Mel Jones / Other Mother (voice)",
+     "n": "Teri Hatcher"
+    },
+    {
+     "c": "Miss April Spink / Other Spink (voice)",
+     "n": "Jennifer Saunders"
+    },
+    {
+     "c": "Miss Miriam Forcible / Other Forcible (voice)",
+     "n": "Dawn French"
+    },
+    {
+     "c": "The Cat (voice)",
+     "n": "Keith David"
+    },
+    {
+     "c": "Charlie Jones / Other Father (voice)",
+     "n": "John Hodgman"
+    },
+    {
+     "c": "Wyborne 'Wybie' Lovat (voice)",
+     "n": "Robert Bailey Jr."
+    },
+    {
+     "c": "Mr. Sergei Alexander Bobinsky / Other Bobinsky (voice)",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Sweet Ghost Girl (voice)",
+     "n": "Aankha Neal"
+    },
+    {
+     "c": "Ghost Boy (voice)",
+     "n": "George Selick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Henry Selick"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Horror"
+   ],
+   "id": 14836,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+   "popularity": 44.4475,
+   "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-02-05",
+   "revenue": 185860104,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Be careful what you wish for.",
+   "title": "Coraline",
+   "trailer": {
+    "key": "T6iQnnHNF50",
+    "name": "“It's Time To Go Back” - 15th Anniversary Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.95,
+   "vote_count": 9771
+  },
+  "movie:157336": {
+   "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "Cooper",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Brand",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Professor Brand",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Murph",
+     "n": "Jessica Chastain"
+    },
+    {
+     "c": "Tom",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Doyle",
+     "n": "Wes Bentley"
+    },
+    {
+     "c": "Getty",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Murph (10 Yrs.)",
+     "n": "Mackenzie Foy"
+    },
+    {
+     "c": "Murph (older)",
+     "n": "Ellen Burstyn"
+    },
+    {
+     "c": "Donald",
+     "n": "John Lithgow"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 157336,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+   "popularity": 56.5228,
+   "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-11-07",
+   "revenue": 746606706,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mankind was born on Earth. It was never meant to die here.",
+   "title": "Interstellar",
+   "trailer": {
+    "key": "LY19rHKAaAg",
+    "name": "Trailer 4",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.493,
+   "vote_count": 41908
+  },
   "movie:16136": {
    "backdrop_path": "/54xcERdFHlRny2FJ9NC4koForkR.jpg",
    "budget": 5000000,
@@ -2627,6 +3072,154 @@
    "vote_average": 4.9,
    "vote_count": 419
   },
+  "movie:238636": {
+   "backdrop_path": "/blfZnm6StMPnTY35kaooPBCsSVp.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Sergeant",
+     "n": "Frank Grillo"
+    },
+    {
+     "c": "Eva Sanchez",
+     "n": "Carmen Ejogo"
+    },
+    {
+     "c": "Shane",
+     "n": "Zach Gilford"
+    },
+    {
+     "c": "Carmelo",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Liz",
+     "n": "Kiele Sanchez"
+    },
+    {
+     "c": "Cali",
+     "n": "Zoë Soul"
+    },
+    {
+     "c": "The Stranger",
+     "n": "Edwin Hodge"
+    },
+    {
+     "c": "Tanya",
+     "n": "Justina Machado"
+    },
+    {
+     "c": "Papa Rico",
+     "n": "John Beasley"
+    },
+    {
+     "c": "Big Daddy",
+     "n": "Jack Conley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James DeMonaco"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 238636,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.",
+   "popularity": 8.8381,
+   "poster_path": "/kFQFUBujj2XZxyOFJ1cEL13O9Ao.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-07-17",
+   "revenue": 111928365,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The New Founding Fathers of America invite you to celebrate your right to purge!",
+   "title": "The Purge: Anarchy",
+   "trailer": {
+    "key": "3mfRasMXmL4",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.614,
+   "vote_count": 6904
+  },
   "movie:2436": {
    "backdrop_path": "/gJXt3gMz4EF39mdyhvy5EsXdiPk.jpg",
    "budget": 3500000,
@@ -2944,6 +3537,137 @@
    "type": "movie",
    "vote_average": 7.06,
    "vote_count": 398
+  },
+  "movie:299536": {
+   "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+   "budget": 300000000,
+   "cast": [
+    {
+     "c": "Tony Stark / Iron Man",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Steve Rogers / Captain America",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Thanos",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Bruce Banner / Hulk",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Natasha Romanoff / Black Widow",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "James Rhodes / War Machine",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Doctor Strange",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Peter Parker / Spider-Man",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "T'Challa / Black Panther",
+     "n": "Chadwick Boseman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Joe Russo",
+    "Anthony Russo"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 299536,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+   "popularity": 48.7246,
+   "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-04-27",
+   "revenue": 2052415039,
+   "runtime": 149,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "xh"
+   ],
+   "status": "Released",
+   "tagline": "An entire universe. Once and for all.",
+   "title": "Avengers: Infinity War",
+   "trailer": {
+    "key": "QwievZ1Tx-8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.247,
+   "vote_count": 33409
   },
   "movie:33436": {
    "backdrop_path": "/prLH9OrtVjTBUM5vGT0rcrtXFOj.jpg",
@@ -4074,6 +4798,197 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 395
+  },
+  "movie:59436": {
+   "backdrop_path": "/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Gil",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Inez",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Gertrude Stein",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "John",
+     "n": "Kurt Fuller"
+    },
+    {
+     "c": "Salvador Dalí",
+     "n": "Adrien Brody"
+    },
+    {
+     "c": "Museum Guide",
+     "n": "Carla Bruni"
+    },
+    {
+     "c": "Adriana",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Paul",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Carol",
+     "n": "Nina Arianda"
+    },
+    {
+     "c": "F. Scott Fitzgerald",
+     "n": "Tom Hiddleston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Woody Allen"
+   ],
+   "genres": [
+    "Fantasy",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 59436,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+   "popularity": 6.1416,
+   "poster_path": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+   "production_countries": [
+    "FR",
+    "ES",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+     "name": "Sony Pictures Core Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-05-11",
+   "revenue": 151119219,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Anything can happen in the city of light.",
+   "title": "Midnight in Paris",
+   "trailer": {
+    "key": "FAfR8omt-CY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.508,
+   "vote_count": 7986
   },
   "movie:6936": {
    "backdrop_path": "/9Ce5KKinhLiQl9Hh3pLAWhTOMNZ.jpg",

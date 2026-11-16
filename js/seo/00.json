@@ -1,7 +1,71 @@
 {
  "bucket": "00",
- "count": 66,
+ "count": 78,
  "titles": {
+  "movie:100": {
+   "d": "Lock, Stock and Two Smoking Barrels (1998): Comedy/Crime film. Story: A card shark and his unwillingly-enlisted friends… See cast and budget $1.35M.",
+   "img": "https://image.tmdb.org/t/p/w780/qQz3DeR9PxrMBtVGMnH3EqvMlVU.jpg",
+   "industry": "world",
+   "k": "Lock, Stock and Two Smoking Barrels, Lock, Stock and Two Smoking Barrels movie, Lock, Stock and Two Smoking Barrels cast, Lock, Stock and Two Smoking Barrels story, Lock, Stock and Two Smoking Barrels box office collection, Lock, Stock and Two Smoking Barrels budget, Lock, Stock and Two Smoking Barrels review, Lock, Stock and Two Smoking Barrels rating, Lock, Stock and Two Smoking Barrels release date, Lock, Stock and Two Smoking Barrels trailer, Lock, Stock and Two Smoking Barrels Comedy, Lock, Stock and Two Smoking Barrels Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vinnie Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Flemyng"
+     },
+     {
+      "@type": "Person",
+      "name": "Dexter Fletcher"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Moran"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Statham"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7534,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Lock, Stock and Two Smoking Barrels (1998): Comedy/Crime film. Story: A card shark and his unwillingly-enlisted friends… See cast and budget $1.35M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guy Ritchie"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qQz3DeR9PxrMBtVGMnH3EqvMlVU.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=100",
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=100"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Lock, Stock and Two Smoking Barrels (1998)</h1>\n<p class=\"ssr-lead\">A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 1998</li><li>Runtime: 105 minutes</li><li>Director: Guy Ritchie</li><li>Genres: Comedy, Crime</li><li>Budget: $1.35M</li><li>TMDB rating: 8.1/10 (7534 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vinnie Jones as Big Chris</li><li>Jason Flemyng as Tom</li><li>Dexter Fletcher as Soap</li><li>Nick Moran as Eddy</li><li>Jason Statham as Bacon</li><li>Steven Mackintosh as Winston</li><li>Nicholas Rowe as J</li><li>Nick Marcq as Charles</li><li>Charles Forbes as Willie</li><li>Lenny McLean as Barry the Baptist</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Movie Sphere+</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Lock, Stock and Two Smoking Barrels (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
+  },
   "movie:1010600": {
    "d": "The Strangers: Chapter 1 (2024): Horror/Thriller film. Story: After their car breaks down in an eerie small town, a… See cast and budget $8.5M.",
    "img": "https://image.tmdb.org/t/p/w780/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
@@ -639,6 +703,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Over Your Dead Body (2026)</h1>\n<p class=\"ssr-lead\">A dysfunctional couple head to a remote cabin to &quot;reconnect&quot;, but each has secret intentions to kill the other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 March 2026</li><li>Runtime: 105 minutes</li><li>Director: Jorma Taccone</li><li>Genres: Action, Comedy, Thriller</li><li>TMDB rating: 6.4/10 (689 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Segel as Dan</li><li>Samara Weaving as Lisa</li><li>Paul Guilfoyle as Michael</li><li>Keith Jardine as Todd</li><li>Timothy Olyphant as Pete</li><li>Juliette Lewis as Allegra</li><li>Nikolai Kinski as Frank</li><li>Kayla Jenee Radomski as Renée</li><li>Jennifer Amaka Pettersson as Louise</li><li>Yoon Cha-Lee as Kevin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "Over Your Dead Body (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:140300": {
+   "d": "Kung Fu Panda 3 (2016): Animation/Action film. Story: While Po and his father are visiting a secret panda… See cast, budget $145M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+   "industry": "world",
+   "k": "Kung Fu Panda 3, Kung Fu Panda 3 movie, Kung Fu Panda 3 cast, Kung Fu Panda 3 story, Kung Fu Panda 3 box office collection, Kung Fu Panda 3 budget, Kung Fu Panda 3 review, Kung Fu Panda 3 rating, Kung Fu Panda 3 release date, Kung Fu Panda 3 trailer, Kung Fu Panda 3 Animation, Kung Fu Panda 3 Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Bryan Cranston"
+     },
+     {
+      "@type": "Person",
+      "name": "Dustin Hoffman"
+     },
+     {
+      "@type": "Person",
+      "name": "Angelina Jolie"
+     },
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6890,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Kung Fu Panda 3 (2016): Animation/Action film. Story: While Po and his father are visiting a secret panda… See cast, budget $145M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Yuh Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Carloni"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Animation",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=140300",
+    "name": "Kung Fu Panda 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-01-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=140300"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kung Fu Panda 3 (2016)</h1>\n<p class=\"ssr-lead\">While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 January 2016</li><li>Runtime: 95 minutes</li><li>Director: Jennifer Yuh Nelson, Alessandro Carloni</li><li>Genres: Animation, Action, Adventure, Comedy, Family</li><li>Budget: $145M</li><li>TMDB rating: 6.9/10 (6890 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Black as Po (voice)</li><li>Bryan Cranston as Li (voice)</li><li>Dustin Hoffman as Shifu (voice)</li><li>Angelina Jolie as Tigress (voice)</li><li>J.K. Simmons as Kai (voice)</li><li>Jackie Chan as Monkey (voice)</li><li>Seth Rogen as Mantis (voice)</li><li>Lucy Liu as Viper (voice)</li><li>David Cross as Crane (voice)</li><li>Kate Hudson as Mei Mei (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Zee5, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Kung Fu Panda 3 (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:1449400": {
    "d": "Reckless (2026): Action/Comedy film. Story: A former convict on parole must outwit the police to… See cast and TMDB rating 6.3/10.",
@@ -1398,6 +1530,70 @@
    "t": "Shadows and Fog (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1991"
   },
+  "movie:2300": {
+   "d": "Space Jam (1996): Family/Science Fiction film. Story: With their freedom on the line, the Looney Tunes seek… See cast, budget $80M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
+   "industry": "world",
+   "k": "Space Jam, Space Jam movie, Space Jam cast, Space Jam story, Space Jam box office collection, Space Jam budget, Space Jam review, Space Jam rating, Space Jam release date, Space Jam trailer, Space Jam Family, Space Jam Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Jordan"
+     },
+     {
+      "@type": "Person",
+      "name": "Wayne Knight"
+     },
+     {
+      "@type": "Person",
+      "name": "Theresa Randle"
+     },
+     {
+      "@type": "Person",
+      "name": "Manner Washington"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Gordon"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6642,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Space Jam (1996): Family/Science Fiction film. Story: With their freedom on the line, the Looney Tunes seek… See cast, budget $80M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Pytka"
+     }
+    ],
+    "duration": "PT87M",
+    "genre": [
+     "Family",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2300",
+    "name": "Space Jam",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2300"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Space Jam (1996)</h1>\n<p class=\"ssr-lead\">With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 1996</li><li>Runtime: 87 minutes</li><li>Director: Joe Pytka</li><li>Genres: Family, Science Fiction, Fantasy, Comedy, Animation</li><li>Budget: $80M</li><li>TMDB rating: 6.8/10 (6642 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Jordan as Michael Jordan</li><li>Wayne Knight as Stan Podolak</li><li>Theresa Randle as Juanita Jordan</li><li>Manner Washington as Jeffery Jordan</li><li>Eric Gordon as Marcus Jordan</li><li>Penny Bae Bridges as Jasmine Jordan</li><li>Brandon Hammond as Michael Jordan (10 Years Old)</li><li>Larry Bird as Larry Bird</li><li>Bill Murray as Bill Murray</li><li>Thom Barry as James Jordan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Space Jam (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:24100": {
    "d": "The Little Vampire (2000): Family/Adventure film. Story: Based on the popular books, the story tells of Tony… See cast, budget $35M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/xiVZGT0kKT5wCy7VaYuf5rr6Fnu.jpg",
@@ -1525,6 +1721,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>I&#x27;m Not Scared (2003)</h1>\n<p class=\"ssr-lead\">In a tiny community enclosed by wheat fields, the adults shelter indoors, while six children venture out on their bikes across the scorched, deserted countryside. Exploring a dilapidated and uninhabited farmhouse, nine-year-old Michele discovers a secret so momentous, so terrible, that he dares not tell anyone about it...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 February 2003</li><li>Runtime: 108 minutes</li><li>Director: Gabriele Salvatores</li><li>Genres: Mystery, Drama, Thriller, Crime</li><li>TMDB rating: 7.1/10 (984 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Giuseppe Cristiano as Michele</li><li>Dino Abbrescia as Pino Amitrano</li><li>Aitana Sánchez-Gijón as Anna</li><li>Diego Abatantuono as Sergio</li><li>Fabio Tetta as Teschio</li><li>Riccardo Zinna as Pietro</li><li>Giulia Matturro as Maria</li><li>Antonella Stefanucci as Assunta</li><li>Fabio Antonacci as Remo</li><li>Giorgio Careccia as Felice</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, JustWatch TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "I'm Not Scared (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2003"
+  },
+  "movie:262500": {
+   "d": "Insurgent (2015): Action/Science Fiction film. Story: Beatrice Prior must confront her inner demons and… See cast, budget $110M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg",
+   "industry": "world",
+   "k": "Insurgent, Insurgent movie, Insurgent cast, Insurgent story, Insurgent box office collection, Insurgent budget, Insurgent review, Insurgent rating, Insurgent release date, Insurgent trailer, Insurgent Action, Insurgent Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shailene Woodley"
+     },
+     {
+      "@type": "Person",
+      "name": "Theo James"
+     },
+     {
+      "@type": "Person",
+      "name": "Miles Teller"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Winslet"
+     },
+     {
+      "@type": "Person",
+      "name": "Ansel Elgort"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10685,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Insurgent (2015): Action/Science Fiction film. Story: Beatrice Prior must confront her inner demons and… See cast, budget $110M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Schwentke"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=262500",
+    "name": "Insurgent",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-03-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=262500"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Insurgent (2015)</h1>\n<p class=\"ssr-lead\">Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 March 2015</li><li>Runtime: 119 minutes</li><li>Director: Robert Schwentke</li><li>Genres: Action, Science Fiction, Thriller</li><li>Budget: $110M</li><li>TMDB rating: 6.4/10 (10685 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shailene Woodley as Beatrice &#x27;Tris&#x27; Prior</li><li>Theo James as Tobias &#x27;Four&#x27; Eaton</li><li>Miles Teller as Peter Hayes</li><li>Kate Winslet as Jeanine Matthews</li><li>Ansel Elgort as Caleb Prior</li><li>Zoë Kravitz as Christina</li><li>Jai Courtney as Eric Coulter</li><li>Ray Stevenson as Marcus Eaton</li><li>Naomi Watts as Evelyn Johnson-Eaton</li><li>Octavia Spencer as Johanna Reyes</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, VI movies and tv, Amazon Prime Video with Ads, Movie Sphere+</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Insurgent (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:26900": {
    "d": "The Bandit (1996): Crime/Drama film. Story: The film tells the story of a group of bandits… See cast, TMDB rating 7.3/10, and release date 29 November 1996.",
@@ -2033,6 +2293,74 @@
    "t": "Tiramisu (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
   },
+  "movie:38700": {
+   "d": "Bad Boys for Life (2020): Thriller/Action film. Story: Marcus and Mike are forced to confront new threats… See cast, budget $90M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+   "industry": "world",
+   "k": "Bad Boys for Life, Bad Boys for Life movie, Bad Boys for Life cast, Bad Boys for Life story, Bad Boys for Life box office collection, Bad Boys for Life budget, Bad Boys for Life review, Bad Boys for Life rating, Bad Boys for Life release date, Bad Boys for Life trailer, Bad Boys for Life Thriller, Bad Boys for Life Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Vanessa Hudgens"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Ludwig"
+     },
+     {
+      "@type": "Person",
+      "name": "Charles Melton"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8981,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Bad Boys for Life (2020): Thriller/Action film. Story: Marcus and Mike are forced to confront new threats… See cast, budget $90M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bilall Fallah"
+     },
+     {
+      "@type": "Person",
+      "name": "Adil El Arbi"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Thriller",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=38700",
+    "name": "Bad Boys for Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=38700"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bad Boys for Life (2020)</h1>\n<p class=\"ssr-lead\">Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 January 2020</li><li>Runtime: 124 minutes</li><li>Director: Bilall Fallah, Adil El Arbi</li><li>Genres: Thriller, Action, Crime</li><li>Budget: $90M</li><li>TMDB rating: 7.1/10 (8981 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Smith as Mike</li><li>Martin Lawrence as Marcus</li><li>Vanessa Hudgens as Kelly</li><li>Alexander Ludwig as Dorn</li><li>Charles Melton as Rafe</li><li>Paola Nuñez as Rita</li><li>Kate del Castillo as Isabel Aretas</li><li>Nicky Jam as Zway-Lo</li><li>Joe Pantoliano as Captain Howard</li><li>Jacob Scipio as Armando Aretas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, Sony Liv, VI movies and tv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Bad Boys for Life (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:400": {
    "d": "Things to Do in Denver When You're Dead (1996): Drama/Crime film. Story: Five different criminals face imminent death after… See cast and budget $8M.",
    "img": "https://image.tmdb.org/t/p/w780/J4l8AvrK8ByAjnoKposMLh3ubL.jpg",
@@ -2096,6 +2424,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Things to Do in Denver When You&#x27;re Dead (1996)</h1>\n<p class=\"ssr-lead\">Five different criminals face imminent death after botching a job quite badly.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 April 1996</li><li>Runtime: 116 minutes</li><li>Director: Gary Fleder</li><li>Genres: Drama, Crime</li><li>Budget: $8M</li><li>TMDB rating: 6.4/10 (453 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andy Garcia as Jimmy Tosnia</li><li>Christopher Lloyd as Pieces</li><li>William Forsythe as Franchise</li><li>Bill Nunn as Easy Wind</li><li>Treat Williams as Critical Bill</li><li>Jack Warden as Joe Heff</li><li>Steve Buscemi as Mister Shhh</li><li>Fairuza Balk as Lucinda</li><li>Gabrielle Anwar as Dagney</li><li>Christopher Walken as Man with the Plan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Things to Do in Denver When You're Dead (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1996"
+  },
+  "movie:402900": {
+   "d": "Ocean's Eight (2018): Crime/Comedy film. Story: Debbie Ocean, a criminal mastermind, gathers a crew… See cast, budget $70M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+   "industry": "world",
+   "k": "Ocean's Eight, Ocean's Eight movie, Ocean's Eight cast, Ocean's Eight story, Ocean's Eight box office collection, Ocean's Eight budget, Ocean's Eight review, Ocean's Eight rating, Ocean's Eight release date, Ocean's Eight trailer, Ocean's Eight Crime, Ocean's Eight Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandra Bullock"
+     },
+     {
+      "@type": "Person",
+      "name": "Cate Blanchett"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Mindy Kaling"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Paulson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9095,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Ocean's Eight (2018): Crime/Comedy film. Story: Debbie Ocean, a criminal mastermind, gathers a crew… See cast, budget $70M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Ross"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Crime",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=402900",
+    "name": "Ocean's Eight",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-06-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=402900"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ocean&#x27;s Eight (2018)</h1>\n<p class=\"ssr-lead\">Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York&#x27;s annual Met Gala.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 June 2018</li><li>Runtime: 111 minutes</li><li>Director: Gary Ross</li><li>Genres: Crime, Comedy, Action</li><li>Budget: $70M</li><li>TMDB rating: 6.9/10 (9095 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Bullock as Debbie Ocean</li><li>Cate Blanchett as Lou</li><li>Anne Hathaway as Daphne Kluger</li><li>Mindy Kaling as Amita</li><li>Sarah Paulson as Tammy</li><li>Awkwafina as Constance</li><li>Rihanna as Nine Ball</li><li>Helena Bonham Carter as Rose Weil</li><li>Richard Armitage as Claude Becker</li><li>James Corden as John Frazier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Ocean's Eight (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:403300": {
    "d": "A Hidden Life (2019): History/Drama film. Story: Austrian farmer Franz Jägerstätter faces the threat… See cast, budget $9M, and TMDB rating 7.2/10.",
@@ -2225,6 +2617,70 @@
    "t": "Basilicata Coast To Coast (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:500": {
+   "d": "Reservoir Dogs (1992): Crime/Thriller film. Story: A botched robbery indicates a police informant, and… See cast, budget $1.2M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+   "industry": "world",
+   "k": "Reservoir Dogs, Reservoir Dogs movie, Reservoir Dogs cast, Reservoir Dogs story, Reservoir Dogs box office collection, Reservoir Dogs budget, Reservoir Dogs review, Reservoir Dogs rating, Reservoir Dogs release date, Reservoir Dogs trailer, Reservoir Dogs Crime, Reservoir Dogs Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Harvey Keitel"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Roth"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Madsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Penn"
+     },
+     {
+      "@type": "Person",
+      "name": "Steve Buscemi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16046,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Reservoir Dogs (1992): Crime/Thriller film. Story: A botched robbery indicates a police informant, and… See cast, budget $1.2M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Quentin Tarantino"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=500",
+    "name": "Reservoir Dogs",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-09-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=500"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Reservoir Dogs (1992)</h1>\n<p class=\"ssr-lead\">A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 September 1992</li><li>Runtime: 99 minutes</li><li>Director: Quentin Tarantino</li><li>Genres: Crime, Thriller</li><li>Budget: $1.2M</li><li>TMDB rating: 8.1/10 (16046 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harvey Keitel as Mr. White / Larry Dimmick</li><li>Tim Roth as Mr. Orange / Freddy Newandyke</li><li>Michael Madsen as Mr. Blonde / Vic Vega</li><li>Chris Penn as &quot;Nice Guy&quot; Eddie Cabot</li><li>Steve Buscemi as Mr. Pink</li><li>Lawrence Tierney as Joe Cabot</li><li>Randy Brooks as Detective Holdaway</li><li>Kirk Baltz as Officer Marvin Nash</li><li>Edward Bunker as Mr. Blue</li><li>Quentin Tarantino as Mr. Brown</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Reservoir Dogs (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:5000": {
    "d": "Forbidden Games (1952): Drama/War film. Story: Orphaned after a Nazi air raid, Paulette, a young… See cast, TMDB rating 7.8/10, and release date 9 May 1952.",
    "img": "https://image.tmdb.org/t/p/w780/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
@@ -2288,6 +2744,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Forbidden Games (1952)</h1>\n<p class=\"ssr-lead\">Orphaned after a Nazi air raid, Paulette, a young Parisian girl, runs into Michel, an older peasant boy, and the two quickly become close. Together, they try to make sense of the chaotic and crumbling world around them, attempting to cope with death as they create a burial ground for Paulette&#x27;s deceased pet dog. Eventually, however, Paulette&#x27;s stay with Michel&#x27;s family is threatened by the harsh realities of wartime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 May 1952</li><li>Runtime: 87 minutes</li><li>Director: René Clément</li><li>Genres: Drama, War</li><li>TMDB rating: 7.8/10 (368 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brigitte Fossey as Paulette</li><li>Georges Poujouly as Michel Dolle</li><li>Philippe de Chérisey as Francis Gouard</li><li>Laurence Badie as Berthe Dolle</li><li>Suzanne Courtal as Madame Dolle</li><li>Lucien Hubert as Monsieur Dolle</li><li>Madeleine Barbulée as Red Cross Nun</li><li>Jacques Marin as Georges Dolle</li><li>Pierre Merovée as Raymond Dolle</li><li>Denise Péronne as Jeanne Gouard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Darkroom</li></ul>\n</article>",
    "t": "Forbidden Games (1952) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1952"
+  },
+  "movie:512200": {
+   "d": "Jumanji: The Next Level (2019): Adventure/Comedy film. Story: As the gang return to Jumanji to rescue one of their… See cast and budget $125M.",
+   "img": "https://image.tmdb.org/t/p/w780/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+   "industry": "world",
+   "k": "Jumanji: The Next Level, Jumanji: The Next Level movie, Jumanji: The Next Level cast, Jumanji: The Next Level story, Jumanji: The Next Level box office collection, Jumanji: The Next Level budget, Jumanji: The Next Level review, Jumanji: The Next Level rating, Jumanji: The Next Level release date, Jumanji: The Next Level trailer, Jumanji: The Next Level Adventure, Jumanji: The Next Level Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dwayne Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Hart"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Black"
+     },
+     {
+      "@type": "Person",
+      "name": "Karen Gillan"
+     },
+     {
+      "@type": "Person",
+      "name": "Awkwafina"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9721,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Jumanji: The Next Level (2019): Adventure/Comedy film. Story: As the gang return to Jumanji to rescue one of their… See cast and budget $125M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jake Kasdan"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=512200",
+    "name": "Jumanji: The Next Level",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-12-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=512200"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jumanji: The Next Level (2019)</h1>\n<p class=\"ssr-lead\">As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 December 2019</li><li>Runtime: 123 minutes</li><li>Director: Jake Kasdan</li><li>Genres: Adventure, Comedy, Fantasy</li><li>Budget: $125M</li><li>TMDB rating: 6.9/10 (9721 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dwayne Johnson as Dr. Smolder Bravestone</li><li>Kevin Hart as Franklin &#x27;Mouse&#x27; Finbar</li><li>Jack Black as Professor Sheldon &#x27;Shelly&#x27; Oberon</li><li>Karen Gillan as Ruby Roundhouse</li><li>Awkwafina as Ming</li><li>Nick Jonas as Jefferson &#x27;Seaplane&#x27; McDonough</li><li>Alex Wolff as Spencer Gilpin</li><li>Morgan Turner as Martha Kaply</li><li>Madison Iseman as Bethany</li><li>Ser&#x27;Darius Blain as Anthony &#x27;Fridge&#x27; Johnson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Sony Liv, VI movies and tv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Jumanji: The Next Level (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:516700": {
    "d": "Gundala (2019): Action/Adventure film. Story: Sancaka has lived on the streets since his parents… See cast, budget $1.86M, and TMDB rating 6.2/10.",
@@ -2544,6 +3064,138 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>BTS World Tour: Love Yourself in Seoul (2019)</h1>\n<p class=\"ssr-lead\">Shot at the Olympic Stadium in Seoul during the BTS World Tour ‘Love Yourself’ to celebrate the seven members of the global boyband and their unprecedented international phenomenon.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 January 2019</li><li>Runtime: 113 minutes</li><li>Director: Son Sung-deuk</li><li>Genres: Music, Documentary</li><li>TMDB rating: 8.2/10 (463 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>RM as Self</li><li>Jin as Self</li><li>SUGA as Self</li><li>j-hope as Self</li><li>Jimin as Self</li><li>V as Self</li><li>Jung Kook as Self</li></ul>\n</article>",
    "t": "BTS World Tour: Love Yourself in Seoul (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:57800": {
+   "d": "Ice Age: Continental Drift (2012): Animation/Comedy film. Story: Manny, Diego, and Sid embark upon another adventure… See cast and budget $95M.",
+   "img": "https://image.tmdb.org/t/p/w780/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
+   "industry": "world",
+   "k": "Ice Age: Continental Drift, Ice Age: Continental Drift movie, Ice Age: Continental Drift cast, Ice Age: Continental Drift story, Ice Age: Continental Drift box office collection, Ice Age: Continental Drift budget, Ice Age: Continental Drift review, Ice Age: Continental Drift rating, Ice Age: Continental Drift release date, Ice Age: Continental Drift trailer, Ice Age: Continental Drift Animation, Ice Age: Continental Drift Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ray Romano"
+     },
+     {
+      "@type": "Person",
+      "name": "John Leguizamo"
+     },
+     {
+      "@type": "Person",
+      "name": "Denis Leary"
+     },
+     {
+      "@type": "Person",
+      "name": "Seann William Scott"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Peck"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8378,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Ice Age: Continental Drift (2012): Animation/Comedy film. Story: Manny, Diego, and Sid embark upon another adventure… See cast and budget $95M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steve Martino"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Thurmeier"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=57800",
+    "name": "Ice Age: Continental Drift",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-07-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=57800"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ice Age: Continental Drift (2012)</h1>\n<p class=\"ssr-lead\">Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 2012</li><li>Runtime: 88 minutes</li><li>Director: Steve Martino, Michael Thurmeier</li><li>Genres: Animation, Comedy, Adventure, Family</li><li>Budget: $95M</li><li>TMDB rating: 6.4/10 (8378 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ray Romano as Manny (voice)</li><li>John Leguizamo as Sid (voice)</li><li>Denis Leary as Diego (voice)</li><li>Seann William Scott as Crash (voice)</li><li>Josh Peck as Eddie (voice)</li><li>Peter Dinklage as Captain Gutt (voice)</li><li>Wanda Sykes as Granny (voice)</li><li>Jennifer Lopez as Shira (voice)</li><li>Queen Latifah as Ellie (voice)</li><li>Keke Palmer as Peaches (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Ice Age: Continental Drift (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
+  "movie:600": {
+   "d": "Full Metal Jacket (1987): Drama/War film. Story: A pragmatic U.S. Marine observes the dehumanizing… See cast, budget $30M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+   "industry": "world",
+   "k": "Full Metal Jacket, Full Metal Jacket movie, Full Metal Jacket cast, Full Metal Jacket story, Full Metal Jacket box office collection, Full Metal Jacket budget, Full Metal Jacket review, Full Metal Jacket rating, Full Metal Jacket release date, Full Metal Jacket trailer, Full Metal Jacket Drama, Full Metal Jacket War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew Modine"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Baldwin"
+     },
+     {
+      "@type": "Person",
+      "name": "Vincent D'Onofrio"
+     },
+     {
+      "@type": "Person",
+      "name": "R. Lee Ermey"
+     },
+     {
+      "@type": "Person",
+      "name": "Dorian Harewood"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11953,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Full Metal Jacket (1987): Drama/War film. Story: A pragmatic U.S. Marine observes the dehumanizing… See cast, budget $30M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stanley Kubrick"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Drama",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=600",
+    "name": "Full Metal Jacket",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1987-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=600"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Full Metal Jacket (1987)</h1>\n<p class=\"ssr-lead\">A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 1987</li><li>Runtime: 117 minutes</li><li>Director: Stanley Kubrick</li><li>Genres: Drama, War</li><li>Budget: $30M</li><li>TMDB rating: 8.1/10 (11953 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew Modine as Pvt. Joker</li><li>Adam Baldwin as Animal Mother</li><li>Vincent D&#x27;Onofrio as Pvt. Pyle</li><li>R. Lee Ermey as Gny. Sgt. Hartman</li><li>Dorian Harewood as Eightball</li><li>Kevyn Major Howard as Rafterman</li><li>Arliss Howard as Pvt. Cowboy</li><li>Ed O&#x27;Ross as Lt. Touchdown</li><li>John Terry as Lt. Lockhart</li><li>Kieron Jecchinis as Crazy Earl</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Full Metal Jacket (1987) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1987"
   },
   "movie:63700": {
    "d": "My Babysitter's a Vampire (2010): Comedy/Adventure film. Story: Geeky 14-year old Ethan is left to babysit his… See cast, budget $2.18M, and TMDB rating 7.1/10.",
@@ -2864,6 +3516,70 @@
    "t": "Retirement Home (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:76600": {
+   "d": "Avatar: The Way of Water (2022): Action/Adventure film. Story: Set more than a decade after the events of the first… See cast and budget $460M.",
+   "img": "https://image.tmdb.org/t/p/w780/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+   "industry": "world",
+   "k": "Avatar: The Way of Water, Avatar: The Way of Water movie, Avatar: The Way of Water cast, Avatar: The Way of Water story, Avatar: The Way of Water box office collection, Avatar: The Way of Water budget, Avatar: The Way of Water review, Avatar: The Way of Water rating, Avatar: The Way of Water release date, Avatar: The Way of Water trailer, Avatar: The Way of Water Action, Avatar: The Way of Water Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Worthington"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Lang"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Winslet"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14895,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Avatar: The Way of Water (2022): Action/Adventure film. Story: Set more than a decade after the events of the first… See cast and budget $460M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Cameron"
+     }
+    ],
+    "duration": "PT192M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=76600",
+    "name": "Avatar: The Way of Water",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=76600"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Avatar: The Way of Water (2022)</h1>\n<p class=\"ssr-lead\">Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2022</li><li>Runtime: 192 minutes</li><li>Director: James Cameron</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $460M</li><li>TMDB rating: 7.6/10 (14895 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Worthington as Jake Sully</li><li>Zoe Saldaña as Neytiri</li><li>Sigourney Weaver as Kiri</li><li>Stephen Lang as Colonel Miles Quaritch</li><li>Kate Winslet as Ronal</li><li>Cliff Curtis as Tonowari</li><li>Joel David Moore as Norm Spellman</li><li>CCH Pounder as Mo&#x27;at</li><li>Edie Falco as General Frances Ardmore</li><li>Jemaine Clement as Dr. Ian Garvin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Avatar: The Way of Water (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:803700": {
    "d": "The Eight Mountains (2022): Drama film. Story: An epic journey of friendship and self-discovery set… See cast and TMDB rating 7.6/10.",
    "img": "https://image.tmdb.org/t/p/w780/hag9edxgL2RgG9FMfqAV0KgjPK0.jpg",
@@ -2930,6 +3646,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Eight Mountains (2022)</h1>\n<p class=\"ssr-lead\">An epic journey of friendship and self-discovery set in the breathtaking Italian Alps, The Eight Mountains follows over four decades the profound, complex relationship between Pietro and Bruno.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 December 2022</li><li>Runtime: 147 minutes</li><li>Director: Charlotte Vandermeersch, Felix van Groeningen</li><li>Genres: Drama</li><li>TMDB rating: 7.6/10 (880 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Luca Marinelli as Pietro Guasti</li><li>Alessandro Borghi as Bruno Guglielmina</li><li>Lupo Barbiero as Pietro (as a child)</li><li>Cristiano Sassella as Bruno (as a child)</li><li>Elisabetta Mazzullo as Lara</li><li>Andrea Palma as Pietro (as a teenager)</li><li>Surakshya Panta as Asmi</li><li>Elena Lietti as Francesca Guasti</li><li>Filippo Timi as Giovanni Guasti</li><li>Elisa Zanotto as Barbara</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "The Eight Mountains (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:82700": {
+   "d": "After Earth (2013): Science Fiction/Action film. Story: One thousand years after cataclysmic events forced… See cast, budget $130M, and TMDB rating 5.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/e3posvSzYf9PjrQg27W64Kyc8qq.jpg",
+   "industry": "world",
+   "k": "After Earth, After Earth movie, After Earth cast, After Earth story, After Earth box office collection, After Earth budget, After Earth review, After Earth rating, After Earth release date, After Earth trailer, After Earth Science Fiction, After Earth Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jaden Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Okonedo"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoë Kravitz"
+     },
+     {
+      "@type": "Person",
+      "name": "Glenn Morshower"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7050,
+     "ratingValue": 5.2,
+     "worstRating": 0
+    },
+    "description": "After Earth (2013): Science Fiction/Action film. Story: One thousand years after cataclysmic events forced… See cast, budget $130M, and TMDB rating 5.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "M. Night Shyamalan"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/e3posvSzYf9PjrQg27W64Kyc8qq.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=82700",
+    "name": "After Earth",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-05-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=82700"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>After Earth (2013)</h1>\n<p class=\"ssr-lead\">One thousand years after cataclysmic events forced humanity&#x27;s escape from Earth, Nova Prime has become mankind&#x27;s new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai&#x27;s craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 May 2013</li><li>Runtime: 100 minutes</li><li>Director: M. Night Shyamalan</li><li>Genres: Science Fiction, Action, Adventure</li><li>Budget: $130M</li><li>TMDB rating: 5.2/10 (7050 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jaden Smith as Kitai Raige</li><li>Will Smith as Cypher Raige</li><li>Sophie Okonedo as Faia Raige</li><li>Zoë Kravitz as Senshi Raige</li><li>Glenn Morshower as Commander Velan</li><li>Kristofer Hivju as Security Chief</li><li>Sacha Dhawan as Hesper Pilot</li><li>Chris Geere as Hesper Navigator</li><li>Diego Klattenhoff as Veteran Ranger</li><li>David Denman as Private McQuarrie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "After Earth (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:84200": {
    "d": "For a Good Time, Call... (2012): Comedy/Drama film. Story: College \"frenemies\" Lauren and Katie move in together… See cast and budget $850.0k.",

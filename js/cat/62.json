@@ -1,6 +1,6 @@
 {
  "bucket": "62",
- "count": 68,
+ "count": 78,
  "titles": {
   "movie:1000862": {
    "backdrop_path": "/1SO3YnpeZB4kSBpv4IgT88dBiE8.jpg",
@@ -2757,6 +2757,134 @@
    "vote_average": 5.8,
    "vote_count": 21
   },
+  "movie:162": {
+   "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Edward Scissorhands",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Kim",
+     "n": "Winona Ryder"
+    },
+    {
+     "c": "Peg",
+     "n": "Dianne Wiest"
+    },
+    {
+     "c": "Jim",
+     "n": "Anthony Michael Hall"
+    },
+    {
+     "c": "Joyce",
+     "n": "Kathy Baker"
+    },
+    {
+     "c": "Kevin",
+     "n": "Robert Oliveri"
+    },
+    {
+     "c": "Helen",
+     "n": "Conchata Ferrell"
+    },
+    {
+     "c": "Marge",
+     "n": "Caroline Aaron"
+    },
+    {
+     "c": "Officer Allen",
+     "n": "Dick Anthony Williams"
+    },
+    {
+     "c": "Esmeralda",
+     "n": "O-Lan Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 162,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+   "popularity": 12.9809,
+   "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Freeform"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1992-02-14",
+   "revenue": 86024005,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Innocence is what he knows. Beauty is what she sees.",
+   "title": "Edward Scissorhands",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.7,
+   "vote_count": 14209
+  },
   "movie:1641962": {
    "backdrop_path": "/8SEs6yUgrE5shU8tqXuR2MQIdlc.jpg",
    "budget": 0,
@@ -3617,6 +3745,137 @@
    "vote_average": 6.188,
    "vote_count": 473
   },
+  "movie:194662": {
+   "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Riggan",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Sam",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Jake",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Mike",
+     "n": "Edward Norton"
+    },
+    {
+     "c": "Laura",
+     "n": "Andrea Riseborough"
+    },
+    {
+     "c": "Lesley",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "Sylvia",
+     "n": "Amy Ryan"
+    },
+    {
+     "c": "Tabitha",
+     "n": "Lindsay Duncan"
+    },
+    {
+     "c": "Annie",
+     "n": "Merritt Wever"
+    },
+    {
+     "c": "Ralph",
+     "n": "Jeremy Shamos"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Alejandro G. Iñárritu"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 194662,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+   "popularity": 10.6026,
+   "poster_path": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-01-30",
+   "revenue": 103215094,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How did we end up here?",
+   "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+   "trailer": {
+    "key": "egYzOALlYyU",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.434,
+   "vote_count": 14002
+  },
   "movie:19562": {
    "backdrop_path": "/9VIir77wPGtyVvB4Oq5t7md9DpX.jpg",
    "budget": 0,
@@ -3752,6 +4011,124 @@
    "type": "movie",
    "vote_average": 6.991,
    "vote_count": 403
+  },
+  "movie:2062": {
+   "backdrop_path": "/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Remy (voice)",
+     "n": "Patton Oswalt"
+    },
+    {
+     "c": "Linguini (voice)",
+     "n": "Lou Romano"
+    },
+    {
+     "c": "Skinner (voice)",
+     "n": "Ian Holm"
+    },
+    {
+     "c": "Django (voice)",
+     "n": "Brian Dennehy"
+    },
+    {
+     "c": "Emile (voice)",
+     "n": "Peter Sohn"
+    },
+    {
+     "c": "Anton Ego (voice)",
+     "n": "Peter O'Toole"
+    },
+    {
+     "c": "Gusteau (voice)",
+     "n": "Brad Garrett"
+    },
+    {
+     "c": "Colette (voice)",
+     "n": "Janeane Garofalo"
+    },
+    {
+     "c": "Horst (voice)",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Lalo / Francois (voice)",
+     "n": "Julius Callahan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Brad Bird"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 2062,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In one of Paris's finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family's wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.",
+   "popularity": 23.318,
+   "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-06-28",
+   "revenue": 623726000,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "He's dying to become a chef.",
+   "title": "Ratatouille",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.85,
+   "vote_count": 19225
   },
   "movie:209262": {
    "backdrop_path": "/c8sODXEgANa49CdcHc9NgNBexdF.jpg",
@@ -4083,6 +4460,349 @@
    "vote_average": 7.752,
    "vote_count": 497
   },
+  "movie:297762": {
+   "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+   "budget": 149000000,
+   "cast": [
+    {
+     "c": "Diana",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Steve Trevor",
+     "n": "Chris Pine"
+    },
+    {
+     "c": "Hippolyta",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Antiope",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Ludendorff",
+     "n": "Danny Huston"
+    },
+    {
+     "c": "Sir Patrick",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Sameer",
+     "n": "Saïd Taghmaoui"
+    },
+    {
+     "c": "Charlie",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "The Chief",
+     "n": "Eugene Brave Rock"
+    },
+    {
+     "c": "Etta",
+     "n": "Lucy Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Patty Jenkins"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 297762,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+   "popularity": 11.2951,
+   "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-05-30",
+   "revenue": 823970682,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Power. Grace. Wisdom. Wonder.",
+   "title": "Wonder Woman",
+   "trailer": {
+    "key": "VSB4wGIdDwo",
+    "name": "Official Final Trailer - Rise of the Warrior",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.197,
+   "vote_count": 21379
+  },
+  "movie:315162": {
+   "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Puss in Boots (voice)",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Kitty Softpaws (voice)",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Perrito (voice)",
+     "n": "Harvey Guillén"
+    },
+    {
+     "c": "Wolf (voice)",
+     "n": "Wagner Moura"
+    },
+    {
+     "c": "Goldilocks (voice)",
+     "n": "Florence Pugh"
+    },
+    {
+     "c": "Mama Bear (voice)",
+     "n": "Olivia Colman"
+    },
+    {
+     "c": "Papa Bear (voice)",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Baby Bear (voice)",
+     "n": "Samson Kayo"
+    },
+    {
+     "c": "Jack Horner (voice)",
+     "n": "John Mulaney"
+    },
+    {
+     "c": "Mama Luna (voice)",
+     "n": "Da'Vine Joy Randolph"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Joel Crawford"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "id": 315162,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+   "popularity": 17.6937,
+   "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2023-01-20",
+   "revenue": 484700000,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Say hola to his little friends.",
+   "title": "Puss in Boots: The Last Wish",
+   "trailer": {
+    "key": "tHb7WlgyaUc",
+    "name": "Official Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.218,
+   "vote_count": 9393
+  },
   "movie:31662": {
    "backdrop_path": "/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
    "budget": 6000000,
@@ -4277,6 +4997,153 @@
    "type": "movie",
    "vote_average": 6.317,
    "vote_count": 339
+  },
+  "movie:332562": {
+   "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+   "budget": 36000000,
+   "cast": [
+    {
+     "c": "Ally Campana",
+     "n": "Lady Gaga"
+    },
+    {
+     "c": "Jackson Maine",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Bobby Maine",
+     "n": "Sam Elliott"
+    },
+    {
+     "c": "Lorenzo Campana",
+     "n": "Andrew Dice Clay"
+    },
+    {
+     "c": "Rez Gavron",
+     "n": "Rafi Gavron"
+    },
+    {
+     "c": "Ramon",
+     "n": "Anthony Ramos"
+    },
+    {
+     "c": "George \"Noodles\" Stone",
+     "n": "Dave Chappelle"
+    },
+    {
+     "c": "Alec Baldwin",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Marlon Williams",
+     "n": "Marlon Williams"
+    },
+    {
+     "c": "Brandi Carlile",
+     "n": "Brandi Carlile"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Bradley Cooper"
+   ],
+   "genres": [
+    "Music",
+    "Drama",
+    "Romance"
+   ],
+   "id": 332562,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+   "popularity": 7.7053,
+   "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-10-12",
+   "revenue": 436388866,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "A Star Is Born",
+   "trailer": {
+    "key": "UywJmJ6ohvc",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.486,
+   "vote_count": 12497
   },
   "movie:335462": {
    "backdrop_path": "/zUmcuYkAbbl5YX4wabqdKLWSBlZ.jpg",
@@ -6194,6 +7061,145 @@
    "vote_average": 6.296,
    "vote_count": 385
   },
+  "movie:562": {
+   "backdrop_path": "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "John McClane",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Hans Gruber",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Karl",
+     "n": "Alexander Godunov"
+    },
+    {
+     "c": "Holly Gennaro McClane",
+     "n": "Bonnie Bedelia"
+    },
+    {
+     "c": "Al Powell",
+     "n": "Reginald VelJohnson"
+    },
+    {
+     "c": "Dwayne Robinson",
+     "n": "Paul Gleason"
+    },
+    {
+     "c": "Argyle",
+     "n": "De'voreaux White"
+    },
+    {
+     "c": "Richard Thornburg",
+     "n": "William Atherton"
+    },
+    {
+     "c": "Harry Ellis",
+     "n": "Hart Bochner"
+    },
+    {
+     "c": "Joseph Yoshinobu Takagi",
+     "n": "James Shigeta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John McTiernan"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 562,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+   "popularity": 15.7174,
+   "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1988-07-15",
+   "revenue": 140767956,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "40 stories of sheer adventure!",
+   "title": "Die Hard",
+   "trailer": {
+    "key": "4Wi28Vsi_ZU",
+    "name": "The Greatest Christmas Story",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.817,
+   "vote_count": 12872
+  },
   "movie:584962": {
    "backdrop_path": "/bffxv4SSJefy3CdgSqVTlWbRiOt.jpg",
    "budget": 0,
@@ -6299,6 +7305,143 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 983
+  },
+  "movie:62": {
+   "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Dr. David Bowman",
+     "n": "Keir Dullea"
+    },
+    {
+     "c": "Dr. Frank Poole",
+     "n": "Gary Lockwood"
+    },
+    {
+     "c": "Dr. Heywood Floyd",
+     "n": "William Sylvester"
+    },
+    {
+     "c": "HAL 9000 (voice)",
+     "n": "Douglas Rain"
+    },
+    {
+     "c": "Moonwatcher",
+     "n": "Daniel Richter"
+    },
+    {
+     "c": "Dr. Andrei Smyslov",
+     "n": "Leonard Rossiter"
+    },
+    {
+     "c": "Elena",
+     "n": "Margaret Tyzack"
+    },
+    {
+     "c": "Dr. Ralph Halvorsen",
+     "n": "Robert Beatty"
+    },
+    {
+     "c": "Dr. Roy Michaels",
+     "n": "Sean Sullivan"
+    },
+    {
+     "c": "Mission Controller (voice)",
+     "n": "Frank W. Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Stanley Kubrick"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Adventure"
+   ],
+   "id": 62,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+   "popularity": 19.0718,
+   "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-10-04",
+   "revenue": 71923560,
+   "runtime": 149,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "An epic drama of adventure and exploration.",
+   "title": "2001: A Space Odyssey",
+   "trailer": {
+    "key": "kR2r-A9H3Kg",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.042,
+   "vote_count": 13152
   },
   "movie:73262": {
    "backdrop_path": "/hYJOPAcO60cSNaWqzE815PgdsTz.jpg",
@@ -6441,6 +7584,225 @@
    "type": "movie",
    "vote_average": 5.7,
    "vote_count": 319
+  },
+  "movie:762": {
+   "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+   "budget": 400000,
+   "cast": [
+    {
+     "c": "King Arthur / Voice of God / Middle Head / Hiccoughing Guard",
+     "n": "Graham Chapman"
+    },
+    {
+     "c": "Second Swallow-Savvy Guard / The Black Knight / Peasant 3 / Sir Launcelot the Brave / Taunting French Guard / Tim the Enchanter",
+     "n": "John Cleese"
+    },
+    {
+     "c": "Dead Collector / Peasant 1 / Sir Robin the Not-Quite-So-Brave-as-Sir Launcelot / First Swamp Castle Guard / Concorde / Roger the Shrubber / Brother Maynard",
+     "n": "Eric Idle"
+    },
+    {
+     "c": "Patsy / Green Knight / Old Man from Scene 24 (Bridgekeeper) / Sir Bors / Animator / Gorilla Hand",
+     "n": "Terry Gilliam"
+    },
+    {
+     "c": "Dennis's Mother / Sir Bedevere / Left Head / Prince Herbert / Voice of Cartoon Scribe",
+     "n": "Terry Jones"
+    },
+    {
+     "c": "First Swallow-Savvy Guard / Dennis / Peasant 2 / Right Head / Sir Galahad the Pure / Narrator / King of Swamp Castle / Brother Maynard's Brother / Leader of The Knights Who Say NI!",
+     "n": "Michael Palin"
+    },
+    {
+     "c": "The Witch",
+     "n": "Connie Booth"
+    },
+    {
+     "c": "Zoot / Dingo",
+     "n": "Carol Cleveland"
+    },
+    {
+     "c": "First Monk / Singing Minstrel / Page Crushed by the Rabbit / Peasant #4",
+     "n": "Neil Innes"
+    },
+    {
+     "c": "Old Crone",
+     "n": "Bee Duffell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Terry Jones",
+    "Terry Gilliam"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 762,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+   "popularity": 6.9501,
+   "poster_path": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "BritBox Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+     "name": "Peacock Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+     "name": "Britbox Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+     "name": "BritBox Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+     "name": "Peacock Premium Plus",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+     "name": "Shout! Factory Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1979-12-06",
+   "revenue": 5763644,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "la",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "And now! At Last! Another film completely different from some of the other films which aren't quite the same as this one is.",
+   "title": "Monty Python and the Holy Grail",
+   "trailer": {
+    "key": "4b52A3sKz-I",
+    "name": "Trailer Fall 2023",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.799,
+   "vote_count": 6726
   },
   "movie:790462": {
    "backdrop_path": "/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
@@ -6953,6 +8315,124 @@
    "type": "movie",
    "vote_average": 6.268,
    "vote_count": 306
+  },
+  "movie:862": {
+   "backdrop_path": "/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Woody (voice)",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Buzz Lightyear (voice)",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Mr. Potato Head (voice)",
+     "n": "Don Rickles"
+    },
+    {
+     "c": "Slinky Dog (voice)",
+     "n": "Jim Varney"
+    },
+    {
+     "c": "Rex (voice)",
+     "n": "Wallace Shawn"
+    },
+    {
+     "c": "Hamm (voice)",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Bo Peep (voice)",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Andy (voice)",
+     "n": "John Morris"
+    },
+    {
+     "c": "Sid (voice)",
+     "n": "Erik von Detten"
+    },
+    {
+     "c": "Mrs. Davis (voice)",
+     "n": "Laurie Metcalf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Lasseter"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 862,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+   "popularity": 25.3987,
+   "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1995-11-22",
+   "revenue": 401157969,
+   "runtime": 81,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hang on for the comedy that goes to infinity and beyond!",
+   "title": "Toy Story",
+   "trailer": {
+    "key": "CxwTLktovTU",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.0,
+   "vote_count": 20837
   },
   "movie:881462": {
    "backdrop_path": "/jOqGCRHZ2Hea2mPH2IOkMabmdw5.jpg",

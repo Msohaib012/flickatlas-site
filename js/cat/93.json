@@ -1,7 +1,128 @@
 {
  "bucket": "93",
- "count": 65,
+ "count": 74,
  "titles": {
+  "movie:10193": {
+   "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Woody (voice)",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Buzz Lightyear (voice)",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Jessie (voice)",
+     "n": "Joan Cusack"
+    },
+    {
+     "c": "Mr. Potato Head (voice)",
+     "n": "Don Rickles"
+    },
+    {
+     "c": "Rex (voice)",
+     "n": "Wallace Shawn"
+    },
+    {
+     "c": "Hamm (voice)",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Mrs. Potato Head (voice)",
+     "n": "Estelle Harris"
+    },
+    {
+     "c": "Slinky Dog (voice)",
+     "n": "Blake Clark"
+    },
+    {
+     "c": "Aliens (voice)",
+     "n": "Jeff Pidgeon"
+    },
+    {
+     "c": "Lotso (voice)",
+     "n": "Ned Beatty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Lee Unkrich"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+   ],
+   "id": 10193,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+   "popularity": 15.278,
+   "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-06-25",
+   "revenue": 1067316101,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "No toy gets left behind.",
+   "title": "Toy Story 3",
+   "trailer": {
+    "key": "6c3K7LhA9Yc",
+    "name": "Trailer #2 (Official!)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.818,
+   "vote_count": 16457
+  },
   "movie:10493": {
    "backdrop_path": "/obUtKEx6Eb8Rib330c30BbckF1W.jpg",
    "budget": 10400000,
@@ -1657,6 +1778,143 @@
    "vote_average": 5.8,
    "vote_count": 39
   },
+  "movie:1593": {
+   "backdrop_path": "/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Larry Daley",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Rebecca",
+     "n": "Carla Gugino"
+    },
+    {
+     "c": "Cecil",
+     "n": "Dick Van Dyke"
+    },
+    {
+     "c": "Gus",
+     "n": "Mickey Rooney"
+    },
+    {
+     "c": "Reginald",
+     "n": "Bill Cobbs"
+    },
+    {
+     "c": "Nick Daley",
+     "n": "Jake Cherry"
+    },
+    {
+     "c": "Dr. McPhee",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "Theodore Roosevelt",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Erica Daley",
+     "n": "Kim Raver"
+    },
+    {
+     "c": "Attila the Hun",
+     "n": "Patrick Gallagher"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Shawn Levy"
+   ],
+   "genres": [
+    "Fantasy",
+    "Family",
+    "Comedy"
+   ],
+   "id": 1593,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+   "popularity": 9.2906,
+   "poster_path": "/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-12-20",
+   "revenue": 574480841,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "Where history comes to life.",
+   "title": "Night at the Museum",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 11359
+  },
   "movie:1599993": {
    "backdrop_path": "/466HJFm5SCys70ecnqJcSOeAHPG.jpg",
    "budget": 0,
@@ -1894,6 +2152,123 @@
    "type": "movie",
    "vote_average": 6.803,
    "vote_count": 323
+  },
+  "movie:1893": {
+   "backdrop_path": "/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+   "budget": 115000000,
+   "cast": [
+    {
+     "c": "Qui-Gon Jinn",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Obi-Wan Kenobi",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Padmé Amidala",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Anakin Skywalker",
+     "n": "Jake Lloyd"
+    },
+    {
+     "c": "Senator Palpatine",
+     "n": "Ian McDiarmid"
+    },
+    {
+     "c": "Shmi Skywalker",
+     "n": "Pernilla August"
+    },
+    {
+     "c": "Governor Sio Bibble",
+     "n": "Oliver Ford Davies"
+    },
+    {
+     "c": "Captain Panaka",
+     "n": "Hugh Quarshie"
+    },
+    {
+     "c": "Jar Jar Binks",
+     "n": "Ahmed Best"
+    },
+    {
+     "c": "C-3PO (voice)",
+     "n": "Anthony Daniels"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "George Lucas"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1893,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+   "popularity": 11.6275,
+   "poster_path": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-05-19",
+   "revenue": 1046515409,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every saga has a beginning.",
+   "title": "Star Wars: Episode I - The Phantom Menace",
+   "trailer": {
+    "key": "J3kyYFHdRsM",
+    "name": "Remastered Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.582,
+   "vote_count": 16434
   },
   "movie:203793": {
    "backdrop_path": "/ltji3cISxWL83DW5ngYxI89MepJ.jpg",
@@ -2390,6 +2765,178 @@
    "vote_average": 7.271,
    "vote_count": 349
   },
+  "movie:259693": {
+   "backdrop_path": "/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Lorraine Warren",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Ed Warren",
+     "n": "Patrick Wilson"
+    },
+    {
+     "c": "Janet Hodgson",
+     "n": "Madison Wolfe"
+    },
+    {
+     "c": "Peggy Hodgson",
+     "n": "Frances O'Connor"
+    },
+    {
+     "c": "Margaret Hodgson",
+     "n": "Lauren Esposito"
+    },
+    {
+     "c": "Billy Hodgson",
+     "n": "Benjamin Haigh"
+    },
+    {
+     "c": "Johnny Hodgson",
+     "n": "Patrick McAuley"
+    },
+    {
+     "c": "Judy Warren",
+     "n": "Sterling Jerins"
+    },
+    {
+     "c": "Demon Nun",
+     "n": "Bonnie Aarons"
+    },
+    {
+     "c": "Maurice Grosse",
+     "n": "Simon McBurney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Wan"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 259693,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+   "popularity": 13.9516,
+   "poster_path": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-06-10",
+   "revenue": 322819915,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The next true story from the case files of Ed and Lorraine Warren.",
+   "title": "The Conjuring 2",
+   "trailer": {
+    "key": "VFsmuRPClr4",
+    "name": "Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.297,
+   "vote_count": 9545
+  },
   "movie:26593": {
    "backdrop_path": "/yxAw8UE3MiYbc6yCN3XhVXdG9yx.jpg",
    "budget": 0,
@@ -2740,6 +3287,171 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 328
+  },
+  "movie:295693": {
+   "backdrop_path": "/8280R0bDR1FusPyThAOmAcSC4nu.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Tim (voice)",
+     "n": "Miles Bakshi"
+    },
+    {
+     "c": "Boss Baby (voice)",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Dad (voice)",
+     "n": "Jimmy Kimmel"
+    },
+    {
+     "c": "Mom (voice)",
+     "n": "Lisa Kudrow"
+    },
+    {
+     "c": "Francis Francis (voice)",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Adult Tim / Narrator (voice)",
+     "n": "Tobey Maguire"
+    },
+    {
+     "c": "Wizzie / Elvis Impersonator (voice)",
+     "n": "James McGrath"
+    },
+    {
+     "c": "Eugene (voice)",
+     "n": "Conrad Vernon"
+    },
+    {
+     "c": "Staci (voice)",
+     "n": "ViviAnn Yee"
+    },
+    {
+     "c": "Triplets (voice)",
+     "n": "Eric Bell Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tom McGrath"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 295693,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.",
+   "popularity": 3.0603,
+   "poster_path": "/9MsQJKe4cUAGxc7R2NGaFQLqOPc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-03-31",
+   "revenue": 527965936,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Born leader.",
+   "title": "The Boss Baby",
+   "trailer": {
+    "key": "Ud8j5GaqH3c",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.45,
+   "vote_count": 7637
   },
   "movie:3093": {
    "backdrop_path": "/g03rOxKeJJbgR3Lvzrcdii55dm8.jpg",
@@ -3471,6 +4183,182 @@
    "type": "movie",
    "vote_average": 6.549,
    "vote_count": 477
+  },
+  "movie:393": {
+   "backdrop_path": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Beatrix Kiddo / The Bride / 'Black Mamba' / Mommy",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Bill 'Snake Charmer'",
+     "n": "David Carradine"
+    },
+    {
+     "c": "Elle Driver 'California Mountain Snake'",
+     "n": "Daryl Hannah"
+    },
+    {
+     "c": "Budd 'Sidewinder'",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "Johnny Mo / Pai Mei",
+     "n": "Gordon Liu Chia-hui"
+    },
+    {
+     "c": "Earl McGraw / Esteban Vihaio",
+     "n": "Michael Parks"
+    },
+    {
+     "c": "B.B.",
+     "n": "Perla Haney-Jardine"
+    },
+    {
+     "c": "Vernita Green 'Copperhead'",
+     "n": "Vivica A. Fox"
+    },
+    {
+     "c": "Nikki",
+     "n": "Ambrosia Kelley"
+    },
+    {
+     "c": "Edgar McGraw",
+     "n": "James Parks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Quentin Tarantino"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 393,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+   "popularity": 11.4654,
+   "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-08-20",
+   "revenue": 152159461,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh",
+    "es",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "The bride is back for the final cut.",
+   "title": "Kill Bill: Vol. 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.872,
+   "vote_count": 15681
   },
   "movie:396493": {
    "backdrop_path": "/xn4qe52O0gwfapVT9aOZOPA4wQt.jpg",
@@ -5789,6 +6677,169 @@
    "vote_average": 6.815,
    "vote_count": 820
   },
+  "movie:76493": {
+   "backdrop_path": "/jWq20KNbg5txb28tLxJl0yLYuxp.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Aladeen / Efawadh",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Tamir",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Zoey",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Nadal",
+     "n": "Jason Mantzoukas"
+    },
+    {
+     "c": "Omar",
+     "n": "Sayed Badreya"
+    },
+    {
+     "c": "Maroush",
+     "n": "Adeel Akhtar"
+    },
+    {
+     "c": "Doctor",
+     "n": "Aasif Mandvi"
+    },
+    {
+     "c": "Patient",
+     "n": "Rizwan Manji"
+    },
+    {
+     "c": "Baby Aladeen",
+     "n": "Rocky Citron"
+    },
+    {
+     "c": "Aladeen Age 6",
+     "n": "Liam Campora"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Larry Charles"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 76493,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The heroic story of a dictator who risks his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+   "popularity": 7.7611,
+   "poster_path": "/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-05-15",
+   "revenue": 179379533,
+   "runtime": 83,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "he"
+   ],
+   "status": "Released",
+   "tagline": "Make way for Aladeen.",
+   "title": "The Dictator",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.254,
+   "vote_count": 6740
+  },
   "movie:792293": {
    "backdrop_path": "/dTOQaHP4PjDXU2JwDF6UYqGqRT0.jpg",
    "budget": 30000000,
@@ -6080,6 +7131,189 @@
    "vote_average": 6.108,
    "vote_count": 315
   },
+  "movie:82693": {
+   "backdrop_path": "/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+   "budget": 21000000,
+   "cast": [
+    {
+     "c": "Pat Solatano Jr.",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Tiffany Maxwell",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Pat Solatano Sr.",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Dolores Solatano",
+     "n": "Jacki Weaver"
+    },
+    {
+     "c": "Dr. Cliff Patel",
+     "n": "Anupam Kher"
+    },
+    {
+     "c": "Danny McDaniels",
+     "n": "Chris Tucker"
+    },
+    {
+     "c": "Veronica",
+     "n": "Julia Stiles"
+    },
+    {
+     "c": "Jake Solatano",
+     "n": "Shea Whigham"
+    },
+    {
+     "c": "Ronnie",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Randy",
+     "n": "Paul Herman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David O. Russell"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 82693,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
+   "popularity": 7.0837,
+   "poster_path": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-12-07",
+   "revenue": 236412453,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Watch for the signs.",
+   "title": "Silver Linings Playbook",
+   "trailer": {
+    "key": "EI_3ywJLQio",
+    "name": "Official Movie Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.153,
+   "vote_count": 12976
+  },
   "movie:9393": {
    "backdrop_path": "/7Or5uj52hqOnHWDna13OagcX9aP.jpg",
    "budget": 4500000,
@@ -6264,6 +7498,123 @@
    "type": "movie",
    "vote_average": 8.052,
    "vote_count": 48
+  },
+  "movie:9693": {
+   "backdrop_path": "/8Y1S9BtmTOh86irwFo7CJ01YPXF.jpg",
+   "budget": 76000000,
+   "cast": [
+    {
+     "c": "Theo Faron",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Kee",
+     "n": "Clare-Hope Ashitey"
+    },
+    {
+     "c": "Luke",
+     "n": "Chiwetel Ejiofor"
+    },
+    {
+     "c": "Julian",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Jasper",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Miriam",
+     "n": "Pam Ferris"
+    },
+    {
+     "c": "Patric",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Nigel",
+     "n": "Danny Huston"
+    },
+    {
+     "c": "Syd",
+     "n": "Peter Mullan"
+    },
+    {
+     "c": "Marichka",
+     "n": "Oana Pellea"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Alfonso Cuarón"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Action"
+   ],
+   "id": 9693,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+   "popularity": 9.2738,
+   "poster_path": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-09-22",
+   "revenue": 70595464,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope.",
+   "title": "Children of Men",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 8293
   },
   "tv:240993": {
    "backdrop_path": "/29P64FqDp0UVa9oJsIl49PHn5tH.jpg",

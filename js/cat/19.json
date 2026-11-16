@@ -1,6 +1,6 @@
 {
  "bucket": "19",
- "count": 62,
+ "count": 64,
  "titles": {
   "movie:10019": {
    "backdrop_path": "/rbYlmgMV96GcvTe700peiTH5JcS.jpg",
@@ -4899,6 +4899,328 @@
    "type": "movie",
    "vote_average": 6.55,
    "vote_count": 420
+  },
+  "movie:49519": {
+   "backdrop_path": "/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+   "budget": 135000000,
+   "cast": [
+    {
+     "c": "Grug (voice)",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Eep (voice)",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Guy (voice)",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Ugga (voice)",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Gran (voice)",
+     "n": "Cloris Leachman"
+    },
+    {
+     "c": "Thunk (voice)",
+     "n": "Clark Duke"
+    },
+    {
+     "c": "Belt (voice)",
+     "n": "Chris Sanders"
+    },
+    {
+     "c": "Sandy (voice)",
+     "n": "Randy Thom"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Kirk DeMicco",
+    "Chris Sanders"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
+   "id": 49519,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.",
+   "popularity": 9.5259,
+   "poster_path": "/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-03-22",
+   "revenue": 587204668,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The journey begins.",
+   "title": "The Croods",
+   "trailer": {
+    "key": "4fVCKy69zUY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.949,
+   "vote_count": 7801
+  },
+  "movie:50619": {
+   "backdrop_path": "/iPqoeXEfByDN399PQQ42IJHV2kN.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Bella Swan",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Edward Cullen",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Jacob Black",
+     "n": "Taylor Lautner"
+    },
+    {
+     "c": "Charlie Swan",
+     "n": "Billy Burke"
+    },
+    {
+     "c": "Dr. Carlisle Cullen",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Aro",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Esme Cullen",
+     "n": "Elizabeth Reaser"
+    },
+    {
+     "c": "Emmett Cullen",
+     "n": "Kellan Lutz"
+    },
+    {
+     "c": "Rosalie Hale",
+     "n": "Nikki Reed"
+    },
+    {
+     "c": "Jasper Hale",
+     "n": "Jackson Rathbone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bill Condon"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 50619,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
+   "popularity": 10.8449,
+   "poster_path": "/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-11-16",
+   "revenue": 712171856,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "Forever is just the beginning.",
+   "title": "The Twilight Saga: Breaking Dawn - Part 1",
+   "trailer": {
+    "key": "PQNLfo-SOR4",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.178,
+   "vote_count": 9504
   },
   "movie:514619": {
    "backdrop_path": "/hCK1V5CNXS9wukjkBfKbZ8ghDtL.jpg",

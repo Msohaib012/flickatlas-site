@@ -1,6 +1,6 @@
 {
  "bucket": "13",
- "count": 56,
+ "count": 68,
  "titles": {
   "movie:10213": {
    "backdrop_path": "/n4ChV0MskyVOzOMBO8V6xoi6Z94.jpg",
@@ -674,6 +674,186 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 343
+  },
+  "movie:13": {
+   "backdrop_path": "/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Forrest Gump",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Jenny Curran",
+     "n": "Robin Wright"
+    },
+    {
+     "c": "Lieutenant Dan Taylor",
+     "n": "Gary Sinise"
+    },
+    {
+     "c": "Mrs. Gump",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Bubba Blue",
+     "n": "Mykelti Williamson"
+    },
+    {
+     "c": "Young Forrest Gump",
+     "n": "Michael Conner Humphreys"
+    },
+    {
+     "c": "Young Jenny Curran",
+     "n": "Hanna Hall"
+    },
+    {
+     "c": "Forrest Junior",
+     "n": "Haley Joel Osment"
+    },
+    {
+     "c": "School Bus Driver",
+     "n": "Siobhan Fallon Hogan"
+    },
+    {
+     "c": "Nurse at Park Bench",
+     "n": "Rebecca Williams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 13,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+   "popularity": 28.561,
+   "poster_path": "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-06-23",
+   "revenue": 677387716,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+   "title": "Forrest Gump",
+   "trailer": {
+    "key": "Mj9IA9tTfio",
+    "name": "Official 25th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.5,
+   "vote_count": 30899
   },
   "movie:1304313": {
    "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
@@ -1363,6 +1543,188 @@
    "type": "movie",
    "vote_average": 5.2,
    "vote_count": 462
+  },
+  "movie:137113": {
+   "backdrop_path": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+   "budget": 178000000,
+   "cast": [
+    {
+     "c": "Cage",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Rita",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "General Brigham",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Master Sergeant Farell",
+     "n": "Bill Paxton"
+    },
+    {
+     "c": "Skinner",
+     "n": "Jonas Armstrong"
+    },
+    {
+     "c": "Kimmel",
+     "n": "Tony Way"
+    },
+    {
+     "c": "Griff",
+     "n": "Kick Gurry"
+    },
+    {
+     "c": "Ford",
+     "n": "Franz Drameh"
+    },
+    {
+     "c": "Kuntz",
+     "n": "Dragomir Mrsic"
+    },
+    {
+     "c": "Nance",
+     "n": "Charlotte Riley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Doug Liman"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 137113,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+   "popularity": 11.9897,
+   "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-06-05",
+   "revenue": 370541256,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Live. Die. Repeat.",
+   "title": "Edge of Tomorrow",
+   "trailer": {
+    "key": "eb8wTIcGLgQ",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.644,
+   "vote_count": 15760
   },
   "movie:13713": {
    "backdrop_path": "/kzdKyioNrJGqxIw9Fjt25OEbVaK.jpg",
@@ -2751,6 +3113,141 @@
    "vote_average": 6.385,
    "vote_count": 338
   },
+  "movie:1813": {
+   "backdrop_path": "/bFRyrzb16IqM8hTmxT0z1nCaqhr.jpg",
+   "budget": 57000000,
+   "cast": [
+    {
+     "c": "Kevin Lomax",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "John Milton",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Mary Ann Lomax",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Eddie Barzoon",
+     "n": "Jeffrey Jones"
+    },
+    {
+     "c": "Mrs. Lomax",
+     "n": "Judith Ivey"
+    },
+    {
+     "c": "Christabella",
+     "n": "Connie Nielsen"
+    },
+    {
+     "c": "Alexander Cullen",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Jackie Heath",
+     "n": "Tamara Tunie"
+    },
+    {
+     "c": "Leamon Heath",
+     "n": "Ruben Santiago-Hudson"
+    },
+    {
+     "c": "Pam Garrety",
+     "n": "Debra Monk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Taylor Hackford"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Mystery"
+   ],
+   "id": 1813,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+   "popularity": 10.4438,
+   "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-10-17",
+   "revenue": 153000000,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "de",
+    "it",
+    "fr",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The newest attorney at the world's most powerful law firm has never lost a case. But he's about to lose his soul.",
+   "title": "The Devil's Advocate",
+   "trailer": {
+    "key": "etrZJJC4ox8",
+    "name": "Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.482,
+   "vote_count": 7197
+  },
   "movie:193613": {
    "backdrop_path": "/AfFy1kSasTQcDwJbbTFalwc4fdH.jpg",
    "budget": 18000000,
@@ -2955,6 +3452,128 @@
    "vote_average": 7.519,
    "vote_count": 363
   },
+  "movie:19913": {
+   "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "Tom",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Summer",
+     "n": "Zooey Deschanel"
+    },
+    {
+     "c": "McKenzie",
+     "n": "Geoffrey Arend"
+    },
+    {
+     "c": "Rachel",
+     "n": "Chloë Grace Moretz"
+    },
+    {
+     "c": "Paul",
+     "n": "Matthew Gray Gubler"
+    },
+    {
+     "c": "Vance",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "Millie",
+     "n": "Patricia Belcher"
+    },
+    {
+     "c": "Alison",
+     "n": "Rachel Boston"
+    },
+    {
+     "c": "Autumn",
+     "n": "Minka Kelly"
+    },
+    {
+     "c": "Millie's New Husband",
+     "n": "Charles Walker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "Marc Webb"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 19913,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+   "popularity": 11.0627,
+   "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-07-17",
+   "revenue": 60781545,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Boy meets girl. Boy falls in love. Girl doesn't.",
+   "title": "(500) Days of Summer",
+   "trailer": {
+    "key": "oBxR8cEt2xM",
+    "name": "(Not) A Love Story",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.31,
+   "vote_count": 11446
+  },
   "movie:2313": {
    "backdrop_path": "/jEMWkXiEJ2Xe0a1G4ArIVlL504I.jpg",
    "budget": 22000000,
@@ -3113,6 +3732,129 @@
    "vote_average": 5.99,
    "vote_count": 867
   },
+  "movie:238713": {
+   "backdrop_path": "/eHEGPHKHTVhWdXzBQcrTATz9M0I.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Susan Cooper",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Raina Boyanov",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Rick Ford",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Bradley Fine",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Nancy B. Artingstall",
+     "n": "Miranda Hart"
+    },
+    {
+     "c": "Elaine Crocker",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Sergio De Luca",
+     "n": "Bobby Cannavale"
+    },
+    {
+     "c": "Aldo",
+     "n": "Peter Serafinowicz"
+    },
+    {
+     "c": "Karen Walker",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Tihomir Boyanov",
+     "n": "Raad Rawi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Feig"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 238713,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
+   "popularity": 6.0522,
+   "poster_path": "/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-05-06",
+   "revenue": 235666219,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "She's a risk they had to take.",
+   "title": "Spy",
+   "trailer": {
+    "key": "ltijEmlyqlg",
+    "name": "Spy | Official Trailer 2 [HD] | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.826,
+   "vote_count": 6617
+  },
   "movie:24913": {
    "backdrop_path": "/lLxz3D3LBhyO3q9F0eBqSjepoD4.jpg",
    "budget": 5000000,
@@ -3209,6 +3951,127 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 407
+  },
+  "movie:260513": {
+   "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Bob Parr / Mr. Incredible (voice)",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Helen Parr / Elastigirl (voice)",
+     "n": "Holly Hunter"
+    },
+    {
+     "c": "Violet Parr (voice)",
+     "n": "Sarah Vowell"
+    },
+    {
+     "c": "Dashiell 'Dash' Parr (voice)",
+     "n": "Huck Milner"
+    },
+    {
+     "c": "Evelyn Deavor (voice)",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Jack-Jack Parr (voice)",
+     "n": "Eli Fucile"
+    },
+    {
+     "c": "Winston Deavor (voice)",
+     "n": "Bob Odenkirk"
+    },
+    {
+     "c": "Lucius Best / Frozone (voice)",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Tony Rydinger (voice)",
+     "n": "Michael Bird"
+    },
+    {
+     "c": "Voyd (voice)",
+     "n": "Sophia Bush"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Brad Bird"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "id": 260513,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+   "popularity": 11.4561,
+   "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-06-22",
+   "revenue": 1243225667,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It's been too long, dahlings.",
+   "title": "Incredibles 2",
+   "trailer": {
+    "key": "i5qOzqD9Rms",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.451,
+   "vote_count": 14089
   },
   "movie:27813": {
    "backdrop_path": "/qGa0xgIKTmSa4Rlw5pEhShDTGwU.jpg",
@@ -3694,6 +4557,452 @@
    "vote_average": 6.341,
    "vote_count": 356
   },
+  "movie:341013": {
+   "backdrop_path": "/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Lorraine Broughton",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "David Percival",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Spyglass",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Emmett Kurzfeld",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Eric Gray",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Chief \"C\"",
+     "n": "James Faulkner"
+    },
+    {
+     "c": "Aleksander Bremovych",
+     "n": "Roland Møller"
+    },
+    {
+     "c": "Delphine Lasalle",
+     "n": "Sofia Boutella"
+    },
+    {
+     "c": "Merkel",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "James Gasciogne",
+     "n": "Sam Hargrave"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Leitch"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 341013,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+   "popularity": 5.4731,
+   "poster_path": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+   "production_countries": [
+    "DE",
+    "HU",
+    "SE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-07-26",
+   "revenue": 100014025,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "sv",
+    "en",
+    "de",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Talents can be overrated.",
+   "title": "Atomic Blonde",
+   "trailer": {
+    "key": "Rd5FJIUS6Jk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.444,
+   "vote_count": 6865
+  },
+  "movie:391713": {
+   "backdrop_path": "/gDcu0DkF7atjWbJtfpw43yZrNoq.jpg",
+   "budget": 10000000,
+   "cast": [
+    {
+     "c": "Lady Bird McPherson",
+     "n": "Saoirse Ronan"
+    },
+    {
+     "c": "Marion McPherson",
+     "n": "Laurie Metcalf"
+    },
+    {
+     "c": "Larry McPherson",
+     "n": "Tracy Letts"
+    },
+    {
+     "c": "Danny O'Neill",
+     "n": "Lucas Hedges"
+    },
+    {
+     "c": "Kyle Sheible",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "Julie Steffans",
+     "n": "Beanie Feldstein"
+    },
+    {
+     "c": "Sister Sarah Joan",
+     "n": "Lois Smith"
+    },
+    {
+     "c": "Father Leviatch",
+     "n": "Stephen McKinley Henderson"
+    },
+    {
+     "c": "Jenna Walton",
+     "n": "Odeya Rush"
+    },
+    {
+     "c": "Miguel McPherson",
+     "n": "Jordan Rodrigues"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Greta Gerwig"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 391713,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+   "popularity": 7.1297,
+   "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-09-01",
+   "revenue": 79000000,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fly away home.",
+   "title": "Lady Bird",
+   "trailer": {
+    "key": "cNi_HC839Wo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.248,
+   "vote_count": 9273
+  },
+  "movie:39513": {
+   "backdrop_path": "/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Graeme Willy",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Clive Gollings",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Paul (voice)",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Agent Zoil",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Ruth Buggs",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Haggard",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Tara Walton",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "O'Reilly",
+     "n": "Joe Lo Truglio"
+    },
+    {
+     "c": "Moses Buggs",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Pat Stevenson",
+     "n": "Jane Lynch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Greg Mottola"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 39513,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he’s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
+   "popularity": 7.0053,
+   "poster_path": "/dKhexH8nS08lVlSmwSs00cHFxbY.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-06-03",
+   "revenue": 98000000,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who's up for a close encounter?",
+   "title": "Paul",
+   "trailer": {
+    "key": "16Jfld1-kOI",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.754,
+   "vote_count": 6565
+  },
   "movie:401513": {
    "backdrop_path": "/fbT7a7gYwAmAmnAKCYQ1UwBAXQE.jpg",
    "budget": 5027266,
@@ -4143,6 +5452,143 @@
    "vote_average": 5.437,
    "vote_count": 430
   },
+  "movie:49013": {
+   "backdrop_path": "/robYRZk9LxJTwD7GlZCginji5k.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Mater (voice)",
+     "n": "Larry the Cable Guy"
+    },
+    {
+     "c": "Lightning McQueen (voice)",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Finn McMissile (voice)",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Holley Shiftwell (voice)",
+     "n": "Emily Mortimer"
+    },
+    {
+     "c": "Sir Miles Axlerod (voice)",
+     "n": "Suzy Eddie Izzard"
+    },
+    {
+     "c": "Francesco Bernoulli (voice)",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Brent Mustangburger (voice)",
+     "n": "Brent Musburger"
+    },
+    {
+     "c": "Grem (voice)",
+     "n": "Joe Mantegna"
+    },
+    {
+     "c": "Professor Z (voice)",
+     "n": "Thomas Kretschmann"
+    },
+    {
+     "c": "Acer (voice)",
+     "n": "Peter Jacobson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Lasseter"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 49013,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+   "popularity": 16.4825,
+   "poster_path": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-06-11",
+   "revenue": 559852396,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The mission begins.",
+   "title": "Cars 2",
+   "trailer": {
+    "key": "lg5hj2c5Nkk",
+    "name": "Cars 2 - Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.202,
+   "vote_count": 8847
+  },
   "movie:565413": {
    "backdrop_path": "/2EHwNBnzz48p1v7DXqAc9S2ylLc.jpg",
    "budget": 0,
@@ -4365,6 +5811,256 @@
    "type": "movie",
    "vote_average": 7.88,
    "vote_count": 317
+  },
+  "movie:62213": {
+   "backdrop_path": "/cJYerfZVf2rNwfGMK3MQ8lTbMnY.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Barnabas Collins",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Elizabeth Collins Stoddard",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Angelique Bouchard",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Dr. Julia Hoffman",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Carolyn Stoddard",
+     "n": "Chloë Grace Moretz"
+    },
+    {
+     "c": "Victoria Winters / Josette DuPres",
+     "n": "Bella Heathcote"
+    },
+    {
+     "c": "David Collins",
+     "n": "Gulliver McGrath"
+    },
+    {
+     "c": "Willie Loomis",
+     "n": "Jackie Earle Haley"
+    },
+    {
+     "c": "Roger Collins",
+     "n": "Jonny Lee Miller"
+    },
+    {
+     "c": "Mrs. Johnson",
+     "n": "Ray Shirley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 62213,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.",
+   "popularity": 5.9338,
+   "poster_path": "/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-05-11",
+   "revenue": 245527149,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every family has its demons.",
+   "title": "Dark Shadows",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.109,
+   "vote_count": 7841
+  },
+  "movie:664413": {
+   "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Laura Biel",
+     "n": "Anna-Maria Sieklucka"
+    },
+    {
+     "c": "Don Massimo Torricelli",
+     "n": "Michele Morrone"
+    },
+    {
+     "c": "Mario",
+     "n": "Bronisław Wrocławski"
+    },
+    {
+     "c": "Domenico",
+     "n": "Otar Saralidze"
+    },
+    {
+     "c": "Olga",
+     "n": "Magdalena Lamparska"
+    },
+    {
+     "c": "Anna",
+     "n": "Natasza Urbańska"
+    },
+    {
+     "c": "Mama Laury",
+     "n": "Grażyna Szapołowska"
+    },
+    {
+     "c": "Ojciec Laury",
+     "n": "Tomasz Stockinger"
+    },
+    {
+     "c": "Ojciec Massimo",
+     "n": "Gianni Parisi"
+    },
+    {
+     "c": "Martin",
+     "n": "Mateusz Łasowski"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barbara Białowąs",
+    "Tomasz Mandes"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Crime"
+   ],
+   "id": 664413,
+   "industry": "world",
+   "origin_country": [
+    "PL"
+   ],
+   "original_language": "pl",
+   "overview": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
+   "popularity": 8.2332,
+   "poster_path": "/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
+   "production_countries": [
+    "PL"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-02-07",
+   "revenue": 9458590,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "pl",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "365 Days",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.98,
+   "vote_count": 9632
   },
   "movie:680813": {
    "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",

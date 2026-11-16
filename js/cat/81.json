@@ -1,6 +1,6 @@
 {
  "bucket": "81",
- "count": 58,
+ "count": 65,
  "titles": {
   "movie:1000081": {
    "backdrop_path": "/jzdVz28uko3lGxuHFYI4n9vPBBe.jpg",
@@ -359,6 +359,126 @@
    "type": "movie",
    "vote_average": 6.432,
    "vote_count": 325
+  },
+  "movie:10681": {
+   "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "WALL·E / M-O (voice)",
+     "n": "Ben Burtt"
+    },
+    {
+     "c": "EVE (voice)",
+     "n": "Elissa Knight"
+    },
+    {
+     "c": "Captain (voice)",
+     "n": "Jeff Garlin"
+    },
+    {
+     "c": "Shelby Forthright, BnL CEO",
+     "n": "Fred Willard"
+    },
+    {
+     "c": "John (voice)",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Mary (voice)",
+     "n": "Kathy Najimy"
+    },
+    {
+     "c": "Ship's Computer (voice)",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Lori Alan"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "Bob Bergen"
+    },
+    {
+     "c": "Additional Voices (voice)",
+     "n": "John Cygan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Andrew Stanton"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 10681,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+   "popularity": 19.8736,
+   "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-08-29",
+   "revenue": 521311860,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+   "title": "WALL·E",
+   "trailer": {
+    "key": "geplBr2fcZc",
+    "name": "Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.128,
+   "vote_count": 21192
   },
   "movie:10881": {
    "backdrop_path": "/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg",
@@ -3069,6 +3189,141 @@
    "vote_average": 6.23,
    "vote_count": 365
   },
+  "movie:22881": {
+   "backdrop_path": "/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg",
+   "budget": 29000000,
+   "cast": [
+    {
+     "c": "Leigh Anne Tuohy",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Sean Tuohy",
+     "n": "Tim McGraw"
+    },
+    {
+     "c": "Michael Oher",
+     "n": "Quinton Aaron"
+    },
+    {
+     "c": "S.J. Tuohy",
+     "n": "Jae Head"
+    },
+    {
+     "c": "Collins Tuohy",
+     "n": "Lily Collins"
+    },
+    {
+     "c": "Coach Cotton",
+     "n": "Ray McKinnon"
+    },
+    {
+     "c": "Mrs. Boswell",
+     "n": "Kim Dickens"
+    },
+    {
+     "c": "Denise Oher",
+     "n": "Adriane Lenox"
+    },
+    {
+     "c": "Miss Sue",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Mrs. Smith",
+     "n": "Catherine Dyer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Lee Hancock"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 22881,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+   "popularity": 6.8411,
+   "poster_path": "/PhpAdRopu0sOWf0BY7vVtxrRD3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-11-20",
+   "revenue": 309231694,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on the extraordinary true story",
+   "title": "The Blind Side",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.658,
+   "vote_count": 7092
+  },
   "movie:263281": {
    "backdrop_path": "/d3tf2jxjpZNw088CjKQLS3aBIYa.jpg",
    "budget": 0,
@@ -3223,6 +3478,120 @@
    "type": "movie",
    "vote_average": 6.345,
    "vote_count": 332
+  },
+  "movie:273481": {
+   "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Kate Macer",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Alejandro Gillick",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Matt Graver",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Dave Jennings",
+     "n": "Victor Garber"
+    },
+    {
+     "c": "Ted",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Reggie Wayne",
+     "n": "Daniel Kaluuya"
+    },
+    {
+     "c": "Steve Forsing",
+     "n": "Jeffrey Donovan"
+    },
+    {
+     "c": "Rafael",
+     "n": "Raoul Max Trujillo"
+    },
+    {
+     "c": "Fausto Alarcon",
+     "n": "Julio Cesar Cedillo"
+    },
+    {
+     "c": "Phil Coopers",
+     "n": "Hank Rogerson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 273481,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+   "popularity": 11.7266,
+   "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+   "production_countries": [
+    "US",
+    "MX",
+    "HK"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-10-09",
+   "revenue": 84997446,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The border is just another line to cross.",
+   "title": "Sicario",
+   "trailer": {
+    "key": "Yfhu5JIxnZc",
+    "name": "Official Trailer – \"Hitman\"",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.441,
+   "vote_count": 10114
   },
   "movie:340481": {
    "backdrop_path": "/hZuFiZJJTKzmP4haYPA6aiRso99.jpg",
@@ -3682,6 +4051,198 @@
    "vote_average": 6.0,
    "vote_count": 391
   },
+  "movie:353081": {
+   "backdrop_path": "/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
+   "budget": 178000000,
+   "cast": [
+    {
+     "c": "Ethan Hunt",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "August Walker",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Luther Stickell",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Benji Dunn",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Ilsa Faust",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Solomon Lane",
+     "n": "Sean Harris"
+    },
+    {
+     "c": "Erika Sloane",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "The White Widow",
+     "n": "Vanessa Kirby"
+    },
+    {
+     "c": "Julia",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Erik",
+     "n": "Wes Bentley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher McQuarrie"
+   ],
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "id": 353081,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+   "popularity": 10.4119,
+   "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-07-27",
+   "revenue": 824171374,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Some missions are not a choice.",
+   "title": "Mission: Impossible - Fallout",
+   "trailer": {
+    "key": "MEOOas3JZt0",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.453,
+   "vote_count": 9564
+  },
   "movie:369781": {
    "backdrop_path": "/50Am0idc6sPz5cQZcwdmRfKMEZE.jpg",
    "budget": 0,
@@ -3769,6 +4330,146 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 373
+  },
+  "movie:401981": {
+   "backdrop_path": "/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg",
+   "budget": 69000000,
+   "cast": [
+    {
+     "c": "Dominika Egorova",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Nathaniel \"Natan\" Nash",
+     "n": "Joel Edgerton"
+    },
+    {
+     "c": "Vanya Egorov",
+     "n": "Matthias Schoenaerts"
+    },
+    {
+     "c": "Matron",
+     "n": "Charlotte Rampling"
+    },
+    {
+     "c": "Vladimir Korchnoi",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Alexei Zyuganov",
+     "n": "Ciarán Hinds"
+    },
+    {
+     "c": "Nina Egorova",
+     "n": "Joely Richardson"
+    },
+    {
+     "c": "Stephanie Boucher",
+     "n": "Mary-Louise Parker"
+    },
+    {
+     "c": "Marty Gable",
+     "n": "Bill Camp"
+    },
+    {
+     "c": "Maxim Volontov",
+     "n": "Douglas Hodge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 401981,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Dominika emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, she meets a CIA agent who tries to convince her that he is the only person she can trust.",
+   "popularity": 7.6708,
+   "poster_path": "/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-03-02",
+   "revenue": 151572634,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Seduce. Deceive. Repeat.",
+   "title": "Red Sparrow",
+   "trailer": {
+    "key": "PmUL6wMpMWw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.531,
+   "vote_count": 6556
   },
   "movie:408381": {
    "backdrop_path": "/iY5y6Cj5AMUKqeNdroJayIeZSzY.jpg",
@@ -5128,6 +5829,143 @@
    "vote_average": 7.157,
    "vote_count": 982
   },
+  "movie:70981": {
+   "backdrop_path": "/qDG5SlGkWNsjSJWiGTBMFI8DpzA.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Elizabeth Shaw",
+     "n": "Noomi Rapace"
+    },
+    {
+     "c": "David",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Meredith Vickers",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Janek",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Peter Weyland",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Charlie Holloway",
+     "n": "Logan Marshall-Green"
+    },
+    {
+     "c": "Fifield",
+     "n": "Sean Harris"
+    },
+    {
+     "c": "Millburn",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Chance",
+     "n": "Emun Elliott"
+    },
+    {
+     "c": "Ravel",
+     "n": "Benedict Wong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Horror"
+   ],
+   "id": 70981,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.",
+   "popularity": 10.4215,
+   "poster_path": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-08",
+   "revenue": 403354469,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "gd",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The search for our beginning could lead to our end.",
+   "title": "Prometheus",
+   "trailer": {
+    "key": "cJMIzdf1eo8",
+    "name": "#TBT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.614,
+   "vote_count": 13809
+  },
   "movie:78381": {
    "backdrop_path": "/AmeQAgUg0fTf9qztfkpmXg5sLul.jpg",
    "budget": 7000000,
@@ -5521,6 +6359,170 @@
    "type": "movie",
    "vote_average": 8.159,
    "vote_count": 831
+  },
+  "movie:8681": {
+   "backdrop_path": "/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Bryan Mills",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Kim Mills",
+     "n": "Maggie Grace"
+    },
+    {
+     "c": "Lenore St. John",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Jean-Claude Pitrel",
+     "n": "Olivier Rabourdin"
+    },
+    {
+     "c": "Amanda",
+     "n": "Katie Cassidy"
+    },
+    {
+     "c": "Peter",
+     "n": "Nicolas Giraud"
+    },
+    {
+     "c": "Sam Gilroy",
+     "n": "Leland Orser"
+    },
+    {
+     "c": "Mark Casey",
+     "n": "Jon Gries"
+    },
+    {
+     "c": "Sheerah",
+     "n": "Holly Valance"
+    },
+    {
+     "c": "Bernie Harris",
+     "n": "David Warshofsky"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Pierre Morel"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 8681,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.",
+   "popularity": 15.2904,
+   "poster_path": "/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-02-18",
+   "revenue": 226830568,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ar",
+    "sq"
+   ],
+   "status": "Released",
+   "tagline": "They took his daughter. He'll take their lives.",
+   "title": "Taken",
+   "trailer": {
+    "key": "ZxKDnpiJaVc",
+    "name": "Taken (2008) - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 12591
   },
   "movie:8881": {
    "backdrop_path": "/wWschc3KS0Fe2Rk01KR2tbFWmmL.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "92",
- "count": 58,
+ "count": 67,
  "titles": {
   "movie:1008392": {
    "backdrop_path": "/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg",
@@ -108,6 +108,167 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 452
+  },
+  "movie:10192": {
+   "backdrop_path": "/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "Shrek (voice)",
+     "n": "Mike Myers"
+    },
+    {
+     "c": "Donkey (voice)",
+     "n": "Eddie Murphy"
+    },
+    {
+     "c": "Princess Fiona (voice)",
+     "n": "Cameron Diaz"
+    },
+    {
+     "c": "Puss in Boots (voice)",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Rumpelstiltskin / Priest / Krekraw Ogre (voice)",
+     "n": "Walt Dohrn"
+    },
+    {
+     "c": "Queen Lillian (voice)",
+     "n": "Julie Andrews"
+    },
+    {
+     "c": "King Harold (voice)",
+     "n": "John Cleese"
+    },
+    {
+     "c": "Brogan (voice)",
+     "n": "Jon Hamm"
+    },
+    {
+     "c": "Gretched (voice)",
+     "n": "Jane Lynch"
+    },
+    {
+     "c": "Cookie (voice)",
+     "n": "Craig Robinson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mike Mitchell"
+   ],
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation",
+    "Family"
+   ],
+   "id": 10192,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A midlife-crisis burdened Shrek, longing for the days of when he felt like a real ogre, makes a pact with magic deal-maker Rumpelstiltskin. But when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.",
+   "popularity": 18.1578,
+   "poster_path": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-05-16",
+   "revenue": 752600867,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It ain't ogre... til it's ogre.",
+   "title": "Shrek Forever After",
+   "trailer": {
+    "key": "WV8bbMxPBdc",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.416,
+   "vote_count": 8236
   },
   "movie:10292": {
    "backdrop_path": "/hgwBYgFvHEDJVx0OVA4qGtcYrCC.jpg",
@@ -2610,6 +2771,120 @@
    "vote_average": 6.249,
    "vote_count": 485
   },
+  "movie:1892": {
+   "backdrop_path": "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+   "budget": 32350000,
+   "cast": [
+    {
+     "c": "Luke Skywalker",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Han Solo",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Princess Leia",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Lando Calrissian",
+     "n": "Billy Dee Williams"
+    },
+    {
+     "c": "C-3PO",
+     "n": "Anthony Daniels"
+    },
+    {
+     "c": "Chewbacca",
+     "n": "Peter Mayhew"
+    },
+    {
+     "c": "Anakin Skywalker",
+     "n": "Sebastian Shaw"
+    },
+    {
+     "c": "The Emperor",
+     "n": "Ian McDiarmid"
+    },
+    {
+     "c": "Yoda (voice)",
+     "n": "Frank Oz"
+    },
+    {
+     "c": "Darth Vader (voice)",
+     "n": "James Earl Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Richard Marquand"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1892,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+   "popularity": 10.706,
+   "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1983-12-16",
+   "revenue": 572700000,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Return to a galaxy far far away.",
+   "title": "Return of the Jedi",
+   "trailer": {
+    "key": "MAW1E3JIQZE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.911,
+   "vote_count": 17564
+  },
   "movie:19592": {
    "backdrop_path": "/WyCraJdklEeet3hTJiAjzhmhWx.jpg",
    "budget": 1500000,
@@ -3833,6 +4108,149 @@
    "type": "movie",
    "vote_average": 6.129,
    "vote_count": 908
+  },
+  "movie:395992": {
+   "backdrop_path": "/nNh7vHHISVAaziJEqAq0P9iL52w.jpg",
+   "budget": 58000000,
+   "cast": [
+    {
+     "c": "Dr. David Jordan",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Rory Adams",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Miranda North",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Sho Murakami",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "Ekaterina Golovkina",
+     "n": "Olga Dykhovichnaya"
+    },
+    {
+     "c": "Hugh Derry",
+     "n": "Ariyon Bakare"
+    },
+    {
+     "c": "Kazumi",
+     "n": "Naoko Mori"
+    },
+    {
+     "c": "Doctor",
+     "n": "Haruka Kuroda"
+    },
+    {
+     "c": "Dominique",
+     "n": "Camiel Warren-Taylor"
+    },
+    {
+     "c": "1st Fisherman",
+     "n": "Alexandre Nguyen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Daniel Espinosa"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Mystery"
+   ],
+   "id": 395992,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.",
+   "popularity": 6.1644,
+   "poster_path": "/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-03-24",
+   "revenue": 100541806,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "Be careful what you search for.",
+   "title": "Life",
+   "trailer": {
+    "key": "cuA-xqBw4jE",
+    "name": "LIFE - Official Trailer #2 (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.466,
+   "vote_count": 8222
   },
   "movie:413992": {
    "backdrop_path": "/2gGug6mhhYn6sRrym91n3GAq88A.jpg",
@@ -5358,6 +5776,358 @@
    "vote_average": 5.4,
    "vote_count": 352
   },
+  "movie:56292": {
+   "backdrop_path": "/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg",
+   "budget": 145000000,
+   "cast": [
+    {
+     "c": "Ethan Hunt",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Jane",
+     "n": "Paula Patton"
+    },
+    {
+     "c": "Benji",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Brandt",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Hendricks",
+     "n": "Michael Nyqvist"
+    },
+    {
+     "c": "Sidorov",
+     "n": "Vladimir Mashkov"
+    },
+    {
+     "c": "Wistrom",
+     "n": "Samuli Edelmann"
+    },
+    {
+     "c": "Leonid Lisenker",
+     "n": "Ivan Shvedoff"
+    },
+    {
+     "c": "Brij Nath",
+     "n": "Anil Kapoor"
+    },
+    {
+     "c": "Sabine Moreau",
+     "n": "Léa Seydoux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brad Bird"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Adventure"
+   ],
+   "id": 56292,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+   "popularity": 9.5182,
+   "poster_path": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-12-16",
+   "revenue": 694713380,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "fr",
+    "ar",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "No plan. No backup. No choice.",
+   "title": "Mission: Impossible - Ghost Protocol",
+   "trailer": {
+    "key": "7wkih9Yvxq0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.121,
+   "vote_count": 11172
+  },
+  "movie:603692": {
+   "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "John Wick",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Caine",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Marquis",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "Winston",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Bowery King",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Charon",
+     "n": "Lance Reddick"
+    },
+    {
+     "c": "Harbinger",
+     "n": "Clancy Brown"
+    },
+    {
+     "c": "Shimazu",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "Akira",
+     "n": "Rina Sawayama"
+    },
+    {
+     "c": "Killa",
+     "n": "Scott Adkins"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Chad Stahelski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 603692,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+   "popularity": 20.4096,
+   "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2023-03-21",
+   "revenue": 447316405,
+   "runtime": 170,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "cn",
+    "en",
+    "fr",
+    "de",
+    "ja",
+    "la",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "No way back, one way out.",
+   "title": "John Wick: Chapter 4",
+   "trailer": {
+    "key": "yjRHZEUamCc",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.708,
+   "vote_count": 8541
+  },
   "movie:610892": {
    "backdrop_path": "/fgUacNwfO5paHavroHtHeMHZMDB.jpg",
    "budget": 0,
@@ -5789,6 +6559,202 @@
    "vote_average": 6.803,
    "vote_count": 310
   },
+  "movie:76492": {
+   "backdrop_path": "/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Count Dracula (voice)",
+     "n": "Adam Sandler"
+    },
+    {
+     "c": "Mavis Dracula (voice)",
+     "n": "Selena Gomez"
+    },
+    {
+     "c": "Jonathan Loughran (voice)",
+     "n": "Andy Samberg"
+    },
+    {
+     "c": "Frankenstein (voice)",
+     "n": "Kevin James"
+    },
+    {
+     "c": "Eunice (voice)",
+     "n": "Fran Drescher"
+    },
+    {
+     "c": "Wayne (voice)",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Wanda (voice)",
+     "n": "Molly Shannon"
+    },
+    {
+     "c": "Griffin (voice)",
+     "n": "David Spade"
+    },
+    {
+     "c": "Murray the Mummy (voice)",
+     "n": "Cee Lo Green"
+    },
+    {
+     "c": "Quasimodo Wilson (voice)",
+     "n": "Jon Lovitz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Genndy Tartakovsky"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 76492,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+   "popularity": 11.5186,
+   "poster_path": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-09-20",
+   "revenue": 358375603,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Where monsters go to get away from it all.",
+   "title": "Hotel Transylvania",
+   "trailer": {
+    "key": "q4RK3jY7AVk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.973,
+   "vote_count": 9493
+  },
   "movie:811592": {
    "backdrop_path": "/srJ7haOhfykoPOYPQrstOaFem08.jpg",
    "budget": 0,
@@ -5964,6 +6930,456 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 966
+  },
+  "movie:82992": {
+   "backdrop_path": "/u1IfymTvKtftECKJR1vVF0mkvKV.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Brian O'Conner",
+     "n": "Paul Walker"
+    },
+    {
+     "c": "Luke Hobbs",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Mia Toretto",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Letty Ortiz",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Roman Pearce",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Han Lue",
+     "n": "Sung Kang"
+    },
+    {
+     "c": "Gisele Yashar",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Tej Parker",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Owen Shaw",
+     "n": "Luke Evans"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Justin Lin"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 82992,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries; Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.",
+   "popularity": 1.0967,
+   "poster_path": "/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-05-21",
+   "revenue": 788700000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "nl",
+    "en",
+    "ja",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "All roads lead to this.",
+   "title": "Fast & Furious 6",
+   "trailer": {
+    "key": "-1ysq_lKovg",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.812,
+   "vote_count": 11491
+  },
+  "movie:8392": {
+   "backdrop_path": "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+   "budget": 3700000,
+   "cast": [
+    {
+     "c": "Satsuki Kusakabe (voice)",
+     "n": "Noriko Hidaka"
+    },
+    {
+     "c": "Mei Kusakabe (voice)",
+     "n": "Chika Sakamoto"
+    },
+    {
+     "c": "Totoro (voice)",
+     "n": "Hitoshi Takagi"
+    },
+    {
+     "c": "Tatsuo Kusakabe (voice)",
+     "n": "Shigesato Itoi"
+    },
+    {
+     "c": "Yasuko Kusakabe (voice)",
+     "n": "Sumi Shimamoto"
+    },
+    {
+     "c": "Granny (voice)",
+     "n": "Tanie Kitabayashi"
+    },
+    {
+     "c": "Kanta Ogaki (voice)",
+     "n": "Toshiyuki Amagasa"
+    },
+    {
+     "c": "Kanta's Mother (voice)",
+     "n": "Yuko Maruyama"
+    },
+    {
+     "c": "Kanta's Father (voice)",
+     "n": "Masashi Hirose"
+    },
+    {
+     "c": "Kanta's Aunt (voice)",
+     "n": "Reiko Suzuki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Hayao Miyazaki"
+   ],
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
+   ],
+   "id": 8392,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+   "popularity": 16.0581,
+   "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1988-04-16",
+   "revenue": 41000000,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "He's your friendly neighbourhood forest spirit!",
+   "title": "My Neighbor Totoro",
+   "trailer": {
+    "key": "_nv94fL_IA8",
+    "name": "Ghibli Fest 2023 - 35th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.07,
+   "vote_count": 9250
+  },
+  "movie:84892": {
+   "backdrop_path": "/59ur074TVZ13QuQvRcubrEB3Izf.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Charlie",
+     "n": "Logan Lerman"
+    },
+    {
+     "c": "Sam",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Patrick",
+     "n": "Ezra Miller"
+    },
+    {
+     "c": "Mary Elizabeth",
+     "n": "Mae Whitman"
+    },
+    {
+     "c": "Mother",
+     "n": "Kate Walsh"
+    },
+    {
+     "c": "Father",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Aunt Helen",
+     "n": "Melanie Lynskey"
+    },
+    {
+     "c": "Candace",
+     "n": "Nina Dobrev"
+    },
+    {
+     "c": "Brad",
+     "n": "Johnny Simmons"
+    },
+    {
+     "c": "Dr. Burton",
+     "n": "Joan Cusack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Stephen Chbosky"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 84892,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+   "popularity": 8.9791,
+   "poster_path": "/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-09-20",
+   "revenue": 33384127,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We are infinite.",
+   "title": "The Perks of Being a Wallflower",
+   "trailer": {
+    "key": "x0nTfbg24Qs",
+    "name": "DVD/BD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.814,
+   "vote_count": 11631
   },
   "movie:876792": {
    "backdrop_path": "/g03h9TULzJZOoXA34Abp5LE7lvt.jpg",

@@ -1,7 +1,71 @@
 {
  "bucket": "03",
- "count": 66,
+ "count": 73,
  "titles": {
+  "movie:103": {
+   "d": "Taxi Driver (1976): Crime/Drama film. Story: Suffering from insomnia, disturbed loner Travis… See cast, budget $1.9M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+   "industry": "world",
+   "k": "Taxi Driver, Taxi Driver movie, Taxi Driver cast, Taxi Driver story, Taxi Driver box office collection, Taxi Driver budget, Taxi Driver review, Taxi Driver rating, Taxi Driver release date, Taxi Driver trailer, Taxi Driver Crime, Taxi Driver Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "Jodie Foster"
+     },
+     {
+      "@type": "Person",
+      "name": "Cybill Shepherd"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Keitel"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Boyle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14021,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Taxi Driver (1976): Crime/Drama film. Story: Suffering from insomnia, disturbed loner Travis… See cast, budget $1.9M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=103",
+    "name": "Taxi Driver",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1976-02-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=103"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Taxi Driver (1976)</h1>\n<p class=\"ssr-lead\">Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 February 1976</li><li>Runtime: 114 minutes</li><li>Director: Martin Scorsese</li><li>Genres: Crime, Drama</li><li>Budget: $1.9M</li><li>TMDB rating: 8.1/10 (14021 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Travis Bickle</li><li>Jodie Foster as Iris</li><li>Cybill Shepherd as Betsy</li><li>Harvey Keitel as Sport</li><li>Peter Boyle as Wizard</li><li>Leonard Harris as Charles Palantine</li><li>Albert Brooks as Tom</li><li>Diahnne Abbott as Concession Girl</li><li>Frank Adu as Angry Black Man</li><li>Victor Argo as Melio</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Taxi Driver (1976) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1976"
+  },
   "movie:11703": {
    "d": "Kiss of the Spider Woman (1985): Drama film. Story: The story of two radically different men thrown… See cast, budget $1.25M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
@@ -1209,6 +1273,70 @@
    "t": "A Wednesday! (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:207703": {
+   "d": "Kingsman: The Secret Service (2015): Crime/Comedy film. Story: The story of a super-secret spy organization that… See cast, budget $81M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+   "industry": "world",
+   "k": "Kingsman: The Secret Service, Kingsman: The Secret Service movie, Kingsman: The Secret Service cast, Kingsman: The Secret Service story, Kingsman: The Secret Service box office collection, Kingsman: The Secret Service budget, Kingsman: The Secret Service review, Kingsman: The Secret Service rating, Kingsman: The Secret Service release date, Kingsman: The Secret Service trailer, Kingsman: The Secret Service Crime, Kingsman: The Secret Service Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Taron Egerton"
+     },
+     {
+      "@type": "Person",
+      "name": "Colin Firth"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophie Cookson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 18404,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Kingsman: The Secret Service (2015): Crime/Comedy film. Story: The story of a super-secret spy organization that… See cast, budget $81M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Matthew Vaughn"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Crime",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=207703",
+    "name": "Kingsman: The Secret Service",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=207703"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kingsman: The Secret Service (2015)</h1>\n<p class=\"ssr-lead\">The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency&#x27;s ultra-competitive training program just as a global threat emerges from a twisted tech genius.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 February 2015</li><li>Runtime: 129 minutes</li><li>Director: Matthew Vaughn</li><li>Genres: Crime, Comedy, Action</li><li>Budget: $81M</li><li>TMDB rating: 7.6/10 (18404 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Taron Egerton as Gary &#x27;Eggsy&#x27; Unwin</li><li>Colin Firth as Harry Hart / Galahad</li><li>Samuel L. Jackson as Valentine</li><li>Mark Strong as Merlin</li><li>Sophie Cookson as Roxy</li><li>Sofia Boutella as Gazelle</li><li>Michael Caine as Arthur</li><li>Edward Holcroft as Charlie</li><li>Hanna Alström as Princess Tilde</li><li>Samantha Womack as Michelle Unwin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Kingsman: The Secret Service (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:20803": {
    "d": "Ivan Vasilyevich Changes His Profession (1973): Comedy/Science Fiction film. Story: A scientist builds a time machine and accidentally… See cast.",
    "img": "https://image.tmdb.org/t/p/w780/z8125Gm4hadwQZOcFiZ7uor77E4.jpg",
@@ -1464,6 +1592,70 @@
    "t": "Rudderless (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:2503": {
+   "d": "The Bourne Ultimatum (2007): Action/Drama film. Story: Bourne is brought out of hiding once again by… See cast, budget $70M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+   "industry": "world",
+   "k": "The Bourne Ultimatum, The Bourne Ultimatum movie, The Bourne Ultimatum cast, The Bourne Ultimatum story, The Bourne Ultimatum box office collection, The Bourne Ultimatum budget, The Bourne Ultimatum review, The Bourne Ultimatum rating, The Bourne Ultimatum release date, The Bourne Ultimatum Action, The Bourne Ultimatum Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Stiles"
+     },
+     {
+      "@type": "Person",
+      "name": "David Strathairn"
+     },
+     {
+      "@type": "Person",
+      "name": "Scott Glenn"
+     },
+     {
+      "@type": "Person",
+      "name": "Paddy Considine"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8753,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Bourne Ultimatum (2007): Action/Drama film. Story: Bourne is brought out of hiding once again by… See cast, budget $70M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Paul Greengrass"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2503",
+    "name": "The Bourne Ultimatum",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-08-03"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2503"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bourne Ultimatum (2007)</h1>\n<p class=\"ssr-lead\">Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company&#x27;s best efforts to eradicate him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 August 2007</li><li>Runtime: 115 minutes</li><li>Director: Paul Greengrass</li><li>Genres: Action, Drama, Mystery, Thriller</li><li>Budget: $70M</li><li>TMDB rating: 7.5/10 (8753 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Damon as Jason Bourne</li><li>Julia Stiles as Nicky Parsons</li><li>David Strathairn as Noah Vosen</li><li>Scott Glenn as CIA Director Ezra Kramer</li><li>Paddy Considine as Simon Ross</li><li>Edgar Ramírez as Paz</li><li>Albert Finney as Dr. Albert Hirsch</li><li>Joan Allen as Pamela Landy</li><li>Tom Gallop as Tom Cronin</li><li>Corey Johnson as Conrad Wills</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Bourne Ultimatum (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:25103": {
    "d": "Night of the Demon (1957): Fantasy/Horror film. Story: American professor John Holden arrives in London for… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/bUFWLSQsSYdyy4eohp4iBBnOV1s.jpg",
@@ -1527,6 +1719,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Night of the Demon (1957)</h1>\n<p class=\"ssr-lead\">American professor John Holden arrives in London for a conference on parapsychology only to discover that the colleague he was supposed to meet was killed in a freak accident the day before. It turns out that the deceased had been investigating a cult lead by Dr. Julian Karswell. Though a skeptic, Holden is suspicious of the devil-worshiping Karswell. Following a trail of mysterious manuscripts, Holden enters a world that makes him question his faith in science.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 1957</li><li>Runtime: 96 minutes</li><li>Director: Jacques Tourneur</li><li>Genres: Fantasy, Horror, Mystery</li><li>TMDB rating: 7.0/10 (334 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dana Andrews as Dr. John Holden</li><li>Peggy Cummins as Joanna Harrington</li><li>Niall MacGinnis as Dr. Julian Karswell</li><li>Maurice Denham as Professor Henry Harrington</li><li>Athene Seyler as Mrs. Karswell</li><li>Liam Redmond as Professor Mark O&#x27;Brien</li><li>Reginald Beckwith as Mr. Meek</li><li>Ewan Roberts as Lloyd Williamson</li><li>Peter Elliott as Professor K.T. Kumar</li><li>Rosamund Greenwood as Mrs. Meek</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cultpix</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Night of the Demon (1957) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1957"
+  },
+  "movie:270303": {
+   "d": "It Follows (2015): Horror/Mystery film. Story: A young woman is followed by an unknown supernatural… See cast, budget $2.3M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+   "industry": "world",
+   "k": "It Follows, It Follows movie, It Follows cast, It Follows story, It Follows box office collection, It Follows budget, It Follows review, It Follows rating, It Follows release date, It Follows trailer, It Follows Horror, It Follows Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Maika Monroe"
+     },
+     {
+      "@type": "Person",
+      "name": "Keir Gilchrist"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Zovatto"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Weary"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Luccardi"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7276,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "It Follows (2015): Horror/Mystery film. Story: A young woman is followed by an unknown supernatural… See cast, budget $2.3M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Robert Mitchell"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Horror",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=270303",
+    "name": "It Follows",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-02-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=270303"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>It Follows (2015)</h1>\n<p class=\"ssr-lead\">A young woman is followed by an unknown supernatural force after a sexual encounter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 February 2015</li><li>Runtime: 101 minutes</li><li>Director: David Robert Mitchell</li><li>Genres: Horror, Mystery</li><li>Budget: $2.3M</li><li>TMDB rating: 6.6/10 (7276 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Maika Monroe as Jay Height</li><li>Keir Gilchrist as Paul</li><li>Daniel Zovatto as Greg Hannigan</li><li>Jake Weary as Hugh</li><li>Olivia Luccardi as Yara</li><li>Lili Sepe as Kelly Height</li><li>Bailey Spry as Annie</li><li>Carollette Phillips as Woman with Groceries</li><li>Loren Bass as Annie&#x27;s Father</li><li>Charles Gertner as Neighbor Boy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Paramount Plus Essential, Philo, YouTube TV, Amazon Prime Video with Ads, MovieSphere+ Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "It Follows (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:3": {
    "d": "Shadows in Paradise (1986): Drama/Romance film. Story: Nikander, a rubbish collector and would-be… See cast and TMDB rating 7.3/10.",
@@ -1655,6 +1911,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>SK1 (2015)</h1>\n<p class=\"ssr-lead\">The hunt, capture and trial of Guy Georges, one of France&#x27;s most notorious serial killers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 January 2015</li><li>Runtime: 120 minutes</li><li>Director: Frédéric Tellier</li><li>Genres: Drama, Crime</li><li>Budget: $5.29M</li><li>TMDB rating: 6.9/10 (347 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Raphaël Personnaz as Charlie</li><li>Nathalie Baye as Frédérique Pons</li><li>Olivier Gourmet as Bougon</li><li>Michel Vuillermoz as Carbonel</li><li>Adama Niane as Guy Georges</li><li>Olivier Balazuc as Lemoine</li><li>Christa Théret as Elisabeth Ortega</li><li>Thierry Neuvic as Jensen</li><li>William Nadylam as L&#x27;avocat de Guy Georges</li><li>Chloé Stefani as Coco</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "SK1 (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:339403": {
+   "d": "Baby Driver (2017): Action/Crime film. Story: After being coerced into working for a crime boss, a… See cast, budget $34M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/yir5430WblZSZuIMd9C6pIZerfA.jpg",
+   "industry": "world",
+   "k": "Baby Driver, Baby Driver movie, Baby Driver cast, Baby Driver story, Baby Driver box office collection, Baby Driver budget, Baby Driver review, Baby Driver rating, Baby Driver release date, Baby Driver trailer, Baby Driver Action, Baby Driver Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ansel Elgort"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Spacey"
+     },
+     {
+      "@type": "Person",
+      "name": "Lily James"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Hamm"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Foxx"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17433,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Baby Driver (2017): Action/Crime film. Story: After being coerced into working for a crime boss, a… See cast, budget $34M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edgar Wright"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/yir5430WblZSZuIMd9C6pIZerfA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=339403",
+    "name": "Baby Driver",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-06-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=339403"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Baby Driver (2017)</h1>\n<p class=\"ssr-lead\">After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 June 2017</li><li>Runtime: 113 minutes</li><li>Director: Edgar Wright</li><li>Genres: Action, Crime</li><li>Budget: $34M</li><li>TMDB rating: 7.4/10 (17433 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ansel Elgort as Baby</li><li>Kevin Spacey as Doc</li><li>Lily James as Debora</li><li>Jon Hamm as Buddy</li><li>Jamie Foxx as Bats</li><li>Jon Bernthal as Griff</li><li>Eiza González as Darling</li><li>Flea as Eddie</li><li>CJ Jones as Joseph</li><li>Lanny Joon as J.D.</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Sony Liv, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Baby Driver (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:3603": {
    "d": "Black Sheep (2007): Horror/Comedy film. Story: After a childhood prank by his brother Angus causes… See cast and TMDB rating 5.8/10.",
@@ -2302,6 +2622,74 @@
    "t": "Our Friend (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:603": {
+   "d": "The Matrix (1999): Action/Science Fiction film. Story: Set in the 22nd century, The Matrix tells the story… See cast, budget $63M, and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+   "industry": "world",
+   "k": "The Matrix, The Matrix movie, The Matrix cast, The Matrix story, The Matrix box office collection, The Matrix budget, The Matrix review, The Matrix rating, The Matrix release date, The Matrix trailer, The Matrix Action, The Matrix Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Fishburne"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie-Anne Moss"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Gloria Foster"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 29255,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "The Matrix (1999): Action/Science Fiction film. Story: Set in the 22nd century, The Matrix tells the story… See cast, budget $63M, and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lana Wachowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Lilly Wachowski"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=603",
+    "name": "The Matrix",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1999-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=603"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Matrix (1999)</h1>\n<p class=\"ssr-lead\">Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 1999</li><li>Runtime: 136 minutes</li><li>Director: Lana Wachowski, Lilly Wachowski</li><li>Genres: Action, Science Fiction</li><li>Budget: $63M</li><li>TMDB rating: 8.3/10 (29255 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as Neo</li><li>Laurence Fishburne as Morpheus</li><li>Carrie-Anne Moss as Trinity</li><li>Hugo Weaving as Agent Smith</li><li>Gloria Foster as Oracle</li><li>Joe Pantoliano as Cypher</li><li>Marcus Chong as Tank</li><li>Julian Arahanga as Apoc</li><li>Matt Doran as Mouse</li><li>Belinda McClory as Switch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Matrix (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1999"
+  },
   "movie:616803": {
    "d": "Breaking Surface (2020): Drama/Thriller film. Story: Two Swedish/Norwegian half sisters go on a winter… See cast and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/mBijGSEEkIVt24ruvTxFuQWRKJm.jpg",
@@ -2557,6 +2945,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Lost Bullet (2020)</h1>\n<p class=\"ssr-lead\">A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 June 2020</li><li>Runtime: 92 minutes</li><li>Director: Guillaume Pierret</li><li>Genres: Action, Thriller, Crime, Drama</li><li>TMDB rating: 6.6/10 (967 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alban Lenoir as Lino</li><li>Nicolas Duvauchelle as Areski</li><li>Rod Paradot as Quentin</li><li>Ramzy Bedia as Charas</li><li>Stéfi Celma as Julia</li><li>Arthur Aspaturian as Kad</li><li>Sébastien Lalanne as Marco</li><li>Patrick Médioni as Jacques</li><li>Alexandre Philip as Jeff</li><li>Stephen Scardicchio as BAC Police Officer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Lost Bullet (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:76203": {
+   "d": "12 Years a Slave (2014): Drama/History film. Story: In the pre-Civil War United States, Solomon Northup… See cast, budget $20M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+   "industry": "world",
+   "k": "12 Years a Slave, 12 Years a Slave movie, 12 Years a Slave cast, 12 Years a Slave story, 12 Years a Slave box office collection, 12 Years a Slave budget, 12 Years a Slave review, 12 Years a Slave rating, 12 Years a Slave release date, 12 Years a Slave trailer, 12 Years a Slave Drama, 12 Years a Slave History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chiwetel Ejiofor"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Fassbender"
+     },
+     {
+      "@type": "Person",
+      "name": "Lupita Nyong'o"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedict Cumberbatch"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Dano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12362,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "12 Years a Slave (2014): Drama/History film. Story: In the pre-Civil War United States, Solomon Northup… See cast, budget $20M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steve McQueen"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=76203",
+    "name": "12 Years a Slave",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-02-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=76203"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>12 Years a Slave (2014)</h1>\n<p class=\"ssr-lead\">In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 February 2014</li><li>Runtime: 134 minutes</li><li>Director: Steve McQueen</li><li>Genres: Drama, History</li><li>Budget: $20M</li><li>TMDB rating: 7.9/10 (12362 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chiwetel Ejiofor as Solomon Northup</li><li>Michael Fassbender as Edwin Epps</li><li>Lupita Nyong&#x27;o as Patsey</li><li>Benedict Cumberbatch as William Ford</li><li>Paul Dano as John Tibeats</li><li>Sarah Paulson as Mary Epps</li><li>Adepero Oduye as Eliza</li><li>Scoot McNairy as Brown</li><li>Paul Giamatti as Theophilus Freeman</li><li>Brad Pitt as Samuel Bass</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "12 Years a Slave (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:851303": {
    "d": "Waiting for Bojangles (2022): Drama/Comedy film. Story: A boy and his eccentric parents leave their home in… See cast and TMDB rating 7.3/10.",

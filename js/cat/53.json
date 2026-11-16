@@ -1,6 +1,6 @@
 {
  "bucket": "53",
- "count": 57,
+ "count": 62,
  "titles": {
   "movie:1008953": {
    "backdrop_path": "/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
@@ -1022,6 +1022,116 @@
    "vote_average": 7.135,
    "vote_count": 315
   },
+  "movie:13053": {
+   "backdrop_path": "/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Bolt (voice)",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Penny (voice)",
+     "n": "Miley Cyrus"
+    },
+    {
+     "c": "Mittens (voice)",
+     "n": "Susie Essman"
+    },
+    {
+     "c": "Rhino (voice)",
+     "n": "Mark Walton"
+    },
+    {
+     "c": "Dr. Calico (voice)",
+     "n": "Malcolm McDowell"
+    },
+    {
+     "c": "The Director (voice)",
+     "n": "James Lipton"
+    },
+    {
+     "c": "The Agent (voice)",
+     "n": "Greg Germann"
+    },
+    {
+     "c": "Veteran Cat (voice)",
+     "n": "Diedrich Bader"
+    },
+    {
+     "c": "Blake (voice)",
+     "n": "Nick Swardson"
+    },
+    {
+     "c": "Tom (voice)",
+     "n": "J.P. Manoux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Williams",
+    "Byron Howard"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 13053,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his \"super powers\" to find a way home.",
+   "popularity": 9.131,
+   "poster_path": "/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-11-21",
+   "revenue": 309979994,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fully Awesome.",
+   "title": "Bolt",
+   "trailer": {
+    "key": "T_yzxWNEOu8",
+    "name": "Bolt",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.555,
+   "vote_count": 6737
+  },
   "movie:13353": {
    "backdrop_path": "/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
    "budget": 0,
@@ -1764,6 +1874,131 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 405
+  },
+  "movie:153": {
+   "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Bob Harris",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "John",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Kelly",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Ms. Kawasaki",
+     "n": "Akiko Takeshita"
+    },
+    {
+     "c": "Press Agent",
+     "n": "Kazuyoshi Minamimagoe"
+    },
+    {
+     "c": "Press Agent",
+     "n": "Kazuko Shibata"
+    },
+    {
+     "c": "Press Agent",
+     "n": "Take"
+    },
+    {
+     "c": "Concierge",
+     "n": "Ryuichiro Baba"
+    },
+    {
+     "c": "Bellboy",
+     "n": "Akira Yamaguchi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Sofia Coppola"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 153,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+   "popularity": 8.4159,
+   "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-09-18",
+   "revenue": 119723856,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everyone wants to be found.",
+   "title": "Lost in Translation",
+   "trailer": {
+    "key": "1s4YQqnbnM8",
+    "name": "Lost in Translation - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.376,
+   "vote_count": 8441
   },
   "movie:204553": {
    "backdrop_path": "/bE4XWNy9CZD4TbJoFlRejbjI71X.jpg",
@@ -2899,6 +3134,127 @@
    "vote_average": 6.94,
    "vote_count": 415
   },
+  "movie:284053": {
+   "backdrop_path": "/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Bruce Banner / Hulk",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Loki",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Hela",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Heimdall",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Grandmaster",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Valkyrie",
+     "n": "Tessa Thompson"
+    },
+    {
+     "c": "Skurge",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Odin",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Doctor Strange",
+     "n": "Benedict Cumberbatch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Taika Waititi"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 284053,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+   "popularity": 17.7856,
+   "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-11-03",
+   "revenue": 855301806,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No hammer. No problem.",
+   "title": "Thor: Ragnarok",
+   "trailer": {
+    "key": "ue80QwXMRHg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.578,
+   "vote_count": 22772
+  },
   "movie:289153": {
    "backdrop_path": "/iTgSdy5MHGYanEe9Y6EncUe96rb.jpg",
    "budget": 0,
@@ -3917,6 +4273,149 @@
    "type": "movie",
    "vote_average": 5.968,
    "vote_count": 300
+  },
+  "movie:453": {
+   "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+   "budget": 58000000,
+   "cast": [
+    {
+     "c": "John Nash",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Alicia Nash",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "William Parcher",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Charles Herman",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Dr. Rosen",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Richard Sol",
+     "n": "Adam Goldberg"
+    },
+    {
+     "c": "Martin Hansen",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "Bender",
+     "n": "Anthony Rapp"
+    },
+    {
+     "c": "Ainsley Neilson",
+     "n": "Jason Gray-Stanford"
+    },
+    {
+     "c": "Helinger",
+     "n": "Judd Hirsch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 453,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+   "popularity": 11.2508,
+   "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-12-14",
+   "revenue": 316791257,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He saw the world in a way no one could have imagined.",
+   "title": "A Beautiful Mind",
+   "trailer": {
+    "key": "WFJgUm7iOKw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.854,
+   "vote_count": 11581
   },
   "movie:458253": {
    "backdrop_path": "/l36ekUEEDLMAuL0YAU2Qxfq1i6X.jpg",
@@ -6337,6 +6836,174 @@
    "type": "movie",
    "vote_average": 6.744,
    "vote_count": 340
+  },
+  "movie:953": {
+   "backdrop_path": "/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Alex (voice)",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Marty (voice)",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Melman (voice)",
+     "n": "David Schwimmer"
+    },
+    {
+     "c": "Gloria (voice)",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "King Julien (voice)",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Maurice (voice)",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Mort (voice)",
+     "n": "Andy Richter"
+    },
+    {
+     "c": "Skipper / Fossa / Panicky Man on Subway (voice)",
+     "n": "Tom McGrath"
+    },
+    {
+     "c": "Private (voice)",
+     "n": "Christopher Knights"
+    },
+    {
+     "c": "Kowalski (voice)",
+     "n": "Chris Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Eric Darnell",
+    "Tom McGrath"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 953,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+   "popularity": 12.1119,
+   "poster_path": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-08-12",
+   "revenue": 542064525,
+   "runtime": 86,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "They weren't born in the wild... They were shipped there.",
+   "title": "Madagascar",
+   "trailer": {
+    "key": "fq5zU9T_Hl4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.934,
+   "vote_count": 12169
   },
   "movie:9753": {
    "backdrop_path": "/efmATkgMQfhq40IxP65WyudZtvz.jpg",

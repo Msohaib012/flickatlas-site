@@ -1,6 +1,6 @@
 {
  "bucket": "52",
- "count": 64,
+ "count": 75,
  "titles": {
   "movie:10052": {
    "d": "Dragonfly (2002): Thriller/Fantasy film. Story: A grieving doctor is being contacted by his late wife… See cast, budget $60M, and TMDB rating 6.6/10.",
@@ -575,6 +575,70 @@
    "t": "Revenge of the Nerds (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
   },
+  "movie:141052": {
+   "d": "Justice League (2017): Action/Adventure film. Story: Fuelled by his restored faith in humanity and… See cast, budget $300M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+   "industry": "world",
+   "k": "Justice League, Justice League movie, Justice League cast, Justice League story, Justice League box office collection, Justice League budget, Justice League review, Justice League rating, Justice League release date, Justice League trailer, Justice League Action, Justice League Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Affleck"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Gal Gadot"
+     },
+     {
+      "@type": "Person",
+      "name": "Ezra Miller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14110,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "Justice League (2017): Action/Adventure film. Story: Fuelled by his restored faith in humanity and… See cast, budget $300M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Zack Snyder"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=141052",
+    "name": "Justice League",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-11-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=141052"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Justice League (2017)</h1>\n<p class=\"ssr-lead\">Fuelled by his restored faith in humanity and inspired by Superman&#x27;s selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 2017</li><li>Runtime: 120 minutes</li><li>Director: Zack Snyder</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $300M</li><li>TMDB rating: 6.1/10 (14110 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Affleck as Batman / Bruce Wayne</li><li>Henry Cavill as Superman / Clark Kent</li><li>Amy Adams as Lois Lane</li><li>Gal Gadot as Wonder Woman / Diana Prince</li><li>Ezra Miller as The Flash / Barry Allen</li><li>Jason Momoa as Aquaman / Arthur Curry</li><li>Ray Fisher as Cyborg / Victor Stone</li><li>Jeremy Irons as Alfred</li><li>Diane Lane as Martha Kent</li><li>Connie Nielsen as Queen Hippolyta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Justice League (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
   "movie:1421552": {
    "d": "Panda Plan: The Magical Tribe (2026): Action/Comedy film. Story: The panda \"Huhu\" is about to move into a brand new… See cast and budget $2.5k.",
    "img": "https://image.tmdb.org/t/p/w780/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
@@ -702,6 +766,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Dil Chahta Hai (2001)</h1>\n<p class=\"ssr-lead\">Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 2001</li><li>Runtime: 183 minutes</li><li>Director: Farhan Akhtar</li><li>Genres: Drama, Romance</li><li>Budget: $2.08M</li><li>TMDB rating: 6.9/10 (360 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aamir Khan as Akash Malhotra</li><li>Akshaye Khanna as Siddharth &quot;Sid&quot; Sinha</li><li>Saif Ali Khan as Sameer Mulchandani</li><li>Preity Zinta as Shalini</li><li>Dimple Kapadia as Tara Jaiswal</li><li>Sonali Kulkarni as Pooja</li><li>Ayub Khan as Rohit</li><li>Rajat Kapoor as Mahesh</li><li>Samantha Tremayne as Deepa</li><li>Suchitra Pillai as Priya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Dil Chahta Hai (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:158852": {
+   "d": "Tomorrowland (2015): Adventure/Family film. Story: Bound by a shared destiny, a bright, optimistic teen… See cast, budget $190M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/udYOmbW1JEZjVd726PWHlmptxPi.jpg",
+   "industry": "world",
+   "k": "Tomorrowland, Tomorrowland movie, Tomorrowland cast, Tomorrowland story, Tomorrowland box office collection, Tomorrowland budget, Tomorrowland review, Tomorrowland rating, Tomorrowland release date, Tomorrowland trailer, Tomorrowland Adventure, Tomorrowland Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Britt Robertson"
+     },
+     {
+      "@type": "Person",
+      "name": "George Clooney"
+     },
+     {
+      "@type": "Person",
+      "name": "Raffey Cassidy"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugh Laurie"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim McGraw"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7584,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Tomorrowland (2015): Adventure/Family film. Story: Bound by a shared destiny, a bright, optimistic teen… See cast, budget $190M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brad Bird"
+     }
+    ],
+    "duration": "PT130M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/udYOmbW1JEZjVd726PWHlmptxPi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=158852",
+    "name": "Tomorrowland",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-05-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=158852"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Tomorrowland (2015)</h1>\n<p class=\"ssr-lead\">Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as &quot;Tomorrowland.&quot;</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 May 2015</li><li>Runtime: 130 minutes</li><li>Director: Brad Bird</li><li>Genres: Adventure, Family, Mystery, Science Fiction</li><li>Budget: $190M</li><li>TMDB rating: 6.3/10 (7584 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Britt Robertson as Casey Newton</li><li>George Clooney as Frank Walker</li><li>Raffey Cassidy as Athena</li><li>Hugh Laurie as David Nix</li><li>Tim McGraw as Eddie Newton</li><li>Chris Bauer as Frank&#x27;s Dad</li><li>Shiloh Nelson as Young Casey Newton</li><li>Kathryn Hahn as Ursula</li><li>Keegan-Michael Key as Hugo</li><li>Thomas Robinson as Young Frank Walker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Tomorrowland (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:1595852": {
    "d": "Boulevard (2026): Romance/Drama film. Story: Hasley, a girl with a list of unfulfilled dreams, and… See cast and TMDB rating 7.3/10.",
@@ -959,6 +1087,74 @@
    "t": "Tom at the Farm (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:20352": {
+   "d": "Despicable Me (2010): Animation/Comedy film. Story: Determined to prove he's the world's greatest… See cast, budget $69M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+   "industry": "world",
+   "k": "Despicable Me, Despicable Me movie, Despicable Me cast, Despicable Me story, Despicable Me box office collection, Despicable Me budget, Despicable Me review, Despicable Me rating, Despicable Me release date, Despicable Me trailer, Despicable Me Animation, Despicable Me Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Carell"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Segel"
+     },
+     {
+      "@type": "Person",
+      "name": "Russell Brand"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Cosgrove"
+     },
+     {
+      "@type": "Person",
+      "name": "Dana Gaier Ellis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16575,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Despicable Me (2010): Animation/Comedy film. Story: Determined to prove he's the world's greatest… See cast, budget $69M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pierre Coffin"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Renaud"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=20352",
+    "name": "Despicable Me",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2010-08-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=20352"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Despicable Me (2010)</h1>\n<p class=\"ssr-lead\">Determined to prove he&#x27;s the world&#x27;s greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he&#x27;s always known.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 August 2010</li><li>Runtime: 95 minutes</li><li>Director: Pierre Coffin, Chris Renaud</li><li>Genres: Animation, Comedy, Crime, Science Fiction, Family</li><li>Budget: $69M</li><li>TMDB rating: 7.3/10 (16575 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Carell as Gru (voice)</li><li>Jason Segel as Vector (voice)</li><li>Russell Brand as Dr Nefario (voice)</li><li>Miranda Cosgrove as Margo (voice)</li><li>Dana Gaier Ellis as Edith (voice)</li><li>Elsie Fisher as Agnes (voice)</li><li>Pierre Coffin as Tim the Minion / Bob the Minion / Mark the Minion / Phil the Minion / Stuart the Minion (voice)</li><li>Julie Andrews as Gru&#x27;s Mom (voice)</li><li>Will Arnett as Mr. Perkins (voice)</li><li>Kristen Wiig as Miss Hattie (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Despicable Me (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2010"
+  },
   "movie:24452": {
    "d": "The Little Shop of Horrors (1960): Horror/Comedy film. Story: Seymour works in a skid row florist shop and is in… See cast and budget $31.0k.",
    "img": "https://image.tmdb.org/t/p/w780/sGz7JApiDtClRFxffIw3WgRK8y2.jpg",
@@ -1150,6 +1346,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Braddock: Missing in Action III (1988)</h1>\n<p class=\"ssr-lead\">When Colonel James Braddock is told that his Asian wife and 12-year-old son are still alive in Communist Vietnam, he mounts a one-man assault to free them. Armed with the latest high-tech firepower, Braddock fights his way into the heart of the country and ends up battling his way out with several dozen abused Amerasian children in tow! Struggling to keep them alive while outmaneuvering a sadistic Vietnamese officer, Braddock ignites the jungle in a blazing cross-country race for freedom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 January 1988</li><li>Runtime: 102 minutes</li><li>Director: Aaron Norris</li><li>Genres: Action, War, Adventure</li><li>Budget: $9M</li><li>TMDB rating: 5.7/10 (315 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chuck Norris as Col. James Braddock</li><li>Aki Aleong as Gen. Quoc</li><li>Yehuda Efroni as Rev. Polanski</li><li>Floyd Levine as Gen. Duncan</li><li>Jack Rader as Littlejohn</li><li>Keith David as Embassy Gate Captain</li><li>Jeff Habberstad as U.S. Helicopter Pilot</li><li>BJ Davis as Helicopter Crew Member</li><li>Roland Harrah III as Van Tan Cang</li><li>Miki Kim as Lin Tan Cang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MGM Plus Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Braddock: Missing in Action III (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1988"
+  },
+  "movie:284052": {
+   "d": "Doctor Strange (2016): Fantasy/Adventure film. Story: After his career is destroyed, a brilliant but… See cast, budget $180M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+   "industry": "world",
+   "k": "Doctor Strange, Doctor Strange movie, Doctor Strange cast, Doctor Strange story, Doctor Strange box office collection, Doctor Strange budget, Doctor Strange review, Doctor Strange rating, Doctor Strange release date, Doctor Strange trailer, Doctor Strange Fantasy, Doctor Strange Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Benedict Cumberbatch"
+     },
+     {
+      "@type": "Person",
+      "name": "Chiwetel Ejiofor"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel McAdams"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedict Wong"
+     },
+     {
+      "@type": "Person",
+      "name": "Mads Mikkelsen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24214,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Doctor Strange (2016): Fantasy/Adventure film. Story: After his career is destroyed, a brilliant but… See cast, budget $180M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Scott Derrickson"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=284052",
+    "name": "Doctor Strange",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=284052"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Doctor Strange (2016)</h1>\n<p class=\"ssr-lead\">After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2016</li><li>Runtime: 115 minutes</li><li>Director: Scott Derrickson</li><li>Genres: Fantasy, Adventure, Action</li><li>Budget: $180M</li><li>TMDB rating: 7.4/10 (24214 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Benedict Cumberbatch as Dr. Stephen Strange</li><li>Chiwetel Ejiofor as Mordo</li><li>Rachel McAdams as Dr. Christine Palmer</li><li>Benedict Wong as Wong</li><li>Mads Mikkelsen as Kaecilius</li><li>Tilda Swinton as The Ancient One</li><li>Michael Stuhlbarg as Dr. Nicodemus West</li><li>Benjamin Bratt as Jonathan Pangborn</li><li>Scott Adkins as Lucian / Strong Zealot</li><li>Zara Phythian as Brunette Zealot</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Doctor Strange (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:293452": {
    "d": "The Disappointments Room (2017): Horror/Thriller film. Story: A mother and her young son release unimaginable… See cast, budget $15M, and TMDB rating 4.5/10.",
@@ -1406,6 +1666,202 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Cartel Land (2015)</h1>\n<p class=\"ssr-lead\">In the Mexican state of Michoacán, Dr. Jose Mireles, a small-town physician known as &quot;El Doctor,&quot; shepherds a citizen uprising against the Knights Templar, the violent drug cartel that has wreaked havoc on the region for years. Meanwhile, in Arizona&#x27;s Altar Valley—a narrow, 52-mile-long desert corridor known as Cocaine Alley—Tim &quot;Nailer&quot; Foley, an American veteran, heads a small paramilitary group called Arizona Border Recon, whose goal is to halt Mexico’s drug wars from seeping across our border.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 July 2015</li><li>Runtime: 101 minutes</li><li>Director: Matthew Heineman</li><li>Genres: Drama, Documentary</li><li>TMDB rating: 7.2/10 (384 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Hetrick as Himself</li><li>José Manuel Mireles Valverde as Himself</li><li>Tim Nailer Foley as Self (as Tim &#x27;Nailer&#x27; Foley)</li><li>Paco Valenciano as Self - Autodefensas Comandante</li><li>Chaneque as Self - drug cartel thug</li><li>Caballo as Self - drug cartel thug</li><li>Enrique Peña Nieto as Self</li><li>Ana Valencia as Self - Manuel Mireles&#x27; wife</li><li>Estanislao Beltránin as Self - spokesman, Autodefensas</li><li>Janet Fields as Self - Tim Foley&#x27;s girlfriend</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Cartel Land (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:324552": {
+   "d": "John Wick: Chapter 2 (2017): Action/Thriller film. Story: John Wick is forced out of retirement by a former… See cast, budget $40M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/Aa9Lx6gotP0szl9tlt5SPCN08oF.jpg",
+   "industry": "world",
+   "k": "John Wick: Chapter 2, John Wick: Chapter 2 movie, John Wick: Chapter 2 cast, John Wick: Chapter 2 story, John Wick: Chapter 2 box office collection, John Wick: Chapter 2 budget, John Wick: Chapter 2 review, John Wick: Chapter 2 rating, John Wick: Chapter 2 release date, John Wick: Chapter 2 trailer, John Wick: Chapter 2 Action, John Wick: Chapter 2 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Common"
+     },
+     {
+      "@type": "Person",
+      "name": "Laurence Fishburne"
+     },
+     {
+      "@type": "Person",
+      "name": "Riccardo Scamarcio"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby Rose"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14845,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "John Wick: Chapter 2 (2017): Action/Thriller film. Story: John Wick is forced out of retirement by a former… See cast, budget $40M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chad Stahelski"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/Aa9Lx6gotP0szl9tlt5SPCN08oF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=324552",
+    "name": "John Wick: Chapter 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-02-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=324552"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>John Wick: Chapter 2 (2017)</h1>\n<p class=\"ssr-lead\">John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 February 2017</li><li>Runtime: 122 minutes</li><li>Director: Chad Stahelski</li><li>Genres: Action, Thriller, Crime</li><li>Budget: $40M</li><li>TMDB rating: 7.3/10 (14845 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as John Wick</li><li>Common as Cassian</li><li>Laurence Fishburne as Bowery King</li><li>Riccardo Scamarcio as Santino D&#x27;Antonio</li><li>Ruby Rose as Ares</li><li>Lance Reddick as Charon</li><li>Peter Stormare as Abram Tarasov</li><li>Bridget Moynahan as Helen Wick</li><li>Franco Nero as Julius</li><li>John Leguizamo as Aurelio</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "John Wick: Chapter 2 (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:324852": {
+   "d": "Despicable Me 3 (2017): Action/Animation film. Story: Gru and his wife Lucy must stop former '80s child… See cast, budget $80M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+   "industry": "world",
+   "k": "Despicable Me 3, Despicable Me 3 movie, Despicable Me 3 cast, Despicable Me 3 story, Despicable Me 3 box office collection, Despicable Me 3 budget, Despicable Me 3 review, Despicable Me 3 rating, Despicable Me 3 release date, Despicable Me 3 trailer, Despicable Me 3 Action, Despicable Me 3 Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Steve Carell"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Wiig"
+     },
+     {
+      "@type": "Person",
+      "name": "Trey Parker"
+     },
+     {
+      "@type": "Person",
+      "name": "Miranda Cosgrove"
+     },
+     {
+      "@type": "Person",
+      "name": "Dana Gaier Ellis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7878,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Despicable Me 3 (2017): Action/Animation film. Story: Gru and his wife Lucy must stop former '80s child… See cast, budget $80M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kyle Balda"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Coffin"
+     }
+    ],
+    "duration": "PT90M",
+    "genre": [
+     "Action",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=324852",
+    "name": "Despicable Me 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-06-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=324852"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Despicable Me 3 (2017)</h1>\n<p class=\"ssr-lead\">Gru and his wife Lucy must stop former &#x27;80s child star Balthazar Bratt from achieving world domination.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 June 2017</li><li>Runtime: 90 minutes</li><li>Director: Kyle Balda, Pierre Coffin</li><li>Genres: Action, Animation, Comedy, Family, Adventure</li><li>Budget: $80M</li><li>TMDB rating: 6.5/10 (7878 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Steve Carell as Gru / Dru (voice)</li><li>Kristen Wiig as Lucy (voice)</li><li>Trey Parker as Balthazar Bratt (voice)</li><li>Miranda Cosgrove as Margo (voice)</li><li>Dana Gaier Ellis as Edith (voice)</li><li>Nhev Scharrel as Agnes (voice)</li><li>Pierre Coffin as Minions / Museum Director / Additional Voice (voice)</li><li>Steve Coogan as Fritz / Silas Ramsbottom (voice)</li><li>Julie Andrews as Gru’s Mom (voice)</li><li>Jenny Slate as Valerie Da Vinci (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Despicable Me 3 (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:338952": {
+   "d": "Fantastic Beasts: The Crimes of Grindelwald (2018): Fantasy/Adventure film. Story: Gellert Grindelwald has escaped imprisonment and has… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg",
+   "industry": "world",
+   "k": "Fantastic Beasts: The Crimes of Grindelwald, Fantastic Beasts: The Crimes of Grindelwald movie, Fantastic Beasts: The Crimes of Grindelwald cast, Fantastic Beasts: The Crimes of Grindelwald story, Fantastic Beasts: The Crimes of Grindelwald box office collection, Fantastic Beasts: The Crimes of Grindelwald budget, Fantastic Beasts: The Crimes of Grindelwald review, Fantastic Beasts: The Crimes of Grindelwald rating, Fantastic Beasts: The Crimes of Grindelwald release date, Fantastic Beasts: The Crimes of Grindelwald trailer, Fantastic Beasts: The Crimes of Grindelwald Fantasy, Fantastic Beasts: The Crimes of Grindelwald Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Eddie Redmayne"
+     },
+     {
+      "@type": "Person",
+      "name": "Katherine Waterston"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Fogler"
+     },
+     {
+      "@type": "Person",
+      "name": "Alison Sudol"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11804,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Fantastic Beasts: The Crimes of Grindelwald (2018): Fantasy/Adventure film. Story: Gellert Grindelwald has escaped imprisonment and has… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Yates"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=338952",
+    "name": "Fantastic Beasts: The Crimes of Grindelwald",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-11-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=338952"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fantastic Beasts: The Crimes of Grindelwald (2018)</h1>\n<p class=\"ssr-lead\">Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 November 2018</li><li>Runtime: 134 minutes</li><li>Director: David Yates</li><li>Genres: Fantasy, Adventure</li><li>Budget: $200M</li><li>TMDB rating: 6.8/10 (11804 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eddie Redmayne as Newt Scamander</li><li>Katherine Waterston as Tina Goldstein</li><li>Dan Fogler as Jacob Kowalski</li><li>Alison Sudol as Queenie Goldstein</li><li>Johnny Depp as Grindelwald</li><li>Jude Law as Albus Dumbledore</li><li>Ezra Miller as Credence Barebone</li><li>Zoë Kravitz as Leta Lestrange</li><li>Callum Turner as Theseus Scamander</li><li>Claudia Kim as Nagini</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Fantastic Beasts: The Crimes of Grindelwald (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:35052": {
    "d": "Cracks (2009): Drama/Mystery film. Story: Jealousy flares after the headmistress of an elite… See cast, TMDB rating 6.6/10, and release date 4 December 2009.",
@@ -1726,6 +2182,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Scooby-Doo! Camp Scare (2010)</h1>\n<p class=\"ssr-lead\">Scooby and the gang experience outdoor fun as they go back to Fred&#x27;s old summer camp. As summer goes on, it becomes increasingly clear that the spooky camp stories told by the fireplace, are more real than they&#x27;ve though and soon, it&#x27;s up to the gang to try and solve the mystery of camp scare.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 September 2010</li><li>Runtime: 72 minutes</li><li>Director: Ethan Spaulding</li><li>Genres: Animation, Comedy, Family, Mystery</li><li>TMDB rating: 7.7/10 (356 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frank Welker as Fred / Scooby Doo (voice)</li><li>Mindy Cohn as Velma (voice)</li><li>Matthew Lillard as Shaggy (voice)</li><li>Grey DeLisle as Daphne (voice)</li><li>Dee Bradley Baker as Ranger Knudsen / Woodsman / Spectre / Fishman (voice)</li><li>Mark Hamill as Deacon / Babyface Boretti / Store Owner (voice)</li><li>Phil LaMarr as Darryl (voice)</li><li>Scott Menville as Luke (voice)</li><li>Stephen Root as Burt (voice)</li><li>Tara Strong as Trudy (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Scooby-Doo! Camp Scare (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:464052": {
+   "d": "Wonder Woman 1984 (2020): Action/Adventure film. Story: A botched store robbery places Wonder Woman in a… See cast, budget $200M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+   "industry": "world",
+   "k": "Wonder Woman 1984, Wonder Woman 1984 movie, Wonder Woman 1984 cast, Wonder Woman 1984 story, Wonder Woman 1984 box office collection, Wonder Woman 1984 budget, Wonder Woman 1984 review, Wonder Woman 1984 rating, Wonder Woman 1984 release date, Wonder Woman 1984 trailer, Wonder Woman 1984 Action, Wonder Woman 1984 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gal Gadot"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Pine"
+     },
+     {
+      "@type": "Person",
+      "name": "Kristen Wiig"
+     },
+     {
+      "@type": "Person",
+      "name": "Pedro Pascal"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Wright"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9370,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Wonder Woman 1984 (2020): Action/Adventure film. Story: A botched store robbery places Wonder Woman in a… See cast, budget $200M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patty Jenkins"
+     }
+    ],
+    "duration": "PT151M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=464052",
+    "name": "Wonder Woman 1984",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-12-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=464052"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wonder Woman 1984 (2020)</h1>\n<p class=\"ssr-lead\">A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 December 2020</li><li>Runtime: 151 minutes</li><li>Director: Patty Jenkins</li><li>Genres: Action, Adventure, Fantasy</li><li>Budget: $200M</li><li>TMDB rating: 6.3/10 (9370 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gal Gadot as Diana Prince</li><li>Chris Pine as Steve Trevor</li><li>Kristen Wiig as Barbara Minerva</li><li>Pedro Pascal as Maxwell Lord</li><li>Robin Wright as Antiope</li><li>Connie Nielsen as Hippolyta</li><li>Lilly Aspell as Young Diana</li><li>Amr Waked as Emir Said Bin Abydos</li><li>Kristoffer Polaha as Handsome Man</li><li>Natasha Rothwell as Co-Worker Carol</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Wonder Woman 1984 (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:467952": {
    "d": "The Catcher Was a Spy (2018): Drama/War film. Story: Former major league baseball player Moe Berg lives a… See cast, budget $14M, and TMDB rating 6.2/10.",
@@ -2173,6 +2693,70 @@
    "t": "Immortal (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2004"
   },
+  "movie:652": {
+   "d": "Troy (2004): Action/Adventure film. Story: In year 1250 B.C. during the late Bronze age, two… See cast, budget $175M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+   "industry": "world",
+   "k": "Troy, Troy movie, Troy cast, Troy story, Troy box office collection, Troy budget, Troy review, Troy rating, Troy release date, Troy trailer, Troy Action, Troy Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Bloom"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Bana"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Bean"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11723,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Troy (2004): Action/Adventure film. Story: In year 1250 B.C. during the late Bronze age, two… See cast, budget $175M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Wolfgang Petersen"
+     }
+    ],
+    "duration": "PT163M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=652",
+    "name": "Troy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=652"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Troy (2004)</h1>\n<p class=\"ssr-lead\">In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2004</li><li>Runtime: 163 minutes</li><li>Director: Wolfgang Petersen</li><li>Genres: Action, Adventure</li><li>Budget: $175M</li><li>TMDB rating: 7.2/10 (11723 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brad Pitt as Achilles</li><li>Orlando Bloom as Paris</li><li>Eric Bana as Hector</li><li>Brian Cox as Agamemnon</li><li>Sean Bean as Odysseus</li><li>Brendan Gleeson as Menelaus</li><li>Diane Kruger as Helen</li><li>Peter O&#x27;Toole as Priam</li><li>Rose Byrne as Briseis</li><li>Saffron Burrows as Andromache</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Troy (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:6552": {
    "d": "Idle Hands (1999): Comedy/Horror film. Story: Anton is a cheerful but exceedingly non-ambitious… See cast, budget $25M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
@@ -2300,6 +2884,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Copshop (2021)</h1>\n<p class=\"ssr-lead\">On the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station. However, when the hit man turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 September 2021</li><li>Runtime: 108 minutes</li><li>Director: Joe Carnahan</li><li>Genres: Thriller, Crime, Action</li><li>Budget: $43.5M</li><li>TMDB rating: 6.3/10 (988 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gerard Butler as Bob Viddick</li><li>Frank Grillo as Teddy Murretto</li><li>Alexis Louder as Valerie Young</li><li>Toby Huss as Anthony Lamb</li><li>Chad L. Coleman as Sgt. Duane Mitchell</li><li>Ryan O&#x27;Nan as Officer Huber</li><li>Jose Pablo Cantillo as Officer Peña</li><li>Kaiwi Lyman as Officer Barnes</li><li>Robert Walker Branchaud as Officer Kimball</li><li>Tracey Bonner as Detective Deena Schier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Copshop (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:752": {
+   "d": "V for Vendetta (2006): Action/Thriller film. Story: In a world in which Great Britain has become a… See cast, budget $54M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+   "industry": "world",
+   "k": "V for Vendetta, V for Vendetta movie, V for Vendetta cast, V for Vendetta story, V for Vendetta box office collection, V for Vendetta budget, V for Vendetta review, V for Vendetta rating, V for Vendetta release date, V for Vendetta trailer, V for Vendetta Action, V for Vendetta Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Rea"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Fry"
+     },
+     {
+      "@type": "Person",
+      "name": "John Hurt"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16186,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "V for Vendetta (2006): Action/Thriller film. Story: In a world in which Great Britain has become a… See cast, budget $54M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James McTeigue"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=752",
+    "name": "V for Vendetta",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-03-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=752"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>V for Vendetta (2006)</h1>\n<p class=\"ssr-lead\">In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 March 2006</li><li>Runtime: 132 minutes</li><li>Director: James McTeigue</li><li>Genres: Action, Thriller, Science Fiction</li><li>Budget: $54M</li><li>TMDB rating: 7.9/10 (16186 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Natalie Portman as Evey</li><li>Hugo Weaving as V / William Rookwood</li><li>Stephen Rea as Finch</li><li>Stephen Fry as Deitrich</li><li>John Hurt as Adam Sutler</li><li>Tim Pigott-Smith as Creedy</li><li>Rupert Graves as Dominic</li><li>Roger Allam as Lewis Prothero</li><li>Ben Miles as Dascomb</li><li>Sinéad Cusack as Delia Surridge</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "V for Vendetta (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:763152": {
    "d": "More the Merrier (2021): Comedy/Romance film. Story: Multiple stories about the oscillating world of… See cast and TMDB rating 6.6/10.",
@@ -2683,6 +3331,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Great Day (2022)</h1>\n<p class=\"ssr-lead\">In a large villa on Lake Como, everything is ready to celebrate Elio and Caterina&#x27;s wedding. It will be the most beautiful day of their lives and also of their parents&#x27; lives, especially their respective fathers, Giacomo and Giovanni. Too bad that together with Margherita, Giovanni&#x27;s ex-wife and mother of the bride, Aldo, her new partner, also arrives at the wedding. Friendly, outgoing and above all a total troublemaker. Giacomo and Giovanni try to contain him in every way, but under Aldo&#x27;s blows, cracks open up from which a hidden malaise emerges, destined to call into question the friendship between Giovanni and Giacomo, their marriages and more. And that will force everyone to deal with their own doubts and with the courage it takes to allow themselves happiness.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 December 2022</li><li>Runtime: 90 minutes</li><li>Director: Massimo Venier</li><li>Genres: Comedy</li><li>TMDB rating: 6.2/10 (395 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aldo Baglio as Aldo</li><li>Giovanni Storti as Giovanni</li><li>Giacomo Poretti as Giacomo</li><li>Antonella Attili as Lietta</li><li>Elena Lietti as Valentina</li><li>Lucia Mascino as Margherita</li><li>Margherita Mannino as Caterina</li><li>Giovanni Anzaldo as Elio</li><li>Pietro Ragusa as Il Maître</li><li>Francesco Brandi as Don Francesco</li></ul>\n</article>",
    "t": "The Great Day (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9552": {
+   "d": "The Exorcist (1977): Horror film. Story: When a mysterious entity possesses a young girl, her… See cast, budget $11M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+   "industry": "world",
+   "k": "The Exorcist, The Exorcist movie, The Exorcist cast, The Exorcist story, The Exorcist box office collection, The Exorcist budget, The Exorcist review, The Exorcist rating, The Exorcist release date, The Exorcist trailer, The Exorcist Horror, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ellen Burstyn"
+     },
+     {
+      "@type": "Person",
+      "name": "Linda Blair"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Max von Sydow"
+     },
+     {
+      "@type": "Person",
+      "name": "Lee J. Cobb"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9043,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "The Exorcist (1977): Horror film. Story: When a mysterious entity possesses a young girl, her… See cast, budget $11M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "William Friedkin"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Horror"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9552",
+    "name": "The Exorcist",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1977-08-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9552"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Exorcist (1977)</h1>\n<p class=\"ssr-lead\">When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 August 1977</li><li>Runtime: 122 minutes</li><li>Director: William Friedkin</li><li>Genres: Horror</li><li>Budget: $11M</li><li>TMDB rating: 7.8/10 (9043 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ellen Burstyn as Chris MacNeil</li><li>Linda Blair as Regan MacNeil</li><li>Jason Miller as Father Damien Karras</li><li>Max von Sydow as Father Lankester Merrin</li><li>Lee J. Cobb as Lt. Bill Kinderman</li><li>William O&#x27;Malley as Father Joseph Kevin Dyer</li><li>Kitty Winn as Sharon Spencer</li><li>Barton Heyman as Dr. Klein</li><li>Peter Masterson as Dr. Barringer</li><li>Jack MacGowran as Burke Dennings</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Exorcist (1977) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1977"
   },
   "tv:129552": {
    "d": "The Night Agent (2023) is an Action & Adventure and Drama TV series. Explore its story: Brought together by a midnight phone call, an FBI…, cast, and 4 seasons.",

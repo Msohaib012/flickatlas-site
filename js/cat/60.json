@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 77,
+ "count": 85,
  "titles": {
   "movie:10560": {
    "backdrop_path": "/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
@@ -1804,6 +1804,136 @@
    "vote_average": 5.641,
    "vote_count": 928
   },
+  "movie:14160": {
+   "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Carl Fredricksen (voice)",
+     "n": "Ed Asner"
+    },
+    {
+     "c": "Charles Muntz (voice)",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Russell (voice)",
+     "n": "Jordan Nagai"
+    },
+    {
+     "c": "Dug / Alpha (voice)",
+     "n": "Bob Peterson"
+    },
+    {
+     "c": "Beta (voice)",
+     "n": "Delroy Lindo"
+    },
+    {
+     "c": "Gamma (voice)",
+     "n": "Jerome Ranft"
+    },
+    {
+     "c": "Construction Foreman Tom (voice)",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Newsreel Announcer (voice)",
+     "n": "David Kaye"
+    },
+    {
+     "c": "Young Ellie (voice)",
+     "n": "Elie Docter"
+    },
+    {
+     "c": "Young Carl (voice)",
+     "n": "Jeremy Leary"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Pete Docter"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 14160,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+   "popularity": 17.7858,
+   "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-09-11",
+   "revenue": 735103954,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Change is in the air.",
+   "title": "Up",
+   "trailer": {
+    "key": "Ajcdb4FAL7A",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.96,
+   "vote_count": 22400
+  },
   "movie:1439660": {
    "backdrop_path": "/olz73f1yVWu5JlLDi8lI98Yekvl.jpg",
    "budget": 0,
@@ -2289,6 +2419,133 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 64
+  },
+  "movie:18360": {
+   "backdrop_path": "/zdhICEDUlBTQ43fQMa2KJt8fDFX.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Larry Daley",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Amelia Earhart / Tess",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Jedediah Smith",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Kahmunrah / The Thinker / Abe Lincoln",
+     "n": "Hank Azaria"
+    },
+    {
+     "c": "Theodore Roosevelt",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Ivan the Terrible",
+     "n": "Christopher Guest"
+    },
+    {
+     "c": "Napoleon Bonaparte",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "Octavius",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Dr. McPhee",
+     "n": "Ricky Gervais"
+    },
+    {
+     "c": "George Armstrong Custer",
+     "n": "Bill Hader"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Shawn Levy"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Comedy",
+    "Family"
+   ],
+   "id": 18360,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.",
+   "popularity": 6.4318,
+   "poster_path": "/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-05-20",
+   "revenue": 413106170,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When the lights go off the battle is on.",
+   "title": "Night at the Museum: Battle of the Smithsonian",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.153,
+   "vote_count": 7546
   },
   "movie:185460": {
    "backdrop_path": "/jFJzscHXN9vbHRobRZZ49PkrJvl.jpg",
@@ -3616,6 +3873,107 @@
    "vote_average": 5.971,
    "vote_count": 990
   },
+  "movie:264660": {
+   "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Caleb",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Ava",
+     "n": "Alicia Vikander"
+    },
+    {
+     "c": "Nathan",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Kyoko",
+     "n": "Sonoya Mizuno"
+    },
+    {
+     "c": "Jay",
+     "n": "Corey Johnson"
+    },
+    {
+     "c": "Lily",
+     "n": "Claire Selby"
+    },
+    {
+     "c": "Jasmine",
+     "n": "Symara A. Templeman"
+    },
+    {
+     "c": "Jade",
+     "n": "Gana Bayarsaikhan"
+    },
+    {
+     "c": "Katya",
+     "n": "Tiffany Pisani"
+    },
+    {
+     "c": "Amber",
+     "n": "Elina Alminas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alex Garland"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 264660,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+   "popularity": 9.8484,
+   "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-01-21",
+   "revenue": 36869414,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There is nothing more human than the will to survive.",
+   "title": "Ex Machina",
+   "trailer": {
+    "key": "sDkEF7Db7Gw",
+    "name": "Ex Machina | Boy Meets Ava | Official HD Trailer 4 | A24",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.569,
+   "vote_count": 14805
+  },
   "movie:2760": {
    "backdrop_path": "/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
    "budget": 14670,
@@ -4050,6 +4408,126 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 304
+  },
+  "movie:293660": {
+   "backdrop_path": "/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+   "budget": 58000000,
+   "cast": [
+    {
+     "c": "Wade / Deadpool",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Vanessa",
+     "n": "Morena Baccarin"
+    },
+    {
+     "c": "Ajax",
+     "n": "Ed Skrein"
+    },
+    {
+     "c": "Weasel",
+     "n": "T.J. Miller"
+    },
+    {
+     "c": "Angel Dust",
+     "n": "Gina Carano"
+    },
+    {
+     "c": "Blind Al",
+     "n": "Leslie Uggams"
+    },
+    {
+     "c": "Negasonic Teenage Warhead",
+     "n": "Brianna Hildebrand"
+    },
+    {
+     "c": "Colossus (voice)",
+     "n": "Stefan Kapičić"
+    },
+    {
+     "c": "Dopinder",
+     "n": "Karan Soni"
+    },
+    {
+     "c": "Buck",
+     "n": "Randal Reeder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tim Miller"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 293660,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+   "popularity": 20.2485,
+   "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-02-12",
+   "revenue": 782837347,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Feel the love.",
+   "title": "Deadpool",
+   "trailer": {
+    "key": "9vN6DHB6bJc",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.626,
+   "vote_count": 33638
   },
   "movie:297160": {
    "backdrop_path": "/5eAR0hLTl3xSYPDAiQMz2nTByWt.jpg",
@@ -7026,6 +7504,159 @@
    "vote_average": 7.0,
    "vote_count": 309
   },
+  "movie:624860": {
+   "backdrop_path": "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+   "budget": 190000000,
+   "cast": [
+    {
+     "c": "Neo / Thomas Anderson",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Trinity / Tiffany",
+     "n": "Carrie-Anne Moss"
+    },
+    {
+     "c": "Morpheus / Agent Smith",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Smith",
+     "n": "Jonathan Groff"
+    },
+    {
+     "c": "Bugs",
+     "n": "Jessica Henwick"
+    },
+    {
+     "c": "The Analyst",
+     "n": "Neil Patrick Harris"
+    },
+    {
+     "c": "Niobe",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Sati",
+     "n": "Priyanka Chopra Jonas"
+    },
+    {
+     "c": "Gwyn de Vere",
+     "n": "Christina Ricci"
+    },
+    {
+     "c": "The Merovingian",
+     "n": "Lambert Wilson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lana Wachowski"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 624860,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+   "popularity": 8.4897,
+   "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-12-16",
+   "revenue": 156497322,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Return to the Source.",
+   "title": "The Matrix Resurrections",
+   "trailer": {
+    "key": "nNpvWBuTfrc",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.295,
+   "vote_count": 6870
+  },
   "movie:658760": {
    "backdrop_path": "/2EOy2YSJbzKvlzKpEEKULVYZGlN.jpg",
    "budget": 0,
@@ -7391,6 +8022,184 @@
    "vote_average": 6.297,
    "vote_count": 396
   },
+  "movie:70160": {
+   "backdrop_path": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Katniss Everdeen",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Peeta Mellark",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Gale Hawthorne",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Haymitch Abernathy",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Effie Trinket",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "Cinna",
+     "n": "Lenny Kravitz"
+    },
+    {
+     "c": "Caesar Flickerman",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "President Coriolanus Snow",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Seneca Crane",
+     "n": "Wes Bentley"
+    },
+    {
+     "c": "Claudius Templesmith",
+     "n": "Toby Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gary Ross"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "id": 70160,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+   "popularity": 29.5565,
+   "poster_path": "/apa5G43Hha7kH7wJG0gkkHT7FA9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-03-12",
+   "revenue": 694000000,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The world will be watching.",
+   "title": "The Hunger Games",
+   "trailer": {
+    "key": "wLGOaKY5STw",
+    "name": "Bonus Feature Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.226,
+   "vote_count": 24025
+  },
   "movie:740460": {
    "backdrop_path": "/yITSh3nwDb9tut3TNbmUYeFgGlB.jpg",
    "budget": 0,
@@ -7528,6 +8337,215 @@
    "vote_average": 6.072,
    "vote_count": 345
   },
+  "movie:8960": {
+   "backdrop_path": "/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "John Hancock",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Mary",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Ray",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Aaron",
+     "n": "Jae Head"
+    },
+    {
+     "c": "Red",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Man Mountain",
+     "n": "David Mattey"
+    },
+    {
+     "c": "Matrix",
+     "n": "Maetrix Fitten"
+    },
+    {
+     "c": "Mike",
+     "n": "Thomas Lennon"
+    },
+    {
+     "c": "Jeremy",
+     "n": "Johnny Galecki"
+    },
+    {
+     "c": "Hottie",
+     "n": "Hayley Marie Norman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Berg"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action"
+   ],
+   "id": 8960,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
+   "popularity": 7.3092,
+   "poster_path": "/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-07-01",
+   "revenue": 629400000,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ja",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "There are heroes. There are superheroes. And then there's Hancock.",
+   "title": "Hancock",
+   "trailer": {
+    "key": "vexi9xLS-bQ",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.358,
+   "vote_count": 10636
+  },
   "movie:92060": {
    "backdrop_path": "/aVefEnQsfNPUrgsuMszTDt165P0.jpg",
    "budget": 500000,
@@ -7617,6 +8635,135 @@
    "type": "movie",
    "vote_average": 8.251,
    "vote_count": 818
+  },
+  "movie:933260": {
+   "backdrop_path": "/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+   "budget": 17500000,
+   "cast": [
+    {
+     "c": "Elisabeth",
+     "n": "Demi Moore"
+    },
+    {
+     "c": "Sue",
+     "n": "Margaret Qualley"
+    },
+    {
+     "c": "Harvey",
+     "n": "Dennis Quaid"
+    },
+    {
+     "c": "Fred",
+     "n": "Edward Hamilton-Clark"
+    },
+    {
+     "c": "Oliver",
+     "n": "Gore Abrams"
+    },
+    {
+     "c": "Troy",
+     "n": "Oscar Lesage"
+    },
+    {
+     "c": "Man at Diner",
+     "n": "Christian Erickson"
+    },
+    {
+     "c": "Male Nurse",
+     "n": "Robin Greer"
+    },
+    {
+     "c": "Doctor",
+     "n": "Tom Morton"
+    },
+    {
+     "c": "Diego - Boyfriend",
+     "n": "Hugo Diego Garcia"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Coralie Fargeat"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 933260,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+   "popularity": 19.3234,
+   "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+   "production_countries": [
+    "FR",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2024-09-18",
+   "revenue": 77316812,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [],
+   "status": "Released",
+   "tagline": "Have you ever dreamt of a better version of yourself?",
+   "title": "The Substance",
+   "trailer": {
+    "key": "lR5nlovVgvQ",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.13,
+   "vote_count": 6799
   },
   "movie:9460": {
    "backdrop_path": "/bHeNjLRJGuQjDXD5CzJzFm6aQF2.jpg",

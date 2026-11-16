@@ -1,7 +1,186 @@
 {
  "bucket": "91",
- "count": 73,
+ "count": 81,
  "titles": {
+  "movie:10191": {
+   "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "Hiccup (voice)",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Stoick (voice)",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Gobber (voice)",
+     "n": "Craig Ferguson"
+    },
+    {
+     "c": "Astrid (voice)",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Snotlout (voice)",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Fishlegs (voice)",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Tuffnut (voice)",
+     "n": "T.J. Miller"
+    },
+    {
+     "c": "Ruffnut (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Ack (voice)",
+     "n": "Robin Atkin Downes"
+    },
+    {
+     "c": "Starkard (voice)",
+     "n": "Philip McGrade"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Chris Sanders",
+    "Dean DeBlois"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "id": 10191,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+   "popularity": 15.1374,
+   "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-04-16",
+   "revenue": 495141736,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What started as fire and fury will become friendship.",
+   "title": "How to Train Your Dragon",
+   "trailer": {
+    "key": "KZtbJ_I9IFM",
+    "name": "DVD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.867,
+   "vote_count": 14929
+  },
   "movie:10391": {
    "backdrop_path": "/oJUk1lRbpGF55f5N4ZUPDAp0F72.jpg",
    "budget": 40000000,
@@ -517,6 +696,163 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 414
+  },
+  "movie:1091": {
+   "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "MacReady",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Blair",
+     "n": "Wilford Brimley"
+    },
+    {
+     "c": "Nauls",
+     "n": "T.K. Carter"
+    },
+    {
+     "c": "Palmer",
+     "n": "David Clennon"
+    },
+    {
+     "c": "Childs",
+     "n": "Keith David"
+    },
+    {
+     "c": "Dr. Copper",
+     "n": "Richard Dysart"
+    },
+    {
+     "c": "Norris",
+     "n": "Charles Hallahan"
+    },
+    {
+     "c": "Bennings",
+     "n": "Peter Maloney"
+    },
+    {
+     "c": "Clark",
+     "n": "Richard Masur"
+    },
+    {
+     "c": "Garry",
+     "n": "Donald Moffat"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Carpenter"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "id": 1091,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+   "popularity": 14.9082,
+   "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+     "name": "MUBI",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+     "name": "MUBI Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1982-06-25",
+   "revenue": 19629760,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "no"
+   ],
+   "status": "Released",
+   "tagline": "Anytime. Anywhere. Anyone.",
+   "title": "The Thing",
+   "trailer": {
+    "key": "ySvzHdtCiWE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.074,
+   "vote_count": 8452
   },
   "movie:11091": {
    "backdrop_path": "/wXax3nRWlZDfRqgrmBIKfE2OnaJ.jpg",
@@ -2784,6 +3120,123 @@
    "vote_average": 7.958,
    "vote_count": 143
   },
+  "movie:1891": {
+   "backdrop_path": "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Luke Skywalker",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Han Solo",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Princess Leia",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Lando Calrissian",
+     "n": "Billy Dee Williams"
+    },
+    {
+     "c": "C-3PO",
+     "n": "Anthony Daniels"
+    },
+    {
+     "c": "Darth Vader",
+     "n": "David Prowse"
+    },
+    {
+     "c": "Chewbacca",
+     "n": "Peter Mayhew"
+    },
+    {
+     "c": "R2-D2",
+     "n": "Kenny Baker"
+    },
+    {
+     "c": "Yoda (Voice)",
+     "n": "Frank Oz"
+    },
+    {
+     "c": "Obi-Wan Kenobi",
+     "n": "Alec Guinness"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Irvin Kershner"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1891,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+   "popularity": 14.5214,
+   "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1980-05-20",
+   "revenue": 538400000,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Star Wars saga continues.",
+   "title": "The Empire Strikes Back",
+   "trailer": {
+    "key": "vU6L3jXt2r8",
+    "name": "The Empire Strikes Back - Star Wars: The Digital Movie Collection",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.392,
+   "vote_count": 19133
+  },
   "movie:21191": {
    "backdrop_path": "/dPJ6Phs6crwoVXiLHntQk2lHz2T.jpg",
    "budget": 0,
@@ -3059,6 +3512,308 @@
    "type": "movie",
    "vote_average": 6.29,
    "vote_count": 310
+  },
+  "movie:245891": {
+   "backdrop_path": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "John Wick",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Viggo Tarasov",
+     "n": "Michael Nyqvist"
+    },
+    {
+     "c": "Iosef Tarasov",
+     "n": "Alfie Allen"
+    },
+    {
+     "c": "Marcus",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Avi",
+     "n": "Dean Winters"
+    },
+    {
+     "c": "Ms. Perkins",
+     "n": "Adrianne Palicki"
+    },
+    {
+     "c": "Gregori",
+     "n": "Omer Barnea"
+    },
+    {
+     "c": "Victor",
+     "n": "Toby Leonard Moore"
+    },
+    {
+     "c": "Kirill",
+     "n": "Daniel Bernhardt"
+    },
+    {
+     "c": "Helen",
+     "n": "Bridget Moynahan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Chad Stahelski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 245891,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+   "popularity": 14.8664,
+   "poster_path": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-11-14",
+   "revenue": 86085191,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "hu",
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Don't set him off.",
+   "title": "John Wick",
+   "trailer": {
+    "key": "6r0s41Ju5XA",
+    "name": "10th Anniversary Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.468,
+   "vote_count": 21632
+  },
+  "movie:256591": {
+   "backdrop_path": "/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+   "budget": 50100000,
+   "cast": [
+    {
+     "c": "Nicky Spurgeon",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Jess Barrett",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Farhad",
+     "n": "Adrian Martinez"
+    },
+    {
+     "c": "Owens",
+     "n": "Gerald McRaney"
+    },
+    {
+     "c": "Garriga",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Liyuan",
+     "n": "BD Wong"
+    },
+    {
+     "c": "Horst",
+     "n": "Brennan Brown"
+    },
+    {
+     "c": "McEwen",
+     "n": "Robert Taylor"
+    },
+    {
+     "c": "Gareth",
+     "n": "Griff Furst"
+    },
+    {
+     "c": "Gordon",
+     "n": "Dotan Bonen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Glenn Ficarra",
+    "John Requa"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 256591,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+   "popularity": 4.5957,
+   "poster_path": "/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-02-25",
+   "revenue": 153962963,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Never drop the con.",
+   "title": "Focus",
+   "trailer": {
+    "key": "6vY9UPiI4eQ",
+    "name": "Focus - Official Trailer 2 [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.861,
+   "vote_count": 8520
   },
   "movie:26691": {
    "backdrop_path": "/mQ9IeeNVAQUNz1mCmUUYpLJKZuY.jpg",
@@ -5177,6 +5932,193 @@
    "vote_average": 5.217,
    "vote_count": 327
   },
+  "movie:591": {
+   "backdrop_path": "/4NsQl44oXVMiuIM9t7ZsVgYzOkv.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Robert Langdon",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Sophie Neveu",
+     "n": "Audrey Tautou"
+    },
+    {
+     "c": "Sir Leigh Teabing",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Captain Bezu Fache",
+     "n": "Jean Reno"
+    },
+    {
+     "c": "Silas",
+     "n": "Paul Bettany"
+    },
+    {
+     "c": "Bishop Manuel Aringarosa",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "André Vernet",
+     "n": "Jürgen Prochnow"
+    },
+    {
+     "c": "Rémy Jean",
+     "n": "Jean-Yves Berteloot"
+    },
+    {
+     "c": "Lt. Collet",
+     "n": "Etienne Chicot"
+    },
+    {
+     "c": "Jacques Saunière",
+     "n": "Jean-Pierre Marielle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 591,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "FR",
+    "MT",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.",
+   "popularity": 11.209,
+   "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-05-26",
+   "revenue": 760006945,
+   "runtime": 149,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "la",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Seek the truth.",
+   "title": "The Da Vinci Code",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.733,
+   "vote_count": 10463
+  },
   "movie:593691": {
    "backdrop_path": "/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
    "budget": 0,
@@ -5472,6 +6414,140 @@
    "type": "movie",
    "vote_average": 8.295,
    "vote_count": 464
+  },
+  "movie:61791": {
+   "backdrop_path": "/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
+   "budget": 93000000,
+   "cast": [
+    {
+     "c": "Caesar",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "Will Rodman",
+     "n": "James Franco"
+    },
+    {
+     "c": "Caroline Aranha",
+     "n": "Freida Pinto"
+    },
+    {
+     "c": "Charles Rodman",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "John Landon",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Dodge Landon",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Robert Franklin",
+     "n": "Tyler Labine"
+    },
+    {
+     "c": "Maurice / Court Clerk",
+     "n": "Karin Konoval"
+    },
+    {
+     "c": "Rocket / Bright Eyes",
+     "n": "Terry Notary"
+    },
+    {
+     "c": "Koba",
+     "n": "Christopher Gordon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rupert Wyatt"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 61791,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+   "popularity": 9.5312,
+   "poster_path": "/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-08-03",
+   "revenue": 481800873,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evolution becomes revolution.",
+   "title": "Rise of the Planet of the Apes",
+   "trailer": {
+    "key": "P1yKN0llkrY",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.354,
+   "vote_count": 13249
   },
   "movie:61891": {
    "backdrop_path": "/5fKDsHMfY3K7vV1JFECYaafnwwx.jpg",
@@ -5898,6 +6974,132 @@
    "type": "movie",
    "vote_average": 5.995,
    "vote_count": 306
+  },
+  "movie:7191": {
+   "backdrop_path": "/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Marlena",
+     "n": "Lizzy Caplan"
+    },
+    {
+     "c": "Lily",
+     "n": "Jessica Lucas"
+    },
+    {
+     "c": "Hud",
+     "n": "T.J. Miller"
+    },
+    {
+     "c": "Rob Hawkins",
+     "n": "Michael Stahl-David"
+    },
+    {
+     "c": "Jason Hawkins",
+     "n": "Mike Vogel"
+    },
+    {
+     "c": "Beth McIntyre",
+     "n": "Odette Annable"
+    },
+    {
+     "c": "Bodega Cashier",
+     "n": "Anjul Nigam"
+    },
+    {
+     "c": "Jenn",
+     "n": "Margot Farley"
+    },
+    {
+     "c": "Antonio",
+     "n": "Theo Rossi"
+    },
+    {
+     "c": "Charlie",
+     "n": "Brian Klugman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Matt Reeves"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 7191,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.",
+   "popularity": 6.183,
+   "poster_path": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-01-15",
+   "revenue": 170764026,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Whatever it is, it's winning.",
+   "title": "Cloverfield",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.729,
+   "vote_count": 8245
   },
   "movie:791": {
    "backdrop_path": "/dzPsIeSaPYmaygtRaOzrrziHReD.jpg",

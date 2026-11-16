@@ -1,7 +1,71 @@
 {
  "bucket": "82",
- "count": 67,
+ "count": 75,
  "titles": {
+  "movie:102382": {
+   "d": "The Amazing Spider-Man 2 (2014): Action/Adventure film. Story: For Peter Parker, life is busy. Between taking out… See cast and budget $200M.",
+   "img": "https://image.tmdb.org/t/p/w780/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+   "industry": "world",
+   "k": "The Amazing Spider-Man 2, The Amazing Spider-Man 2 movie, The Amazing Spider-Man 2 cast, The Amazing Spider-Man 2 story, The Amazing Spider-Man 2 box office collection, The Amazing Spider-Man 2 budget, The Amazing Spider-Man 2 review, The Amazing Spider-Man 2 rating, The Amazing Spider-Man 2 release date, The Amazing Spider-Man 2 trailer, The Amazing Spider-Man 2 Action, The Amazing Spider-Man 2 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Andrew Garfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Foxx"
+     },
+     {
+      "@type": "Person",
+      "name": "Dane DeHaan"
+     },
+     {
+      "@type": "Person",
+      "name": "Colm Feore"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14969,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "The Amazing Spider-Man 2 (2014): Action/Adventure film. Story: For Peter Parker, life is busy. Between taking out… See cast and budget $200M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Marc Webb"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=102382",
+    "name": "The Amazing Spider-Man 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-04-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=102382"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Amazing Spider-Man 2 (2014)</h1>\n<p class=\"ssr-lead\">For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 April 2014</li><li>Runtime: 141 minutes</li><li>Director: Marc Webb</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 6.6/10 (14969 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andrew Garfield as Spider-Man / Peter Parker</li><li>Emma Stone as Gwen Stacy</li><li>Jamie Foxx as Electro / Max Dillon</li><li>Dane DeHaan as Green Goblin / Harry Osborn</li><li>Colm Feore as Donald Menken</li><li>Felicity Jones as Felicia</li><li>Paul Giamatti as Aleksei Sytsevich</li><li>Sally Field as Aunt May</li><li>Embeth Davidtz as Mary Parker</li><li>Campbell Scott as Richard Parker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Sony Liv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Amazing Spider-Man 2 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:11082": {
    "d": "The Seventh Sign (1988): Horror/Drama film. Story: Abby is a pregnant woman with a curious new boarder… See cast and TMDB rating 6.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/9f7JNJc7bvUgGN96RkHZYUSuk4a.jpg",
@@ -1585,6 +1649,70 @@
    "t": "Dearest Relatives, Poisonous Relations (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1992"
   },
+  "movie:242582": {
+   "d": "Nightcrawler (2014): Crime/Drama film. Story: When Lou Bloom, desperate for work, muscles into the… See cast, budget $8.5M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/aCnpRvVBqltC8ZuVP67C4fdUCb4.jpg",
+   "industry": "world",
+   "k": "Nightcrawler, Nightcrawler movie, Nightcrawler cast, Nightcrawler story, Nightcrawler box office collection, Nightcrawler budget, Nightcrawler review, Nightcrawler rating, Nightcrawler release date, Nightcrawler trailer, Nightcrawler Crime, Nightcrawler Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jake Gyllenhaal"
+     },
+     {
+      "@type": "Person",
+      "name": "Rene Russo"
+     },
+     {
+      "@type": "Person",
+      "name": "Riz Ahmed"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Paxton"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Rahm"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12273,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Nightcrawler (2014): Crime/Drama film. Story: When Lou Bloom, desperate for work, muscles into the… See cast, budget $8.5M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Dan Gilroy"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/aCnpRvVBqltC8ZuVP67C4fdUCb4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=242582",
+    "name": "Nightcrawler",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=242582"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nightcrawler (2014)</h1>\n<p class=\"ssr-lead\">When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 October 2014</li><li>Runtime: 118 minutes</li><li>Director: Dan Gilroy</li><li>Genres: Crime, Drama, Thriller</li><li>Budget: $8.5M</li><li>TMDB rating: 7.7/10 (12273 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jake Gyllenhaal as Louis Bloom</li><li>Rene Russo as Nina Romina</li><li>Riz Ahmed as Rick</li><li>Bill Paxton as Joe Loder</li><li>Kevin Rahm as Frank Kruse</li><li>Michael Hyatt as Detective Frontieri</li><li>Price Carson as Detective Lieberman</li><li>Ann Cusack as Linda</li><li>Kent Shocknek as Kent Shocknek</li><li>Sharon Tay as Sharon Tay</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Nightcrawler (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:24382": {
    "d": "Big Deal on Madonna Street (1958): Comedy/Crime film. Story: Best friends Peppe and Mario are thieves, but they're… See cast and TMDB rating 8.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/ryoWP1kvNcwPif6uNbuZwQfrJPy.jpg",
@@ -1903,6 +2031,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Flawless (1999)</h1>\n<p class=\"ssr-lead\">An ultraconservative police officer suffers a debilitating stroke and is assigned to a rehabilitative program that includes singing lessons - with the drag queen next door.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 November 1999</li><li>Runtime: 112 minutes</li><li>Director: Joel Schumacher</li><li>Genres: Comedy, Drama, Crime</li><li>Budget: $15M</li><li>TMDB rating: 6.1/10 (323 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Walt Koontz</li><li>Philip Seymour Hoffman as Rusty</li><li>Barry Miller as Leonard Wilcox</li><li>Chris Bauer as Jacko</li><li>Skipp Sudduth as Tommy</li><li>Wilson Jermaine Heredia as Cha-Cha</li><li>Nashom Benjamin as Amazing Grace</li><li>Scott Allen Cooper as Ivana</li><li>Rory Cochrane as Pogo</li><li>Daphne Rubin-Vega as Tia</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "Flawless (1999) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1999"
+  },
+  "movie:331482": {
+   "d": "Little Women (2020): Drama/Romance film. Story: Four sisters come of age in America in the aftermath… See cast, budget $40M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+   "industry": "world",
+   "k": "Little Women, Little Women movie, Little Women cast, Little Women story, Little Women box office collection, Little Women budget, Little Women review, Little Women rating, Little Women release date, Little Women trailer, Little Women Drama, Little Women Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Saoirse Ronan"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Florence Pugh"
+     },
+     {
+      "@type": "Person",
+      "name": "Eliza Scanlen"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Dern"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7149,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Little Women (2020): Drama/Romance film. Story: Four sisters come of age in America in the aftermath… See cast, budget $40M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Greta Gerwig"
+     }
+    ],
+    "duration": "PT135M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=331482",
+    "name": "Little Women",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=331482"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Little Women (2020)</h1>\n<p class=\"ssr-lead\">Four sisters come of age in America in the aftermath of the Civil War.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 January 2020</li><li>Runtime: 135 minutes</li><li>Director: Greta Gerwig</li><li>Genres: Drama, Romance</li><li>Budget: $40M</li><li>TMDB rating: 7.9/10 (7149 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Saoirse Ronan as Jo March</li><li>Emma Watson as Meg March</li><li>Florence Pugh as Amy March</li><li>Eliza Scanlen as Beth March</li><li>Laura Dern as Marmee March</li><li>Timothée Chalamet as Laurie</li><li>Tracy Letts as Mr. Dashwood</li><li>Bob Odenkirk as Father March</li><li>James Norton as John Brooke</li><li>Louis Garrel as Friedrich Bhaer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Sony Liv, VI movies and tv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Little Women (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:33282": {
    "d": "Natale a Beverly Hills (2009): Comedy film. Story: Carlo descends on his former lover's unsuspecting… See cast and TMDB rating 4.8/10.",
@@ -2287,6 +2479,70 @@
    "t": "13 (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
   },
+  "movie:466282": {
+   "d": "To All the Boys I've Loved Before (2018): Comedy/Romance film. Story: Lara Jean's love life goes from imaginary to out of… See cast and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+   "industry": "world",
+   "k": "To All the Boys I've Loved Before, To All the Boys I've Loved Before movie, To All the Boys I've Loved Before cast, To All the Boys I've Loved Before story, To All the Boys I've Loved Before box office collection, To All the Boys I've Loved Before budget, To All the Boys I've Loved Before review, To All the Boys I've Loved Before rating, To All the Boys I've Loved Before release date, To All the Boys I've Loved Before trailer, To All the Boys I've Loved Before Comedy, To All the Boys I've Loved Before Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lana Condor"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Centineo"
+     },
+     {
+      "@type": "Person",
+      "name": "Israel Broussard"
+     },
+     {
+      "@type": "Person",
+      "name": "Janel Parrish"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Cathcart"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8813,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "To All the Boys I've Loved Before (2018): Comedy/Romance film. Story: Lara Jean's love life goes from imaginary to out of… See cast and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Susan Johnson"
+     }
+    ],
+    "duration": "PT100M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=466282",
+    "name": "To All the Boys I've Loved Before",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=466282"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>To All the Boys I&#x27;ve Loved Before (2018)</h1>\n<p class=\"ssr-lead\">Lara Jean&#x27;s love life goes from imaginary to out of control when her secret letters to every boy she&#x27;s ever fallen for are mysteriously mailed out.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 August 2018</li><li>Runtime: 100 minutes</li><li>Director: Susan Johnson</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 7.6/10 (8813 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lana Condor as Lara Jean Song Covey</li><li>Noah Centineo as Peter Kavinsky</li><li>Israel Broussard as Josh Sanderson</li><li>Janel Parrish as Margot Song Covey</li><li>Anna Cathcart as Katherine &quot;Kitty&quot; Song Covey</li><li>Andrew Bachelor as Greg Rivera</li><li>Trezzo Mahoro as Lucas James</li><li>Emilija Baranac as Genevieve</li><li>Madeleine Arthur as Christine</li><li>John Corbett as Daniel Covey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "To All the Boys I've Loved Before (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:467482": {
    "d": "A Man in a Hurry (2018): Comedy/Drama film. Story: The story revolves around Alain, a busy businessman… See cast and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/xIWY7Z50MQjcoOciO5JAhsR3F9j.jpg",
@@ -2479,6 +2735,70 @@
    "t": "Like a Cat on a Highway (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
   },
+  "movie:497582": {
+   "d": "Enola Holmes (2020): Adventure/Mystery film. Story: While searching for her missing mother, intrepid teen… See cast, budget $21M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+   "industry": "world",
+   "k": "Enola Holmes, Enola Holmes movie, Enola Holmes cast, Enola Holmes story, Enola Holmes box office collection, Enola Holmes budget, Enola Holmes review, Enola Holmes rating, Enola Holmes release date, Enola Holmes trailer, Enola Holmes Adventure, Enola Holmes Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Millie Bobby Brown"
+     },
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Claflin"
+     },
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "Louis Partridge"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6930,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Enola Holmes (2020): Adventure/Mystery film. Story: While searching for her missing mother, intrepid teen… See cast, budget $21M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Harry Bradbeer"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Adventure",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=497582",
+    "name": "Enola Holmes",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-09-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=497582"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Enola Holmes (2020)</h1>\n<p class=\"ssr-lead\">While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 September 2020</li><li>Runtime: 124 minutes</li><li>Director: Harry Bradbeer</li><li>Genres: Adventure, Mystery, Crime</li><li>Budget: $21M</li><li>TMDB rating: 7.2/10 (6930 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Millie Bobby Brown as Enola Holmes</li><li>Henry Cavill as Sherlock Holmes</li><li>Sam Claflin as Mycroft Holmes</li><li>Helena Bonham Carter as Eudoria Holmes</li><li>Louis Partridge as Tewkesbury</li><li>Adeel Akhtar as Lestrade</li><li>Fiona Shaw as Miss Harrison</li><li>Frances de la Tour as The Dowager</li><li>Burn Gorman as Linthorn</li><li>Susan Wokoma as Edith</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
+   "t": "Enola Holmes (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:502682": {
    "d": "Book Club (2018): Romance/Comedy film. Story: Four lifelong friends decide that their lives could… See cast, budget $10M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/ut4V8JMXlj7L5qX8jSXbKMY6WT3.jpg",
@@ -2606,6 +2926,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Death Note Relight 1: Visions of a God (2007)</h1>\n<p class=\"ssr-lead\">When rogue shinigami Ryuk leaves his Death Note in the human world, he has no idea how far the one who finds it will take his new-found power. With the Death Note in hand, brilliant high school student Light Yagami vows to rid the world of evil. A recap of Death Note episodes 1–26, with alternate footage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 August 2007</li><li>Runtime: 131 minutes</li><li>Director: Tetsuro Araki</li><li>Genres: TV Movie, Crime, Drama, Fantasy, Thriller, Animation</li><li>TMDB rating: 7.9/10 (414 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mamoru Miyano as Light Yagami (voice)</li><li>Shidou Nakamura as Ryuk (voice)</li><li>Kappei Yamaguchi as L (voice)</li><li>Aya Hirano as Misa Amane (voice)</li><li>Naoya Uchida as Soichiro Yagami (voice)</li><li>Kimiko Saito as Rem (voice)</li><li>Keiji Fujiwara as Shuichi Aizawa (voice)</li><li>Ryou Naitou as Touta Matsuda (voice)</li><li>Naoko Matsui as Naomi Misora (voice)</li><li>Hideo Ishikawa as Raye Penber (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Anime Times Amazon Channel</li></ul>\n</article>",
    "t": "Death Note Relight 1: Visions of a God (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:53182": {
+   "d": "300: Rise of an Empire (2014): Action/Drama film. Story: Greek general Themistocles attempts to unite all of… See cast, budget $110M, and TMDB rating 6.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/chjkfyo57JexWo1YeIZRMk8wA4m.jpg",
+   "industry": "world",
+   "k": "300: Rise of an Empire, 300: Rise of an Empire movie, 300: Rise of an Empire cast, 300: Rise of an Empire story, 300: Rise of an Empire box office collection, 300: Rise of an Empire budget, 300: Rise of an Empire review, 300: Rise of an Empire rating, 300: Rise of an Empire release date, 300: Rise of an Empire trailer, 300: Rise of an Empire Action, 300: Rise of an Empire Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sullivan Stapleton"
+     },
+     {
+      "@type": "Person",
+      "name": "Eva Green"
+     },
+     {
+      "@type": "Person",
+      "name": "Lena Headey"
+     },
+     {
+      "@type": "Person",
+      "name": "Callan Mulvey"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wenham"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7215,
+     "ratingValue": 6.1,
+     "worstRating": 0
+    },
+    "description": "300: Rise of an Empire (2014): Action/Drama film. Story: Greek general Themistocles attempts to unite all of… See cast, budget $110M, and TMDB rating 6.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Noam Murro"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/chjkfyo57JexWo1YeIZRMk8wA4m.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=53182",
+    "name": "300: Rise of an Empire",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-03-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=53182"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>300: Rise of an Empire (2014)</h1>\n<p class=\"ssr-lead\">Greek general Themistocles attempts to unite all of Greece by leading the charge that will change the course of the war. Themistocles faces the massive invading Persian forces led by mortal-turned-god, Xerxes and Artemesia, the vengeful commander of the Persian navy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 2014</li><li>Runtime: 102 minutes</li><li>Director: Noam Murro</li><li>Genres: Action, Drama, War</li><li>Budget: $110M</li><li>TMDB rating: 6.1/10 (7215 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sullivan Stapleton as Themistocles</li><li>Eva Green as Artemisia</li><li>Lena Headey as Queen Gorgo</li><li>Callan Mulvey as Scylias</li><li>David Wenham as Dillios</li><li>Rodrigo Santoro as Xerxes</li><li>Jack O&#x27;Connell as Calisto</li><li>Andrew Tiernan as Ephialtes</li><li>Ashraf Barhom as General Bandari</li><li>Andrew Pleavin as Daxos</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "300: Rise of an Empire (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:589982": {
    "d": "Spread Your Wings (2019): Adventure/Family film. Story: Christian, a visionary scientist, studies wild geese. See cast and TMDB rating 7.5/10.",
@@ -2735,6 +3119,70 @@
    "t": "The Princess Switch: Switched Again (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
   },
+  "movie:64682": {
+   "d": "The Great Gatsby (2013): Drama/Romance film. Story: Nick Carraway arrives in New York in 1922, an era of… See cast, budget $105M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cf4YmtSnNhdG7s9ERmXyaDEznEw.jpg",
+   "industry": "world",
+   "k": "The Great Gatsby, The Great Gatsby movie, The Great Gatsby cast, The Great Gatsby story, The Great Gatsby box office collection, The Great Gatsby budget, The Great Gatsby review, The Great Gatsby rating, The Great Gatsby release date, The Great Gatsby trailer, The Great Gatsby Drama, The Great Gatsby Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leonardo DiCaprio"
+     },
+     {
+      "@type": "Person",
+      "name": "Tobey Maguire"
+     },
+     {
+      "@type": "Person",
+      "name": "Carey Mulligan"
+     },
+     {
+      "@type": "Person",
+      "name": "Joel Edgerton"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Debicki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13316,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "The Great Gatsby (2013): Drama/Romance film. Story: Nick Carraway arrives in New York in 1922, an era of… See cast, budget $105M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Baz Luhrmann"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cf4YmtSnNhdG7s9ERmXyaDEznEw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=64682",
+    "name": "The Great Gatsby",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-05-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=64682"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Great Gatsby (2013)</h1>\n<p class=\"ssr-lead\">Nick Carraway arrives in New York in 1922, an era of loose morals, glittering jazz and bootleg kings. Chasing his own American Dream, Nick encounters the mysterious millionaire Gatsby and his bewitching cousin Daisy. Soon, Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits. Bearing witness to this new world, Nick pens a tale of impossible love, incorruptible dreams and unforgettable tragedy -- mirroring our own times and struggles.​</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 2013</li><li>Runtime: 143 minutes</li><li>Director: Baz Luhrmann</li><li>Genres: Drama, Romance</li><li>Budget: $105M</li><li>TMDB rating: 7.3/10 (13316 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo DiCaprio as Jay Gatsby</li><li>Tobey Maguire as Nick Carraway</li><li>Carey Mulligan as Daisy Buchanan</li><li>Joel Edgerton as Tom Buchanan</li><li>Elizabeth Debicki as Jordan Baker</li><li>Isla Fisher as Myrtle Wilson</li><li>Jason Clarke as George Wilson</li><li>Amitabh Bachchan as Meyer Wolfsheim</li><li>Callan McAuliffe as Teen Jay Gatsby</li><li>Adelaide Clemens as Catherine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Great Gatsby (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
   "movie:668482": {
    "d": "Roald Dahl's Matilda the Musical (2022): Family/Comedy film. Story: An extraordinary young girl discovers her superpower… See cast and budget $25M.",
    "img": "https://image.tmdb.org/t/p/w780/jG52tsazn04F1fe8hPZfVv7ICKt.jpg",
@@ -2862,6 +3310,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Venom (2005)</h1>\n<p class=\"ssr-lead\">A group of teenagers fear for their lives in the swamps of Louisiana, chased by Mr. Jangles, a man possessed by 13 evil souls, and now relentless in his pursuit of new victims.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 September 2005</li><li>Runtime: 85 minutes</li><li>Director: Jim Gillespie</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.4/10 (381 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Agnes Bruckner as Eden Sinclair</li><li>Jonathan Jackson as Eric</li><li>Laura Ramsey as Rachel</li><li>D.J. Cotrona as Sean</li><li>Rick Cramer as Ray Sawyer</li><li>Meagan Good as Cece</li><li>Bijou Phillips as Tammy</li><li>Stacey Travis as Laura</li><li>Davetta Sherwood as Patty</li><li>Deborah Duke as Miss Emmie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Venom (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
+  },
+  "movie:782": {
+   "d": "Gattaca (1997): Science Fiction/Drama film. Story: Vincent is an all-too-human man who dares to defy a… See cast, budget $36M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+   "industry": "world",
+   "k": "Gattaca, Gattaca movie, Gattaca cast, Gattaca story, Gattaca box office collection, Gattaca budget, Gattaca review, Gattaca rating, Gattaca release date, Gattaca trailer, Gattaca Science Fiction, Gattaca Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ethan Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Uma Thurman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jude Law"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Arkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Loren Dean"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7280,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Gattaca (1997): Science Fiction/Drama film. Story: Vincent is an all-too-human man who dares to defy a… See cast, budget $36M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Andrew Niccol"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=782",
+    "name": "Gattaca",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1997-07-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=782"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gattaca (1997)</h1>\n<p class=\"ssr-lead\">Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an &quot;In-Valid&quot; who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 July 1997</li><li>Runtime: 107 minutes</li><li>Director: Andrew Niccol</li><li>Genres: Science Fiction, Drama</li><li>Budget: $36M</li><li>TMDB rating: 7.6/10 (7280 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ethan Hawke as Vincent Freeman</li><li>Uma Thurman as Irene Cassini</li><li>Jude Law as Jerome Eugene Morrow</li><li>Alan Arkin as Detective Hugo</li><li>Loren Dean as Adult Anton Freeman</li><li>Gore Vidal as Director Josef</li><li>Tony Shalhoub as &quot;German&quot;</li><li>Ernest Borgnine as Caesar</li><li>Blair Underwood as Geneticist</li><li>Xander Berkeley as Dr. Lamar</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Gattaca (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1997"
   },
   "movie:799882": {
    "d": "The Bluff (2026): Drama/Action film. Story: When her tranquil life on a remote island is… See cast, TMDB rating 6.7/10, and release date 17 February 2026.",

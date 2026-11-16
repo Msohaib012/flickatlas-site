@@ -1,6 +1,6 @@
 {
  "bucket": "29",
- "count": 59,
+ "count": 64,
  "titles": {
   "movie:10629": {
    "backdrop_path": "/pku59jhFJGLqrFIP0m1ITyqfQcB.jpg",
@@ -1502,6 +1502,120 @@
    "type": "movie",
    "vote_average": 5.02,
    "vote_count": 374
+  },
+  "movie:129": {
+   "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Chihiro (voice)",
+     "n": "Rumi Hiiragi"
+    },
+    {
+     "c": "Haku (voice)",
+     "n": "Miyu Irino"
+    },
+    {
+     "c": "Yubaba / Zeniba (voice)",
+     "n": "Mari Natsuki"
+    },
+    {
+     "c": "Father (voice)",
+     "n": "Takashi Naito"
+    },
+    {
+     "c": "Mother (voice)",
+     "n": "Yasuko Sawaguchi"
+    },
+    {
+     "c": "Aogaeru (voice)",
+     "n": "Tatsuya Gashuin"
+    },
+    {
+     "c": "Boh (voice)",
+     "n": "Ryunosuke Kamiki"
+    },
+    {
+     "c": "Rin (voice)",
+     "n": "Yumi Tamai"
+    },
+    {
+     "c": "Bandai Frog (voice)",
+     "n": "Yo Oizumi"
+    },
+    {
+     "c": "River Spirit (voice)",
+     "n": "Koba Hayashi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Hayao Miyazaki"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 129,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+   "popularity": 36.7101,
+   "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-07-20",
+   "revenue": 274925095,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Prepare to be spirited away.",
+   "title": "Spirited Away",
+   "trailer": {
+    "key": "GAp2_0JJskk",
+    "name": "Official Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.536,
+   "vote_count": 19223
   },
   "movie:1314829": {
    "backdrop_path": "/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
@@ -3817,6 +3931,142 @@
    "vote_average": 5.1,
    "vote_count": 458
   },
+  "movie:316029": {
+   "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+   "budget": 84000000,
+   "cast": [
+    {
+     "c": "P. T. Barnum",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Phillip Carlyle",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Charity Barnum",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Jenny Lind",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Anne Wheeler",
+     "n": "Zendaya"
+    },
+    {
+     "c": "Lettie Lutz",
+     "n": "Keala Settle"
+    },
+    {
+     "c": "W. D. Wheeler",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Deng Yan",
+     "n": "Natasha Liu Bordizzo"
+    },
+    {
+     "c": "James Gordon Bennett",
+     "n": "Paul Sparks"
+    },
+    {
+     "c": "Charles Stratton",
+     "n": "Sam Humphrey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Michael Gracey"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 316029,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+   "popularity": 9.5809,
+   "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-12-29",
+   "revenue": 459066134,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The impossible comes true.",
+   "title": "The Greatest Showman",
+   "trailer": {
+    "key": "KTNtpYQPlhE",
+    "name": "Official HD Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.849,
+   "vote_count": 10330
+  },
   "movie:328429": {
    "backdrop_path": "/5EYIaPWR8cg1fKAyH2KTFzTIaPT.jpg",
    "budget": 0,
@@ -3915,6 +4165,189 @@
    "type": "movie",
    "vote_average": 5.212,
    "vote_count": 352
+  },
+  "movie:329": {
+   "backdrop_path": "/f082quUW2kAtZXFZVGEfhwacZoG.jpg",
+   "budget": 63000000,
+   "cast": [
+    {
+     "c": "Grant",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Ellie",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Malcolm",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Hammond",
+     "n": "Richard Attenborough"
+    },
+    {
+     "c": "Muldoon",
+     "n": "Bob Peck"
+    },
+    {
+     "c": "Gennaro",
+     "n": "Martin Ferrero"
+    },
+    {
+     "c": "Wu",
+     "n": "BD Wong"
+    },
+    {
+     "c": "Tim",
+     "n": "Joseph Mazzello"
+    },
+    {
+     "c": "Lex",
+     "n": "Ariana Richards"
+    },
+    {
+     "c": "Arnold",
+     "n": "Samuel L. Jackson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 329,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+   "popularity": 10.7068,
+   "poster_path": "/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-04-15",
+   "revenue": 1058454230,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "An adventure 65 million years in the making.",
+   "title": "Jurassic Park",
+   "trailer": {
+    "key": "Rz_FvTXa_qY",
+    "name": "30th Anniversary Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.977,
+   "vote_count": 18619
   },
   "movie:347629": {
    "backdrop_path": "/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg",
@@ -4028,6 +4461,133 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 438
+  },
+  "movie:429": {
+   "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Blondie",
+     "n": "Clint Eastwood"
+    },
+    {
+     "c": "Tuco Ramirez",
+     "n": "Eli Wallach"
+    },
+    {
+     "c": "Sentenza / Angel Eyes",
+     "n": "Lee Van Cleef"
+    },
+    {
+     "c": "Alcoholic Union Captain",
+     "n": "Aldo Giuffrè"
+    },
+    {
+     "c": "Father Pablo Ramirez",
+     "n": "Luigi Pistilli"
+    },
+    {
+     "c": "Maria",
+     "n": "Rada Rassimov"
+    },
+    {
+     "c": "Storekeeper",
+     "n": "Enzo Petito"
+    },
+    {
+     "c": "Tuco Henchman",
+     "n": "Claudio Scarchilli"
+    },
+    {
+     "c": "Bill Carson / Jackson",
+     "n": "Antonio Casale"
+    },
+    {
+     "c": "Baker",
+     "n": "Livio Lorenzon"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Sergio Leone"
+   ],
+   "genres": [
+    "Western"
+   ],
+   "id": 429,
+   "industry": "world",
+   "origin_country": [
+    "IT"
+   ],
+   "original_language": "it",
+   "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+   "popularity": 18.7449,
+   "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+   "production_countries": [
+    "US",
+    "IT",
+    "ES",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1969-04-15",
+   "revenue": 38900000,
+   "runtime": 161,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "For three men the Civil War wasn't hell. It was practice.",
+   "title": "The Good, the Bad and the Ugly",
+   "trailer": {
+    "key": "WCnRSl24FPA",
+    "name": "Official Sizzle",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.5,
+   "vote_count": 10149
   },
   "movie:435129": {
    "backdrop_path": "/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
@@ -5532,6 +6092,126 @@
    "type": "movie",
    "vote_average": 5.986,
    "vote_count": 484
+  },
+  "movie:629": {
+   "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "McManus",
+     "n": "Stephen Baldwin"
+    },
+    {
+     "c": "Keaton",
+     "n": "Gabriel Byrne"
+    },
+    {
+     "c": "Fenster",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Hockney",
+     "n": "Kevin Pollak"
+    },
+    {
+     "c": "Verbal",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Dave Kujan",
+     "n": "Chazz Palminteri"
+    },
+    {
+     "c": "Kobayashi",
+     "n": "Pete Postlethwaite"
+    },
+    {
+     "c": "Edie Finneran",
+     "n": "Suzy Amis"
+    },
+    {
+     "c": "Jack Baer",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Jeff Rabin",
+     "n": "Dan Hedaya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Bryan Singer"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 629,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The lone survivor of an explosive heist gone wrong recounts for interrogators the events that began with five disparate criminals assembled for a police lineup - with alleged criminal mastermind Keyser Soze at the center of it all.",
+   "popularity": 10.8602,
+   "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1995-07-19",
+   "revenue": 23300000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en",
+    "fr",
+    "hu"
+   ],
+   "status": "Released",
+   "tagline": "Five criminals. One line up. No coincidence.",
+   "title": "The Usual Suspects",
+   "trailer": {
+    "key": "jM3jrHGAsIE",
+    "name": "Official Sizzle",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.162,
+   "vote_count": 11966
   },
   "movie:7229": {
    "backdrop_path": "/wFY88k4fQQCwgALmANwNVtMRusm.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "58",
- "count": 62,
+ "count": 70,
  "titles": {
   "movie:10258": {
    "d": "The Madagascar Penguins in a Christmas Caper (2005): Animation/Comedy film. Story: During the holiday season, when the animals of the… See cast.",
@@ -881,6 +881,70 @@
    "t": "Scarlet Street (1945) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1945"
   },
+  "movie:1858": {
+   "d": "Transformers (2007): Adventure/Science Fiction film. Story: Young teenager Sam Witwicky becomes involved in the… See cast, budget $150M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+   "industry": "world",
+   "k": "Transformers, Transformers movie, Transformers cast, Transformers story, Transformers box office collection, Transformers budget, Transformers review, Transformers rating, Transformers release date, Transformers trailer, Transformers Adventure, Transformers Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Shia LaBeouf"
+     },
+     {
+      "@type": "Person",
+      "name": "Megan Fox"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Ryan"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Cullen"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12741,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Transformers (2007): Adventure/Science Fiction film. Story: Young teenager Sam Witwicky becomes involved in the… See cast, budget $150M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Bay"
+     }
+    ],
+    "duration": "PT144M",
+    "genre": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1858",
+    "name": "Transformers",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1858"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Transformers (2007)</h1>\n<p class=\"ssr-lead\">Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 June 2007</li><li>Runtime: 144 minutes</li><li>Director: Michael Bay</li><li>Genres: Adventure, Science Fiction, Action</li><li>Budget: $150M</li><li>TMDB rating: 6.9/10 (12741 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shia LaBeouf as Sam Witwicky</li><li>Megan Fox as Mikaela Banes</li><li>Mark Ryan as Bumblebee (voice)</li><li>Peter Cullen as Optimus Prime (voice)</li><li>Hugo Weaving as Megatron (voice)</li><li>Josh Duhamel as Captain Lennox</li><li>Tyrese Gibson as USAF Tech Sergeant Epps</li><li>Charlie Adler as Starscream (voice)</li><li>Rachael Taylor as Maggie Madsen</li><li>Anthony Anderson as Glen Whitmann</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar, VI movies and tv</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Transformers (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:19158": {
    "d": "Graveyard Shift (1990): Horror film. Story: John Hall is a drifter who wanders into a small town… See cast, budget $10.5M, and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/d69Mloif5hP7Ajl0YbJjREyrfXC.jpg",
@@ -1327,6 +1391,134 @@
    "t": "Head Full of Honey (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:36658": {
+   "d": "X2 (2003): Adventure/Action film. Story: Professor Charles Xavier and his team of genetically… See cast, budget $110M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+   "industry": "world",
+   "k": "X2, X2 movie, X2 cast, X2 story, X2 box office collection, X2 budget, X2 review, X2 rating, X2 release date, X2 Adventure, X2 Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Jackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Patrick Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "James Marsden"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11355,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "X2 (2003): Adventure/Action film. Story: Professor Charles Xavier and his team of genetically… See cast, budget $110M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bryan Singer"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36658",
+    "name": "X2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-04-27"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36658"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>X2 (2003)</h1>\n<p class=\"ssr-lead\">Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker&#x27;s scheme to exterminate all mutants.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 April 2003</li><li>Runtime: 133 minutes</li><li>Director: Bryan Singer</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $110M</li><li>TMDB rating: 7.0/10 (11355 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Jackman as Logan / Wolverine</li><li>Patrick Stewart as Professor Charles Xavier</li><li>Ian McKellen as Eric Lehnsherr / Magneto</li><li>James Marsden as Scott Summers / Cyclops</li><li>Brian Cox as William Stryker</li><li>Famke Janssen as Jean Grey</li><li>Halle Berry as Ororo Munroe / Storm</li><li>Alan Cumming as Kurt Wagner / Nightcrawler</li><li>Aaron Stanford as John Allerdyce / Pyro</li><li>Rebecca Romijn as Raven Darkholme / Mystique</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "X2 (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:372058": {
+   "d": "Your Name. (2016): Animation/Romance film. Story: High schoolers Mitsuha and Taki are complete… See cast, budget $7.5M, and TMDB rating 8.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+   "industry": "world",
+   "k": "Your Name., Your Name. movie, Your Name. cast, Your Name. story, Your Name. box office collection, Your Name. budget, Your Name. review, Your Name. rating, Your Name. release date, Your Name. trailer, Your Name. Animation, Your Name. Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryunosuke Kamiki"
+     },
+     {
+      "@type": "Person",
+      "name": "Mone Kamishiraishi"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryo Narita"
+     },
+     {
+      "@type": "Person",
+      "name": "Aoi Yuki"
+     },
+     {
+      "@type": "Person",
+      "name": "Nobunaga Shimazaki"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13199,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "Your Name. (2016): Animation/Romance film. Story: High schoolers Mitsuha and Taki are complete… See cast, budget $7.5M, and TMDB rating 8.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Makoto Shinkai"
+     }
+    ],
+    "duration": "PT106M",
+    "genre": [
+     "Animation",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=372058",
+    "name": "Your Name.",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=372058"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Your Name. (2016)</h1>\n<p class=\"ssr-lead\">High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2016</li><li>Runtime: 106 minutes</li><li>Director: Makoto Shinkai</li><li>Genres: Animation, Romance, Drama</li><li>Budget: $7.5M</li><li>TMDB rating: 8.5/10 (13199 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryunosuke Kamiki as Taki Tachibana (voice)</li><li>Mone Kamishiraishi as Mitsuha Miyamizu (voice)</li><li>Ryo Narita as Katsuhiko Teshigawara (voice)</li><li>Aoi Yuki as Sayaka Natori (voice)</li><li>Nobunaga Shimazaki as Tsukasa Fujii (voice)</li><li>Kaito Ishikawa as Shinta Takagi (voice)</li><li>Kanon Tani as Yotsuha Miyamizu (voice)</li><li>Masaki Terasoma as Toshiki Miyamizu (voice)</li><li>Sayaka Ohara as Futaha Miyamizu (voice)</li><li>Kazuhiko Inoue as Taki&#x27;s Father (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Crunchyroll, Sony Liv, Crunchyroll Amazon Channel</li></ul>\n</article>",
+   "t": "Your Name. (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
   "movie:374458": {
    "d": "Graduation (2016): Drama film. Story: After his daughter is assaulted and left with an… See cast, budget $2M, TMDB rating 6.8/10, and release date 20 May 2016.",
    "img": "https://image.tmdb.org/t/p/w780/LLVvgPXBmIvVPG6MQaPLYVE9HE.jpg",
@@ -1646,6 +1838,70 @@
    "t": "Sissi: The Young Empress (1956) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1956"
   },
+  "movie:487558": {
+   "d": "BlacKkKlansman (2018): Crime/Drama film. Story: Colorado Springs, late 1970s. Ron Stallworth, an… See cast, budget $15M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+   "industry": "world",
+   "k": "BlacKkKlansman, BlacKkKlansman movie, BlacKkKlansman cast, BlacKkKlansman story, BlacKkKlansman box office collection, BlacKkKlansman budget, BlacKkKlansman review, BlacKkKlansman rating, BlacKkKlansman release date, BlacKkKlansman trailer, BlacKkKlansman Crime, BlacKkKlansman Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "John David Washington"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Driver"
+     },
+     {
+      "@type": "Person",
+      "name": "Topher Grace"
+     },
+     {
+      "@type": "Person",
+      "name": "Laura Harrier"
+     },
+     {
+      "@type": "Person",
+      "name": "Alec Baldwin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8376,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "BlacKkKlansman (2018): Crime/Drama film. Story: Colorado Springs, late 1970s. Ron Stallworth, an… See cast, budget $15M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Spike Lee"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=487558",
+    "name": "BlacKkKlansman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=487558"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>BlacKkKlansman (2018)</h1>\n<p class=\"ssr-lead\">Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 August 2018</li><li>Runtime: 136 minutes</li><li>Director: Spike Lee</li><li>Genres: Crime, Drama, History</li><li>Budget: $15M</li><li>TMDB rating: 7.5/10 (8376 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>John David Washington as Ron Stallworth</li><li>Adam Driver as Flip Zimmerman</li><li>Topher Grace as David Duke</li><li>Laura Harrier as Patrice Dumas</li><li>Alec Baldwin as Dr. Kennebrew Beauregard</li><li>Jasper Pääkkönen as Felix Kendrickson</li><li>Corey Hawkins as Kwame Ture</li><li>Paul Walter Hauser as Ivanhoe</li><li>Ryan Eggold as Walter Breachway</li><li>Isiah Whitlock Jr. as Mr. Turrentine</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Zee5, Amazon Video</li></ul>\n</article>",
+   "t": "BlacKkKlansman (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:520758": {
    "d": "Chicken Run: Dawn of the Nugget (2023): Family/Animation film. Story: A band of fearless chickens flock together to save… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
@@ -1962,6 +2218,198 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Phantom of Liberty (1974)</h1>\n<p class=\"ssr-lead\">This Surrealist film, with a title referencing the Communist Manifesto, strings together short incidents based on the life of director Luis Buñuel. Presented as chance encounters, these loosely related, intersecting situations, all without a consistent protagonist, reach from the 19th century to the 1970s. Touching briefly on subjects such as execution, pedophilia, incest, and sex, the film features an array of characters, including a sick father and incompetent police officers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 September 1974</li><li>Runtime: 104 minutes</li><li>Director: Luis Buñuel</li><li>Genres: Comedy</li><li>TMDB rating: 7.4/10 (350 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Brialy as Mr. Foucault</li><li>Adriana Asti as Lady in Black</li><li>Milena Vukotić as Nurse</li><li>Monica Vitti as Mrs. Foucault</li><li>Jean Rochefort as Mr. Legendre</li><li>Michel Piccoli as Police Prefect #2</li><li>Adolfo Celi as Doctor</li><li>Claude Piéplu as Commissioner</li><li>Paul Frankeur as Innkeeper</li><li>Pierre Maguelon as Policeman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Fandango At Home</li></ul>\n</article>",
    "t": "The Phantom of Liberty (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1974"
+  },
+  "movie:558": {
+   "d": "Spider-Man 2 (2004): Action/Adventure film. Story: Peter Parker is going through a major identity… See cast, budget $200M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+   "industry": "world",
+   "k": "Spider-Man 2, Spider-Man 2 movie, Spider-Man 2 cast, Spider-Man 2 story, Spider-Man 2 box office collection, Spider-Man 2 budget, Spider-Man 2 review, Spider-Man 2 rating, Spider-Man 2 release date, Spider-Man 2 trailer, Spider-Man 2 Action, Spider-Man 2 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tobey Maguire"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirsten Dunst"
+     },
+     {
+      "@type": "Person",
+      "name": "James Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Alfred Molina"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosemary Harris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17228,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Spider-Man 2 (2004): Action/Adventure film. Story: Peter Parker is going through a major identity… See cast, budget $200M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Raimi"
+     }
+    ],
+    "duration": "PT127M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=558",
+    "name": "Spider-Man 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-07-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=558"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spider-Man 2 (2004)</h1>\n<p class=\"ssr-lead\">Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can&#x27;t act on his feelings for Mary Jane Watson, a girl he&#x27;s loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 July 2004</li><li>Runtime: 127 minutes</li><li>Director: Sam Raimi</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 7.3/10 (17228 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tobey Maguire as Spider-Man / Peter Parker</li><li>Kirsten Dunst as Mary Jane Watson</li><li>James Franco as Harry Osborn</li><li>Alfred Molina as Doc Ock / Otto Octavius</li><li>Rosemary Harris as May Parker</li><li>J.K. Simmons as J. Jonah Jameson</li><li>Donna Murphy as Rosalie Octavius</li><li>Daniel Gillies as John Jameson</li><li>Dylan Baker as Dr. Curt Connors</li><li>Bill Nunn as Joseph &#x27;Robbie&#x27; Robertson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Sony Liv, Lionsgate Play, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Spider-Man 2 (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
+  "movie:57158": {
+   "d": "The Hobbit: The Desolation of Smaug (2013): Fantasy/Adventure film. Story: The Dwarves, Bilbo and Gandalf have successfully… See cast and budget $250M.",
+   "img": "https://image.tmdb.org/t/p/w780/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+   "industry": "world",
+   "k": "The Hobbit: The Desolation of Smaug, The Hobbit: The Desolation of Smaug movie, The Hobbit: The Desolation of Smaug cast, The Hobbit: The Desolation of Smaug story, The Hobbit: The Desolation of Smaug box office collection, The Hobbit: The Desolation of Smaug budget, The Hobbit: The Desolation of Smaug review, The Hobbit: The Desolation of Smaug rating, The Hobbit: The Desolation of Smaug release date, The Hobbit: The Desolation of Smaug trailer, The Hobbit: The Desolation of Smaug Fantasy, The Hobbit: The Desolation of Smaug Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Armitage"
+     },
+     {
+      "@type": "Person",
+      "name": "Benedict Cumberbatch"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Bloom"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14818,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "The Hobbit: The Desolation of Smaug (2013): Fantasy/Adventure film. Story: The Dwarves, Bilbo and Gandalf have successfully… See cast and budget $250M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Jackson"
+     }
+    ],
+    "duration": "PT161M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=57158",
+    "name": "The Hobbit: The Desolation of Smaug",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=57158"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hobbit: The Desolation of Smaug (2013)</h1>\n<p class=\"ssr-lead\">The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 December 2013</li><li>Runtime: 161 minutes</li><li>Director: Peter Jackson</li><li>Genres: Fantasy, Adventure, Action</li><li>Budget: $250M</li><li>TMDB rating: 7.6/10 (14818 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ian McKellen as Gandalf the Grey</li><li>Martin Freeman as Bilbo Baggins</li><li>Richard Armitage as Thorin Oakenshield</li><li>Benedict Cumberbatch as Smaug / Sauron</li><li>Orlando Bloom as Legolas</li><li>Evangeline Lilly as Tauriel</li><li>Lee Pace as King Thranduil</li><li>Luke Evans as Bard / Girion</li><li>Stephen Fry as The Master of Laketown</li><li>Ken Stott as Balin</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Hobbit: The Desolation of Smaug (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:58": {
+   "d": "Pirates of the Caribbean: Dead Man's Chest (2006): Adventure/Fantasy film. Story: Captain Jack Sparrow’s got a blood debt to pay: he… See cast and budget $200M.",
+   "img": "https://image.tmdb.org/t/p/w780/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+   "industry": "world",
+   "k": "Pirates of the Caribbean: Dead Man's Chest, Pirates of the Caribbean: Dead Man's Chest movie, Pirates of the Caribbean: Dead Man's Chest cast, Pirates of the Caribbean: Dead Man's Chest story, Pirates of the Caribbean: Dead Man's Chest box office collection, Pirates of the Caribbean: Dead Man's Chest budget, Pirates of the Caribbean: Dead Man's Chest review, Pirates of the Caribbean: Dead Man's Chest rating, Pirates of the Caribbean: Dead Man's Chest release date, Pirates of the Caribbean: Dead Man's Chest trailer, Pirates of the Caribbean: Dead Man's Chest Adventure, Pirates of the Caribbean: Dead Man's Chest Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     },
+     {
+      "@type": "Person",
+      "name": "Orlando Bloom"
+     },
+     {
+      "@type": "Person",
+      "name": "Keira Knightley"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Davenport"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Nighy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17856,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Pirates of the Caribbean: Dead Man's Chest (2006): Adventure/Fantasy film. Story: Captain Jack Sparrow’s got a blood debt to pay: he… See cast and budget $200M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gore Verbinski"
+     }
+    ],
+    "duration": "PT151M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=58",
+    "name": "Pirates of the Caribbean: Dead Man's Chest",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-07-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=58"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Pirates of the Caribbean: Dead Man&#x27;s Chest (2006)</h1>\n<p class=\"ssr-lead\">Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 July 2006</li><li>Runtime: 151 minutes</li><li>Director: Gore Verbinski</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $200M</li><li>TMDB rating: 7.4/10 (17856 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Depp as Jack Sparrow</li><li>Orlando Bloom as Will Turner</li><li>Keira Knightley as Elizabeth Swann</li><li>Jack Davenport as Norrington</li><li>Bill Nighy as Davy Jones</li><li>Jonathan Pryce as Governor Weatherby Swann</li><li>Lee Arenberg as Pintel</li><li>Mackenzie Crook as Ragetti</li><li>Kevin McNally as Gibbs</li><li>David Bailie as Cotton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Pirates of the Caribbean: Dead Man's Chest (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:6058": {
    "d": "The Patriot (1998): Action/Thriller film. Story: A deadly virus threatens to wipe out an entire Rocky… See cast, budget $25M, and TMDB rating 5.6/10.",
@@ -2350,6 +2798,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Monster Pets: A Hotel Transylvania Short (2021)</h1>\n<p class=\"ssr-lead\">Drac tries out some new monster pets to help occupy Tinkles for playtime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2021</li><li>Runtime: 6 minutes</li><li>Director: Jennifer Kluska, Derek Drymon</li><li>Genres: Animation, Comedy, Fantasy</li><li>TMDB rating: 7.4/10 (417 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Brian Hull as Dracula (voice)</li><li>Jennifer Kluska as Toots (voice)</li><li>Derek Drymon as Tinkles / Zombie / Gillman (voice)</li><li>Genndy Tartakovsky as Blobby / Puppy Blobby (voice)</li><li>Jon Olson as Additional Monster Pets (voice)</li></ul>\n</article>",
    "t": "Monster Pets: A Hotel Transylvania Short (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:8358": {
+   "d": "Cast Away (2001): Adventure/Drama film. Story: Chuck Noland, a top international manager for FedEx… See cast, budget $90M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+   "industry": "world",
+   "k": "Cast Away, Cast Away movie, Cast Away cast, Cast Away story, Cast Away box office collection, Cast Away budget, Cast Away review, Cast Away rating, Cast Away release date, Cast Away trailer, Cast Away Adventure, Cast Away Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Helen Hunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Searcy"
+     },
+     {
+      "@type": "Person",
+      "name": "Jenifer Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Geoffrey Blake"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12746,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Cast Away (2001): Adventure/Drama film. Story: Chuck Noland, a top international manager for FedEx… See cast, budget $90M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Zemeckis"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Adventure",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8358",
+    "name": "Cast Away",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-03-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8358"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cast Away (2001)</h1>\n<p class=\"ssr-lead\">Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck&#x27;s plane to Malaysia crashes at sea during a terrible storm. He&#x27;s the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 March 2001</li><li>Runtime: 143 minutes</li><li>Director: Robert Zemeckis</li><li>Genres: Adventure, Drama</li><li>Budget: $90M</li><li>TMDB rating: 7.7/10 (12746 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Chuck Noland</li><li>Helen Hunt as Kelly Frears</li><li>Nick Searcy as Stan</li><li>Jenifer Lewis as Becca Twig</li><li>Geoffrey Blake as Maynard Graham</li><li>Peter Von Berg as Yuri</li><li>Chris Noth as Jerry Lovett</li><li>Lari White as Bettina Peterson</li><li>Elden Henson as Elden Madden</li><li>Timothy Stack as Morgan Stockton</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Cast Away (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
   },
   "movie:9458": {
    "d": "Desperate Measures (1998): Action/Drama film. Story: San Francisco police officer Frank Connor is in a… See cast, budget $50M, and TMDB rating 6.0/10.",

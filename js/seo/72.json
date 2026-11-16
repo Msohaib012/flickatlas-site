@@ -1,6 +1,6 @@
 {
  "bucket": "72",
- "count": 61,
+ "count": 71,
  "titles": {
   "movie:10372": {
    "d": "Ewoks: The Battle for Endor (1985): Adventure/Family film. Story: The army of the Marauders, led by King Terak and the… See cast and budget $5M.",
@@ -579,6 +579,70 @@
    "t": "Love Me Love Me (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1372": {
+   "d": "Blood Diamond (2007): Drama/Thriller film. Story: An ex-mercenary turned smuggler. A Mende fisherman. See cast, budget $100M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qrAwMckxNbnEdINi0aYU0608XMy.jpg",
+   "industry": "world",
+   "k": "Blood Diamond, Blood Diamond movie, Blood Diamond cast, Blood Diamond story, Blood Diamond box office collection, Blood Diamond budget, Blood Diamond review, Blood Diamond rating, Blood Diamond release date, Blood Diamond Drama, Blood Diamond Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leonardo DiCaprio"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Connelly"
+     },
+     {
+      "@type": "Person",
+      "name": "Djimon Hounsou"
+     },
+     {
+      "@type": "Person",
+      "name": "Jimi Mistry"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Sheen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8678,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Blood Diamond (2007): Drama/Thriller film. Story: An ex-mercenary turned smuggler. A Mende fisherman. See cast, budget $100M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edward Zwick"
+     }
+    ],
+    "duration": "PT143M",
+    "genre": [
+     "Drama",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qrAwMckxNbnEdINi0aYU0608XMy.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1372",
+    "name": "Blood Diamond",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1372"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blood Diamond (2007)</h1>\n<p class=\"ssr-lead\">An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman&#x27;s son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 June 2007</li><li>Runtime: 143 minutes</li><li>Director: Edward Zwick</li><li>Genres: Drama, Thriller, Action</li><li>Budget: $100M</li><li>TMDB rating: 7.6/10 (8678 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo DiCaprio as Danny Archer</li><li>Jennifer Connelly as Maddy Bowen</li><li>Djimon Hounsou as Solomon Vandy</li><li>Jimi Mistry as Nabil</li><li>Michael Sheen as Simmons</li><li>Arnold Vosloo as Colonel Coetzee</li><li>Stephen Collins as Ambassador Walker</li><li>David Harewood as Captain Poison</li><li>Basil Wallace as Benjamin Kapanay</li><li>Benu Mabhena as Jassie Vandy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Blood Diamond (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:13972": {
    "d": "The Women (2008): Drama/Comedy film. Story: The story centers on a group of gossipy, high-society… See cast, budget $16M, and TMDB rating 5.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/lrE14a3NfpDhSHHbJaQYScK6aSh.jpg",
@@ -707,6 +771,202 @@
    "t": "Rab Ne Bana Di Jodi (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:1572": {
+   "d": "Die Hard: With a Vengeance (1995): Action/Thriller film. Story: New York detective John McClane is back and kicking… See cast and budget $90M.",
+   "img": "https://image.tmdb.org/t/p/w780/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+   "industry": "world",
+   "k": "Die Hard: With a Vengeance, Die Hard: With a Vengeance movie, Die Hard: With a Vengeance cast, Die Hard: With a Vengeance story, Die Hard: With a Vengeance box office collection, Die Hard: With a Vengeance budget, Die Hard: With a Vengeance review, Die Hard: With a Vengeance rating, Die Hard: With a Vengeance release date, Die Hard: With a Vengeance Action, Die Hard: With a Vengeance Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeremy Irons"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry Bryggman"
+     },
+     {
+      "@type": "Person",
+      "name": "Graham Greene"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6961,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Die Hard: With a Vengeance (1995): Action/Thriller film. Story: New York detective John McClane is back and kicking… See cast and budget $90M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John McTiernan"
+     }
+    ],
+    "duration": "PT128M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1572",
+    "name": "Die Hard: With a Vengeance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-05-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1572"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Die Hard: With a Vengeance (1995)</h1>\n<p class=\"ssr-lead\">New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he&#x27;d seen it all, until a genius named Simon engages McClane, his new &quot;partner&quot; -- and his beloved city -- in a deadly game that demands their concentration.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 May 1995</li><li>Runtime: 128 minutes</li><li>Director: John McTiernan</li><li>Genres: Action, Thriller</li><li>Budget: $90M</li><li>TMDB rating: 7.3/10 (6961 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as John McClane</li><li>Jeremy Irons as Simon</li><li>Samuel L. Jackson as Zeus Carver</li><li>Larry Bryggman as Chief Walter Cobb</li><li>Graham Greene as Joe Lambert</li><li>Anthony Peck as Ricky Walsh</li><li>Nicholas Wyman as Mathias Targo</li><li>Kevin Chamberlin as Charles Weiss</li><li>Colleen Camp as Connie Kowalski</li><li>Sam Phillips as Katya</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Die Hard: With a Vengeance (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
+  },
+  "movie:168672": {
+   "d": "American Hustle (2013): Drama/Crime film. Story: A conman and his seductive partner are forced to work… See cast, budget $40M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3r2G1vSDf4S3Pl5lJ9BDm9FTxe6.jpg",
+   "industry": "world",
+   "k": "American Hustle, American Hustle movie, American Hustle cast, American Hustle story, American Hustle box office collection, American Hustle budget, American Hustle review, American Hustle rating, American Hustle release date, American Hustle trailer, American Hustle Drama, American Hustle Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Bale"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeremy Renner"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Lawrence"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8001,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "American Hustle (2013): Drama/Crime film. Story: A conman and his seductive partner are forced to work… See cast, budget $40M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David O. Russell"
+     }
+    ],
+    "duration": "PT138M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3r2G1vSDf4S3Pl5lJ9BDm9FTxe6.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=168672",
+    "name": "American Hustle",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=168672"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>American Hustle (2013)</h1>\n<p class=\"ssr-lead\">A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2013</li><li>Runtime: 138 minutes</li><li>Director: David O. Russell</li><li>Genres: Drama, Crime</li><li>Budget: $40M</li><li>TMDB rating: 6.9/10 (8001 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Bale as Irving Rosenfeld</li><li>Bradley Cooper as Richie DiMaso</li><li>Amy Adams as Sydney Prosser</li><li>Jeremy Renner as Mayor Carmine Polito</li><li>Jennifer Lawrence as Rosalyn Rosenfeld</li><li>Louis C.K. as Stoddard Thorsen</li><li>Jack Huston as Pete Musane</li><li>Michael Peña as Paco Hernandez / Sheik Abdullah</li><li>Shea Whigham as Carl Elway</li><li>Alessandro Nivola as Anthony Amado</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "American Hustle (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
+  },
+  "movie:177572": {
+   "d": "Big Hero 6 (2014): Adventure/Family film. Story: A special bond develops between plus-sized inflatable… See cast, budget $165M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+   "industry": "world",
+   "k": "Big Hero 6, Big Hero 6 movie, Big Hero 6 cast, Big Hero 6 story, Big Hero 6 box office collection, Big Hero 6 budget, Big Hero 6 review, Big Hero 6 rating, Big Hero 6 release date, Big Hero 6 trailer, Big Hero 6 Adventure, Big Hero 6 Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scott Adsit"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Potter"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Henney"
+     },
+     {
+      "@type": "Person",
+      "name": "T.J. Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Chung"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17108,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Big Hero 6 (2014): Adventure/Family film. Story: A special bond develops between plus-sized inflatable… See cast, budget $165M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Hall"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=177572",
+    "name": "Big Hero 6",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-10-24"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=177572"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Big Hero 6 (2014)</h1>\n<p class=\"ssr-lead\">A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 24 October 2014</li><li>Runtime: 102 minutes</li><li>Director: Chris Williams, Don Hall</li><li>Genres: Adventure, Family, Animation, Action, Comedy</li><li>Budget: $165M</li><li>TMDB rating: 7.7/10 (17108 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scott Adsit as Baymax (voice)</li><li>Ryan Potter as Hiro Hamada (voice)</li><li>Daniel Henney as Tadashi Hamada (voice)</li><li>T.J. Miller as Fred (voice)</li><li>Jamie Chung as GoGo Tomago (voice)</li><li>Damon Wayans Jr. as Wasabi (voice)</li><li>Genesis Rodriguez as Honey Lemon (voice)</li><li>James Cromwell as Professor Robert Callaghan (voice)</li><li>Alan Tudyk as Alistair Krei (voice)</li><li>Maya Rudolph as Aunt Cass (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Big Hero 6 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:18172": {
    "d": "All the Right Moves (1983): Romance/Drama film. Story: Sensitive study of a headstrong high school football… See cast, budget $5.6M, and TMDB rating 5.8/10.",
    "img": "https://image.tmdb.org/t/p/w780/hjYY1aQo5UTsKhmVjnDEasefSmQ.jpg",
@@ -834,6 +1094,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Rise: Blood Hunter (2007)</h1>\n<p class=\"ssr-lead\">A reporter on the trail of a sinister cult wakes up in a morgue to find herself a member of the undead. She goes on a personal vendetta against a group a cultists who are responsible for her death.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 April 2007</li><li>Runtime: 97 minutes</li><li>Director: Sebastian Gutierrez</li><li>Genres: Action, Adventure, Horror, Thriller</li><li>TMDB rating: 5.3/10 (313 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Carla Gugino as Eve</li><li>Michael Chiklis as Clyde Rawlins</li><li>Samaire Armstrong as Jenny</li><li>Lucy Liu as Sadie Blake</li><li>James D&#x27;Arcy as Bishop</li><li>Marilyn Manson as Juan Ton</li><li>Robert Forster as Lloyd</li><li>Cameron Richardson as Collette</li><li>Allan Rich as Harrison</li><li>Holt McCallany as Rourke</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Movie Sphere+</li></ul>\n</article>",
    "t": "Rise: Blood Hunter (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:211672": {
+   "d": "Minions (2015): Family/Animation film. Story: Minions Stuart, Kevin and Bob are recruited by… See cast, budget $74M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+   "industry": "world",
+   "k": "Minions, Minions movie, Minions cast, Minions story, Minions box office collection, Minions budget, Minions review, Minions rating, Minions release date, Minions trailer, Minions Family, Minions Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Pierre Coffin"
+     },
+     {
+      "@type": "Person",
+      "name": "Sandra Bullock"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Hamm"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Allison Janney"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11428,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Minions (2015): Family/Animation film. Story: Minions Stuart, Kevin and Bob are recruited by… See cast, budget $74M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Kyle Balda"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierre Coffin"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Family",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=211672",
+    "name": "Minions",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=211672"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Minions (2015)</h1>\n<p class=\"ssr-lead\">Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 July 2015</li><li>Runtime: 91 minutes</li><li>Director: Kyle Balda, Pierre Coffin</li><li>Genres: Family, Animation, Adventure, Comedy</li><li>Budget: $74M</li><li>TMDB rating: 6.4/10 (11428 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Pierre Coffin as The Minions (voice)</li><li>Sandra Bullock as Scarlet Overkill (voice)</li><li>Jon Hamm as Herb Overkill (voice)</li><li>Michael Keaton as Walter Nelson (voice)</li><li>Allison Janney as Madge Nelson (voice)</li><li>Steve Coogan as Professor Flux / Tower Guard (voice)</li><li>Jennifer Saunders as The Queen (voice)</li><li>Geoffrey Rush as Narrator (voice)</li><li>Steve Carell as Young Gru (voice)</li><li>Katy Mixon as Tina (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Minions (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:219572": {
    "d": "Police Story: Lockdown (2013): Action/Crime film. Story: A man looking for the release of a long-time prisoner… See cast, budget $35M, and TMDB rating 6.2/10.",
@@ -1026,6 +1354,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Merry Madagascar (2009)</h1>\n<p class=\"ssr-lead\">While trapped on the island of Madagascar, the Central Park Zoo escapees receive a visit from Santa--crash landing on their territory and getting amnesia to boot! The animals must help Santa assume his rightful place in the universe, while King Julian laps up the opportunity for his subjects.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 November 2009</li><li>Runtime: 30 minutes</li><li>Director: David Soren</li><li>Genres: Animation, Family</li><li>TMDB rating: 6.5/10 (332 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Alex (voice)</li><li>Chris Rock as Marty (voice)</li><li>David Schwimmer as Melman (voice)</li><li>Jada Pinkett Smith as Gloria (voice)</li><li>Cedric the Entertainer as Maurice (voice)</li><li>Andy Richter as Mort (voice)</li><li>Carl Reiner as Santa (voice)</li><li>Nina Dobrev as Cupid (voice)</li><li>Danny Jacobs as King Julien (voice)</li><li>Tom McGrath as Skipper (voice)</li></ul>\n</article>",
    "t": "Merry Madagascar (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
+  },
+  "movie:272": {
+   "d": "Batman Begins (2005): Drama/Crime film. Story: Driven by tragedy, billionaire Bruce Wayne dedicates… See cast, budget $150M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+   "industry": "world",
+   "k": "Batman Begins, Batman Begins movie, Batman Begins cast, Batman Begins story, Batman Begins box office collection, Batman Begins budget, Batman Begins review, Batman Begins rating, Batman Begins release date, Batman Begins trailer, Batman Begins Drama, Batman Begins Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Bale"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Caine"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Neeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Katie Holmes"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Oldman"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 23537,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Batman Begins (2005): Drama/Crime film. Story: Driven by tragedy, billionaire Bruce Wayne dedicates… See cast, budget $150M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Nolan"
+     }
+    ],
+    "duration": "PT140M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=272",
+    "name": "Batman Begins",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-06-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=272"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Batman Begins (2005)</h1>\n<p class=\"ssr-lead\">Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City. Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 June 2005</li><li>Runtime: 140 minutes</li><li>Director: Christopher Nolan</li><li>Genres: Drama, Crime, Action</li><li>Budget: $150M</li><li>TMDB rating: 7.7/10 (23537 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Bale as Bruce Wayne / Batman</li><li>Michael Caine as Alfred</li><li>Liam Neeson as Ducard</li><li>Katie Holmes as Rachel Dawes</li><li>Gary Oldman as Jim Gordon</li><li>Cillian Murphy as Dr. Jonathan Crane</li><li>Tom Wilkinson as Carmine Falcone</li><li>Rutger Hauer as Earle</li><li>Ken Watanabe as Ra&#x27;s al Ghul</li><li>Mark Boone Junior as Flass</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Batman Begins (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
   },
   "movie:293572": {
    "d": "The Houses October Built (2014): Horror/Thriller film. Story: Beneath the fake blood and cheap masks of countless… See cast and TMDB rating 5.0/10.",
@@ -1485,6 +1877,70 @@
    "t": "Paws of Fury: The Legend of Hank (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:370172": {
+   "d": "No Time to Die (2021): Action/Thriller film. Story: Bond has left active service and is enjoying a… See cast, budget $250M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
+   "industry": "world",
+   "k": "No Time to Die, No Time to Die movie, No Time to Die cast, No Time to Die story, No Time to Die box office collection, No Time to Die budget, No Time to Die review, No Time to Die rating, No Time to Die release date, No Time to Die trailer, No Time to Die Action, No Time to Die Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Craig"
+     },
+     {
+      "@type": "Person",
+      "name": "Léa Seydoux"
+     },
+     {
+      "@type": "Person",
+      "name": "Rami Malek"
+     },
+     {
+      "@type": "Person",
+      "name": "Lashana Lynch"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralph Fiennes"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7566,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "No Time to Die (2021): Action/Thriller film. Story: Bond has left active service and is enjoying a… See cast, budget $250M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cary Joji Fukunaga"
+     }
+    ],
+    "duration": "PT163M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=370172",
+    "name": "No Time to Die",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-09-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=370172"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>No Time to Die (2021)</h1>\n<p class=\"ssr-lead\">Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2021</li><li>Runtime: 163 minutes</li><li>Director: Cary Joji Fukunaga</li><li>Genres: Action, Thriller, Adventure</li><li>Budget: $250M</li><li>TMDB rating: 7.3/10 (7566 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Craig as James Bond</li><li>Léa Seydoux as Madeleine</li><li>Rami Malek as Lyutsifer Safin</li><li>Lashana Lynch as Nomi</li><li>Ralph Fiennes as M</li><li>Ben Whishaw as Q</li><li>Naomie Harris as Moneypenny</li><li>Rory Kinnear as Tanner</li><li>Jeffrey Wright as Felix Leiter</li><li>Billy Magnussen as Logan Ash</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "No Time to Die (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:373072": {
    "d": "Tickled (2016): Documentary film. Story: Journalist David Farrier stumbles upon a mysterious… See cast, TMDB rating 7.2/10, and release date 26 May 2016.",
    "img": "https://image.tmdb.org/t/p/w780/1ZtTi3s6IYtYMpKJbbrCJKfnNib.jpg",
@@ -1867,6 +2323,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Step Sisters (2018)</h1>\n<p class=\"ssr-lead\">Jamilah has her whole life figured out. She&#x27;s the president of her black sorority, captain of their champion step dance crew, is student liaison to the college dean, and her next move is on to Harvard Law School. She&#x27;s got it all, right? But when the hard-partying white girls from Sigma Beta Beta embarrass the school, Jamilah is ordered to come to the rescue. Her mission is to not only teach the rhythmically-challenged girls how to step dance, but to win the Steptacular, the most competitive of dance competitions. With the SBBs reputations and charter on the line, and Jamilah&#x27;s dream of attending Harvard in jeopardy, these outcast screw-ups and their unlikely teacher stumble through one hilarious misstep after another. Cultures clash, romance blossoms, and sisterhood prevails as everyone steps out of their comfort zones.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 January 2018</li><li>Runtime: 104 minutes</li><li>Director: Charles Stone III</li><li>Genres: Comedy</li><li>Budget: $10M</li><li>TMDB rating: 6.4/10 (470 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eden Sher as Beth</li><li>Alessandra Torresani as Amber</li><li>Megalyn Echikunwoke as Jamilah</li><li>Gage Golightly as Libby</li><li>Matt McGorry as Dane</li><li>Naturi Naughton as Aisha</li><li>Lyndon Smith as Danielle</li><li>Shay Davila as Soroity girl</li><li>Robert Curtis Brown as Dean Berman</li><li>Hannah Jelinovic as Sorority Sister-Neighbor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Step Sisters (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:466272": {
+   "d": "Once Upon a Time in... Hollywood (2019): Comedy/Drama film. Story: Los Angeles, 1969. TV star Rick Dalton, a struggling… See cast and budget $95M.",
+   "img": "https://image.tmdb.org/t/p/w780/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+   "industry": "world",
+   "k": "Once Upon a Time in... Hollywood, Once Upon a Time in... Hollywood movie, Once Upon a Time in... Hollywood cast, Once Upon a Time in... Hollywood story, Once Upon a Time in... Hollywood box office collection, Once Upon a Time in... Hollywood budget, Once Upon a Time in... Hollywood review, Once Upon a Time in... Hollywood rating, Once Upon a Time in... Hollywood release date, Once Upon a Time in... Hollywood trailer, Once Upon a Time in... Hollywood Comedy, Once Upon a Time in... Hollywood Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leonardo DiCaprio"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Margot Robbie"
+     },
+     {
+      "@type": "Person",
+      "name": "Emile Hirsch"
+     },
+     {
+      "@type": "Person",
+      "name": "Margaret Qualley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15570,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Once Upon a Time in... Hollywood (2019): Comedy/Drama film. Story: Los Angeles, 1969. TV star Rick Dalton, a struggling… See cast and budget $95M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Quentin Tarantino"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=466272",
+    "name": "Once Upon a Time in... Hollywood",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-07-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=466272"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Once Upon a Time in... Hollywood (2019)</h1>\n<p class=\"ssr-lead\">Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 July 2019</li><li>Runtime: 162 minutes</li><li>Director: Quentin Tarantino</li><li>Genres: Comedy, Drama, Thriller</li><li>Budget: $95M</li><li>TMDB rating: 7.4/10 (15570 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo DiCaprio as Rick Dalton</li><li>Brad Pitt as Cliff Booth</li><li>Margot Robbie as Sharon Tate</li><li>Emile Hirsch as Jay Sebring</li><li>Margaret Qualley as &#x27;Pussycat&#x27;</li><li>Timothy Olyphant as Jim Stacy</li><li>Julia Butters as Trudi Fraser</li><li>Austin Butler as &#x27;Tex&#x27;</li><li>Dakota Fanning as &#x27;Squeaky&#x27;</li><li>Bruce Dern as George Spahn</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Sony Liv, VI movies and tv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Once Upon a Time in... Hollywood (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:473072": {
    "d": "2036: Nexus Dawn (2017): Science Fiction/Thriller film. Story: Niander Wallace introduces a new line of \"perfected\"… See cast and TMDB rating 6.8/10.",
@@ -2698,6 +3218,134 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Guarding Tess (1994)</h1>\n<p class=\"ssr-lead\">Doug is a Secret Service Agent who has just completed his stint in charge protecting Tess Carlisle—the widow of a former U.S. President, and a close personal friend of the current President. He finds that she has requested that he not be rotated but instead return to be her permanent detail. Doug is crushed, and—after returning—wants off her detail as she is very difficult to guard and makes her detail crazy with her whims and demands.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 March 1994</li><li>Runtime: 96 minutes</li><li>Director: Hugh Wilson</li><li>Genres: Comedy, Drama</li><li>Budget: $20M</li><li>TMDB rating: 6.0/10 (367 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shirley MacLaine as Tess Carlisle</li><li>Nicolas Cage as Doug Chesnic</li><li>Austin Pendleton as Earl</li><li>Edward Albert as Barry Carlisle</li><li>James Rebhorn as Howard Shaeffer</li><li>Richard Griffiths as Frederick</li><li>John Roselius as Tom Bahlor</li><li>David Graf as Lee Danielson</li><li>Don Yesso as Ralph Buoncristiani</li><li>James Lally as Joe Spector</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Guarding Tess (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1994"
+  },
+  "movie:672": {
+   "d": "Harry Potter and the Chamber of Secrets (2003): Adventure/Fantasy film. Story: Cars fly, trees fight back, and a mysterious… See cast and budget $100M.",
+   "img": "https://image.tmdb.org/t/p/w780/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg",
+   "industry": "world",
+   "k": "Harry Potter and the Chamber of Secrets, Harry Potter and the Chamber of Secrets movie, Harry Potter and the Chamber of Secrets cast, Harry Potter and the Chamber of Secrets story, Harry Potter and the Chamber of Secrets box office collection, Harry Potter and the Chamber of Secrets budget, Harry Potter and the Chamber of Secrets review, Harry Potter and the Chamber of Secrets rating, Harry Potter and the Chamber of Secrets release date, Harry Potter and the Chamber of Secrets trailer, Harry Potter and the Chamber of Secrets Adventure, Harry Potter and the Chamber of Secrets Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Radcliffe"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Grint"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Watson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenneth Branagh"
+     },
+     {
+      "@type": "Person",
+      "name": "Toby Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24415,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Harry Potter and the Chamber of Secrets (2003): Adventure/Fantasy film. Story: Cars fly, trees fight back, and a mysterious… See cast and budget $100M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Columbus"
+     }
+    ],
+    "duration": "PT161M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=672",
+    "name": "Harry Potter and the Chamber of Secrets",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-04-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=672"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Harry Potter and the Chamber of Secrets (2003)</h1>\n<p class=\"ssr-lead\">Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione&#x27;s magical abilities and courage.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 April 2003</li><li>Runtime: 161 minutes</li><li>Director: Chris Columbus</li><li>Genres: Adventure, Fantasy</li><li>Budget: $100M</li><li>TMDB rating: 7.7/10 (24415 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Radcliffe as Harry Potter</li><li>Rupert Grint as Ron Weasley</li><li>Emma Watson as Hermione Granger</li><li>Kenneth Branagh as Gilderoy Lockhart</li><li>Toby Jones as Dobby (voice)</li><li>Robbie Coltrane as Rubeus Hagrid</li><li>Richard Harris as Albus Dumbledore</li><li>Alan Rickman as Severus Snape</li><li>Tom Felton as Draco Malfoy</li><li>Jason Isaacs as Lucius Malfoy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Harry Potter and the Chamber of Secrets (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
+  "movie:772": {
+   "d": "Home Alone 2: Lost in New York (1992): Comedy/Family film. Story: Instead of flying to Florida with his folks, Kevin… See cast and budget $18M.",
+   "img": "https://image.tmdb.org/t/p/w780/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+   "industry": "world",
+   "k": "Home Alone 2: Lost in New York, Home Alone 2: Lost in New York movie, Home Alone 2: Lost in New York cast, Home Alone 2: Lost in New York story, Home Alone 2: Lost in New York box office collection, Home Alone 2: Lost in New York budget, Home Alone 2: Lost in New York review, Home Alone 2: Lost in New York rating, Home Alone 2: Lost in New York release date, Home Alone 2: Lost in New York Comedy, Home Alone 2: Lost in New York Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Macaulay Culkin"
+     },
+     {
+      "@type": "Person",
+      "name": "Joe Pesci"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Stern"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine O'Hara"
+     },
+     {
+      "@type": "Person",
+      "name": "John Heard"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11069,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Home Alone 2: Lost in New York (1992): Comedy/Family film. Story: Instead of flying to Florida with his folks, Kevin… See cast and budget $18M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Columbus"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Comedy",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=772",
+    "name": "Home Alone 2: Lost in New York",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-11-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=772"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Home Alone 2: Lost in New York (1992)</h1>\n<p class=\"ssr-lead\">Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad&#x27;s credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he&#x27;s determined to foil their plans to rob a toy store on Christmas Eve.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 1992</li><li>Runtime: 120 minutes</li><li>Director: Chris Columbus</li><li>Genres: Comedy, Family, Adventure</li><li>Budget: $18M</li><li>TMDB rating: 6.8/10 (11069 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Macaulay Culkin as Kevin</li><li>Joe Pesci as Harry</li><li>Daniel Stern as Marv</li><li>Catherine O&#x27;Hara as Kate</li><li>John Heard as Peter</li><li>Brenda Fricker as Pigeon Lady</li><li>Tim Curry as Concierge</li><li>Devin Ratray as Buzz</li><li>Gerry Bamman as Uncle Frank</li><li>Rob Schneider as Cedric</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Home Alone 2: Lost in New York (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
   },
   "movie:772272": {
    "d": "Tall Girl 2 (2022): Comedy/Romance film. Story: After Jodi Kreyman gains popularity, her… See cast, budget $24.39M, and TMDB rating 5.7/10.",

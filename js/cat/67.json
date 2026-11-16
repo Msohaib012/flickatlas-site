@@ -1,6 +1,6 @@
 {
  "bucket": "67",
- "count": 69,
+ "count": 78,
  "titles": {
   "movie:10167": {
    "backdrop_path": "/kn2DrfbjYWyNAXlYjCIhQPOTEYd.jpg",
@@ -1148,6 +1148,127 @@
    "type": "movie",
    "vote_average": 5.976,
    "vote_count": 310
+  },
+  "movie:120467": {
+   "backdrop_path": "/jK65srQczOKTpW62wPxwwKztGgE.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "M. Gustave",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Mr. Moustafa",
+     "n": "F. Murray Abraham"
+    },
+    {
+     "c": "Zero",
+     "n": "Tony Revolori"
+    },
+    {
+     "c": "Dmitri",
+     "n": "Adrien Brody"
+    },
+    {
+     "c": "Jopling",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Serge X.",
+     "n": "Mathieu Amalric"
+    },
+    {
+     "c": "Deputy Kovacs",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Ludwig",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Young Author",
+     "n": "Jude Law"
+    },
+    {
+     "c": "M. Ivan",
+     "n": "Bill Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wes Anderson"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 120467,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+   "popularity": 15.8545,
+   "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-02-08",
+   "revenue": 174600318,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
+   "title": "The Grand Budapest Hotel",
+   "trailer": {
+    "key": "G1jG8HUY4zI",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.026,
+   "vote_count": 16754
   },
   "movie:1232667": {
    "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
@@ -4175,6 +4296,182 @@
    "vote_average": 5.5,
    "vote_count": 888
   },
+  "movie:293167": {
+   "backdrop_path": "/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Captain James Conrad",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Lieutenant Colonel Preston Packard",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Bill Randa",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Mason Weaver",
+     "n": "Brie Larson"
+    },
+    {
+     "c": "San Lin",
+     "n": "Jing Tian"
+    },
+    {
+     "c": "Maj. Jack Chapman / Kong Mo-Cap Services",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Victor Nieves",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Houston Brooks",
+     "n": "Corey Hawkins"
+    },
+    {
+     "c": "Glenn Mills",
+     "n": "Jason Mitchell"
+    },
+    {
+     "c": "Earl Cole",
+     "n": "Shea Whigham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jordan Vogt-Roberts"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 293167,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+   "popularity": 13.6677,
+   "poster_path": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-03-10",
+   "revenue": 566652812,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "All hail the king.",
+   "title": "Kong: Skull Island",
+   "trailer": {
+    "key": "dBLdPIp-BuY",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.557,
+   "vote_count": 11479
+  },
   "movie:300667": {
    "backdrop_path": "/aefR29q5J8RrtDS5k0dFEdKmzl4.jpg",
    "budget": 10000000,
@@ -4696,6 +4993,322 @@
    "vote_average": 6.3,
    "vote_count": 332
   },
+  "movie:337167": {
+   "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Anastasia Steele",
+     "n": "Dakota Johnson"
+    },
+    {
+     "c": "Christian Grey",
+     "n": "Jamie Dornan"
+    },
+    {
+     "c": "Jack Hyde",
+     "n": "Eric Johnson"
+    },
+    {
+     "c": "Kate Kavanagh",
+     "n": "Eloise Mumford"
+    },
+    {
+     "c": "Mia Grey",
+     "n": "Rita Ora"
+    },
+    {
+     "c": "Elliot Grey",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "José",
+     "n": "Victor Rasuk"
+    },
+    {
+     "c": "Taylor",
+     "n": "Max Martini"
+    },
+    {
+     "c": "Carla",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Elena Lincoln",
+     "n": "Kim Basinger"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Foley"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 337167,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+   "popularity": 16.4199,
+   "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-01-17",
+   "revenue": 371985018,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't miss the climax.",
+   "title": "Fifty Shades Freed",
+   "trailer": {
+    "key": "nJCc5HRPxYA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.665,
+   "vote_count": 8469
+  },
+  "movie:338967": {
+   "backdrop_path": "/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+   "budget": 42000000,
+   "cast": [
+    {
+     "c": "Columbus",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Tallahassee",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Wichita",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Little Rock",
+     "n": "Abigail Breslin"
+    },
+    {
+     "c": "Madison",
+     "n": "Zoey Deutch"
+    },
+    {
+     "c": "Berkeley",
+     "n": "Avan Jogia"
+    },
+    {
+     "c": "Nevada",
+     "n": "Rosario Dawson"
+    },
+    {
+     "c": "Albuquerque",
+     "n": "Luke Wilson"
+    },
+    {
+     "c": "Flagstaff",
+     "n": "Thomas Middleditch"
+    },
+    {
+     "c": "Babylonian Gatekeeper",
+     "n": "Victoria Hall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ruben Fleischer"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
+   "id": 338967,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+   "popularity": 6.118,
+   "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-10-09",
+   "revenue": 122810399,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "Zombieland: Double Tap",
+   "trailer": {
+    "key": "ZlW9yhUKlkQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.886,
+   "vote_count": 6561
+  },
   "movie:34067": {
    "backdrop_path": "/7qzuPx3ukGxCyLR9j0Ahg3fFI7r.jpg",
    "budget": 0,
@@ -5155,6 +5768,184 @@
    "type": "movie",
    "vote_average": 5.225,
    "vote_count": 471
+  },
+  "movie:376867": {
+   "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Black",
+     "n": "Trevante Rhodes"
+    },
+    {
+     "c": "Kevin",
+     "n": "André Holland"
+    },
+    {
+     "c": "Teresa",
+     "n": "Janelle Monáe"
+    },
+    {
+     "c": "Chiron",
+     "n": "Ashton Sanders"
+    },
+    {
+     "c": "Kevin Age 16",
+     "n": "Jharrel Jerome"
+    },
+    {
+     "c": "Little",
+     "n": "Alex R. Hibbert"
+    },
+    {
+     "c": "Kevin Age 9",
+     "n": "Jaden Piner"
+    },
+    {
+     "c": "Paula",
+     "n": "Naomie Harris"
+    },
+    {
+     "c": "Juan",
+     "n": "Mahershala Ali"
+    },
+    {
+     "c": "Terrence",
+     "n": "Shariff Earp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Barry Jenkins"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 376867,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+   "popularity": 9.0142,
+   "poster_path": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-02-17",
+   "revenue": 65046687,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is the story of a lifetime",
+   "title": "Moonlight",
+   "trailer": {
+    "key": "9NJj12tJzqc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.354,
+   "vote_count": 7763
   },
   "movie:37767": {
    "backdrop_path": "/eeWeiZ96fOhkP5vnTX7KoaZIhD1.jpg",
@@ -5694,6 +6485,123 @@
    "vote_average": 5.94,
    "vote_count": 476
   },
+  "movie:567": {
+   "backdrop_path": "/5bN06p5OwRUEqcfrtNs5egV16yb.jpg",
+   "budget": 1000000,
+   "cast": [
+    {
+     "c": "L.B. Jefferies",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Lisa Fremont",
+     "n": "Grace Kelly"
+    },
+    {
+     "c": "Thomas Doyle",
+     "n": "Wendell Corey"
+    },
+    {
+     "c": "Stella",
+     "n": "Thelma Ritter"
+    },
+    {
+     "c": "Lars Thorwald",
+     "n": "Raymond Burr"
+    },
+    {
+     "c": "Miss Lonelyhearts",
+     "n": "Judith Evelyn"
+    },
+    {
+     "c": "Songwriter",
+     "n": "Ross Bagdasarian"
+    },
+    {
+     "c": "Miss Torso",
+     "n": "Georgine Darcy"
+    },
+    {
+     "c": "Woman on Fire Escape",
+     "n": "Sara Berner"
+    },
+    {
+     "c": "Man on Fire Escape",
+     "n": "Frank Cady"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "id": 567,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+   "popularity": 10.2563,
+   "poster_path": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1954-08-01",
+   "revenue": 37042336,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It only takes one witness to spoil the perfect crime.",
+   "title": "Rear Window",
+   "trailer": {
+    "key": "iZOTTxwzyMU",
+    "name": "REAR WINDOW ('54) - Re-issue Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.332,
+   "vote_count": 7500
+  },
   "movie:5967": {
    "backdrop_path": "/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg",
    "budget": 200000,
@@ -5867,6 +6775,132 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 923
+  },
+  "movie:59967": {
+   "backdrop_path": "/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Joe",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Old Joe",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Sara",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Seth",
+     "n": "Paul Dano"
+    },
+    {
+     "c": "Kid Blue",
+     "n": "Noah Segan"
+    },
+    {
+     "c": "Suzie",
+     "n": "Piper Perabo"
+    },
+    {
+     "c": "Abe",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Cid",
+     "n": "Pierce Gagnon"
+    },
+    {
+     "c": "Old Joe's Wife",
+     "n": "Xu Qing"
+    },
+    {
+     "c": "Beatrix",
+     "n": "Tracie Thoms"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rian Johnson"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 59967,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+   "popularity": 7.5522,
+   "poster_path": "/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-10-12",
+   "revenue": 47042000,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Hunted by your future, haunted by your past.",
+   "title": "Looper",
+   "trailer": {
+    "key": "2iQuhsmtfHw",
+    "name": "LOOPER - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.918,
+   "vote_count": 11356
   },
   "movie:659067": {
    "backdrop_path": "/mnq5O3MyfHIJvunmE0fRhMrQQ89.jpg",
@@ -6436,6 +7470,162 @@
    "vote_average": 6.1,
    "vote_count": 303
   },
+  "movie:767": {
+   "backdrop_path": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Harry Potter",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Ron Weasley",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Hermione Granger",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Horace Slughorn",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Albus Dumbledore",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Draco Malfoy",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Severus Snape",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Ginny Weasley",
+     "n": "Bonnie Wright"
+    },
+    {
+     "c": "Lavender Brown",
+     "n": "Jessie Cave"
+    },
+    {
+     "c": "Luna Lovegood",
+     "n": "Evanna Lynch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "David Yates"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 767,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again",
+   "popularity": 23.6061,
+   "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-07-15",
+   "revenue": 933959197,
+   "runtime": 153,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Dark secrets revealed.",
+   "title": "Harry Potter and the Half-Blood Prince",
+   "trailer": {
+    "key": "tAiy66Xrsz4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.682,
+   "vote_count": 21451
+  },
   "movie:820067": {
    "backdrop_path": "/gcgKSyE2iqwfKWMDZ8TJPxeIu0P.jpg",
    "budget": 0,
@@ -6561,6 +7751,118 @@
    "type": "movie",
    "vote_average": 8.277,
    "vote_count": 464
+  },
+  "movie:8467": {
+   "backdrop_path": "/8uBTDGRcNHhYChcoazP5rleRME7.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Lloyd Christmas",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Harry Dunne",
+     "n": "Jeff Daniels"
+    },
+    {
+     "c": "Mary Swanson",
+     "n": "Lauren Holly"
+    },
+    {
+     "c": "Helen Swanson",
+     "n": "Teri Garr"
+    },
+    {
+     "c": "Nicholas Andre",
+     "n": "Charles Rocket"
+    },
+    {
+     "c": "J.P. Shay",
+     "n": "Karen Duffy"
+    },
+    {
+     "c": "Joe Mentaliano",
+     "n": "Mike Starr"
+    },
+    {
+     "c": "Detective Dale",
+     "n": "Felton Perry"
+    },
+    {
+     "c": "Karl Swanson",
+     "n": "Hank Brandt"
+    },
+    {
+     "c": "Bobby",
+     "n": "Brad Lockerman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Farrelly"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 8467,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
+   "popularity": 8.9074,
+   "poster_path": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-12-16",
+   "revenue": 247275374,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For Harry and Lloyd, every day is a no-brainer.",
+   "title": "Dumb and Dumber",
+   "trailer": {
+    "key": "OyJhN2Es7Cw",
+    "name": "Modern Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 7061
   },
   "movie:867": {
    "backdrop_path": "/zu09Mwoo69qwHpcj3gNtKntgUB7.jpg",

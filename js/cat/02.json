@@ -1,6 +1,6 @@
 {
  "bucket": "02",
- "count": 63,
+ "count": 72,
  "titles": {
   "movie:10002": {
    "backdrop_path": "/awqquwDxMN9iuOAgDJZSkUO9yf7.jpg",
@@ -137,6 +137,127 @@
    "type": "movie",
    "vote_average": 6.894,
    "vote_count": 317
+  },
+  "movie:100402": {
+   "backdrop_path": "/jJvrPQAHFKmz4pVano4UtWTsRgA.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Steve Rogers / Captain America",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Nick Fury",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Natasha Romanoff / Black Widow",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Alexander Pierce",
+     "n": "Robert Redford"
+    },
+    {
+     "c": "Bucky Barnes / Winter Soldier",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Sam Wilson / Falcon",
+     "n": "Anthony Mackie"
+    },
+    {
+     "c": "Maria Hill",
+     "n": "Cobie Smulders"
+    },
+    {
+     "c": "Brock Rumlow",
+     "n": "Frank Grillo"
+    },
+    {
+     "c": "Jasper Sitwell",
+     "n": "Maximiliano Hernández"
+    },
+    {
+     "c": "Kate / Agent 13",
+     "n": "Emily VanCamp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joe Russo",
+    "Anthony Russo"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 100402,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+   "popularity": 12.9359,
+   "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-03-20",
+   "revenue": 714766572,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In heroes we trust.",
+   "title": "Captain America: The Winter Soldier",
+   "trailer": {
+    "key": "7SlILk2WMTI",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.652,
+   "vote_count": 20743
   },
   "movie:11302": {
    "backdrop_path": "/bnJrWEST2YVuWfZiYP4owjXpjwq.jpg",
@@ -1494,6 +1615,160 @@
    "vote_average": 5.922,
    "vote_count": 344
   },
+  "movie:1402": {
+   "backdrop_path": "/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Chris Gardner",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Christopher",
+     "n": "Jaden Smith"
+    },
+    {
+     "c": "Linda",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Jay Twistle",
+     "n": "Brian Howe"
+    },
+    {
+     "c": "Martin Frohm",
+     "n": "James Karen"
+    },
+    {
+     "c": "Alan Frakesh",
+     "n": "Dan Castellaneta"
+    },
+    {
+     "c": "Walter Ribbon",
+     "n": "Kurt Fuller"
+    },
+    {
+     "c": "Mrs. Chu",
+     "n": "Takayo Fischer"
+    },
+    {
+     "c": "World's Greatest Dad",
+     "n": "Kevin West"
+    },
+    {
+     "c": "Chinese Maintenance Worker",
+     "n": "George Cheung"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Muccino"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1402,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+   "popularity": 12.9011,
+   "poster_path": "/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Angel Studios"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-12-14",
+   "revenue": 307077295,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "For his son, one man will reach for the impossible.",
+   "title": "The Pursuit of Happyness",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.885,
+   "vote_count": 11021
+  },
   "movie:15602": {
    "backdrop_path": "/1o4vuCHpmd4DXofMYDUwpnhKiuy.jpg",
    "budget": 25000000,
@@ -2132,6 +2407,156 @@
    "vote_average": 7.122,
    "vote_count": 393
   },
+  "movie:223702": {
+   "backdrop_path": "/hsb8nNBt3emvWqBs7Xv5IKlz6Im.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Frank / Sergeant Pepper / Peanut Butter (voice)",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Brenda (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Carl (voice)",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Firewater / Tequila / El Guaco (voice)",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Barry (voice)",
+     "n": "Michael Cera"
+    },
+    {
+     "c": "Druggie (voice)",
+     "n": "James Franco"
+    },
+    {
+     "c": "Honey Mustard (voice)",
+     "n": "Danny McBride"
+    },
+    {
+     "c": "Grits (voice)",
+     "n": "Craig Robinson"
+    },
+    {
+     "c": "Darren (voice)",
+     "n": "Paul Rudd"
+    },
+    {
+     "c": "Douche (voice)",
+     "n": "Nick Kroll"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Greg Tiernan",
+    "Conrad Vernon"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 223702,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they're chosen to leave the grocery store.",
+   "popularity": 8.2416,
+   "poster_path": "/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg",
+   "production_countries": [
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-11",
+   "revenue": 140705322,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get your fill.",
+   "title": "Sausage Party",
+   "trailer": {
+    "key": "GAJrBPUVDJM",
+    "name": "Official Green Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.746,
+   "vote_count": 7935
+  },
   "movie:24402": {
    "backdrop_path": "/yKsMX3Ril4FVNHJKZukuDe7JemW.jpg",
    "budget": 500000,
@@ -2243,6 +2668,149 @@
    "type": "movie",
    "vote_average": 5.96,
    "vote_count": 849
+  },
+  "movie:2502": {
+   "backdrop_path": "/fE7RqvVHbGHjBC9NjIjlLh2t4zK.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Jason Bourne",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Marie Helene Kreutz",
+     "n": "Franka Potente"
+    },
+    {
+     "c": "Ward Abbott",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Nicky Parsons",
+     "n": "Julia Stiles"
+    },
+    {
+     "c": "Kirill",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Danny Zorn",
+     "n": "Gabriel Mann"
+    },
+    {
+     "c": "Pamela Landy",
+     "n": "Joan Allen"
+    },
+    {
+     "c": "Jarda",
+     "n": "Marton Csokas"
+    },
+    {
+     "c": "Tom Cronin",
+     "n": "Tom Gallop"
+    },
+    {
+     "c": "Teddy",
+     "n": "John Bedford Lloyd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Paul Greengrass"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 2502,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+   "popularity": 9.1992,
+   "poster_path": "/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-10-09",
+   "revenue": 288500217,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "They should have left him alone.",
+   "title": "The Bourne Supremacy",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.339,
+   "vote_count": 8559
   },
   "movie:25602": {
    "backdrop_path": "/zOau05zQVXB0XIhJ0WUslHHBOh6.jpg",
@@ -2782,6 +3350,192 @@
    "type": "movie",
    "vote_average": 5.789,
    "vote_count": 374
+  },
+  "movie:297802": {
+   "backdrop_path": "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Arthur Curry / Aquaman",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Mera",
+     "n": "Amber Heard"
+    },
+    {
+     "c": "Nuidis Vulko",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "King Orm Marius / Ocean Master",
+     "n": "Patrick Wilson"
+    },
+    {
+     "c": "Atlanna",
+     "n": "Nicole Kidman"
+    },
+    {
+     "c": "King Nereus",
+     "n": "Dolph Lundgren"
+    },
+    {
+     "c": "David Kane / Black Manta",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Thomas Curry",
+     "n": "Temuera Morrison"
+    },
+    {
+     "c": "Captain Murk",
+     "n": "Ludi Lin"
+    },
+    {
+     "c": "Jesse Kane (Manta's Father)",
+     "n": "Michael Beach"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "James Wan"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 297802,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+   "popularity": 9.7513,
+   "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-12-14",
+   "revenue": 1152028393,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Home is calling.",
+   "title": "Aquaman",
+   "trailer": {
+    "key": "2wcj6SrX4zw",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.857,
+   "vote_count": 15366
   },
   "movie:302": {
    "backdrop_path": "/q0kZOxL6OMSeDlT6SRNKCJYStlF.jpg",
@@ -4914,6 +5668,138 @@
    "vote_average": 7.957,
    "vote_count": 364
   },
+  "movie:602": {
+   "backdrop_path": "/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Capt. Steven Hiller",
+     "n": "Will Smith"
+    },
+    {
+     "c": "President Thomas J. Whitmore",
+     "n": "Bill Pullman"
+    },
+    {
+     "c": "David Levinson",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Marilyn Whitmore",
+     "n": "Mary McDonnell"
+    },
+    {
+     "c": "Julius Levinson",
+     "n": "Judd Hirsch"
+    },
+    {
+     "c": "General William Grey",
+     "n": "Robert Loggia"
+    },
+    {
+     "c": "Russell Casse",
+     "n": "Randy Quaid"
+    },
+    {
+     "c": "Constance Spano",
+     "n": "Margaret Colin"
+    },
+    {
+     "c": "Albert Nimzicki",
+     "n": "James Rebhorn"
+    },
+    {
+     "c": "Marty Gilbert",
+     "n": "Harvey Fierstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roland Emmerich"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 602,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+   "popularity": 11.895,
+   "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-07-02",
+   "revenue": 817400891,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The question of whether or not we are alone in the universe has been answered.",
+   "title": "Independence Day",
+   "trailer": {
+    "key": "B1E7h3SeMDk",
+    "name": "Official Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.92,
+   "vote_count": 10916
+  },
   "movie:61202": {
    "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
    "budget": 7700000,
@@ -5516,6 +6402,194 @@
    "vote_average": 6.4,
    "vote_count": 393
   },
+  "movie:82702": {
+   "backdrop_path": "/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg",
+   "budget": 145000000,
+   "cast": [
+    {
+     "c": "Hiccup (voice)",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Valka (voice)",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Stoick (voice)",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Gobber (voice)",
+     "n": "Craig Ferguson"
+    },
+    {
+     "c": "Astrid (voice)",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Snotlout (voice)",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Fishlegs (voice)",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Tuffnut (voice)",
+     "n": "T.J. Miller"
+    },
+    {
+     "c": "Ruffnut (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Drago (voice)",
+     "n": "Djimon Hounsou"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Dean DeBlois"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "id": 82702,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons—and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.",
+   "popularity": 11.6787,
+   "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-06-05",
+   "revenue": 621537519,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Training is over. The adventure begins.",
+   "title": "How to Train Your Dragon 2",
+   "trailer": {
+    "key": "1Y0erVF9cLI",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.683,
+   "vote_count": 10809
+  },
   "movie:829402": {
    "backdrop_path": "/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
    "budget": 0,
@@ -5738,6 +6812,124 @@
    "type": "movie",
    "vote_average": 6.528,
    "vote_count": 378
+  },
+  "movie:87502": {
+   "backdrop_path": "/lKaBnmdtFlyec6SGBLbdwXSrrRi.jpg",
+   "budget": 31000000,
+   "cast": [
+    {
+     "c": "Whip Whitaker",
+     "n": "Denzel Washington"
+    },
+    {
+     "c": "Hugh Lang",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Nicole",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Harling Mays",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Charlie Anderson",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Ken Evans",
+     "n": "Brian Geraghty"
+    },
+    {
+     "c": "Margaret Thomason",
+     "n": "Tamara Tunie"
+    },
+    {
+     "c": "Katerina Marquez",
+     "n": "Nadine Velazquez"
+    },
+    {
+     "c": "Avington Carr",
+     "n": "Peter Gerety"
+    },
+    {
+     "c": "Deana",
+     "n": "Garcelle Beauvais"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 87502,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Commercial airline pilot Whip Whitaker has a problem with drugs and alcohol, though so far he's managed to complete his flights safely. His luck runs out when a disastrous mechanical malfunction sends his plane hurtling toward the ground. Whip pulls off a miraculous crash-landing that results in only six lives lost. Shaken to the core, Whip vows to get sober -- but when the crash investigation exposes his addiction, he finds himself in an even worse situation.",
+   "popularity": 8.9562,
+   "poster_path": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-03-01",
+   "revenue": 161772575,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some miracles are not what they seem.",
+   "title": "Flight",
+   "trailer": {
+    "key": "WmjawuFvDu4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.868,
+   "vote_count": 6706
   },
   "movie:925102": {
    "backdrop_path": "/gCOe0ZSGgfsHob7gdg2xQANwTAD.jpg",
@@ -6232,6 +7424,179 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 41
+  },
+  "movie:9502": {
+   "backdrop_path": "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Po (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Shifu (voice)",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Tigress (voice)",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Tai Lung (voice)",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Mantis (voice)",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Viper (voice)",
+     "n": "Lucy Liu"
+    },
+    {
+     "c": "Crane (voice)",
+     "n": "David Cross"
+    },
+    {
+     "c": "Oogway (voice)",
+     "n": "Randall Duk Kim"
+    },
+    {
+     "c": "Mr. Ping (voice)",
+     "n": "James Hong"
+    },
+    {
+     "c": "Zeng (voice)",
+     "n": "Dan Fogler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Mark Osborne",
+    "John Stevenson"
+   ],
+   "genres": [
+    "Action",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 9502,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chosen by prophecy but doubted by all, Po is an unlikely choice for the mystical title of the Dragon Warrior—a clumsy panda thrust into the world of kung fu as a deadly enemy threatens the Valley of Peace. Under reluctant guidance by Master Shifu and the Furious Five, Po must embrace who he is to unlock the power that no scroll can teach.",
+   "popularity": 16.2196,
+   "poster_path": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Wonder Project Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-06-04",
+   "revenue": 632091832,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare for awesomeness.",
+   "title": "Kung Fu Panda",
+   "trailer": {
+    "key": "NRc-ze7Wrxw",
+    "name": "Kung Fu Panda | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.345,
+   "vote_count": 13199
   },
   "movie:988402": {
    "backdrop_path": "/gbpy4mwYEodTutM9Z1HTEPK6i3S.jpg",

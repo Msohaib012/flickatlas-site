@@ -1,6 +1,6 @@
 {
  "bucket": "64",
- "count": 70,
+ "count": 78,
  "titles": {
   "movie:10064": {
    "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
@@ -669,6 +669,142 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 469
+  },
+  "movie:10764": {
+   "backdrop_path": "/uGs5Z7dMguf7kxWubGFcp9EhKcy.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "James Bond",
+     "n": "Daniel Craig"
+    },
+    {
+     "c": "Camille",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Dominic Greene",
+     "n": "Mathieu Amalric"
+    },
+    {
+     "c": "M",
+     "n": "Judi Dench"
+    },
+    {
+     "c": "Mathis",
+     "n": "Giancarlo Giannini"
+    },
+    {
+     "c": "Strawberry Fields",
+     "n": "Gemma Arterton"
+    },
+    {
+     "c": "Felix Leiter",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Gregg Beam",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Mr. White",
+     "n": "Jesper Christensen"
+    },
+    {
+     "c": "Elvis",
+     "n": "Anatole Taubman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Marc Forster"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "id": 10764,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+   "popularity": 10.0582,
+   "poster_path": "/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-10-29",
+   "revenue": 589593688,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "it",
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "Have regrets. Get revenge.",
+   "title": "Quantum of Solace",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 8910
   },
   "movie:11564": {
    "backdrop_path": "/ke6cDBFg4IPb8MWjPOBlIhtosQ0.jpg",
@@ -4502,6 +4638,284 @@
    "vote_average": 5.4,
    "vote_count": 903
   },
+  "movie:339964": {
+   "backdrop_path": "/5rYnygKCkmqWuMv1O5yAnzGF8gV.jpg",
+   "budget": 177200000,
+   "cast": [
+    {
+     "c": "Major Valerian",
+     "n": "Dane DeHaan"
+    },
+    {
+     "c": "Sergeant Laureline",
+     "n": "Cara Delevingne"
+    },
+    {
+     "c": "Commander Arun Filitt",
+     "n": "Clive Owen"
+    },
+    {
+     "c": "Bubble",
+     "n": "Rihanna"
+    },
+    {
+     "c": "Jolly the Pimp",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Defence Minister",
+     "n": "Herbie Hancock"
+    },
+    {
+     "c": "Sergeant Neza",
+     "n": "Kris Wu"
+    },
+    {
+     "c": "General Okto-Bar",
+     "n": "Sam Spruell"
+    },
+    {
+     "c": "Bob the Pirate",
+     "n": "Alain Chabat"
+    },
+    {
+     "c": "President of the World State Federation",
+     "n": "Rutger Hauer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Luc Besson"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 339964,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.",
+   "popularity": 8.3527,
+   "poster_path": "/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+   "production_countries": [
+    "FR",
+    "DE",
+    "AE",
+    "US",
+    "BE",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-07-19",
+   "revenue": 225973340,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A universe without boundaries needs heroes without limits.",
+   "title": "Valerian and the City of a Thousand Planets",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 8331
+  },
+  "movie:346364": {
+   "backdrop_path": "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Bill Denbrough",
+     "n": "Jaeden Martell"
+    },
+    {
+     "c": "Ben Hanscom",
+     "n": "Jeremy Ray Taylor"
+    },
+    {
+     "c": "Beverly Marsh",
+     "n": "Sophia Lillis"
+    },
+    {
+     "c": "Richie Tozier",
+     "n": "Finn Wolfhard"
+    },
+    {
+     "c": "Mike Hanlon",
+     "n": "Chosen Jacobs"
+    },
+    {
+     "c": "Eddie Kaspbrak",
+     "n": "Jack Dylan Grazer"
+    },
+    {
+     "c": "Stanley Uris",
+     "n": "Wyatt Oleff"
+    },
+    {
+     "c": "Pennywise",
+     "n": "Bill Skarsgård"
+    },
+    {
+     "c": "Henry Bowers",
+     "n": "Nicholas Hamilton"
+    },
+    {
+     "c": "Belch Huggins",
+     "n": "Jake Sim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Andy Muschietti"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 346364,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+   "popularity": 14.5557,
+   "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-09-08",
+   "revenue": 719766009,
+   "runtime": 135,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You'll float too.",
+   "title": "It",
+   "trailer": {
+    "key": "xKJmEC5ieOk",
+    "name": "Official Trailer 1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.24,
+   "vote_count": 20889
+  },
   "movie:351964": {
    "backdrop_path": "/aPmag8IunegXgwDxkcdPLmOvadk.jpg",
    "budget": 0,
@@ -4729,6 +5143,149 @@
    "type": "movie",
    "vote_average": 8.434,
    "vote_count": 317
+  },
+  "movie:364": {
+   "backdrop_path": "/9vYIWoJ3EoD8UoCiZOCTszrkRVZ.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Batman / Bruce Wayne",
+     "n": "Michael Keaton"
+    },
+    {
+     "c": "Penguin",
+     "n": "Danny DeVito"
+    },
+    {
+     "c": "Catwoman / Selina",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Max Shreck",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Alfred",
+     "n": "Michael Gough"
+    },
+    {
+     "c": "Commissioner Gordon",
+     "n": "Pat Hingle"
+    },
+    {
+     "c": "Mayor",
+     "n": "Michael Murphy"
+    },
+    {
+     "c": "Ice Princess",
+     "n": "Cristi Conaway"
+    },
+    {
+     "c": "Chip",
+     "n": "Andrew Bryniarski"
+    },
+    {
+     "c": "Organ Grinder",
+     "n": "Vincent Schiavelli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "id": 364,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.",
+   "popularity": 9.6169,
+   "poster_path": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1992-06-19",
+   "revenue": 280000000,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Bat. The Cat. The Penguin.",
+   "title": "Batman Returns",
+   "trailer": {
+    "key": "TlbtLfWvFbo",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.956,
+   "vote_count": 7424
   },
   "movie:370964": {
    "backdrop_path": "/68chxvkKe8Zty1MNY1cCoBAKWs1.jpg",
@@ -5714,6 +6271,323 @@
    "vote_average": 5.91,
    "vote_count": 393
   },
+  "movie:47964": {
+   "backdrop_path": "/wFUkS5cnMf3I8ysIPWzIXpTsuR7.jpg",
+   "budget": 92000000,
+   "cast": [
+    {
+     "c": "John McClane",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Jack McClane",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "Yuri Komarov",
+     "n": "Sebastian Koch"
+    },
+    {
+     "c": "Irina Komarov",
+     "n": "Yuliya Snigir"
+    },
+    {
+     "c": "Alik",
+     "n": "Radivoje Bukvić"
+    },
+    {
+     "c": "Mike Collins",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "Viktor Chagarin",
+     "n": "Sergey Kolesnikov"
+    },
+    {
+     "c": "Murphy",
+     "n": "Amaury Nolasco"
+    },
+    {
+     "c": "Lucy McClane",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Anton",
+     "n": "Roman Luknár"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Moore"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 47964,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Iconoclastic, take-no-prisoners cop John McClane, finds himself for the first time on foreign soil after traveling to Moscow to help his wayward son Jack - unaware that Jack is really a highly-trained CIA operative out to stop a nuclear weapons heist. With the Russian underworld in pursuit, and battling a countdown to war, the two McClanes discover that their opposing methods make them unstoppable heroes.",
+   "popularity": 5.0284,
+   "poster_path": "/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-02-22",
+   "revenue": 304654182,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Yippee ki-yay Mother Russia.",
+   "title": "A Good Day to Die Hard",
+   "trailer": {
+    "key": "mXTImBrEKUc",
+    "name": "Valentine's Day Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.321,
+   "vote_count": 6942
+  },
+  "movie:495764": {
+   "backdrop_path": "/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Harley Quinn",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Renee Montoya",
+     "n": "Rosie Perez"
+    },
+    {
+     "c": "Helena Bertinelli / Huntress",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Dinah Lance / Black Canary",
+     "n": "Jurnee Smollett-Bell"
+    },
+    {
+     "c": "Roman Sionis",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Cassandra Cain",
+     "n": "Ella Jay Basco"
+    },
+    {
+     "c": "Victor Zsasz",
+     "n": "Chris Messina"
+    },
+    {
+     "c": "Ellen Yee",
+     "n": "Ali Wong"
+    },
+    {
+     "c": "Sleazy Breeder",
+     "n": "David Ury"
+    },
+    {
+     "c": "Shallow Friend #1 / Kathrine",
+     "n": "Sara Montez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Cathy Yan"
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 495764,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+   "popularity": 9.0722,
+   "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-02-07",
+   "revenue": 205537933,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Mind over mayhem.",
+   "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+   "trailer": {
+    "key": "q2u2raiIlm0",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.855,
+   "vote_count": 11110
+  },
   "movie:49964": {
    "backdrop_path": "/ylBiGZhgBsly0frseG2PvqoYM4o.jpg",
    "budget": 0,
@@ -6323,6 +7197,124 @@
    "vote_average": 6.763,
    "vote_count": 300
   },
+  "movie:564": {
+   "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Rick O'Connell",
+     "n": "Brendan Fraser"
+    },
+    {
+     "c": "Evelyn Carnahan",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Jonathan Carnahan",
+     "n": "John Hannah"
+    },
+    {
+     "c": "Imhotep",
+     "n": "Arnold Vosloo"
+    },
+    {
+     "c": "Anck-Su-Namun",
+     "n": "Patricia Velásquez"
+    },
+    {
+     "c": "Ardeth Bay",
+     "n": "Oded Fehr"
+    },
+    {
+     "c": "Beni Gabor",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Allen Chamberlain",
+     "n": "Jonathan Hyde"
+    },
+    {
+     "c": "Terence Bey",
+     "n": "Erick Avari"
+    },
+    {
+     "c": "Isaac Henderson",
+     "n": "Stephen Dunham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Stephen Sommers"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 564,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+   "popularity": 15.1844,
+   "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-07-22",
+   "revenue": 415885488,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "The sands will rise. The heavens will part. The power will be unleashed.",
+   "title": "The Mummy",
+   "trailer": {
+    "key": "OGOBz4t7OXs",
+    "name": "25th Anniversary | Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.003,
+   "vote_count": 10600
+  },
   "movie:572164": {
    "backdrop_path": "/wx9dK8ke3hcC4qBZsovI1SICZl9.jpg",
    "budget": 10892000,
@@ -6592,6 +7584,114 @@
    "type": "movie",
    "vote_average": 7.9,
    "vote_count": 423
+  },
+  "movie:619264": {
+   "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+   "budget": 1203235,
+   "cast": [
+    {
+     "c": "Goreng",
+     "n": "Ivan Massagué"
+    },
+    {
+     "c": "Imoguiri",
+     "n": "Antonia San Juan"
+    },
+    {
+     "c": "Trimagasi",
+     "n": "Zorion Eguileor"
+    },
+    {
+     "c": "Baharat",
+     "n": "Emilio Buale"
+    },
+    {
+     "c": "Miharu",
+     "n": "Alexandra Masangkay"
+    },
+    {
+     "c": "Mali",
+     "n": "Zihara Llana"
+    },
+    {
+     "c": "Baharat's Friend",
+     "n": "Mario Pardo"
+    },
+    {
+     "c": "Inmate #1",
+     "n": "Algis Arlauskas"
+    },
+    {
+     "c": "Chef",
+     "n": "Txubio Fernández de Jáuregui"
+    },
+    {
+     "c": "Mr. Brambang",
+     "n": "Eric Goode"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Galder Gaztelu-Urrutia"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 619264,
+   "industry": "world",
+   "origin_country": [
+    "ES"
+   ],
+   "original_language": "es",
+   "overview": "A slab of food descends down a vertical facility. The residents above eat heartily, leaving those below starving and desperate. A rebellion is imminent.",
+   "popularity": 7.4086,
+   "poster_path": "/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
+   "production_countries": [
+    "ES"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-11-08",
+   "revenue": 1090116,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "There are 3 kinds of people; the ones above, the ones below, and the ones who fall.",
+   "title": "The Platform",
+   "trailer": {
+    "key": "RlfooqeZcdY",
+    "name": "Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.963,
+   "vote_count": 8147
   },
   "movie:669664": {
    "backdrop_path": "/ve8eFz0fKHxap9hwm18dUFtxfId.jpg",

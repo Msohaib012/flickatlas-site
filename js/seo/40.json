@@ -1,6 +1,6 @@
 {
  "bucket": "40",
- "count": 66,
+ "count": 75,
  "titles": {
   "movie:1040": {
    "d": "The Leopard (1963): Drama film. Story: As Garibaldi's troops begin the unification of Italy… See cast, TMDB rating 7.7/10, and release date 27 March 1963.",
@@ -362,6 +362,70 @@
    "t": "Maggie Simpson in \"The Longest Daycare\" (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:118340": {
+   "d": "Guardians of the Galaxy (2014): Action/Science Fiction film. Story: Light years from Earth, 26 years after being… See cast and budget $170M.",
+   "img": "https://image.tmdb.org/t/p/w780/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+   "industry": "world",
+   "k": "Guardians of the Galaxy, Guardians of the Galaxy movie, Guardians of the Galaxy cast, Guardians of the Galaxy story, Guardians of the Galaxy box office collection, Guardians of the Galaxy budget, Guardians of the Galaxy review, Guardians of the Galaxy rating, Guardians of the Galaxy release date, Guardians of the Galaxy trailer, Guardians of the Galaxy Action, Guardians of the Galaxy Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Pratt"
+     },
+     {
+      "@type": "Person",
+      "name": "Zoe Saldaña"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Bautista"
+     },
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 30660,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Guardians of the Galaxy (2014): Action/Science Fiction film. Story: Light years from Earth, 26 years after being… See cast and budget $170M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Gunn"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=118340",
+    "name": "Guardians of the Galaxy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-08-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=118340"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Guardians of the Galaxy (2014)</h1>\n<p class=\"ssr-lead\">Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 August 2014</li><li>Runtime: 121 minutes</li><li>Director: James Gunn</li><li>Genres: Action, Science Fiction, Adventure</li><li>Budget: $170M</li><li>TMDB rating: 7.9/10 (30660 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Pratt as Peter Quill</li><li>Zoe Saldaña as Gamora</li><li>Dave Bautista as Drax</li><li>Vin Diesel as Groot (voice)</li><li>Bradley Cooper as Rocket (voice)</li><li>Lee Pace as Ronan</li><li>Michael Rooker as Yondu Udonta</li><li>Karen Gillan as Nebula</li><li>Djimon Hounsou as Korath</li><li>John C. Reilly as Corpsman Dey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Guardians of the Galaxy (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:1224440": {
    "d": "Smart Working (2026): Comedy film. Story: The story follows Giuliano, whose life has improved… See cast, budget $2.13M, and TMDB rating 5.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
@@ -684,6 +748,70 @@
    "t": "UNABOMBER (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:150540": {
+   "d": "Inside Out (2015): Animation/Family film. Story: When 11-year-old Riley moves to a new city, her… See cast, budget $175M, and TMDB rating 7.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+   "industry": "world",
+   "k": "Inside Out, Inside Out movie, Inside Out cast, Inside Out story, Inside Out box office collection, Inside Out budget, Inside Out review, Inside Out rating, Inside Out release date, Inside Out trailer, Inside Out Animation, Inside Out Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amy Poehler"
+     },
+     {
+      "@type": "Person",
+      "name": "Phyllis Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Kind"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Hader"
+     },
+     {
+      "@type": "Person",
+      "name": "Lewis Black"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24174,
+     "ratingValue": 7.9,
+     "worstRating": 0
+    },
+    "description": "Inside Out (2015): Animation/Family film. Story: When 11-year-old Riley moves to a new city, her… See cast, budget $175M, and TMDB rating 7.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pete Docter"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=150540",
+    "name": "Inside Out",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-06-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=150540"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Inside Out (2015)</h1>\n<p class=\"ssr-lead\">When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 June 2015</li><li>Runtime: 95 minutes</li><li>Director: Pete Docter</li><li>Genres: Animation, Family, Adventure, Drama, Comedy</li><li>Budget: $175M</li><li>TMDB rating: 7.9/10 (24174 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amy Poehler as Joy (voice)</li><li>Phyllis Smith as Sadness (voice)</li><li>Richard Kind as Bing Bong (voice)</li><li>Bill Hader as Fear (voice)</li><li>Lewis Black as Anger (voice)</li><li>Mindy Kaling as Disgust (voice)</li><li>Kaitlyn Dias as Riley (voice)</li><li>Diane Lane as Mom (voice)</li><li>Kyle MacLachlan as Dad (voice)</li><li>Paula Poundstone as Forgetter Paula (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Inside Out (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:15440": {
    "d": "Cold Prey II (2008): Horror/Mystery film. Story: After surviving the events in the Jotunheimen… See cast, TMDB rating 6.3/10, and release date 9 October 2008.",
    "img": "https://image.tmdb.org/t/p/w780/kSKMR5Fn1ICS4nTwyQ9YZR5rTgG.jpg",
@@ -942,6 +1070,70 @@
    "t": "Big Bad Wolves (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:18240": {
+   "d": "The Proposal (2009): Comedy/Romance film. Story: When she learns she's in danger of losing her visa… See cast, budget $40M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+   "industry": "world",
+   "k": "The Proposal, The Proposal movie, The Proposal cast, The Proposal story, The Proposal box office collection, The Proposal budget, The Proposal review, The Proposal rating, The Proposal release date, The Proposal Comedy, The Proposal Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandra Bullock"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Malin Akerman"
+     },
+     {
+      "@type": "Person",
+      "name": "Craig T. Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Mary Steenburgen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7904,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Proposal (2009): Comedy/Romance film. Story: When she learns she's in danger of losing her visa… See cast, budget $40M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Anne Fletcher"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18240",
+    "name": "The Proposal",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-06-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18240"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Proposal (2009)</h1>\n<p class=\"ssr-lead\">When she learns she&#x27;s in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 June 2009</li><li>Runtime: 108 minutes</li><li>Director: Anne Fletcher</li><li>Genres: Comedy, Romance, Drama</li><li>Budget: $40M</li><li>TMDB rating: 7.2/10 (7904 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Bullock as Margaret Tate</li><li>Ryan Reynolds as Andrew Paxton</li><li>Malin Akerman as Gertrude</li><li>Craig T. Nelson as Joe Paxton</li><li>Mary Steenburgen as Grace Paxton</li><li>Betty White as Grandma Annie</li><li>Denis O&#x27;Hare as Mr. Gilbertson</li><li>Oscar Nuñez as Ramone</li><li>Aasif Mandvi as Bob Spaulding</li><li>Michael Nouri as Chairman Bergen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "The Proposal (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:226140": {
    "d": "See No Evil 2 (2014): Horror film. Story: A group of friends pays a late-night visit to the… See cast, TMDB rating 5.3/10, and release date 21 October 2014.",
    "img": "https://image.tmdb.org/t/p/w780/uPkbev4PHRJBwRLD2xFrg3dpFMk.jpg",
@@ -1008,6 +1200,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>See No Evil 2 (2014)</h1>\n<p class=\"ssr-lead\">A group of friends pays a late-night visit to the city morgue to surprise Amy on her birthday. But the surprise is on them when the one-eyed corpse of brutal psychopath Jacob Goodnight unexpectedly rises from a cold sub-basement slab, turning their wild party into a terrifying slay-fest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 October 2014</li><li>Runtime: 90 minutes</li><li>Director: Jen Soska, Sylvia Soska</li><li>Genres: Horror</li><li>TMDB rating: 5.3/10 (358 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Danielle Harris as Amy</li><li>Glenn Jacobs as Jacob Goodnight</li><li>Kaj-Erik Eriksen as Seth</li><li>Katharine Isabelle as Tamara</li><li>Chelan Simmons as Kayla</li><li>Lee Majdoub as Carter</li><li>Greyston Holt as Will</li><li>Michael Eklund as Holden</li><li>Reese Alexander as EMT #1</li><li>Kelly-Ruth Mercier as EMT #2</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "See No Evil 2 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:240": {
+   "d": "The Godfather Part II (1974): Drama/Crime film. Story: In the continuing saga of the Corleone crime family… See cast, budget $13M, and TMDB rating 8.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+   "industry": "world",
+   "k": "The Godfather Part II, The Godfather Part II movie, The Godfather Part II cast, The Godfather Part II story, The Godfather Part II box office collection, The Godfather Part II budget, The Godfather Part II review, The Godfather Part II rating, The Godfather Part II release date, The Godfather Part II trailer, The Godfather Part II Drama, The Godfather Part II Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Duvall"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert De Niro"
+     },
+     {
+      "@type": "Person",
+      "name": "John Cazale"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14621,
+     "ratingValue": 8.6,
+     "worstRating": 0
+    },
+    "description": "The Godfather Part II (1974): Drama/Crime film. Story: In the continuing saga of the Corleone crime family… See cast, budget $13M, and TMDB rating 8.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francis Ford Coppola"
+     }
+    ],
+    "duration": "PT202M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=240",
+    "name": "The Godfather Part II",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1974-12-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=240"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Godfather Part II (1974)</h1>\n<p class=\"ssr-lead\">In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 December 1974</li><li>Runtime: 202 minutes</li><li>Director: Francis Ford Coppola</li><li>Genres: Drama, Crime</li><li>Budget: $13M</li><li>TMDB rating: 8.6/10 (14621 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Don Michael Corleone</li><li>Robert Duvall as Tom Hagen</li><li>Diane Keaton as Kay Corleone</li><li>Robert De Niro as Vito Corleone</li><li>John Cazale as Frederico &#x27;Fredo&#x27; Corleone</li><li>Talia Shire as Constanzia &#x27;Connie&#x27; Corleone</li><li>Lee Strasberg as Hyman Roth</li><li>Michael V. Gazzo as Frank Pentangeli</li><li>G.D. Spradlin as Senator Pat Geary</li><li>Richard Bright as Al Neri</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Godfather Part II (1974) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1974"
   },
   "movie:2440": {
    "d": "Joint Security Area (2000): Drama/Thriller film. Story: Two North Korean soldiers are killed in the border… See cast, budget $12.5M, and TMDB rating 7.8/10.",
@@ -1643,6 +1899,134 @@
    "t": "Everything Is Illuminated (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2005"
   },
+  "movie:345940": {
+   "d": "The Meg (2018): Action/Science Fiction film. Story: A deep sea submersible pilot revisits his past fears… See cast, budget $150M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ibKeXahq4JD63z6uWQphqoJLvNw.jpg",
+   "industry": "world",
+   "k": "The Meg, The Meg movie, The Meg cast, The Meg story, The Meg box office collection, The Meg budget, The Meg review, The Meg rating, The Meg release date, The Meg trailer, The Meg Action, The Meg Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Statham"
+     },
+     {
+      "@type": "Person",
+      "name": "Li Bingbing"
+     },
+     {
+      "@type": "Person",
+      "name": "Rainn Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Cliff Curtis"
+     },
+     {
+      "@type": "Person",
+      "name": "Ruby Rose"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8496,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "The Meg (2018): Action/Science Fiction film. Story: A deep sea submersible pilot revisits his past fears… See cast, budget $150M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Turteltaub"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Action",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ibKeXahq4JD63z6uWQphqoJLvNw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=345940",
+    "name": "The Meg",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-08-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=345940"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Meg (2018)</h1>\n<p class=\"ssr-lead\">A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 August 2018</li><li>Runtime: 113 minutes</li><li>Director: Jon Turteltaub</li><li>Genres: Action, Science Fiction, Horror</li><li>Budget: $150M</li><li>TMDB rating: 6.2/10 (8496 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Statham as Jonas Taylor</li><li>Li Bingbing as Suyin</li><li>Rainn Wilson as Morris</li><li>Cliff Curtis as James &#x27;Mac&#x27; Mackreides</li><li>Ruby Rose as Jaxx</li><li>Jessica McNamee as Lori</li><li>Masi Oka as Toshi</li><li>Winston Chao Wen-hsuan as Zhang</li><li>Shuya Sophia Cai as Meiying</li><li>Page Kennedy as DJ</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Meg (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
+  "movie:359940": {
+   "d": "Three Billboards Outside Ebbing, Missouri (2018): Crime/Drama film. Story: After seven months have passed without a culprit in… See cast and budget $15M.",
+   "img": "https://image.tmdb.org/t/p/w780/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+   "industry": "world",
+   "k": "Three Billboards Outside Ebbing, Missouri, Three Billboards Outside Ebbing, Missouri movie, Three Billboards Outside Ebbing, Missouri cast, Three Billboards Outside Ebbing, Missouri story, Three Billboards Outside Ebbing, Missouri box office collection, Three Billboards Outside Ebbing, Missouri budget, Three Billboards Outside Ebbing, Missouri review, Three Billboards Outside Ebbing, Missouri rating, Three Billboards Outside Ebbing, Missouri release date, Three Billboards Outside Ebbing, Missouri trailer, Three Billboards Outside Ebbing, Missouri Crime, Three Billboards Outside Ebbing, Missouri Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Frances McDormand"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Rockwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Abbie Cornish"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucas Hedges"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11345,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Three Billboards Outside Ebbing, Missouri (2018): Crime/Drama film. Story: After seven months have passed without a culprit in… See cast and budget $15M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin McDonagh"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=359940",
+    "name": "Three Billboards Outside Ebbing, Missouri",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-02-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=359940"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Three Billboards Outside Ebbing, Missouri (2018)</h1>\n<p class=\"ssr-lead\">After seven months have passed without a culprit in her daughter&#x27;s murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town&#x27;s revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother&#x27;s boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing&#x27;s law enforcement is only exacerbated.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 February 2018</li><li>Runtime: 115 minutes</li><li>Director: Martin McDonagh</li><li>Genres: Crime, Drama</li><li>Budget: $15M</li><li>TMDB rating: 8.0/10 (11345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Frances McDormand as Mildred</li><li>Woody Harrelson as Willoughby</li><li>Sam Rockwell as Dixon</li><li>Abbie Cornish as Anne</li><li>Lucas Hedges as Robbie</li><li>Željko Ivanek as Desk Sergeant</li><li>Caleb Landry Jones as Red Welby</li><li>Clarke Peters as Abercrombie</li><li>Samara Weaving as Penelope</li><li>John Hawkes as Charlie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Three Billboards Outside Ebbing, Missouri (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
+  },
   "movie:36040": {
    "d": "Walkabout (1971): Adventure/Drama film. Story: Under the pretense of having a picnic, a geologist… See cast, budget $1M, and TMDB rating 7.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/uA5GfPzRU1vRVY7pDfqXQmjRTPI.jpg",
@@ -1899,6 +2283,70 @@
    "t": "Acts of Violence (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:51540": {
+   "d": "Horrible Bosses (2012): Comedy/Crime film. Story: For Nick, Kurt and Dale, the only thing that would… See cast, budget $35M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9fkYHcOtaz4cKmlDWw7tqUr5TUt.jpg",
+   "industry": "world",
+   "k": "Horrible Bosses, Horrible Bosses movie, Horrible Bosses cast, Horrible Bosses story, Horrible Bosses box office collection, Horrible Bosses budget, Horrible Bosses review, Horrible Bosses rating, Horrible Bosses release date, Horrible Bosses trailer, Horrible Bosses Comedy, Horrible Bosses Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlie Day"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Sudeikis"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Spacey"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Aniston"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7064,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Horrible Bosses (2012): Comedy/Crime film. Story: For Nick, Kurt and Dale, the only thing that would… See cast, budget $35M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Seth Gordon"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Comedy",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9fkYHcOtaz4cKmlDWw7tqUr5TUt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=51540",
+    "name": "Horrible Bosses",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-06-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=51540"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Horrible Bosses (2012)</h1>\n<p class=\"ssr-lead\">For Nick, Kurt and Dale, the only thing that would make the daily grind more tolerable would be to grind their intolerable bosses into dust. Quitting is not an option, so, with the benefit of a few-too-many drinks and some dubious advice from a hustling ex-con, the three friends devise a convoluted and seemingly foolproof plan to rid themselves of their respective employers... permanently.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 June 2012</li><li>Runtime: 98 minutes</li><li>Director: Seth Gordon</li><li>Genres: Comedy, Crime</li><li>Budget: $35M</li><li>TMDB rating: 6.6/10 (7064 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jason Bateman as Nick Hendricks</li><li>Charlie Day as Dale Arbus</li><li>Jason Sudeikis as Kurt Buckman</li><li>Kevin Spacey as Dave Harken</li><li>Jennifer Aniston as Julia Harris</li><li>Colin Farrell as Bobby Pellitt</li><li>Jamie Foxx as Motherfucker Jones</li><li>Donald Sutherland as Jack Pellit</li><li>P.J. Byrne as Kenny Sommerfeld</li><li>Julie Bowen as Rhonda Harken</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Horrible Bosses (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:54540": {
    "d": "Beverly Hills Chihuahua 2 (2011): Comedy/Family film. Story: Puppy mayhem turns the lives of newlywed Chihuahua… See cast, budget $12M, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/ekNXqMP50X7w7zAPWuikxdjWlwC.jpg",
@@ -1962,6 +2410,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Beverly Hills Chihuahua 2 (2011)</h1>\n<p class=\"ssr-lead\">Puppy mayhem turns the lives of newlywed Chihuahua parents Papi and Chloe upside down when their rambunctious, mischievous puppies present one challenge after another. But when their human owners end up in trouble, the tiny pups will stop at nothing to save them - because in good times and hard times, the family always sticks together. So Papi, Chloe and the puppies embark on a heroic adventure, proving once again that big heroes come in small packages.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 February 2011</li><li>Runtime: 84 minutes</li><li>Director: Alex Zamm</li><li>Genres: Comedy, Family</li><li>Budget: $12M</li><li>TMDB rating: 5.9/10 (432 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Odette Annable as Chloe (voice)</li><li>George López as Papi (voice)</li><li>Zachary Gordon as Papi Jr. (voice)</li><li>Christine Lakin as News Reporter</li><li>Miguel Ferrer as Delgado (voice)</li><li>Madison Pettis as Lala (voice)</li><li>Bridgit Mendler as Appoline (voice)</li><li>Jon Donahue as Antonio (voice)</li><li>Phill Lewis as Judge McKible</li><li>Delaney Jones as Ali (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Disney Plus, fuboTV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Beverly Hills Chihuahua 2 (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:640": {
+   "d": "Catch Me If You Can (2002): Drama/Crime film. Story: A true story about Frank Abagnale Jr. who, before his… See cast, budget $52M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg",
+   "industry": "world",
+   "k": "Catch Me If You Can, Catch Me If You Can movie, Catch Me If You Can cast, Catch Me If You Can story, Catch Me If You Can box office collection, Catch Me If You Can budget, Catch Me If You Can review, Catch Me If You Can rating, Catch Me If You Can release date, Catch Me If You Can trailer, Catch Me If You Can Drama, Catch Me If You Can Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leonardo DiCaprio"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Walken"
+     },
+     {
+      "@type": "Person",
+      "name": "Martin Sheen"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathalie Baye"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17884,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Catch Me If You Can (2002): Drama/Crime film. Story: A true story about Frank Abagnale Jr. who, before his… See cast, budget $52M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Spielberg"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=640",
+    "name": "Catch Me If You Can",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=640"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Catch Me If You Can (2002)</h1>\n<p class=\"ssr-lead\">A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2002</li><li>Runtime: 141 minutes</li><li>Director: Steven Spielberg</li><li>Genres: Drama, Crime</li><li>Budget: $52M</li><li>TMDB rating: 8.0/10 (17884 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo DiCaprio as Frank Abagnale Jr.</li><li>Tom Hanks as Carl Hanratty</li><li>Christopher Walken as Frank Abagnale</li><li>Martin Sheen as Roger Strong</li><li>Nathalie Baye as Paula Abagnale</li><li>Amy Adams as Brenda Strong</li><li>James Brolin as Jack Barnes</li><li>Brian Howe as Earl Amdursky</li><li>Frank John Hughes as Tom Fox</li><li>Steve Eastin as Paul Morgan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Catch Me If You Can (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:6440": {
    "d": "The Shipping News (2001): Drama/Romance film. Story: An emotionally-beaten man with his young daughter… See cast, budget $38M, and TMDB rating 6.4/10.",
@@ -2618,6 +3130,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Brazen (2022)</h1>\n<p class=\"ssr-lead\">Mystery writer Grace Miller has killer instincts when it comes to motive - and she&#x27;ll need every bit of expertise to help solve her sister&#x27;s murder.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 January 2022</li><li>Runtime: 94 minutes</li><li>Director: Monika Mitchell</li><li>Genres: Thriller, Mystery, Drama</li><li>TMDB rating: 4.8/10 (423 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alyssa Milano as Grace Miller</li><li>Sam Page as Detective Ed Jennings</li><li>Malachi Weir as Ben</li><li>Emilie Ullerup as Kathleen Miller Breezewood / Desiree</li><li>Matthew Finlan as Jerald Baxter / Hacker</li><li>Alison Araya as Captain Rivera</li><li>Colleen Wheeler as Senator Baxter</li><li>David James Lewis as Jonathan Breezewood</li><li>Daniel Diemer as Rand Morgan</li><li>Barry W. Levy as Paul Morgan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Brazen (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:9340": {
+   "d": "The Goonies (1986): Adventure/Comedy film. Story: Young teen Mikey Walsh and his friends set off on a… See cast, budget $19M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+   "industry": "world",
+   "k": "The Goonies, The Goonies movie, The Goonies cast, The Goonies story, The Goonies box office collection, The Goonies budget, The Goonies review, The Goonies rating, The Goonies release date, The Goonies trailer, The Goonies Adventure, The Goonies Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sean Astin"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Brolin"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeff Cohen"
+     },
+     {
+      "@type": "Person",
+      "name": "Corey Feldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerri Green"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6508,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Goonies (1986): Adventure/Comedy film. Story: Young teen Mikey Walsh and his friends set off on a… See cast, budget $19M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Richard Donner"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9340",
+    "name": "The Goonies",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9340"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Goonies (1986)</h1>\n<p class=\"ssr-lead\">Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie&#x27;s treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 1986</li><li>Runtime: 114 minutes</li><li>Director: Richard Donner</li><li>Genres: Adventure, Comedy, Family</li><li>Budget: $19M</li><li>TMDB rating: 7.5/10 (6508 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sean Astin as Mikey</li><li>Josh Brolin as Brand</li><li>Jeff Cohen as Chunk</li><li>Corey Feldman as Mouth</li><li>Kerri Green as Andy</li><li>Martha Plimpton as Stef</li><li>Ke Huy Quan as Data</li><li>John Matuszak as Sloth</li><li>Robert Davi as Jake</li><li>Joe Pantoliano as Francis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Goonies (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
   },
   "movie:9440": {
    "d": "Primary Colors (1998): Drama/Comedy film. Story: In this adaptation of the best-selling roman à clef… See cast, budget $65M, and TMDB rating 6.2/10.",

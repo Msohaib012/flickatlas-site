@@ -1,6 +1,6 @@
 {
  "bucket": "07",
- "count": 66,
+ "count": 72,
  "titles": {
   "movie:10207": {
    "backdrop_path": "/bHTAGzPTQ0aBm7gmfkSnqaHiajM.jpg",
@@ -386,6 +386,156 @@
    "type": "movie",
    "vote_average": 6.223,
    "vote_count": 499
+  },
+  "movie:107": {
+   "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Turkish",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Brick Top",
+     "n": "Alan Ford"
+    },
+    {
+     "c": "Tommy",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Mickey O'Neil",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Avi",
+     "n": "Dennis Farina"
+    },
+    {
+     "c": "Vinny",
+     "n": "Robbie Gee"
+    },
+    {
+     "c": "Sol",
+     "n": "Lennie James"
+    },
+    {
+     "c": "Franky Four Fingers",
+     "n": "Benicio del Toro"
+    },
+    {
+     "c": "Boris The Blade",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Bullet Tooth Tony",
+     "n": "Vinnie Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy"
+   ],
+   "id": 107,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+   "popularity": 10.5166,
+   "poster_path": "/kIBMvdZ3qLUycHLbT6IFs7UtaCq.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-09-01",
+   "revenue": 83557872,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Stealin' stones and breakin' bones.",
+   "title": "Snatch",
+   "trailer": {
+    "key": "ni4tEtuTccc",
+    "name": "Snatch (2000) - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.83,
+   "vote_count": 10474
   },
   "movie:10907": {
    "backdrop_path": "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
@@ -1659,6 +1809,144 @@
    "vote_average": 6.165,
    "vote_count": 494
   },
+  "movie:140607": {
+   "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+   "budget": 245000000,
+   "cast": [
+    {
+     "c": "Rey",
+     "n": "Daisy Ridley"
+    },
+    {
+     "c": "Finn",
+     "n": "John Boyega"
+    },
+    {
+     "c": "Poe Dameron",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Kylo Ren",
+     "n": "Adam Driver"
+    },
+    {
+     "c": "Princess Leia",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Han Solo",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Luke Skywalker",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Maz Kanata",
+     "n": "Lupita Nyong'o"
+    },
+    {
+     "c": "Supreme Leader Snoke",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "General Hux",
+     "n": "Domhnall Gleeson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "J.J. Abrams"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 140607,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+   "popularity": 13.4719,
+   "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-12-18",
+   "revenue": 2068223624,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every generation has a story.",
+   "title": "Star Wars: The Force Awakens",
+   "trailer": {
+    "key": "sGbxmsDFVnE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.237,
+   "vote_count": 21137
+  },
   "movie:14807": {
    "backdrop_path": "/vXjf4iCdZB1OvNQuJZyKeSkVWlH.jpg",
    "budget": 1000000,
@@ -2433,6 +2721,136 @@
    "type": "movie",
    "vote_average": 6.438,
    "vote_count": 421
+  },
+  "movie:207": {
+   "backdrop_path": "/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+   "budget": 16400000,
+   "cast": [
+    {
+     "c": "John Keating",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Neil Perry",
+     "n": "Robert Sean Leonard"
+    },
+    {
+     "c": "Todd Anderson",
+     "n": "Ethan Hawke"
+    },
+    {
+     "c": "Knox Overstreet",
+     "n": "Josh Charles"
+    },
+    {
+     "c": "Charlie Dalton",
+     "n": "Gale Hansen"
+    },
+    {
+     "c": "Richard Cameron",
+     "n": "Dylan Kussman"
+    },
+    {
+     "c": "Steven Meeks",
+     "n": "Allelon Ruggiero"
+    },
+    {
+     "c": "Gerard Pitts",
+     "n": "James Waterston"
+    },
+    {
+     "c": "Mr. Nolan",
+     "n": "Norman Lloyd"
+    },
+    {
+     "c": "Mr. Perry",
+     "n": "Kurtwood Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Peter Weir"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 207,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+   "popularity": 17.5806,
+   "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1989-06-02",
+   "revenue": 235860116,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "He was their inspiration. He made their lives extraordinary.",
+   "title": "Dead Poets Society",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.295,
+   "vote_count": 13189
   },
   "movie:2107": {
    "backdrop_path": "/cgEyCFwQ1vZ2yagwZTrrR19EIKQ.jpg",
@@ -5449,6 +5867,209 @@
    "vote_average": 8.0,
    "vote_count": 304
   },
+  "movie:607": {
+   "backdrop_path": "/aJMhYOP80cVBtq5ku3uyqASF3Ol.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Kay",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Jay",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Laurel",
+     "n": "Linda Fiorentino"
+    },
+    {
+     "c": "Edgar",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Zed",
+     "n": "Rip Torn"
+    },
+    {
+     "c": "Jeebs",
+     "n": "Tony Shalhoub"
+    },
+    {
+     "c": "Beatrice",
+     "n": "Siobhan Fallon Hogan"
+    },
+    {
+     "c": "Gentle Rosenburg",
+     "n": "Mike Nussbaum"
+    },
+    {
+     "c": "Van Driver",
+     "n": "Jon Gries"
+    },
+    {
+     "c": "Jose",
+     "n": "Sergio Calderón"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Barry Sonnenfeld"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 607,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+   "popularity": 12.1069,
+   "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-07-02",
+   "revenue": 589390539,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Protecting the Earth from the scum of the universe.",
+   "title": "Men in Black",
+   "trailer": {
+    "key": "HYUd7AOw_lk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.234,
+   "vote_count": 15442
+  },
   "movie:621707": {
    "backdrop_path": "/2v6tOt3yedtb9urqXr7qCBS2gyl.jpg",
    "budget": 0,
@@ -5981,6 +6602,130 @@
    "vote_average": 6.154,
    "vote_count": 885
   },
+  "movie:766507": {
+   "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Naru",
+     "n": "Amber Midthunder"
+    },
+    {
+     "c": "Taabe",
+     "n": "Dakota Beavers"
+    },
+    {
+     "c": "Aruka",
+     "n": "Michelle Thrush"
+    },
+    {
+     "c": "Wasape",
+     "n": "Stormee Kipp"
+    },
+    {
+     "c": "Chief Kehetu",
+     "n": "Julian Black Antelope"
+    },
+    {
+     "c": "Predator",
+     "n": "Dane DiLiegro"
+    },
+    {
+     "c": "Sumu (Chief Wife)",
+     "n": "Stefany Mathias"
+    },
+    {
+     "c": "Raphael",
+     "n": "Bennett Taylor"
+    },
+    {
+     "c": "Big Beard",
+     "n": "Mike Paterson"
+    },
+    {
+     "c": "Waxed Mustache",
+     "n": "Nelson Leis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Dan Trachtenberg"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 766507,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+   "popularity": 9.892,
+   "poster_path": "/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-08-05",
+   "revenue": 0,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "They hunt to live. It lives to hunt.",
+   "title": "Prey",
+   "trailer": {
+    "key": "wZ7LytagKlc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.636,
+   "vote_count": 8134
+  },
   "movie:795607": {
    "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
    "budget": 0,
@@ -6215,6 +6960,153 @@
    "type": "movie",
    "vote_average": 7.244,
    "vote_count": 824
+  },
+  "movie:807": {
+   "backdrop_path": "/jwBs4djVIe9Kz3Vu9rsI9aEEKWU.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Somerset",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Mills",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Tracy",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Officer Davis",
+     "n": "John Cassini"
+    },
+    {
+     "c": "Dr. O'Neill",
+     "n": "Peter Crombie"
+    },
+    {
+     "c": "Dr. Santiago",
+     "n": "Reg E. Cathey"
+    },
+    {
+     "c": "Police Captain",
+     "n": "R. Lee Ermey"
+    },
+    {
+     "c": "Detective Taylor at First Murder",
+     "n": "Daniel Zacapa"
+    },
+    {
+     "c": "Dead Man at 1st Crime Scene",
+     "n": "Andrew Kevin Walker"
+    },
+    {
+     "c": "Workman at Door of Somerset's Office",
+     "n": "George Christy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 807,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+   "popularity": 26.1133,
+   "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1995-09-22",
+   "revenue": 327311859,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Gluttony. Greed. Sloth. Envy. Wrath. Pride. Lust.",
+   "title": "Se7en",
+   "trailer": {
+    "key": "KPOuJGkpblk",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.383,
+   "vote_count": 24226
   },
   "movie:809107": {
    "backdrop_path": "/xBHq2c25I776tO1VYrDNQaT5xzZ.jpg",

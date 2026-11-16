@@ -1,6 +1,6 @@
 {
  "bucket": "48",
- "count": 64,
+ "count": 70,
  "titles": {
   "movie:10348": {
    "backdrop_path": "/4B5L3OQsta7N7qr08yRS44ESIKK.jpg",
@@ -1610,6 +1610,179 @@
    "vote_average": 6.625,
    "vote_count": 124
   },
+  "movie:13448": {
+   "backdrop_path": "/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Robert Langdon",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Camerlengo Patrick McKenna",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Vittoria Vetra",
+     "n": "Ayelet Zurer"
+    },
+    {
+     "c": "Commander Richter",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Inspector Olivetti",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Assassin",
+     "n": "Nikolaj Lie Kaas"
+    },
+    {
+     "c": "Cardinal Strauss",
+     "n": "Armin Mueller-Stahl"
+    },
+    {
+     "c": "Chartrand",
+     "n": "Thure Lindhardt"
+    },
+    {
+     "c": "Claudio Vincenzi",
+     "n": "David Pasquesi"
+    },
+    {
+     "c": "Father Simeon",
+     "n": "Cosimo Fusco"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 13448,
+   "industry": "world",
+   "origin_country": [
+    "IT",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.",
+   "popularity": 8.3505,
+   "poster_path": "/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
+   "production_countries": [
+    "IT",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-04-20",
+   "revenue": 485930816,
+   "runtime": 139,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "la",
+    "fr",
+    "de",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "The holiest event of our time. Perfect for their return.",
+   "title": "Angels & Demons",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.732,
+   "vote_count": 7617
+  },
   "movie:14648": {
    "backdrop_path": "/9XizmVKaw8Fce9J8YUY1LN0i6EQ.jpg",
    "budget": 0,
@@ -2327,6 +2500,130 @@
    "type": "movie",
    "vote_average": 8.663,
    "vote_count": 98
+  },
+  "movie:2048": {
+   "backdrop_path": "/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Del Spooner",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Susan Calvin",
+     "n": "Bridget Moynahan"
+    },
+    {
+     "c": "Sonny (voice)",
+     "n": "Alan Tudyk"
+    },
+    {
+     "c": "Dr. Alfred Lanning",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Lawrence Robertson",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Granny",
+     "n": "Adrian Ricard"
+    },
+    {
+     "c": "Lt. John Bergin",
+     "n": "Chi McBride"
+    },
+    {
+     "c": "Baldez",
+     "n": "Jerry Wasserman"
+    },
+    {
+     "c": "V.I.K.I. (voice)",
+     "n": "Fiona Hogan"
+    },
+    {
+     "c": "Chin",
+     "n": "Peter Shinkoda"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alex Proyas"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 2048,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+   "popularity": 9.6904,
+   "poster_path": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
+   "production_countries": [
+    "US",
+    "DE",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-08-13",
+   "revenue": 347234916,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One man saw it coming.",
+   "title": "I, Robot",
+   "trailer": {
+    "key": "ry1N9lrzt7A",
+    "name": "15th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.976,
+   "vote_count": 13197
   },
   "movie:2148": {
    "backdrop_path": "/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
@@ -3154,6 +3451,133 @@
    "type": "movie",
    "vote_average": 6.127,
    "vote_count": 407
+  },
+  "movie:273248": {
+   "backdrop_path": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+   "budget": 44000000,
+   "cast": [
+    {
+     "c": "Major Marquis Warren",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "John 'The Hangman' Ruth",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Daisy Domergue",
+     "n": "Jennifer Jason Leigh"
+    },
+    {
+     "c": "Sheriff Chris Mannix",
+     "n": "Walton Goggins"
+    },
+    {
+     "c": "Bob",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Oswaldo Mobray",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Joe Gage",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "General Sandy Smithers",
+     "n": "Bruce Dern"
+    },
+    {
+     "c": "O. B. Jackson",
+     "n": "James Parks"
+    },
+    {
+     "c": "Minnie",
+     "n": "Dana Gourrier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Quentin Tarantino"
+   ],
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Western"
+   ],
+   "id": 273248,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+   "popularity": 11.7239,
+   "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-01-15",
+   "revenue": 155760117,
+   "runtime": 188,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No one comes up here without a damn good reason.",
+   "title": "The Hateful Eight",
+   "trailer": {
+    "key": "GRG7fAPksbg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.757,
+   "vote_count": 15830
   },
   "movie:2748": {
    "backdrop_path": "/5SDqKj8AfUazPqXvOCDL1nmE8Zb.jpg",
@@ -4038,6 +4462,189 @@
    "vote_average": 7.4,
    "vote_count": 332
   },
+  "movie:348": {
+   "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Dallas",
+     "n": "Tom Skerritt"
+    },
+    {
+     "c": "Ripley",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Lambert",
+     "n": "Veronica Cartwright"
+    },
+    {
+     "c": "Brett",
+     "n": "Harry Dean Stanton"
+    },
+    {
+     "c": "Kane",
+     "n": "John Hurt"
+    },
+    {
+     "c": "Ash",
+     "n": "Ian Holm"
+    },
+    {
+     "c": "Parker",
+     "n": "Yaphet Kotto"
+    },
+    {
+     "c": "Alien",
+     "n": "Bolaji Badejo"
+    },
+    {
+     "c": "Mother (voice)",
+     "n": "Helen Horton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "id": 348,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+   "popularity": 23.6522,
+   "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1979-12-06",
+   "revenue": 104931801,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "In space no one can hear you scream.",
+   "title": "Alien",
+   "trailer": {
+    "key": "sVwH0hIvV5k",
+    "name": "Modern Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.176,
+   "vote_count": 17142
+  },
   "movie:38448": {
    "backdrop_path": "/myYFabjrPz1Gbt3bB3GnEo6OlSN.jpg",
    "budget": 12000000,
@@ -4570,6 +5177,160 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 454
+  },
+  "movie:4348": {
+   "backdrop_path": "/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Elizabeth Bennet",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Mr. Darcy",
+     "n": "Matthew Macfadyen"
+    },
+    {
+     "c": "Mrs. Bennet",
+     "n": "Brenda Blethyn"
+    },
+    {
+     "c": "Jane Bennet",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "Kitty Bennet",
+     "n": "Carey Mulligan"
+    },
+    {
+     "c": "Lydia Bennet",
+     "n": "Jena Malone"
+    },
+    {
+     "c": "Mary Bennet",
+     "n": "Talulah Riley"
+    },
+    {
+     "c": "Mr. Bennet",
+     "n": "Donald Sutherland"
+    },
+    {
+     "c": "Mr. Bingley",
+     "n": "Simon Woods"
+    },
+    {
+     "c": "Lady Catherine de Bourgh",
+     "n": "Judi Dench"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Joe Wright"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 4348,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+   "popularity": 15.2721,
+   "poster_path": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+   "production_countries": [
+    "FR",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Britbox Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2025-07-25",
+   "revenue": 124604345,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes the last person on earth you want to be with is the one person you can't be without.",
+   "title": "Pride & Prejudice",
+   "trailer": {
+    "key": "tbW-pmLT5UU",
+    "name": "20th Anniversary Release Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.051,
+   "vote_count": 9069
   },
   "movie:438348": {
    "backdrop_path": "/lSHVojy2zwL5AzwIqwY1CmgRVde.jpg",
@@ -6572,6 +7333,137 @@
    "type": "movie",
    "vote_average": 6.4,
    "vote_count": 353
+  },
+  "movie:948": {
+   "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+   "budget": 325000,
+   "cast": [
+    {
+     "c": "Loomis",
+     "n": "Donald Pleasence"
+    },
+    {
+     "c": "Laurie",
+     "n": "Jamie Lee Curtis"
+    },
+    {
+     "c": "Annie",
+     "n": "Nancy Kyes"
+    },
+    {
+     "c": "Lynda",
+     "n": "P. J. Soles"
+    },
+    {
+     "c": "Brackett",
+     "n": "Charles Cyphers"
+    },
+    {
+     "c": "Lindsey",
+     "n": "Kyle Richards"
+    },
+    {
+     "c": "Tommy",
+     "n": "Brian Andrews"
+    },
+    {
+     "c": "Bob",
+     "n": "John Michael Graham"
+    },
+    {
+     "c": "Marion",
+     "n": "Nancy Stephens"
+    },
+    {
+     "c": "Graveyard Keeper",
+     "n": "Arthur Malet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "John Carpenter"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 948,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+   "popularity": 18.1932,
+   "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    },
+    {
+     "name": "Chilling"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1979-12-10",
+   "revenue": 70260597,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The night he came home!",
+   "title": "Halloween",
+   "trailer": {
+    "key": "NT0loXUv-ks",
+    "name": "Official Arrow Video Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.56,
+   "vote_count": 6535
   },
   "movie:970348": {
    "backdrop_path": "/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",

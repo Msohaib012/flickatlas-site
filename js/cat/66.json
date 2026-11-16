@@ -1,6 +1,6 @@
 {
  "bucket": "66",
- "count": 52,
+ "count": 59,
  "titles": {
   "movie:10766": {
    "backdrop_path": "/8zVl291s1qXqc5LrQBByZcqxSNJ.jpg",
@@ -955,6 +955,165 @@
    "type": "movie",
    "vote_average": 5.8,
    "vote_count": 375
+  },
+  "movie:1366": {
+   "backdrop_path": "/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+   "budget": 970000,
+   "cast": [
+    {
+     "c": "Robert 'Rocky' Balboa",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Adrianna 'Adrian' Pennino",
+     "n": "Talia Shire"
+    },
+    {
+     "c": "Paulie",
+     "n": "Burt Young"
+    },
+    {
+     "c": "Apollo",
+     "n": "Carl Weathers"
+    },
+    {
+     "c": "Mickey",
+     "n": "Burgess Meredith"
+    },
+    {
+     "c": "Jergens",
+     "n": "Thayer David"
+    },
+    {
+     "c": "Gazzo",
+     "n": "Joe Spinell"
+    },
+    {
+     "c": "Mike",
+     "n": "Jimmy Gambina"
+    },
+    {
+     "c": "Fight Announcer",
+     "n": "Bill Baldwin"
+    },
+    {
+     "c": "Cut Man",
+     "n": "Al Silvani"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "John G. Avildsen"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1366,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+   "popularity": 37.1646,
+   "poster_path": "/1mcJmdbRLusxhoSGjFI3pbEboXt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1976-12-03",
+   "revenue": 117253345,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "His whole life was a million-to-one shot.",
+   "title": "Rocky",
+   "trailer": {
+    "key": "dmd9tEt9F30",
+    "name": "50th Anniversary | Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.803,
+   "vote_count": 9097
   },
   "movie:1428766": {
    "backdrop_path": "/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
@@ -2405,6 +2564,117 @@
    "vote_average": 7.508,
    "vote_count": 382
   },
+  "movie:283366": {
+   "backdrop_path": "/ld7V9BjMk2xtiBNcR8savyyk5ca.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Miss Peregrine",
+     "n": "Eva Green"
+    },
+    {
+     "c": "Jacob",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Barron",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Miss Avocet",
+     "n": "Judi Dench"
+    },
+    {
+     "c": "Ornithologist",
+     "n": "Rupert Everett"
+    },
+    {
+     "c": "Frank",
+     "n": "Chris O'Dowd"
+    },
+    {
+     "c": "Dr. Golan",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Emma",
+     "n": "Ella Purnell"
+    },
+    {
+     "c": "Abraham Portman",
+     "n": "Terence Stamp"
+    },
+    {
+     "c": "Hugh",
+     "n": "Milo Parker"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 283366,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A teenager finds himself transported to an island where he must help protect a group of orphans with special powers from creatures intent on destroying them.",
+   "popularity": 8.4371,
+   "poster_path": "/CIlbMFOfYDj0MP23hsIYhFGrL6.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-09-28",
+   "revenue": 296482446,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Stay peculiar.",
+   "title": "Miss Peregrine's Home for Peculiar Children",
+   "trailer": {
+    "key": "EMNeogzc_bs",
+    "name": "Teen Choice Awards TV Commercial",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.841,
+   "vote_count": 10717
+  },
   "movie:28966": {
    "backdrop_path": "/u90ajspDd9911ISbx74rtofQZfO.jpg",
    "budget": 2000000,
@@ -2715,6 +2985,146 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 309
+  },
+  "movie:340666": {
+   "backdrop_path": "/5d6m8CIBQcHeiwr6R5ou4wxO9Vn.jpg",
+   "budget": 22500000,
+   "cast": [
+    {
+     "c": "Susan Morrow",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Tony Hastings / Edward Sheffield",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Bobby Andes",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Ray Marcus",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Laura Hastings",
+     "n": "Isla Fisher"
+    },
+    {
+     "c": "India Hastings",
+     "n": "Ellie Bamber"
+    },
+    {
+     "c": "Hutton Morrow",
+     "n": "Armie Hammer"
+    },
+    {
+     "c": "Lou",
+     "n": "Karl Glusman"
+    },
+    {
+     "c": "Turk",
+     "n": "Robert Aramayo"
+    },
+    {
+     "c": "Anne Sutton",
+     "n": "Laura Linney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Tom Ford"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 340666,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Susan Morrow receives a book manuscript from her ex-husband – a man she left 20 years earlier – asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.",
+   "popularity": 6.515,
+   "poster_path": "/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-11-04",
+   "revenue": 29300000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When you love someone you can't just throw it away.",
+   "title": "Nocturnal Animals",
+   "trailer": {
+    "key": "SI45fDplBpw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.397,
+   "vote_count": 8591
   },
   "movie:347866": {
    "backdrop_path": "/cUp74WEOfyiJS2Q8oZs8wP5IzSr.jpg",
@@ -3131,6 +3541,189 @@
    "type": "movie",
    "vote_average": 6.917,
    "vote_count": 319
+  },
+  "movie:399566": {
+   "backdrop_path": "/wWqTMWkEw6HouLd1zPZbZWxtAPr.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Nathan Lind",
+     "n": "Alexander Skarsgård"
+    },
+    {
+     "c": "Ilene Andrews",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Jia",
+     "n": "Kaylee Hottle"
+    },
+    {
+     "c": "Bernie Hayes",
+     "n": "Brian Tyree Henry"
+    },
+    {
+     "c": "Madison Russell",
+     "n": "Millie Bobby Brown"
+    },
+    {
+     "c": "Josh Valentine",
+     "n": "Julian Dennison"
+    },
+    {
+     "c": "Walter Simmons",
+     "n": "Demián Bichir"
+    },
+    {
+     "c": "Maia Simmons",
+     "n": "Eiza González"
+    },
+    {
+     "c": "Ren Serizawa",
+     "n": "Shun Oguri"
+    },
+    {
+     "c": "Mark Russell",
+     "n": "Kyle Chandler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Adam Wingard"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 399566,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+   "popularity": 16.4412,
+   "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-03-24",
+   "revenue": 470116094,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One will fall.",
+   "title": "Godzilla vs. Kong",
+   "trailer": {
+    "key": "odM92ap8_c0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.507,
+   "vote_count": 10939
   },
   "movie:408266": {
    "backdrop_path": "/hyUuVIbjqXLHKl3kcaTZxmBwN07.jpg",
@@ -4619,6 +5212,167 @@
    "vote_average": 7.6,
    "vote_count": 958
   },
+  "movie:83666": {
+   "backdrop_path": "/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Sam Shakusky",
+     "n": "Jared Gilman"
+    },
+    {
+     "c": "Suzy Bishop",
+     "n": "Kara Hayward"
+    },
+    {
+     "c": "Captain Sharp",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Scout Master Ward",
+     "n": "Edward Norton"
+    },
+    {
+     "c": "Mr. Bishop",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Mrs. Bishop",
+     "n": "Frances McDormand"
+    },
+    {
+     "c": "Social Services",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Cousin Ben",
+     "n": "Jason Schwartzman"
+    },
+    {
+     "c": "The Narrator",
+     "n": "Bob Balaban"
+    },
+    {
+     "c": "Redford",
+     "n": "Lucas Hedges"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wes Anderson"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 83666,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore – and the peaceful island community is turned upside down in more ways than anyone can handle.",
+   "popularity": 4.3533,
+   "poster_path": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-05-16",
+   "revenue": 68263166,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A story of young love, wild adventures, and a very neat escape.",
+   "title": "Moonrise Kingdom",
+   "trailer": {
+    "key": "RBCRe73dZb0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.677,
+   "vote_count": 6571
+  },
   "movie:8866": {
    "backdrop_path": "/2ZWD2t48CbjxcxzaZ8tqqDiY85f.jpg",
    "budget": 0,
@@ -4772,6 +5526,166 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 353
+  },
+  "movie:8966": {
+   "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+   "budget": 37000000,
+   "cast": [
+    {
+     "c": "Bella Swan",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Edward Cullen",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Charlie Swan",
+     "n": "Billy Burke"
+    },
+    {
+     "c": "Dr. Carlisle Cullen",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Alice Cullen",
+     "n": "Ashley Greene"
+    },
+    {
+     "c": "Jasper",
+     "n": "Jackson Rathbone"
+    },
+    {
+     "c": "Rosalie",
+     "n": "Nikki Reed"
+    },
+    {
+     "c": "Emmet Cullen",
+     "n": "Kellan Lutz"
+    },
+    {
+     "c": "Esme Cullen",
+     "n": "Elizabeth Reaser"
+    },
+    {
+     "c": "Jacob Black",
+     "n": "Taylor Lautner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Catherine Hardwicke"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 8966,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+   "popularity": 24.035,
+   "poster_path": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-11-20",
+   "revenue": 393616788,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "When you can live forever, what do you live for?",
+   "title": "Twilight",
+   "trailer": {
+    "key": "uxjNDE2fMjI",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.272,
+   "vote_count": 14866
   },
   "movie:9066": {
    "backdrop_path": "/aKKJttuN9RD8yTU8NHL9UkdJwip.jpg",
@@ -5150,6 +6064,167 @@
    "type": "movie",
    "vote_average": 6.488,
    "vote_count": 408
+  },
+  "movie:98566": {
+   "backdrop_path": "/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Leonardo",
+     "n": "Pete Ploszek"
+    },
+    {
+     "c": "Raphael",
+     "n": "Alan Ritchson"
+    },
+    {
+     "c": "Donatello",
+     "n": "Jeremy Howard"
+    },
+    {
+     "c": "Michelangelo",
+     "n": "Noel Fisher"
+    },
+    {
+     "c": "April O'Neil",
+     "n": "Megan Fox"
+    },
+    {
+     "c": "Vern Fenwick",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Eric Sacks",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Splinter",
+     "n": "Danny Woodburn"
+    },
+    {
+     "c": "Leonardo (voice)",
+     "n": "Johnny Knoxville"
+    },
+    {
+     "c": "Splinter (voice)",
+     "n": "Tony Shalhoub"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Liebesman"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "id": 98566,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+   "popularity": 11.8927,
+   "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-08-29",
+   "revenue": 485004754,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
+   "title": "Teenage Mutant Ninja Turtles",
+   "trailer": {
+    "key": "dwXFsrp6WBs",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.93,
+   "vote_count": 7392
   },
   "movie:9966": {
    "backdrop_path": "/7S6lCJ9ztPUY63mztz0g6toufsj.jpg",

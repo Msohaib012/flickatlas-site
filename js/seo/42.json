@@ -1,6 +1,6 @@
 {
  "bucket": "42",
- "count": 67,
+ "count": 72,
  "titles": {
   "movie:10342": {
    "d": "Teaching Mrs. Tingle (1999): Comedy/Thriller film. Story: A bright high-school senior has her impending status… See cast, budget $13M, and TMDB rating 5.5/10.",
@@ -1023,6 +1023,70 @@
    "t": "Project Y (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:142": {
+   "d": "Brokeback Mountain (2005): Drama/Romance film. Story: In 1960s Wyoming, two men develop a strong emotional… See cast, budget $14M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+   "industry": "world",
+   "k": "Brokeback Mountain, Brokeback Mountain movie, Brokeback Mountain cast, Brokeback Mountain story, Brokeback Mountain box office collection, Brokeback Mountain budget, Brokeback Mountain review, Brokeback Mountain rating, Brokeback Mountain release date, Brokeback Mountain trailer, Brokeback Mountain Drama, Brokeback Mountain Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Heath Ledger"
+     },
+     {
+      "@type": "Person",
+      "name": "Jake Gyllenhaal"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Williams"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Randy Quaid"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7821,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Brokeback Mountain (2005): Drama/Romance film. Story: In 1960s Wyoming, two men develop a strong emotional… See cast, budget $14M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ang Lee"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Drama",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=142",
+    "name": "Brokeback Mountain",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=142"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Brokeback Mountain (2005)</h1>\n<p class=\"ssr-lead\">In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2005</li><li>Runtime: 134 minutes</li><li>Director: Ang Lee</li><li>Genres: Drama, Romance</li><li>Budget: $14M</li><li>TMDB rating: 7.8/10 (7821 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Heath Ledger as Ennis Del Mar</li><li>Jake Gyllenhaal as Jack Twist</li><li>Michelle Williams as Alma Beers</li><li>Anne Hathaway as Lureen Newsome</li><li>Randy Quaid as Joe Aguirre</li><li>Linda Cardellini as Cassie Cartwright</li><li>Anna Faris as Lashawn Malone</li><li>David Harbour as Randall Malone</li><li>Roberta Maxwell as Jack&#x27;s Mother</li><li>Kate Mara as Alma Del Mar Jr. (age 19)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Brokeback Mountain (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:1420742": {
    "d": "L'Infiltrée (2026): Comedy film. Story: To fulfill his dream of becoming a secret agent… See cast, TMDB rating 5.2/10, and release date 11 February 2026.",
    "img": "https://image.tmdb.org/t/p/w780/x61Ft8ub7XRhLecFQljpE1WvXP9.jpg",
@@ -1277,6 +1341,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Children (2008)</h1>\n<p class=\"ssr-lead\">A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 December 2008</li><li>Runtime: 84 minutes</li><li>Director: Tom Shankland</li><li>Genres: Horror, Mystery, Thriller</li><li>TMDB rating: 6.1/10 (443 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eva Birthistle as Elaine</li><li>Hannah Tointon as Casey</li><li>Stephen Campbell Moore as Jonah</li><li>Rachel Shelley as Chloe</li><li>Jeremy Sheffield as Robbie</li><li>Rafiella Brooks as Leah</li><li>Jake Hathaway as Nicky</li><li>William Howes as Paulie</li><li>Eva Sayer as Miranda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
    "t": "The Children (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
+  },
+  "movie:242": {
+   "d": "The Godfather Part III (1992): Crime/Drama film. Story: In the midst of trying to legitimize his business… See cast, budget $54M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+   "industry": "world",
+   "k": "The Godfather Part III, The Godfather Part III movie, The Godfather Part III cast, The Godfather Part III story, The Godfather Part III box office collection, The Godfather Part III budget, The Godfather Part III review, The Godfather Part III rating, The Godfather Part III release date, The Godfather Part III trailer, The Godfather Part III Crime, The Godfather Part III Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Talia Shire"
+     },
+     {
+      "@type": "Person",
+      "name": "Andy Garcia"
+     },
+     {
+      "@type": "Person",
+      "name": "Eli Wallach"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7198,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "The Godfather Part III (1992): Crime/Drama film. Story: In the midst of trying to legitimize his business… See cast, budget $54M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francis Ford Coppola"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=242",
+    "name": "The Godfather Part III",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-05-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=242"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Godfather Part III (1992)</h1>\n<p class=\"ssr-lead\">In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 1992</li><li>Runtime: 162 minutes</li><li>Director: Francis Ford Coppola</li><li>Genres: Crime, Drama, Thriller</li><li>Budget: $54M</li><li>TMDB rating: 7.4/10 (7198 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Al Pacino as Michael Corleone</li><li>Diane Keaton as Kay Adams</li><li>Talia Shire as Connie Corleone Rizzi</li><li>Andy Garcia as Vincent Mancini</li><li>Eli Wallach as Don Altobello</li><li>Joe Mantegna as Joey Zasa</li><li>George Hamilton as B.J. Harrison</li><li>Bridget Fonda as Grace Hamilton</li><li>Sofia Coppola as Mary Corleone</li><li>Raf Vallone as Cardinal Lamberto</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Godfather Part III (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
   },
   "movie:243442": {
    "d": "A Fantastic Back and Forth (2013): Comedy film. Story: Middle-aged family man Arnaldo is kicked out by his… See cast and TMDB rating 6.0/10.",
@@ -2490,6 +2618,134 @@
    "t": "Escape Plan: The Extractors (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:505642": {
+   "d": "Black Panther: Wakanda Forever (2022): Action/Adventure film. Story: Queen Ramonda, Shuri, M’Baku, Okoye and the Dora… See cast and budget $250M.",
+   "img": "https://image.tmdb.org/t/p/w780/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+   "industry": "world",
+   "k": "Black Panther: Wakanda Forever, Black Panther: Wakanda Forever movie, Black Panther: Wakanda Forever cast, Black Panther: Wakanda Forever story, Black Panther: Wakanda Forever box office collection, Black Panther: Wakanda Forever budget, Black Panther: Wakanda Forever review, Black Panther: Wakanda Forever rating, Black Panther: Wakanda Forever release date, Black Panther: Wakanda Forever trailer, Black Panther: Wakanda Forever Action, Black Panther: Wakanda Forever Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Letitia Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Tenoch Huerta Mejía"
+     },
+     {
+      "@type": "Person",
+      "name": "Lupita Nyong'o"
+     },
+     {
+      "@type": "Person",
+      "name": "Danai Gurira"
+     },
+     {
+      "@type": "Person",
+      "name": "Winston Duke"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7949,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Black Panther: Wakanda Forever (2022): Action/Adventure film. Story: Queen Ramonda, Shuri, M’Baku, Okoye and the Dora… See cast and budget $250M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ryan Coogler"
+     }
+    ],
+    "duration": "PT162M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=505642",
+    "name": "Black Panther: Wakanda Forever",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-11-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=505642"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Panther: Wakanda Forever (2022)</h1>\n<p class=\"ssr-lead\">Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 November 2022</li><li>Runtime: 162 minutes</li><li>Director: Ryan Coogler</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $250M</li><li>TMDB rating: 7.0/10 (7949 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Letitia Wright as Shuri</li><li>Tenoch Huerta Mejía as Namor</li><li>Lupita Nyong&#x27;o as Nakia</li><li>Danai Gurira as Okoye</li><li>Winston Duke as M&#x27;Baku</li><li>Angela Bassett as Ramonda</li><li>Martin Freeman as Everett Ross</li><li>Julia Louis-Dreyfus as Valentina Allegra de Fontaine</li><li>Dominique Thorne as Riri</li><li>Florence Kasumba as Ayo</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Black Panther: Wakanda Forever (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
+  "movie:508442": {
+   "d": "Soul (2020): Animation/Family film. Story: Joe Gardner is a middle school teacher with a love… See cast, budget $150M, and TMDB rating 8.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+   "industry": "world",
+   "k": "Soul, Soul movie, Soul cast, Soul story, Soul box office collection, Soul budget, Soul review, Soul rating, Soul release date, Soul trailer, Soul Animation, Soul Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jamie Foxx"
+     },
+     {
+      "@type": "Person",
+      "name": "Tina Fey"
+     },
+     {
+      "@type": "Person",
+      "name": "Graham Norton"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel House"
+     },
+     {
+      "@type": "Person",
+      "name": "Alice Braga"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11914,
+     "ratingValue": 8.1,
+     "worstRating": 0
+    },
+    "description": "Soul (2020): Animation/Family film. Story: Joe Gardner is a middle school teacher with a love… See cast, budget $150M, and TMDB rating 8.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pete Docter"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=508442",
+    "name": "Soul",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-12-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=508442"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Soul (2020)</h1>\n<p class=\"ssr-lead\">Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 December 2020</li><li>Runtime: 101 minutes</li><li>Director: Pete Docter</li><li>Genres: Animation, Family, Drama, Music, Fantasy</li><li>Budget: $150M</li><li>TMDB rating: 8.1/10 (11914 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jamie Foxx as Joe Gardner (voice)</li><li>Tina Fey as 22 (voice)</li><li>Graham Norton as Moonwind (voice)</li><li>Rachel House as Terry (voice)</li><li>Alice Braga as Counselor Jerry (voice)</li><li>Richard Ayoade as Counselor Jerry (voice)</li><li>Phylicia Rashād as Libba Gardner (voice)</li><li>Donnell Rawlings as Dez (voice)</li><li>Questlove as Curly (voice)</li><li>Angela Bassett as Dorothea (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Soul (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:542": {
    "d": "The Crime of Padre Amaro (2002): Drama/Romance film. Story: Sent to Mexico to help take care of aging Father… See cast, budget $1.8M, and TMDB rating 6.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/pH4MhQJK12l8lT6DCpNy0Lu8Wub.jpg",
@@ -2812,6 +3068,78 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Delicacy (2011)</h1>\n<p class=\"ssr-lead\">A French woman mourning over the death of her husband three years prior is courted by a Swedish co-worker.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 December 2011</li><li>Runtime: 108 minutes</li><li>Director: David Foenkinos, Stéphane Foenkinos</li><li>Genres: Drama, Comedy, Romance</li><li>TMDB rating: 6.3/10 (492 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Audrey Tautou as Nathalie Kerr</li><li>François Damiens as Markus Lundell</li><li>Mélanie Bernier as Chloé</li><li>Joséphine de Meaux as Sophie</li><li>Pio Marmaï as François</li><li>Bruno Todeschini as Charles Delamain</li><li>Marc Citti as Pierre</li><li>Alexandre Pavloff as Benoît</li><li>Monique Chaumette as Madeleine</li><li>Vittoria Scognamiglio as François&#x27; Mother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Cohen Media Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Delicacy (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:83542": {
+   "d": "Cloud Atlas (2012): Drama/Science Fiction film. Story: A set of six nested stories spanning time between the… See cast, budget $102M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+   "industry": "world",
+   "k": "Cloud Atlas, Cloud Atlas movie, Cloud Atlas cast, Cloud Atlas story, Cloud Atlas box office collection, Cloud Atlas budget, Cloud Atlas review, Cloud Atlas rating, Cloud Atlas release date, Cloud Atlas trailer, Cloud Atlas Drama, Cloud Atlas Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Halle Berry"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Broadbent"
+     },
+     {
+      "@type": "Person",
+      "name": "Hugo Weaving"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Sturgess"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7778,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Cloud Atlas (2012): Drama/Science Fiction film. Story: A set of six nested stories spanning time between the… See cast, budget $102M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lilly Wachowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Lana Wachowski"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Tykwer"
+     }
+    ],
+    "duration": "PT172M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=83542",
+    "name": "Cloud Atlas",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-10-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=83542"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cloud Atlas (2012)</h1>\n<p class=\"ssr-lead\">A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future. Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 October 2012</li><li>Runtime: 172 minutes</li><li>Director: Lilly Wachowski, Lana Wachowski, Tom Tykwer</li><li>Genres: Drama, Science Fiction</li><li>Budget: $102M</li><li>TMDB rating: 6.9/10 (7778 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Dr. Henry Goose / Hotel Manager / Isaac Sachs / Dermot Hoggins / Cavendish Look-a-Like Actor / Zachry</li><li>Halle Berry as Native Woman / Jocasta Ayrs / Luisa Rey / Indian Party Guest / Ovid / Meronym</li><li>Jim Broadbent as Captain Molyneux / Vyvyan Ayrs / Timothy Cavendish / Korean Musician / Prescient 2</li><li>Hugo Weaving as Haskell Moore / Tadeusz Kesselring / Bill Smoke / Nurse Noakes / Boardman Mephi / Old Georgie</li><li>Jim Sturgess as Adam Ewing / Poor Hotel Guest / Megan&#x27;s Dad / Highlander / Hae-Joo Chang / Adam / Zachry Brother-in-Law</li><li>Bae Doona as Tilda / Megan&#x27;s Mom / Mexican Woman / Sonmi-451 / Sonmi-351 / Sonmi Prostitute</li><li>Ben Whishaw as Cabin Boy / Robert Frobisher / Store Clerk / Georgette / Tribesman</li><li>James D&#x27;Arcy as Young Rufus Sixsmith / Old Rufus Sixsmith / Nurse James / Archivist</li><li>Zhou Xun as Talbot / Hotel Manager / Yoona-939 / Rose</li><li>Keith David as Kupaka / Joe Napier / An-kor Apis / Prescient</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: YouTube TV</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Cloud Atlas (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:842": {
    "d": "The Assassination of Richard Nixon (2004): Drama/History film. Story: It’s 1974 and Sam Bicke has lost everything. His wife… See cast and TMDB rating 6.5/10.",

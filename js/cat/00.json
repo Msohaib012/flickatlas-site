@@ -1,7 +1,136 @@
 {
  "bucket": "00",
- "count": 66,
+ "count": 78,
  "titles": {
+  "movie:100": {
+   "backdrop_path": "/qQz3DeR9PxrMBtVGMnH3EqvMlVU.jpg",
+   "budget": 1350000,
+   "cast": [
+    {
+     "c": "Big Chris",
+     "n": "Vinnie Jones"
+    },
+    {
+     "c": "Tom",
+     "n": "Jason Flemyng"
+    },
+    {
+     "c": "Soap",
+     "n": "Dexter Fletcher"
+    },
+    {
+     "c": "Eddy",
+     "n": "Nick Moran"
+    },
+    {
+     "c": "Bacon",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Winston",
+     "n": "Steven Mackintosh"
+    },
+    {
+     "c": "J",
+     "n": "Nicholas Rowe"
+    },
+    {
+     "c": "Charles",
+     "n": "Nick Marcq"
+    },
+    {
+     "c": "Willie",
+     "n": "Charles Forbes"
+    },
+    {
+     "c": "Barry the Baptist",
+     "n": "Lenny McLean"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 100,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+   "popularity": 4.1151,
+   "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-08-28",
+   "revenue": 28356188,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A Disgrace to Criminals Everywhere.",
+   "title": "Lock, Stock and Two Smoking Barrels",
+   "trailer": {
+    "key": "HY7mRdQuUSw",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.093,
+   "vote_count": 7534
+  },
   "movie:1010600": {
    "backdrop_path": "/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
    "budget": 8500000,
@@ -1360,6 +1489,172 @@
    "type": "movie",
    "vote_average": 6.415,
    "vote_count": 689
+  },
+  "movie:140300": {
+   "backdrop_path": "/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+   "budget": 145000000,
+   "cast": [
+    {
+     "c": "Po (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Li (voice)",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Shifu (voice)",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Tigress (voice)",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Kai (voice)",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Monkey (voice)",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Mantis (voice)",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Viper (voice)",
+     "n": "Lucy Liu"
+    },
+    {
+     "c": "Crane (voice)",
+     "n": "David Cross"
+    },
+    {
+     "c": "Mei Mei (voice)",
+     "n": "Kate Hudson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Jennifer Yuh Nelson",
+    "Alessandro Carloni"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 140300,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+   "popularity": 10.1692,
+   "poster_path": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-01-28",
+   "revenue": 521170825,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Grab destiny by the dumplings.",
+   "title": "Kung Fu Panda 3",
+   "trailer": {
+    "key": "yqN7nHM1YTA",
+    "name": "Official Trailer #3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.94,
+   "vote_count": 6890
   },
   "movie:1449400": {
    "backdrop_path": "/v82syfG9jrap5k7A82xuQzLssCJ.jpg",
@@ -2872,6 +3167,131 @@
    "vote_average": 6.724,
    "vote_count": 418
   },
+  "movie:2300": {
+   "backdrop_path": "/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Michael Jordan",
+     "n": "Michael Jordan"
+    },
+    {
+     "c": "Stan Podolak",
+     "n": "Wayne Knight"
+    },
+    {
+     "c": "Juanita Jordan",
+     "n": "Theresa Randle"
+    },
+    {
+     "c": "Jeffery Jordan",
+     "n": "Manner Washington"
+    },
+    {
+     "c": "Marcus Jordan",
+     "n": "Eric Gordon"
+    },
+    {
+     "c": "Jasmine Jordan",
+     "n": "Penny Bae Bridges"
+    },
+    {
+     "c": "Michael Jordan (10 Years Old)",
+     "n": "Brandon Hammond"
+    },
+    {
+     "c": "Larry Bird",
+     "n": "Larry Bird"
+    },
+    {
+     "c": "Bill Murray",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "James Jordan",
+     "n": "Thom Barry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joe Pytka"
+   ],
+   "genres": [
+    "Family",
+    "Science Fiction",
+    "Fantasy",
+    "Comedy",
+    "Animation"
+   ],
+   "id": 2300,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+   "popularity": 7.3794,
+   "poster_path": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-11-15",
+   "revenue": 250200000,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready to jam.",
+   "title": "Space Jam",
+   "trailer": {
+    "key": "v98aXG562h4",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.806,
+   "vote_count": 6642
+  },
   "movie:24100": {
    "backdrop_path": "/xiVZGT0kKT5wCy7VaYuf5rr6Fnu.jpg",
    "budget": 35000000,
@@ -3145,6 +3565,181 @@
    "type": "movie",
    "vote_average": 7.1,
    "vote_count": 984
+  },
+  "movie:262500": {
+   "backdrop_path": "/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Beatrice 'Tris' Prior",
+     "n": "Shailene Woodley"
+    },
+    {
+     "c": "Tobias 'Four' Eaton",
+     "n": "Theo James"
+    },
+    {
+     "c": "Peter Hayes",
+     "n": "Miles Teller"
+    },
+    {
+     "c": "Jeanine Matthews",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Caleb Prior",
+     "n": "Ansel Elgort"
+    },
+    {
+     "c": "Christina",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Eric Coulter",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "Marcus Eaton",
+     "n": "Ray Stevenson"
+    },
+    {
+     "c": "Evelyn Johnson-Eaton",
+     "n": "Naomi Watts"
+    },
+    {
+     "c": "Johanna Reyes",
+     "n": "Octavia Spencer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Schwentke"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 262500,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart.",
+   "popularity": 9.3535,
+   "poster_path": "/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-03-18",
+   "revenue": 297002527,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Defy reality.",
+   "title": "Insurgent",
+   "trailer": {
+    "key": "jfaqVegF2mo",
+    "name": "The Divergent Series: Insurgent",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.36,
+   "vote_count": 10685
   },
   "movie:26900": {
    "backdrop_path": "/oojHJ1BRCeHBkdIEshjP85gDDfY.jpg",
@@ -4219,6 +4814,203 @@
    "vote_average": 5.3,
    "vote_count": 302
   },
+  "movie:38700": {
+   "backdrop_path": "/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Mike",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Marcus",
+     "n": "Martin Lawrence"
+    },
+    {
+     "c": "Kelly",
+     "n": "Vanessa Hudgens"
+    },
+    {
+     "c": "Dorn",
+     "n": "Alexander Ludwig"
+    },
+    {
+     "c": "Rafe",
+     "n": "Charles Melton"
+    },
+    {
+     "c": "Rita",
+     "n": "Paola Nuñez"
+    },
+    {
+     "c": "Isabel Aretas",
+     "n": "Kate del Castillo"
+    },
+    {
+     "c": "Zway-Lo",
+     "n": "Nicky Jam"
+    },
+    {
+     "c": "Captain Howard",
+     "n": "Joe Pantoliano"
+    },
+    {
+     "c": "Armando Aretas",
+     "n": "Jacob Scipio"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Bilall Fallah",
+    "Adil El Arbi"
+   ],
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+   ],
+   "id": 38700,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+   "popularity": 7.9157,
+   "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-01-31",
+   "revenue": 426505244,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Ride together. Die together.",
+   "title": "Bad Boys for Life",
+   "trailer": {
+    "key": "R228yPrwqTo",
+    "name": "BAD BOYS FOR LIFE - Official Trailer #2 (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.1,
+   "vote_count": 8981
+  },
   "movie:400": {
    "backdrop_path": "/J4l8AvrK8ByAjnoKposMLh3ubL.jpg",
    "budget": 8000000,
@@ -4315,6 +5107,196 @@
    "type": "movie",
    "vote_average": 6.445,
    "vote_count": 453
+  },
+  "movie:402900": {
+   "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Debbie Ocean",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Lou",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Daphne Kluger",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Amita",
+     "n": "Mindy Kaling"
+    },
+    {
+     "c": "Tammy",
+     "n": "Sarah Paulson"
+    },
+    {
+     "c": "Constance",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Nine Ball",
+     "n": "Rihanna"
+    },
+    {
+     "c": "Rose Weil",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Claude Becker",
+     "n": "Richard Armitage"
+    },
+    {
+     "c": "John Frazier",
+     "n": "James Corden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Gary Ross"
+   ],
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Action"
+   ],
+   "id": 402900,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+   "popularity": 7.9336,
+   "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-06-22",
+   "revenue": 297718711,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every con has its pros.",
+   "title": "Ocean's Eight",
+   "trailer": {
+    "key": "n5LoVcVsiSQ",
+    "name": "Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.94,
+   "vote_count": 9095
   },
   "movie:403300": {
    "backdrop_path": "/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
@@ -4588,6 +5570,161 @@
    "vote_average": 6.3,
    "vote_count": 399
   },
+  "movie:500": {
+   "backdrop_path": "/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Mr. White / Larry Dimmick",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Mr. Orange / Freddy Newandyke",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Mr. Blonde / Vic Vega",
+     "n": "Michael Madsen"
+    },
+    {
+     "c": "\"Nice Guy\" Eddie Cabot",
+     "n": "Chris Penn"
+    },
+    {
+     "c": "Mr. Pink",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Joe Cabot",
+     "n": "Lawrence Tierney"
+    },
+    {
+     "c": "Detective Holdaway",
+     "n": "Randy Brooks"
+    },
+    {
+     "c": "Officer Marvin Nash",
+     "n": "Kirk Baltz"
+    },
+    {
+     "c": "Mr. Blue",
+     "n": "Edward Bunker"
+    },
+    {
+     "c": "Mr. Brown",
+     "n": "Quentin Tarantino"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Quentin Tarantino"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 500,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+   "popularity": 11.5766,
+   "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1992-09-02",
+   "revenue": 2859750,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every dog has his day.",
+   "title": "Reservoir Dogs",
+   "trailer": {
+    "key": "2KLZ4fSXtgI",
+    "name": "Official Park Circus Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.108,
+   "vote_count": 16046
+  },
   "movie:5000": {
    "backdrop_path": "/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
    "budget": 0,
@@ -4694,6 +5831,213 @@
    "type": "movie",
    "vote_average": 7.8,
    "vote_count": 368
+  },
+  "movie:512200": {
+   "backdrop_path": "/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Dr. Smolder Bravestone",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Franklin 'Mouse' Finbar",
+     "n": "Kevin Hart"
+    },
+    {
+     "c": "Professor Sheldon 'Shelly' Oberon",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Ruby Roundhouse",
+     "n": "Karen Gillan"
+    },
+    {
+     "c": "Ming",
+     "n": "Awkwafina"
+    },
+    {
+     "c": "Jefferson 'Seaplane' McDonough",
+     "n": "Nick Jonas"
+    },
+    {
+     "c": "Spencer Gilpin",
+     "n": "Alex Wolff"
+    },
+    {
+     "c": "Martha Kaply",
+     "n": "Morgan Turner"
+    },
+    {
+     "c": "Bethany",
+     "n": "Madison Iseman"
+    },
+    {
+     "c": "Anthony 'Fridge' Johnson",
+     "n": "Ser'Darius Blain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jake Kasdan"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 512200,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+   "popularity": 10.2451,
+   "poster_path": "/2RyMYPKmlUcT4BkVmPIOUV4X2iC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-12-13",
+   "revenue": 801693929,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "New places. New faces. Next level.",
+   "title": "Jumanji: The Next Level",
+   "trailer": {
+    "key": "F6QaLsw8EWY",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.863,
+   "vote_count": 9721
   },
   "movie:516700": {
    "backdrop_path": "/ai7xP2p2zYxLFmcLQJaDkEBgY7E.jpg",
@@ -5333,6 +6677,306 @@
    "type": "movie",
    "vote_average": 8.202,
    "vote_count": 463
+  },
+  "movie:57800": {
+   "backdrop_path": "/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
+   "budget": 95000000,
+   "cast": [
+    {
+     "c": "Manny (voice)",
+     "n": "Ray Romano"
+    },
+    {
+     "c": "Sid (voice)",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Diego (voice)",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Crash (voice)",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Eddie (voice)",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Captain Gutt (voice)",
+     "n": "Peter Dinklage"
+    },
+    {
+     "c": "Granny (voice)",
+     "n": "Wanda Sykes"
+    },
+    {
+     "c": "Shira (voice)",
+     "n": "Jennifer Lopez"
+    },
+    {
+     "c": "Ellie (voice)",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Peaches (voice)",
+     "n": "Keke Palmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Steve Martino",
+    "Michael Thurmeier"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure",
+    "Family"
+   ],
+   "id": 57800,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+   "popularity": 12.5175,
+   "poster_path": "/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-07-27",
+   "revenue": 877244782,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The end of the world is just the tip of the iceberg.",
+   "title": "Ice Age: Continental Drift",
+   "trailer": {
+    "key": "uDvtgm2REGI",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.396,
+   "vote_count": 8378
+  },
+  "movie:600": {
+   "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Pvt. Joker",
+     "n": "Matthew Modine"
+    },
+    {
+     "c": "Animal Mother",
+     "n": "Adam Baldwin"
+    },
+    {
+     "c": "Pvt. Pyle",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Gny. Sgt. Hartman",
+     "n": "R. Lee Ermey"
+    },
+    {
+     "c": "Eightball",
+     "n": "Dorian Harewood"
+    },
+    {
+     "c": "Rafterman",
+     "n": "Kevyn Major Howard"
+    },
+    {
+     "c": "Pvt. Cowboy",
+     "n": "Arliss Howard"
+    },
+    {
+     "c": "Lt. Touchdown",
+     "n": "Ed O'Ross"
+    },
+    {
+     "c": "Lt. Lockhart",
+     "n": "John Terry"
+    },
+    {
+     "c": "Crazy Earl",
+     "n": "Kieron Jecchinis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stanley Kubrick"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 600,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+   "popularity": 13.3953,
+   "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1987-06-26",
+   "revenue": 46357676,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "In Vietnam, the wind doesn't blow. It sucks.",
+   "title": "Full Metal Jacket",
+   "trailer": {
+    "key": "n2i917l5RFc",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.119,
+   "vote_count": 11953
   },
   "movie:63700": {
    "backdrop_path": "/kLoLJvjQp3s7OSvya1lKlWzLyMU.jpg",
@@ -5980,6 +7624,135 @@
    "vote_average": 5.946,
    "vote_count": 336
   },
+  "movie:76600": {
+   "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+   "budget": 460000000,
+   "cast": [
+    {
+     "c": "Jake Sully",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Neytiri",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Kiri",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Colonel Miles Quaritch",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Ronal",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Tonowari",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Norm Spellman",
+     "n": "Joel David Moore"
+    },
+    {
+     "c": "Mo'at",
+     "n": "CCH Pounder"
+    },
+    {
+     "c": "General Frances Ardmore",
+     "n": "Edie Falco"
+    },
+    {
+     "c": "Dr. Ian Garvin",
+     "n": "Jemaine Clement"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "James Cameron"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 76600,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+   "popularity": 20.8367,
+   "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-12-16",
+   "revenue": 2334484620,
+   "runtime": 192,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Return to Pandora.",
+   "title": "Avatar: The Way of Water",
+   "trailer": {
+    "key": "o5F8MOz_IDw",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.578,
+   "vote_count": 14895
+  },
   "movie:803700": {
    "backdrop_path": "/hag9edxgL2RgG9FMfqAV0KgjPK0.jpg",
    "budget": 0,
@@ -6154,6 +7927,165 @@
    "type": "movie",
    "vote_average": 7.63,
    "vote_count": 880
+  },
+  "movie:82700": {
+   "backdrop_path": "/e3posvSzYf9PjrQg27W64Kyc8qq.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Kitai Raige",
+     "n": "Jaden Smith"
+    },
+    {
+     "c": "Cypher Raige",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Faia Raige",
+     "n": "Sophie Okonedo"
+    },
+    {
+     "c": "Senshi Raige",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Commander Velan",
+     "n": "Glenn Morshower"
+    },
+    {
+     "c": "Security Chief",
+     "n": "Kristofer Hivju"
+    },
+    {
+     "c": "Hesper Pilot",
+     "n": "Sacha Dhawan"
+    },
+    {
+     "c": "Hesper Navigator",
+     "n": "Chris Geere"
+    },
+    {
+     "c": "Veteran Ranger",
+     "n": "Diego Klattenhoff"
+    },
+    {
+     "c": "Private McQuarrie",
+     "n": "David Denman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "M. Night Shyamalan"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 82700,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance.",
+   "popularity": 4.6309,
+   "poster_path": "/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-05-30",
+   "revenue": 243843127,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Danger is real, fear is a choice.",
+   "title": "After Earth",
+   "trailer": {
+    "key": "-r9IXze_tPM",
+    "name": "AFTER EARTH - Official First Look Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.178,
+   "vote_count": 7050
   },
   "movie:84200": {
    "backdrop_path": "/o1Xv9blcbKSVxoXQ6kiBOL3W1Mz.jpg",

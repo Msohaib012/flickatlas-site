@@ -1,7 +1,71 @@
 {
  "bucket": "01",
- "count": 61,
+ "count": 70,
  "titles": {
+  "movie:101": {
+   "d": "Léon: The Professional (1996): Crime/Drama film. Story: Léon, the top hit man in New York, has earned a rep… See cast, budget $16M, and TMDB rating 8.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+   "industry": "world",
+   "k": "Léon: The Professional, Léon: The Professional movie, Léon: The Professional cast, Léon: The Professional story, Léon: The Professional box office collection, Léon: The Professional budget, Léon: The Professional review, Léon: The Professional rating, Léon: The Professional release date, Léon: The Professional trailer, Léon: The Professional Crime, Léon: The Professional Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jean Reno"
+     },
+     {
+      "@type": "Person",
+      "name": "Natalie Portman"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Oldman"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Aiello"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Appel"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16800,
+     "ratingValue": 8.3,
+     "worstRating": 0
+    },
+    "description": "Léon: The Professional (1996): Crime/Drama film. Story: Léon, the top hit man in New York, has earned a rep… See cast, budget $16M, and TMDB rating 8.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Luc Besson"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Crime",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=101",
+    "name": "Léon: The Professional",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1996-09-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=101"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Léon: The Professional (1996)</h1>\n<p class=\"ssr-lead\">Léon, the top hit man in New York, has earned a rep as an effective &quot;cleaner&quot;. But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda&#x27;s thoughts turn to revenge, and she considers following in Léon&#x27;s footsteps.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 September 1996</li><li>Runtime: 111 minutes</li><li>Director: Luc Besson</li><li>Genres: Crime, Drama, Action</li><li>Budget: $16M</li><li>TMDB rating: 8.3/10 (16800 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean Reno as Léon Montana</li><li>Natalie Portman as Mathilda Lando</li><li>Gary Oldman as Norman Stansfield</li><li>Danny Aiello as Old Tony</li><li>Peter Appel as Agent Malky</li><li>Michael Badalucco as Mathilda&#x27;s Father</li><li>Ellen Greene as Mathilda&#x27;s Mother</li><li>Frank Senger as Fatman</li><li>Elizabeth Regen as Mathilda&#x27;s Sister</li><li>Carl J. Matusovich as Mathilda&#x27;s Brother</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Léon: The Professional (1996) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1996"
+  },
   "movie:1013601": {
    "d": "The Alto Knights (2025): Crime/Drama film. Story: Two of New York's most notorious organized crime… See cast, budget $45M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
@@ -65,6 +129,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Alto Knights (2025)</h1>\n<p class=\"ssr-lead\">Two of New York&#x27;s most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city&#x27;s streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2025</li><li>Runtime: 122 minutes</li><li>Director: Barry Levinson</li><li>Genres: Crime, Drama</li><li>Budget: $45M</li><li>TMDB rating: 6.2/10 (488 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert De Niro as Vito Genovese / Frank Costello</li><li>Debra Messing as Bobbie Costello</li><li>Cosmo Jarvis as Vincent Gigante</li><li>Kathrine Narducci as Anna Genovese</li><li>Michael Rispoli as Albert Anastasia</li><li>Michael Adler as Senator Tobey</li><li>Ed Amatrudo as Rudolph Halley</li><li>Joe Bacino as Joe Profaci</li><li>Anthony J. Gallo as Tommy Lucchese</li><li>Wallace Langham as Senator Estes Kefauver</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Alto Knights (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
+  },
+  "movie:10201": {
+   "d": "Yes Man (2008): Comedy/Romance film. Story: Carl Allen, a guy whose life is going nowhere, signs… See cast, budget $70M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/l9kUuYVqiZV1r6d4nKUKcQvtLR3.jpg",
+   "industry": "world",
+   "k": "Yes Man, Yes Man movie, Yes Man cast, Yes Man story, Yes Man box office collection, Yes Man budget, Yes Man review, Yes Man rating, Yes Man release date, Yes Man trailer, Yes Man Comedy, Yes Man Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Carrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Zooey Deschanel"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "John Michael Higgins"
+     },
+     {
+      "@type": "Person",
+      "name": "Rhys Darby"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7687,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Yes Man (2008): Comedy/Romance film. Story: Carl Allen, a guy whose life is going nowhere, signs… See cast, budget $70M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peyton Reed"
+     }
+    ],
+    "duration": "PT104M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/l9kUuYVqiZV1r6d4nKUKcQvtLR3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10201",
+    "name": "Yes Man",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-12-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10201"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Yes Man (2008)</h1>\n<p class=\"ssr-lead\">Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 December 2008</li><li>Runtime: 104 minutes</li><li>Director: Peyton Reed</li><li>Genres: Comedy, Romance</li><li>Budget: $70M</li><li>TMDB rating: 6.7/10 (7687 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Carrey as Carl Allen</li><li>Zooey Deschanel as Renee Allison</li><li>Bradley Cooper as Peter</li><li>John Michael Higgins as Nick</li><li>Rhys Darby as Norman</li><li>Danny Masterson as Rooney</li><li>Fionnula Flanagan as Tillie</li><li>Terence Stamp as Terence</li><li>Sasha Alexander as Lucy</li><li>Molly Sims as Stephanie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Yes Man (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:1116201": {
    "d": "Iron Lung (2026): Horror/Mystery film. Story: In a post-apocalyptic future where an event known as… See cast, budget $3M, and TMDB rating 6.8/10.",
@@ -705,6 +833,70 @@
    "t": "God Forgives Everyone (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:152601": {
+   "d": "Her (2014): Romance/Science Fiction film. Story: In the not so distant future, Theodore, a lonely… See cast, budget $23M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
+   "industry": "world",
+   "k": "Her, Her movie, Her cast, Her story, Her box office collection, Her budget, Her review, Her rating, Her release date, Her trailer, Her Romance, Her Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Joaquin Phoenix"
+     },
+     {
+      "@type": "Person",
+      "name": "Scarlett Johansson"
+     },
+     {
+      "@type": "Person",
+      "name": "Lynn Adrianna"
+     },
+     {
+      "@type": "Person",
+      "name": "Lisa Renee Pitts"
+     },
+     {
+      "@type": "Person",
+      "name": "Gabe Gomez"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15840,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Her (2014): Romance/Science Fiction film. Story: In the not so distant future, Theodore, a lonely… See cast, budget $23M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Spike Jonze"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Romance",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=152601",
+    "name": "Her",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=152601"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Her (2014)</h1>\n<p class=\"ssr-lead\">In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user&#x27;s every need. To Theodore&#x27;s surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 2014</li><li>Runtime: 126 minutes</li><li>Director: Spike Jonze</li><li>Genres: Romance, Science Fiction, Drama</li><li>Budget: $23M</li><li>TMDB rating: 7.8/10 (15840 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Joaquin Phoenix as Theodore</li><li>Scarlett Johansson as Samantha (voice)</li><li>Lynn Adrianna as Letter Writer #1</li><li>Lisa Renee Pitts as Letter Writer #2</li><li>Gabe Gomez as Letter Writer #3</li><li>Chris Pratt as Paul</li><li>Artt Butler as Text Voice (voice)</li><li>May Lindstrom as Sexy Pregnant TV Star</li><li>Rooney Mara as Catherine</li><li>Bill Hader as Chat Room Friend #2 (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "Her (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
+  },
   "movie:15301": {
    "d": "Twilight Zone: The Movie (1983): Horror/Fantasy film. Story: An anthology film presenting remakes of three… See cast, budget $10M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/8z8uPdpCBxGMQQGr8IfxRSbXNFs.jpg",
@@ -1045,6 +1237,70 @@
    "t": "High School of the Dead: Drifters of the Dead (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:203801": {
+   "d": "The Man from U.N.C.L.E. (2015): Comedy/Action film. Story: At the height of the Cold War, a mysterious criminal… See cast, budget $75M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lZ2MSmrhb3zanyvg0KTNNTzmK9B.jpg",
+   "industry": "world",
+   "k": "The Man from U.N.C.L.E., The Man from U.N.C.L.E. movie, The Man from U.N.C.L.E. cast, The Man from U.N.C.L.E. story, The Man from U.N.C.L.E. box office collection, The Man from U.N.C.L.E. budget, The Man from U.N.C.L.E. review, The Man from U.N.C.L.E. rating, The Man from U.N.C.L.E. release date, The Man from U.N.C.L.E. trailer, The Man from U.N.C.L.E. Comedy, The Man from U.N.C.L.E. Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Henry Cavill"
+     },
+     {
+      "@type": "Person",
+      "name": "Armie Hammer"
+     },
+     {
+      "@type": "Person",
+      "name": "Alicia Vikander"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Debicki"
+     },
+     {
+      "@type": "Person",
+      "name": "Luca Calvani"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7166,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Man from U.N.C.L.E. (2015): Comedy/Action film. Story: At the height of the Cold War, a mysterious criminal… See cast, budget $75M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guy Ritchie"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Comedy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lZ2MSmrhb3zanyvg0KTNNTzmK9B.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=203801",
+    "name": "The Man from U.N.C.L.E.",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=203801"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Man from U.N.C.L.E. (2015)</h1>\n<p class=\"ssr-lead\">At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo&#x27;s only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2015</li><li>Runtime: 116 minutes</li><li>Director: Guy Ritchie</li><li>Genres: Comedy, Action, Adventure</li><li>Budget: $75M</li><li>TMDB rating: 7.1/10 (7166 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Henry Cavill as Napoleon Solo</li><li>Armie Hammer as Illya Kuryakin</li><li>Alicia Vikander as Gaby Teller</li><li>Elizabeth Debicki as Victoria Vinciguerra</li><li>Luca Calvani as Alexander</li><li>Sylvester Groth as Uncle Rudi</li><li>Hugh Grant as Waverly</li><li>Jared Harris as Sanders</li><li>Christian Berkel as Udo</li><li>Misha Kuznetsov as Oleg</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Man from U.N.C.L.E. (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:20701": {
    "d": "Tales from the Darkside: The Movie (1990): Thriller/Comedy film. Story: A young boy tells three stories of horror to distract… See cast and budget $3.5M.",
    "img": "https://image.tmdb.org/t/p/w780/fGEOTZQHYrfB509jdhmfo1rpref.jpg",
@@ -1300,6 +1556,70 @@
    "t": "The Hills Run Red (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2009"
   },
+  "movie:2501": {
+   "d": "The Bourne Identity (2002): Action/Mystery film. Story: Wounded to the brink of death and suffering from… See cast, budget $60M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+   "industry": "world",
+   "k": "The Bourne Identity, The Bourne Identity movie, The Bourne Identity cast, The Bourne Identity story, The Bourne Identity box office collection, The Bourne Identity budget, The Bourne Identity review, The Bourne Identity rating, The Bourne Identity release date, The Bourne Identity trailer, The Bourne Identity Action, The Bourne Identity Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matt Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Franka Potente"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Clive Owen"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Cox"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10575,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "The Bourne Identity (2002): Action/Mystery film. Story: Wounded to the brink of death and suffering from… See cast, budget $60M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Doug Liman"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Action",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2501",
+    "name": "The Bourne Identity",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-10-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2501"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Bourne Identity (2002)</h1>\n<p class=\"ssr-lead\">Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 October 2002</li><li>Runtime: 119 minutes</li><li>Director: Doug Liman</li><li>Genres: Action, Mystery, Thriller</li><li>Budget: $60M</li><li>TMDB rating: 7.5/10 (10575 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matt Damon as Jason Bourne</li><li>Franka Potente as Marie Helena Kreutz</li><li>Chris Cooper as Alexander Conklin</li><li>Clive Owen as The Professor</li><li>Brian Cox as Ward Abbott</li><li>Adewale Akinnuoye-Agbaje as Nykwana Wombosi</li><li>Gabriel Mann as Danny Zorn</li><li>Julia Stiles as Nicky Parsons</li><li>Walton Goggins as Research Tech</li><li>Josh Hamilton as Research Tech</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Bourne Identity (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
   "movie:28501": {
    "d": "The Pit and the Pendulum (1961): Horror/Mystery film. Story: In the sixteenth century, Francis Barnard travels to… See cast and budget $200.0k.",
    "img": "https://image.tmdb.org/t/p/w780/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
@@ -1363,6 +1683,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Pit and the Pendulum (1961)</h1>\n<p class=\"ssr-lead\">In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister&#x27;s death after she had married the son of a cruel Spanish Inquisitor.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 August 1961</li><li>Runtime: 80 minutes</li><li>Director: Roger Corman</li><li>Genres: Horror, Mystery, Drama</li><li>Budget: $200.0k</li><li>TMDB rating: 6.9/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vincent Price as Nicholas Medina / Sebastian Medina</li><li>John Kerr as Francis Barnard</li><li>Barbara Steele as Elizabeth Barnard Medina</li><li>Luana Anders as Catherine Medina</li><li>Antony Carbone as Doctor Leon</li><li>Patrick Westwood as Maximillian</li><li>Lynette Bernay as Maria</li><li>Mary Menzies as Isabella</li><li>Charles Victor as Bartolome</li><li>Larry Turner as Young Nicholas</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The Pit and the Pendulum (1961) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1961"
+  },
+  "movie:337401": {
+   "d": "Mulan (2020): Adventure/Fantasy film. Story: When the Emperor of China issues a decree that one… See cast, budget $200M, and TMDB rating 6.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+   "industry": "world",
+   "k": "Mulan, Mulan movie, Mulan cast, Mulan story, Mulan box office collection, Mulan budget, Mulan review, Mulan rating, Mulan release date, Mulan trailer, Mulan Adventure, Mulan Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Liu Yifei"
+     },
+     {
+      "@type": "Person",
+      "name": "Donnie Yen"
+     },
+     {
+      "@type": "Person",
+      "name": "Gong Li"
+     },
+     {
+      "@type": "Person",
+      "name": "Jet Li"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Scott Lee"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7220,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "Mulan (2020): Adventure/Fantasy film. Story: When the Emperor of China issues a decree that one… See cast, budget $200M, and TMDB rating 6.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Niki Caro"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=337401",
+    "name": "Mulan",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-09-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=337401"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mulan (2020)</h1>\n<p class=\"ssr-lead\">When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 2020</li><li>Runtime: 115 minutes</li><li>Director: Niki Caro</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $200M</li><li>TMDB rating: 6.8/10 (7220 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Liu Yifei as Hua Mulan</li><li>Donnie Yen as Commander Tung</li><li>Gong Li as Xian Niang</li><li>Jet Li as The Emperor</li><li>Jason Scott Lee as Böri Khan</li><li>Yoson An as Chen Honghui</li><li>Tzi Ma as Hua Zhou</li><li>Rosalind Chao as Hua Li</li><li>Cheng Pei-pei as The Matchmaker</li><li>Ming-Na Wen as Esteemed Guest</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Mulan (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
   },
   "movie:340101": {
    "d": "Their Finest (2017): Romance/War film. Story: During the Blitz of World War II, a female… See cast, budget $11.8M, and TMDB rating 6.6/10.",
@@ -2011,6 +2395,70 @@
    "t": "Plus One (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:515001": {
+   "d": "Jojo Rabbit (2020): Comedy/War film. Story: Jojo, a lonely German boy during World War II has his… See cast, budget $14M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+   "industry": "world",
+   "k": "Jojo Rabbit, Jojo Rabbit movie, Jojo Rabbit cast, Jojo Rabbit story, Jojo Rabbit box office collection, Jojo Rabbit budget, Jojo Rabbit review, Jojo Rabbit rating, Jojo Rabbit release date, Jojo Rabbit trailer, Jojo Rabbit Comedy, Jojo Rabbit War, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Roman Griffin Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomasin McKenzie"
+     },
+     {
+      "@type": "Person",
+      "name": "Scarlett Johansson"
+     },
+     {
+      "@type": "Person",
+      "name": "Taika Waititi"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Rockwell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10862,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Jojo Rabbit (2020): Comedy/War film. Story: Jojo, a lonely German boy during World War II has his… See cast, budget $14M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Taika Waititi"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy",
+     "War"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lTyikzfGgRX5ZqIfVeT26APYfRL.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=515001",
+    "name": "Jojo Rabbit",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2020-01-31"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=515001"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jojo Rabbit (2020)</h1>\n<p class=\"ssr-lead\">Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 January 2020</li><li>Runtime: 108 minutes</li><li>Director: Taika Waititi</li><li>Genres: Comedy, War, Drama</li><li>Budget: $14M</li><li>TMDB rating: 8.0/10 (10862 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Roman Griffin Davis as Jojo</li><li>Thomasin McKenzie as Elsa</li><li>Scarlett Johansson as Rosie</li><li>Taika Waititi as Adolf</li><li>Sam Rockwell as Captain Klenzendorf</li><li>Rebel Wilson as Fraulein Rahm</li><li>Alfie Allen as Finkel</li><li>Stephen Merchant as Deertz</li><li>Archie Yates as Yorki</li><li>Luke Brandon Field as Christoph</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Jojo Rabbit (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2020"
+  },
   "movie:550201": {
    "d": "The Pool (2018): Thriller/Horror film. Story: Left alone to clean up a 6-meter-deep deserted pool… See cast, budget $201.8k, and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/eTpqaNzT0laL3kETlZPdW7LtnCa.jpg",
@@ -2205,6 +2653,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Despite Everything (2019)</h1>\n<p class=\"ssr-lead\">Sara, Lucía, Sofía and Claudia are sisters, 4 modern women with very different personalities, who come together at their mother&#x27;s funeral, after which they discover the man they&#x27;ve all called &quot;dad&quot; throughout their lives is not really their father. They embark on a quest to discover who their real fathers are, discovering more about themselves, their mother, and their lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 March 2019</li><li>Runtime: 75 minutes</li><li>Director: Gabriela Tagliavini</li><li>Genres: Comedy</li><li>TMDB rating: 6.0/10 (438 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Blanca Suárez as Sara</li><li>Macarena García as Lucía</li><li>Amaia Salamanca as Sofía</li><li>Belén Cuesta as Claudia</li><li>Maxi Iglesias as Alejandro</li><li>Juan Diego as Pedro Domínguez</li><li>Joaquín Climent as Luis Guerrero</li><li>Carlos Bardem as Pablo</li><li>Emilio Gutiérrez Caba as Padre Díaz</li><li>Tito Valverde as Víctor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Despite Everything (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:601": {
+   "d": "E.T. the Extra-Terrestrial (1986): Adventure/Science Fiction film. Story: An alien is left behind on Earth and saved by the… See cast and budget $10.5M.",
+   "img": "https://image.tmdb.org/t/p/w780/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+   "industry": "world",
+   "k": "E.T. the Extra-Terrestrial, E.T. the Extra-Terrestrial movie, E.T. the Extra-Terrestrial cast, E.T. the Extra-Terrestrial story, E.T. the Extra-Terrestrial box office collection, E.T. the Extra-Terrestrial budget, E.T. the Extra-Terrestrial review, E.T. the Extra-Terrestrial rating, E.T. the Extra-Terrestrial release date, E.T. the Extra-Terrestrial trailer, E.T. the Extra-Terrestrial Adventure, E.T. the Extra-Terrestrial Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Henry Thomas"
+     },
+     {
+      "@type": "Person",
+      "name": "Drew Barrymore"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert MacNaughton"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Coyote"
+     },
+     {
+      "@type": "Person",
+      "name": "Dee Wallace"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12429,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "E.T. the Extra-Terrestrial (1986): Adventure/Science Fiction film. Story: An alien is left behind on Earth and saved by the… See cast and budget $10.5M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Spielberg"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=601",
+    "name": "E.T. the Extra-Terrestrial",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1986-05-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=601"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>E.T. the Extra-Terrestrial (1986)</h1>\n<p class=\"ssr-lead\">An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 May 1986</li><li>Runtime: 115 minutes</li><li>Director: Steven Spielberg</li><li>Genres: Adventure, Science Fiction, Family</li><li>Budget: $10.5M</li><li>TMDB rating: 7.5/10 (12429 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Henry Thomas as Elliott</li><li>Drew Barrymore as Gertie</li><li>Robert MacNaughton as Michael</li><li>Peter Coyote as Keys</li><li>Dee Wallace as Mary</li><li>Erika Eleniak as Pretty Girl</li><li>K.C. Martel as Greg</li><li>C. Thomas Howell as Tyler</li><li>Sean Frye as Steve</li><li>David M. O&#x27;Dell as Schoolboy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: Apple TV Store, YouTube, Hungama Play, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "E.T. the Extra-Terrestrial (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1986"
   },
   "movie:676701": {
    "d": "Tad the Lost Explorer and the Emerald Tablet (2022): Animation/Adventure film. Story: Tad accidentally unleashes an ancient spell… See cast and budget $11.98M.",
@@ -2468,6 +2980,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Turin Horse (2011)</h1>\n<p class=\"ssr-lead\">A look at the monotonous daily struggle of a father and daughter in a windswept, desolate landscape. Over six days, their routine of eating boiled potatoes and tending a failing horse crumbles, symbolizing a slow descent into darkness, emptiness, and the end of existence.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 31 March 2011</li><li>Runtime: 155 minutes</li><li>Director: Béla Tarr</li><li>Genres: Drama</li><li>Budget: $1M</li><li>TMDB rating: 7.6/10 (441 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>János Derzsi as Ohlsdorfer</li><li>Erika Bók as Ohlsdorfer&#x27;s daughter</li><li>Mihály Kormos as Bernhard</li><li>Lajos Kovács as Bernhard (voice)</li><li>Mihály Ráday as Narrator (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "The Turin Horse (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:87101": {
+   "d": "Terminator Genisys (2015): Science Fiction/Action film. Story: The year is 2029. John Connor, leader of the… See cast, budget $155M, and TMDB rating 6.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+   "industry": "world",
+   "k": "Terminator Genisys, Terminator Genisys movie, Terminator Genisys cast, Terminator Genisys story, Terminator Genisys box office collection, Terminator Genisys budget, Terminator Genisys review, Terminator Genisys rating, Terminator Genisys release date, Terminator Genisys trailer, Terminator Genisys Science Fiction, Terminator Genisys Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Arnold Schwarzenegger"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Clarke"
+     },
+     {
+      "@type": "Person",
+      "name": "Emilia Clarke"
+     },
+     {
+      "@type": "Person",
+      "name": "Jai Courtney"
+     },
+     {
+      "@type": "Person",
+      "name": "J.K. Simmons"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9303,
+     "ratingValue": 6.0,
+     "worstRating": 0
+    },
+    "description": "Terminator Genisys (2015): Science Fiction/Action film. Story: The year is 2029. John Connor, leader of the… See cast, budget $155M, and TMDB rating 6.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alan Taylor"
+     }
+    ],
+    "duration": "PT126M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=87101",
+    "name": "Terminator Genisys",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-07-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=87101"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Terminator Genisys (2015)</h1>\n<p class=\"ssr-lead\">The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John&#x27;s fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 July 2015</li><li>Runtime: 126 minutes</li><li>Director: Alan Taylor</li><li>Genres: Science Fiction, Action, Thriller</li><li>Budget: $155M</li><li>TMDB rating: 6.0/10 (9303 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Arnold Schwarzenegger as Guardian / The Terminator</li><li>Jason Clarke as John Connor</li><li>Emilia Clarke as Sarah Connor</li><li>Jai Courtney as Kyle Reese</li><li>J.K. Simmons as O&#x27;Brien</li><li>Dayo Okeniyi as Danny Dyson</li><li>Matt Smith as Alex / Skynet</li><li>Courtney B. Vance as Miles Dyson</li><li>Lee Byung-hun as Cop / T-1000</li><li>Michael Gladis as Lieutenant Matias</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Terminator Genisys (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
   },
   "movie:9401": {
    "d": "2 Days in the Valley (1996): Comedy/Crime film. Story: In a sleepy bedroom community of LA's San Fernando… See cast and TMDB rating 6.2/10.",

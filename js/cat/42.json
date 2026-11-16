@@ -1,6 +1,6 @@
 {
  "bucket": "42",
- "count": 67,
+ "count": 72,
  "titles": {
   "movie:10342": {
    "backdrop_path": "/i64i2v5EvY0qmpUkyKs5cSOwdGG.jpg",
@@ -2169,6 +2169,129 @@
    "vote_average": 6.0,
    "vote_count": 20
   },
+  "movie:142": {
+   "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Ennis Del Mar",
+     "n": "Heath Ledger"
+    },
+    {
+     "c": "Jack Twist",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Alma Beers",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Lureen Newsome",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Joe Aguirre",
+     "n": "Randy Quaid"
+    },
+    {
+     "c": "Cassie Cartwright",
+     "n": "Linda Cardellini"
+    },
+    {
+     "c": "Lashawn Malone",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Randall Malone",
+     "n": "David Harbour"
+    },
+    {
+     "c": "Jack's Mother",
+     "n": "Roberta Maxwell"
+    },
+    {
+     "c": "Alma Del Mar Jr. (age 19)",
+     "n": "Kate Mara"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ang Lee"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 142,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+   "popularity": 10.7324,
+   "poster_path": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+   "production_countries": [
+    "CA",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-10-22",
+   "revenue": 178043761,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love is a force of nature.",
+   "title": "Brokeback Mountain",
+   "trailer": {
+    "key": "xZvu-SczR1Y",
+    "name": "20th Anniversary Release Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 7821
+  },
   "movie:1420742": {
    "backdrop_path": "/x61Ft8ub7XRhLecFQljpE1WvXP9.jpg",
    "budget": 0,
@@ -2673,6 +2796,138 @@
    "type": "movie",
    "vote_average": 6.07,
    "vote_count": 443
+  },
+  "movie:242": {
+   "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+   "budget": 54000000,
+   "cast": [
+    {
+     "c": "Michael Corleone",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Kay Adams",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Connie Corleone Rizzi",
+     "n": "Talia Shire"
+    },
+    {
+     "c": "Vincent Mancini",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Don Altobello",
+     "n": "Eli Wallach"
+    },
+    {
+     "c": "Joey Zasa",
+     "n": "Joe Mantegna"
+    },
+    {
+     "c": "B.J. Harrison",
+     "n": "George Hamilton"
+    },
+    {
+     "c": "Grace Hamilton",
+     "n": "Bridget Fonda"
+    },
+    {
+     "c": "Mary Corleone",
+     "n": "Sofia Coppola"
+    },
+    {
+     "c": "Cardinal Lamberto",
+     "n": "Raf Vallone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Ford Coppola"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 242,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+   "popularity": 15.2478,
+   "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1992-05-01",
+   "revenue": 136766062,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "de",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "All the power on earth can't change destiny.",
+   "title": "The Godfather Part III",
+   "trailer": {
+    "key": "qQR85-nGk2M",
+    "name": "VIDEO UNAVAILABLE",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.412,
+   "vote_count": 7198
   },
   "movie:243442": {
    "backdrop_path": "/o2FeP51EjjBHEfVy1aht0th747I.jpg",
@@ -5447,6 +5702,270 @@
    "vote_average": 5.436,
    "vote_count": 990
   },
+  "movie:505642": {
+   "backdrop_path": "/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Shuri",
+     "n": "Letitia Wright"
+    },
+    {
+     "c": "Namor",
+     "n": "Tenoch Huerta Mejía"
+    },
+    {
+     "c": "Nakia",
+     "n": "Lupita Nyong'o"
+    },
+    {
+     "c": "Okoye",
+     "n": "Danai Gurira"
+    },
+    {
+     "c": "M'Baku",
+     "n": "Winston Duke"
+    },
+    {
+     "c": "Ramonda",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Everett Ross",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Valentina Allegra de Fontaine",
+     "n": "Julia Louis-Dreyfus"
+    },
+    {
+     "c": "Riri",
+     "n": "Dominique Thorne"
+    },
+    {
+     "c": "Ayo",
+     "n": "Florence Kasumba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ryan Coogler"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 505642,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+   "popularity": 16.6502,
+   "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-11-09",
+   "revenue": 859102154,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ht",
+    "es",
+    "xh"
+   ],
+   "status": "Released",
+   "tagline": "Forever.",
+   "title": "Black Panther: Wakanda Forever",
+   "trailer": {
+    "key": "_Z3QKkl1WyM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.98,
+   "vote_count": 7949
+  },
+  "movie:508442": {
+   "backdrop_path": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Joe Gardner (voice)",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "22 (voice)",
+     "n": "Tina Fey"
+    },
+    {
+     "c": "Moonwind (voice)",
+     "n": "Graham Norton"
+    },
+    {
+     "c": "Terry (voice)",
+     "n": "Rachel House"
+    },
+    {
+     "c": "Counselor Jerry (voice)",
+     "n": "Alice Braga"
+    },
+    {
+     "c": "Counselor Jerry (voice)",
+     "n": "Richard Ayoade"
+    },
+    {
+     "c": "Libba Gardner (voice)",
+     "n": "Phylicia Rashād"
+    },
+    {
+     "c": "Dez (voice)",
+     "n": "Donnell Rawlings"
+    },
+    {
+     "c": "Curly (voice)",
+     "n": "Questlove"
+    },
+    {
+     "c": "Dorothea (voice)",
+     "n": "Angela Bassett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Pete Docter"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Drama",
+    "Music",
+    "Fantasy"
+   ],
+   "id": 508442,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+   "popularity": 13.4253,
+   "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-12-25",
+   "revenue": 121977511,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everybody has a soul. Joe Gardner is about to find his.",
+   "title": "Soul",
+   "trailer": {
+    "key": "Gs--6c7Hn_A",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.084,
+   "vote_count": 11914
+  },
   "movie:542": {
    "backdrop_path": "/pH4MhQJK12l8lT6DCpNy0Lu8Wub.jpg",
    "budget": 1800000,
@@ -6199,6 +6718,182 @@
    "type": "movie",
    "vote_average": 6.339,
    "vote_count": 492
+  },
+  "movie:83542": {
+   "backdrop_path": "/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+   "budget": 102000000,
+   "cast": [
+    {
+     "c": "Dr. Henry Goose / Hotel Manager / Isaac Sachs / Dermot Hoggins / Cavendish Look-a-Like Actor / Zachry",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Native Woman / Jocasta Ayrs / Luisa Rey / Indian Party Guest / Ovid / Meronym",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Captain Molyneux / Vyvyan Ayrs / Timothy Cavendish / Korean Musician / Prescient 2",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Haskell Moore / Tadeusz Kesselring / Bill Smoke / Nurse Noakes / Boardman Mephi / Old Georgie",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Adam Ewing / Poor Hotel Guest / Megan's Dad / Highlander / Hae-Joo Chang / Adam / Zachry Brother-in-Law",
+     "n": "Jim Sturgess"
+    },
+    {
+     "c": "Tilda / Megan's Mom / Mexican Woman / Sonmi-451 / Sonmi-351 / Sonmi Prostitute",
+     "n": "Bae Doona"
+    },
+    {
+     "c": "Cabin Boy / Robert Frobisher / Store Clerk / Georgette / Tribesman",
+     "n": "Ben Whishaw"
+    },
+    {
+     "c": "Young Rufus Sixsmith / Old Rufus Sixsmith / Nurse James / Archivist",
+     "n": "James D'Arcy"
+    },
+    {
+     "c": "Talbot / Hotel Manager / Yoona-939 / Rose",
+     "n": "Zhou Xun"
+    },
+    {
+     "c": "Kupaka / Joe Napier / An-kor Apis / Prescient",
+     "n": "Keith David"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lilly Wachowski",
+    "Lana Wachowski",
+    "Tom Tykwer"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 83542,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.",
+   "popularity": 7.7171,
+   "poster_path": "/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+   "production_countries": [
+    "DE",
+    "US",
+    "CN",
+    "HK",
+    "SG"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-10-26",
+   "revenue": 130482868,
+   "runtime": 172,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Everything is connected.",
+   "title": "Cloud Atlas",
+   "trailer": {
+    "key": "ByehYal_cCs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.899,
+   "vote_count": 7778
   },
   "movie:842": {
    "backdrop_path": "/mhMBrMEzG7eMVmOeBSmZUjH5Yu0.jpg",

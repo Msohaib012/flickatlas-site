@@ -1,6 +1,6 @@
 {
  "bucket": "05",
- "count": 73,
+ "count": 81,
  "titles": {
   "movie:10105": {
    "backdrop_path": "/nTyyyUg8p5EWfze3haCzL6aKWfj.jpg",
@@ -320,6 +320,162 @@
    "type": "movie",
    "vote_average": 6.111,
    "vote_count": 424
+  },
+  "movie:105": {
+   "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Marty McFly",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Emmett Brown",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "George McFly",
+     "n": "Crispin Glover"
+    },
+    {
+     "c": "Lorraine Baines",
+     "n": "Lea Thompson"
+    },
+    {
+     "c": "Jennifer Parker",
+     "n": "Claudia Wells"
+    },
+    {
+     "c": "Biff Tannen",
+     "n": "Thomas F. Wilson"
+    },
+    {
+     "c": "Dave McFly",
+     "n": "Marc McClure"
+    },
+    {
+     "c": "Linda McFly",
+     "n": "Wendie Jo Sperber"
+    },
+    {
+     "c": "Sam Baines",
+     "n": "George DiCenzo"
+    },
+    {
+     "c": "Stella Baines",
+     "n": "Frances Lee McCain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 105,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+   "popularity": 25.5696,
+   "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1986-12-09",
+   "revenue": 391546852,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+   "title": "Back to the Future",
+   "trailer": {
+    "key": "ez6WQ7IX72U",
+    "name": "40th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.332,
+   "vote_count": 22769
   },
   "movie:1069905": {
    "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
@@ -1373,6 +1529,151 @@
    "vote_average": 5.816,
    "vote_count": 932
   },
+  "movie:12405": {
+   "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Older Jamal",
+     "n": "Dev Patel"
+    },
+    {
+     "c": "Older Latika",
+     "n": "Freida Pinto"
+    },
+    {
+     "c": "Older Salim",
+     "n": "Madhur Mittal"
+    },
+    {
+     "c": "Prem",
+     "n": "Anil Kapoor"
+    },
+    {
+     "c": "Javed",
+     "n": "Mahesh Manjrekar"
+    },
+    {
+     "c": "Sergeant Srinivas",
+     "n": "Saurabh Shukla"
+    },
+    {
+     "c": "Police Inspector",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Maman",
+     "n": "Ankur Vikal"
+    },
+    {
+     "c": "Middle Jamal",
+     "n": "Tanay Chheda"
+    },
+    {
+     "c": "Youngest Jamal",
+     "n": "Ayush Mahesh Khedekar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 12405,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+   "popularity": 7.75,
+   "poster_path": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-01-23",
+   "revenue": 378400000,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "hi",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What does it take to find a lost love?",
+   "title": "Slumdog Millionaire",
+   "trailer": {
+    "key": "AIzbwV7on6Q",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.727,
+   "vote_count": 11745
+  },
   "movie:1242705": {
    "backdrop_path": "/p3QVGwMKIrVhA2GpruG1VT00wpI.jpg",
    "budget": 0,
@@ -1550,6 +1851,191 @@
    "type": "movie",
    "vote_average": 6.0,
    "vote_count": 35
+  },
+  "movie:124905": {
+   "backdrop_path": "/6CLNOzMXO9bvapDD8gsdwkJU4wN.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Ford Brody",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Elle Brody",
+     "n": "Elizabeth Olsen"
+    },
+    {
+     "c": "Sandra Brody",
+     "n": "Juliette Binoche"
+    },
+    {
+     "c": "Joe Brody",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Dr. Ishiro Serizawa",
+     "n": "Ken Watanabe"
+    },
+    {
+     "c": "Dr. Vivienne Graham",
+     "n": "Sally Hawkins"
+    },
+    {
+     "c": "Huddleston",
+     "n": "Al Sapienza"
+    },
+    {
+     "c": "Admiral William Stenz",
+     "n": "David Strathairn"
+    },
+    {
+     "c": "HALO Jumper",
+     "n": "James Pizzinato"
+    },
+    {
+     "c": "Young Ford",
+     "n": "CJ Adams"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gareth Edwards"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 124905,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ford Brody, a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe. Soon, both men are swept up in an escalating crisis when an ancient alpha predator arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.",
+   "popularity": 23.2822,
+   "poster_path": "/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-05-14",
+   "revenue": 524978362,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "The world ends, Godzilla begins.",
+   "title": "Godzilla",
+   "trailer": {
+    "key": "oHKGx1pzczg",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.369,
+   "vote_count": 10151
   },
   "movie:1264805": {
    "backdrop_path": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
@@ -2782,6 +3268,158 @@
    "vote_average": 6.6,
    "vote_count": 387
   },
+  "movie:2105": {
+   "backdrop_path": "/cvH1gNIMRITdLzoWv1HNAbRyH3n.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Jim Levenstein",
+     "n": "Jason Biggs"
+    },
+    {
+     "c": "Chris 'Oz' Ostreicher",
+     "n": "Chris Klein"
+    },
+    {
+     "c": "Kevin Meyers",
+     "n": "Thomas Ian Nicholas"
+    },
+    {
+     "c": "Michelle Flaherty",
+     "n": "Alyson Hannigan"
+    },
+    {
+     "c": "Nadia",
+     "n": "Shannon Elizabeth"
+    },
+    {
+     "c": "Victoria 'Vicky' Lathum",
+     "n": "Tara Reid"
+    },
+    {
+     "c": "Paul Finch",
+     "n": "Eddie Kaye Thomas"
+    },
+    {
+     "c": "Steve Stifler",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Jim's Father",
+     "n": "Eugene Levy"
+    },
+    {
+     "c": "Jessica",
+     "n": "Natasha Lyonne"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Weitz"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 2105,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
+   "popularity": 13.6488,
+   "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-07-09",
+   "revenue": 235483004,
+   "runtime": 95,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There's nothing like your first piece.",
+   "title": "American Pie",
+   "trailer": {
+    "key": "YXd7ruWo9Gg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.69,
+   "vote_count": 8880
+  },
   "movie:21705": {
    "backdrop_path": "/bACImU2OK8iFwDIIRBzLX4KOPL1.jpg",
    "budget": 0,
@@ -3080,6 +3718,191 @@
    "type": "movie",
    "vote_average": 7.242,
    "vote_count": 368
+  },
+  "movie:27205": {
+   "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Dom Cobb",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Arthur",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Saito",
+     "n": "Ken Watanabe"
+    },
+    {
+     "c": "Eames",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Ariadne",
+     "n": "Elliot Page"
+    },
+    {
+     "c": "Yusuf",
+     "n": "Dileep Rao"
+    },
+    {
+     "c": "Robert Fischer, Jr.",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Peter Browning",
+     "n": "Tom Berenger"
+    },
+    {
+     "c": "Mal Cobb",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Maurice Fischer",
+     "n": "Pete Postlethwaite"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Crime"
+   ],
+   "id": 27205,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+   "popularity": 44.6256,
+   "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-07-16",
+   "revenue": 839030630,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "ja",
+    "sw"
+   ],
+   "status": "Released",
+   "tagline": "Your mind is the scene of the crime.",
+   "title": "Inception",
+   "trailer": {
+    "key": "JE9z-gy4De4",
+    "name": "Official New UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.373,
+   "vote_count": 40747
   },
   "movie:276905": {
    "backdrop_path": "/bqBtjT11WMPaX6RY6jkGBFz2HfS.jpg",
@@ -3432,6 +4255,194 @@
    "type": "movie",
    "vote_average": 7.193,
    "vote_count": 493
+  },
+  "movie:291805": {
+   "backdrop_path": "/oFQilRMEq6yQbtMPxIYWpXeQ5ZN.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "J. Daniel Atlas",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Dylan Rhodes",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Merritt McKinney / Chase McKinney",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Jack Wilder",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Walter Mabry",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Lula",
+     "n": "Lizzy Caplan"
+    },
+    {
+     "c": "Thaddeus Bradley",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Li",
+     "n": "Jay Chou"
+    },
+    {
+     "c": "Deputy Director Natalie Austin",
+     "n": "Sanaa Lathan"
+    },
+    {
+     "c": "Arthur Tressler",
+     "n": "Michael Caine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jon M. Chu"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "id": 291805,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
+   "popularity": 7.9222,
+   "poster_path": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+   "production_countries": [
+    "HK",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-06-02",
+   "revenue": 334897606,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You haven't seen anything yet.",
+   "title": "Now You See Me 2",
+   "trailer": {
+    "key": "JzZh8kJJwe4",
+    "name": "Official Trailer – “Reappearing”",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.818,
+   "vote_count": 11962
   },
   "movie:329805": {
    "backdrop_path": "/wolw69lBchDPHV8zT4SlIBucJM0.jpg",
@@ -5349,6 +6360,151 @@
    "vote_average": 7.315,
    "vote_count": 429
   },
+  "movie:605": {
+   "backdrop_path": "/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Neo",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Morpheus",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Trinity",
+     "n": "Carrie-Anne Moss"
+    },
+    {
+     "c": "Agent Smith",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Niobe",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "The Oracle",
+     "n": "Mary Alice"
+    },
+    {
+     "c": "Link",
+     "n": "Harold Perrineau"
+    },
+    {
+     "c": "Seraph",
+     "n": "Collin Chou"
+    },
+    {
+     "c": "Commander Lock",
+     "n": "Harry Lennix"
+    },
+    {
+     "c": "Bane",
+     "n": "Ian Bliss"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Lilly Wachowski",
+    "Lana Wachowski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 605,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+   "popularity": 10.0308,
+   "poster_path": "/qEWiBXJGXK28jGBAm8oFKKTB0WD.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-11-05",
+   "revenue": 424988211,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Everything that has a beginning has an end.",
+   "title": "The Matrix Revolutions",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.762,
+   "vote_count": 11331
+  },
   "movie:620705": {
    "backdrop_path": "/wUMDnvi1xa8iMEpRDVAXrcAtqus.jpg",
    "budget": 0,
@@ -5541,6 +6697,131 @@
    "type": "movie",
    "vote_average": 6.091,
    "vote_count": 308
+  },
+  "movie:72105": {
+   "backdrop_path": "/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "John Bennett",
+     "n": "Mark Wahlberg"
+    },
+    {
+     "c": "Lori Collins",
+     "n": "Mila Kunis"
+    },
+    {
+     "c": "Ted (voice)",
+     "n": "Seth MacFarlane"
+    },
+    {
+     "c": "Rex",
+     "n": "Joel McHale"
+    },
+    {
+     "c": "Donny",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Guy",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Thomas",
+     "n": "Matt Walsh"
+    },
+    {
+     "c": "Tami-Lynn",
+     "n": "Jessica Barth"
+    },
+    {
+     "c": "Robert",
+     "n": "Aedin Mincks"
+    },
+    {
+     "c": "Frank",
+     "n": "Bill Smitrovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Seth MacFarlane"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 72105,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
+   "popularity": 10.1054,
+   "poster_path": "/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-29",
+   "revenue": 549368315,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Ted is coming.",
+   "title": "Ted",
+   "trailer": {
+    "key": "xXDAs23aSQc",
+    "name": "Official Green Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.457,
+   "vote_count": 13653
   },
   "movie:752505": {
    "backdrop_path": "/xX6VABuJOyZQL1ASj5U4GWJspyW.jpg",

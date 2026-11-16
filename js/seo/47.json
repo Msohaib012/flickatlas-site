@@ -1,6 +1,6 @@
 {
  "bucket": "47",
- "count": 49,
+ "count": 56,
  "titles": {
   "movie:1020047": {
    "d": "In the Hand of Dante (2026): Drama/Crime film. Story: A Vatican priest discovers Dante's original Divine… See cast, budget $25M, and TMDB rating 5.4/10.",
@@ -1023,6 +1023,70 @@
    "t": "The Last Days on Mars (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2013"
   },
+  "movie:206647": {
+   "d": "Spectre (2015): Action/Adventure film. Story: A cryptic message from Bond’s past sends him on a… See cast, budget $245M, and TMDB rating 6.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cCKU3EuiSKt6xsOI6gg5kiFgZYm.jpg",
+   "industry": "world",
+   "k": "Spectre, Spectre movie, Spectre cast, Spectre story, Spectre box office collection, Spectre budget, Spectre review, Spectre rating, Spectre release date, Spectre trailer, Spectre Action, Spectre Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Daniel Craig"
+     },
+     {
+      "@type": "Person",
+      "name": "Christoph Waltz"
+     },
+     {
+      "@type": "Person",
+      "name": "Léa Seydoux"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralph Fiennes"
+     },
+     {
+      "@type": "Person",
+      "name": "Monica Bellucci"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11641,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Spectre (2015): Action/Adventure film. Story: A cryptic message from Bond’s past sends him on a… See cast, budget $245M, and TMDB rating 6.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Mendes"
+     }
+    ],
+    "duration": "PT148M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cCKU3EuiSKt6xsOI6gg5kiFgZYm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=206647",
+    "name": "Spectre",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-11-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=206647"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spectre (2015)</h1>\n<p class=\"ssr-lead\">A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2015</li><li>Runtime: 148 minutes</li><li>Director: Sam Mendes</li><li>Genres: Action, Adventure, Thriller</li><li>Budget: $245M</li><li>TMDB rating: 6.6/10 (11641 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Daniel Craig as James Bond</li><li>Christoph Waltz as Blofeld</li><li>Léa Seydoux as Madeleine</li><li>Ralph Fiennes as M</li><li>Monica Bellucci as Lucia</li><li>Ben Whishaw as Q</li><li>Naomie Harris as Moneypenny</li><li>Dave Bautista as Hinx</li><li>Andrew Scott as C</li><li>Rory Kinnear as Tanner</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Spectre (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:277547": {
    "d": "Playing It Cool (2014): Comedy/Romance film. Story: A young man meets and instantly falls in love with an… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/xiv9qW6hv5VMhxkPOEGnXKuowTo.jpg",
@@ -1086,6 +1150,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Playing It Cool (2014)</h1>\n<p class=\"ssr-lead\">A young man meets and instantly falls in love with an engaged woman.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 September 2014</li><li>Runtime: 94 minutes</li><li>Director: Justin Reardon</li><li>Genres: Comedy, Romance</li><li>TMDB rating: 5.9/10 (828 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Evans as Narrator</li><li>Michelle Monaghan as Her</li><li>Topher Grace as Scott</li><li>Aubrey Plaza as Mallory</li><li>Luke Wilson as Samson</li><li>Martin Starr as Lyle</li><li>Anthony Mackie as Bryan</li><li>Ioan Gruffudd as Stuffy</li><li>Philip Baker Hall as Granddad</li><li>Patrick Warburton as Dick</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Peacock Premium, Peacock Premium Plus</li><li>Rent: Amazon Video, Fandango At Home</li><li>Buy: Amazon Video, Fandango At Home</li></ul>\n</article>",
    "t": "Playing It Cool (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
+  },
+  "movie:287947": {
+   "d": "Shazam! (2019): Action/Comedy film. Story: A boy is given the ability to become an adult… See cast, budget $80M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+   "industry": "world",
+   "k": "Shazam!, Shazam! movie, Shazam! cast, Shazam! story, Shazam! box office collection, Shazam! budget, Shazam! review, Shazam! rating, Shazam! release date, Shazam! trailer, Shazam! Action, Shazam! Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Zachary Levi"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Strong"
+     },
+     {
+      "@type": "Person",
+      "name": "Asher Angel"
+     },
+     {
+      "@type": "Person",
+      "name": "Jack Dylan Grazer"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Brody"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10586,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Shazam! (2019): Action/Comedy film. Story: A boy is given the ability to become an adult… See cast, budget $80M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David F. Sandberg"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=287947",
+    "name": "Shazam!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2019-04-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=287947"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shazam! (2019)</h1>\n<p class=\"ssr-lead\">A boy is given the ability to become an adult superhero in times of need with a single magic word.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 April 2019</li><li>Runtime: 132 minutes</li><li>Director: David F. Sandberg</li><li>Genres: Action, Comedy, Fantasy</li><li>Budget: $80M</li><li>TMDB rating: 7.0/10 (10586 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zachary Levi as Shazam</li><li>Mark Strong as Dr. Sivana</li><li>Asher Angel as Billy Batson</li><li>Jack Dylan Grazer as Freddy Freeman</li><li>Adam Brody as Super Hero Freddy</li><li>Djimon Hounsou as Wizard</li><li>Faithe Herman as Darla Dudley</li><li>Meagan Good as Super Hero Darla</li><li>Grace Caroline Currey as Mary Bromfield</li><li>Michelle Borth as Super Hero Mary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Shazam! (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2019"
   },
   "movie:299847": {
    "d": "Happily Mixed Up (2014): Comedy film. Story: A psychoanalyst learns to have an illness and as a… See cast, TMDB rating 6.1/10, and release date 30 October 2014.",
@@ -1213,6 +1341,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Song to Song (2017)</h1>\n<p class=\"ssr-lead\">In this modern love story set against the Austin, Texas music scene, two entangled couples — struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares — chase success through a rock ‘n’ roll landscape of seduction and betrayal.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 March 2017</li><li>Runtime: 129 minutes</li><li>Director: Terrence Malick</li><li>Genres: Romance, Drama</li><li>Budget: $10M</li><li>TMDB rating: 5.5/10 (946 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Fassbender as Cook</li><li>Ryan Gosling as BV</li><li>Rooney Mara as Faye</li><li>Natalie Portman as Rhonda</li><li>Cate Blanchett as Amanda</li><li>Holly Hunter as Miranda</li><li>Bérénice Marlohe as Zoey</li><li>Val Kilmer as Duane</li><li>Lykke Li as Lykke</li><li>Louanne Stephens as Mrs. Gansmer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Sundance Now, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, FlixFling</li></ul>\n</article>",
    "t": "Song to Song (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:36647": {
+   "d": "Blade (1998): Horror/Action film. Story: The Daywalker known as \"Blade\" - a half-vampire… See cast, budget $45M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+   "industry": "world",
+   "k": "Blade, Blade movie, Blade cast, Blade story, Blade box office collection, Blade budget, Blade review, Blade rating, Blade release date, Blade trailer, Blade Horror, Blade Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Wesley Snipes"
+     },
+     {
+      "@type": "Person",
+      "name": "N'Bushe Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Stephen Dorff"
+     },
+     {
+      "@type": "Person",
+      "name": "Kris Kristofferson"
+     },
+     {
+      "@type": "Person",
+      "name": "Donal Logue"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7102,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Blade (1998): Horror/Action film. Story: The Daywalker known as \"Blade\" - a half-vampire… See cast, budget $45M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Norrington"
+     }
+    ],
+    "duration": "PT121M",
+    "genre": [
+     "Horror",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=36647",
+    "name": "Blade",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-08-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=36647"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Blade (1998)</h1>\n<p class=\"ssr-lead\">The Daywalker known as &quot;Blade&quot; - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 August 1998</li><li>Runtime: 121 minutes</li><li>Director: Stephen Norrington</li><li>Genres: Horror, Action</li><li>Budget: $45M</li><li>TMDB rating: 6.9/10 (7102 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Wesley Snipes as Blade</li><li>N&#x27;Bushe Wright as Karen</li><li>Stephen Dorff as Deacon Frost</li><li>Kris Kristofferson as Whistler</li><li>Donal Logue as Quinn</li><li>Udo Kier as Dragonetti</li><li>Arly Jover as Mercury</li><li>Traci Lords as Racquel</li><li>Kevin Patrick Walls as Krieger</li><li>Tim Guinee as Curtis Webb</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube, Amazon Video</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Blade (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
   },
   "movie:367147": {
    "d": "Buster's Mal Heart (2017): Mystery/Drama film. Story: An eccentric mountain man on the run from the local… See cast and TMDB rating 6.1/10.",
@@ -1532,6 +1724,69 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Climb (2017)</h1>\n<p class=\"ssr-lead\">A true story of Samy, native of La Courneuve, who is out of love for Nadia, decides to climb Mount Everest.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 January 2017</li><li>Runtime: 103 minutes</li><li>Director: Ludovic Bernard</li><li>Genres: Comedy, Romance, Adventure</li><li>Budget: $6.6M</li><li>TMDB rating: 6.7/10 (914 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ahmed Sylla as Samy Diakhaté</li><li>Alice Belaïdi as Nadia, Samy&#x27;s Childhood Friend</li><li>Kévin Razy as Ben, Radio Animator</li><li>Nicolas Wanczycki as Jeff, Mountain Guide</li><li>Waly Dia as Max, Radio Animator</li><li>Maïmouna Gueye as Evelyne Diakhaté, Samy&#x27;s Mother</li><li>Denis Mpunga as Celestin Diakhaté, Samy&#x27;s Father</li><li>Fadila Belkebla as Houria, Nadia&#x27;s Mother</li><li>Moussa Maaskri as Nassir</li><li>Umesh Tamang as Johnny, Sherpa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "The Climb (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:4247": {
+   "d": "Scary Movie (2000): Comedy film. Story: A familiar-looking group of teenagers find themselves… See cast, budget $19M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+   "industry": "world",
+   "k": "Scary Movie, Scary Movie movie, Scary Movie cast, Scary Movie story, Scary Movie box office collection, Scary Movie budget, Scary Movie review, Scary Movie rating, Scary Movie release date, Scary Movie trailer, Scary Movie Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anna Faris"
+     },
+     {
+      "@type": "Person",
+      "name": "Regina Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Marlon Wayans"
+     },
+     {
+      "@type": "Person",
+      "name": "Shawn Wayans"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Abrahams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8373,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Scary Movie (2000): Comedy film. Story: A familiar-looking group of teenagers find themselves… See cast, budget $19M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Keenen Ivory Wayans"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=4247",
+    "name": "Scary Movie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-07-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=4247"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Scary Movie (2000)</h1>\n<p class=\"ssr-lead\">A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 July 2000</li><li>Runtime: 88 minutes</li><li>Director: Keenen Ivory Wayans</li><li>Genres: Comedy</li><li>Budget: $19M</li><li>TMDB rating: 6.4/10 (8373 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anna Faris as Cindy</li><li>Regina Hall as Brenda</li><li>Marlon Wayans as Shorty</li><li>Shawn Wayans as Ray</li><li>Jon Abrahams as Bobby</li><li>Lochlyn Munro as Greg</li><li>Shannon Elizabeth as Buffy</li><li>Dave Sheridan as The Killer / Doofy</li><li>Cheri Oteri as Gail Hailstorm</li><li>Tanja Reichert as Miss Congeniality</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Scary Movie (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "movie:430447": {
    "d": "Mary and The Witch's Flower (2017): Animation/Adventure film. Story: Mary Smith, a young girl who lives with her… See cast and TMDB rating 7.2/10.",
@@ -1860,6 +2115,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Little Tickles (2018)</h1>\n<p class=\"ssr-lead\">Odette is a 8-yr-old girl who loves to dance and draw. Once she has become an adult, Odette realizes she was abused, and immerses herself body and soul in her career as a dancer while trying to deal with her past.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2018</li><li>Runtime: 103 minutes</li><li>Director: Andréa Bescond, Eric Métayer</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.4/10 (388 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Andréa Bescond as Odette Le Nadant</li><li>Karin Viard as Mado Le Nadant</li><li>Clovis Cornillac as Fabrice Le Nadant</li><li>Pierre Deladonchamps as Gilbert Miguié</li><li>Grégory Montel as Lenny</li><li>Carole Franck as La psy</li><li>Gringe as Manu</li><li>Ariane Ascaride as Mme Malec, la prof de danse</li><li>Cyrille Mairesse as Odette enfant</li><li>Léonie Simaga as Lola</li></ul>\n</article>",
    "t": "Little Tickles (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
+  },
+  "movie:49047": {
+   "d": "Gravity (2013): Science Fiction/Thriller film. Story: Dr Ryan Stone, an engineer on her first space… See cast, budget $105M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
+   "industry": "world",
+   "k": "Gravity, Gravity movie, Gravity cast, Gravity story, Gravity box office collection, Gravity budget, Gravity review, Gravity rating, Gravity release date, Gravity trailer, Gravity Science Fiction, Gravity Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sandra Bullock"
+     },
+     {
+      "@type": "Person",
+      "name": "George Clooney"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Harris"
+     },
+     {
+      "@type": "Person",
+      "name": "Orto Ignatiussen"
+     },
+     {
+      "@type": "Person",
+      "name": "Phaldut Sharma"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16886,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Gravity (2013): Science Fiction/Thriller film. Story: Dr Ryan Stone, an engineer on her first space… See cast, budget $105M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alfonso Cuarón"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=49047",
+    "name": "Gravity",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-10-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=49047"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gravity (2013)</h1>\n<p class=\"ssr-lead\">Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 October 2013</li><li>Runtime: 91 minutes</li><li>Director: Alfonso Cuarón</li><li>Genres: Science Fiction, Thriller, Drama</li><li>Budget: $105M</li><li>TMDB rating: 7.2/10 (16886 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sandra Bullock as Ryan Stone</li><li>George Clooney as Matt Kowalski</li><li>Ed Harris as Mission Control (voice)</li><li>Orto Ignatiussen as Aningaaq (voice)</li><li>Phaldut Sharma as Shariff (voice)</li><li>Amy Warren as Explorer Captain (voice)</li><li>Basher Savage as Russian Space Station Captain (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Gravity (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:51447": {
    "d": "Trophy Wife (2010): Comedy film. Story: In 1977 France, tightfisted factory owner Robert… See cast, TMDB rating 6.1/10, and release date 10 November 2010.",
@@ -2308,6 +2627,70 @@
    "t": "Cyrano (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:747": {
+   "d": "Shaun of the Dead (2004): Horror/Comedy film. Story: Shaun lives a supremely uneventful life, which… See cast, budget $6M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+   "industry": "world",
+   "k": "Shaun of the Dead, Shaun of the Dead movie, Shaun of the Dead cast, Shaun of the Dead story, Shaun of the Dead box office collection, Shaun of the Dead budget, Shaun of the Dead review, Shaun of the Dead rating, Shaun of the Dead release date, Shaun of the Dead trailer, Shaun of the Dead Horror, Shaun of the Dead Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Simon Pegg"
+     },
+     {
+      "@type": "Person",
+      "name": "Nick Frost"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Ashfield"
+     },
+     {
+      "@type": "Person",
+      "name": "Lucy Davis"
+     },
+     {
+      "@type": "Person",
+      "name": "Dylan Moran"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9814,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Shaun of the Dead (2004): Horror/Comedy film. Story: Shaun lives a supremely uneventful life, which… See cast, budget $6M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Edgar Wright"
+     }
+    ],
+    "duration": "PT99M",
+    "genre": [
+     "Horror",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=747",
+    "name": "Shaun of the Dead",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-04-09"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=747"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shaun of the Dead (2004)</h1>\n<p class=\"ssr-lead\">Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 April 2004</li><li>Runtime: 99 minutes</li><li>Director: Edgar Wright</li><li>Genres: Horror, Comedy</li><li>Budget: $6M</li><li>TMDB rating: 7.5/10 (9814 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Simon Pegg as Shaun</li><li>Nick Frost as Ed</li><li>Kate Ashfield as Liz</li><li>Lucy Davis as Dianne</li><li>Dylan Moran as David</li><li>Jessica Hynes as Yvonne</li><li>Penelope Wilton as Barbara</li><li>Bill Nighy as Phillip</li><li>Martin Freeman as Declan</li><li>Matt Lucas as Cousin Tom</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Shaun of the Dead (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:779047": {
    "d": "Us Again (2021): Animation/Drama film. Story: In a vibrant city pulsating with rhythm and movement… See cast, TMDB rating 7.8/10, and release date 3 March 2021.",
    "img": "https://image.tmdb.org/t/p/w780/9B4hHMsnjxo8NnTcKIfg3cjJzMi.jpg",
@@ -2413,6 +2796,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Matador (1986)</h1>\n<p class=\"ssr-lead\">A conflicted youth confesses to crimes he didn&#x27;t commit while a man and woman aroused by death become obsessed with each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 March 1986</li><li>Runtime: 107 minutes</li><li>Director: Pedro Almodóvar</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.7/10 (310 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Assumpta Serna as María</li><li>Antonio Banderas as Angel</li><li>Nacho Martínez as Diego</li><li>Eva Cobo as Eva</li><li>Julieta Serrano as Berta</li><li>Chus Lampreave as Pilar</li><li>Carmen Maura as Julia</li><li>Eusebio Poncela as Commissioner</li><li>Bibiana Fernández as Flower Seller</li><li>Luis Ciges as Guard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Matador (1986) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1986"
+  },
+  "movie:8247": {
+   "d": "Jumper (2008): Action/Adventure film. Story: David Rice is a man who knows no boundaries, a… See cast, budget $85M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1R4DZbEwWTPnRShBumJsOwsfAiB.jpg",
+   "industry": "world",
+   "k": "Jumper, Jumper movie, Jumper cast, Jumper story, Jumper box office collection, Jumper budget, Jumper review, Jumper rating, Jumper release date, Jumper Action, Jumper Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hayden Christensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jamie Bell"
+     },
+     {
+      "@type": "Person",
+      "name": "Samuel L. Jackson"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Bilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Rooker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6535,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Jumper (2008): Action/Adventure film. Story: David Rice is a man who knows no boundaries, a… See cast, budget $85M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Doug Liman"
+     }
+    ],
+    "duration": "PT88M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1R4DZbEwWTPnRShBumJsOwsfAiB.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8247",
+    "name": "Jumper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-02-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8247"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jumper (2008)</h1>\n<p class=\"ssr-lead\">David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David’s extraordinary gift may be his only hope for survival!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 February 2008</li><li>Runtime: 88 minutes</li><li>Director: Doug Liman</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $85M</li><li>TMDB rating: 6.2/10 (6535 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hayden Christensen as David Rice</li><li>Jamie Bell as Griffin</li><li>Samuel L. Jackson as Roland</li><li>Rachel Bilson as Millie Harris</li><li>Michael Rooker as William Rice</li><li>Diane Lane as Mary Rice</li><li>AnnaSophia Robb as Young Millie Harris</li><li>Max Thieriot as Young David Rice</li><li>Jesse James as Young Mark</li><li>Tom Hulce as Mr. Bowker</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Jumper (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:94047": {
    "d": "My Way (2011): Drama/Action film. Story: During the invasion of Normandy the photograph of a… See cast, budget $25.5M, and TMDB rating 7.9/10.",

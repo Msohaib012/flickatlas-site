@@ -1,6 +1,6 @@
 {
  "bucket": "76",
- "count": 55,
+ "count": 60,
  "titles": {
   "movie:1005776": {
    "backdrop_path": "/zLUeVsiJ4mKlqSI7cB7lnxCzSbb.jpg",
@@ -1493,6 +1493,180 @@
    "vote_average": 6.418,
    "vote_count": 458
   },
+  "movie:1576": {
+   "backdrop_path": "/8J7J7CBmapmcMaxsn9KMiaHzOU2.jpg",
+   "budget": 33000000,
+   "cast": [
+    {
+     "c": "Alice",
+     "n": "Milla Jovovich"
+    },
+    {
+     "c": "Rain",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Matt",
+     "n": "Eric Mabius"
+    },
+    {
+     "c": "Spence",
+     "n": "James Purefoy"
+    },
+    {
+     "c": "Kaplan",
+     "n": "Martin Crewes"
+    },
+    {
+     "c": "One",
+     "n": "Colin Salmon"
+    },
+    {
+     "c": "J.D.",
+     "n": "Pasquale Aleardi"
+    },
+    {
+     "c": "Lisa",
+     "n": "Heike Makatsch"
+    },
+    {
+     "c": "Mr. Grey",
+     "n": "Ryan McCluskey"
+    },
+    {
+     "c": "Mr. Red",
+     "n": "Oscar Pearce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul W. S. Anderson"
+   ],
+   "genres": [
+    "Horror",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1576,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+   "popularity": 8.7023,
+   "poster_path": "/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+   "production_countries": [
+    "CA",
+    "FR",
+    "DE",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-03-15",
+   "revenue": 102984862,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A secret experiment. A deadly virus. A fatal mistake.",
+   "title": "Resident Evil",
+   "trailer": {
+    "key": "HhBAIDHvRTc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.687,
+   "vote_count": 7338
+  },
   "movie:1635276": {
    "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
    "budget": 0,
@@ -1692,6 +1866,153 @@
    "type": "movie",
    "vote_average": 6.581,
    "vote_count": 482
+  },
+  "movie:176": {
+   "backdrop_path": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+   "budget": 1200000,
+   "cast": [
+    {
+     "c": "Adam",
+     "n": "Leigh Whannell"
+    },
+    {
+     "c": "Lawrence Gordon",
+     "n": "Cary Elwes"
+    },
+    {
+     "c": "Jigsaw",
+     "n": "Tobin Bell"
+    },
+    {
+     "c": "David Tapp",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Steven Sing",
+     "n": "Ken Leung"
+    },
+    {
+     "c": "Kerry",
+     "n": "Dina Meyer"
+    },
+    {
+     "c": "Paul",
+     "n": "Mike Butters"
+    },
+    {
+     "c": "Mark",
+     "n": "Paul Gutrecht"
+    },
+    {
+     "c": "Zep Hindle",
+     "n": "Michael Emerson"
+    },
+    {
+     "c": "Brett",
+     "n": "Benito Martinez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Wan"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 176,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+   "popularity": 12.281,
+   "poster_path": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-10-01",
+   "revenue": 104045735,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "How much blood would you shed to stay alive?",
+   "title": "Saw",
+   "trailer": {
+    "key": "0bHDblokwv0",
+    "name": "Saw Unrated 20th Anniversary Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.43,
+   "vote_count": 10495
   },
   "movie:1776": {
    "backdrop_path": "/8bPFRgV1kdJuta36UsNAbEbfXng.jpg",
@@ -3389,6 +3710,158 @@
    "vote_average": 6.413,
    "vote_count": 436
   },
+  "movie:363676": {
+   "backdrop_path": "/8TqBYPUscAWzSVtOZv8dAp6UKXI.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Chesley 'Sully' Sullenberger",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Jeff Skiles",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Elizabeth Davis",
+     "n": "Anna Gunn"
+    },
+    {
+     "c": "Mike Cleary",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Charles Porter",
+     "n": "Mike O'Malley"
+    },
+    {
+     "c": "Ben Edwards",
+     "n": "Jamey Sheridan"
+    },
+    {
+     "c": "Diane Higgins",
+     "n": "Valerie Mahaffey"
+    },
+    {
+     "c": "Lucille Palmer",
+     "n": "Delphi Harrington"
+    },
+    {
+     "c": "Egyptian Driver",
+     "n": "Ahmed Lucan"
+    },
+    {
+     "c": "Lorrie Sullenberger",
+     "n": "Laura Linney"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Clint Eastwood"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 363676,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+   "popularity": 6.1706,
+   "poster_path": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-09-07",
+   "revenue": 240800000,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The untold story behind the miracle on the Hudson.",
+   "title": "Sully",
+   "trailer": {
+    "key": "6Tbkbx4Hz8Q",
+    "name": "Sully - Official IMAX Trailer [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.208,
+   "vote_count": 7991
+  },
   "movie:429476": {
    "backdrop_path": "/orfMBe5LbJG7pySD1dxHbLOHJ9r.jpg",
    "budget": 5500000,
@@ -3730,6 +4203,132 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 399
+  },
+  "movie:51876": {
+   "backdrop_path": "/9V6Yq2ZVUmyAPcPyDcCBPnkluKF.jpg",
+   "budget": 27000000,
+   "cast": [
+    {
+     "c": "Edward Morra",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Carl Van Loon",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Lindy",
+     "n": "Abbie Cornish"
+    },
+    {
+     "c": "Gennady",
+     "n": "Andrew Howard"
+    },
+    {
+     "c": "Melissa",
+     "n": "Anna Friel"
+    },
+    {
+     "c": "Vernon",
+     "n": "Johnny Whitworth"
+    },
+    {
+     "c": "Man in Tan Coat",
+     "n": "Tomas Arana"
+    },
+    {
+     "c": "Pierce",
+     "n": "Robert John Burke"
+    },
+    {
+     "c": "Kevin Doyle",
+     "n": "Darren Goldstein"
+    },
+    {
+     "c": "Morris Brandt",
+     "n": "Ned Eisenberg"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Neil Burger"
+   ],
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Science Fiction"
+   ],
+   "id": 51876,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The life of an unsuccessful writer is transformed by a top-secret 'smart drug' that allows him to use 100% of his brain and become a perfect version of himself. His enhanced abilities soon attract shadowy forces that threaten his new life.",
+   "popularity": 8.7614,
+   "poster_path": "/r8anWUCVK7MZEolcfPrM9eFkRO4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-04-29",
+   "revenue": 161900000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "ru",
+    "zh",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "What if a pill could make you rich and powerful?",
+   "title": "Limitless",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.205,
+   "vote_count": 11922
   },
   "movie:527776": {
    "backdrop_path": "/704pWRU1CihHgIIKRSAZD7juXQy.jpg",
@@ -4600,6 +5199,120 @@
    "type": "movie",
    "vote_average": 6.1,
    "vote_count": 430
+  },
+  "movie:676": {
+   "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+   "budget": 140000000,
+   "cast": [
+    {
+     "c": "Rafe McCawley",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Danny Walker",
+     "n": "Josh Hartnett"
+    },
+    {
+     "c": "Evelyn Johnson",
+     "n": "Kate Beckinsale"
+    },
+    {
+     "c": "Billy",
+     "n": "William Lee Scott"
+    },
+    {
+     "c": "Anthony Fusco",
+     "n": "Greg Zola"
+    },
+    {
+     "c": "Red",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "Doolittle",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Betty",
+     "n": "Jaime King"
+    },
+    {
+     "c": "Barbara",
+     "n": "Catherine Kellner"
+    },
+    {
+     "c": "Sandra",
+     "n": "Jennifer Garner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Bay"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 676,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+   "popularity": 8.4892,
+   "poster_path": "/giWL3kIA5E67VUTWY1PkfHgyZ1B.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-05-21",
+   "revenue": 449220945,
+   "runtime": 183,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "It takes a moment to change history. It takes love to change lives.",
+   "title": "Pearl Harbor",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.926,
+   "vote_count": 7283
   },
   "movie:814776": {
    "backdrop_path": "/1yhQqbi1rZg9EJiOI22i8Xg7vW.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "59",
- "count": 60,
+ "count": 68,
  "titles": {
   "movie:10359": {
    "d": "Resurrection (1999): Crime/Mystery film. Story: A jaded homicide detective has been put on the case… See cast, budget $10M, and TMDB rating 6.1/10.",
@@ -900,6 +900,70 @@
    "t": "Georgia Rule (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
   },
+  "movie:1359": {
+   "d": "American Psycho (2000): Thriller/Drama film. Story: A wealthy New York investment banking executive hides… See cast, budget $7M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+   "industry": "world",
+   "k": "American Psycho, American Psycho movie, American Psycho cast, American Psycho story, American Psycho box office collection, American Psycho budget, American Psycho review, American Psycho rating, American Psycho release date, American Psycho trailer, American Psycho Thriller, American Psycho Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Christian Bale"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Theroux"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Lucas"
+     },
+     {
+      "@type": "Person",
+      "name": "Bill Sage"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloë Sevigny"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13006,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "American Psycho (2000): Thriller/Drama film. Story: A wealthy New York investment banking executive hides… See cast, budget $7M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Mary Harron"
+     }
+    ],
+    "duration": "PT102M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1359",
+    "name": "American Psycho",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-04-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1359"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>American Psycho (2000)</h1>\n<p class=\"ssr-lead\">A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 April 2000</li><li>Runtime: 102 minutes</li><li>Director: Mary Harron</li><li>Genres: Thriller, Drama, Crime</li><li>Budget: $7M</li><li>TMDB rating: 7.4/10 (13006 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Christian Bale as Patrick Bateman</li><li>Justin Theroux as Timothy Bryce</li><li>Josh Lucas as Craig McDermott</li><li>Bill Sage as David Van Patten</li><li>Chloë Sevigny as Jean</li><li>Reese Witherspoon as Evelyn Williams</li><li>Samantha Mathis as Courtney Rawlinson</li><li>Matt Ross as Luis Carruthers</li><li>Jared Leto as Paul Allen</li><li>Willem Dafoe as Donald Kimball</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Amazon Prime Video with Ads, Movie Sphere+</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "American Psycho (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
+  },
   "movie:1370559": {
    "d": "Tired of Killing (2025): Drama/Crime film. Story: While the Calabrian mafia is spreading its influence… See cast and TMDB rating 6.1/10.",
    "img": "https://image.tmdb.org/t/p/w780/rZZK03ZITcmsf1hn8vNH9oYcx3S.jpg",
@@ -1541,6 +1605,70 @@
    "t": "The Picture of Dorian Gray (1945) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1945"
   },
+  "movie:168259": {
+   "d": "Furious 7 (2015): Action/Crime film. Story: Deckard Shaw seeks revenge against Dominic Toretto… See cast, budget $190M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+   "industry": "world",
+   "k": "Furious 7, Furious 7 movie, Furious 7 cast, Furious 7 story, Furious 7 box office collection, Furious 7 budget, Furious 7 review, Furious 7 rating, Furious 7 release date, Furious 7 trailer, Furious 7 Action, Furious 7 Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Walker"
+     },
+     {
+      "@type": "Person",
+      "name": "Dwayne Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Rodriguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyrese Gibson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11638,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Furious 7 (2015): Action/Crime film. Story: Deckard Shaw seeks revenge against Dominic Toretto… See cast, budget $190M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Wan"
+     }
+    ],
+    "duration": "PT138M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=168259",
+    "name": "Furious 7",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=168259"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Furious 7 (2015)</h1>\n<p class=\"ssr-lead\">Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2015</li><li>Runtime: 138 minutes</li><li>Director: James Wan</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $190M</li><li>TMDB rating: 7.2/10 (11638 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Dominic Toretto</li><li>Paul Walker as Brian O&#x27;Conner</li><li>Dwayne Johnson as Luke Hobbs</li><li>Michelle Rodriguez as Letty Ortiz</li><li>Tyrese Gibson as Roman Pearce</li><li>Ludacris as Tej Parker</li><li>Jordana Brewster as Mia Toretto</li><li>Jason Statham as Deckard Shaw</li><li>Kurt Russell as Mr. Nobody</li><li>Nathalie Emmanuel as Ramsey</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Furious 7 (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:17159": {
    "d": "Eddie Murphy Raw (1987): Comedy film. Story: Eddie Murphy delights, shocks and entertains with… See cast, TMDB rating 7.2/10, and release date 25 November 1987.",
    "img": "https://image.tmdb.org/t/p/w780/zAP5PZVtSIOZwweMaHmNKHJ3xTF.jpg",
@@ -1731,6 +1859,134 @@
    "t": "Ninotchka (1939) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1939"
   },
+  "movie:190859": {
+   "d": "American Sniper (2015): War/Action film. Story: U.S. Navy SEAL Chris Kyle takes his sole… See cast, budget $58.8M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+   "industry": "world",
+   "k": "American Sniper, American Sniper movie, American Sniper cast, American Sniper story, American Sniper box office collection, American Sniper budget, American Sniper review, American Sniper rating, American Sniper release date, American Sniper trailer, American Sniper War, American Sniper Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Sienna Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Kyle Gallner"
+     },
+     {
+      "@type": "Person",
+      "name": "Cole Konis"
+     },
+     {
+      "@type": "Person",
+      "name": "Ben Reed"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14032,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "American Sniper (2015): War/Action film. Story: U.S. Navy SEAL Chris Kyle takes his sole… See cast, budget $58.8M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Clint Eastwood"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "War",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=190859",
+    "name": "American Sniper",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-01-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=190859"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>American Sniper (2015)</h1>\n<p class=\"ssr-lead\">U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 January 2015</li><li>Runtime: 133 minutes</li><li>Director: Clint Eastwood</li><li>Genres: War, Action</li><li>Budget: $58.8M</li><li>TMDB rating: 7.4/10 (14032 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bradley Cooper as Chris Kyle</li><li>Sienna Miller as Taya Renae Kyle</li><li>Kyle Gallner as Goat-Winston</li><li>Cole Konis as Young Chris Kyle</li><li>Ben Reed as Wayne Kyle</li><li>Elise Robertson as Debbie Kyle</li><li>Keir O&#x27;Donnell as Jeff Kyle</li><li>Luke Sunshine as Young Jeff Kyle</li><li>Kevin Lacz as Dauber</li><li>Troy Vincent as Pastor</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "American Sniper (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:2059": {
+   "d": "National Treasure (2005): Adventure/Action film. Story: Modern treasure hunters, led by archaeologist Ben… See cast, budget $100M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/9EnZD3ZWjpJy4IPoQkqTzxvZrso.jpg",
+   "industry": "world",
+   "k": "National Treasure, National Treasure movie, National Treasure cast, National Treasure story, National Treasure box office collection, National Treasure budget, National Treasure review, National Treasure rating, National Treasure release date, National Treasure Adventure, National Treasure Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Nicolas Cage"
+     },
+     {
+      "@type": "Person",
+      "name": "Diane Kruger"
+     },
+     {
+      "@type": "Person",
+      "name": "Justin Bartha"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Bean"
+     },
+     {
+      "@type": "Person",
+      "name": "Jon Voight"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7178,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "National Treasure (2005): Adventure/Action film. Story: Modern treasure hunters, led by archaeologist Ben… See cast, budget $100M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jon Turteltaub"
+     }
+    ],
+    "duration": "PT131M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/9EnZD3ZWjpJy4IPoQkqTzxvZrso.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2059",
+    "name": "National Treasure",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2059"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>National Treasure (2005)</h1>\n<p class=\"ssr-lead\">Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest&#x27;s whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 2005</li><li>Runtime: 131 minutes</li><li>Director: Jon Turteltaub</li><li>Genres: Adventure, Action, Mystery</li><li>Budget: $100M</li><li>TMDB rating: 6.7/10 (7178 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicolas Cage as Ben Gates</li><li>Diane Kruger as Abigail Chase</li><li>Justin Bartha as Riley Poole</li><li>Sean Bean as Ian Howe</li><li>Jon Voight as Patrick Gates</li><li>Harvey Keitel as Sadusky</li><li>Christopher Plummer as John Adams Gates</li><li>David Dayan Fisher as Shaw</li><li>Stewart Finlay-McLennan as Powell</li><li>Oleg Taktarov as Shippen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "National Treasure (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:2359": {
    "d": "Sicko (2007): Documentary/Comedy film. Story: A documentary about the corrupt health care system in… See cast, budget $9M, and TMDB rating 7.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
@@ -1794,6 +2050,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Sicko (2007)</h1>\n<p class=\"ssr-lead\">A documentary about the corrupt health care system in The United States whose main goal is to make profit even if it means losing people’s lives. &quot;The more people you deny health insurance, the more money we make&quot; is the business model for health care providers in America.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2007</li><li>Runtime: 123 minutes</li><li>Director: Michael Moore</li><li>Genres: Documentary, Comedy, Drama</li><li>Budget: $9M</li><li>TMDB rating: 7.4/10 (819 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Moore as Self</li><li>Tony Benn as Self</li><li>Tucker Albrizzi as Self</li><li>Reggie Cervantes as Self</li><li>John Graham as Self</li><li>Aleida Guevara as Self</li><li>Bill Maher as Self</li><li>Patrick Pedraja as Self</li><li>Linda Peeno as Self</li><li>Billy Crystal as Self (archive footage)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate+ Amazon Channel, Howdy Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Sicko (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2007"
+  },
+  "movie:241259": {
+   "d": "Alice Through the Looking Glass (2016): Adventure/Family film. Story: Alice Kingsleigh returns to Underland and faces a new… See cast and budget $170M.",
+   "img": "https://image.tmdb.org/t/p/w780/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
+   "industry": "world",
+   "k": "Alice Through the Looking Glass, Alice Through the Looking Glass movie, Alice Through the Looking Glass cast, Alice Through the Looking Glass story, Alice Through the Looking Glass box office collection, Alice Through the Looking Glass budget, Alice Through the Looking Glass review, Alice Through the Looking Glass rating, Alice Through the Looking Glass release date, Alice Through the Looking Glass trailer, Alice Through the Looking Glass Adventure, Alice Through the Looking Glass Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mia Wasikowska"
+     },
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     },
+     {
+      "@type": "Person",
+      "name": "Anne Hathaway"
+     },
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     },
+     {
+      "@type": "Person",
+      "name": "Sacha Baron Cohen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6948,
+     "ratingValue": 6.6,
+     "worstRating": 0
+    },
+    "description": "Alice Through the Looking Glass (2016): Adventure/Family film. Story: Alice Kingsleigh returns to Underland and faces a new… See cast and budget $170M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "James Bobin"
+     }
+    ],
+    "duration": "PT113M",
+    "genre": [
+     "Adventure",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=241259",
+    "name": "Alice Through the Looking Glass",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-05-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=241259"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Alice Through the Looking Glass (2016)</h1>\n<p class=\"ssr-lead\">Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 May 2016</li><li>Runtime: 113 minutes</li><li>Director: James Bobin</li><li>Genres: Adventure, Family, Fantasy</li><li>Budget: $170M</li><li>TMDB rating: 6.6/10 (6948 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mia Wasikowska as Alice Kingsleigh</li><li>Johnny Depp as Tarrant Hightopp / Mad Hatter</li><li>Anne Hathaway as Mirana / White Queen</li><li>Helena Bonham Carter as Iracebeth / Red Queen</li><li>Sacha Baron Cohen as Time</li><li>Matt Lucas as Tweedledee / Tweedledum</li><li>Alan Rickman as Absolem / Caterpillar (voice)</li><li>Stephen Fry as Cheshire Cat (voice)</li><li>Michael Sheen as Nivens McTwisp / White Rabbit (voice)</li><li>Timothy Spall as Bayard Hamar / Bloodhound (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Alice Through the Looking Glass (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:2759": {
    "d": "The Adventures of Priscilla, Queen of the Desert (1994): Drama/Comedy film. Story: Two drag performers and a transgender woman travel… See cast and budget $2M.",
@@ -2176,6 +2496,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Would I Lie to You? 2 (2001)</h1>\n<p class=\"ssr-lead\">Eddie, Dov, and Yvan are back, still working in Paris&#x27; Sentier textile district, This time they&#x27;re confronting the high-stakes world of large distribution after striking a deal with Eurodiscount, a European hypermarket chain.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 February 2001</li><li>Runtime: 105 minutes</li><li>Director: Thomas Gilou</li><li>Genres: Comedy</li><li>Budget: $12.56M</li><li>TMDB rating: 6.2/10 (423 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Richard Anconina as Eddie Vuibert</li><li>José Garcia as Serge Benhamou</li><li>Gad Elmaleh as Dov Mimran</li><li>Aure Atika as Karine Benchetrit</li><li>Elisa Tovati as Chochana Boutboul</li><li>Enrico Macias as Maurice Boutboul</li><li>Bruno Solo as Yvan Touati</li><li>Amira Casar as Sandra</li><li>Nicole Calfan as Suzie Boutboul</li><li>Daniel Prévost as Vierhouten</li></ul>\n</article>",
    "t": "Would I Lie to You? 2 (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2001"
+  },
+  "movie:330459": {
+   "d": "Rogue One: A Star Wars Story (2016): Action/Adventure film. Story: A rogue band of resistance fighters unite for a… See cast and budget $200M.",
+   "img": "https://image.tmdb.org/t/p/w780/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+   "industry": "world",
+   "k": "Rogue One: A Star Wars Story, Rogue One: A Star Wars Story movie, Rogue One: A Star Wars Story cast, Rogue One: A Star Wars Story story, Rogue One: A Star Wars Story box office collection, Rogue One: A Star Wars Story budget, Rogue One: A Star Wars Story review, Rogue One: A Star Wars Story rating, Rogue One: A Star Wars Story release date, Rogue One: A Star Wars Story trailer, Rogue One: A Star Wars Story Action, Rogue One: A Star Wars Story Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Felicity Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Diego Luna"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Tudyk"
+     },
+     {
+      "@type": "Person",
+      "name": "Donnie Yen"
+     },
+     {
+      "@type": "Person",
+      "name": "Jiang Wen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16979,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Rogue One: A Star Wars Story (2016): Action/Adventure film. Story: A rogue band of resistance fighters unite for a… See cast and budget $200M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gareth Edwards"
+     }
+    ],
+    "duration": "PT133M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=330459",
+    "name": "Rogue One: A Star Wars Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=330459"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Rogue One: A Star Wars Story (2016)</h1>\n<p class=\"ssr-lead\">A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2016</li><li>Runtime: 133 minutes</li><li>Director: Gareth Edwards</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 7.5/10 (16979 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Felicity Jones as Jyn Erso</li><li>Diego Luna as Cassian Andor</li><li>Alan Tudyk as K-2SO</li><li>Donnie Yen as Chirrut Imwe</li><li>Jiang Wen as Baze Malbus</li><li>Ben Mendelsohn as Orson Krennic</li><li>Guy Henry as Governor Tarkin</li><li>Forest Whitaker as Saw Gerrera</li><li>Riz Ahmed as Bodhi Rook</li><li>Mads Mikkelsen as Galen Erso</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Rogue One: A Star Wars Story (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:339259": {
    "d": "The Man with the Iron Heart (2017): War/Action film. Story: With the Third Reich at its peak in 1942, the Czech… See cast and budget $32.68M.",
@@ -2752,6 +3136,70 @@
    "t": "Justice League vs. the Fatal Five (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:559": {
+   "d": "Spider-Man 3 (2007): Action/Adventure film. Story: Peter Parker finally has the girl of his dreams, Mary… See cast, budget $258M, and TMDB rating 6.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+   "industry": "world",
+   "k": "Spider-Man 3, Spider-Man 3 movie, Spider-Man 3 cast, Spider-Man 3 story, Spider-Man 3 box office collection, Spider-Man 3 budget, Spider-Man 3 review, Spider-Man 3 rating, Spider-Man 3 release date, Spider-Man 3 trailer, Spider-Man 3 Action, Spider-Man 3 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tobey Maguire"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirsten Dunst"
+     },
+     {
+      "@type": "Person",
+      "name": "James Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Thomas Haden Church"
+     },
+     {
+      "@type": "Person",
+      "name": "Topher Grace"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 16027,
+     "ratingValue": 6.5,
+     "worstRating": 0
+    },
+    "description": "Spider-Man 3 (2007): Action/Adventure film. Story: Peter Parker finally has the girl of his dreams, Mary… See cast, budget $258M, and TMDB rating 6.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Sam Raimi"
+     }
+    ],
+    "duration": "PT139M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/FfAU0PUs8AJkMU2VbkVNFtRXR4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=559",
+    "name": "Spider-Man 3",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-05-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=559"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Spider-Man 3 (2007)</h1>\n<p class=\"ssr-lead\">Peter Parker finally has the girl of his dreams, Mary Jane Watson, and New York City is in the throes of Spider-mania! But when a strange alien symbiote turns Spider-Man&#x27;s suit black, his darkest demons come to light changing Spider-Man inside as well as out. Spider-Man is in for the fight of his life against a lethal mix of villains - the deadly Sandman, Venom, and the New Goblin - as well as the enemy within himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 May 2007</li><li>Runtime: 139 minutes</li><li>Director: Sam Raimi</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $258M</li><li>TMDB rating: 6.5/10 (16027 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tobey Maguire as Spider-Man / Peter Parker</li><li>Kirsten Dunst as Mary Jane Watson</li><li>James Franco as New Goblin / Harry Osborn</li><li>Thomas Haden Church as Sandman / Flint Marko</li><li>Topher Grace as Venom / Eddie Brock</li><li>Bryce Dallas Howard as Gwen Stacy</li><li>Rosemary Harris as May Parker</li><li>J.K. Simmons as J. Jonah Jameson</li><li>James Cromwell as Captain Stacy</li><li>Dylan Baker as Dr. Curt Connors</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Sony Liv, Lionsgate Play, VI movies and tv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Spider-Man 3 (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:585759": {
    "d": "The Coldest Game (2019): Drama/Thriller film. Story: Warsaw, Poland, during the Cuban Missile Crisis… See cast and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/3UHkAGbm8H8hbgIUuxyMHOHHLuY.jpg",
@@ -2815,6 +3263,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Coldest Game (2019)</h1>\n<p class=\"ssr-lead\">Warsaw, Poland, during the Cuban Missile Crisis, 1962. Josh Mansky, a troubled math genius and former US chess champion, is recruited to hold a dangerous public match against the Soviet champion, while playing the deadly game of espionage hidden in the darkest shadows of a hostile territory.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 2019</li><li>Runtime: 104 minutes</li><li>Director: Łukasz Kośmicki</li><li>Genres: Drama, Thriller</li><li>TMDB rating: 6.2/10 (343 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Pullman as Joshua Mansky</li><li>Lotte Verbeek as Agent Stone</li><li>James Bloor as Agent White</li><li>Robert Więckiewicz as Alfred</li><li>Aleksey Serebryakov as Gienadij Krutow</li><li>Corey Johnson as Donald Novak</li><li>Nicholas Farrell as G. Moran</li><li>Evgeniy Sidikhin as Jurij Gawryłow</li><li>Cezary Kosiński as &#x27;John Gift&#x27;</li><li>Aleksandr Lobanov as Adiutant Krutowa</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store, Amazon Video</li></ul>\n</article>",
    "t": "The Coldest Game (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:59859": {
+   "d": "Kick-Ass 2 (2013): Action/Adventure film. Story: After Kick-Ass' insane bravery inspires a new wave of… See cast, budget $28M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+   "industry": "world",
+   "k": "Kick-Ass 2, Kick-Ass 2 movie, Kick-Ass 2 cast, Kick-Ass 2 story, Kick-Ass 2 box office collection, Kick-Ass 2 budget, Kick-Ass 2 review, Kick-Ass 2 rating, Kick-Ass 2 release date, Kick-Ass 2 trailer, Kick-Ass 2 Action, Kick-Ass 2 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Aaron Taylor-Johnson"
+     },
+     {
+      "@type": "Person",
+      "name": "Chloë Grace Moretz"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Mintz-Plasse"
+     },
+     {
+      "@type": "Person",
+      "name": "Lyndsy Fonseca"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Carrey"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6825,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Kick-Ass 2 (2013): Action/Adventure film. Story: After Kick-Ass' insane bravery inspires a new wave of… See cast, budget $28M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Jeff Wadlow"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=59859",
+    "name": "Kick-Ass 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2013-07-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=59859"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Kick-Ass 2 (2013)</h1>\n<p class=\"ssr-lead\">After Kick-Ass&#x27; insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 July 2013</li><li>Runtime: 103 minutes</li><li>Director: Jeff Wadlow</li><li>Genres: Action, Adventure, Crime</li><li>Budget: $28M</li><li>TMDB rating: 6.4/10 (6825 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Aaron Taylor-Johnson as Dave Lizewski / Kick-Ass</li><li>Chloë Grace Moretz as Mindy Macready / Hit Girl</li><li>Christopher Mintz-Plasse as Chris D&#x27;Amico / The Motherfucker</li><li>Lyndsy Fonseca as Katie Deauxma</li><li>Jim Carrey as Colonel Stars and Stripes</li><li>Iain Glen as Uncle Ralph</li><li>Clark Duke as Marty / Battle Guy</li><li>Lindy Booth as Night Bitch</li><li>Garrett M. Brown as Mr. Lizewski</li><li>Morris Chestnut as Detective Marcus Williams</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Kick-Ass 2 (2013) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2013"
   },
   "movie:659959": {
    "d": "Summer of 85 (2020): Romance/Drama film. Story: What do you dream of when you're 16-years-old and in… See cast, budget $6.9M, and TMDB rating 7.4/10.",

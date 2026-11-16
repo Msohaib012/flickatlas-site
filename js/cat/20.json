@@ -1,7 +1,127 @@
 {
  "bucket": "20",
- "count": 69,
+ "count": 76,
  "titles": {
+  "movie:10020": {
+   "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Belle (voice)",
+     "n": "Paige O'Hara"
+    },
+    {
+     "c": "Beast (voice)",
+     "n": "Robby Benson"
+    },
+    {
+     "c": "Gaston (voice)",
+     "n": "Richard White"
+    },
+    {
+     "c": "Lumiere (voice)",
+     "n": "Jerry Orbach"
+    },
+    {
+     "c": "Cogsworth (voice)",
+     "n": "David Ogden Stiers"
+    },
+    {
+     "c": "Mrs. Potts (voice)",
+     "n": "Angela Lansbury"
+    },
+    {
+     "c": "Maurice (voice)",
+     "n": "Rex Everhart"
+    },
+    {
+     "c": "Lefou (voice)",
+     "n": "Jesse Corti"
+    },
+    {
+     "c": "Chip (voice)",
+     "n": "Bradley Pierce"
+    },
+    {
+     "c": "Philippe (voice)",
+     "n": "Hal Smith"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Gary Trousdale",
+    "Kirk Wise"
+   ],
+   "genres": [
+    "Romance",
+    "Family",
+    "Animation",
+    "Fantasy"
+   ],
+   "id": 10020,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+   "popularity": 16.5967,
+   "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Bloodstream"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/grSWrznc2QaymD5bM0MxMmcdrQl.png",
+     "name": "Bloodstream",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1991-10-22",
+   "revenue": 424967620,
+   "runtime": 84,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The most beautiful love story ever told.",
+   "title": "Beauty and the Beast",
+   "trailer": {
+    "key": "UUVpyeS_fVw",
+    "name": "3D Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.727,
+   "vote_count": 11041
+  },
   "movie:1047020": {
    "backdrop_path": "/wy92wLmcjfEy6Gp3v0Q30gxNWrS.jpg",
    "budget": 0,
@@ -726,6 +846,196 @@
    "type": "movie",
    "vote_average": 7.122,
    "vote_count": 479
+  },
+  "movie:120": {
+   "backdrop_path": "/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+   "budget": 93000000,
+   "cast": [
+    {
+     "c": "Frodo",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Gandalf",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Aragorn",
+     "n": "Viggo Mortensen"
+    },
+    {
+     "c": "Sam",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Bilbo",
+     "n": "Ian Holm"
+    },
+    {
+     "c": "Arwen",
+     "n": "Liv Tyler"
+    },
+    {
+     "c": "Saruman",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Boromir",
+     "n": "Sean Bean"
+    },
+    {
+     "c": "Pippin",
+     "n": "Billy Boyd"
+    },
+    {
+     "c": "Merry",
+     "n": "Dominic Monaghan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 120,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+   "popularity": 38.0747,
+   "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-03-15",
+   "revenue": 871368364,
+   "runtime": 179,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One ring to rule them all.",
+   "title": "The Lord of the Rings: The Fellowship of the Ring",
+   "trailer": {
+    "key": "_nZdmwHrcnw",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.451,
+   "vote_count": 28878
   },
   "movie:12220": {
    "backdrop_path": "/mh30m4DuwBtvI9zwfZF6KfkkRbP.jpg",
@@ -4116,6 +4426,211 @@
    "vote_average": 6.468,
    "vote_count": 475
   },
+  "movie:254320": {
+   "backdrop_path": "/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "David",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Short Sighted Woman",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Hotel Manager",
+     "n": "Olivia Colman"
+    },
+    {
+     "c": "Loner Leader",
+     "n": "Léa Seydoux"
+    },
+    {
+     "c": "Loner Swimmer",
+     "n": "Michael Smiley"
+    },
+    {
+     "c": "The Maid",
+     "n": "Ariane Labed"
+    },
+    {
+     "c": "Lisping Man",
+     "n": "John C. Reilly"
+    },
+    {
+     "c": "Limping Man",
+     "n": "Ben Whishaw"
+    },
+    {
+     "c": "Heartless Woman",
+     "n": "Angeliki Papoulia"
+    },
+    {
+     "c": "Nosebleed Woman",
+     "n": "Jessica Barden"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Yorgos Lanthimos"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 254320,
+   "industry": "world",
+   "origin_country": [
+    "IE",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+   "popularity": 5.7519,
+   "poster_path": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+   "production_countries": [
+    "FR",
+    "GR",
+    "IE",
+    "NL",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png",
+     "name": "Cinemax Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eArBCdklkA9DKiESboGkyv3rVQ7.png",
+     "name": "Cinemax Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-10-15",
+   "revenue": 15700000,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "An unconventional love story...",
+   "title": "The Lobster",
+   "trailer": {
+    "key": "LTNZmOJxuAc",
+    "name": "Official US Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.017,
+   "vote_count": 7207
+  },
   "movie:26320": {
    "backdrop_path": "/uhPAPblYLrp6UJXi0LdUHPTovkY.jpg",
    "budget": 30000000,
@@ -4429,6 +4944,180 @@
    "type": "movie",
    "vote_average": 7.873,
    "vote_count": 332
+  },
+  "movie:374720": {
+   "backdrop_path": "/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Tommy",
+     "n": "Fionn Whitehead"
+    },
+    {
+     "c": "Farrier",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Mr. Dawson",
+     "n": "Mark Rylance"
+    },
+    {
+     "c": "Commander Bolton",
+     "n": "Kenneth Branagh"
+    },
+    {
+     "c": "Shivering Soldier",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "George",
+     "n": "Barry Keoghan"
+    },
+    {
+     "c": "Alex",
+     "n": "Harry Styles"
+    },
+    {
+     "c": "Gibson",
+     "n": "Aneurin Barnard"
+    },
+    {
+     "c": "French Soldier",
+     "n": "Damien Bonnard"
+    },
+    {
+     "c": "Grenadier",
+     "n": "Lee Armstrong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "War",
+    "Action",
+    "History"
+   ],
+   "id": 374720,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+   "popularity": 12.7376,
+   "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-07-21",
+   "revenue": 549136737,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "When 400,000 men couldn't get home, home came for them.",
+   "title": "Dunkirk",
+   "trailer": {
+    "key": "T7O7BtBnsG4",
+    "name": "Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.451,
+   "vote_count": 18240
   },
   "movie:400020": {
    "backdrop_path": "/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
@@ -5063,6 +5752,168 @@
    "type": "movie",
    "vote_average": 5.624,
    "vote_count": 391
+  },
+  "movie:50620": {
+   "backdrop_path": "/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Bella Swan",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Edward Cullen",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Jacob Black",
+     "n": "Taylor Lautner"
+    },
+    {
+     "c": "Dr. Carlisle Cullen",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Esme Cullen",
+     "n": "Elizabeth Reaser"
+    },
+    {
+     "c": "Alice Cullen",
+     "n": "Ashley Greene"
+    },
+    {
+     "c": "Jasper Hale",
+     "n": "Jackson Rathbone"
+    },
+    {
+     "c": "Emmett Cullen",
+     "n": "Kellan Lutz"
+    },
+    {
+     "c": "Rosalie Hale",
+     "n": "Nikki Reed"
+    },
+    {
+     "c": "Charlie Swan",
+     "n": "Billy Burke"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bill Condon"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 50620,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+   "popularity": 11.9064,
+   "poster_path": "/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-11-13",
+   "revenue": 829747654,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The epic finale that will live forever.",
+   "title": "The Twilight Saga: Breaking Dawn - Part 2",
+   "trailer": {
+    "key": "bUXjqQ4GKRg",
+    "name": "THE TWILIGHT SAGA: BREAKING DAWN - PART 2 - Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.449,
+   "vote_count": 9585
   },
   "movie:532620": {
    "backdrop_path": "/axVvt8MjHF3RiMW4OSQS7dBNtJL.jpg",
@@ -5736,6 +6587,161 @@
    "vote_average": 6.072,
    "vote_count": 950
   },
+  "movie:620": {
+   "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Dr. Peter Venkman",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Dr. Raymond Stantz",
+     "n": "Dan Aykroyd"
+    },
+    {
+     "c": "Dr. Egon Spengler",
+     "n": "Harold Ramis"
+    },
+    {
+     "c": "Dana Barrett",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Louis Tully",
+     "n": "Rick Moranis"
+    },
+    {
+     "c": "Winston Zeddemore",
+     "n": "Ernie Hudson"
+    },
+    {
+     "c": "Janine Melnitz",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Walter Peck",
+     "n": "William Atherton"
+    },
+    {
+     "c": "Mayor",
+     "n": "David Margulies"
+    },
+    {
+     "c": "Gozer",
+     "n": "Slavitza Jovan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ivan Reitman"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 620,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+   "popularity": 11.3398,
+   "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1984-06-08",
+   "revenue": 296640120,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They're here to save the world.",
+   "title": "Ghostbusters",
+   "trailer": {
+    "key": "msq0hZSgZdM",
+    "name": "Live and In Concert Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.496,
+   "vote_count": 10158
+  },
   "movie:622420": {
    "backdrop_path": "/jbLhPErePs1MRwht2FvQTA9Lcc0.jpg",
    "budget": 0,
@@ -6257,6 +7263,142 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 891
+  },
+  "movie:920": {
+   "backdrop_path": "/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Lightning McQueen (voice)",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Doc Hudson (voice)",
+     "n": "Paul Newman"
+    },
+    {
+     "c": "Sally Carrera (voice)",
+     "n": "Bonnie Hunt"
+    },
+    {
+     "c": "Mater (voice)",
+     "n": "Larry the Cable Guy"
+    },
+    {
+     "c": "Ramone (voice)",
+     "n": "Cheech Marin"
+    },
+    {
+     "c": "Luigi (voice)",
+     "n": "Tony Shalhoub"
+    },
+    {
+     "c": "Guido (voice)",
+     "n": "Guido Quaroni"
+    },
+    {
+     "c": "Flo (voice)",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Sarge (voice)",
+     "n": "Paul Dooley"
+    },
+    {
+     "c": "Sheriff (voice)",
+     "n": "Michael Wallis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Lasseter"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 920,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+   "popularity": 12.8821,
+   "poster_path": "/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-08-04",
+   "revenue": 461983149,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "ja",
+    "yi"
+   ],
+   "status": "Released",
+   "tagline": "Ahhh... it's got that new movie smell.",
+   "title": "Cars",
+   "trailer": {
+    "key": "XszNWHhpaTc",
+    "name": "Original Trailer - 20th Anniversary",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.064,
+   "vote_count": 15745
   },
   "movie:9320": {
    "backdrop_path": "/ftr9GcaD97CRSKRftx4FtTHfhfa.jpg",

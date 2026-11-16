@@ -1,7 +1,136 @@
 {
  "bucket": "95",
- "count": 64,
+ "count": 74,
  "titles": {
+  "movie:10195": {
+   "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Jane Foster",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Loki",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Odin",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Erik Selvig",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Darcy Lewis",
+     "n": "Kat Dennings"
+    },
+    {
+     "c": "Agent Coulson",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "King Laufey",
+     "n": "Colm Feore"
+    },
+    {
+     "c": "Heimdall",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Volstagg",
+     "n": "Ray Stevenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kenneth Branagh"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 10195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+   "popularity": 17.5112,
+   "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-04-29",
+   "revenue": 449326618,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Courage is immortal.",
+   "title": "Thor",
+   "trailer": {
+    "key": "uHBnrJowBZE",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.772,
+   "vote_count": 23077
+  },
   "movie:10295": {
    "backdrop_path": "/sS0MhzRDPAUxT412DqAyhhs6yFY.jpg",
    "budget": 0,
@@ -2494,6 +2623,117 @@
    "vote_average": 6.965,
    "vote_count": 404
   },
+  "movie:1895": {
+   "backdrop_path": "/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+   "budget": 113000000,
+   "cast": [
+    {
+     "c": "Anakin Skywalker / Darth Vader",
+     "n": "Hayden Christensen"
+    },
+    {
+     "c": "Obi-Wan Kenobi",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Padmé Amidala",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Chancellor Palpatine / Darth Sidious",
+     "n": "Ian McDiarmid"
+    },
+    {
+     "c": "Mace Windu",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Senator Bail Organa",
+     "n": "Jimmy Smits"
+    },
+    {
+     "c": "Yoda (voice)",
+     "n": "Frank Oz"
+    },
+    {
+     "c": "C-3PO",
+     "n": "Anthony Daniels"
+    },
+    {
+     "c": "Count Dooku",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Queen of Naboo",
+     "n": "Keisha Castle-Hughes"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "George Lucas"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 1895,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+   "popularity": 10.8614,
+   "poster_path": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-05-20",
+   "revenue": 850000000,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every story has a hero. Every hero has a destiny. Every saga has an end.",
+   "title": "Star Wars: Episode III - Revenge of the Sith",
+   "trailer": {
+    "key": "5UnjrG_N8hU",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.479,
+   "vote_count": 15515
+  },
   "movie:195": {
    "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
    "budget": 0,
@@ -2594,6 +2834,247 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 328
+  },
+  "movie:1995": {
+   "backdrop_path": "/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+   "budget": 115000000,
+   "cast": [
+    {
+     "c": "Lara Croft",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Manfred Powell",
+     "n": "Iain Glen"
+    },
+    {
+     "c": "Alex West",
+     "n": "Daniel Craig"
+    },
+    {
+     "c": "Bryce",
+     "n": "Noah Taylor"
+    },
+    {
+     "c": "Hillary",
+     "n": "Chris Barrie"
+    },
+    {
+     "c": "Lord Richard Croft",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Mr. Pimms",
+     "n": "Julian Rhind-Tutt"
+    },
+    {
+     "c": "Wilson",
+     "n": "Leslie Phillips"
+    },
+    {
+     "c": "Distinguished Gentleman",
+     "n": "Richard Johnson"
+    },
+    {
+     "c": "Assault Team Leader (Julius)",
+     "n": "Robert Phillips"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Simon West"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "id": 1995,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artifact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
+   "popularity": 7.3218,
+   "poster_path": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-09-07",
+   "revenue": 274703340,
+   "runtime": 101,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Born into Wealth. Groomed by the Elite. Trained for Combat.",
+   "title": "Lara Croft: Tomb Raider",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.915,
+   "vote_count": 6764
+  },
+  "movie:19995": {
+   "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+   "budget": 237000000,
+   "cast": [
+    {
+     "c": "Jake Sully",
+     "n": "Sam Worthington"
+    },
+    {
+     "c": "Neytiri",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Dr. Grace Augustine",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Colonel Miles Quaritch",
+     "n": "Stephen Lang"
+    },
+    {
+     "c": "Trudy Chacon",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Parker Selfridge",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Norm Spellman",
+     "n": "Joel David Moore"
+    },
+    {
+     "c": "Mo'at",
+     "n": "CCH Pounder"
+    },
+    {
+     "c": "Eytukan",
+     "n": "Wes Studi"
+    },
+    {
+     "c": "Tsu'Tey",
+     "n": "Laz Alonso"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Cameron"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 19995,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+   "popularity": 23.3084,
+   "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-08-27",
+   "revenue": 2923706026,
+   "runtime": 162,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Enter the world of Pandora.",
+   "title": "Avatar",
+   "trailer": {
+    "key": "jm2sNLIPPvA",
+    "name": "Back in Theatres",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.612,
+   "vote_count": 35037
   },
   "movie:25095": {
    "backdrop_path": "/60OypzgF62FE8PWxXi5zSI1bLyS.jpg",
@@ -2828,6 +3309,126 @@
    "type": "movie",
    "vote_average": 6.637,
    "vote_count": 375
+  },
+  "movie:283995": {
+   "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Peter Quill / Star-Lord",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Gamora",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Drax",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "Baby Groot (voice)",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Rocket (voice)",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Ego",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Yondu",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Nebula",
+     "n": "Karen Gillan"
+    },
+    {
+     "c": "Mantis",
+     "n": "Pom Klementieff"
+    },
+    {
+     "c": "Stakar Ogord",
+     "n": "Sylvester Stallone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Gunn"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+   ],
+   "id": 283995,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+   "popularity": 17.1896,
+   "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-05-05",
+   "revenue": 863756051,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You only get one chance to save the galaxy twice.",
+   "title": "Guardians of the Galaxy Vol. 2",
+   "trailer": {
+    "key": "wUn05hdkhjM",
+    "name": "Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.607,
+   "vote_count": 23755
   },
   "movie:29095": {
    "backdrop_path": "/x0sEJCg6UsLoGs8r9b4l8rp1oxe.jpg",
@@ -4091,6 +4692,268 @@
    "vote_average": 7.6,
    "vote_count": 432
   },
+  "movie:453395": {
+   "backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+   "budget": 295400000,
+   "cast": [
+    {
+     "c": "Doctor Stephen Strange",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "America Chavez",
+     "n": "Xochitl Gomez"
+    },
+    {
+     "c": "Wanda Maximoff / The Scarlet Witch",
+     "n": "Elizabeth Olsen"
+    },
+    {
+     "c": "Baron Mordo",
+     "n": "Chiwetel Ejiofor"
+    },
+    {
+     "c": "Wong",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Dr. Christine Palmer",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Tommy Maximoff",
+     "n": "Jett Klyne"
+    },
+    {
+     "c": "Billy Maximoff",
+     "n": "Julian Hilliard"
+    },
+    {
+     "c": "Dr. Nic West",
+     "n": "Michael Stuhlbarg"
+    },
+    {
+     "c": "Captain Carter",
+     "n": "Hayley Atwell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Sam Raimi"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+   ],
+   "id": 453395,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+   "popularity": 28.7885,
+   "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-05-06",
+   "revenue": 955775804,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Enter a new dimension of Strange.",
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "trailer": {
+    "key": "Rf8LAYJSOL8",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.216,
+   "vote_count": 11135
+  },
+  "movie:46195": {
+   "backdrop_path": "/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Blu (voice)",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Jewel (voice)",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Linda (voice)",
+     "n": "Leslie Mann"
+    },
+    {
+     "c": "Alice / Goose (voice)",
+     "n": "Jane Lynch"
+    },
+    {
+     "c": "Pedro (voice)",
+     "n": "will.i.am"
+    },
+    {
+     "c": "Rafael (voice)",
+     "n": "George López"
+    },
+    {
+     "c": "Chloe / Goose (voice)",
+     "n": "Wanda Sykes"
+    },
+    {
+     "c": "Nico (voice)",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Tulio (voice)",
+     "n": "Rodrigo Santoro"
+    },
+    {
+     "c": "Nigel (voice)",
+     "n": "Jemaine Clement"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Carlos Saldanha"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "id": 46195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.",
+   "popularity": 8.6461,
+   "poster_path": "/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-04-08",
+   "revenue": 483866772,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "1 out of every 8 Americans is afraid of flying. Most of them don't have feathers.",
+   "title": "Rio",
+   "trailer": {
+    "key": "P1GRO31ve5Q",
+    "name": "Rio - Official Trailer | HQ",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.8,
+   "vote_count": 7415
+  },
   "movie:501395": {
    "backdrop_path": "/6xIZ4GCZ5Dhjv8tYU88ZbZ4PwxQ.jpg",
    "budget": 0,
@@ -4216,6 +5079,118 @@
    "type": "movie",
    "vote_average": 5.883,
    "vote_count": 371
+  },
+  "movie:512195": {
+   "backdrop_path": "/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "John Hartley",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Nolan Booth",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Sarah Black / The Bishop",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Inspector Urvashi Das",
+     "n": "Ritu Arya"
+    },
+    {
+     "c": "Sotto Voce",
+     "n": "Chris Diamantopoulos"
+    },
+    {
+     "c": "Tambwe",
+     "n": "Ivan Mbakop"
+    },
+    {
+     "c": "Director Gallo",
+     "n": "Vincenzo Amato"
+    },
+    {
+     "c": "Security Chief Ricci",
+     "n": "Rafael Petardi"
+    },
+    {
+     "c": "Souvenir Stand Owner",
+     "n": "Seth Michaels"
+    },
+    {
+     "c": "Gelato Truck Driver",
+     "n": "Sebastien Large"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rawson Marshall Thurber"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 512195,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+   "popularity": 8.7663,
+   "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-11-04",
+   "revenue": 178143,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "id",
+    "it",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Pro and cons.",
+   "title": "Red Notice",
+   "trailer": {
+    "key": "Pj0wz7zu3Ms",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.705,
+   "vote_count": 6762
   },
   "movie:5595": {
    "backdrop_path": "/64I5NOLvPDrO4qVTHk0c09vWYmt.jpg",
@@ -4405,6 +5380,162 @@
    "type": "movie",
    "vote_average": 6.27,
    "vote_count": 437
+  },
+  "movie:58595": {
+   "backdrop_path": "/KBe9fHU5rVg4daoKnFwl1Cbc28.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Snow White",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "The Huntsman",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Queen Ravenna",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "William",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Beith",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Gort",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Nion",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "King Magnus",
+     "n": "Noah Huntley"
+    },
+    {
+     "c": "Coll",
+     "n": "Toby Jones"
+    },
+    {
+     "c": "Duir",
+     "n": "Eddie Marsan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Rupert Sanders"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 58595,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest.",
+   "popularity": 6.7815,
+   "poster_path": "/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-01",
+   "revenue": 396600000,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The fairytale is over.",
+   "title": "Snow White and the Huntsman",
+   "trailer": {
+    "key": "hDzRFcxlkMw",
+    "name": "Extended Edition Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.98,
+   "vote_count": 8432
   },
   "movie:590995": {
    "backdrop_path": "/jb8pEmjgmUlJI3Llbb9x75ZlJ03.jpg",
@@ -5959,6 +7090,117 @@
    "type": "movie",
    "vote_average": 6.12,
    "vote_count": 840
+  },
+  "movie:95": {
+   "backdrop_path": "/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+   "budget": 140000000,
+   "cast": [
+    {
+     "c": "Harry S. Stamper",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Dan Truman",
+     "n": "Billy Bob Thornton"
+    },
+    {
+     "c": "A.J. Frost",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Grace Stamper",
+     "n": "Liv Tyler"
+    },
+    {
+     "c": "Chick",
+     "n": "Will Patton"
+    },
+    {
+     "c": "Rockhound",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Willie Sharp",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Oscar",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Bear",
+     "n": "Michael Clarke Duncan"
+    },
+    {
+     "c": "Lev Andropov",
+     "n": "Peter Stormare"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Bay"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 95,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+   "popularity": 9.758,
+   "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-07-01",
+   "revenue": 553799566,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "For love. For honor. For mankind.",
+   "title": "Armageddon",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.833,
+   "vote_count": 8971
   },
   "movie:97795": {
    "backdrop_path": "/ljIFlIqVbES8p7gtPSYgIMI1alL.jpg",

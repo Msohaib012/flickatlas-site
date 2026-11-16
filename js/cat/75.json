@@ -1,6 +1,6 @@
 {
  "bucket": "75",
- "count": 56,
+ "count": 62,
  "titles": {
   "movie:1000075": {
    "backdrop_path": "/gqlsgPgxXgWTJsta183hkg3szjW.jpg",
@@ -1552,6 +1552,168 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 465
+  },
+  "movie:13475": {
+   "backdrop_path": "/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Cadet James T. Kirk",
+     "n": "Chris Pine"
+    },
+    {
+     "c": "Commander Spock",
+     "n": "Zachary Quinto"
+    },
+    {
+     "c": "Ambassador Spock",
+     "n": "Leonard Nimoy"
+    },
+    {
+     "c": "Captain Nero",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Captain Christopher Pike",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Dr. Leonard 'Bones' McCoy",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Lieutenant Nyota Uhura",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Lieutenant Commander Montgomery 'Scotty' Scott",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Lieutenant Hikaru Sulu",
+     "n": "John Cho"
+    },
+    {
+     "c": "Ensign Pavel Chekov",
+     "n": "Anton Yelchin"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.J. Abrams"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 13475,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+   "popularity": 10.6705,
+   "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-06-05",
+   "revenue": 386839614,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The future begins.",
+   "title": "Star Trek",
+   "trailer": {
+    "key": "iGAHnZ555nI",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.439,
+   "vote_count": 10873
   },
   "movie:13675": {
    "backdrop_path": "/69HEmEIgFCo6Te8ShHcFB1ERPeF.jpg",
@@ -3529,6 +3691,171 @@
    "vote_average": 6.616,
    "vote_count": 942
   },
+  "movie:2675": {
+   "backdrop_path": "/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
+   "budget": 72000000,
+   "cast": [
+    {
+     "c": "Graham Hess",
+     "n": "Mel Gibson"
+    },
+    {
+     "c": "Merrill Hess",
+     "n": "Joaquin Phoenix"
+    },
+    {
+     "c": "Morgan Hess",
+     "n": "Rory Culkin"
+    },
+    {
+     "c": "Bo Hess",
+     "n": "Abigail Breslin"
+    },
+    {
+     "c": "Officer Paski",
+     "n": "Cherry Jones"
+    },
+    {
+     "c": "Ray Reddy",
+     "n": "M. Night Shyamalan"
+    },
+    {
+     "c": "Colleen Hess",
+     "n": "Patricia Kalember"
+    },
+    {
+     "c": "SFC Cunningham",
+     "n": "Ted Sutton"
+    },
+    {
+     "c": "Tracey Abernathy",
+     "n": "Merritt Wever"
+    },
+    {
+     "c": "Mr. Nathan",
+     "n": "Lanny Flaherty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "M. Night Shyamalan"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Horror"
+   ],
+   "id": 2675,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.",
+   "popularity": 7.0687,
+   "poster_path": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-08-02",
+   "revenue": 408200000,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt"
+   ],
+   "status": "Released",
+   "tagline": "It's not like they didn't warn us.",
+   "title": "Signs",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 6672
+  },
   "movie:27275": {
    "backdrop_path": "/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
    "budget": 0,
@@ -3935,6 +4262,151 @@
    "vote_average": 5.575,
    "vote_count": 429
   },
+  "movie:275": {
+   "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+   "budget": 7000000,
+   "cast": [
+    {
+     "c": "Marge Gunderson",
+     "n": "Frances McDormand"
+    },
+    {
+     "c": "Jerry Lundegaard",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Carl Showalter",
+     "n": "Steve Buscemi"
+    },
+    {
+     "c": "Gaear Grimsrud",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Wade Gustafson",
+     "n": "Harve Presnell"
+    },
+    {
+     "c": "Norm Gunderson",
+     "n": "John Carroll Lynch"
+    },
+    {
+     "c": "Jean Lundegaard",
+     "n": "Kristin Rudrüd"
+    },
+    {
+     "c": "Lou",
+     "n": "Bruce Bohne"
+    },
+    {
+     "c": "Shep Proudfoot",
+     "n": "Steve Reevis"
+    },
+    {
+     "c": "Mike Yanagita",
+     "n": "Steve Park"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joel Coen"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 275,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jerry Lundegaard is a small-town Minnesota car salesman deeply in debt and willing to do almost anything to get out. Police chief Marge Gunderson discovers a string of violent crimes as Jerry's schemes spiral out of control.",
+   "popularity": 10.3056,
+   "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-04-05",
+   "revenue": 60611975,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A lot can happen in the middle of nowhere.",
+   "title": "Fargo",
+   "trailer": {
+    "key": "Y4h7NITkNG0",
+    "name": "Official Sizzle",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.849,
+   "vote_count": 9596
+  },
   "movie:33875": {
    "backdrop_path": "/6nfEmbfWMuMBenYMOY6Vdho3Ycg.jpg",
    "budget": 0,
@@ -4037,6 +4509,193 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 411
+  },
+  "movie:38575": {
+   "backdrop_path": "/v8DepuF6gizphLzIyNZeQiB0hij.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Dre Parker",
+     "n": "Jaden Smith"
+    },
+    {
+     "c": "Mr. Han",
+     "n": "Jackie Chan"
+    },
+    {
+     "c": "Sherry Parker",
+     "n": "Taraji P. Henson"
+    },
+    {
+     "c": "Meiying",
+     "n": "Wenwen Han"
+    },
+    {
+     "c": "Cheng",
+     "n": "Zhenwei Wang"
+    },
+    {
+     "c": "Master Li",
+     "n": "Yu Rongguang"
+    },
+    {
+     "c": "Meiying's Dad",
+     "n": "Wu Zhensu"
+    },
+    {
+     "c": "Mrs. Po",
+     "n": "Wang Ji"
+    },
+    {
+     "c": "History Teacher",
+     "n": "Tess Liu"
+    },
+    {
+     "c": "Bao",
+     "n": "Xu Ming"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Harald Zwart"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "id": 38575,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+   "popularity": 9.6995,
+   "poster_path": "/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+   "production_countries": [
+    "CN",
+    "HK",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-06-10",
+   "revenue": 359126022,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A challenge he never imagined. A teacher he never expected.",
+   "title": "The Karate Kid",
+   "trailer": {
+    "key": "XY8amUImEu0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.567,
+   "vote_count": 6802
   },
   "movie:407375": {
    "backdrop_path": "/kgjg3FaCgv37ivD9g7v9d02Ap7J.jpg",
@@ -5010,6 +5669,162 @@
    "vote_average": 5.86,
    "vote_count": 949
   },
+  "movie:675": {
+   "backdrop_path": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Harry Potter",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Ron Weasley",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Hermione Granger",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Dolores Umbridge",
+     "n": "Imelda Staunton"
+    },
+    {
+     "c": "Bellatrix Lestrange",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Rubeus Hagrid",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Sirius Black",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Lord Voldemort",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Albus Dumbledore",
+     "n": "Michael Gambon"
+    },
+    {
+     "c": "Severus Snape",
+     "n": "Alan Rickman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Yates"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 675,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+   "popularity": 22.8061,
+   "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-07-08",
+   "revenue": 938212738,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The rebellion begins.",
+   "title": "Harry Potter and the Order of the Phoenix",
+   "trailer": {
+    "key": "47PHbQTmw5g",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.673,
+   "vote_count": 21495
+  },
   "movie:714375": {
    "backdrop_path": "/lMbUiOZh8wELqY63v3ou54yTvEG.jpg",
    "budget": 0,
@@ -5499,6 +6314,137 @@
    "type": "movie",
    "vote_average": 6.882,
    "vote_count": 321
+  },
+  "movie:82675": {
+   "backdrop_path": "/5M92Rtz6r01HLrN0TMrU8jCbyVm.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Bryan Mills",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Kim Mills",
+     "n": "Maggie Grace"
+    },
+    {
+     "c": "Lenore St. John",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Sam Gilroy",
+     "n": "Leland Orser"
+    },
+    {
+     "c": "Bernie Harris",
+     "n": "D. B. Sweeney"
+    },
+    {
+     "c": "Mark Casey",
+     "n": "Jon Gries"
+    },
+    {
+     "c": "Murad Krasniqi",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Jamie",
+     "n": "Luke Grimes"
+    },
+    {
+     "c": "Inspector Durmaz",
+     "n": "Kevork Malikyan"
+    },
+    {
+     "c": "Suko",
+     "n": "Alain Figlarz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Olivier Megaton"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 82675,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+   "popularity": 8.5305,
+   "poster_path": "/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+   "production_countries": [
+    "FR",
+    "TR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-09-27",
+   "revenue": 376100000,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tr",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "First they took his daughter. Now they're coming for him.",
+   "title": "Taken 2",
+   "trailer": {
+    "key": "otHUjWVgIig",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.372,
+   "vote_count": 7364
   },
   "movie:8975": {
    "backdrop_path": "/mGT2XVE9MjSkGeTAw3VQFwECBYZ.jpg",

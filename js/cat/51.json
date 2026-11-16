@@ -1,7 +1,123 @@
 {
  "bucket": "51",
- "count": 61,
+ "count": 64,
  "titles": {
+  "movie:102651": {
+   "backdrop_path": "/xjotE7aFdZ0D8aGriYjFOtDayct.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "Maleficent",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Aurora",
+     "n": "Elle Fanning"
+    },
+    {
+     "c": "Knotgrass",
+     "n": "Imelda Staunton"
+    },
+    {
+     "c": "Stefan",
+     "n": "Sharlto Copley"
+    },
+    {
+     "c": "Flittle",
+     "n": "Lesley Manville"
+    },
+    {
+     "c": "Thistletwit",
+     "n": "Juno Temple"
+    },
+    {
+     "c": "Diaval",
+     "n": "Sam Riley"
+    },
+    {
+     "c": "Prince Phillip",
+     "n": "Brenton Thwaites"
+    },
+    {
+     "c": "King Henry",
+     "n": "Kenneth Cranham"
+    },
+    {
+     "c": "Princess Leila's Handmaiden",
+     "n": "Sarah Flind"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Stromberg"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Action",
+    "Family",
+    "Romance"
+   ],
+   "id": 102651,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. She rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal – an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom – and to Maleficent's true happiness as well.",
+   "popularity": 11.1572,
+   "poster_path": "/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Freeform"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-07-04",
+   "revenue": 758539785,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't believe the fairy tale.",
+   "title": "Maleficent",
+   "trailer": {
+    "key": "28U4LxdkNWI",
+    "name": "Official Full Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.088,
+   "vote_count": 14055
+  },
   "movie:10451": {
    "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
    "budget": 0,
@@ -4237,6 +4353,265 @@
    "type": "movie",
    "vote_average": 6.472,
    "vote_count": 847
+  },
+  "movie:49051": {
+   "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Bilbo Baggins",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Gandalf the Grey",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Thorin Oakenshield",
+     "n": "Richard Armitage"
+    },
+    {
+     "c": "Bofur",
+     "n": "James Nesbitt"
+    },
+    {
+     "c": "Balin",
+     "n": "Ken Stott"
+    },
+    {
+     "c": "Radagast the Brown",
+     "n": "Sylvester McCoy"
+    },
+    {
+     "c": "The Great Goblin",
+     "n": "Barry Humphries"
+    },
+    {
+     "c": "Fili",
+     "n": "Dean O'Gorman"
+    },
+    {
+     "c": "Kili",
+     "n": "Aidan Turner"
+    },
+    {
+     "c": "Dwalin",
+     "n": "Graham McTavish"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 49051,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+   "popularity": 17.9718,
+   "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-12-12",
+   "revenue": 1021103568,
+   "runtime": 169,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "From the smallest beginnings come the greatest legends.",
+   "title": "The Hobbit: An Unexpected Journey",
+   "trailer": {
+    "key": "CXqZK-nbZ74",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.389,
+   "vote_count": 20342
+  },
+  "movie:4951": {
+   "backdrop_path": "/4ssWRanWTKN9CQ0tfq5S1whP7tr.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "Patrick Verona",
+     "n": "Heath Ledger"
+    },
+    {
+     "c": "Katarina Stratford",
+     "n": "Julia Stiles"
+    },
+    {
+     "c": "Cameron James",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Bianca Stratford",
+     "n": "Larisa Oleynik"
+    },
+    {
+     "c": "Michael Eckman",
+     "n": "David Krumholtz"
+    },
+    {
+     "c": "Joey Donner",
+     "n": "Andrew Keegan"
+    },
+    {
+     "c": "Mandella",
+     "n": "Susan May Pratt"
+    },
+    {
+     "c": "Chastity",
+     "n": "Gabrielle Union"
+    },
+    {
+     "c": "Walter Stratford",
+     "n": "Larry Miller"
+    },
+    {
+     "c": "Mr. Morgan",
+     "n": "Daryl Mitchell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gil Junger"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+   ],
+   "id": 4951,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After discovering his high school crush can't date until her brash older sister does, a lovesick teen enlists a bad-boy classmate to woo her.",
+   "popularity": 12.1749,
+   "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-03-30",
+   "revenue": 53478166,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "How do I loathe thee? Let me count the ways.",
+   "title": "10 Things I Hate About You",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 9313
   },
   "movie:539651": {
    "backdrop_path": "/2JMG17kxeq1w88oHUkesxpIHmTZ.jpg",

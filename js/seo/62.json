@@ -1,6 +1,6 @@
 {
  "bucket": "62",
- "count": 68,
+ "count": 78,
  "titles": {
   "movie:1000862": {
    "d": "The Good Teacher (2024): Drama/Thriller film. Story: Julien, a young teacher, is wrongfully accused of… See cast and TMDB rating 6.4/10.",
@@ -1350,6 +1350,70 @@
    "t": "Carosello in Love (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2025"
   },
+  "movie:162": {
+   "d": "Edward Scissorhands (1992): Fantasy/Drama film. Story: A small suburban town receives a visit from a… See cast, budget $20M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+   "industry": "world",
+   "k": "Edward Scissorhands, Edward Scissorhands movie, Edward Scissorhands cast, Edward Scissorhands story, Edward Scissorhands box office collection, Edward Scissorhands budget, Edward Scissorhands review, Edward Scissorhands rating, Edward Scissorhands release date, Edward Scissorhands Fantasy, Edward Scissorhands Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Johnny Depp"
+     },
+     {
+      "@type": "Person",
+      "name": "Winona Ryder"
+     },
+     {
+      "@type": "Person",
+      "name": "Dianne Wiest"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Michael Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Kathy Baker"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14209,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Edward Scissorhands (1992): Fantasy/Drama film. Story: A small suburban town receives a visit from a… See cast, budget $20M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Burton"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=162",
+    "name": "Edward Scissorhands",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1992-02-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=162"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Edward Scissorhands (1992)</h1>\n<p class=\"ssr-lead\">A small suburban town receives a visit from a castaway unfinished science experiment named Edward.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 February 1992</li><li>Runtime: 105 minutes</li><li>Director: Tim Burton</li><li>Genres: Fantasy, Drama, Romance</li><li>Budget: $20M</li><li>TMDB rating: 7.7/10 (14209 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Johnny Depp as Edward Scissorhands</li><li>Winona Ryder as Kim</li><li>Dianne Wiest as Peg</li><li>Anthony Michael Hall as Jim</li><li>Kathy Baker as Joyce</li><li>Robert Oliveri as Kevin</li><li>Conchata Ferrell as Helen</li><li>Caroline Aaron as Marge</li><li>Dick Anthony Williams as Officer Allen</li><li>O-Lan Jones as Esmeralda</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Edward Scissorhands (1992) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1992"
+  },
   "movie:1641962": {
    "d": "Untold: Chess Mates (2026): Documentary film. Story: Magnus Carlsen, widely regarded as the greatest chess… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/8SEs6yUgrE5shU8tqXuR2MQIdlc.jpg",
@@ -1796,6 +1860,70 @@
    "t": "Night of the Comet (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1984"
   },
+  "movie:194662": {
+   "d": "Birdman or (The Unexpected Virtue of Ignorance) (2015): Drama/Comedy film. Story: A fading actor best known for his portrayal of a… See cast and budget $18M.",
+   "img": "https://image.tmdb.org/t/p/w780/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+   "industry": "world",
+   "k": "Birdman or (The Unexpected Virtue of Ignorance), Birdman or (The Unexpected Virtue of Ignorance) movie, Birdman or (The Unexpected Virtue of Ignorance) cast, Birdman or (The Unexpected Virtue of Ignorance) story, Birdman or (The Unexpected Virtue of Ignorance) box office collection, Birdman or (The Unexpected Virtue of Ignorance) budget, Birdman or (The Unexpected Virtue of Ignorance) review, Birdman or (The Unexpected Virtue of Ignorance) rating, Birdman or (The Unexpected Virtue of Ignorance) release date, Birdman or (The Unexpected Virtue of Ignorance) trailer, Birdman or (The Unexpected Virtue of Ignorance) Drama, Birdman or (The Unexpected Virtue of Ignorance) Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Michael Keaton"
+     },
+     {
+      "@type": "Person",
+      "name": "Emma Stone"
+     },
+     {
+      "@type": "Person",
+      "name": "Zach Galifianakis"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Norton"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrea Riseborough"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14002,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Birdman or (The Unexpected Virtue of Ignorance) (2015): Drama/Comedy film. Story: A fading actor best known for his portrayal of a… See cast and budget $18M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alejandro G. Iñárritu"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Drama",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=194662",
+    "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-01-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=194662"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Birdman or (The Unexpected Virtue of Ignorance) (2015)</h1>\n<p class=\"ssr-lead\">A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 January 2015</li><li>Runtime: 120 minutes</li><li>Director: Alejandro G. Iñárritu</li><li>Genres: Drama, Comedy</li><li>Budget: $18M</li><li>TMDB rating: 7.4/10 (14002 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Keaton as Riggan</li><li>Emma Stone as Sam</li><li>Zach Galifianakis as Jake</li><li>Edward Norton as Mike</li><li>Andrea Riseborough as Laura</li><li>Naomi Watts as Lesley</li><li>Amy Ryan as Sylvia</li><li>Lindsay Duncan as Tabitha</li><li>Merritt Wever as Annie</li><li>Jeremy Shamos as Ralph</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Birdman or (The Unexpected Virtue of Ignorance) (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:19562": {
    "d": "The Magnificent One (1973): Comedy/Romance film. Story: A writer of pulpy book series in which he's the hero… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/9VIir77wPGtyVvB4Oq5t7md9DpX.jpg",
@@ -1859,6 +1987,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Magnificent One (1973)</h1>\n<p class=\"ssr-lead\">A writer of pulpy book series in which he&#x27;s the hero and his beautiful English roommate is the love interest attempts to finish his new book in time at the publisher&#x27;s demand.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 1973</li><li>Runtime: 95 minutes</li><li>Director: Philippe de Broca</li><li>Genres: Comedy, Romance, Action, Adventure</li><li>TMDB rating: 7.0/10 (403 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Paul Belmondo as François Merlin / Bob Saint-Clar</li><li>Jacqueline Bisset as Christine / Tatiana</li><li>Vittorio Caprioli as Georges Charron / Colonel Karpov</li><li>Hans Meyer as Colonel Collins</li><li>Monique Tarbès as Mme Berger</li><li>Mario David as Le contractuel myope</li><li>Bruno Garcin as Pilu</li><li>Raymond Gérôme as Général Pontaubert</li><li>Jean Lefebvre as L&#x27;électricien</li><li>Fabrizio Moresco as L&#x27;étudiant à la pipe</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, France Channel Amazon Channel</li><li>Rent: Amazon Video</li><li>Buy: Amazon Video</li></ul>\n</article>",
    "t": "The Magnificent One (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1973"
+  },
+  "movie:2062": {
+   "d": "Ratatouille (2007): Animation/Comedy film. Story: In one of Paris's finest restaurants, Remy, a… See cast, budget $150M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+   "industry": "world",
+   "k": "Ratatouille, Ratatouille movie, Ratatouille cast, Ratatouille story, Ratatouille box office collection, Ratatouille budget, Ratatouille review, Ratatouille rating, Ratatouille release date, Ratatouille Animation, Ratatouille Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Patton Oswalt"
+     },
+     {
+      "@type": "Person",
+      "name": "Lou Romano"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian Holm"
+     },
+     {
+      "@type": "Person",
+      "name": "Brian Dennehy"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Sohn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 19225,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Ratatouille (2007): Animation/Comedy film. Story: In one of Paris's finest restaurants, Remy, a… See cast, budget $150M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Brad Bird"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=2062",
+    "name": "Ratatouille",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=2062"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ratatouille (2007)</h1>\n<p class=\"ssr-lead\">In one of Paris&#x27;s finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family&#x27;s wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2007</li><li>Runtime: 111 minutes</li><li>Director: Brad Bird</li><li>Genres: Animation, Comedy, Family, Fantasy</li><li>Budget: $150M</li><li>TMDB rating: 7.8/10 (19225 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Patton Oswalt as Remy (voice)</li><li>Lou Romano as Linguini (voice)</li><li>Ian Holm as Skinner (voice)</li><li>Brian Dennehy as Django (voice)</li><li>Peter Sohn as Emile (voice)</li><li>Peter O&#x27;Toole as Anton Ego (voice)</li><li>Brad Garrett as Gusteau (voice)</li><li>Janeane Garofalo as Colette (voice)</li><li>Will Arnett as Horst (voice)</li><li>Julius Callahan as Lalo / Francois (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Ratatouille (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:209262": {
    "d": "Parkland (2013): History/Drama film. Story: November 22nd, 1963 was a day that changed the world… See cast, budget $10M, and TMDB rating 6.2/10.",
@@ -1992,6 +2184,134 @@
    "t": "A Matter of Life and Death (1946) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1946"
   },
+  "movie:297762": {
+   "d": "Wonder Woman (2017): Action/Adventure film. Story: An Amazon princess comes to the world of Man in the… See cast, budget $149M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+   "industry": "world",
+   "k": "Wonder Woman, Wonder Woman movie, Wonder Woman cast, Wonder Woman story, Wonder Woman box office collection, Wonder Woman budget, Wonder Woman review, Wonder Woman rating, Wonder Woman release date, Wonder Woman trailer, Wonder Woman Action, Wonder Woman Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Gal Gadot"
+     },
+     {
+      "@type": "Person",
+      "name": "Chris Pine"
+     },
+     {
+      "@type": "Person",
+      "name": "Connie Nielsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Wright"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny Huston"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21379,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Wonder Woman (2017): Action/Adventure film. Story: An Amazon princess comes to the world of Man in the… See cast, budget $149M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Patty Jenkins"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=297762",
+    "name": "Wonder Woman",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-05-30"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=297762"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Wonder Woman (2017)</h1>\n<p class=\"ssr-lead\">An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 May 2017</li><li>Runtime: 141 minutes</li><li>Director: Patty Jenkins</li><li>Genres: Action, Adventure, Fantasy</li><li>Budget: $149M</li><li>TMDB rating: 7.2/10 (21379 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gal Gadot as Diana</li><li>Chris Pine as Steve Trevor</li><li>Connie Nielsen as Hippolyta</li><li>Robin Wright as Antiope</li><li>Danny Huston as Ludendorff</li><li>David Thewlis as Sir Patrick</li><li>Saïd Taghmaoui as Sameer</li><li>Ewen Bremner as Charlie</li><li>Eugene Brave Rock as The Chief</li><li>Lucy Davis as Etta</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Wonder Woman (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
+  },
+  "movie:315162": {
+   "d": "Puss in Boots: The Last Wish (2023): Animation/Adventure film. Story: Puss in Boots discovers that his passion for… See cast and budget $90M.",
+   "img": "https://image.tmdb.org/t/p/w780/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+   "industry": "world",
+   "k": "Puss in Boots: The Last Wish, Puss in Boots: The Last Wish movie, Puss in Boots: The Last Wish cast, Puss in Boots: The Last Wish story, Puss in Boots: The Last Wish box office collection, Puss in Boots: The Last Wish budget, Puss in Boots: The Last Wish review, Puss in Boots: The Last Wish rating, Puss in Boots: The Last Wish release date, Puss in Boots: The Last Wish trailer, Puss in Boots: The Last Wish Animation, Puss in Boots: The Last Wish Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Salma Hayek Pinault"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Guillén"
+     },
+     {
+      "@type": "Person",
+      "name": "Wagner Moura"
+     },
+     {
+      "@type": "Person",
+      "name": "Florence Pugh"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9393,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Puss in Boots: The Last Wish (2023): Animation/Adventure film. Story: Puss in Boots discovers that his passion for… See cast and budget $90M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joel Crawford"
+     }
+    ],
+    "duration": "PT103M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=315162",
+    "name": "Puss in Boots: The Last Wish",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-01-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=315162"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Puss in Boots: The Last Wish (2023)</h1>\n<p class=\"ssr-lead\">Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 January 2023</li><li>Runtime: 103 minutes</li><li>Director: Joel Crawford</li><li>Genres: Animation, Adventure, Fantasy, Comedy, Family</li><li>Budget: $90M</li><li>TMDB rating: 8.2/10 (9393 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Antonio Banderas as Puss in Boots (voice)</li><li>Salma Hayek Pinault as Kitty Softpaws (voice)</li><li>Harvey Guillén as Perrito (voice)</li><li>Wagner Moura as Wolf (voice)</li><li>Florence Pugh as Goldilocks (voice)</li><li>Olivia Colman as Mama Bear (voice)</li><li>Ray Winstone as Papa Bear (voice)</li><li>Samson Kayo as Baby Bear (voice)</li><li>John Mulaney as Jack Horner (voice)</li><li>Da&#x27;Vine Joy Randolph as Mama Luna (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Puss in Boots: The Last Wish (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:31662": {
    "d": "Affliction (1998): Crime/Drama film. Story: A small town policeman must investigate a suspicious… See cast, budget $6M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/hNNlrvbqYqAPGRf4cCsrF3kBsM1.jpg",
@@ -2055,6 +2375,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Affliction (1998)</h1>\n<p class=\"ssr-lead\">A small town policeman must investigate a suspicious hunting accident. The investigation and other events result in him slowly disintegrating mentally.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 1998</li><li>Runtime: 114 minutes</li><li>Director: Paul Schrader</li><li>Genres: Crime, Drama</li><li>Budget: $6M</li><li>TMDB rating: 6.3/10 (339 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nick Nolte as Wade Whitehouse</li><li>Sissy Spacek as Margie Fogg</li><li>James Coburn as Glen Whitehouse</li><li>Willem Dafoe as Rolfe Whitehouse</li><li>Mary Beth Hurt as Lillian</li><li>Jim True-Frost as Jack Hewitt</li><li>Marian Seldes as Alma Pittman</li><li>Holmes Osborne as Gordon LaRiviere</li><li>Brigid Tierney as Jill</li><li>Sean McCann as Evan Twombley</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Amazon Prime Video with Ads, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Affliction (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:332562": {
+   "d": "A Star Is Born (2018): Music/Drama film. Story: Seasoned musician Jackson Maine discovers — and falls… See cast, budget $36M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+   "industry": "world",
+   "k": "A Star Is Born, A Star Is Born movie, A Star Is Born cast, A Star Is Born story, A Star Is Born box office collection, A Star Is Born budget, A Star Is Born review, A Star Is Born rating, A Star Is Born release date, A Star Is Born trailer, A Star Is Born Music, A Star Is Born Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Lady Gaga"
+     },
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     },
+     {
+      "@type": "Person",
+      "name": "Sam Elliott"
+     },
+     {
+      "@type": "Person",
+      "name": "Andrew Dice Clay"
+     },
+     {
+      "@type": "Person",
+      "name": "Rafi Gavron"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12497,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "A Star Is Born (2018): Music/Drama film. Story: Seasoned musician Jackson Maine discovers — and falls… See cast, budget $36M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bradley Cooper"
+     }
+    ],
+    "duration": "PT136M",
+    "genre": [
+     "Music",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=332562",
+    "name": "A Star Is Born",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-10-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=332562"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Star Is Born (2018)</h1>\n<p class=\"ssr-lead\">Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally&#x27;s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 October 2018</li><li>Runtime: 136 minutes</li><li>Director: Bradley Cooper</li><li>Genres: Music, Drama, Romance</li><li>Budget: $36M</li><li>TMDB rating: 7.5/10 (12497 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lady Gaga as Ally Campana</li><li>Bradley Cooper as Jackson Maine</li><li>Sam Elliott as Bobby Maine</li><li>Andrew Dice Clay as Lorenzo Campana</li><li>Rafi Gavron as Rez Gavron</li><li>Anthony Ramos as Ramon</li><li>Dave Chappelle as George &quot;Noodles&quot; Stone</li><li>Alec Baldwin as Alec Baldwin</li><li>Marlon Williams as Marlon Williams</li><li>Brandi Carlile as Brandi Carlile</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "A Star Is Born (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:335462": {
    "d": "Wolf Warrior (2015): Action/War film. Story: A Chinese special force soldier with extraordinary… See cast, budget $12M, and TMDB rating 6.2/10.",
@@ -2891,6 +3275,70 @@
    "t": "Rust Creek (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:562": {
+   "d": "Die Hard (1988): Action/Thriller film. Story: High above the city of L.A. a team of terrorists has… See cast, budget $28M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+   "industry": "world",
+   "k": "Die Hard, Die Hard movie, Die Hard cast, Die Hard story, Die Hard box office collection, Die Hard budget, Die Hard review, Die Hard rating, Die Hard release date, Die Hard trailer, Die Hard Action, Die Hard Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Rickman"
+     },
+     {
+      "@type": "Person",
+      "name": "Alexander Godunov"
+     },
+     {
+      "@type": "Person",
+      "name": "Bonnie Bedelia"
+     },
+     {
+      "@type": "Person",
+      "name": "Reginald VelJohnson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 12872,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Die Hard (1988): Action/Thriller film. Story: High above the city of L.A. a team of terrorists has… See cast, budget $28M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John McTiernan"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Action",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=562",
+    "name": "Die Hard",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1988-07-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=562"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Die Hard (1988)</h1>\n<p class=\"ssr-lead\">High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He&#x27;s alone, tired... and the only chance anyone has got.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 July 1988</li><li>Runtime: 132 minutes</li><li>Director: John McTiernan</li><li>Genres: Action, Thriller</li><li>Budget: $28M</li><li>TMDB rating: 7.8/10 (12872 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as John McClane</li><li>Alan Rickman as Hans Gruber</li><li>Alexander Godunov as Karl</li><li>Bonnie Bedelia as Holly Gennaro McClane</li><li>Reginald VelJohnson as Al Powell</li><li>Paul Gleason as Dwayne Robinson</li><li>De&#x27;voreaux White as Argyle</li><li>William Atherton as Richard Thornburg</li><li>Hart Bochner as Harry Ellis</li><li>James Shigeta as Joseph Yoshinobu Takagi</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Die Hard (1988) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1988"
+  },
   "movie:584962": {
    "d": "Between Two Ferns: The Movie (2019): Comedy film. Story: Galifianakis dreamed of becoming a star. But when… See cast and TMDB rating 5.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/bffxv4SSJefy3CdgSqVTlWbRiOt.jpg",
@@ -2953,6 +3401,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Between Two Ferns: The Movie (2019)</h1>\n<p class=\"ssr-lead\">Galifianakis dreamed of becoming a star. But when Will Ferrell discovered his public access TV show, &#x27;Between Two Ferns&#x27; and uploaded it to Funny or Die, Zach became a viral laughing stock. Now Zach and his crew are taking a road trip to complete a series of high-profile celebrity interviews and restore his reputation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2019</li><li>Runtime: 82 minutes</li><li>Director: Scott Aukerman</li><li>Genres: Comedy</li><li>TMDB rating: 5.9/10 (983 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Zach Galifianakis as Zach Galifianakis</li><li>Lauren Lapkus as Carol</li><li>Ryan Gaul as Cam</li><li>Jiavani as Boom Boom</li><li>Will Ferrell as Will Ferrell</li><li>Matthew McConaughey as Matthew McConaughey</li><li>David Letterman as David Letterman</li><li>Peter Dinklage as Peter Dinklage</li><li>Jon Hamm as Jon Hamm</li><li>John Legend as John Legend</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Between Two Ferns: The Movie (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:62": {
+   "d": "2001: A Space Odyssey (2017): Science Fiction/Mystery film. Story: Humanity finds a mysterious object buried beneath the… See cast and budget $12M.",
+   "img": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+   "industry": "world",
+   "k": "2001: A Space Odyssey, 2001: A Space Odyssey movie, 2001: A Space Odyssey cast, 2001: A Space Odyssey story, 2001: A Space Odyssey box office collection, 2001: A Space Odyssey budget, 2001: A Space Odyssey review, 2001: A Space Odyssey rating, 2001: A Space Odyssey release date, 2001: A Space Odyssey trailer, 2001: A Space Odyssey Science Fiction, 2001: A Space Odyssey Mystery, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keir Dullea"
+     },
+     {
+      "@type": "Person",
+      "name": "Gary Lockwood"
+     },
+     {
+      "@type": "Person",
+      "name": "William Sylvester"
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas Rain"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Richter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 13152,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "2001: A Space Odyssey (2017): Science Fiction/Mystery film. Story: Humanity finds a mysterious object buried beneath the… See cast and budget $12M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stanley Kubrick"
+     }
+    ],
+    "duration": "PT149M",
+    "genre": [
+     "Science Fiction",
+     "Mystery"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=62",
+    "name": "2001: A Space Odyssey",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-10-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=62"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>2001: A Space Odyssey (2017)</h1>\n<p class=\"ssr-lead\">Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world&#x27;s most advanced super computer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 October 2017</li><li>Runtime: 149 minutes</li><li>Director: Stanley Kubrick</li><li>Genres: Science Fiction, Mystery, Adventure</li><li>Budget: $12M</li><li>TMDB rating: 8.0/10 (13152 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keir Dullea as Dr. David Bowman</li><li>Gary Lockwood as Dr. Frank Poole</li><li>William Sylvester as Dr. Heywood Floyd</li><li>Douglas Rain as HAL 9000 (voice)</li><li>Daniel Richter as Moonwatcher</li><li>Leonard Rossiter as Dr. Andrei Smyslov</li><li>Margaret Tyzack as Elena</li><li>Robert Beatty as Dr. Ralph Halvorsen</li><li>Sean Sullivan as Dr. Roy Michaels</li><li>Frank W. Miller as Mission Controller (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "2001: A Space Odyssey (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:73262": {
    "d": "Hell (2011): Horror/Science Fiction film. Story: In 2016 the sun has turned the entire world into a… See cast and TMDB rating 5.7/10.",
@@ -3017,6 +3529,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Hell (2011)</h1>\n<p class=\"ssr-lead\">In 2016 the sun has turned the entire world into a scorched and barren wasteland. The humans who have survived are either resourceful or violent, and sometimes both. Marie, her little sister Leonie, and best friend Phillip, are in a car headed to the mountains - rumor has it there is water there. Along the way they meet Tom, a first-rate mechanic. But can they trust him? Fraught with deep distrust, the group is lured into an ambush where their real battle for survival begins.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 September 2011</li><li>Runtime: 89 minutes</li><li>Director: Tim Fehlbaum</li><li>Genres: Horror, Science Fiction, Thriller, Mystery</li><li>TMDB rating: 5.7/10 (319 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hannah Herzsprung as Marie</li><li>Lars Eidinger as Phillip</li><li>Stipe Erceg as Tom</li><li>Lisa Vicari as Leonie</li><li>Angela Winkler as Bäuerin Elisabeth</li><li>Yoann Blanc as Micha</li><li>Christoph Gaugler as Bauer Brückner</li><li>Ellen Schweiger as Oma</li><li>Luca Winkler as Jens</li><li>Tammo Winkler as Toni</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video, Sky Store, YouTube</li><li>Buy: Apple TV Store, Amazon Video, Sky Store, YouTube</li></ul>\n</article>",
    "t": "Hell (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
+  },
+  "movie:762": {
+   "d": "Monty Python and the Holy Grail (1979): Adventure/Comedy film. Story: King Arthur, accompanied by his squire, recruits his… See cast and budget $400.0k.",
+   "img": "https://image.tmdb.org/t/p/w780/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+   "industry": "world",
+   "k": "Monty Python and the Holy Grail, Monty Python and the Holy Grail movie, Monty Python and the Holy Grail cast, Monty Python and the Holy Grail story, Monty Python and the Holy Grail box office collection, Monty Python and the Holy Grail budget, Monty Python and the Holy Grail review, Monty Python and the Holy Grail rating, Monty Python and the Holy Grail release date, Monty Python and the Holy Grail trailer, Monty Python and the Holy Grail Adventure, Monty Python and the Holy Grail Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Graham Chapman"
+     },
+     {
+      "@type": "Person",
+      "name": "John Cleese"
+     },
+     {
+      "@type": "Person",
+      "name": "Eric Idle"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Gilliam"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Jones"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6726,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Monty Python and the Holy Grail (1979): Adventure/Comedy film. Story: King Arthur, accompanied by his squire, recruits his… See cast and budget $400.0k.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Terry Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "Terry Gilliam"
+     }
+    ],
+    "duration": "PT91M",
+    "genre": [
+     "Adventure",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=762",
+    "name": "Monty Python and the Holy Grail",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1979-12-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=762"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Monty Python and the Holy Grail (1979)</h1>\n<p class=\"ssr-lead\">King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not to enter, as &quot;it is a silly place&quot;.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 December 1979</li><li>Runtime: 91 minutes</li><li>Director: Terry Jones, Terry Gilliam</li><li>Genres: Adventure, Comedy, Fantasy</li><li>Budget: $400.0k</li><li>TMDB rating: 7.8/10 (6726 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Graham Chapman as King Arthur / Voice of God / Middle Head / Hiccoughing Guard</li><li>John Cleese as Second Swallow-Savvy Guard / The Black Knight / Peasant 3 / Sir Launcelot the Brave / Taunting French Guard / Tim the Enchanter</li><li>Eric Idle as Dead Collector / Peasant 1 / Sir Robin the Not-Quite-So-Brave-as-Sir Launcelot / First Swamp Castle Guard / Concorde / Roger the Shrubber / Brother Maynard</li><li>Terry Gilliam as Patsy / Green Knight / Old Man from Scene 24 (Bridgekeeper) / Sir Bors / Animator / Gorilla Hand</li><li>Terry Jones as Dennis&#x27;s Mother / Sir Bedevere / Left Head / Prince Herbert / Voice of Cartoon Scribe</li><li>Michael Palin as First Swallow-Savvy Guard / Dennis / Peasant 2 / Right Head / Sir Galahad the Pure / Narrator / King of Swamp Castle / Brother Maynard&#x27;s Brother / Leader of The Knights Who Say NI!</li><li>Connie Booth as The Witch</li><li>Carol Cleveland as Zoot / Dingo</li><li>Neil Innes as First Monk / Singing Minstrel / Page Crushed by the Rabbit / Peasant #4</li><li>Bee Duffell as Old Crone</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, fuboTV, Peacock Premium, Britbox Apple TV channel, BritBox Amazon Channel, Amazon Prime Video with Ads, Peacock Premium Plus, Shout! Factory Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
+   "t": "Monty Python and the Holy Grail (1979) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1979"
   },
   "movie:790462": {
    "d": "I.S.S. (2024): Science Fiction/Thriller film. Story: Tensions flare in the near future aboard the… See cast, budget $13.8M, and TMDB rating 5.7/10.",
@@ -3209,6 +3789,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Force of Nature: The Dry 2 (2024)</h1>\n<p class=\"ssr-lead\">When five women take part in a corporate hiking retreat and only four come out on the other side, Federal Agents Aaron Falk and Carmen Cooper head deep into the Victorian mountain ranges to investigate in the hopes of finding their whistle-blowing informant, Alice Russell, alive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 February 2024</li><li>Runtime: 112 minutes</li><li>Director: Robert Connolly</li><li>Genres: Mystery, Thriller</li><li>TMDB rating: 6.3/10 (306 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eric Bana as Aaron Falk</li><li>Anna Torv as Alice</li><li>Deborra-Lee Furness as Jill Bailey</li><li>Robin McLeavy as Lauren</li><li>Sisi Stringer as Beth</li><li>Lucy Ansell as Bree</li><li>Jacqueline McKenzie as Carmen Cooper</li><li>Jeremy Lindsay Taylor as Erik Falk</li><li>Richard Roxburgh as Daniel Bailey</li><li>Tony Briggs as Ian Chase</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu, Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Force of Nature: The Dry 2 (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2024"
+  },
+  "movie:862": {
+   "d": "Toy Story (1995): Family/Comedy film. Story: Led by Woody, Andy's toys live happily in his room… See cast, budget $30M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg",
+   "industry": "world",
+   "k": "Toy Story, Toy Story movie, Toy Story cast, Toy Story story, Toy Story box office collection, Toy Story budget, Toy Story review, Toy Story rating, Toy Story release date, Toy Story trailer, Toy Story Family, Toy Story Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Tim Allen"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Rickles"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Varney"
+     },
+     {
+      "@type": "Person",
+      "name": "Wallace Shawn"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20837,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Toy Story (1995): Family/Comedy film. Story: Led by Woody, Andy's toys live happily in his room… See cast, budget $30M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Lasseter"
+     }
+    ],
+    "duration": "PT81M",
+    "genre": [
+     "Family",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=862",
+    "name": "Toy Story",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1995-11-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=862"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Toy Story (1995)</h1>\n<p class=\"ssr-lead\">Led by Woody, Andy&#x27;s toys live happily in his room until Andy&#x27;s birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy&#x27;s heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 1995</li><li>Runtime: 81 minutes</li><li>Director: John Lasseter</li><li>Genres: Family, Comedy, Animation, Adventure</li><li>Budget: $30M</li><li>TMDB rating: 8.0/10 (20837 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as Woody (voice)</li><li>Tim Allen as Buzz Lightyear (voice)</li><li>Don Rickles as Mr. Potato Head (voice)</li><li>Jim Varney as Slinky Dog (voice)</li><li>Wallace Shawn as Rex (voice)</li><li>John Ratzenberger as Hamm (voice)</li><li>Annie Potts as Bo Peep (voice)</li><li>John Morris as Andy (voice)</li><li>Erik von Detten as Sid (voice)</li><li>Laurie Metcalf as Mrs. Davis (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li></ul>\n</article>",
+   "t": "Toy Story (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1995"
   },
   "movie:881462": {
    "d": "Still Time (2023): Romance/Comedy film. Story: Dante accidentally kisses Alice and they get engaged. See cast and TMDB rating 6.7/10.",

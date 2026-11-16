@@ -1,6 +1,6 @@
 {
  "bucket": "80",
- "count": 63,
+ "count": 71,
  "titles": {
   "movie:10380": {
    "backdrop_path": "/8UpJ8svNnwVtpu8n62vGke8MOJf.jpg",
@@ -780,6 +780,126 @@
    "type": "movie",
    "vote_average": 8.176,
    "vote_count": 1462
+  },
+  "movie:127380": {
+   "backdrop_path": "/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Dory (voice)",
+     "n": "Ellen DeGeneres"
+    },
+    {
+     "c": "Marlin (voice)",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Hank (voice)",
+     "n": "Ed O'Neill"
+    },
+    {
+     "c": "Nemo (voice)",
+     "n": "Hayden Rolence"
+    },
+    {
+     "c": "Jenny (voice)",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Charlie (voice)",
+     "n": "Eugene Levy"
+    },
+    {
+     "c": "Bailey (voice)",
+     "n": "Ty Burrell"
+    },
+    {
+     "c": "Destiny (voice)",
+     "n": "Kaitlin Olson"
+    },
+    {
+     "c": "Fluke (voice)",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Rudder (voice)",
+     "n": "Dominic West"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Andrew Stanton"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "id": 127380,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+   "popularity": 7.8469,
+   "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-06-17",
+   "revenue": 1029266989,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An unforgettable journey she probably won't remember.",
+   "title": "Finding Dory",
+   "trailer": {
+    "key": "NQu-153MnGQ",
+    "name": "Official US Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.043,
+   "vote_count": 12976
   },
   "movie:12780": {
    "backdrop_path": "/YmNqLZwBs3KB81Wpk30fh8faxe.jpg",
@@ -1790,6 +1910,169 @@
    "vote_average": 5.1,
    "vote_count": 362
   },
+  "movie:180": {
+   "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+   "budget": 102000000,
+   "cast": [
+    {
+     "c": "Chief John Anderton",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Danny Witwer",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Agatha",
+     "n": "Samantha Morton"
+    },
+    {
+     "c": "Director Lamar Burgess",
+     "n": "Max von Sydow"
+    },
+    {
+     "c": "Dr. Iris Hineman",
+     "n": "Lois Smith"
+    },
+    {
+     "c": "Dr. Solomon Eddie",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Gideon",
+     "n": "Tim Blake Nelson"
+    },
+    {
+     "c": "Jad",
+     "n": "Steve Harris"
+    },
+    {
+     "c": "Lara Clarke",
+     "n": "Kathryn Morris"
+    },
+    {
+     "c": "Leo Crow",
+     "n": "Mike Binder"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+   ],
+   "id": 180,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+   "popularity": 9.7926,
+   "poster_path": "/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-08-02",
+   "revenue": 358372926,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Everybody runs.",
+   "title": "Minority Report",
+   "trailer": {
+    "key": "3JNsNp2DVSE",
+    "name": "Trailer #3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.357,
+   "vote_count": 10133
+  },
   "movie:1880": {
    "backdrop_path": "/9fOfsVHZHig6MHPHczv0zMY6cKc.jpg",
    "budget": 17000000,
@@ -1913,6 +2196,135 @@
    "type": "movie",
    "vote_average": 6.285,
    "vote_count": 940
+  },
+  "movie:2080": {
+   "backdrop_path": "/p4GzAzjlL7lXIVGvayg7zvzGTSi.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Logan / Wolverine",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Victor Creed",
+     "n": "Liev Schreiber"
+    },
+    {
+     "c": "Stryker",
+     "n": "Danny Huston"
+    },
+    {
+     "c": "Kayla Silverfox",
+     "n": "Lynn Collins"
+    },
+    {
+     "c": "Fred Dukes",
+     "n": "Kevin Durand"
+    },
+    {
+     "c": "Bradley",
+     "n": "Dominic Monaghan"
+    },
+    {
+     "c": "Remy LeBeau",
+     "n": "Taylor Kitsch"
+    },
+    {
+     "c": "Agent Zero",
+     "n": "Daniel Henney"
+    },
+    {
+     "c": "Wade Wilson",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "John Wraith",
+     "n": "will.i.am"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gavin Hood"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 2080,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After seeking to live a normal life after 200 years, Logan sets out to avenge a death by undergoing the mutant Weapon X program and becoming Wolverine.",
+   "popularity": 1.2209,
+   "poster_path": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-04-28",
+   "revenue": 373062864,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Witness the origin.",
+   "title": "X-Men Origins: Wolverine",
+   "trailer": {
+    "key": "8TQ-gD4UCmI",
+    "name": "\"Ooh! Shiny.\" Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.3,
+   "vote_count": 11705
   },
   "movie:252680": {
    "backdrop_path": "/xzi0mSJJU0de8sXn1d6S4ahzzr.jpg",
@@ -2158,6 +2570,165 @@
    "type": "movie",
    "vote_average": 7.805,
    "vote_count": 329
+  },
+  "movie:280": {
+   "backdrop_path": "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+   "budget": 102000000,
+   "cast": [
+    {
+     "c": "The Terminator",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "Sarah Connor",
+     "n": "Linda Hamilton"
+    },
+    {
+     "c": "John Connor",
+     "n": "Edward Furlong"
+    },
+    {
+     "c": "T-1000",
+     "n": "Robert Patrick"
+    },
+    {
+     "c": "Dr. Silberman",
+     "n": "Earl Boen"
+    },
+    {
+     "c": "Miles Dyson",
+     "n": "Joe Morton"
+    },
+    {
+     "c": "Tarissa Dyson",
+     "n": "S. Epatha Merkerson"
+    },
+    {
+     "c": "Enrique Salceda",
+     "n": "Castulo Guerra"
+    },
+    {
+     "c": "Tim",
+     "n": "Danny Cooksey"
+    },
+    {
+     "c": "Janelle Voight",
+     "n": "Jenette Goldstein"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "James Cameron"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 280,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+   "popularity": 22.5374,
+   "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1991-08-24",
+   "revenue": 517814175,
+   "runtime": 137,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "It's nothing personal.",
+   "title": "Terminator 2: Judgment Day",
+   "trailer": {
+    "key": "BuBD2s2NmEM",
+    "name": "35th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.178,
+   "vote_count": 15196
   },
   "movie:3080": {
    "backdrop_path": "/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
@@ -2851,6 +3422,146 @@
    "type": "movie",
    "vote_average": 8.172,
    "vote_count": 436
+  },
+  "movie:380": {
+   "backdrop_path": "/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Raymond Babbitt",
+     "n": "Dustin Hoffman"
+    },
+    {
+     "c": "Charlie Babbitt",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Susanna",
+     "n": "Valeria Golino"
+    },
+    {
+     "c": "Dr. Bruner",
+     "n": "Gerald R. Molen"
+    },
+    {
+     "c": "John Mooney",
+     "n": "Jack Murdock"
+    },
+    {
+     "c": "Vern",
+     "n": "Michael D. Roberts"
+    },
+    {
+     "c": "Lenny",
+     "n": "Ralph Seymour"
+    },
+    {
+     "c": "Iris",
+     "n": "Lucinda Jenney"
+    },
+    {
+     "c": "Sally Dibbs",
+     "n": "Bonnie Hunt"
+    },
+    {
+     "c": "Small Town Doctor",
+     "n": "Kim Robillard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Barry Levinson"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 380,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+   "popularity": 8.6122,
+   "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1990-06-04",
+   "revenue": 354825435,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "it",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A journey through understanding and fellowship.",
+   "title": "Rain Man",
+   "trailer": {
+    "key": "wwmctS4nldM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.748,
+   "vote_count": 7478
   },
   "movie:4180": {
    "backdrop_path": "/21i0STBZUzhdNqJ2SpiBFpUGWZw.jpg",
@@ -3979,6 +4690,114 @@
    "vote_average": 6.3,
    "vote_count": 322
   },
+  "movie:646380": {
+   "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Dr. Randall Mindy",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Kate Dibiasky",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "President Orlean",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Brie Evantee",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Dr. Teddy Oglethorpe",
+     "n": "Rob Morgan"
+    },
+    {
+     "c": "Jason Orlean",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Peter Isherwell",
+     "n": "Mark Rylance"
+    },
+    {
+     "c": "Jack Bremmer",
+     "n": "Tyler Perry"
+    },
+    {
+     "c": "Yule",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "Benedict Drask",
+     "n": "Ron Perlman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Adam McKay"
+   ],
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 646380,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+   "popularity": 8.554,
+   "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-12-08",
+   "revenue": 791863,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Based on truly possible events.",
+   "title": "Don't Look Up",
+   "trailer": {
+    "key": "RbIxYm3mKzI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.05,
+   "vote_count": 9897
+  },
   "movie:664280": {
    "backdrop_path": "/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
    "budget": 0,
@@ -4156,6 +4975,348 @@
    "type": "movie",
    "vote_average": 7.992,
    "vote_count": 358
+  },
+  "movie:680": {
+   "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+   "budget": 8000000,
+   "cast": [
+    {
+     "c": "Vincent Vega",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Jules Winnfield",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Mia Wallace",
+     "n": "Uma Thurman"
+    },
+    {
+     "c": "Butch Coolidge",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Marsellus Wallace",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "The Wolf",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Lance",
+     "n": "Eric Stoltz"
+    },
+    {
+     "c": "Pumpkin",
+     "n": "Tim Roth"
+    },
+    {
+     "c": "Honey Bunny",
+     "n": "Amanda Plummer"
+    },
+    {
+     "c": "Fabienne",
+     "n": "Maria de Medeiros"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Quentin Tarantino"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Comedy"
+   ],
+   "id": 680,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+   "popularity": 29.646,
+   "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-09-10",
+   "revenue": 213928762,
+   "runtime": 154,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "You won’t know the facts until you’ve seen the fiction.",
+   "title": "Pulp Fiction",
+   "trailer": {
+    "key": "tGpTpVyI_OQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.48,
+   "vote_count": 31344
+  },
+  "movie:75780": {
+   "backdrop_path": "/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Jack Reacher",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Helen Rodin",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "D.A. Alex Rodin",
+     "n": "Richard Jenkins"
+    },
+    {
+     "c": "Det. Emerson",
+     "n": "David Oyelowo"
+    },
+    {
+     "c": "Zec Chelovek",
+     "n": "Werner Herzog"
+    },
+    {
+     "c": "Charlie",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "Martin Cash",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Vlad",
+     "n": "Vladimir Sizov"
+    },
+    {
+     "c": "James Barr",
+     "n": "Joseph Sikora"
+    },
+    {
+     "c": "Nancy Holt",
+     "n": "Nicole Forester"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christopher McQuarrie"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Action"
+   ],
+   "id": 75780,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "One morning in an ordinary town, five people are shot dead in a seemingly random attack. All evidence points to a single suspect: an ex-military sniper who is quickly brought into custody. The interrogation yields one written note: 'Get Jack Reacher!'. Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney. However, the more Reacher delves into the case, the less clear-cut it appears. So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.",
+   "popularity": 9.3771,
+   "poster_path": "/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-12-28",
+   "revenue": 218300000,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The law has limits. He does not.",
+   "title": "Jack Reacher",
+   "trailer": {
+    "key": "kAbxn_F8lps",
+    "name": "Jack Reacher Official Movie Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.683,
+   "vote_count": 8010
   },
   "movie:78480": {
    "backdrop_path": "/bMdKv4K2QgAStm0PLQIHNsgMpND.jpg",

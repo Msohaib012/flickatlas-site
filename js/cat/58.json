@@ -1,6 +1,6 @@
 {
  "bucket": "58",
- "count": 62,
+ "count": 70,
  "titles": {
   "movie:10258": {
    "backdrop_path": "/gdJ6j1hmt6dQgObWxDJAHUb58o6.jpg",
@@ -1931,6 +1931,190 @@
    "vote_average": 7.594,
    "vote_count": 470
   },
+  "movie:1858": {
+   "backdrop_path": "/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Sam Witwicky",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Mikaela Banes",
+     "n": "Megan Fox"
+    },
+    {
+     "c": "Bumblebee (voice)",
+     "n": "Mark Ryan"
+    },
+    {
+     "c": "Optimus Prime (voice)",
+     "n": "Peter Cullen"
+    },
+    {
+     "c": "Megatron (voice)",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Captain Lennox",
+     "n": "Josh Duhamel"
+    },
+    {
+     "c": "USAF Tech Sergeant Epps",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Starscream (voice)",
+     "n": "Charlie Adler"
+    },
+    {
+     "c": "Maggie Madsen",
+     "n": "Rachael Taylor"
+    },
+    {
+     "c": "Glen Whitmann",
+     "n": "Anthony Anderson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Bay"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 1858,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.",
+   "popularity": 4.2902,
+   "poster_path": "/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-06-27",
+   "revenue": 709709780,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their war. Our world.",
+   "title": "Transformers",
+   "trailer": {
+    "key": "ahYjx0rQvqQ",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 12741
+  },
   "movie:19158": {
    "backdrop_path": "/d69Mloif5hP7Ajl0YbJjREyrfXC.jpg",
    "budget": 10500000,
@@ -2912,6 +3096,256 @@
    "vote_average": 7.266,
    "vote_count": 382
   },
+  "movie:36658": {
+   "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Logan / Wolverine",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Professor Charles Xavier",
+     "n": "Patrick Stewart"
+    },
+    {
+     "c": "Eric Lehnsherr / Magneto",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Scott Summers / Cyclops",
+     "n": "James Marsden"
+    },
+    {
+     "c": "William Stryker",
+     "n": "Brian Cox"
+    },
+    {
+     "c": "Jean Grey",
+     "n": "Famke Janssen"
+    },
+    {
+     "c": "Ororo Munroe / Storm",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Kurt Wagner / Nightcrawler",
+     "n": "Alan Cumming"
+    },
+    {
+     "c": "John Allerdyce / Pyro",
+     "n": "Aaron Stanford"
+    },
+    {
+     "c": "Raven Darkholme / Mystique",
+     "n": "Rebecca Romijn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bryan Singer"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 36658,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
+   "popularity": 0.6685,
+   "poster_path": "/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-04-27",
+   "revenue": 407711549,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "The time has come for those who are different to stand united.",
+   "title": "X2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.047,
+   "vote_count": 11355
+  },
+  "movie:372058": {
+   "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "Taki Tachibana (voice)",
+     "n": "Ryunosuke Kamiki"
+    },
+    {
+     "c": "Mitsuha Miyamizu (voice)",
+     "n": "Mone Kamishiraishi"
+    },
+    {
+     "c": "Katsuhiko Teshigawara (voice)",
+     "n": "Ryo Narita"
+    },
+    {
+     "c": "Sayaka Natori (voice)",
+     "n": "Aoi Yuki"
+    },
+    {
+     "c": "Tsukasa Fujii (voice)",
+     "n": "Nobunaga Shimazaki"
+    },
+    {
+     "c": "Shinta Takagi (voice)",
+     "n": "Kaito Ishikawa"
+    },
+    {
+     "c": "Yotsuha Miyamizu (voice)",
+     "n": "Kanon Tani"
+    },
+    {
+     "c": "Toshiki Miyamizu (voice)",
+     "n": "Masaki Terasoma"
+    },
+    {
+     "c": "Futaha Miyamizu (voice)",
+     "n": "Sayaka Ohara"
+    },
+    {
+     "c": "Taki's Father (voice)",
+     "n": "Kazuhiko Inoue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 13+",
+   "date_kind": "release",
+   "director": [
+    "Makoto Shinkai"
+   ],
+   "genres": [
+    "Animation",
+    "Romance",
+    "Drama"
+   ],
+   "id": 372058,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+   "popularity": 21.5742,
+   "poster_path": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Crunchyroll"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Crunchyroll Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+     "name": "Crunchyroll",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+     "name": "Crunchyroll Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-01",
+   "revenue": 407210429,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Separated by distance, connected by fate.",
+   "title": "Your Name.",
+   "trailer": {
+    "key": "TYku4P7MHdo",
+    "name": "Official English Trailer [Dubbed]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.493,
+   "vote_count": 13199
+  },
   "movie:374458": {
    "backdrop_path": "/LLVvgPXBmIvVPG6MQaPLYVE9HE.jpg",
    "budget": 2000000,
@@ -3666,6 +4100,113 @@
    "vote_average": 7.0,
    "vote_count": 381
   },
+  "movie:487558": {
+   "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Ron Stallworth",
+     "n": "John David Washington"
+    },
+    {
+     "c": "Flip Zimmerman",
+     "n": "Adam Driver"
+    },
+    {
+     "c": "David Duke",
+     "n": "Topher Grace"
+    },
+    {
+     "c": "Patrice Dumas",
+     "n": "Laura Harrier"
+    },
+    {
+     "c": "Dr. Kennebrew Beauregard",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Felix Kendrickson",
+     "n": "Jasper Pääkkönen"
+    },
+    {
+     "c": "Kwame Ture",
+     "n": "Corey Hawkins"
+    },
+    {
+     "c": "Ivanhoe",
+     "n": "Paul Walter Hauser"
+    },
+    {
+     "c": "Walter Breachway",
+     "n": "Ryan Eggold"
+    },
+    {
+     "c": "Mr. Turrentine",
+     "n": "Isiah Whitlock Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Spike Lee"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "History"
+   ],
+   "id": 487558,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+   "popularity": 5.2578,
+   "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-08-09",
+   "revenue": 93411426,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Infiltrate hate.",
+   "title": "BlacKkKlansman",
+   "trailer": {
+    "key": "7tgMuagdEhc",
+    "name": "Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.482,
+   "vote_count": 8376
+  },
   "movie:520758": {
    "backdrop_path": "/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
    "budget": 0,
@@ -4236,6 +4777,507 @@
    "type": "movie",
    "vote_average": 7.4,
    "vote_count": 350
+  },
+  "movie:558": {
+   "backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Spider-Man / Peter Parker",
+     "n": "Tobey Maguire"
+    },
+    {
+     "c": "Mary Jane Watson",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Harry Osborn",
+     "n": "James Franco"
+    },
+    {
+     "c": "Doc Ock / Otto Octavius",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "May Parker",
+     "n": "Rosemary Harris"
+    },
+    {
+     "c": "J. Jonah Jameson",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Rosalie Octavius",
+     "n": "Donna Murphy"
+    },
+    {
+     "c": "John Jameson",
+     "n": "Daniel Gillies"
+    },
+    {
+     "c": "Dr. Curt Connors",
+     "n": "Dylan Baker"
+    },
+    {
+     "c": "Joseph 'Robbie' Robertson",
+     "n": "Bill Nunn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Sam Raimi"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 558,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+   "popularity": 8.8998,
+   "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-07-23",
+   "revenue": 788976453,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "There's a hero in all of us.",
+   "title": "Spider-Man 2",
+   "trailer": {
+    "key": "CA5vsCnLm34",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.341,
+   "vote_count": 17228
+  },
+  "movie:57158": {
+   "backdrop_path": "/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Gandalf the Grey",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Bilbo Baggins",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Thorin Oakenshield",
+     "n": "Richard Armitage"
+    },
+    {
+     "c": "Smaug / Sauron",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Legolas",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Tauriel",
+     "n": "Evangeline Lilly"
+    },
+    {
+     "c": "King Thranduil",
+     "n": "Lee Pace"
+    },
+    {
+     "c": "Bard / Girion",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "The Master of Laketown",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Balin",
+     "n": "Ken Stott"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Action"
+   ],
+   "id": 57158,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+   "popularity": 14.8719,
+   "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-12-13",
+   "revenue": 958400000,
+   "runtime": 161,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beyond darkness... beyond desolation... lies the greatest danger of all.",
+   "title": "The Hobbit: The Desolation of Smaug",
+   "trailer": {
+    "key": "gAo95e7_XKA",
+    "name": "4K Ultra HD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.58,
+   "vote_count": 14818
+  },
+  "movie:58": {
+   "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Jack Sparrow",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Will Turner",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Elizabeth Swann",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Norrington",
+     "n": "Jack Davenport"
+    },
+    {
+     "c": "Davy Jones",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Governor Weatherby Swann",
+     "n": "Jonathan Pryce"
+    },
+    {
+     "c": "Pintel",
+     "n": "Lee Arenberg"
+    },
+    {
+     "c": "Ragetti",
+     "n": "Mackenzie Crook"
+    },
+    {
+     "c": "Gibbs",
+     "n": "Kevin McNally"
+    },
+    {
+     "c": "Cotton",
+     "n": "David Bailie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gore Verbinski"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 58,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+   "popularity": 18.4727,
+   "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-07-06",
+   "revenue": 1066179747,
+   "runtime": 151,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "tr",
+    "el",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Captain Jack is back!",
+   "title": "Pirates of the Caribbean: Dead Man's Chest",
+   "trailer": {
+    "key": "elqO-GNfStM",
+    "name": "Pirates of the Caribbean: Dead Man's Chest",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.393,
+   "vote_count": 17856
   },
   "movie:6058": {
    "backdrop_path": "/jgnfSyrtonk5U2UMP7MLtgX2eYt.jpg",
@@ -5015,6 +6057,162 @@
    "type": "movie",
    "vote_average": 7.369,
    "vote_count": 417
+  },
+  "movie:8358": {
+   "backdrop_path": "/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Chuck Noland",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Kelly Frears",
+     "n": "Helen Hunt"
+    },
+    {
+     "c": "Stan",
+     "n": "Nick Searcy"
+    },
+    {
+     "c": "Becca Twig",
+     "n": "Jenifer Lewis"
+    },
+    {
+     "c": "Maynard Graham",
+     "n": "Geoffrey Blake"
+    },
+    {
+     "c": "Yuri",
+     "n": "Peter Von Berg"
+    },
+    {
+     "c": "Jerry Lovett",
+     "n": "Chris Noth"
+    },
+    {
+     "c": "Bettina Peterson",
+     "n": "Lari White"
+    },
+    {
+     "c": "Elden Madden",
+     "n": "Elden Henson"
+    },
+    {
+     "c": "Morgan Stockton",
+     "n": "Timothy Stack"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 8358,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+   "popularity": 9.2047,
+   "poster_path": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-03-02",
+   "revenue": 429632142,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "At the edge of the world, his journey begins.",
+   "title": "Cast Away",
+   "trailer": {
+    "key": "4tVklCz2jcI",
+    "name": "#TBT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.667,
+   "vote_count": 12746
   },
   "movie:9458": {
    "backdrop_path": "/uYAOmmcEhmAqWx9169AuJlln4dC.jpg",

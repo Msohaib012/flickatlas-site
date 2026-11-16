@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 66,
+ "count": 71,
  "titles": {
   "movie:1028196": {
    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
@@ -2476,6 +2476,305 @@
    "vote_average": 5.809,
    "vote_count": 491
   },
+  "movie:196": {
+   "backdrop_path": "/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Marty McFly / Seamus McFly",
+     "n": "Michael J. Fox"
+    },
+    {
+     "c": "Doctor Emmett Brown",
+     "n": "Christopher Lloyd"
+    },
+    {
+     "c": "Clara Clayton",
+     "n": "Mary Steenburgen"
+    },
+    {
+     "c": "Buford 'Mad Dog' Tannen / Biff Tannen",
+     "n": "Thomas F. Wilson"
+    },
+    {
+     "c": "Maggie McFly / Lorraine McFly",
+     "n": "Lea Thompson"
+    },
+    {
+     "c": "Jennifer",
+     "n": "Elisabeth Shue"
+    },
+    {
+     "c": "Bartender",
+     "n": "Matt Clark"
+    },
+    {
+     "c": "Barbwire Salesman",
+     "n": "Richard Dysart"
+    },
+    {
+     "c": "Saloon Old Timer",
+     "n": "Pat Buttram"
+    },
+    {
+     "c": "Saloon Old Timer",
+     "n": "Harry Carey Jr."
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+   ],
+   "id": 196,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+   "popularity": 8.0214,
+   "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1990-05-25",
+   "revenue": 245077583,
+   "runtime": 119,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They've saved the best trip for last... But this time they may have gone too far.",
+   "title": "Back to the Future Part III",
+   "trailer": {
+    "key": "DTdBq1fQOBU",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.494,
+   "vote_count": 12015
+  },
+  "movie:205596": {
+   "backdrop_path": "/8FCHJ21JBQOgATY2WI8vwYAiXg8.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Alan Turing",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Joan Clarke",
+     "n": "Keira Knightley"
+    },
+    {
+     "c": "Hugh Alexander",
+     "n": "Matthew Goode"
+    },
+    {
+     "c": "Detective Robert Nock",
+     "n": "Rory Kinnear"
+    },
+    {
+     "c": "John Cairncross",
+     "n": "Allen Leech"
+    },
+    {
+     "c": "Peter Hilton",
+     "n": "Matthew Beard"
+    },
+    {
+     "c": "Commander Denniston",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Stewart Menzies",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Jack Good",
+     "n": "James Northcote"
+    },
+    {
+     "c": "Sergeant Staehl",
+     "n": "Tom Goodman-Hill"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Morten Tyldum"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "Thriller",
+    "War"
+   ],
+   "id": 205596,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+   "popularity": 24.7839,
+   "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-01-16",
+   "revenue": 233555708,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The true enigma was the man who cracked the code.",
+   "title": "The Imitation Game",
+   "trailer": {
+    "key": "j2jRs4EAvWM",
+    "name": "Official UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.976,
+   "vote_count": 18666
+  },
   "movie:206296": {
    "backdrop_path": "/irxjcC0io2ibj703Wr0FQABeZdm.jpg",
    "budget": 3500000,
@@ -2819,6 +3118,265 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 347
+  },
+  "movie:296": {
+   "backdrop_path": "/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "The Terminator",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "John Connor",
+     "n": "Nick Stahl"
+    },
+    {
+     "c": "Kate Brewster",
+     "n": "Claire Danes"
+    },
+    {
+     "c": "T-X",
+     "n": "Kristanna Loken"
+    },
+    {
+     "c": "Dr. Peter Silberman",
+     "n": "Earl Boen"
+    },
+    {
+     "c": "Robert Brewster",
+     "n": "David Andrews"
+    },
+    {
+     "c": "Rich Woman",
+     "n": "Carolyn Hennesy"
+    },
+    {
+     "c": "Cop - Westside Street",
+     "n": "Jay Acovone"
+    },
+    {
+     "c": "Scott Petersen",
+     "n": "Mark Famiglietti"
+    },
+    {
+     "c": "Betsy",
+     "n": "Moira Sinise"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jonathan Mostow"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 296,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor … just like he promised.",
+   "popularity": 11.0246,
+   "poster_path": "/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-07-25",
+   "revenue": 435000000,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The machines will rise.",
+   "title": "Terminator 3: Rise of the Machines",
+   "trailer": {
+    "key": "ysQizA7Una8",
+    "name": "Trailer 1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.216,
+   "vote_count": 7640
+  },
+  "movie:296096": {
+   "backdrop_path": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Louisa 'Lou' Clark",
+     "n": "Emilia Clarke"
+    },
+    {
+     "c": "William 'Will' Traynor",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Camilla Traynor",
+     "n": "Janet McTeer"
+    },
+    {
+     "c": "Stephen Traynor",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Bernard Clark",
+     "n": "Brendan Coyle"
+    },
+    {
+     "c": "Katrina 'Treena' Clark",
+     "n": "Jenna Coleman"
+    },
+    {
+     "c": "Patrick",
+     "n": "Matthew Lewis"
+    },
+    {
+     "c": "Josie Clark",
+     "n": "Samantha Spiro"
+    },
+    {
+     "c": "Nathan",
+     "n": "Stephen Peacocke"
+    },
+    {
+     "c": "Alicia Dawares",
+     "n": "Vanessa Kirby"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Thea Sharrock"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 296096,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+   "popularity": 13.5279,
+   "poster_path": "/oo2Q3T8juOYFh2G1YJ3oSMAfUyq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+     "name": "MGM Plus Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-06-03",
+   "revenue": 207945075,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Live boldly.",
+   "title": "Me Before You",
+   "trailer": {
+    "key": "T0MmkG_nG1U",
+    "name": "Me Before You - Official Trailer [HD]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.931,
+   "vote_count": 13725
   },
   "movie:297596": {
    "backdrop_path": "/8b7BpDvmPABFtrw9GeSesHFQBaB.jpg",
@@ -3777,6 +4335,151 @@
    "type": "movie",
    "vote_average": 7.3,
    "vote_count": 420
+  },
+  "movie:44896": {
+   "backdrop_path": "/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+   "budget": 135000000,
+   "cast": [
+    {
+     "c": "Rango / Lars (voice)",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Beans (voice)",
+     "n": "Isla Fisher"
+    },
+    {
+     "c": "Mayor (voice)",
+     "n": "Ned Beatty"
+    },
+    {
+     "c": "Rattlesnake Jake (voice)",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Priscilla (voice)",
+     "n": "Abigail Breslin"
+    },
+    {
+     "c": "Roadkill (voice)",
+     "n": "Alfred Molina"
+    },
+    {
+     "c": "Doc / Merrimack / Mr. Snuggles (voice)",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Balthazar (voice)",
+     "n": "Harry Dean Stanton"
+    },
+    {
+     "c": "Spirit of the West (voice)",
+     "n": "Timothy Olyphant"
+    },
+    {
+     "c": "Bad Bill (voice)",
+     "n": "Ray Winstone"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Gore Verbinski"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Western",
+    "Adventure"
+   ],
+   "id": 44896,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging Western town of Dirt, the theater-loving lizard suddenly finds himself the newly appointed sheriff. Welcomed as the last hope the town has been waiting for, Rango is forced to play his new role to the hilt and uncover the truth behind a looming water crisis—before his act catches up with him.",
+   "popularity": 10.0558,
+   "poster_path": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-03-02",
+   "revenue": 245724603,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No man can walk out on his own story.",
+   "title": "Rango",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.924,
+   "vote_count": 7436
   },
   "movie:47796": {
    "backdrop_path": "/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",

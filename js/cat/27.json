@@ -1,6 +1,6 @@
 {
  "bucket": "27",
- "count": 57,
+ "count": 66,
  "titles": {
   "movie:103327": {
    "backdrop_path": "/1ESciDN81pKupe1Gb8rmWhmYzKr.jpg",
@@ -244,6 +244,158 @@
    "type": "movie",
    "vote_average": 6.782,
    "vote_count": 424
+  },
+  "movie:10527": {
+   "backdrop_path": "/3yXLkSTrVhG66MIAr3X6C4gjccw.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Alex (voice)",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Marty / Additional Zebras (voice)",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Melman (voice)",
+     "n": "David Schwimmer"
+    },
+    {
+     "c": "Gloria (voice)",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Julien (voice)",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Maurice (voice)",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Mort (voice)",
+     "n": "Andy Richter"
+    },
+    {
+     "c": "Zuba (voice)",
+     "n": "Bernie Mac"
+    },
+    {
+     "c": "Makunga (voice)",
+     "n": "Alec Baldwin"
+    },
+    {
+     "c": "Mom (voice)",
+     "n": "Sherri Shepherd"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tom McGrath",
+    "Eric Darnell"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 10527,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.",
+   "popularity": 11.6392,
+   "poster_path": "/agRbLOHgN46TQO4YdKR462iR7To.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-12-19",
+   "revenue": 603900354,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Still Together, Still Lost!",
+   "title": "Madagascar: Escape 2 Africa",
+   "trailer": {
+    "key": "hLVjIhPYq7s",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.538,
+   "vote_count": 7705
   },
   "movie:10627": {
    "backdrop_path": "/vpkhxXlhBdykd0cicgIZzSvpaRc.jpg",
@@ -3038,6 +3190,502 @@
    "vote_average": 6.092,
    "vote_count": 430
   },
+  "movie:188927": {
+   "backdrop_path": "/nkr43pY7ZzUt9b0kDFwJLVuDP8G.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Captain James T. Kirk",
+     "n": "Chris Pine"
+    },
+    {
+     "c": "Commander Spock",
+     "n": "Zachary Quinto"
+    },
+    {
+     "c": "Dr. Leonard 'Bones' McCoy",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Lieutenant Nyota Uhura",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Lieutenant Commander Montgomery 'Scotty' Scott",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Lieutenant Hikaru Sulu",
+     "n": "John Cho"
+    },
+    {
+     "c": "Ensign Pavel Chekov",
+     "n": "Anton Yelchin"
+    },
+    {
+     "c": "Krall",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Jaylah",
+     "n": "Sofia Boutella"
+    },
+    {
+     "c": "Manas",
+     "n": "Joe Taslim"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Justin Lin"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 188927,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test.",
+   "popularity": 7.8769,
+   "poster_path": "/wI5VghYNYLktDRPUa5rrVcVA1h7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-07-07",
+   "revenue": 343471816,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The final frontier...and beyond.",
+   "title": "Star Trek Beyond",
+   "trailer": {
+    "key": "NwpvjQKdpvI",
+    "name": "Star Trek Beyond Trailer #4 (2016) - Paramount Pictures",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.789,
+   "vote_count": 7365
+  },
+  "movie:1927": {
+   "backdrop_path": "/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
+   "budget": 137000000,
+   "cast": [
+    {
+     "c": "Bruce Banner",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Betty Ross",
+     "n": "Jennifer Connelly"
+    },
+    {
+     "c": "Ross",
+     "n": "Sam Elliott"
+    },
+    {
+     "c": "Talbot",
+     "n": "Josh Lucas"
+    },
+    {
+     "c": "Father",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Young David Banner",
+     "n": "Paul Kersey"
+    },
+    {
+     "c": "Young Ross",
+     "n": "Todd Tesen"
+    },
+    {
+     "c": "Edith Banner",
+     "n": "Cara Buono"
+    },
+    {
+     "c": "Harper",
+     "n": "Kevin Rankin"
+    },
+    {
+     "c": "Mrs. Krenzler",
+     "n": "Celia Weston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ang Lee"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Drama"
+   ],
+   "id": 1927,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
+   "popularity": 9.3336,
+   "poster_path": "/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-06-19",
+   "revenue": 245360480,
+   "runtime": 138,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What if everything you were forced to keep inside was suddenly set free?",
+   "title": "Hulk",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.604,
+   "vote_count": 6563
+  },
+  "movie:200727": {
+   "backdrop_path": "/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rosie Dunne",
+     "n": "Lily Collins"
+    },
+    {
+     "c": "Alex Stewart",
+     "n": "Sam Claflin"
+    },
+    {
+     "c": "Greg",
+     "n": "Christian Cooke"
+    },
+    {
+     "c": "Sally",
+     "n": "Tamsin Egerton"
+    },
+    {
+     "c": "Bethany Williams",
+     "n": "Suki Waterhouse"
+    },
+    {
+     "c": "Ruby",
+     "n": "Jaime Winstone"
+    },
+    {
+     "c": "Gary Dunne",
+     "n": "Art Parkinson"
+    },
+    {
+     "c": "Phil",
+     "n": "Jamie Beamish"
+    },
+    {
+     "c": "Dennis Dunne",
+     "n": "Lorcan Cranitch"
+    },
+    {
+     "c": "Alice Dunne",
+     "n": "Ger Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Christian Ditter"
+   ],
+   "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 200727,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?",
+   "popularity": 4.3534,
+   "poster_path": "/2HOd431LX9ggqSpBIJ7qyYhATyo.jpg",
+   "production_countries": [
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+     "name": "fuboTV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/lgxDo2a3iGr617vm1rf0k5Hc8jz.png",
+     "name": "Starz Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+     "name": "Starz Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-16",
+   "revenue": 4439431,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Right love. Wrong time.",
+   "title": "Love, Rosie",
+   "trailer": {
+    "key": "dOMTh9Jd81w",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.805,
+   "vote_count": 6623
+  },
   "movie:278427": {
    "backdrop_path": "/jbYJbHBsCtcewKM68YIyIzjvdhP.jpg",
    "budget": 0,
@@ -3136,6 +3784,136 @@
    "type": "movie",
    "vote_average": 6.791,
    "vote_count": 462
+  },
+  "movie:278927": {
+   "backdrop_path": "/8oYykF1Qhrb8fC2qZqD71EzRywg.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Mowgli",
+     "n": "Neel Sethi"
+    },
+    {
+     "c": "Baloo (voice)",
+     "n": "Bill Murray"
+    },
+    {
+     "c": "Bagheera (voice)",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Shere Khan (voice)",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Kaa (voice)",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "King Louie (voice)",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Raksha (voice)",
+     "n": "Lupita Nyong'o"
+    },
+    {
+     "c": "Akela (voice)",
+     "n": "Giancarlo Esposito"
+    },
+    {
+     "c": "Ikki (voice)",
+     "n": "Garry Shandling"
+    },
+    {
+     "c": "Young Wolf #1 (voice)",
+     "n": "Emjay Anthony"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jon Favreau"
+   ],
+   "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 278927,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "After a threat from the tiger Shere Khan, Mowgli, a man-cub fostered by wolves, is forced to flee the jungle, and he embarks on a journey of self-discovery with the help of the panther, Bagheera, and the free-spirited bear, Baloo.",
+   "popularity": 6.7565,
+   "poster_path": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-04-08",
+   "revenue": 966550600,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The legend comes to life.",
+   "title": "The Jungle Book",
+   "trailer": {
+    "key": "YW97nCUE3ZA",
+    "name": "Teaser Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.878,
+   "vote_count": 8720
   },
   "movie:330127": {
    "backdrop_path": "/hyLi9BfEPwxUXqqggd9MCumITZJ.jpg",
@@ -4537,6 +5315,135 @@
    "vote_average": 6.353,
    "vote_count": 312
   },
+  "movie:522627": {
+   "backdrop_path": "/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Michael Pearson",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Ray",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Rosalind Pearson",
+     "n": "Michelle Dockery"
+    },
+    {
+     "c": "Matthew",
+     "n": "Jeremy Strong"
+    },
+    {
+     "c": "Jackie",
+     "n": "Lyne Renee"
+    },
+    {
+     "c": "Coach",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Dry Eye",
+     "n": "Henry Golding"
+    },
+    {
+     "c": "Lord George",
+     "n": "Tom Wu"
+    },
+    {
+     "c": "Bunny",
+     "n": "Chidi Ajufo"
+    },
+    {
+     "c": "Fletcher",
+     "n": "Hugh Grant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 522627,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+   "popularity": 10.666,
+   "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-01-31",
+   "revenue": 115171795,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Criminal. Class.",
+   "title": "The Gentlemen",
+   "trailer": {
+    "key": "KlXsguV9g0E",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.66,
+   "vote_count": 7053
+  },
   "movie:5227": {
    "backdrop_path": "/byEn9PSz6KHrOx6rIjur10GXiCT.jpg",
    "budget": 300000,
@@ -4637,6 +5544,118 @@
    "type": "movie",
    "vote_average": 4.073,
    "vote_count": 368
+  },
+  "movie:627": {
+   "backdrop_path": "/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Renton",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "Spud",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "Sick Boy",
+     "n": "Jonny Lee Miller"
+    },
+    {
+     "c": "Tommy",
+     "n": "Kevin McKidd"
+    },
+    {
+     "c": "Begbie",
+     "n": "Robert Carlyle"
+    },
+    {
+     "c": "Diane",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Swanney",
+     "n": "Peter Mullan"
+    },
+    {
+     "c": "Renton's Father",
+     "n": "James Cosmo"
+    },
+    {
+     "c": "Renton's Mother",
+     "n": "Eileen Nicholas"
+    },
+    {
+     "c": "Allison",
+     "n": "Susan Vidler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 627,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+   "popularity": 9.971,
+   "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-02-23",
+   "revenue": 71981823,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Choose life.",
+   "title": "Trainspotting",
+   "trailer": {
+    "key": "bKrbNruyFVE",
+    "name": "Official 30th Anniversary 4K Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.959,
+   "vote_count": 10840
   },
   "movie:683127": {
    "backdrop_path": "/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
@@ -5188,6 +6207,153 @@
    "vote_average": 6.3,
    "vote_count": 303
   },
+  "movie:87827": {
+   "backdrop_path": "/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Pi Patel",
+     "n": "Suraj Sharma"
+    },
+    {
+     "c": "Adult Pi Patel",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Pi Patel (11-12 Years)",
+     "n": "Ayush Tandon"
+    },
+    {
+     "c": "Pi Patel (5 Years)",
+     "n": "Gautam Belur"
+    },
+    {
+     "c": "Santosh Patel",
+     "n": "Adil Hussain"
+    },
+    {
+     "c": "Gita Patel",
+     "n": "Tabu"
+    },
+    {
+     "c": "Ravi Patel (7 Years)",
+     "n": "Ayaan Khan"
+    },
+    {
+     "c": "Ravi Patel (13-14 Years)",
+     "n": "Mohd Abbas Khaleeli"
+    },
+    {
+     "c": "Ravi Patel (18-19 Years)",
+     "n": "Vibish Sivakumar"
+    },
+    {
+     "c": "Writer",
+     "n": "Rafe Spall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ang Lee"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
+   "id": 87827,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+   "popularity": 9.0706,
+   "poster_path": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-11-23",
+   "revenue": 609016565,
+   "runtime": 127,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "hi",
+    "fr",
+    "en",
+    "ta"
+   ],
+   "status": "Released",
+   "tagline": "Take the journey of a lifetime.",
+   "title": "Life of Pi",
+   "trailer": {
+    "key": "j9Hjrs6WQ8M",
+    "name": "Life Of Pi - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.418,
+   "vote_count": 14207
+  },
   "movie:8827": {
    "backdrop_path": "/wHwpdFBkvHRKS1zXptaskCFJ8BK.jpg",
    "budget": 13442285,
@@ -5360,6 +6526,133 @@
    "type": "movie",
    "vote_average": 6.698,
    "vote_count": 845
+  },
+  "movie:927": {
+   "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+   "budget": 11000000,
+   "cast": [
+    {
+     "c": "Billy",
+     "n": "Zach Galligan"
+    },
+    {
+     "c": "Kate",
+     "n": "Phoebe Cates"
+    },
+    {
+     "c": "Rand Peltzer",
+     "n": "Hoyt Axton"
+    },
+    {
+     "c": "Lynn Peltzer",
+     "n": "Frances Lee McCain"
+    },
+    {
+     "c": "Pete",
+     "n": "Corey Feldman"
+    },
+    {
+     "c": "Grandfather",
+     "n": "Keye Luke"
+    },
+    {
+     "c": "Chinese Boy",
+     "n": "John Louie"
+    },
+    {
+     "c": "Mr. Futterman",
+     "n": "Dick Miller"
+    },
+    {
+     "c": "Sheila Futterman",
+     "n": "Jackie Joseph"
+    },
+    {
+     "c": "Mrs. Deagle",
+     "n": "Polly Holliday"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joe Dante"
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Comedy"
+   ],
+   "id": 927,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+   "popularity": 10.0611,
+   "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1985-08-29",
+   "revenue": 165449255,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Cute. Clever. Mischievous. Intelligent. Dangerous.",
+   "title": "Gremlins",
+   "trailer": {
+    "key": "PXXZx6skXrw",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.146,
+   "vote_count": 7274
   },
   "movie:9827": {
    "backdrop_path": "/sfZsUTH7MYxX2FsHOcWcx0YgkYa.jpg",

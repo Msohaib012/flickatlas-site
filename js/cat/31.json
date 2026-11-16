@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 68,
+ "count": 76,
  "titles": {
   "movie:101731": {
    "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
@@ -713,6 +713,150 @@
    "vote_average": 6.036,
    "vote_count": 715
   },
+  "movie:11631": {
+   "backdrop_path": "/90sDsHugeRU5dtTG3zEVIOXXl4L.jpg",
+   "budget": 52000000,
+   "cast": [
+    {
+     "c": "Sophie Sheridan",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Donna Sheridan",
+     "n": "Meryl Streep"
+    },
+    {
+     "c": "Sam Carmichael",
+     "n": "Pierce Brosnan"
+    },
+    {
+     "c": "Harry Bright",
+     "n": "Colin Firth"
+    },
+    {
+     "c": "Bill Anderson",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Tanya Chesham-Leigh",
+     "n": "Christine Baranski"
+    },
+    {
+     "c": "Rosie Mulligan",
+     "n": "Julie Walters"
+    },
+    {
+     "c": "Sky Rymand",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Father Alex",
+     "n": "Niall Buggy"
+    },
+    {
+     "c": "Ali",
+     "n": "Ashley Lilley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Phyllida Lloyd"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 11631,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+   "popularity": 8.0726,
+   "poster_path": "/xYLiCWmAMHJubx5jNZ7HuXKjAbV.jpg",
+   "production_countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-09-12",
+   "revenue": 609841637,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "el"
+   ],
+   "status": "Released",
+   "tagline": "A mother. A daughter. Three possible fathers. A trip down the aisle you'll never forget.",
+   "title": "Mamma Mia!",
+   "trailer": {
+    "key": "8RBNHdG35WY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.956,
+   "vote_count": 7233
+  },
   "movie:1180831": {
    "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
    "budget": 11200000,
@@ -1051,6 +1195,174 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 140
+  },
+  "movie:131631": {
+   "backdrop_path": "/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Katniss Everdeen",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Peeta Mellark",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Gale Hawthorne",
+     "n": "Liam Hemsworth"
+    },
+    {
+     "c": "Haymitch Abernathy",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Effie Trinket",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "President Alma Coin",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Plutarch Heavensbee",
+     "n": "Philip Seymour Hoffman"
+    },
+    {
+     "c": "Beetee Latier",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Caesar Flickerman",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "President Coriolanus Snow",
+     "n": "Donald Sutherland"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 131631,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
+   "popularity": 35.3334,
+   "poster_path": "/meSGXQ8MXqiC8bXxkKu7lPqnu0L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-11-19",
+   "revenue": 755356711,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fire burns brighter in the darkness.",
+   "title": "The Hunger Games: Mockingjay - Part 1",
+   "trailer": {
+    "key": "IXshQ5mv1K8",
+    "name": "Final Trailer – “Burn”",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.815,
+   "vote_count": 17238
   },
   "movie:133931": {
    "backdrop_path": "/34Xi4ZYsmRgO4JEpDzSMrHF5JEY.jpg",
@@ -2105,6 +2417,128 @@
    "type": "movie",
    "vote_average": 8.6,
    "vote_count": 86
+  },
+  "movie:17431": {
+   "backdrop_path": "/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Sam Bell",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "GERTY (voice)",
+     "n": "Kevin Spacey"
+    },
+    {
+     "c": "Tess Bell",
+     "n": "Dominique McElligott"
+    },
+    {
+     "c": "Little Eve",
+     "n": "Rosie Shaw"
+    },
+    {
+     "c": "Nanny",
+     "n": "Adrienne Shaw"
+    },
+    {
+     "c": "Eve",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Thompson",
+     "n": "Benedict Wong"
+    },
+    {
+     "c": "Overmeyers",
+     "n": "Matt Berry"
+    },
+    {
+     "c": "Technician",
+     "n": "Malcolm Stewart"
+    },
+    {
+     "c": "Sam Bell Clone",
+     "n": "Robin Chalk"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Duncan Jones"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama"
+   ],
+   "id": 17431,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.",
+   "popularity": 6.4522,
+   "poster_path": "/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-07-10",
+   "revenue": 9760104,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "250,000 miles from home, the hardest thing to face... is yourself.",
+   "title": "Moon",
+   "trailer": {
+    "key": "xV5udqNpP94",
+    "name": "Moon - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.564,
+   "vote_count": 6639
   },
   "movie:18331": {
    "backdrop_path": "/kTgPUrv6jICp5CDDq5vS40zvVKX.jpg",
@@ -3184,6 +3618,513 @@
    "vote_average": 6.758,
    "vote_count": 330
   },
+  "movie:310131": {
+   "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+   "budget": 4000000,
+   "cast": [
+    {
+     "c": "Thomasin",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "William",
+     "n": "Ralph Ineson"
+    },
+    {
+     "c": "Katherine",
+     "n": "Kate Dickie"
+    },
+    {
+     "c": "Caleb",
+     "n": "Harvey Scrimshaw"
+    },
+    {
+     "c": "Mercy",
+     "n": "Ellie Grainger"
+    },
+    {
+     "c": "Jonas",
+     "n": "Lucas Dawson"
+    },
+    {
+     "c": "Governor",
+     "n": "Julian Richings"
+    },
+    {
+     "c": "The Witch",
+     "n": "Bathsheba Garnett"
+    },
+    {
+     "c": "The Witch, Young",
+     "n": "Sarah Stephens"
+    },
+    {
+     "c": "Black Phillip (voice)",
+     "n": "Daniel Malik"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Eggers"
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Mystery"
+   ],
+   "id": 310131,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+   "popularity": 8.8776,
+   "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+   "production_countries": [
+    "BR",
+    "CA",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-02-19",
+   "revenue": 40423945,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Evil takes many forms.",
+   "title": "The Witch",
+   "trailer": {
+    "key": "97OQ7MQC5Ck",
+    "name": "The Horror Sensation - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.008,
+   "vote_count": 8018
+  },
+  "movie:3131": {
+   "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Amsterdam Vallon",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Bill 'The Butcher' Cutting",
+     "n": "Daniel Day-Lewis"
+    },
+    {
+     "c": "Jenny Everdeane",
+     "n": "Cameron Diaz"
+    },
+    {
+     "c": "Boss Tweed",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "Happy Jack",
+     "n": "John C. Reilly"
+    },
+    {
+     "c": "Johnny Sirocco",
+     "n": "Henry Thomas"
+    },
+    {
+     "c": "'Priest' Vallon",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Walter 'Monk' McGinn",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "McGloin",
+     "n": "Gary Lewis"
+    },
+    {
+     "c": "Shang",
+     "n": "Stephen Graham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "genres": [
+    "Drama",
+    "History",
+    "Crime"
+   ],
+   "id": 3131,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+   "popularity": 7.8319,
+   "poster_path": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+   "production_countries": [
+    "US",
+    "IT"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-12-14",
+   "revenue": 193772504,
+   "runtime": 168,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ga",
+    "la",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "America was born in the streets.",
+   "title": "Gangs of New York",
+   "trailer": {
+    "key": "1bjh979vVG0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.316,
+   "vote_count": 7539
+  },
+  "movie:331": {
+   "backdrop_path": "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+   "budget": 93000000,
+   "cast": [
+    {
+     "c": "Dr. Alan Grant",
+     "n": "Sam Neill"
+    },
+    {
+     "c": "Paul Kirby",
+     "n": "William H. Macy"
+    },
+    {
+     "c": "Amanda Kirby",
+     "n": "Téa Leoni"
+    },
+    {
+     "c": "Billy Brennan",
+     "n": "Alessandro Nivola"
+    },
+    {
+     "c": "Eric Kirby",
+     "n": "Trevor Morgan"
+    },
+    {
+     "c": "Udesky",
+     "n": "Michael Jeter"
+    },
+    {
+     "c": "Cooper",
+     "n": "John Diehl"
+    },
+    {
+     "c": "Nash",
+     "n": "Bruce A. Young"
+    },
+    {
+     "c": "Ellie",
+     "n": "Laura Dern"
+    },
+    {
+     "c": "Mark",
+     "n": "Taylor Nichols"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joe Johnston"
+   ],
+   "genres": [
+    "Adventure",
+    "Thriller",
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 331,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+   "popularity": 0.4456,
+   "poster_path": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-07-18",
+   "revenue": 368780809,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "This time, it's not just a walk in the park!",
+   "title": "Jurassic Park III",
+   "trailer": {
+    "key": "FBRWNdXpG1g",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.179,
+   "vote_count": 8193
+  },
   "movie:361931": {
    "backdrop_path": "/fUO2MHIKGFfMEctfxzpFZBfjsT3.jpg",
    "budget": 0,
@@ -3892,6 +4833,182 @@
    "type": "movie",
    "vote_average": 7.097,
    "vote_count": 436
+  },
+  "movie:438631": {
+   "backdrop_path": "/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "Paul Atreides",
+     "n": "Timothée Chalamet"
+    },
+    {
+     "c": "Lady Jessica Atreides",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Duke Leto Atreides",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Duncan Idaho",
+     "n": "Jason Momoa"
+    },
+    {
+     "c": "Baron Vladimir Harkonnen",
+     "n": "Stellan Skarsgård"
+    },
+    {
+     "c": "Thufir Hawat",
+     "n": "Stephen McKinley Henderson"
+    },
+    {
+     "c": "Gurney Halleck",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Stilgar",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Dr. Liet Kynes",
+     "n": "Sharon Duncan-Brewster"
+    },
+    {
+     "c": "Dr. Wellington Yueh",
+     "n": "Chang Chen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 438631,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+   "popularity": 39.1164,
+   "poster_path": "/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-10-22",
+   "revenue": 410668500,
+   "runtime": 155,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It begins.",
+   "title": "Dune",
+   "trailer": {
+    "key": "w0HgHet0sxg",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.8,
+   "vote_count": 15964
   },
   "movie:446131": {
    "backdrop_path": "/7l5sHonMX6fgHcW3MoiZI302ykA.jpg",
@@ -6100,6 +7217,155 @@
    "type": "movie",
    "vote_average": 7.054,
    "vote_count": 372
+  },
+  "movie:7131": {
+   "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Van Helsing",
+     "n": "Hugh Jackman"
+    },
+    {
+     "c": "Anna Valerious",
+     "n": "Kate Beckinsale"
+    },
+    {
+     "c": "Count Vladislaus Dracula",
+     "n": "Richard Roxburgh"
+    },
+    {
+     "c": "Marishka",
+     "n": "Josie Maran"
+    },
+    {
+     "c": "Carl",
+     "n": "David Wenham"
+    },
+    {
+     "c": "Frankenstein's Monster",
+     "n": "Shuler Hensley"
+    },
+    {
+     "c": "Aleera",
+     "n": "Elena Anaya"
+    },
+    {
+     "c": "Igor",
+     "n": "Kevin J. O'Connor"
+    },
+    {
+     "c": "Cardinal Jinette",
+     "n": "Alun Armstrong"
+    },
+    {
+     "c": "Velkan",
+     "n": "Will Kemp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Stephen Sommers"
+   ],
+   "genres": [
+    "Horror",
+    "Adventure",
+    "Action"
+   ],
+   "id": 7131,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+   "popularity": 16.7015,
+   "poster_path": "/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+   "production_countries": [
+    "CZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-07-02",
+   "revenue": 300257475,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "The one name they all fear.",
+   "title": "Van Helsing",
+   "trailer": {
+    "key": "W6C6qcCW2JE",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.434,
+   "vote_count": 6954
   },
   "movie:746131": {
    "backdrop_path": "/ouQPvA86SW1DXFTsc2qaRqz4tAg.jpg",

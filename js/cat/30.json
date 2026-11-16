@@ -1,6 +1,6 @@
 {
  "bucket": "30",
- "count": 62,
+ "count": 68,
  "titles": {
   "movie:1024530": {
    "backdrop_path": "/navvd9bBMuBYbQzKaWKifCw6wsU.jpg",
@@ -826,6 +826,113 @@
    "type": "movie",
    "vote_average": 7.795,
    "vote_count": 469
+  },
+  "movie:12230": {
+   "backdrop_path": "/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
+   "budget": 3600000,
+   "cast": [
+    {
+     "c": "Pongo (voice)",
+     "n": "Rod Taylor"
+    },
+    {
+     "c": "Colonel / Jasper (voice)",
+     "n": "J. Pat O'Malley"
+    },
+    {
+     "c": "Cruella De Vil / Miss Birdwell (voice)",
+     "n": "Betty Lou Gerson"
+    },
+    {
+     "c": "Nanny / Queenie / Lucy (voice)",
+     "n": "Martha Wentworth"
+    },
+    {
+     "c": "Roger (voice)",
+     "n": "Ben Wright"
+    },
+    {
+     "c": "Perdita (voice)",
+     "n": "Cate Bauer"
+    },
+    {
+     "c": "Sergeant Tibbs (voice)",
+     "n": "David Frankham"
+    },
+    {
+     "c": "Horace / Inspector Craven (voice)",
+     "n": "Frederick Worlock"
+    },
+    {
+     "c": "Anita (voice)",
+     "n": "Lisa Davis"
+    },
+    {
+     "c": "Quizmaster / Collie (voice)",
+     "n": "Tom Conway"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Wolfgang Reitherman",
+    "Clyde Geronimi",
+    "Hamilton Luske"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 12230,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+   "popularity": 7.101,
+   "poster_path": "/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1961-01-25",
+   "revenue": 303000000,
+   "runtime": 79,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The Canine Caper of the Century",
+   "title": "One Hundred and One Dalmatians",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.176,
+   "vote_count": 6833
   },
   "movie:1368830": {
    "backdrop_path": "/n2fbbUv9zSqbjgawJKLpPw064YW.jpg",
@@ -2067,6 +2174,222 @@
    "vote_average": 7.21,
    "vote_count": 434
   },
+  "movie:1930": {
+   "backdrop_path": "/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+   "budget": 215000000,
+   "cast": [
+    {
+     "c": "Spider-Man / Peter Parker",
+     "n": "Andrew Garfield"
+    },
+    {
+     "c": "Gwen Stacy",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "The Lizard / Dr. Curt Connors",
+     "n": "Rhys Ifans"
+    },
+    {
+     "c": "Captain Stacy",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Uncle Ben",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Aunt May",
+     "n": "Sally Field"
+    },
+    {
+     "c": "Rajit Ratha",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Richard Parker",
+     "n": "Campbell Scott"
+    },
+    {
+     "c": "Mary Parker",
+     "n": "Embeth Davidtz"
+    },
+    {
+     "c": "Flash Thompson",
+     "n": "Chris Zylka"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Marc Webb"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 1930,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.",
+   "popularity": 21.4472,
+   "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-29",
+   "revenue": 758725893,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The untold story begins.",
+   "title": "The Amazing Spider-Man",
+   "trailer": {
+    "key": "WLxul0Vzuhk",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.769,
+   "vote_count": 19365
+  },
   "movie:215830": {
    "backdrop_path": "/eWxbzr7FdvlNAXBhpAeLwUh05OS.jpg",
    "budget": 0,
@@ -3016,6 +3339,189 @@
    "vote_average": 6.257,
    "vote_count": 914
   },
+  "movie:330": {
+   "backdrop_path": "/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg",
+   "budget": 73000000,
+   "cast": [
+    {
+     "c": "Ian Malcolm",
+     "n": "Jeff Goldblum"
+    },
+    {
+     "c": "Sarah Harding",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Roland Tembo",
+     "n": "Pete Postlethwaite"
+    },
+    {
+     "c": "Peter Ludlow",
+     "n": "Arliss Howard"
+    },
+    {
+     "c": "John Hammond",
+     "n": "Richard Attenborough"
+    },
+    {
+     "c": "Nick Van Owen",
+     "n": "Vince Vaughn"
+    },
+    {
+     "c": "Kelly Curtis",
+     "n": "Vanessa Lee Chester"
+    },
+    {
+     "c": "Dieter Stark",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Ajay Sidhu",
+     "n": "Harvey Jason"
+    },
+    {
+     "c": "Eddie Carr",
+     "n": "Richard Schiff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 330,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+   "popularity": 0.6134,
+   "poster_path": "/s4RkAQWI9hgzctXgNFos8sJUnXJ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-05-23",
+   "revenue": 618638999,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Something has survived.",
+   "title": "The Lost World: Jurassic Park",
+   "trailer": {
+    "key": "vtfwgaHD5_w",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.6,
+   "vote_count": 9613
+  },
   "movie:339530": {
    "backdrop_path": "/7dp89ED6xDTNYMIHOzRXbr9niQQ.jpg",
    "budget": 0,
@@ -3532,6 +4038,141 @@
    "type": "movie",
    "vote_average": 6.326,
    "vote_count": 304
+  },
+  "movie:419430": {
+   "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+   "budget": 4500000,
+   "cast": [
+    {
+     "c": "Chris Washington",
+     "n": "Daniel Kaluuya"
+    },
+    {
+     "c": "Rose Armitage",
+     "n": "Allison Williams"
+    },
+    {
+     "c": "Missy Armitage",
+     "n": "Catherine Keener"
+    },
+    {
+     "c": "Dean Armitage",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Jeremy Armitage",
+     "n": "Caleb Landry Jones"
+    },
+    {
+     "c": "Walter",
+     "n": "Marcus Henderson"
+    },
+    {
+     "c": "Georgina",
+     "n": "Betty Gabriel"
+    },
+    {
+     "c": "Andre Logan King",
+     "n": "LaKeith Stanfield"
+    },
+    {
+     "c": "Jim Hudson",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Rod Williams",
+     "n": "Lil Rel Howery"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jordan Peele"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 419430,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+   "popularity": 17.6727,
+   "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-02-24",
+   "revenue": 255407969,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just because you're invited, doesn't mean you're welcome.",
+   "title": "Get Out",
+   "trailer": {
+    "key": "gsB70ZRY-hI",
+    "name": "With Alternate Ending | Trailer | Own it now on 4K, Blu-ray, DVD & Digital",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.625,
+   "vote_count": 19651
   },
   "movie:430": {
    "backdrop_path": "/4safDVSZx7a4I1TQoSyz6E1agzM.jpg",
@@ -4114,6 +4755,180 @@
    "type": "movie",
    "vote_average": 6.705,
    "vote_count": 904
+  },
+  "movie:49530": {
+   "backdrop_path": "/pxL08w7Eq0vKrQ3mJzYp0VHGaKG.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Sylvia Weis",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Will Salas",
+     "n": "Justin Timberlake"
+    },
+    {
+     "c": "Raymond Leon",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Philippe Weis",
+     "n": "Vincent Kartheiser"
+    },
+    {
+     "c": "Rachel Salas",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Henry Hamilton",
+     "n": "Matt Bomer"
+    },
+    {
+     "c": "Borel",
+     "n": "Johnny Galecki"
+    },
+    {
+     "c": "Timekeeper Jaeger",
+     "n": "Collins Pennie"
+    },
+    {
+     "c": "Timekeeper Kors",
+     "n": "Toby Hemingway"
+    },
+    {
+     "c": "Kolber",
+     "n": "Brendan Miller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Andrew Niccol"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 49530,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
+   "popularity": 15.9014,
+   "poster_path": "/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-10-27",
+   "revenue": 173900000,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Live forever or die trying.",
+   "title": "In Time",
+   "trailer": {
+    "key": "xhYUaR5QiUs",
+    "name": "In Time | Official Trailer | 20th Century FOX",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.97,
+   "vote_count": 12590
   },
   "movie:509730": {
    "backdrop_path": "/3EfhschqkWcT4WH7aowAd5d0aen.jpg",
@@ -5188,6 +6003,207 @@
    "type": "movie",
    "vote_average": 6.7,
    "vote_count": 469
+  },
+  "movie:718930": {
+   "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Ladybug",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Prince",
+     "n": "Joey King"
+    },
+    {
+     "c": "Tangerine",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Lemon",
+     "n": "Brian Tyree Henry"
+    },
+    {
+     "c": "Kimura",
+     "n": "Andrew Koji"
+    },
+    {
+     "c": "The Elder",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "White Death",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Maria",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Wolf",
+     "n": "Bad Bunny"
+    },
+    {
+     "c": "The Son",
+     "n": "Logan Lerman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Leitch"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Thriller"
+   ],
+   "id": 718930,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+   "popularity": 14.9047,
+   "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-08-04",
+   "revenue": 239268602,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja",
+    "en",
+    "ru",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The end of the line is just the beginning.",
+   "title": "Bullet Train",
+   "trailer": {
+    "key": "EGeJczJvWns",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.402,
+   "vote_count": 8174
   },
   "movie:778730": {
    "backdrop_path": "/hyHpPzBFLpqlUixtSggSrHcjXdU.jpg",

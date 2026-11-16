@@ -1,6 +1,6 @@
 {
  "bucket": "77",
- "count": 58,
+ "count": 66,
  "titles": {
   "movie:10077": {
    "backdrop_path": "/cdR9ESJzcocgVphpwO5AYZRwrWg.jpg",
@@ -1372,6 +1372,114 @@
    "vote_average": 6.983,
    "vote_count": 441
   },
+  "movie:12477": {
+   "backdrop_path": "/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+   "budget": 3700000,
+   "cast": [
+    {
+     "c": "Seita (voice)",
+     "n": "Tsutomu Tatsumi"
+    },
+    {
+     "c": "Setsuko (voice)",
+     "n": "Ayano Shiraishi"
+    },
+    {
+     "c": "Mother (voice)",
+     "n": "Yoshiko Shinohara"
+    },
+    {
+     "c": "Auntie (voice)",
+     "n": "Akemi Yamaguchi"
+    },
+    {
+     "c": "Woman who takes care of Setsuko (voice)",
+     "n": "Masayo Sakai"
+    },
+    {
+     "c": "Obayashi Chairman (voice)",
+     "n": "Kozo Hashida"
+    },
+    {
+     "c": "Cousin (voice)",
+     "n": "Kazumi Nozaki"
+    },
+    {
+     "c": "Gosaku (voice)",
+     "n": "Yoshio Matsuoka"
+    },
+    {
+     "c": "Aunt's House Guest (voice)",
+     "n": "Masahiro Kanetake"
+    },
+    {
+     "c": "Patrolman (voice)",
+     "n": "Kiyoshi Yanagawa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Isao Takahata"
+   ],
+   "genres": [
+    "Animation",
+    "Drama",
+    "War"
+   ],
+   "id": 12477,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+   "popularity": 0.0141,
+   "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1988-04-16",
+   "revenue": 4979495,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Why do fireflies have to die so soon?",
+   "title": "Grave of the Fireflies",
+   "trailer": {
+    "key": "QZbcx0WNrMU",
+    "name": "Ghibli Fest 2025 Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.449,
+   "vote_count": 6962
+  },
   "movie:1430077": {
    "backdrop_path": "/1FYdbchGR8WTNlneJ3Pvol5hbGE.jpg",
    "budget": 5000000,
@@ -1931,6 +2039,200 @@
    "vote_average": 6.1,
    "vote_count": 427
   },
+  "movie:177677": {
+   "backdrop_path": "/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Ethan Hunt",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "William Brandt",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Benji Dunn",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Ilsa Faust",
+     "n": "Rebecca Ferguson"
+    },
+    {
+     "c": "Luther Stickell",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Lane",
+     "n": "Sean Harris"
+    },
+    {
+     "c": "Atlee",
+     "n": "Simon McBurney"
+    },
+    {
+     "c": "Lauren",
+     "n": "Zhang Jingchu"
+    },
+    {
+     "c": "Prime Minister",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Janik Vinter",
+     "n": "Jens Hultén"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christopher McQuarrie"
+   ],
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "id": 177677,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+   "popularity": 10.7592,
+   "poster_path": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+   "production_countries": [
+    "US",
+    "CN"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-08-07",
+   "revenue": 682716636,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "sv"
+   ],
+   "status": "Released",
+   "tagline": "Desperate times. Desperate measures.",
+   "title": "Mission: Impossible - Rogue Nation",
+   "trailer": {
+    "key": "F-qBD17wwrQ",
+    "name": "Mission: Impossible Rogue Nation Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.228,
+   "vote_count": 10105
+  },
   "movie:18377": {
    "backdrop_path": "/j9SW48pEJpbBJoeLN45QdmN2ZNV.jpg",
    "budget": 4000000,
@@ -2420,6 +2722,204 @@
    "vote_average": 5.4,
    "vote_count": 329
   },
+  "movie:210577": {
+   "backdrop_path": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+   "budget": 61000000,
+   "cast": [
+    {
+     "c": "Nick Dunne",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Amy Dunne",
+     "n": "Rosamund Pike"
+    },
+    {
+     "c": "Desi Collings",
+     "n": "Neil Patrick Harris"
+    },
+    {
+     "c": "Tanner Bolt",
+     "n": "Tyler Perry"
+    },
+    {
+     "c": "Margo Dunne",
+     "n": "Carrie Coon"
+    },
+    {
+     "c": "Detective Rhonda Boney",
+     "n": "Kim Dickens"
+    },
+    {
+     "c": "Officer James Gilpin",
+     "n": "Patrick Fugit"
+    },
+    {
+     "c": "Rand Elliott",
+     "n": "David Clennon"
+    },
+    {
+     "c": "Marybeth Elliott",
+     "n": "Lisa Banes"
+    },
+    {
+     "c": "Ellen Abbott",
+     "n": "Missi Pyle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 210577,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+   "popularity": 19.8772,
+   "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-31",
+   "revenue": 370890259,
+   "runtime": 149,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You don't know what you've got 'til it's...",
+   "title": "Gone Girl",
+   "trailer": {
+    "key": "2-_-1nJf8Vg",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.89,
+   "vote_count": 20684
+  },
   "movie:2577": {
    "backdrop_path": "/8BsZeEl8gArwpYIBXyJ2WdreF8I.jpg",
    "budget": 7500000,
@@ -2621,6 +3121,168 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 422
+  },
+  "movie:277": {
+   "backdrop_path": "/pvVkWJZYsUoCgnvpkd62pgnet7r.jpg",
+   "budget": 22000000,
+   "cast": [
+    {
+     "c": "Selene",
+     "n": "Kate Beckinsale"
+    },
+    {
+     "c": "Michael Corvin",
+     "n": "Scott Speedman"
+    },
+    {
+     "c": "Lucian",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Kraven",
+     "n": "Shane Brolly"
+    },
+    {
+     "c": "Viktor",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Singe",
+     "n": "Erwin Leder"
+    },
+    {
+     "c": "Erika",
+     "n": "Sophia Myles"
+    },
+    {
+     "c": "Kahn",
+     "n": "Robbie Gee"
+    },
+    {
+     "c": "Dr. Adam Lockwood",
+     "n": "Wentworth Miller"
+    },
+    {
+     "c": "Raze",
+     "n": "Kevin Grevioux"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Len Wiseman"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Thriller"
+   ],
+   "id": 277,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war.",
+   "popularity": 7.0474,
+   "poster_path": "/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-09-19",
+   "revenue": 95708457,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An immortal battle for supremacy.",
+   "title": "Underworld",
+   "trailer": {
+    "key": "gvzQGXGFD14",
+    "name": "Underworld Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.859,
+   "vote_count": 6887
   },
   "movie:335777": {
    "backdrop_path": "/snobCf0u4ex9OKNNFuNQKmGe3gJ.jpg",
@@ -5020,6 +5682,137 @@
    "vote_average": 5.926,
    "vote_count": 841
   },
+  "movie:62177": {
+   "backdrop_path": "/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Merida (voice)",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Elinor (voice)",
+     "n": "Emma Thompson"
+    },
+    {
+     "c": "Fergus (voice)",
+     "n": "Billy Connolly"
+    },
+    {
+     "c": "The Witch (voice)",
+     "n": "Julie Walters"
+    },
+    {
+     "c": "Lord Dingwall (voice)",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Lord MacGuffin / Young MacGuffin (voice)",
+     "n": "Kevin McKidd"
+    },
+    {
+     "c": "Lord Macintosh (voice)",
+     "n": "Craig Ferguson"
+    },
+    {
+     "c": "Young Merida (voice)",
+     "n": "Peigi Barker"
+    },
+    {
+     "c": "The Crow (voice)",
+     "n": "Steve Purcell"
+    },
+    {
+     "c": "Martin (voice)",
+     "n": "Patrick Doyle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brenda Chapman",
+    "Mark Andrews"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 62177,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish.",
+   "popularity": 12.5379,
+   "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-22",
+   "revenue": 538983207,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Change your fate.",
+   "title": "Brave",
+   "trailer": {
+    "key": "OKdLpBLp3nM",
+    "name": "Available November 13 on Blu-ray & DVD Combo Pack and HD Digital",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.037,
+   "vote_count": 14589
+  },
   "movie:658777": {
    "backdrop_path": "/q9lf5lt1QWAPVdPXckFOzCeFB07.jpg",
    "budget": 0,
@@ -5127,6 +5920,155 @@
    "type": "movie",
    "vote_average": 5.654,
    "vote_count": 396
+  },
+  "movie:6977": {
+   "backdrop_path": "/fCCvn3xsG29TGKJPvZgTRppsDgk.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Anton Chigurh",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Ed Tom Bell",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Llewelyn Moss",
+     "n": "Josh Brolin"
+    },
+    {
+     "c": "Carson Wells",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Carla Jean Moss",
+     "n": "Kelly Macdonald"
+    },
+    {
+     "c": "Wendell",
+     "n": "Garret Dillahunt"
+    },
+    {
+     "c": "Loretta Bell",
+     "n": "Tess Harper"
+    },
+    {
+     "c": "Ellis",
+     "n": "Barry Corbin"
+    },
+    {
+     "c": "Man Who Hires Wells",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "El Paso Sheriff",
+     "n": "Rodger Boyce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Joel Coen",
+    "Ethan Coen"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Western"
+   ],
+   "id": 6977,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+   "popularity": 15.8487,
+   "poster_path": "/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-11-21",
+   "revenue": 171627166,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "There are no clean getaways.",
+   "title": "No Country for Old Men",
+   "trailer": {
+    "key": "A0oNrgumrlE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.949,
+   "vote_count": 14082
   },
   "movie:708577": {
    "backdrop_path": "/1Eb9RnafzLBtGkAATfoOnYXQbTj.jpg",
@@ -5478,6 +6420,170 @@
    "vote_average": 5.8,
    "vote_count": 414
   },
+  "movie:77": {
+   "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+   "budget": 9000000,
+   "cast": [
+    {
+     "c": "Leonard",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Natalie",
+     "n": "Carrie-Anne Moss"
+    },
+    {
+     "c": "Teddy",
+     "n": "Joe Pantoliano"
+    },
+    {
+     "c": "Burt",
+     "n": "Mark Boone Junior"
+    },
+    {
+     "c": "Waiter",
+     "n": "Russ Fega"
+    },
+    {
+     "c": "Leonard's Wife",
+     "n": "Jorja Fox"
+    },
+    {
+     "c": "Sammy",
+     "n": "Stephen Tobolowsky"
+    },
+    {
+     "c": "Mrs. Jankis",
+     "n": "Harriet Sansom Harris"
+    },
+    {
+     "c": "Doctor",
+     "n": "Thomas Lennon"
+    },
+    {
+     "c": "Dodd",
+     "n": "Callum Keith Rennie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 77,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+   "popularity": 14.7565,
+   "poster_path": "/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Sundance Now"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "MUBI"
+    },
+    {
+     "name": "MUBI Amazon Channel"
+    },
+    {
+     "name": "Channel 101 Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-10-11",
+   "revenue": 40060108,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Some memories are best forgotten.",
+   "title": "Memento",
+   "trailer": {
+    "key": "Wyc9TpJxf4A",
+    "name": "Official Restoration Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.175,
+   "vote_count": 17048
+  },
   "movie:771077": {
    "backdrop_path": "/BevYc51yFcr4zppO8RI3Au8wXA.jpg",
    "budget": 7780000,
@@ -5815,6 +6921,165 @@
    "type": "movie",
    "vote_average": 6.778,
    "vote_count": 304
+  },
+  "movie:8077": {
+   "backdrop_path": "/lU0zVj8KcQVkPczdGGraYGiRC72.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Ripley",
+     "n": "Sigourney Weaver"
+    },
+    {
+     "c": "Dillon",
+     "n": "Charles S. Dutton"
+    },
+    {
+     "c": "Clemens",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Golic",
+     "n": "Paul McGann"
+    },
+    {
+     "c": "Andrews",
+     "n": "Brian Glover"
+    },
+    {
+     "c": "Aaron",
+     "n": "Ralph Brown"
+    },
+    {
+     "c": "Morse",
+     "n": "Danny Webb"
+    },
+    {
+     "c": "Rains",
+     "n": "Christopher John Fields"
+    },
+    {
+     "c": "Junior",
+     "n": "Holt McCallany"
+    },
+    {
+     "c": "Bishop II",
+     "n": "Lance Henriksen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "David Fincher"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Horror"
+   ],
+   "id": 8077,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.",
+   "popularity": 8.657,
+   "poster_path": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1992-05-22",
+   "revenue": 159773545,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "3 times the suspense. 3 times the danger. 3 times the terror",
+   "title": "Alien³",
+   "trailer": {
+    "key": "e45rAwndek8",
+    "name": "Throwback Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.39,
+   "vote_count": 6722
   },
   "movie:813477": {
    "backdrop_path": "/ccFavvHGfhA5yI32K0bzDjlyKSN.jpg",

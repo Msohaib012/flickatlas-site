@@ -1,6 +1,6 @@
 {
  "bucket": "97",
- "count": 51,
+ "count": 59,
  "titles": {
   "movie:10397": {
    "backdrop_path": "/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg",
@@ -606,6 +606,208 @@
    "type": "movie",
    "vote_average": 7.331,
    "vote_count": 426
+  },
+  "movie:135397": {
+   "backdrop_path": "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Owen",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Claire",
+     "n": "Bryce Dallas Howard"
+    },
+    {
+     "c": "Masrani",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Hoskins",
+     "n": "Vincent D'Onofrio"
+    },
+    {
+     "c": "Gray",
+     "n": "Ty Simpkins"
+    },
+    {
+     "c": "Zach",
+     "n": "Nick Robinson"
+    },
+    {
+     "c": "Lowery",
+     "n": "Jake Johnson"
+    },
+    {
+     "c": "Barry",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Dr. Henry Wu",
+     "n": "BD Wong"
+    },
+    {
+     "c": "Karen",
+     "n": "Judy Greer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Colin Trevorrow"
+   ],
+   "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Thriller",
+    "Action"
+   ],
+   "id": 135397,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+   "popularity": 13.3217,
+   "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-06-11",
+   "revenue": 1671537444,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The park is open.",
+   "title": "Jurassic World",
+   "trailer": {
+    "key": "aJJrkyHas78",
+    "name": "Official Global Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 22114
   },
   "movie:13997": {
    "backdrop_path": "/rJbDh4nIjxQFlFjK6k2SktTTT01.jpg",
@@ -1531,6 +1733,179 @@
    "vote_average": 4.979,
    "vote_count": 24
   },
+  "movie:1597": {
+   "backdrop_path": "/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Greg Focker",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Jack Byrnes",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Pam Byrnes",
+     "n": "Teri Polo"
+    },
+    {
+     "c": "Dina Byrnes",
+     "n": "Blythe Danner"
+    },
+    {
+     "c": "Denny Byrnes",
+     "n": "Jon Abrahams"
+    },
+    {
+     "c": "Debbie Byrnes",
+     "n": "Nicole DeHuff"
+    },
+    {
+     "c": "Kevin Rawley",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Dr. Larry Banks",
+     "n": "James Rebhorn"
+    },
+    {
+     "c": "Dr. Bob Banks",
+     "n": "Tom McCarthy"
+    },
+    {
+     "c": "Linda Banks",
+     "n": "Phyllis George"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jay Roach"
+   ],
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": 1597,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
+   "popularity": 8.2781,
+   "poster_path": "/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-01-26",
+   "revenue": 330444045,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "First comes love. Then comes the interrogation.",
+   "title": "Meet the Parents",
+   "trailer": {
+    "key": "I18TOdCvvdM",
+    "name": "Meet the Parents (2000) Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 6664
+  },
   "movie:1601797": {
    "backdrop_path": "/yYYbFujPd2hVOFLqDV5O0NctBKS.jpg",
    "budget": 0,
@@ -1888,6 +2263,216 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 430
+  },
+  "movie:197": {
+   "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+   "budget": 72000000,
+   "cast": [
+    {
+     "c": "William Wallace",
+     "n": "Mel Gibson"
+    },
+    {
+     "c": "Murron MacClannough",
+     "n": "Catherine McCormack"
+    },
+    {
+     "c": "Princess Isabelle",
+     "n": "Sophie Marceau"
+    },
+    {
+     "c": "King Edward",
+     "n": "Patrick McGoohan"
+    },
+    {
+     "c": "Robert the Bruce",
+     "n": "Angus Macfadyen"
+    },
+    {
+     "c": "Hamish Campbell",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Young William Wallace",
+     "n": "James Robinson"
+    },
+    {
+     "c": "Campbell",
+     "n": "James Cosmo"
+    },
+    {
+     "c": "MacClannough",
+     "n": "Sean McGinley"
+    },
+    {
+     "c": "Mother MacClannough",
+     "n": "Gerda Stevenson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Mel Gibson"
+   ],
+   "genres": [
+    "History",
+    "Drama",
+    "War"
+   ],
+   "id": 197,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+   "popularity": 16.2711,
+   "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+     "name": "Paramount Plus Premium",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+     "name": "Paramount Plus Essential",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+     "name": "Paramount+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+     "name": "Paramount+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+     "name": "Spectrum On Demand",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1995-06-22",
+   "revenue": 213216216,
+   "runtime": 178,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "la",
+    "gd"
+   ],
+   "status": "Released",
+   "tagline": "Every man dies, not every man really lives.",
+   "title": "Braveheart",
+   "trailer": {
+    "key": "nMft5QDOHek",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.946,
+   "vote_count": 11632
   },
   "movie:1997": {
    "backdrop_path": "/3pZP6t6DV3bsE9AtACZNMnullB2.jpg",
@@ -2470,6 +3055,178 @@
    "vote_average": 7.1,
    "vote_count": 958
   },
+  "movie:335797": {
+   "backdrop_path": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Buster Moon (voice)",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Rosita (voice)",
+     "n": "Reese Witherspoon"
+    },
+    {
+     "c": "Mike (voice)",
+     "n": "Seth MacFarlane"
+    },
+    {
+     "c": "Ash (voice)",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Eddie (voice)",
+     "n": "John C. Reilly"
+    },
+    {
+     "c": "Johnny (voice)",
+     "n": "Taron Egerton"
+    },
+    {
+     "c": "Meena (voice)",
+     "n": "Tori Kelly"
+    },
+    {
+     "c": "Nana (voice)",
+     "n": "Jennifer Saunders"
+    },
+    {
+     "c": "Young Nana (voice)",
+     "n": "Jennifer Hudson"
+    },
+    {
+     "c": "Miss Crawly / Additional Voices (voice)",
+     "n": "Garth Jennings"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Garth Jennings"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Music"
+   ],
+   "id": 335797,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+   "popularity": 11.6855,
+   "poster_path": "/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+     "name": "Netflix Kids",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-12-30",
+   "revenue": 634151679,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Auditions begin.",
+   "title": "Sing",
+   "trailer": {
+    "key": "GIgXWuLQPFY",
+    "name": "Official Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.122,
+   "vote_count": 8672
+  },
   "movie:36897": {
    "backdrop_path": "/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
    "budget": 0,
@@ -2998,6 +3755,339 @@
    "vote_average": 6.49,
    "vote_count": 833
   },
+  "movie:406997": {
+   "backdrop_path": "/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Auggie",
+     "n": "Jacob Tremblay"
+    },
+    {
+     "c": "Isabel",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Nate",
+     "n": "Owen Wilson"
+    },
+    {
+     "c": "Via",
+     "n": "Izabela Vidovic"
+    },
+    {
+     "c": "Jack Will",
+     "n": "Noah Jupe"
+    },
+    {
+     "c": "Summer",
+     "n": "Millie Davis"
+    },
+    {
+     "c": "Julian",
+     "n": "Bryce Gheisar"
+    },
+    {
+     "c": "Mr. Tushman",
+     "n": "Mandy Patinkin"
+    },
+    {
+     "c": "Miranda",
+     "n": "Danielle Rose Russell"
+    },
+    {
+     "c": "Mr. Browne",
+     "n": "Daveed Diggs"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Stephen Chbosky"
+   ],
+   "genres": [
+    "Family",
+    "Drama"
+   ],
+   "id": 406997,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of August Pullman – a boy with facial differences – who enters fifth grade, attending a mainstream elementary school for the first time.",
+   "popularity": 7.1675,
+   "poster_path": "/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-12-01",
+   "revenue": 315025930,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Who gives you the courage to face the world?",
+   "title": "Wonder",
+   "trailer": {
+    "key": "ASAGdtAJPnU",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.095,
+   "vote_count": 8468
+  },
+  "movie:497": {
+   "backdrop_path": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Paul Edgecomb",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Brutus 'Brutal' Howell",
+     "n": "David Morse"
+    },
+    {
+     "c": "Jan Edgecomb",
+     "n": "Bonnie Hunt"
+    },
+    {
+     "c": "John Coffey",
+     "n": "Michael Clarke Duncan"
+    },
+    {
+     "c": "Warden Hal Moores",
+     "n": "James Cromwell"
+    },
+    {
+     "c": "Eduard Delacroix",
+     "n": "Michael Jeter"
+    },
+    {
+     "c": "Arlen Bitterbuck",
+     "n": "Graham Greene"
+    },
+    {
+     "c": "Percy Wetmore",
+     "n": "Doug Hutchison"
+    },
+    {
+     "c": "'Wild Bill' Wharton",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Dean Stanton",
+     "n": "Barry Pepper"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Frank Darabont"
+   ],
+   "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+   ],
+   "id": 497,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+   "popularity": 24.4776,
+   "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-03-16",
+   "revenue": 286801374,
+   "runtime": 189,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+   "title": "The Green Mile",
+   "trailer": {
+    "key": "Bg7epsq0OIQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.504,
+   "vote_count": 20143
+  },
   "movie:4997": {
    "backdrop_path": "/jvgbITybzUZN6upjadXa644cwMD.jpg",
    "budget": 5000000,
@@ -3219,6 +4309,192 @@
    "type": "movie",
    "vote_average": 7.392,
    "vote_count": 360
+  },
+  "movie:51497": {
+   "backdrop_path": "/tQN9JEQ4N4aqej7O6AkQtt0dLpt.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Brian O'Conner",
+     "n": "Paul Walker"
+    },
+    {
+     "c": "Mia Toretto",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Roman Pearce",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Tej Parker",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Vince",
+     "n": "Matt Schulze"
+    },
+    {
+     "c": "Han Lue",
+     "n": "Sung Kang"
+    },
+    {
+     "c": "Gisele Yashar",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Leo",
+     "n": "Tego Calderon"
+    },
+    {
+     "c": "Santos",
+     "n": "Don Omar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Justin Lin"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 51497,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+   "popularity": 1.2362,
+   "poster_path": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-04-20",
+   "revenue": 626100000,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es",
+    "pt",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Get the fifth gear.",
+   "title": "Fast Five",
+   "trailer": {
+    "key": "P1UVXvKnCLM",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.245,
+   "vote_count": 9233
   },
   "movie:567797": {
    "backdrop_path": "/sGIfwDYvfU0h1G7pGWEhdEi9hT2.jpg",
@@ -3446,6 +4722,151 @@
    "type": "movie",
    "vote_average": 6.753,
    "vote_count": 894
+  },
+  "movie:597": {
+   "backdrop_path": "/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Jack Dawson",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Rose DeWitt Bukater",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Cal Hockley",
+     "n": "Billy Zane"
+    },
+    {
+     "c": "Molly Brown",
+     "n": "Kathy Bates"
+    },
+    {
+     "c": "Ruth DeWitt Bukater",
+     "n": "Frances Fisher"
+    },
+    {
+     "c": "Old Rose",
+     "n": "Gloria Stuart"
+    },
+    {
+     "c": "Brock Lovett",
+     "n": "Bill Paxton"
+    },
+    {
+     "c": "Captain Smith",
+     "n": "Bernard Hill"
+    },
+    {
+     "c": "Spicer Lovejoy",
+     "n": "David Warner"
+    },
+    {
+     "c": "Thomas Andrews",
+     "n": "Victor Garber"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Cameron"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 597,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+   "popularity": 31.9452,
+   "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-03-13",
+   "revenue": 2264162353,
+   "runtime": 194,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "sv",
+    "it",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Nothing on earth could come between them.",
+   "title": "Titanic",
+   "trailer": {
+    "key": "wO44qBPBG4c",
+    "name": "25th Anniversary UK Trailer [Audio Described]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.9,
+   "vote_count": 28083
   },
   "movie:63197": {
    "backdrop_path": "/hGTK2dnm1vXYpr26QGWjXIVpI9l.jpg",

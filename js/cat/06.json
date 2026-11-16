@@ -1,6 +1,6 @@
 {
  "bucket": "06",
- "count": 72,
+ "count": 77,
  "titles": {
   "movie:10206": {
    "backdrop_path": "/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
@@ -174,6 +174,144 @@
    "type": "movie",
    "vote_average": 5.6,
    "vote_count": 960
+  },
+  "movie:106": {
+   "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Major Alan 'Dutch' Schaefer",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "Al Dillon",
+     "n": "Carl Weathers"
+    },
+    {
+     "c": "The Predator / Helicopter Pilot",
+     "n": "Kevin Peter Hall"
+    },
+    {
+     "c": "Anna Gonsalves",
+     "n": "Elpidia Carrillo"
+    },
+    {
+     "c": "Mac Eliot",
+     "n": "Bill Duke"
+    },
+    {
+     "c": "Blain Cooper",
+     "n": "Jesse Ventura"
+    },
+    {
+     "c": "Billy Sole",
+     "n": "Sonny Landham"
+    },
+    {
+     "c": "Jorge 'Poncho' Ramirez",
+     "n": "Richard Chaves"
+    },
+    {
+     "c": "Major General Homer Phillips",
+     "n": "R.G. Armstrong"
+    },
+    {
+     "c": "Rick Hawkins",
+     "n": "Shane Black"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John McTiernan"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 106,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+   "popularity": 15.5332,
+   "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1987-06-12",
+   "revenue": 98267558,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Soon the hunt will begin.",
+   "title": "Predator",
+   "trailer": {
+    "key": "SFoQL6gqhFM",
+    "name": "30th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 9688
   },
   "movie:10606": {
    "backdrop_path": "/4wPZaKaucs4lN7V4JWwkCN8vSwp.jpg",
@@ -1576,6 +1714,136 @@
    "vote_average": 5.653,
    "vote_count": 431
   },
+  "movie:122906": {
+   "backdrop_path": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Tim Lake",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Mary",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Dad",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Harry",
+     "n": "Tom Hollander"
+    },
+    {
+     "c": "Charlotte",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Kit Kat",
+     "n": "Lydia Wilson"
+    },
+    {
+     "c": "Mum",
+     "n": "Lindsay Duncan"
+    },
+    {
+     "c": "Uncle D",
+     "n": "Richard Cordery"
+    },
+    {
+     "c": "Rory",
+     "n": "Joshua McGuire"
+    },
+    {
+     "c": "Jay",
+     "n": "Will Merrick"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Curtis"
+   ],
+   "genres": [
+    "Drama",
+    "Romance",
+    "Fantasy"
+   ],
+   "id": 122906,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+   "popularity": 12.3018,
+   "poster_path": "/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-06-27",
+   "revenue": 87100449,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What if every moment in life came with a second chance?",
+   "title": "About Time",
+   "trailer": {
+    "key": "7OIFdWk83no",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.898,
+   "vote_count": 9657
+  },
   "movie:12706": {
    "backdrop_path": "/maKFO957CHUHZ9K34Hqtg1oMojH.jpg",
    "budget": 0,
@@ -2140,6 +2408,203 @@
    "type": "movie",
    "vote_average": 7.345,
    "vote_count": 113
+  },
+  "movie:137106": {
+   "backdrop_path": "/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Emmet Brickowski (voice)",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Wyldstyle / Lucy (voice)",
+     "n": "Elizabeth Banks"
+    },
+    {
+     "c": "Lord Business / President Business / The Man Upstairs",
+     "n": "Will Ferrell"
+    },
+    {
+     "c": "Vitruvius (voice)",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Batman / Bruce Wayne (voice)",
+     "n": "Will Arnett"
+    },
+    {
+     "c": "Bad Cop / Good Cop / Pa Cop (voice)",
+     "n": "Liam Neeson"
+    },
+    {
+     "c": "Unikitty (voice)",
+     "n": "Alison Brie"
+    },
+    {
+     "c": "Metal Beard (voice)",
+     "n": "Nick Offerman"
+    },
+    {
+     "c": "Benny (voice)",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Finn",
+     "n": "Jadon Sand"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 137106,
+   "industry": "world",
+   "origin_country": [
+    "AU"
+   ],
+   "original_language": "en",
+   "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+   "popularity": 9.7758,
+   "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+   "production_countries": [
+    "US",
+    "AU",
+    "DK"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-02-07",
+   "revenue": 470759687,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The story of a nobody who saved everybody.",
+   "title": "The Lego Movie",
+   "trailer": {
+    "key": "fZ_JOBCLF-I",
+    "name": "Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.434,
+   "vote_count": 8859
   },
   "movie:1406": {
    "backdrop_path": "/6aavXoygR0nZP4kIKQLdaXLO3z0.jpg",
@@ -4948,6 +5413,159 @@
    "vote_average": 7.826,
    "vote_count": 821
   },
+  "movie:414906": {
+   "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Bruce Wayne / The Batman",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Selina Kyle",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Lt. James Gordon",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Oz / The Penguin",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "The Riddler",
+     "n": "Paul Dano"
+    },
+    {
+     "c": "Carmine Falcone",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Alfred",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "District Attorney Gil Colson",
+     "n": "Peter Sarsgaard"
+    },
+    {
+     "c": "Unseen Arkham Prisoner",
+     "n": "Barry Keoghan"
+    },
+    {
+     "c": "Bella Reál",
+     "n": "Jayme Lawson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Matt Reeves"
+   ],
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 414906,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+   "popularity": 28.837,
+   "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2022-03-04",
+   "revenue": 772775278,
+   "runtime": 177,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Unmask the truth.",
+   "title": "The Batman",
+   "trailer": {
+    "key": "vc7_mH2PWHs",
+    "name": "Official HBO Max Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.675,
+   "vote_count": 12901
+  },
   "movie:463906": {
    "backdrop_path": "/5yzpA7odHcs926hLptTwAZmFoVN.jpg",
    "budget": 0,
@@ -7496,6 +8114,133 @@
    "type": "movie",
    "vote_average": 6.462,
    "vote_count": 485
+  },
+  "movie:9806": {
+   "backdrop_path": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+   "budget": 92000000,
+   "cast": [
+    {
+     "c": "Bob Parr / Mr. Incredible (voice)",
+     "n": "Craig T. Nelson"
+    },
+    {
+     "c": "Helen Parr / Elastigirl (voice)",
+     "n": "Holly Hunter"
+    },
+    {
+     "c": "Violet Parr (voice)",
+     "n": "Sarah Vowell"
+    },
+    {
+     "c": "Dashiell 'Dash' Parr (voice)",
+     "n": "Spencer Fox"
+    },
+    {
+     "c": "Buddy Pine / Syndrome (voice)",
+     "n": "Jason Lee"
+    },
+    {
+     "c": "Lucius Best / Frozone (voice)",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Mirage (voice)",
+     "n": "Elizabeth Peña"
+    },
+    {
+     "c": "Jack-Jack Parr (voice)",
+     "n": "Eli Fucile"
+    },
+    {
+     "c": "Jack-Jack Parr (voice)",
+     "n": "Maeve Andrews"
+    },
+    {
+     "c": "Edna 'E' Mode (voice)",
+     "n": "Brad Bird"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Brad Bird"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+   ],
+   "id": 9806,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+   "popularity": 16.1685,
+   "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-12-17",
+   "revenue": 631442092,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Super strength can’t carry a family.",
+   "title": "The Incredibles",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.73,
+   "vote_count": 19543
   },
   "tv:106": {
    "backdrop_path": "/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg",

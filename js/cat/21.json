@@ -1,6 +1,6 @@
 {
  "bucket": "21",
- "count": 73,
+ "count": 83,
  "titles": {
   "movie:1010821": {
    "backdrop_path": "/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
@@ -723,6 +723,146 @@
    "vote_average": 7.1,
    "vote_count": 399
   },
+  "movie:11321": {
+   "backdrop_path": "/mDu3nkdjzkJ9loy3QyppGcLjaI7.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Ben",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Emily",
+     "n": "Rosario Dawson"
+    },
+    {
+     "c": "Ezra",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Ben's Brother",
+     "n": "Michael Ealy"
+    },
+    {
+     "c": "Dan",
+     "n": "Barry Pepper"
+    },
+    {
+     "c": "Connie",
+     "n": "Elpidia Carrillo"
+    },
+    {
+     "c": "Sarah",
+     "n": "Robinne Lee"
+    },
+    {
+     "c": "George Ristuccia",
+     "n": "Bill Smitrovich"
+    },
+    {
+     "c": "Larry",
+     "n": "Joe Nuñez"
+    },
+    {
+     "c": "Susan",
+     "n": "Sarah Jane Morris"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Gabriele Muccino"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 11321,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+   "popularity": 5.0316,
+   "poster_path": "/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-12-18",
+   "revenue": 168167691,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Seven names. Seven strangers. One secret.",
+   "title": "Seven Pounds",
+   "trailer": {
+    "key": "hvu2F6t26hs",
+    "name": "Seven Pounds - In Theaters 12.19.08",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.6,
+   "vote_count": 7467
+  },
   "movie:1140521": {
    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
    "budget": 0,
@@ -1121,6 +1261,196 @@
    "type": "movie",
    "vote_average": 6.6,
    "vote_count": 368
+  },
+  "movie:121": {
+   "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+   "budget": 79000000,
+   "cast": [
+    {
+     "c": "Frodo",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Gandalf",
+     "n": "Ian McKellen"
+    },
+    {
+     "c": "Aragorn",
+     "n": "Viggo Mortensen"
+    },
+    {
+     "c": "Sam",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Gollum",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "Gimli / Treebeard (voice)",
+     "n": "John Rhys-Davies"
+    },
+    {
+     "c": "Legolas",
+     "n": "Orlando Bloom"
+    },
+    {
+     "c": "Théoden",
+     "n": "Bernard Hill"
+    },
+    {
+     "c": "Éowyn",
+     "n": "Miranda Otto"
+    },
+    {
+     "c": "Merry",
+     "n": "Dominic Monaghan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Peter Jackson"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 121,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers - Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+   "popularity": 29.0434,
+   "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+   "production_countries": [
+    "NZ",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-12-18",
+   "revenue": 926287400,
+   "runtime": 179,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The journey continues.",
+   "title": "The Lord of the Rings: The Two Towers",
+   "trailer": {
+    "key": "nuTU5XcZTLA",
+    "name": "4K Ultra HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.433,
+   "vote_count": 24987
   },
   "movie:12121": {
    "backdrop_path": "/lTrHk6DznYoAGr7biPkdIbb4WGo.jpg",
@@ -4330,6 +4660,163 @@
    "vote_average": 5.977,
    "vote_count": 354
   },
+  "movie:24021": {
+   "backdrop_path": "/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg",
+   "budget": 68000000,
+   "cast": [
+    {
+     "c": "Bella Swan",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Edward Cullen",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Jacob Black",
+     "n": "Taylor Lautner"
+    },
+    {
+     "c": "Victoria",
+     "n": "Bryce Dallas Howard"
+    },
+    {
+     "c": "Jane",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Charlie Swan",
+     "n": "Billy Burke"
+    },
+    {
+     "c": "Dr. Carlisle Cullen",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Esme Cullen",
+     "n": "Elizabeth Reaser"
+    },
+    {
+     "c": "Jasper Hale",
+     "n": "Jackson Rathbone"
+    },
+    {
+     "c": "Emmett Cullen",
+     "n": "Kellan Lutz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "David Slade"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 24021,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+   "popularity": 12.2665,
+   "poster_path": "/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-06-23",
+   "revenue": 698491347,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It all begins... with a choice.",
+   "title": "The Twilight Saga: Eclipse",
+   "trailer": {
+    "key": "hZxJzhIPTTg",
+    "name": "Final Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.182,
+   "vote_count": 9491
+  },
   "movie:2621": {
    "backdrop_path": "/oNOJoW2XoH3shkQxHtOyacJRBCQ.jpg",
    "budget": 24000000,
@@ -4939,6 +5426,161 @@
    "vote_average": 7.302,
    "vote_count": 494
   },
+  "movie:312221": {
+   "backdrop_path": "/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+   "budget": 37000000,
+   "cast": [
+    {
+     "c": "Adonis Johnson",
+     "n": "Michael B. Jordan"
+    },
+    {
+     "c": "Rocky Balboa",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Bianca",
+     "n": "Tessa Thompson"
+    },
+    {
+     "c": "Mary Anne Creed",
+     "n": "Phylicia Rashād"
+    },
+    {
+     "c": "Danny 'Stuntman' Wheeler",
+     "n": "Andre Ward"
+    },
+    {
+     "c": "'Pretty' Ricky Conlan",
+     "n": "Tony Bellew"
+    },
+    {
+     "c": "Pete Sporino",
+     "n": "Ritchie Coster"
+    },
+    {
+     "c": "Stitch",
+     "n": "Jacob 'Stitch' Duran"
+    },
+    {
+     "c": "Tommy Holiday",
+     "n": "Graham McTavish"
+    },
+    {
+     "c": "Amir",
+     "n": "Malik Bazille"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ryan Coogler"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 312221,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+   "popularity": 9.1503,
+   "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-11-27",
+   "revenue": 173600000,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Your legacy is more than a name.",
+   "title": "Creed",
+   "trailer": {
+    "key": "JQ9OhBYjTds",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.408,
+   "vote_count": 8228
+  },
   "movie:33521": {
    "backdrop_path": "/9aDnMjUHhfX0WaCicEaejdKgvlV.jpg",
    "budget": 12200000,
@@ -5155,6 +5797,135 @@
    "type": "movie",
    "vote_average": 6.501,
    "vote_count": 374
+  },
+  "movie:440021": {
+   "backdrop_path": "/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+   "budget": 4800000,
+   "cast": [
+    {
+     "c": "Theresa 'Tree' Gelbman",
+     "n": "Jessica Rothe"
+    },
+    {
+     "c": "Carter Davis",
+     "n": "Israel Broussard"
+    },
+    {
+     "c": "Gregory Butler",
+     "n": "Charles Aitken"
+    },
+    {
+     "c": "Lori Spengler",
+     "n": "Ruby Modine"
+    },
+    {
+     "c": "Nick Sims",
+     "n": "Blaine Kern III"
+    },
+    {
+     "c": "Danielle Bouseman",
+     "n": "Rachel Matthews"
+    },
+    {
+     "c": "Dr. Winter",
+     "n": "Billy Slaughter"
+    },
+    {
+     "c": "Tim Bauer",
+     "n": "Caleb Spillyards"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Jimmy Gonzales"
+    },
+    {
+     "c": "David Gelbman",
+     "n": "Jason Bayle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Christopher Landon"
+   ],
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 440021,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Caught in a bizarre and terrifying time warp, college student Tree finds herself repeatedly reliving the day of her murder, ultimately realizing that she must identify the killer and the reason for her death before her chances of survival run out.",
+   "popularity": 6.2034,
+   "poster_path": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-10-13",
+   "revenue": 125479266,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get up. Live your day. Get killed. Again.",
+   "title": "Happy Death Day",
+   "trailer": {
+    "key": "v3lXYAzf5TQ",
+    "name": "Official Full Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.658,
+   "vote_count": 6787
   },
   "movie:46221": {
    "backdrop_path": "/hpSL417nA1YnkbEbZLD9zRv7ooh.jpg",
@@ -5738,6 +6509,184 @@
    "type": "movie",
    "vote_average": 5.785,
    "vote_count": 454
+  },
+  "movie:49521": {
+   "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+   "budget": 225000000,
+   "cast": [
+    {
+     "c": "Clark Kent / Kal-El",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Lois Lane",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "General Zod",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Martha Kent",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Jor-El",
+     "n": "Russell Crowe"
+    },
+    {
+     "c": "Faora-Ul",
+     "n": "Antje Traue"
+    },
+    {
+     "c": "General Swanwick",
+     "n": "Harry Lennix"
+    },
+    {
+     "c": "Dr. Emil Hamilton",
+     "n": "Richard Schiff"
+    },
+    {
+     "c": "Colonel Nathan Hardy",
+     "n": "Christopher Meloni"
+    },
+    {
+     "c": "Jonathan Kent",
+     "n": "Kevin Costner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Zack Snyder"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 49521,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+   "popularity": 15.1105,
+   "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-06-14",
+   "revenue": 668045518,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You are not alone.",
+   "title": "Man of Steel",
+   "trailer": {
+    "key": "vGrBV1C4hgo",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.662,
+   "vote_count": 16824
   },
   "movie:50321": {
    "backdrop_path": "/sU9wVEAgWPXPULYQMctd0T5MCdI.jpg",
@@ -6675,6 +7624,288 @@
    "vote_average": 7.0,
    "vote_count": 482
   },
+  "movie:621": {
+   "backdrop_path": "/2SRJMIoJzABzgyGw01U6VbQbvJD.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Sandy",
+     "n": "Olivia Newton-John"
+    },
+    {
+     "c": "Danny",
+     "n": "John Travolta"
+    },
+    {
+     "c": "Rizzo",
+     "n": "Stockard Channing"
+    },
+    {
+     "c": "Kenickie",
+     "n": "Jeff Conaway"
+    },
+    {
+     "c": "Doody",
+     "n": "Barry Pearl"
+    },
+    {
+     "c": "Sonny",
+     "n": "Michael Tucci"
+    },
+    {
+     "c": "Putzie",
+     "n": "Kelly Ward"
+    },
+    {
+     "c": "Frenchy",
+     "n": "Didi Conn"
+    },
+    {
+     "c": "Jan",
+     "n": "Jamie Donnelly"
+    },
+    {
+     "c": "Marty",
+     "n": "Dinah Manoff"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Randal Kleiser"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 621,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+   "popularity": 9.6732,
+   "poster_path": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1978-06-16",
+   "revenue": 396271103,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Grease is the word.",
+   "title": "Grease",
+   "trailer": {
+    "key": "THd96gHV7Tg",
+    "name": "Paramount Movies Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.36,
+   "vote_count": 7922
+  },
+  "movie:68721": {
+   "backdrop_path": "/4TSqtluelcWByj8YZdqwzQVjI0O.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Tony Stark",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Pepper Potts",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Colonel James Rhodes",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Aldrich Killian",
+     "n": "Guy Pearce"
+    },
+    {
+     "c": "Maya Hansen",
+     "n": "Rebecca Hall"
+    },
+    {
+     "c": "Happy Hogan",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Trevor Slattery",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Savin",
+     "n": "James Badge Dale"
+    },
+    {
+     "c": "Brandt",
+     "n": "Stephanie Szostak"
+    },
+    {
+     "c": "Jarvis (voice)",
+     "n": "Paul Bettany"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Shane Black"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 68721,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Plagued with worry and insomnia since saving New York from destruction, Tony Stark, now, is more dependent on the suits that give him his Iron Man persona—so much so that every aspect of his life is affected, including his relationship with Pepper. After a malevolent enemy known as the Mandarin reduces his personal world to rubble, Tony must rely solely on instinct and ingenuity to avenge his losses and protect the people he loves, as he begins an odyssey of rebuilding and retribution.",
+   "popularity": 21.2789,
+   "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-04-18",
+   "revenue": 1215577205,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Unleash the power behind the armor.",
+   "title": "Iron Man 3",
+   "trailer": {
+    "key": "YLorLVa95Xo",
+    "name": "Domestic Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.932,
+   "vote_count": 24163
+  },
   "movie:70821": {
    "backdrop_path": "/4QFh4odwCHpD3b6zr1Q3XY2GBF7.jpg",
    "budget": 0,
@@ -7297,6 +8528,150 @@
    "vote_average": 6.37,
    "vote_count": 845
   },
+  "movie:80321": {
+   "backdrop_path": "/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
+   "budget": 145000000,
+   "cast": [
+    {
+     "c": "Alex (voice)",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Marty (voice)",
+     "n": "Chris Rock"
+    },
+    {
+     "c": "Melman (voice)",
+     "n": "David Schwimmer"
+    },
+    {
+     "c": "Gloria (voice)",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Julien (voice)",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Maurice (voice)",
+     "n": "Cedric the Entertainer"
+    },
+    {
+     "c": "Mort (voice)",
+     "n": "Andy Richter"
+    },
+    {
+     "c": "Skipper / Policeman #1 (voice)",
+     "n": "Tom McGrath"
+    },
+    {
+     "c": "Chantel DuBois (voice)",
+     "n": "Frances McDormand"
+    },
+    {
+     "c": "Gia (voice)",
+     "n": "Jessica Chastain"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Eric Darnell",
+    "Tom McGrath",
+    "Conrad Vernon"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+   ],
+   "id": 80321,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.",
+   "popularity": 9.7142,
+   "poster_path": "/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-06-08",
+   "revenue": 746921274,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "They have one shot to get back home.",
+   "title": "Madagascar 3: Europe's Most Wanted",
+   "trailer": {
+    "key": "PlkWVkpP59U",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.655,
+   "vote_count": 6822
+  },
   "movie:930921": {
    "backdrop_path": "/pJyGcGcoIEsEXrWxUjoEaUOpRyG.jpg",
    "budget": 0,
@@ -7386,6 +8761,166 @@
    "type": "movie",
    "vote_average": 6.869,
    "vote_count": 367
+  },
+  "movie:96721": {
+   "backdrop_path": "/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+   "budget": 38000000,
+   "cast": [
+    {
+     "c": "James Hunt",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Niki Lauda",
+     "n": "Daniel Brühl"
+    },
+    {
+     "c": "Suzy Miller",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Marlene Lauda",
+     "n": "Alexandra Maria Lara"
+    },
+    {
+     "c": "Clay Regazzoni",
+     "n": "Pierfrancesco Favino"
+    },
+    {
+     "c": "Louis Stanley",
+     "n": "David Calder"
+    },
+    {
+     "c": "Nurse Gemma",
+     "n": "Natalie Dormer"
+    },
+    {
+     "c": "Alastair Caldwell",
+     "n": "Stephen Mangan"
+    },
+    {
+     "c": "Lord Hesketh",
+     "n": "Christian McKay"
+    },
+    {
+     "c": "Stirling Moss",
+     "n": "Alistair Petrie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Drama",
+    "Action"
+   ],
+   "id": 96721,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory — until a horrible accident threatens to end it all.",
+   "popularity": 7.295,
+   "poster_path": "/yqR7mzBKCv1ih6F2cXa0I8vFh3v.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-09-20",
+   "revenue": 90200000,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "de",
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Everyone's driven by something.",
+   "title": "Rush",
+   "trailer": {
+    "key": "QKAr42gxjhM",
+    "name": "Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.747,
+   "vote_count": 8169
   },
   "movie:9821": {
    "backdrop_path": "/wq41s88t8TUNDWWhpZQ65P4OhP8.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "12",
- "count": 58,
+ "count": 67,
  "titles": {
   "movie:10012": {
    "backdrop_path": "/aJ4s9UjVdmkmsnx9NHpmdUqZxlz.jpg",
@@ -592,6 +592,114 @@
    "type": "movie",
    "vote_average": 7.492,
    "vote_count": 315
+  },
+  "movie:12": {
+   "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+   "budget": 94000000,
+   "cast": [
+    {
+     "c": "Marlin (voice)",
+     "n": "Albert Brooks"
+    },
+    {
+     "c": "Dory (voice)",
+     "n": "Ellen DeGeneres"
+    },
+    {
+     "c": "Nemo (voice)",
+     "n": "Alexander Gould"
+    },
+    {
+     "c": "Gill (voice)",
+     "n": "Willem Dafoe"
+    },
+    {
+     "c": "Nigel (voice)",
+     "n": "Geoffrey Rush"
+    },
+    {
+     "c": "Bloat (voice)",
+     "n": "Brad Garrett"
+    },
+    {
+     "c": "Peach (voice)",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Gurgle (voice)",
+     "n": "Austin Pendleton"
+    },
+    {
+     "c": "Bubbles (voice)",
+     "n": "Stephen Root"
+    },
+    {
+     "c": "Deb / Flo (voice)",
+     "n": "Vicki Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Andrew Stanton"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "id": 12,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+   "popularity": 20.7265,
+   "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-10-24",
+   "revenue": 940335536,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+   "title": "Finding Nemo",
+   "trailer": {
+    "key": "SPHfeNgogVs",
+    "name": "Finding Nemo 3D Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.822,
+   "vote_count": 21231
   },
   "movie:1218412": {
    "backdrop_path": "/4ybz4iMieWkfSPy9yB7yjAKxUqc.jpg",
@@ -2186,6 +2294,126 @@
    "vote_average": 7.667,
    "vote_count": 24
   },
+  "movie:181812": {
+   "backdrop_path": "/auJKGst3vXpJozHZh4nMFs0xWIU.jpg",
+   "budget": 489900000,
+   "cast": [
+    {
+     "c": "General Leia Organa",
+     "n": "Carrie Fisher"
+    },
+    {
+     "c": "Luke Skywalker",
+     "n": "Mark Hamill"
+    },
+    {
+     "c": "Rey",
+     "n": "Daisy Ridley"
+    },
+    {
+     "c": "Kylo Ren / Ben Solo",
+     "n": "Adam Driver"
+    },
+    {
+     "c": "Finn",
+     "n": "John Boyega"
+    },
+    {
+     "c": "Poe Dameron",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "C-3PO",
+     "n": "Anthony Daniels"
+    },
+    {
+     "c": "Jannah",
+     "n": "Naomi Ackie"
+    },
+    {
+     "c": "General Hux",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Allegiant General Pryde",
+     "n": "Richard E. Grant"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.J. Abrams"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 181812,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+   "popularity": 13.4014,
+   "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-12-18",
+   "revenue": 1074144248,
+   "runtime": 142,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The saga concludes.",
+   "title": "Star Wars: The Rise of Skywalker",
+   "trailer": {
+    "key": "8Qn_spdM5Zg",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.237,
+   "vote_count": 11334
+  },
   "movie:18912": {
    "backdrop_path": "/jn5LRTCl8zR0jsV2Pf04WyhMcHZ.jpg",
    "budget": 472000,
@@ -2504,6 +2732,180 @@
    "type": "movie",
    "vote_average": 7.405,
    "vote_count": 862
+  },
+  "movie:209112": {
+   "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Bruce Wayne / Batman",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Clark Kent / Superman",
+     "n": "Henry Cavill"
+    },
+    {
+     "c": "Lex Luthor",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Diana Prince / Wonder Woman",
+     "n": "Gal Gadot"
+    },
+    {
+     "c": "Lois",
+     "n": "Amy Adams"
+    },
+    {
+     "c": "Martha Kent",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Perry White",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Alfred",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Senator Finch",
+     "n": "Holly Hunter"
+    },
+    {
+     "c": "Wallace Keefe",
+     "n": "Scoot McNairy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Zack Snyder"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 209112,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+   "popularity": 15.5015,
+   "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-05-06",
+   "revenue": 874362803,
+   "runtime": 152,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The greatest gladiator match in the history of the world.",
+   "title": "Batman v Superman: Dawn of Justice",
+   "trailer": {
+    "key": "s9EkdAHqtvU",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.015,
+   "vote_count": 19563
   },
   "movie:21712": {
    "backdrop_path": "/19SRSM2ybfVpCBxBFLXwyD18WkM.jpg",
@@ -3083,6 +3485,136 @@
    "vote_average": 6.82,
    "vote_count": 302
   },
+  "movie:321612": {
+   "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Belle",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Beast",
+     "n": "Dan Stevens"
+    },
+    {
+     "c": "Gaston",
+     "n": "Luke Evans"
+    },
+    {
+     "c": "LeFou",
+     "n": "Josh Gad"
+    },
+    {
+     "c": "Maurice",
+     "n": "Kevin Kline"
+    },
+    {
+     "c": "Agathe / Enchantress",
+     "n": "Hattie Morahan"
+    },
+    {
+     "c": "Clothilde",
+     "n": "Haydn Gwynne"
+    },
+    {
+     "c": "Jean the Potter",
+     "n": "Gerard Horan"
+    },
+    {
+     "c": "Père Robert",
+     "n": "Ray Fearon"
+    },
+    {
+     "c": "Lumière",
+     "n": "Ewan McGregor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Bill Condon"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 321612,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+   "popularity": 18.4486,
+   "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-03-16",
+   "revenue": 1266115964,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Be our guest.",
+   "title": "Beauty and the Beast",
+   "trailer": {
+    "key": "hYO2Ga4WDk4",
+    "name": "DVD Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.977,
+   "vote_count": 16319
+  },
   "movie:329712": {
    "backdrop_path": "/s14TKXCYH8dotfBIBuanNaYyBst.jpg",
    "budget": 0,
@@ -3464,6 +3996,141 @@
    "type": "movie",
    "vote_average": 7.488,
    "vote_count": 906
+  },
+  "movie:354912": {
+   "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Miguel Rivera (voice)",
+     "n": "Anthony Gonzalez"
+    },
+    {
+     "c": "Héctor (voice)",
+     "n": "Gael García Bernal"
+    },
+    {
+     "c": "Ernesto de la Cruz (voice)",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Mamá Imelda (voice)",
+     "n": "Alanna Ubach"
+    },
+    {
+     "c": "Abuelita (voice)",
+     "n": "Renée Victor"
+    },
+    {
+     "c": "Papá (voice)",
+     "n": "Jaime Camil"
+    },
+    {
+     "c": "Papá Julio (voice)",
+     "n": "Alfonso Arau"
+    },
+    {
+     "c": "Tío Oscar / Tío Felipe (voice)",
+     "n": "Herbert Siguenza"
+    },
+    {
+     "c": "Clerk (voice)",
+     "n": "Gabriel Iglesias"
+    },
+    {
+     "c": "Plaza Mariachi / Gustavo (voice)",
+     "n": "Lombardo Boyar"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Lee Unkrich",
+    "Adrian Molina"
+   ],
+   "genres": [
+    "Family",
+    "Animation",
+    "Music",
+    "Adventure"
+   ],
+   "id": 354912,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+   "popularity": 122.7212,
+   "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-11-24",
+   "revenue": 814641172,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "The celebration of a lifetime.",
+   "title": "Coco",
+   "trailer": {
+    "key": "Rvr68u6k5sI",
+    "name": "Official Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.2,
+   "vote_count": 21881
   },
   "movie:367412": {
    "backdrop_path": "/sO70LyX3CHDNimbUwdGqL6pjrD3.jpg",
@@ -4117,6 +4784,277 @@
    "type": "movie",
    "vote_average": 7.37,
    "vote_count": 424
+  },
+  "movie:44912": {
+   "backdrop_path": "/tS3ByIQR6V61DaWhEIFbLSuLK5Q.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Hal Jordan / Green Lantern",
+     "n": "Ryan Reynolds"
+    },
+    {
+     "c": "Carol Ferris",
+     "n": "Blake Lively"
+    },
+    {
+     "c": "Hector Hammond",
+     "n": "Peter Sarsgaard"
+    },
+    {
+     "c": "Sinestro",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Senator Hammond",
+     "n": "Tim Robbins"
+    },
+    {
+     "c": "Carl Ferris",
+     "n": "Jay O. Sanders"
+    },
+    {
+     "c": "Tom Kalmaku",
+     "n": "Taika Waititi"
+    },
+    {
+     "c": "Dr. Amanda Waller",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Jack Jordan",
+     "n": "Mike Doyle"
+    },
+    {
+     "c": "Jim Jordan",
+     "n": "Nick Jandl"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Martin Campbell"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 44912,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+   "popularity": 7.7238,
+   "poster_path": "/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-06-14",
+   "revenue": 237201172,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In brightest day. In blackest night.",
+   "title": "Green Lantern",
+   "trailer": {
+    "key": "ojYMekJgqJU",
+    "name": "3D Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.203,
+   "vote_count": 7964
+  },
+  "movie:45612": {
+   "backdrop_path": "/mDb4uku4zEElsITXDpbir4fR0HW.jpg",
+   "budget": 32000000,
+   "cast": [
+    {
+     "c": "Colter Stevens",
+     "n": "Jake Gyllenhaal"
+    },
+    {
+     "c": "Christina Warren",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Colleen Goodwin",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Dr. Rutledge",
+     "n": "Jeffrey Wright"
+    },
+    {
+     "c": "Derek Frost",
+     "n": "Michael Arden"
+    },
+    {
+     "c": "Hazmi",
+     "n": "Cas Anvar"
+    },
+    {
+     "c": "Max Denoff",
+     "n": "Russell Peters"
+    },
+    {
+     "c": "George Troxel",
+     "n": "Brent Skagford"
+    },
+    {
+     "c": "Gold Watch Executive",
+     "n": "Craig Thomas"
+    },
+    {
+     "c": "Conductor",
+     "n": "Gordon Masten"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Duncan Jones"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+   ],
+   "id": 45612,
+   "industry": "world",
+   "origin_country": [
+    "CA",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
+   "popularity": 8.2008,
+   "poster_path": "/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+   "production_countries": [
+    "US",
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "STUDIOCANAL PRESENTS Apple TV Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-05-01",
+   "revenue": 147332697,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Make every second count.",
+   "title": "Source Code",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.312,
+   "vote_count": 9576
   },
   "movie:467012": {
    "backdrop_path": "/5PD7GeOq9Npk7wz7QPz1MoK09Mh.jpg",
@@ -5296,6 +6234,157 @@
    "vote_average": 6.8,
    "vote_count": 475
   },
+  "movie:75612": {
+   "backdrop_path": "/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+   "budget": 120000000,
+   "cast": [
+    {
+     "c": "Jack",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Beech",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Julia",
+     "n": "Olga Kurylenko"
+    },
+    {
+     "c": "Victoria",
+     "n": "Andrea Riseborough"
+    },
+    {
+     "c": "Sykes",
+     "n": "Nikolaj Coster-Waldau"
+    },
+    {
+     "c": "Sally",
+     "n": "Melissa Leo"
+    },
+    {
+     "c": "Kara",
+     "n": "Zoë Bell"
+    },
+    {
+     "c": "Julia's Child",
+     "n": "Abigail Lowe"
+    },
+    {
+     "c": "Julia's Child",
+     "n": "Isabelle Lowe"
+    },
+    {
+     "c": "Tourist (uncredited)",
+     "n": "Booch O'Connell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joseph Kosinski"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure",
+    "Mystery"
+   ],
+   "id": 75612,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
+   "popularity": 11.2673,
+   "poster_path": "/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/yUUqCizzC0JWznvH1eqUmzIhJBK.png",
+     "name": "Hungama Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-04-10",
+   "revenue": 286168572,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Earth is a memory worth fighting for.",
+   "title": "Oblivion",
+   "trailer": {
+    "key": "tx6_JMDFfWI",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.7,
+   "vote_count": 12016
+  },
   "movie:801112": {
    "backdrop_path": "/12GAm3EiHUUeCB5mk3NphURUh1R.jpg",
    "budget": 14100000,
@@ -5496,6 +6585,125 @@
    "type": "movie",
    "vote_average": 7.266,
    "vote_count": 395
+  },
+  "movie:812": {
+   "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Aladdin (voice)",
+     "n": "Scott Weinger"
+    },
+    {
+     "c": "Genie / Peddler (voice)",
+     "n": "Robin Williams"
+    },
+    {
+     "c": "Jasmine (voice)",
+     "n": "Linda Larkin"
+    },
+    {
+     "c": "Jafar (voice)",
+     "n": "Jonathan Freeman"
+    },
+    {
+     "c": "Iago (voice)",
+     "n": "Gilbert Gottfried"
+    },
+    {
+     "c": "Sultan (voice)",
+     "n": "Douglas Seale"
+    },
+    {
+     "c": "Abu / Cave of Wonders / Rajah (voice)",
+     "n": "Frank Welker"
+    },
+    {
+     "c": "Aladdin (singing voice)",
+     "n": "Brad Caleb Kane"
+    },
+    {
+     "c": "Jasmine (singing voice)",
+     "n": "Lea Salonga"
+    },
+    {
+     "c": "Peddler (singing voice)",
+     "n": "Bruce Adler"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Musker",
+    "Ron Clements"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 812,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+   "popularity": 15.3635,
+   "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1992-11-25",
+   "revenue": 504050219,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Imagine if you had three wishes, three hopes, three dreams and they all could come true.",
+   "title": "Aladdin",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.656,
+   "vote_count": 12411
   },
   "movie:8512": {
    "backdrop_path": "/n6SFCz0OsyZ800ZSlaD5WpNmqCj.jpg",

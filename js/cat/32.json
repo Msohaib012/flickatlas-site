@@ -1,6 +1,6 @@
 {
  "bucket": "32",
- "count": 58,
+ "count": 66,
  "titles": {
   "movie:10032": {
    "backdrop_path": "/xm7dypK8AlW3LdVtjmwgMzez4or.jpg",
@@ -1705,6 +1705,186 @@
    "vote_average": 6.707,
    "vote_count": 347
   },
+  "movie:138832": {
+   "backdrop_path": "/jxDo3i2f6Ab1XeTWjdNDkkZYEju.jpg",
+   "budget": 37000000,
+   "cast": [
+    {
+     "c": "Rose O'Reilly",
+     "n": "Jennifer Aniston"
+    },
+    {
+     "c": "David Clark",
+     "n": "Jason Sudeikis"
+    },
+    {
+     "c": "Casey Mathis",
+     "n": "Emma Roberts"
+    },
+    {
+     "c": "Kenny Rossmore",
+     "n": "Will Poulter"
+    },
+    {
+     "c": "Brad Gurdlinger",
+     "n": "Ed Helms"
+    },
+    {
+     "c": "Don Fitzgerald",
+     "n": "Nick Offerman"
+    },
+    {
+     "c": "Edie Fitzgerald",
+     "n": "Kathryn Hahn"
+    },
+    {
+     "c": "Melissa Fitzgerald",
+     "n": "Molly C. Quinn"
+    },
+    {
+     "c": "Pablo Chacon",
+     "n": "Tomer Sisley"
+    },
+    {
+     "c": "One-Eye",
+     "n": "Matthew Willig"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Rawson Marshall Thurber"
+   ],
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "id": 138832,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+   "popularity": 8.0275,
+   "poster_path": "/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-08-30",
+   "revenue": 270000000,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If anyone asks.",
+   "title": "We're the Millers",
+   "trailer": {
+    "key": "O7NHfAzg7Yg",
+    "name": "Official Red Band Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.841,
+   "vote_count": 9785
+  },
   "movie:1397832": {
    "backdrop_path": "/pOR4Aye28KLZ5Jogu8zc3yiqBpT.jpg",
    "budget": 0,
@@ -1920,6 +2100,129 @@
    "type": "movie",
    "vote_average": 7.6,
    "vote_count": 133
+  },
+  "movie:152532": {
+   "backdrop_path": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+   "budget": 5000000,
+   "cast": [
+    {
+     "c": "Ron Woodroof",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Eve",
+     "n": "Jennifer Garner"
+    },
+    {
+     "c": "Rayon",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Dr. Sevard",
+     "n": "Denis O'Hare"
+    },
+    {
+     "c": "Tucker",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Richard Barkley",
+     "n": "Michael O'Neill"
+    },
+    {
+     "c": "David Wayne",
+     "n": "Dallas Roberts"
+    },
+    {
+     "c": "Dr. Vass",
+     "n": "Griffin Dunne"
+    },
+    {
+     "c": "T.J.",
+     "n": "Kevin Rankin"
+    },
+    {
+     "c": "Nurse Frazin",
+     "n": "Donna DuPlantier"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Jean-Marc Vallée"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 152532,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+   "popularity": 5.9705,
+   "poster_path": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-02-28",
+   "revenue": 55736588,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Dare to live.",
+   "title": "Dallas Buyers Club",
+   "trailer": {
+    "key": "KDvPcBeOn8E",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.901,
+   "vote_count": 9393
   },
   "movie:1662432": {
    "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
@@ -2437,6 +2740,172 @@
    "vote_average": 8.075,
    "vote_count": 446
   },
+  "movie:207932": {
+   "backdrop_path": "/y3w1fdR3QfYy22ryvhRl6YyHohs.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Robert Langdon",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Sienna Brooks",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Christoph Bouchard",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Harry Sims",
+     "n": "Irrfan Khan"
+    },
+    {
+     "c": "Elizabeth Sinskey",
+     "n": "Sidse Babett Knudsen"
+    },
+    {
+     "c": "Bertrand Zobrist",
+     "n": "Ben Foster"
+    },
+    {
+     "c": "Vayentha",
+     "n": "Ana Ularu"
+    },
+    {
+     "c": "Marta Alvarez",
+     "n": "Ida Darvish"
+    },
+    {
+     "c": "Dr. Marconi",
+     "n": "Paolo Antonio Simioni"
+    },
+    {
+     "c": "Florence Hospital Taxi Driver",
+     "n": "Alessandro Grimaldi"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 207932,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
+   "popularity": 5.9535,
+   "poster_path": "/5T6iVetK5AB1kgwAEKbDM2hTZJU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-10-13",
+   "revenue": 220021259,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "His greatest challenge. Humanity's last hope.",
+   "title": "Inferno",
+   "trailer": {
+    "key": "RH2BD49sEZI",
+    "name": "INFERNO - Official Trailer (HD)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.106,
+   "vote_count": 6866
+  },
   "movie:23832": {
    "backdrop_path": "/dELiIRHrpNpncIApojSW67kPNdQ.jpg",
    "budget": 0,
@@ -2527,6 +2996,128 @@
    "type": "movie",
    "vote_average": 7.73,
    "vote_count": 418
+  },
+  "movie:240832": {
+   "backdrop_path": "/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+   "budget": 40000000,
+   "cast": [
+    {
+     "c": "Lucy",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Professor Norman",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Mr. Jang",
+     "n": "Choi Min-sik"
+    },
+    {
+     "c": "Pierre Del Rio",
+     "n": "Amr Waked"
+    },
+    {
+     "c": "The Limey",
+     "n": "Julian Rhind-Tutt"
+    },
+    {
+     "c": "Richard",
+     "n": "Pilou Asbæk"
+    },
+    {
+     "c": "Caroline",
+     "n": "Lio Tipton"
+    },
+    {
+     "c": "Jang's Lieutenant",
+     "n": "Shin Yoo-ram"
+    },
+    {
+     "c": "Jang's Lieutenant",
+     "n": "Seo Chong-ju"
+    },
+    {
+     "c": "Jii",
+     "n": "Nicolas Phongpheth"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Luc Besson"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 240832,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+   "popularity": 14.0202,
+   "poster_path": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-07-25",
+   "revenue": 469058574,
+   "runtime": 89,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "fr",
+    "es",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "The average person uses 10% of their brain capacity. Imagine what she could do with 100%.",
+   "title": "Lucy",
+   "trailer": {
+    "key": "l7zAV_MDC68",
+    "name": "Lucy - International Trailer (Universal Pictures) HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.48,
+   "vote_count": 17573
   },
   "movie:25132": {
    "backdrop_path": "/c9d0Mp6sWdneRp85etaW3jz6KMg.jpg",
@@ -3507,6 +4098,348 @@
    "vote_average": 6.028,
    "vote_count": 360
   },
+  "movie:4232": {
+   "backdrop_path": "/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+   "budget": 14000000,
+   "cast": [
+    {
+     "c": "Sidney",
+     "n": "Neve Campbell"
+    },
+    {
+     "c": "Billy",
+     "n": "Skeet Ulrich"
+    },
+    {
+     "c": "Tatum",
+     "n": "Rose McGowan"
+    },
+    {
+     "c": "Stuart",
+     "n": "Matthew Lillard"
+    },
+    {
+     "c": "Deputy Dewey",
+     "n": "David Arquette"
+    },
+    {
+     "c": "Gale Weathers",
+     "n": "Courteney Cox"
+    },
+    {
+     "c": "Randy",
+     "n": "Jamie Kennedy"
+    },
+    {
+     "c": "Casey",
+     "n": "Drew Barrymore"
+    },
+    {
+     "c": "Kenny",
+     "n": "W. Earl Brown"
+    },
+    {
+     "c": "Sheriff Burke",
+     "n": "Joseph Whipp"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Wes Craven"
+   ],
+   "genres": [
+    "Crime",
+    "Horror",
+    "Mystery"
+   ],
+   "id": 4232,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+   "popularity": 15.4168,
+   "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-12-20",
+   "revenue": 173046663,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Someone has taken their love of scary movies one step too far. Solving this mystery is going to be murder.",
+   "title": "Scream",
+   "trailer": {
+    "key": "U0LETmDvuXc",
+    "name": "Paramount Movies Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.4,
+   "vote_count": 8417
+  },
+  "movie:447332": {
+   "backdrop_path": "/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
+   "budget": 17000000,
+   "cast": [
+    {
+     "c": "Evelyn Abbott",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Lee Abbott",
+     "n": "John Krasinski"
+    },
+    {
+     "c": "Regan Abbott",
+     "n": "Millicent Simmonds"
+    },
+    {
+     "c": "Marcus Abbott",
+     "n": "Noah Jupe"
+    },
+    {
+     "c": "Beau Abbott",
+     "n": "Cade Woodward"
+    },
+    {
+     "c": "Man in the Woods",
+     "n": "Leon Russom"
+    },
+    {
+     "c": "Old Man's Dead Wife (uncredited)",
+     "n": "Rhoda Pell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "John Krasinski"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Science Fiction"
+   ],
+   "id": 447332,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+   "popularity": 11.5026,
+   "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-05-06",
+   "revenue": 340955294,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "If they hear you, they hunt you.",
+   "title": "A Quiet Place",
+   "trailer": {
+    "key": "rqEnM25BsNQ",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.394,
+   "vote_count": 15951
+  },
   "movie:46332": {
    "backdrop_path": "/5dZC7725ogu9drxXLHoNhWIJsgo.jpg",
    "budget": 4000000,
@@ -3661,6 +4594,188 @@
    "type": "movie",
    "vote_average": 6.659,
    "vote_count": 430
+  },
+  "movie:490132": {
+   "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Tony Lip",
+     "n": "Viggo Mortensen"
+    },
+    {
+     "c": "Dr. Don Shirley",
+     "n": "Mahershala Ali"
+    },
+    {
+     "c": "Dolores",
+     "n": "Linda Cardellini"
+    },
+    {
+     "c": "Johnny Venere",
+     "n": "Sebastian Maniscalco"
+    },
+    {
+     "c": "Oleg",
+     "n": "Dimiter D. Marinov"
+    },
+    {
+     "c": "George",
+     "n": "Mike Hatton"
+    },
+    {
+     "c": "Record Exec",
+     "n": "P.J. Byrne"
+    },
+    {
+     "c": "Gio Loscudo",
+     "n": "Joe Cortese"
+    },
+    {
+     "c": "Copa Coat Check Girl",
+     "n": "Mary Agnes Nixon"
+    },
+    {
+     "c": "Bobby Rydell",
+     "n": "Von Lewis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Peter Farrelly"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy",
+    "History"
+   ],
+   "id": 490132,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+   "popularity": 15.1407,
+   "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-11-23",
+   "revenue": 321752656,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Inspired by a True Friendship.",
+   "title": "Green Book",
+   "trailer": {
+    "key": "QkZxoko_HC0",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.224,
+   "vote_count": 13493
   },
   "movie:507532": {
    "backdrop_path": "/5LgLy0BEzGvVqii1ERftWrzQgFs.jpg",
@@ -4978,6 +6093,173 @@
    "type": "movie",
    "vote_average": 6.663,
    "vote_count": 456
+  },
+  "movie:9532": {
+   "backdrop_path": "/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
+   "budget": 23000000,
+   "cast": [
+    {
+     "c": "Alex Browning",
+     "n": "Devon Sawa"
+    },
+    {
+     "c": "Clear Rivers",
+     "n": "Ali Larter"
+    },
+    {
+     "c": "Carter Horton",
+     "n": "Kerr Smith"
+    },
+    {
+     "c": "Valerie Lewton",
+     "n": "Kristen Cloke"
+    },
+    {
+     "c": "Agent Weine",
+     "n": "Daniel Roebuck"
+    },
+    {
+     "c": "Agent Schreck",
+     "n": "Roger Guenveur Smith"
+    },
+    {
+     "c": "Tod Waggner",
+     "n": "Chad Donella"
+    },
+    {
+     "c": "Billy Hitchcock",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Bludworth",
+     "n": "Tony Todd"
+    },
+    {
+     "c": "Terry Chaney",
+     "n": "Amanda Detmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "James Wong"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 9532,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.",
+   "popularity": 9.9529,
+   "poster_path": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-09-22",
+   "revenue": 112880294,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "No accidents. No coincidences. No escapes. You can't cheat death.",
+   "title": "Final Destination",
+   "trailer": {
+    "key": "9hvUxRGeBhA",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.652,
+   "vote_count": 7093
   },
   "movie:962232": {
    "backdrop_path": "/pKfvYWbxhVnGHg6By3VaxtrbLZe.jpg",

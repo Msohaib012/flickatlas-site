@@ -1,6 +1,6 @@
 {
  "bucket": "60",
- "count": 77,
+ "count": 85,
  "titles": {
   "movie:10560": {
    "d": "Center Stage (2000): Drama/Music film. Story: A group of 12 teenagers from various backgrounds… See cast, budget $29M, and TMDB rating 6.9/10.",
@@ -876,6 +876,70 @@
    "t": "Semi-Pro (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2008"
   },
+  "movie:14160": {
+   "d": "Up (2009): Animation/Comedy film. Story: Carl Fredricksen spent his entire life dreaming of… See cast, budget $175M, and TMDB rating 8.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+   "industry": "world",
+   "k": "Up, Up movie, Up cast, Up story, Up box office collection, Up budget, Up review, Up rating, Up release date, Up trailer, Up Animation, Up Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ed Asner"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Plummer"
+     },
+     {
+      "@type": "Person",
+      "name": "Jordan Nagai"
+     },
+     {
+      "@type": "Person",
+      "name": "Bob Peterson"
+     },
+     {
+      "@type": "Person",
+      "name": "Delroy Lindo"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 22400,
+     "ratingValue": 8.0,
+     "worstRating": 0
+    },
+    "description": "Up (2009): Animation/Comedy film. Story: Carl Fredricksen spent his entire life dreaming of… See cast, budget $175M, and TMDB rating 8.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Pete Docter"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Animation",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=14160",
+    "name": "Up",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-09-11"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=14160"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Up (2009)</h1>\n<p class=\"ssr-lead\">Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 September 2009</li><li>Runtime: 96 minutes</li><li>Director: Pete Docter</li><li>Genres: Animation, Comedy, Family, Adventure</li><li>Budget: $175M</li><li>TMDB rating: 8.0/10 (22400 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ed Asner as Carl Fredricksen (voice)</li><li>Christopher Plummer as Charles Muntz (voice)</li><li>Jordan Nagai as Russell (voice)</li><li>Bob Peterson as Dug / Alpha (voice)</li><li>Delroy Lindo as Beta (voice)</li><li>Jerome Ranft as Gamma (voice)</li><li>John Ratzenberger as Construction Foreman Tom (voice)</li><li>David Kaye as Newsreel Announcer (voice)</li><li>Elie Docter as Young Ellie (voice)</li><li>Jeremy Leary as Young Carl (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Up (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
+  },
   "movie:1439660": {
    "d": "Fukushima: A Nuclear Nightmare (2026): Documentary/Drama film. Story: The definitive account of Japan’s struggle as it… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/olz73f1yVWu5JlLDi8lI98Yekvl.jpg",
@@ -1130,6 +1194,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Toxic Love Story (2026)</h1>\n<p class=\"ssr-lead\">A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 July 2026</li><li>Runtime: 91 minutes</li><li>Director: Alexandra Lacey</li><li>Genres: Documentary</li><li>TMDB rating: 6.5/10 (64 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amanda Wear as Michelle</li><li>Gavin Marck as Ian</li><li>Katia Plotnikoff as Angela</li><li>Lainey Baldwin as Leslie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "A Toxic Love Story (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:18360": {
+   "d": "Night at the Museum: Battle of the Smithsonian (2009): Adventure/Fantasy film. Story: Hapless museum night watchman Larry Daley must help… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/zdhICEDUlBTQ43fQMa2KJt8fDFX.jpg",
+   "industry": "world",
+   "k": "Night at the Museum: Battle of the Smithsonian, Night at the Museum: Battle of the Smithsonian movie, Night at the Museum: Battle of the Smithsonian cast, Night at the Museum: Battle of the Smithsonian story, Night at the Museum: Battle of the Smithsonian box office collection, Night at the Museum: Battle of the Smithsonian budget, Night at the Museum: Battle of the Smithsonian review, Night at the Museum: Battle of the Smithsonian rating, Night at the Museum: Battle of the Smithsonian release date, Night at the Museum: Battle of the Smithsonian Adventure, Night at the Museum: Battle of the Smithsonian Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ben Stiller"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Adams"
+     },
+     {
+      "@type": "Person",
+      "name": "Owen Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Hank Azaria"
+     },
+     {
+      "@type": "Person",
+      "name": "Robin Williams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7546,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Night at the Museum: Battle of the Smithsonian (2009): Adventure/Fantasy film. Story: Hapless museum night watchman Larry Daley must help… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Shawn Levy"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zdhICEDUlBTQ43fQMa2KJt8fDFX.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=18360",
+    "name": "Night at the Museum: Battle of the Smithsonian",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-05-20"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=18360"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Night at the Museum: Battle of the Smithsonian (2009)</h1>\n<p class=\"ssr-lead\">Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they&#x27;ve been transferred to the archives at the Smithsonian Institution. Larry&#x27;s (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 20 May 2009</li><li>Runtime: 105 minutes</li><li>Director: Shawn Levy</li><li>Genres: Adventure, Fantasy, Action, Comedy, Family</li><li>Budget: $150M</li><li>TMDB rating: 6.2/10 (7546 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ben Stiller as Larry Daley</li><li>Amy Adams as Amelia Earhart / Tess</li><li>Owen Wilson as Jedediah Smith</li><li>Hank Azaria as Kahmunrah / The Thinker / Abe Lincoln</li><li>Robin Williams as Theodore Roosevelt</li><li>Christopher Guest as Ivan the Terrible</li><li>Alain Chabat as Napoleon Bonaparte</li><li>Steve Coogan as Octavius</li><li>Ricky Gervais as Dr. McPhee</li><li>Bill Hader as George Armstrong Custer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Night at the Museum: Battle of the Smithsonian (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
   },
   "movie:185460": {
    "d": "Willow Creek (2013): Horror/Mystery film. Story: Looking to make a splash online with his research… See cast, TMDB rating 5.1/10, and release date 2 May 2013.",
@@ -1702,6 +1830,70 @@
    "t": "God's Not Dead (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2014"
   },
+  "movie:264660": {
+   "d": "Ex Machina (2015): Drama/Science Fiction film. Story: Caleb, a coder at the world's largest internet… See cast, budget $15M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+   "industry": "world",
+   "k": "Ex Machina, Ex Machina movie, Ex Machina cast, Ex Machina story, Ex Machina box office collection, Ex Machina budget, Ex Machina review, Ex Machina rating, Ex Machina release date, Ex Machina trailer, Ex Machina Drama, Ex Machina Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Domhnall Gleeson"
+     },
+     {
+      "@type": "Person",
+      "name": "Alicia Vikander"
+     },
+     {
+      "@type": "Person",
+      "name": "Oscar Isaac"
+     },
+     {
+      "@type": "Person",
+      "name": "Sonoya Mizuno"
+     },
+     {
+      "@type": "Person",
+      "name": "Corey Johnson"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 14805,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Ex Machina (2015): Drama/Science Fiction film. Story: Caleb, a coder at the world's largest internet… See cast, budget $15M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Alex Garland"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=264660",
+    "name": "Ex Machina",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-01-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=264660"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ex Machina (2015)</h1>\n<p class=\"ssr-lead\">Caleb, a coder at the world&#x27;s largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world&#x27;s first true artificial intelligence, housed in the body of a beautiful robot girl.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 January 2015</li><li>Runtime: 108 minutes</li><li>Director: Alex Garland</li><li>Genres: Drama, Science Fiction</li><li>Budget: $15M</li><li>TMDB rating: 7.6/10 (14805 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Domhnall Gleeson as Caleb</li><li>Alicia Vikander as Ava</li><li>Oscar Isaac as Nathan</li><li>Sonoya Mizuno as Kyoko</li><li>Corey Johnson as Jay</li><li>Claire Selby as Lily</li><li>Symara A. Templeman as Jasmine</li><li>Gana Bayarsaikhan as Jade</li><li>Tiffany Pisani as Katya</li><li>Elina Alminas as Amber</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Ex Machina (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:2760": {
    "d": "The Lodger: A Story of the London Fog (1927): Crime/Thriller film. Story: London. A mysterious serial killer brutally murders… See cast and budget $14.7k.",
    "img": "https://image.tmdb.org/t/p/w780/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
@@ -1893,6 +2085,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Claire&#x27;s Knee (1970)</h1>\n<p class=\"ssr-lead\">On the eve of his wedding, on holiday on the Lake Annecy shore, career diplomat Jérôme visits an old acquaintance, perhaps a former girlfriend. Through her, he meets an intense teenager, Laura, and then lusts after her sister, Claire. Whilst Laura attempts to flirt with him, Jérôme&#x27;s fantasy becomes focused on wanting to caress Claire&#x27;s knee.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 December 1970</li><li>Runtime: 105 minutes</li><li>Director: Éric Rohmer</li><li>Genres: Drama, Romance</li><li>TMDB rating: 7.3/10 (304 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Brialy as Jérôme</li><li>Aurora Cornu as Aurora, the novelist</li><li>Béatrice Romand as Laura</li><li>Laurence de Monaghan as Claire</li><li>Michèle Montel as Madame Walter</li><li>Gérard Falconetti as Gilles</li><li>Fabrice Luchini as Vincent</li><li>Sandra Franchina</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Criterion Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Claire's Knee (1970) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1970"
+  },
+  "movie:293660": {
+   "d": "Deadpool (2016): Action/Adventure film. Story: The origin story of former Special Forces operative… See cast, budget $58M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+   "industry": "world",
+   "k": "Deadpool, Deadpool movie, Deadpool cast, Deadpool story, Deadpool box office collection, Deadpool budget, Deadpool review, Deadpool rating, Deadpool release date, Deadpool trailer, Deadpool Action, Deadpool Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Morena Baccarin"
+     },
+     {
+      "@type": "Person",
+      "name": "Ed Skrein"
+     },
+     {
+      "@type": "Person",
+      "name": "T.J. Miller"
+     },
+     {
+      "@type": "Person",
+      "name": "Gina Carano"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 33638,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Deadpool (2016): Action/Adventure film. Story: The origin story of former Special Forces operative… See cast, budget $58M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Miller"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/rFj9IKlL75B2pXhZA60jkNWvxeW.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=293660",
+    "name": "Deadpool",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=293660"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Deadpool (2016)</h1>\n<p class=\"ssr-lead\">The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 February 2016</li><li>Runtime: 108 minutes</li><li>Director: Tim Miller</li><li>Genres: Action, Adventure, Comedy</li><li>Budget: $58M</li><li>TMDB rating: 7.6/10 (33638 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Reynolds as Wade / Deadpool</li><li>Morena Baccarin as Vanessa</li><li>Ed Skrein as Ajax</li><li>T.J. Miller as Weasel</li><li>Gina Carano as Angel Dust</li><li>Leslie Uggams as Blind Al</li><li>Brianna Hildebrand as Negasonic Teenage Warhead</li><li>Stefan Kapičić as Colossus (voice)</li><li>Karan Soni as Dopinder</li><li>Randal Reeder as Buck</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Deadpool (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
   },
   "movie:297160": {
    "d": "XX (2017): Horror film. Story: This all-female horror anthology features four dark… See cast, TMDB rating 5.0/10, and release date 17 February 2017.",
@@ -3185,6 +3441,70 @@
    "t": "My Brother Chases Dinosaurs (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
   },
+  "movie:624860": {
+   "d": "The Matrix Resurrections (2021): Science Fiction/Action film. Story: Plagued by strange memories, Neo's life takes an… See cast and budget $190M.",
+   "img": "https://image.tmdb.org/t/p/w780/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+   "industry": "world",
+   "k": "The Matrix Resurrections, The Matrix Resurrections movie, The Matrix Resurrections cast, The Matrix Resurrections story, The Matrix Resurrections box office collection, The Matrix Resurrections budget, The Matrix Resurrections review, The Matrix Resurrections rating, The Matrix Resurrections release date, The Matrix Resurrections trailer, The Matrix Resurrections Science Fiction, The Matrix Resurrections Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Keanu Reeves"
+     },
+     {
+      "@type": "Person",
+      "name": "Carrie-Anne Moss"
+     },
+     {
+      "@type": "Person",
+      "name": "Yahya Abdul-Mateen II"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Groff"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Henwick"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6870,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "The Matrix Resurrections (2021): Science Fiction/Action film. Story: Plagued by strange memories, Neo's life takes an… See cast and budget $190M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Lana Wachowski"
+     }
+    ],
+    "duration": "PT148M",
+    "genre": [
+     "Science Fiction",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=624860",
+    "name": "The Matrix Resurrections",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-12-16"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=624860"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Matrix Resurrections (2021)</h1>\n<p class=\"ssr-lead\">Plagued by strange memories, Neo&#x27;s life takes an unexpected turn when he finds himself back inside the Matrix.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 December 2021</li><li>Runtime: 148 minutes</li><li>Director: Lana Wachowski</li><li>Genres: Science Fiction, Action, Adventure</li><li>Budget: $190M</li><li>TMDB rating: 6.3/10 (6870 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Keanu Reeves as Neo / Thomas Anderson</li><li>Carrie-Anne Moss as Trinity / Tiffany</li><li>Yahya Abdul-Mateen II as Morpheus / Agent Smith</li><li>Jonathan Groff as Smith</li><li>Jessica Henwick as Bugs</li><li>Neil Patrick Harris as The Analyst</li><li>Jada Pinkett Smith as Niobe</li><li>Priyanka Chopra Jonas as Sati</li><li>Christina Ricci as Gwyn de Vere</li><li>Lambert Wilson as The Merovingian</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Matrix Resurrections (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:658760": {
    "d": "Isi & Ossi (2020): Romance/Comedy film. Story: Isi and Ossi couldn't be any more different: She's a… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/2EOy2YSJbzKvlzKpEEKULVYZGlN.jpg",
@@ -3377,6 +3697,70 @@
    "t": "I Want You Back (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
   },
+  "movie:70160": {
+   "d": "The Hunger Games (2012): Science Fiction/Adventure film. Story: In a dystopian society where the Capitol forces each… See cast and budget $75M.",
+   "img": "https://image.tmdb.org/t/p/w780/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+   "industry": "world",
+   "k": "The Hunger Games, The Hunger Games movie, The Hunger Games cast, The Hunger Games story, The Hunger Games box office collection, The Hunger Games budget, The Hunger Games review, The Hunger Games rating, The Hunger Games release date, The Hunger Games trailer, The Hunger Games Science Fiction, The Hunger Games Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Banks"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24025,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "The Hunger Games (2012): Science Fiction/Adventure film. Story: In a dystopian society where the Capitol forces each… See cast and budget $75M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Ross"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=70160",
+    "name": "The Hunger Games",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-03-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=70160"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games (2012)</h1>\n<p class=\"ssr-lead\">In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 March 2012</li><li>Runtime: 142 minutes</li><li>Director: Gary Ross</li><li>Genres: Science Fiction, Adventure, Action, Thriller</li><li>Budget: $75M</li><li>TMDB rating: 7.2/10 (24025 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jennifer Lawrence as Katniss Everdeen</li><li>Josh Hutcherson as Peeta Mellark</li><li>Liam Hemsworth as Gale Hawthorne</li><li>Woody Harrelson as Haymitch Abernathy</li><li>Elizabeth Banks as Effie Trinket</li><li>Lenny Kravitz as Cinna</li><li>Stanley Tucci as Caesar Flickerman</li><li>Donald Sutherland as President Coriolanus Snow</li><li>Wes Bentley as Seneca Crane</li><li>Toby Jones as Claudius Templesmith</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Movie Sphere+</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Hunger Games (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
+  },
   "movie:740460": {
    "d": "The Wannabes (2022): Comedy film. Story: Daniel and Stéphane, two salesmen working in the same… See cast, TMDB rating 6.1/10, and release date 9 February 2022.",
    "img": "https://image.tmdb.org/t/p/w780/yITSh3nwDb9tut3TNbmUYeFgGlB.jpg",
@@ -3439,6 +3823,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Wannabes (2022)</h1>\n<p class=\"ssr-lead\">Daniel and Stéphane, two salesmen working in the same store but who cannot stand each other, decide despite everything to team up to participate in television games so they can pay their debts.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 February 2022</li><li>Runtime: 102 minutes</li><li>Director: Jonathan Barré</li><li>Genres: Comedy</li><li>TMDB rating: 6.1/10 (345 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Grégoire Ludig as Daniel Santini</li><li>David Marsais as Stéphane Chevalier</li><li>Julien Pestel as Blaise Petit</li><li>Damien Gillard as Fred Costa</li><li>Gaëlle Lebert as Laurence Santini</li><li>Juliette Plumecocq-Mech as Patricia</li><li>Théo Gross as Bastien</li><li>Patrick Hongniat as Gustave Chevalier</li><li>Alexandra Gentil as Léa</li><li>Harmandeep Palminder as FX</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "The Wannabes (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2022"
+  },
+  "movie:8960": {
+   "d": "Hancock (2008): Fantasy/Action film. Story: Hancock is a down-and-out superhero who's forced to… See cast, budget $150M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+   "industry": "world",
+   "k": "Hancock, Hancock movie, Hancock cast, Hancock story, Hancock box office collection, Hancock budget, Hancock review, Hancock rating, Hancock release date, Hancock trailer, Hancock Fantasy, Hancock Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Will Smith"
+     },
+     {
+      "@type": "Person",
+      "name": "Charlize Theron"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Bateman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jae Head"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Marsan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10636,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Hancock (2008): Fantasy/Action film. Story: Hancock is a down-and-out superhero who's forced to… See cast, budget $150M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Berg"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8960",
+    "name": "Hancock",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-07-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8960"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hancock (2008)</h1>\n<p class=\"ssr-lead\">Hancock is a down-and-out superhero who&#x27;s forced to employ a PR expert to help repair his image when the public grows weary of all the damage he&#x27;s inflicted during his lifesaving heroics. The agent&#x27;s idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 July 2008</li><li>Runtime: 92 minutes</li><li>Director: Peter Berg</li><li>Genres: Fantasy, Action</li><li>Budget: $150M</li><li>TMDB rating: 6.4/10 (10636 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Will Smith as John Hancock</li><li>Charlize Theron as Mary</li><li>Jason Bateman as Ray</li><li>Jae Head as Aaron</li><li>Eddie Marsan as Red</li><li>David Mattey as Man Mountain</li><li>Maetrix Fitten as Matrix</li><li>Thomas Lennon as Mike</li><li>Johnny Galecki as Jeremy</li><li>Hayley Marie Norman as Hottie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Hancock (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
   },
   "movie:92060": {
    "d": "Michael Jackson's Thriller (1983): Horror/Music film. Story: A night at the movies turns terrifying when Michael… See cast and budget $500.0k.",
@@ -3503,6 +3951,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Michael Jackson&#x27;s Thriller (1983)</h1>\n<p class=\"ssr-lead\">A night at the movies turns terrifying when Michael and his date are attacked by zombies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 November 1983</li><li>Runtime: 14 minutes</li><li>Director: John Landis</li><li>Genres: Horror, Music, Thriller</li><li>Budget: $500.0k</li><li>TMDB rating: 8.3/10 (818 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Jackson as Michael Jackson</li><li>Ola Ray as Michael&#x27;s Girlfriend</li><li>Vincent Price as Narrator (voice)</li><li>Cynthia Garris as Zombie (uncredited)</li><li>Mick Garris as Zombie (uncredited)</li><li>Hanala Sagal as Dancer (uncredited)</li><li>Forrest J. Ackerman as Man in Movie Theater (uncredited)</li><li>Reed Armstrong as Zombie (uncredited)</li><li>Rick Baker as Zombie Opening the Crypt (uncredited)</li><li>Miko C. Brando as Zombie (uncredited)</li></ul>\n</article>",
    "t": "Michael Jackson's Thriller (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
+  },
+  "movie:933260": {
+   "d": "The Substance (2024): Horror/Science Fiction film. Story: A fading celebrity decides to use a black market… See cast, budget $17.5M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+   "industry": "world",
+   "k": "The Substance, The Substance movie, The Substance cast, The Substance story, The Substance box office collection, The Substance budget, The Substance review, The Substance rating, The Substance release date, The Substance trailer, The Substance Horror, The Substance Science Fiction, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Demi Moore"
+     },
+     {
+      "@type": "Person",
+      "name": "Margaret Qualley"
+     },
+     {
+      "@type": "Person",
+      "name": "Dennis Quaid"
+     },
+     {
+      "@type": "Person",
+      "name": "Edward Hamilton-Clark"
+     },
+     {
+      "@type": "Person",
+      "name": "Gore Abrams"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6799,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "The Substance (2024): Horror/Science Fiction film. Story: A fading celebrity decides to use a black market… See cast, budget $17.5M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Coralie Fargeat"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=933260",
+    "name": "The Substance",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2024-09-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=933260"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Substance (2024)</h1>\n<p class=\"ssr-lead\">A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 September 2024</li><li>Runtime: 142 minutes</li><li>Director: Coralie Fargeat</li><li>Genres: Horror, Science Fiction</li><li>Budget: $17.5M</li><li>TMDB rating: 7.1/10 (6799 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Demi Moore as Elisabeth</li><li>Margaret Qualley as Sue</li><li>Dennis Quaid as Harvey</li><li>Edward Hamilton-Clark as Fred</li><li>Gore Abrams as Oliver</li><li>Oscar Lesage as Troy</li><li>Christian Erickson as Man at Diner</li><li>Robin Greer as Male Nurse</li><li>Tom Morton as Doctor</li><li>Hugo Diego Garcia as Diego - Boyfriend</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: MUBI, MUBI Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Substance (2024) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2024"
   },
   "movie:9460": {
    "d": "Black Mask (1996): Action film. Story: Super-soldier recruit Tsui Chik is forced to escape… See cast, budget $8M, and TMDB rating 6.2/10.",

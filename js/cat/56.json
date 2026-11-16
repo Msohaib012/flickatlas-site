@@ -1,6 +1,6 @@
 {
  "bucket": "56",
- "count": 65,
+ "count": 74,
  "titles": {
   "movie:1010756": {
    "backdrop_path": "/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
@@ -1004,6 +1004,146 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 319
+  },
+  "movie:121856": {
+   "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Callum Lynch / Aguilar de Nerha",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Dr. Sophia Rikkin",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Alan Rikkin",
+     "n": "Jeremy Irons"
+    },
+    {
+     "c": "Joseph Lynch",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Ellen Kaye",
+     "n": "Charlotte Rampling"
+    },
+    {
+     "c": "Moussa",
+     "n": "Michael Kenneth Williams"
+    },
+    {
+     "c": "Maria",
+     "n": "Ariane Labed"
+    },
+    {
+     "c": "Father Raymond",
+     "n": "James Sobol Kelly"
+    },
+    {
+     "c": "Abstergo Güvenlik Müdürü",
+     "n": "Denis Ménochet"
+    },
+    {
+     "c": "Nathan",
+     "n": "Callum Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Justin Kurzel"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 121856,
+   "industry": "world",
+   "origin_country": [
+    "FR",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Through a technology that unlocks the genetic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.",
+   "popularity": 3.995,
+   "poster_path": "/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg",
+   "production_countries": [
+    "FR",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-12-21",
+   "revenue": 240700000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Your destiny is in your blood.",
+   "title": "Assassin's Creed",
+   "trailer": {
+    "key": "vzWVVla8WWA",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.447,
+   "vote_count": 8329
   },
   "movie:13156": {
    "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
@@ -2598,6 +2738,146 @@
    "vote_average": 7.346,
    "vote_count": 861
   },
+  "movie:214756": {
+   "backdrop_path": "/xtHonIIIQXverDQM08TMQXjn9Fe.jpg",
+   "budget": 68000000,
+   "cast": [
+    {
+     "c": "John",
+     "n": "Mark Wahlberg"
+    },
+    {
+     "c": "Ted (voice)",
+     "n": "Seth MacFarlane"
+    },
+    {
+     "c": "Samantha",
+     "n": "Amanda Seyfried"
+    },
+    {
+     "c": "Tami-Lynn",
+     "n": "Jessica Barth"
+    },
+    {
+     "c": "Donny",
+     "n": "Giovanni Ribisi"
+    },
+    {
+     "c": "Patrick Meighan",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Sam J. Jones",
+     "n": "Sam J. Jones"
+    },
+    {
+     "c": "Guy",
+     "n": "Patrick Warburton"
+    },
+    {
+     "c": "Rick",
+     "n": "Michael Dorn"
+    },
+    {
+     "c": "Frank",
+     "n": "Bill Smitrovich"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Seth MacFarlane"
+   ],
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 214756,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+   "popularity": 12.8179,
+   "poster_path": "/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-06-25",
+   "revenue": 215863606,
+   "runtime": 115,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Thunder buddies for life.",
+   "title": "Ted 2",
+   "trailer": {
+    "key": "mSG3R_2Uisw",
+    "name": "Official Restricted Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.328,
+   "vote_count": 8270
+  },
   "movie:216156": {
    "backdrop_path": "/lJKhmgfilbyi0ejGYKTNh7UHZgE.jpg",
    "budget": 0,
@@ -3312,6 +3592,134 @@
    "vote_average": 6.52,
    "vote_count": 919
   },
+  "movie:266856": {
+   "backdrop_path": "/dh2QT3TPtAQf057yeLpNMuaJlmp.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Stephen Hawking",
+     "n": "Eddie Redmayne"
+    },
+    {
+     "c": "Jane Hawking",
+     "n": "Felicity Jones"
+    },
+    {
+     "c": "Jonathan Hellyer Jones",
+     "n": "Charlie Cox"
+    },
+    {
+     "c": "Beryl Wilde",
+     "n": "Emily Watson"
+    },
+    {
+     "c": "Frank Hawking",
+     "n": "Simon McBurney"
+    },
+    {
+     "c": "Dennis Sciama",
+     "n": "David Thewlis"
+    },
+    {
+     "c": "Elaine Mason",
+     "n": "Maxine Peake"
+    },
+    {
+     "c": "Brian",
+     "n": "Harry Lloyd"
+    },
+    {
+     "c": "Robert Hawking (Age 17)",
+     "n": "Tom Prior"
+    },
+    {
+     "c": "Lucy Hawking (Age 14)",
+     "n": "Sophie Perry"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "James Marsh"
+   ],
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "id": 266856,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Once a healthy, active young man, Hawking received an earth-shattering diagnosis at 21 years of age. With Jane fighting tirelessly by his side, Stephen embarks on his most ambitious scientific work, studying the very thing he now has precious little of – time.",
+   "popularity": 5.5609,
+   "poster_path": "/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-01-16",
+   "revenue": 123726688,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "la",
+    "en",
+    "fr",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "His mind changed our world. Her love changed his.",
+   "title": "The Theory of Everything",
+   "trailer": {
+    "key": "_EnhOKk7BxM",
+    "name": "Pop Up Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.817,
+   "vote_count": 11370
+  },
   "movie:31056": {
    "backdrop_path": "/mvPL6z8QFhmk67n6o7sNmU2J1fd.jpg",
    "budget": 0,
@@ -3702,6 +4110,500 @@
    "type": "movie",
    "vote_average": 5.008,
    "vote_count": 842
+  },
+  "movie:38356": {
+   "backdrop_path": "/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+   "budget": 195000000,
+   "cast": [
+    {
+     "c": "Sam Witwicky",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Carly",
+     "n": "Rosie Huntington-Whiteley"
+    },
+    {
+     "c": "Optimus Prime (voice)",
+     "n": "Peter Cullen"
+    },
+    {
+     "c": "Sentinel Prime (voice)",
+     "n": "Leonard Nimoy"
+    },
+    {
+     "c": "Simmons",
+     "n": "John Turturro"
+    },
+    {
+     "c": "Mearing",
+     "n": "Frances McDormand"
+    },
+    {
+     "c": "Lennox",
+     "n": "Josh Duhamel"
+    },
+    {
+     "c": "Epps",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Dylan",
+     "n": "Patrick Dempsey"
+    },
+    {
+     "c": "Megatron (voice)",
+     "n": "Hugo Weaving"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Michael Bay"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 38356,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Autobots continue to work for NEST, now no longer in secret. But after discovering a strange artifact during a mission in Chernobyl, it becomes apparent to Optimus Prime that the United States government has been less than forthright with them.",
+   "popularity": 2.965,
+   "poster_path": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    },
+    {
+     "name": "Channel 4 Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-06-28",
+   "revenue": 1123794079,
+   "runtime": 154,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Be afraid of the dark.",
+   "title": "Transformers: Dark of the Moon",
+   "trailer": {
+    "key": "XeUtb5L9iNE",
+    "name": "Official Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.243,
+   "vote_count": 9290
+  },
+  "movie:458156": {
+   "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "John Wick",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Sofia",
+     "n": "Halle Berry"
+    },
+    {
+     "c": "Winston",
+     "n": "Ian McShane"
+    },
+    {
+     "c": "Bowery King",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Zero",
+     "n": "Mark Dacascos"
+    },
+    {
+     "c": "The Adjudicator",
+     "n": "Asia Kate Dillon"
+    },
+    {
+     "c": "Charon",
+     "n": "Lance Reddick"
+    },
+    {
+     "c": "The Director",
+     "n": "Anjelica Huston"
+    },
+    {
+     "c": "The Elder",
+     "n": "Saïd Taghmaoui"
+    },
+    {
+     "c": "Berrada",
+     "n": "Jerome Flynn"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Chad Stahelski"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 458156,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+   "popularity": 13.6113,
+   "poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-05-17",
+   "revenue": 328349908,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "zh",
+    "en",
+    "id",
+    "it",
+    "ja",
+    "la",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "If you want peace, prepare for war.",
+   "title": "John Wick: Chapter 3 - Parabellum",
+   "trailer": {
+    "key": "pU8-7BX9uxs",
+    "name": "New Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.437,
+   "vote_count": 12286
+  },
+  "movie:502356": {
+   "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Mario (voice)",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Princess Peach (voice)",
+     "n": "Anya Taylor-Joy"
+    },
+    {
+     "c": "Luigi (voice)",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Bowser (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Toad (voice)",
+     "n": "Keegan-Michael Key"
+    },
+    {
+     "c": "Donkey Kong (voice)",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Cranky Kong (voice)",
+     "n": "Fred Armisen"
+    },
+    {
+     "c": "Spike (voice)",
+     "n": "Sebastian Maniscalco"
+    },
+    {
+     "c": "Mario's Dad / Giuseppe (voice)",
+     "n": "Charles Martinet"
+    },
+    {
+     "c": "Kamek (voice)",
+     "n": "Kevin Michael Richardson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Aaron Horvath",
+    "Michael Jelenic"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation"
+   ],
+   "id": 502356,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+   "popularity": 21.2592,
+   "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Peacock Premium Plus Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2023-04-07",
+   "revenue": 1360879735,
+   "runtime": 93,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Not all heroes wear capes. Some wear overalls.",
+   "title": "The Super Mario Bros. Movie",
+   "trailer": {
+    "key": "RjNcTBXTk4I",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.584,
+   "vote_count": 11328
   },
   "movie:504056": {
    "backdrop_path": "/5MyjGUa2piiEyNH4UcLp3YV9cwo.jpg",
@@ -5072,6 +5974,177 @@
    "vote_average": 7.559,
    "vote_count": 897
   },
+  "movie:75656": {
+   "backdrop_path": "/574x1IR4TwHPOmMEol5tGe2aEfh.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "J. Daniel Atlas",
+     "n": "Jesse Eisenberg"
+    },
+    {
+     "c": "Merritt McKinney",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Henley Reeves",
+     "n": "Isla Fisher"
+    },
+    {
+     "c": "Jack Wilder",
+     "n": "Dave Franco"
+    },
+    {
+     "c": "Dylan Rhodes",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Alma Dray",
+     "n": "Mélanie Laurent"
+    },
+    {
+     "c": "Thaddeus Bradley",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Arthur Tressler",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Agent Fuller",
+     "n": "Michael Kelly"
+    },
+    {
+     "c": "Evans",
+     "n": "Common"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Louis Leterrier"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 75656,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+   "popularity": 10.1112,
+   "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-06-07",
+   "revenue": 351723989,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The closer you look, the less you’ll see.",
+   "title": "Now You See Me",
+   "trailer": {
+    "key": "DaavRAV8a0A",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.323,
+   "vote_count": 17345
+  },
   "movie:770156": {
    "backdrop_path": "/7jS69IM8bK7ooOWGFmM9G6JcenO.jpg",
    "budget": 0,
@@ -5661,6 +6734,153 @@
    "vote_average": 5.6,
    "vote_count": 344
   },
+  "movie:93456": {
+   "backdrop_path": "/uD267eSiACfWLxp47t3gYymOQRj.jpg",
+   "budget": 76000000,
+   "cast": [
+    {
+     "c": "Gru (voice)",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Lucy (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Eduardo / El Macho (voice)",
+     "n": "Benjamin Bratt"
+    },
+    {
+     "c": "Margo (voice)",
+     "n": "Miranda Cosgrove"
+    },
+    {
+     "c": "Edith (voice)",
+     "n": "Dana Gaier Ellis"
+    },
+    {
+     "c": "Agnes (voice)",
+     "n": "Elsie Fisher"
+    },
+    {
+     "c": "Dr. Nefario (voice)",
+     "n": "Russell Brand"
+    },
+    {
+     "c": "Floyd (voice)",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Silas (voice)",
+     "n": "Steve Coogan"
+    },
+    {
+     "c": "Antonio (voice)",
+     "n": "Moisés Arias"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Pierre Coffin",
+    "Chris Renaud"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 93456,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+   "popularity": 14.7387,
+   "poster_path": "/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-06-26",
+   "revenue": 970766005,
+   "runtime": 98,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "More minions. More despicable.",
+   "title": "Despicable Me 2",
+   "trailer": {
+    "key": "EK3j98PHaGM",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.95,
+   "vote_count": 12377
+  },
   "movie:934756": {
    "backdrop_path": "/orV7mt3Gu4h2WEE2ki2CfeIkMuK.jpg",
    "budget": 0,
@@ -5960,6 +7180,189 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 425
+  },
+  "movie:956": {
+   "backdrop_path": "/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Ethan Hunt",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Owen Davian",
+     "n": "Philip Seymour Hoffman"
+    },
+    {
+     "c": "Luther",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Musgrave",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Julia",
+     "n": "Michelle Monaghan"
+    },
+    {
+     "c": "Declan",
+     "n": "Jonathan Rhys Meyers"
+    },
+    {
+     "c": "Lindsey Farris",
+     "n": "Keri Russell"
+    },
+    {
+     "c": "Zhen",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Benji",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Brownway",
+     "n": "Eddie Marsan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.J. Abrams"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "id": 956,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear – including the woman Hunt loves.",
+   "popularity": 8.4312,
+   "poster_path": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-06-16",
+   "revenue": 398479497,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "it",
+    "zh",
+    "cs",
+    "cn"
+   ],
+   "status": "Released",
+   "tagline": "The mission begins.",
+   "title": "Mission: Impossible III",
+   "trailer": {
+    "key": "4oVva0muTE8",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.768,
+   "vote_count": 8000
   },
   "movie:9756": {
    "backdrop_path": "/tQ28MXaFPwELZ0n4SYEAL6sFH4y.jpg",

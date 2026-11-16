@@ -1,6 +1,6 @@
 {
  "bucket": "26",
- "count": 61,
+ "count": 70,
  "titles": {
   "movie:1010826": {
    "backdrop_path": "/lEMO9pVODhiWLgJzuCaYlfJkdNz.jpg",
@@ -1789,6 +1789,123 @@
    "vote_average": 6.792,
    "vote_count": 276
   },
+  "movie:166426": {
+   "backdrop_path": "/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+   "budget": 230000000,
+   "cast": [
+    {
+     "c": "Jack Sparrow",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Armando Salazar",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Hector Barbossa",
+     "n": "Geoffrey Rush"
+    },
+    {
+     "c": "Henry Turner",
+     "n": "Brenton Thwaites"
+    },
+    {
+     "c": "Carina Smyth",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Shansa",
+     "n": "Golshifteh Farahani"
+    },
+    {
+     "c": "Joshamee Gibbs",
+     "n": "Kevin McNally"
+    },
+    {
+     "c": "Scrum",
+     "n": "Stephen Graham"
+    },
+    {
+     "c": "Mullroy",
+     "n": "Angus Barnett"
+    },
+    {
+     "c": "Scarfield",
+     "n": "David Wenham"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joachim Rønning",
+    "Espen Sandberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
+   "id": 166426,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+   "popularity": 13.3012,
+   "poster_path": "/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-05-26",
+   "revenue": 795922298,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "All pirates must die.",
+   "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.666,
+   "vote_count": 13231
+  },
   "movie:1684226": {
    "backdrop_path": "/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
    "budget": 0,
@@ -1897,6 +2014,125 @@
    "type": "movie",
    "vote_average": 6.8,
    "vote_count": 38
+  },
+  "movie:1726": {
+   "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+   "budget": 140000000,
+   "cast": [
+    {
+     "c": "Tony Stark",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Rhodey",
+     "n": "Terrence Howard"
+    },
+    {
+     "c": "Obadiah Stane",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Pepper Potts",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Christine Everhart",
+     "n": "Leslie Bibb"
+    },
+    {
+     "c": "Yinsen",
+     "n": "Shaun Toub"
+    },
+    {
+     "c": "Raza",
+     "n": "Faran Tahir"
+    },
+    {
+     "c": "Agent Coulson",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "General Gabriel",
+     "n": "Bill Smitrovich"
+    },
+    {
+     "c": "Abu Bakaar",
+     "n": "Sayed Badreya"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Jon Favreau"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 1726,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+   "popularity": 32.172,
+   "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-05-01",
+   "revenue": 585174222,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fa",
+    "ur",
+    "ar"
+   ],
+   "status": "Released",
+   "tagline": "Heroes aren't born. They're built.",
+   "title": "Iron Man",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.668,
+   "vote_count": 29197
   },
   "movie:193726": {
    "backdrop_path": "/yj8hwM8tRC3teJiRLEfsXOpXtio.jpg",
@@ -2325,6 +2561,126 @@
    "type": "movie",
    "vote_average": 7.968,
    "vote_count": 893
+  },
+  "movie:20526": {
+   "backdrop_path": "/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Sam Flynn",
+     "n": "Garrett Hedlund"
+    },
+    {
+     "c": "Quorra",
+     "n": "Olivia Wilde"
+    },
+    {
+     "c": "Kevin Flynn / Clu",
+     "n": "Jeff Bridges"
+    },
+    {
+     "c": "Alan Bradley / Tron",
+     "n": "Bruce Boxleitner"
+    },
+    {
+     "c": "Jarvis",
+     "n": "James Frain"
+    },
+    {
+     "c": "Gem",
+     "n": "Beau Garrett"
+    },
+    {
+     "c": "Castor / Zuse",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Rinzler",
+     "n": "Anis Cheurfa"
+    },
+    {
+     "c": "Siren #2",
+     "n": "Serinda Swan"
+    },
+    {
+     "c": "Siren #3",
+     "n": "Yaya DaCosta"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Joseph Kosinski"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 20526,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
+   "popularity": 8.3404,
+   "poster_path": "/xcO8Uun0mfmE3N9CaiCy0tvjpiu.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-12-14",
+   "revenue": 409912892,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The game has changed.",
+   "title": "TRON: Legacy",
+   "trailer": {
+    "key": "m9CTGwEZiPk",
+    "name": "Official Extended Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.552,
+   "vote_count": 8289
   },
   "movie:20726": {
    "backdrop_path": "/gl58xoX8NK95vIgtIMCsKsd2its.jpg",
@@ -3828,6 +4184,135 @@
    "vote_average": 4.7,
    "vote_count": 353
   },
+  "movie:426": {
+   "backdrop_path": "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
+   "budget": 2479000,
+   "cast": [
+    {
+     "c": "Det. John 'Scottie' Ferguson",
+     "n": "James Stewart"
+    },
+    {
+     "c": "Madeleine Elster / Judy Barton",
+     "n": "Kim Novak"
+    },
+    {
+     "c": "Marjorie 'Midge' Wood",
+     "n": "Barbara Bel Geddes"
+    },
+    {
+     "c": "Gavin Elster",
+     "n": "Tom Helmore"
+    },
+    {
+     "c": "Coroner",
+     "n": "Henry Jones"
+    },
+    {
+     "c": "Scottie's Doctor",
+     "n": "Raymond Bailey"
+    },
+    {
+     "c": "Manager of McKittrick Hotel",
+     "n": "Ellen Corby"
+    },
+    {
+     "c": "Pop Leibel",
+     "n": "Konstantin Shayne"
+    },
+    {
+     "c": "Car Owner Mistaken for Madeleine",
+     "n": "Lee Patrick"
+    },
+    {
+     "c": "Diner at Ernie's (uncredited)",
+     "n": "Bess Flowers"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Mystery",
+    "Romance",
+    "Thriller"
+   ],
+   "id": 426,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+   "popularity": 8.4223,
+   "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1958-05-28",
+   "revenue": 7808900,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!",
+   "title": "Vertigo",
+   "trailer": {
+    "key": "UHhsEYDg8GI",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.132,
+   "vote_count": 6625
+  },
   "movie:42726": {
    "backdrop_path": "/chVgCErGuL1oUNFg6Gs7iQZGGZF.jpg",
    "budget": 0,
@@ -4239,6 +4724,284 @@
    "vote_average": 6.545,
    "vote_count": 341
   },
+  "movie:44826": {
+   "backdrop_path": "/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Hugo Cabret",
+     "n": "Asa Butterfield"
+    },
+    {
+     "c": "Georges Méliès",
+     "n": "Ben Kingsley"
+    },
+    {
+     "c": "Isabelle",
+     "n": "Chloë Grace Moretz"
+    },
+    {
+     "c": "Station Inspector",
+     "n": "Sacha Baron Cohen"
+    },
+    {
+     "c": "Uncle Claude",
+     "n": "Ray Winstone"
+    },
+    {
+     "c": "Lisette",
+     "n": "Emily Mortimer"
+    },
+    {
+     "c": "Monsieur Labisse",
+     "n": "Christopher Lee"
+    },
+    {
+     "c": "Mama Jeanne",
+     "n": "Helen McCrory"
+    },
+    {
+     "c": "René Tabard",
+     "n": "Michael Stuhlbarg"
+    },
+    {
+     "c": "Madame Emilie",
+     "n": "Frances de la Tour"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "id": 44826,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Orphaned and alone except for an uncle, Hugo Cabret lives in the walls of a train station in 1930s Paris. Hugo's job is to oil and maintain the station's clocks, but to him, his more important task is to protect a broken automaton and notebook left to him by his late father. Accompanied by the goddaughter of an embittered toy merchant, Hugo embarks on a quest to solve the mystery of the automaton and find a place he can call home.",
+   "popularity": 5.5039,
+   "poster_path": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-11-22",
+   "revenue": 185770160,
+   "runtime": 126,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "One of the most legendary directors of our time takes you on an extraordinary adventure.",
+   "title": "Hugo",
+   "trailer": {
+    "key": "nZGyAx7YyYM",
+    "name": "Original Trailer (Without 3D Text)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.171,
+   "vote_count": 7916
+  },
+  "movie:454626": {
+   "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Sonic (voice)",
+     "n": "Ben Schwartz"
+    },
+    {
+     "c": "Tom Wachowski",
+     "n": "James Marsden"
+    },
+    {
+     "c": "Maddie Wachowski",
+     "n": "Tika Sumpter"
+    },
+    {
+     "c": "Dr. Robotnik",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Rachel",
+     "n": "Natasha Rothwell"
+    },
+    {
+     "c": "Wade Whipple",
+     "n": "Adam Pally"
+    },
+    {
+     "c": "Major Bennington",
+     "n": "Neal McDonough"
+    },
+    {
+     "c": "Agent Stone",
+     "n": "Lee Majdoub"
+    },
+    {
+     "c": "Vice Chairman Walters",
+     "n": "Tom Butler"
+    },
+    {
+     "c": "Crazy Carl",
+     "n": "Frank C. Turner"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Jeff Fowler"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Comedy",
+    "Family"
+   ],
+   "id": 454626,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
+   "popularity": 11.6948,
+   "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+   "production_countries": [
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-02-28",
+   "revenue": 319715683,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A whole new speed of hero.",
+   "title": "Sonic the Hedgehog",
+   "trailer": {
+    "key": "szby7ZHLnkA",
+    "name": "New Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.262,
+   "vote_count": 10678
+  },
   "movie:46326": {
    "backdrop_path": "/roPGP6yjxwSBXczkp54Cmo99HRb.jpg",
    "budget": 0,
@@ -4491,6 +5254,173 @@
    "type": "movie",
    "vote_average": 7.986,
    "vote_count": 365
+  },
+  "movie:49026": {
+   "backdrop_path": "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Bruce Wayne",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Commissioner Gordon",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Bane",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Blake",
+     "n": "Joseph Gordon-Levitt"
+    },
+    {
+     "c": "Selina",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Miranda",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Fox",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Alfred",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Foley",
+     "n": "Matthew Modine"
+    },
+    {
+     "c": "Dr. Pavel",
+     "n": "Alon Aboutboul"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA ",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 49026,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+   "popularity": 21.9866,
+   "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-07-20",
+   "revenue": 1081041287,
+   "runtime": 165,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The legend ends.",
+   "title": "The Dark Knight Rises",
+   "trailer": {
+    "key": "GAjBzu8ggi0",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.801,
+   "vote_count": 25328
   },
   "movie:491926": {
    "backdrop_path": "/vNeEaRg6WWDSOGOwXuaZ2UziMWY.jpg",
@@ -4866,6 +5796,165 @@
    "vote_average": 6.0,
    "vote_count": 307
   },
+  "movie:68726": {
+   "backdrop_path": "/9X7Im1YuBhyHYVD8r7CAONPJR5k.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "Raleigh Becket",
+     "n": "Charlie Hunnam"
+    },
+    {
+     "c": "Mako Mori",
+     "n": "Rinko Kikuchi"
+    },
+    {
+     "c": "Stacker Pentecost",
+     "n": "Idris Elba"
+    },
+    {
+     "c": "Herc Hansen",
+     "n": "Max Martini"
+    },
+    {
+     "c": "Tendo Choi",
+     "n": "Clifton Collins Jr."
+    },
+    {
+     "c": "Hannibal Chau",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Dr. Newton Geiszler",
+     "n": "Charlie Day"
+    },
+    {
+     "c": "Dr. Hermann Gottlieb",
+     "n": "Burn Gorman"
+    },
+    {
+     "c": "Chuck Hansen",
+     "n": "Robert Kazinsky"
+    },
+    {
+     "c": "Lt. Aleksis Kaidanovsky",
+     "n": "Robert Maillet"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Guillermo del Toro"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 68726,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Using massive piloted robots to combat the alien threat, Earth's survivors take the fight to the invading alien force lurking in the depths of the Pacific Ocean. Nearly defenseless in the face of the relentless enemy, the forces of mankind have no choice but to turn to two unlikely heroes who now stand as Earth's final hope against the mounting apocalypse.",
+   "popularity": 15.6743,
+   "poster_path": "/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-07-11",
+   "revenue": 411000000,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "cn",
+    "en",
+    "ja",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "To fight monsters, we created monsters.",
+   "title": "Pacific Rim",
+   "trailer": {
+    "key": "hQAQxQop6Io",
+    "name": "Resistance",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.95,
+   "vote_count": 14020
+  },
   "movie:728526": {
    "backdrop_path": "/zlj0zHo67xXoj7hvwGtaKRkSdBV.jpg",
    "budget": 0,
@@ -4981,6 +6070,120 @@
    "type": "movie",
    "vote_average": 6.276,
    "vote_count": 480
+  },
+  "movie:7326": {
+   "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+   "budget": 7500000,
+   "cast": [
+    {
+     "c": "Juno MacGuff",
+     "n": "Elliot Page"
+    },
+    {
+     "c": "Paulie Bleeker",
+     "n": "Michael Cera"
+    },
+    {
+     "c": "Vanessa Loring",
+     "n": "Jennifer Garner"
+    },
+    {
+     "c": "Mark Loring",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Mac MacGuff",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Bren MacGuff",
+     "n": "Allison Janney"
+    },
+    {
+     "c": "Leah",
+     "n": "Olivia Thirlby"
+    },
+    {
+     "c": "Gerta Rauss",
+     "n": "Eileen Pedde"
+    },
+    {
+     "c": "Rollo",
+     "n": "Rainn Wilson"
+    },
+    {
+     "c": "Steve Rendazo",
+     "n": "Daniel Clark"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jason Reitman"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 7326,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+   "popularity": 5.1831,
+   "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Movie Sphere+"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/7rGmSfN7s8OPid6t6wIqurRIAzk.png",
+     "name": "Movie Sphere+",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-12-25",
+   "revenue": 232372681,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A comedy about growing up… and the bumps along the way.",
+   "title": "Juno",
+   "trailer": {
+    "key": "miy1fE-8Z0U",
+    "name": "#TBT Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.062,
+   "vote_count": 7915
   },
   "movie:74726": {
    "backdrop_path": "/qlKK49jNOK9a3DhDbWKoB8hA5Vn.jpg",

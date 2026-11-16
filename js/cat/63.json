@@ -1,6 +1,6 @@
 {
  "bucket": "63",
- "count": 61,
+ "count": 70,
  "titles": {
   "movie:10063": {
    "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
@@ -698,6 +698,173 @@
    "type": "movie",
    "vote_average": 6.812,
    "vote_count": 370
+  },
+  "movie:117263": {
+   "backdrop_path": "/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
+   "budget": 70000000,
+   "cast": [
+    {
+     "c": "Mike Banning",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "President Benjamin Asher",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Connor",
+     "n": "Finley Jacobsen"
+    },
+    {
+     "c": "Forbes",
+     "n": "Dylan McDermott"
+    },
+    {
+     "c": "Kang",
+     "n": "Rick Yune"
+    },
+    {
+     "c": "Alan Trumbull",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Roma",
+     "n": "Cole Hauser"
+    },
+    {
+     "c": "Leah",
+     "n": "Radha Mitchell"
+    },
+    {
+     "c": "Lynne Jacobs",
+     "n": "Angela Bassett"
+    },
+    {
+     "c": "Secretary of Defense Ruth McMillan",
+     "n": "Melissa Leo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Antoine Fuqua"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 117263,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
+   "popularity": 7.8521,
+   "poster_path": "/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Zee5"
+    },
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Shout! Factory Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-03-22",
+   "revenue": 170270201,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "When our flag falls our nation will rise.",
+   "title": "Olympus Has Fallen",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.42,
+   "vote_count": 7300
   },
   "movie:11863": {
    "backdrop_path": "/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
@@ -2600,6 +2767,185 @@
    "vote_average": 6.896,
    "vote_count": 335
   },
+  "movie:163": {
+   "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Danny Ocean",
+     "n": "George Clooney"
+    },
+    {
+     "c": "Tess Ocean",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Rusty Ryan",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Linus Caldwell",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Isabel Lahiri",
+     "n": "Catherine Zeta-Jones"
+    },
+    {
+     "c": "Terry Benedict",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Virgil Malloy",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Basher Tarr",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Frank Catton",
+     "n": "Bernie Mac"
+    },
+    {
+     "c": "Turk Malloy",
+     "n": "Scott Caan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 163,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life... but that's proven to be a challenge. Casino owner Terry Benedict demands that Danny Ocean return the money, plus millions more in interest. Unable to come up the cash, the crew is forced to come together to pull off another series of heists, this time in Rome, Paris, and Amsterdam – but a Europol agent is hot on their heels.",
+   "popularity": 8.3355,
+   "poster_path": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-12-09",
+   "revenue": 362744280,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "it",
+    "nl",
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Twelve is the new eleven.",
+   "title": "Ocean's Twelve",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.571,
+   "vote_count": 8267
+  },
   "movie:1633263": {
    "backdrop_path": "/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
    "budget": 0,
@@ -2823,6 +3169,134 @@
    "type": "movie",
    "vote_average": 4.0,
    "vote_count": 781
+  },
+  "movie:198663": {
+   "backdrop_path": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+   "budget": 34000000,
+   "cast": [
+    {
+     "c": "Thomas",
+     "n": "Dylan O'Brien"
+    },
+    {
+     "c": "Teresa Agnes",
+     "n": "Kaya Scodelario"
+    },
+    {
+     "c": "Newt",
+     "n": "Thomas Brodie-Sangster"
+    },
+    {
+     "c": "Minho",
+     "n": "Ki Hong Lee"
+    },
+    {
+     "c": "Gally",
+     "n": "Will Poulter"
+    },
+    {
+     "c": "Alby",
+     "n": "Aml Ameen"
+    },
+    {
+     "c": "Ava Paige",
+     "n": "Patricia Clarkson"
+    },
+    {
+     "c": "Chuck",
+     "n": "Blake Cooper"
+    },
+    {
+     "c": "Frypan",
+     "n": "Dexter Darden"
+    },
+    {
+     "c": "Jeff",
+     "n": "Jacob Latimore"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Wes Ball"
+   ],
+   "genres": [
+    "Action",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "id": 198663,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+   "popularity": 23.0658,
+   "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+   "production_countries": [
+    "US",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-09-18",
+   "revenue": 348319861,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready to run.",
+   "title": "The Maze Runner",
+   "trailer": {
+    "key": "3b946aGm0zs",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.187,
+   "vote_count": 18664
   },
   "movie:19963": {
    "backdrop_path": "/vDlHGqV1FKzXarAoxLaorBB9cPd.jpg",
@@ -4093,6 +4567,138 @@
    "type": "movie",
    "vote_average": 7.372,
    "vote_count": 838
+  },
+  "movie:293863": {
+   "backdrop_path": "/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
+   "budget": 25000000,
+   "cast": [
+    {
+     "c": "Adaline Bowman",
+     "n": "Blake Lively"
+    },
+    {
+     "c": "Ellis Jones",
+     "n": "Michiel Huisman"
+    },
+    {
+     "c": "William Jones",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Flemming",
+     "n": "Ellen Burstyn"
+    },
+    {
+     "c": "Kathy Jones",
+     "n": "Kathy Baker"
+    },
+    {
+     "c": "Kikki Jones",
+     "n": "Amanda Crew"
+    },
+    {
+     "c": "Regan",
+     "n": "Lynda Boyd"
+    },
+    {
+     "c": "Narrator",
+     "n": "Hugh Ross"
+    },
+    {
+     "c": "Tony",
+     "n": "Richard Harmon"
+    },
+    {
+     "c": "Cab Driver",
+     "n": "Fulvio Cecere"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Lee Toland Krieger"
+   ],
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Drama"
+   ],
+   "id": 293863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.",
+   "popularity": 6.6593,
+   "poster_path": "/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-04-16",
+   "revenue": 65663276,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Love is timeless.",
+   "title": "The Age of Adaline",
+   "trailer": {
+    "key": "7UzSekc0LoQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.464,
+   "vote_count": 7264
   },
   "movie:29963": {
    "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
@@ -5446,6 +6052,156 @@
    "vote_average": 5.4,
    "vote_count": 324
   },
+  "movie:520763": {
+   "backdrop_path": "/uuBYYlbfiYD7ny5VNj46NG14ykR.jpg",
+   "budget": 55000000,
+   "cast": [
+    {
+     "c": "Evelyn Abbott",
+     "n": "Emily Blunt"
+    },
+    {
+     "c": "Lee Abbott",
+     "n": "John Krasinski"
+    },
+    {
+     "c": "Regan Abbott",
+     "n": "Millicent Simmonds"
+    },
+    {
+     "c": "Marcus Abbott",
+     "n": "Noah Jupe"
+    },
+    {
+     "c": "Emmett",
+     "n": "Cillian Murphy"
+    },
+    {
+     "c": "Man on Island",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Police Officer",
+     "n": "Okieriete Onaodowan"
+    },
+    {
+     "c": "Marina Man",
+     "n": "Scoot McNairy"
+    },
+    {
+     "c": "Emmett's Son",
+     "n": "Zachary Golinger"
+    },
+    {
+     "c": "Umpire",
+     "n": "Blake DeLong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Krasinski"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Horror"
+   ],
+   "id": 520763,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+   "popularity": 10.169,
+   "poster_path": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-05-26",
+   "revenue": 297372261,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Silence is not enough.",
+   "title": "A Quiet Place Part II",
+   "trailer": {
+    "key": "BpdDN9d9Jio",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.424,
+   "vote_count": 7789
+  },
   "movie:592863": {
    "backdrop_path": "/gTtr2ovxRwHyOI3XrX6h6cgG7MD.jpg",
    "budget": 55000000,
@@ -5851,6 +6607,297 @@
    "vote_average": 6.22,
    "vote_count": 330
   },
+  "movie:63": {
+   "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+   "budget": 29000000,
+   "cast": [
+    {
+     "c": "James Cole",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Dr. Kathryn Railly",
+     "n": "Madeleine Stowe"
+    },
+    {
+     "c": "Jeffrey Goines",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Dr. Goines",
+     "n": "Christopher Plummer"
+    },
+    {
+     "c": "Dr. Peters",
+     "n": "David Morse"
+    },
+    {
+     "c": "Jose",
+     "n": "Jon Seda"
+    },
+    {
+     "c": "Lt. Halperin",
+     "n": "Christopher Meloni"
+    },
+    {
+     "c": "Detective Franki",
+     "n": "Joey Perillo"
+    },
+    {
+     "c": "Teddy",
+     "n": "LisaGay Hamilton"
+    },
+    {
+     "c": "Bee",
+     "n": "Matt Ross"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Terry Gilliam"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 63,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+   "popularity": 9.8327,
+   "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Apple TV"
+    },
+    {
+     "name": "Apple TV Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-01-05",
+   "revenue": 168841459,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The future is history.",
+   "title": "Twelve Monkeys",
+   "trailer": {
+    "key": "Xwh1xBzsc1Q",
+    "name": "Original Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.613,
+   "vote_count": 9559
+  },
+  "movie:76163": {
+   "backdrop_path": "/ihKsZZYMbyHXC1L7s90WDLITdC5.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Barney Ross",
+     "n": "Sylvester Stallone"
+    },
+    {
+     "c": "Lee Christmas",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Yin Yang",
+     "n": "Jet Li"
+    },
+    {
+     "c": "Gunner Jensen",
+     "n": "Dolph Lundgren"
+    },
+    {
+     "c": "Booker",
+     "n": "Chuck Norris"
+    },
+    {
+     "c": "Jean Vilain",
+     "n": "Jean-Claude Van Damme"
+    },
+    {
+     "c": "Church",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Trench",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "Hale Caesar",
+     "n": "Terry Crews"
+    },
+    {
+     "c": "Toll Road",
+     "n": "Randy Couture"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Simon West"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 76163,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+   "popularity": 7.6557,
+   "poster_path": "/74rTIGyGoIu5KSxDVMdr8H3MtMo.jpg",
+   "production_countries": [
+    "US",
+    "BG",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play Apple TV Channel"
+    },
+    {
+     "name": "Lionsgate Play Amazon Channel"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+     "name": "Lionsgate Play Apple TV Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+     "name": "Lionsgate Play Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-08-15",
+   "revenue": 314975955,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Back for War.",
+   "title": "The Expendables 2",
+   "trailer": {
+    "key": "ip_CYHdyUBs",
+    "name": "The Expendables 2 (2012) - Official Trailer #1",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.355,
+   "vote_count": 7428
+  },
   "movie:785663": {
    "backdrop_path": "/1uCX0fpYOdvrTIYulFymWOP08HT.jpg",
    "budget": 1500000,
@@ -6026,6 +7073,276 @@
    "type": "movie",
    "vote_average": 7.344,
    "vote_count": 818
+  },
+  "movie:8363": {
+   "backdrop_path": "/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Seth",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Evan",
+     "n": "Michael Cera"
+    },
+    {
+     "c": "Fogell",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Officer Slater",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Officer Michaels",
+     "n": "Seth Rogen"
+    },
+    {
+     "c": "Becca",
+     "n": "Martha MacIsaac"
+    },
+    {
+     "c": "Jules",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Nicola",
+     "n": "Aviva Baumann"
+    },
+    {
+     "c": "Francis the Driver",
+     "n": "Joe Lo Truglio"
+    },
+    {
+     "c": "Mark",
+     "n": "Kevin Corrigan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Greg Mottola"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 8363,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+   "popularity": 10.015,
+   "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-08-17",
+   "revenue": 170800000,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Come and get some!",
+   "title": "Superbad",
+   "trailer": {
+    "key": "LvKvus3vCEY",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.275,
+   "vote_count": 8515
+  },
+  "movie:863": {
+   "backdrop_path": "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Woody (voice)",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Buzz Lightyear (voice)",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Jessie (voice)",
+     "n": "Joan Cusack"
+    },
+    {
+     "c": "Prospector (voice)",
+     "n": "Kelsey Grammer"
+    },
+    {
+     "c": "Mr. Potato Head (voice)",
+     "n": "Don Rickles"
+    },
+    {
+     "c": "Slinky Dog (voice)",
+     "n": "Jim Varney"
+    },
+    {
+     "c": "Rex (voice)",
+     "n": "Wallace Shawn"
+    },
+    {
+     "c": "Hamm (voice)",
+     "n": "John Ratzenberger"
+    },
+    {
+     "c": "Bo Peep (voice)",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Al McWhiggin (voice)",
+     "n": "Wayne Knight"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "John Lasseter"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "id": 863,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+   "popularity": 20.0196,
+   "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1999-10-30",
+   "revenue": 497375404,
+   "runtime": 92,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The toys are back!",
+   "title": "Toy Story 2",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.623,
+   "vote_count": 15594
   },
   "movie:925263": {
    "backdrop_path": "/klNuvFdKPROPuEgyISq3lFRATb0.jpg",

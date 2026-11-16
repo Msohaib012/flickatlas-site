@@ -1,6 +1,6 @@
 {
  "bucket": "31",
- "count": 68,
+ "count": 76,
  "titles": {
   "movie:101731": {
    "d": "The Magic of Belle Isle (2012): Drama/Comedy film. Story: In an effort to tap into his original talent, a… See cast and TMDB rating 7.0/10.",
@@ -322,6 +322,70 @@
    "t": "The Bride! (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:11631": {
+   "d": "Mamma Mia! (2008): Comedy/Romance film. Story: A spirited young bride-to-be living with her single… See cast, budget $52M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/90sDsHugeRU5dtTG3zEVIOXXl4L.jpg",
+   "industry": "world",
+   "k": "Mamma Mia!, Mamma Mia! movie, Mamma Mia! cast, Mamma Mia! story, Mamma Mia! box office collection, Mamma Mia! budget, Mamma Mia! review, Mamma Mia! rating, Mamma Mia! release date, Mamma Mia! trailer, Mamma Mia! Comedy, Mamma Mia! Romance, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Amanda Seyfried"
+     },
+     {
+      "@type": "Person",
+      "name": "Meryl Streep"
+     },
+     {
+      "@type": "Person",
+      "name": "Pierce Brosnan"
+     },
+     {
+      "@type": "Person",
+      "name": "Colin Firth"
+     },
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7233,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Mamma Mia! (2008): Comedy/Romance film. Story: A spirited young bride-to-be living with her single… See cast, budget $52M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Phyllida Lloyd"
+     }
+    ],
+    "duration": "PT108M",
+    "genre": [
+     "Comedy",
+     "Romance"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/90sDsHugeRU5dtTG3zEVIOXXl4L.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=11631",
+    "name": "Mamma Mia!",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2008-09-12"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=11631"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mamma Mia! (2008)</h1>\n<p class=\"ssr-lead\">A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother&#x27;s ex-boyfriends in hope of finding her biological father to walk her down the aisle.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2008</li><li>Runtime: 108 minutes</li><li>Director: Phyllida Lloyd</li><li>Genres: Comedy, Romance</li><li>Budget: $52M</li><li>TMDB rating: 7.0/10 (7233 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amanda Seyfried as Sophie Sheridan</li><li>Meryl Streep as Donna Sheridan</li><li>Pierce Brosnan as Sam Carmichael</li><li>Colin Firth as Harry Bright</li><li>Stellan Skarsgård as Bill Anderson</li><li>Christine Baranski as Tanya Chesham-Leigh</li><li>Julie Walters as Rosie Mulligan</li><li>Dominic Cooper as Sky Rymand</li><li>Niall Buggy as Father Alex</li><li>Ashley Lilley as Ali</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Hungama Play, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Mamma Mia! (2008) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2008"
+  },
   "movie:1180831": {
    "d": "Troll 2 (2025): Action/Fantasy film. Story: When a dangerous new troll unleashes devastation… See cast, budget $11.2M, and TMDB rating 6.3/10.",
    "img": "https://image.tmdb.org/t/p/w780/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
@@ -513,6 +577,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Social Reckoning (2026)</h1>\n<p class=\"ssr-lead\">Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network&#x27;s most guarded secrets.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 9 October 2026</li><li>Runtime: 113 minutes</li><li>Director: Aaron Sorkin</li><li>Genres: Drama, Thriller</li><li>Budget: $30M</li><li>TMDB rating: 7.0/10 (140 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mikey Madison as Frances Haugen</li><li>Jeremy Allen White as Jeff Horwitz</li><li>Jeremy Strong as Mark Zuckerberg</li><li>Betty Gilpin as Kris</li><li>Bill Burr as Charlie Garrigan</li><li>Wunmi Mosaku as Raya</li><li>Billy Magnussen as Teddy Marks</li><li>Gbenga Akinnagbe as Andy</li><li>Anna Lambe as Morgan</li><li>Aidan Laprete as Zach</li></ul>\n</article>",
    "t": "The Social Reckoning (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:131631": {
+   "d": "The Hunger Games: Mockingjay - Part 1 (2014): Science Fiction/Adventure film. Story: After surviving the Quarter Quell, Katniss finds… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+   "industry": "world",
+   "k": "The Hunger Games: Mockingjay - Part 1, The Hunger Games: Mockingjay - Part 1 movie, The Hunger Games: Mockingjay - Part 1 cast, The Hunger Games: Mockingjay - Part 1 story, The Hunger Games: Mockingjay - Part 1 box office collection, The Hunger Games: Mockingjay - Part 1 budget, The Hunger Games: Mockingjay - Part 1 review, The Hunger Games: Mockingjay - Part 1 rating, The Hunger Games: Mockingjay - Part 1 release date, The Hunger Games: Mockingjay - Part 1 trailer, The Hunger Games: Mockingjay - Part 1 Science Fiction, The Hunger Games: Mockingjay - Part 1 Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jennifer Lawrence"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Hutcherson"
+     },
+     {
+      "@type": "Person",
+      "name": "Liam Hemsworth"
+     },
+     {
+      "@type": "Person",
+      "name": "Woody Harrelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Banks"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 17238,
+     "ratingValue": 6.8,
+     "worstRating": 0
+    },
+    "description": "The Hunger Games: Mockingjay - Part 1 (2014): Science Fiction/Adventure film. Story: After surviving the Quarter Quell, Katniss finds… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Francis Lawrence"
+     }
+    ],
+    "duration": "PT123M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=131631",
+    "name": "The Hunger Games: Mockingjay - Part 1",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=131631"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Hunger Games: Mockingjay - Part 1 (2014)</h1>\n<p class=\"ssr-lead\">After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 2014</li><li>Runtime: 123 minutes</li><li>Director: Francis Lawrence</li><li>Genres: Science Fiction, Adventure, Thriller</li><li>Budget: $125M</li><li>TMDB rating: 6.8/10 (17238 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jennifer Lawrence as Katniss Everdeen</li><li>Josh Hutcherson as Peeta Mellark</li><li>Liam Hemsworth as Gale Hawthorne</li><li>Woody Harrelson as Haymitch Abernathy</li><li>Elizabeth Banks as Effie Trinket</li><li>Julianne Moore as President Alma Coin</li><li>Philip Seymour Hoffman as Plutarch Heavensbee</li><li>Jeffrey Wright as Beetee Latier</li><li>Stanley Tucci as Caesar Flickerman</li><li>Donald Sutherland as President Coriolanus Snow</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads, Movie Sphere+</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "The Hunger Games: Mockingjay - Part 1 (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:133931": {
    "d": "Zambezia (2012): Comedy/Animation film. Story: Set in a bustling bird city on the edge of the… See cast, budget $20M, and TMDB rating 6.2/10.",
@@ -1015,6 +1143,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>A Child of My Own (2026)</h1>\n<p class=\"ssr-lead\">Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 July 2026</li><li>Runtime: 96 minutes</li><li>Director: Maite Alberdi</li><li>Genres: Documentary</li><li>TMDB rating: 8.6/10 (86 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ana Celeste as Eleonor Alejandra &#x27;Ale&#x27; Marín Mendoza</li><li>Armando Espitia as Arturo Espitia</li><li>Luisa Guzmán as Mayra</li><li>Ángeles Cruz as Mamá Alejandra</li><li>Mayra Sérbulo as Mamá Arthuro</li><li>Mayra Batalla as Doctora Guerrero</li><li>Alejandro Porter as Erick</li><li>Yamile Pando as Amiga 2</li><li>Ana Carrillo as Tía</li><li>Larissa Goyco as Prima</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "A Child of My Own (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
+  },
+  "movie:17431": {
+   "d": "Moon (2009): Science Fiction/Drama film. Story: With only three weeks left in his three-year… See cast, budget $5M, and TMDB rating 7.6/10.",
+   "img": "https://image.tmdb.org/t/p/w780/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
+   "industry": "world",
+   "k": "Moon, Moon movie, Moon cast, Moon story, Moon box office collection, Moon budget, Moon review, Moon rating, Moon release date, Moon trailer, Moon Science Fiction, Moon Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Rockwell"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Spacey"
+     },
+     {
+      "@type": "Person",
+      "name": "Dominique McElligott"
+     },
+     {
+      "@type": "Person",
+      "name": "Rosie Shaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Adrienne Shaw"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6639,
+     "ratingValue": 7.6,
+     "worstRating": 0
+    },
+    "description": "Moon (2009): Science Fiction/Drama film. Story: With only three weeks left in his three-year… See cast, budget $5M, and TMDB rating 7.6/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Duncan Jones"
+     }
+    ],
+    "duration": "PT97M",
+    "genre": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=17431",
+    "name": "Moon",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2009-07-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=17431"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Moon (2009)</h1>\n<p class=\"ssr-lead\">With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 July 2009</li><li>Runtime: 97 minutes</li><li>Director: Duncan Jones</li><li>Genres: Science Fiction, Drama</li><li>Budget: $5M</li><li>TMDB rating: 7.6/10 (6639 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Rockwell as Sam Bell</li><li>Kevin Spacey as GERTY (voice)</li><li>Dominique McElligott as Tess Bell</li><li>Rosie Shaw as Little Eve</li><li>Adrienne Shaw as Nanny</li><li>Kaya Scodelario as Eve</li><li>Benedict Wong as Thompson</li><li>Matt Berry as Overmeyers</li><li>Malcolm Stewart as Technician</li><li>Robin Chalk as Sam Bell Clone</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Moon (2009) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2009"
   },
   "movie:18331": {
    "d": "The Nutty Professor (1963): Comedy/Science Fiction film. Story: A timid, nearsighted chemistry teacher discovers a… See cast and TMDB rating 6.5/10.",
@@ -1526,6 +1718,198 @@
    "t": "The Wolfpack (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
   },
+  "movie:310131": {
+   "d": "The Witch (2016): Horror/Fantasy film. Story: In 1630, a farmer relocates his family to a remote… See cast, budget $4M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+   "industry": "world",
+   "k": "The Witch, The Witch movie, The Witch cast, The Witch story, The Witch box office collection, The Witch budget, The Witch review, The Witch rating, The Witch release date, The Witch trailer, The Witch Horror, The Witch Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Anya Taylor-Joy"
+     },
+     {
+      "@type": "Person",
+      "name": "Ralph Ineson"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Dickie"
+     },
+     {
+      "@type": "Person",
+      "name": "Harvey Scrimshaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Ellie Grainger"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8018,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Witch (2016): Horror/Fantasy film. Story: In 1630, a farmer relocates his family to a remote… See cast, budget $4M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Eggers"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Horror",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=310131",
+    "name": "The Witch",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-02-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=310131"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Witch (2016)</h1>\n<p class=\"ssr-lead\">In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member&#x27;s faith, loyalty and love are tested in shocking ways.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 February 2016</li><li>Runtime: 92 minutes</li><li>Director: Robert Eggers</li><li>Genres: Horror, Fantasy, Mystery</li><li>Budget: $4M</li><li>TMDB rating: 7.0/10 (8018 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Anya Taylor-Joy as Thomasin</li><li>Ralph Ineson as William</li><li>Kate Dickie as Katherine</li><li>Harvey Scrimshaw as Caleb</li><li>Ellie Grainger as Mercy</li><li>Lucas Dawson as Jonas</li><li>Julian Richings as Governor</li><li>Bathsheba Garnett as The Witch</li><li>Sarah Stephens as The Witch, Young</li><li>Daniel Malik as Black Phillip (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "The Witch (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:3131": {
+   "d": "Gangs of New York (2002): Drama/History film. Story: In early 1860s New York, Irish immigrant Amsterdam… See cast, budget $100M, and TMDB rating 7.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+   "industry": "world",
+   "k": "Gangs of New York, Gangs of New York movie, Gangs of New York cast, Gangs of New York story, Gangs of New York box office collection, Gangs of New York budget, Gangs of New York review, Gangs of New York rating, Gangs of New York release date, Gangs of New York trailer, Gangs of New York Drama, Gangs of New York History, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Leonardo DiCaprio"
+     },
+     {
+      "@type": "Person",
+      "name": "Daniel Day-Lewis"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Diaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Jim Broadbent"
+     },
+     {
+      "@type": "Person",
+      "name": "John C. Reilly"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7539,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Gangs of New York (2002): Drama/History film. Story: In early 1860s New York, Irish immigrant Amsterdam… See cast, budget $100M, and TMDB rating 7.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Martin Scorsese"
+     }
+    ],
+    "duration": "PT168M",
+    "genre": [
+     "Drama",
+     "History"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=3131",
+    "name": "Gangs of New York",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-12-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=3131"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gangs of New York (2002)</h1>\n<p class=\"ssr-lead\">In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father&#x27;s killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting&#x27;s inner circle. Vallon&#x27;s journey becomes a fight for personal survival and to find a place for the Irish people.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 December 2002</li><li>Runtime: 168 minutes</li><li>Director: Martin Scorsese</li><li>Genres: Drama, History, Crime</li><li>Budget: $100M</li><li>TMDB rating: 7.3/10 (7539 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Leonardo DiCaprio as Amsterdam Vallon</li><li>Daniel Day-Lewis as Bill &#x27;The Butcher&#x27; Cutting</li><li>Cameron Diaz as Jenny Everdeane</li><li>Jim Broadbent as Boss Tweed</li><li>John C. Reilly as Happy Jack</li><li>Henry Thomas as Johnny Sirocco</li><li>Liam Neeson as &#x27;Priest&#x27; Vallon</li><li>Brendan Gleeson as Walter &#x27;Monk&#x27; McGinn</li><li>Gary Lewis as McGloin</li><li>Stephen Graham as Shang</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Gangs of New York (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
+  },
+  "movie:331": {
+   "d": "Jurassic Park III (2001): Adventure/Thriller film. Story: In need of funds for research, Dr. Alan Grant accepts… See cast, budget $93M, and TMDB rating 6.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+   "industry": "world",
+   "k": "Jurassic Park III, Jurassic Park III movie, Jurassic Park III cast, Jurassic Park III story, Jurassic Park III box office collection, Jurassic Park III budget, Jurassic Park III review, Jurassic Park III rating, Jurassic Park III release date, Jurassic Park III trailer, Jurassic Park III Adventure, Jurassic Park III Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Sam Neill"
+     },
+     {
+      "@type": "Person",
+      "name": "William H. Macy"
+     },
+     {
+      "@type": "Person",
+      "name": "Téa Leoni"
+     },
+     {
+      "@type": "Person",
+      "name": "Alessandro Nivola"
+     },
+     {
+      "@type": "Person",
+      "name": "Trevor Morgan"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8193,
+     "ratingValue": 6.2,
+     "worstRating": 0
+    },
+    "description": "Jurassic Park III (2001): Adventure/Thriller film. Story: In need of funds for research, Dr. Alan Grant accepts… See cast, budget $93M, and TMDB rating 6.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Johnston"
+     }
+    ],
+    "duration": "PT92M",
+    "genre": [
+     "Adventure",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=331",
+    "name": "Jurassic Park III",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2001-07-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=331"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Jurassic Park III (2001)</h1>\n<p class=\"ssr-lead\">In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn&#x27;t long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 July 2001</li><li>Runtime: 92 minutes</li><li>Director: Joe Johnston</li><li>Genres: Adventure, Thriller, Science Fiction, Action</li><li>Budget: $93M</li><li>TMDB rating: 6.2/10 (8193 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Sam Neill as Dr. Alan Grant</li><li>William H. Macy as Paul Kirby</li><li>Téa Leoni as Amanda Kirby</li><li>Alessandro Nivola as Billy Brennan</li><li>Trevor Morgan as Eric Kirby</li><li>Michael Jeter as Udesky</li><li>John Diehl as Cooper</li><li>Bruce A. Young as Nash</li><li>Laura Dern as Ellie</li><li>Taylor Nichols as Mark</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Jurassic Park III (2001) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2001"
+  },
   "movie:361931": {
    "d": "Ronaldo (2015): Documentary/History film. Story: Filmed over 14 months with unprecedented access into… See cast and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/fUO2MHIKGFfMEctfxzpFZBfjsT3.jpg",
@@ -1844,6 +2228,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Brigsby Bear (2017)</h1>\n<p class=\"ssr-lead\">Brigsby Bear Adventures is a children&#x27;s TV show produced for an audience of one: James. When the show abruptly ends, James&#x27;s life changes forever, and he sets out to finish the story himself.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 27 July 2017</li><li>Runtime: 97 minutes</li><li>Director: Dave McCary</li><li>Genres: Comedy, Drama</li><li>TMDB rating: 7.1/10 (436 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kyle Mooney as James Pope</li><li>Mark Hamill as Ted Mitchum</li><li>Jorge Lendeborg Jr. as Spencer</li><li>Matt Walsh as Greg Pope</li><li>Michaela Watkins as Louise Pope</li><li>Ryan Simpkins as Aubrey Pope</li><li>Greg Kinnear as Detective Vogel</li><li>Alexa Demie as Meredith</li><li>Jane Adams as April Mitchum</li><li>Claire Danes as Emily</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Brigsby Bear (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2017"
+  },
+  "movie:438631": {
+   "d": "Dune (2021): Science Fiction/Adventure film. Story: Paul Atreides, a brilliant and gifted young man born… See cast, budget $165M, and TMDB rating 7.8/10.",
+   "img": "https://image.tmdb.org/t/p/w780/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+   "industry": "world",
+   "k": "Dune, Dune movie, Dune cast, Dune story, Dune box office collection, Dune budget, Dune review, Dune rating, Dune release date, Dune trailer, Dune Science Fiction, Dune Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Timothée Chalamet"
+     },
+     {
+      "@type": "Person",
+      "name": "Rebecca Ferguson"
+     },
+     {
+      "@type": "Person",
+      "name": "Oscar Isaac"
+     },
+     {
+      "@type": "Person",
+      "name": "Jason Momoa"
+     },
+     {
+      "@type": "Person",
+      "name": "Stellan Skarsgård"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15964,
+     "ratingValue": 7.8,
+     "worstRating": 0
+    },
+    "description": "Dune (2021): Science Fiction/Adventure film. Story: Paul Atreides, a brilliant and gifted young man born… See cast, budget $165M, and TMDB rating 7.8/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Denis Villeneuve"
+     }
+    ],
+    "duration": "PT155M",
+    "genre": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=438631",
+    "name": "Dune",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=438631"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dune (2021)</h1>\n<p class=\"ssr-lead\">Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet&#x27;s exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity&#x27;s greatest potential - only those who can conquer their fear will survive.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2021</li><li>Runtime: 155 minutes</li><li>Director: Denis Villeneuve</li><li>Genres: Science Fiction, Adventure</li><li>Budget: $165M</li><li>TMDB rating: 7.8/10 (15964 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Timothée Chalamet as Paul Atreides</li><li>Rebecca Ferguson as Lady Jessica Atreides</li><li>Oscar Isaac as Duke Leto Atreides</li><li>Jason Momoa as Duncan Idaho</li><li>Stellan Skarsgård as Baron Vladimir Harkonnen</li><li>Stephen McKinley Henderson as Thufir Hawat</li><li>Josh Brolin as Gurney Halleck</li><li>Javier Bardem as Stilgar</li><li>Sharon Duncan-Brewster as Dr. Liet Kynes</li><li>Chang Chen as Dr. Wellington Yueh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Dune (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
   },
   "movie:446131": {
    "d": "Madame (2017): Romance/Comedy film. Story: Anne and Bob, a well-to-do American couple, have just… See cast, TMDB rating 5.9/10, and release date 17 August 2017.",
@@ -2921,6 +3369,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Mad Women&#x27;s Ball (2021)</h1>\n<p class=\"ssr-lead\">A woman who is unfairly institutionalized at a Paris asylum plots to escape with the help of one of its nurses. Based on the novel &#x27;Le bal des folles&#x27; by Victoria Mas.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 12 September 2021</li><li>Runtime: 122 minutes</li><li>Director: Mélanie Laurent</li><li>Genres: Thriller, Drama, History</li><li>TMDB rating: 7.1/10 (372 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lou de Laâge as Eugénie Cléry</li><li>Mélanie Laurent as Geneviève Gleizes</li><li>Benjamin Voisin as Théophile Cléry</li><li>Emmanuelle Bercot as Jeanne</li><li>Cédric Kahn as François Cléry</li><li>Lomane de Dietrich as Louise</li><li>Christophe Montenez as Jules</li><li>Coralie Russier as Camille</li><li>Alice Barnole as Henriette</li><li>Lauréna Thellier as Marguerite</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
    "t": "The Mad Women's Ball (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2021"
+  },
+  "movie:7131": {
+   "d": "Van Helsing (2004): Horror/Adventure film. Story: Famed monster slayer Gabriel Van Helsing is… See cast, budget $160M, and TMDB rating 6.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+   "industry": "world",
+   "k": "Van Helsing, Van Helsing movie, Van Helsing cast, Van Helsing story, Van Helsing box office collection, Van Helsing budget, Van Helsing review, Van Helsing rating, Van Helsing release date, Van Helsing trailer, Van Helsing Horror, Van Helsing Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Hugh Jackman"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Beckinsale"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Roxburgh"
+     },
+     {
+      "@type": "Person",
+      "name": "Josie Maran"
+     },
+     {
+      "@type": "Person",
+      "name": "David Wenham"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6954,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "Van Helsing (2004): Horror/Adventure film. Story: Famed monster slayer Gabriel Van Helsing is… See cast, budget $160M, and TMDB rating 6.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Stephen Sommers"
+     }
+    ],
+    "duration": "PT132M",
+    "genre": [
+     "Horror",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=7131",
+    "name": "Van Helsing",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-07-02"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=7131"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Van Helsing (2004)</h1>\n<p class=\"ssr-lead\">Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein&#x27;s monster and is hell-bent on exacting a centuries-old curse on her family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 July 2004</li><li>Runtime: 132 minutes</li><li>Director: Stephen Sommers</li><li>Genres: Horror, Adventure, Action</li><li>Budget: $160M</li><li>TMDB rating: 6.4/10 (6954 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Hugh Jackman as Van Helsing</li><li>Kate Beckinsale as Anna Valerious</li><li>Richard Roxburgh as Count Vladislaus Dracula</li><li>Josie Maran as Marishka</li><li>David Wenham as Carl</li><li>Shuler Hensley as Frankenstein&#x27;s Monster</li><li>Elena Anaya as Aleera</li><li>Kevin J. O&#x27;Connor as Igor</li><li>Alun Armstrong as Cardinal Jinette</li><li>Will Kemp as Velkan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: VI movies and tv</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Van Helsing (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "movie:746131": {
    "d": "Paris, 13th District (2021): Drama/Romance film. Story: Émilie meets Camille who is attracted to Nora, who… See cast and TMDB rating 6.8/10.",

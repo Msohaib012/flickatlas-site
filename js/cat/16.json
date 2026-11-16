@@ -1,6 +1,6 @@
 {
  "bucket": "16",
- "count": 77,
+ "count": 79,
  "titles": {
   "movie:10216": {
    "backdrop_path": "/q5q8kXiPH0oOBfMXwXIC0koe3uV.jpg",
@@ -3616,6 +3616,163 @@
    "vote_average": 6.629,
    "vote_count": 960
   },
+  "movie:259316": {
+   "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+   "budget": 180000000,
+   "cast": [
+    {
+     "c": "Newt",
+     "n": "Eddie Redmayne"
+    },
+    {
+     "c": "Porpentina 'Tina' Goldstein",
+     "n": "Katherine Waterston"
+    },
+    {
+     "c": "Jacob Kowalski",
+     "n": "Dan Fogler"
+    },
+    {
+     "c": "Queenie",
+     "n": "Alison Sudol"
+    },
+    {
+     "c": "Graves",
+     "n": "Colin Farrell"
+    },
+    {
+     "c": "Shaw Senior",
+     "n": "Jon Voight"
+    },
+    {
+     "c": "Gnarlak",
+     "n": "Ron Perlman"
+    },
+    {
+     "c": "Credence Barebone",
+     "n": "Ezra Miller"
+    },
+    {
+     "c": "Mary Lou Barebone",
+     "n": "Samantha Morton"
+    },
+    {
+     "c": "Seraphina Picquery",
+     "n": "Carmen Ejogo"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "David Yates"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 259316,
+   "industry": "world",
+   "origin_country": [
+    "GB",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+   "popularity": 12.5745,
+   "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-11-18",
+   "revenue": 809342332,
+   "runtime": 133,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Explore a new era of J.K. Rowling's Wizarding World.",
+   "title": "Fantastic Beasts and Where to Find Them",
+   "trailer": {
+    "key": "Vso5o11LuGU",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.305,
+   "vote_count": 20171
+  },
   "movie:31216": {
    "backdrop_path": "/crUMmliCpduKqMKsAcT3tPx6e3H.jpg",
    "budget": 0,
@@ -5649,6 +5806,151 @@
    "type": "movie",
    "vote_average": 7.7,
    "vote_count": 360
+  },
+  "movie:616": {
+   "backdrop_path": "/lm15lu2jt3I3Syxsb90UJzUzMRV.jpg",
+   "budget": 140000000,
+   "cast": [
+    {
+     "c": "Nathan Algren",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Moritsugu Katsumoto",
+     "n": "Ken Watanabe"
+    },
+    {
+     "c": "Simon Graham",
+     "n": "Timothy Spall"
+    },
+    {
+     "c": "Col. Benjamin Bagley",
+     "n": "Tony Goldwyn"
+    },
+    {
+     "c": "Ujio",
+     "n": "Hiroyuki Sanada"
+    },
+    {
+     "c": "Taka",
+     "n": "Koyuki"
+    },
+    {
+     "c": "Nobutada",
+     "n": "Shin Koyamada"
+    },
+    {
+     "c": "Zebulon Gant",
+     "n": "Billy Connolly"
+    },
+    {
+     "c": "General Hasegawa",
+     "n": "Togo Igawa"
+    },
+    {
+     "c": "Emperor Meiji",
+     "n": "Shichinosuke Nakamura"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Edward Zwick"
+   ],
+   "genres": [
+    "Drama",
+    "Action",
+    "War"
+   ],
+   "id": 616,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+   "popularity": 11.1353,
+   "poster_path": "/a8jmJPs5eZBARmnuEEvZwbjwyz4.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2003-12-05",
+   "revenue": 456800000,
+   "runtime": 154,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "In the face of an enemy, in the heart of one man, lies the soul of a warrior.",
+   "title": "The Last Samurai",
+   "trailer": {
+    "key": "QZpQrc0R6J0",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.613,
+   "vote_count": 7921
   },
   "movie:618416": {
    "backdrop_path": "/muWwsuYc1GvzxCia5octJmdiLta.jpg",

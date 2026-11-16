@@ -1,6 +1,6 @@
 {
  "bucket": "47",
- "count": 49,
+ "count": 56,
  "titles": {
   "movie:1020047": {
    "backdrop_path": "/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
@@ -1919,6 +1919,131 @@
    "vote_average": 5.515,
    "vote_count": 968
   },
+  "movie:206647": {
+   "backdrop_path": "/cCKU3EuiSKt6xsOI6gg5kiFgZYm.jpg",
+   "budget": 245000000,
+   "cast": [
+    {
+     "c": "James Bond",
+     "n": "Daniel Craig"
+    },
+    {
+     "c": "Blofeld",
+     "n": "Christoph Waltz"
+    },
+    {
+     "c": "Madeleine",
+     "n": "Léa Seydoux"
+    },
+    {
+     "c": "M",
+     "n": "Ralph Fiennes"
+    },
+    {
+     "c": "Lucia",
+     "n": "Monica Bellucci"
+    },
+    {
+     "c": "Q",
+     "n": "Ben Whishaw"
+    },
+    {
+     "c": "Moneypenny",
+     "n": "Naomie Harris"
+    },
+    {
+     "c": "Hinx",
+     "n": "Dave Bautista"
+    },
+    {
+     "c": "C",
+     "n": "Andrew Scott"
+    },
+    {
+     "c": "Tanner",
+     "n": "Rory Kinnear"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Sam Mendes"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "id": 206647,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+   "popularity": 9.6463,
+   "poster_path": "/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-11-06",
+   "revenue": 880707597,
+   "runtime": 148,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "es",
+    "it",
+    "de"
+   ],
+   "status": "Released",
+   "tagline": "The Dead Are Alive.",
+   "title": "Spectre",
+   "trailer": {
+    "key": "z4UDNzXD3qA",
+    "name": "SPECTRE - Final Trailer (Official)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.576,
+   "vote_count": 11641
+  },
   "movie:277547": {
    "backdrop_path": "/xiv9qW6hv5VMhxkPOEGnXKuowTo.jpg",
    "budget": 0,
@@ -2064,6 +2189,195 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 828
+  },
+  "movie:287947": {
+   "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+   "budget": 80000000,
+   "cast": [
+    {
+     "c": "Shazam",
+     "n": "Zachary Levi"
+    },
+    {
+     "c": "Dr. Sivana",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Billy Batson",
+     "n": "Asher Angel"
+    },
+    {
+     "c": "Freddy Freeman",
+     "n": "Jack Dylan Grazer"
+    },
+    {
+     "c": "Super Hero Freddy",
+     "n": "Adam Brody"
+    },
+    {
+     "c": "Wizard",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Darla Dudley",
+     "n": "Faithe Herman"
+    },
+    {
+     "c": "Super Hero Darla",
+     "n": "Meagan Good"
+    },
+    {
+     "c": "Mary Bromfield",
+     "n": "Grace Caroline Currey"
+    },
+    {
+     "c": "Super Hero Mary",
+     "n": "Michelle Borth"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "David F. Sandberg"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 287947,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+   "popularity": 8.9314,
+   "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "TBS"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-04-05",
+   "revenue": 367799011,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Just say the word.",
+   "title": "Shazam!",
+   "trailer": {
+    "key": "uilJZZ_iVwY",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.963,
+   "vote_count": 10586
   },
   "movie:299847": {
    "backdrop_path": "/h0cOt7XbrRiKYdytcdoYFu6I7Jh.jpg",
@@ -2370,6 +2684,126 @@
    "type": "movie",
    "vote_average": 5.484,
    "vote_count": 946
+  },
+  "movie:36647": {
+   "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+   "budget": 45000000,
+   "cast": [
+    {
+     "c": "Blade",
+     "n": "Wesley Snipes"
+    },
+    {
+     "c": "Karen",
+     "n": "N'Bushe Wright"
+    },
+    {
+     "c": "Deacon Frost",
+     "n": "Stephen Dorff"
+    },
+    {
+     "c": "Whistler",
+     "n": "Kris Kristofferson"
+    },
+    {
+     "c": "Quinn",
+     "n": "Donal Logue"
+    },
+    {
+     "c": "Dragonetti",
+     "n": "Udo Kier"
+    },
+    {
+     "c": "Mercury",
+     "n": "Arly Jover"
+    },
+    {
+     "c": "Racquel",
+     "n": "Traci Lords"
+    },
+    {
+     "c": "Krieger",
+     "n": "Kevin Patrick Walls"
+    },
+    {
+     "c": "Curtis Webb",
+     "n": "Tim Guinee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Stephen Norrington"
+   ],
+   "genres": [
+    "Horror",
+    "Action"
+   ],
+   "id": 36647,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+   "popularity": 9.9429,
+   "poster_path": "/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1998-08-21",
+   "revenue": 131183530,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Against an army of Immortals, one warrior must draw first blood.",
+   "title": "Blade",
+   "trailer": {
+    "key": "O2Y3FFFIvRI",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.86,
+   "vote_count": 7102
   },
   "movie:367147": {
    "backdrop_path": "/xGbcYt0nBWW7Jp8ujKV841sh96t.jpg",
@@ -3060,6 +3494,142 @@
    "vote_average": 6.697,
    "vote_count": 914
   },
+  "movie:4247": {
+   "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Cindy",
+     "n": "Anna Faris"
+    },
+    {
+     "c": "Brenda",
+     "n": "Regina Hall"
+    },
+    {
+     "c": "Shorty",
+     "n": "Marlon Wayans"
+    },
+    {
+     "c": "Ray",
+     "n": "Shawn Wayans"
+    },
+    {
+     "c": "Bobby",
+     "n": "Jon Abrahams"
+    },
+    {
+     "c": "Greg",
+     "n": "Lochlyn Munro"
+    },
+    {
+     "c": "Buffy",
+     "n": "Shannon Elizabeth"
+    },
+    {
+     "c": "The Killer / Doofy",
+     "n": "Dave Sheridan"
+    },
+    {
+     "c": "Gail Hailstorm",
+     "n": "Cheri Oteri"
+    },
+    {
+     "c": "Miss Congeniality",
+     "n": "Tanja Reichert"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Keenen Ivory Wayans"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 4247,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+   "popularity": 12.0599,
+   "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-07-07",
+   "revenue": 278023280,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "No mercy. No shame. No sequel.",
+   "title": "Scary Movie",
+   "trailer": {
+    "key": "HTLPULt0eJ4",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.383,
+   "vote_count": 8373
+  },
   "movie:430447": {
    "backdrop_path": "/yPRnoFEhj09i824pqmE2cwfedsN.jpg",
    "budget": 0,
@@ -3669,6 +4239,164 @@
    "type": "movie",
    "vote_average": 7.37,
    "vote_count": 388
+  },
+  "movie:49047": {
+   "backdrop_path": "/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
+   "budget": 105000000,
+   "cast": [
+    {
+     "c": "Ryan Stone",
+     "n": "Sandra Bullock"
+    },
+    {
+     "c": "Matt Kowalski",
+     "n": "George Clooney"
+    },
+    {
+     "c": "Mission Control (voice)",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Aningaaq (voice)",
+     "n": "Orto Ignatiussen"
+    },
+    {
+     "c": "Shariff (voice)",
+     "n": "Phaldut Sharma"
+    },
+    {
+     "c": "Explorer Captain (voice)",
+     "n": "Amy Warren"
+    },
+    {
+     "c": "Russian Space Station Captain (voice)",
+     "n": "Basher Savage"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alfonso Cuarón"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 49047,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+   "popularity": 10.1076,
+   "poster_path": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-10-11",
+   "revenue": 723192705,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't let go.",
+   "title": "Gravity",
+   "trailer": {
+    "key": "OiTiKOy59o4",
+    "name": "Official Main Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.171,
+   "vote_count": 16886
   },
   "movie:51447": {
    "backdrop_path": "/9LuYZthVehg2WWpNhGBXi7wqdRN.jpg",
@@ -4570,6 +5298,125 @@
    "vote_average": 6.332,
    "vote_count": 342
   },
+  "movie:747": {
+   "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Shaun",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Ed",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Liz",
+     "n": "Kate Ashfield"
+    },
+    {
+     "c": "Dianne",
+     "n": "Lucy Davis"
+    },
+    {
+     "c": "David",
+     "n": "Dylan Moran"
+    },
+    {
+     "c": "Yvonne",
+     "n": "Jessica Hynes"
+    },
+    {
+     "c": "Barbara",
+     "n": "Penelope Wilton"
+    },
+    {
+     "c": "Phillip",
+     "n": "Bill Nighy"
+    },
+    {
+     "c": "Declan",
+     "n": "Martin Freeman"
+    },
+    {
+     "c": "Cousin Tom",
+     "n": "Matt Lucas"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Edgar Wright"
+   ],
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "id": 747,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+   "popularity": 8.6353,
+   "poster_path": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-04-09",
+   "revenue": 39396175,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A romantic comedy. With zombies.",
+   "title": "Shaun of the Dead",
+   "trailer": {
+    "key": "_QuY93B2FS0",
+    "name": "20th Anniversary Release Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.546,
+   "vote_count": 9814
+  },
   "movie:779047": {
    "backdrop_path": "/9B4hHMsnjxo8NnTcKIfg3cjJzMi.jpg",
    "budget": 0,
@@ -4788,6 +5635,114 @@
    "type": "movie",
    "vote_average": 6.702,
    "vote_count": 310
+  },
+  "movie:8247": {
+   "backdrop_path": "/1R4DZbEwWTPnRShBumJsOwsfAiB.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "David Rice",
+     "n": "Hayden Christensen"
+    },
+    {
+     "c": "Griffin",
+     "n": "Jamie Bell"
+    },
+    {
+     "c": "Roland",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Millie Harris",
+     "n": "Rachel Bilson"
+    },
+    {
+     "c": "William Rice",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Mary Rice",
+     "n": "Diane Lane"
+    },
+    {
+     "c": "Young Millie Harris",
+     "n": "AnnaSophia Robb"
+    },
+    {
+     "c": "Young David Rice",
+     "n": "Max Thieriot"
+    },
+    {
+     "c": "Young Mark",
+     "n": "Jesse James"
+    },
+    {
+     "c": "Mr. Bowker",
+     "n": "Tom Hulce"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Doug Liman"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 8247,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David’s extraordinary gift may be his only hope for survival!",
+   "popularity": 5.6332,
+   "poster_path": "/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-02-13",
+   "revenue": 222231186,
+   "runtime": 88,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Anywhere is possible.",
+   "title": "Jumper",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.18,
+   "vote_count": 6535
   },
   "movie:94047": {
    "backdrop_path": "/4QHF7kAYjIpZ5U8A0amvhRkHlZ1.jpg",

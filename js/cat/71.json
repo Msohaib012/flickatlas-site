@@ -1,6 +1,6 @@
 {
  "bucket": "71",
- "count": 75,
+ "count": 85,
  "titles": {
   "movie:100271": {
    "backdrop_path": "/2vc5hXc4pMXcKOOsOuyI2MQ1AdK.jpg",
@@ -1346,6 +1346,192 @@
    "vote_average": 5.6,
    "vote_count": 305
   },
+  "movie:1271": {
+   "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "King Leonidas",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Gorgo",
+     "n": "Lena Headey"
+    },
+    {
+     "c": "Theron",
+     "n": "Dominic West"
+    },
+    {
+     "c": "Dilios/Narrator",
+     "n": "David Wenham"
+    },
+    {
+     "c": "Captain",
+     "n": "Vincent Regan"
+    },
+    {
+     "c": "Stelios",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Astinos",
+     "n": "Tom Wisdom"
+    },
+    {
+     "c": "Daxos",
+     "n": "Andrew Pleavin"
+    },
+    {
+     "c": "Ephialtes",
+     "n": "Andrew Tiernan"
+    },
+    {
+     "c": "Xerxes",
+     "n": "Rodrigo Santoro"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Zack Snyder"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "War"
+   ],
+   "id": 1271,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A story very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians.",
+   "popularity": 11.5403,
+   "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-03-16",
+   "revenue": 456082343,
+   "runtime": 117,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Prepare for glory!",
+   "title": "300",
+   "trailer": {
+    "key": "UrIbxk7idYA",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.211,
+   "vote_count": 15298
+  },
   "movie:12771": {
    "backdrop_path": "/qZiQ1ISNYjk6xn61NKwpcOGSG9a.jpg",
    "budget": 29000000,
@@ -2332,6 +2518,133 @@
    "vote_average": 5.5,
    "vote_count": 334
   },
+  "movie:1571": {
+   "backdrop_path": "/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "John McClane",
+     "n": "Bruce Willis"
+    },
+    {
+     "c": "Thomas Gabriel",
+     "n": "Timothy Olyphant"
+    },
+    {
+     "c": "Matt Farrell",
+     "n": "Justin Long"
+    },
+    {
+     "c": "Deputy Director Miguel Bowman",
+     "n": "Cliff Curtis"
+    },
+    {
+     "c": "Lucy McClane",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Trey",
+     "n": "Jonathan Sadowski"
+    },
+    {
+     "c": "Mai Linh",
+     "n": "Maggie Q"
+    },
+    {
+     "c": "Casper",
+     "n": "Andrew Friedman"
+    },
+    {
+     "c": "Warlock - Frederick Kaludis",
+     "n": "Kevin Smith"
+    },
+    {
+     "c": "Russo",
+     "n": "Yorgo Constantine"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Len Wiseman"
+   ],
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "id": 1571,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John McClane is back and badder than ever, and this time he calls on the services of a young hacker in his bid to stop a ring of Internet terrorists intent on taking control of America's computer infrastructure.",
+   "popularity": 8.6672,
+   "poster_path": "/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-06-20",
+   "revenue": 383531464,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "The choice will be clear.",
+   "title": "Live Free or Die Hard",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.642,
+   "vote_count": 6626
+  },
   "movie:1628071": {
    "backdrop_path": "/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
    "budget": 0,
@@ -2447,6 +2760,128 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 33
+  },
+  "movie:1771": {
+   "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+   "budget": 140000000,
+   "cast": [
+    {
+     "c": "Captain America / Steve Rogers",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Peggy Carter",
+     "n": "Hayley Atwell"
+    },
+    {
+     "c": "James Buchanan 'Bucky' Barnes",
+     "n": "Sebastian Stan"
+    },
+    {
+     "c": "Colonel Chester Phillips",
+     "n": "Tommy Lee Jones"
+    },
+    {
+     "c": "Johann Schmidt / Red Skull",
+     "n": "Hugo Weaving"
+    },
+    {
+     "c": "Howard Stark",
+     "n": "Dominic Cooper"
+    },
+    {
+     "c": "Heinz Kruger",
+     "n": "Richard Armitage"
+    },
+    {
+     "c": "Dr. Abraham Erskine",
+     "n": "Stanley Tucci"
+    },
+    {
+     "c": "Nick Fury",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Dr. Arnim Zola",
+     "n": "Toby Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joe Johnston"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 1771,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+   "popularity": 11.8044,
+   "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-07-22",
+   "revenue": 370569774,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "no",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The one who never gives up awakens.",
+   "title": "Captain America: The First Avenger",
+   "trailer": {
+    "key": "W4DlMggBPvc",
+    "name": "Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.012,
+   "vote_count": 23526
   },
   "movie:177271": {
    "backdrop_path": "/uhUFao4ha2QWa5bdRexx0si4HaB.jpg",
@@ -4343,6 +4778,134 @@
    "vote_average": 6.406,
    "vote_count": 499
   },
+  "movie:333371": {
+   "backdrop_path": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+   "budget": 15000000,
+   "cast": [
+    {
+     "c": "Howard",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Michelle",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Emmett",
+     "n": "John Gallagher Jr."
+    },
+    {
+     "c": "Driver",
+     "n": "Douglas M. Griffin"
+    },
+    {
+     "c": "Woman",
+     "n": "Suzanne Cryer"
+    },
+    {
+     "c": "Ben (voice)",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Voice on Radio (voice)",
+     "n": "Sumalee Montano"
+    },
+    {
+     "c": "Radio Broadcaster (voice)",
+     "n": "Frank Mottek"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Dan Trachtenberg"
+   ],
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Drama",
+    "Horror"
+   ],
+   "id": 333371,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+   "popularity": 6.1815,
+   "poster_path": "/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-03-11",
+   "revenue": 110216998,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Monsters come in many forms.",
+   "title": "10 Cloverfield Lane",
+   "trailer": {
+    "key": "yQy-ANhnUpE",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.011,
+   "vote_count": 9068
+  },
   "movie:359871": {
    "backdrop_path": "/dqoPH4sRFhBASjrmqgPOasA1ztT.jpg",
    "budget": 0,
@@ -4533,6 +5096,192 @@
    "type": "movie",
    "vote_average": 6.588,
    "vote_count": 318
+  },
+  "movie:373571": {
+   "backdrop_path": "/mzRJpkWPjXdXak0WCc8ZxVH4hug.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Mark Russell",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Emma Russell",
+     "n": "Vera Farmiga"
+    },
+    {
+     "c": "Madison Russell",
+     "n": "Millie Bobby Brown"
+    },
+    {
+     "c": "Dr. Ishiro Serizawa",
+     "n": "Ken Watanabe"
+    },
+    {
+     "c": "Dr. Ilene Chen / Dr. Ling",
+     "n": "Zhang Ziyi"
+    },
+    {
+     "c": "Dr. Rick Stanton",
+     "n": "Bradley Whitford"
+    },
+    {
+     "c": "Dr. Vivienne Graham",
+     "n": "Sally Hawkins"
+    },
+    {
+     "c": "Alan Jonah",
+     "n": "Charles Dance"
+    },
+    {
+     "c": "Sam Coleman",
+     "n": "Thomas Middleditch"
+    },
+    {
+     "c": "Colonel Diane Foster",
+     "n": "Aisha Hinds"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Michael Dougherty"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 373571,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.",
+   "popularity": 25.5889,
+   "poster_path": "/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",
+   "production_countries": [
+    "CN",
+    "JP",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-05-30",
+   "revenue": 387300138,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "Long live the king.",
+   "title": "Godzilla: King of the Monsters",
+   "trailer": {
+    "key": "QFxN2oDKk0E",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.676,
+   "vote_count": 7020
   },
   "movie:374671": {
    "backdrop_path": "/6v9G4Sc5ciRUoJ2wkutX3JBQj9K.jpg",
@@ -5414,6 +6163,142 @@
    "vote_average": 7.537,
    "vote_count": 441
   },
+  "movie:445571": {
+   "backdrop_path": "/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+   "budget": 37000000,
+   "cast": [
+    {
+     "c": "Max",
+     "n": "Jason Bateman"
+    },
+    {
+     "c": "Annie",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Brooks",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Sarah",
+     "n": "Sharon Horgan"
+    },
+    {
+     "c": "Ryan",
+     "n": "Billy Magnussen"
+    },
+    {
+     "c": "Kevin",
+     "n": "Lamorne Morris"
+    },
+    {
+     "c": "Michelle",
+     "n": "Kylie Bunbury"
+    },
+    {
+     "c": "Gary",
+     "n": "Jesse Plemons"
+    },
+    {
+     "c": "The Bulgarian",
+     "n": "Michael C. Hall"
+    },
+    {
+     "c": "Donald Anderton",
+     "n": "Danny Huston"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John Francis Daley",
+    "Jonathan Goldstein"
+   ],
+   "genres": [
+    "Mystery",
+    "Comedy",
+    "Crime"
+   ],
+   "id": 445571,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.",
+   "popularity": 6.1443,
+   "poster_path": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-03-02",
+   "revenue": 117501013,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is not a game.",
+   "title": "Game Night",
+   "trailer": {
+    "key": "qmxMAdV6s4U",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.85,
+   "vote_count": 6611
+  },
   "movie:460071": {
    "backdrop_path": "/gv3wsm1EzFwd9QF9WPedwjlHG0H.jpg",
    "budget": 0,
@@ -5569,6 +6454,182 @@
    "type": "movie",
    "vote_average": 6.2,
    "vote_count": 310
+  },
+  "movie:47971": {
+   "backdrop_path": "/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Xander Cage",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Xiang",
+     "n": "Donnie Yen"
+    },
+    {
+     "c": "Adele Wolff",
+     "n": "Ruby Rose"
+    },
+    {
+     "c": "Serena Unger",
+     "n": "Deepika Padukone"
+    },
+    {
+     "c": "Jane Marke",
+     "n": "Toni Collette"
+    },
+    {
+     "c": "Agent Augustus Gibbons",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Darius Stone / xXx",
+     "n": "Ice Cube"
+    },
+    {
+     "c": "Tennyson Torch",
+     "n": "Rory McCann"
+    },
+    {
+     "c": "Rebecca 'Becky' Clearidge",
+     "n": "Nina Dobrev"
+    },
+    {
+     "c": "Talon",
+     "n": "Tony Jaa"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "D.J. Caruso"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "id": 47971,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+   "popularity": 12.7163,
+   "poster_path": "/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+   "production_countries": [
+    "CA",
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-01-13",
+   "revenue": 346118277,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "There are no more patriots, just rebels and tyrants.",
+   "title": "xXx: Return of Xander Cage",
+   "trailer": {
+    "key": "-ziu6JzJTZ0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.125,
+   "vote_count": 9381
   },
   "movie:489471": {
    "backdrop_path": "/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
@@ -6180,6 +7241,153 @@
    "vote_average": 6.418,
    "vote_count": 911
   },
+  "movie:671": {
+   "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Harry Potter",
+     "n": "Daniel Radcliffe"
+    },
+    {
+     "c": "Ron Weasley",
+     "n": "Rupert Grint"
+    },
+    {
+     "c": "Hermione Granger",
+     "n": "Emma Watson"
+    },
+    {
+     "c": "Albus Dumbledore",
+     "n": "Richard Harris"
+    },
+    {
+     "c": "Draco Malfoy",
+     "n": "Tom Felton"
+    },
+    {
+     "c": "Severus Snape",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Hagrid",
+     "n": "Robbie Coltrane"
+    },
+    {
+     "c": "Professor McGonagall",
+     "n": "Maggie Smith"
+    },
+    {
+     "c": "Uncle Vernon Dursley",
+     "n": "Richard Griffiths"
+    },
+    {
+     "c": "Professor Quirrell / Voldemort (voice)",
+     "n": "Ian Hart"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Chris Columbus"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 671,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+   "popularity": 42.059,
+   "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-04-12",
+   "revenue": 1029374615,
+   "runtime": 152,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Let the magic begin.",
+   "title": "Harry Potter and the Philosopher's Stone",
+   "trailer": {
+    "key": "l91Km49W9qI",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.905,
+   "vote_count": 30634
+  },
   "movie:675871": {
    "backdrop_path": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
    "budget": 20000000,
@@ -6431,6 +7639,135 @@
    "type": "movie",
    "vote_average": 6.963,
    "vote_count": 488
+  },
+  "movie:771": {
+   "backdrop_path": "/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+   "budget": 18000000,
+   "cast": [
+    {
+     "c": "Kevin",
+     "n": "Macaulay Culkin"
+    },
+    {
+     "c": "Harry",
+     "n": "Joe Pesci"
+    },
+    {
+     "c": "Marv",
+     "n": "Daniel Stern"
+    },
+    {
+     "c": "Peter",
+     "n": "John Heard"
+    },
+    {
+     "c": "Marley",
+     "n": "Roberts Blossom"
+    },
+    {
+     "c": "Kate",
+     "n": "Catherine O'Hara"
+    },
+    {
+     "c": "Linnie",
+     "n": "Angela Goethals"
+    },
+    {
+     "c": "Buzz",
+     "n": "Devin Ratray"
+    },
+    {
+     "c": "Uncle Frank",
+     "n": "Gerry Bamman"
+    },
+    {
+     "c": "Megan",
+     "n": "Hillary Wolf"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Chris Columbus"
+   ],
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "id": 771,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+   "popularity": 1.8751,
+   "poster_path": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1991-10-18",
+   "revenue": 476684675,
+   "runtime": 103,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "A family comedy without the family.",
+   "title": "Home Alone",
+   "trailer": {
+    "key": "dzdpqRGA1qc",
+    "name": "Official Re-Release Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.5,
+   "vote_count": 13072
   },
   "movie:801071": {
    "backdrop_path": "/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
@@ -6764,6 +8101,142 @@
    "type": "movie",
    "vote_average": 6.829,
    "vote_count": 413
+  },
+  "movie:8871": {
+   "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+   "budget": 123000000,
+   "cast": [
+    {
+     "c": "Grinch",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Cindy Lou Who",
+     "n": "Taylor Momsen"
+    },
+    {
+     "c": "Mayor Augustus Maywho",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Martha May Whovier",
+     "n": "Christine Baranski"
+    },
+    {
+     "c": "Lou Lou Who",
+     "n": "Bill Irwin"
+    },
+    {
+     "c": "Betty Lou Who",
+     "n": "Molly Shannon"
+    },
+    {
+     "c": "Whobris",
+     "n": "Clint Howard"
+    },
+    {
+     "c": "8-Year-Old Grinch",
+     "n": "Josh Ryan Evans"
+    },
+    {
+     "c": "Clarnella",
+     "n": "Mindy Sterling"
+    },
+    {
+     "c": "Surprised Who",
+     "n": "Bryce Dallas Howard"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Ron Howard"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": 8871,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+   "popularity": 24.0019,
+   "poster_path": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-11-17",
+   "revenue": 345800000,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You better watch out!",
+   "title": "How the Grinch Stole Christmas",
+   "trailer": {
+    "key": "UnyPPS1Z-Vs",
+    "name": "25th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.783,
+   "vote_count": 8582
   },
   "movie:9071": {
    "backdrop_path": "/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",

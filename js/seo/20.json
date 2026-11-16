@@ -1,7 +1,75 @@
 {
  "bucket": "20",
- "count": 69,
+ "count": 76,
  "titles": {
+  "movie:10020": {
+   "d": "Beauty and the Beast (1991): Romance/Family film. Story: Follow the adventures of Belle, a bright young woman… See cast, budget $25M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+   "industry": "world",
+   "k": "Beauty and the Beast, Beauty and the Beast movie, Beauty and the Beast cast, Beauty and the Beast story, Beauty and the Beast box office collection, Beauty and the Beast budget, Beauty and the Beast review, Beauty and the Beast rating, Beauty and the Beast release date, Beauty and the Beast trailer, Beauty and the Beast Romance, Beauty and the Beast Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Paige O'Hara"
+     },
+     {
+      "@type": "Person",
+      "name": "Robby Benson"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard White"
+     },
+     {
+      "@type": "Person",
+      "name": "Jerry Orbach"
+     },
+     {
+      "@type": "Person",
+      "name": "David Ogden Stiers"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11041,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Beauty and the Beast (1991): Romance/Family film. Story: Follow the adventures of Belle, a bright young woman… See cast, budget $25M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Gary Trousdale"
+     },
+     {
+      "@type": "Person",
+      "name": "Kirk Wise"
+     }
+    ],
+    "duration": "PT84M",
+    "genre": [
+     "Romance",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=10020",
+    "name": "Beauty and the Beast",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1991-10-22"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=10020"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Beauty and the Beast (1991)</h1>\n<p class=\"ssr-lead\">Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who&#x27;s been turned into a mysterious beast. With the help of the castle&#x27;s enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 1991</li><li>Runtime: 84 minutes</li><li>Director: Gary Trousdale, Kirk Wise</li><li>Genres: Romance, Family, Animation, Fantasy</li><li>Budget: $25M</li><li>TMDB rating: 7.7/10 (11041 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Paige O&#x27;Hara as Belle (voice)</li><li>Robby Benson as Beast (voice)</li><li>Richard White as Gaston (voice)</li><li>Jerry Orbach as Lumiere (voice)</li><li>David Ogden Stiers as Cogsworth (voice)</li><li>Angela Lansbury as Mrs. Potts (voice)</li><li>Rex Everhart as Maurice (voice)</li><li>Jesse Corti as Lefou (voice)</li><li>Bradley Pierce as Chip (voice)</li><li>Hal Smith as Philippe (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, Bloodstream</li></ul>\n</article>",
+   "t": "Beauty and the Beast (1991) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1991"
+  },
   "movie:1047020": {
    "d": "The Last Stop in Yuma County (2024): Crime/Drama film. Story: While awaiting the next fuel truck at a… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/wy92wLmcjfEy6Gp3v0Q30gxNWrS.jpg",
@@ -320,6 +388,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Quo Vadis (1951)</h1>\n<p class=\"ssr-lead\">After fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia, he begins to question the tyrannical leadership of the despotic emperor Nero.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 November 1951</li><li>Runtime: 174 minutes</li><li>Director: Mervyn LeRoy</li><li>Genres: Drama, History, Romance</li><li>Budget: $7.62M</li><li>TMDB rating: 7.1/10 (479 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Robert Taylor as Marcus Vinicius</li><li>Deborah Kerr as Lygia</li><li>Leo Genn as Petronius</li><li>Peter Ustinov as Nero</li><li>Patricia Laffan as Poppaea</li><li>Finlay Currie as Peter</li><li>Abraham Sofaer as Paul of Tarsus</li><li>Marina Berti as Eunice</li><li>Buddy Baer as Ursus</li><li>Felix Aylmer as Plautius</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, HBO Max</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Quo Vadis (1951) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1951"
+  },
+  "movie:120": {
+   "d": "The Lord of the Rings: The Fellowship of the Ring (2002): Adventure/Fantasy film. Story: Young hobbit Frodo Baggins, after inheriting a… See cast.",
+   "img": "https://image.tmdb.org/t/p/w780/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+   "industry": "world",
+   "k": "The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Fellowship of the Ring movie, The Lord of the Rings: The Fellowship of the Ring cast, The Lord of the Rings: The Fellowship of the Ring story, The Lord of the Rings: The Fellowship of the Ring box office collection, The Lord of the Rings: The Fellowship of the Ring budget, The Lord of the Rings: The Fellowship of the Ring review, The Lord of the Rings: The Fellowship of the Ring rating, The Lord of the Rings: The Fellowship of the Ring release date, The Lord of the Rings: The Fellowship of the Ring trailer, The Lord of the Rings: The Fellowship of the Ring Adventure, The Lord of the Rings: The Fellowship of the Ring Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Elijah Wood"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian McKellen"
+     },
+     {
+      "@type": "Person",
+      "name": "Viggo Mortensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Sean Astin"
+     },
+     {
+      "@type": "Person",
+      "name": "Ian Holm"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 28878,
+     "ratingValue": 8.5,
+     "worstRating": 0
+    },
+    "description": "The Lord of the Rings: The Fellowship of the Ring (2002): Adventure/Fantasy film. Story: Young hobbit Frodo Baggins, after inheriting a… See cast.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Peter Jackson"
+     }
+    ],
+    "duration": "PT179M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=120",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2002-03-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=120"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lord of the Rings: The Fellowship of the Ring (2002)</h1>\n<p class=\"ssr-lead\">Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 March 2002</li><li>Runtime: 179 minutes</li><li>Director: Peter Jackson</li><li>Genres: Adventure, Fantasy, Action</li><li>Budget: $93M</li><li>TMDB rating: 8.5/10 (28878 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Elijah Wood as Frodo</li><li>Ian McKellen as Gandalf</li><li>Viggo Mortensen as Aragorn</li><li>Sean Astin as Sam</li><li>Ian Holm as Bilbo</li><li>Liv Tyler as Arwen</li><li>Christopher Lee as Saruman</li><li>Sean Bean as Boromir</li><li>Billy Boyd as Pippin</li><li>Dominic Monaghan as Merry</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, JioHotstar, VI movies and tv, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Lord of the Rings: The Fellowship of the Ring (2002) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2002"
   },
   "movie:12220": {
    "d": "The Story of Us (1999): Drama/Comedy film. Story: After 15 years of marriage, Katie and her husband… See cast, budget $50M, and TMDB rating 6.1/10.",
@@ -2047,6 +2179,70 @@
    "t": "City of the Living Dead (1980) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1980"
   },
+  "movie:254320": {
+   "d": "The Lobster (2015): Comedy/Drama film. Story: In a dystopian near future, single people, according… See cast, budget $4M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+   "industry": "world",
+   "k": "The Lobster, The Lobster movie, The Lobster cast, The Lobster story, The Lobster box office collection, The Lobster budget, The Lobster review, The Lobster rating, The Lobster release date, The Lobster trailer, The Lobster Comedy, The Lobster Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Colin Farrell"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Weisz"
+     },
+     {
+      "@type": "Person",
+      "name": "Olivia Colman"
+     },
+     {
+      "@type": "Person",
+      "name": "Léa Seydoux"
+     },
+     {
+      "@type": "Person",
+      "name": "Michael Smiley"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7207,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "The Lobster (2015): Comedy/Drama film. Story: In a dystopian near future, single people, according… See cast, budget $4M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Yorgos Lanthimos"
+     }
+    ],
+    "duration": "PT119M",
+    "genre": [
+     "Comedy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=254320",
+    "name": "The Lobster",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=254320"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lobster (2015)</h1>\n<p class=\"ssr-lead\">In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 October 2015</li><li>Runtime: 119 minutes</li><li>Director: Yorgos Lanthimos</li><li>Genres: Comedy, Drama, Romance</li><li>Budget: $4M</li><li>TMDB rating: 7.0/10 (7207 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Colin Farrell as David</li><li>Rachel Weisz as Short Sighted Woman</li><li>Olivia Colman as Hotel Manager</li><li>Léa Seydoux as Loner Leader</li><li>Michael Smiley as Loner Swimmer</li><li>Ariane Labed as The Maid</li><li>John C. Reilly as Lisping Man</li><li>Ben Whishaw as Limping Man</li><li>Angeliki Papoulia as Heartless Woman</li><li>Jessica Barden as Nosebleed Woman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: HBO Max Amazon Channel, Cinemax Amazon Channel, HBO Max, Cinemax Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Spectrum On Demand</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "The Lobster (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
   "movie:26320": {
    "d": "Taking Woodstock (2009): Music/Comedy film. Story: The story of Elliot Tiber and his family, who… See cast, budget $30M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/uhPAPblYLrp6UJXi0LdUHPTovkY.jpg",
@@ -2236,6 +2432,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Winter on Fire: Ukraine&#x27;s Fight for Freedom (2015)</h1>\n<p class=\"ssr-lead\">Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 3 September 2015</li><li>Runtime: 98 minutes</li><li>Director: Evgeny Afineevsky</li><li>Genres: Documentary</li><li>TMDB rating: 7.9/10 (332 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Cissy Jones as Self - Narrator (voice)</li><li>Bishop Agapit as Self</li><li>Catherine Ashton as Self</li><li>Serhii Averchenko as Self</li><li>Kristina Berdinskikh as Self</li><li>Pavlo Dobryanskyy as Self</li><li>Valery Dovgiy as Self</li><li>Bogdan Dubas as Self</li><li>Kurganskyi Eduard as Self</li><li>Mykhailo Havryliuk as Self</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Winter on Fire: Ukraine's Fight for Freedom (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:374720": {
+   "d": "Dunkirk (2017): War/Action film. Story: The story of the miraculous evacuation of Allied… See cast, budget $150M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg",
+   "industry": "world",
+   "k": "Dunkirk, Dunkirk movie, Dunkirk cast, Dunkirk story, Dunkirk box office collection, Dunkirk budget, Dunkirk review, Dunkirk rating, Dunkirk release date, Dunkirk trailer, Dunkirk War, Dunkirk Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Fionn Whitehead"
+     },
+     {
+      "@type": "Person",
+      "name": "Tom Hardy"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Rylance"
+     },
+     {
+      "@type": "Person",
+      "name": "Kenneth Branagh"
+     },
+     {
+      "@type": "Person",
+      "name": "Cillian Murphy"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 18240,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Dunkirk (2017): War/Action film. Story: The story of the miraculous evacuation of Allied… See cast, budget $150M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Christopher Nolan"
+     }
+    ],
+    "duration": "PT107M",
+    "genre": [
+     "War",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=374720",
+    "name": "Dunkirk",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2017-07-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=374720"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Dunkirk (2017)</h1>\n<p class=\"ssr-lead\">The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 2017</li><li>Runtime: 107 minutes</li><li>Director: Christopher Nolan</li><li>Genres: War, Action, History</li><li>Budget: $150M</li><li>TMDB rating: 7.5/10 (18240 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Fionn Whitehead as Tommy</li><li>Tom Hardy as Farrier</li><li>Mark Rylance as Mr. Dawson</li><li>Kenneth Branagh as Commander Bolton</li><li>Cillian Murphy as Shivering Soldier</li><li>Barry Keoghan as George</li><li>Harry Styles as Alex</li><li>Aneurin Barnard as Gibson</li><li>Damien Bonnard as French Soldier</li><li>Lee Armstrong as Grenadier</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, JioHotstar</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Dunkirk (2017) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2017"
   },
   "movie:400020": {
    "d": "The Young Karl Marx (2017): History/Drama film. Story: 26 year-old Karl Marx embarks with his wife, Jenny… See cast and TMDB rating 6.8/10.",
@@ -2490,6 +2750,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>In Fabric (2019)</h1>\n<p class=\"ssr-lead\">A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 June 2019</li><li>Runtime: 118 minutes</li><li>Director: Peter Strickland</li><li>Genres: Horror, Fantasy, Comedy, Mystery</li><li>TMDB rating: 5.6/10 (391 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Marianne Jean-Baptiste as Sheila</li><li>Sidse Babett Knudsen as Jill</li><li>Julian Barratt as Stash</li><li>Richard Bremmer as Mr. Lundy</li><li>Fatma Mohamed as Miss Luckmoore</li><li>Gwendoline Christie as Gwen</li><li>Hayley Squires as Babs</li><li>Caroline Catz as Pam</li><li>Jaygann Ayeh as Vince</li><li>Steve Oram as Clive</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JustWatch TV Plus</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "In Fabric (2019) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2019"
+  },
+  "movie:50620": {
+   "d": "The Twilight Saga: Breaking Dawn - Part 2 (2012): Fantasy/Drama film. Story: After the birth of Renesmee, the Cullens gather other… See cast and budget $120M.",
+   "img": "https://image.tmdb.org/t/p/w780/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+   "industry": "world",
+   "k": "The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Breaking Dawn - Part 2 movie, The Twilight Saga: Breaking Dawn - Part 2 cast, The Twilight Saga: Breaking Dawn - Part 2 story, The Twilight Saga: Breaking Dawn - Part 2 box office collection, The Twilight Saga: Breaking Dawn - Part 2 budget, The Twilight Saga: Breaking Dawn - Part 2 review, The Twilight Saga: Breaking Dawn - Part 2 rating, The Twilight Saga: Breaking Dawn - Part 2 release date, The Twilight Saga: Breaking Dawn - Part 2 trailer, The Twilight Saga: Breaking Dawn - Part 2 Fantasy, The Twilight Saga: Breaking Dawn - Part 2 Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Kristen Stewart"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Pattinson"
+     },
+     {
+      "@type": "Person",
+      "name": "Taylor Lautner"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Facinelli"
+     },
+     {
+      "@type": "Person",
+      "name": "Elizabeth Reaser"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9585,
+     "ratingValue": 6.4,
+     "worstRating": 0
+    },
+    "description": "The Twilight Saga: Breaking Dawn - Part 2 (2012): Fantasy/Drama film. Story: After the birth of Renesmee, the Cullens gather other… See cast and budget $120M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Bill Condon"
+     }
+    ],
+    "duration": "PT115M",
+    "genre": [
+     "Fantasy",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=50620",
+    "name": "The Twilight Saga: Breaking Dawn - Part 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2012-11-13"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=50620"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Twilight Saga: Breaking Dawn - Part 2 (2012)</h1>\n<p class=\"ssr-lead\">After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 November 2012</li><li>Runtime: 115 minutes</li><li>Director: Bill Condon</li><li>Genres: Fantasy, Drama, Romance</li><li>Budget: $120M</li><li>TMDB rating: 6.4/10 (9585 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kristen Stewart as Bella Swan</li><li>Robert Pattinson as Edward Cullen</li><li>Taylor Lautner as Jacob Black</li><li>Peter Facinelli as Dr. Carlisle Cullen</li><li>Elizabeth Reaser as Esme Cullen</li><li>Ashley Greene as Alice Cullen</li><li>Jackson Rathbone as Jasper Hale</li><li>Kellan Lutz as Emmett Cullen</li><li>Nikki Reed as Rosalie Hale</li><li>Billy Burke as Charlie Swan</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "The Twilight Saga: Breaking Dawn - Part 2 (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2012"
   },
   "movie:532620": {
    "d": "Let's Dance (2019): Music/Comedy film. Story: After his crew breaks up, a gifted but insecure… See cast, TMDB rating 6.5/10, and release date 27 March 2019.",
@@ -2811,6 +3135,70 @@
    "t": "The Sentinel (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2006"
   },
+  "movie:620": {
+   "d": "Ghostbusters (1984): Comedy/Fantasy film. Story: After losing their university jobs, three… See cast, budget $30M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+   "industry": "world",
+   "k": "Ghostbusters, Ghostbusters movie, Ghostbusters cast, Ghostbusters story, Ghostbusters box office collection, Ghostbusters budget, Ghostbusters review, Ghostbusters rating, Ghostbusters release date, Ghostbusters trailer, Ghostbusters Comedy, Ghostbusters Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bill Murray"
+     },
+     {
+      "@type": "Person",
+      "name": "Dan Aykroyd"
+     },
+     {
+      "@type": "Person",
+      "name": "Harold Ramis"
+     },
+     {
+      "@type": "Person",
+      "name": "Sigourney Weaver"
+     },
+     {
+      "@type": "Person",
+      "name": "Rick Moranis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10158,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Ghostbusters (1984): Comedy/Fantasy film. Story: After losing their university jobs, three… See cast, budget $30M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ivan Reitman"
+     }
+    ],
+    "duration": "PT105M",
+    "genre": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=620",
+    "name": "Ghostbusters",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-06-08"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=620"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ghostbusters (1984)</h1>\n<p class=\"ssr-lead\">After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 8 June 1984</li><li>Runtime: 105 minutes</li><li>Director: Ivan Reitman</li><li>Genres: Comedy, Fantasy</li><li>Budget: $30M</li><li>TMDB rating: 7.5/10 (10158 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bill Murray as Dr. Peter Venkman</li><li>Dan Aykroyd as Dr. Raymond Stantz</li><li>Harold Ramis as Dr. Egon Spengler</li><li>Sigourney Weaver as Dana Barrett</li><li>Rick Moranis as Louis Tully</li><li>Ernie Hudson as Winston Zeddemore</li><li>Annie Potts as Janine Melnitz</li><li>William Atherton as Walter Peck</li><li>David Margulies as Mayor</li><li>Slavitza Jovan as Gozer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Pictures Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Ghostbusters (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
+  },
   "movie:622420": {
    "d": "The Jack in the Box (2019): Horror film. Story: When a vintage Jack-in-the-box is un-earthed and… See cast and TMDB rating 5.7/10.",
    "img": "https://image.tmdb.org/t/p/w780/jbLhPErePs1MRwht2FvQTA9Lcc0.jpg",
@@ -3069,6 +3457,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Bird Box Barcelona (2023)</h1>\n<p class=\"ssr-lead\">After a mysterious force decimates the world’s population, Sebastian must navigate his own survival journey through the desolate streets of Barcelona. As he forms uneasy alliances with other survivors and they try to escape the city, an unexpected and even more sinister threat grows.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 July 2023</li><li>Runtime: 112 minutes</li><li>Director: Àlex Pastor, David Pastor</li><li>Genres: Horror, Science Fiction, Thriller</li><li>Budget: $19.8M</li><li>TMDB rating: 5.9/10 (891 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mario Casas as Sebastián</li><li>Georgina Campbell as Claire</li><li>Diego Calva as Octavio</li><li>Naila Schuberth as Sofia</li><li>Alejandra Howard as Anna</li><li>Patrick Criado as Rafa</li><li>Celia Freijeiro as Laura</li><li>Lola Dueñas as Isabel</li><li>Gonzalo de Castro as Roberto</li><li>Michelle Jenner as Liliana</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Bird Box Barcelona (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2023"
+  },
+  "movie:920": {
+   "d": "Cars (2006): Animation/Adventure film. Story: Lightning McQueen, a hotshot rookie race car driven… See cast, budget $120M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+   "industry": "world",
+   "k": "Cars, Cars movie, Cars cast, Cars story, Cars box office collection, Cars budget, Cars review, Cars rating, Cars release date, Cars trailer, Cars Animation, Cars Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Owen Wilson"
+     },
+     {
+      "@type": "Person",
+      "name": "Paul Newman"
+     },
+     {
+      "@type": "Person",
+      "name": "Bonnie Hunt"
+     },
+     {
+      "@type": "Person",
+      "name": "Larry the Cable Guy"
+     },
+     {
+      "@type": "Person",
+      "name": "Cheech Marin"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 15745,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Cars (2006): Animation/Adventure film. Story: Lightning McQueen, a hotshot rookie race car driven… See cast, budget $120M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Lasseter"
+     }
+    ],
+    "duration": "PT117M",
+    "genre": [
+     "Animation",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=920",
+    "name": "Cars",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2006-08-04"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=920"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Cars (2006)</h1>\n<p class=\"ssr-lead\">Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town&#x27;s offbeat characters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 August 2006</li><li>Runtime: 117 minutes</li><li>Director: John Lasseter</li><li>Genres: Animation, Adventure, Comedy, Family</li><li>Budget: $120M</li><li>TMDB rating: 7.1/10 (15745 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Owen Wilson as Lightning McQueen (voice)</li><li>Paul Newman as Doc Hudson (voice)</li><li>Bonnie Hunt as Sally Carrera (voice)</li><li>Larry the Cable Guy as Mater (voice)</li><li>Cheech Marin as Ramone (voice)</li><li>Tony Shalhoub as Luigi (voice)</li><li>Guido Quaroni as Guido (voice)</li><li>Jenifer Lewis as Flo (voice)</li><li>Paul Dooley as Sarge (voice)</li><li>Michael Wallis as Sheriff (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar, VI movies and tv</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Cars (2006) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2006"
   },
   "movie:9320": {
    "d": "The Avengers (1998): Action/Adventure film. Story: British Ministry agent John Steed, under direction… See cast, budget $60M, and TMDB rating 4.4/10.",

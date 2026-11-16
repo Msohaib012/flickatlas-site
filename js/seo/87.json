@@ -1,6 +1,6 @@
 {
  "bucket": "87",
- "count": 59,
+ "count": 70,
  "titles": {
   "movie:1030987": {
    "d": "Sympathy for the Devil (2023): Action/Horror film. Story: After being forced to drive a mysterious passenger at… See cast and TMDB rating 5.9/10.",
@@ -775,6 +775,70 @@
    "t": "undertone (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2026"
   },
+  "movie:1487": {
+   "d": "Hellboy (2004): Fantasy/Action film. Story: In the final days of World War II, the Nazis attempt… See cast, budget $66M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+   "industry": "world",
+   "k": "Hellboy, Hellboy movie, Hellboy cast, Hellboy story, Hellboy box office collection, Hellboy budget, Hellboy review, Hellboy rating, Hellboy release date, Hellboy trailer, Hellboy Fantasy, Hellboy Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ron Perlman"
+     },
+     {
+      "@type": "Person",
+      "name": "Selma Blair"
+     },
+     {
+      "@type": "Person",
+      "name": "Doug Jones"
+     },
+     {
+      "@type": "Person",
+      "name": "John Hurt"
+     },
+     {
+      "@type": "Person",
+      "name": "Rupert Evans"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7726,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Hellboy (2004): Fantasy/Action film. Story: In the final days of World War II, the Nazis attempt… See cast, budget $66M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Guillermo del Toro"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Fantasy",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1487",
+    "name": "Hellboy",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-05-14"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1487"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Hellboy (2004)</h1>\n<p class=\"ssr-lead\">In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed &quot;Hellboy&quot;. Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research &amp; Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 May 2004</li><li>Runtime: 122 minutes</li><li>Director: Guillermo del Toro</li><li>Genres: Fantasy, Action</li><li>Budget: $66M</li><li>TMDB rating: 6.7/10 (7726 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ron Perlman as Hellboy</li><li>Selma Blair as Elizabeth &#x27;Liz&#x27; Sherman</li><li>Doug Jones as Abraham &#x27;Abe&#x27; Sapien</li><li>John Hurt as Prof. Trevor &#x27;Broom&#x27; Bruttenholm</li><li>Rupert Evans as John Myers</li><li>Jeffrey Tambor as Tom Manning</li><li>Ladislav Beran as Karl Ruprecht Kroenen</li><li>Bridget Hodson as Ilsa Haupstein</li><li>Karel Roden as Grigori Rasputin</li><li>Brian Steele as Sammael</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, Sonyliv Amazon Channel</li><li>Rent: Amazon Video</li></ul>\n</article>",
+   "t": "Hellboy (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
+  },
   "movie:15587": {
    "d": "Safari (2009): Adventure/Comedy film. Story: Richard Dacier owns a tour agency specialized on… See cast, TMDB rating 4.6/10, and release date 1 April 2009.",
    "img": "https://image.tmdb.org/t/p/w780/6HEwXKpci1B1cEPQdG3CBNAUNHt.jpg",
@@ -1094,6 +1158,74 @@
    "t": "The Public Enemy (1931) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1931"
   },
+  "movie:187": {
+   "d": "Sin City (2005): Crime/Thriller film. Story: Welcome to Sin City. This town beckons to the tough… See cast, budget $40M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+   "industry": "world",
+   "k": "Sin City, Sin City movie, Sin City cast, Sin City story, Sin City box office collection, Sin City budget, Sin City review, Sin City rating, Sin City release date, Sin City Crime, Sin City Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Bruce Willis"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Alba"
+     },
+     {
+      "@type": "Person",
+      "name": "Clive Owen"
+     },
+     {
+      "@type": "Person",
+      "name": "Mickey Rourke"
+     },
+     {
+      "@type": "Person",
+      "name": "Rutger Hauer"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 9231,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Sin City (2005): Crime/Thriller film. Story: Welcome to Sin City. This town beckons to the tough… See cast, budget $40M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Robert Rodriguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Frank Miller"
+     }
+    ],
+    "duration": "PT124M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=187",
+    "name": "Sin City",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-04-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=187"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Sin City (2005)</h1>\n<p class=\"ssr-lead\">Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2005</li><li>Runtime: 124 minutes</li><li>Director: Robert Rodriguez, Frank Miller</li><li>Genres: Crime, Thriller</li><li>Budget: $40M</li><li>TMDB rating: 7.5/10 (9231 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bruce Willis as Hartigan</li><li>Jessica Alba as Nancy</li><li>Clive Owen as Dwight</li><li>Mickey Rourke as Marv</li><li>Rutger Hauer as Cardinal Roark</li><li>Benicio del Toro as Jackie Boy</li><li>Alexis Bledel as Becky</li><li>Michael Madsen as Bob</li><li>Powers Boothe as Senator Roark</li><li>Nick Stahl as Roark Jr. / Yellow Bastard</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Sin City (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:1987": {
    "d": "Benny's Video (1992): Crime/Drama film. Story: A 14-year-old video enthusiast obsessed with violent… See cast and TMDB rating 6.9/10.",
    "img": "https://image.tmdb.org/t/p/w780/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
@@ -1221,6 +1353,74 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The Eiger Sanction (1975)</h1>\n<p class=\"ssr-lead\">A classical art professor and collector, who doubles as a professional assassin, is coerced out of retirement to avenge the murder of an old friend.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 May 1975</li><li>Runtime: 129 minutes</li><li>Director: Clint Eastwood</li><li>Genres: Action, Adventure, Drama</li><li>Budget: $9M</li><li>TMDB rating: 6.1/10 (479 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Clint Eastwood as Jonathan Hemlock</li><li>George Kennedy as Ben Bowman</li><li>Vonetta McGee as Jemima Brown</li><li>Jack Cassidy as Miles Mellough</li><li>Heidi Brühl as Mrs. Montaigne</li><li>Thayer David as Dragon</li><li>Reiner Schöne as Freytag</li><li>Michael Grimm as Meyer</li><li>Jean-Pierre Bernard as Montaigne</li><li>Brenda Venus as George</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "The Eiger Sanction (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1975"
+  },
+  "movie:206487": {
+   "d": "Predestination (2014): Science Fiction/Thriller film. Story: Predestination chronicles the life of a Temporal… See cast, budget $5.5M, and TMDB rating 7.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+   "industry": "world",
+   "k": "Predestination, Predestination movie, Predestination cast, Predestination story, Predestination box office collection, Predestination budget, Predestination review, Predestination rating, Predestination release date, Predestination trailer, Predestination Science Fiction, Predestination Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ethan Hawke"
+     },
+     {
+      "@type": "Person",
+      "name": "Sarah Snook"
+     },
+     {
+      "@type": "Person",
+      "name": "Noah Taylor"
+     },
+     {
+      "@type": "Person",
+      "name": "Christopher Kirby"
+     },
+     {
+      "@type": "Person",
+      "name": "Madeleine West"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7489,
+     "ratingValue": 7.4,
+     "worstRating": 0
+    },
+    "description": "Predestination (2014): Science Fiction/Thriller film. Story: Predestination chronicles the life of a Temporal… See cast, budget $5.5M, and TMDB rating 7.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Michael Spierig"
+     },
+     {
+      "@type": "Person",
+      "name": "Peter Spierig"
+     }
+    ],
+    "duration": "PT98M",
+    "genre": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=206487",
+    "name": "Predestination",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2014-08-28"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=206487"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Predestination (2014)</h1>\n<p class=\"ssr-lead\">Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 August 2014</li><li>Runtime: 98 minutes</li><li>Director: Michael Spierig, Peter Spierig</li><li>Genres: Science Fiction, Thriller</li><li>Budget: $5.5M</li><li>TMDB rating: 7.4/10 (7489 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ethan Hawke as The Bartender</li><li>Sarah Snook as The Unmarried Mother</li><li>Noah Taylor as Mr. Robertson</li><li>Christopher Kirby as Mr. Miles</li><li>Madeleine West as Mrs. Stapleton</li><li>Jim Knobeloch as Dr. Belfort</li><li>Freya Stafford as Alice</li><li>Elise Jansen as Nurse</li><li>Tyler Coppin as Dr. Heinlein</li><li>Christopher Stollery as The Interviewer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li></ul>\n</article>",
+   "t": "Predestination (2014) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2014"
   },
   "movie:2087": {
    "d": "The Getaway (1994): Action/Adventure film. Story: An ex-con and his devoted wife must flee from danger… See cast, budget $37M, and TMDB rating 5.8/10.",
@@ -1861,6 +2061,138 @@
    "t": "Scarecrow (1973) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1973"
   },
+  "movie:328387": {
+   "d": "Nerve (2016): Mystery/Adventure film. Story: Industrious high school senior Vee Delmonico has had… See cast, budget $19M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fg04CQyJzuDJ82jm2meY37n9XyE.jpg",
+   "industry": "world",
+   "k": "Nerve, Nerve movie, Nerve cast, Nerve story, Nerve box office collection, Nerve budget, Nerve review, Nerve rating, Nerve release date, Nerve trailer, Nerve Mystery, Nerve Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Emma Roberts"
+     },
+     {
+      "@type": "Person",
+      "name": "Dave Franco"
+     },
+     {
+      "@type": "Person",
+      "name": "Emily Meade"
+     },
+     {
+      "@type": "Person",
+      "name": "Miles Heizer"
+     },
+     {
+      "@type": "Person",
+      "name": "Juliette Lewis"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7141,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Nerve (2016): Mystery/Adventure film. Story: Industrious high school senior Vee Delmonico has had… See cast, budget $19M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Henry Joost"
+     },
+     {
+      "@type": "Person",
+      "name": "Ariel Schulman"
+     }
+    ],
+    "duration": "PT96M",
+    "genre": [
+     "Mystery",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fg04CQyJzuDJ82jm2meY37n9XyE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=328387",
+    "name": "Nerve",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=328387"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Nerve (2016)</h1>\n<p class=\"ssr-lead\">Industrious high school senior Vee Delmonico has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 2016</li><li>Runtime: 96 minutes</li><li>Director: Henry Joost, Ariel Schulman</li><li>Genres: Mystery, Adventure, Crime</li><li>Budget: $19M</li><li>TMDB rating: 7.0/10 (7141 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Emma Roberts as Vee Delmonico</li><li>Dave Franco as Ian</li><li>Emily Meade as Sydney Sloane</li><li>Miles Heizer as Tommy Mancuso</li><li>Juliette Lewis as Nancy Delmonico</li><li>Kimiko Glenn as Liv Kurosawa</li><li>mgk as Ty</li><li>Marc John Jefferies as Wes</li><li>Samira Wiley as Azhar</li><li>Brian Marc as J.P.</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Nerve (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:335787": {
+   "d": "Uncharted (2022): Action/Adventure film. Story: A young street-smart, Nathan Drake and his… See cast, budget $120M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+   "industry": "world",
+   "k": "Uncharted, Uncharted movie, Uncharted cast, Uncharted story, Uncharted box office collection, Uncharted budget, Uncharted review, Uncharted rating, Uncharted release date, Uncharted trailer, Uncharted Action, Uncharted Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Holland"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Wahlberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Sophia Ali"
+     },
+     {
+      "@type": "Person",
+      "name": "Tati Gabrielle"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7303,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Uncharted (2022): Action/Adventure film. Story: A young street-smart, Nathan Drake and his… See cast, budget $120M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ruben Fleischer"
+     }
+    ],
+    "duration": "PT116M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=335787",
+    "name": "Uncharted",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2022-02-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=335787"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Uncharted (2022)</h1>\n<p class=\"ssr-lead\">A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 February 2022</li><li>Runtime: 116 minutes</li><li>Director: Ruben Fleischer</li><li>Genres: Action, Adventure, Mystery</li><li>Budget: $120M</li><li>TMDB rating: 6.9/10 (7303 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Holland as Nathan Drake</li><li>Mark Wahlberg as Victor &#x27;Sully&#x27; Sullivan</li><li>Sophia Ali as Chloe Frazer</li><li>Tati Gabrielle as Jo Braddock</li><li>Antonio Banderas as Santiago Moncada</li><li>Steven Waddington as The Scotsman</li><li>Rudy Pankow as Young Sam</li><li>Tiernan Jones as Young Nate</li><li>Pingi Moli as Hugo</li><li>Jesús Evita as Guard at Museum</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Sony Liv, Sony Pictures Amazon Channel, Amazon Prime Video with Ads, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Uncharted (2022) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2022"
+  },
   "movie:339987": {
    "d": "The Exception (2017): War/Drama film. Story: Nothing is as it seems in this riveting World War 2… See cast, TMDB rating 6.9/10, and release date 2 June 2017.",
    "img": "https://image.tmdb.org/t/p/w780/A2wS0nQsR6EJZxTHzRi3tURIDTY.jpg",
@@ -2051,6 +2383,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Meet the Blacks (2016)</h1>\n<p class=\"ssr-lead\">As Carl Black gets the opportunity to move his family out of Chicago in hope of a better life, their arrival in Beverly Hills is timed with that city&#x27;s annual purge, where all crime is legal for twelve hours.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 April 2016</li><li>Runtime: 94 minutes</li><li>Director: Deon Taylor</li><li>Genres: Comedy, Horror</li><li>Budget: $900.0k</li><li>TMDB rating: 4.7/10 (338 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Epps as Carl Black</li><li>Zulay Henao as Lorena</li><li>George López as President El Bama</li><li>Mike Tyson as James Clown</li><li>Charlie Murphy as Key Flo</li><li>Andrew Bachelor as Freezee</li><li>DeRay Davis as Tyrone</li><li>Lavell Crawford as Parole Officer</li><li>Gary Owen as Stranger</li><li>Bresha Webb as Allie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
    "t": "Meet the Blacks (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2016"
+  },
+  "movie:385687": {
+   "d": "Fast X (2023): Action/Crime film. Story: Over many missions and against impossible odds, Dom… See cast, budget $340M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+   "industry": "world",
+   "k": "Fast X, Fast X movie, Fast X cast, Fast X story, Fast X box office collection, Fast X budget, Fast X review, Fast X rating, Fast X release date, Fast X trailer, Fast X Action, Fast X Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Vin Diesel"
+     },
+     {
+      "@type": "Person",
+      "name": "Michelle Rodriguez"
+     },
+     {
+      "@type": "Person",
+      "name": "Tyrese Gibson"
+     },
+     {
+      "@type": "Person",
+      "name": "Ludacris"
+     },
+     {
+      "@type": "Person",
+      "name": "John Cena"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 6638,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "Fast X (2023): Action/Crime film. Story: Over many missions and against impossible odds, Dom… See cast, budget $340M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Louis Leterrier"
+     }
+    ],
+    "duration": "PT142M",
+    "genre": [
+     "Action",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=385687",
+    "name": "Fast X",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-05-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=385687"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Fast X (2023)</h1>\n<p class=\"ssr-lead\">Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they&#x27;ve ever faced: A terrifying threat emerging from the shadows of the past who&#x27;s fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 May 2023</li><li>Runtime: 142 minutes</li><li>Director: Louis Leterrier</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $340M</li><li>TMDB rating: 7.0/10 (6638 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Vin Diesel as Dominic Toretto</li><li>Michelle Rodriguez as Letty</li><li>Tyrese Gibson as Roman</li><li>Ludacris as Tej</li><li>John Cena as Jakob</li><li>Nathalie Emmanuel as Ramsey</li><li>Jordana Brewster as Mia</li><li>Sung Kang as Han</li><li>Jason Momoa as Dante</li><li>Scott Eastwood as Little Nobody</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Fast X (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:423087": {
    "d": "6 Below: Miracle on the Mountain (2017): Thriller/Drama film. Story: An adrenaline seeking snowboarder gets lost in a… See cast and TMDB rating 5.8/10.",
@@ -2434,6 +2830,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>We Are the Night (2010)</h1>\n<p class=\"ssr-lead\">One night, 18 year old Lena is bitten by Louise, leader of a female vampire trio that are as deadly as they are beautiful. Her newfound vampiric lifestyle is a blessing and a curse at the same time. At first, she enjoys the limitless freedom, the luxury, the parties. But soon the murderous blood lust of her comrades in arms proves too much for her, and she falls dangerously in love with Tom, a young undercover cop.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 28 October 2010</li><li>Runtime: 100 minutes</li><li>Director: Dennis Gansel</li><li>Genres: Fantasy, Drama, Horror, Romance</li><li>TMDB rating: 6.0/10 (322 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Karoline Herfurth as Lena Bach</li><li>Nina Hoss as Louise</li><li>Jennifer Ulrich as Charlotte</li><li>Anna Fischer as Nora</li><li>Max Riemelt as Tom Serner</li><li>Arved Birnbaum as Lummer</li><li>Steffi Kühnert as Lenas Mutter</li><li>Jochen Nickel as Bewährungshelfer</li><li>Senta Dorothea Kirschner as Spusi Frau</li><li>Ivan Shvedoff as van Gogh</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+, Sundance Now</li><li>Rent: Apple TV Store, Google Play Movies, YouTube</li><li>Buy: Apple TV Store, Google Play Movies, YouTube</li></ul>\n</article>",
    "t": "We Are the Night (2010) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2010"
+  },
+  "movie:587": {
+   "d": "Big Fish (2004): Adventure/Fantasy film. Story: Throughout his life Edward Bloom has always been a… See cast, budget $70M, and TMDB rating 7.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+   "industry": "world",
+   "k": "Big Fish, Big Fish movie, Big Fish cast, Big Fish story, Big Fish box office collection, Big Fish budget, Big Fish review, Big Fish rating, Big Fish release date, Big Fish Adventure, Big Fish Fantasy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ewan McGregor"
+     },
+     {
+      "@type": "Person",
+      "name": "Albert Finney"
+     },
+     {
+      "@type": "Person",
+      "name": "Billy Crudup"
+     },
+     {
+      "@type": "Person",
+      "name": "Jessica Lange"
+     },
+     {
+      "@type": "Person",
+      "name": "Helena Bonham Carter"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8052,
+     "ratingValue": 7.7,
+     "worstRating": 0
+    },
+    "description": "Big Fish (2004): Adventure/Fantasy film. Story: Throughout his life Edward Bloom has always been a… See cast, budget $70M, and TMDB rating 7.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tim Burton"
+     }
+    ],
+    "duration": "PT125M",
+    "genre": [
+     "Adventure",
+     "Fantasy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=587",
+    "name": "Big Fish",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2004-03-26"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=587"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Big Fish (2004)</h1>\n<p class=\"ssr-lead\">Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 26 March 2004</li><li>Runtime: 125 minutes</li><li>Director: Tim Burton</li><li>Genres: Adventure, Fantasy, Drama</li><li>Budget: $70M</li><li>TMDB rating: 7.7/10 (8052 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ewan McGregor as Ed Bloom (young)</li><li>Albert Finney as Ed Bloom (senior)</li><li>Billy Crudup as Will Bloom</li><li>Jessica Lange as Sandra Bloom (senior)</li><li>Helena Bonham Carter as Jenny (young &amp; senior) / The Witch</li><li>Alison Lohman as Sandra Bloom (young)</li><li>Robert Guillaume as Dr. Bennett (senior)</li><li>Marion Cotillard as Josephine</li><li>Matthew McGrory as Karl the Giant</li><li>David Denman as Don Price (age 18-22)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Sony Liv, VI movies and tv, Sony Pictures Amazon Channel, Sonyliv Amazon Channel</li><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
+   "t": "Big Fish (2004) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2004"
   },
   "movie:59387": {
    "d": "The Powerpuff Girls Movie (2002): Animation/Action film. Story: After destroying the city of Townsville in a game of… See cast and budget $11M.",
@@ -2819,6 +3279,70 @@
    "t": "The Devil Inside (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:787": {
+   "d": "Mr. & Mrs. Smith (2005): Action/Comedy film. Story: A husband and wife struggle to keep their marriage… See cast, budget $110M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wBPxAlZF6ITQ6T5BMmVuVjeduTe.jpg",
+   "industry": "world",
+   "k": "Mr. & Mrs. Smith, Mr. & Mrs. Smith movie, Mr. & Mrs. Smith cast, Mr. & Mrs. Smith story, Mr. & Mrs. Smith box office collection, Mr. & Mrs. Smith budget, Mr. & Mrs. Smith review, Mr. & Mrs. Smith rating, Mr. & Mrs. Smith release date, Mr. & Mrs. Smith Action, Mr. & Mrs. Smith Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Angelina Jolie"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Vince Vaughn"
+     },
+     {
+      "@type": "Person",
+      "name": "Adam Brody"
+     },
+     {
+      "@type": "Person",
+      "name": "Kerry Washington"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11687,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Mr. & Mrs. Smith (2005): Action/Comedy film. Story: A husband and wife struggle to keep their marriage… See cast, budget $110M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Doug Liman"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wBPxAlZF6ITQ6T5BMmVuVjeduTe.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=787",
+    "name": "Mr. & Mrs. Smith",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2005-06-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=787"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Mr. &amp; Mrs. Smith (2005)</h1>\n<p class=\"ssr-lead\">A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 June 2005</li><li>Runtime: 120 minutes</li><li>Director: Doug Liman</li><li>Genres: Action, Comedy, Drama, Thriller</li><li>Budget: $110M</li><li>TMDB rating: 6.7/10 (11687 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Angelina Jolie as Jane Smith</li><li>Brad Pitt as John Smith</li><li>Vince Vaughn as Eddie</li><li>Adam Brody as Benjamin Danz</li><li>Kerry Washington as Jasmine</li><li>Keith David as Father</li><li>Chris Weitz as Martin Coleman</li><li>Rachael Huntley as Suzy Coleman</li><li>Michelle Monaghan as Gwen</li><li>Stephanie March as Julie - Associate #1</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Mr. & Mrs. Smith (2005) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2005"
+  },
   "movie:800787": {
    "d": "A Good Person (2023): Drama film. Story: Allison's life falls apart following her involvement… See cast, TMDB rating 7.0/10, and release date 23 March 2023.",
    "img": "https://image.tmdb.org/t/p/w780/bLZ1WGb59JXFRYRFgknOwwiPJ0l.jpg",
@@ -3074,6 +3598,138 @@
    "t": "The Imposter (2012) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2012"
   },
+  "movie:8587": {
+   "d": "The Lion King (1994): Animation/Family film. Story: Young lion prince Simba, eager to one day become king… See cast, budget $45M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+   "industry": "world",
+   "k": "The Lion King, The Lion King movie, The Lion King cast, The Lion King story, The Lion King box office collection, The Lion King budget, The Lion King review, The Lion King rating, The Lion King release date, The Lion King trailer, The Lion King Animation, The Lion King Family, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Matthew Broderick"
+     },
+     {
+      "@type": "Person",
+      "name": "Moira Kelly"
+     },
+     {
+      "@type": "Person",
+      "name": "Jeremy Irons"
+     },
+     {
+      "@type": "Person",
+      "name": "Nathan Lane"
+     },
+     {
+      "@type": "Person",
+      "name": "Ernie Sabella"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 20419,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "The Lion King (1994): Animation/Family film. Story: Young lion prince Simba, eager to one day become king… See cast, budget $45M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Roger Allers"
+     },
+     {
+      "@type": "Person",
+      "name": "Rob Minkoff"
+     }
+    ],
+    "duration": "PT89M",
+    "genre": [
+     "Animation",
+     "Family"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=8587",
+    "name": "The Lion King",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1994-10-10"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=8587"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>The Lion King (1994)</h1>\n<p class=\"ssr-lead\">Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 October 1994</li><li>Runtime: 89 minutes</li><li>Director: Roger Allers, Rob Minkoff</li><li>Genres: Animation, Family, Drama</li><li>Budget: $45M</li><li>TMDB rating: 8.2/10 (20419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Matthew Broderick as Simba (voice)</li><li>Moira Kelly as Nala (voice)</li><li>Jeremy Irons as Scar (voice)</li><li>Nathan Lane as Timon (voice)</li><li>Ernie Sabella as Pumbaa (voice)</li><li>James Earl Jones as Mufasa (voice)</li><li>Robert Guillaume as Rafiki (voice)</li><li>Rowan Atkinson as Zazu (voice)</li><li>Whoopi Goldberg as Shenzi (voice)</li><li>Cheech Marin as Banzai (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "The Lion King (1994) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1994"
+  },
+  "movie:87": {
+   "d": "Indiana Jones and the Temple of Doom (1984): Adventure/Action film. Story: After arriving in India, Indiana Jones is asked by a… See cast and budget $28M.",
+   "img": "https://image.tmdb.org/t/p/w780/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+   "industry": "world",
+   "k": "Indiana Jones and the Temple of Doom, Indiana Jones and the Temple of Doom movie, Indiana Jones and the Temple of Doom cast, Indiana Jones and the Temple of Doom story, Indiana Jones and the Temple of Doom box office collection, Indiana Jones and the Temple of Doom budget, Indiana Jones and the Temple of Doom review, Indiana Jones and the Temple of Doom rating, Indiana Jones and the Temple of Doom release date, Indiana Jones and the Temple of Doom trailer, Indiana Jones and the Temple of Doom Adventure, Indiana Jones and the Temple of Doom Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Harrison Ford"
+     },
+     {
+      "@type": "Person",
+      "name": "Kate Capshaw"
+     },
+     {
+      "@type": "Person",
+      "name": "Ke Huy Quan"
+     },
+     {
+      "@type": "Person",
+      "name": "Amrish Puri"
+     },
+     {
+      "@type": "Person",
+      "name": "Roshan Seth"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10531,
+     "ratingValue": 7.3,
+     "worstRating": 0
+    },
+    "description": "Indiana Jones and the Temple of Doom (1984): Adventure/Action film. Story: After arriving in India, Indiana Jones is asked by a… See cast and budget $28M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Spielberg"
+     }
+    ],
+    "duration": "PT118M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=87",
+    "name": "Indiana Jones and the Temple of Doom",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1984-05-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=87"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Indiana Jones and the Temple of Doom (1984)</h1>\n<p class=\"ssr-lead\">After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 May 1984</li><li>Runtime: 118 minutes</li><li>Director: Steven Spielberg</li><li>Genres: Adventure, Action</li><li>Budget: $28M</li><li>TMDB rating: 7.3/10 (10531 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Harrison Ford as Indiana Jones</li><li>Kate Capshaw as Willie Scott</li><li>Ke Huy Quan as Short Round</li><li>Amrish Puri as Mola Ram</li><li>Roshan Seth as Chattar Lal</li><li>Philip Stone as Phillip Blumburtt</li><li>Roy Chiao as Lao Che</li><li>David Yip as Wu Han</li><li>Ric Young as Kao Kan</li><li>Chua Kah Joo as Chen</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Indiana Jones and the Temple of Doom (1984) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1984"
+  },
   "movie:9087": {
    "d": "The American President (1995): Drama/Romance film. Story: Widowed U.S. president Andrew Shepherd, one of the… See cast, budget $62M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/hMc2fw8J56H6u4VRWHwLfeXnUCU.jpg",
@@ -3137,6 +3793,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>The American President (1995)</h1>\n<p class=\"ssr-lead\">Widowed U.S. president Andrew Shepherd, one of the world&#x27;s most powerful men, can have anything he wants -- and what he covets most is Sydney Ellen Wade, a Washington lobbyist. But Shepherd&#x27;s attempts at courting her spark wild rumors and decimate his approval ratings.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 November 1995</li><li>Runtime: 113 minutes</li><li>Director: Rob Reiner</li><li>Genres: Drama, Romance, Comedy</li><li>Budget: $62M</li><li>TMDB rating: 6.5/10 (819 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Michael Douglas as Andrew Shepherd</li><li>Annette Bening as Sydney Ellen Wade</li><li>Martin Sheen as A.J. MacInerney</li><li>Michael J. Fox as Lewis Rothschild</li><li>Anna Deavere Smith as Robin McCall</li><li>Samantha Mathis as Janie Basdin</li><li>Shawna Waldron as Lucy Shepherd</li><li>David Paymer as Leon Kodak</li><li>Anne Haney as Mrs. Chapil</li><li>Richard Dreyfuss as Senator Rumson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: Amazon Video</li></ul>\n</article>",
    "t": "The American President (1995) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1995"
+  },
+  "movie:9487": {
+   "d": "A Bug's Life (1998): Adventure/Animation film. Story: On behalf of \"oppressed bugs everywhere,\" an… See cast, budget $80M, and TMDB rating 7.0/10.",
+   "img": "https://image.tmdb.org/t/p/w780/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+   "industry": "world",
+   "k": "A Bug's Life, A Bug's Life movie, A Bug's Life cast, A Bug's Life story, A Bug's Life box office collection, A Bug's Life budget, A Bug's Life review, A Bug's Life rating, A Bug's Life release date, A Bug's Life Adventure, A Bug's Life Animation, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Dave Foley"
+     },
+     {
+      "@type": "Person",
+      "name": "Kevin Spacey"
+     },
+     {
+      "@type": "Person",
+      "name": "Julia Louis-Dreyfus"
+     },
+     {
+      "@type": "Person",
+      "name": "Hayden Panettiere"
+     },
+     {
+      "@type": "Person",
+      "name": "Phyllis Diller"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10035,
+     "ratingValue": 7.0,
+     "worstRating": 0
+    },
+    "description": "A Bug's Life (1998): Adventure/Animation film. Story: On behalf of \"oppressed bugs everywhere,\" an… See cast, budget $80M, and TMDB rating 7.0/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "John Lasseter"
+     }
+    ],
+    "duration": "PT95M",
+    "genre": [
+     "Adventure",
+     "Animation"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=9487",
+    "name": "A Bug's Life",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1998-11-25"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=9487"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>A Bug&#x27;s Life (1998)</h1>\n<p class=\"ssr-lead\">On behalf of &quot;oppressed bugs everywhere,&quot; an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 25 November 1998</li><li>Runtime: 95 minutes</li><li>Director: John Lasseter</li><li>Genres: Adventure, Animation, Comedy, Family</li><li>Budget: $80M</li><li>TMDB rating: 7.0/10 (10035 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Dave Foley as Flik (voice)</li><li>Kevin Spacey as Hopper (voice)</li><li>Julia Louis-Dreyfus as Atta (voice)</li><li>Hayden Panettiere as Dot (voice)</li><li>Phyllis Diller as Queen (voice)</li><li>Richard Kind as Molt (voice)</li><li>David Hyde Pierce as Slim (voice)</li><li>Joe Ranft as Heimlich / Additional Voices (voice)</li><li>Denis Leary as Francis (voice)</li><li>Jonathan Harris as Manny (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "A Bug's Life (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1998"
   },
   "movie:9787": {
    "d": "Lords of Dogtown (2005): Drama film. Story: The radical true story behind three teenage surfers… See cast, budget $25M, and TMDB rating 7.1/10.",

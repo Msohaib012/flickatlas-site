@@ -1,6 +1,6 @@
 {
  "bucket": "83",
- "count": 58,
+ "count": 64,
  "titles": {
   "movie:10083": {
    "backdrop_path": "/9F6zZuETJWUtkcSEnOc0JLqBHAK.jpg",
@@ -1796,6 +1796,126 @@
    "type": "movie",
    "vote_average": 5.658,
    "vote_count": 250
+  },
+  "movie:13183": {
+   "backdrop_path": "/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Laurie Jupiter / Silk Spectre II",
+     "n": "Malin Akerman"
+    },
+    {
+     "c": "Dan Dreiberg / Nite Owl II",
+     "n": "Patrick Wilson"
+    },
+    {
+     "c": "Jon Osterman / Dr. Manhattan",
+     "n": "Billy Crudup"
+    },
+    {
+     "c": "Adrian Veidt / Ozymandias",
+     "n": "Matthew Goode"
+    },
+    {
+     "c": "Walter Kovacs / Rorschach",
+     "n": "Jackie Earle Haley"
+    },
+    {
+     "c": "Edward Blake / The Comedian",
+     "n": "Jeffrey Dean Morgan"
+    },
+    {
+     "c": "Sally Jupiter / Silk Spectre",
+     "n": "Carla Gugino"
+    },
+    {
+     "c": "Janey Slater",
+     "n": "Laura Mennell"
+    },
+    {
+     "c": "Edgar Jacobi / Moloch the Mystic",
+     "n": "Matt Frewer"
+    },
+    {
+     "c": "Hollis Mason / Nite Owl",
+     "n": "Stephen McHattie"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Zack Snyder"
+   ],
+   "genres": [
+    "Mystery",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 13183,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
+   "popularity": 8.8468,
+   "poster_path": "/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-03-04",
+   "revenue": 185258983,
+   "runtime": 163,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Justice is coming to all of us. No matter what we do.",
+   "title": "Watchmen",
+   "trailer": {
+    "key": "89xoXmHgG00",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.351,
+   "vote_count": 10410
   },
   "movie:1365683": {
    "backdrop_path": "/hVQbT0JTPSFvmmSE6vASWSOCTAY.jpg",
@@ -4094,6 +4214,195 @@
    "vote_average": 7.404,
    "vote_count": 308
   },
+  "movie:23483": {
+   "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Dave Lizewski / Kick-Ass",
+     "n": "Aaron Taylor-Johnson"
+    },
+    {
+     "c": "Mindy Macready / Hit Girl",
+     "n": "Chloë Grace Moretz"
+    },
+    {
+     "c": "Damon Macready / Big Daddy",
+     "n": "Nicolas Cage"
+    },
+    {
+     "c": "Katie Deauxma",
+     "n": "Lyndsy Fonseca"
+    },
+    {
+     "c": "Frank D'Amico",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Mrs. Zane",
+     "n": "Deborah Twiss"
+    },
+    {
+     "c": "Chris D'Amico / Red Mist",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Mrs. Lizewski",
+     "n": "Elizabeth McGovern"
+    },
+    {
+     "c": "Sergeant Marcus Williams",
+     "n": "Omari Hardwick"
+    },
+    {
+     "c": "Detective Gigante",
+     "n": "Xander Berkeley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Matthew Vaughn"
+   ],
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "id": 23483,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+   "popularity": 7.5655,
+   "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "MovieSphere+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+     "name": "YouTube TV",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9GQLqBo5obK0r3nhZl24BadRKPq.png",
+     "name": "MovieSphere+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+     "name": "Howdy Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/hkw2s2Su8EyifB9EbbQP64Fj1xA.png",
+     "name": "FlixFling",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-03-26",
+   "revenue": 96188903,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Shut up. Kick-ass.",
+   "title": "Kick-Ass",
+   "trailer": {
+    "key": "RdBiTjy7AEI",
+    "name": "15th Anniversary Unmasked Edition 4K SteelBook® Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.125,
+   "vote_count": 12798
+  },
   "movie:25983": {
    "backdrop_path": "/cHFIGss3Lx429OBZGfdF3noKTDV.jpg",
    "budget": 0,
@@ -4535,6 +4844,212 @@
    "vote_average": 6.851,
    "vote_count": 370
   },
+  "movie:335983": {
+   "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+   "budget": 116000000,
+   "cast": [
+    {
+     "c": "Eddie Brock / Venom",
+     "n": "Tom Hardy"
+    },
+    {
+     "c": "Anne Weying",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Carlton Drake / Riot",
+     "n": "Riz Ahmed"
+    },
+    {
+     "c": "Security Chief Roland Treece",
+     "n": "Scott Haze"
+    },
+    {
+     "c": "Dr. Dan Lewis",
+     "n": "Reid Scott"
+    },
+    {
+     "c": "Dr. Dora Skirth",
+     "n": "Jenny Slate"
+    },
+    {
+     "c": "Homeless Woman Maria",
+     "n": "Melora Walters"
+    },
+    {
+     "c": "Cletus Kasady / Carnage",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Mrs. Chen",
+     "n": "Peggy Lu"
+    },
+    {
+     "c": "Lewis Donate",
+     "n": "Malcolm C. Murray"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Ruben Fleischer"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action"
+   ],
+   "id": 335983,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+   "popularity": 13.3767,
+   "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-10-05",
+   "revenue": 856085151,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "ms"
+   ],
+   "status": "Released",
+   "tagline": "The world has enough superheroes.",
+   "title": "Venom",
+   "trailer": {
+    "key": "xLCn88bfW1o",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.819,
+   "vote_count": 17814
+  },
   "movie:34583": {
    "backdrop_path": "/sSBLA1G4A6ZEFWhFrrox9fIV8Mt.jpg",
    "budget": 1000000,
@@ -4764,6 +5279,342 @@
    "type": "movie",
    "vote_average": 6.9,
    "vote_count": 471
+  },
+  "movie:381283": {
+   "backdrop_path": "/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+   "budget": 30000000,
+   "cast": [
+    {
+     "c": "Mother",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Him",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Man",
+     "n": "Ed Harris"
+    },
+    {
+     "c": "Woman",
+     "n": "Michelle Pfeiffer"
+    },
+    {
+     "c": "Younger Brother",
+     "n": "Brian Gleeson"
+    },
+    {
+     "c": "Oldest Son",
+     "n": "Domhnall Gleeson"
+    },
+    {
+     "c": "Cupbearer",
+     "n": "Jovan Adepo"
+    },
+    {
+     "c": "Damsel",
+     "n": "Amanda Chiu"
+    },
+    {
+     "c": "Consoler",
+     "n": "Patricia Summersett"
+    },
+    {
+     "c": "Bumbler",
+     "n": "Eric Davis"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Darren Aronofsky"
+   ],
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "id": 381283,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+   "popularity": 5.5657,
+   "poster_path": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-09-13",
+   "revenue": 44516999,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Seeing is believing.",
+   "title": "mother!",
+   "trailer": {
+    "key": "I26TtPhtqqY",
+    "name": "experience",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.9,
+   "vote_count": 7335
+  },
+  "movie:424783": {
+   "backdrop_path": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+   "budget": 135000000,
+   "cast": [
+    {
+     "c": "B-127 / Bumblebee (voice)",
+     "n": "Dylan O'Brien"
+    },
+    {
+     "c": "Charlie Watson",
+     "n": "Hailee Steinfeld"
+    },
+    {
+     "c": "Jack Burns",
+     "n": "John Cena"
+    },
+    {
+     "c": "Memo Gutierrez",
+     "n": "Jorge Lendeborg Jr."
+    },
+    {
+     "c": "Dr. Powell",
+     "n": "John Ortiz"
+    },
+    {
+     "c": "Ron",
+     "n": "Stephen Schneider"
+    },
+    {
+     "c": "Otis Watson",
+     "n": "Jason Ian Drucker"
+    },
+    {
+     "c": "Sally Watson",
+     "n": "Pamela Adlon"
+    },
+    {
+     "c": "Hank",
+     "n": "Len Cariou"
+    },
+    {
+     "c": "General Whalen",
+     "n": "Glynn Turman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Travis Knight"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 424783,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.",
+   "popularity": 7.4254,
+   "poster_path": "/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
+   "production_countries": [
+    "CN",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-01-04",
+   "revenue": 467989645,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Every hero has a beginning.",
+   "title": "Bumblebee",
+   "trailer": {
+    "key": "lcwmDAYt22k",
+    "name": "New Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.73,
+   "vote_count": 6948
   },
   "movie:4283": {
    "backdrop_path": "/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
@@ -5039,6 +5890,113 @@
    "type": "movie",
    "vote_average": 5.462,
    "vote_count": 372
+  },
+  "movie:454983": {
+   "backdrop_path": "/aqrDUkuzksLhOD8pbyBXLO0dz5t.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elle Evans",
+     "n": "Joey King"
+    },
+    {
+     "c": "Lee Flynn",
+     "n": "Joel Courtney"
+    },
+    {
+     "c": "Noah Flynn",
+     "n": "Jacob Elordi"
+    },
+    {
+     "c": "Mrs. Flynn",
+     "n": "Molly Ringwald"
+    },
+    {
+     "c": "Mike Evans",
+     "n": "Stephen Jennings"
+    },
+    {
+     "c": "Brad Evans",
+     "n": "Carson White"
+    },
+    {
+     "c": "Rachel",
+     "n": "Meganne Young"
+    },
+    {
+     "c": "British Beauty",
+     "n": "Frances Sholto-Douglas"
+    },
+    {
+     "c": "Yearbook Guy",
+     "n": "Nathan Lynn"
+    },
+    {
+     "c": "Warren",
+     "n": "Byron Langley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Vince Marcello"
+   ],
+   "genres": [
+    "Romance",
+    "Comedy"
+   ],
+   "id": 454983,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.",
+   "popularity": 5.1677,
+   "poster_path": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+   "production_countries": [
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-05-11",
+   "revenue": 0,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "She can tell her best friend anything, except this one thing.",
+   "title": "The Kissing Booth",
+   "trailer": {
+    "key": "7bfS6seiLhk",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.15,
+   "vote_count": 7546
   },
   "movie:525183": {
    "backdrop_path": "/maoFnW8j7thGdiplQgT5UGNlbHo.jpg",

@@ -1,7 +1,117 @@
 {
  "bucket": "38",
- "count": 57,
+ "count": 70,
  "titles": {
+  "movie:10138": {
+   "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Tony Stark",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Pepper Potts",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Lt. Col. James 'Rhodey' Rhodes",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Natalie Rushman / Natasha Romanoff",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Justin Hammer",
+     "n": "Sam Rockwell"
+    },
+    {
+     "c": "Ivan Vanko",
+     "n": "Mickey Rourke"
+    },
+    {
+     "c": "Nick Fury",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "Agent Coulson",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "Howard Stark",
+     "n": "John Slattery"
+    },
+    {
+     "c": "Senator Stern",
+     "n": "Garry Shandling"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Jon Favreau"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 10138,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+   "popularity": 23.8767,
+   "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-04-28",
+   "revenue": 623933331,
+   "runtime": 124,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "It's not the armor that makes the hero, but the man inside.",
+   "title": "Iron Man 2",
+   "trailer": {
+    "key": "5fUQkLdJ2kE",
+    "name": "IMAX® Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.856,
+   "vote_count": 23245
+  },
   "movie:10238": {
    "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
    "budget": 400000,
@@ -2261,6 +2371,169 @@
    "vote_average": 6.1,
    "vote_count": 306
   },
+  "movie:1538": {
+   "backdrop_path": "/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Vincent",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Max Durocher",
+     "n": "Jamie Foxx"
+    },
+    {
+     "c": "Annie Farrell",
+     "n": "Jada Pinkett Smith"
+    },
+    {
+     "c": "Det. Ray Fanning",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Richard Weidner",
+     "n": "Peter Berg"
+    },
+    {
+     "c": "Felix Reyes-Torrena",
+     "n": "Javier Bardem"
+    },
+    {
+     "c": "Frank Pedrosa",
+     "n": "Bruce McGill"
+    },
+    {
+     "c": "Zee",
+     "n": "Klea Scott"
+    },
+    {
+     "c": "Daniel Baker",
+     "n": "Barry Shabaka Henley"
+    },
+    {
+     "c": "Ida Durocher",
+     "n": "Irma P. Hall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Michael Mann"
+   ],
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 1538,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+   "popularity": 8.7712,
+   "poster_path": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-08-04",
+   "revenue": 220239925,
+   "runtime": 120,
+   "source": "catalogue",
+   "spoken_languages": [
+    "es",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It started like any other night.",
+   "title": "Collateral",
+   "trailer": {
+    "key": "-JDf2zIFgO8",
+    "name": "Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.251,
+   "vote_count": 6644
+  },
   "movie:1588838": {
    "backdrop_path": "/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
    "budget": 0,
@@ -2869,6 +3142,318 @@
    "vote_average": 5.204,
    "vote_count": 446
   },
+  "movie:22538": {
+   "backdrop_path": "/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
+   "budget": 73000000,
+   "cast": [
+    {
+     "c": "Scott Pilgrim",
+     "n": "Michael Cera"
+    },
+    {
+     "c": "Ramona Flowers",
+     "n": "Mary Elizabeth Winstead"
+    },
+    {
+     "c": "Knives Chau",
+     "n": "Ellen Wong"
+    },
+    {
+     "c": "Wallace Wells",
+     "n": "Kieran Culkin"
+    },
+    {
+     "c": "Kim Pine",
+     "n": "Alison Pill"
+    },
+    {
+     "c": "Stephen Stills",
+     "n": "Mark Webber"
+    },
+    {
+     "c": "Young Neil",
+     "n": "Johnny Simmons"
+    },
+    {
+     "c": "Gideon Graves",
+     "n": "Jason Schwartzman"
+    },
+    {
+     "c": "Stacey Pilgrim",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Julie Powers",
+     "n": "Aubrey Plaza"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Edgar Wright"
+   ],
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+   ],
+   "id": 22538,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+   "popularity": 9.4169,
+   "poster_path": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+   "production_countries": [
+    "JP",
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-08-12",
+   "revenue": 51825248,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "An epic of epic epicness.",
+   "title": "Scott Pilgrim vs. the World",
+   "trailer": {
+    "key": "j66qP9Larlg",
+    "name": "International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.484,
+   "vote_count": 9029
+  },
+  "movie:238": {
+   "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+   "budget": 6000000,
+   "cast": [
+    {
+     "c": "Don Vito Corleone",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Michael Corleone",
+     "n": "Al Pacino"
+    },
+    {
+     "c": "Sonny Corleone",
+     "n": "James Caan"
+    },
+    {
+     "c": "Tom Hagen",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "Clemenza",
+     "n": "Richard S. Castellano"
+    },
+    {
+     "c": "Kay Adams",
+     "n": "Diane Keaton"
+    },
+    {
+     "c": "Connie Corleone Rizzi",
+     "n": "Talia Shire"
+    },
+    {
+     "c": "Carlo Rizzi",
+     "n": "Gianni Russo"
+    },
+    {
+     "c": "Captain McCluskey",
+     "n": "Sterling Hayden"
+    },
+    {
+     "c": "Jack Woltz",
+     "n": "John Marley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Ford Coppola"
+   ],
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "id": 238,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+   "popularity": 40.4896,
+   "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2025-09-12",
+   "revenue": 245066411,
+   "runtime": 175,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it",
+    "la"
+   ],
+   "status": "Released",
+   "tagline": "An offer you can't refuse.",
+   "title": "The Godfather",
+   "trailer": {
+    "key": "Ew9ngL1GZvs",
+    "name": "50th Anniversary Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.689,
+   "vote_count": 23989
+  },
   "movie:26338": {
    "backdrop_path": "/pi2J4AtHvigbCTYm1sEyQfrifPs.jpg",
    "budget": 2700000,
@@ -3170,6 +3755,141 @@
    "vote_average": 6.318,
    "vote_count": 400
   },
+  "movie:281338": {
+   "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+   "budget": 150000000,
+   "cast": [
+    {
+     "c": "Caesar",
+     "n": "Andy Serkis"
+    },
+    {
+     "c": "The Colonel",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "Maurice",
+     "n": "Karin Konoval"
+    },
+    {
+     "c": "Rocket",
+     "n": "Terry Notary"
+    },
+    {
+     "c": "Bad Ape",
+     "n": "Steve Zahn"
+    },
+    {
+     "c": "Nova",
+     "n": "Amiah Miller"
+    },
+    {
+     "c": "Red Donkey",
+     "n": "Ty Olsson"
+    },
+    {
+     "c": "Luca",
+     "n": "Michael Adamthwaite"
+    },
+    {
+     "c": "Koba",
+     "n": "Toby Kebbell"
+    },
+    {
+     "c": "Preacher",
+     "n": "Gabriel Chavarria"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Matt Reeves"
+   ],
+   "genres": [
+    "Drama",
+    "Science Fiction",
+    "War"
+   ],
+   "id": 281338,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+   "popularity": 12.0799,
+   "poster_path": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-07-11",
+   "revenue": 490719763,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "For freedom. For family. For the planet.",
+   "title": "War for the Planet of the Apes",
+   "trailer": {
+    "key": "1TxqmlIv1Iw",
+    "name": "War for the Planet of the Apes | Official HD Trailer #4 | 2017",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.227,
+   "vote_count": 10097
+  },
   "movie:30238": {
    "backdrop_path": "/nEo7B55t79RhcbOjLo6Zcbig4Ku.jpg",
    "budget": 0,
@@ -3457,6 +4177,128 @@
    "vote_average": 6.7,
    "vote_count": 394
   },
+  "movie:38": {
+   "backdrop_path": "/95qi5TJMIBI5VzWHia88Pbrye7Z.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Joel Barish",
+     "n": "Jim Carrey"
+    },
+    {
+     "c": "Clementine Kruczynski",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Mary",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Stan",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Patrick",
+     "n": "Elijah Wood"
+    },
+    {
+     "c": "Dr. Mierzwiak",
+     "n": "Tom Wilkinson"
+    },
+    {
+     "c": "Carrie",
+     "n": "Jane Adams"
+    },
+    {
+     "c": "Rob",
+     "n": "David Cross"
+    },
+    {
+     "c": "Hollis",
+     "n": "Deirdre O'Connell"
+    },
+    {
+     "c": "Frank",
+     "n": "Thomas Jay Ryan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Michel Gondry"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Romance"
+   ],
+   "id": 38,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+   "popularity": 15.6168,
+   "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-03-19",
+   "revenue": 72258126,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+   "title": "Eternal Sunshine of the Spotless Mind",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 8.091,
+   "vote_count": 16995
+  },
   "movie:38438": {
    "backdrop_path": "/ler7oT35s8nxJ5H1bnoKufvMQzX.jpg",
    "budget": 0,
@@ -3577,6 +4419,156 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 359
+  },
+  "movie:39538": {
+   "backdrop_path": "/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Leonora Orantes",
+     "n": "Marion Cotillard"
+    },
+    {
+     "c": "Mitch Emhoff",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Ellis Cheever",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Alan Krumwiede",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Erin Mears",
+     "n": "Kate Winslet"
+    },
+    {
+     "c": "Ally Hextall",
+     "n": "Jennifer Ehle"
+    },
+    {
+     "c": "Beth Emhoff",
+     "n": "Gwyneth Paltrow"
+    },
+    {
+     "c": "Lyle Haggerty",
+     "n": "Bryan Cranston"
+    },
+    {
+     "c": "Ian Sussman",
+     "n": "Elliott Gould"
+    },
+    {
+     "c": "Sun Feng",
+     "n": "Chin Han"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "id": 39538,
+   "industry": "world",
+   "origin_country": [
+    "US",
+    "AE"
+   ],
+   "original_language": "en",
+   "overview": "As an epidemic of a lethal airborne virus - that kills within days - rapidly grows, the worldwide medical community races to find a cure and control the panic that spreads faster than the virus itself.",
+   "popularity": 6.0272,
+   "poster_path": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+   "production_countries": [
+    "US",
+    "AE"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-09-08",
+   "revenue": 137551594,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "cn",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Nothing spreads like fear.",
+   "title": "Contagion",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.66,
+   "vote_count": 6829
   },
   "movie:411638": {
    "backdrop_path": "/eVgEBhfjzlWZXbZQLhdxLbWlez.jpg",
@@ -4021,6 +5013,151 @@
    "vote_average": 6.657,
    "vote_count": 351
   },
+  "movie:4638": {
+   "backdrop_path": "/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Nicholas Angel",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "PC Danny Butterman",
+     "n": "Nick Frost"
+    },
+    {
+     "c": "Inspector Frank Butterman",
+     "n": "Jim Broadbent"
+    },
+    {
+     "c": "DS Andy Wainwright",
+     "n": "Paddy Considine"
+    },
+    {
+     "c": "DC Andy Cartwright",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Sergeant Tony Fisher",
+     "n": "Kevin Eldon"
+    },
+    {
+     "c": "PC Doris Thatcher",
+     "n": "Olivia Colman"
+    },
+    {
+     "c": "Sergeant Turner",
+     "n": "Bill Bailey"
+    },
+    {
+     "c": "PC Bob Walker",
+     "n": "Karl Johnson"
+    },
+    {
+     "c": "Simon Skinner",
+     "n": "Timothy Dalton"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Edgar Wright"
+   ],
+   "genres": [
+    "Crime",
+    "Action",
+    "Comedy"
+   ],
+   "id": 4638,
+   "industry": "world",
+   "origin_country": [
+    "GB"
+   ],
+   "original_language": "en",
+   "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+   "popularity": 9.3292,
+   "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+   "production_countries": [
+    "FR",
+    "GB"
+   ],
+   "providers": [
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2007-02-14",
+   "revenue": 80600000,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Big cops. Small town. Moderate violence.",
+   "title": "Hot Fuzz",
+   "trailer": {
+    "key": "L6PKkxn7pq0",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.57,
+   "vote_count": 8771
+  },
   "movie:484638": {
    "backdrop_path": "/u4PhTSMSvlE7dE45I7ktXlje2Ea.jpg",
    "budget": 0,
@@ -4332,6 +5469,142 @@
    "type": "movie",
    "vote_average": 5.897,
    "vote_count": 853
+  },
+  "movie:49538": {
+   "backdrop_path": "/yhp5Pt4GugkCs5mz63qWz5khHXe.jpg",
+   "budget": 160000000,
+   "cast": [
+    {
+     "c": "Charles Xavier (24 Years)",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Erik Lehnsherr",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Raven / Mystique",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Moira MacTaggert",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Sebastian Shaw",
+     "n": "Kevin Bacon"
+    },
+    {
+     "c": "Emma Frost",
+     "n": "January Jones"
+    },
+    {
+     "c": "Hank / Beast",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "Alex Summers / Havok",
+     "n": "Lucas Till"
+    },
+    {
+     "c": "Angel Salvadore",
+     "n": "Zoë Kravitz"
+    },
+    {
+     "c": "Cassidy / Banshee",
+     "n": "Caleb Landry Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Matthew Vaughn"
+   ],
+   "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+   ],
+   "id": 49538,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+   "popularity": 0.6844,
+   "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-06-10",
+   "revenue": 353624124,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Witness the moment that will change our world.",
+   "title": "X-Men: First Class",
+   "trailer": {
+    "key": "2BAYQD_j6Xc",
+    "name": "Havok - Character Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.307,
+   "vote_count": 14046
   },
   "movie:508138": {
    "backdrop_path": "/3C14xx4RteMksSUwgYfI52B8Iu6.jpg",
@@ -4781,6 +6054,168 @@
    "vote_average": 6.543,
    "vote_count": 487
   },
+  "movie:54138": {
+   "backdrop_path": "/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+   "budget": 190000000,
+   "cast": [
+    {
+     "c": "Sulu",
+     "n": "John Cho"
+    },
+    {
+     "c": "Khan",
+     "n": "Benedict Cumberbatch"
+    },
+    {
+     "c": "Carol",
+     "n": "Alice Eve"
+    },
+    {
+     "c": "Pike",
+     "n": "Bruce Greenwood"
+    },
+    {
+     "c": "Scotty",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Kirk",
+     "n": "Chris Pine"
+    },
+    {
+     "c": "Spock",
+     "n": "Zachary Quinto"
+    },
+    {
+     "c": "Uhura",
+     "n": "Zoe Saldaña"
+    },
+    {
+     "c": "Bones",
+     "n": "Karl Urban"
+    },
+    {
+     "c": "Marcus",
+     "n": "Peter Weller"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "J.J. Abrams"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 54138,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+   "popularity": 8.4558,
+   "poster_path": "/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-05-05",
+   "revenue": 467381584,
+   "runtime": 132,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Beyond the darkness, lies greatness.",
+   "title": "Star Trek Into Darkness",
+   "trailer": {
+    "key": "RJ1qOs7jkIQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.32,
+   "vote_count": 10002
+  },
   "movie:591538": {
    "backdrop_path": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
    "budget": 0,
@@ -5026,6 +6461,301 @@
    "type": "movie",
    "vote_average": 7.816,
    "vote_count": 871
+  },
+  "movie:76338": {
+   "backdrop_path": "/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+   "budget": 170000000,
+   "cast": [
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Jane Foster",
+     "n": "Natalie Portman"
+    },
+    {
+     "c": "Loki",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Malekith",
+     "n": "Christopher Eccleston"
+    },
+    {
+     "c": "Odin",
+     "n": "Anthony Hopkins"
+    },
+    {
+     "c": "Sif",
+     "n": "Jaimie Alexander"
+    },
+    {
+     "c": "Fandral",
+     "n": "Zachary Levi"
+    },
+    {
+     "c": "Volstagg",
+     "n": "Ray Stevenson"
+    },
+    {
+     "c": "Hogun",
+     "n": "Tadanobu Asano"
+    },
+    {
+     "c": "Heimdall",
+     "n": "Idris Elba"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Alan Taylor"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 76338,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+   "popularity": 15.4834,
+   "poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-11-15",
+   "revenue": 644783140,
+   "runtime": 112,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Delve into the darkness.",
+   "title": "Thor: The Dark World",
+   "trailer": {
+    "key": "npvJ9FTgZbM",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.504,
+   "vote_count": 18980
+  },
+  "movie:77338": {
+   "backdrop_path": "/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
+   "budget": 13000000,
+   "cast": [
+    {
+     "c": "Philippe",
+     "n": "François Cluzet"
+    },
+    {
+     "c": "Driss",
+     "n": "Omar Sy"
+    },
+    {
+     "c": "Yvonne",
+     "n": "Anne Le Ny"
+    },
+    {
+     "c": "Magalie",
+     "n": "Audrey Fleurot"
+    },
+    {
+     "c": "La DRH société de courses",
+     "n": "Joséphine de Meaux"
+    },
+    {
+     "c": "Marcelle",
+     "n": "Clotilde Mollet"
+    },
+    {
+     "c": "Elisa",
+     "n": "Alba Gaïa Bellugi"
+    },
+    {
+     "c": "Adama",
+     "n": "Cyril Mendy"
+    },
+    {
+     "c": "Fatou",
+     "n": "Salimata Kamate"
+    },
+    {
+     "c": "Mina",
+     "n": "Absa Diatou Toure"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Éric Toledano",
+    "Olivier Nakache"
+   ],
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": 77338,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+   "popularity": 18.9149,
+   "poster_path": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+     "name": "Lionsgate+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-07-13",
+   "revenue": 426590315,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Sometimes you have to reach into someone else's world to find out what's missing in your own.",
+   "title": "The Intouchables",
+   "trailer": {
+    "key": "dvdJ--DV0Uo",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.274,
+   "vote_count": 19072
   },
   "movie:785538": {
    "backdrop_path": "/iGXrJvq3EVAd7CAt5BicepJYr5M.jpg",
@@ -5742,6 +7472,132 @@
    "type": "movie",
    "vote_average": 6.488,
    "vote_count": 827
+  },
+  "movie:9738": {
+   "backdrop_path": "/qq9ELjoyllBUMkGisZvcj0fCd43.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Reed Richards",
+     "n": "Ioan Gruffudd"
+    },
+    {
+     "c": "Sue Storm",
+     "n": "Jessica Alba"
+    },
+    {
+     "c": "Johnny Storm",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Ben Grimm",
+     "n": "Michael Chiklis"
+    },
+    {
+     "c": "Victor Von Doom",
+     "n": "Julian McMahon"
+    },
+    {
+     "c": "Leonard",
+     "n": "Hamish Linklater"
+    },
+    {
+     "c": "Alicia Masters",
+     "n": "Kerry Washington"
+    },
+    {
+     "c": "Debbie McIlvane",
+     "n": "Laurie Holden"
+    },
+    {
+     "c": "Ernie",
+     "n": "David Parker"
+    },
+    {
+     "c": "Jimmy O'Hoolihan",
+     "n": "Kevin McNulty"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Tim Story"
+   ],
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "id": 9738,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+   "popularity": 9.6287,
+   "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-07-08",
+   "revenue": 333535934,
+   "runtime": 125,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "4 times the action. 4 times the adventure. 4 times the fantastic.",
+   "title": "Fantastic Four",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 5.815,
+   "vote_count": 10345
   },
   "tv:1438": {
    "backdrop_path": "/aQTtua5pG490fMfeKgtYg5B853e.jpg",

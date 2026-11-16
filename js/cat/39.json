@@ -1,6 +1,6 @@
 {
  "bucket": "39",
- "count": 65,
+ "count": 72,
  "titles": {
   "movie:1019939": {
    "backdrop_path": "/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
@@ -358,6 +358,175 @@
    "type": "movie",
    "vote_average": 6.556,
    "vote_count": 355
+  },
+  "movie:109439": {
+   "backdrop_path": "/o8ZS811VjYbBi4pRYwILLdWCVey.jpg",
+   "budget": 103000000,
+   "cast": [
+    {
+     "c": "Phil Wenneck",
+     "n": "Bradley Cooper"
+    },
+    {
+     "c": "Stu Price",
+     "n": "Ed Helms"
+    },
+    {
+     "c": "Alan Garner",
+     "n": "Zach Galifianakis"
+    },
+    {
+     "c": "Doug Billings",
+     "n": "Justin Bartha"
+    },
+    {
+     "c": "Mr. Chow",
+     "n": "Ken Jeong"
+    },
+    {
+     "c": "Marshall",
+     "n": "John Goodman"
+    },
+    {
+     "c": "Cassie",
+     "n": "Melissa McCarthy"
+    },
+    {
+     "c": "Sid Garner",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Jade",
+     "n": "Heather Graham"
+    },
+    {
+     "c": "Black Doug",
+     "n": "Mike Epps"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Todd Phillips"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 109439,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "This time, there's no wedding. No bachelor party. What could go wrong, right? But when the Wolfpack hits the road, all bets are off.",
+   "popularity": 10.4917,
+   "poster_path": "/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-05-23",
+   "revenue": 362000072,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "It all ends.",
+   "title": "The Hangover Part III",
+   "trailer": {
+    "key": "96TelFMZwHc",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.212,
+   "vote_count": 9555
   },
   "movie:12639": {
    "backdrop_path": "/64ABp1dJnwqZJl9DIEMe6UObhOu.jpg",
@@ -2166,6 +2335,155 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 367
+  },
+  "movie:18239": {
+   "backdrop_path": "/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Bella Swan",
+     "n": "Kristen Stewart"
+    },
+    {
+     "c": "Edward Cullen",
+     "n": "Robert Pattinson"
+    },
+    {
+     "c": "Jacob Black",
+     "n": "Taylor Lautner"
+    },
+    {
+     "c": "Jane",
+     "n": "Dakota Fanning"
+    },
+    {
+     "c": "Aro",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Alice Cullen",
+     "n": "Ashley Greene"
+    },
+    {
+     "c": "Victoria",
+     "n": "Rachelle Lefevre"
+    },
+    {
+     "c": "Charlie Swan",
+     "n": "Billy Burke"
+    },
+    {
+     "c": "Dr. Carlisle Cullen",
+     "n": "Peter Facinelli"
+    },
+    {
+     "c": "Esme Cullen",
+     "n": "Elizabeth Reaser"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Chris Weitz"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 18239,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
+   "popularity": 16.7024,
+   "poster_path": "/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-11-18",
+   "revenue": 709827462,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Forbidden to remember. Terrified to forget.",
+   "title": "The Twilight Saga: New Moon",
+   "trailer": {
+    "key": "q58iQSHhZGg",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.98,
+   "vote_count": 10018
   },
   "movie:192139": {
    "backdrop_path": "/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
@@ -3976,6 +4294,340 @@
    "vote_average": 8.3,
    "vote_count": 440
   },
+  "movie:333339": {
+   "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Parzival / Wade",
+     "n": "Tye Sheridan"
+    },
+    {
+     "c": "Art3mis / Samantha",
+     "n": "Olivia Cooke"
+    },
+    {
+     "c": "Sorrento",
+     "n": "Ben Mendelsohn"
+    },
+    {
+     "c": "Aech / Helen",
+     "n": "Lena Waithe"
+    },
+    {
+     "c": "I-R0k (voice)",
+     "n": "T.J. Miller"
+    },
+    {
+     "c": "Curator / Ogden Morrow",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Anorak / Halliday",
+     "n": "Mark Rylance"
+    },
+    {
+     "c": "Sho",
+     "n": "Philip Zhao"
+    },
+    {
+     "c": "Daito",
+     "n": "Win Morisaki"
+    },
+    {
+     "c": "F'Nale Zandor",
+     "n": "Hannah John-Kamen"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+   ],
+   "id": 333339,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+   "popularity": 12.6862,
+   "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-03-30",
+   "revenue": 607274134,
+   "runtime": 140,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A better reality awaits.",
+   "title": "Ready Player One",
+   "trailer": {
+    "key": "1hrwbc5qCZ4",
+    "name": "Official 4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.583,
+   "vote_count": 17605
+  },
+  "movie:337339": {
+   "backdrop_path": "/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+   "budget": 250000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Deckard Shaw",
+     "n": "Jason Statham"
+    },
+    {
+     "c": "Luke Hobbs",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Letty Ortiz",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Roman Pearce",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Tej Parker",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Cipher",
+     "n": "Charlize Theron"
+    },
+    {
+     "c": "Mr. Nobody",
+     "n": "Kurt Russell"
+    },
+    {
+     "c": "Ramsey",
+     "n": "Nathalie Emmanuel"
+    },
+    {
+     "c": "Owen Shaw",
+     "n": "Luke Evans"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "F. Gary Gray"
+   ],
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "id": 337339,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+   "popularity": 8.5526,
+   "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-04-13",
+   "revenue": 1236000000,
+   "runtime": 136,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Never give up on family.",
+   "title": "The Fate of the Furious",
+   "trailer": {
+    "key": "iVdIiOKBPkg",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.846,
+   "vote_count": 11113
+  },
   "movie:38939": {
    "backdrop_path": "/QE9ILRngt3v67xkvNUPbjADPe2.jpg",
    "budget": 406300,
@@ -4884,6 +5536,119 @@
    "vote_average": 7.923,
    "vote_count": 447
   },
+  "movie:508439": {
+   "backdrop_path": "/bcT8CaBIj086WVD7K529h78eujb.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Ian Lightfoot (voice)",
+     "n": "Tom Holland"
+    },
+    {
+     "c": "Barley Lightfoot (voice)",
+     "n": "Chris Pratt"
+    },
+    {
+     "c": "Laurel Lightfoot (voice)",
+     "n": "Julia Louis-Dreyfus"
+    },
+    {
+     "c": "The Manticore (voice)",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Officer Colt Bronco (voice)",
+     "n": "Mel Rodriguez"
+    },
+    {
+     "c": "Wilden Lightfoot (voice)",
+     "n": "Kyle Bornheimer"
+    },
+    {
+     "c": "Officer Spector (voice)",
+     "n": "Lena Waithe"
+    },
+    {
+     "c": "Officer Gore (voice)",
+     "n": "Ali Wong"
+    },
+    {
+     "c": "Dewdrop (voice)",
+     "n": "Grey DeLisle"
+    },
+    {
+     "c": "Grecklin (voice)",
+     "n": "Tracey Ullman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Dan Scanlon"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 508439,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+   "popularity": 6.3888,
+   "poster_path": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2020-03-06",
+   "revenue": 141888276,
+   "runtime": 102,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their quest beginneth.",
+   "title": "Onward",
+   "trailer": {
+    "key": "HxKXiQvyG_o",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.626,
+   "vote_count": 6791
+  },
   "movie:5139": {
    "backdrop_path": "/3Ndz1LOb8Y3X34GM9nx0kp61sXG.jpg",
    "budget": 13000000,
@@ -5506,6 +6271,138 @@
    "type": "movie",
    "vote_average": 6.3,
    "vote_count": 994
+  },
+  "movie:539": {
+   "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+   "budget": 806947,
+   "cast": [
+    {
+     "c": "Norman Bates",
+     "n": "Anthony Perkins"
+    },
+    {
+     "c": "Marion Crane",
+     "n": "Janet Leigh"
+    },
+    {
+     "c": "Lila Crane",
+     "n": "Vera Miles"
+    },
+    {
+     "c": "Sam Loomis",
+     "n": "John Gavin"
+    },
+    {
+     "c": "Milton Arbogast",
+     "n": "Martin Balsam"
+    },
+    {
+     "c": "Al Chambers",
+     "n": "John McIntire"
+    },
+    {
+     "c": "Fred Richman",
+     "n": "Simon Oakland"
+    },
+    {
+     "c": "Tom Cassidy",
+     "n": "Frank Albertson"
+    },
+    {
+     "c": "Caroline",
+     "n": "Patricia Hitchcock"
+    },
+    {
+     "c": "George Lowery",
+     "n": "Vaughn Taylor"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Alfred Hitchcock"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "id": 539,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+   "popularity": 14.8032,
+   "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1960-08-17",
+   "revenue": 50000000,
+   "runtime": 109,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new and altogether different screen excitement!!!",
+   "title": "Psycho",
+   "trailer": {
+    "key": "D90QhegiVvo",
+    "name": "Official Reissue Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.405,
+   "vote_count": 11446
   },
   "movie:6639": {
    "backdrop_path": "/qD4oylPXPLxQCULTWPzhwWSeEVI.jpg",
@@ -6601,6 +7498,131 @@
    "type": "movie",
    "vote_average": 5.9,
    "vote_count": 46
+  },
+  "movie:9339": {
+   "backdrop_path": "/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
+   "budget": 82500000,
+   "cast": [
+    {
+     "c": "Michael Newman",
+     "n": "Adam Sandler"
+    },
+    {
+     "c": "Donna Newman",
+     "n": "Kate Beckinsale"
+    },
+    {
+     "c": "Morty",
+     "n": "Christopher Walken"
+    },
+    {
+     "c": "Ammer",
+     "n": "David Hasselhoff"
+    },
+    {
+     "c": "Ted",
+     "n": "Henry Winkler"
+    },
+    {
+     "c": "Trudy",
+     "n": "Julie Kavner"
+    },
+    {
+     "c": "Bill",
+     "n": "Sean Astin"
+    },
+    {
+     "c": "Ben at 7 years old",
+     "n": "Joseph Castanon"
+    },
+    {
+     "c": "Ben at 17 years old",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Ben at 22-30 years old",
+     "n": "Jake Hoffman"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Frank Coraci"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 9339,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
+   "popularity": 6.8878,
+   "poster_path": "/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2006-06-23",
+   "revenue": 240685326,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "pt",
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "What if you had a universal remote...that controlled your universe?",
+   "title": "Click",
+   "trailer": {
+    "key": "APUqyhgtCfk",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.317,
+   "vote_count": 7867
   },
   "movie:968739": {
    "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",

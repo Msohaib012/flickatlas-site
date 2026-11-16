@@ -1,6 +1,6 @@
 {
  "bucket": "98",
- "count": 68,
+ "count": 75,
  "titles": {
   "movie:1061798": {
    "d": "Jim Queen (2026): Animation/Comedy film. Story: When Heterosis, a mysterious virus that turns gay men… See cast and TMDB rating 7.9/10.",
@@ -2114,6 +2114,134 @@
    "t": "The Keep (1983) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1983"
   },
+  "movie:296098": {
+   "d": "Bridge of Spies (2015): Thriller/Drama film. Story: During the Cold War, the Soviet Union captures U.S. See cast, budget $40M, and TMDB rating 7.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+   "industry": "world",
+   "k": "Bridge of Spies, Bridge of Spies movie, Bridge of Spies cast, Bridge of Spies story, Bridge of Spies box office collection, Bridge of Spies budget, Bridge of Spies review, Bridge of Spies rating, Bridge of Spies release date, Bridge of Spies trailer, Bridge of Spies Thriller, Bridge of Spies Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Tom Hanks"
+     },
+     {
+      "@type": "Person",
+      "name": "Mark Rylance"
+     },
+     {
+      "@type": "Person",
+      "name": "Amy Ryan"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Alda"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Koch"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7521,
+     "ratingValue": 7.2,
+     "worstRating": 0
+    },
+    "description": "Bridge of Spies (2015): Thriller/Drama film. Story: During the Cold War, the Soviet Union captures U.S. See cast, budget $40M, and TMDB rating 7.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Spielberg"
+     }
+    ],
+    "duration": "PT141M",
+    "genre": [
+     "Thriller",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=296098",
+    "name": "Bridge of Spies",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2015-10-15"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=296098"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bridge of Spies (2015)</h1>\n<p class=\"ssr-lead\">During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers&#x27; only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man&#x27;s freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 October 2015</li><li>Runtime: 141 minutes</li><li>Director: Steven Spielberg</li><li>Genres: Thriller, Drama</li><li>Budget: $40M</li><li>TMDB rating: 7.2/10 (7521 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tom Hanks as James B. Donovan</li><li>Mark Rylance as Rudolf Abel</li><li>Amy Ryan as Mary Donovan</li><li>Alan Alda as Thomas Watters Jr.</li><li>Sebastian Koch as Wolfgang Vogel</li><li>Austin Stowell as Francis Gary Powers</li><li>Billy Magnussen as Doug Forrester</li><li>Michael Simon Hall as Reporter</li><li>Edward James Hyland as Chief Justice Earl Warren</li><li>Stephen Kunken as William Tompkins</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Bridge of Spies (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2015"
+  },
+  "movie:298": {
+   "d": "Ocean's Thirteen (2007): Crime/Thriller film. Story: Danny Ocean's team of criminals are back and… See cast, budget $85M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+   "industry": "world",
+   "k": "Ocean's Thirteen, Ocean's Thirteen movie, Ocean's Thirteen cast, Ocean's Thirteen story, Ocean's Thirteen box office collection, Ocean's Thirteen budget, Ocean's Thirteen review, Ocean's Thirteen rating, Ocean's Thirteen release date, Ocean's Thirteen trailer, Ocean's Thirteen Crime, Ocean's Thirteen Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "George Clooney"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Pitt"
+     },
+     {
+      "@type": "Person",
+      "name": "Al Pacino"
+     },
+     {
+      "@type": "Person",
+      "name": "Matt Damon"
+     },
+     {
+      "@type": "Person",
+      "name": "Don Cheadle"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 7205,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Ocean's Thirteen (2007): Crime/Thriller film. Story: Danny Ocean's team of criminals are back and… See cast, budget $85M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Steven Soderbergh"
+     }
+    ],
+    "duration": "PT122M",
+    "genre": [
+     "Crime",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=298",
+    "name": "Ocean's Thirteen",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-06-05"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=298"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Ocean&#x27;s Thirteen (2007)</h1>\n<p class=\"ssr-lead\">Danny Ocean&#x27;s team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he&#x27;s got. Even if it means asking for help from an enemy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2007</li><li>Runtime: 122 minutes</li><li>Director: Steven Soderbergh</li><li>Genres: Crime, Thriller</li><li>Budget: $85M</li><li>TMDB rating: 6.7/10 (7205 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>George Clooney as Danny Ocean</li><li>Brad Pitt as Rusty Ryan</li><li>Al Pacino as Willy Bank</li><li>Matt Damon as Linus Caldwell</li><li>Don Cheadle as Basher Tarr</li><li>Bernie Mac as Frank Catton</li><li>Ellen Barkin as Abigail Sponder</li><li>Casey Affleck as Virgil Malloy</li><li>Scott Caan as Turk Malloy</li><li>Carl Reiner as Saul Bloom</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, JioHotstar, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Ocean's Thirteen (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
+  },
   "movie:2998": {
    "d": "Zabriskie Point (1970): Drama film. Story: Anthropology student Daria, who's helping a property… See cast, budget $7M, and TMDB rating 7.0/10.",
    "img": "https://image.tmdb.org/t/p/w780/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
@@ -2304,6 +2432,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Monster Hunt (2015)</h1>\n<p class=\"ssr-lead\">Young monster kids try to make peace between the world of humans and the world of the monsters.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 July 2015</li><li>Runtime: 118 minutes</li><li>Director: Raman Hui Shing-Ngai</li><li>Genres: Comedy, Fantasy, Adventure</li><li>TMDB rating: 6.5/10 (386 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Bai Baihe as Huo Xiaolan</li><li>Jing Boran as Song Tianyin</li><li>Jiang Wu as Luo Gang</li><li>Elaine Jin Yan-Ling as Grandma</li><li>Wallace Chung as Ge Qianhu</li><li>Eric Tsang Chi-wai as Zhu Gao</li><li>Sandra Ng Kwan-yu as Pang Ying</li><li>Tang Wei as Pawn Shop Owner</li><li>Yao Chen as Female Head Chef</li><li>Yan Ni as Luo Ying</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Lionsgate Play, Lionsgate Play Apple TV Channel, Lionsgate Play Amazon Channel</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
    "t": "Monster Hunt (2015) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2015"
+  },
+  "movie:346698": {
+   "d": "Barbie (2023): Comedy/Adventure film. Story: Barbie and Ken are having the time of their lives in… See cast, budget $145M, and TMDB rating 6.9/10.",
+   "img": "https://image.tmdb.org/t/p/w780/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+   "industry": "world",
+   "k": "Barbie, Barbie movie, Barbie cast, Barbie story, Barbie box office collection, Barbie budget, Barbie review, Barbie rating, Barbie release date, Barbie trailer, Barbie Comedy, Barbie Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Margot Robbie"
+     },
+     {
+      "@type": "Person",
+      "name": "Ryan Gosling"
+     },
+     {
+      "@type": "Person",
+      "name": "America Ferrera"
+     },
+     {
+      "@type": "Person",
+      "name": "Ariana Greenblatt"
+     },
+     {
+      "@type": "Person",
+      "name": "Issa Rae"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11820,
+     "ratingValue": 6.9,
+     "worstRating": 0
+    },
+    "description": "Barbie (2023): Comedy/Adventure film. Story: Barbie and Ken are having the time of their lives in… See cast, budget $145M, and TMDB rating 6.9/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Greta Gerwig"
+     }
+    ],
+    "duration": "PT114M",
+    "genre": [
+     "Comedy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=346698",
+    "name": "Barbie",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-07-21"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=346698"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Barbie (2023)</h1>\n<p class=\"ssr-lead\">Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 21 July 2023</li><li>Runtime: 114 minutes</li><li>Director: Greta Gerwig</li><li>Genres: Comedy, Adventure, Fantasy</li><li>Budget: $145M</li><li>TMDB rating: 6.9/10 (11820 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Margot Robbie as Barbie</li><li>Ryan Gosling as Ken</li><li>America Ferrera as Gloria</li><li>Ariana Greenblatt as Sasha</li><li>Issa Rae as Barbie</li><li>Kate McKinnon as Barbie</li><li>Alexandra Shipp as Barbie</li><li>Emma Mackey as Barbie</li><li>Hari Nef as Barbie</li><li>Sharon Rooney as Barbie</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Barbie (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
   },
   "movie:356298": {
    "d": "Don't Think Twice (2016): Comedy/Drama film. Story: An improv group deals with several crises, including… See cast, budget $2.4M, and TMDB rating 6.4/10.",
@@ -2559,6 +2751,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Knock Off (1998)</h1>\n<p class=\"ssr-lead\">A fashion designer and his CIA agent business partner must join forces to stop a group of terrorists from smuggling explosives in counterfeit jeans during the handover of Hong Kong.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 September 1998</li><li>Runtime: 91 minutes</li><li>Director: Tsui Hark</li><li>Genres: Action, Crime, Comedy, Adventure</li><li>Budget: $35M</li><li>TMDB rating: 5.4/10 (419 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jean-Claude Van Damme as Marcus Ray</li><li>Rob Schneider as Tommy Hendricks</li><li>Lela Rochon as Karen Lee</li><li>Paul Sorvino as Harry Johanson</li><li>Michael Wong as Han</li><li>Carman Lee Yeuk-tung as Ling Ho</li><li>Wyman Wong Wai-man as Eddie Wang</li><li>Glen Chin as Skinny</li><li>Moses Chan Ho as Officer Fong</li><li>Lynne Langdon as V-Six Secretary</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Night Flight Plus, Amazon Prime Video with Ads, Midnight Pulp Amazon Channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Knock Off (1998) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1998"
+  },
+  "movie:383498": {
+   "d": "Deadpool 2 (2018): Action/Comedy film. Story: Wisecracking mercenary Deadpool battles the evil and… See cast, budget $110M, and TMDB rating 7.5/10.",
+   "img": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+   "industry": "world",
+   "k": "Deadpool 2, Deadpool 2 movie, Deadpool 2 cast, Deadpool 2 story, Deadpool 2 box office collection, Deadpool 2 budget, Deadpool 2 review, Deadpool 2 rating, Deadpool 2 release date, Deadpool 2 trailer, Deadpool 2 Action, Deadpool 2 Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Ryan Reynolds"
+     },
+     {
+      "@type": "Person",
+      "name": "Josh Brolin"
+     },
+     {
+      "@type": "Person",
+      "name": "Morena Baccarin"
+     },
+     {
+      "@type": "Person",
+      "name": "Julian Dennison"
+     },
+     {
+      "@type": "Person",
+      "name": "Zazie Beetz"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 19935,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Deadpool 2 (2018): Action/Comedy film. Story: Wisecracking mercenary Deadpool battles the evil and… See cast, budget $110M, and TMDB rating 7.5/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "David Leitch"
+     }
+    ],
+    "duration": "PT120M",
+    "genre": [
+     "Action",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=383498",
+    "name": "Deadpool 2",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2018-05-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=383498"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Deadpool 2 (2018)</h1>\n<p class=\"ssr-lead\">Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy&#x27;s life.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 May 2018</li><li>Runtime: 120 minutes</li><li>Director: David Leitch</li><li>Genres: Action, Comedy, Adventure</li><li>Budget: $110M</li><li>TMDB rating: 7.5/10 (19935 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ryan Reynolds as Wade Wilson / Deadpool / Juggernaut (voice)</li><li>Josh Brolin as Cable</li><li>Morena Baccarin as Vanessa</li><li>Julian Dennison as Firefist</li><li>Zazie Beetz as Domino</li><li>T.J. Miller as Weasel</li><li>Leslie Uggams as Blind Al</li><li>Karan Soni as Dopinder</li><li>Brianna Hildebrand as Negasonic Teenage Warhead</li><li>Jack Kesy as Black Tom</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Deadpool 2 (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2018"
   },
   "movie:391698": {
    "d": "The Beatles: Eight Days a Week - The Touring Years (2016): Documentary/Music film. Story: The Beatles stormed through Europe's music scene in… See cast.",
@@ -2942,6 +3198,70 @@
    "t": "Long Day's Journey Into Night (2018) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2018"
   },
+  "movie:497698": {
+   "d": "Black Widow (2021): Action/Adventure film. Story: Natasha Romanoff, also known as Black Widow… See cast, budget $200M, and TMDB rating 7.1/10.",
+   "img": "https://image.tmdb.org/t/p/w780/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+   "industry": "world",
+   "k": "Black Widow, Black Widow movie, Black Widow cast, Black Widow story, Black Widow box office collection, Black Widow budget, Black Widow review, Black Widow rating, Black Widow release date, Black Widow trailer, Black Widow Action, Black Widow Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Scarlett Johansson"
+     },
+     {
+      "@type": "Person",
+      "name": "Florence Pugh"
+     },
+     {
+      "@type": "Person",
+      "name": "Rachel Weisz"
+     },
+     {
+      "@type": "Person",
+      "name": "David Harbour"
+     },
+     {
+      "@type": "Person",
+      "name": "Ray Winstone"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11821,
+     "ratingValue": 7.1,
+     "worstRating": 0
+    },
+    "description": "Black Widow (2021): Action/Adventure film. Story: Natasha Romanoff, also known as Black Widow… See cast, budget $200M, and TMDB rating 7.1/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Cate Shortland"
+     }
+    ],
+    "duration": "PT134M",
+    "genre": [
+     "Action",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=497698",
+    "name": "Black Widow",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2021-07-07"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=497698"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Black Widow (2021)</h1>\n<p class=\"ssr-lead\">Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 July 2021</li><li>Runtime: 134 minutes</li><li>Director: Cate Shortland</li><li>Genres: Action, Adventure, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 7.1/10 (11821 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Scarlett Johansson as Natasha Romanoff / Black Widow</li><li>Florence Pugh as Yelena Belova</li><li>Rachel Weisz as Melina</li><li>David Harbour as Alexei</li><li>Ray Winstone as Dreykov</li><li>Ever Anderson as Young Natasha</li><li>Violet McGraw as Young Yelena</li><li>O-T Fagbenle as Mason</li><li>William Hurt as Secretary Ross</li><li>Olga Kurylenko as Antonia / Taskmaster</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Black Widow (2021) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2021"
+  },
   "movie:509598": {
    "d": "Mr. Jones (2019): Thriller/Drama film. Story: In 1933, Welsh journalist Gareth Jones travels to… See cast, TMDB rating 6.7/10, and release date 3 October 2019.",
    "img": "https://image.tmdb.org/t/p/w780/66ToN6sQ9Q2GHVYevbzUz3cM9jq.jpg",
@@ -3069,6 +3389,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Babyteeth (2020)</h1>\n<p class=\"ssr-lead\">A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 June 2020</li><li>Runtime: 118 minutes</li><li>Director: Shannon Murphy</li><li>Genres: Drama, Comedy, Romance</li><li>TMDB rating: 6.9/10 (411 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Eliza Scanlen as Milla</li><li>Toby Wallace as Moses</li><li>Essie Davis as Anna</li><li>Ben Mendelsohn as Henry</li><li>Eugene Gilfedder as Gidon</li><li>Emily Barclay as Toby</li><li>Andrea Demetriades as Jenny</li><li>Charles Grounds as Dean</li><li>Priscilla Doueihy as Kathy</li><li>Jack Yabsley as Government Spokesperson</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Sundance Now</li><li>Rent: Amazon Video, Apple TV Store, Fandango At Home</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
    "t": "Babyteeth (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:598": {
+   "d": "City of God (2007): Drama/Crime film. Story: In the poverty-stricken favelas of Rio de Janeiro in… See cast, budget $3.3M, and TMDB rating 8.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+   "industry": "world",
+   "k": "City of God, City of God movie, City of God cast, City of God story, City of God box office collection, City of God budget, City of God review, City of God rating, City of God release date, City of God Drama, City of God Crime, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alexandre Rodrigues"
+     },
+     {
+      "@type": "Person",
+      "name": "Leandro Firmino"
+     },
+     {
+      "@type": "Person",
+      "name": "Phellipe Haagensen"
+     },
+     {
+      "@type": "Person",
+      "name": "Douglas Silva"
+     },
+     {
+      "@type": "Person",
+      "name": "Jonathan Haagensen"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 8632,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "City of God (2007): Drama/Crime film. Story: In the poverty-stricken favelas of Rio de Janeiro in… See cast, budget $3.3M, and TMDB rating 8.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Fernando Meirelles"
+     }
+    ],
+    "duration": "PT129M",
+    "genre": [
+     "Drama",
+     "Crime"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=598",
+    "name": "City of God",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-01-18"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=598"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>City of God (2007)</h1>\n<p class=\"ssr-lead\">In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 18 January 2007</li><li>Runtime: 129 minutes</li><li>Director: Fernando Meirelles</li><li>Genres: Drama, Crime</li><li>Budget: $3.3M</li><li>TMDB rating: 8.4/10 (8632 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alexandre Rodrigues as Buscapé</li><li>Leandro Firmino as Zé Pequeno / Dadinho</li><li>Phellipe Haagensen as Bené</li><li>Douglas Silva as Dadinho</li><li>Jonathan Haagensen as Cabeleira</li><li>Matheus Nachtergaele as Sandro Cenoura</li><li>Seu Jorge as Mané Galinha</li><li>Jefechander Suplino as Alicate</li><li>Alice Braga as Angélica</li><li>Emerson Gomes as Barbantinho</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "City of God (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:611698": {
    "d": "A Writer's Odyssey (2021): Fantasy/Action film. Story: Lu Kongwen is the author of a fantasy novel series… See cast and TMDB rating 7.1/10.",
@@ -3517,6 +3901,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Birdman of Alcatraz (1962)</h1>\n<p class=\"ssr-lead\">After killing a prison guard, convict Robert Stroud faces life imprisonment in solitary confinement. Driven nearly mad by loneliness and despair, Stroud&#x27;s life gains new meaning when he happens upon a helpless baby sparrow in the exercise yard and nurses it back to health. Despite having only a third grade education, Stroud goes on to become a renowned ornithologist and achieves a greater sense of freedom and purpose behind bars than most people find in the outside world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 July 1962</li><li>Runtime: 147 minutes</li><li>Director: John Frankenheimer</li><li>Genres: Drama, Crime, History</li><li>Budget: $2.65M</li><li>TMDB rating: 7.4/10 (371 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Burt Lancaster as Robert Stroud</li><li>Karl Malden as Harvey Shoemaker</li><li>Thelma Ritter as Elizabeth Stroud</li><li>Neville Brand as Bull Ransom</li><li>Betty Field as Stella Johnson</li><li>Telly Savalas as Feto Gomez</li><li>Edmond O&#x27;Brien as Tom Gaddis</li><li>Hugh Marlowe as Roy Comstock</li><li>Whit Bissell as Dr. Ellis</li><li>Crahan Denton as Kramer</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store, Amazon Video</li><li>Buy: Apple TV Store</li></ul>\n</article>",
    "t": "Birdman of Alcatraz (1962) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1962"
+  },
+  "movie:98": {
+   "d": "Gladiator (2000): Action/Drama film. Story: After the death of Emperor Marcus Aurelius, his… See cast, budget $103M, and TMDB rating 8.2/10.",
+   "img": "https://image.tmdb.org/t/p/w780/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+   "industry": "world",
+   "k": "Gladiator, Gladiator movie, Gladiator cast, Gladiator story, Gladiator box office collection, Gladiator budget, Gladiator review, Gladiator rating, Gladiator release date, Gladiator trailer, Gladiator Action, Gladiator Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Russell Crowe"
+     },
+     {
+      "@type": "Person",
+      "name": "Joaquin Phoenix"
+     },
+     {
+      "@type": "Person",
+      "name": "Connie Nielsen"
+     },
+     {
+      "@type": "Person",
+      "name": "Oliver Reed"
+     },
+     {
+      "@type": "Person",
+      "name": "Richard Harris"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 21876,
+     "ratingValue": 8.2,
+     "worstRating": 0
+    },
+    "description": "Gladiator (2000): Action/Drama film. Story: After the death of Emperor Marcus Aurelius, his… See cast, budget $103M, and TMDB rating 8.2/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Ridley Scott"
+     }
+    ],
+    "duration": "PT155M",
+    "genre": [
+     "Action",
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=98",
+    "name": "Gladiator",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2000-09-01"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=98"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Gladiator (2000)</h1>\n<p class=\"ssr-lead\">After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome&#x27;s most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 1 September 2000</li><li>Runtime: 155 minutes</li><li>Director: Ridley Scott</li><li>Genres: Action, Drama, Adventure</li><li>Budget: $103M</li><li>TMDB rating: 8.2/10 (21876 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Russell Crowe as Maximus</li><li>Joaquin Phoenix as Commodus</li><li>Connie Nielsen as Lucilla</li><li>Oliver Reed as Proximo</li><li>Richard Harris as Marcus Aurelius</li><li>Derek Jacobi as Gracchus</li><li>Djimon Hounsou as Juba</li><li>David Schofield as Falco</li><li>John Shrapnel as Gaius</li><li>Tomas Arana as Quintus</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Gladiator (2000) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2000"
   },
   "tv:1398": {
    "d": "The Sopranos (1999) is a Crime and Drama TV series. Explore its story: The story of New Jersey-based Italian-American…, cast, 6 seasons, and 86 episodes.",

@@ -1,6 +1,6 @@
 {
  "bucket": "46",
- "count": 67,
+ "count": 74,
  "titles": {
   "movie:10646": {
    "backdrop_path": "/eCtRseKCbltn8C6XW1GhqW0c4VA.jpg",
@@ -125,6 +125,163 @@
    "type": "movie",
    "vote_average": 4.732,
    "vote_count": 339
+  },
+  "movie:106646": {
+   "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "Jordan Belfort",
+     "n": "Leonardo DiCaprio"
+    },
+    {
+     "c": "Donnie Azoff",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Naomi Lapaglia",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Mark Hanna",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Agent Patrick Denham",
+     "n": "Kyle Chandler"
+    },
+    {
+     "c": "Max Belfort",
+     "n": "Rob Reiner"
+    },
+    {
+     "c": "Brad",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Manny Riskin",
+     "n": "Jon Favreau"
+    },
+    {
+     "c": "Jean Jacques Saurel",
+     "n": "Jean Dujardin"
+    },
+    {
+     "c": "Aunt Emma",
+     "n": "Joanna Lumley"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+   ],
+   "id": 106646,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+   "popularity": 24.1649,
+   "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Lionsgate Play"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+     "name": "Lionsgate Play",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-12-25",
+   "revenue": 407039432,
+   "runtime": 180,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Earn. Spend. Party.",
+   "title": "The Wolf of Wall Street",
+   "trailer": {
+    "key": "Slj4-Sv-YNA",
+    "name": "Official Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.027,
+   "vote_count": 26944
   },
   "movie:10946": {
    "backdrop_path": "/4ADZ2iiATjoKxZwjJRiEo1x6Fk0.jpg",
@@ -2449,6 +2606,187 @@
    "vote_average": 6.8,
    "vote_count": 309
   },
+  "movie:250546": {
+   "backdrop_path": "/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg",
+   "budget": 6500000,
+   "cast": [
+    {
+     "c": "Mia Form",
+     "n": "Annabelle Wallis"
+    },
+    {
+     "c": "John Form",
+     "n": "Ward Horton"
+    },
+    {
+     "c": "Father Perez",
+     "n": "Tony Amendola"
+    },
+    {
+     "c": "Evelyn",
+     "n": "Alfre Woodard"
+    },
+    {
+     "c": "Detective Clarkin",
+     "n": "Eric Ladin"
+    },
+    {
+     "c": "Sharon Higgins",
+     "n": "Kerry O'Malley"
+    },
+    {
+     "c": "Pete Higgins",
+     "n": "Brian Howe"
+    },
+    {
+     "c": "Dr. Burgher",
+     "n": "Ivar Brogger"
+    },
+    {
+     "c": "Robert",
+     "n": "Gabriel Bateman"
+    },
+    {
+     "c": "Nancy",
+     "n": "Shiloh Nelson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "John R. Leonetti"
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "id": 250546,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+   "popularity": 5.585,
+   "poster_path": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2014-10-01",
+   "revenue": 257589952,
+   "runtime": 99,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Before the Conjuring, there was Annabelle.",
+   "title": "Annabelle",
+   "trailer": {
+    "key": "xabuZwG3XyM",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.79,
+   "vote_count": 6727
+  },
   "movie:257346": {
    "backdrop_path": "/vqQhjCeXbGDz8IeB27IPk0alfKA.jpg",
    "budget": 0,
@@ -2549,6 +2887,177 @@
    "type": "movie",
    "vote_average": 6.368,
    "vote_count": 303
+  },
+  "movie:302946": {
+   "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+   "budget": 44000000,
+   "cast": [
+    {
+     "c": "Christian Wolff",
+     "n": "Ben Affleck"
+    },
+    {
+     "c": "Dana Cummings",
+     "n": "Anna Kendrick"
+    },
+    {
+     "c": "Ray King",
+     "n": "J.K. Simmons"
+    },
+    {
+     "c": "Brax",
+     "n": "Jon Bernthal"
+    },
+    {
+     "c": "Francis Silverberg",
+     "n": "Jeffrey Tambor"
+    },
+    {
+     "c": "Marybeth Medina",
+     "n": "Cynthia Addai-Robinson"
+    },
+    {
+     "c": "Lamar Blackburn",
+     "n": "John Lithgow"
+    },
+    {
+     "c": "Rita Blackburn",
+     "n": "Jean Smart"
+    },
+    {
+     "c": "Ed Chilton",
+     "n": "Andy Umberger"
+    },
+    {
+     "c": "Justine",
+     "n": "Alison Wright"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "A",
+   "date_kind": "release",
+   "director": [
+    "Gavin O'Connor"
+   ],
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
+   "id": 302946,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+   "popularity": 8.3392,
+   "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "TNT"
+    },
+    {
+     "name": "tru TV"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-10-14",
+   "revenue": 155160045,
+   "runtime": 128,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Calculate your choices.",
+   "title": "The Accountant",
+   "trailer": {
+    "key": "0KHOVlEpMyY",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.141,
+   "vote_count": 7747
   },
   "movie:31646": {
    "backdrop_path": "/27IZSY74Wmr4JrrhG8oDzO23mRE.jpg",
@@ -2662,6 +3171,146 @@
    "type": "movie",
    "vote_average": 4.27,
    "vote_count": 333
+  },
+  "movie:318846": {
+   "backdrop_path": "/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+   "budget": 28000000,
+   "cast": [
+    {
+     "c": "Mark Baum",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Michael Burry",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Jared Vennett",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Ben Rickert",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Cynthia Baum",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Georgia Hale",
+     "n": "Melissa Leo"
+    },
+    {
+     "c": "Porter Collins",
+     "n": "Hamish Linklater"
+    },
+    {
+     "c": "Charlie Geller",
+     "n": "John Magaro"
+    },
+    {
+     "c": "Danny Moses",
+     "n": "Rafe Spall"
+    },
+    {
+     "c": "Vinny Daniel",
+     "n": "Jeremy Strong"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Adam McKay"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "id": 318846,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The men who made millions from a global economic meltdown.",
+   "popularity": 10.6204,
+   "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-01-22",
+   "revenue": 133346506,
+   "runtime": 131,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is a true story.",
+   "title": "The Big Short",
+   "trailer": {
+    "key": "1kQc3mmtH-o",
+    "name": "The Big Short - Trailer #2 \"Screwed\" (2015) - Paramount Pictures",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.378,
+   "vote_count": 10260
   },
   "movie:325346": {
    "backdrop_path": "/mwqm4YiqlxOtmbo0Zxm5evZpw0x.jpg",
@@ -2921,6 +3570,150 @@
    "type": "movie",
    "vote_average": 6.937,
    "vote_count": 374
+  },
+  "movie:339846": {
+   "backdrop_path": "/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+   "budget": 69000000,
+   "cast": [
+    {
+     "c": "Mitch Buchanan",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Matt Brody",
+     "n": "Zac Efron"
+    },
+    {
+     "c": "Victoria Leeds",
+     "n": "Priyanka Chopra Jonas"
+    },
+    {
+     "c": "Summer Quinn",
+     "n": "Alexandra Daddario"
+    },
+    {
+     "c": "CJ Parker",
+     "n": "Kelly Rohrbach Walton"
+    },
+    {
+     "c": "Stephanie Holden",
+     "n": "Ilfenesh Hadera"
+    },
+    {
+     "c": "Ronnie Greenbaum",
+     "n": "Jon Bass"
+    },
+    {
+     "c": "Sgt. Ellerbee",
+     "n": "Yahya Abdul-Mateen II"
+    },
+    {
+     "c": "Dave the Tech",
+     "n": "Hannibal Buress"
+    },
+    {
+     "c": "Captain Thorpe",
+     "n": "Rob Huebel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Seth Gordon"
+   ],
+   "genres": [
+    "Comedy",
+    "Action",
+    "Crime"
+   ],
+   "id": 339846,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+   "popularity": 8.3379,
+   "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "MGM+ Amazon Channel"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "MGM Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2017-05-25",
+   "revenue": 177900000,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Don't worry, summer is coming.",
+   "title": "Baywatch",
+   "trailer": {
+    "key": "eyKOgnaf0BU",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.073,
+   "vote_count": 8703
   },
   "movie:34746": {
    "backdrop_path": "/tZGsjeXFg0hRv0Uip2cQJ8fxX3Y.jpg",
@@ -4648,6 +5441,139 @@
    "vote_average": 5.785,
    "vote_count": 318
   },
+  "movie:50646": {
+   "backdrop_path": "/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+   "budget": 50000000,
+   "cast": [
+    {
+     "c": "Cal",
+     "n": "Steve Carell"
+    },
+    {
+     "c": "Jacob",
+     "n": "Ryan Gosling"
+    },
+    {
+     "c": "Emily",
+     "n": "Julianne Moore"
+    },
+    {
+     "c": "Hannah",
+     "n": "Emma Stone"
+    },
+    {
+     "c": "Jessica",
+     "n": "Lio Tipton"
+    },
+    {
+     "c": "Robbie",
+     "n": "Jonah Bobo"
+    },
+    {
+     "c": "Molly",
+     "n": "Joey King"
+    },
+    {
+     "c": "Kate",
+     "n": "Marisa Tomei"
+    },
+    {
+     "c": "Claire",
+     "n": "Beth Littleford"
+    },
+    {
+     "c": "Bernie",
+     "n": "John Carroll Lynch"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Glenn Ficarra",
+    "John Requa"
+   ],
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "id": 50646,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+   "popularity": 10.4853,
+   "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2011-07-28",
+   "revenue": 145079584,
+   "runtime": 118,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is crazy. This is stupid. This is love.",
+   "title": "Crazy, Stupid, Love.",
+   "trailer": {
+    "key": "W7U03cW7k-Y",
+    "name": "This is Love",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.277,
+   "vote_count": 9669
+  },
   "movie:5146": {
    "backdrop_path": "/2cT8Q75gYiseEuPOE55n3lmBpRk.jpg",
    "budget": 40000000,
@@ -5891,6 +6817,151 @@
    "type": "movie",
    "vote_average": 7.209,
    "vote_count": 326
+  },
+  "movie:7446": {
+   "backdrop_path": "/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+   "budget": 92000000,
+   "cast": [
+    {
+     "c": "Tugg Speedman",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Kirk Lazarus",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Jeff Portnoy",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Kevin Sandusky",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Alpa Chino",
+     "n": "Brandon T. Jackson"
+    },
+    {
+     "c": "Tran",
+     "n": "Brandon Soo Hoo"
+    },
+    {
+     "c": "Rick Peck",
+     "n": "Matthew McConaughey"
+    },
+    {
+     "c": "Les Grossman",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Four Leaf Tayback",
+     "n": "Nick Nolte"
+    },
+    {
+     "c": "Cody",
+     "n": "Danny McBride"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ben Stiller"
+   ],
+   "genres": [
+    "Comedy",
+    "War",
+    "Action",
+    "Adventure"
+   ],
+   "id": 7446,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A group of self-absorbed actors set out to make the most expensive war film ever. When budgets skyrocket and schedules fall far behind, the director tries to save the production by leading his cast into the jungles of Southeast Asia, where they inadvertently encounter real danger.",
+   "popularity": 8.7083,
+   "poster_path": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+   "production_countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-08-09",
+   "revenue": 195702811,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Get some.",
+   "title": "Tropic Thunder",
+   "trailer": {
+    "key": "ASJvlHExnMA",
+    "name": "TROPIC THUNDER (2008) | Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.731,
+   "vote_count": 7348
   },
   "movie:744746": {
    "backdrop_path": "/6RVsEZGdDpwZhZkaptSgF7AznHF.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "10",
- "count": 71,
+ "count": 75,
  "titles": {
   "movie:1020910": {
    "d": "Influencer (2023): Horror/Thriller film. Story: While struggling on a solo backpacking trip in… See cast, TMDB rating 6.2/10, and release date 18 May 2023.",
@@ -1790,6 +1790,138 @@
    "t": "Insomnia (1997) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "1997"
   },
+  "movie:271110": {
+   "d": "Captain America: Civil War (2016): Adventure/Action film. Story: Following the events of Age of Ultron, the collective… See cast and budget $250M.",
+   "img": "https://image.tmdb.org/t/p/w780/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+   "industry": "world",
+   "k": "Captain America: Civil War, Captain America: Civil War movie, Captain America: Civil War cast, Captain America: Civil War story, Captain America: Civil War box office collection, Captain America: Civil War budget, Captain America: Civil War review, Captain America: Civil War rating, Captain America: Civil War release date, Captain America: Civil War trailer, Captain America: Civil War Adventure, Captain America: Civil War Action, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Chris Evans"
+     },
+     {
+      "@type": "Person",
+      "name": "Robert Downey Jr."
+     },
+     {
+      "@type": "Person",
+      "name": "Scarlett Johansson"
+     },
+     {
+      "@type": "Person",
+      "name": "Sebastian Stan"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Mackie"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 24867,
+     "ratingValue": 7.5,
+     "worstRating": 0
+    },
+    "description": "Captain America: Civil War (2016): Adventure/Action film. Story: Following the events of Age of Ultron, the collective… See cast and budget $250M.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Joe Russo"
+     },
+     {
+      "@type": "Person",
+      "name": "Anthony Russo"
+     }
+    ],
+    "duration": "PT147M",
+    "genre": [
+     "Adventure",
+     "Action"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=271110",
+    "name": "Captain America: Civil War",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2016-05-06"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=271110"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Captain America: Civil War (2016)</h1>\n<p class=\"ssr-lead\">Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 May 2016</li><li>Runtime: 147 minutes</li><li>Director: Joe Russo, Anthony Russo</li><li>Genres: Adventure, Action, Science Fiction</li><li>Budget: $250M</li><li>TMDB rating: 7.5/10 (24867 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Chris Evans as Steve Rogers / Captain America</li><li>Robert Downey Jr. as Tony Stark / Iron Man</li><li>Scarlett Johansson as Natasha Romanoff / Black Widow</li><li>Sebastian Stan as Bucky Barnes / Winter Soldier</li><li>Anthony Mackie as Sam Wilson / Falcon</li><li>Don Cheadle as Lieutenant James Rhodes / War Machine</li><li>Jeremy Renner as Clint Barton / Hawkeye</li><li>Chadwick Boseman as T&#x27;Challa / Black Panther</li><li>Paul Bettany as Vision</li><li>Elizabeth Olsen as Wanda Maximoff / Scarlet Witch</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li><li>Rent: YouTube</li><li>Buy: YouTube</li></ul>\n</article>",
+   "t": "Captain America: Civil War (2016) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2016"
+  },
+  "movie:310": {
+   "d": "Bruce Almighty (2003): Fantasy/Comedy film. Story: Bruce Nolan toils as a \"human interest\" television… See cast, budget $80M, and TMDB rating 6.7/10.",
+   "img": "https://image.tmdb.org/t/p/w780/m0eJc9CwCy5nowYQdNEaxkHHmj4.jpg",
+   "industry": "world",
+   "k": "Bruce Almighty, Bruce Almighty movie, Bruce Almighty cast, Bruce Almighty story, Bruce Almighty box office collection, Bruce Almighty budget, Bruce Almighty review, Bruce Almighty rating, Bruce Almighty release date, Bruce Almighty Fantasy, Bruce Almighty Comedy, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jim Carrey"
+     },
+     {
+      "@type": "Person",
+      "name": "Morgan Freeman"
+     },
+     {
+      "@type": "Person",
+      "name": "Jennifer Aniston"
+     },
+     {
+      "@type": "Person",
+      "name": "Philip Baker Hall"
+     },
+     {
+      "@type": "Person",
+      "name": "Catherine Bell"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11891,
+     "ratingValue": 6.7,
+     "worstRating": 0
+    },
+    "description": "Bruce Almighty (2003): Fantasy/Comedy film. Story: Bruce Nolan toils as a \"human interest\" television… See cast, budget $80M, and TMDB rating 6.7/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Tom Shadyac"
+     }
+    ],
+    "duration": "PT101M",
+    "genre": [
+     "Fantasy",
+     "Comedy"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/m0eJc9CwCy5nowYQdNEaxkHHmj4.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=310",
+    "name": "Bruce Almighty",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2003-05-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=310"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Bruce Almighty (2003)</h1>\n<p class=\"ssr-lead\">Bruce Nolan toils as a &quot;human interest&quot; television reporter in Buffalo, NY, but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God — and the Almighty responds, endowing Bruce with all of His divine powers.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 May 2003</li><li>Runtime: 101 minutes</li><li>Director: Tom Shadyac</li><li>Genres: Fantasy, Comedy</li><li>Budget: $80M</li><li>TMDB rating: 6.7/10 (11891 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jim Carrey as Bruce Nolan</li><li>Morgan Freeman as God</li><li>Jennifer Aniston as Grace Connelly</li><li>Philip Baker Hall as Jack Baylor</li><li>Catherine Bell as Susan Ortega</li><li>Lisa Ann Walter as Debbie</li><li>Steve Carell as Evan Baxter</li><li>Nora Dunn as Ally Loman</li><li>Eddie Jemison as Bobby</li><li>Paul Satterfield as Dallas Coleman</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: JioHotstar</li></ul>\n</article>",
+   "t": "Bruce Almighty (2003) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2003"
+  },
   "movie:354110": {
    "d": "Forsaken (2015): Western film. Story: John Henry returns to his hometown in hopes of… See cast, budget $11M, and TMDB rating 6.2/10.",
    "img": "https://image.tmdb.org/t/p/w780/eiHNVxEXJIY7nBlcL9zXmtP7qtz.jpg",
@@ -2489,6 +2621,69 @@
    "t": "Return to Jurassic Park (2011) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2011"
   },
+  "movie:510": {
+   "d": "One Flew Over the Cuckoo's Nest (1975): Drama film. Story: A petty criminal fakes insanity to serve his sentence… See cast, budget $3M, and TMDB rating 8.4/10.",
+   "img": "https://image.tmdb.org/t/p/w780/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+   "industry": "world",
+   "k": "One Flew Over the Cuckoo's Nest, One Flew Over the Cuckoo's Nest movie, One Flew Over the Cuckoo's Nest cast, One Flew Over the Cuckoo's Nest story, One Flew Over the Cuckoo's Nest box office collection, One Flew Over the Cuckoo's Nest budget, One Flew Over the Cuckoo's Nest review, One Flew Over the Cuckoo's Nest rating, One Flew Over the Cuckoo's Nest release date, One Flew Over the Cuckoo's Nest trailer, One Flew Over the Cuckoo's Nest Drama, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Jack Nicholson"
+     },
+     {
+      "@type": "Person",
+      "name": "Brad Dourif"
+     },
+     {
+      "@type": "Person",
+      "name": "Louise Fletcher"
+     },
+     {
+      "@type": "Person",
+      "name": "Danny DeVito"
+     },
+     {
+      "@type": "Person",
+      "name": "William Redfield"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 11971,
+     "ratingValue": 8.4,
+     "worstRating": 0
+    },
+    "description": "One Flew Over the Cuckoo's Nest (1975): Drama film. Story: A petty criminal fakes insanity to serve his sentence… See cast, budget $3M, and TMDB rating 8.4/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Miloš Forman"
+     }
+    ],
+    "duration": "PT135M",
+    "genre": [
+     "Drama"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=510",
+    "name": "One Flew Over the Cuckoo's Nest",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "1975-11-19"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=510"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>One Flew Over the Cuckoo&#x27;s Nest (1975)</h1>\n<p class=\"ssr-lead\">A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 November 1975</li><li>Runtime: 135 minutes</li><li>Director: Miloš Forman</li><li>Genres: Drama</li><li>Budget: $3M</li><li>TMDB rating: 8.4/10 (11971 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Nicholson as Randle Patrick McMurphy</li><li>Brad Dourif as Billy Bibbit</li><li>Louise Fletcher as Nurse Mildred Ratched</li><li>Danny DeVito as Martini</li><li>William Redfield as Dale Harding</li><li>Scatman Crothers as Orderly Turkle</li><li>Christopher Lloyd as Max Taber</li><li>Will Sampson as Chief Bromden</li><li>Dean R. Brooks as Dr. John Spivey</li><li>Michael Berryman as Ellis</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Rent: Apple TV Store</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "One Flew Over the Cuckoo's Nest (1975) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "1975"
+  },
   "movie:532710": {
    "d": "Firestarter (2022): Horror/Science Fiction film. Story: For more than a decade, parents Andy and Vicky have… See cast, budget $12M, and TMDB rating 5.4/10.",
    "img": "https://image.tmdb.org/t/p/w780/lwFKeONjTUSbqaaGdJL8vJq2LK1.jpg",
@@ -2935,6 +3130,70 @@
    "ssr": "<article class=\"ssr-facts\">\n<h1>Your Name Engraved Herein (2020)</h1>\n<p class=\"ssr-lead\">In 1987, as martial law ends in Taiwan, Jia-han and Birdy fall in love amid family pressure, homophobia and social stigma.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 September 2020</li><li>Runtime: 115 minutes</li><li>Director: Liu Kuang-Hui</li><li>Genres: Romance, Drama</li><li>TMDB rating: 7.9/10 (325 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Edward Chen as Chang Jia-han</li><li>Tseng Jing-hua as Birdy Wang</li><li>Leon Dai as Adult Chang Jia-han</li><li>Wang Shih-sian as Adult Birdy Wang</li><li>Fabio Grangeon as Father Oliver</li><li>Barry Qu as Horn</li><li>Stone Yang as Rocky</li><li>Lance Chiu as Phil</li><li>Mimi Shao as BanBan</li><li>Lin Hui-min as Bullied Schoolboy</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix</li></ul>\n</article>",
    "t": "Your Name Engraved Herein (2020) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
    "year": "2020"
+  },
+  "movie:810": {
+   "d": "Shrek the Third (2007): Fantasy/Adventure film. Story: After the King of Far Far Away dies, Shrek and Fiona… See cast, budget $160M, and TMDB rating 6.3/10.",
+   "img": "https://image.tmdb.org/t/p/w780/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+   "industry": "world",
+   "k": "Shrek the Third, Shrek the Third movie, Shrek the Third cast, Shrek the Third story, Shrek the Third box office collection, Shrek the Third budget, Shrek the Third review, Shrek the Third rating, Shrek the Third release date, Shrek the Third trailer, Shrek the Third Fantasy, Shrek the Third Adventure, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Mike Myers"
+     },
+     {
+      "@type": "Person",
+      "name": "Eddie Murphy"
+     },
+     {
+      "@type": "Person",
+      "name": "Cameron Diaz"
+     },
+     {
+      "@type": "Person",
+      "name": "Antonio Banderas"
+     },
+     {
+      "@type": "Person",
+      "name": "Julie Andrews"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 10138,
+     "ratingValue": 6.3,
+     "worstRating": 0
+    },
+    "description": "Shrek the Third (2007): Fantasy/Adventure film. Story: After the King of Far Far Away dies, Shrek and Fiona… See cast, budget $160M, and TMDB rating 6.3/10.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Chris Miller"
+     }
+    ],
+    "duration": "PT93M",
+    "genre": [
+     "Fantasy",
+     "Adventure"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=810",
+    "name": "Shrek the Third",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2007-05-17"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=810"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>Shrek the Third (2007)</h1>\n<p class=\"ssr-lead\">After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 17 May 2007</li><li>Runtime: 93 minutes</li><li>Director: Chris Miller</li><li>Genres: Fantasy, Adventure, Animation, Comedy, Family</li><li>Budget: $160M</li><li>TMDB rating: 6.3/10 (10138 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Mike Myers as Shrek (voice)</li><li>Eddie Murphy as Donkey (voice)</li><li>Cameron Diaz as Princess Fiona (voice)</li><li>Antonio Banderas as Puss in Boots (voice)</li><li>Julie Andrews as Queen Lillian (voice)</li><li>Justin Timberlake as Prince Artie (voice)</li><li>John Cleese as King Harold (voice)</li><li>Larry King as Doris (voice)</li><li>Rupert Everett as Prince Charming (voice)</li><li>John Krasinski as Lancelot (voice)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Netflix, Amazon Prime Video, Amazon Prime Video with Ads</li><li>Rent: Apple TV Store, Zee5, YouTube, Amazon Video</li><li>Buy: Apple TV Store, YouTube</li></ul>\n</article>",
+   "t": "Shrek the Third (2007) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2007"
   },
   "movie:826510": {
    "d": "Harold and the Purple Crayon (2024): Family/Comedy film. Story: Inside of his book, adventurous Harold can make… See cast, budget $40M, and TMDB rating 6.5/10.",

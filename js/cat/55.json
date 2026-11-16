@@ -1,6 +1,6 @@
 {
  "bucket": "55",
- "count": 79,
+ "count": 90,
  "titles": {
   "movie:1002155": {
    "backdrop_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
@@ -567,6 +567,135 @@
    "type": "movie",
    "vote_average": 5.461,
    "vote_count": 961
+  },
+  "movie:10555": {
+   "backdrop_path": "/7ZmZxar3bYORcl0TPA4oceyxcaE.jpg",
+   "budget": 75000000,
+   "cast": [
+    {
+     "c": "Oscar (voice)",
+     "n": "Will Smith"
+    },
+    {
+     "c": "Don Lino (voice)",
+     "n": "Robert De Niro"
+    },
+    {
+     "c": "Angie (voice)",
+     "n": "Renée Zellweger"
+    },
+    {
+     "c": "Lenny (voice)",
+     "n": "Jack Black"
+    },
+    {
+     "c": "Lola (voice)",
+     "n": "Angelina Jolie"
+    },
+    {
+     "c": "Ernie (voice)",
+     "n": "Ziggy Marley"
+    },
+    {
+     "c": "Sykes (voice)",
+     "n": "Martin Scorsese"
+    },
+    {
+     "c": "Crazy Joe (voice)",
+     "n": "David P. Smith"
+    },
+    {
+     "c": "Bernie (voice)",
+     "n": "Doug E. Doug"
+    },
+    {
+     "c": "Frankie (voice)",
+     "n": "Michael Imperioli"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Vicky Jenson",
+    "Bibo Bergeron",
+    "Rob Letterman"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Comedy",
+    "Family"
+   ],
+   "id": 10555,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.",
+   "popularity": 8.1588,
+   "poster_path": "/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-11-19",
+   "revenue": 367300000,
+   "runtime": 90,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Behind every little fish is a great white lie.",
+   "title": "Shark Tale",
+   "trailer": {
+    "key": "mp2SbaK8dDg",
+    "name": "Shark Tale - Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.048,
+   "vote_count": 6901
   },
   "movie:10655": {
    "backdrop_path": "/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
@@ -1282,6 +1411,135 @@
    "type": "movie",
    "vote_average": 6.288,
    "vote_count": 440
+  },
+  "movie:12155": {
+   "backdrop_path": "/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Alice Kingsleigh",
+     "n": "Mia Wasikowska"
+    },
+    {
+     "c": "Tarrant Hightopp / Mad Hatter",
+     "n": "Johnny Depp"
+    },
+    {
+     "c": "Mirana / White Queen",
+     "n": "Anne Hathaway"
+    },
+    {
+     "c": "Iracebeth / Red Queen",
+     "n": "Helena Bonham Carter"
+    },
+    {
+     "c": "Ilosovic Stayne / Knave of Hearts",
+     "n": "Crispin Glover"
+    },
+    {
+     "c": "Tweedledee / Tweedledum",
+     "n": "Matt Lucas"
+    },
+    {
+     "c": "Absolem / Caterpillar (voice)",
+     "n": "Alan Rickman"
+    },
+    {
+     "c": "Cheshire Cat (voice)",
+     "n": "Stephen Fry"
+    },
+    {
+     "c": "Nivens McTwisp / White Rabbit (voice)",
+     "n": "Michael Sheen"
+    },
+    {
+     "c": "Bayard Hamar / Bloodhound (voice)",
+     "n": "Timothy Spall"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tim Burton"
+   ],
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Adventure"
+   ],
+   "id": 12155,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
+   "popularity": 15.9188,
+   "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-03-12",
+   "revenue": 1025467110,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You're invited to a very important date.",
+   "title": "Alice in Wonderland",
+   "trailer": {
+    "key": "9POCgSRVvf0",
+    "name": "New Official UK Full Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.643,
+   "vote_count": 15220
   },
   "movie:1239655": {
    "backdrop_path": "/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
@@ -2364,6 +2622,161 @@
    "type": "movie",
    "vote_average": 7.414,
    "vote_count": 988
+  },
+  "movie:155": {
+   "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+   "budget": 185000000,
+   "cast": [
+    {
+     "c": "Bruce Wayne",
+     "n": "Christian Bale"
+    },
+    {
+     "c": "Joker",
+     "n": "Heath Ledger"
+    },
+    {
+     "c": "Harvey Dent",
+     "n": "Aaron Eckhart"
+    },
+    {
+     "c": "Alfred",
+     "n": "Michael Caine"
+    },
+    {
+     "c": "Rachel",
+     "n": "Maggie Gyllenhaal"
+    },
+    {
+     "c": "Gordon",
+     "n": "Gary Oldman"
+    },
+    {
+     "c": "Lucius Fox",
+     "n": "Morgan Freeman"
+    },
+    {
+     "c": "Ramirez",
+     "n": "Monique Gabriela Curnen"
+    },
+    {
+     "c": "Wuertz",
+     "n": "Ron Dean"
+    },
+    {
+     "c": "Scarecrow",
+     "n": "Cillian Murphy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA ",
+   "date_kind": "release",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
+   "id": 155,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+   "popularity": 83.2758,
+   "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2008-07-18",
+   "revenue": 1008480529,
+   "runtime": 152,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "Welcome to a world without rules.",
+   "title": "The Dark Knight",
+   "trailer": {
+    "key": "_PZpmTj1Q8Q",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.54,
+   "vote_count": 37389
   },
   "movie:1659155": {
    "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
@@ -3584,6 +3997,131 @@
    "vote_average": 6.402,
    "vote_count": 353
   },
+  "movie:246655": {
+   "backdrop_path": "/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+   "budget": 178000000,
+   "cast": [
+    {
+     "c": "Professor Charles Xavier",
+     "n": "James McAvoy"
+    },
+    {
+     "c": "Erik Lehnsherr / Magneto",
+     "n": "Michael Fassbender"
+    },
+    {
+     "c": "Raven / Mystique",
+     "n": "Jennifer Lawrence"
+    },
+    {
+     "c": "Hank McCoy / Beast",
+     "n": "Nicholas Hoult"
+    },
+    {
+     "c": "En Sabah Nur / Apocalypse",
+     "n": "Oscar Isaac"
+    },
+    {
+     "c": "Moira MacTaggert",
+     "n": "Rose Byrne"
+    },
+    {
+     "c": "Peter Maximoff / Quicksilver",
+     "n": "Evan Peters"
+    },
+    {
+     "c": "Col. William Stryker",
+     "n": "Josh Helman"
+    },
+    {
+     "c": "Jean Grey",
+     "n": "Sophie Turner"
+    },
+    {
+     "c": "Scott Summers / Cyclops",
+     "n": "Tye Sheridan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Bryan Singer"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Action"
+   ],
+   "id": 246655,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+   "popularity": 12.346,
+   "poster_path": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-05-18",
+   "revenue": 543934787,
+   "runtime": 144,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ar",
+    "en",
+    "de",
+    "pl",
+    "ru",
+    "sw"
+   ],
+   "status": "Released",
+   "tagline": "Only the strong will survive.",
+   "title": "X-Men: Apocalypse",
+   "trailer": {
+    "key": "Jer8XjMrUB4",
+    "name": "Final Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.529,
+   "vote_count": 14289
+  },
   "movie:25155": {
    "backdrop_path": "/dkT3zHMMEULn1o79xktvVbjWM7.jpg",
    "budget": 1200000,
@@ -4727,6 +5265,146 @@
    "vote_average": 5.553,
    "vote_count": 366
   },
+  "movie:38055": {
+   "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+   "budget": 130000000,
+   "cast": [
+    {
+     "c": "Megamind (voice)",
+     "n": "Will Ferrell"
+    },
+    {
+     "c": "Metro Man (voice)",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Roxanne Ritchi (voice)",
+     "n": "Tina Fey"
+    },
+    {
+     "c": "Tighten (voice)",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Minion (voice)",
+     "n": "David Cross"
+    },
+    {
+     "c": "Bernard (voice)",
+     "n": "Ben Stiller"
+    },
+    {
+     "c": "Megaminds's Father (voice)",
+     "n": "Justin Theroux"
+    },
+    {
+     "c": "Megamind's Mother (voice)",
+     "n": "Jessica Schulte"
+    },
+    {
+     "c": "Lord Scott / Prison Guard (voice)",
+     "n": "Tom McGrath"
+    },
+    {
+     "c": "Lady Scott (voice)",
+     "n": "Emily Nordwind"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Tom McGrath"
+   ],
+   "genres": [
+    "Animation",
+    "Action",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+   ],
+   "id": 38055,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+   "popularity": 9.0196,
+   "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2010-10-28",
+   "revenue": 321885765,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A superhero movie with a mind of its own.",
+   "title": "Megamind",
+   "trailer": {
+    "key": "bixkC-ZrH34",
+    "name": "Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.042,
+   "vote_count": 7806
+  },
   "movie:390555": {
    "backdrop_path": "/5D4sx3UuCCTDrz6BW20pcEur2pm.jpg",
    "budget": 93,
@@ -4815,6 +5493,136 @@
    "type": "movie",
    "vote_average": 6.5,
    "vote_count": 404
+  },
+  "movie:399055": {
+   "backdrop_path": "/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
+   "budget": 19500000,
+   "cast": [
+    {
+     "c": "Elisa Esposito",
+     "n": "Sally Hawkins"
+    },
+    {
+     "c": "Richard Strickland",
+     "n": "Michael Shannon"
+    },
+    {
+     "c": "Giles",
+     "n": "Richard Jenkins"
+    },
+    {
+     "c": "Zelda Fuller",
+     "n": "Octavia Spencer"
+    },
+    {
+     "c": "Dr. Robert Hoffstetler",
+     "n": "Michael Stuhlbarg"
+    },
+    {
+     "c": "Amphibian Man",
+     "n": "Doug Jones"
+    },
+    {
+     "c": "Fleming",
+     "n": "David Hewlett"
+    },
+    {
+     "c": "General Hoyt",
+     "n": "Nick Searcy"
+    },
+    {
+     "c": "Bernard",
+     "n": "Stewart Arnott"
+    },
+    {
+     "c": "Mihalkov",
+     "n": "Nigel Bennett"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Guillermo del Toro"
+   ],
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+   ],
+   "id": 399055,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+   "popularity": 9.0206,
+   "poster_path": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2018-02-16",
+   "revenue": 195300000,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "A fairy tale for troubled times.",
+   "title": "The Shape of Water",
+   "trailer": {
+    "key": "oRKnlUanptY",
+    "name": "Official International Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.228,
+   "vote_count": 13215
   },
   "movie:407655": {
    "backdrop_path": "/adM7v1IbTXRKuE4AlQ5VyM5GQpt.jpg",
@@ -5853,6 +6661,169 @@
    "vote_average": 6.1,
    "vote_count": 357
   },
+  "movie:5255": {
+   "backdrop_path": "/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+   "budget": 165000000,
+   "cast": [
+    {
+     "c": "Hero Boy (Adult)/ Father / Conductor / Hobo / Scrooge / Santa Claus",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Sister Sarah / Mother",
+     "n": "Leslie Zemeckis"
+    },
+    {
+     "c": "Know-It-All",
+     "n": "Eddie Deezen"
+    },
+    {
+     "c": "Hero Girl (voice)",
+     "n": "Nona Gaye"
+    },
+    {
+     "c": "Billy / Lonely Boy",
+     "n": "Peter Scolari"
+    },
+    {
+     "c": "Smokey / Steamer",
+     "n": "Michael Jeter"
+    },
+    {
+     "c": "Hero Boy (motion capture)",
+     "n": "Josh Hutcherson"
+    },
+    {
+     "c": "Hero Boy (voice)",
+     "n": "Daryl Sabara"
+    },
+    {
+     "c": "Lonely Boy (voice)",
+     "n": "Jimmy Bennett"
+    },
+    {
+     "c": "Hero Girl (motion capture)",
+     "n": "Tinashe"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "G",
+   "date_kind": "release",
+   "director": [
+    "Robert Zemeckis"
+   ],
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 5255,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+   "popularity": 13.0599,
+   "poster_path": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2004-12-24",
+   "revenue": 318432432,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A journey like you’ve never imagined.",
+   "title": "The Polar Express",
+   "trailer": {
+    "key": "f0oyHtZiJJs",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.726,
+   "vote_count": 7142
+  },
   "movie:618355": {
    "backdrop_path": "/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
    "budget": 0,
@@ -5996,6 +6967,139 @@
    "type": "movie",
    "vote_average": 7.049,
    "vote_count": 933
+  },
+  "movie:755": {
+   "backdrop_path": "/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg",
+   "budget": 19000000,
+   "cast": [
+    {
+     "c": "Seth Gecko",
+     "n": "George Clooney"
+    },
+    {
+     "c": "Richard Gecko",
+     "n": "Quentin Tarantino"
+    },
+    {
+     "c": "Jacob Fuller",
+     "n": "Harvey Keitel"
+    },
+    {
+     "c": "Kate Fuller",
+     "n": "Juliette Lewis"
+    },
+    {
+     "c": "Scott Fuller",
+     "n": "Ernest Liu"
+    },
+    {
+     "c": "Santanico Pandemonium",
+     "n": "Salma Hayek Pinault"
+    },
+    {
+     "c": "Border Guard / Chet Pussy / Carlos",
+     "n": "Cheech Marin"
+    },
+    {
+     "c": "Razor Charlie",
+     "n": "Danny Trejo"
+    },
+    {
+     "c": "Sex Machine",
+     "n": "Tom Savini"
+    },
+    {
+     "c": "Frost",
+     "n": "Fred Williamson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Robert Rodriguez"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Crime"
+   ],
+   "id": 755,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+   "popularity": 8.9497,
+   "poster_path": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1996-01-19",
+   "revenue": 25800000,
+   "runtime": 108,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "One night is all that stands between them and freedom. But it's going to be one hell of a night.",
+   "title": "From Dusk Till Dawn",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.052,
+   "vote_count": 6817
   },
   "movie:773655": {
    "backdrop_path": "/xxEec408VQY7TIvtpxdkUM3Fux6.jpg",
@@ -6361,6 +7465,141 @@
    "vote_average": 6.527,
    "vote_count": 335
   },
+  "movie:8355": {
+   "backdrop_path": "/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Manny (voice)",
+     "n": "Ray Romano"
+    },
+    {
+     "c": "Sid (voice)",
+     "n": "John Leguizamo"
+    },
+    {
+     "c": "Diego (voice)",
+     "n": "Denis Leary"
+    },
+    {
+     "c": "Buck (voice)",
+     "n": "Simon Pegg"
+    },
+    {
+     "c": "Crash (voice)",
+     "n": "Seann William Scott"
+    },
+    {
+     "c": "Eddie (voice)",
+     "n": "Josh Peck"
+    },
+    {
+     "c": "Ellie (voice)",
+     "n": "Queen Latifah"
+    },
+    {
+     "c": "Gazelle (voice)",
+     "n": "Bill Hader"
+    },
+    {
+     "c": "Pudgy Beaver Mom (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Scrat (voice)",
+     "n": "Chris Wedge"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Carlos Saldanha"
+   ],
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
+   "id": 8355,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
+   "popularity": 13.1206,
+   "poster_path": "/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Kids"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-07-03",
+   "revenue": 886686817,
+   "runtime": 94,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "What killed the dinosaurs?",
+   "title": "Ice Age: Dawn of the Dinosaurs",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.783,
+   "vote_count": 9188
+  },
   "movie:84355": {
    "backdrop_path": "/lW6mVGxqDjVaqcVJJbRnrXe8vsq.jpg",
    "budget": 125000,
@@ -6559,6 +7798,179 @@
    "type": "movie",
    "vote_average": 6.473,
    "vote_count": 382
+  },
+  "movie:855": {
+   "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+   "budget": 92000000,
+   "cast": [
+    {
+     "c": "Eversmann",
+     "n": "Josh Hartnett"
+    },
+    {
+     "c": "Grimes",
+     "n": "Ewan McGregor"
+    },
+    {
+     "c": "McKnight",
+     "n": "Tom Sizemore"
+    },
+    {
+     "c": "Hoot",
+     "n": "Eric Bana"
+    },
+    {
+     "c": "Sanderson",
+     "n": "William Fichtner"
+    },
+    {
+     "c": "Nelson",
+     "n": "Ewen Bremner"
+    },
+    {
+     "c": "Garrison",
+     "n": "Sam Shepard"
+    },
+    {
+     "c": "Kurth",
+     "n": "Gabriel Casseus"
+    },
+    {
+     "c": "Wex",
+     "n": "Kim Coates"
+    },
+    {
+     "c": "Schmid",
+     "n": "Hugh Dancy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genres": [
+    "Action",
+    "War",
+    "History"
+   ],
+   "id": 855,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+   "popularity": 9.9826,
+   "poster_path": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+   "production_countries": [
+    "GB",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Sony Liv"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Sonyliv Amazon Channel"
+    },
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "MGM Plus Roku Premium Channel"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+     "name": "Sony Liv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+     "name": "Sonyliv Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2002-03-29",
+   "revenue": 172989651,
+   "runtime": 145,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "so"
+   ],
+   "status": "Released",
+   "tagline": "Leave no man behind.",
+   "title": "Black Hawk Down",
+   "trailer": {
+    "key": "V1UV3Vj4z0w",
+    "name": "Official Trailer: Black Hawk Down (2001)",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.408,
+   "vote_count": 6726
   },
   "movie:8555": {
    "backdrop_path": "/ooPtDdWP2nuYCoyLJAVwdthf5dN.jpg",
@@ -7442,6 +8854,172 @@
    "type": "movie",
    "vote_average": 6.113,
    "vote_count": 335
+  },
+  "movie:955": {
+   "backdrop_path": "/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+   "budget": 125000000,
+   "cast": [
+    {
+     "c": "Ethan Hunt",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Sean Ambrose",
+     "n": "Dougray Scott"
+    },
+    {
+     "c": "Nyah Hall",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Luther Stickell",
+     "n": "Ving Rhames"
+    },
+    {
+     "c": "Hugh Stamp",
+     "n": "Richard Roxburgh"
+    },
+    {
+     "c": "Billy Baird",
+     "n": "John Polson"
+    },
+    {
+     "c": "McCloy",
+     "n": "Brendan Gleeson"
+    },
+    {
+     "c": "Dr. Nekhorvich",
+     "n": "Rade Šerbedžija"
+    },
+    {
+     "c": "Wallis",
+     "n": "William Mapother"
+    },
+    {
+     "c": "Ulrich",
+     "n": "Dominic Purcell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "John Woo"
+   ],
+   "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+   ],
+   "id": 955,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
+   "popularity": 8.5927,
+   "poster_path": "/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Paramount Plus"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Paramount Plus Basic with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2000-09-29",
+   "revenue": 546388108,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Expect the impossible again.",
+   "title": "Mission: Impossible II",
+   "trailer": {
+    "key": "hSPtsCQq52k",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.14,
+   "vote_count": 7967
   },
   "movie:9555": {
    "backdrop_path": "/2g0ilrxS3JpzSeLSyRQywPo0BjU.jpg",

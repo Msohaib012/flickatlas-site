@@ -1,6 +1,6 @@
 {
  "bucket": "61",
- "count": 63,
+ "count": 69,
  "titles": {
   "movie:10361": {
    "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
@@ -1196,6 +1196,196 @@
    "vote_average": 6.184,
    "vote_count": 404
   },
+  "movie:14161": {
+   "backdrop_path": "/4P71rDf6roxVskbvdcbNayVMpXd.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Jackson Curtis",
+     "n": "John Cusack"
+    },
+    {
+     "c": "Kate Curtis",
+     "n": "Amanda Peet"
+    },
+    {
+     "c": "Adrian Helmsley",
+     "n": "Chiwetel Ejiofor"
+    },
+    {
+     "c": "Laura Wilson",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Carl Anheuser",
+     "n": "Oliver Platt"
+    },
+    {
+     "c": "Gordon Silberman",
+     "n": "Tom McCarthy"
+    },
+    {
+     "c": "Charlie Frost",
+     "n": "Woody Harrelson"
+    },
+    {
+     "c": "President Thomas Wilson",
+     "n": "Danny Glover"
+    },
+    {
+     "c": "Noah Curtis",
+     "n": "Liam James"
+    },
+    {
+     "c": "Lilly Curtis",
+     "n": "Morgan Lily"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Roland Emmerich"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 14161,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+   "popularity": 11.0431,
+   "poster_path": "/c2PkTPT5D9zB8SIm5wNlDAANEqM.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Sony Pictures Amazon Channel"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Sony Pictures Core Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+     "name": "Sony Pictures Amazon Channel",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-10-10",
+   "revenue": 791217826,
+   "runtime": 158,
+   "source": "catalogue",
+   "spoken_languages": [
+    "de",
+    "ru",
+    "es",
+    "fr",
+    "hi",
+    "en",
+    "it",
+    "la",
+    "pt",
+    "bo",
+    "zh"
+   ],
+   "status": "Released",
+   "tagline": "We were warned.",
+   "title": "2012",
+   "trailer": {
+    "key": "ce0N3TEcFw0",
+    "name": "Trailer #2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.9,
+   "vote_count": 13175
+  },
   "movie:1436061": {
    "backdrop_path": "/yU85xdxN3rmt4RgGPb2na1SSjdM.jpg",
    "budget": 0,
@@ -1912,6 +2102,187 @@
    "type": "movie",
    "vote_average": 6.037,
    "vote_count": 389
+  },
+  "movie:161": {
+   "backdrop_path": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+   "budget": 85000000,
+   "cast": [
+    {
+     "c": "Danny Ocean",
+     "n": "George Clooney"
+    },
+    {
+     "c": "Rusty Ryan",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Terry Benedict",
+     "n": "Andy Garcia"
+    },
+    {
+     "c": "Linus Caldwell",
+     "n": "Matt Damon"
+    },
+    {
+     "c": "Tess Ocean",
+     "n": "Julia Roberts"
+    },
+    {
+     "c": "Virgil Malloy",
+     "n": "Casey Affleck"
+    },
+    {
+     "c": "Turk Malloy",
+     "n": "Scott Caan"
+    },
+    {
+     "c": "Basher Tarr",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Reuben Tishkoff",
+     "n": "Elliott Gould"
+    },
+    {
+     "c": "Livingston Dell",
+     "n": "Eddie Jemison"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Steven Soderbergh"
+   ],
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "id": 161,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+   "popularity": 12.9233,
+   "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Cinemax Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Cinemax Apple TV channel"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2001-12-07",
+   "revenue": 450717150,
+   "runtime": 116,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Are you in or out?",
+   "title": "Ocean's Eleven",
+   "trailer": {
+    "key": "n3epi9hPbqQ",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.468,
+   "vote_count": 13120
   },
   "movie:16161": {
    "backdrop_path": "/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg",
@@ -4374,6 +4745,194 @@
    "vote_average": 6.8,
    "vote_count": 965
   },
+  "movie:297761": {
+   "backdrop_path": "/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Deadshot",
+     "n": "Will Smith"
+    },
+    {
+     "c": "The Joker",
+     "n": "Jared Leto"
+    },
+    {
+     "c": "Harley Quinn",
+     "n": "Margot Robbie"
+    },
+    {
+     "c": "Rick Flag",
+     "n": "Joel Kinnaman"
+    },
+    {
+     "c": "Amanda Waller",
+     "n": "Viola Davis"
+    },
+    {
+     "c": "Boomerang",
+     "n": "Jai Courtney"
+    },
+    {
+     "c": "Diablo",
+     "n": "Jay Hernandez"
+    },
+    {
+     "c": "Killer Croc",
+     "n": "Adewale Akinnuoye-Agbaje"
+    },
+    {
+     "c": "June Moone / Enchantress",
+     "n": "Cara Delevingne"
+    },
+    {
+     "c": "Griggs",
+     "n": "Ike Barinholtz"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U/A 16+",
+   "date_kind": "release",
+   "director": [
+    "David Ayer"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": 297761,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+   "popularity": 11.8007,
+   "poster_path": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "ITVX Premium"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2016-08-05",
+   "revenue": 749200054,
+   "runtime": 122,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "ja",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Worst. Heroes. Ever.",
+   "title": "Suicide Squad",
+   "trailer": {
+    "key": "m0Xb9BhfVjY",
+    "name": "Official Comic-Con Soundtrack Remix",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.916,
+   "vote_count": 22631
+  },
   "movie:32761": {
    "backdrop_path": "/aI4PZbPUeuOc91OCi7TmjFza5Rk.jpg",
    "budget": 0,
@@ -5743,6 +6302,151 @@
    "type": "movie",
    "vote_average": 7.0,
    "vote_count": 345
+  },
+  "movie:561": {
+   "backdrop_path": "/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+   "budget": 100000000,
+   "cast": [
+    {
+     "c": "John Constantine",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Angela Dodson / Isabel Dodson",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Chas Kramer",
+     "n": "Shia LaBeouf"
+    },
+    {
+     "c": "Midnite",
+     "n": "Djimon Hounsou"
+    },
+    {
+     "c": "Beeman",
+     "n": "Max Baker"
+    },
+    {
+     "c": "Father Hennessy",
+     "n": "Pruitt Taylor Vince"
+    },
+    {
+     "c": "Balthazar",
+     "n": "Gavin Rossdale"
+    },
+    {
+     "c": "Gabriel",
+     "n": "Tilda Swinton"
+    },
+    {
+     "c": "Lucifer",
+     "n": "Peter Stormare"
+    },
+    {
+     "c": "Scavenger",
+     "n": "Jesse Ramirez"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Horror"
+   ],
+   "id": 561,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+   "popularity": 13.8261,
+   "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+   "production_countries": [
+    "DE",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "AMC"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2005-02-25",
+   "revenue": 230900000,
+   "runtime": 121,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "la",
+    "es",
+    "tl"
+   ],
+   "status": "Released",
+   "tagline": "Hell wants him. Heaven won't take him. Earth needs him.",
+   "title": "Constantine",
+   "trailer": {
+    "key": "819JCbGfZpg",
+    "name": "Official Trailer 4K Ultra HD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.217,
+   "vote_count": 8729
   },
   "movie:570661": {
    "backdrop_path": "/ooVOGpJA40wWyohGUQ1T7ibrGRR.jpg",
@@ -7427,6 +8131,144 @@
    "vote_average": 5.6,
    "vote_count": 348
   },
+  "movie:861": {
+   "backdrop_path": "/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
+   "budget": 65000000,
+   "cast": [
+    {
+     "c": "Quaid",
+     "n": "Arnold Schwarzenegger"
+    },
+    {
+     "c": "Melina",
+     "n": "Rachel Ticotin"
+    },
+    {
+     "c": "Lori",
+     "n": "Sharon Stone"
+    },
+    {
+     "c": "Richter",
+     "n": "Michael Ironside"
+    },
+    {
+     "c": "George / Kuato",
+     "n": "Marshall Bell"
+    },
+    {
+     "c": "Helm",
+     "n": "Michael Champion"
+    },
+    {
+     "c": "Benny",
+     "n": "Mel Johnson Jr."
+    },
+    {
+     "c": "Dr. Edgemar",
+     "n": "Roy Brocksmith"
+    },
+    {
+     "c": "Dr. Lull",
+     "n": "Rosemary Dunsmore"
+    },
+    {
+     "c": "Cohaagen",
+     "n": "Ronny Cox"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Paul Verhoeven"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 861,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid's memory implant procedure, his life turns upside down, leading him to question what is reality and what isn't.",
+   "popularity": 11.4808,
+   "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "BBC America"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1990-12-10",
+   "revenue": 261317921,
+   "runtime": 113,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Get ready for the ride of your life.",
+   "title": "Total Recall",
+   "trailer": {
+    "key": "IRaRhZE-1b4",
+    "name": "Official 2020 Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.332,
+   "vote_count": 6822
+  },
   "movie:878361": {
    "backdrop_path": "/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg",
    "budget": 32000000,
@@ -7674,6 +8516,144 @@
    "type": "movie",
    "vote_average": 7.2,
    "vote_count": 309
+  },
+  "movie:99861": {
+   "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+   "budget": 235000000,
+   "cast": [
+    {
+     "c": "Tony Stark / Iron Man",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Bruce Banner / Hulk",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Steve Rogers / Captain America",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Natasha Romanoff / Black Widow",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Clint Barton / Hawkeye",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Ultron (voice)",
+     "n": "James Spader"
+    },
+    {
+     "c": "Nick Fury",
+     "n": "Samuel L. Jackson"
+    },
+    {
+     "c": "James Rhodes / War Machine",
+     "n": "Don Cheadle"
+    },
+    {
+     "c": "Pietro Maximoff / Quicksilver",
+     "n": "Aaron Taylor-Johnson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Joss Whedon"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "id": 99861,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+   "popularity": 34.7114,
+   "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    },
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "Starz Amazon Channel"
+    },
+    {
+     "name": "Starz"
+    },
+    {
+     "name": "Starz Apple TV channel"
+    },
+    {
+     "name": "Starz Roku Premium Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-04-24",
+   "revenue": 1405403694,
+   "runtime": 141,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "A new age has come.",
+   "title": "Avengers: Age of Ultron",
+   "trailer": {
+    "key": "JAUoeqvedMo",
+    "name": "Trailer 3",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.278,
+   "vote_count": 25357
   },
   "tv:21561": {
    "backdrop_path": "/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",

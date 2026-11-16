@@ -1,6 +1,6 @@
 {
  "bucket": "28",
- "count": 59,
+ "count": 69,
  "titles": {
   "movie:10128": {
    "backdrop_path": "/bsPZIQNhyqRZ5TbQbTGjbaUCdxt.jpg",
@@ -157,6 +157,164 @@
    "type": "movie",
    "vote_average": 6.144,
    "vote_count": 355
+  },
+  "movie:10528": {
+   "backdrop_path": "/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+   "budget": 90000000,
+   "cast": [
+    {
+     "c": "Sherlock Holmes",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Dr. John Watson",
+     "n": "Jude Law"
+    },
+    {
+     "c": "Irene Adler",
+     "n": "Rachel McAdams"
+    },
+    {
+     "c": "Lord Henry Blackwood",
+     "n": "Mark Strong"
+    },
+    {
+     "c": "Inspector Lestrade",
+     "n": "Eddie Marsan"
+    },
+    {
+     "c": "Dredger",
+     "n": "Robert Maillet"
+    },
+    {
+     "c": "Mrs. Hudson",
+     "n": "Geraldine James"
+    },
+    {
+     "c": "Mary Morstan",
+     "n": "Kelly Reilly"
+    },
+    {
+     "c": "Constable Clark",
+     "n": "William Houston"
+    },
+    {
+     "c": "Lord Coward",
+     "n": "Hans Matheson"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genres": [
+    "Action",
+    "Mystery",
+    "Crime"
+   ],
+   "id": 10528,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+   "popularity": 9.7925,
+   "poster_path": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+   "production_countries": [
+    "US",
+    "DE"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Sky Go"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2009-12-23",
+   "revenue": 524028679,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Nothing escapes him.",
+   "title": "Sherlock Holmes",
+   "trailer": {
+    "key": "zBQfbc1t_I8",
+    "name": "4K Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.225,
+   "vote_count": 15229
   },
   "movie:10728": {
    "backdrop_path": "/dQbnFqsbtyHS7OD108vuFJiUyzy.jpg",
@@ -1261,6 +1419,120 @@
    "vote_average": 6.841,
    "vote_count": 380
   },
+  "movie:128": {
+   "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Ashitaka (voice)",
+     "n": "Yoji Matsuda"
+    },
+    {
+     "c": "San / Kaya (voice)",
+     "n": "Yuriko Ishida"
+    },
+    {
+     "c": "Eboshi Gozen (voice)",
+     "n": "Yuko Tanaka"
+    },
+    {
+     "c": "Jikobo (voice)",
+     "n": "Kaoru Kobayashi"
+    },
+    {
+     "c": "Kouroku (voice)",
+     "n": "Masahiko Nishimura"
+    },
+    {
+     "c": "Gonza (voice)",
+     "n": "Tsunehiko Kamijou"
+    },
+    {
+     "c": "Mrs. Moro (voice)",
+     "n": "Akihiro Miwa"
+    },
+    {
+     "c": "Mrs. Hii (voice)",
+     "n": "Mitsuko Mori"
+    },
+    {
+     "c": "Chief of Affairs (voice)",
+     "n": "Hisaya Morishige"
+    },
+    {
+     "c": "Toki (voice)",
+     "n": "Sumi Shimamoto"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Hayao Miyazaki"
+   ],
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Animation"
+   ],
+   "id": 128,
+   "industry": "world",
+   "origin_country": [
+    "JP"
+   ],
+   "original_language": "ja",
+   "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+   "popularity": 16.9239,
+   "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+   "production_countries": [
+    "JP"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1997-07-12",
+   "revenue": 231379818,
+   "runtime": 134,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ja"
+   ],
+   "status": "Released",
+   "tagline": "The fate of the world rests on the courage of one warrior.",
+   "title": "Princess Mononoke",
+   "trailer": {
+    "key": "I1dHzoRl0sQ",
+    "name": "4K Restoration Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.322,
+   "vote_count": 9469
+  },
   "movie:14628": {
    "backdrop_path": "/5a6ExKIhLAMRN72eQ3nwuFGtpbJ.jpg",
    "budget": 8000000,
@@ -2025,6 +2297,174 @@
    "vote_average": 7.5,
    "vote_count": 435
   },
+  "movie:166428": {
+   "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+   "budget": 129000000,
+   "cast": [
+    {
+     "c": "Hiccup (voice)",
+     "n": "Jay Baruchel"
+    },
+    {
+     "c": "Astrid (voice)",
+     "n": "America Ferrera"
+    },
+    {
+     "c": "Grimmel (voice)",
+     "n": "F. Murray Abraham"
+    },
+    {
+     "c": "Valka (voice)",
+     "n": "Cate Blanchett"
+    },
+    {
+     "c": "Stoick (voice)",
+     "n": "Gerard Butler"
+    },
+    {
+     "c": "Gobber (voice)",
+     "n": "Craig Ferguson"
+    },
+    {
+     "c": "Snotlout (voice)",
+     "n": "Jonah Hill"
+    },
+    {
+     "c": "Fishlegs (voice)",
+     "n": "Christopher Mintz-Plasse"
+    },
+    {
+     "c": "Ruffnut (voice)",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Eret (voice)",
+     "n": "Kit Harington"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Dean DeBlois"
+   ],
+   "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+   ],
+   "id": 166428,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+   "popularity": 10.9189,
+   "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-03-21",
+   "revenue": 539987993,
+   "runtime": 104,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Fly on your own. Find your way home.",
+   "title": "How to Train Your Dragon: The Hidden World",
+   "trailer": {
+    "key": "5DEdq57E5ls",
+    "name": "How To Train Your Dragon: The Hidden World | Trailer | Own it 5/7 on Digital, 5/21 on Blu-ray & DVD",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.747,
+   "vote_count": 7376
+  },
   "movie:21028": {
    "backdrop_path": "/eVbDEVjNIj2fRBiWObMTcuI5bI3.jpg",
    "budget": 900000,
@@ -2478,6 +2918,307 @@
    "vote_average": 8.351,
    "vote_count": 407
   },
+  "movie:24428": {
+   "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+   "budget": 220000000,
+   "cast": [
+    {
+     "c": "Tony Stark / Iron Man",
+     "n": "Robert Downey Jr."
+    },
+    {
+     "c": "Steve Rogers / Captain America",
+     "n": "Chris Evans"
+    },
+    {
+     "c": "Bruce Banner / The Hulk",
+     "n": "Mark Ruffalo"
+    },
+    {
+     "c": "Thor",
+     "n": "Chris Hemsworth"
+    },
+    {
+     "c": "Natasha Romanoff / Black Widow",
+     "n": "Scarlett Johansson"
+    },
+    {
+     "c": "Clint Barton / Hawkeye",
+     "n": "Jeremy Renner"
+    },
+    {
+     "c": "Loki",
+     "n": "Tom Hiddleston"
+    },
+    {
+     "c": "Agent Phil Coulson",
+     "n": "Clark Gregg"
+    },
+    {
+     "c": "Agent Maria Hill",
+     "n": "Cobie Smulders"
+    },
+    {
+     "c": "Selvig",
+     "n": "Stellan Skarsgård"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Joss Whedon"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "id": 24428,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+   "popularity": 40.9166,
+   "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2012-04-27",
+   "revenue": 1518815515,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi",
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Some assembly required.",
+   "title": "The Avengers",
+   "trailer": {
+    "key": "hIR8Ar-Z4hw",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.085,
+   "vote_count": 40380
+  },
+  "movie:254128": {
+   "backdrop_path": "/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+   "budget": 110000000,
+   "cast": [
+    {
+     "c": "Ray Gaines",
+     "n": "Dwayne Johnson"
+    },
+    {
+     "c": "Blake Gaines",
+     "n": "Alexandra Daddario"
+    },
+    {
+     "c": "Emma Gaines",
+     "n": "Carla Gugino"
+    },
+    {
+     "c": "Daniel Riddick",
+     "n": "Ioan Gruffudd"
+    },
+    {
+     "c": "Serena Johnson",
+     "n": "Archie Panjabi"
+    },
+    {
+     "c": "Dr. Lawrence Hayes",
+     "n": "Paul Giamatti"
+    },
+    {
+     "c": "Ben Taylor",
+     "n": "Hugo Johnstone-Burt"
+    },
+    {
+     "c": "Ollie Taylor",
+     "n": "Art Parkinson"
+    },
+    {
+     "c": "Dr Kim Park",
+     "n": "Will Yun Lee"
+    },
+    {
+     "c": "Susan Riddick",
+     "n": "Kylie Minogue"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Brad Peyton"
+   ],
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "id": 254128,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+   "popularity": 8.9948,
+   "poster_path": "/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+   "production_countries": [
+    "CA",
+    "US",
+    "AU"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "VIX "
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2015-05-29",
+   "revenue": 473990832,
+   "runtime": 114,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "We always knew this day would come.",
+   "title": "San Andreas",
+   "trailer": {
+    "key": "F1ZewAPl7L0",
+    "name": "San Andreas - \"California Dreamin'\"",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.262,
+   "vote_count": 9352
+  },
   "movie:2728": {
    "backdrop_path": "/hv4vkURVXnYDZ0VJiGN3titWrIw.jpg",
    "budget": 15000000,
@@ -2616,6 +3357,244 @@
    "type": "movie",
    "vote_average": 4.67,
    "vote_count": 415
+  },
+  "movie:28": {
+   "backdrop_path": "/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+   "budget": 31500000,
+   "cast": [
+    {
+     "c": "Captain Benjamin Willard",
+     "n": "Martin Sheen"
+    },
+    {
+     "c": "Colonel Walter Kurtz",
+     "n": "Marlon Brando"
+    },
+    {
+     "c": "Jay 'Chef' Hicks",
+     "n": "Frederic Forrest"
+    },
+    {
+     "c": "Chief Phillips",
+     "n": "Albert Hall"
+    },
+    {
+     "c": "Tyrone 'Clean' Miller",
+     "n": "Laurence Fishburne"
+    },
+    {
+     "c": "Lance B. Johnson",
+     "n": "Sam Bottoms"
+    },
+    {
+     "c": "Lieutenant Colonel Bill Kilgore",
+     "n": "Robert Duvall"
+    },
+    {
+     "c": "General Corman",
+     "n": "G.D. Spradlin"
+    },
+    {
+     "c": "Colonel",
+     "n": "Harrison Ford"
+    },
+    {
+     "c": "Jerry, Civilian",
+     "n": "Jerry Ziesmer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Francis Ford Coppola"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 28,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+   "popularity": 14.7889,
+   "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+   "production_countries": [
+    "US",
+    "PH"
+   ],
+   "providers": [
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    },
+    {
+     "name": "Howdy Amazon Channel"
+    },
+    {
+     "name": "Studiocanal Presents Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1979-09-26",
+   "revenue": 150000000,
+   "runtime": 147,
+   "source": "catalogue",
+   "spoken_languages": [
+    "km",
+    "en",
+    "fr",
+    "vi"
+   ],
+   "status": "Released",
+   "tagline": "This is the end...",
+   "title": "Apocalypse Now",
+   "trailer": {
+    "key": "9l-ViOOFH-s",
+    "name": "Final Cut Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.256,
+   "vote_count": 9562
+  },
+  "movie:301528": {
+   "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+   "budget": 175000000,
+   "cast": [
+    {
+     "c": "Woody (voice)",
+     "n": "Tom Hanks"
+    },
+    {
+     "c": "Buzz Lightyear (voice)",
+     "n": "Tim Allen"
+    },
+    {
+     "c": "Bo Peep (voice)",
+     "n": "Annie Potts"
+    },
+    {
+     "c": "Forky (voice)",
+     "n": "Tony Hale"
+    },
+    {
+     "c": "Ducky (voice)",
+     "n": "Keegan-Michael Key"
+    },
+    {
+     "c": "Bonnie (voice)",
+     "n": "Madeleine McGraw"
+    },
+    {
+     "c": "Gabby Gabby (voice)",
+     "n": "Christina Hendricks"
+    },
+    {
+     "c": "Bunny (voice)",
+     "n": "Jordan Peele"
+    },
+    {
+     "c": "Duke Caboom (voice)",
+     "n": "Keanu Reeves"
+    },
+    {
+     "c": "Giggle McDimples (voice)",
+     "n": "Ally Maki"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "U",
+   "date_kind": "release",
+   "director": [
+    "Josh Cooley"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Animation",
+    "Adventure"
+   ],
+   "id": 301528,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called \"Forky\", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
+   "popularity": 13.5979,
+   "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2019-06-21",
+   "revenue": 1073841394,
+   "runtime": 100,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The adventure of a lifetime.",
+   "title": "Toy Story 4",
+   "trailer": {
+    "key": "Pl9JS8-gnWQ",
+    "name": "Official Trailer 2",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.46,
+   "vote_count": 11161
   },
   "movie:301728": {
    "backdrop_path": "/sOeR0Gh1F40z1Kb1PKdOZqfW8oE.jpg",
@@ -3020,6 +3999,180 @@
    "type": "movie",
    "vote_average": 7.017,
    "vote_count": 303
+  },
+  "movie:385128": {
+   "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Dominic Toretto",
+     "n": "Vin Diesel"
+    },
+    {
+     "c": "Letty Ortiz",
+     "n": "Michelle Rodriguez"
+    },
+    {
+     "c": "Roman Pearce",
+     "n": "Tyrese Gibson"
+    },
+    {
+     "c": "Tej Parker",
+     "n": "Ludacris"
+    },
+    {
+     "c": "Jakob Toretto",
+     "n": "John Cena"
+    },
+    {
+     "c": "Ramsey",
+     "n": "Nathalie Emmanuel"
+    },
+    {
+     "c": "Mia Toretto",
+     "n": "Jordana Brewster"
+    },
+    {
+     "c": "Han Lue",
+     "n": "Sung Kang"
+    },
+    {
+     "c": "Buddy",
+     "n": "Michael Rooker"
+    },
+    {
+     "c": "Queenie Shaw",
+     "n": "Helen Mirren"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Justin Lin"
+   ],
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "id": 385128,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+   "popularity": 6.5576,
+   "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Peacock Premium"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "Peacock Premium Plus"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+     "name": "Zee5",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2021-06-25",
+   "revenue": 726229501,
+   "runtime": 143,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr",
+    "de",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "Not all blood is family.",
+   "title": "F9",
+   "trailer": {
+    "key": "TfJkFsCn8Zw",
+    "name": "Legacy Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.963,
+   "vote_count": 7972
   },
   "movie:38528": {
    "backdrop_path": "/8cg1VtHc2fdiRJYchbvvo2srswZ.jpg",
@@ -4544,6 +5697,133 @@
    "vote_average": 7.233,
    "vote_count": 424
   },
+  "movie:628": {
+   "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+   "budget": 60000000,
+   "cast": [
+    {
+     "c": "Lestat",
+     "n": "Tom Cruise"
+    },
+    {
+     "c": "Louis",
+     "n": "Brad Pitt"
+    },
+    {
+     "c": "Armand",
+     "n": "Antonio Banderas"
+    },
+    {
+     "c": "Malloy",
+     "n": "Christian Slater"
+    },
+    {
+     "c": "Santiago",
+     "n": "Stephen Rea"
+    },
+    {
+     "c": "Claudia",
+     "n": "Kirsten Dunst"
+    },
+    {
+     "c": "Madeleine",
+     "n": "Domiziana Giordano"
+    },
+    {
+     "c": "Yvette",
+     "n": "Thandiwe Newton"
+    },
+    {
+     "c": "Mortal Woman on Stage",
+     "n": "Laure Marsac"
+    },
+    {
+     "c": "Gambler",
+     "n": "John McConnell"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Neil Jordan"
+   ],
+   "genres": [
+    "Horror",
+    "Drama",
+    "Fantasy"
+   ],
+   "id": 628,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+   "popularity": 9.1909,
+   "poster_path": "/t7NU8IcmcNBrlunCxiycX9JV7Rp.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "1994-11-11",
+   "revenue": 223664608,
+   "runtime": 123,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "Drink from me and live forever.",
+   "title": "Interview with the Vampire",
+   "trailer": {
+    "key": "qmFYu8x46VY",
+    "name": "Original Theatrical Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.385,
+   "vote_count": 6722
+  },
   "movie:670428": {
    "backdrop_path": "/aLDQl8iUzrapHOob3VHgmyX1ijj.jpg",
    "budget": 1700000,
@@ -4938,6 +6218,126 @@
    "type": "movie",
    "vote_average": 5.815,
    "vote_count": 300
+  },
+  "movie:68728": {
+   "backdrop_path": "/f5bwgNLwNop0GfYg90FO3jmTzZG.jpg",
+   "budget": 200000000,
+   "cast": [
+    {
+     "c": "Oz",
+     "n": "James Franco"
+    },
+    {
+     "c": "Theodora / Wicked Witch of the West",
+     "n": "Mila Kunis"
+    },
+    {
+     "c": "Evanora",
+     "n": "Rachel Weisz"
+    },
+    {
+     "c": "Annie / Glinda",
+     "n": "Michelle Williams"
+    },
+    {
+     "c": "Frank / Finley",
+     "n": "Zach Braff"
+    },
+    {
+     "c": "Master Tinker",
+     "n": "Bill Cobbs"
+    },
+    {
+     "c": "Girl in Wheelchair / China Girl",
+     "n": "Joey King"
+    },
+    {
+     "c": "Knuck",
+     "n": "Tony Cox"
+    },
+    {
+     "c": "Winkie General",
+     "n": "Stephen R. Hart"
+    },
+    {
+     "c": "May",
+     "n": "Abigail Spencer"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Sam Raimi"
+   ],
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Family"
+   ],
+   "id": 68728,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.",
+   "popularity": 5.8818,
+   "poster_path": "/nr0deOZ4h7HkCzfc09fIgK7cxTG.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "VI movies and tv"
+    },
+    {
+     "name": "Disney Plus"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+     "name": "VI movies and tv",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2013-03-07",
+   "revenue": 491868548,
+   "runtime": 130,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "In Oz, nothing is what it seems.",
+   "title": "Oz the Great and Powerful",
+   "trailer": {
+    "key": "DylgNj4YQVc",
+    "name": "Full UK Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.941,
+   "vote_count": 6968
   },
   "movie:698128": {
    "backdrop_path": "/3QrD6F2MKooZhlnMqrzknzcQp92.jpg",
