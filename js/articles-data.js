@@ -130937,10 +130937,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shah Rukh Khan Mannat",
-      "Shah Rukh Khan home Dubai",
-      "Shah Rukh Khan King movie",
-      "Siddharth Anand King release date"
+      "Shah Rukh Khan Mannat bungalow",
+      "Shah Rukh Khan early hardships",
+      "Shah Rukh Gauri Mannat budget",
+      "Shah Rukh Khan King"
     ],
     "images": [
       {
@@ -131035,10 +131035,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ramayana box office collection",
-      "Ranbir Kapoor Sai Pallavi Yash",
-      "Nitesh Tiwari Ramayana film"
+      "Ramayana Rise of a Legend 1000 crore",
+      "Nitesh Tiwari Ramayana Rise of a Legend box office",
+      "Ramayana Rise of a Legend worldwide gross",
+      "Ranbir Kapoor Ramayana Rs 1000 crore"
     ],
     "images": [
       {
@@ -131127,10 +131127,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mike Myers Shrek spinoff",
-      "Donkey movie prequel",
-      "Shrek 5 release date",
-      "Eddie Murphy Donkey movie"
+      "Mike Myers Donkey spinoff movie",
+      "Mike Myers Shrek 5 Eddie Murphy",
+      "Donkey spinoff movie prequel Mike Myers",
+      "Mike Myers Shrek role"
     ],
     "images": [
       {
@@ -131223,10 +131223,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday",
-      "Elizabeth Olsen Wanda",
-      "Anthony Mackie Captain America",
-      "Doctor Doom Marvel"
+      "Avengers Doomsday Elizabeth Olsen Wanda",
+      "Anthony Mackie Captain America Avengers Doomsday",
+      "Elizabeth Olsen Wanda VisionQuest Doomsday",
+      "Avengers Doomsday leak Wanda Sam Wilson"
     ],
     "images": [
       {
@@ -131306,10 +131306,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Mummy Book of the Dead",
-      "Brendan Fraser The Mummy 4",
-      "Radio Silence The Mummy",
-      "Universal Pictures The Mummy franchise"
+      "The Mummy 4 Brendan Fraser",
+      "The Mummy Book of the Dead 2028",
+      "Universal Pictures The Mummy 4",
+      "Brendan Fraser Rachel Weisz Mummy"
     ],
     "images": [
       {
@@ -131384,10 +131384,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "VIVANT movie",
-      "Sakai Masato VIVANT",
-      "VIVANT advance tickets",
-      "TBS VIVANT film"
+      "VIVANT movie ticket releases Japan",
+      "VIVANT movie advance tickets Japan",
+      "VIVANT film December 4 2026",
+      "Kenji A VIVANT movie sell-outs"
     ],
     "images": [
       {
@@ -131482,11 +131482,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Expanse",
-      "James S. A. Corey",
-      "Cibola Burn",
-      "Nemesis Games",
-      "Babylon's Ashes"
+      "The Expanse new book releases December",
+      "James S A Corey The Expanse novels",
+      "The Expanse universe book expansion",
+      "Daniel Abraham Ty Franck Expanse"
     ],
     "images": [
       {
@@ -131663,10 +131662,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Frankie Muniz NASCAR crash",
-      "Frankie Muniz Daytona International Speedway",
-      "Frankie Muniz health update",
-      "Team Air Force Ford No. 30"
+      "Frankie Muniz NASCAR crash Daytona",
+      "Frankie Muniz health update wreck",
+      "Malcolm in the Middle Frankie Muniz NASCAR",
+      "Frankie Muniz Daytona International Speedway"
     ],
     "images": [
       {
@@ -131765,10 +131764,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Johnny Depp Ebenezer",
-      "Ebenezer box office predictions",
-      "How to Rob a Bank movie",
-      "Ghost Soldier William Eubank"
+      "Johnny Depp Ebenezer box office",
+      "Ebenezer A Christmas Carol Johnny Depp Scrooge",
+      "Johnny Depp weekend box office predictions",
+      "Ebenezer box office predictions 2026"
     ],
     "images": [
       {
@@ -131861,10 +131860,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kajal Aggarwal Indian 2",
-      "Indian 2 crane accident",
-      "Kamal Haasan Indian 2",
-      "Kajal Aggarwal crane crash"
+      "Kajal Aggarwal Indian 2 crane collapse",
+      "Kamal Haasan Indian 2 set tragedy",
+      "Kajal Aggarwal Indian 2 Chennai",
+      "Indian 2 set crane accident"
     ],
     "images": [
       {
@@ -131958,10 +131957,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Russell Brand Open Secret",
-      "Russell Brand documentary Netflix",
-      "Olivia Isaacs Russell Brand",
-      "Russell Brand trial sentence"
+      "Russell Brand Open Secret Netflix",
+      "Olivia Isaacs Russell Brand documentary",
+      "Russell Brand rise and fall Netflix",
+      "Russell Brand Open Secret November 13"
     ],
     "images": [
       {
@@ -132051,10 +132050,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Anirudh Ravichander wedding",
-      "Kavya Maran Greece wedding",
-      "Anirudh and Kavya Maran wedding cost",
-      "Anirudh Ravichander Kavya Maran outfits"
+      "Anirudh Ravichander Kavya Maran wedding",
+      "Anirudh Ravichander Kavya Maran Greece",
+      "Kavya Maran wedding Four Seasons Astir Palace Hotel",
+      "Anirudh Ravichander wedding private aircraft"
     ],
     "images": [
       {
@@ -132335,10 +132334,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bairavaa re-release",
-      "Thalapathy Vijay Bairavaa",
-      "Bairavaa January 1 2027",
-      "Vijay Keerthy Suresh film"
+      "Thalapathy Vijay Bairavaa re-release",
+      "Bairavaa theatres January 1 2027",
+      "Vijay Keerthy Suresh Bairavaa",
+      "Bairavaa 2017 action hit return"
     ],
     "images": [
       {
@@ -132433,10 +132432,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Saurabh Sachdeva",
-      "Nitesh Tiwari",
-      "Ramayana box office collection"
+      "Ramayana Rise of a Legend Saurabh Sachdeva",
+      "Saurabh Sachdeva Maricha Nitesh Tiwari",
+      "Nitesh Tiwari Ramayana Rise of a Legend",
+      "Mukesh Chhabra Saurabh Sachdeva Ramayana"
     ],
     "images": [
       {
@@ -139230,10 +139229,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Cupertino Yungwood",
-      "Method Man Cupertino",
-      "Cupertino Episode 7 recap",
-      "Cupertino CBS AI music"
+      "Cupertino Season 1 Episode 7",
+      "Cliff Method Man Smith Yungwood",
+      "Michael Price Cupertino lawsuit",
+      "Cupertino legal battles AI music"
     ],
     "images": [
       {
@@ -159727,5 +159726,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-16T02:57:29Z"
+  },
+  "vwk50s": {
+    "id": "vwk50s",
+    "type": "news",
+    "headline": "Allu Arjun Praises Dulquer Salmaan and Calls Aakasamlo Oka Tara Wonderful",
+    "dek": "Telugu superstar Allu Arjun attended the pre-release event of Aakasamlo Oka Tara as the chief guest, lauding Dulquer Salmaan for his humility and career choices while sharing praise for the entire film crew.",
+    "body": [
+      {
+        "h": "Star-Studded Pre-Release Event",
+        "p": [
+          "Telugu cinema icon Allu Arjun recently graced the pre-release event of the upcoming film Aakasamlo Oka Tara as the primary guest of honor. The gathering served as a major platform for cast members, filmmakers, and invited dignitaries to build excitement ahead of the movie's theatrical rollout.",
+          "The event drew significant attention from fans and media outlets alike, highlighting the collaborative spirit within the regional film fraternity as industry veterans came together to support the upcoming theatrical release."
+        ]
+      },
+      {
+        "h": "Allu Arjun Lauds Dulquer Salmaan",
+        "p": [
+          "During the ceremony, Allu Arjun took to the stage to share his deep admiration for lead actor Dulquer Salmaan. He noted that he has followed Dulquer's professional trajectory since his early Malayalam cinema days, expressing great appreciation for the actor's diverse script selections.",
+          "Beyond professional achievements, the Pushpa star commended Dulquer for maintaining an exceptionally grounded demeanor despite coming from a prominent film legacy, remarking that the actor never projects an intimidating star aura when interacting with others."
+        ]
+      },
+      {
+        "h": "Appreciation for the Cast and Crew",
+        "p": [
+          "The event also featured words of encouragement for newcomer Satvika Veeravalli, whom Allu Arjun described as having a dream introduction to the silver screen. He further lauded established star Shruti Haasan for stepping forward to embrace a special supporting role to uplift the project.",
+          "Additionally, the actor acknowledged the screen presence of Ruhani Sharma, wished music composer GV Prakash Kumar continued success, and recalled his initial meeting with director Pavan Sadineni a decade prior, praising the filmmaker's artistic clarity."
+        ]
+      },
+      {
+        "h": "Praise for Producers and the Core Story",
+        "p": [
+          "Allu Arjun turned his attention to the core narrative of Aakasamlo Oka Tara, describing its central message as wonderful and noting that it centers on fulfilling women's aspirations. Having watched the promotional teaser, he highlighted the positive atmosphere and soul embedded in the project.",
+          "He also commended producers Swapna Dutt and Sandeep Gunnam alongside the younger generation of creators carrying forward their respective family legacies in the movie business."
+        ]
+      },
+      {
+        "h": "Dulquer Salmaan Reflects on Fandom and Vulnerability",
+        "p": [
+          "Taking his turn to address the audience, Dulquer Salmaan shared fond memories of seeing newspaper cuttings featuring Allu Arjun pinned up in a room during the shoot of his own debut feature film in Kerala, noting how children there were already devoted fans.",
+          "The lead actor candidly admitted that Aakasamlo Oka Tara stands out as one of the most significant projects of his career. He confessed to experiencing anxious moments when the team awaited the release of Lucky Baskhar, fearing he might lose the current venture."
+        ]
+      },
+      {
+        "h": "Discovering New Talent and Producer Dedication",
+        "p": [
+          "Dulquer expressed gratitude toward producers Sandeep Gunnam, Swapna Dutt, and Allu Aravind for their unwavering commitment. He spotlighted Aravind's deep personal investment in the venture, mentioning how the veteran producer monitored the production daily as if it were his own child.",
+          "The actor also touched upon the discovery of co-star Satvika Veeravalli, who was found via social media while studying and working in America, presenting her journey as an inspirational blueprint for aspiring performers utilizing digital platforms."
+        ]
+      },
+      {
+        "h": "Themes and Theatrical Arrival",
+        "p": [
+          "Shaped as an emotional and inspirational drama, Aakasamlo Oka Tara follows the journey of a character named Ammulu as she navigates various obstacles to achieve her ambitions. The film invites audiences to dream big, mirroring the tenacity seen on screen.",
+          "Fans eagerly awaiting the cinematic arrival will not have to wait much longer, as the movie is slated to debut in theatres on November 20."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Allu Arjun attended the pre-release event of Aakasamlo Oka Tara as chief guest, where he praised Dulquer Salmaan's humility and film choices while commending the director, producers, and supporting cast. In return, Dulquer shared fond memories of Allu Arjun's early fandom in Kerala and discussed the journey of bringing the inspirational drama to theaters on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Allu Arjun attended the pre-release event of Aakasamlo Oka Tara as the chief guest.",
+      "Aakasamlo Oka Tara is directed by Pavan Sadineni.",
+      "The film features Dulquer Salmaan, Shruti Haasan, Satvika Veeravalli, and Ruhani Sharma.",
+      "The film's music is composed by GV Prakash Kumar.",
+      "The film is produced by Swapna Dutt, Sandeep Gunnam, and Allu Aravind.",
+      "Aakasamlo Oka Tara is scheduled to release in theatres on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Allu Arjun",
+        "Dulquer Salmaan",
+        "Pavan Sadineni",
+        "Shruti Haasan",
+        "Satvika Veeravalli",
+        "Ruhani Sharma",
+        "GV Prakash Kumar",
+        "Swapna Dutt",
+        "Sandeep Gunnam",
+        "Allu Aravind"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "Pushpa",
+        "Lucky Baskhar"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara",
+      "Dulquer Salmaan",
+      "Allu Arjun",
+      "Pavan Sadineni",
+      "Shruti Haasan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135870535,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Allu Arjun Praises Dulquer Salmaan and Calls Aakasamlo Oka Tara Wonderful",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T08:13:33+05:30"
+  },
+  "1efjouj": {
+    "id": "1efjouj",
+    "type": "news",
+    "headline": "Paper Tiger Sets Specialty Box Office Record for Director James Gray",
+    "dek": "Neon's platform release Paper Tiger opened strongly in New York and Los Angeles, outperforming the director's previous work.",
+    "body": [
+      {
+        "h": "Platform Debut Performance",
+        "p": [
+          "The specialty box office experienced a vibrant weekend following the initial wave of November releases. Neon introduced James Gray's latest directorial project to audiences through a limited platform release across six select locations in New York and Los Angeles.",
+          "During this opening weekend frame, the picture accumulated a total gross of $215,000. This translated to a notable per-theater average of $35,835 for the newly debuted title."
+        ]
+      },
+      {
+        "h": "Comparison to Prior Works",
+        "p": [
+          "The current figures mark a distinct upward shift when compared to the rollout of the filmmaker's earlier cinematic endeavor. Armageddon Time, distributed by Focus in the fall of 2022, managed a per-theater average of $11,712 during its run.",
+          "The strong per-theater average for the new release demonstrates solid initial interest from specialty ticket buyers in major urban markets."
+        ]
+      },
+      {
+        "h": "Cast and Setting",
+        "p": [
+          "Set against the backdrop of 1980s Queens, the narrative centers on a complex web of familial tension and criminal danger. Miles Teller and Adam Driver star as brothers Gary and Irwin Pearl, portraying a former police officer turned local politician and an engineer respectively.",
+          "Their ambitious plans for a lucrative construction venture quickly deteriorate after they cross paths with members of the Russian mafia. Meanwhile, Scarlett Johansson portrays Irwin's wife, who must navigate threats directed at her two sons alongside an unexpected medical crisis."
+        ]
+      },
+      {
+        "h": "Critical Reception",
+        "p": [
+          "Before reaching ticket buyers, the feature made its premiere at the Cannes Film Festival. It currently maintains a favorable 85% critical approval score on Rotten Tomatoes.",
+          "Reviewers have characterized the cinematic piece as a tense thriller that effectively balances high-stakes peril with genuine emotional depth."
+        ]
+      },
+      {
+        "h": "Other Specialty and Expanded Releases",
+        "p": [
+          "Several other specialty features made notable movements at the box office during the same frame. Sony Pictures Classics opened Pedro Almodovar's tragicomedy Bitter Christmas on four screens, pulling in $37,000.",
+          "Additionally, A24 pushed its feature debut Club Kid to 27 screens, bringing in $756,060 for a total of $1.45 million, while Amazon MGM expanded Peter Farrelly's I Play Rocky to 29 locations with $503,000 added to its run."
+        ]
+      },
+      {
+        "h": "Holdovers and Wide Expansion Results",
+        "p": [
+          "In wider theatrical runs, Searchlight expanded Wild Horse Nine across 1,075 additional screens during its second weekend. The film added $4.6 million, lifting its domestic sum to $13.3 million and surpassing the domestic run of the director's 2002 film The Banshees of Inisherin.",
+          "Other notable holdovers included Angel's Drummer Boy, Fathom's documentary Jimmy, and A24's You Can See Everything, which maintained a top five placement for a fifth consecutive weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gray's Paper Tiger launched in New York and Los Angeles on six screens, grossing $215,000 and outperforming the per-theater average of the director's previous film. The 1980s Queens-set feature stars Miles Teller, Adam Driver, and Scarlett Johansson, holding an 85% score on Rotten Tomatoes alongside other notable specialty and wide release movements."
+        ]
+      }
+    ],
+    "facts": [
+      "Paper Tiger grossed $215,000 on six screens in New York and Los Angeles.",
+      "The film achieved a per-theater average of $35,835.",
+      "Armageddon Time had a per-theater average of $11,712.",
+      "Paper Tiger has an 85% score on Rotten Tomatoes.",
+      "Bitter Christmas made $37,000 from four screens.",
+      "Club Kid earned $756,060 from 27 screens with a $1.45 million total.",
+      "I Play Rocky added $503,000 from 29 locations for a $954,000 total.",
+      "Wild Horse Nine added $4.6 million in its second weekend to reach a $13.3 million total.",
+      "Drummer Boy added $3.5 million for a $16.2 million total.",
+      "Jimmy added $850,000 for a $4.1 million total.",
+      "You Can See Everything reached $89 million in domestic grosses."
+    ],
+    "entities": {
+      "people": [
+        "James Gray",
+        "Miles Teller",
+        "Adam Driver",
+        "Scarlett Johansson",
+        "Pedro Almodovar",
+        "Bárbara Lennie",
+        "Leonardo Sbaraglia",
+        "Jordan Firstman",
+        "Peter Farrelly",
+        "Martin McDonagh"
+      ],
+      "titles": [
+        "Paper Tiger",
+        "Armageddon Time",
+        "Bitter Christmas",
+        "Club Kid",
+        "I Play Rocky",
+        "Wild Horse Nine",
+        "The Banshees of Inisherin",
+        "Drummer Boy",
+        "Jimmy",
+        "You Can See Everything"
+      ]
+    },
+    "keywords": [
+      "Paper Tiger James Gray",
+      "Miles Teller Adam Driver film",
+      "Paper Tiger specialty box office",
+      "Club Kid A24 expansion"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/08/Paper-Tiger.jpg",
+        "caption": "Paper Tiger Sets Specialty Box Office Record for Director James Gray",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:43:20 +0000"
+  },
+  "ki6ebb": {
+    "id": "ki6ebb",
+    "type": "news",
+    "headline": "Delhi Air Quality Slips Back To Poor Category With AQI At 213",
+    "dek": "Delhi's overall Air Quality Index deteriorated to 213 on November 16, reversing a brief weekend improvement that had brought the index down to around 90.",
+    "body": [
+      {
+        "h": "Morning Conditions And AQI Shift",
+        "p": [
+          "The air quality in the national capital experienced a notable setback, moving back into the poor classification during the early morning hours. Data collected at 6 AM on November 16 placed the overall Air Quality Index at 213, marking a swift reversal from the conditions observed just a day prior.",
+          "Residents had enjoyed a brief respite when pollution numbers dropped significantly over the weekend. However, the temporary relief proved short-lived as particulate matter concentrations climbed back up across multiple monitoring locations."
+        ]
+      },
+      {
+        "h": "Area-Wise Air Quality Breakdown",
+        "p": [
+          "Monitoring stations spread across the city registered varying degrees of poor air, with several areas crossing the 200 threshold. Chandni Chowk emerged as one of the most affected localities, recording a high reading of 269.",
+          "Other notable recordings included IIT Delhi at 255, JNU at 236, Aya Nagar at 220, and Burari at 219. Meanwhile, locations such as Jawaharlal Nehru Stadium and Alipur managed to stay slightly lower, registering moderate figures of 190 and 199 respectively."
+        ]
+      },
+      {
+        "h": "Context Of Recent Weather Changes",
+        "p": [
+          "The sudden drop in pollution levels on Sunday had offered a much-needed break following nearly a week of severely elevated air toxicity across the National Capital Region. Continuous high readings had persisted since November 11, occasionally touching severe levels.",
+          "Meteorological factors, specifically rainfall, played a major role in driving down pollutant concentrations temporarily by washing out suspended particles like PM2.5 and PM10 before atmospheric conditions shifted once again."
+        ]
+      },
+      {
+        "h": "Primary Drivers Of Regional Pollution",
+        "p": [
+          "Scientific data regarding the capital's pollution sources highlights biomass burning, encompassing stubble burning and household solid fuel usage, as the largest contributor at 25.5 per cent.",
+          "Secondary organic aerosols closely followed as the second-largest factor, contributing 23.6 per cent to the overall pollution load, alongside substantial contributions from vehicular emissions and mixed combustion sources."
+        ]
+      },
+      {
+        "h": "Additional Emission Contributors",
+        "p": [
+          "Beyond biomass and vehicular exhaust, other elements continued to burden the airshed. Mixed combustion accounted for 12.6 per cent of the total load, while secondary inorganic aerosols contributed 10.7 per cent.",
+          "Municipal garbage burning, along with the incineration of plastic and rubber materials, made up 6.8 per cent. Mineral dust and ash recorded the smallest impact, accounting for just 1.5 per cent of the total pollution."
+        ]
+      },
+      {
+        "h": "Significance And Ongoing Concerns",
+        "p": [
+          "The oscillation between moderate and poor air quality underscores the persistent environmental challenges facing the region during this time of year. Health experts continue to advise caution as vulnerable populations face prolonged exposure to toxic air.",
+          "Authorities and monitoring systems remain on high alert as meteorological patterns and local emission sources continue to dictate the day-to-day fluctuations in the capital's atmosphere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Delhi's air quality slipped back into the poor category with an AQI of 213 on the morning of November 16, reversing a temporary improvement seen on Sunday. Biomass burning and secondary organic aerosols remained the primary drivers of the pollution load across various monitoring stations in the capital."
+        ]
+      }
+    ],
+    "facts": [
+      "Delhi AQI stood at 213 on November 16 at 6 AM.",
+      "Sunday's AQI dropped to around 90.",
+      "Chandni Chowk recorded an AQI of 269.",
+      "Biomass burning accounted for 25.5 per cent of Delhi's pollution.",
+      "Secondary organic aerosols accounted for 23.6 per cent of pollution."
+    ],
+    "entities": {
+      "people": [
+        "Surbhi Kaul"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Delhi AQI Today",
+      "Delhi air quality poor",
+      "Chandni Chowk AQI 269",
+      "Delhi pollution sources"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156516527,thumbsize-52168,width-1280,height-720,resizemode-75/156516527.jpg",
+        "caption": "Delhi Air Quality Slips Back To Poor Category With AQI At 213",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T03:51:54Z"
+  },
+  "19z1f2v": {
+    "id": "19z1f2v",
+    "type": "news",
+    "headline": "RESCENE Triumphs at MMA2026 with Three Major Wins",
+    "dek": "The rising girl group takes home Global Top 10, KakaoBank Everyone's Star, and Hot Trend accolades at the Melon Music Awards.",
+    "body": [
+      {
+        "h": "Major Wins at the Melon Music Awards",
+        "p": [
+          "The girl group RESCENE made a massive impact at the 2026 Melon Music Awards, commonly known as MMA2026. The high-profile ceremony took place at the Gocheok Sky Dome located in Seoul.",
+          "During the event, the ensemble successfully secured three distinct honors. Their impressive sweep reflected their expanding influence across both domestic and international music landscapes."
+        ]
+      },
+      {
+        "h": "Specific Categories Captured",
+        "p": [
+          "Among the trophies collected by the group were the prestigious Global Top 10 and the Hot Trend award. They also picked up the KakaoBank Everyone's Star accolade.",
+          "These victories highlight the steady support from their fanbase, affectionately recognized locally and globally. The members expressed deep appreciation for the continuous devotion shown by their supporters."
+        ]
+      },
+      {
+        "h": "Dynamic Live Performances",
+        "p": [
+          "Aside from receiving accolades, the collective delivered a visually and musically diverse set of performances. They opened with the sweet melodies of their track titled 'With'.",
+          "The group then transitioned into the high-energy routines of 'Deja Vu' and 'LOVE ATTACK'. The latter track is particularly noted for driving a significant reverse-charting phenomenon."
+        ]
+      },
+      {
+        "h": "Chart Dominance and Sales Milestones",
+        "p": [
+          "The musical achievements extend far beyond award show stages. Their title track 'With' successfully climbed to the summit of several prominent streaming lists, including Melon's TOP100.",
+          "Additionally, their fourth mini album titled 'PULSE' smashed physical records. It crossed the threshold of 600,000 copies sold during its initial week on shelves, claiming the top spot for girl group first-week sales in the second half of the year."
+        ]
+      },
+      {
+        "h": "Broadcasting Trophies and Weekly Wins",
+        "p": [
+          "The momentum continued across various televised music programs. The group initially secured a trophy on SBS Life's 'The Show' for their single 'With'.",
+          "Subsequent victories followed on 'Show Champion' and MBC's 'Music Core'. They further expanded their collection by claiming another win on SBS's 'Inkigayo'."
+        ]
+      },
+      {
+        "h": "Prior Success at KGMA",
+        "p": [
+          "Before their triumphs at the Gocheok Sky Dome, the ensemble achieved remarkable recognition elsewhere. They attended the 2026 Korea Grand Music Awards held earlier in the month.",
+          "At that specific ceremony, they walked away with four separate trophies. This haul notably included the top honor known as Grand Honor's Choice."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "RESCENE secured three trophies at the 2026 Melon Music Awards held in Seoul, adding to their extensive list of recent achievements in sales and weekly music shows. The group performed several of their popular tracks and expressed gratitude to their supporters as anticipation builds for their future endeavors."
+        ]
+      }
+    ],
+    "facts": [
+      "RESCENE won three awards at MMA2026 on November 14, 2026",
+      "The 2026 Melon Music Awards took place at Gocheok Sky Dome in Seoul",
+      "RESCENE won Global Top 10, KakaoBank Everyone's Star, and Hot Trend",
+      "Members of RESCENE include Woni, Liv, Minami, May, and Zena",
+      "The 4th mini album PULSE surpassed 600,000 copies in first-week sales",
+      "RESCENE won four trophies at the 2026 Korea Grand Music Awards on November 7, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Woni",
+        "Liv",
+        "Minami",
+        "May",
+        "Zena"
+      ],
+      "titles": [
+        "With",
+        "Deja Vu",
+        "LOVE ATTACK",
+        "PULSE"
+      ]
+    },
+    "keywords": [
+      "RESCENE MMA2026 wins",
+      "RESCENE PULSE mini album",
+      "RESCENE With Melon chart",
+      "RESCENE awards 2026"
+    ],
+    "images": [],
+    "published": "Sun, 15 Nov 2026 22:40:00 EST"
   }
 };

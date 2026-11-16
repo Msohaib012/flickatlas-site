@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-16T02:57:38Z",
+  "generated": "2026-11-16T04:00:55Z",
   "realtime": {
     "active_users": 3
   },
   "today": {
-    "users": 22,
-    "pageviews": 22,
-    "sessions": 22,
-    "avg_session_seconds": 2.2
+    "users": 31,
+    "pageviews": 31,
+    "sessions": 31,
+    "avg_session_seconds": 1.7
   },
   "last7": {
-    "users": 472,
-    "pageviews": 744,
-    "sessions": 513,
-    "avg_session_seconds": 38.4
+    "users": 481,
+    "pageviews": 753,
+    "sessions": 522,
+    "avg_session_seconds": 37.7
   },
   "top_pages": [
     {
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 493,
-      "users": 459
+      "sessions": 502,
+      "users": 468
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 12,
-      "users": 12
+      "sessions": 15,
+      "users": 15
     },
     {
       "source": "google",
@@ -107,11 +107,11 @@
   "countries": [
     {
       "country": "United States",
-      "users": 121
+      "users": 127
     },
     {
       "country": "Brazil",
-      "users": 69
+      "users": 70
     },
     {
       "country": "Singapore",
@@ -130,11 +130,11 @@
       "users": 24
     },
     {
-      "country": "Bangladesh",
-      "users": 22
+      "country": "Colombia",
+      "users": 23
     },
     {
-      "country": "Colombia",
+      "country": "Bangladesh",
       "users": 22
     },
     {
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 464
+      "users": 473
     },
     {
       "device": "mobile",

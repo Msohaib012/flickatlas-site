@@ -9884,6 +9884,35 @@
           "sacnilk": 19.15
         }
       },
+      "10": {
+        "date": "2026-11-15",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 41.2
+            },
+            "value": 41.2
+          },
+          "overseas": {
+            "crore": 4.0,
+            "currency": "USD",
+            "date": "2026-11-15",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 4.0
+            },
+            "value": 422610
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 4376
+            },
+            "value": 4376
+          }
+        },
+        "india": false
+      },
       "2": {
         "ai_first": false,
         "collection_currency": "USD",
