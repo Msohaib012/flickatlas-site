@@ -3,14 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "US",
-      "date": "2026-11-16",
-      "date_kind": "digital",
-      "id": 1806668,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "US",
       "date": "2026-11-17",
       "date_kind": "digital",
       "id": 1368337,
@@ -119,6 +111,26 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "date": "2026-11-16",
+      "date_kind": "release",
+      "id": 1771047,
+      "providers": [
+        {
+          "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+          "name": "Passionflix Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1806668,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "country": "FR",
       "date": "2026-11-15",

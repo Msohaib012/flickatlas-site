@@ -158116,5 +158116,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-15T12:49:42+05:30"
+  },
+  "7m6dih": {
+    "id": "7m6dih",
+    "type": "news",
+    "headline": "Veteran Actress Moushumi Chatterjee Asks For Privacy After Husband Jayanta Mukherjee Passes Away",
+    "dek": "Veteran actress Moushumi Chatterjee has confirmed the sad passing of her husband, producer Jayanta Mukherjee, who died following age-related health issues in Mumbai.",
+    "body": [
+      {
+        "h": "Moushumi Chatterjee Confirms Husband's Passing",
+        "p": [
+          "Veteran film actress Moushumi Chatterjee recently shared the heartbreaking news of the death of her husband, Jayanta Mukherjee, via social media. Affectionately known as Babu by friends and loved ones, Jayanta passed away after battling age-related ailments at their home in Mumbai.",
+          "In her heartfelt online message, Moushumi expressed deep gratitude to well-wishers for their ongoing support and prayers. At the same time, she earnestly appealed to the public and media to grant her and her daughter the necessary time and space to navigate this extremely difficult period of personal grief."
+        ]
+      },
+      {
+        "h": "Details Of Passing And Prayer Meet",
+        "p": [
+          "According to official confirmations, Jayanta Mukherjee breathed his last on November 12, 2026. BN Tiwari, the president of the Federation of Western India Cine Employees, verified the news to media agencies, noting that the producer had been dealing with health complications for quite some time.",
+          "Following his demise, the family organized a prayer meeting to honor his memory. His daughter, Megha, issued a formal statement announcing that the gathering would take place on November 15, 2026, at Shri Khatwari Darbar located in Khar West, Mumbai, scheduled for the evening."
+        ]
+      },
+      {
+        "h": "Legacy In The Entertainment Industry",
+        "p": [
+          "Jayanta Mukherjee came from a rich artistic lineage as the son of the legendary singer and composer Hemant Kumar. Rather than relying solely on his father's immense musical legacy, Jayanta carved out his own distinct career path within the Indian entertainment sector.",
+          "He established himself as a notable film and television producer over the decades, contributing behind the scenes to various cinematic and television projects that captured the attention of audiences during their respective broadcast and theatrical runs."
+        ]
+      },
+      {
+        "h": "Notable Production Credits",
+        "p": [
+          "Throughout his career in the industry, Jayanta was associated with several notable movie titles. Among his film credits are projects like the 1975 film 'Mazaaq' and the 1979 feature 'Do Ladke Dono Kadke'.",
+          "In addition to his work in feature films, he also ventured into television production. His small-screen credits notably include working on the television serial 'Talaash', which aired in 1992."
+        ]
+      },
+      {
+        "h": "Industry Reactions And Support",
+        "p": [
+          "The entertainment community responded with sorrow upon learning of Jayanta Mukherjee's passing. Colleagues, film industry representatives, and fans expressed their condolences to Moushumi Chatterjee and her family via social media and personal messages.",
+          "The Federation of Western India Cine Employees also acknowledged his contributions to the film fraternity, standing in solidarity with the grieving family as they prepared to bid their final farewells during the scheduled prayer meet."
+        ]
+      },
+      {
+        "h": "Family And Personal Life",
+        "p": [
+          "Moushumi Chatterjee and Jayanta Mukherjee shared a long-standing marriage that weathered decades in the public eye. Their daughter, Megha, has been actively involved in managing the family's official communications during this tragic time.",
+          "The family has maintained a dignified approach to their loss, balancing public acknowledgments of support with strict requests for personal privacy as they mourn the loss of a husband and father."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actress Moushumi Chatterjee confirmed the death of her husband, producer Jayanta Mukherjee, who passed away on November 12, 2026, at their Mumbai residence due to age-related ailments. The family requested privacy while announcing a prayer meeting for November 15, 2026, honoring his life and his work in films like 'Mazaaq', 'Do Ladke Dono Kadke', and television's 'Talaash'."
+        ]
+      }
+    ],
+    "facts": [
+      "Moushumi Chatterjee confirmed the passing of her husband Jayanta Mukherjee on social media.",
+      "Jayanta Mukherjee passed away on November 12, 2026.",
+      "The prayer meet was scheduled for November 15, 2026, at Shri Khatwari Darbar in Khar West, Mumbai.",
+      "BN Tiwari is the president of the Federation of Western India Cine Employees.",
+      "Jayanta Mukherjee was the son of singer and composer Hemant Kumar.",
+      "Jayanta produced films including 'Mazaaq' (1975) and 'Do Ladke Dono Kadke' (1979), and the TV serial 'Talaash' (1992)."
+    ],
+    "entities": {
+      "people": [
+        "Moushumi Chatterjee",
+        "Jayanta Mukherjee",
+        "Megha",
+        "BN Tiwari",
+        "Hemant Kumar"
+      ],
+      "titles": [
+        "Mazaaq",
+        "Do Ladke Dono Kadke",
+        "Talaash"
+      ]
+    },
+    "keywords": [
+      "Moushumi Chatterjee",
+      "Jayanta Mukherjee",
+      "Mazaaq",
+      "Do Ladke Dono Kadke",
+      "Talaash"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/13/6516-moushumi-chatterjee.png",
+        "caption": "Veteran Actress Moushumi Chatterjee Asks For Privacy After Husband Jayanta Mukherjee Passes Away",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T00:51:25Z"
+  },
+  "ysh6sy": {
+    "id": "ysh6sy",
+    "type": "news",
+    "headline": "Kevin Feige Explains Why Bringing Original X-Men Into 'Avengers: Doomsday' Felt Right",
+    "dek": "Marvel Studios president Kevin Feige discusses celebrating a quarter-century of Marvel storytelling by integrating classic characters from the 2000s X-Men universe into the upcoming Avengers film.",
+    "body": [
+      {
+        "h": "Celebrating a Quarter-Century of Marvel",
+        "p": [
+          "Marvel Studios president Kevin Feige is honoring 25 years of cinematic history by looking back at the franchise's foundations. Having served as an associate producer on the original 2000 'X-Men' film, Feige is now bringing several of those foundational characters directly into the Marvel Cinematic Universe.",
+          "This integration serves as a major milestone for the studio, bridging different eras of superhero cinema. Fans of the early adaptations will see familiar faces transition into a massive crossover event."
+        ]
+      },
+      {
+        "h": "Classic Characters Join the MCU",
+        "p": [
+          "The upcoming fifth Avengers installment will feature several beloved figures from the early 2000s films. Among the returning icons are James Marsden's Cyclops, Rebecca Romijn's Mystique, Professor X, and Magneto.",
+          "Bringing these specific iterations into the modern shared universe offers long-time enthusiasts a nostalgic reunion. It connects the classic cinematic mutants with the current roster of MCU heroes."
+        ]
+      },
+      {
+        "h": "Fulfilling Long-Time Fan and Actor Hopes",
+        "p": [
+          "The crossover is something that Hugh Jackman and other talent discussed years ago, noting past obstacles that eventually dissolved. In a recent interview, Feige pointed out that vintage interview clips showed Jackman expressing hope that the X-Men and the Avengers might one day unite.",
+          "According to the studio chief, executing this massive crossover simply felt correct. He described the inclusion as an entertaining way to cap off twenty-five years of cinematic storytelling."
+        ]
+      },
+      {
+        "h": "Writing Contributions From Ryan Reynolds and Hugh Jackman",
+        "p": [
+          "The influence of the mutant franchise extends far beyond standard acting roles in the fifth Avengers film. Recent screenwriting credits for the movie reveal that Ryan Reynolds and Hugh Jackman are listed among a group of 10 writers.",
+          "These writing credits suggest that the Deadpool and Wolverine actors contributed dialogue specifically for their respective X-Men characters. However, it remains entirely unclear whether they will appear on screen or the exact extent of their physical presence."
+        ]
+      },
+      {
+        "h": "Patrick Stewart's Final On-Screen Appearance",
+        "p": [
+          "The film will also feature the final performance of the late Patrick Stewart as the telepathic mutant mentor, Charles Xavier. This project marks his ninth time embodying the iconic character across his career.",
+          "Marvel Studios issued a tribute highlighting his debut in the 2000 film and praising the composure, class, and wisdom he brought to the role. The studio noted that his return for this upcoming movie serves as his absolute final on-screen appearance as the character."
+        ]
+      },
+      {
+        "h": "Release Details and Legacy",
+        "p": [
+          "The much-anticipated crossover event is scheduled to hit theaters on December 18, 2026. It stands as a monumental moment for both Marvel Studios and the legacy of early comic book adaptations.",
+          "By merging the original mutant cast with the ongoing Avengers saga, the production marks a definitive turning point in superhero cinema history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios president Kevin Feige explained that integrating original characters from the 2000s X-Men films into 'Avengers: Doomsday' felt like a fitting way to celebrate 25 years of storytelling. The upcoming movie features returning actors like Patrick Stewart in his final appearance, alongside writing contributions from Ryan Reynolds and Hugh Jackman.",
+          "Set for a December 18, 2026 theatrical release, the crossover successfully unites classic cinematic mutants with the modern Marvel Cinematic Universe."
+        ]
+      }
+    ],
+    "facts": [
+      "Kevin Feige was an associate producer on the 2000 X-Men film.",
+      "Avengers: Doomsday hits theaters on Dec. 18, 2026.",
+      "James Marsden plays Cyclops.",
+      "Rebecca Romijn plays Mystique.",
+      "Ryan Reynolds and Hugh Jackman are among the 10 writers listed for Doomsday.",
+      "Patrick Stewart is returning for his final movie role as Charles Xavier, marking his ninth time playing the character."
+    ],
+    "entities": {
+      "people": [
+        "Kevin Feige",
+        "James Marsden",
+        "Rebecca Romijn",
+        "Hugh Jackman",
+        "Ryan Reynolds",
+        "Patrick Stewart"
+      ],
+      "titles": [
+        "X-Men",
+        "Avengers: Doomsday",
+        "Deadpool and Wolverine"
+      ]
+    },
+    "keywords": [
+      "Kevin Feige X-Men",
+      "Avengers Doomsday",
+      "Patrick Stewart Professor X",
+      "Ryan Reynolds Hugh Jackman Doomsday writing"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/MSDXMEN_EC006.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Kevin Feige Explains Why Bringing Original X-Men Into 'Avengers: Doomsday' Felt Right",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:10:01 +0000"
+  },
+  "i42jcb": {
+    "id": "i42jcb",
+    "type": "news",
+    "headline": "Millie Bobby Brown to Star in Netflix Rom-Com Non-Refundable",
+    "dek": "The actor will headline and produce the upcoming romantic comedy alongside Jack Innanen, directed by Paul Briganti.",
+    "body": [
+      {
+        "h": "The New Netflix Project",
+        "p": [
+          "Millie Bobby Brown has secured her next major feature film role with Netflix, signing on to lead the upcoming romantic comedy titled Non-Refundable. Beyond her starring duties as the lead character Dani, Brown will also take on a producer role for the feature.",
+          "The production brings together a fresh creative team, featuring Saturday Night Live alumnus Paul Briganti in the director's chair. The film's script originates from a spec-script penned by writer David Bernstein."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative follows Dani, played by Brown, and her former fiancé Nate, portrayed by Jack Innanen. After calling off their engagement, the former couple discovers that their booked wedding venue has a strictly non-refundable policy.",
+          "Refusing to lose their investment and fueled by spite, the pair decides to travel together to Mexico. Once there, they embark on a mission to provoke jealousy by actively pursuing dates with new individuals."
+        ]
+      },
+      {
+        "h": "Casting and Background",
+        "p": [
+          "Jack Innanen, known for his work in the FX sitcom Adults, steps into the role of Nate opposite Brown. Reports indicate that Innanen secured his part following acclaim for his television work.",
+          "Millie Bobby Brown earned the leading role in this picture following strong impressions made on executives with her performance in the upcoming romantic comedy Just Picture It, which also stars Gabriel LaBelle."
+        ]
+      },
+      {
+        "h": "Production Style and Vision",
+        "p": [
+          "Industry sources describe the film as a high-concept commercial comedy designed to revive a traditional style of romantic comedies that have become rarer in recent years. Netflix aims to deliver a feature that balances genuine emotional stakes with significant comedic moments.",
+          "The script generated substantial enthusiasm within the studio during development. Executives and team members reportedly frequently quoted its dialogue and discussed its comedic set pieces around the office before greenlighting the production."
+        ]
+      },
+      {
+        "h": "Millie Bobby Brown's Recent Slate",
+        "p": [
+          "This new romantic comedy adds to an already extensive lineup of projects for Brown with the streaming platform. She recently completed work on the Enola Holmes film trilogy.",
+          "Additionally, she has been filming an upcoming espionage series for Netflix alongside her Stranger Things co-star David Harbour. That project draws loose inspiration from the novel A Spy In the Blood by Paul Warner and features them once more as father and daughter."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "As of now, Netflix has not announced an official release date for Non-Refundable. Further updates regarding production timelines and additional casting are expected at a later date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Millie Bobby Brown will produce and star in the Netflix romantic comedy Non-Refundable alongside Jack Innanen, under the direction of Paul Briganti. The story follows a separated couple traveling to Mexico out of spite after learning their wedding venue is non-refundable, with no premiere date announced yet."
+        ]
+      }
+    ],
+    "facts": [
+      "Millie Bobby Brown will star in and produce the Netflix film Non-Refundable",
+      "Jack Innanen will star opposite Millie Bobby Brown as her ex-fiancé Nate",
+      "Paul Briganti, an alumnus of Saturday Night Live, is set to direct the movie",
+      "The screenplay is based on a spec-script by David Bernstein",
+      "The plot centers on a separated couple traveling to Mexico because their wedding venue is non-refundable",
+      "Millie Bobby Brown previously starred in the Enola Holmes trilogy",
+      "Jack Innanen is known for his role in the FX sitcom Adults",
+      "Millie Bobby Brown also filmed an upcoming espionage series with David Harbour inspired by A Spy In the Blood",
+      "Millie Bobby Brown previously starred in Just Picture It alongside Gabriel LaBelle"
+    ],
+    "entities": {
+      "people": [
+        "Millie Bobby Brown",
+        "Jack Innanen",
+        "Paul Briganti",
+        "David Bernstein",
+        "Gabriel LaBelle",
+        "David Harbour",
+        "Paul Warner"
+      ],
+      "titles": [
+        "Non-Refundable",
+        "Adults",
+        "Just Picture It",
+        "Enola Holmes",
+        "Stranger Things",
+        "A Spy In the Blood"
+      ]
+    },
+    "keywords": [
+      "Millie Bobby Brown Non-Refundable",
+      "Non-Refundable movie Netflix",
+      "Jack Innanen Netflix movie",
+      "Paul Briganti Non-Refundable"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/c054a718-e4be-4627-8c26-dbb33786b5fd.jpg?crop=0.927xw:0.697xh;0,0.254xh&amp;resize=1200:*",
+        "caption": "Millie Bobby Brown to Star in Netflix Rom-Com Non-Refundable",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 22:35:00 +0000"
+  },
+  "oq4qpy": {
+    "id": "oq4qpy",
+    "type": "news",
+    "headline": "Ami Trivedi Describes Landing Ramayana: Part 1 Dubbing Role as Divine Placement",
+    "dek": "Veteran voice artiste Ami Trivedi discusses matching Sai Pallavi’s performance for the Hindi version of Ramayana: Part 1 and working closely with director Nitesh Tiwari.",
+    "body": [
+      {
+        "h": "Stepping Into a Mythological Epic",
+        "p": [
+          "The theatrical release of Nitesh Tiwari’s grand mythological project Ramayana: Part 1 has generated tremendous enthusiasm among moviegoers since its premiere. Audiences have showered praise on nearly every component of the sprawling cinematic spectacle, from its visual scale to its performances.",
+          "Among the standout elements winning appreciation in the Hindi-language version is the vocal performance behind Sai Pallavi’s depiction of Sita. Veteran actress and seasoned voice artiste Ami Trivedi stepped into the role to provide the character's Hindi voice track."
+        ]
+      },
+      {
+        "h": "An Accidental Alignment in the Audition Room",
+        "p": [
+          "Reflecting on the process of securing the high-profile assignment, Ami revealed that the entire opportunity felt meant to be. She noted how remarkably well her natural vocal tone aligned with Sai Pallavi's screen presence right from the initial tryouts.",
+          "According to the voice artiste, both director Nitesh Tiwari and producer Namit Malhotra observed the same seamless vocal match. Watching Sai Pallavi's effortless performance on screen initially brought a sense of pressure, but it ultimately made it easier for Ami to immerse herself in the scenes."
+        ]
+      },
+      {
+        "h": "Direct Collaboration With the Leading Lady",
+        "p": [
+          "To ensure every emotional layer was captured with precision, Ami maintained open lines of communication with the creative heads behind the project. She worked alongside Nitesh Tiwari and Namit Malhotra while also speaking directly with Sai Pallavi.",
+          "Through these conversations, Ami gained direct insight into what the lead actress was thinking and feeling during the shoot. That background knowledge proved invaluable when it came to channeling the exact emotional frequencies required for the role."
+        ]
+      },
+      {
+        "h": "Balancing Reverence and Performance",
+        "p": [
+          "Portraying a figure as deeply revered as Sita requires walking a fine emotional line. Ami acknowledged the immense cultural and emotional weight the character carries for audiences across the country.",
+          "Her goal was to maintain the dignity and sanctity of the figure while staying entirely faithful to the framework established by Sai Pallavi on camera. She focused on honoring the visual performance rather than imposing any extraneous personal interpretation."
+        ]
+      },
+      {
+        "h": "Nailing the Complex Ayodhya Farewell Sequence",
+        "p": [
+          "One specific sequence tested Ami's technical and emotional range: the moment when Sita addresses the people of Ayodhya ahead of her exile. Nitesh Tiwari provided explicit guidance to help the artiste navigate the conflicting emotions embedded in the sequence.",
+          "The character needed to project the qualities of a queen, a princess, and a warrior simultaneously, all while displaying kindness and holding back tears. Ami even mirrored a subtle vocal crack that Sai Pallavi naturally produced during the challenging take."
+        ]
+      },
+      {
+        "h": "Prioritizing the On-Screen Actor's Vision",
+        "p": [
+          "For Ami, effective dubbing is rooted in absolute deference to the actor performing in front of the camera. She believes that a dubbing professional's primary responsibility is bringing the original performer's vision to life rather than showcasing their own distinct style.",
+          "By putting herself firmly in Sai Pallavi's shoes, Ami was able to deliver a vocal performance that seamlessly matched the physical portrayal on screen without missing a single emotional beat."
+        ]
+      },
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "While the voice cast continues to earn accolades, Ramayana: Part 1 has simultaneously shattered records at the box office. Featuring an ensemble cast that includes Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey, the film crossed the Rs 1,000 crore milestone worldwide.",
+          "The makers officially announced the achievement on Instagram by sharing a celebratory poster, expressing gratitude to audiences around the globe for supporting the grand cinematic journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran voice artiste Ami Trivedi recently shared her experiences providing the Hindi voice for Sai Pallavi's character Sita in the blockbuster film Ramayana: Part 1, directed by Nitesh Tiwari.",
+          "She detailed the collaborative process of matching the actress's emotional nuances and preparing for complex sequences like the Ayodhya farewell, all while the film celebrated crossing the Rs 1,000 crore worldwide box office mark."
+        ]
+      }
+    ],
+    "facts": [
+      "Ami Trivedi provided the Hindi voice for Sai Pallavi's Sita in Ramayana: Part 1.",
+      "Ramayana: Part 1 is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "The film stars Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey.",
+      "Ramayana: Part 1 crossed the Rs 1,000 crore mark worldwide within eight days of release."
+    ],
+    "entities": {
+      "people": [
+        "Ami Trivedi",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ami Trivedi Ramayana",
+      "Sai Pallavi Sita",
+      "Ramayana Part 1 box office",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/15/6653-ramayana-5.png",
+        "caption": "Ami Trivedi Describes Landing Ramayana: Part 1 Dubbing Role as Divine Placement",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T00:51:25Z"
   }
 };

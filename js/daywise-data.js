@@ -518,6 +518,16 @@ window.FA_DAYWISE = {
       "date": "2026-11-12",
       "day": "Day 21",
       "collection": 1057
+    },
+    {
+      "date": "2026-11-14",
+      "day": "Day 23",
+      "collection": 1057
+    },
+    {
+      "date": "2026-11-15",
+      "day": "Day 24",
+      "collection": 1057
     }
   ],
   "1153576": [
