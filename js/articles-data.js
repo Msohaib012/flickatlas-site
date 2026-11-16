@@ -162493,5 +162493,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 08:55:38 +0000"
+  },
+  "1xg4vel": {
+    "id": "1xg4vel",
+    "type": "news",
+    "headline": "Love In Disguise Episode 9 Streaming Details and Platform Information",
+    "dek": "Fans can stream Episode 9 of the Korean romantic drama Love In Disguise on Amazon Prime Video in India with English subtitles.",
+    "body": [
+      {
+        "h": "Official Streaming Platform in India",
+        "p": [
+          "Viewers in India looking forward to Episode 9 of Love In Disguise can officially stream the latest chapter on Amazon Prime Video. Although audiences frequently search for episodes on alternative hosting sites like Dailymotion, the Prime Video platform serves as the licensed distributor for Indian subscribers.",
+          "To ensure a seamless viewing experience, fans should review their subtitle settings within the application. Verifying these preferences ahead of time allows viewers to easily follow the dialogue and narrative twists as they unfold."
+        ]
+      },
+      {
+        "h": "Premise and Lead Characters",
+        "p": [
+          "Love In Disguise is a Korean romantic drama that blends elements of murder mystery, comedy, and suspense. The narrative centers on a complex investigation following the unexpected death of a personal secretary.",
+          "Yim Si-wan stars as Yoon Yi-jun, a perfectionist heir tied to Taegang Group whose life is upended by the tragedy. Seol In-ah features alongside him as Kang Jae-hee, a detective who decides to infiltrate his workplace undercover."
+        ]
+      },
+      {
+        "h": "Source Material and Origin",
+        "p": [
+          "The television series draws its inspiration from a popular Kakao web novel titled Why You Don't Know It's a Girl?. The original source text was written by authors Lee A-yeon and Ryu Do-ha.",
+          "Adapting the written work into a visual medium, the production maintains the core dynamic between the perfectionist heir and the disguised detective attempting to solve the mystery."
+        ]
+      },
+      {
+        "h": "Undercover Operation and Romance",
+        "p": [
+          "In order to get close to Yoon Yi-jun and investigate the mysterious death, Kang Jae-hee applies for a newly opened position as his executive secretary and bodyguard. Because of the sensitive nature of her inquiry, she adopts a male disguise to hide her true identity.",
+          "As she spends more working hours alongside Yi-jun, maintaining her hidden cover proves increasingly difficult. The professional assignment eventually evolves into an unexpected romantic connection, complicating her dual mission of solving a crime and managing her feelings."
+        ]
+      },
+      {
+        "h": "Release Schedule and Timings",
+        "p": [
+          "The drama follows a weekly schedule, releasing two new episodes every Monday and Tuesday. The entire season consists of 12 episodes, with the finale currently scheduled for November 24, pending any calendar adjustments.",
+          "For audiences in India, Episode 9 is set to release on Amazon Prime Video at 5:20 PM IST on November 16. Meanwhile, television viewers in South Korea can catch the broadcast on tvN at 8:50 PM KST."
+        ]
+      },
+      {
+        "h": "Dailymotion Search Considerations",
+        "p": [
+          "Viewers attempting to locate Episode 9 through third-party platforms generally navigate to Dailymotion and input specific search phrases such as Love In Disguise Episode 9 English Subtitles. Users then browse video titles and check playback settings for subtitle support.",
+          "However, many uploads on alternative platforms may lack official authorization or proper English translations. Copyright enforcement often leads to the removal of these files, making Amazon Prime Video the most reliable option for Indian viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 9 of the Korean romantic drama Love In Disguise becomes available on Amazon Prime Video in India on November 16 at 5:20 PM IST. The series stars Yim Si-wan and Seol In-ah in a story combining a murder investigation with a hidden-identity romance."
+        ]
+      }
+    ],
+    "facts": [
+      "Love In Disguise has 12 episodes in total.",
+      "Episode 9 releases on November 16 at 5:20 PM IST in India.",
+      "The series finale is scheduled for November 24.",
+      "The drama airs on Mondays and Tuesdays.",
+      "In South Korea, the episode airs on tvN at 8:50 PM KST."
+    ],
+    "entities": {
+      "people": [
+        "Yim Si-wan",
+        "Seol In-ah",
+        "Lee A-yeon",
+        "Ryu Do-ha",
+        "Yoon Yi-jun",
+        "Kang Jae-hee"
+      ],
+      "titles": [
+        "Love In Disguise",
+        "Why You Don't Know It's a Girl?"
+      ]
+    },
+    "keywords": [
+      "Love In Disguise Episode 9",
+      "Yim Si-wan Seol In-ah",
+      "Love In Disguise Amazon Prime Video",
+      "Why You Don't Know It's a Girl"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/loveindisguiseep2timed1-93161794821075.jpg",
+        "caption": "Love In Disguise Episode 9 Streaming Details and Platform Information",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 17:00:17 +0530"
+  },
+  "s3ykmn": {
+    "id": "s3ykmn",
+    "type": "news",
+    "headline": "Foo Fighters Announce 2027 U.K. and European Summer Stadium Tour",
+    "dek": "The renowned rock band has revealed a massive 15-date stadium trek across the U.K. and Europe for 2027, featuring an array of special guest artists.",
+    "body": [
+      {
+        "h": "Tour Announcement and Opening Dates",
+        "p": [
+          "Rock outfit Foo Fighters have officially announced a major string of stadium headline dates spanning the U.K. and Europe for the summer of 2027. The tour announcement was made on Monday, November 16, detailing a comprehensive itinerary of 15 concert performances across the region.",
+          "The extensive run is scheduled to commence in Iceland, kicking off in Reykjavik at Nýja-Laugardalshöll on June 9. From there, the band will travel to multiple major international cities to bring their high-energy rock shows to stadiums throughout the continent."
+        ]
+      },
+      {
+        "h": "U.K. Stadium Schedule",
+        "p": [
+          "For U.K. fans, the group has locked in several prominent stadium stops beginning with a two-night stand at London's iconic Wembley Stadium on September 9 and September 11. These performances will form a core part of the late-summer leg of the itinerary.",
+          "Additional U.K. stops include a performance at The Darlington Arena in Country Durham on September 14, followed by a concert at Edinburgh's Murrayfield Stadium on September 16. The European and U.K. trek will ultimately conclude with a final performance at Croke Park in Dublin, Ireland, on September 18."
+        ]
+      },
+      {
+        "h": "Continental European Stops",
+        "p": [
+          "Beyond the U.K., the 2027 schedule includes high-profile visits to numerous major European destinations. Fans in Finland can catch them at the Olympic Stadium in Helsinki, while Danish audiences will see them perform at Valbyparken in Copenhagen.",
+          "Other international locations on the itinerary feature Dusseldorf in Germany at the Merkur Spiel-Arena and Sofia in Bulgaria at the Vasil Levski Stadium. The routing takes the musicians through a wide variety of festival grounds and sports arenas across multiple countries."
+        ]
+      },
+      {
+        "h": "Supporting Acts and Guest Artists",
+        "p": [
+          "A diverse roster of opening acts and special guests has been lined up to support the headliners across the various stops. Depending on the specific city, fans will see performances from artists such as The Hives, Iggy Pop, Slowdive, and Architects.",
+          "For the specific U.K. dates, the supporting lineup features Garbage, St. Vincent, Yard Act, Florence Road, Reclus.e, and The Vaselines. Additional support across the broader European trek includes acts like Queens of the Stone Age, Fat Dog, Nothing But Thieves, Violet Grohl, Alice Mae, and Frenzee."
+        ]
+      },
+      {
+        "h": "Ticket Information and Sales",
+        "p": [
+          "Ticketing details for the upcoming U.K. performances have been confirmed alongside the tour announcement. Passes will officially go on sale to the public on Friday, November 20, starting at 10 a.m. GMT.",
+          "Fans looking to secure entry for the U.K. stadium dates can purchase tickets through authorized ticketing platforms including Gigs and Tours and Ticketmaster."
+        ]
+      },
+      {
+        "h": "Recent Live Shows and Album Background",
+        "p": [
+          "The announcement comes on the heels of the group's recent live engagements. Earlier in the summer, the band performed a two-night stand at Liverpool's Anfield Stadium back in June, and they are currently occupied with the Australian leg of their Take Cover tour, which included a performance at Melbourne's Marvel Stadium.",
+          "In terms of recent studio work, the band released their 12th studio album, Your Favorite Toy, in April. The record achieved commercial charting success, landing at No. 23 on the Billboard 200 and reaching No. 2 on the U.K.'s Official Albums Chart."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Foo Fighters have announced a 15-date U.K. and European stadium tour for 2027, featuring numerous supporting acts and stops in major cities like London, Dublin, and Reykjavik. Tickets for the U.K. shows are set to go on sale on Friday, November 20, following the earlier release of their 12th studio album, Your Favorite Toy, in April."
+        ]
+      }
+    ],
+    "facts": [
+      "Foo Fighters announced their 2027 U.K. and European summer stadium tour on Monday, November 16.",
+      "The tour features 15 dates across the region, kicking off in Reykjavík, Iceland on June 9.",
+      "The U.K. dates include Wembley Stadium in London on September 9 and September 11.",
+      "Tickets for the U.K. dates go on sale on Friday, November 20 at 10 a.m. GMT.",
+      "The band released their 12th studio album, Your Favorite Toy, in April."
+    ],
+    "entities": {
+      "people": [
+        "Dave Grohl",
+        "Iggy Pop",
+        "St. Vincent",
+        "Phil Collins",
+        "Bob Dylan",
+        "Daniel Hall",
+        "Olivia Dean",
+        "Kehlani",
+        "Juanes",
+        "Lily Collins",
+        "Violet Grohl",
+        "Alice Mae"
+      ],
+      "titles": [
+        "Your Favorite Toy",
+        "Studio 666",
+        "Grand Theft Auto VI",
+        "Billboard 200",
+        "Official Albums Chart"
+      ]
+    },
+    "keywords": [
+      "Foo Fighters tour",
+      "Foo Fighters 2027 U.K. tour",
+      "Foo Fighters tickets",
+      "Your Favorite Toy album"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/P115P21T.jpg?w=1024",
+        "caption": "Foo Fighters Announce 2027 U.K. and European Summer Stadium Tour",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 12:19:40 +0000"
+  },
+  "14vy74k": {
+    "id": "14vy74k",
+    "type": "news",
+    "headline": "Indian Box Office Sets All-Time Record as 2026 Surpasses 2025 Collections With Weeks to Spare",
+    "dek": "The Indian film industry has officially crossed previous annual revenue milestones, driven by massive domestic hits and strong international releases with over a month left in the calendar year.",
+    "body": [
+      {
+        "h": "A Historic Milestone for Indian Cinema",
+        "p": [
+          "The Indian theatrical market has rewritten history books by establishing 2026 as the highest-grossing year ever recorded at the domestic box office. This monumental threshold was crossed well before the conclusion of the calendar year, leaving more than six weeks of theatrical business still ahead.",
+          "Based on estimated data through November 15, the annual total has climbed past previous figures, outperforming the full-year collections of preceding periods and pushing the industry closer to an unprecedented annual milestone."
+        ]
+      },
+      {
+        "h": "Year-on-Year Growth and Revenue Comparisons",
+        "p": [
+          "Financial tracking indicates that the domestic market has expanded notably compared to past years. Historical estimates place 2023 gross collections at approximately 11,500 crore rupees, followed by 11,835 crore rupees in 2024, and 13,350 crore rupees in 2025.",
+          "With 2026 reaching 13,775 crore rupees by mid-November, the current year stands comfortably ahead of the previous annual finish. This ongoing growth underlines sustained audience turnout across multiple quarters."
+        ]
+      },
+      {
+        "h": "Major Blockbusters Driving the Surge",
+        "p": [
+          "A select group of high-profile event films has contributed the lion's share of ticket sales. Leading the individual title charts is Dhurandhar 2: The Revenge, pulling in massive figures alongside Namit Malhotra's festival release Ramayana.",
+          "Other significant commercial contributors include Hollywood's Spider-Man: Brand New Day, Jailer 2, and Drishyam 3: The Conclusion, demonstrating that major franchises across different industries continue to draw large crowds."
+        ]
+      },
+      {
+        "h": "Language Shares and Industry Contributions",
+        "p": [
+          "Hindi cinema retains the largest portion of the domestic market share at forty-four percent. Meanwhile, Telugu and Tamil productions hold strong shares of eighteen percent and fifteen percent respectively, highlighting the robust appeal of South Indian cinema.",
+          "English-language titles capture nine percent of the market, Malayalam cinema accounts for seven percent, Kannada features at three percent, and other regional languages make up the remaining four percent."
+        ]
+      },
+      {
+        "h": "The Road to the 15,000 Crore Milestone",
+        "p": [
+          "Attention within the trade has now turned toward whether the industry can achieve the first-ever 15,000 crore year. Reaching this ambitious target requires steady daily collections over the final weeks of the calendar period.",
+          "Upcoming high-profile theatrical arrivals are expected to boost ticket sales further before the year concludes, maintaining strong momentum through the holiday season."
+        ]
+      },
+      {
+        "h": "Holiday Lineups and Future Expectations",
+        "p": [
+          "The final stretch of the year features major tentpole releases, including Marvel Studios' Avengers: Doomsday and Shah Rukh Khan's upcoming project King. Both films are slated for prominent holiday windows.",
+          "While higher box-office revenue reflects strong financial performance, industry observers note that ticket price inflation also plays a role in the rising totals alongside actual audience admissions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Indian film industry has surpassed its previous annual box-office records with weeks remaining in the year, crossing 13,775 crore rupees in gross collections by mid-November. Major titles like Dhurandhar 2: The Revenge and Ramayana have spearheaded this growth alongside strong language and international contributions.",
+          "With upcoming major holiday releases still on the calendar, the industry is poised to finish the year at an even higher financial standing."
+        ]
+      }
+    ],
+    "facts": [
+      "2026 has become the highest-grossing year ever at the Indian domestic box office, surpassing 2025.",
+      "2026 gross collections reached 13,775 crore rupees through November 15.",
+      "2025 gross collections were estimated at 13,350 crore rupees.",
+      "2024 gross collections were 11,835 crore rupees.",
+      "2023 gross collections were approximately 11,500 crore rupees.",
+      "Dhurandhar 2: The Revenge leads the year's film collections with 1,375.00 crore rupees.",
+      "Ramayana grossed 909.00 crore rupees.",
+      "Spider-Man: Brand New Day grossed 599.25 crore rupees.",
+      "Jailer 2 grossed 555.25 crore rupees.",
+      "Drishyam 3: The Conclusion grossed 455.75 crore rupees.",
+      "Hindi language share of India net collection is 44 percent.",
+      "Telugu language share is 18 percent.",
+      "Tamil language share is 15 percent.",
+      "English language share is 9 percent.",
+      "Malayalam language share is 7 percent.",
+      "Kannada language share is 3 percent.",
+      "Other languages share is 4 percent."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Suriya",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Dhurandhar 2: The Revenge",
+        "Ramayana",
+        "Spider-Man: Brand New Day",
+        "Jailer 2",
+        "Drishyam 3: The Conclusion",
+        "King",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Dhurandhar 2: The Revenge box office",
+      "Ramayana collection 2026",
+      "Indian box office record 2026",
+      "highest grossing year Indian cinema"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028576.jpg",
+        "caption": "Indian Box Office Sets All-Time Record as 2026 Surpasses 2025 Collections With Weeks to Spare",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 11:39:33 +0000"
+  },
+  "sxvhje": {
+    "id": "sxvhje",
+    "type": "news",
+    "headline": "Amitabh Bachchan and Abhishek Bachchan Face Death Threats From Gangster Goldy Dhillon",
+    "dek": "Gangster Goldy Dhillon has issued a fresh social media threat targeting Bollywood icons Amitabh Bachchan and Abhishek Bachchan, challenging ongoing security measures and referencing the 1984 anti-Sikh riots.",
+    "body": [
+      {
+        "h": "The Social Media Threat",
+        "p": [
+          "Bollywood veterans Amitabh Bachchan and Abhishek Bachchan have been named in a fresh threat allegedly issued by gangster Goldy Dhillon. The message surfaced on social media, claiming that recent arrests by law enforcement would not deter an alleged plan targeting the father-and-son duo.",
+          "The online post explicitly challenged existing protection measures, asserting that safety arrangements and bulletproof cabins would not prevent the intended harm. Authorities are currently reviewing the authenticity of the social media statements."
+        ]
+      },
+      {
+        "h": "Context of the 1984 Riots",
+        "p": [
+          "The social media post linked the threats to historical grievances surrounding the 1984 anti-Sikh riots. It warned that individuals deemed responsible for the violence would face consequences regardless of their global location.",
+          "The warning also stated that anyone speaking out against the Sikh community would be held accountable by the group, setting a hostile tone that preceded the specific naming of the Bachchan family."
+        ]
+      },
+      {
+        "h": "Delhi Police Arrests",
+        "p": [
+          "The threats arrive just days after the Delhi Police Special Cell arrested two suspected shooters on Saturday. The individuals were identified as Vikas Thakur, also known as Vicky, from Jalandhar, and Deepak Singh, also known as Deep, from Tarn Taran.",
+          "Investigators believe these suspects were connected to a broader conspiracy involving potential plans to open fire outside Amitabh Bachchan's Mumbai residence, as well as an alleged extortion scheme targeting a Delhi businessman."
+        ]
+      },
+      {
+        "h": "Security Measures at Jalsa",
+        "p": [
+          "Security around Amitabh Bachchan's Mumbai home, Jalsa, has seen a visible escalation following these developments. The residence has reportedly faced multiple bomb threat emails over the past month.",
+          "The heightened precautions were clearly evident during the actor's customary fan greeting on November 1. Amitabh Bachchan appeared behind a protective glass enclosure while standing on his usual wheeled pedestal."
+        ]
+      },
+      {
+        "h": "Gangster Claims on Associates",
+        "p": [
+          "In the same social media communication, Goldy Dhillon claimed that the detained men were operatives of their group and should not be linked to other gangs. The post insisted that the arrests would not halt their operations.",
+          "Furthermore, the statement alleged that roughly two hundred associates remain active in Mumbai to carry out directives, though law enforcement agencies are still verifying these claims."
+        ]
+      },
+      {
+        "h": "Ongoing Investigations",
+        "p": [
+          "Police officials and investigative agencies are closely examining the social media post as part of the wider inquiry into the alleged plots. The security apparatus surrounding the Bachchan family remains on high alert.",
+          "While the authenticity of the online post is yet to be independently verified, the combination of recent arrests and repeated threats has placed the household under intense scrutiny."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Gangster Goldy Dhillon issued a social media threat against Amitabh Bachchan and Abhishek Bachchan, dismissing security measures and citing the 1984 anti-Sikh riots. This development follows the Delhi Police Special Cell's arrest of two suspected shooters, Vikas Thakur and Deepak Singh, who were linked to potential plots involving the Bachchan residence and a Delhi businessman."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan and Abhishek Bachchan were named in a social media threat by Goldy Dhillon.",
+      "Delhi Police Special Cell arrested Vikas Thakur and Deepak Singh on Saturday.",
+      "Amitabh Bachchan appeared behind bulletproof glass during his fan greeting on November 1.",
+      "Jalsa has reportedly received three bomb threat emails over the past month."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Abhishek Bachchan",
+        "Goldy Dhillon",
+        "Vikas Thakur",
+        "Deepak Singh"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Amitabh Bachchan death threat",
+      "Goldy Dhillon threat Bachchans",
+      "Vikas Thakur Deepak Singh arrest",
+      "Amitabh Bachchan security Jalsa"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/bigbabhishekfeature-13961794830546.jpg",
+        "caption": "Amitabh Bachchan and Abhishek Bachchan Face Death Threats From Gangster Goldy Dhillon",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 17:33:23 +0530"
   }
 };
