@@ -165482,5 +165482,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 13:50:33 -0500"
+  },
+  "q2irbk": {
+    "id": "q2irbk",
+    "type": "news",
+    "headline": "Is Zeenat Aman Joining Pitch To Get Rich Season 2?",
+    "dek": "Recent sightings of Zeenat Aman on the sets of Pitch To Get Rich Season 2 have sparked widespread speculation about her potential role as a judge.",
+    "body": [
+      {
+        "h": "Sighting on Set",
+        "p": [
+          "Veteran actor Zeenat Aman was recently spotted on the production sets of the reality program Pitch To Get Rich Season 2. Her presence alongside prominent industry figures immediately drew attention from crew members and fans alike.",
+          "The appearance has fueled intense rumors regarding whether she will be taking on an official mentoring or judging capacity for the upcoming season of the entrepreneurship series."
+        ]
+      },
+      {
+        "h": "Company and Co-Stars",
+        "p": [
+          "During her visit, Aman was seen alongside well-known personalities Malaika Arora and filmmaker Karan Johar. The show is officially presented by Kalyan Jewellers.",
+          "While her co-stars from the first season and current production are heavily involved, the creators of the programme have not yet issued any official confirmation regarding Aman's permanent casting."
+        ]
+      },
+      {
+        "h": "Legacy in Fashion",
+        "p": [
+          "Aman's enduring impact on Indian fashion and cinema extends far past her most legendary silver screen performances. Her distinct aesthetic choices continue to resonate across generations of artists and designers.",
+          "Recently, actor Radhika Apte even acknowledged that Aman served as the primary visual inspiration for her distinctive look in the project Akka."
+        ]
+      },
+      {
+        "h": "Format of the Show",
+        "p": [
+          "Pitch To Get Rich serves as a unique platform where up-and-coming fashion entrepreneurs pitch their business ideas and collections directly to established names from the entertainment and corporate sectors.",
+          "The format bridges the gap between creative design and business viability, testing participants on both their aesthetic vision and their commercial acumen."
+        ]
+      },
+      {
+        "h": "Season One Roster",
+        "p": [
+          "The inaugural season of the business reality series established a high-profile panel consisting of major entertainment and fashion heavyweights.",
+          "The initial judging lineup featured Bollywood star Akshay Kumar, filmmaker Karan Johar, designer Manish Malhotra, and model-actor Malaika Arora."
+        ]
+      },
+      {
+        "h": "Open Questions",
+        "p": [
+          "Industry observers and fans are currently debating whether the veteran actor's appearance was simply a casual guest visit or a subtle preview of her involvement in the sophomore season.",
+          "Should she ultimately secure a seat at the judges' table, viewers will undoubtedly watch to see what specific design elements and business pitches capture her discerning eye."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Zeenat Aman was spotted on the set of Pitch To Get Rich Season 2 alongside Malaika Arora and Karan Johar, leading to speculation that she might join as a judge. Creators have not confirmed her involvement, leaving her role as either a guest or a mentor unverified."
+        ]
+      }
+    ],
+    "facts": [
+      "Zeenat Aman was recently clicked on the sets of Pitch To Get Rich Season 2.",
+      "She was spotted alongside Malaika Arora and Karan Johar.",
+      "The show is presented by Kalyan Jewellers.",
+      "Season 1 featured Akshay Kumar, Karan Johar, Manish Malhotra, and Malaika Arora.",
+      "Radhika Apte revealed Zeenat Aman was the inspiration behind her look in Akka."
+    ],
+    "entities": {
+      "people": [
+        "Zeenat Aman",
+        "Malaika Arora",
+        "Karan Johar",
+        "Akshay Kumar",
+        "Manish Malhotra",
+        "Radhika Apte"
+      ],
+      "titles": [
+        "Pitch To Get Rich",
+        "Akka"
+      ]
+    },
+    "keywords": [
+      "Zeenat Aman Pitch To Get Rich",
+      "Pitch To Get Rich Season 2",
+      "Zeenat Aman judge",
+      "Kalyan Jewellers Pitch To Get Rich"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/zeenataman31794836415.jpg",
+        "caption": "Is Zeenat Aman Joining Pitch To Get Rich Season 2?",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T19:14:26+05:30"
+  },
+  "hynwyb": {
+    "id": "hynwyb",
+    "type": "news",
+    "headline": "Ridley Scott Dedicates First Career Oscar to Late Brother Tony Scott in Emotional Acceptance Speech",
+    "dek": "Veteran filmmaker Ridley Scott accepted his first Academy Honorary Award via a prerecorded video at the 2026 Governors Awards, using the momentous occasion to honor his late brother, Tony Scott.",
+    "body": [
+      {
+        "h": "The Academy Honorary Award Presentation",
+        "p": [
+          "Renowned filmmaker Ridley Scott reached a historic milestone in his legendary career by receiving his very first Academy Award. The honor was presented during the 2026 Governors Awards held on November 15, 2026.",
+          "Although the veteran director was unable to attend the ceremony in person, he addressed the audience and Academy members through a prerecorded video message where he proudly displayed his newly won statuette."
+        ]
+      },
+      {
+        "h": "A Touching Tribute to Tony Scott",
+        "p": [
+          "In his acceptance speech, Ridley Scott chose to dedicate the prestigious accolade to his late brother, filmmaker Tony Scott, who passed away at the age of 68 more than a decade ago.",
+          "The director remarked that he accepted the award on behalf of Tony as well, asserting that his brother's remarkable body of work certainly deserved equal recognition from the film community."
+        ]
+      },
+      {
+        "h": "Reflecting on a Lifelong Creative Partnership",
+        "p": [
+          "Ridley Scott took time during his speech to look back on their decades-long artistic journey together, recalling how they started filming side by side during their early years.",
+          "That initial collaboration blossomed into two decades of commercial advertising work followed by five decades of feature filmmaking, cementing a powerful bond between the two storytelling brothers."
+        ]
+      },
+      {
+        "h": "Overcoming Past Oscar Dry Spells",
+        "p": [
+          "This latest achievement finally marks Ridley Scott's first win after a long history with the Academy. Across his five-decade career, he previously secured four competitive nominations without a single victory.",
+          "His prior nominations included Best Director nods for acclaimed projects like Thelma Louise, Gladiator, and Black Hawk Down, alongside a Best Picture nod for The Martian."
+        ]
+      },
+      {
+        "h": "Recent Career and Family Gratitude",
+        "p": [
+          "Alongside his heartfelt tribute to Tony, the Blade Runner director expressed deep appreciation for his wife, Giannina Facio, and his children for their ongoing support.",
+          "On the professional front, his most recent cinematic venture was the sci-fi action movie The Dog Stars, which was released earlier this year in August and featured a cast including Josh Brolin, Margaret Qualley, and Jacob Elordi."
+        ]
+      },
+      {
+        "h": "Legacy of Tony Scott",
+        "p": [
+          "Tony Scott carved out an extraordinary filmmaking legacy of his own, leaving behind a string of blockbuster hits and beloved cult classics that defined generations of action cinema.",
+          "Best known for directing Top Gun, Tony's impressive directorial filmography also features celebrated cinematic titles such as True Romance, Man on Fire, and Days of Thunder."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ridley Scott was awarded his first Academy Honorary Award via a prerecorded video at the 2026 Governors Awards on November 15, 2026. He dedicated the special honor to his late brother Tony Scott, reflecting on their lifelong partnership in filmmaking and his own career of previous nominations."
+        ]
+      }
+    ],
+    "facts": [
+      "Ridley Scott accepted his first Oscar at the 2026 Governors Awards on November 15, 2026.",
+      "Tony Scott passed away more than a decade ago at 68 years old.",
+      "Ridley Scott previously received four Oscar nominations for Thelma Louise, Gladiator, Black Hawk Down, and The Martian.",
+      "The Dog Stars was released in August earlier this year."
+    ],
+    "entities": {
+      "people": [
+        "Ridley Scott",
+        "Tony Scott",
+        "Giannina Facio",
+        "Josh Brolin",
+        "Margaret Qualley",
+        "Jacob Elordi",
+        "Mintu Kumar Tomar"
+      ],
+      "titles": [
+        "Top Gun",
+        "True Romance",
+        "Man on Fire",
+        "Days of Thunder",
+        "Blade Runner",
+        "Thelma Louise",
+        "Gladiator",
+        "Black Hawk Down",
+        "The Martian",
+        "The Dog Stars"
+      ]
+    },
+    "keywords": [
+      "Ridley Scott Oscar",
+      "Tony Scott Top Gun",
+      "Ridley Scott Governors Awards",
+      "The Dog Stars movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/ridley-scott.jpg?resize=1200,630",
+        "caption": "Ridley Scott Dedicates First Career Oscar to Late Brother Tony Scott in Emotional Acceptance Speech",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 21:44:52 +0000"
+  },
+  "1ffvaf5": {
+    "id": "1ffvaf5",
+    "type": "news",
+    "headline": "Panchayat Season 5 Delayed to 2027 as Makers Reveal Humorous Teasers",
+    "dek": "Prime Video confirms Panchayat Season 5 will not air in 2026, dropping witty promotional clips featuring Phulera villains Banrakas and Kranti Devi.",
+    "body": [
+      {
+        "h": "Phulera Returns Delayed",
+        "p": [
+          "Audiences awaiting a return to the fictional village of Phulera before the end of the year will have to exercise patience. Prime Video has confirmed that the much-anticipated fifth installment of the acclaimed series will not premiere as previously anticipated, pushing the timeline well into 2027.",
+          "Rumors and early speculation had pointed toward a potential late-year rollout. However, the streaming network poured cold water on those expectations, making it official that fans will need to wait longer to catch up with their favorite rural comedy-drama."
+        ]
+      },
+      {
+        "h": "Banrakas Breaks the News",
+        "p": [
+          "To deliver the disappointing update, the production team turned to the show's most notorious troublemakers. A clever social media campaign featured actor Durgesh Kumar reprising his role as Bhushan Sharma, widely known as Banrakas.",
+          "The promotional rollout began with a stark message informing viewers that the upcoming chapter would not arrive this year. The accompanying visual featured a smug-looking Banrakas with folded hands, signaling that the village rivals are holding the release hostage."
+        ]
+      },
+      {
+        "h": "Kranti Devi's Bizarre Ransom",
+        "p": [
+          "The playful campaign continued with a second promotional video starring Sunita Rajwar as Kranti Devi. Fresh off her recent electoral victory, the character flexed her newfound authority and demanded proper respect from the community.",
+          "Leaning into the humorous ransom angle, the promo urged impatient fans to visit a specific portal and place a costly garland worth Rs 1 crore around Banrakas to secure the release of the upcoming episodes."
+        ]
+      },
+      {
+        "h": "Looking Back at Season 4",
+        "p": [
+          "The upcoming fifth installment follows a dramatic preceding season that left audiences divided. The previous narrative arc featured significant political upheaval, notably when Kranti Devi successfully unseated Manju Devi in the village elections.",
+          "Beyond local politics, the fourth season also tackled major personal milestones. Viewers watched as Abhishek Tripathi finally cleared his CAT exam and navigated his growing feelings for Rinki."
+        ]
+      },
+      {
+        "h": "Expected Cast Returns",
+        "p": [
+          "While a precise premiere date for 2027 has not yet been announced, the core ensemble is expected to reprise their beloved roles. The creative universe of Phulera relies heavily on its familiar faces to drive the narrative forward.",
+          "Fans can look forward to seeing Jitendra Kumar, Neena Gupta, Raghubir Yadav, and Sanvikaa back in action alongside Faisal Malik and Chandan Roy as the village chaos resumes."
+        ]
+      },
+      {
+        "h": "Marketing Engine Warms Up",
+        "p": [
+          "Although the delay comes as a disappointment to eager followers, the interactive rollout demonstrates that promotional efforts are officially underway. By leaning into fan-favorite antagonist dynamics, the marketing team has successfully sustained viewer interest.",
+          "The cheeky teasers have kept social media engaged despite the extended timeline, proving that the rural inhabitants of Phulera remain a massive draw for streaming audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has confirmed that Panchayat Season 5 will not premiere in 2026, pushing its release into 2027. The delay was announced through witty social media teasers featuring characters Banrakas and Kranti Devi, who humorously claimed the upcoming season is locked."
+        ]
+      }
+    ],
+    "facts": [
+      "Panchayat Season 5 is delayed and will not release in 2026.",
+      "The delay announcement was made on Sunday, November 15, and Monday, November 16, 2026.",
+      "Durgesh Kumar plays Bhushan Sharma, also known as Banrakas.",
+      "Sunita Rajwar plays Kranti Devi.",
+      "The promotional campaign directs fans to visit Panchayatdate.com.",
+      "Kranti Devi dethroned Manju Devi in the Season 4 election upset.",
+      "Abhishek Tripathi cracked his CAT exam and confessed his feelings to Rinki in Season 4."
+    ],
+    "entities": {
+      "people": [
+        "Khushi Mundhwa",
+        "Durgesh Kumar",
+        "Sunita Rajwar",
+        "Jitendra Kumar",
+        "Neena Gupta",
+        "Raghubir Yadav",
+        "Sanvikaa",
+        "Faisal Malik",
+        "Chandan Roy"
+      ],
+      "titles": [
+        "Panchayat"
+      ]
+    },
+    "keywords": [
+      "Panchayat Season 5 delayed",
+      "Banrakas Kranti Devi teasers",
+      "Panchayatdate.com",
+      "Durgesh Kumar Sunita Rajwar"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/panchayat-season-51794825812.jpg",
+        "caption": "Panchayat Season 5 Delayed to 2027 as Makers Reveal Humorous Teasers",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T16:27:15+05:30"
+  },
+  "14k0sh9": {
+    "id": "14k0sh9",
+    "type": "news",
+    "headline": "Danny Boyle Shares Promising Update on 28 Years Later 3 and Cillian Murphy's Return",
+    "dek": "Director Danny Boyle reveals fresh details about the third installment of the 28 Years Later franchise, highlighting Alex Garland's script and Cillian Murphy's potential comeback.",
+    "body": [
+      {
+        "h": "Director Addresses Potential Third Installment",
+        "p": [
+          "Filmmaker Danny Boyle has opened up about the potential continuation of the horror franchise, shedding light on plans for a third picture. While speaking at the Deadline Contenders event, the director shared insights into the creative direction of the planned project.",
+          "Although the production has not received official confirmation to move forward, Boyle's recent remarks give fans a clear look at what the creative team envisions for the unfolding narrative."
+        ]
+      },
+      {
+        "h": "Praise for Alex Garland's Screenplay",
+        "p": [
+          "Boyle expressed strong enthusiasm for the writing craft of Alex Garland, who penned the screenplay for the upcoming chapter. The director described the written material as fantastic, emphasizing the high quality of the narrative structure.",
+          "Securing the necessary financial backing remains the primary hurdle for the team. Once funding is locked in, the project will be in a position to take its next steps toward realization."
+        ]
+      },
+      {
+        "h": "Cillian Murphy's Potential Comeback",
+        "p": [
+          "The update also touched upon the possible return of actor Cillian Murphy to the franchise. When asked if the actor would reprise his role, Boyle confirmed that he is definitely open to the idea.",
+          "Boyle further commended the character arc crafted specifically for Murphy by Garland, labeling the part as fantastic. This positive indicator suggests that the actor's involvement could become a cornerstone of the third movie."
+        ]
+      },
+      {
+        "h": "Connection to Earlier Films",
+        "p": [
+          "Murphy originally stepped into the shoes of character Jim in the 2002 horror feature 28 Days Later. Furthermore, a surprise appearance by his character at the conclusion of The Bone Temple laid the groundwork for a much larger narrative presence going forward.",
+          "The combination of these plot developments points toward a substantial continuation of Jim's journey within the overarching timeline of the series."
+        ]
+      },
+      {
+        "h": "Tying the Story Together",
+        "p": [
+          "Addressing the broader plot of the proposed sequel, Boyle indicated that it would neatly unify the disparate threads of the overarching saga. He noted that the third film is designed to complete the tale in a mathematically perfect way where the circle closes.",
+          "This narrative ambition aims to deliver a satisfying conclusion to the cinematic universe established decades ago, bringing every major story element to a harmonious resolution."
+        ]
+      },
+      {
+        "h": "Waiting on Production Greenlight",
+        "p": [
+          "Despite the encouraging status report, the venture still lacks formal production confirmation from studio executives. Boyle concluded his statements by expressing optimism that all necessary components will eventually align.",
+          "Fans of the franchise must wait for further announcements as the creative team works through the logistics required to bring the final piece of the trilogy to life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Danny Boyle has provided an encouraging update regarding the potential third installment of 28 Years Later, highlighting a script by Alex Garland and Cillian Murphy's willingness to return. While funding and formal production confirmation are still pending, the director envisions the sequel as a perfect narrative conclusion that closes the circle on the horror franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Danny Boyle discussed the franchise at the Deadline Contenders event",
+      "Alex Garland wrote the screenplay for the planned film",
+      "Cillian Murphy originally played Jim in the 2002 horror film 28 Days Later",
+      "Cillian Murphy's character appeared at the end of The Bone Temple"
+    ],
+    "entities": {
+      "people": [
+        "Danny Boyle",
+        "Cillian Murphy",
+        "Alex Garland",
+        "Jim",
+        "Isha Sharma"
+      ],
+      "titles": [
+        "28 Years Later",
+        "28 Days Later",
+        "The Bone Temple"
+      ]
+    },
+    "keywords": [
+      "28 Years Later 3",
+      "Cillian Murphy 28 Years Later",
+      "Danny Boyle 28 Years Later",
+      "Alex Garland screenplay"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/13_1eb9ac.jpg?resize=1200,630",
+        "caption": "Danny Boyle Shares Promising Update on 28 Years Later 3 and Cillian Murphy's Return",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 21:33:22 +0000"
   }
 };

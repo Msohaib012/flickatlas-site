@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T20:52:03Z",
-    "run_id": "43760310317",
-    "status": "success",
-    "checked": {
-     "candidates": 282,
-     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan Flaunts Toned Abs In King Song Tu Mil Jaye: How Men Can Build Muscle And Stay Strong After 50?",
-      "EXCL! Sumit Singh On Actors Facing Long Work Gaps: It Can Lead To Frustration, Self-Doubt & Even Depression",
-      "Bigg Boss 20 Weekend Ka Vaar: Salman Backs Manish Goel, Calls Out Qazi Touqeer's Behaviour- What Happened?",
-      "NBC Once Had Its Own Version Of Harry Potter, But This Dark Sitcom Never Got The Chance To Become A Hit",
-      "Some Of The Olsen Twins’ Iconic Movies Are Finally Streaming, But I’m Still Hoping Another Film Gets Added",
-      "I’m Not Rooting For JD And Elliot To Get Back Together On Scrubs (At Least Not This Week)",
-      "More Evidence Sydney Sweeney Might Be Following In Prince Harry And Meghan Markle’s Footsteps And Planning A Move",
-      "People Said Daniel Radcliffe Was ‘F--ked’ After Harry Potter. How He Succeeded Anyway",
-      "'Suits' Meets 'The Lincoln Lawyer' in Paramount+'s Near-Perfect Procedural",
-      "Gemma Arterton's 'Slow Horses' Replacement Officially Lands on MGM+ Next Week",
-      "This 3-Part Agatha Christie Masterpiece Doesn’t Flinch From Its Dark Ending",
-      "Hulu’s ‘The Boys’ Meets ‘Derry Girls’ Comedy Is a Perfect Weekend Binge",
-      "5 Upcoming Netflix Movies, Ranked by Hype",
-      "5 MCU TV Episodes To Watch Before 'Avengers: Doomsday'",
-      "‘The Penguin’ Star’s Divisive Sci-Fi Remake Is Officially a Surprise Streaming Smash",
-      "I Play Rocky's Final Fight Had to Match Every Punch | Set Stories",
-      "ABC’s ‘High Potential’ Replacement Isn’t Officially Renewed for Season 3 Yet",
-      "\"Taylor Sheridan Meets Taken\" Netflix Thriller Star & Director Want a Sequel Trilogy",
-      "Prime Video's (Very) R-Rated Sensation Is Officially a 6-Month Global Streaming Hit",
-      "All 6 Episodes of Apple TV's True Crime Thriller Miniseries Are Perfect From Start To Finish"
-     ],
-     "updated": [],
-     "count": 251,
-     "detail": "254 stories, 0 duplicates removed, 28 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-15T21:52:05Z",
     "run_id": "43765905549",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "435 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T22:51:35Z",
-    "run_id": "43771515007",
+    "run_at": "2026-11-16T21:51:59Z",
+    "run_id": "43964127870",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 388,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Part 1 Crosses Rs 1200 Crore Globally on Day 10",
-      "Taylor Sheridan's Yellowstone and Tulsa King Dominate Global Streaming Charts",
-      "Ritika Singh Completes Special Track for Megastar Chiranjeevi's Kaaka",
-      "Matt Damon Praises Robert Pattinson's Performance in The Odyssey as James Bond Casting Rumors Intensify"
+      "Dar-E-Nijaat: Move Over Korean Men; Abu Bakar Is The New Ideal Man & Here's How He Got The Women Drooling",
+      "Naked and Afraid star wins $175,000 after boss steals nude photos",
+      "Should Spider-Man: Brand New Day Get An Oscar Nom For Best Picture? A Sony Exec Makes The Case",
+      "I Think Boston Blue Is Setting Up A Messy Storyline For Lena (And I Hope I’m Wrong)",
+      "The 10 Best Classic American Movies, Ranked",
+      "3 Elite Netflix Series to Binge This Week (Nov 16-20)",
+      "Chris Pratt’s ‘Reacher’ Replacement Officially Gets New Prequel",
+      "'A Charlie Brown Thanksgiving' Has a Peppermint Patty Problem",
+      "Win Free Tickets to Our 'The Hunger Games: Sunrise on the Reaping' Screening With Q&A",
+      "‘Resident Evil’ Star’s Survival Thriller Officially Removed From Nearly 3,000 Theaters After Disastrous Box Office Run",
+      "‘The Pitt’ Season 3 Status Officially Addressed by Noah Wyle",
+      "The 10 Greatest Dragon Books of All Time, Ranked",
+      "Jake Gyllenhaal Uncovers a Deadly Mystery in M. Night Shyamalan’s Final Remain Trailer",
+      "Ridley Scott Accepts First Oscar With Moving Tribute to Late Brother Tony",
+      "Ice Cream Man 2: Hit Horror Movie Is Getting a Sequel, But It’s Not What Fans Think",
+      "Christina Applegate Fears Breast Implants Caused Mystery Illness in New Health Update",
+      "28 Years Later 3 & Cillian Murphy’s Return Get Major Update From Danny Boyle",
+      "The Angry Birds Movie 3 Quickly Parodies Robert Pattinson’s 007 Casting: ‘James Bomb’",
+      "Hulu’s New NSFW Erotic TV Show Casts Kyle MacLachlan, Lanterns Star, & More, Roles Revealed",
+      "Final US Trailer for France's 'De Gaulle - Part II: Liberty' Epic Biopic"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+4 articles, +0 box-office rows, 1 rows updated"
+     "count": 359,
+     "detail": "369 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-16T21:52:31Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Is Zeenat Aman Joining Pitch To Get Rich Season 2?",
+      "Ridley Scott Dedicates First Career Oscar to Late Brother Tony Scott in Emotional Acceptance Speech",
+      "Panchayat Season 5 Delayed to 2027 as Makers Reveal Humorous Teasers",
+      "Danny Boyle Shares Promising Update on 28 Years Later 3 and Cillian Murphy's Return"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-15T21:52:36Z",
-    "run_id": "43765905549",
-    "status": "success",
-    "checked": {
-     "candidates": 345,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 333, coming 12"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1887,27 @@
      "detail": "now 345, coming 11"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-15T22:51:36Z",
-    "run_id": "43771515007",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-16T21:52:31Z",
+    "run_id": "43964127870",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 356,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 345, coming 11"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2412,27 +2395,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-16T22:01:40Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1x37hn2",
+      "pbth5o",
+      "1aotwds"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-15T20:53:29Z",
-    "run_id": "43760310317",
-    "status": "success",
-    "checked": {
-     "candidates": 681,
-     "detail": "652 collected staging rows from readers; 229 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 662 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2846,19 +2832,27 @@
      "detail": "+0 new rows, 6 updated rows, 666 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T22:01:14Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": {
+     "candidates": 690,
+     "detail": "657 collected staging rows from readers; 229 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 669 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3095,32 +3089,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-15T22:51:36Z",
-    "run_id": "43771515007",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Part 1 Crosses Rs 1200 Crore Globally on Day 10",
-      "Taylor Sheridan's Yellowstone and Tulsa King Dominate Global Streaming Charts",
-      "Matt Damon Praises Robert Pattinson's Performance in The Odyssey as James Bond Casting Rumors Intensify",
-      "Ritika Singh Completes Special Track for Megastar Chiranjeevi's Kaaka"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3637,19 +3618,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-16T22:01:39Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ridley Scott Dedicates First Career Oscar to Late Brother Tony Scott in Emotional Acceptance Speech",
+      "Danny Boyle Shares Promising Update on 28 Years Later 3 and Cillian Murphy's Return",
+      "Is Zeenat Aman Joining Pitch To Get Rich Season 2?",
+      "Panchayat Season 5 Delayed to 2027 as Makers Reveal Humorous Teasers"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3879,64 +3873,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-15T20:52:36Z",
-    "run_id": "43760310317",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "sources": {
-      "trending": 19,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 36,
-      "pk_movies": 18
-     },
-     "picked": 20,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Ghamela (1703877)",
-      "我没错！ (1821748)",
-      "Murder in Galicia (303182)",
-      "Matrona (1814810)",
-      "Five Figurines (1755500)",
-      "Get Huge: Looksmaxxing to Death (340053)",
-      "In the Sweet Arms (1810733)",
-      "The Other Mother's Child (1823544)",
-      "Kill You! (1810503)",
-      "Hadoota (1658555)",
-      "No Trees, No Seas (1805276)",
-      "Craig Simons Is James Acaster (1814100)",
-      "Forgotten Founder: The Untold Story of Samson Occom and Dartmouth (1804633)",
-      "A Song from Beyond (1803124)",
-      "Rifugiati climatici (1803106)",
-      "LVX (1798143)",
-      "This Land (1797421)",
-      "Mother, There’s a Star in Me (1796870)",
-      "Nice to Meet You, Amigo (1788638)"
-     ],
-     "updated": [],
-     "count": 19
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4252,31 +4201,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-15T20:53:22Z",
-    "run_id": "43760310317",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 251 still unprocessed; today by category: movies 9/6, tv_dramas 17/4, episodes 2/2, box_office 11/6, celebrities_events 12/5, upcoming_releases 3/4, ott_streaming 8/4, trailers 2/3, awards 2/2, music_ost 4/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman",
-      "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads",
-      "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State",
-      "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4773,19 +4710,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-16T21:52:31Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 359 still unprocessed; today by category: movies 9/6, tv_dramas 17/4, episodes 1/2, box_office 13/6, celebrities_events 14/5, upcoming_releases 4/4, ott_streaming 6/4, trailers 3/3, awards 4/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Is Zeenat Aman Joining Pitch To Get Rich Season 2?",
+      "Ridley Scott Dedicates First Career Oscar to Late Brother Tony Scott in Emotional Acceptance Speech",
+      "Panchayat Season 5 Delayed to 2027 as Makers Reveal Humorous Teasers",
+      "Danny Boyle Shares Promising Update on 28 Years Later 3 and Cillian Murphy's Return"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5099,24 +5048,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-16T21:54:30Z",
+    "run_id": "43964127870",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 384,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5451,24 +5402,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 375,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5813,24 +5764,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 71,
+     "count": 18,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6080,19 +6031,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6327,19 +6278,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6624,19 +6575,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6877,19 +6828,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7119,19 +7070,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7384,30 +7335,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-14T18:52:42Z",
-    "run_id": "43628829482",
-    "status": "success",
-    "checked": {
-     "candidates": 553,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 540"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7889,24 +7829,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-16T21:53:31Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": {
+     "candidates": 565,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 508"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 57,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8146,19 +8092,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-15T20:53:43Z",
-    "run_id": "43760310317",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8423,8 +8369,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-16T22:01:47Z",
+    "run_id": "43964127870",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5935,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-16T20:58:23Z"
+ "updated_at": "2026-11-16T22:01:47Z"
 }

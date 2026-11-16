@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-16T20:38:34Z",
+  "generated": "2026-11-16T22:01:46Z",
   "realtime": {
-    "active_users": 3
+    "active_users": 4
   },
   "today": {
     "users": 0,
@@ -11,10 +11,10 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 582,
-    "pageviews": 851,
-    "sessions": 621,
-    "avg_session_seconds": 31.6
+    "users": 590,
+    "pageviews": 859,
+    "sessions": 630,
+    "avg_session_seconds": 31.2
   },
   "top_pages": [
     {
@@ -48,6 +48,12 @@
       "avg_time_seconds": 22.1
     },
     {
+      "path": "/episode-guides",
+      "title": "Pakistani Drama Episode Guides | FlickAtlas",
+      "views": 15,
+      "avg_time_seconds": 12.7
+    },
+    {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
       "views": 15,
@@ -58,12 +64,6 @@
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
       "views": 15,
       "avg_time_seconds": 8.9
-    },
-    {
-      "path": "/episode-guides",
-      "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 13.3
     },
     {
       "path": "/movie",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 601,
-      "users": 569
+      "sessions": 609,
+      "users": 577
     },
     {
       "source": "(not set)",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 168
+      "users": 172
     },
     {
       "country": "Brazil",
@@ -139,17 +139,17 @@
     },
     {
       "country": "Indonesia",
-      "users": 23
+      "users": 24
     },
     {
       "country": "Malaysia",
-      "users": 18
+      "users": 19
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 574
+      "users": 582
     },
     {
       "device": "mobile",
