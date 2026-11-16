@@ -1,7 +1,87 @@
 {
  "bucket": "48",
- "count": 70,
+ "count": 71,
  "titles": {
+  "movie:1032948": {
+   "d": "V/H/S/85 (2023): Horror/Thriller film. Story: Unveiled through a made-for-TV documentary, five… See cast, TMDB rating 5.7/10, and release date 23 November 2023.",
+   "img": "https://image.tmdb.org/t/p/w780/tz2qCTvpGXfYt63QTfIYpjGqsNi.jpg",
+   "industry": "world",
+   "k": "V/H/S/85, V/H/S/85 movie, V/H/S/85 cast, V/H/S/85 story, V/H/S/85 box office collection, V/H/S/85 budget, V/H/S/85 review, V/H/S/85 rating, V/H/S/85 release date, V/H/S/85 trailer, V/H/S/85 Horror, V/H/S/85 Thriller, international movies, FlickAtlas",
+   "ld": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+     {
+      "@type": "Person",
+      "name": "Alex Galick"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Sundberg"
+     },
+     {
+      "@type": "Person",
+      "name": "Chelsey Grant"
+     },
+     {
+      "@type": "Person",
+      "name": "Toussaint Morrison"
+     },
+     {
+      "@type": "Person",
+      "name": "Anna Hashizume"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "bestRating": 10,
+     "ratingCount": 207,
+     "ratingValue": 5.7,
+     "worstRating": 0
+    },
+    "description": "V/H/S/85 (2023): Horror/Thriller film. Story: Unveiled through a made-for-TV documentary, five… See cast, TMDB rating 5.7/10, and release date 23 November 2023.",
+    "director": [
+     {
+      "@type": "Person",
+      "name": "Scott Derrickson"
+     },
+     {
+      "@type": "Person",
+      "name": "David Bruckner"
+     },
+     {
+      "@type": "Person",
+      "name": "Natasha Kermani"
+     },
+     {
+      "@type": "Person",
+      "name": "Mike P. Nelson"
+     },
+     {
+      "@type": "Person",
+      "name": "Gigi Saul Guerrero"
+     }
+    ],
+    "duration": "PT111M",
+    "genre": [
+     "Horror",
+     "Thriller"
+    ],
+    "image": "https://image.tmdb.org/t/p/w780/tz2qCTvpGXfYt63QTfIYpjGqsNi.jpg",
+    "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1032948",
+    "name": "V/H/S/85",
+    "releasedEvent": {
+     "@type": "PublicationEvent",
+     "startDate": "2023-11-23"
+    },
+    "url": "https://flickatlas.co.uk/movie?id=1032948"
+   },
+   "modified": "",
+   "published": "2026-11-16",
+   "ssr": "<article class=\"ssr-facts\">\n<h1>V/H/S/85 (2023)</h1>\n<p class=\"ssr-lead\">Unveiled through a made-for-TV documentary, five chilling tales of found footage horror emerge to take viewers on a gore-filled journey through the grim underbelly of the forgotten 1980s.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2023</li><li>Runtime: 111 minutes</li><li>Director: Scott Derrickson, David Bruckner, Natasha Kermani, Mike P. Nelson, Gigi Saul Guerrero</li><li>Genres: Horror, Thriller</li><li>TMDB rating: 5.7/10 (207 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Alex Galick as Rob (segment &quot;No Wake/Ambrosia&quot;)</li><li>Anna Sundberg as Robin (segment &quot;No Wake/Ambrosia&quot;)</li><li>Chelsey Grant as Kelly (segment &quot;No Wake/Ambrosia&quot;)</li><li>Toussaint Morrison as Drew (segment &quot;No Wake/Ambrosia&quot;)</li><li>Anna Hashizume as Anna (segment &quot;No Wake/Ambrosia&quot;)</li><li>Tom Reed as Jared (segment &quot;No Wake/Ambrosia&quot;)</li><li>Evie Bair as Ruth (segment &quot;No Wake/Ambrosia&quot;)</li><li>Renee Werbowski as Renee (segment &quot;No Wake/Ambrosia&quot;)</li><li>Mike Lester as James (segment &quot;No Wake/Ambrosia&quot;)</li><li>Justen Jones as Uncle Jeff (segment &quot;No Wake/Ambrosia&quot;)</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Philo, AMC Plus Apple TV channel, AMC+ Amazon Channel, AMC+ Roku Premium Channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel</li><li>Rent: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home, Plex</li><li>Buy: Amazon Video, Apple TV Store, Google Play Movies, YouTube, Fandango At Home</li></ul>\n</article>",
+   "t": "V/H/S/85 (2023) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+   "year": "2023"
+  },
   "movie:10348": {
    "d": "Thunderbolt (1995): Action/Thriller film. Story: In order to release his kidnapped sisters, sports car… See cast, budget $3.83M, and TMDB rating 6.5/10.",
    "img": "https://image.tmdb.org/t/p/w780/4B5L3OQsta7N7qr08yRS44ESIKK.jpg",

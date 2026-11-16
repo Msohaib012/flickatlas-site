@@ -1,7 +1,248 @@
 {
  "bucket": "48",
- "count": 70,
+ "count": 71,
  "titles": {
+  "movie:1032948": {
+   "backdrop_path": "/tz2qCTvpGXfYt63QTfIYpjGqsNi.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Rob (segment \"No Wake/Ambrosia\")",
+     "n": "Alex Galick"
+    },
+    {
+     "c": "Robin (segment \"No Wake/Ambrosia\")",
+     "n": "Anna Sundberg"
+    },
+    {
+     "c": "Kelly (segment \"No Wake/Ambrosia\")",
+     "n": "Chelsey Grant"
+    },
+    {
+     "c": "Drew (segment \"No Wake/Ambrosia\")",
+     "n": "Toussaint Morrison"
+    },
+    {
+     "c": "Anna (segment \"No Wake/Ambrosia\")",
+     "n": "Anna Hashizume"
+    },
+    {
+     "c": "Jared (segment \"No Wake/Ambrosia\")",
+     "n": "Tom Reed"
+    },
+    {
+     "c": "Ruth (segment \"No Wake/Ambrosia\")",
+     "n": "Evie Bair"
+    },
+    {
+     "c": "Renee (segment \"No Wake/Ambrosia\")",
+     "n": "Renee Werbowski"
+    },
+    {
+     "c": "James (segment \"No Wake/Ambrosia\")",
+     "n": "Mike Lester"
+    },
+    {
+     "c": "Uncle Jeff (segment \"No Wake/Ambrosia\")",
+     "n": "Justen Jones"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Scott Derrickson",
+    "David Bruckner",
+    "Natasha Kermani",
+    "Mike P. Nelson",
+    "Gigi Saul Guerrero"
+   ],
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "id": 1032948,
+   "industry": "world",
+   "origin_country": [
+    "MX",
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Unveiled through a made-for-TV documentary, five chilling tales of found footage horror emerge to take viewers on a gore-filled journey through the grim underbelly of the forgotten 1980s.",
+   "popularity": 1.8874,
+   "poster_path": "/aM3wnZTKEuPLDwxuMWcHDibOkiw.jpg",
+   "production_countries": [
+    "MX",
+    "US",
+    "CA"
+   ],
+   "providers": [
+    {
+     "name": "Philo"
+    },
+    {
+     "name": "AMC Plus Apple TV channel"
+    },
+    {
+     "name": "AMC+ Amazon Channel"
+    },
+    {
+     "name": "AMC+ Roku Premium Channel"
+    },
+    {
+     "name": "AMC+"
+    },
+    {
+     "name": "Shudder"
+    },
+    {
+     "name": "Shudder Amazon Channel"
+    },
+    {
+     "name": "Shudder Apple TV channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+     "name": "Philo",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+     "name": "AMC Plus Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+     "name": "AMC+ Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+     "name": "AMC+ Roku Premium Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+     "name": "AMC+",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+     "name": "Shudder",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+     "name": "Shudder Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/56UClPygDruoT7kvuPeIMJC59Zx.png",
+     "name": "Shudder Apple TV channel",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+     "name": "Plex",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-16",
+   "release_date": "2023-11-23",
+   "revenue": 0,
+   "runtime": 111,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "es"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "V/H/S/85",
+   "trailer": {
+    "key": "Ke20dnbwZXs",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 5.7,
+   "vote_count": 207
+  },
   "movie:10348": {
    "backdrop_path": "/4B5L3OQsta7N7qr08yRS44ESIKK.jpg",
    "budget": 3825240,
