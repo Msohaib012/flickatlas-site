@@ -165074,5 +165074,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 18:44:45 GMT"
+  },
+  "10a94t5": {
+    "id": "10a94t5",
+    "type": "news",
+    "headline": "Ramayana Part 1 Crosses Rs 763 Crore in India on Day 12",
+    "dek": "Nitesh Tiwari's epic adaptation maintains a steady pace on its second Monday, pushing its domestic net collections past Rs 763 crore.",
+    "body": [
+      {
+        "h": "Steady Second Monday Momentum",
+        "p": [
+          "Ramayana Part 1 has begun its second Monday with steady morning momentum at the ticket windows. Early live estimates indicate that the movie brought in Rs 2.42 crore net across 4,742 tracked shows on its twelfth day.",
+          "This latest addition lifts the film's total domestic net collections to an impressive Rs 763.02 crore. Meanwhile, the overall India gross has now reached Rs 911.86 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Contributions",
+        "p": [
+          "The Hindi version continues to drive the box office performance significantly. Early tracking shows the Hindi language belt contributing Rs 1.79 crore from 3,889 shows.",
+          "Regional dubbed versions are also sustaining their audience bases well. The Telugu version added Rs 26 lakh from 355 shows, the Tamil version brought in Rs 21 lakh from 280 shows, and the Kannada version chipped in with Rs 16 lakh across 218 shows."
+        ]
+      },
+      {
+        "h": "Historic Weekend Run",
+        "p": [
+          "This steady weekday hold comes on the heels of a massive second weekend. Over the three-day weekend period, the feature raked in a massive Rs 196 crore net across India.",
+          "Sunday proved particularly electric, pulling in Rs 75 crore net and registering a neat 2.9 percent jump compared to Saturday's collection of Rs 72.90 crore."
+        ]
+      },
+      {
+        "h": "Global Box Office Strength",
+        "p": [
+          "International markets have warmly embraced the visual spectacle as well. Strong overseas performance has pushed the film's eleven-day worldwide gross past the Rs 1,384.50 crore mark.",
+          "The global appeal of the project reflects its broad reach, maintaining heavy audience engagement well into its second week of theatrical exhibition."
+        ]
+      },
+      {
+        "h": "Theatrical Strategy and No OTT",
+        "p": [
+          "A major factor behind this relentless box office run is the deliberate choice by the makers to withhold digital streaming. Producer and distributor Dil Raju recently explained that the project has not sold its OTT or satellite rights in order to ensure audiences visit theatres to watch the epic.",
+          "This theatrical exclusivity has successfully driven families and fans to big screens, eliminating any immediate home-viewing alternatives."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 crossed Rs 763 crore in India by its twelfth day, fueled by a strong second weekend and sustained ticket sales across multiple languages. The absence of an immediate digital streaming release has successfully encouraged audiences to experience the epic visual spectacle on the big screen."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 16, 2026",
+      "Day 12 net collection is Rs 2.42 crore",
+      "Total domestic net collection is Rs 763.02 crore",
+      "Total India gross stands at Rs 911.86 crore",
+      "Hindi version collected Rs 1.79 crore on Day 12",
+      "Telugu version collected Rs 26 lakh on Day 12",
+      "Tamil version collected Rs 21 lakh on Day 12",
+      "Kannada version collected Rs 16 lakh on Day 12",
+      "Second weekend net collection in India was Rs 196 crore",
+      "Sunday collection was Rs 75 crore",
+      "Saturday collection was Rs 72.90 crore",
+      "Worldwide gross past eleven days crossed Rs 1,384.50 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Dil Raju",
+        "Khushi Mundhwa"
+      ],
+      "titles": [
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Nitesh Tiwari Ramayana Part 1",
+      "Ramayana Day 12 collection"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana-box-office1794813618.jpg",
+        "caption": "Ramayana Part 1 Crosses Rs 763 Crore in India on Day 12",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T13:05:35+05:30"
+  },
+  "b7xhvm": {
+    "id": "b7xhvm",
+    "type": "news",
+    "headline": "Pop Star Charli xcx and Electronic Producers Hit Back at DJ John Summit Over 2027 Grammy Nominations Rant",
+    "dek": "Following a shutout at the 2027 Grammy Awards, DJ John Summit publicly criticized the Recording Academy for prioritizing pop acts over underground club culture, prompting sharp reactions from Charli xcx and several prominent electronic producers.",
+    "body": [
+      {
+        "h": "The Grammy Controversy Begins",
+        "p": [
+          "The 2027 Grammy Awards nominations sparked widespread debate when DJ John Summit voiced severe frustrations regarding the electronic dance music categories. After receiving zero nominations for the upcoming ceremony, the 32-year-old artist declared that he would halt all future music submissions unless the Recording Academy implements major changes. He argued passionately that the contemporary dance categories have become entirely overtaken by mainstream pop stars rather than authentic club DJs, asserting that the nominated tracks are largely absent from actual nightlife venues."
+        ]
+      },
+      {
+        "h": "Charli xcx Delivers a Sharp Rebuke",
+        "p": [
+          "Pop star Charli xcx quickly stepped into the online discourse, offering a blunt public response to the DJ's complaints. Replying directly to his social media posts, the 34-year-old singer wrote, \"not this guy again!\" on Monday, November 16, 2026. This digital clash follows an earlier disagreement between the two musicians back in April 2026 concerning the overarching state of modern dance music. Despite their past friction, John had previously expressed a desire to collaborate with her on a specific unreleased track."
+        ]
+      },
+      {
+        "h": "Producers Challenge Industry Authenticity Claims",
+        "p": [
+          "John's assertion that the nominated artists lacked true roots in the underground scene drew immediate pushback from fellow electronic music creators. Producer nightfeelings, who contributed to Tinashe's Grammy-nominated track \"Melatonin,\" publicly detailed extensive underground credentials to counter the DJ's remarks. Highlighting a background that includes releasing projects on the same labels as Aphex Twin, performing at Berlin's renowned Berghain nightclub, and collaborating with Romanthony, the producer directly challenged the narrative that Grammy-recognized artists are detached from club culture."
+        ]
+      },
+      {
+        "h": "Broader Industry Pushback From Electronic Acts",
+        "p": [
+          "Beyond nightfeelings, multiple other prominent figures within the electronic and experimental music landscape chimed in on the controversy. Electronic duo Frost Children, producer umru, and artist horsegiirL all posted reactions expressing skepticism or dismissal of John's grievances. HorsegiirL specifically questioned the frequency of such public complaints from male musicians within the community, amplifying the growing chorus of industry peers pushing back against his statements."
+        ]
+      },
+      {
+        "h": "Clarifications and Star-Studded Nominee Field",
+        "p": [
+          "As the online debate escalated, John defended his initial stance by clarifying that he was targeting category classification rather than the artistic quality of his peers. The competitive 2027 dance and general categories feature a diverse roster of established acts, including Madonna, Tinashe, Slayyyter, Robyn, Skrillex, Tame Impala, and Fred again.., among numerous others whose works were embraced by voters."
+        ]
+      },
+      {
+        "h": "Charli xcx Celebrates Multiple Major Nominations",
+        "p": [
+          "While navigating the public social media feud, Charli xcx has substantial personal accomplishments to celebrate regarding the upcoming ceremony. The pop star earned multiple notable nods for the 2027 event, securing recognition for Best Alternative Music Album for Music, Fashion, Film, Best Compilation Soundtrack for Visual Media for Wuthering Heights, and Best Song Written for Visual Media for her collaboration \"House\" featuring John Cale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DJ John Summit faced severe backlash from Charli xcx and various electronic music producers after criticizing the 2027 Grammy nominations and vowing to stop submitting his work. While the DJ argued that pop acts have unfairly dominated true dance categories, his remarks were met with swift pushback from artists who cited their own deep underground credentials and celebrated their official nominations."
+        ]
+      }
+    ],
+    "facts": [
+      "The events took place on Monday, November 16, 2026.",
+      "John Summit is 32 years old.",
+      "Charli xcx is 34 years old.",
+      "John Summit received zero nominations for the 2027 Grammy Awards.",
+      "Charli xcx received nominations for Best Alternative Music Album for Music, Fashion, Film, Best Compilation Soundtrack for Visual Media for Wuthering Heights, and Best Song Written for Visual Media for \"House\" with John Cale.",
+      "Other nominees mentioned include Madonna, Tinashe, Slayyyter, Robyn, Skrillex, Tame Impala, and Fred again.."
+    ],
+    "entities": {
+      "people": [
+        "Charli xcx",
+        "John Summit",
+        "nightfeelings",
+        "Tinashe",
+        "Aphex Twin",
+        "Romanthony",
+        "Andy Weatherall",
+        "umru",
+        "horsegiirL",
+        "Madonna",
+        "Slayyyter",
+        "Robyn",
+        "Skrillex",
+        "Tame Impala",
+        "Fred again..",
+        "John Cale"
+      ],
+      "titles": [
+        "Melatonin",
+        "Cheaters",
+        "Music, Fashion, Film",
+        "Wuthering Heights",
+        "House"
+      ]
+    },
+    "keywords": [
+      "Charli xcx",
+      "John Summit",
+      "2027 Grammy Awards",
+      "nightfeelings",
+      "Tinashe Melatonin"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/charli-xcx-john-summit.jpg",
+        "caption": "Pop Star Charli xcx and Electronic Producers Hit Back at DJ John Summit Over 2027 Grammy Nominations Rant",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 18:41:10 +0000"
+  },
+  "11gv3kh": {
+    "id": "11gv3kh",
+    "type": "news",
+    "headline": "Dhanush and Mammootty Starrer OM Operation Mole Completes Censor Formalities Ahead of Global Launch",
+    "dek": "The high-profile action thriller featuring Dhanush, Mammootty, and Sai Pallavi secures a U/A censor certificate alongside a fresh title revision before its worldwide theatrical debut.",
+    "body": [
+      {
+        "h": "Title Update And Censor Board Clearance",
+        "p": [
+          "The forthcoming action drama starring Dhanush has undergone an official title modification just days prior to its theatrical debut. Initially presented to audiences as OM: Chapter 1 – Udhiram: The Blood Wood, the venture will now hit screens under the name OM: Operation Mole.",
+          "Alongside the revised branding revealed through promotional posters, the production has successfully navigated its clearance formalities with the censor board. The Central Board of Film Certification has granted the project a U/A certificate."
+        ]
+      },
+      {
+        "h": "Cast And Creative Personnel",
+        "p": [
+          "Helmed by filmmaker Rajkumar Periasamy, the project brings together a prominent ensemble cast. In addition to leads Dhanush and Mammootty, the picture features notable performances from Sai Pallavi, Sreeleela, and veteran actor Naseeruddin Shah, alongside Indrans and Chaitu Jonnalagadda.",
+          "Behind the camera, the technical team includes Sai Abhyankkar composing the musical score, Ezhil Arasu K managing cinematography, and R Kalaivanan overseeing editing tasks. The high-octane sequences are orchestrated by stunt directors Yannick Ben and Kecha Khamphakdee."
+        ]
+      },
+      {
+        "h": "Plot Premise And Franchise Plans",
+        "p": [
+          "Scripted as an intense action thriller, the narrative centers on a protagonist who comes to the rescue of Tamil woodcutters detained by local police within a forest area in Tiruvannamalai.",
+          "This project is structured as the inaugural chapter of a planned two-part cinematic franchise. It also marks the milestone 55th lead acting venture for Dhanush, initially tracked during production under the tentative title D55."
+        ]
+      },
+      {
+        "h": "Global Theatrical Release Schedule",
+        "p": [
+          "Audiences worldwide can expect the feature to arrive in cinemas on November 20, 2026. The distribution strategy encompasses multi-language prints in Tamil, Telugu, and Hindi, with Sithara Entertainments taking charge of the Telugu theatrical distribution network."
+        ]
+      },
+      {
+        "h": "Previous Postponement And Clash Avoidance",
+        "p": [
+          "The arrival of the movie in theaters follows a rescheduling from an originally planned window in October 2026. Makers chose to shift the timeline to steer clear of potential box office competition with Rajinikanth's Jailer 2 and Suriya's Scene."
+        ]
+      },
+      {
+        "h": "Production Backing And Collaborators",
+        "p": [
+          "Financing for the multi-language spectacle is spearheaded by Wunderbar Films and RTake Studios. Dhanush shares producer responsibilities on the venture alongside collaborators Shraddha Agrawal and Azmat Jagmag."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The action thriller OM Operation Mole starring Dhanush and Mammootty has earned a U/A censor certificate and undergone a title change ahead of its worldwide release on November 20, 2026. Directed by Rajkumar Periasamy, the multi-language film features an ensemble cast including Sai Pallavi and Naseeruddin Shah while serving as the first part of a planned two-movie franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: November 20, 2026",
+      "New title: OM: Operation Mole",
+      "Previous tentative titles: OM: Chapter 1 – Udhiram: The Blood Wood and D55",
+      "Censor certification: U/A",
+      "Director: Rajkumar Periasamy",
+      "Cast members: Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, Indrans, Chaitu Jonnalagadda",
+      "Production companies: Wunderbar Films, RTake Studios",
+      "Producers: Dhanush, Shraddha Agrawal, Azmat Jagmag",
+      "Music composer: Sai Abhyankkar",
+      "Cinematographer: Ezhil Arasu K",
+      "Editor: R Kalaivanan",
+      "Stunt directors: Yannick Ben, Kecha Khamphakdee",
+      "Languages: Tamil, Telugu, Hindi",
+      "Telugu distributor: Sithara Entertainments",
+      "Setting: Tiruvannamalai forest"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Chaitu Jonnalagadda",
+        "Rajkumar Periasamy",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R Kalaivanan",
+        "Yannick Ben",
+        "Kecha Khamphakdee",
+        "Shraddha Agrawal",
+        "Azmat Jagmag",
+        "Rajinikanth",
+        "Suriya"
+      ],
+      "titles": [
+        "OM: Operation Mole",
+        "OM: Chapter 1 – Udhiram: The Blood Wood",
+        "Jailer 2",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "Dhanush Mammootty film",
+      "Rajkumar Periasamy",
+      "OM Chapter 1 Udhiram The Blood Wood"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156517714,thumbsize-677710,width-1280,height-720,resizemode-75/156517714.jpg",
+        "caption": "Dhanush and Mammootty Starrer OM Operation Mole Completes Censor Formalities Ahead of Global Launch",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T20:12:21Z"
+  },
+  "gyg0qt": {
+    "id": "gyg0qt",
+    "type": "news",
+    "headline": "Jack Lowden Secures Major Future for Slow Horses Following James Bond Casting Outcome",
+    "dek": "While Robert Pattinson claims the legendary 007 role, Jack Lowden receives massive career security with a multi-season renewal for his hit Apple TV series.",
+    "body": [
+      {
+        "h": "The Double Milestone for Jack Lowden",
+        "p": [
+          "Actor Jack Lowden has experienced a significant career turn of events, receiving a major professional boost immediately following the conclusion of the high-profile casting search for the next James Bond. While Robert Pattinson ultimately clinched the iconic 007 role, Lowden's acclaimed Apple TV espionage thriller secured an extensive multi-season renewal.",
+          "The timing of these announcements brought considerable attention to Lowden, who plays the ambitious MI5 intelligence officer River Cartwright in the hit television program. Instead of stepping away into the cinematic franchise, the performer maintains his prominent role on the small screen with guaranteed job security well into the future."
+        ]
+      },
+      {
+        "h": "Early Multi-Season Renewal Details",
+        "p": [
+          "Apple TV confirmed that the popular spy drama has locked in an early continuation, pushing its production schedule forward by ordering both Seasons 9 and 10 concurrently. This massive vote of confidence arrives as the series completes the broadcast of its sixth season, with the seventh installment scheduled to debut in the fall of 2027.",
+          "Production teams have already wrapped filming on upcoming segments and remain actively engaged in shooting the eighth chapter in London. This steady and expanding production pipeline ensures that fans of the intricate intelligence thriller will enjoy a continuous stream of episodes over the coming years."
+        ]
+      },
+      {
+        "h": "The Intense 007 Casting Race",
+        "p": [
+          "Speculation surrounding the iconic secret agent vacancy reached a fever pitch as industry insiders narrowed down the final shortlist of actors competing for the tuxedo. Alongside Robert Pattinson, the competitive group of finalists included Jack Lowden, Nicholas Hoult, Josh O'Connor, and Callum Turner, following a years-long search by studio executives.",
+          "Rumors and leaks continuously circulated throughout Hollywood regarding who might inherit the cinematic mantle from Daniel Craig. Early whispers even suggested that one contender might have accidentally leaked the news during a night out at a London establishment before the final decision was officially reached."
+        ]
+      },
+      {
+        "h": "Fan Anxieties and Show Continuity",
+        "p": [
+          "Viewers of the espionage drama had grown deeply concerned about the future of the program amid mounting rumors that Lowden was a frontrunner for the secret agent position. Many followers feared that if the Scottish actor transitioned into the demanding movie franchise, the streaming series might face cancellation or forced conclusions.",
+          "Co-star Gary Oldman previously validated the growing rumors by openly discussing Lowden's placement on the official casting shortlist. With the casting decision now settled and the leading man remaining anchored to his current television project, audience anxieties regarding the fate of the show have been entirely put to rest."
+        ]
+      },
+      {
+        "h": "Lowden and Pattinson React to the News",
+        "p": [
+          "Throughout the intense rumor mill, Lowden maintained a composed stance, publicly acknowledging on November 2 that being mentioned in connection with such a legendary part was undeniably flattering while declining to fuel further speculation. Meanwhile, his previous credits include notable performances in projects like Dunkirk alongside Emmy and BAFTA recognition.",
+          "On the other side of the casting decision, Robert Pattinson was officially revealed as the next cinematic 007 through a promotional video featuring the actor in a black tuxedo. Expressing deep gratitude to studio leadership, Pattinson described stepping into the role as the honor of a lifetime and a dream come true."
+        ]
+      },
+      {
+        "h": "Legacy of the Franchise and Finalists",
+        "p": [
+          "The selection process involved rigorous screen testing in London, where Pattinson and Hoult competed closely before the former Twilight star ultimately secured the part over his fellow finalists. This brings a definitive conclusion to the prolonged search for a successor to Daniel Craig, who served as the sixth actor to portray the British secret agent following predecessors such as Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, and Pierce Brosnan.",
+          "With the last cinematic installment arriving in 2021, anticipation for the upcoming era of the spy franchise remains exceptionally high among global audiences. As the torch passes to a new generation, both major franchises—the cinematic landmark and the streaming thriller—continue to chart strong futures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jack Lowden received a major career boost when his streaming espionage series secured an early renewal for Seasons 9 and 10, coinciding with Robert Pattinson being chosen as the next James Bond after a competitive search among several finalists. While Lowden will not be portraying the iconic secret agent, he remains committed to his role as an MI5 intelligence officer in the ongoing television thriller."
+        ]
+      }
+    ],
+    "facts": [
+      "Jack Lowden plays River Cartwright in Slow Horses.",
+      "Slow Horses scored an early renewal for Seasons 9 and 10.",
+      "Slow Horses Season 7 will return in the fall of 2027.",
+      "Robert Pattinson was cast as the new James Bond.",
+      "Jack Lowden was one of four finalists competing to be the next 007 alongside Nicholas Hoult, Josh O'Connor, and Callum Turner.",
+      "Jack Lowden commented on the rumors on November 2.",
+      "Daniel Craig was the sixth actor to portray James Bond.",
+      "The last James Bond film was No Time to Die released in 2021."
+    ],
+    "entities": {
+      "people": [
+        "Jack Lowden",
+        "Robert Pattinson",
+        "Mick Herron",
+        "Gary Oldman",
+        "Nicholas Hoult",
+        "Josh O'Connor",
+        "Callum Turner",
+        "Denis",
+        "Amy",
+        "David",
+        "Tanya",
+        "Daniel Craig",
+        "Sean Connery",
+        "George Lazenby",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan"
+      ],
+      "titles": [
+        "Slow Horses",
+        "Dunkirk",
+        "The Crown",
+        "No Time to Die"
+      ]
+    },
+    "keywords": [
+      "Jack Lowden Slow Horses",
+      "Robert Pattinson James Bond",
+      "Slow Horses Seasons 9 and 10",
+      "Jack Lowden James Bond"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148979965.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Jack Lowden Secures Major Future for Slow Horses Following James Bond Casting Outcome",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 13:50:33 -0500"
   }
 };
