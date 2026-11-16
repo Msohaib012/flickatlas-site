@@ -30112,5 +30112,475 @@ window.FA_PUBLISHED = {
     ],
     "first_air_date": "1999-10-20",
     "popularity": 384.9749
+  },
+  "342272": {
+    "id": 342272,
+    "type": "tv",
+    "title": "Queen",
+    "poster_path": "/opSdadK4SAxjP38kxsMKc5fVp81.jpg",
+    "backdrop_path": "/jNRQtkhrAYZVIVRdq3nXsG7crEF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Love betrayed Neeti and an assault shattered her world. As fate leads her into a powerful political family, can she navigate this challenging new world?",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-16",
+    "popularity": 0
+  },
+  "1796177": {
+    "id": 1796177,
+    "type": "movie",
+    "title": "Astrodude: A SolarBalls Movie",
+    "poster_path": "/4BNq7RPYw2bu7JI9Vhb4UVrHPm0.jpg",
+    "backdrop_path": "/50RrGSI4ZmIzu4aL9rUN75qe0nL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Astrodude is humanity's greatest astronaut and the best friend of all the planets. But despite his incredible adventures, there's one place he's not allowed to return to: Earth. While his family misses him, Astrodude continues to fulfill his duty among the stars.  Everything changes when a mysterious visitor appears: his own son, from the future, who brings a startling warning. Astrodude will disappear during his next space mission!  Now, father and son must embark on an extraordinary journey through space to uncover the truth behind his impending disappearance. But as they get closer to the answers, they discover a mystery that could change reality as they know it.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-07",
+    "popularity": 1.0688
+  },
+  "1665375": {
+    "id": 1665375,
+    "type": "movie",
+    "title": "Christmas at Moose Lake",
+    "poster_path": "/uFjFmStwWjMj4YEorQB5L8ZHDJA.jpg",
+    "backdrop_path": "/gnS065uDJjHxFRc71bBkViiChCU.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-15",
+    "popularity": 1.8303
+  },
+  "1827159": {
+    "id": 1827159,
+    "type": "movie",
+    "title": "Redes de Carrizo",
+    "poster_path": "/naBC8egZuFepVyR7uvhdRhBjRbn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0
+  },
+  "1773345": {
+    "id": 1773345,
+    "type": "movie",
+    "title": "The Nights Before Christmas",
+    "poster_path": "/313RVYAdotWQQRuUSrZj9CIoEdk.jpg",
+    "backdrop_path": "/k6YlzwQjvnxkqpCcleJbtbrTFrm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a magical wish traps him in an endless Christmas Eve, a man makes the most of his extra time while trying to win the heart of a woman who forgets him each morning.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-14",
+    "popularity": 2.6482
+  },
+  "1704035": {
+    "id": 1704035,
+    "type": "movie",
+    "title": "Soulala",
+    "poster_path": "/o0lTX6enkiMW4lnUVlouOiWVre9.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "follows a man who returns to a family farm inherited from his parents, only to uncover a terrifying truth that threatens his survival there. The film explores how family bonds between parents and children can become a source of both salvation and control.",
+    "industry": "world",
+    "original_language": "ar",
+    "origin_country": [
+      "SA"
+    ],
+    "production_countries": [
+      "SA",
+      "JO",
+      "US"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.4414
+  },
+  "1826442": {
+    "id": 1826442,
+    "type": "movie",
+    "title": "Expedition: Saving Our Seas",
+    "poster_path": "/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg",
+    "backdrop_path": "/hObUQ27znUjR5muP8rXR19lCuyF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change. Genre: Documentary, Adventure",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 1.9602
+  },
+  "1565810": {
+    "id": 1565810,
+    "type": "movie",
+    "title": "Beril_XXX",
+    "poster_path": "/qUjRDOgjY2txmv1t9JesgJ5MiQR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Beril wanders the streets of Istanbul. A budding actress, she heads to meet a producer to pitch an ambitious, deeply personal film project. Friends, lovers, and other figures cross her path as we discover what lies behind the city's facades and the people within it.",
+    "industry": "world",
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 1.7047
+  },
+  "333101": {
+    "id": 333101,
+    "type": "tv",
+    "title": "Treasure Island",
+    "poster_path": "/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+    "backdrop_path": "/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+    "vote_average": 6.609,
+    "vote_count": 46,
+    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM+ Amazon Channel",
+        "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM Plus",
+        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2026-10-11",
+    "popularity": 27.5524
+  },
+  "226102": {
+    "id": 226102,
+    "type": "tv",
+    "title": "Crash",
+    "poster_path": "/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
+    "backdrop_path": "/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+    "vote_average": 8.6,
+    "vote_count": 20,
+    "overview": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2024-05-13",
+    "popularity": 8.9796
+  },
+  "95480": {
+    "id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "poster_path": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop_path": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "vote_average": 8.1,
+    "vote_count": 1133,
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2022-04-01",
+    "popularity": 121.8533
+  },
+  "1794745": {
+    "id": 1794745,
+    "type": "movie",
+    "title": "Kalpana Aur Yatharth",
+    "poster_path": "/zQhW5jlLz6AQOlRzCtdKaeXTkw1.jpg",
+    "backdrop_path": "/xAp1fxdQFSZM24hsY2NPhJFxvkY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story of the film originated from real and fictional events revolves around the unreal world, through which a man embarks on an endless journey for his wife who left him.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-13",
+    "popularity": 0.1755
+  },
+  "337614": {
+    "id": 337614,
+    "type": "tv",
+    "title": "Andhvishwas",
+    "poster_path": "/mGx1zHQlm7XMHabLCbEe3VIS4gB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When blind faith becomes a pawn for criminal minds, tragedies follow! Delve into real-life stories, where superstitions paved the way for crime.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-10-02",
+    "popularity": 0.4941
+  },
+  "340772": {
+    "id": 340772,
+    "type": "tv",
+    "title": "和离后我带女儿横扫魔域",
+    "poster_path": "/bVX45Mk5ZSxxEBTJdHthXZI77dE.jpg",
+    "backdrop_path": "/oYj21e3PZ1ZaEd95H5dbJfMFpPh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "zh"
+    ],
+    "published_at": "2026-11-16",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2026-10-20",
+    "popularity": 23.1268
+  },
+  "1728763": {
+    "id": 1728763,
+    "type": "movie",
+    "title": "Drones",
+    "poster_path": "/k14luImbnzAhFZzqFKgvVrnOF4D.jpg",
+    "backdrop_path": "/7bIrEDdkZCMjLf2pz9YS8t8r2D2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
+    "industry": "bollywood",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "published_at": "2026-11-16",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-16",
+    "popularity": 1.4104
   }
 };

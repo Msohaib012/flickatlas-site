@@ -38,7 +38,7 @@
    "name": "World Cinema Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=world"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>The Liberation (2027)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Tsuri Komachi (2026)</li><li>Hexed (2026)</li><li>The Other You (2026)</li><li>Jingle Hell (2026)</li><li>If the Birds Sing (2026)</li><li>Ice Factory Ghost (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>Mo Amor (2027)</li><li>The Liberation (2027)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Tsuri Komachi (2026)</li><li>Hexed (2026)</li><li>The Other You (2026)</li><li>Soulala (2026)</li><li>Redes de Carrizo (2026)</li><li>Jingle Hell (2026)</li></ul>\n</article>",
   "t": "World Cinema Movies & TV Shows | FlickAtlas"
  },
  "daywise:1081010": {
@@ -3206,15 +3206,20 @@
   "year": "2026"
  },
  "daywise:1437511": {
-  "d": "How to Rob a Bank (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $4.6M.",
+  "d": "How to Rob a Bank (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $9.15M.",
   "day_rows": [
+   {
+    "d": "How to Rob a Bank (2026) box office Day 1 (2024-11-13): India Net $4.56M.",
+    "date": "2024-11-13",
+    "day": 1
+   },
    {
     "d": "How to Rob a Bank (2026) box office Day 3 (2026-11-15): India Net $4.6M.",
     "date": "2026-11-15",
     "day": 3
    }
   ],
-  "days": 1,
+  "days": 2,
   "img": "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
   "k": "How to Rob a Bank, How to Rob a Bank box office collection, How to Rob a Bank box office collection day wise, How to Rob a Bank day 1 collection, box office collection, FlickAtlas",
   "latest_date": "2026-11-15",
@@ -3251,7 +3256,7 @@
     "ratingValue": 9.0,
     "worstRating": 0
    },
-   "description": "How to Rob a Bank (2026): Action/Crime film. Story: A crew of social media-savvy bank robbers broadcasts… See cast and box office collection $4.6M.",
+   "description": "How to Rob a Bank (2026): Action/Crime film. Story: A crew of social media-savvy bank robbers broadcasts… See cast and box office collection $9.15M.",
    "director": [
     {
      "@type": "Person",
@@ -3272,9 +3277,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1437511"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>How to Rob a Bank (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $4.6M</li><li>Latest reported day: Day 3 — 15 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 3</td><td>2026-11-15</td><td>$4.6M</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>How to Rob a Bank (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $9.15M</li><li>Latest reported day: Day 3 — 15 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2024-11-13</td><td>$4.56M</td><td>—</td></tr><tr><td>Day 3</td><td>2026-11-15</td><td>$4.6M</td><td>—</td></tr></table>\n</article>",
   "t": "How to Rob a Bank (2026)",
-  "total_in": 4595880.0,
+  "total_in": 9154781.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -7144,7 +7149,7 @@
    "name": "Bollywood, World Cinema & Box Office | FlickAtlas",
    "url": "https://flickatlas.co.uk/"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4</li><li>Bano Episode 33 — Watch Online on Geo TV</li><li>Lagan Lagi Episode 18 — Watch Online on ARY Digital</li><li>Sonu Sood Steps In to Support Actor Sharad Kapoor Following Viral Social Media Appeal</li><li>Sanjay Dutt Starrer Munna Bhai MBBS Set For Grand Theatrical Re-Release In 8K Resolution</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>FlickAtlas</h1>\n<p>Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.</p>\n<h2>Latest news</h2>\n<ul><li>How To Rob A Bank Box Office: Financial Milestone Needed For Profitability</li><li>Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series</li><li>Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series</li><li>Chris Pratt Expresses Openness to Reuniting With James Gunn for Guardians of the Galaxy Vol. 4</li><li>Bano Episode 33 — Watch Online on Geo TV</li></ul>\n<h2>Trending titles</h2>\n<ul><li>One Piece (1999) — TMDB rating 8.8/10</li><li>MobLand (2025) — TMDB rating 8.6/10</li><li>VisionQuest (2026) — TMDB rating 8.7/10</li><li>Tulsa King (2022) — TMDB rating 8.3/10</li><li>The Odyssey (2026) — TMDB rating 8.0/10</li></ul>\n</article>",
   "t": "Bollywood, World Cinema & Box Office | FlickAtlas"
  },
  "movie:1003494": {
@@ -19324,7 +19329,7 @@
   "year": "2026"
  },
  "movie:1437511": {
-  "d": "How to Rob a Bank (2026): Action/Crime film. Story: A crew of social media-savvy bank robbers broadcasts… See cast and box office collection $4.6M.",
+  "d": "How to Rob a Bank (2026): Action/Crime film. Story: A crew of social media-savvy bank robbers broadcasts… See cast and box office collection $9.15M.",
   "img": "https://image.tmdb.org/t/p/w780/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
   "industry": "world",
   "k": "How to Rob a Bank, How to Rob a Bank movie, How to Rob a Bank cast, How to Rob a Bank story, How to Rob a Bank box office collection, How to Rob a Bank budget, How to Rob a Bank review, How to Rob a Bank rating, How to Rob a Bank release date, How to Rob a Bank trailer, How to Rob a Bank Action, How to Rob a Bank Crime, international movies, FlickAtlas",
@@ -19360,7 +19365,7 @@
     "ratingValue": 9.0,
     "worstRating": 0
    },
-   "description": "How to Rob a Bank (2026): Action/Crime film. Story: A crew of social media-savvy bank robbers broadcasts… See cast and box office collection $4.6M.",
+   "description": "How to Rob a Bank (2026): Action/Crime film. Story: A crew of social media-savvy bank robbers broadcasts… See cast and box office collection $9.15M.",
    "director": [
     {
      "@type": "Person",
@@ -19383,7 +19388,7 @@
   },
   "modified": "",
   "published": "2026-11-10",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>How to Rob a Bank (2026)</h1>\n<p class=\"ssr-lead\">A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 122 minutes</li><li>Director: David Leitch</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 9.0/10 (2 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicholas Hoult as Ryan</li><li>Zoë Kravitz as Reagan Gardner</li><li>Anna Sawai as Emi</li><li>Rhenzy Feliz as Hugo</li><li>Pete Davidson as Vince</li><li>John C. Reilly as Agent West</li><li>Christian Slater as Walton</li><li>Tati Gabrielle as Skyler</li><li>Young Mazino as Marquis Collins</li><li>Paul Sparks as Agent Roberts</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $4.6M</li><li>Latest: Day 3 (2026-11-15) — India Net $4.6M</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>How to Rob a Bank (2026)</h1>\n<p class=\"ssr-lead\">A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 122 minutes</li><li>Director: David Leitch</li><li>Genres: Action, Crime, Thriller</li><li>TMDB rating: 9.0/10 (2 votes)</li></ul>\n<h2>Top cast</h2>\n<ul><li>Nicholas Hoult as Ryan</li><li>Zoë Kravitz as Reagan Gardner</li><li>Anna Sawai as Emi</li><li>Rhenzy Feliz as Hugo</li><li>Pete Davidson as Vince</li><li>John C. Reilly as Agent West</li><li>Christian Slater as Walton</li><li>Tati Gabrielle as Skyler</li><li>Young Mazino as Marquis Collins</li><li>Paul Sparks as Agent Roberts</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $9.15M</li><li>Latest: Day 3 (2026-11-15) — India Net $4.6M</li></ul>\n</article>",
   "t": "How to Rob a Bank (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -24457,6 +24462,63 @@
   "t": "Malika (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1565810": {
+  "d": "Beril_XXX (2026): Drama/Comedy film. Story: Beril wanders the streets of Istanbul. A budding… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/qUjRDOgjY2txmv1t9JesgJ5MiQR.jpg",
+  "industry": "world",
+  "k": "Beril_XXX, Beril_XXX movie, Beril_XXX cast, Beril_XXX story, Beril_XXX box office collection, Beril_XXX budget, Beril_XXX review, Beril_XXX rating, Beril_XXX release date, Beril_XXX Drama, Beril_XXX Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Doğa Lara Akkaya"
+    },
+    {
+     "@type": "Person",
+     "name": "Burkut Kum"
+    },
+    {
+     "@type": "Person",
+     "name": "Selçuk Uzman"
+    },
+    {
+     "@type": "Person",
+     "name": "Irmak Nawa"
+    },
+    {
+     "@type": "Person",
+     "name": "Sinan Yusufoglu"
+    }
+   ],
+   "description": "Beril_XXX (2026): Drama/Comedy film. Story: Beril wanders the streets of Istanbul. A budding… See cast and release date 14 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Can Evrenol"
+    }
+   ],
+   "duration": "PT92M",
+   "genre": [
+    "Drama",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/qUjRDOgjY2txmv1t9JesgJ5MiQR.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1565810",
+   "name": "Beril_XXX",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1565810"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Beril_XXX (2026)</h1>\n<p class=\"ssr-lead\">Beril wanders the streets of Istanbul. A budding actress, she heads to meet a producer to pitch an ambitious, deeply personal film project. Friends, lovers, and other figures cross her path as we discover what lies behind the city&#x27;s facades and the people within it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 92 minutes</li><li>Director: Can Evrenol</li><li>Genres: Drama, Comedy, Romance</li></ul>\n<h2>Top cast</h2>\n<ul><li>Doğa Lara Akkaya as Beril</li><li>Burkut Kum as Bora</li><li>Selçuk Uzman as Sait</li><li>Irmak Nawa</li><li>Sinan Yusufoglu</li><li>Ali Elmacı</li><li>Berke Liznak</li><li>Efe Can Erdal as Efe</li><li>İpek Kara</li><li>Çağatay Doğangül</li></ul>\n</article>",
+  "t": "Beril_XXX (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1567149": {
   "d": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens (2026): Science Fiction/Action film.",
   "img": "https://image.tmdb.org/t/p/w780/A9D1tp0USj38oBIFk32P3YVouo3.jpg",
@@ -28527,6 +28589,62 @@
   "t": "The Unthinkable Daughter (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1665375": {
+  "d": "Christmas at Moose Lake (2026): Romance/Comedy film. See cast and release date 15 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/gnS065uDJjHxFRc71bBkViiChCU.jpg",
+  "industry": "world",
+  "k": "Christmas at Moose Lake, Christmas at Moose Lake movie, Christmas at Moose Lake cast, Christmas at Moose Lake story, Christmas at Moose Lake box office collection, Christmas at Moose Lake budget, Christmas at Moose Lake review, Christmas at Moose Lake rating, Christmas at Moose Lake release date, Christmas at Moose Lake Romance, Christmas at Moose Lake Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Britt Robertson"
+    },
+    {
+     "@type": "Person",
+     "name": "Ryan Paevey"
+    },
+    {
+     "@type": "Person",
+     "name": "Natasha Henstridge"
+    },
+    {
+     "@type": "Person",
+     "name": "Kevin Dillon"
+    },
+    {
+     "@type": "Person",
+     "name": "Megan Ashley Brown"
+    }
+   ],
+   "description": "Christmas at Moose Lake (2026): Romance/Comedy film. See cast and release date 15 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Jennifer Tadlock"
+    }
+   ],
+   "genre": [
+    "Romance",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/gnS065uDJjHxFRc71bBkViiChCU.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1665375",
+   "name": "Christmas at Moose Lake",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-15"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1665375"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Christmas at Moose Lake (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 15 November 2026</li><li>Director: Jennifer Tadlock</li><li>Genres: Romance, Comedy, TV Movie</li></ul>\n<h2>Top cast</h2>\n<ul><li>Britt Robertson as Alyssa Dawson</li><li>Ryan Paevey as Sean</li><li>Natasha Henstridge as Donna Lawrence</li><li>Kevin Dillon as Patrick Dawson</li><li>Megan Ashley Brown as Laura Dawson</li><li>Zane Stephens as Brent</li><li>Christian Shupe as Tyler</li><li>Monroe Cline as Margo</li><li>Sheri Winkelmann as Betsy</li><li>Jason Tait as Mr. Wong</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Pure Flix, Great American Pure Flix Amazon Channel</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Pure Flix (US)</li><li>Streaming on Great American Pure Flix Amazon Channel (US)</li></ul>\n</article>",
+  "t": "Christmas at Moose Lake (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1666787": {
   "d": "Avedon (2026): Documentary film. Story: Richard Avedon's photographs didn't just reflect… See cast, TMDB rating 6.0/10, and release date 6 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
@@ -29639,6 +29757,59 @@
   "t": "Ghamela (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1704035": {
+  "d": "Soulala (2026): Horror/Drama film. Story: follows a man who returns to a family farm inherited… See cast and release date 23 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/o0lTX6enkiMW4lnUVlouOiWVre9.jpg",
+  "industry": "world",
+  "k": "Soulala, Soulala movie, Soulala cast, Soulala story, Soulala box office collection, Soulala budget, Soulala review, Soulala rating, Soulala release date, Soulala Horror, Soulala Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Ahd Kamel"
+    },
+    {
+     "@type": "Person",
+     "name": "Maha Al-Ghazal"
+    },
+    {
+     "@type": "Person",
+     "name": "Ibrahim Alhasawi"
+    },
+    {
+     "@type": "Person",
+     "name": "Baraa Alem"
+    }
+   ],
+   "description": "Soulala (2026): Horror/Drama film. Story: follows a man who returns to a family farm inherited… See cast and release date 23 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Hisham Fqih"
+    }
+   ],
+   "duration": "PT100M",
+   "genre": [
+    "Horror",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/o0lTX6enkiMW4lnUVlouOiWVre9.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1704035",
+   "name": "Soulala",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-23"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1704035"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Soulala (2026)</h1>\n<p class=\"ssr-lead\">follows a man who returns to a family farm inherited from his parents, only to uncover a terrifying truth that threatens his survival there. The film explores how family bonds between parents and children can become a source of both salvation and control.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Runtime: 100 minutes</li><li>Director: Hisham Fqih</li><li>Genres: Horror, Drama</li><li>Status: In Production</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ahd Kamel</li><li>Maha Al-Ghazal</li><li>Ibrahim Alhasawi</li><li>Baraa Alem</li></ul>\n</article>",
+  "t": "Soulala (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1707955": {
   "d": "Cursed Meme (2026): Horror film. Story: Yura, a young girl who struggles to fit in with her… See cast and release date 13 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/7ZsxOt6MnEf2Z67sEMJoEPKMPe4.jpg",
@@ -30373,6 +30544,63 @@
   "published": "2026-10-27",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Magazine (2026)</h1>\n<p class=\"ssr-lead\">Bored, privileged, and convinced his life has zero plot, a drama-hungry Gen Z cinephile leaves the city for his ancestral village in search of some main-character energy, hoping life will finally give him something worth talking about, but an unlikely friendship, a new world, and one unexpected twist soon turn his own life into the story he&#x27;s been waiting for.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 110 minutes</li><li>Director: Shubham Sanjay Shevade</li><li>Genres: Drama, Adventure, Family</li><li>Budget: $135.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>Raghav Vartak as Velu Quenim</li><li>Dr. Nilesh Mane as Pushpak</li><li>Sudarshan Deshmukh as Shripad</li><li>Vedika Kulkarni as Sarika</li><li>Atul Parchure as Dada Quenim</li><li>Kishore Kadam as Sudhakar</li><li>Shivaji Satham as Dattaray Kulkarni</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $13.7k</li><li>Latest: Day 13 (2026-11-04) — India Net $1.1k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. Magazine (2026) offers a 110-minute journey of self-discovery, family, and adventure directed by Shubham Sanjay Shevade. It is a reasonable watch for those looking for a light dramatic premise, though viewers should expect a familiar narrative structure.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 6.5/10</li></ul>\n</article>",
   "t": "Magazine (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1728763": {
+  "d": "Drones (2026): Romance/Comedy film. Story: A sleepwalking student, a mysterious miniature… See cast and release date 16 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/7bIrEDdkZCMjLf2pz9YS8t8r2D2.jpg",
+  "industry": "bollywood",
+  "k": "Drones, Drones movie, Drones cast, Drones story, Drones box office collection, Drones budget, Drones review, Drones rating, Drones release date, Drones Romance, Drones Comedy, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Siddhi Idnani"
+    },
+    {
+     "@type": "Person",
+     "name": "Anjali Nair"
+    },
+    {
+     "@type": "Person",
+     "name": "Dravid Selvam"
+    },
+    {
+     "@type": "Person",
+     "name": "KPY Kuraishi"
+    },
+    {
+     "@type": "Person",
+     "name": "Devadarshini"
+    }
+   ],
+   "description": "Drones (2026): Romance/Comedy film. Story: A sleepwalking student, a mysterious miniature… See cast and release date 16 October 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Raghav Mirdath"
+    }
+   ],
+   "duration": "PT152M",
+   "genre": [
+    "Romance",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/7bIrEDdkZCMjLf2pz9YS8t8r2D2.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1728763",
+   "name": "Drones",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-16"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1728763"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Drones (2026)</h1>\n<p class=\"ssr-lead\">A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 16 October 2026</li><li>Runtime: 152 minutes</li><li>Director: Raghav Mirdath</li><li>Genres: Romance, Comedy, Mystery, Horror, Fantasy</li></ul>\n<h2>Top cast</h2>\n<ul><li>Siddhi Idnani</li><li>Anjali Nair as Rush</li><li>Dravid Selvam as Kish</li><li>KPY Kuraishi as The Mad Scientist</li><li>Devadarshini</li><li>Cinemawala Sathish as Koomapatti Madhavan</li><li>Sassi Selvaraj as Cerlac Homes</li><li>RJ Deepak</li></ul>\n</article>",
+  "t": "Drones (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1731816": {
@@ -32857,6 +33085,63 @@
   "published": "2026-11-04",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Confession (2026)</h1>\n<p class=\"ssr-lead\">In 1938, in Stalin&#x27;s Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 11 November 2026</li><li>Runtime: 132 minutes</li><li>Director: Václav Marhoul</li><li>Genres: Drama</li></ul>\n<h2>Top cast</h2>\n<ul><li>Rob Lowe as Alexei</li><li>James Franco as Vladimir</li><li>Jennifer Jason Leigh as Anya</li><li>Nick Nolte as Aleksandr</li><li>Dean Norris as Boris</li><li>Kodi Smit-McPhee as Sasha</li><li>Richard Brake as Bogdan</li><li>Emile Hirsch as Dmitri</li><li>Brad Dourif as Father Mikulski</li><li>Colin Bates as Ilya</li></ul>\n</article>",
   "t": "Confession (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1773345": {
+  "d": "The Nights Before Christmas (2026): Romance/Comedy film. Story: When a magical wish traps him in an endless Christmas… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/k6YlzwQjvnxkqpCcleJbtbrTFrm.jpg",
+  "industry": "world",
+  "k": "The Nights Before Christmas, The Nights Before Christmas movie, The Nights Before Christmas cast, The Nights Before Christmas story, The Nights Before Christmas box office collection, The Nights Before Christmas budget, The Nights Before Christmas review, The Nights Before Christmas rating, The Nights Before Christmas release date, The Nights Before Christmas trailer, The Nights Before Christmas Romance, The Nights Before Christmas Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Tyler Hynes"
+    },
+    {
+     "@type": "Person",
+     "name": "Laci J. Mailey"
+    },
+    {
+     "@type": "Person",
+     "name": "Marlee Walchuk"
+    },
+    {
+     "@type": "Person",
+     "name": "Rick Dobran"
+    },
+    {
+     "@type": "Person",
+     "name": "Oscar Chark"
+    }
+   ],
+   "description": "The Nights Before Christmas (2026): Romance/Comedy film. Story: When a magical wish traps him in an endless Christmas… See cast.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Lucie Guest"
+    }
+   ],
+   "duration": "PT84M",
+   "genre": [
+    "Romance",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/k6YlzwQjvnxkqpCcleJbtbrTFrm.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1773345",
+   "name": "The Nights Before Christmas",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1773345"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Nights Before Christmas (2026)</h1>\n<p class=\"ssr-lead\">When a magical wish traps him in an endless Christmas Eve, a man makes the most of his extra time while trying to win the heart of a woman who forgets him each morning.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 84 minutes</li><li>Director: Lucie Guest</li><li>Genres: Romance, Comedy, TV Movie</li></ul>\n<h2>Top cast</h2>\n<ul><li>Tyler Hynes as Marty</li><li>Laci J. Mailey as Chloe</li><li>Marlee Walchuk as Melody</li><li>Rick Dobran as Ron</li><li>Oscar Chark as Colby</li><li>Deborah Finkel as Rita</li><li>Michael Ryan as Patrick</li><li>Jessie Liang as Blake</li><li>Chris Shields as Stoney</li><li>Amitai Marmorstein as Devon</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, Hallmark+ Amazon Channel, Hallmark+ Apple TV channel</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on fuboTV (US)</li><li>Streaming on Hallmark+ Amazon Channel (US)</li><li>Streaming on Hallmark+ Apple TV channel (US)</li></ul>\n</article>",
+  "t": "The Nights Before Christmas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1773350": {
@@ -36318,6 +36603,63 @@
   "t": "The Flesh and the Soul (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1794745": {
+  "d": "Kalpana Aur Yatharth (2026): Mystery/Drama film. Story: The story of the film originated from real and… See cast and release date 13 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/xAp1fxdQFSZM24hsY2NPhJFxvkY.jpg",
+  "industry": "bollywood",
+  "k": "Kalpana Aur Yatharth, Kalpana Aur Yatharth movie, Kalpana Aur Yatharth cast, Kalpana Aur Yatharth story, Kalpana Aur Yatharth box office collection, Kalpana Aur Yatharth budget, Kalpana Aur Yatharth review, Kalpana Aur Yatharth rating, Kalpana Aur Yatharth release date, Kalpana Aur Yatharth Mystery, Kalpana Aur Yatharth Drama, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Salil Singh"
+    },
+    {
+     "@type": "Person",
+     "name": "Isha Singh Chauhan"
+    },
+    {
+     "@type": "Person",
+     "name": "Mohit GGupta"
+    },
+    {
+     "@type": "Person",
+     "name": "Harish Dhiman"
+    },
+    {
+     "@type": "Person",
+     "name": "Govind Bajpai"
+    }
+   ],
+   "description": "Kalpana Aur Yatharth (2026): Mystery/Drama film. Story: The story of the film originated from real and… See cast and release date 13 October 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Salil Singh"
+    }
+   ],
+   "duration": "PT108M",
+   "genre": [
+    "Mystery",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/xAp1fxdQFSZM24hsY2NPhJFxvkY.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1794745",
+   "name": "Kalpana Aur Yatharth",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-13"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1794745"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Kalpana Aur Yatharth (2026)</h1>\n<p class=\"ssr-lead\">The story of the film originated from real and fictional events revolves around the unreal world, through which a man embarks on an endless journey for his wife who left him.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 13 October 2026</li><li>Runtime: 108 minutes</li><li>Director: Salil Singh</li><li>Genres: Mystery, Drama, Thriller</li></ul>\n<h2>Top cast</h2>\n<ul><li>Salil Singh as Yatharth</li><li>Isha Singh Chauhan as Kalpana</li><li>Mohit GGupta as Dinesh</li><li>Harish Dhiman as Aman</li><li>Govind Bajpai as Mr. Bhatia</li></ul>\n</article>",
+  "t": "Kalpana Aur Yatharth (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1794828": {
   "d": "Connection Lost (2026): Drama/Fantasy film. Story: After winning a scholarship, Bruno, a lonely young… See cast and release date 9 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/9h7TADW9ef5pI5bGaJdj1lqKn6F.jpg",
@@ -36820,6 +37162,67 @@
   "published": "2026-11-03",
   "ssr": "<article class=\"ssr-facts\">\n<h1>A Gentle Apocalypse (2026)</h1>\n<p class=\"ssr-lead\">Consumed by a world of setbacks and expectations, Juno navigates the struggles of love, work, and loneliness. As her entire world crumbles, a strange encounter changes how she sees everything...</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 10 November 2026</li><li>Runtime: 9 minutes</li><li>Director: Bella Echeverri</li><li>Genres: Drama, Comedy, Fantasy</li><li>Budget: $1.0k</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lorraine Yu as Juno</li><li>Grace Vincent as Sage</li><li>Jack Roper as Noah</li><li>Joanna Ackroyd as Businesswoman</li><li>Sofia Paloma Stevens-Halim as Friend 1</li><li>Reece Lewis Ronald Paul Foot as Friend 2</li><li>Burr Thomas as Business Person 1</li><li>Mel Shiri as Business Person 2</li><li>Temisis Conway as Business Person 3</li><li>Leilani Saunders as Business Person 4</li></ul>\n</article>",
   "t": "A Gentle Apocalypse (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1796177": {
+  "d": "Astrodude: A SolarBalls Movie (2026): Animation/Action film. Story: Astrodude is humanity's greatest astronaut and the… See cast and budget $61.3k.",
+  "img": "https://image.tmdb.org/t/p/w780/50RrGSI4ZmIzu4aL9rUN75qe0nL.jpg",
+  "industry": "world",
+  "k": "Astrodude: A SolarBalls Movie, Astrodude: A SolarBalls Movie movie, Astrodude: A SolarBalls Movie cast, Astrodude: A SolarBalls Movie story, Astrodude: A SolarBalls Movie box office collection, Astrodude: A SolarBalls Movie budget, Astrodude: A SolarBalls Movie review, Astrodude: A SolarBalls Movie rating, Astrodude: A SolarBalls Movie release date, Astrodude: A SolarBalls Movie Animation, Astrodude: A SolarBalls Movie Action, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Jack Stansbury"
+    },
+    {
+     "@type": "Person",
+     "name": "Yong Yea"
+    },
+    {
+     "@type": "Person",
+     "name": "Maia Luna Cebrelli"
+    },
+    {
+     "@type": "Person",
+     "name": "Joseph Trefney"
+    },
+    {
+     "@type": "Person",
+     "name": "Stuart Allan"
+    }
+   ],
+   "description": "Astrodude: A SolarBalls Movie (2026): Animation/Action film. Story: Astrodude is humanity's greatest astronaut and the… See cast and budget $61.3k.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Álvaro Calmet"
+    },
+    {
+     "@type": "Person",
+     "name": "Federico Visconti"
+    }
+   ],
+   "duration": "PT62M",
+   "genre": [
+    "Animation",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/50RrGSI4ZmIzu4aL9rUN75qe0nL.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1796177",
+   "name": "Astrodude: A SolarBalls Movie",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-07"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1796177"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Astrodude: A SolarBalls Movie (2026)</h1>\n<p class=\"ssr-lead\">Astrodude is humanity&#x27;s greatest astronaut and the best friend of all the planets. But despite his incredible adventures, there&#x27;s one place he&#x27;s not allowed to return to: Earth. While his family misses him, Astrodude continues to fulfill his duty among the stars. Everything changes when a mysterious visitor appears: his own son, from the future, who brings a startling warning. Astrodude will disappear during his next space mission! Now, father and son must embark on an extraordinary journey through space to uncover the truth behind his impending disappearance. But as they get closer to the answers, they discover a mystery that could change reality as they know it.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2026</li><li>Runtime: 62 minutes</li><li>Director: Álvaro Calmet, Federico Visconti</li><li>Genres: Animation, Action, Adventure, Family, Science Fiction</li><li>Budget: $61.3k</li></ul>\n<h2>Top cast</h2>\n<ul><li>Jack Stansbury as Astrodude (Eduard)/Planets/S.A.R/Sun</li><li>Yong Yea as Future Astroson</li><li>Maia Luna Cebrelli as Astrowife</li><li>Joseph Trefney as Astrodad</li><li>Stuart Allan as Young Eduard(Astrodude)/Other Classmates</li></ul>\n</article>",
+  "t": "Astrodude: A SolarBalls Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1796321": {
@@ -56557,6 +56960,46 @@
   "t": "RaTaTaTurn (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1826442": {
+  "d": "Expedition: Saving Our Seas (2026): Documentary film. Story: Follows National Geographic Explorers investigating… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/hObUQ27znUjR5muP8rXR19lCuyF.jpg",
+  "industry": "world",
+  "k": "Expedition: Saving Our Seas, Expedition: Saving Our Seas movie, Expedition: Saving Our Seas cast, Expedition: Saving Our Seas story, Expedition: Saving Our Seas box office collection, Expedition: Saving Our Seas budget, Expedition: Saving Our Seas review, Expedition: Saving Our Seas rating, Expedition: Saving Our Seas release date, Expedition: Saving Our Seas Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Auliʻi Cravalho"
+    }
+   ],
+   "description": "Expedition: Saving Our Seas (2026): Documentary film. Story: Follows National Geographic Explorers investigating… See cast and release date 14 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Katharine Arthy"
+    }
+   ],
+   "duration": "PT44M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/hObUQ27znUjR5muP8rXR19lCuyF.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1826442",
+   "name": "Expedition: Saving Our Seas",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1826442"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Expedition: Saving Our Seas (2026)</h1>\n<p class=\"ssr-lead\">Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change. Genre: Documentary, Adventure</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 44 minutes</li><li>Director: Katharine Arthy</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Auliʻi Cravalho as Narrator</li></ul>\n</article>",
+  "t": "Expedition: Saving Our Seas (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1826815": {
   "d": "Carmen, La Matador (2026): Music/Drama film. See cast and release date 23 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/yenvsRrFqferuEtxjyvSg2hiO86.jpg",
@@ -56667,6 +57110,45 @@
   "published": "2026-11-16",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Revolution for Beginners (2026)</h1>\n<p class=\"ssr-lead\">Romania, 1989. December 21st, the day the anti-communist revolution fully erupted. Everything is turned upside down. In a provincial town, &quot;neither big nor small, neither nice nor ugly&quot; - as the ever-present narrator describes it, a small, motley group of people tries to seize power &quot;in the name of the people.”</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 November 2026</li><li>Runtime: 84 minutes</li><li>Director: Siniša Dragin</li><li>Genres: Documentary</li><li>Status: Planned</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ciprian Nicula</li><li>Șerban Pavlu</li><li>Liviu Chitu</li><li>Florentina Năstase</li><li>Ioana Bugarin</li><li>Tania Popa</li><li>Ștefan Iancu</li></ul>\n</article>",
   "t": "Revolution for Beginners (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1827159": {
+  "d": "Redes de Carrizo (2026): Documentary film. See cast and release date 23 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/naBC8egZuFepVyR7uvhdRhBjRbn.jpg",
+  "industry": "world",
+  "k": "Redes de Carrizo, Redes de Carrizo movie, Redes de Carrizo cast, Redes de Carrizo story, Redes de Carrizo box office collection, Redes de Carrizo budget, Redes de Carrizo review, Redes de Carrizo rating, Redes de Carrizo release date, Redes de Carrizo Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Raquel Lorenzo Mariano"
+    }
+   ],
+   "description": "Redes de Carrizo (2026): Documentary film. See cast and release date 23 November 2026.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Ilse Rojas Flores"
+    }
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/naBC8egZuFepVyR7uvhdRhBjRbn.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1827159",
+   "name": "Redes de Carrizo",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-23"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1827159"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Redes de Carrizo (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 November 2026</li><li>Director: Ilse Rojas Flores</li><li>Genres: Documentary</li></ul>\n<h2>Top cast</h2>\n<ul><li>Raquel Lorenzo Mariano as Self</li></ul>\n</article>",
+  "t": "Redes de Carrizo (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:447273": {
@@ -68346,6 +68828,39 @@
   "published": "2026-11-07T06:03:17.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Silambarasan and Vetri Maaran&#x27;s Arasan Promo Pushed to December</h1>\n<p class=\"ssr-lead\">The highly anticipated theatrical teaser for the upcoming Tamil feature has been delayed from its initial Diwali schedule to ensure composer Anirudh Ravichander can deliver an original score.</p>\n<p class=\"ssr-date\">Published 7 November 2026</p>\n<h2>Delay of the Theatrical Promo</h2>\n<p>Fans awaiting the promotional rollout for the upcoming Tamil cinematic feature Arasan will need to exercise additional patience. Initial plans to launch the material during the Diwali festive window have been officially shelved in favor of a later rollout.</p>\n<p>Insiders close to the production unit have indicated that the team is now eyeing a targeted launch date of December 4 for the extensive teaser.</p>\n<h2>Reasons Behind the Schedule Shift</h2>\n<p>The primary driver behind the postponement is the status of the musical score, as the crew insists on featuring custom compositions by Anirudh Ravichander. Although producer Kalaipuli S Thanu floated the idea of recycling musical tracks from an older preview to meet the initial festive deadline, key creative voices pushed back.</p>\n<p>Director Vetri Maaran and lead actor Silambarasan TR stood firm on waiting for the composer&#x27;s entirely fresh musical arrangement to preserve the intended emotional and dramatic weight of the sequence.</p>\n<h2>Production Status and Voice Work</h2>\n<p>While the musical score remains pending, the rest of the promotional material is completely ready for distribution. Voice-over duties and dubbing obligations have been successfully finalized by the principal cast members, which includes Silambarasan, Priyanka Mohan, Andrea Jeremiah, Samuthirakani, and Kishore.</p>\n<p>Furthermore, director Vetri Maaran has recorded his own narrative voice-over. This specific audio layer is designed to introduce audiences to the narrative premise and establish narrative ties to the broader Vada Chennai universe.</p>\n<h2>Addressing Composer Commitments</h2>\n<p>The timeline for the musical asset has also been influenced by personal milestones in the crew&#x27;s professional lives. With Anirudh Ravichander&#x27;s wedding scheduled to take place during the month, the production team has consciously avoided pressuring the busy composer.</p>\n<p>Makers have opted to respect his existing personal and professional commitments over the past week rather than rush the orchestral arrangements for an early deadline.</p>\n<h2>Expanded Theatrical Strategy</h2>\n<p>Shifting the launch date from the festive period has concurrently opened the door for a drastically expanded distribution footprint. Instead of the modest 100-plus screens originally brainstormed for Diwali, the team is now strategizing a massive rollout.</p>\n<p>The current proposal involves premiering the special eight-minute preview across more than 1,000 cinema halls, incorporating crucial international overseas markets alongside domestic screenings.</p>\n<h2>Project Background and Collaborations</h2>\n<p>The venture represents a landmark creative partnership, serving as the inaugural collaboration between acclaimed filmmaker Vetri Maaran and leading man Silambarasan TR. The narrative itself extends within the gritty framework of the Vada Chennai cinematic universe.</p>\n<p>Alongside the primary star, the film boasts a notable ensemble cast featuring performances by Priyanka Mohan, Andrea Jeremiah, Samuthirakani, and Kishore, with subsequent updates confirming further additions like Vijay Sethupathi.</p>\n<h2>News Overview</h2>\n<p>The promotional video for the Tamil cinema project Arasan has been delayed from Diwali to a prospective December 4 theatrical release due to pending background score work by Anirudh Ravichander. Despite completed dubbing by the main cast and director Vetri Maaran, the creators opted to wait for an original musical score, paving the way for a much larger rollout across more than 1,000 screens.</p>\n<h2>Key facts</h2>\n<ul><li>The Arasan promo was postponed from Diwali.</li><li>The promo may release in theatres on December 4, 2026.</li><li>The promo is eight minutes long.</li><li>Anirudh Ravichander is the music composer whose background score is awaited.</li><li>The principal cast includes Silambarasan, Priyanka Mohan, Andrea Jeremiah, Samuthirakani, and Kishore.</li><li>Vetri Maaran is the director of Arasan.</li><li>Producer Kalaipuli S Thanu suggested using the background score from an earlier promo.</li><li>The promo is planned to screen in over 1,000 theatres including overseas locations.</li><li>Vijay Sethupathi also joins the cast of Arasan.</li><li>Anirudh Ravichander&#x27;s wedding is scheduled for November.</li></ul>\n</article>",
   "t": "Silambarasan and Vetri Maaran's Arasan Promo Pushed to December"
+ },
+ "news:1cdrx57": {
+  "d": "Garfield: The iconic orange cat returns to his comic strip roots in a brand new 2D animated series slated to stream on Paramount+ this winter.",
+  "img": "https://media2.firstshowing.net/firstshowing/img18/garfieldseriesmainimagebigtw1.jpg",
+  "k": "Garfield 2D animated series, Lamorne Morris Garfield, Paramount+ Garfield trailer, Jim Davis Garfield show, Jim Davis Garfield, Garfield, Jim Davis, Dave Johnson Garfield, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "The Return of the Classic 2D Feline\n\nParamount+ has officially released the first trailer for an upcoming animated series featuring the beloved comic strip feline, Garfield. The platform is bringing the character back with his classic, authentic look as a chubby orange cat, drawing directly from the original newspaper comics.\n\nCreated originally by cartoonist Jim Davis, the character debuted back in 1978. Over the decades, the famous cat has starred in various television projects and films, including a 3D animated movie released in 2024.\n\nA Nostalgic Shift Back to Traditional Animation\n\nExecutive producer Dave Johnson noted that three decades have passed since the last traditional 2D Garfield production. Younger generations who grew up on the character may be unfamiliar with his origins as a comic or a 2D show, making this upcoming release feel entirely fresh.\n\nJohnson also remarked on the modern cultural landscape, highlighting that the character remains entirely unbothered by contemporary trends like body shaming or wellness culture, sticking strictly to his own relaxed priorities.\n\nMeet the Voice Cast and Characters\n\nThe newly unveiled series features a talented voice cast bringing the classic newspaper characters to life. Lamorne Morris steps into the lead role to voice the perpetually lazy and sarcastic orange feline.\n\nAccompanying him are Joe Brogie, who provides the voice for the cat's long-suffering human owner Jon Arbuckle, and Michelle Ortiz, who voices Arlene.\n\nCity Living and Absurd Adventures\n\nIn this fresh iteration, the main characters reside in a bustling big city alongside a vibrant mix of familiar favorites and eccentric new personalities. The narrative highlights the protagonist's signature traits, including selfishness, wit, and an absolute refusal to be bothered.\n\nWhether he is hunting down his next meal, dodging responsibilities, or transforming a standard afternoon into a chaotic escapade, the famous feline handles existence entirely on his own terms.\n\nProduction and Creative Team\n\nThe project is developed and created by Nickelodeon Animation Studios, with Bob Camp helping develop the adaptation. Animation duties are handled by Snipple Animation Studios.\n\nDave H. Johnson and John Trabbic III serve as the executive producers overseeing the daily production of the series, drawing inspiration straight from Jim Davis's legendary source material.\n\nStreaming Release Details\n\nFans eager to watch the upcoming adventures will not have to wait much longer. Nickelodeon has scheduled the series to debut on the streaming platform starting December 11th, 2026.\n\nNews Overview\n\nParamount+ has dropped the first trailer for an upcoming 2D animated Garfield series created by Nickelodeon Animation Studios. Scheduled to premiere on December 11th, 2026, the show features Lamorne Morris voicing the lead character and brings the iconic comic strip cat back to his traditional visual roots.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-16T18:21:40.000Z",
+   "description": "Garfield: The iconic orange cat returns to his comic strip roots in a brand new 2D animated series slated to stream on Paramount+ this winter.",
+   "headline": "Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series",
+   "image": "https://media2.firstshowing.net/firstshowing/img18/garfieldseriesmainimagebigtw1.jpg",
+   "keywords": "Garfield 2D animated series, Lamorne Morris Garfield, Paramount+ Garfield trailer, Jim Davis Garfield show",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1cdrx57",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1cdrx57"
+  },
+  "modified": "",
+  "published": "2026-11-16T18:21:40.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series</h1>\n<p class=\"ssr-lead\">The iconic orange cat returns to his comic strip roots in a brand new 2D animated series slated to stream on Paramount+ this winter.</p>\n<p class=\"ssr-date\">Published 16 November 2026</p>\n<h2>The Return of the Classic 2D Feline</h2>\n<p>Paramount+ has officially released the first trailer for an upcoming animated series featuring the beloved comic strip feline, Garfield. The platform is bringing the character back with his classic, authentic look as a chubby orange cat, drawing directly from the original newspaper comics.</p>\n<p>Created originally by cartoonist Jim Davis, the character debuted back in 1978. Over the decades, the famous cat has starred in various television projects and films, including a 3D animated movie released in 2024.</p>\n<h2>A Nostalgic Shift Back to Traditional Animation</h2>\n<p>Executive producer Dave Johnson noted that three decades have passed since the last traditional 2D Garfield production. Younger generations who grew up on the character may be unfamiliar with his origins as a comic or a 2D show, making this upcoming release feel entirely fresh.</p>\n<p>Johnson also remarked on the modern cultural landscape, highlighting that the character remains entirely unbothered by contemporary trends like body shaming or wellness culture, sticking strictly to his own relaxed priorities.</p>\n<h2>Meet the Voice Cast and Characters</h2>\n<p>The newly unveiled series features a talented voice cast bringing the classic newspaper characters to life. Lamorne Morris steps into the lead role to voice the perpetually lazy and sarcastic orange feline.</p>\n<p>Accompanying him are Joe Brogie, who provides the voice for the cat&#x27;s long-suffering human owner Jon Arbuckle, and Michelle Ortiz, who voices Arlene.</p>\n<h2>City Living and Absurd Adventures</h2>\n<p>In this fresh iteration, the main characters reside in a bustling big city alongside a vibrant mix of familiar favorites and eccentric new personalities. The narrative highlights the protagonist&#x27;s signature traits, including selfishness, wit, and an absolute refusal to be bothered.</p>\n<p>Whether he is hunting down his next meal, dodging responsibilities, or transforming a standard afternoon into a chaotic escapade, the famous feline handles existence entirely on his own terms.</p>\n<h2>Production and Creative Team</h2>\n<p>The project is developed and created by Nickelodeon Animation Studios, with Bob Camp helping develop the adaptation. Animation duties are handled by Snipple Animation Studios.</p>\n<p>Dave H. Johnson and John Trabbic III serve as the executive producers overseeing the daily production of the series, drawing inspiration straight from Jim Davis&#x27;s legendary source material.</p>\n<h2>Streaming Release Details</h2>\n<p>Fans eager to watch the upcoming adventures will not have to wait much longer. Nickelodeon has scheduled the series to debut on the streaming platform starting December 11th, 2026.</p>\n<h2>News Overview</h2>\n<p>Paramount+ has dropped the first trailer for an upcoming 2D animated Garfield series created by Nickelodeon Animation Studios. Scheduled to premiere on December 11th, 2026, the show features Lamorne Morris voicing the lead character and brings the iconic comic strip cat back to his traditional visual roots.</p>\n<h2>Key facts</h2>\n<ul><li>Garfield debuted as a comic strip in 1978.</li><li>A 3D animated movie called The Garfield Movie was released in 2024.</li><li>Lamorne Morris voices Garfield.</li><li>Joe Brogie voices Jon Arbuckle.</li><li>Michelle Ortiz voices Arlene.</li><li>Dave H. Johnson and John Trabbic III are executive producers.</li><li>The series premieres on Paramount+ on December 11th, 2026.</li></ul>\n</article>",
+  "t": "Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series"
  },
  "news:1ceqkh7": {
   "d": "Music composer Anirudh Ravichander and Kavya Maran tied the knot in a magnificent ceremony at the Four Seasons Astir Palace Hotel in Greece, featuring…",
@@ -84675,6 +85190,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Netflix Reveals Official Trailer for Romantic Thriller Series &#x27;Unaccustomed Earth&#x27;</h1>\n<p class=\"ssr-lead\">Freida Pinto stars in the upcoming Netflix streaming adaptation based on stories by renowned author Jhumpa Lahiri.</p>\n<p class=\"ssr-date\">Published 7 November 2026</p>\n<h2>First Look at the Streaming Adaptation</h2>\n<p>Netflix has officially unveiled the first trailer and poster for a brand new romantic thriller series titled Unaccustomed Earth. Based on internationally beloved stories by author Jhumpa Lahiri, the dramatic project is scheduled for a global streaming debut in December this winter.</p>\n<p>The newly released promotional footage offers audiences a glimpse into the emotional intensity and passionate narrative arc of the show, highlighting complex themes of loyalty, family secrets, and cultural belonging.</p>\n<h2>Plot and Premise</h2>\n<p>The story is set within an affluent Indian-American enclave located in Cambridge, Massachusetts. The narrative follows Parul Chaudhury, a wife and mother who previously sacrificed her first love in order to honor her father&#x27;s wishes.</p>\n<p>After receiving a life-changing cancer diagnosis, Parul decides to move her family from India back to Cambridge. Determined to pursue the life she missed out on before it is too late, her radical choices upend the community and test long-held traditions.</p>\n<h2>Source Material and Authorship</h2>\n<p>The series draws inspiration from Jhumpa Lahiri&#x27;s celebrated 2008 short story collection of the same name. Creator and showrunner Madhuri Shekar wove together characters and narratives that originally existed across separate stories into an ongoing saga.</p>\n<p>Author Jhumpa Lahiri praised the adaptation, noting that the series charts its own course through her stories while deftly layering themes of truth-telling, betrayal, longing, and loss.</p>\n<h2>Cast and Ensemble</h2>\n<p>Freida Pinto leads the ensemble cast in the central role of Parul Chaudhury. She is joined by actors Siddharth, Sarayu Blue, and Indraneil Sengupta.</p>\n<p>The supporting cast also features Adi Roy, Jayant Kripalani, Justin Bartha, and Iyla Sundarsingh Mckaig, rounding out the multi-generational immigrant community.</p>\n<h2>Direction and Creative Team</h2>\n<p>The episodes for the series are directed by a talented lineup of filmmakers, including acclaimed Indian director Ritesh Batra, Tinge, Amit Gupta, and Nisha Ganatra.</p>\n<p>The production is backed by Warner Bros TV, with writing credits shared by Madhuri Shekar and John Wells. Executive producers include Shekar, Wells, Lahiri, Ganatra, Erica Saleh, Erin Jontow, and Celia Costas.</p>\n<h2>Release Details</h2>\n<p>Fans waiting to watch the romantic thriller can mark their calendars for December 17th, 2026. Netflix will premiere the series for streaming worldwide on this date.</p>\n<h2>News Overview</h2>\n<p>Netflix has released the official trailer for Unaccustomed Earth, a romantic thriller series based on Jhumpa Lahiri&#x27;s stories and starring Freida Pinto. Created by Madhuri Shekar, the drama focuses on a woman who relocates her family to Cambridge, Massachusetts following a cancer diagnosis. The series is set to stream worldwide starting on December 17th, 2026.</p>\n<h2>Key facts</h2>\n<ul><li>The series is titled Unaccustomed Earth.</li><li>Freida Pinto stars as Parul Chaudhury.</li><li>The streaming release date is December 17th, 2026.</li><li>The show is based on stories by Jhumpa Lahiri.</li><li>Madhuri Shekar created and showran the series.</li></ul>\n</article>",
   "t": "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'"
  },
+ "news:1w5xg9i": {
+  "d": "Author Michael Connelly has explained the extent of his participation in the upcoming prequel series Bosch: Start of Watch, marking a unique first for…",
+  "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/titus-welliver-as-harry-bosch-holding-his-hand-out-while-sitting-at-a-desk-in-bosch-legacy.jpg?w=1600&amp;h=900&amp;fit=crop",
+  "k": "Bosch Start of Watch, Michael Connelly Bosch prequel, Cameron Monaghan Harry Bosch, Bosch Start of Watch release date, Michael Connelly Bosch, Bosch, Michael Connelly, Jonathan Santlofer Bosch, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Michael Connelly Explains His Level Of Participation\n\nAuthor Michael Connelly recently shed light on his specific level of participation in the upcoming television project Bosch: Start of Watch. During an interview with Jonathan Santlofer, the novelist detailed how his day-to-day routine differed on this production compared to previous television adaptations derived from his books.\n\nWhile Connelly maintained an active presence by visiting the writers' room frequently, he did not pen a single script for the new series. This absence from the writing duties marks a first for any television show based on his literary universe.\n\nTrusting The Creative Team Behind The Prequel\n\nThe decision to step back from penning individual episodes came down to the high level of trust Connelly placed in the production crew. Many of the writers and producers assembled for the project are veterans of the previous television iterations.\n\nBecause he had worked alongside these individuals from day one on earlier shows, the author felt confident in their ability to deliver strong scripts without requiring his constant supervision and hands-on writing input.\n\nBackground Of The Bosch Television Universe\n\nThe television journey for the literary detective began with the original Bosch series that aired from 2014 to 2021, featuring Titus Welliver as the iconic Los Angeles Police Department investigator. That successful run paved the way for a sequel series titled Bosch: Legacy, which ran from 2022 to 2025.\n\nFor Bosch: Legacy, Connelly frequently authored individual episodes and served as an executive producer. Additionally, he serves as co-creator and executive producer on the second spinoff titled Ballard, which launched in 2025 and stars Maggie Q as the titular detective.\n\nSetting And Plot Of Start Of Watch\n\nBosch: Start of Watch takes viewers back to 1991 Los Angeles, capturing a city burdened by severe racial tension and widespread gang violence. The storyline centers on a young rookie cop as he begins his career with the LAPD.\n\nAs the narrative unfolds, the protagonist gets pulled into a high-profile heist and complex criminal corruption, ultimately testing his dedication to the police badge.\n\nAn Original Storyline For Television\n\nUnlike the original Bosch run or the subsequent Bosch: Legacy series, the upcoming prequel is not adapted directly from a specific Michael Connelly novel. Instead, the production charts an entirely original backstory for the character.\n\nThis departure from adapting a pre-existing text is widely considered a key reason why the author took a different approach to his writing involvement this time around.\n\nCast And Creative Leadership\n\nCameron Monaghan steps into the lead role to portray a younger iteration of Harry Bosch at the very beginning of his law enforcement career. The supporting cast features Omari Hardwick as Eli Bridges, JD Pardo as Cory, and Ariana Guerra as Rosa, alongside numerous other actors including William Fichtner and Azita Ghanizada.\n\nBehind the scenes, Tom Bernardo and Brian Anthony serve as creators and showrunners, while Henrik Bastin, Jamie Boscardin Martin, and Jasmine Russ hold executive producer credits.\n\nRelease Details And Schedule\n\nFans eager to dive into the new television chapter will not have to wait much longer. Bosch: Start of Watch is scheduled to premiere on MGM+ on January 10, 2027.\n\nThe debut will feature the release of two episodes, followed by a weekly rollout lasting for eight weeks until the finale on February 21.\n\nNews Overview\n\nAuthor Michael Connelly clarified that while he visited the writers' room frequently, he did not write any episodes for the upcoming prequel series Bosch: Start of Watch. The show, which features Cameron Monaghan as a young rookie cop in 1991 Los Angeles, is set to premiere on MGM+ on January 10, 2027.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-16T18:44:45.000Z",
+   "description": "Author Michael Connelly has explained the extent of his participation in the upcoming prequel series Bosch: Start of Watch, marking a unique first for…",
+   "headline": "Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series",
+   "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/titus-welliver-as-harry-bosch-holding-his-hand-out-while-sitting-at-a-desk-in-bosch-legacy.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "keywords": "Bosch Start of Watch, Michael Connelly Bosch prequel, Cameron Monaghan Harry Bosch, Bosch Start of Watch release date",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1w5xg9i",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1w5xg9i"
+  },
+  "modified": "",
+  "published": "2026-11-16T18:44:45.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series</h1>\n<p class=\"ssr-lead\">Author Michael Connelly has explained the extent of his participation in the upcoming prequel series Bosch: Start of Watch, marking a unique first for adaptations of his literary work.</p>\n<p class=\"ssr-date\">Published 16 November 2026</p>\n<h2>Michael Connelly Explains His Level Of Participation</h2>\n<p>Author Michael Connelly recently shed light on his specific level of participation in the upcoming television project Bosch: Start of Watch. During an interview with Jonathan Santlofer, the novelist detailed how his day-to-day routine differed on this production compared to previous television adaptations derived from his books.</p>\n<p>While Connelly maintained an active presence by visiting the writers&#x27; room frequently, he did not pen a single script for the new series. This absence from the writing duties marks a first for any television show based on his literary universe.</p>\n<h2>Trusting The Creative Team Behind The Prequel</h2>\n<p>The decision to step back from penning individual episodes came down to the high level of trust Connelly placed in the production crew. Many of the writers and producers assembled for the project are veterans of the previous television iterations.</p>\n<p>Because he had worked alongside these individuals from day one on earlier shows, the author felt confident in their ability to deliver strong scripts without requiring his constant supervision and hands-on writing input.</p>\n<h2>Background Of The Bosch Television Universe</h2>\n<p>The television journey for the literary detective began with the original Bosch series that aired from 2014 to 2021, featuring Titus Welliver as the iconic Los Angeles Police Department investigator. That successful run paved the way for a sequel series titled Bosch: Legacy, which ran from 2022 to 2025.</p>\n<p>For Bosch: Legacy, Connelly frequently authored individual episodes and served as an executive producer. Additionally, he serves as co-creator and executive producer on the second spinoff titled Ballard, which launched in 2025 and stars Maggie Q as the titular detective.</p>\n<h2>Setting And Plot Of Start Of Watch</h2>\n<p>Bosch: Start of Watch takes viewers back to 1991 Los Angeles, capturing a city burdened by severe racial tension and widespread gang violence. The storyline centers on a young rookie cop as he begins his career with the LAPD.</p>\n<p>As the narrative unfolds, the protagonist gets pulled into a high-profile heist and complex criminal corruption, ultimately testing his dedication to the police badge.</p>\n<h2>An Original Storyline For Television</h2>\n<p>Unlike the original Bosch run or the subsequent Bosch: Legacy series, the upcoming prequel is not adapted directly from a specific Michael Connelly novel. Instead, the production charts an entirely original backstory for the character.</p>\n<p>This departure from adapting a pre-existing text is widely considered a key reason why the author took a different approach to his writing involvement this time around.</p>\n<h2>Cast And Creative Leadership</h2>\n<p>Cameron Monaghan steps into the lead role to portray a younger iteration of Harry Bosch at the very beginning of his law enforcement career. The supporting cast features Omari Hardwick as Eli Bridges, JD Pardo as Cory, and Ariana Guerra as Rosa, alongside numerous other actors including William Fichtner and Azita Ghanizada.</p>\n<p>Behind the scenes, Tom Bernardo and Brian Anthony serve as creators and showrunners, while Henrik Bastin, Jamie Boscardin Martin, and Jasmine Russ hold executive producer credits.</p>\n<h2>Release Details And Schedule</h2>\n<p>Fans eager to dive into the new television chapter will not have to wait much longer. Bosch: Start of Watch is scheduled to premiere on MGM+ on January 10, 2027.</p>\n<p>The debut will feature the release of two episodes, followed by a weekly rollout lasting for eight weeks until the finale on February 21.</p>\n<h2>News Overview</h2>\n<p>Author Michael Connelly clarified that while he visited the writers&#x27; room frequently, he did not write any episodes for the upcoming prequel series Bosch: Start of Watch. The show, which features Cameron Monaghan as a young rookie cop in 1991 Los Angeles, is set to premiere on MGM+ on January 10, 2027.</p>\n<h2>Key facts</h2>\n<ul><li>Michael Connelly discussed his involvement in Bosch: Start of Watch during an interview with Jonathan Santlofer.</li><li>Bosch ran from 2014 to 2021 and starred Titus Welliver.</li><li>Bosch: Legacy ran from 2022 to 2025.</li><li>Ballard premiered in 2025 and stars Maggie Q.</li><li>Bosch: Start of Watch is set in 1991 Los Angeles.</li><li>Cameron Monaghan stars as a younger Harry Bosch.</li><li>Bosch: Start of Watch premieres on MGM+ on January 10, 2027.</li><li>The season will run for eight weeks through February 21.</li></ul>\n</article>",
+  "t": "Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series"
+ },
  "news:1w7cpp4": {
   "d": "Shraddha Kapoor is gearing up for her theatrical return with Eetha, aiming to secure her fifth consecutive opening day collection exceeding 10 crore net.",
   "img": "https://www.koimoi.com/wp-content/new-galleries/2026/11/eetha-trailer-impact-at-box-office-day-1-shraddha-kapoor-set-to-deliver-her-fifth-consecutive-10-crore-opener.jpg",
@@ -87304,6 +87852,39 @@
   "published": "2026-11-10T03:07:25.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Nick Jonas dances to Sai Abhyankkar&#x27;s Tamil hit Radhimaa during Diwali</h1>\n<p class=\"ssr-lead\">Nick Jonas and the Jonas Brothers surprised Indian fans by grooving to Sai Abhyankkar&#x27;s viral Tamil track Radhimaa in a festive Instagram post.</p>\n<p class=\"ssr-date\">Published 10 November 2026</p>\n<h2>Diwali Celebrations With a Musical Twist</h2>\n<p>Nick Jonas and his brothers Joe and Kevin Jonas brought a unique cross-cultural flair to their recent festive greetings. In a video shared on Instagram, the famous siblings and their bandmates were captured breaking into an energetic dance routine.</p>\n<p>Rather than sticking to standard festive tracks, the group chose a popular contemporary South Indian single to soundtrack their holiday post. The unexpected choice immediately caught the attention of viewers worldwide.</p>\n<h2>Grooving to Radhimaa</h2>\n<p>The track that powered the dance video is Radhimaa, an upbeat Tamil independent single composed by young music sensation Sai Abhyankkar. The song has steadily built an enormous digital audience since its release.</p>\n<p>In the social media clip, Nick and his teammates appear fully immersed in the rhythm as the catchy tune plays in the background, offering a playful peek into their personal celebrations.</p>\n<h2>Composer Sai Abhyankkar Reacts</h2>\n<p>The cross-border reach of the track did not go unnoticed by its creator. Sai Abhyankkar, who not only composed the music but also featured in the official music video alongside actor Bhagyashri Borse, was quick to respond.</p>\n<p>Delighted by the international shoutout, the young composer left a warm comment on Nick&#x27;s post featuring a heart emoji, marking a memorable moment for Tamil independent music.</p>\n<h2>The National Jiju Connection</h2>\n<p>Nick Jonas has long enjoyed a warm relationship with Indian audiences, who affectionately refer to him as India&#x27;s National Jiju due to his marriage to actor Priyanka Chopra.</p>\n<p>This latest gesture added a fresh regional layer to that affectionate moniker. Fans quickly connected the dots, especially as the song features the notable phrase &#x27;thangamaana paiyan&#x27;, which translates to golden boy.</p>\n<h2>A History of Embracing Indian Music</h2>\n<p>For followers of the American singer, dipping into the world of Indian tracks is a familiar pattern. Nick has frequently shared clips of himself listening to or dancing to popular Hindi film songs ahead of major concert tours.</p>\n<p>Shifting his musical focus toward a Tamil indie hit marked a delightful departure from his usual routine, giving South Indian music enthusiasts a special reason to celebrate.</p>\n<h2>About the Viral Hit</h2>\n<p>Radhimaa was released on August 24, with lyrics penned by Vivek and a music video directed by Thejo Bharathwaj. The single quickly amassed massive streaming numbers, reaching 117 million views on YouTube by the time of publication.</p>\n<p>The track adds to Sai Abhyankkar&#x27;s rapidly expanding catalogue of hits, which previously includes viral sensations like Katchi Sera, Aasa Kooda, and Pavazha Malli.</p>\n<h2>News Overview</h2>\n<p>Nick Jonas and the Jonas Brothers celebrated Diwali by dancing to Sai Abhyankkar&#x27;s viral Tamil indie track Radhimaa in an Instagram video. The gesture delighted fans and drew a warm response from the composer, adding a playful Tamil twist to Nick&#x27;s popular National Jiju persona.</p>\n<h2>Key facts</h2>\n<ul><li>Nick Jonas danced to Radhimaa during Diwali celebrations</li><li>Sai Abhyankkar composed, sang, and produced Radhimaa</li><li>Radhimaa was released on August 24</li><li>The song features actor Bhagyashri Borse</li><li>The music video was directed by Thejo Bharathwaj</li><li>The track reached 117 million views on YouTube</li><li>Vivek wrote the lyrics for Radhimaa</li></ul>\n</article>",
   "t": "Nick Jonas dances to Sai Abhyankkar's Tamil hit Radhimaa during Diwali"
+ },
+ "news:248val": {
+  "d": "How to Rob a Bank: Nicholas Hoult's action-comedy heist film faces an uphill financial battle after a slow opening weekend globally.",
+  "img": "https://www.koimoi.com/wp-content/new-galleries/2026/11/how-to-rob-a-bank-box-office.jpg",
+  "k": "How to Rob a Bank box office, Nicholas Hoult How to Rob a Bank, How to Rob a Bank break even budget, David Leitch How to Rob a Bank, How to Rob a Bank, Nicholas Hoult, Zoë Kravitz How to Rob a Bank, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Opening Weekend Performance\n\nThe theatrical run for the action-comedy heist feature started on a challenging note in North America during its initial weekend. Figures compiled by Box Office Mojo revealed that the title secured the final position in regional rankings.\n\nBy Sunday of its premiere frame, the release slipped entirely out of the top tier of North American box office charts, reflecting a soft initial public response.\n\nGlobal Revenue Breakdown\n\nIn addition to sluggish domestic returns, international markets also yielded modest figures for the Amazon MGM Studios distribution. Overseas ticket sales during the opening frame added to the overall cautious trajectory.\n\nCombined figures indicate that the project brought in a total of $10.3 million globally through its first weekend in theaters.\n\nBudget And Break-Even Target\n\nDespite the underwhelming debut, financial analysts note that the production carries a relatively restrained production cost. Excluding marketing expenses, the feature was produced on a $40 million investment.\n\nStandard industry formulas suggest that reaching profitability requires a global gross equal to two and a half times the production expenditure, putting the necessary benchmark at $100 million.\n\nCast And Creative Team\n\nThe theatrical entry is directed by David Leitch and features a large ensemble cast. Alongside lead actor Nicholas Hoult, the roster includes Zoë Kravitz and Anna Sawai.\n\nOther notable performers appearing in the production are Rhenzy Feliz, Paul Sparks, Young Mazino, Tati Gabrielle, Christian Slater, Pete Davidson, and John C. Reilly.\n\nPlot Premise\n\nThe narrative centers on a group of digitally skilled bank robbers who broadcast their illegal operations live. By streaming their crimes, they transform their exploits into viral internet events.\n\nThis digital notoriety eventually draws the focus of an experienced FBI agent and a skilled software engineer who team up to pursue the group toward a high-stakes final heist.\n\nRelease Timeline\n\nThe film officially arrived in cinemas on November 13, initiating its current run on the big screen. Industry trackers continue to monitor its daily trajectory.\n\nNews Overview\n\nThe action-comedy heist film starring Nicholas Hoult debuted with modest global earnings following its November 13 release. With a $40 million production budget and a $100 million break-even target, the feature faces a difficult path to profitability after a slow opening weekend.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-16T18:44:52.000Z",
+   "description": "How to Rob a Bank: Nicholas Hoult's action-comedy heist film faces an uphill financial battle after a slow opening weekend globally.",
+   "headline": "How To Rob A Bank Box Office: Financial Milestone Needed For Profitability",
+   "image": "https://www.koimoi.com/wp-content/new-galleries/2026/11/how-to-rob-a-bank-box-office.jpg",
+   "keywords": "How to Rob a Bank box office, Nicholas Hoult How to Rob a Bank, How to Rob a Bank break even budget, David Leitch How to Rob a Bank",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=248val",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=248val"
+  },
+  "modified": "",
+  "published": "2026-11-16T18:44:52.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>How To Rob A Bank Box Office: Financial Milestone Needed For Profitability</h1>\n<p class=\"ssr-lead\">Nicholas Hoult&#x27;s action-comedy heist film faces an uphill financial battle after a slow opening weekend globally.</p>\n<p class=\"ssr-date\">Published 16 November 2026</p>\n<h2>Opening Weekend Performance</h2>\n<p>The theatrical run for the action-comedy heist feature started on a challenging note in North America during its initial weekend. Figures compiled by Box Office Mojo revealed that the title secured the final position in regional rankings.</p>\n<p>By Sunday of its premiere frame, the release slipped entirely out of the top tier of North American box office charts, reflecting a soft initial public response.</p>\n<h2>Global Revenue Breakdown</h2>\n<p>In addition to sluggish domestic returns, international markets also yielded modest figures for the Amazon MGM Studios distribution. Overseas ticket sales during the opening frame added to the overall cautious trajectory.</p>\n<p>Combined figures indicate that the project brought in a total of $10.3 million globally through its first weekend in theaters.</p>\n<h2>Budget And Break-Even Target</h2>\n<p>Despite the underwhelming debut, financial analysts note that the production carries a relatively restrained production cost. Excluding marketing expenses, the feature was produced on a $40 million investment.</p>\n<p>Standard industry formulas suggest that reaching profitability requires a global gross equal to two and a half times the production expenditure, putting the necessary benchmark at $100 million.</p>\n<h2>Cast And Creative Team</h2>\n<p>The theatrical entry is directed by David Leitch and features a large ensemble cast. Alongside lead actor Nicholas Hoult, the roster includes Zoë Kravitz and Anna Sawai.</p>\n<p>Other notable performers appearing in the production are Rhenzy Feliz, Paul Sparks, Young Mazino, Tati Gabrielle, Christian Slater, Pete Davidson, and John C. Reilly.</p>\n<h2>Plot Premise</h2>\n<p>The narrative centers on a group of digitally skilled bank robbers who broadcast their illegal operations live. By streaming their crimes, they transform their exploits into viral internet events.</p>\n<p>This digital notoriety eventually draws the focus of an experienced FBI agent and a skilled software engineer who team up to pursue the group toward a high-stakes final heist.</p>\n<h2>Release Timeline</h2>\n<p>The film officially arrived in cinemas on November 13, initiating its current run on the big screen. Industry trackers continue to monitor its daily trajectory.</p>\n<h2>News Overview</h2>\n<p>The action-comedy heist film starring Nicholas Hoult debuted with modest global earnings following its November 13 release. With a $40 million production budget and a $100 million break-even target, the feature faces a difficult path to profitability after a slow opening weekend.</p>\n<h2>Key facts</h2>\n<ul><li>How to Rob a Bank opened on November 13</li><li>Domestic opening weekend collection was $5.2 million</li><li>International opening weekend collection was $5.1 million</li><li>Total worldwide opening weekend collection was $10.3 million</li><li>Production budget was $40 million</li><li>Break-even target is $100 million</li></ul>\n</article>",
+  "t": "How To Rob A Bank Box Office: Financial Milestone Needed For Profitability"
  },
  "news:25fyld": {
   "d": "Dark Matter: Series creator Blake Crouch dives into the major character death, the mind-bending multiverse mechanics, and the shocking cliffhanger that…",
@@ -98867,6 +99448,39 @@
   "published": "2026-11-14T14:52:32.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana: Part 1 Surpasses Rs 1,000 Crore Globally in Eight Days</h1>\n<p class=\"ssr-lead\">Nitesh Tiwari&#x27;s mythological epic starring Ranbir Kapoor and Yash has achieved a massive milestone worldwide within little over a week.</p>\n<p class=\"ssr-date\">Published 14 November 2026</p>\n<h2>Global Milestone Achieved</h2>\n<p>The mythological epic Ramayana: Part 1 has officially powered past the monumental Rs 1,000 crore threshold at the worldwide box office. This major financial benchmark was reached in just eight days following its theatrical debut, according to announcements made by the production team.</p>\n<p>Makers of the big-budget feature celebrated the achievement by sharing an official poster across social media platforms, expressing gratitude to audiences worldwide for embracing the project with immense enthusiasm and support.</p>\n<h2>Director and Cast Ensemble</h2>\n<p>Helmed by filmmaker Nitesh Tiwari, the venture serves as the inaugural chapter of a planned two-part cinematic adaptation centered on the traditional Indian epic. The ambitious project assembles a prominent ensemble cast featuring leading names from across the film industry.</p>\n<p>Superstar Ranbir Kapoor steps into the role of Lord Rama, while Sai Pallavi portrays Sita. The movie also features Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as the divine deity Hanuman, anchoring the narrative core.</p>\n<h2>Supporting Cast and Special Roles</h2>\n<p>Beyond the primary protagonists, the movie incorporates a vast array of established performers in critical supporting and character parts. Veteran actor Anupam Kher lends his voice to Jatayu, the divine bird who attempts to rescue Sita during her abduction.</p>\n<p>Additional key performances in the expansive feature include contributions from Arun Govil, Lara Dutta, and Rakul Preet Singh, rounding out the large-scale adaptation&#x27;s theatrical roster.</p>\n<h2>Festive Surge and Early Openings</h2>\n<p>Trade analyst Taran Adarsh highlighted that the enterprise experienced a robust financial surge propelled by holiday festivities. The Monday collections alone comprised nearly 35.15 percent of the feature&#x27;s initial five-day total earnings.</p>\n<p>The project launched into cinemas with a Thursday opening figure of Rs 47 crore, continuing its trajectory with Rs 38.25 crore on Friday and scaling up to Rs 53 crore on Saturday.</p>\n<h2>Makers&#x27; Public Statement</h2>\n<p>Reflecting on the international reception, the creators released an official message on their Instagram handle to mark the Rs 1,000 crore milestone. Their post highlighted the global reach of the storytelling journey.</p>\n<p>The studio&#x27;s shared statement read, From Bharat to the world, the journey continues. Thank you for all the love. Yeh Ram ke yug ka aarambh hai, acknowledging the overwhelming audience turnout.</p>\n<h2>Legacy and Cinematic Scale</h2>\n<p>As the first instalment of a dual-part undertaking, Ramayana: Part 1 sets a high financial standard for future mythological adaptations in Indian cinema. The combination of high-profile casting and festive release timing proved vital to its early box office velocity.</p>\n<p>The sheer scale of the production, paired with its rapid ascension into the four-figure crore club globally, cements its status as one of the prominent commercial successes of the current theatrical calendar.</p>\n<h2>News Overview</h2>\n<p>Ramayana: Part 1 crossed the Rs 1,000 crore worldwide milestone in eight days following its theatrical release. Directed by Nitesh Tiwari, the film stars Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey, and benefited from strong festive box office numbers.</p>\n<h2>Key facts</h2>\n<ul><li>Ramayana: Part 1 crossed Rs 1,000 crore worldwide within eight days of release</li><li>The film is directed by Nitesh Tiwari</li><li>Ranbir Kapoor stars as Lord Rama</li><li>Sai Pallavi stars as Sita</li><li>Yash stars as Ravana</li><li>Ravie Dubey stars as Lakshman</li><li>Sunny Deol stars as Hanuman</li><li>Anupam Kher voices Jatayu</li><li>The film opened with Rs 47 crore on Thursday</li><li>Collections reached Rs 38.25 crore on Friday and Rs 53 crore on Saturday</li></ul>\n</article>",
   "t": "Ramayana: Part 1 Surpasses Rs 1,000 Crore Globally in Eight Days"
+ },
+ "news:gdlqhq": {
+  "d": "Actors Salman Khan and Sonu Sood have reportedly stepped up to provide medical and monetary aid to Sharad Kapoor after his videos asking for work gained…",
+  "img": "https://filmfare.wwmindia.com/content/2026/nov/sharad-kapoor1794823329.jpg",
+  "k": "Sharad Kapoor, Salman Khan, Sonu Sood, Sharad Kapoor viral appeal, Sharad Kapoor Josh, Josh, Salman Khan Josh, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "The Viral Appeal for Work\n\nActor Sharad Kapoor recently drew significant public attention after posting videos discussing the hardships affecting his personal and professional spheres. Widely recognized for his memorable performance in Josh alongside Shah Rukh Khan, the actor used his online platform to signal his eagerness to get back on set.\n\nHis honest statements regarding his current standing quickly circulated across social media platforms, triggering widespread industry conversations. Although his heartfelt call for employment prompted concern, the actor clarified that he was not experiencing a severe financial collapse.\n\nAssistance From Salman Khan\n\nIn the wake of his widely discussed videos, prominent figures from the film fraternity reportedly reached out to lend a helping hand. According to updates from ABP News, superstar Salman Khan has offered monetary support to the struggling actor.\n\nSources indicate that this backing from Salman Khan is expected to continue as Sharad navigates this transitional phase in his life and career, showcasing the enduring solidarity within the Bollywood community.\n\nMedical Intervention by Sonu Sood\n\nAlongside financial aid, Sharad Kapoor has received crucial medical assistance coordinated by Sonu Sood. The actor had been dealing with a troublesome leg injury sustained while playing football in Barcelona.\n\nSonu Sood reportedly arranged an expert team of medical professionals to evaluate and treat this lingering injury, offering much-needed relief to Sharad during a physically demanding time.\n\nPersonal Challenges and Pet Care\n\nThe actor's recent disclosures also shed light on the domestic hurdles faced by his household. Balancing health concerns and the arrival of a newborn made it exceptionally hard to manage the needs of their four dogs.\n\nDue to these mounting living and health challenges, animal welfare intervention led to the pets being temporarily taken away to ensure their proper care while the family stabilized their circumstances.\n\nA Shift Toward OTT and Hollywood\n\nDespite recent setbacks, Sharad Kapoor is actively pursuing fresh professional avenues. During an interview with Hindustan Times, he shared his enthusiasm for taking on new acting roles, particularly focusing on opportunities within the expanding OTT streaming landscape.\n\nFurthermore, having spent approximately seven years residing in New York, the actor is setting his sights on international cinema and preparing for a potential Hollywood debut to reinvent his career path.\n\nNews Overview\n\nSharad Kapoor received support from Salman Khan and Sonu Sood after his online appeal for work went viral. While Salman Khan offered financial assistance, Sonu Sood arranged medical help for Sharad's leg injury.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-16T10:09:49.000Z",
+   "description": "Actors Salman Khan and Sonu Sood have reportedly stepped up to provide medical and monetary aid to Sharad Kapoor after his videos asking for work gained…",
+   "headline": "Salman Khan and Sonu Sood Extend Support to Sharad Kapoor Following His Viral Appeal",
+   "image": "https://filmfare.wwmindia.com/content/2026/nov/sharad-kapoor1794823329.jpg",
+   "keywords": "Sharad Kapoor, Salman Khan, Sonu Sood, Sharad Kapoor viral appeal",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=gdlqhq",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=gdlqhq"
+  },
+  "modified": "",
+  "published": "2026-11-16T10:09:49.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Salman Khan and Sonu Sood Extend Support to Sharad Kapoor Following His Viral Appeal</h1>\n<p class=\"ssr-lead\">Actors Salman Khan and Sonu Sood have reportedly stepped up to provide medical and monetary aid to Sharad Kapoor after his videos asking for work gained widespread attention.</p>\n<p class=\"ssr-date\">Published 16 November 2026</p>\n<h2>The Viral Appeal for Work</h2>\n<p>Actor Sharad Kapoor recently drew significant public attention after posting videos discussing the hardships affecting his personal and professional spheres. Widely recognized for his memorable performance in Josh alongside Shah Rukh Khan, the actor used his online platform to signal his eagerness to get back on set.</p>\n<p>His honest statements regarding his current standing quickly circulated across social media platforms, triggering widespread industry conversations. Although his heartfelt call for employment prompted concern, the actor clarified that he was not experiencing a severe financial collapse.</p>\n<h2>Assistance From Salman Khan</h2>\n<p>In the wake of his widely discussed videos, prominent figures from the film fraternity reportedly reached out to lend a helping hand. According to updates from ABP News, superstar Salman Khan has offered monetary support to the struggling actor.</p>\n<p>Sources indicate that this backing from Salman Khan is expected to continue as Sharad navigates this transitional phase in his life and career, showcasing the enduring solidarity within the Bollywood community.</p>\n<h2>Medical Intervention by Sonu Sood</h2>\n<p>Alongside financial aid, Sharad Kapoor has received crucial medical assistance coordinated by Sonu Sood. The actor had been dealing with a troublesome leg injury sustained while playing football in Barcelona.</p>\n<p>Sonu Sood reportedly arranged an expert team of medical professionals to evaluate and treat this lingering injury, offering much-needed relief to Sharad during a physically demanding time.</p>\n<h2>Personal Challenges and Pet Care</h2>\n<p>The actor&#x27;s recent disclosures also shed light on the domestic hurdles faced by his household. Balancing health concerns and the arrival of a newborn made it exceptionally hard to manage the needs of their four dogs.</p>\n<p>Due to these mounting living and health challenges, animal welfare intervention led to the pets being temporarily taken away to ensure their proper care while the family stabilized their circumstances.</p>\n<h2>A Shift Toward OTT and Hollywood</h2>\n<p>Despite recent setbacks, Sharad Kapoor is actively pursuing fresh professional avenues. During an interview with Hindustan Times, he shared his enthusiasm for taking on new acting roles, particularly focusing on opportunities within the expanding OTT streaming landscape.</p>\n<p>Furthermore, having spent approximately seven years residing in New York, the actor is setting his sights on international cinema and preparing for a potential Hollywood debut to reinvent his career path.</p>\n<h2>News Overview</h2>\n<p>Sharad Kapoor received support from Salman Khan and Sonu Sood after his online appeal for work went viral. While Salman Khan offered financial assistance, Sonu Sood arranged medical help for Sharad&#x27;s leg injury.</p>\n<h2>Key facts</h2>\n<ul><li>Sharad Kapoor acted in Josh alongside Shah Rukh Khan.</li><li>Salman Khan reportedly offered financial assistance to Sharad Kapoor according to ABP News.</li><li>Sonu Sood arranged a team of doctors to help Sharad Kapoor with a leg injury sustained while playing football in Barcelona.</li><li>Sharad Kapoor lived in New York for nearly seven years and is preparing for a Hollywood debut.</li><li>Sharad Kapoor&#x27;s situation involved challenges caring for four dogs and a newborn.</li></ul>\n</article>",
+  "t": "Salman Khan and Sonu Sood Extend Support to Sharad Kapoor Following His Viral Appeal"
  },
  "news:gdspk2": {
   "d": "One Piece Film: Red: The $246.5 million box office hit is leaving Netflix UK on December 1, 2026, marking the end of its run on the streaming platform in that…",
@@ -116939,6 +117553,62 @@
   "t": "Black Doves (2024) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2024"
  },
+ "tv:226102": {
+  "d": "Crash (2024) is a Crime and Comedy TV series. Explore its story: A drama about Cha Yeon-ho, a reasonable individualist…, cast, 2 seasons, and 25 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+  "industry": "world",
+  "k": "Crash, Crash TV series, Crash cast, Crash story, Crash seasons, Crash episodes, Crash season 2, Crash 25 episodes, Crash first air date, Crash trailer, Crash Crime, Crash Comedy, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Lee Min-ki"
+    },
+    {
+     "@type": "Person",
+     "name": "Kwak Sun-young"
+    },
+    {
+     "@type": "Person",
+     "name": "Heo Sung-tae"
+    },
+    {
+     "@type": "Person",
+     "name": "Lee Ho-cheol"
+    },
+    {
+     "@type": "Person",
+     "name": "Choi Moon-hee"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 20,
+    "ratingValue": 8.6,
+    "worstRating": 0
+   },
+   "description": "Crash (2024) is a Crime and Comedy TV series. Explore its story: A drama about Cha Yeon-ho, a reasonable individualist…, cast, 2 seasons, and 25 episodes.",
+   "genre": [
+    "Crime",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=226102",
+   "name": "Crash",
+   "numberOfEpisodes": 25,
+   "numberOfSeasons": 2,
+   "startDate": "2024-05-13",
+   "url": "https://flickatlas.co.uk/show?id=226102"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Crash (2024)</h1>\n<p class=\"ssr-lead\">A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 13 May 2024</li><li>Seasons: 2 · Episodes: 25</li><li>Created by: Park Joon-woo</li><li>Genres: Crime, Comedy, Drama, Action &amp; Adventure, Mystery</li><li>TMDB rating: 8.6/10 (20 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Lee Min-ki as Cha Yeon-ho</li><li>Kwak Sun-young as Min So-hee</li><li>Heo Sung-tae as Jeong Chae-man</li><li>Lee Ho-cheol as Woo Dong-gi</li><li>Choi Moon-hee as Eo Hyeon-gyeong</li><li>Jisung as Ji Dae-se</li><li>Ham Eun-jung</li><li>Uhm Hyun-kyung</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Hulu</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Hulu (US)</li></ul>\n</article>",
+  "t": "Crash (2024) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2024"
+ },
  "tv:243555": {
   "d": "Akka (2026) is a Drama and Crime TV series. Explore its story: In a kingdom ruled by women, matriarch Bhavani faces…, cast, 1 season, and 1 episodes.",
   "img": "https://image.tmdb.org/t/p/w780/cVUKFfws4upCB4ytz5uGIONIiRc.jpg",
@@ -120237,6 +120907,61 @@
   "t": "Zehar-e-Mohabbat (2026) — Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
+ "tv:333101": {
+  "d": "Treasure Island (2026) is an Action & Adventure TV series. Explore its story: Young Jim Hawkins and his mother Bess come into…, cast, 1 season, and 6 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+  "industry": "world",
+  "k": "Treasure Island, Treasure Island TV series, Treasure Island cast, Treasure Island story, Treasure Island seasons, Treasure Island episodes, Treasure Island season 1, Treasure Island 6 episodes, Treasure Island first air date, Treasure Island trailer, Treasure Island Action & Adventure, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "David Oyelowo"
+    },
+    {
+     "@type": "Person",
+     "name": "Tom Sweet"
+    },
+    {
+     "@type": "Person",
+     "name": "Tomer Capone"
+    },
+    {
+     "@type": "Person",
+     "name": "Craige Els"
+    },
+    {
+     "@type": "Person",
+     "name": "Neil Pendleton"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 46,
+    "ratingValue": 6.6,
+    "worstRating": 0
+   },
+   "description": "Treasure Island (2026) is an Action & Adventure TV series. Explore its story: Young Jim Hawkins and his mother Bess come into…, cast, 1 season, and 6 episodes.",
+   "genre": [
+    "Action & Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=333101",
+   "name": "Treasure Island",
+   "numberOfEpisodes": 6,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-11",
+   "url": "https://flickatlas.co.uk/show?id=333101"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Treasure Island (2026)</h1>\n<p class=\"ssr-lead\">Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 11 October 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Created by: Robert Murphy</li><li>Genres: Action &amp; Adventure</li><li>TMDB rating: 6.6/10 (46 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>David Oyelowo as Long John Silver</li><li>Tom Sweet as Jim Hawkins</li><li>Tomer Capone as Billy Bones</li><li>Craige Els as Mr. Arrow</li><li>Neil Pendleton as Mr. Cameron</li><li>George Frost as Meg Monahan</li><li>Mayen Mehta as Mr. Khan</li><li>Tadhg Murphy as Mr. Baker</li><li>Tristan Sturrock as Captain Smollett</li><li>Jack Huston as Aaron Graham</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: fuboTV, MGM+ Amazon Channel, Philo, MGM Plus</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on fuboTV (US)</li><li>Streaming on MGM+ Amazon Channel (US)</li><li>Streaming on Philo (US)</li><li>Streaming on MGM Plus (US)</li></ul>\n</article>",
+  "t": "Treasure Island (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:333483": {
   "d": "Hunkkaar: The Roar (2026) is a Crime and Drama TV series. Explore its story: When a teenager accuses a revered cult leader of…, cast, 1 season, and 6 episodes.",
   "img": "https://image.tmdb.org/t/p/w780/6zENIpSZvMGh2gfMKBeatpRtgX.jpg",
@@ -120963,6 +121688,47 @@
   "t": "Lagan Lagi (2026) — Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
+ "tv:337614": {
+  "d": "Andhvishwas (2026) is a Crime and Drama TV series. Explore its story: When blind faith becomes a pawn for criminal minds…, cast, 1 season, and 6 episodes.",
+  "img": "https://image.tmdb.org/t/p/w500/mGx1zHQlm7XMHabLCbEe3VIS4gB.jpg",
+  "industry": "bollywood",
+  "k": "Andhvishwas, Andhvishwas TV series, Andhvishwas cast, Andhvishwas story, Andhvishwas seasons, Andhvishwas episodes, Andhvishwas season 1, Andhvishwas 6 episodes, Andhvishwas first air date, Andhvishwas Crime, Andhvishwas Drama, Bollywood TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Amrita"
+    },
+    {
+     "@type": "Person",
+     "name": "Sidheshwar"
+    },
+    {
+     "@type": "Person",
+     "name": "Sandeep"
+    }
+   ],
+   "description": "Andhvishwas (2026) is a Crime and Drama TV series. Explore its story: When blind faith becomes a pawn for criminal minds…, cast, 1 season, and 6 episodes.",
+   "genre": [
+    "Crime",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/mGx1zHQlm7XMHabLCbEe3VIS4gB.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=337614",
+   "name": "Andhvishwas",
+   "numberOfEpisodes": 6,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-02",
+   "url": "https://flickatlas.co.uk/show?id=337614"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Andhvishwas (2026)</h1>\n<p class=\"ssr-lead\">When blind faith becomes a pawn for criminal minds, tragedies follow! Delve into real-life stories, where superstitions paved the way for crime.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 October 2026</li><li>Seasons: 1 · Episodes: 6</li><li>Genres: Crime, Drama, Mystery</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Amrita</li><li>Sidheshwar as Guruji</li><li>Sandeep</li></ul>\n</article>",
+  "t": "Andhvishwas (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:337617": {
   "d": "Rutba (2026) is a Drama and Family TV series. Explore its story: A relationship built on respect. A bond meant to be…, cast, and 2 episodes.",
   "img": "https://image.tmdb.org/t/p/w780/wcom4DlHk3UWl87TZvwUmN3qUSm.jpg",
@@ -121640,6 +122406,29 @@
   "t": "Hostel Haadsa (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
+ "tv:340772": {
+  "d": "和离后我带女儿横扫魔域 (2026) is a TV series. Explore its cast, 1 season, 999 episodes, and first air date 20 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/oYj21e3PZ1ZaEd95H5dbJfMFpPh.jpg",
+  "industry": "world",
+  "k": "和离后我带女儿横扫魔域, 和离后我带女儿横扫魔域 TV series, 和离后我带女儿横扫魔域 cast, 和离后我带女儿横扫魔域 story, 和离后我带女儿横扫魔域 seasons, 和离后我带女儿横扫魔域 episodes, 和离后我带女儿横扫魔域 season 1, 和离后我带女儿横扫魔域 999 episodes, 和离后我带女儿横扫魔域 first air date, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "description": "和离后我带女儿横扫魔域 (2026) is a TV series. Explore its cast, 1 season, 999 episodes, and first air date 20 October 2026.",
+   "image": "https://image.tmdb.org/t/p/w780/oYj21e3PZ1ZaEd95H5dbJfMFpPh.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=340772",
+   "name": "和离后我带女儿横扫魔域",
+   "numberOfEpisodes": 999,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-20",
+   "url": "https://flickatlas.co.uk/show?id=340772"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>和离后我带女儿横扫魔域 (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 October 2026</li><li>Seasons: 1 · Episodes: 999</li><li>Created by: 灵龙科技</li><li>Status: Ended</li></ul>\n</article>",
+  "t": "和离后我带女儿横扫魔域 (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:341165": {
   "d": "Kauriburi: The Cursed Temple (2026) is a TV series. Explore its story: An astrologer with psychic gifts ventures into a…, cast, 1 season, and 1 episodes.",
   "img": "https://image.tmdb.org/t/p/w500/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
@@ -121744,6 +122533,56 @@
   "published": "2026-11-10",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Nayi Manzil (TV Series) (2026)</h1>\n<p class=\"ssr-lead\">Nayi Manzil is a fast-paced Urdu-language tech drama series that explores the cutthroat world of South Asian startups, digital transformation, and the sacrifices required to build an empire from scratch. Set against the backdrop of Pakistan&#x27;s evolving tech landscape, the show blends the high-stakes financial tension of Succession with the disruptive entrepreneurial spirit of Silicon Valley.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 26 October 2026</li><li>Episodes: 1</li><li>Created by: Ahsan Ali Web Designer, AA Group Of Production, HairCog Media</li><li>Genres: Drama, Family, Reality</li><li>TMDB rating: 5.0/10 (1 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Ahsan Ali Web Designer as Mister Ali</li><li>Ahsan Ali Dinpur as Hamza</li><li>Muhammad Ajmal as Zain</li><li>M Abuzar Ghafari as Dani</li><li>Israr Alam as Sherry</li><li>Sora Khan as Sameer</li><li>Haji Golan Rasool as Arham</li><li>Hafiz Shah Nawaz as Farhan</li><li>Azam Tariq as Rayyan</li><li>Gulam Sadiq as Daniyal</li></ul>\n</article>",
   "t": "Nayi Manzil (TV Series) (2026) — Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:342272": {
+  "d": "Queen (2026) is a Drama TV series. Explore its story: Love betrayed Neeti and an assault shattered her…, cast, 1 season, and 5 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/jNRQtkhrAYZVIVRdq3nXsG7crEF.jpg",
+  "industry": "bollywood",
+  "k": "Queen, Queen TV series, Queen cast, Queen story, Queen seasons, Queen episodes, Queen season 1, Queen 5 episodes, Queen first air date, Queen Drama, Bollywood TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Shagun Sharma"
+    },
+    {
+     "@type": "Person",
+     "name": "Kartavya Yadav"
+    },
+    {
+     "@type": "Person",
+     "name": "Zakir Hussain"
+    },
+    {
+     "@type": "Person",
+     "name": "Shruti Seth"
+    }
+   ],
+   "description": "Queen (2026) is a Drama TV series. Explore its story: Love betrayed Neeti and an assault shattered her…, cast, 1 season, and 5 episodes.",
+   "director": [
+    {
+     "@type": "Person",
+     "name": "Mangesh Kanthale"
+    }
+   ],
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/jNRQtkhrAYZVIVRdq3nXsG7crEF.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=342272",
+   "name": "Queen",
+   "numberOfEpisodes": 5,
+   "numberOfSeasons": 1,
+   "startDate": "2026-11-16",
+   "url": "https://flickatlas.co.uk/show?id=342272"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Queen (2026)</h1>\n<p class=\"ssr-lead\">Love betrayed Neeti and an assault shattered her world. As fate leads her into a powerful political family, can she navigate this challenging new world?</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 November 2026</li><li>Seasons: 1 · Episodes: 5</li><li>Created by: Mangesh Kanthale</li><li>Director: Mangesh Kanthale</li><li>Genres: Drama</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Shagun Sharma as Neeti Singh</li><li>Kartavya Yadav as Raj Pratap Singh Tomar</li><li>Zakir Hussain as Mahendra Pratap Singh Tomar</li><li>Shruti Seth as Akshara Singh Tomar</li></ul>\n</article>",
+  "t": "Queen (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:37854": {
@@ -122319,6 +123158,62 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Lanterns (2026)</h1>\n<p class=\"ssr-lead\">Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 16 August 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Created by: Damon Lindelof, Chris Mundy, Tom King</li><li>Genres: Drama, Mystery, Sci-Fi &amp; Fantasy</li><li>TMDB rating: 8.2/10 (869 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Kyle Chandler as Hal Jordan / Halogram</li><li>Aaron Pierre as John Stewart</li><li>Kelly Macdonald as Sheriff Kerry Kane</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on JioHotstar (IN)</li></ul>\n</article>",
   "t": "Lanterns (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
+ },
+ "tv:95480": {
+  "d": "Slow Horses (2022) is a Crime and Drama TV series. Explore its story: Follow a dysfunctional team of MI5 agents—and their…, cast, 6 seasons, and 36 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+  "industry": "world",
+  "k": "Slow Horses, Slow Horses TV series, Slow Horses cast, Slow Horses story, Slow Horses seasons, Slow Horses episodes, Slow Horses season 6, Slow Horses 36 episodes, Slow Horses first air date, Slow Horses trailer, Slow Horses Crime, Slow Horses Drama, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "actor": [
+    {
+     "@type": "Person",
+     "name": "Gary Oldman"
+    },
+    {
+     "@type": "Person",
+     "name": "Jack Lowden"
+    },
+    {
+     "@type": "Person",
+     "name": "Kristin Scott Thomas"
+    },
+    {
+     "@type": "Person",
+     "name": "Hugo Weaving"
+    },
+    {
+     "@type": "Person",
+     "name": "Saskia Reeves"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1133,
+    "ratingValue": 8.1,
+    "worstRating": 0
+   },
+   "description": "Slow Horses (2022) is a Crime and Drama TV series. Explore its story: Follow a dysfunctional team of MI5 agents—and their…, cast, 6 seasons, and 36 episodes.",
+   "genre": [
+    "Crime",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=95480",
+   "name": "Slow Horses",
+   "numberOfEpisodes": 36,
+   "numberOfSeasons": 6,
+   "startDate": "2022-04-01",
+   "url": "https://flickatlas.co.uk/show?id=95480"
+  },
+  "modified": "",
+  "published": "2026-11-16",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Slow Horses (2022)</h1>\n<p class=\"ssr-lead\">Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world&#x27;s smoke and mirrors to defend England from sinister forces.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 1 April 2022</li><li>Seasons: 6 · Episodes: 36</li><li>Genres: Crime, Drama, Mystery</li><li>TMDB rating: 8.1/10 (1133 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Top cast</h2>\n<ul><li>Gary Oldman as Jackson Lamb</li><li>Jack Lowden as River Cartwright</li><li>Kristin Scott Thomas as Diana Taverner</li><li>Hugo Weaving as Frank Harkness</li><li>Saskia Reeves as Catherine Standish</li><li>Christopher Chung as Roddy Ho</li><li>Aimee-Ffion Edwards as Shirley Dander</li></ul>\n<h2>Where to Watch</h2>\n<ul><li>Streaming: Apple TV, Apple TV Amazon Channel</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Apple TV (IN)</li><li>Streaming on Apple TV Amazon Channel (IN)</li></ul>\n</article>",
+  "t": "Slow Horses (2022) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2022"
  },
  "tv:96677": {
   "d": "Lupin (2021) is a Crime and Drama TV series. Explore its story: Inspired by the adventures of Arsène Lupin, gentleman…, cast, 3 seasons, and 25 episodes.",

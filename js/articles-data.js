@@ -164687,5 +164687,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 17:15:10 +0000"
+  },
+  "248val": {
+    "id": "248val",
+    "type": "news",
+    "headline": "How To Rob A Bank Box Office: Financial Milestone Needed For Profitability",
+    "dek": "Nicholas Hoult's action-comedy heist film faces an uphill financial battle after a slow opening weekend globally.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The theatrical run for the action-comedy heist feature started on a challenging note in North America during its initial weekend. Figures compiled by Box Office Mojo revealed that the title secured the final position in regional rankings.",
+          "By Sunday of its premiere frame, the release slipped entirely out of the top tier of North American box office charts, reflecting a soft initial public response."
+        ]
+      },
+      {
+        "h": "Global Revenue Breakdown",
+        "p": [
+          "In addition to sluggish domestic returns, international markets also yielded modest figures for the Amazon MGM Studios distribution. Overseas ticket sales during the opening frame added to the overall cautious trajectory.",
+          "Combined figures indicate that the project brought in a total of $10.3 million globally through its first weekend in theaters."
+        ]
+      },
+      {
+        "h": "Budget And Break-Even Target",
+        "p": [
+          "Despite the underwhelming debut, financial analysts note that the production carries a relatively restrained production cost. Excluding marketing expenses, the feature was produced on a $40 million investment.",
+          "Standard industry formulas suggest that reaching profitability requires a global gross equal to two and a half times the production expenditure, putting the necessary benchmark at $100 million."
+        ]
+      },
+      {
+        "h": "Cast And Creative Team",
+        "p": [
+          "The theatrical entry is directed by David Leitch and features a large ensemble cast. Alongside lead actor Nicholas Hoult, the roster includes Zoë Kravitz and Anna Sawai.",
+          "Other notable performers appearing in the production are Rhenzy Feliz, Paul Sparks, Young Mazino, Tati Gabrielle, Christian Slater, Pete Davidson, and John C. Reilly."
+        ]
+      },
+      {
+        "h": "Plot Premise",
+        "p": [
+          "The narrative centers on a group of digitally skilled bank robbers who broadcast their illegal operations live. By streaming their crimes, they transform their exploits into viral internet events.",
+          "This digital notoriety eventually draws the focus of an experienced FBI agent and a skilled software engineer who team up to pursue the group toward a high-stakes final heist."
+        ]
+      },
+      {
+        "h": "Release Timeline",
+        "p": [
+          "The film officially arrived in cinemas on November 13, initiating its current run on the big screen. Industry trackers continue to monitor its daily trajectory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The action-comedy heist film starring Nicholas Hoult debuted with modest global earnings following its November 13 release. With a $40 million production budget and a $100 million break-even target, the feature faces a difficult path to profitability after a slow opening weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "How to Rob a Bank opened on November 13",
+      "Domestic opening weekend collection was $5.2 million",
+      "International opening weekend collection was $5.1 million",
+      "Total worldwide opening weekend collection was $10.3 million",
+      "Production budget was $40 million",
+      "Break-even target is $100 million"
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Anna Sawai",
+        "Rhenzy Feliz",
+        "Paul Sparks",
+        "Young Mazino",
+        "Tati Gabrielle",
+        "Christian Slater",
+        "Pete Davidson",
+        "John C. Reilly",
+        "David Leitch"
+      ],
+      "titles": [
+        "How to Rob a Bank"
+      ]
+    },
+    "keywords": [
+      "How to Rob a Bank box office",
+      "Nicholas Hoult How to Rob a Bank",
+      "How to Rob a Bank break even budget",
+      "David Leitch How to Rob a Bank"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/how-to-rob-a-bank-box-office.jpg",
+        "caption": "How To Rob A Bank Box Office: Financial Milestone Needed For Profitability",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 18:44:52 +0000"
+  },
+  "1cdrx57": {
+    "id": "1cdrx57",
+    "type": "news",
+    "headline": "Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series",
+    "dek": "The iconic orange cat returns to his comic strip roots in a brand new 2D animated series slated to stream on Paramount+ this winter.",
+    "body": [
+      {
+        "h": "The Return of the Classic 2D Feline",
+        "p": [
+          "Paramount+ has officially released the first trailer for an upcoming animated series featuring the beloved comic strip feline, Garfield. The platform is bringing the character back with his classic, authentic look as a chubby orange cat, drawing directly from the original newspaper comics.",
+          "Created originally by cartoonist Jim Davis, the character debuted back in 1978. Over the decades, the famous cat has starred in various television projects and films, including a 3D animated movie released in 2024."
+        ]
+      },
+      {
+        "h": "A Nostalgic Shift Back to Traditional Animation",
+        "p": [
+          "Executive producer Dave Johnson noted that three decades have passed since the last traditional 2D Garfield production. Younger generations who grew up on the character may be unfamiliar with his origins as a comic or a 2D show, making this upcoming release feel entirely fresh.",
+          "Johnson also remarked on the modern cultural landscape, highlighting that the character remains entirely unbothered by contemporary trends like body shaming or wellness culture, sticking strictly to his own relaxed priorities."
+        ]
+      },
+      {
+        "h": "Meet the Voice Cast and Characters",
+        "p": [
+          "The newly unveiled series features a talented voice cast bringing the classic newspaper characters to life. Lamorne Morris steps into the lead role to voice the perpetually lazy and sarcastic orange feline.",
+          "Accompanying him are Joe Brogie, who provides the voice for the cat's long-suffering human owner Jon Arbuckle, and Michelle Ortiz, who voices Arlene."
+        ]
+      },
+      {
+        "h": "City Living and Absurd Adventures",
+        "p": [
+          "In this fresh iteration, the main characters reside in a bustling big city alongside a vibrant mix of familiar favorites and eccentric new personalities. The narrative highlights the protagonist's signature traits, including selfishness, wit, and an absolute refusal to be bothered.",
+          "Whether he is hunting down his next meal, dodging responsibilities, or transforming a standard afternoon into a chaotic escapade, the famous feline handles existence entirely on his own terms."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The project is developed and created by Nickelodeon Animation Studios, with Bob Camp helping develop the adaptation. Animation duties are handled by Snipple Animation Studios.",
+          "Dave H. Johnson and John Trabbic III serve as the executive producers overseeing the daily production of the series, drawing inspiration straight from Jim Davis's legendary source material."
+        ]
+      },
+      {
+        "h": "Streaming Release Details",
+        "p": [
+          "Fans eager to watch the upcoming adventures will not have to wait much longer. Nickelodeon has scheduled the series to debut on the streaming platform starting December 11th, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ has dropped the first trailer for an upcoming 2D animated Garfield series created by Nickelodeon Animation Studios. Scheduled to premiere on December 11th, 2026, the show features Lamorne Morris voicing the lead character and brings the iconic comic strip cat back to his traditional visual roots."
+        ]
+      }
+    ],
+    "facts": [
+      "Garfield debuted as a comic strip in 1978.",
+      "A 3D animated movie called The Garfield Movie was released in 2024.",
+      "Lamorne Morris voices Garfield.",
+      "Joe Brogie voices Jon Arbuckle.",
+      "Michelle Ortiz voices Arlene.",
+      "Dave H. Johnson and John Trabbic III are executive producers.",
+      "The series premieres on Paramount+ on December 11th, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jim Davis",
+        "Dave Johnson",
+        "Lamorne Morris",
+        "Joe Brogie",
+        "Michelle Ortiz",
+        "Bob Camp",
+        "Dave H. Johnson",
+        "John Trabbic III"
+      ],
+      "titles": [
+        "Garfield",
+        "The Garfield Movie"
+      ]
+    },
+    "keywords": [
+      "Garfield 2D animated series",
+      "Lamorne Morris Garfield",
+      "Paramount+ Garfield trailer",
+      "Jim Davis Garfield show"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/garfieldseriesmainimagebigtw1.jpg",
+        "caption": "Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 18:21:40 +0000"
+  },
+  "gdlqhq": {
+    "id": "gdlqhq",
+    "type": "news",
+    "headline": "Salman Khan and Sonu Sood Extend Support to Sharad Kapoor Following His Viral Appeal",
+    "dek": "Actors Salman Khan and Sonu Sood have reportedly stepped up to provide medical and monetary aid to Sharad Kapoor after his videos asking for work gained widespread attention.",
+    "body": [
+      {
+        "h": "The Viral Appeal for Work",
+        "p": [
+          "Actor Sharad Kapoor recently drew significant public attention after posting videos discussing the hardships affecting his personal and professional spheres. Widely recognized for his memorable performance in Josh alongside Shah Rukh Khan, the actor used his online platform to signal his eagerness to get back on set.",
+          "His honest statements regarding his current standing quickly circulated across social media platforms, triggering widespread industry conversations. Although his heartfelt call for employment prompted concern, the actor clarified that he was not experiencing a severe financial collapse."
+        ]
+      },
+      {
+        "h": "Assistance From Salman Khan",
+        "p": [
+          "In the wake of his widely discussed videos, prominent figures from the film fraternity reportedly reached out to lend a helping hand. According to updates from ABP News, superstar Salman Khan has offered monetary support to the struggling actor.",
+          "Sources indicate that this backing from Salman Khan is expected to continue as Sharad navigates this transitional phase in his life and career, showcasing the enduring solidarity within the Bollywood community."
+        ]
+      },
+      {
+        "h": "Medical Intervention by Sonu Sood",
+        "p": [
+          "Alongside financial aid, Sharad Kapoor has received crucial medical assistance coordinated by Sonu Sood. The actor had been dealing with a troublesome leg injury sustained while playing football in Barcelona.",
+          "Sonu Sood reportedly arranged an expert team of medical professionals to evaluate and treat this lingering injury, offering much-needed relief to Sharad during a physically demanding time."
+        ]
+      },
+      {
+        "h": "Personal Challenges and Pet Care",
+        "p": [
+          "The actor's recent disclosures also shed light on the domestic hurdles faced by his household. Balancing health concerns and the arrival of a newborn made it exceptionally hard to manage the needs of their four dogs.",
+          "Due to these mounting living and health challenges, animal welfare intervention led to the pets being temporarily taken away to ensure their proper care while the family stabilized their circumstances."
+        ]
+      },
+      {
+        "h": "A Shift Toward OTT and Hollywood",
+        "p": [
+          "Despite recent setbacks, Sharad Kapoor is actively pursuing fresh professional avenues. During an interview with Hindustan Times, he shared his enthusiasm for taking on new acting roles, particularly focusing on opportunities within the expanding OTT streaming landscape.",
+          "Furthermore, having spent approximately seven years residing in New York, the actor is setting his sights on international cinema and preparing for a potential Hollywood debut to reinvent his career path."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sharad Kapoor received support from Salman Khan and Sonu Sood after his online appeal for work went viral. While Salman Khan offered financial assistance, Sonu Sood arranged medical help for Sharad's leg injury."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor acted in Josh alongside Shah Rukh Khan.",
+      "Salman Khan reportedly offered financial assistance to Sharad Kapoor according to ABP News.",
+      "Sonu Sood arranged a team of doctors to help Sharad Kapoor with a leg injury sustained while playing football in Barcelona.",
+      "Sharad Kapoor lived in New York for nearly seven years and is preparing for a Hollywood debut.",
+      "Sharad Kapoor's situation involved challenges caring for four dogs and a newborn."
+    ],
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Salman Khan",
+        "Sonu Sood",
+        "Shah Rukh Khan",
+        "Jiya Surana"
+      ],
+      "titles": [
+        "Josh"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor",
+      "Salman Khan",
+      "Sonu Sood",
+      "Sharad Kapoor viral appeal"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/sharad-kapoor1794823329.jpg",
+        "caption": "Salman Khan and Sonu Sood Extend Support to Sharad Kapoor Following His Viral Appeal",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T15:39:49+05:30"
+  },
+  "1w5xg9i": {
+    "id": "1w5xg9i",
+    "type": "news",
+    "headline": "Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series",
+    "dek": "Author Michael Connelly has explained the extent of his participation in the upcoming prequel series Bosch: Start of Watch, marking a unique first for adaptations of his literary work.",
+    "body": [
+      {
+        "h": "Michael Connelly Explains His Level Of Participation",
+        "p": [
+          "Author Michael Connelly recently shed light on his specific level of participation in the upcoming television project Bosch: Start of Watch. During an interview with Jonathan Santlofer, the novelist detailed how his day-to-day routine differed on this production compared to previous television adaptations derived from his books.",
+          "While Connelly maintained an active presence by visiting the writers' room frequently, he did not pen a single script for the new series. This absence from the writing duties marks a first for any television show based on his literary universe."
+        ]
+      },
+      {
+        "h": "Trusting The Creative Team Behind The Prequel",
+        "p": [
+          "The decision to step back from penning individual episodes came down to the high level of trust Connelly placed in the production crew. Many of the writers and producers assembled for the project are veterans of the previous television iterations.",
+          "Because he had worked alongside these individuals from day one on earlier shows, the author felt confident in their ability to deliver strong scripts without requiring his constant supervision and hands-on writing input."
+        ]
+      },
+      {
+        "h": "Background Of The Bosch Television Universe",
+        "p": [
+          "The television journey for the literary detective began with the original Bosch series that aired from 2014 to 2021, featuring Titus Welliver as the iconic Los Angeles Police Department investigator. That successful run paved the way for a sequel series titled Bosch: Legacy, which ran from 2022 to 2025.",
+          "For Bosch: Legacy, Connelly frequently authored individual episodes and served as an executive producer. Additionally, he serves as co-creator and executive producer on the second spinoff titled Ballard, which launched in 2025 and stars Maggie Q as the titular detective."
+        ]
+      },
+      {
+        "h": "Setting And Plot Of Start Of Watch",
+        "p": [
+          "Bosch: Start of Watch takes viewers back to 1991 Los Angeles, capturing a city burdened by severe racial tension and widespread gang violence. The storyline centers on a young rookie cop as he begins his career with the LAPD.",
+          "As the narrative unfolds, the protagonist gets pulled into a high-profile heist and complex criminal corruption, ultimately testing his dedication to the police badge."
+        ]
+      },
+      {
+        "h": "An Original Storyline For Television",
+        "p": [
+          "Unlike the original Bosch run or the subsequent Bosch: Legacy series, the upcoming prequel is not adapted directly from a specific Michael Connelly novel. Instead, the production charts an entirely original backstory for the character.",
+          "This departure from adapting a pre-existing text is widely considered a key reason why the author took a different approach to his writing involvement this time around."
+        ]
+      },
+      {
+        "h": "Cast And Creative Leadership",
+        "p": [
+          "Cameron Monaghan steps into the lead role to portray a younger iteration of Harry Bosch at the very beginning of his law enforcement career. The supporting cast features Omari Hardwick as Eli Bridges, JD Pardo as Cory, and Ariana Guerra as Rosa, alongside numerous other actors including William Fichtner and Azita Ghanizada.",
+          "Behind the scenes, Tom Bernardo and Brian Anthony serve as creators and showrunners, while Henrik Bastin, Jamie Boscardin Martin, and Jasmine Russ hold executive producer credits."
+        ]
+      },
+      {
+        "h": "Release Details And Schedule",
+        "p": [
+          "Fans eager to dive into the new television chapter will not have to wait much longer. Bosch: Start of Watch is scheduled to premiere on MGM+ on January 10, 2027.",
+          "The debut will feature the release of two episodes, followed by a weekly rollout lasting for eight weeks until the finale on February 21."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Author Michael Connelly clarified that while he visited the writers' room frequently, he did not write any episodes for the upcoming prequel series Bosch: Start of Watch. The show, which features Cameron Monaghan as a young rookie cop in 1991 Los Angeles, is set to premiere on MGM+ on January 10, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael Connelly discussed his involvement in Bosch: Start of Watch during an interview with Jonathan Santlofer.",
+      "Bosch ran from 2014 to 2021 and starred Titus Welliver.",
+      "Bosch: Legacy ran from 2022 to 2025.",
+      "Ballard premiered in 2025 and stars Maggie Q.",
+      "Bosch: Start of Watch is set in 1991 Los Angeles.",
+      "Cameron Monaghan stars as a younger Harry Bosch.",
+      "Bosch: Start of Watch premieres on MGM+ on January 10, 2027.",
+      "The season will run for eight weeks through February 21."
+    ],
+    "entities": {
+      "people": [
+        "Michael Connelly",
+        "Jonathan Santlofer",
+        "Titus Welliver",
+        "Maggie Q",
+        "Cameron Monaghan",
+        "Omari Hardwick",
+        "JD Pardo",
+        "Ariana Guerra",
+        "William Fichtner",
+        "Azita Ghanizada",
+        "Tom Bernardo",
+        "Brian Anthony",
+        "Henrik Bastin",
+        "Jamie Boscardin Martin",
+        "Jasmine Russ"
+      ],
+      "titles": [
+        "Bosch",
+        "Bosch: Legacy",
+        "Ballard",
+        "Bosch: Start of Watch",
+        "Shameless",
+        "Gotham",
+        "Star Wars Jedi: Fallen Order",
+        "Star Wars Jedi: Survivor"
+      ]
+    },
+    "keywords": [
+      "Bosch Start of Watch",
+      "Michael Connelly Bosch prequel",
+      "Cameron Monaghan Harry Bosch",
+      "Bosch Start of Watch release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/titus-welliver-as-harry-bosch-holding-his-hand-out-while-sitting-at-a-desk-in-bosch-legacy.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 18:44:45 GMT"
   }
 };

@@ -5075,6 +5075,11 @@ window.FA_DAYWISE = {
   ],
   "1437511": [
     {
+      "date": "2024-11-13",
+      "day": "Day 1",
+      "collection": 4558901
+    },
+    {
       "date": "2026-11-15",
       "day": "Day 3",
       "collection": 4595880

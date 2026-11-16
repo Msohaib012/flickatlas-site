@@ -132,6 +132,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-15",
+      "date_kind": "release",
+      "id": 1665375,
+      "providers": [
+        {
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "FR",
       "date": "2026-11-15",
       "date_kind": "digital",
@@ -147,6 +163,26 @@ window.FA_OTT = {
         {
           "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
           "name": "Disney Plus"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-14",
+      "date_kind": "release",
+      "id": 1773345,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
         }
       ],
       "type": "movie"
@@ -2235,6 +2271,30 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-10-11",
+      "date_kind": "release",
+      "id": 333101,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+          "name": "MGM+ Amazon Channel"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-10-09",
       "date_kind": "digital",
       "id": 1148365,
@@ -4223,6 +4283,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2024-05-13",
+      "date_kind": "release",
+      "id": 226102,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2024-05-07",
       "date_kind": "release",
       "id": 196322,
@@ -4350,6 +4422,22 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2022-04-01",
+      "date_kind": "release",
+      "id": 95480,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
         }
       ],
       "type": "tv"

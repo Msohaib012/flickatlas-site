@@ -47938,5 +47938,935 @@ window.FA_PUBLISHED = {
         "kind": "flatrate"
       }
     ]
+  },
+  "342272": {
+    "id": 342272,
+    "type": "tv",
+    "title": "Queen",
+    "poster_path": "/opSdadK4SAxjP38kxsMKc5fVp81.jpg",
+    "backdrop_path": "/jNRQtkhrAYZVIVRdq3nXsG7crEF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Love betrayed Neeti and an assault shattered her world. As fate leads her into a powerful political family, can she navigate this challenging new world?",
+    "industry": "bollywood",
+    "popularity": 0,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-16",
+    "networks": [
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 5,
+    "channel": "JioHotstar",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 5,
+        "air_date": "2026-11-16",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Mangesh Kanthale"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1796177": {
+    "id": 1796177,
+    "type": "movie",
+    "title": "Astrodude: A SolarBalls Movie",
+    "poster_path": "/4BNq7RPYw2bu7JI9Vhb4UVrHPm0.jpg",
+    "backdrop_path": "/50RrGSI4ZmIzu4aL9rUN75qe0nL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Astrodude is humanity's greatest astronaut and the best friend of all the planets. But despite his incredible adventures, there's one place he's not allowed to return to: Earth. While his family misses him, Astrodude continues to fulfill his duty among the stars.  Everything changes when a mysterious visitor appears: his own son, from the future, who brings a startling warning. Astrodude will disappear during his next space mission!  Now, father and son must embark on an extraordinary journey through space to uncover the truth behind his impending disappearance. But as they get closer to the answers, they discover a mystery that could change reality as they know it.",
+    "industry": "world",
+    "popularity": 1.0688,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 61254,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Family",
+      "Science Fiction"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-07",
+    "date_kind": "release",
+    "runtime": 62,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1665375": {
+    "id": 1665375,
+    "type": "movie",
+    "title": "Christmas at Moose Lake",
+    "poster_path": "/uFjFmStwWjMj4YEorQB5L8ZHDJA.jpg",
+    "backdrop_path": "/gnS065uDJjHxFRc71bBkViiChCU.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.8303,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1827159": {
+    "id": 1827159,
+    "type": "movie",
+    "title": "Redes de Carrizo",
+    "poster_path": "/naBC8egZuFepVyR7uvhdRhBjRbn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1773345": {
+    "id": 1773345,
+    "type": "movie",
+    "title": "The Nights Before Christmas",
+    "poster_path": "/313RVYAdotWQQRuUSrZj9CIoEdk.jpg",
+    "backdrop_path": "/k6YlzwQjvnxkqpCcleJbtbrTFrm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a magical wish traps him in an endless Christmas Eve, a man makes the most of his extra time while trying to win the heart of a woman who forgets him each morning.",
+    "industry": "world",
+    "popularity": 2.6482,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "IktQuVhcgok",
+      "name": "Trailer - The Nights Before Christmas | Countdown to Christmas 2026 | Sign up for Hallmark+",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1704035": {
+    "id": 1704035,
+    "type": "movie",
+    "title": "Soulala",
+    "poster_path": "/o0lTX6enkiMW4lnUVlouOiWVre9.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "follows a man who returns to a family farm inherited from his parents, only to uncover a terrifying truth that threatens his survival there. The film explores how family bonds between parents and children can become a source of both salvation and control.",
+    "industry": "world",
+    "popularity": 0.4414,
+    "original_language": "ar",
+    "origin_country": [
+      "SA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "SA",
+      "JO",
+      "US"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "festival",
+    "runtime": 100,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1826442": {
+    "id": 1826442,
+    "type": "movie",
+    "title": "Expedition: Saving Our Seas",
+    "poster_path": "/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg",
+    "backdrop_path": "/hObUQ27znUjR5muP8rXR19lCuyF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change. Genre: Documentary, Adventure",
+    "industry": "world",
+    "popularity": 1.9602,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "0",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 44,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1565810": {
+    "id": 1565810,
+    "type": "movie",
+    "title": "Beril_XXX",
+    "poster_path": "/qUjRDOgjY2txmv1t9JesgJ5MiQR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Beril wanders the streets of Istanbul. A budding actress, she heads to meet a producer to pitch an ambitious, deeply personal film project. Friends, lovers, and other figures cross her path as we discover what lies behind the city's facades and the people within it.",
+    "industry": "world",
+    "popularity": 1.7047,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "festival",
+    "runtime": 92,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "333101": {
+    "id": 333101,
+    "type": "tv",
+    "title": "Treasure Island",
+    "poster_path": "/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+    "backdrop_path": "/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+    "vote_average": 6.609,
+    "vote_count": 46,
+    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+    "industry": "world",
+    "popularity": 27.5524,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "UsFVIvngwRA",
+      "name": "Official UK & Ireland Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-PG",
+    "first_air_date": "2026-10-11",
+    "networks": [
+      "MGM+"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "MGM+",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-10-11",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Robert Murphy"
+    ],
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM+ Amazon Channel",
+        "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM Plus",
+        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "MGM+ Amazon Channel",
+        "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "MGM Plus",
+        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "226102": {
+    "id": 226102,
+    "type": "tv",
+    "title": "Crash",
+    "poster_path": "/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
+    "backdrop_path": "/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+    "vote_average": 8.6,
+    "vote_count": 20,
+    "overview": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
+    "industry": "world",
+    "popularity": 8.9796,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "wf6TBxwe884",
+      "name": "Crash | Official Trailer | Disney+ Singapore",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "tagline": "Traffic crime? Not on our watch!",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2024-05-13",
+    "networks": [
+      "ENA"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 25,
+    "channel": "ENA",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2024-05-13",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 12,
+        "air_date": "2026-11-16",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Park Joon-woo"
+    ],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "95480": {
+    "id": 95480,
+    "type": "tv",
+    "title": "Slow Horses",
+    "poster_path": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+    "backdrop_path": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+    "vote_average": 8.1,
+    "vote_count": 1133,
+    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+    "industry": "world",
+    "popularity": 121.8533,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "O9ZJChzPn0U",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "MI5's most unruly spies are back and under attack.",
+    "status": "Returning Series",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2022-04-01",
+    "networks": [
+      "Apple TV"
+    ],
+    "number_of_seasons": 6,
+    "number_of_episodes": 36,
+    "channel": "Apple TV",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2022-04-01",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 6,
+        "air_date": "2022-12-02",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 6,
+        "air_date": "2023-11-29",
+        "name": "Season 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 6,
+        "air_date": "2024-09-04",
+        "name": "Season 4"
+      },
+      {
+        "season_number": 5,
+        "episode_count": 6,
+        "air_date": "2025-09-24",
+        "name": "Season 5"
+      },
+      {
+        "season_number": 6,
+        "episode_count": 6,
+        "air_date": "2026-09-16",
+        "name": "Season 6"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1794745": {
+    "id": 1794745,
+    "type": "movie",
+    "title": "Kalpana Aur Yatharth",
+    "poster_path": "/zQhW5jlLz6AQOlRzCtdKaeXTkw1.jpg",
+    "backdrop_path": "/xAp1fxdQFSZM24hsY2NPhJFxvkY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story of the film originated from real and fictional events revolves around the unreal world, through which a man embarks on an endless journey for his wife who left him.",
+    "industry": "bollywood",
+    "popularity": 0.1755,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-13",
+    "date_kind": "festival",
+    "runtime": 108,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "337614": {
+    "id": 337614,
+    "type": "tv",
+    "title": "Andhvishwas",
+    "poster_path": "/mGx1zHQlm7XMHabLCbEe3VIS4gB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When blind faith becomes a pawn for criminal minds, tragedies follow! Delve into real-life stories, where superstitions paved the way for crime.",
+    "industry": "bollywood",
+    "popularity": 0.4941,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-02",
+    "networks": [
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "JioHotstar",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-10-02",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "340772": {
+    "id": 340772,
+    "type": "tv",
+    "title": "和离后我带女儿横扫魔域",
+    "poster_path": "/bVX45Mk5ZSxxEBTJdHthXZI77dE.jpg",
+    "backdrop_path": "/oYj21e3PZ1ZaEd95H5dbJfMFpPh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 23.1268,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-20",
+    "networks": [
+      "Hong Guo Short Drama"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 999,
+    "channel": "Hong Guo Short Drama",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 999,
+        "air_date": "2026-10-20",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "灵龙科技"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1728763": {
+    "id": 1728763,
+    "type": "movie",
+    "title": "Drones",
+    "poster_path": "/k14luImbnzAhFZzqFKgvVrnOF4D.jpg",
+    "backdrop_path": "/7bIrEDdkZCMjLf2pz9YS8t8r2D2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A sleepwalking student, a mysterious miniature artist, an ancient witch, a doll house of trapped souls, and a cop cursed by love collide in a surreal world.",
+    "industry": "bollywood",
+    "popularity": 1.4104,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-16",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Mystery",
+      "Horror",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 152,
+    "providers": [],
+    "providers_wtw": []
   }
 };
