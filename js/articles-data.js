@@ -165857,5 +165857,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 21:33:22 +0000"
+  },
+  "1vmtxrq": {
+    "id": "1vmtxrq",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Collection Tracks Day 13 Figures And Previous Earnings",
+    "dek": "An analysis of the box office performance, regional collections, occupancy trends, and total earnings for Ramayana: Part 1 up to its thirteenth day.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The feature film started its theatrical run with notable numbers across multiple languages in India. On the first day, the movie brought in a net collection of 62.5 crore rupees, with the Hindi version leading at 45 crore rupees, followed by Kannada at 7.5 crore rupees, Telugu at 6 crore rupees, Tamil at 2.5 crore rupees, and Malayalam at 1.5 crore rupees.",
+          "As the first weekend progressed, earnings fluctuated before peaking on the third day with 70.75 crore rupees net. The opening days established a strong foundation for the theatrical run across all regional markets."
+        ]
+      },
+      {
+        "h": "Weekday Trends and Mid-Week Surges",
+        "p": [
+          "Following the opening weekend, weekday collections experienced standard adjustments before witnessing a massive surge on the fifth day. On day 5, the film collected 111.25 crore rupees net, which included 92 crore rupees from the Hindi version alone.",
+          "The momentum continued into the sixth day with 95 crore rupees, before gradually normalizing toward the end of the first week. The total estimated collection for the first eight days reached 564.75 crore rupees."
+        ]
+      },
+      {
+        "h": "Second Week Progression",
+        "p": [
+          "Entering the second week, the project maintained steady revenue streams with notable jumps on the tenth and eleventh days. Day 10 brought in 73.25 crore rupees, while day 11 saw a slight increase to 76 crore rupees.",
+          "However, subsequent weekdays experienced a drop, with day 12 registering 31.5 crore rupees. Early reports for day 13 indicate that figures are still being compiled and remain to be updated."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Regional Breakdown",
+        "p": [
+          "Total net earnings in India up to the twelfth day stand at an estimated 791.5 crore rupees, with the Hindi version contributing 610 crore rupees to that sum. Gross collections within the domestic market have touched 934 crore rupees.",
+          "International markets have also contributed substantially to the overall tally, pulling in approximately 50 million dollars, which translates to roughly 472.5 crore rupees in overseas collections."
+        ]
+      },
+      {
+        "h": "Global Box Office Standing",
+        "p": [
+          "Combining domestic gross and international receipts, the worldwide box office total for Ramayana: Part 1 has climbed to an impressive 1406.5 crore rupees based on current estimates.",
+          "These figures reflect the widespread reach of the feature across both domestic and foreign territories during its ongoing theatrical exhibition."
+        ]
+      },
+      {
+        "h": "Occupancy Rate Fluctuations",
+        "p": [
+          "Audience turnout for the Hindi version varied significantly across morning, afternoon, and night shows throughout the theatrical run. The highest overall occupancy was recorded on the fifth day at 67.5 percent, driven by strong afternoon and night numbers.",
+          "Conversely, lower overall occupancy rates were observed on other weekdays, reflecting typical viewing patterns for major releases as they transition past their initial holiday or weekend windows."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 continues its box office journey with total domestic net earnings reaching 791.5 crore rupees and worldwide collections hitting 1406.5 crore rupees by day 12. While day 13 figures are still pending, the film has sustained substantial viewership and revenue across multiple regional languages and international markets."
+        ]
+      }
+    ],
+    "facts": [
+      "The film's release date is November 17, 2026.",
+      "Day 1 net collection was 62.5 crore rupees.",
+      "Day 5 net collection was 111.25 crore rupees.",
+      "Week 1 total net collection was 564.75 crore rupees.",
+      "Total net collection up to day 12 was 791.5 crore rupees.",
+      "Total domestic gross collection was 934 crore rupees.",
+      "Overseas collection was 50 million dollars, equal to 472.5 crore rupees.",
+      "Worldwide total collection was 1406.5 crore rupees."
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office collection",
+      "Ramayana Part 1 day 13 earnings",
+      "Ramayana Part 1 occupancy report",
+      "Ramayana Part 1 worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGx9wu3gTmFIzL1JWNIMvt-j6BTOQ89DGffqYsYyD7pjGiyqzyIxVugMdL6xx9CCEhelq1SbB2p06T1Hl5kK9-aRFH2AkQbXmhN2rtT8BLpiJEdU26n6p5chcTS_hBwxy3pTpc_TsIlp7ezrF3zvjkrFaD9uRS9DSJtx-NKZJ5S4Hx2dn5TQf7J7tS9Es/w1600/ramayana-part-1-day-13-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Box Office Collection Tracks Day 13 Figures And Previous Earnings",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-17T02:57:05.288+05:30"
+  },
+  "14c7ysq": {
+    "id": "14c7ysq",
+    "type": "news",
+    "headline": "Bruce Norris Play Downstate Explores Moral Boundaries on Broadway",
+    "dek": "A deep dive into the Broadway production of Downstate, examining its complex characters, controversial marketing, and theatrical exploration of human empathy and accountability.",
+    "body": [
+      {
+        "h": "Setting the Stage on Broadway",
+        "p": [
+          "The Broadway production of Bruce Norris's play Downstate brings an intense and uncomfortable premise to the Booth Theatre, running through February 14. Originally premiering at Steppenwolf in 2018 and later staging an Off Broadway run in 2022, the drama is directed by Joe Mantello and produced by Scott Rudin.",
+          "The narrative centers around a group home located in the suburbs south of Chicago, housing men listed on the sex offenders registry. The play's stark opening presents an elderly man in an electric wheelchair in a drab living room alongside other residents, immediately establishing a tense atmosphere."
+        ]
+      },
+      {
+        "h": "Characters and Cast Performances",
+        "p": [
+          "The production serves as a remarkable showcase for its ensemble cast, featuring actors who deliver layered and nuanced performances. K. Todd Freeman stars as Dee, the sharpest and most observant resident who acts as the unofficial caretaker of the group home.",
+          "Francis Guinan plays Fred, a mild and unsettling resident who shares the distinction of being one of the original cast members alongside Freeman. The home also includes Al’Jaleel McGhee as the hyperactive Gio and Adrian Martinez as the shy and desperate Felix, rounding out a complex group of individuals."
+        ]
+      },
+      {
+        "h": "Confronting Past Trauma and Vengeance",
+        "p": [
+          "A central conflict arises when a man named Andy, played by Thomas Sadoski, arrives with his wife, Em, portrayed by Cassie Beck. As a child, Andy was a piano student and subsequently a victim of Fred, prompting him to demand a reconciliation contract and force his abuser to read a confession aloud.",
+          "Andy’s arrival fuels a tense examination of accountability and rage. While Andy demands absolute acknowledgment of his trauma, the narrative complicates the dynamic by questioning whether society’s capacity for empathy should ever truly expire for anyone."
+        ]
+      },
+      {
+        "h": "Controversial Marketing and Audience Reaction",
+        "p": [
+          "The theatrical run has courted significant attention due to its provocative marketing strategy, which leans into controversy to generate buzz. This approach has occasionally provoked out-of-proportion laughter from audiences during early scenes that are fundamentally tragic rather than comedic.",
+          "Media personalities and critics have heavily amplified the show's polarizing nature. Despite the external noise and marketing tactics, the play itself dives deep into serious philosophical questions rather than relying on cheap provocations."
+        ]
+      },
+      {
+        "h": "Examining the Limits of Human Empathy",
+        "p": [
+          "Downstate constantly challenges the boundaries of where society sets its thresholds for compassion and forgiveness. The script refuses to offer easy answers, placing monsters, damaged humans, and legal outcasts into a morally confounding grey area.",
+          "Supporting characters like the probation officer Ivy, embodied dynamically by Liza Colón-Zayas, and Gio's coworker Effie, played by Ivy Wolk, add further layers to the dialogue surrounding victimhood, modern language, and institutional flaws."
+        ]
+      },
+      {
+        "h": "The Playwright's Provocative Approach",
+        "p": [
+          "Playwright Bruce Norris does not shy away from critiquing well-off liberals and contemporary therapy-speak. Through characters like Andy and Em, the production examines how righteous progressivism and personal trauma intersect with institutional punishment.",
+          "The underlying message suggests that true justice remains elusive and complicated. By extending humanization to characters who are often dismissed as unforgivable, the play forces viewers to inspect what they typically sweep under the rug."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bruce Norris's play Downstate is currently running at the Booth Theatre through February 14 under the direction of Joe Mantello. The drama explores the lives of men living in a suburban Chicago group home for sex offenders, featuring standout performances from cast members including K. Todd Freeman and Francis Guinan."
+        ]
+      }
+    ],
+    "facts": [
+      "Downstate is running at the Booth Theatre through February 14.",
+      "The play was written by Bruce Norris.",
+      "It is directed by Joe Mantello and produced by Scott Rudin.",
+      "The original production premiered at Steppenwolf in 2018.",
+      "It had an Off Broadway run in 2022.",
+      "K. Todd Freeman and Francis Guinan are original cast members from every iteration of the show.",
+      "Other cast members include Al’Jaleel McGhee, Adrian Martinez, Thomas Sadoski, Cassie Beck, Liza Colón-Zayas, and Ivy Wolk."
+    ],
+    "entities": {
+      "people": [
+        "Bruce Norris",
+        "Liza Colón-Zayas",
+        "Al’Jaleel McGhee",
+        "Francis Guinan",
+        "Adrian Martinez",
+        "K. Todd Freeman",
+        "Joe Mantello",
+        "Scott Rudin",
+        "Johnny Oleksinski",
+        "Megyn Kelly",
+        "Sean Hannity",
+        "Thomas Sadoski",
+        "Cassie Beck",
+        "Ivy Wolk"
+      ],
+      "titles": [
+        "Downstate",
+        "Lady Sings the Blues"
+      ]
+    },
+    "keywords": [
+      "Downstate play",
+      "Bruce Norris Downstate",
+      "K. Todd Freeman Downstate",
+      "Downstate Broadway Booth Theatre"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/eb0/fd5/3d990749477c15ba8309f2a6143e38f664-Downstate.1x.rsocial.w1200.jpg",
+        "caption": "Bruce Norris Play Downstate Explores Moral Boundaries on Broadway",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-16T03:00:49.113Z"
+  },
+  "1ac4aa1": {
+    "id": "1ac4aa1",
+    "type": "news",
+    "headline": "Banita Sandhu and Akshay Kumar Team Up for Sci-Fi Thriller Samuk",
+    "dek": "Banita Sandhu has surprised fans by announcing her starring role alongside Akshay Kumar in the upcoming sci-fi thriller Samuk, directed by Kanishk Varma.",
+    "body": [
+      {
+        "h": "A Surprising On-Screen Partnership",
+        "p": [
+          "Actor Banita Sandhu has once again taken audiences by surprise with a completely unexpected career move, officially confirming her casting in the upcoming science fiction feature Samuk. Sharing the news through her official Instagram account, she revealed that she will be starring alongside Bollywood veteran Akshay Kumar in this high-stakes project.",
+          "The announcement immediately captured widespread attention across social media platforms, sparking intense curiosity among fans and film enthusiasts alike. By pairing these two distinctive performers together, the production has instantly established itself as one of the most intriguing upcoming cinematic collaborations."
+        ]
+      },
+      {
+        "h": "A Chilling Poster and Release Date",
+        "p": [
+          "Alongside the casting confirmation, the star unveiled an eerie promotional poster characterized by moody and atmospheric visual tones. The promotional material sets a distinctly gritty and survival-oriented tone that distances the project from conventional commercial cinema.",
+          "Accompanying the chilling visual was a cryptic caption stating that the mission is human while the enemy is not. The announcement also locked in a confirmed worldwide theatrical release date of May 28, 2027."
+        ]
+      },
+      {
+        "h": "Banita Sandhu's Unpredictable Filmography",
+        "p": [
+          "Known for defying expectations, Banita Sandhu has continuously cultivated a remarkably diverse and eclectic career path since entering the film industry. Her journey began with a poignant debut opposite Varun Dhawan in the Shoojit Sircar-directed drama October.",
+          "Since that initial breakthrough, she has taken on varied roles across different mediums and genres, including stepping into period history with Vicky Kaushal in Sardar Udham, appearing in the Regency-era television series Bridgerton, and starring alongside Diljit Dosanjh in Imtiaz Ali's Main Vaapas Aaunga. Her newest venture into an alien survival thriller represents her most ambitious genre leap to date, casting her as a British-born Indian environmentalist caught in an extraterrestrial crisis."
+        ]
+      },
+      {
+        "h": "Creative Forces Behind Samuk",
+        "p": [
+          "Beyond its leading actors, the production brings together notable talents behind and in front of the camera. The ambitious enterprise marks a significant creative reunion between Akshay Kumar and producer Vipul Amrutlal Shah following a hiatus of thirteen years.",
+          "The directorial reins are held by Kanishk Varma, who guides a substantial ensemble cast. The supporting roster features performers such as Rukmini Maitr, Vineet Kumar Singh, Rajat Kapoor, Sushant Singh, and Swanand Kirkire, alongside Hollywood creature designer Alec Gillis contributing to the film's extraterrestrial elements."
+        ]
+      },
+      {
+        "h": "Anticipation and Hidden Plot Details",
+        "p": [
+          "While promotional materials have begun establishing the project's cosmic and survival-focused themes, specific plot details remain strictly confidential. The production team has chosen to keep narrative specifics under wraps for the time being.",
+          "Nevertheless, with a late spring 2027 premiere scheduled, the project continues to generate substantial discussion. The combination of an unconventional genre, a high-profile cast, and a mysterious premise ensures that public interest remains exceptionally high."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Banita Sandhu has announced her role in the upcoming sci-fi thriller Samuk alongside Akshay Kumar, sharing an atmospheric poster and confirming a May 28, 2027 release date. Directed by Kanishk Varma and produced by Vipul Amrutlal Shah, the film features an extensive ensemble cast and marks a major genre shift for Sandhu as she portrays a British-born Indian environmentalist facing an alien threat."
+        ]
+      }
+    ],
+    "facts": [
+      "Banita Sandhu teamed up with Akshay Kumar for the sci-fi thriller Samuk.",
+      "The film is scheduled for a worldwide theatrical release on May 28, 2027.",
+      "Samuk marks the reunion of Akshay Kumar and producer Vipul Amrutlal Shah after thirteen years.",
+      "The film is directed by Kanishk Varma.",
+      "The ensemble cast includes Rukmini Maitr, Vineet Kumar Singh, Rajat Kapoor, Sushant Singh, and Swanand Kirkire.",
+      "Hollywood creature designer Alec Gillis is involved with the project.",
+      "Banita Sandhu previously starred in October directed by Shoojit Sircar opposite Varun Dhawan.",
+      "Banita Sandhu appeared in Sardar Udham alongside Vicky Kaushal.",
+      "Banita Sandhu starred alongside Diljit Dosanjh in Main Vaapas Aaunga directed by Imtiaz Ali."
+    ],
+    "entities": {
+      "people": [
+        "Banita Sandhu",
+        "Akshay Kumar",
+        "Varun Dhawan",
+        "Shoojit Sircar",
+        "Vicky Kaushal",
+        "Diljit Dosanjh",
+        "Imtiaz Ali",
+        "Vipul Amrutlal Shah",
+        "Kanishk Varma",
+        "Rukmini Maitr",
+        "Vineet Kumar Singh",
+        "Rajat Kapoor",
+        "Sushant Singh",
+        "Swanand Kirkire",
+        "Alec Gillis"
+      ],
+      "titles": [
+        "Samuk",
+        "October",
+        "Sardar Udham",
+        "Bridgerton",
+        "Main Vaapas Aaunga"
+      ]
+    },
+    "keywords": [
+      "Banita Sandhu Samuk",
+      "Akshay Kumar Samuk",
+      "Samuk release date",
+      "Kanishk Varma Samuk"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/banita-sandhu1794824339.jpg",
+        "caption": "Banita Sandhu and Akshay Kumar Team Up for Sci-Fi Thriller Samuk",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T17:23:57+05:30"
+  },
+  "v4il1v": {
+    "id": "v4il1v",
+    "type": "news",
+    "headline": "IVE and KiiiKiii Secure Historic Grammy Nominations in New Asian Pop Category",
+    "dek": "K-pop girl groups IVE and KiiiKiii have broken new ground by landing nominations at the upcoming Grammy Awards under a newly launched category.",
+    "body": [
+      {
+        "h": "Historic Breakthrough for K-Pop",
+        "p": [
+          "A monumental milestone has been reached for South Korean popular music on the international stage. Prominent girl groups IVE and KiiiKiii have officially earned recognition from the Recording Academy, marking the first time any K-pop acts have secured a nomination within this specific field.",
+          "The achievement highlights the expanding global footprint of Korean music genres. Both bands have captured international attention with their standout releases, translating domestic success into prestigious recognition across borders."
+        ]
+      },
+      {
+        "h": "The Tracks Driving the Nominations",
+        "p": [
+          "At the upcoming 69th Annual Grammy Awards, IVE picked up their nomination thanks to the popular track BANG BANG. Meanwhile, fellow girl group KiiiKiii earned their spot on the nominee list with the song 404 (New Era).",
+          "These specific singles resonated heavily with listeners and critics alike, setting them apart in a competitive global landscape and paving the way for their historic placement at the ceremony."
+        ]
+      },
+      {
+        "h": "Origins of the Best Asian Pop Music Performance Category",
+        "p": [
+          "The category featuring these groundbreaking nominations was established earlier in June by the Recording Academy. Created to better represent contemporary music stemming from Asia or holding significant popularity within Asian markets, the field encompasses styles like K-pop, C-pop, and J-pop.",
+          "The introduction of this grouping has provided a dedicated space for regional talents to shine on a platform that historically struggled to categorize diverse Asian music outputs."
+        ]
+      },
+      {
+        "h": "Global Competitors in the New Category",
+        "p": [
+          "Alongside the Korean girl groups, several other international artists make up the six nominees for the award this year. These include Japanese group BABYMETAL and American band Polyphia for their collaborative effort Sunset Kiss.",
+          "Additional contenders feature Filipino girl group BINI for Unang Kilig, Japanese singer LiSA with her track YES, and Filipino boy group SB19 for VISA."
+        ]
+      },
+      {
+        "h": "Industry Context and Debates",
+        "p": [
+          "Despite the celebratory nature of the announcements, the category has also sparked controversy and discussion within the music industry. Reports indicate that BTS opted against submitting their work for consideration amid ongoing debates regarding specific eligibility rules.",
+          "Furthermore, major entertainment agencies in South Korea—including HYBE, SM Entertainment, JYP Entertainment, and YG Entertainment—did not have any artists represented among the nominees for this particular field."
+        ]
+      },
+      {
+        "h": "Looking Ahead to the Ceremony",
+        "p": [
+          "The 69th Annual Grammy Awards event is scheduled to take place on February 7, 2027, in Los Angeles. Anticipation continues to build as music fans await the final outcome of this inaugural category.",
+          "As the date approaches, discussions surrounding representation, eligibility criteria, and the future of global music at the Grammys remain central topics among industry analysts and enthusiasts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Girl groups IVE and KiiiKiii have made history as the first K-pop acts nominated for the Grammys' newly created Best Asian Pop Music Performance category with their songs BANG BANG and 404 (New Era). The category, introduced by the Recording Academy in June, includes six global nominees and will be presented at the 69th Annual Grammy Awards in Los Angeles on February 7, 2027, amidst discussions regarding industry submissions and eligibility."
+        ]
+      }
+    ],
+    "facts": [
+      "IVE and KiiiKiii are the first K-pop acts nominated for the Grammys' Best Asian Pop Music Performance category.",
+      "IVE was nominated for the track BANG BANG.",
+      "KiiiKiii was nominated for the track 404 (New Era).",
+      "The Best Asian Pop Music Performance category was introduced in June.",
+      "The category has six nominees in total.",
+      "BABYMETAL and Polyphia were nominated for Sunset Kiss.",
+      "BINI was nominated for Unang Kilig.",
+      "LiSA was nominated for YES.",
+      "SB19 was nominated for VISA.",
+      "The 69th Annual Grammy Awards will take place on February 7, 2027, in Los Angeles."
+    ],
+    "entities": {
+      "people": [
+        "SoulKim"
+      ],
+      "titles": [
+        "BANG BANG",
+        "404 (New Era)",
+        "Sunset Kiss",
+        "Unang Kilig",
+        "YES",
+        "VISA"
+      ]
+    },
+    "keywords": [
+      "IVE Grammy nomination",
+      "KiiiKiii Best Asian Pop Music Performance",
+      "69th Annual Grammy Awards",
+      "BANG BANG 404 New Era",
+      "Best Asian Pop Music Performance category"
+    ],
+    "images": [],
+    "published": "Mon, 16 Nov 2026 16:48:00 EST"
   }
 };
