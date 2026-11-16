@@ -80,6 +80,188 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 16 Nov 2026 18:05:36 +0200"
   },
+  "18bdbli": {
+    "id": "18bdbli",
+    "type": "news",
+    "headline": "Raqaas Episode 21 Releases With Subtitles on Green TV Entertainment",
+    "dek": "Fans tune in as the twenty-first chapter of the popular television drama drops digitally, bringing fresh narrative turns and heightened emotional stakes.",
+    "entities": {
+      "people": [
+        "Danyal Zafar",
+        "Komal Meer"
+      ],
+      "titles": [
+        "Raqaas"
+      ]
+    },
+    "keywords": [
+      "Raqaas Ep 21",
+      "Raqaas Green TV Entertainment",
+      "Danyal Zafar Komal Meer",
+      "Raqaas Episode 21 subtitles"
+    ],
+    "images": [
+      {
+        "url": "https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f449.png",
+        "caption": "Raqaas Episode 21 Releases With Subtitles on Green TV Entertainment",
+        "source": "Green TV Entertainment (YouTube)"
+      }
+    ],
+    "published": "2026-11-16T15:45:20+00:00"
+  },
+  "paq1v7": {
+    "id": "paq1v7",
+    "type": "news",
+    "headline": "CBS Officially Confirms Matlock Season 3 Release Date",
+    "dek": "CBS has announced the official midseason premiere schedule, setting the return date for Kathy Bates-starrer Matlock season 3.",
+    "entities": {
+      "people": [
+        "Kathy Bates",
+        "Jennie Snyder Urman",
+        "Skye B. Marshall",
+        "Jason Ritter",
+        "Leah Lewis",
+        "David Del Rio",
+        "John Lowe",
+        "Nicki Renna",
+        "Jeffrey Lieber",
+        "Robert King",
+        "Michelle King"
+      ],
+      "titles": [
+        "Matlock",
+        "Tracker",
+        "Cupertino",
+        "Jane the Virgin"
+      ]
+    },
+    "keywords": [
+      "Matlock season 3",
+      "Kathy Bates Matlock",
+      "CBS midseason schedule",
+      "Jennie Snyder Urman",
+      "Matlock release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/mixcollage-11-sep-2026-11-21-pm-4366.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "CBS Officially Confirms Matlock Season 3 Release Date",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 15:26:22 GMT"
+  },
+  "l5fpe3": {
+    "id": "l5fpe3",
+    "type": "news",
+    "headline": "Ramayana Day 12 Worldwide Box Office Collection Prediction: Ranbir Kapoor Starrer Nears Major Milestones",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana aims for the Rs 1400cr milestone and targets major records on its second Monday.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Bajrangi Bhaijaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday12wwpredictionfeature-42261794842226.jpg",
+        "caption": "Ramayana Day 12 Worldwide Box Office Collection Prediction: Ranbir Kapoor Starrer Nears Major Milestones",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 20:48:52 +0530"
+  },
+  "5vthr5": {
+    "id": "5vthr5",
+    "type": "news",
+    "headline": "Khushi Episode 65 — Watch Online on HUM TV",
+    "dek": "Khushi episode 65 aired on 2026-11-16 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/vv0wQ4vLiRM/hqdefault.jpg",
+        "caption": "Khushi Episode 65",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-16T15:00:35Z"
+  },
+  "t6rmu3": {
+    "id": "t6rmu3",
+    "type": "news",
+    "headline": "Uswah Episode 54 — Watch Online on Geo TV",
+    "dek": "Uswah episode 54 aired on 2026-11-16 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": [
+        "Omer Shahzad",
+        "Sania Shamshad",
+        "Haroon Shahid",
+        "Ammara Malik"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/BcFNELPanPY/hqdefault.jpg",
+        "caption": "Uswah Episode 54",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-16T15:00:11Z"
+  },
+  "1398s7y": {
+    "id": "1398s7y",
+    "type": "news",
+    "headline": "Dastoor Episode 87 — Watch Online on Green TV",
+    "dek": "Dastoor episode 87 aired on 2026-11-16 — watch the full episode on Green TV.",
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/YEMTgxSd1ts/hqdefault.jpg",
+        "caption": "Dastoor Episode 87",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-16T14:45:28Z"
+  },
   "p435yq": {
     "id": "p435yq",
     "type": "news",
@@ -4448,237 +4630,47 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 15 Nov 2026 07:05:03 +0000"
   },
-  "aw5ic0": {
-    "id": "aw5ic0",
+  "14i9727": {
+    "id": "14i9727",
     "type": "news",
-    "headline": "War Film Nuremberg Captivates Audiences and Sparks Oscar Buzz on Streaming",
-    "dek": "A psychological war drama detailing the events following the Second World War has drawn high praise from viewers and critics alike, earning a 95% audience rating and streaming availability on Now TV.",
+    "headline": "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
+    "dek": "Apple TV expands its streaming catalog beyond traditional originals, welcoming classic hits including Cillian Murphy's acclaimed science fiction venture.",
     "entities": {
       "people": [
-        "Russell Crowe",
-        "Rami Malek",
-        "Douglas Kelley",
-        "Hermann Göring",
-        "Adolf Hitler",
-        "Leo Woodall",
-        "John Slattery",
-        "Colin Hanks",
-        "Richard E. Grant",
-        "Mark Twain"
+        "Cillian Murphy",
+        "Steven Spielberg",
+        "Ryan Murphy",
+        "Steven Knight",
+        "Nia DaCosta",
+        "Danny Boyle",
+        "Alex Garland",
+        "Jim",
+        "Tommy Shelby"
       ],
       "titles": [
-        "Nuremberg"
+        "E.T. the Extra-Terrestrial",
+        "Eat, Pray, Love",
+        "Spider-Man: Far From Home",
+        "Peaky Blinders: The Immortal Man",
+        "28 Years Later: The Bone Temple",
+        "28 Days Later",
+        "Sunshine"
       ]
     },
     "keywords": [
-      "Nuremberg film",
-      "Russell Crowe Nuremberg",
-      "Rami Malek Hermann Goring",
-      "Nuremberg streaming Now TV"
-    ],
-    "images": [],
-    "published": "Sun, 15 Nov 2026 07:00:00 +0000"
-  },
-  "1ilvaza": {
-    "id": "1ilvaza",
-    "type": "news",
-    "headline": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
-    "dek": "Actor Sonakshi Sinha approached the police after objecting to morphed photographs of herself circulating on social media, resulting in an arrest in Delhi that was later overturned by a Mumbai court due to procedural lapses.",
-    "entities": {
-      "people": [
-        "Sonakshi Sinha",
-        "Aryan Deepak Jain",
-        "Aman Shahi",
-        "Prashant Trivedi",
-        "Aditya Jain",
-        "Monica Yadav"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Sonakshi Sinha",
-      "Aryan Deepak Jain",
-      "morphed photographs complaint",
-      "Mumbai court release"
+      "Cillian Murphy Apple TV",
+      "Sunshine movie streaming",
+      "Danny Boyle Alex Garland sci-fi",
+      "Peaky Blinders The Immortal Man Netflix"
     ],
     "images": [
       {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Sonakshi_Sinha_1794722659291_tctK_1794722659413_FGin_36186392-981a-4b5a-b6ed-755031d61fd9_2Qz8.jpg",
-        "caption": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
-        "source": "Hindustan Times — Entertainment"
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/cillian-murphy.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
+        "source": "Collider"
       }
     ],
-    "published": "Sun, 15 Nov 2026 11:40:36 +0530"
-  },
-  "62m0ls": {
-    "id": "62m0ls",
-    "type": "news",
-    "headline": "Donga Naa Koduku Day 2 Box Office: Mouli Tanuj Prashanth Starrer Nears Rs 4 Crore",
-    "dek": "The Telugu crime comedy Donga Naa Koduku saw an uptick in collections on its second day in theatres, pushing its cumulative domestic net closer to the Rs 4 crore milestone.",
-    "entities": {
-      "people": [
-        "Mouli Tanuj Prashanth",
-        "Sushmita Shetty",
-        "Sreenu Kambala",
-        "Naveen Yerneni",
-        "Y. Ravi Shankar",
-        "Sinjith Yerramilli",
-        "Suriya Balaji",
-        "Sreedhar Sompally",
-        "Ali",
-        "Raghu Babu",
-        "Rajitha",
-        "Priya",
-        "Babloo",
-        "Nanda Gopal",
-        "Bhadram",
-        "Gundu Sudarshan"
-      ],
-      "titles": [
-        "Donga Naa Koduku"
-      ]
-    },
-    "keywords": [
-      "Donga Naa Koduku",
-      "Mouli Tanuj Prashanth",
-      "Donga Naa Koduku box office",
-      "DNK Telugu movie"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/donganaakoduku1-86541794721333.jpg",
-        "caption": "Donga Naa Koduku Day 2 Box Office: Mouli Tanuj Prashanth Starrer Nears Rs 4 Crore",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 11:13:22 +0530"
-  },
-  "1olgytt": {
-    "id": "1olgytt",
-    "type": "news",
-    "headline": "Ram Gopal Varma Claims Ramayana Part 1 Budget Is Under Rs 800 Crore, Predicts Sequel Will Do Ten Times Better",
-    "dek": "Filmmaker Ram Gopal Varma has voiced strong support for Nitesh Tiwari's mythological epic Ramayana, arguing that its initial chapter will easily recover expenses for both parts.",
-    "entities": {
-      "people": [
-        "Ram Gopal Varma",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Prashanth Neel",
-        "Yash",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Dadasaheb Phalke"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana Part 1",
-        "Ramayana 2",
-        "Satya",
-        "Company",
-        "Sarkar",
-        "KGF: Chapter 1",
-        "KGF: Chapter 2",
-        "Raja Harishchandra",
-        "Dhurandhar 2",
-        "Chhaava"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 1",
-      "Ram Gopal Varma Ramayana",
-      "Ramayana budget",
-      "Ramayana 2"
-    ],
-    "images": [
-      {
-        "url": "https://images.indianexpress.com/2026/11/ramayana-latest-collection-1.jpg",
-        "caption": "Ram Gopal Varma Claims Ramayana Part 1 Budget Is Under Rs 800 Crore, Predicts Sequel Will Do Ten Times Better",
-        "source": "Indian Express — Entertainment"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 05:32:34 +0000"
-  },
-  "1kxibnl": {
-    "id": "1kxibnl",
-    "type": "news",
-    "headline": "Ramayana Hits 500 Crore Hindi Net in Just Ten Days",
-    "dek": "Namit Malhotra's Ramayana has stormed past the 500 crore mark in its Hindi version within ten days, locking in the second-fastest record in Indian cinema history.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2",
-        "Dhurandhar",
-        "Jawan",
-        "Dhurandhar 2",
-        "Animal",
-        "Baahubali 2",
-        "Pathaan",
-        "Gadar 2",
-        "Stree 2",
-        "Chhaava"
-      ]
-    },
-    "keywords": [
-      "Ramayana film box office",
-      "Ramayana 500 crore Hindi net",
-      "Namit Malhotra Ramayana",
-      "Nitesh Tiwari Ramayana collection"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028548.jpg",
-        "caption": "Ramayana Hits 500 Crore Hindi Net in Just Ten Days",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 05:17:09 +0000"
-  },
-  "10ku136": {
-    "id": "10ku136",
-    "type": "news",
-    "headline": "Amanda Seyfried To Make Hosting Debut On Upcoming Episode Of Saturday Night Live",
-    "dek": "The actress will take the stage at Studio 8H alongside musical guest Don Toliver following a brief three-week hiatus for the long-running sketch comedy program.",
-    "entities": {
-      "people": [
-        "Amanda Seyfried",
-        "Don Toliver",
-        "John Mulaney",
-        "Jalen Brunson",
-        "Inde Navarrette",
-        "Druski",
-        "Lance Oppenheim",
-        "Nathan Fielder",
-        "Elizabeth Holmes",
-        "Billy Evans",
-        "Jane Wickline",
-        "Ben Marshall"
-      ],
-      "titles": [
-        "Saturday Night Live",
-        "You Can See Everything",
-        "Dropout"
-      ]
-    },
-    "keywords": [
-      "Amanda Seyfried SNL",
-      "Saturday Night Live December 5",
-      "Don Toliver SNL musical guest",
-      "You Can See Everything documentary",
-      "Amanda Seyfried You Can See Everything"
-    ],
-    "images": [
-      {
-        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Amanda-Seyfried-2026.jpg",
-        "caption": "Amanda Seyfried To Make Hosting Debut On Upcoming Episode Of Saturday Night Live",
-        "source": "TheWrap"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 05:11:59 +0000"
+    "published": "Sun, 15 Nov 2026 01:30:12 GMT"
   },
   "19d8ylq": {
     "id": "19d8ylq",
@@ -4713,122 +4705,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 00:46:35 +0000"
-  },
-  "1w8cy4y": {
-    "id": "1w8cy4y",
-    "type": "news",
-    "headline": "Grand Theft Auto VI Soundtrack Unveiled With Star-Studded 34-Song Tracklist",
-    "dek": "Rockstar Games and Atlantic Records reveal the complete album details for the highly anticipated title, featuring major artists, physical vinyl variants, curated in-game radio stations, and a live music festival in Miami.",
-    "entities": {
-      "people": [
-        "Travis Scott",
-        "Cardi B",
-        "Dua Lipa",
-        "Don Toliver",
-        "Bad Bunny",
-        "Lana Del Rey",
-        "Morgan Wallen",
-        "Robyn",
-        "Burna Boy",
-        "Playboi Carti",
-        "Gunna",
-        "Yung Lean",
-        "Future",
-        "Metro Boomin",
-        "Fred again..",
-        "PinkPantheress",
-        "Tame Impala",
-        "Fuerza Regida",
-        "Rauw Alejandro",
-        "Trina",
-        "Trick Daddy",
-        "SoFaygo",
-        "Kodak Black",
-        "Justice",
-        "Michael McDonald",
-        "CA7RIEL",
-        "Paco Amoroso",
-        "Étienne de Crécy",
-        "SZA",
-        "King Gizzard the Lizard Wizard",
-        "Jhayco",
-        "A Boogie Wit Da Hoodie",
-        "Elkan",
-        "Young Thug",
-        "Tee Grizzley",
-        "JT",
-        "JENNIE",
-        "Tove Lo",
-        "Zara Larsson",
-        "Camila Cabello",
-        "Fcukers",
-        "Arca",
-        "Rina Sawayama",
-        "Rose Gray",
-        "Kali Uchis",
-        "Helado Negro",
-        "Omar Apollo",
-        "Keith Richards",
-        "Jesse Johnson",
-        "Dâm-Funk",
-        "Stanley Clarke",
-        "Yussef Dayes",
-        "Robert Glasper"
-      ],
-      "titles": [
-        "Grand Theft Auto VI",
-        "Grand Theft Auto VI: The Album",
-        "Grand Theft Auto VI: The Festival",
-        "Starting From Zero",
-        "That’s It",
-        "Ahh Yea",
-        "RHYNO",
-        "Sexy Magic",
-        "Flower in a Hurricane",
-        "Go Easy",
-        "Last Thing You Need",
-        "X",
-        "Suzuki",
-        "Macacoa 2000",
-        "Dance With Me",
-        "Bigger",
-        "Count Up",
-        "Let’s Rock",
-        "Wakin Up Flex",
-        "IKYFL",
-        "TF?",
-        "Don’t Chart",
-        "GMA",
-        "Power Trip",
-        "Blood in Your Eyes",
-        "Fast Emotion",
-        "Sweet Like Candy",
-        "Only One",
-        "Sandunguea",
-        "TRDWFE",
-        "All Again",
-        "Crazy for You",
-        "Largate",
-        "No Me Busques",
-        "Bright Lights, Big City",
-        "Stone Kold Krazy Luuv",
-        "Overtown Lights"
-      ]
-    },
-    "keywords": [
-      "Grand Theft Auto VI Album",
-      "Grand Theft Auto VI soundtrack",
-      "Travis Scott Cardi B GTA 6",
-      "Grand Theft Auto VI The Festival"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/grand-theft-auto-6-banner-2026-billboard-1800.jpg?w=1024",
-        "caption": "Grand Theft Auto VI Soundtrack Unveiled With Star-Studded 34-Song Tracklist",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 20:45:56 +0000"
   },
   "3jqsav": {
     "id": "3jqsav",
@@ -5405,6 +5281,88 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-12T14:45:12Z"
   },
+  "19ty39t": {
+    "id": "19ty39t",
+    "type": "news",
+    "headline": "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+    "dek": "The acclaimed actor opens up about his upcoming collaboration with his long-time idol, highlighting unexpected improvisational moments on set.",
+    "entities": {
+      "people": [
+        "Denzel Washington",
+        "Robert Pattinson",
+        "Fernando Meirelles",
+        "Daisy Edgar-Jones",
+        "John David Washington",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Take",
+        "Dune",
+        "Tenet",
+        "Primetime",
+        "The Equalizer"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson The Take",
+      "Denzel Washington Robert Pattinson movie",
+      "The Take movie release date",
+      "Fernando Meirelles The Take"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/TU2DWiwasTccBZLdgyTbp7-2000-80.jpg",
+        "caption": "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:12:27 +0000"
+  },
+  "1ml6m6z": {
+    "id": "1ml6m6z",
+    "type": "news",
+    "headline": "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+    "dek": "The original cast and fresh faces gathered at the Beacon Theatre in New York City to celebrate the red carpet premiere of the latest comedy installment, Focker-in-Law.",
+    "entities": {
+      "people": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Owen Wilson",
+        "Teri Polo",
+        "Blythe Danner",
+        "Skyler Gisondo",
+        "Beanie Feldstein",
+        "Eduardo Franco",
+        "Ariana Grande",
+        "Ricky Alvarez",
+        "John Hamburg",
+        "Henry",
+        "Olivia",
+        "Jack Byrnes",
+        "Greg Focker"
+      ],
+      "titles": [
+        "Focker-in-Law",
+        "Meet the Parents",
+        "Meet the Fockers",
+        "Little Fockers"
+      ]
+    },
+    "keywords": [
+      "Focker-in-Law New York premiere",
+      "Ben Stiller Robert De Niro",
+      "Beacon Theatre premiere",
+      "Focker-in-Law red carpet"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/focker-in-law-premiere-nyc.jpg",
+        "caption": "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:24:04 +0000"
+  },
   "1643vxd": {
     "id": "1643vxd",
     "type": "news",
@@ -5537,70 +5495,53 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-11T14:45:35Z"
   },
-  "e7b7dd": {
-    "id": "e7b7dd",
+  "19d8u6y": {
+    "id": "19d8u6y",
     "type": "news",
-    "headline": "Lagan Lagi Episode 14 — Watch Online on ARY Digital",
-    "dek": "Lagan Lagi episode 14 aired on 2026-11-10 — watch the full episode on ARY Digital.",
+    "headline": "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+    "dek": "First reactions are now in for How to Rob a Bank, with critics praising the action, innovation, and social media spin on classic heist tropes ahead of its November 13, 2026 release.",
     "entities": {
-      "titles": [
-        "Lagan Lagi"
-      ],
       "people": [
-        "Hina Chaudhary",
-        "Saad Qureshi",
-        "Haris Waheed",
-        "Jaweria Ali",
-        "Hamza Majeed Khan"
+        "Nicholas Hoult",
+        "Anna Sawai",
+        "David Leitch",
+        "Hunter Bolding",
+        "Junior Felix",
+        "Christopher Rates",
+        "Phil Roberts",
+        "Jonathan Sim",
+        "Lewis Powell",
+        "Darren Movie Reviews",
+        "Jeremy Kazieva",
+        "Gavin Spoors",
+        "Paul Klein",
+        "Doug Jones",
+        "Pete Davidson",
+        "John C. Reilly",
+        "Zoë Kravitz"
+      ],
+      "titles": [
+        "How to Rob a Bank",
+        "Bullet Train",
+        "The Fall Guy",
+        "Fast The Furious",
+        "Point Break",
+        "The Big Short"
       ]
     },
+    "keywords": [
+      "How to Rob a Bank film",
+      "Nicholas Hoult How to Rob a Bank",
+      "David Leitch heist thriller",
+      "How to Rob a Bank release date"
+    ],
     "images": [
       {
-        "url": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
-        "caption": "Lagan Lagi Episode 14",
-        "source": "ARY Digital"
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/nicholas-hoult-in-a-wolf-mask-and-police-uniform-in-how-to-rob-a-bank.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+        "source": "Screen Rant"
       }
     ],
-    "published": "2026-11-10T17:05:39Z"
-  },
-  "1wgu9wm": {
-    "id": "1wgu9wm",
-    "type": "news",
-    "headline": "Hurmat Episode 12 — Watch Online on HUM TV",
-    "dek": "Hurmat episode 12 aired on 2026-11-10 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Hurmat"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/MeirQRJls1A/hqdefault.jpg",
-        "caption": "Hurmat Episode 12",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-10T16:00:02Z"
-  },
-  "3z1ex0": {
-    "id": "3z1ex0",
-    "type": "news",
-    "headline": "Izzat Episode 52 — Watch Online on ARY Digital",
-    "dek": "Izzat episode 52 aired on 2026-11-10 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Izzat"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/mdAlMtf__So/hqdefault.jpg",
-        "caption": "Izzat Episode 52",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-10T15:00:37Z"
+    "published": "Wed, 11 Nov 2026 14:19:21 GMT"
   }
 };

@@ -163953,5 +163953,417 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-16T14:30:39+00:00"
+  },
+  "5vthr5": {
+    "id": "5vthr5",
+    "type": "news",
+    "headline": "Khushi Episode 65 — Watch Online on HUM TV",
+    "dek": "Khushi episode 65 aired on 2026-11-16 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 65 aired on 2026-11-16 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=vv0wQ4vLiRM"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 65 aired on 2026-11-16.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=vv0wQ4vLiRM",
+      "YouTube views: 217,310."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/vv0wQ4vLiRM/hqdefault.jpg",
+        "caption": "Khushi Episode 65",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-16T15:00:35Z"
+  },
+  "t6rmu3": {
+    "id": "t6rmu3",
+    "type": "news",
+    "headline": "Uswah Episode 54 — Watch Online on Geo TV",
+    "dek": "Uswah episode 54 aired on 2026-11-16 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 54 aired on 2026-11-16 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=BcFNELPanPY"
+        ]
+      },
+      {
+        "h": "About Uswah",
+        "p": [
+          "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 54 aired on 2026-11-16.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=BcFNELPanPY",
+      "YouTube views: 573,415.",
+      "TMDB: Uswah (id 336291)."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": [
+        "Omer Shahzad",
+        "Sania Shamshad",
+        "Haroon Shahid",
+        "Ammara Malik"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/BcFNELPanPY/hqdefault.jpg",
+        "caption": "Uswah Episode 54",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-16T15:00:11Z"
+  },
+  "1398s7y": {
+    "id": "1398s7y",
+    "type": "news",
+    "headline": "Dastoor Episode 87 — Watch Online on Green TV",
+    "dek": "Dastoor episode 87 aired on 2026-11-16 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 87 aired on 2026-11-16 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=YEMTgxSd1ts"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 87 aired on 2026-11-16.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=YEMTgxSd1ts",
+      "YouTube views: 72,206.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/YEMTgxSd1ts/hqdefault.jpg",
+        "caption": "Dastoor Episode 87",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-16T14:45:28Z"
+  },
+  "paq1v7": {
+    "id": "paq1v7",
+    "type": "news",
+    "headline": "CBS Officially Confirms Matlock Season 3 Release Date",
+    "dek": "CBS has announced the official midseason premiere schedule, setting the return date for Kathy Bates-starrer Matlock season 3.",
+    "body": [
+      {
+        "h": "Official Premiere Date Announced",
+        "p": [
+          "CBS has officially revealed its midseason 2026-2027 broadcast lineup, providing eager viewers with a concrete premiere date for the upcoming third season of Matlock. The network confirmed that the legal drama will return to television screens on Thursday, January 21 at 10 p.m. EST.",
+          "This announcement brings an end to months of speculation regarding when the hit series would make its comeback following earlier schedule shifts."
+        ]
+      },
+      {
+        "h": "Background and Creative Reset",
+        "p": [
+          "Developed by Jennie Snyder Urman, the series serves as an in-universe reimagining of the classic Andy Griffith legal show. The narrative centers on retired attorney Madeline Kingston, portrayed by Kathy Bates, who takes on an alias to infiltrate a premier law firm while secretly pursuing her own hidden agenda.",
+          "Showrunner Urman explained that the delay in bringing the show back stemmed from the necessity to establish a fresh narrative trajectory. Because the conclusion of season two wrapped up the primary arc regarding the protagonist's fake persona, the upcoming episodes will feature a creative reset similar to the soft reboot approach utilized by fellow network series Tracker."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Alongside Academy Award winner Kathy Bates, the ensemble cast features Skye B. Marshall, Jason Ritter, and Leah Lewis. The program has garnered widespread critical acclaim and strong audience engagement since its inception.",
+          "However, production and off-screen operations also faced turbulence recently. In October 2025, star David Del Rio was dismissed from the production following a sexual assault allegation made by co-star Leah Lewis. Additionally, former writer and story editor John Lowe initiated a lawsuit in June 2026 against CBS, Urman, and executive producers Nicki Renna and Jeffrey Lieber, citing a hostile work environment involving racist and sexual harassment."
+        ]
+      },
+      {
+        "h": "Shift from Traditional Fall Schedule",
+        "p": [
+          "The decision to place the third season into the midseason block marks a major departure from the traditional Fall rollout utilized for the first two 16-episode seasons beginning in 2024. In the absence of the legal drama during the traditional autumn window, CBS slotted in Cupertino, a new creation from Robert and Michelle King that earned high praise from critics.",
+          "With Cupertino occupying the autumn spotlight, that series will transition to Sundays at 10 p.m. EST starting January 17 to clear the Thursday late-evening slot for Bates' return."
+        ]
+      },
+      {
+        "h": "Season Length and Scheduling Speculation",
+        "p": [
+          "With a confirmed Thursday night timeslot for January, questions remain regarding how many episodes will air and whether the series will maintain the slot indefinitely. Previous iterations of the show received 16-episode orders, which could point toward an early May conclusion if broadcasts continue without interruption.",
+          "Given that prior runs encountered multiple schedule realignments, further adjustments by the network could potentially stretch the broadcast schedule into the summer months."
+        ]
+      },
+      {
+        "h": "Significance of the Return",
+        "p": [
+          "The confirmation of the midseason return offers stability for one of the network's standout contemporary dramas. Despite behind-the-scenes controversies and structural delays, the continuation remains one of the most anticipated events on the midseason television calendar.",
+          "Fans can prepare to watch the next chapter unfold as Madeline Kingston tackles fresh legal challenges under her unique circumstances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "CBS has officially set the premiere date for Matlock season 3 on Thursday, January 21 at 10 p.m. EST as part of its midseason 2026-2027 schedule. The delay allowed showrunner Jennie Snyder Urman and the creative team time to develop a narrative reset following the resolution of the protagonist's undercover arc in the season two finale."
+        ]
+      }
+    ],
+    "facts": [
+      "CBS confirmed Matlock season 3 will premiere on Thursday, January 21 at 10 p.m. EST.",
+      "The series was greenlit for a third season in January 2026.",
+      "David Del Rio was fired in October 2025 following a sexual assault allegation from Leah Lewis.",
+      "John Lowe filed a lawsuit against CBS, Jennie Snyder Urman, Nicki Renna, and Jeffrey Lieber in June 2026.",
+      "Cupertino shifts to Sundays at 10 p.m. EST beginning January 17."
+    ],
+    "entities": {
+      "people": [
+        "Kathy Bates",
+        "Jennie Snyder Urman",
+        "Skye B. Marshall",
+        "Jason Ritter",
+        "Leah Lewis",
+        "David Del Rio",
+        "John Lowe",
+        "Nicki Renna",
+        "Jeffrey Lieber",
+        "Robert King",
+        "Michelle King"
+      ],
+      "titles": [
+        "Matlock",
+        "Tracker",
+        "Cupertino",
+        "Jane the Virgin"
+      ]
+    },
+    "keywords": [
+      "Matlock season 3",
+      "Kathy Bates Matlock",
+      "CBS midseason schedule",
+      "Jennie Snyder Urman",
+      "Matlock release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/mixcollage-11-sep-2026-11-21-pm-4366.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "CBS Officially Confirms Matlock Season 3 Release Date",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 15:26:22 GMT"
+  },
+  "l5fpe3": {
+    "id": "l5fpe3",
+    "type": "news",
+    "headline": "Ramayana Day 12 Worldwide Box Office Collection Prediction: Ranbir Kapoor Starrer Nears Major Milestones",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana aims for the Rs 1400cr milestone and targets major records on its second Monday.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "The mythological epic Ramayana stands out as one of the most heavily discussed cinematic releases of the year 2026. Directed by Nitesh Tiwari, the feature carries a massive production budget totaling Rs 2000cr.",
+          "The project marks a major big-screen return for lead actor Ranbir Kapoor following a three-year hiatus. Additionally, the film serves as his first professional collaboration with co-stars Sai Pallavi and Yash."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Major Collaborations",
+        "p": [
+          "Alongside Ranbir Kapoor in the role of Lord Ram, the ensemble cast features a lineup of prominent names including Yash, Sai Pallavi, Ravi Dubey, Arun Govil, Vivek Oberoi, Rakul Preet Singh, and Lara Dutta.",
+          "Among the various highlights of the film, the cinematic face-off between Ranbir Kapoor and Yash has generated substantial buzz among audiences and critics alike."
+        ]
+      },
+      {
+        "h": "Global Box Office Trajectory",
+        "p": [
+          "The feature has achieved significant milestones globally, crossing the Rs 1000cr mark at the worldwide box office within its first 8 days of release. Following a strong second weekend, the movie reached a total worldwide collection of Rs 1389cr after 11 days.",
+          "Industry forecasts for day 12 indicate a slight dip in numbers typical of a second Monday. However, the production is projected to seamlessly enter the Rs 1400cr club and march closer to the Rs 1500cr threshold."
+        ]
+      },
+      {
+        "h": "Overseas Market Achievements",
+        "p": [
+          "In international markets, the film is expected to hit the Rs 500cr milestone on its twelfth day. This performance will allow it to surpass the lifetime overseas collection of Salman Khan's Bajrangi Bhaijaan, which stands at Rs 489.47cr."
+        ]
+      },
+      {
+        "h": "Domestic Hindi Market Records",
+        "p": [
+          "Domestically, the Hindi version of the mythological drama has crossed the Rs 600cr mark, establishing a noteworthy benchmark in the region. This achievement places the film ahead of Pushpa 2, which required 14 days to reach the same milestone.",
+          "Consequently, the feature has become the second fastest title to enter the Rs 600cr club in the Hindi market, trailing only behind Dhurandhar 2, which accomplished the feat in 8 days."
+        ]
+      },
+      {
+        "h": "All-Time Standing for the Lead Actor",
+        "p": [
+          "Backed by its substantial budget and record-breaking momentum, the release has successfully established itself as the highest-grossing film of Ranbir Kapoor's career to date. Daily ticket sales continue to generate fresh production records across multiple territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana continues its strong global box office run, targeting the Rs 1400cr club and approaching the Rs 1500cr mark on its twelfth day. The Nitesh Tiwari directorial has also surpassed major domestic and international milestones, cementing its status as a top earner."
+        ]
+      }
+    ],
+    "facts": [
+      "Year of release: 2026",
+      "Director: Nitesh Tiwari",
+      "Budget: Rs 2000cr",
+      "Cast: Ranbir Kapoor, Yash, Sai Pallavi, Ravi Dubey, Arun Govil, Vivek Oberoi, Rakul Preet Singh, Lara Dutta",
+      "Worldwide collection after 11 days: Rs 1389cr",
+      "Worldwide milestone crossed in 8 days: Rs 1000cr",
+      "Overseas lifetime collection of Bajrangi Bhaijaan: Rs 489.47cr",
+      "Hindi version domestic milestone: Rs 600cr"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Bajrangi Bhaijaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday12wwpredictionfeature-42261794842226.jpg",
+        "caption": "Ramayana Day 12 Worldwide Box Office Collection Prediction: Ranbir Kapoor Starrer Nears Major Milestones",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 20:48:52 +0530"
+  },
+  "18bdbli": {
+    "id": "18bdbli",
+    "type": "news",
+    "headline": "Raqaas Episode 21 Releases With Subtitles on Green TV Entertainment",
+    "dek": "Fans tune in as the twenty-first chapter of the popular television drama drops digitally, bringing fresh narrative turns and heightened emotional stakes.",
+    "body": [
+      {
+        "h": "The Latest Chapter Unfolds",
+        "p": [
+          "The serialized drama landscape sees another major addition as the twenty-first installment of the television serial becomes globally accessible. Viewers seeking continuation of the overarching plot can stream the fresh chapter online, featuring embedded subtitles for wider accessibility.",
+          "Released on November 16, 2026, the broadcast has quickly drawn eyes from regular followers who track every twist in the narrative arc."
+        ]
+      },
+      {
+        "h": "Platform and Digital Sponsorship",
+        "p": [
+          "Green TV Entertainment serves as the primary home for the broadcast, hosting the program on its main video channel. Digital presentation rights for this specific release are backed by Parley Cosmetics.",
+          "This commercial backing highlights the strong corporate interest surrounding contemporary serial programming, ensuring steady distribution across digital avenues."
+        ]
+      },
+      {
+        "h": "Leading Cast and Performances",
+        "p": [
+          "The series prominently features the talents of performers Danyal Zafar and Komal Meer in central roles. Their ongoing onscreen dynamic remains a core driver for audience engagement across each successive week.",
+          "Followers of the program have shared deep discussions regarding character motivations, particularly concerning past undercover elements and shifting romantic triangles."
+        ]
+      },
+      {
+        "h": "Audience Reception and Commentary",
+        "p": [
+          "Community spaces have lit up with speculative theories following the latest narrative developments. Viewers continue to analyze character actions, including plot lines involving memory loss and complicated marital entanglements.",
+          "Such active discussions online demonstrate the strong retention rates and passionate community surrounding current television offerings."
+        ]
+      },
+      {
+        "h": "Broader Programming Context",
+        "p": [
+          "The release arrives alongside a crowded slate of serial programs airing through various digital channels. Networks continue to experiment with subtitles and digital-first rollouts to capture international viewership.",
+          "As competition intensifies among broadcast outlets, regular updates help maintain momentum for long-running serials throughout their scheduled runs."
+        ]
+      },
+      {
+        "h": "Legacy and Viewing Trends",
+        "p": [
+          "Periodic releases of episodes with multilingual subtitles have transformed how regional television reaches global diasporas. Fans can easily catch up on missed segments or replay pivotal moments instantly.",
+          "This shift toward digital availability ensures that productions maintain a steady cultural footprint long after their initial airdate."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 21 of the television drama Raqaas officially released on November 16, 2026, via Green TV Entertainment with digital presentation by Parley Cosmetics. The installment stars Danyal Zafar and Komal Meer, drawing significant viewer engagement and online discussion."
+        ]
+      }
+    ],
+    "facts": [
+      "Raqaas Episode 21 was released on November 16, 2026.",
+      "The episode is digitally presented by Parley Cosmetics.",
+      "The show stars Danyal Zafar and Komal Meer.",
+      "The release is hosted by Green TV Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Danyal Zafar",
+        "Komal Meer"
+      ],
+      "titles": [
+        "Raqaas"
+      ]
+    },
+    "keywords": [
+      "Raqaas Ep 21",
+      "Raqaas Green TV Entertainment",
+      "Danyal Zafar Komal Meer",
+      "Raqaas Episode 21 subtitles"
+    ],
+    "images": [
+      {
+        "url": "https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f449.png",
+        "caption": "Raqaas Episode 21 Releases With Subtitles on Green TV Entertainment",
+        "source": "Green TV Entertainment (YouTube)"
+      }
+    ],
+    "published": "2026-11-16T15:45:20+00:00"
   }
 };
