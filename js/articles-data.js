@@ -160110,5 +160110,376 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sun, 15 Nov 2026 22:40:00 EST"
+  },
+  "lws6iv": {
+    "id": "lws6iv",
+    "type": "news",
+    "headline": "Johnny Depp's Ebenezer Opens With $42 Million and Takes Global No. 1 Spot",
+    "dek": "Johnny Depp returns to the big screen with Ebenezer, an adaptation of Charles Dickens' A Christmas Carol directed by Tim West, pulling in an impressive worldwide opening weekend.",
+    "body": [
+      {
+        "h": "Global Box Office Debut",
+        "p": [
+          "Johnny Depp's latest cinematic vehicle has officially arrived in theaters across multiple territories, making an immediate impact on international charts. The newly released project launched with a notable worldwide collection, securing the top position globally.",
+          "Industry tracking confirmed that the feature outpaced rival projects during its opening frame, asserting its dominance as a major commercial draw upon arrival."
+        ]
+      },
+      {
+        "h": "Regional Earnings Breakdown",
+        "p": [
+          "Ticket sales data from Box Office Mojo outlined how the film accumulated its global figures across key territories. North American ticket counters contributed a solid portion to the overall tally, while international markets added the rest.",
+          "Specifically, audiences in the United Kingdom and Japan joined North American moviegoers to drive the feature's combined opening weekend figures past the milestone mark."
+        ]
+      },
+      {
+        "h": "Production Background and Cast",
+        "p": [
+          "Directed by Tim West, the movie offers a fresh cinematic interpretation of author Charles Dickens' renowned 1843 holiday classic, A Christmas Carol. The plot centers on the famously bitter and miserly Ebenezer Scrooge as he receives a life-altering nocturnal visit.",
+          "Alongside Johnny Depp in the titular lead role, the ensemble features Rupert Grint as Bob Cratchit, Andrea Riseborough as the Ghost of Christmas Past, Sam Claflin as Fred, Daisy Ridley as Emily Cratchit, and Ian McKellen as Jacob Marley."
+        ]
+      },
+      {
+        "h": "Star Paycheck and Budget Details",
+        "p": [
+          "Reports leading up to the release highlighted unique financial arrangements behind the production. While the overall budget reached a notable sum, the lead actor accepted a reduced salary compared to his historical earnings.",
+          "Media reports indicated a significant departure from his previous paychecks on earlier studio franchises, bringing his compensation down for this particular project while keeping total production expenditures aligned with the budget."
+        ]
+      },
+      {
+        "h": "Staggered International Rollout",
+        "p": [
+          "Studio distribution plans established a phased release schedule across different global regions. Territories including North America, the United Kingdom, and Japan received the film first during mid-November.",
+          "Meanwhile, audiences in other international territories, including India, can anticipate the official theatrical rollout arriving shortly after the initial wave."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Johnny Depp stars in Ebenezer, a Tim West-directed adaptation of A Christmas Carol that debuted at No. 1 globally with $42 million. The film features a prominent ensemble cast and a staggered release schedule spanning North America, the UK, Japan, and upcoming international markets like India."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Depp's Ebenezer hit $42 million at the global box office.",
+      "The film debuted at No. 1 on the Global Box Office list.",
+      "North American ticket sales contributed $19 million.",
+      "The UK and Japan contributed $23 million.",
+      "The film was directed by Tim West and is based on Charles Dickens' 1843 novel A Christmas Carol.",
+      "The overall movie budget was $38 million.",
+      "North America, the United Kingdom, and Japan received the release on November 12, 2026.",
+      "India and several other international markets are scheduled for release on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Tim West",
+        "Charles Dickens",
+        "Rupert Grint",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Arthur Conti",
+        "Ellie Bamber",
+        "Henry Lloyd-Hughes",
+        "Charlie Murphy",
+        "Tramell Tillman",
+        "Ian McKellen"
+      ],
+      "titles": [
+        "Ebenezer",
+        "A Christmas Carol",
+        "Fantastic Beasts: The Crimes of Grindelwald"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer box office collection",
+      "Tim West A Christmas Carol movie",
+      "Ebenezer release date India"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135870829,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Johnny Depp's Ebenezer Opens With $42 Million and Takes Global No. 1 Spot",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T08:26:36+05:30"
+  },
+  "bagt6x": {
+    "id": "bagt6x",
+    "type": "news",
+    "headline": "Nicholas Hoult’s How to Rob a Bank Opens to Disappointing Box Office Numbers",
+    "dek": "David Leitch’s crime thriller starring Nicholas Hoult and Zoë Kravitz struggles during its theatrical opening weekend.",
+    "body": [
+      {
+        "h": "Difficult Theatrical Launch",
+        "p": [
+          "Nicholas Hoult’s newest crime thriller is facing an uphill battle at the box office following a remarkably slow start. The feature has logged one of the weakest opening performances for a wide release across the actor's career.",
+          "Early ticket sales have placed the production in a tough financial spot right out of the gate. Meeting its theatrical goals will require overcoming these initial stumbles."
+        ]
+      },
+      {
+        "h": "Budget and Recovery Challenges",
+        "p": [
+          "Reports indicate that the film was produced on a budget of $40 million. To break even, the picture may need to accumulate roughly $100 million in global ticket sales.",
+          "Historical data for similar weak openings offers little reassurance for reaching that milestone. Only one of Hoult’s previous low-opening films managed to cross the $100 million mark worldwide."
+        ]
+      },
+      {
+        "h": "Cast and Premise",
+        "p": [
+          "Directed by David Leitch, the movie features a large ensemble cast. Performers include Zoë Kravitz, Anna Sawai, Tati Gabrielle, Pete Davidson, Christian Slater, and John C. Reilly.",
+          "The story follows a criminal crew led by Nicholas Hoult's character. The group utilizes social media to broadcast their robberies and document their methods for viewers."
+        ]
+      },
+      {
+        "h": "Release Date Shift",
+        "p": [
+          "The theatrical rollout experienced a schedule adjustment prior to premiere. Producers originally planned for a September 4 release date.",
+          "An overwhelmingly positive response to the initial trailer prompted a shift to November 13, though the later launch has thus far failed to translate into strong ticket sales."
+        ]
+      },
+      {
+        "h": "Box Office Comparisons",
+        "p": [
+          "First-weekend figures placed the movie among the actor's lowest-performing wide releases, which are defined as films playing in at least 600 theaters. Collections reached $4.016 million over the first two days before rising to $5.2 million by the end of the third day.",
+          "By comparison, Superman in 2025 featured the actor as Lex Luthor and opened with $125 million before finishing at $618.7 million globally. Conversely, The Order debuted with $877,855 in 2024, while titles like Tolkien, Collide, The Current War, and Renfield also opened below $10 million."
+        ]
+      },
+      {
+        "h": "Critical and Audience Reception",
+        "p": [
+          "Reviewers have been harsh toward the crime thriller. The project currently holds a 34% approval rating on Rotten Tomatoes.",
+          "Moviegoers offered a warmer reception than professional critics. General audiences awarded the film an 79% score on the Popcornmeter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nicholas Hoult’s crime thriller How to Rob a Bank has recorded a weak theatrical opening weekend following a shift from its original September release date to November 13. Directed by David Leitch and carrying a $40 million production budget, the movie faces an uphill battle to reach its reported $100 million break-even point after pulling in low early ticket sales."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicholas Hoult stars in How to Rob a Bank",
+      "David Leitch directed How to Rob a Bank",
+      "The production budget is reported at $40 million",
+      "The film collected $4.016 million over its first two days",
+      "The total reached $5.2 million by the end of the third day",
+      "The Rotten Tomatoes score is 34%",
+      "The Popcornmeter score is 79%"
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Hoult",
+        "David Leitch",
+        "Zoë Kravitz",
+        "Anna Sawai",
+        "Tati Gabrielle",
+        "Pete Davidson",
+        "Christian Slater",
+        "John C. Reilly"
+      ],
+      "titles": [
+        "How to Rob a Bank",
+        "Superman",
+        "The Order",
+        "Collide",
+        "Tolkien",
+        "The Current War",
+        "Renfield",
+        "About a Boy"
+      ]
+    },
+    "keywords": [
+      "How to Rob a Bank film",
+      "Nicholas Hoult How to Rob a Bank",
+      "David Leitch How to Rob a Bank",
+      "How to Rob a Bank box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-16T092043.865.webp?resize=1200,630",
+        "caption": "Nicholas Hoult’s How to Rob a Bank Opens to Disappointing Box Office Numbers",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 03:55:05 +0000"
+  },
+  "soff55": {
+    "id": "soff55",
+    "type": "news",
+    "headline": "Phil Collins Makes Rare Public Appearance With Children at Rock and Roll Hall of Fame Ceremony",
+    "dek": "Veteran musician Phil Collins celebrated his solo induction into the Rock and Roll Hall of Fame alongside three of his children, marking one of his first joint public appearances in over a decade.",
+    "body": [
+      {
+        "h": "A Rare Family Outing on the Red Carpet",
+        "p": [
+          "Legendary musician Phil Collins recently stepped into the spotlight for the Rock and Roll Hall of Fame Induction Ceremony 2026. Making a rare public appearance that surprised fans and media alike, the veteran artist was accompanied by three of his five children.",
+          "The momentous occasion marked one of the very first times the star has been seen attending a public event alongside his family members in over ten years, creating a deeply heartwarming moment on the red carpet."
+        ]
+      },
+      {
+        "h": "Children and Loved Ones Rally Around the Star",
+        "p": [
+          "Now seventy-five years of age, the iconic singer arrived at the venue walking with the assistance of two canes. He was closely flanked and supported by his daughters Lily Collins, famed for her role in Emily in Paris, and actress-producer Joely Collins.",
+          "They were joined by his second-youngest son, Nicholas Collins, who follows in his father's footsteps as a drummer. Additional family support came from Nicholas's fiancée, Isabella Cristina Serralles, and Lily's husband, Charlie McDowell."
+        ]
+      },
+      {
+        "h": "Solo Induction and Star-Studded Class",
+        "p": [
+          "The celebration centered on Phil Collins finally receiving his individual induction into the prestigious Rock and Roll Hall of Fame as a solo artist. This milestone adds to his prior induction back in 2010 as a member of the legendary group Genesis.",
+          "This year's diverse class of inductees also featured several other iconic musical acts, including Billy Idol, Iron Maiden, Joy Division and New Order, Oasis, Sade, Luther Vandross, and the Wu-Tang Clan."
+        ]
+      },
+      {
+        "h": "Gratitude and Acceptance Speech Highlights",
+        "p": [
+          "During his acceptance speech on stage, Phil conveyed profound gratitude for the major career honor. He took time to thank numerous people who have supported him throughout his journey, specifically acknowledging all of his ex-wives.",
+          "Reflecting on the timing of the award, he noted that turning seventy-five this year made the recognition feel like a validating pat on the back, emphasizing that everything seemed to come together at a meaningful stage in his life."
+        ]
+      },
+      {
+        "h": "A Reassuring Message to Fans",
+        "p": [
+          "Addressing the enthusiastic crowd of attendees and admirers, the celebrated artist offered a spirited promise regarding his future. He firmly told the audience that they had not heard the last of him yet.",
+          "The declaration served as an inspiring statement from the veteran performer, reassuring supporters that his passion for music and connection remains as strong as ever despite his recent absence from the public eye."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Phil Collins attended the 2026 Rock and Roll Hall of Fame Induction Ceremony with three of his children, marking a rare joint appearance after more than a decade. The seventy-five-year-old musician was officially inducted as a solo artist, expressing deep gratitude during his acceptance speech."
+        ]
+      }
+    ],
+    "facts": [
+      "Phil Collins is 75 years old.",
+      "The event was the Rock and Roll Hall of Fame Induction Ceremony 2026.",
+      "Phil Collins was previously inducted in 2010 as a member of Genesis.",
+      "The children accompanying him were Lily Collins, Joely Collins, and Nicholas Collins."
+    ],
+    "entities": {
+      "people": [
+        "Phil Collins",
+        "Lily Collins",
+        "Joely Collins",
+        "Nicholas Collins",
+        "Isabella Cristina Serralles",
+        "Charlie McDowell",
+        "Billy Idol"
+      ],
+      "titles": [
+        "Emily in Paris",
+        "Genesis",
+        "Iron Maiden",
+        "Oasis",
+        "Sade",
+        "Wu-Tang Clan"
+      ]
+    },
+    "keywords": [
+      "Phil Collins",
+      "Lily Collins",
+      "Phil Collins Rock and Roll Hall of Fame",
+      "Phil Collins children"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135872351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Phil Collins Makes Rare Public Appearance With Children at Rock and Roll Hall of Fame Ceremony",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T09:34:21+05:30"
+  },
+  "1mz6jd6": {
+    "id": "1mz6jd6",
+    "type": "news",
+    "headline": "Tamannaah Bhatia joins Chhath Puja celebrations in Mumbai following the success of The Vvaan",
+    "dek": "Actor Tamannaah Bhatia participated in Chhath Puja festivities in Mumbai and shared videos online, celebrating the connection forged by her recent film The Vvaan: Force of the Forrest.",
+    "body": [
+      {
+        "h": "Joining the Mumbai Celebrations",
+        "p": [
+          "Actor Tamannaah Bhatia recently stepped out in Mumbai to take part in public Chhath Puja celebrations. She mingled with gathered devotees and immersed herself in the traditional environment, later posting footage of the event on her official Instagram account.",
+          "Through her social media post, Tamannaah expressed her gratitude toward the fans and sought the spiritual blessings of Chhathi Maiya, sharing customary greetings with her followers."
+        ]
+      },
+      {
+        "h": "Connection to The Vvaan",
+        "p": [
+          "The public appearance follows the warm reception received by a prominent festive sequence in Tamannaah's recent cinematic release, The Vvaan: Force of the Forrest. The film's portrayal of Chhath Puja struck an emotional chord with audiences across various regions.",
+          "While the movie itself experienced a mixed critical response, its musical number dedicated to the festival—composed and arranged by Vishal Mishra with lyrics penned by Kaushal Kishore—resonated deeply with viewers."
+        ]
+      },
+      {
+        "h": "Understanding the Rituals",
+        "p": [
+          "During the promotional campaign for The Vvaan, Tamannaah discussed the preparation she undertook before filming the Chhath Puja sequence. She noted that she maintained a deep reverence for the festival and spent time researching how the rituals are performed in Patna and Bihar.",
+          "The actor expressed astonishment at the profound cultural power of the traditions, describing a strong emotional connection to Chhathi Maiyya that developed while working on this key segment of the film."
+        ]
+      },
+      {
+        "h": "Box Office and Cultural Roots",
+        "p": [
+          "Actor Sidharth Malhotra recently addressed the film's theatrical journey, noting on an appearance on Koffee With Karan that the project succeeded despite initial skepticism from critics. He attributed its connection with audiences to its deeply rooted cultural elements.",
+          "According to Malhotra, the film found a strong audience among viewers seeking authentic stories that reflect traditional ways of life in Bharat, fitting squarely into a culturally grounded cinematic bracket."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Directed by Deepak Kumar Mishra, The Vvaan: Force of the Forrest opened in theatres nationwide on September 25. The narrative draws primary inspiration from local folklore surrounding the Van Devi temple located in Bihta, Bihar.",
+          "The feature boasts an ensemble cast featuring Sidharth Malhotra, Tamannaah Bhatia, Shweta Tiwari, Sunil Grover, and Anup Soni, centering heavily on cultural motifs like Chhath Puja."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Tamannaah Bhatia participated in Chhath Puja celebrations in Mumbai and shared a video thanking devotees after the festive sequence in her film The Vvaan resonated with audiences. Co-star Sidharth Malhotra also highlighted the film's cultural resonance and success with viewers after its theatrical release on September 25."
+        ]
+      }
+    ],
+    "facts": [
+      "Tamannaah Bhatia joined Chhath Puja celebrations in Mumbai and shared a video on Instagram.",
+      "The Vvaan: Force of the Forrest was released in theatres on September 25.",
+      "The Vvaan is directed by Deepak Kumar Mishra.",
+      "The film stars Sidharth Malhotra, Tamannaah Bhatia, Shweta Tiwari, Sunil Grover, and Anup Soni.",
+      "The film's Chhath Puja song was composed and arranged by Vishal Mishra, with lyrics by Kaushal Kishore."
+    ],
+    "entities": {
+      "people": [
+        "Tamannaah Bhatia",
+        "Sidharth Malhotra",
+        "Vishal Mishra",
+        "Kaushal Kishore",
+        "Deepak Kumar Mishra",
+        "Shweta Tiwari",
+        "Sunil Grover",
+        "Anup Soni"
+      ],
+      "titles": [
+        "The Vvaan: Force of the Forrest",
+        "The Vvaan",
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Tamannaah Bhatia Chhath Puja",
+      "The Vvaan Force of the Forrest",
+      "Sidharth Malhotra The Vvaan",
+      "Deepak Kumar Mishra film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/Tamannah_1794800254865_l60S_1794800255013_RidI_8cb58e4b-2188-4e68-a223-f135d0f018b1_Hbo9.jpg",
+        "caption": "Tamannaah Bhatia joins Chhath Puja celebrations in Mumbai following the success of The Vvaan",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 09:19:01 +0530"
   }
 };
