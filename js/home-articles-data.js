@@ -80,6 +80,115 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 16 Nov 2026 18:05:36 +0200"
   },
+  "p435yq": {
+    "id": "p435yq",
+    "type": "news",
+    "headline": "Rutba Episode 12 Release Time in India: Mahnoor Faces Growing Tension and Suspicion",
+    "dek": "As Pakistani drama Rutba advances to its twelfth episode, viewers anticipate high emotional drama as Mahnoor begins questioning Hadi's secret closeness to Sheely.",
+    "entities": {
+      "people": [
+        "Hiba Bukhari",
+        "Danish Taimoor",
+        "Haseeb Hassan",
+        "Umera Ahmed",
+        "Talha Chahour",
+        "Zahid Ahmed",
+        "Mehwish Hayat",
+        "Ali Tahir",
+        "Salma Hassan",
+        "Isra Ghazal",
+        "Shahnawaz Ali Zaidi",
+        "Usman Chaudhary"
+      ],
+      "titles": [
+        "Rutba",
+        "Humrahi"
+      ]
+    },
+    "keywords": [
+      "Rutba episode 12",
+      "Hiba Bukhari Rutba",
+      "Rutba release time in India",
+      "Talha Chahour Mehwish Hayat Rutba"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/rutbaep12feature-17061794839680.jpg",
+        "caption": "Rutba Episode 12 Release Time in India: Mahnoor Faces Growing Tension and Suspicion",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 20:08:52 +0530"
+  },
+  "1fqx7n9": {
+    "id": "1fqx7n9",
+    "type": "news",
+    "headline": "Intense Drama Unfolds in Latest Episode of ARY Digital Series Izzat Featuring Merub Ali",
+    "dek": "Audiences are buzzing as the hit television series Izzat delivers high-stakes emotional moments, showcasing a talented ensemble cast and dramatic storyline twists.",
+    "entities": {
+      "people": [
+        "Merub Ali",
+        "Atabik Mohsin",
+        "Ayesha Sohail",
+        "Hasham Khan",
+        "Saleem Sheikh",
+        "Nadia Hussain",
+        "Asnan Shah",
+        "Tipu",
+        "Ilham Asim",
+        "Aamir Yousuf"
+      ],
+      "titles": [
+        "Izzat"
+      ]
+    },
+    "keywords": [
+      "Izzat drama",
+      "Merub Ali Izzat",
+      "ARY Digital Izzat",
+      "Atabik Mohsin Izzat"
+    ],
+    "images": [],
+    "published": "2026-11-16T14:30:39+00:00"
+  },
+  "1u6ie3l": {
+    "id": "1u6ie3l",
+    "type": "news",
+    "headline": "Aegan and Sridevi Apalla's romantic drama 'Haiku' gears up for Netflix premiere after theatrical run",
+    "dek": "The romantic drama 'Haiku', starring Aegan and Sridevi Apalla and directed by Yuvaraj Chinnasamy, has confirmed its digital premiere on Netflix following its October theatrical release.",
+    "entities": {
+      "people": [
+        "Aegan",
+        "Sridevi Apalla",
+        "Femina George",
+        "Subramanian Seth",
+        "Mime Gopi",
+        "Adirchi Arun",
+        "Sabareesan",
+        "Siddhu Kumar",
+        "Yuvaraj Chinnasamy",
+        "D Arulanandhu",
+        "Mathewo Arulanandhu"
+      ],
+      "titles": [
+        "Haiku"
+      ]
+    },
+    "keywords": [
+      "Haiku OTT release date",
+      "Aegan and Sridevi Apalla Haiku",
+      "Haiku movie Netflix",
+      "Yuvaraj Chinnasamy Haiku film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135892389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Aegan and Sridevi Apalla's romantic drama 'Haiku' gears up for Netflix premiere after theatrical run",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T19:44:20+05:30"
+  },
   "1uy5d3j": {
     "id": "1uy5d3j",
     "type": "news",
@@ -4570,137 +4679,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 05:11:59 +0000"
-  },
-  "heamn6": {
-    "id": "heamn6",
-    "type": "news",
-    "headline": "2026 Kids’ Choice Awards: BTS, Spider-Man: Brand New Day, and ROSÉ Dominate the Winners List",
-    "dek": "The 2026 Kids’ Choice Awards made history by airing on CBS for the first time, bringing massive wins for BTS, ROSÉ, and Spider-Man: Brand New Day alongside plenty of trademark slime.",
-    "entities": {
-      "people": [
-        "Alex Warren",
-        "ROSÉ",
-        "Ariana Grande",
-        "Taylor Swift",
-        "Miley Cyrus",
-        "JENNIE",
-        "Tame Impala",
-        "Tom Holland",
-        "Zendaya",
-        "Howie Mandel",
-        "Chris Pratt",
-        "Joe Keery",
-        "Jenna Ortega",
-        "Kira Kosarin",
-        "Jack Griffo"
-      ],
-      "titles": [
-        "Swim",
-        "ARIRANG",
-        "Dynamite",
-        "What Makes You Beautiful",
-        "Story of My Life",
-        "Dracula",
-        "Golden",
-        "Toy Story 5",
-        "Man I Need",
-        "Stop the Wedding!",
-        "Babydoll",
-        "Tsunami",
-        "Spider-Man: Brand New Day",
-        "America’s Got Talent",
-        "Stranger Things",
-        "Wednesday",
-        "The Thundermans: Undercover",
-        "KPop Demon Hunters"
-      ]
-    },
-    "keywords": [
-      "2026 Kids Choice Awards",
-      "BTS Kids Choice Awards",
-      "ROSÉ Kids Choice Awards",
-      "Spider-Man Brand New Day movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/3228383_KCA_2026_2014b-e1794714903780.jpg?w=1024",
-        "caption": "2026 Kids’ Choice Awards: BTS, Spider-Man: Brand New Day, and ROSÉ Dominate the Winners List",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 04:41:14 +0000"
-  },
-  "1oeas7p": {
-    "id": "1oeas7p",
-    "type": "news",
-    "headline": "Scene Day 9 Box Office Collections Witness Strong Growth",
-    "dek": "Suriya starrer Scene records a major surge in earnings on its second Saturday, bringing its domestic net total past ₹125 crore.",
-    "entities": {
-      "people": [
-        "Suriya",
-        "Jithu Madhavan",
-        "Nazriya Nazim",
-        "Naslen",
-        "Anandraj",
-        "Lal",
-        "Raj Priyan",
-        "Jyothika",
-        "Sushin Shyam",
-        "Vineeth Augustian",
-        "Ajmal Sabu"
-      ],
-      "titles": [
-        "Scene"
-      ]
-    },
-    "keywords": [
-      "Scene box office collection",
-      "Suriya Scene movie",
-      "Scene Day 9 collection",
-      "Scene worldwide collection"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/scene-73641794715618.jpg",
-        "caption": "Scene Day 9 Box Office Collections Witness Strong Growth",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 09:38:18 +0530"
-  },
-  "2f3jbe": {
-    "id": "2f3jbe",
-    "type": "news",
-    "headline": "Kamal Haasan's Upcoming Film 'Sandiyar' Sparks Title Controversy and Political Objections",
-    "dek": "Actor Kamal Haasan's forthcoming project directed by SU Arun Kumar faces severe backlash over its title, prompting a detailed clarification from the Tamil Film Producers Council and strong warnings from political leaders.",
-    "entities": {
-      "people": [
-        "Kamal Haasan",
-        "SU Arun Kumar",
-        "Krishnasamy",
-        "Tamil Kumaran",
-        "Minister Raj"
-      ],
-      "titles": [
-        "Sandiyar",
-        "Virumaandi"
-      ]
-    },
-    "keywords": [
-      "Kamal Haasan Sandiyar",
-      "Sandiyar title controversy",
-      "SU Arun Kumar film",
-      "Tamil Film Producers Council Sandiyar",
-      "Krishnasamy Sandiyar objection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135846728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Kamal Haasan's Upcoming Film 'Sandiyar' Sparks Title Controversy and Political Objections",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T09:25:08+05:30"
   },
   "19d8ylq": {
     "id": "19d8ylq",

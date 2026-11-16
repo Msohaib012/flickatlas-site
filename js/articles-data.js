@@ -163661,5 +163661,297 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 13:03:21 +0000"
+  },
+  "1u6ie3l": {
+    "id": "1u6ie3l",
+    "type": "news",
+    "headline": "Aegan and Sridevi Apalla's romantic drama 'Haiku' gears up for Netflix premiere after theatrical run",
+    "dek": "The romantic drama 'Haiku', starring Aegan and Sridevi Apalla and directed by Yuvaraj Chinnasamy, has confirmed its digital premiere on Netflix following its October theatrical release.",
+    "body": [
+      {
+        "h": "Transition From Theatres to Streaming",
+        "p": [
+          "The romantic drama 'Haiku' has concluded its theatrical run and is swiftly preparing for its digital debut. Having previously entertained audiences on the big screen, the feature is now expanding its reach to digital platforms.",
+          "The official streaming confirmation brings the movie directly to fans who missed its theatrical window. This move allows the production to target a broader demographic beyond traditional cinema-goers."
+        ]
+      },
+      {
+        "h": "Confirmed OTT Release Date and Platforms",
+        "p": [
+          "Netflix has officially locked in the streaming date for the feature. Subscribers will be able to watch the film starting November 20, 2026.",
+          "While its initial theatrical run was restricted to select regional markets, the digital version aims to capitalize on a much wider audience footprint through a multi-language rollout."
+        ]
+      },
+      {
+        "h": "Multi-Language Availability for Wider Reach",
+        "p": [
+          "During its time in cinemas, the project primarily catered to Tamil and Telugu viewers. However, the forthcoming digital release breaks down linguistic barriers significantly.",
+          "Viewers will have the option to experience the narrative in five distinct languages, including Malayalam, Kannada, and Hindi alongside the original Tamil and Telugu tracks."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Initial Reception",
+        "p": [
+          "The feature originally debuted in movie halls on October 23. Upon release, it drew a mixed response from regular moviegoers and critics alike.",
+          "With the upcoming digital premiere, stakeholders are eager to observe if the narrative resonates better with a home-viewing audience across different territories."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The storyline centers around complex personal bonds and the emotional scars left by past romances. It follows a young protagonist facing rejection who subsequently grows close to a woman carrying emotional trauma.",
+          "As the narrative unfolds, external factors such as physical distance and shifting life circumstances challenge their evolving relationship and choices."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Aegan and Sridevi Apalla anchor the project as the primary leads, with Sridevi making her acting debut in Tamil cinema. The supporting lineup features Femina George, Subramanian Seth, Mime Gopi, Adirchi Arun, and Sabareesan.",
+          "The film was directed by Yuvaraj Chinnasamy and financed by D Arulanandhu and Mathewo Arulanandhu under the Vision Cinema House banner, with a musical score composed by Siddhu Kumar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The romantic drama 'Haiku', directed by Yuvaraj Chinnasamy and starring Aegan and Sridevi Apalla, is scheduled to premiere on Netflix on November 20, 2026. After a mixed theatrical run following its October release, the film will stream in five languages to reach a wider audience."
+        ]
+      }
+    ],
+    "facts": [
+      "Haiku is a romantic drama directed by Yuvaraj Chinnasamy.",
+      "The film stars Aegan and Sridevi Apalla.",
+      "Sridevi Apalla makes her debut as a Tamil actor in this film.",
+      "Netflix has scheduled the OTT release of Haiku for November 20, 2026.",
+      "The film originally hit theatres on October 23.",
+      "Haiku will be available in five languages: Tamil, Telugu, Malayalam, Kannada, and Hindi.",
+      "Femina George, Subramanian Seth, Mime Gopi, Adirchi Arun, and Sabareesan are part of the cast.",
+      "Siddhu Kumar composed the music for the film.",
+      "The film was produced by D Arulanandhu and Mathewo Arulanandhu under Vision Cinema House."
+    ],
+    "entities": {
+      "people": [
+        "Aegan",
+        "Sridevi Apalla",
+        "Femina George",
+        "Subramanian Seth",
+        "Mime Gopi",
+        "Adirchi Arun",
+        "Sabareesan",
+        "Siddhu Kumar",
+        "Yuvaraj Chinnasamy",
+        "D Arulanandhu",
+        "Mathewo Arulanandhu"
+      ],
+      "titles": [
+        "Haiku"
+      ]
+    },
+    "keywords": [
+      "Haiku OTT release date",
+      "Aegan and Sridevi Apalla Haiku",
+      "Haiku movie Netflix",
+      "Yuvaraj Chinnasamy Haiku film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135892389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Aegan and Sridevi Apalla's romantic drama 'Haiku' gears up for Netflix premiere after theatrical run",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T19:44:20+05:30"
+  },
+  "p435yq": {
+    "id": "p435yq",
+    "type": "news",
+    "headline": "Rutba Episode 12 Release Time in India: Mahnoor Faces Growing Tension and Suspicion",
+    "dek": "As Pakistani drama Rutba advances to its twelfth episode, viewers anticipate high emotional drama as Mahnoor begins questioning Hadi's secret closeness to Sheely.",
+    "body": [
+      {
+        "h": "Introduction to the Pakistani Drama Phenomenon",
+        "p": [
+          "The Pakistani television landscape is currently captivated by Rutba, a compelling new drama that places actress Hiba Bukhari at the forefront of a narrative exploring power, social influence, and personal morality. Following her well-received appearance in Humrahi alongside Danish Taimoor, Bukhari continues her strong professional run with this latest venture.",
+          "Created by a powerhouse creative team, the series delves into the complexities of human ambition and authority. It has quickly drawn significant attention from audiences across the region who appreciate its sharp commentary on societal structures and personal choices."
+        ]
+      },
+      {
+        "h": "Creative Team and Production Background",
+        "p": [
+          "Rutba is brought to life under the direction of Haseeb Hassan, whose visionary approach sets a tense and cinematic tone for the narrative. The intricate script is penned by Umera Ahmed, known for her ability to weave complex social themes into engaging dramatic arcs.",
+          "The series seamlessly blends elements of crime and family drama, establishing a conflict deeply rooted in class divides, authority, and personal ambition. This distinctive storytelling style has contributed heavily to the show's early success and positive audience response."
+        ]
+      },
+      {
+        "h": "Core Plot and Character Dynamics",
+        "p": [
+          "At the center of the story is Hadi, a middle-class police officer portrayed by Talha Chahour, and his wife Mahnoor, played by Hiba Bukhari. The couple begins their married life in a region dominated by Meer, a powerful and corrupt builder essayed by Zahid Ahmed.",
+          "Early episodes established a clear moral battleground as Meer and his wife Shehnawaz, commonly known as Sheely and played by Mehwish Hayat, attempt to win over Hadi and Mahnoor with offers of comfort and status, though initially without success."
+        ]
+      },
+      {
+        "h": "Expanding Cast and Ensemble Performances",
+        "p": [
+          "Beyond the primary leads, Rutba boasts a robust supporting ensemble that enriches the unfolding narrative. The cast features notable performances by actors including Ali Tahir, Salma Hassan, and Isra Ghazal.",
+          "Rounding out the talented lineup are Shahnawaz Ali Zaidi and Usman Chaudhary. Their respective characters add further layers to the socio-political friction and interpersonal conflicts driving the plot forward."
+        ]
+      },
+      {
+        "h": "What to Expect in Episode 12",
+        "p": [
+          "Recent plot developments have taken a dramatic turn as Hadi appears increasingly impressed by Meer's immense influence and grows inclined toward Sheely. Viewers recently witnessed Hadi ignoring Mahnoor to enjoy an outing with Sheely, sharing romantic moments while keeping his growing proximity a secret.",
+          "In the upcoming twelfth episode, Mahnoor—who is currently expecting her first child—grows deeply suspicious of Hadi's behavior. When she attempts to confront him, Hadi dodges her questions, effectively creating a noticeable rift between the couple."
+        ]
+      },
+      {
+        "h": "Release Schedule and Timings in India",
+        "p": [
+          "For international fans tracking the broadcast, Rutba episode 12 is scheduled to premiere on ARY Digital in Pakistan at 8:00 PM PKT on November 16, 2026. Indian viewers can access the episode online shortly after, around 10:30 PM IST.",
+          "The prompt availability allows regional audiences to stay synchronized with the latest plot twists and dramatic confrontations without facing significant delays."
+        ]
+      },
+      {
+        "h": "Streaming Options and Online Availability",
+        "p": [
+          "Indian fans looking to watch Rutba episode 12 online can access it for free following its Pakistan premiere. The primary destination for streaming is the official YouTube channel dedicated to Top Pakistani Dramas, where the episode is expected to be available without requiring a subscription.",
+          "Additionally, viewers may check platforms like Dailymotion for high-definition uploads after 10:30 PM IST, depending on availability and platform uploads."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pakistani drama Rutba is drawing strong viewership through its tense exploration of power, morality, and class conflict led by actors Hiba Bukhari and Talha Chahour. As episode 12 approaches its release on November 16, 2026, the narrative focuses on Mahnoor suspecting her husband Hadi's secretive proximity to Sheely. Indian fans can stream the episode online for free following its premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Rutba episode 12 releases on November 16, 2026.",
+      "The episode premieres on ARY Digital in Pakistan at 8pm PKT.",
+      "Indian viewers can stream the episode online after approximately 10:30pm IST.",
+      "Hiba Bukhari plays Mahnoor, and Talha Chahour plays Hadi.",
+      "Mehwish Hayat plays Shehnawaz, also known as Sheely, and Zahid Ahmed plays Meer.",
+      "The show is directed by Haseeb Hassan and written by Umera Ahmed."
+    ],
+    "entities": {
+      "people": [
+        "Hiba Bukhari",
+        "Danish Taimoor",
+        "Haseeb Hassan",
+        "Umera Ahmed",
+        "Talha Chahour",
+        "Zahid Ahmed",
+        "Mehwish Hayat",
+        "Ali Tahir",
+        "Salma Hassan",
+        "Isra Ghazal",
+        "Shahnawaz Ali Zaidi",
+        "Usman Chaudhary"
+      ],
+      "titles": [
+        "Rutba",
+        "Humrahi"
+      ]
+    },
+    "keywords": [
+      "Rutba episode 12",
+      "Hiba Bukhari Rutba",
+      "Rutba release time in India",
+      "Talha Chahour Mehwish Hayat Rutba"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/rutbaep12feature-17061794839680.jpg",
+        "caption": "Rutba Episode 12 Release Time in India: Mahnoor Faces Growing Tension and Suspicion",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 20:08:52 +0530"
+  },
+  "1fqx7n9": {
+    "id": "1fqx7n9",
+    "type": "news",
+    "headline": "Intense Drama Unfolds in Latest Episode of ARY Digital Series Izzat Featuring Merub Ali",
+    "dek": "Audiences are buzzing as the hit television series Izzat delivers high-stakes emotional moments, showcasing a talented ensemble cast and dramatic storyline twists.",
+    "body": [
+      {
+        "h": "The Latest Dramatic Turn on ARY Digital",
+        "p": [
+          "Television viewers tuning into ARY Digital have been captivated by the intense narrative progression of the popular drama series titled Izzat. The show continues to draw substantial interest from drama enthusiasts across the region.",
+          "With recent episodes bringing heightened emotional conflicts, the storyline has struck a strong chord with fans following the daily broadcast schedules closely."
+        ]
+      },
+      {
+        "h": "Character Stakes and Narrative Conflict",
+        "p": [
+          "Recent dramatic scenes highlight the severe pressures faced by characters navigating perilous situations within the narrative framework of the show.",
+          "The gripping dialogue and high-tension moments underscore the central themes of honor, personal dignity, and the harsh consequences of escalating disputes."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The series features a prominent lineup of actors including Merub Ali, Atabik Mohsin, and Ayesha Sohail, who deliver compelling performances in their respective roles.",
+          "Additional key cast members such as Hasham Khan, Saleem Sheikh, Nadia Hussain, Asnan Shah, and Tipu further enrich the emotional depth of the ongoing plot."
+        ]
+      },
+      {
+        "h": "Behind the Creative Direction",
+        "p": [
+          "Behind the camera, the production brings together notable talents dedicated to shaping the visual and emotional landscape of the television project.",
+          "The script is penned by writer Ilham Asim, while the direction is spearheaded by filmmaker Aamir Yousuf, ensuring a polished presentation for home audiences."
+        ]
+      },
+      {
+        "h": "Broadcasting and Digital Accessibility",
+        "p": [
+          "As a staple of Pakistani television entertainment, the project benefits from the extensive reach of the network's broadcasting infrastructure.",
+          "Viewers seeking to catch up on missed segments or follow the narrative arcs in full can utilize the dedicated streaming platform applications provided by the broadcaster."
+        ]
+      },
+      {
+        "h": "Audience Reception and Fan Engagement",
+        "p": [
+          "Followers of the show frequently take to social channels and video-sharing platforms to discuss major plot developments, character decisions, and standout performances.",
+          "The growing digital footprint of the series highlights the strong appetite for relatable domestic storytelling and high-quality television serials."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The television drama Izzat broadcasted new dramatic content on ARY Digital featuring performances by Merub Ali and Atabik Mohsin. Written by Ilham Asim and directed by Aamir Yousuf, the series continues to engage audiences through its accessible digital viewing options."
+        ]
+      }
+    ],
+    "facts": [
+      "The drama series is titled Izzat.",
+      "The show is broadcast on ARY Digital.",
+      "The cast includes Merub Ali, Atabik Mohsin, Hasham Khan, Ayesha Sohail, Saleem Sheikh, Nadia Hussain, Asnan Shah, and Tipu.",
+      "The writer of the series is Ilham Asim.",
+      "The director of the series is Aamir Yousuf."
+    ],
+    "entities": {
+      "people": [
+        "Merub Ali",
+        "Atabik Mohsin",
+        "Ayesha Sohail",
+        "Hasham Khan",
+        "Saleem Sheikh",
+        "Nadia Hussain",
+        "Asnan Shah",
+        "Tipu",
+        "Ilham Asim",
+        "Aamir Yousuf"
+      ],
+      "titles": [
+        "Izzat"
+      ]
+    },
+    "keywords": [
+      "Izzat drama",
+      "Merub Ali Izzat",
+      "ARY Digital Izzat",
+      "Atabik Mohsin Izzat"
+    ],
+    "images": [],
+    "published": "2026-11-16T14:30:39+00:00"
   }
 };
