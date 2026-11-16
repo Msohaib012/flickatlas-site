@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T12:52:18Z",
-    "run_id": "43715889052",
-    "status": "success",
-    "checked": {
-     "candidates": 382,
-     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Doctor Strange vs Black Panther At Worldwide Box Office: Which MCU Franchise Has Collected More Across Its Two Movies?",
-      "The Hunger Games: Sunrise On The Reaping Worldwide Box Office: Can It Beat Michael To Become Lionsgate’s Biggest Movie Ever?",
-      "Ghost Soldier Box Office: Jim Caviezel-Led Action Flick Needs Less Than $50 Million To Break Even",
-      "Avengers: Doomsday Box Office: Will It Enter Top 10 Openers Of All Time In India?",
-      "satvika veeravalli set to make her debut opposite dulquer salmaan in aakasamlo oka taara 87164.html",
-      "reports ritika singh wraps up special song for chiranjeevis kaaka 87163.html",
-      "jr ntrs surprise move teams up with anil ravipudi for a comedy entertainer 87161.html",
-      "Kiara spends quality time with her mother Genevieve before welcoming second child with Sidharth",
-      "Ashok Saraf recalls how he paid Nana Patekar Rs 2 for back massage: 'Even though I told...'",
-      "Weekend Ka Vaar: Salman Khan loses his cool at Kanika Mann, questions ScoutOP for his conduct inside Bigg Boss 20",
-      "Reply 1988 actor Go Kyung Pyo apologises after drunk-driving accident in Seoul, announces break from work amid police investigation",
-      "‘Had no clue’: Soni Razdan smoked ‘100 cigarettes a day’ on set while pregnant with Alia Bhatt",
-      "Glenn Close and Ridley Scott to get honorary Oscars at Governors Awards",
-      "Rashami Desai’s ex-husband Nandish Sandhu ties the knot with Kavita Bannerjee, see photos",
-      "Scene box office collection day 9: Suriya film earns Rs 227 crore globally",
-      "Amitabh got Jalsa as payment for film in 1982, sold it and bought it back at higher price",
-      "‘Pankaj Kapur threatened to walk out of wedding in one hour’: Supriya Pathak",
-      "‘I really need help’: Sharad Kapoor appeals to senior stars for work",
-      "Rimi Tomy ties the knot with gym trainer fiance Libin Mathew in intimate ceremony",
-      "Prince William and Kate Middleton to join Sachin Tendulkar, Alia Bhatt at Earthshot Prize awards"
-     ],
-     "updated": [],
-     "count": 269,
-     "detail": "274 stories, 1 duplicates removed, 108 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-15T13:51:05Z",
     "run_id": "43721100836",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "343 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-15T15:13:42Z",
-    "run_id": "43728593942",
+    "run_at": "2026-11-16T13:51:55Z",
+    "run_id": "43879675078",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 335,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Vijay Deverakonda and Rashmika Mandanna Share Japan Vacation Photos After Online Backlash",
-      "Dutton Ranch Season 2: Everything We Know About Filming Timelines, Release Expectations, and Cast Updates",
-      "Soni Razdan Recalls Smoking 100 Cigarettes a Day During 'Gumraah' Shoot While Unaware She Was Pregnant with Alia Bhatt",
-      "Wordle Hints and Answer for November 15, 2026: Puzzle #1975 Guide"
+      "Virat Kohli, Priyanka Chopra Jonas, Shraddha Kapoor, Alia Bhatt and Katrina Kaif feature among Asia’s most-followed Instagram personalities in 2026",
+      "Karan Johar’s kids Yash and Roohi to make chat show debut with Shah Rukh Khan in Koffee With Karan 9 finale: Report",
+      "Arjun Rampal begins shooting for Hansal Mehta's Billionaire in London, shares glimpse from first day on set",
+      "Sonu Sood reaches out to Sharad Kapoor after viral videos",
+      "EXCLUSIVE: Sanjay Dutt’s Munna Bhai MBBS to re-release in cinemas in 8K on December 11",
+      "Mimi Chakraborty Wedding MAJOR Update: Actress To Register Her Marriage With BF Next Week? Here's What We Know",
+      "Maatrubhumi Director Apoorva Lakhia Recalls Salman Khan Shooting At Zero Degree In Water, “When You See Him Shivering, That’s Not Acting!”",
+      "Panchayat Season 5: From Sachiv Ji’s Future To Banrakas’ Leadership, 3 Things To Expect",
+      "Mookuthi Amman 2 Box Office: Nayanthara’s Film Recovers Just 20% Of Its Budget After 10 Days!",
+      "Wildwood Box Office: Still $30 Million Away From Recovering Its Production Budget Worldwide!",
+      "Ramayana Worldwide Box Office: India’s Epic Beats Japanese Monster Movie Godzilla Minus Zero By A Huge Margin!",
+      "Clayface Worldwide Box Office: DCU Horror Misses Anne Hathaway-Led The End Of Oak Street’s Global Run By A Whisker!",
+      "Diljit says, 'Ye Mahakal ki dharti hai' at Indore concert; adds, 'Baap ka Hindustan thodi hai'",
+      "Shah Rukh Khan to appear on the finale episode of 'Koffee With Karan 9'?",
+      "Shruti Haasan's savage reply to Suhasini's marriage question",
+      "'Ramayana' actor Ravie reacts to Thailand's love for his Lakshman: 'International heartthrob?'",
+      "Imtiaz Ali defends star kids, says ‘they have a terrible disadvantage: a very high parameter of success’",
+      "The Vvaan 2 announced on Chhath Puja, Ektaa Kapoor to take Sidharth Malhotra and Tamannaah Bhatia's folklore fantasy forward with a new universe",
+      "After Dhanush calls Mammootty ‘rude’, Malayalam actor jokes his OM co-star ‘can't sleep without seeing him’ at Kochi event",
+      "Diljit Dosanjh reacts to criticism over his public statements, says he is grateful even to his haters"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 297,
+     "detail": "316 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1459,27 +1436,31 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-16T14:14:19Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Sanjay Dutt Starrer Munna Bhai MBBS Set For Grand Theatrical Re-Release In 8K Resolution",
+      "Sonu Sood Steps In to Support Actor Sharad Kapoor Following Viral Social Media Appeal",
+      "Rapper and Producer Young L, Architect of The Pack's Minimalist Sound, Passes Away at 39"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-15T14:52:54Z",
-    "run_id": "43726543806",
-    "status": "success",
-    "checked": {
-     "candidates": 343,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 331, coming 12"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1877,31 +1858,27 @@
      "detail": "now 340, coming 11"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-16T14:14:19Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 351,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 340, coming 11"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-15T15:02:06Z",
-    "run_id": "43726543806",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "159a28",
-      "xwrv3l",
-      "19hv84j",
-      "wuxxb4"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2345,27 +2322,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-16T14:21:25Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "s3ykmn",
+      "2i92ts",
+      "10p3zsr",
+      "1f1pv2e",
+      "1kp1715",
+      "19d8ylq",
+      "1w8cy4y",
+      "v18wa1"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-15T13:05:13Z",
-    "run_id": "43715889052",
-    "status": "success",
-    "checked": {
-     "candidates": 681,
-     "detail": "652 collected staging rows from readers; 228 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+0 new rows, 6 updated rows, 659 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2755,19 +2740,27 @@
      "detail": "+0 new rows, 3 updated rows, 669 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T14:21:22Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 690,
+     "detail": "657 collected staging rows from readers; 229 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 669 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3004,32 +2997,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-15T15:02:05Z",
-    "run_id": "43726543806",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Fool In Love Episode 12 Climax And Ending Explained",
-      "Virgin River Season 8: Release Updates, Cast Changes, and Story Clues",
-      "Josh actor Sharad Kapoor seeks work after battling depression and health issues",
-      "Netflix Unveils Trailer for Historical Documentary Series 'World War II: Behind Enemy Lines'"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3530,19 +3510,31 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-16T14:21:25Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Sanjay Dutt Starrer Munna Bhai MBBS Set For Grand Theatrical Re-Release In 8K Resolution",
+      "Sonu Sood Steps In to Support Actor Sharad Kapoor Following Viral Social Media Appeal",
+      "Rapper and Producer Young L, Architect of The Pack's Minimalist Sound, Passes Away at 39"
+     ],
+     "updated": [],
+     "count": 3,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3772,19 +3764,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4104,31 +4096,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-15T12:52:55Z",
-    "run_id": "43715889052",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 269 still unprocessed; today by category: movies 8/6, tv_dramas 14/4, episodes 0/2, box_office 11/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 5/4, trailers 1/3, awards 2/2, music_ost 4/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Crosses Rs 1,228 Crore Globally as Second Weekend Box Office Surges",
-      "Ram Gopal Varma Claims Ramayana Part 1 Budget Is Under Rs 800 Crore, Predicts Sequel Will Do Ten Times Better",
-      "Salman Khan Criticizes Kanika Mann and ScoutOP During Weekend Ka Vaar on Bigg Boss 20",
-      "Star Wars: Fate of the Old Republic Director Teases New Updates for Next Year"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4598,19 +4578,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-16T14:14:19Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 297 still unprocessed; today by category: movies 7/6, tv_dramas 10/4, episodes 1/2, box_office 10/6, celebrities_events 11/5, upcoming_releases 3/4, ott_streaming 5/4, trailers 2/3, awards 3/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Sanjay Dutt Starrer Munna Bhai MBBS Set For Grand Theatrical Re-Release In 8K Resolution",
+      "Sonu Sood Steps In to Support Actor Sharad Kapoor Following Viral Social Media Appeal",
+      "Rapper and Producer Young L, Architect of The Pack's Minimalist Sound, Passes Away at 39"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4910,24 +4901,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-16T14:16:19Z",
+    "run_id": "43879675078",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 394,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5257,24 +5250,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 19,
+     "count": 302,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5599,24 +5592,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 75,
+     "count": 15,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5866,19 +5859,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6113,19 +6106,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6410,19 +6403,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6663,19 +6656,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6905,19 +6898,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7170,30 +7163,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-14T10:51:10Z",
-    "run_id": "43587033561",
-    "status": "success",
-    "checked": {
-     "candidates": 553,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 539"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7676,19 +7658,29 @@
      "count": 9
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-16T14:15:22Z",
+    "run_id": "43879675078",
+    "status": "success",
+    "checked": {
+     "candidates": 564,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 478"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)"
+     ],
+     "updated": [],
+     "count": 9
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7928,24 +7920,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-15T13:05:31Z",
-    "run_id": "43715889052",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 8558,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8215,8 +8202,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-16T14:21:35Z",
+    "run_id": "43879675078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-16T12:52:02Z"
+ "updated_at": "2026-11-16T14:21:35Z"
 }
