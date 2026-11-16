@@ -34,6 +34,167 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 16 Nov 2026 12:17:11 +0200"
   },
+  "91bytz": {
+    "id": "91bytz",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Trailer Review: Dulquer Salmaan And Satvika Lead An Emotional Journey",
+    "dek": "The trailer for Aakasamlo Oka Tara highlights a touching tale of love, ambition, and space dreams, featuring Dulquer Salmaan as a supportive husband and Satvika in her debut role.",
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Pavan Sadineni",
+        "Satvika",
+        "Shruti Haasan",
+        "Murli Sharma",
+        "Gautham Vasudev Menon",
+        "Dr. A.P.J. Abdul Kalam",
+        "GV Prakash Kumar",
+        "Mammootty",
+        "Dhanush",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "I'm Game",
+        "Sita Ramam",
+        "OM"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara trailer",
+      "Dulquer Salmaan Telugu film",
+      "Satvika debut film",
+      "Shruti Haasan NASA employee"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/aakasamlo-oka-tara-trailer-review-dulquer-salmaan-shines-as-the-green-forest-husband-in-this-inspiring-tale-of-dreams.jpg",
+        "caption": "Aakasamlo Oka Tara Trailer Review: Dulquer Salmaan And Satvika Lead An Emotional Journey",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 10:00:25 +0000"
+  },
+  "1xb42cf": {
+    "id": "1xb42cf",
+    "type": "news",
+    "headline": "Marvel Studios Brings 'Avengers: Endgame: Encore' With Fresh Footage to Disney+",
+    "dek": "The updated cut of the Infinity Saga finale introduces brand-new post-credits content and color grading enhancements to bridge the gap toward the upcoming theatrical release of Avengers: Doomsday.",
+    "entities": {
+      "people": [
+        "Shrishty Mishra",
+        "Ryan Gosling",
+        "Robert Downey Jr.",
+        "Anthony Russo",
+        "Joe Russo",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Elizabeth Olsen",
+        "Hayley Atwell",
+        "Owen Wilson",
+        "Ke Huy Quan"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "La La Land",
+        "Avengers Endgame: Encore",
+        "Fantastic Four: The First Steps",
+        "VisionQuest",
+        "Avengers: Endgame"
+      ]
+    },
+    "keywords": [
+      "Avengers Endgame Encore",
+      "Avengers Doomsday Disney Plus",
+      "Anthony and Joe Russo",
+      "Marvel Studios streaming update"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/disney-logo.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Studios Brings 'Avengers: Endgame: Encore' With Fresh Footage to Disney+",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 10:00:12 GMT"
+  },
+  "4u0op4": {
+    "id": "4u0op4",
+    "type": "news",
+    "headline": "Lily Collins Celebrates Father Phil Collins After His Rock and Roll Hall of Fame Solo Induction",
+    "dek": "Lily Collins shared heartfelt remarks after her father, legendary musician Phil Collins, was inducted into the Rock and Roll Hall of Fame as a solo artist.",
+    "entities": {
+      "people": [
+        "Lily Collins",
+        "Phil Collins",
+        "Cynthia Erivo",
+        "Genesis",
+        "Travis Barker",
+        "Tony Smith",
+        "Ahmet Ertegun",
+        "Nesuhi Ertegun",
+        "Richard Branson",
+        "Nic Collins"
+      ],
+      "titles": [
+        "Emily in Paris",
+        "In the Air Tonight",
+        "Against All Odds (Take a Look at Me Now)",
+        "Sussudio",
+        "One More Night",
+        "Another Day in Paradise",
+        "No Jacket Required",
+        "...But Seriously",
+        "Invisible Touch"
+      ]
+    },
+    "keywords": [
+      "Lily Collins Phil Collins",
+      "Phil Collins Rock Hall induction",
+      "Phil Collins Rock and Roll Hall of Fame",
+      "Lily Collins tribute Phil Collins"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/2305155602-e1794819651983.jpg?w=1024",
+        "caption": "Lily Collins Celebrates Father Phil Collins After His Rock and Roll Hall of Fame Solo Induction",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 08:55:38 +0000"
+  },
+  "1902ooo": {
+    "id": "1902ooo",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Eyes Early Netflix Premiere Amid Vigorous Theatrical Run",
+    "dek": "The impending digital debut of Suriya's box office hit Scene on Netflix after a four-week theatrical window has reignited debates surrounding release timelines in Tamil cinema.",
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Scene",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Scene OTT release date",
+      "Suriya Scene Netflix",
+      "Scene box office collection",
+      "Scene four week theatrical window"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028574.jpg",
+        "caption": "Suriya Starrer Scene Eyes Early Netflix Premiere Amid Vigorous Theatrical Run",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 08:42:11 +0000"
+  },
   "1fhyhgc": {
     "id": "1fhyhgc",
     "type": "news",
@@ -4462,142 +4623,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 15 Nov 2026 02:18:12 +0000"
   },
-  "dursz5": {
-    "id": "dursz5",
-    "type": "news",
-    "headline": "Parineeti Chopra Praises Ramayana: Rise of a Legend as the Film Crosses ₹1,200 Crore Worldwide",
-    "dek": "Bollywood actress Parineeti Chopra shares her admiration for Nitesh Tiwari's mythological epic, which continues its stellar box-office run during its second weekend.",
-    "entities": {
-      "people": [
-        "Parineeti Chopra",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Dangal"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend",
-      "Parineeti Chopra Ramayana",
-      "Ramayana box office collection",
-      "Ranbir Kapoor Yash Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135845616,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Parineeti Chopra Praises Ramayana: Rise of a Legend as the Film Crosses ₹1,200 Crore Worldwide",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T07:41:15+05:30"
-  },
-  "1qfzmed": {
-    "id": "1qfzmed",
-    "type": "news",
-    "headline": "Bigg Boss 20 Episode 70: Salman Khan Warns Kanika Mann As Qazi Exposes Her Double Standards",
-    "dek": "During the latest Weekend Ka Vaar episode of Bigg Boss 20, host Salman Khan reprimanded Kanika Mann for her tone while Qazi Touqeer called out her selective outrage regarding house comments.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Kanika Mann",
-        "Qazi Touqeer",
-        "Amrapali",
-        "Arishfa",
-        "Manish",
-        "ScoutOP",
-        "Love",
-        "Yung",
-        "Mahhi",
-        "Arpita Sarkar"
-      ],
-      "titles": [
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss 20 Episode 70",
-      "Salman Khan Kanika Mann",
-      "Qazi Touqeer double standards",
-      "Bigg Boss 20 Weekend Ka Vaar",
-      "ScoutOP and Love Bigg Boss"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156510337,thumbsize-236185,width-1280,height-720,resizemode-75/156510337.jpg",
-        "caption": "Bigg Boss 20 Episode 70: Salman Khan Warns Kanika Mann As Qazi Exposes Her Double Standards",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T02:04:44Z"
-  },
-  "v7gnvd": {
-    "id": "v7gnvd",
-    "type": "news",
-    "headline": "Salman Khan Bashes Scout OP in Bigg Boss 20 Over Physical Altercation With Young DSA",
-    "dek": "Scout OP faces Salman Khan's wrath in the upcoming Weekend Ka Vaar episode of Bigg Boss 20 after getting into a physical fight with Young DSA and experiencing a strained relationship with Love Gill.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Scout OP",
-        "Young DSA",
-        "Love Gill"
-      ],
-      "titles": [
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss 20",
-      "Scout OP",
-      "Salman Khan",
-      "Young DSA",
-      "Love Gill"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af87555f0c7f-salman-khan-bashes-scout-op-145100961-16x9.jpg",
-        "caption": "Salman Khan Bashes Scout OP in Bigg Boss 20 Over Physical Altercation With Young DSA",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T02:04:44Z"
-  },
-  "wfji8a": {
-    "id": "wfji8a",
-    "type": "news",
-    "headline": "Ramayana OTT Deal Update: Makers Have Not Sold Digital Rights Yet, Producer Dil Raju Claims",
-    "dek": "Producer Dil Raju has made a major claim about the lifetime box office collections of Ramayana while also revealing that the makers have not sold its digital and satellite rights yet.",
-    "entities": {
-      "people": [
-        "Dil Raju",
-        "Namit Malhotra",
-        "Nitesh Tiwari"
-      ],
-      "titles": [
-        "Ramayana",
-        "JioHotstar",
-        "Sri Venkateswara Creations"
-      ]
-    },
-    "keywords": [
-      "Ramayana OTT deal",
-      "Dil Raju Ramayana collection",
-      "Ramayana 2000 crore box office",
-      "Namit Malhotra Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af872d8cd678-dil-raju-on-ramayana-144023787-16x9.jpg",
-        "caption": "Ramayana OTT Deal Update: Makers Have Not Sold Digital Rights Yet, Producer Dil Raju Claims",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T02:04:44Z"
-  },
   "19d8ylq": {
     "id": "19d8ylq",
     "type": "news",
@@ -4667,6 +4692,122 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-14T21:40:19Z"
+  },
+  "1w8cy4y": {
+    "id": "1w8cy4y",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Soundtrack Unveiled With Star-Studded 34-Song Tracklist",
+    "dek": "Rockstar Games and Atlantic Records reveal the complete album details for the highly anticipated title, featuring major artists, physical vinyl variants, curated in-game radio stations, and a live music festival in Miami.",
+    "entities": {
+      "people": [
+        "Travis Scott",
+        "Cardi B",
+        "Dua Lipa",
+        "Don Toliver",
+        "Bad Bunny",
+        "Lana Del Rey",
+        "Morgan Wallen",
+        "Robyn",
+        "Burna Boy",
+        "Playboi Carti",
+        "Gunna",
+        "Yung Lean",
+        "Future",
+        "Metro Boomin",
+        "Fred again..",
+        "PinkPantheress",
+        "Tame Impala",
+        "Fuerza Regida",
+        "Rauw Alejandro",
+        "Trina",
+        "Trick Daddy",
+        "SoFaygo",
+        "Kodak Black",
+        "Justice",
+        "Michael McDonald",
+        "CA7RIEL",
+        "Paco Amoroso",
+        "Étienne de Crécy",
+        "SZA",
+        "King Gizzard the Lizard Wizard",
+        "Jhayco",
+        "A Boogie Wit Da Hoodie",
+        "Elkan",
+        "Young Thug",
+        "Tee Grizzley",
+        "JT",
+        "JENNIE",
+        "Tove Lo",
+        "Zara Larsson",
+        "Camila Cabello",
+        "Fcukers",
+        "Arca",
+        "Rina Sawayama",
+        "Rose Gray",
+        "Kali Uchis",
+        "Helado Negro",
+        "Omar Apollo",
+        "Keith Richards",
+        "Jesse Johnson",
+        "Dâm-Funk",
+        "Stanley Clarke",
+        "Yussef Dayes",
+        "Robert Glasper"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto VI: The Album",
+        "Grand Theft Auto VI: The Festival",
+        "Starting From Zero",
+        "That’s It",
+        "Ahh Yea",
+        "RHYNO",
+        "Sexy Magic",
+        "Flower in a Hurricane",
+        "Go Easy",
+        "Last Thing You Need",
+        "X",
+        "Suzuki",
+        "Macacoa 2000",
+        "Dance With Me",
+        "Bigger",
+        "Count Up",
+        "Let’s Rock",
+        "Wakin Up Flex",
+        "IKYFL",
+        "TF?",
+        "Don’t Chart",
+        "GMA",
+        "Power Trip",
+        "Blood in Your Eyes",
+        "Fast Emotion",
+        "Sweet Like Candy",
+        "Only One",
+        "Sandunguea",
+        "TRDWFE",
+        "All Again",
+        "Crazy for You",
+        "Largate",
+        "No Me Busques",
+        "Bright Lights, Big City",
+        "Stone Kold Krazy Luuv",
+        "Overtown Lights"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI Album",
+      "Grand Theft Auto VI soundtrack",
+      "Travis Scott Cardi B GTA 6",
+      "Grand Theft Auto VI The Festival"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/grand-theft-auto-6-banner-2026-billboard-1800.jpg?w=1024",
+        "caption": "Grand Theft Auto VI Soundtrack Unveiled With Star-Studded 34-Song Tracklist",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 20:45:56 +0000"
   },
   "3jqsav": {
     "id": "3jqsav",
@@ -5407,5 +5548,35 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-10T15:00:37Z"
+  },
+  "mup3lv": {
+    "id": "mup3lv",
+    "type": "news",
+    "headline": "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
+    "dek": "An impact report from the Justice and Equality Fund highlights how a USD 1 million contribution from actress Emma Watson helped tens of thousands of women and trained professionals across the UK.",
+    "entities": {
+      "people": [
+        "Emma Watson",
+        "Keira Knightley",
+        "Emma Thompson"
+      ],
+      "titles": [
+        "Harry Potter"
+      ]
+    },
+    "keywords": [
+      "Emma Watson USD 1 million donation",
+      "Justice and Equality Fund UK",
+      "Emma Watson anti harassment fund report",
+      "Emma Watson 2018 charity donation"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135678715,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T05:00:00+05:30"
   }
 };

@@ -162098,5 +162098,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 14:11:12 +0530"
+  },
+  "91bytz": {
+    "id": "91bytz",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Trailer Review: Dulquer Salmaan And Satvika Lead An Emotional Journey",
+    "dek": "The trailer for Aakasamlo Oka Tara highlights a touching tale of love, ambition, and space dreams, featuring Dulquer Salmaan as a supportive husband and Satvika in her debut role.",
+    "body": [
+      {
+        "h": "Introduction To Aakasamlo Oka Tara",
+        "p": [
+          "The newly released trailer for the upcoming film Aakasamlo Oka Tara has given audiences a vibrant glimpse into a deeply emotional narrative centered around personal ambition and unwavering marital support. Scheduled to hit the big screen on November 20, the project represents actor Dulquer Salmaan's fourth venture in the Telugu language industry.",
+          "Directed by Pavan Sadineni, the feature film introduces newcomer Satvika alongside an ensemble cast that includes prominent names like Shruti Haasan, Murli Sharma, and Gautham Vasudev Menon. The promotional clip has quickly generated considerable buzz for its inspiring premise."
+        ]
+      },
+      {
+        "h": "Plot And Character Dynamics",
+        "p": [
+          "The story revolves around a happily married couple residing in a small village within a Telugu-speaking state. Kalpana, portrayed by debutante Satvika, is an academically gifted young woman who harbors the monumental aspiration of traveling to space as an astronaut, despite facing local mockery and widespread ignorance regarding her lofty goal.",
+          "Standing firmly behind her is her husband Krishna, played by Dulquer Salmaan. Krishna acts as her primary pillar of strength, dedicating himself completely to helping her overcome societal hurdles and bridge the gap toward her ultimate ambition."
+        ]
+      },
+      {
+        "h": "The Entrance Of NASA And Shruti Haasan",
+        "p": [
+          "As the narrative unfolds, the trailer introduces Shruti Haasan in the role of Rohini, an employee working with NASA. Tasked with assembling a team for an upcoming mission, Rohini's path crosses with that of Krishna and Kalpana.",
+          "This pivotal meeting sets the stage for the trials and tribulations the couple must endure together. The footage showcases their shared struggles, painting a compelling picture of perseverance against the odds."
+        ]
+      },
+      {
+        "h": "Performances And Character Shifts",
+        "p": [
+          "Dulquer Salmaan adopts a notably different persona compared to his previous project, I'm Game. In Aakasamlo Oka Tara, he takes a secondary storytelling position behind the female lead, channeling a vulnerable and deeply affectionate husband reminiscent of his beloved romantic roles in films like Sita Ramam.",
+          "Meanwhile, newcomer Satvika brings a natural innocence and charming screen presence to her character Kalpana. Shruti Haasan complements them effectively, projecting the poise and confidence expected of a NASA representative."
+        ]
+      },
+      {
+        "h": "Music And Emotional Resonance",
+        "p": [
+          "A standout element highlighted in the trailer is the musical score composed by GV Prakash Kumar. The audio arrangement plays a critical role in amplifying the emotional weight carried by the main characters throughout their journey.",
+          "While modern cinema often relies on heavy beats for action-packed sequences, this production utilizes its soundtrack to accentuate quiet dramatic beats and passionate aspirations, proving music's capacity to elevate storytelling."
+        ]
+      },
+      {
+        "h": "Box Office Clash And Context",
+        "p": [
+          "The theatrical rollout on November 20 places the movie in direct competition with the Tamil film OM. That competing project features a star-studded cast including Mammootty as the antagonist, alongside Dhanush and Sai Pallavi.",
+          "This theatrical date marks a unique scheduling milestone as it is the first time that veteran actor Mammootty and Dhanush will see their respective feature films premiere on the exact same calendar day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Aakasamlo Oka Tara showcases an emotional drama about a village woman's dream of becoming an astronaut with the help of her devoted husband. Directed by Pavan Sadineni and starring Dulquer Salmaan, debutante Satvika, and Shruti Haasan, the movie releases on November 20 alongside the Tamil film OM."
+        ]
+      }
+    ],
+    "facts": [
+      "Aakasamlo Oka Tara releases in theaters on November 20.",
+      "The film is Dulquer Salmaan's fourth Telugu release.",
+      "Pavan Sadineni is the director of the film.",
+      "Satvika makes her acting debut in the film playing Kalpana.",
+      "Shruti Haasan plays a NASA employee named Rohini.",
+      "GV Prakash Kumar composed the music for the film.",
+      "The film clashes at the box office with the Tamil film OM."
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Pavan Sadineni",
+        "Satvika",
+        "Shruti Haasan",
+        "Murli Sharma",
+        "Gautham Vasudev Menon",
+        "Dr. A.P.J. Abdul Kalam",
+        "GV Prakash Kumar",
+        "Mammootty",
+        "Dhanush",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "I'm Game",
+        "Sita Ramam",
+        "OM"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara trailer",
+      "Dulquer Salmaan Telugu film",
+      "Satvika debut film",
+      "Shruti Haasan NASA employee"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/aakasamlo-oka-tara-trailer-review-dulquer-salmaan-shines-as-the-green-forest-husband-in-this-inspiring-tale-of-dreams.jpg",
+        "caption": "Aakasamlo Oka Tara Trailer Review: Dulquer Salmaan And Satvika Lead An Emotional Journey",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 10:00:25 +0000"
+  },
+  "1xb42cf": {
+    "id": "1xb42cf",
+    "type": "news",
+    "headline": "Marvel Studios Brings 'Avengers: Endgame: Encore' With Fresh Footage to Disney+",
+    "dek": "The updated cut of the Infinity Saga finale introduces brand-new post-credits content and color grading enhancements to bridge the gap toward the upcoming theatrical release of Avengers: Doomsday.",
+    "body": [
+      {
+        "h": "Introduction to the Encore Release",
+        "p": [
+          "Marvel Studios has officially expanded its streaming library by introducing an updated version of its monumental Infinity Saga conclusion to Disney+. Titled Avengers: Endgame: Encore, this special rerelease serves as a narrative bridge designed to guide audiences directly into the upcoming cinematic event, Avengers: Doomsday.",
+          "As anticipation builds for the next massive chapter in the overarching superhero franchise, this updated edition gives dedicated followers fresh narrative breadcrumbs to analyze. By revisiting the past conclusion with newly integrated material, the studio aims to refresh viewer familiarity with the expansive universe."
+        ]
+      },
+      {
+        "h": "Fresh Post-Credits Additions and Expanded Footage",
+        "p": [
+          "The newly debuted cut incorporates roughly four minutes of extra material distributed through the conclusion and throughout the credits sequence. These additions include four brand-new scenes shot by directors Anthony and Joe Russo while they were simultaneously working on their upcoming crossover project.",
+          "Beyond the structural adjustments, the studio also implemented an updated color grading pass across the entire runtime. This technical refinement aims to offer a polished viewing experience for audiences streaming the feature at home on supported devices."
+        ]
+      },
+      {
+        "h": "Returning Fan-Favorite Characters and Cameos",
+        "p": [
+          "The newly filmed sequences weave in several familiar faces from across the broader franchise ecosystem. Viewers can spot returning performers such as Tom Hiddleston, Hayley Atwell, Owen Wilson, and Ke Huy Quan appearing within these supplemental segments.",
+          "These appearances hint at greater narrative convergence across various streaming series and theatrical branches. The inclusion of these specific figures opens up exciting possibilities for how different timelines and storytelling threads might intersect in the future."
+        ]
+      },
+      {
+        "h": "Directing Team and Interconnected Storytelling",
+        "p": [
+          "Trusted filmmakers Anthony and Joe Russo return to helm the overarching narrative path leading toward the next big team-up event. Having previously concluded the journeys of several iconic figures, the directorial duo is once again coordinating the massive multi-character saga.",
+          "Maintaining tight narrative connectivity has always been a cornerstone strategy for the cinematic universe. This updated streaming version continues that tradition by strategically placing foundational clues and hints for the audience to discover before the next major film hits cinemas."
+        ]
+      },
+      {
+        "h": "Fandom Theories and Speculation",
+        "p": [
+          "Ever since early reports of these updated scenes began circulating, members of the online community have engaged in intense speculation. Theories regarding characters like Captain America and Loki have flooded discussion boards, with fans dissecting every frame for clues.",
+          "Additional buzz has been fueled by other television tie-ins, such as a recent post-credits sequence from the VisionQuest series featuring a cameo by Doctor Doom waking up Wanda. These interconnected teases have successfully amplified excitement levels across the board."
+        ]
+      },
+      {
+        "h": "Road to Avengers: Doomsday",
+        "p": [
+          "The countdown to the next massive theatrical milestone is well underway, with an ensemble cast preparing to confront the formidable Doctor Doom, played by Robert Downey Jr. Heroes from all corners of the connected universe are set to converge in the upcoming blockbuster.",
+          "With newer rosters like the Fantastic Four, the X-Men, and various emerging teams positioned on the horizon, all narrative roads are converging toward a singular conflict. The streaming release acts as the ultimate preparatory viewing for those wanting every detail fresh in their minds."
+        ]
+      },
+      {
+        "h": "Release Timelines and Schedule",
+        "p": [
+          "Avengers: Endgame: Encore made its official streaming debut exclusively on Disney+ on Friday, November 13. The release gives enthusiastic supporters ample time to examine every added detail at their leisure.",
+          "Following this streaming rollout, the grand culmination of these intertwined storylines, Avengers: Doomsday, is scheduled to open in theaters on December 18, bringing the sprawling heroic roster back to the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios has launched Avengers: Endgame: Encore on Disney+, featuring four minutes of newly shot footage and updated color grading to bridge the gap into Avengers: Doomsday. The special cut includes cameos from returning actors and arrives ahead of the theatrical film's December release date."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Endgame: Encore debuted on Disney+ on Friday, November 13.",
+      "Avengers: Doomsday opens in theaters on December 18.",
+      "The updated film features up to four minutes of extra footage and four new scenes.",
+      "Anthony and Joe Russo directed the new footage.",
+      "Returning actors include Tom Hiddleston, Hayley Atwell, Owen Wilson, and Ke Huy Quan.",
+      "Robert Downey Jr. plays Doctor Doom in Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Shrishty Mishra",
+        "Ryan Gosling",
+        "Robert Downey Jr.",
+        "Anthony Russo",
+        "Joe Russo",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Elizabeth Olsen",
+        "Hayley Atwell",
+        "Owen Wilson",
+        "Ke Huy Quan"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "La La Land",
+        "Avengers Endgame: Encore",
+        "Fantastic Four: The First Steps",
+        "VisionQuest",
+        "Avengers: Endgame"
+      ]
+    },
+    "keywords": [
+      "Avengers Endgame Encore",
+      "Avengers Doomsday Disney Plus",
+      "Anthony and Joe Russo",
+      "Marvel Studios streaming update"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/disney-logo.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Studios Brings 'Avengers: Endgame: Encore' With Fresh Footage to Disney+",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 10:00:12 GMT"
+  },
+  "1902ooo": {
+    "id": "1902ooo",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Eyes Early Netflix Premiere Amid Vigorous Theatrical Run",
+    "dek": "The impending digital debut of Suriya's box office hit Scene on Netflix after a four-week theatrical window has reignited debates surrounding release timelines in Tamil cinema.",
+    "body": [
+      {
+        "h": "The Theatrical Window Debate in Kollywood",
+        "p": [
+          "The duration between a film's theatrical debut and its digital streaming premiere has consistently remained a contentious issue within the Tamil film industry. Producers and theater owners frequently find themselves at odds regarding the ideal exclusivity period that cinemas should maintain before a movie becomes available for home viewing.",
+          "This ongoing industry discussion has resurfaced with renewed intensity following reports regarding the release strategy for Suriya's latest feature. As digital platforms continue to secure early premiere rights, the balance between theatrical exhibition and home entertainment is once again under intense scrutiny."
+        ]
+      },
+      {
+        "h": "Netflix Secures Digital Rights",
+        "p": [
+          "Reports indicate that Netflix has acquired the digital streaming rights for the Jithu Madhavan directorial for an amount exceeding ₹85 crore. A central component of this reported agreement is a four-week theatrical window, allowing the platform to premiere the movie shortly after its initial theatrical run.",
+          "Having initially opened in cinemas on November 6, 2026, the feature is reportedly slated for a digital release as early as December 4, 2026. Despite these widespread reports regarding the streaming schedule, an official announcement from the production or distribution teams is still awaited."
+        ]
+      },
+      {
+        "h": "Parallel to Jailer 2 Release Strategy",
+        "p": [
+          "Adopting a four-week window for digital premieres is not an unprecedented practice within contemporary Tamil cinema. Major blockbusters have frequently adhered to similar timelines, demonstrating that shortened theatrical exclusives are becoming an established norm rather than an exception.",
+          "A notable precedent involves Rajinikanth's Jailer 2, which emerged as the highest-grossing Tamil film in history and arrived on Amazon Prime Video exactly four weeks after its big-screen debut. The arrangement planned for the Suriya starrer closely mirrors this precedent, setting up an early December digital rollout."
+        ]
+      },
+      {
+        "h": "A Robust Box Office Trajectory",
+        "p": [
+          "The decision to transition the feature to streaming platforms within a month arrives while the film is experiencing a remarkably strong commercial run in theaters. The project has accumulated a worldwide gross of ₹242.05 crore over its first ten days in cinemas, driven by ₹158.55 crore from domestic audiences and approximately ₹83.50 crore from overseas markets.",
+          "Box office tracking indicates that the feature maintained considerable momentum into its second weekend, adding ₹24.80 crore in India net. Saturday saw a notable surge in ticket sales, while Sunday retained nearly identical earnings, highlighting sustained audience enthusiasm."
+        ]
+      },
+      {
+        "h": "Timing and Theatrical Sustainability",
+        "p": [
+          "The anticipated December 4 streaming premiere would occur merely nineteen days after the conclusion of the film's second weekend. This leaves a relatively narrow window for traditional theatrical revenues to accumulate before home viewing becomes an alternative option for consumers.",
+          "Although films frequently continue to screen in theaters even after arriving on digital platforms, the long-term impact of simultaneous availability largely hinges on consumer demand and theater retention rates. Exhibitors continue to monitor how these compressed schedules affect overall box office legs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's film Scene is reportedly set for a Netflix premiere on December 4, 2026, following a four-week theatrical window after its November 6 release. This reported streaming plan has reignited industry discussions about theatrical windows while the film continues a strong box office run that has surpassed ₹242.05 crore globally."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released in cinemas on November 6, 2026.",
+      "Netflix reportedly acquired digital rights for over ₹85 crore.",
+      "The film's reported OTT premiere date is December 4, 2026.",
+      "Worldwide gross reached ₹242.05 crore in ten days.",
+      "India gross reached ₹158.55 crore.",
+      "Overseas gross reached ₹83.50 crore.",
+      "Second weekend India net collection was ₹24.80 crore.",
+      "Jailer 2 premiered on Amazon Prime Video four weeks after its theatrical debut on November 12."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Scene",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Scene OTT release date",
+      "Suriya Scene Netflix",
+      "Scene box office collection",
+      "Scene four week theatrical window"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028574.jpg",
+        "caption": "Suriya Starrer Scene Eyes Early Netflix Premiere Amid Vigorous Theatrical Run",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 08:42:11 +0000"
+  },
+  "4u0op4": {
+    "id": "4u0op4",
+    "type": "news",
+    "headline": "Lily Collins Celebrates Father Phil Collins After His Rock and Roll Hall of Fame Solo Induction",
+    "dek": "Lily Collins shared heartfelt remarks after her father, legendary musician Phil Collins, was inducted into the Rock and Roll Hall of Fame as a solo artist.",
+    "body": [
+      {
+        "h": "A Monumental Family Moment",
+        "p": [
+          "Lily Collins recently shared her deep pride following her father Phil Collins's solo induction into the Rock and Roll Hall of Fame. The Emily in Paris actress expressed that watching her family stand together to witness this significant career milestone felt extraordinarily special.",
+          "Through social media, she posted multiple images capturing the event at the Peacock Theater in Los Angeles, highlighting the emotional weight of seeing her father honored."
+        ]
+      },
+      {
+        "h": "A Rare and Celebrated Appearance",
+        "p": [
+          "Phil Collins made a rare public appearance at the ceremony to accept the prestigious honor. While he did not perform himself, Travis Barker inducted the iconic singer and drummer into the Hall.",
+          "To honor his musical contributions, Cynthia Erivo took the stage to perform 'In the Air Tonight' alongside Travis Barker on drums, paying tribute to the legendary artist's catalog."
+        ]
+      },
+      {
+        "h": "Overcoming Health Challenges",
+        "p": [
+          "The induction marked a triumphant return for the musician after battling severe health issues over recent years. A spinal injury sustained in 2007 led to nerve damage that prevented him from gripping a drumstick, alongside subsequent knee surgeries and mobility struggles.",
+          "During his acceptance speech, Phil Collins assured the audience that he is feeling well now, mentioning that his assistant played a crucial role in saving his life and reassuring fans with the promise that they have not heard the last of him."
+        ]
+      },
+      {
+        "h": "Gratitude to Colleagues and Family",
+        "p": [
+          "Stepping up to the microphone, the celebrated performer took time to thank key figures from his illustrious career, including longtime manager Tony Smith, Ahmet and Nesuhi Ertegun of Atlantic Records, and Virgin Records founder Richard Branson.",
+          "He also expressed appreciation for his three ex-wives, thanking them for loving him through the years and blessing him with five wonderful children."
+        ]
+      },
+      {
+        "h": "A Storied Legacy in Music",
+        "p": [
+          "This solo induction comes sixteen years after Phil Collins first entered the Rock and Roll Hall of Fame as a member of Genesis in 2010. His legacy spans decades of chart-topping success both as a band member and a solo powerhouse.",
+          "His iconic solo career includes seven No. 1 hits on the Billboard Hot 100 such as 'Against All Odds (Take a Look at Me Now)', 'Sussudio', 'One More Night', and 'Another Day in Paradise', alongside massive albums like 'No Jacket Required' and '...But Seriously'."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Details",
+        "p": [
+          "Fans eager to watch the star-studded event will be able to catch the broadcast of the 2026 Rock and Roll Hall of Fame induction ceremony on ABC. The special is scheduled to air from 8 to 11 p.m. ET.",
+          "For those preferring to stream the ceremony online, it will become available on Disney+ starting the very next day following its initial television broadcast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lily Collins honored her father Phil Collins after his solo induction into the Rock and Roll Hall of Fame at the Peacock Theater in Los Angeles. The legendary artist made a rare public appearance at the ceremony, where artists like Cynthia Erivo and Travis Barker paid tribute to his incredible musical legacy."
+        ]
+      }
+    ],
+    "facts": [
+      "Lily Collins paid tribute to her father Phil Collins after his solo induction into the Rock and Roll Hall of Fame.",
+      "The ceremony took place on November 14, 2026, at the Peacock Theater in Los Angeles.",
+      "Phil Collins was previously inducted into the Hall as a member of Genesis in 2010.",
+      "Travis Barker inducted Phil Collins, and Cynthia Erivo performed 'In the Air Tonight' with Barker on drums.",
+      "The ceremony airs on December 8, 2026, from 8-11 p.m. ET on ABC and streams on Disney+ the following day."
+    ],
+    "entities": {
+      "people": [
+        "Lily Collins",
+        "Phil Collins",
+        "Cynthia Erivo",
+        "Genesis",
+        "Travis Barker",
+        "Tony Smith",
+        "Ahmet Ertegun",
+        "Nesuhi Ertegun",
+        "Richard Branson",
+        "Nic Collins"
+      ],
+      "titles": [
+        "Emily in Paris",
+        "In the Air Tonight",
+        "Against All Odds (Take a Look at Me Now)",
+        "Sussudio",
+        "One More Night",
+        "Another Day in Paradise",
+        "No Jacket Required",
+        "...But Seriously",
+        "Invisible Touch"
+      ]
+    },
+    "keywords": [
+      "Lily Collins Phil Collins",
+      "Phil Collins Rock Hall induction",
+      "Phil Collins Rock and Roll Hall of Fame",
+      "Lily Collins tribute Phil Collins"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/2305155602-e1794819651983.jpg?w=1024",
+        "caption": "Lily Collins Celebrates Father Phil Collins After His Rock and Roll Hall of Fame Solo Induction",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 08:55:38 +0000"
   }
 };
