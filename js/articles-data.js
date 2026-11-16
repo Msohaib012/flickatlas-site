@@ -162876,5 +162876,488 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 17:33:23 +0530"
+  },
+  "3ntzqs": {
+    "id": "3ntzqs",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 12 Advance Booking Sees Cooldown",
+    "dek": "Ranbir Kapoor and Yash's mythological epic experiences a slower pre-sales pace on its second Monday, projecting a steady collection for Day 12.",
+    "body": [
+      {
+        "h": "Initial Box Office Slowdown",
+        "p": [
+          "Following an extended and remarkably lucrative eleven-day theatrical run that capitalized on a post-Diwali holiday wave, the mythological biggie Ramayana has encountered its first noticeable deceleration.",
+          "The advance booking data for the twelfth day of release indicates a steadier, yet considerably more modest, pace compared to the explosive numbers recorded during its opening weekend and subsequent weekdays."
+        ]
+      },
+      {
+        "h": "Pre-Sales and Advance Collections",
+        "p": [
+          "For the second Monday falling on November 16, the final advance booking figures accumulated approximately 10.60 crore in net collections alongside 12.70 crore in gross collections, which excludes any blocked seats.",
+          "These pre-sales figures were derived from a total of 5.01 lakh tickets sold across 23,450 shows spanning various language markets throughout the nation."
+        ]
+      },
+      {
+        "h": "Houseful Shows and Venue Statistics",
+        "p": [
+          "Ahead of the morning screenings on its twelfth theatrical day, the film managed to secure 31 houseful shows and 16 completely sold-out venues nationwide.",
+          "While such metrics remain remarkably solid for any cinematic release entering its second week, the data signals a shift in momentum away from record-breaking territory."
+        ]
+      },
+      {
+        "h": "Second Monday Standings and Projections",
+        "p": [
+          "Analysts project that the feature will conclude its twelfth day with total net collections landing somewhere in the range of 18 to 21 crore across all Indian languages, supported by moderate afternoon and evening walk-in audiences.",
+          "This trajectory places the film in contention for the top tier of second Monday performers, though it is widely anticipated to miss the absolute highest podium spots."
+        ]
+      },
+      {
+        "h": "Comparison with Historical Second Mondays",
+        "p": [
+          "In the broader historical context of Hindi cinema, the film's projected earnings are expected to surpass several notable past releases, including Dangal, Gadar 2, Animal, and Jawan.",
+          "However, industry trackers note that it will likely fall short of the figures established by top-ranking second Monday earners such as Dhurandhar and Dhurandhar 2, while remaining neck-and-neck with titles like Chhaava and Stree 2."
+        ]
+      },
+      {
+        "h": "Milestones and Previous Records",
+        "p": [
+          "Prior to the onset of its second Monday pre-sales, the epic had already crossed a massive milestone by eclipsing the 780 crore mark in total India net collections, fueled by a colossal 78 crore net haul on its second Sunday.",
+          "Additionally, its performance in overseas markets such as North America previously allowed it to surpass Kalki 2898 AD within its first nine days to become a leading grossing Indian feature."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana recorded an advance booking collection of 10.60 crore net for its twelfth day, November 16, following an 11-day total exceeding 780 crore net.",
+          "Although featuring 31 houseful shows from over 5 lakh pre-sold tickets, the film is projected to reach an 18 to 21 crore net range, keeping it outside the top three second Monday spots in Hindi cinema history."
+        ]
+      }
+    ],
+    "facts": [
+      "Day 12 date is November 16",
+      "Advance booking net collection is 10.60 crore",
+      "Advance booking gross collection is 12.70 crore",
+      "Total tickets sold in advance is 5.01 lakh",
+      "Total shows for advance booking is 23450",
+      "Houseful shows count is 31",
+      "Completely sold-out venues count is 16",
+      "Projected Day 12 net collection range is 18 to 21 crore",
+      "Second Sunday net collection was 78 crore",
+      "11-day India net collection crossed 780 crore",
+      "Dhurandhar second Monday collection was 32.1 crore",
+      "Dhurandhar 2 second Monday collection was 26 crore",
+      "Chhaava second Monday collection was 19.1 crore",
+      "Stree 2 second Monday collection was 18.5 crore",
+      "Tiger Zinda Hai second Monday collection was 18.04 crore",
+      "Jawan second Monday collection was 16.25 crore",
+      "Gadar 2 second Monday collection was 13.5 crore",
+      "Animal second Monday collection was 14.32 crore",
+      "Dangal second Monday collection was 12.75 crore",
+      "The Kashmir Files second Monday collection was 12.4 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Chhaava",
+        "Stree 2",
+        "Tiger Zinda Hai",
+        "Jawan",
+        "Gadar 2",
+        "Animal",
+        "Dangal",
+        "The Kashmir Files",
+        "Adipurush",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana second Monday",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-advance-booking-02.jpg",
+        "caption": "Ramayana Box Office Day 12 Advance Booking Sees Cooldown",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 11:20:42 +0000"
+  },
+  "11szijz": {
+    "id": "11szijz",
+    "type": "news",
+    "headline": "Song Hye-kyo and Gong Yoo Lead Netflix Period Drama Tantara",
+    "dek": "Netflix has revealed the teaser and release schedule for Tantara, a 1960s-80s Korean showbiz drama starring Song Hye-kyo and Gong Yoo.",
+    "body": [
+      {
+        "h": "First Look at Tantara",
+        "p": [
+          "Netflix has provided the initial look at Tantara, a historical Korean entertainment industry drama that brings Song Hye-kyo and Gong Yoo together on screen for the first time. The teaser trailer and four main character posters were released, establishing the themes of ambition, tension, and difficult beginnings.",
+          "The narrative centers on individuals who start with almost nothing and immerse themselves in Korea's fast-growing entertainment business during an era when the industry lacked standard protections and operated with high stakes."
+        ]
+      },
+      {
+        "h": "Characters and Cast Dynamics",
+        "p": [
+          "Song Hye-kyo portrays Min-ja, a character who escaped a impoverished childhood through various odd jobs and entered the music industry guided by strong survival instincts. Gong Yoo stars as Dong-gu, her childhood friend who remains by her side to support her ambitions.",
+          "Seolhyun joins the cast as Min-hui, a raw vocal talent who becomes the first artist managed by Min-ja and Dong-gu. Cha Seung-won rounds out the primary leads as Seok Gil-yeo, an influential hitmaker of the era known for transforming unknown rookies into prominent stars."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Talent",
+        "p": [
+          "The series pairs acclaimed writer Noh Hee-kyung with director Lee Yoon-jung. Noh's previous writing credits include Our Blues, Dear My Friends, It's Okay, That's Love, and That Winter, The Wind Blows, which starred Song Hye-kyo.",
+          "Lee previously directed Coffee Prince and Cheese in the Trap, with Coffee Prince featuring Gong Yoo. This collaboration combines character-driven storytelling with a director experienced in romance and ensemble projects."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Details",
+        "p": [
+          "Tantara consists of 22 episodes that will be distributed worldwide on Netflix across three separate weekly drops in December. Part 1 containing episodes 1 through 8 arrives on December 11, followed by Part 2 with episodes 9 through 15 on December 18.",
+          "The final batch consisting of episodes 16 through 22 releases on December 25, completing the rollout globally across the United States, United Kingdom, Canada, Australia, India, and other Netflix markets."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Historical Setting",
+        "p": [
+          "The expanded cast features Lee Ha-nee as Yang-ja, Min-hui's mother who continues pursuing her singing aspirations despite personal hardships, and Na Moon-hee as Mal-soon, whose multi-decadal life reflects broader societal changes.",
+          "Set between the 1960s and 1980s, the series utilizes a music-industry backdrop featuring a turntable at the center of its promotional artwork to explore a turbulent period of Korean history defined by informal power structures and risky pursuits of success."
+        ]
+      },
+      {
+        "h": "Audience Reception and Cast Interactions",
+        "p": [
+          "The pairing of Song Hye-kyo and Gong Yoo generated immediate attention across social media platforms and online forums following the release of promotional materials and an appearance on the YouTube talk show Pinggyego.",
+          "At a festival event, the cast noted that the characters' determination and mutual support make the gritty storyline compelling, highlighting the fierce drive of individuals pursuing their dreams in a demanding environment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the teaser trailer and character posters for the upcoming period drama Tantara, starring Song Hye-kyo and Gong Yoo. The 22-episode series will stream globally in a three-part release schedule throughout December, starting on December 11."
+        ]
+      }
+    ],
+    "facts": [
+      "Song Hye-kyo and Gong Yoo star in Tantara.",
+      "The teaser and four character posters were released on November 12, 2026.",
+      "The series features a 22-episode run split across three Fridays in December.",
+      "Part 1 releases on December 11, 2026, for episodes 1 to 8.",
+      "Part 2 releases on December 18, 2026, for episodes 9 to 15.",
+      "Part 3 releases on December 25, 2026, for episodes 16 to 22.",
+      "Song Hye-kyo plays Min-ja.",
+      "Gong Yoo plays Dong-gu.",
+      "Seolhyun plays Min-hui.",
+      "Cha Seung-won plays Seok Gil-yeo.",
+      "Lee Ha-nee plays Yang-ja.",
+      "Na Moon-hee plays Mal-soon."
+    ],
+    "entities": {
+      "people": [
+        "Song Hye-kyo",
+        "Gong Yoo",
+        "Seolhyun",
+        "Cha Seung-won",
+        "Noh Hee-kyung",
+        "Lee Yoon-jung",
+        "Lee Ha-nee",
+        "Na Moon-hee"
+      ],
+      "titles": [
+        "Tantara",
+        "Our Blues",
+        "Dear My Friends",
+        "It's Okay, That's Love",
+        "That Winter, The Wind Blows",
+        "Coffee Prince",
+        "Cheese in the Trap",
+        "The Glory",
+        "Squid Game"
+      ]
+    },
+    "keywords": [
+      "Song Hye-kyo Tantara",
+      "Gong Yoo Tantara",
+      "Netflix Tantara release date",
+      "Tantara K-drama cast"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T223843.285.webp",
+        "caption": "Song Hye-kyo and Gong Yoo Lead Netflix Period Drama Tantara",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 12:09:16 +0000"
+  },
+  "1ywu9zf": {
+    "id": "1ywu9zf",
+    "type": "news",
+    "headline": "Farah Khan Tours Ananya Birla's Mumbai Mansion",
+    "dek": "Filmmaker Farah Khan recently explored the palatial Mumbai residence of singer-songwriter and entrepreneur Ananya Birla, comparing its lavish design to a cinematic spy film set.",
+    "body": [
+      {
+        "h": "An Exclusive Look Inside the Mumbai Estate",
+        "p": [
+          "Filmmaker Farah Khan recently offered audiences a glimpse into the lavish lifestyle of singer and entrepreneur Ananya Birla. Accompanied by her cook Dilip, Farah paid a visit to the sprawling Mumbai property, which she documented on her YouTube vlog. Having known Ananya for a while, the filmmaker noted that this marked her maiden visit to the grand estate.",
+          "The residence instantly evokes a palatial atmosphere, blending old-world charm with grand architectural elements. Farah expressed immense awe at the scale and decoration of the property, noting that every corner reflected a high degree of elegance and luxury."
+        ]
+      },
+      {
+        "h": "Grand Entrance and Artistic Accents",
+        "p": [
+          "Visitors stepping into the property are greeted by a prominent idol of Lord Ganesha positioned right at the entrance. This leads smoothly into a sophisticated reception area furnished with couches meant for formal meetings and professional gatherings.",
+          "The interior spaces are heavily adorned with high-value artistic pieces. A massive painting by renowned artist MF Husain commands attention, complemented by rare antique artefacts and an elaborate, glowing chandelier that elevates the overall grandeur of the foyer."
+        ]
+      },
+      {
+        "h": "Cinematic Aesthetics and European Styling",
+        "p": [
+          "The ground floor features a formal living room designed with a rich brown colour palette and flooring that combines both wood and marble elements. Brown sofas, dramatic chandeliers, and carefully chosen antiques give the space a distinctly European aesthetic.",
+          "The entire layout relies on warm white lighting to maintain an inviting yet opulent mood. Several life-size sculptures serve as statement decor items throughout the rooms, reinforcing the home's refined and artistic atmosphere."
+        ]
+      },
+      {
+        "h": "Contrasting Perspectives on the Formal Living Room",
+        "p": [
+          "While touring the formal living room, Farah Khan was so captivated by its dramatic presentation that she exclaimed the house looked straight out of a James Bond movie, adding that she would never want to leave.",
+          "Despite the high praise from her guest, the homeowner offered a slightly different perspective on the space. Ananya admitted that she personally finds the formal living room to be a bit stiff compared to other areas of the residence."
+        ]
+      },
+      {
+        "h": "Family Heritage and Breaking Tradition",
+        "p": [
+          "Ananya Birla comes from an exceptionally prominent background as the daughter of industrialist Kumar Mangalam Birla. According to Bloomberg data, her father holds the 115th rank among the world's richest individuals, backed by an estimated net worth of 22 billion dollars.",
+          "During her conversation with Farah, Ananya shared a notable personal milestone regarding her lineage. She revealed that she proudly stands as the first woman in her family across seven generations to actively pursue a career."
+        ]
+      },
+      {
+        "h": "Kitchen Tour and Massive Outdoor Grounds",
+        "p": [
+          "The home tour wrapped up in a massive modular kitchen space. Here, Ananya showcased her culinary side by preparing one of her favorite comfort meals consisting of aloo bhindi bhaji served alongside freshly made parathas.",
+          "Beyond the indoor quarters, the property features a vast garden area that surrounds the residence. Farah remarked that this expansive green space was remarkably larger than a standard public park."
+        ]
+      },
+      {
+        "h": "Upcoming Screen Appearances",
+        "p": [
+          "In addition to giving fans a virtual tour of her residence, Ananya Birla is set to make another notable media appearance soon. She will feature in an upcoming episode of Koffee With Karan alongside actor Ananya Panday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Farah Khan recently visited the sprawling Mumbai home of entrepreneur and singer Ananya Birla, daughter of billionaire industrialist Kumar Mangalam Birla. During the guided tour featured on her YouTube vlog, Farah compared the grand, antique-filled mansion to a James Bond film set while exploring its vast rooms and enormous outdoor gardens."
+        ]
+      }
+    ],
+    "facts": [
+      "Ananya Birla is a singer-songwriter and businesswoman.",
+      "Farah Khan visited Ananya Birla's Mumbai home with her cook Dilip.",
+      "Kumar Mangalam Birla has an estimated net worth of 22 billion dollars and is ranked the 115th richest man in the world according to Bloomberg.",
+      "Ananya Birla is the first woman in her family in seven generations to work.",
+      "Ananya Birla will appear in an episode of Koffee With Karan alongside Ananya Panday."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Birla",
+        "Farah Khan",
+        "Dilip",
+        "Kumar Mangalam Birla",
+        "MF Husain",
+        "Ananya Panday"
+      ],
+      "titles": [
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Ananya Birla house",
+      "Farah Khan YouTube vlog",
+      "Kumar Mangalam Birla net worth",
+      "Ananya Birla Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Ananya-Birla.jpg",
+        "caption": "Farah Khan Tours Ananya Birla's Mumbai Mansion",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 11:19:21 +0000"
+  },
+  "1ndp26q": {
+    "id": "1ndp26q",
+    "type": "news",
+    "headline": "2027 Oscar Predictions Point to Historic Contenders Led by Christopher Nolan and The Odyssey",
+    "dek": "An early look at the 2027 Academy Award contenders highlights major frontrunners, potential documentary history makers, and breakout horror hits shaping the awards season race.",
+    "body": [
+      {
+        "h": "The 2027 Oscar Race Takes Shape",
+        "p": [
+          "As the awards season moves past the Governors Awards, industry watchers and film critics are beginning to map out the contenders for the upcoming Academy Awards. Early forecasts indicate a fiercely competitive race across multiple categories, highlighting major studio projects as well as breakthrough independent films.",
+          "With key voting bodies and precursors starting to weigh in, experts have compiled predictions covering major categories including Best Picture, Best Director, and the primary acting races. Industry trends suggest that several high-profile releases are positioning themselves to dominate nominations come January."
+        ]
+      },
+      {
+        "h": "Christopher Nolan and The Odyssey Lead Early Contenders",
+        "p": [
+          "Director Christopher Nolan finds himself at the front of the pack once again following the massive box office success of his summer release, The Odyssey. Much like his previous awards darling Oppenheimer, the film is projected to secure a substantial tally of nominations.",
+          "In addition to holding the top spot for Best Picture and Best Director, the epic is drawing heavy buzz for its adapted screenplay, casting work, and several supporting performances from its ensemble cast."
+        ]
+      },
+      {
+        "h": "Potential History in the Making for Documentaries",
+        "p": [
+          "Among the most talked-about contenders in the current race is the feature You Can See Everything. After beginning its journey with a strong debut screening at the Telluride Film Festival, the project evolved into a significant box office phenomenon.",
+          "Should the film manage to secure a Best Picture nomination from the Academy, it would mark a historic milestone as the first documentary ever to achieve the nomination in that premier category."
+        ]
+      },
+      {
+        "h": "Breakout Successes and Returning Auteurs",
+        "p": [
+          "The current awards landscape also welcomes back several celebrated filmmakers and actors. Martin McDonagh returns to the conversation with his latest project, Wild Horse Nine, following his previous successes with Three Billboards Outside Ebbing, Missouri and The Banshees of Inisherin.",
+          "Meanwhile, Jesse Eisenberg follows up his Academy Award-winning work with a new contender titled The Debut. That film recently picked up a pair of nominations at the 2026 Gotham Film Awards alongside other notable titles."
+        ]
+      },
+      {
+        "h": "Horror Makes a Splash at the Box Office",
+        "p": [
+          "Curry Barker's low-budget horror film Obsession has emerged as a major surprise of the season. After premiering to strong early reactions, the movie evolved into a cultural phenomenon and climbed to become the seventh-highest earning film at the domestic box office.",
+          "Acquired by Focus Features at the Toronto International Film Festival, the project has garnered critical acclaim and positioned its lead star for serious consideration in the Best Actress category."
+        ]
+      },
+      {
+        "h": "Strong Showings from Gotham and Guild Precursors",
+        "p": [
+          "Other standout films making waves ahead of the Academy's voting window include Olivia Wilde's The Invite and Mike Leigh's Tender Loving Care. Both features earned multiple nominations at the Gotham Film Awards, signaling strong independent backing.",
+          "Performers across these projects, including Emmy winner Kate O'Flynn, are drawing praise from critics and positioning themselves as serious threats for upcoming guild and academy nominations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Early 2027 Oscar predictions place Christopher Nolan's box office hit The Odyssey at the forefront of multiple major categories. Meanwhile, films like the documentary You Can See Everything and the breakout horror feature Obsession are shaking up the traditional race with historic milestones and unexpected commercial success."
+        ]
+      }
+    ],
+    "facts": [
+      "Christopher Nolan directed The Odyssey.",
+      "The Odyssey dominated the summer box office.",
+      "Martin McDonagh directed Wild Horse Nine.",
+      "Jesse Eisenberg directed The Debut.",
+      "The Debut received two nominations at the 2026 Gotham Film Awards.",
+      "Olivia Wilde directed The Invite.",
+      "Mike Leigh directed Tender Loving Care.",
+      "Kate O'Flynn stars in Tender Loving Care.",
+      "You Can See Everything premiered at the Telluride Film Festival and became a box office phenomenon.",
+      "Curry Barker directed Obsession.",
+      "Obsession is the seventh-highest earning film at the domestic box office.",
+      "Focus Features acquired Obsession at TIFF 2025."
+    ],
+    "entities": {
+      "people": [
+        "Perri Nemiroff",
+        "Christopher Nolan",
+        "Martin McDonagh",
+        "Jesse Eisenberg",
+        "Olivia Wilde",
+        "Mike Leigh",
+        "Kate O'Flynn",
+        "Curry Barker",
+        "Inde Navarrette",
+        "Julianne Moore",
+        "John Malkovich",
+        "Sam Rockwell",
+        "Matt Damon",
+        "Anne Hathaway",
+        "Samantha Morton",
+        "Amanda Seyfried",
+        "Paul Giamatti",
+        "John Leguizamo",
+        "Andrew Garfield",
+        "Denis Villeneuve",
+        "Brian K. Vaughan",
+        "Rashida Jones",
+        "Will McCormack",
+        "Drew Goddard",
+        "Simon Rich",
+        "John Papsidera",
+        "Eva Leira",
+        "Yolanda Serrano",
+        "Sarah Finn",
+        "Douglas Aibel",
+        "Skyler Zurn",
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Alberto Conejero",
+        "Guitarricadelafuente",
+        "Sandra Hüller",
+        "Carrie Coon",
+        "Andrew Scott",
+        "John Turturro",
+        "Robert Pattinson",
+        "Penélope Cruz"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Oppenheimer",
+        "Three Billboards Outside Ebbing, Missouri",
+        "The Banshees of Inisherin",
+        "Wild Horse Nine",
+        "A Real Pain",
+        "The Debut",
+        "The Invite",
+        "Tender Loving Care",
+        "Widow's Bay",
+        "You Can See Everything",
+        "Obsession",
+        "La Bola Negra",
+        "Project Hail Mary",
+        "Dune: Part Three",
+        "Wildwood",
+        "Rose",
+        "The Liberation",
+        "Elsinore",
+        "The Only Living Pickpocket in New York",
+        "Primetime",
+        "Artifical",
+        "Toy Story 5",
+        "Iron Boy",
+        "Ray Gunn",
+        "Tangles",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "The Odyssey Oscar predictions",
+      "Christopher Nolan The Odyssey",
+      "You Can See Everything documentary",
+      "Obsession horror film movie",
+      "Wild Horse Nine Martin McDonagh"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/2027-oscar-predictions-the-odyssey-you-can-see-everything.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "2027 Oscar Predictions Point to Historic Contenders Led by Christopher Nolan and The Odyssey",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 12:00:12 GMT"
   }
 };

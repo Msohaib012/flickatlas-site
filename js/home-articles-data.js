@@ -43,6 +43,49 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 16 Nov 2026 12:19:40 +0000"
   },
+  "11szijz": {
+    "id": "11szijz",
+    "type": "news",
+    "headline": "Song Hye-kyo and Gong Yoo Lead Netflix Period Drama Tantara",
+    "dek": "Netflix has revealed the teaser and release schedule for Tantara, a 1960s-80s Korean showbiz drama starring Song Hye-kyo and Gong Yoo.",
+    "entities": {
+      "people": [
+        "Song Hye-kyo",
+        "Gong Yoo",
+        "Seolhyun",
+        "Cha Seung-won",
+        "Noh Hee-kyung",
+        "Lee Yoon-jung",
+        "Lee Ha-nee",
+        "Na Moon-hee"
+      ],
+      "titles": [
+        "Tantara",
+        "Our Blues",
+        "Dear My Friends",
+        "It's Okay, That's Love",
+        "That Winter, The Wind Blows",
+        "Coffee Prince",
+        "Cheese in the Trap",
+        "The Glory",
+        "Squid Game"
+      ]
+    },
+    "keywords": [
+      "Song Hye-kyo Tantara",
+      "Gong Yoo Tantara",
+      "Netflix Tantara release date",
+      "Tantara K-drama cast"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T223843.285.webp",
+        "caption": "Song Hye-kyo and Gong Yoo Lead Netflix Period Drama Tantara",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 12:09:16 +0000"
+  },
   "sxvhje": {
     "id": "sxvhje",
     "type": "news",
@@ -72,6 +115,107 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 17:33:23 +0530"
+  },
+  "1ndp26q": {
+    "id": "1ndp26q",
+    "type": "news",
+    "headline": "2027 Oscar Predictions Point to Historic Contenders Led by Christopher Nolan and The Odyssey",
+    "dek": "An early look at the 2027 Academy Award contenders highlights major frontrunners, potential documentary history makers, and breakout horror hits shaping the awards season race.",
+    "entities": {
+      "people": [
+        "Perri Nemiroff",
+        "Christopher Nolan",
+        "Martin McDonagh",
+        "Jesse Eisenberg",
+        "Olivia Wilde",
+        "Mike Leigh",
+        "Kate O'Flynn",
+        "Curry Barker",
+        "Inde Navarrette",
+        "Julianne Moore",
+        "John Malkovich",
+        "Sam Rockwell",
+        "Matt Damon",
+        "Anne Hathaway",
+        "Samantha Morton",
+        "Amanda Seyfried",
+        "Paul Giamatti",
+        "John Leguizamo",
+        "Andrew Garfield",
+        "Denis Villeneuve",
+        "Brian K. Vaughan",
+        "Rashida Jones",
+        "Will McCormack",
+        "Drew Goddard",
+        "Simon Rich",
+        "John Papsidera",
+        "Eva Leira",
+        "Yolanda Serrano",
+        "Sarah Finn",
+        "Douglas Aibel",
+        "Skyler Zurn",
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Alberto Conejero",
+        "Guitarricadelafuente",
+        "Sandra Hüller",
+        "Carrie Coon",
+        "Andrew Scott",
+        "John Turturro",
+        "Robert Pattinson",
+        "Penélope Cruz"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Oppenheimer",
+        "Three Billboards Outside Ebbing, Missouri",
+        "The Banshees of Inisherin",
+        "Wild Horse Nine",
+        "A Real Pain",
+        "The Debut",
+        "The Invite",
+        "Tender Loving Care",
+        "Widow's Bay",
+        "You Can See Everything",
+        "Obsession",
+        "La Bola Negra",
+        "Project Hail Mary",
+        "Dune: Part Three",
+        "Wildwood",
+        "Rose",
+        "The Liberation",
+        "Elsinore",
+        "The Only Living Pickpocket in New York",
+        "Primetime",
+        "Artifical",
+        "Toy Story 5",
+        "Iron Boy",
+        "Ray Gunn",
+        "Tangles",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "The Odyssey Oscar predictions",
+      "Christopher Nolan The Odyssey",
+      "You Can See Everything documentary",
+      "Obsession horror film movie",
+      "Wild Horse Nine Martin McDonagh"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/2027-oscar-predictions-the-odyssey-you-can-see-everything.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "2027 Oscar Predictions Point to Historic Contenders Led by Christopher Nolan and The Odyssey",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 12:00:12 GMT"
   },
   "14vy74k": {
     "id": "14vy74k",
@@ -142,6 +286,81 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 17:00:17 +0530"
+  },
+  "3ntzqs": {
+    "id": "3ntzqs",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 12 Advance Booking Sees Cooldown",
+    "dek": "Ranbir Kapoor and Yash's mythological epic experiences a slower pre-sales pace on its second Monday, projecting a steady collection for Day 12.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Chhaava",
+        "Stree 2",
+        "Tiger Zinda Hai",
+        "Jawan",
+        "Gadar 2",
+        "Animal",
+        "Dangal",
+        "The Kashmir Files",
+        "Adipurush",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana second Monday",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-box-office-advance-booking-02.jpg",
+        "caption": "Ramayana Box Office Day 12 Advance Booking Sees Cooldown",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 11:20:42 +0000"
+  },
+  "1ywu9zf": {
+    "id": "1ywu9zf",
+    "type": "news",
+    "headline": "Farah Khan Tours Ananya Birla's Mumbai Mansion",
+    "dek": "Filmmaker Farah Khan recently explored the palatial Mumbai residence of singer-songwriter and entrepreneur Ananya Birla, comparing its lavish design to a cinematic spy film set.",
+    "entities": {
+      "people": [
+        "Ananya Birla",
+        "Farah Khan",
+        "Dilip",
+        "Kumar Mangalam Birla",
+        "MF Husain",
+        "Ananya Panday"
+      ],
+      "titles": [
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Ananya Birla house",
+      "Farah Khan YouTube vlog",
+      "Kumar Mangalam Birla net worth",
+      "Ananya Birla Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Ananya-Birla.jpg",
+        "caption": "Farah Khan Tours Ananya Birla's Mumbai Mansion",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 11:19:21 +0000"
   },
   "2i92ts": {
     "id": "2i92ts",
@@ -4473,149 +4692,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 09:08:11 +0530"
-  },
-  "15ibeiy": {
-    "id": "15ibeiy",
-    "type": "news",
-    "headline": "Actor Vimal Suffers Legal Setback as Madras High Court Dismisses Plea in Cheque Bounce Dispute",
-    "dek": "The Madras High Court has rejected actor Vimal's petition seeking an investigation into allegedly fabricated documents tied to his ongoing legal trouble over the film Mannar Vagaiyara.",
-    "entities": {
-      "people": [
-        "Vimal",
-        "Gopi",
-        "G K Ilanthiraiyan"
-      ],
-      "titles": [
-        "Mannar Vagaiyara"
-      ]
-    },
-    "keywords": [
-      "Vimal",
-      "Mannar Vagaiyara",
-      "Madras High Court",
-      "cheque bounce case"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135846142,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Actor Vimal Suffers Legal Setback as Madras High Court Dismisses Plea in Cheque Bounce Dispute",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T08:31:08+05:30"
-  },
-  "it29do": {
-    "id": "it29do",
-    "type": "news",
-    "headline": "BTS Dominates Melon Music Awards 2026 With Four Major Wins and Special Tribute",
-    "dek": "BTS received a dedicated video tribute for their global ARIRANG World Tour and secured four major awards, including two Daesangs, at Day 1 of the 2026 Melon Music Awards.",
-    "entities": {
-      "people": [
-        "Arpita Sarkar",
-        "Lim Young Woong"
-      ],
-      "titles": [
-        "ARIRANG"
-      ]
-    },
-    "keywords": [
-      "BTS ARIRANG World Tour",
-      "Melon Music Awards 2026",
-      "BTS four major awards",
-      "BTS ARIRANG album"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156510064,thumbsize-498770,width-1280,height-720,resizemode-75/156510064.jpg",
-        "caption": "BTS Dominates Melon Music Awards 2026 With Four Major Wins and Special Tribute",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T02:56:42Z"
-  },
-  "kfp21m": {
-    "id": "kfp21m",
-    "type": "news",
-    "headline": "ENHYPEN Unveils I Want You Music Video From THE SIN: PARALLEL WORLD",
-    "dek": "K-pop group ENHYPEN has dropped the music video for their latest track, I Want You, offering a fresh human perspective on their vampire-inspired universe ahead of their debut performance in India.",
-    "entities": {
-      "people": [
-        "Jay",
-        "Ni-ki",
-        "Jake",
-        "Jungwon",
-        "Sunoo",
-        "Sunghoon",
-        "Hwasa",
-        "Eric Nam",
-        "Dayoung",
-        "Lee Hyun",
-        "BUMZU",
-        "Lara",
-        "Rhea Raj"
-      ],
-      "titles": [
-        "I Want You",
-        "THE SIN: PARALLEL WORLD",
-        "THE SIN: VANISH",
-        "We'll Be Fine",
-        "THE SIN: BLISS"
-      ]
-    },
-    "keywords": [
-      "ENHYPEN I Want You",
-      "THE SIN PARALLEL WORLD",
-      "ENHYPEN Weverse Con Festival India 2027",
-      "ENHYPEN music video release"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156509535,thumbsize-115146,width-1280,height-720,resizemode-75/156509535.jpg",
-        "caption": "ENHYPEN Unveils I Want You Music Video From THE SIN: PARALLEL WORLD",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T02:56:42Z"
-  },
-  "h031zf": {
-    "id": "h031zf",
-    "type": "news",
-    "headline": "Ramayana Part 1 Crosses Rs 1,228 Crore Globally as Second Weekend Box Office Surges",
-    "dek": "Ranbir Kapoor and Yash’s epic drama Ramayana Part 1 continues its record-shattering theatrical run, crossing major milestones in India and overseas.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Nitesh Tiwari",
-        "Dil Raju",
-        "Saurabh Sachdeva",
-        "Aditya Dhar",
-        "Namit Malhotra",
-        "Taran Adarsh",
-        "Armaan Malik"
-      ],
-      "titles": [
-        "Ramayana Part 1",
-        "Dhurandhar 2",
-        "Animal",
-        "Mangala Sangama"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 1 box office",
-      "Ranbir Kapoor Ramayana collection",
-      "Ramayana Part 1 worldwide gross",
-      "Ramayana second Saturday collection"
-    ],
-    "images": [
-      {
-        "url": "https://images.indianexpress.com/2026/11/ramayana-blog-2.jpg",
-        "caption": "Ramayana Part 1 Crosses Rs 1,228 Crore Globally as Second Weekend Box Office Surges",
-        "source": "Indian Express — Entertainment"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 02:53:24 +0000"
   },
   "3sj8f4": {
     "id": "3sj8f4",
