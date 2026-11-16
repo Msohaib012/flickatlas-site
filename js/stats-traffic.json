@@ -1,26 +1,26 @@
 {
   "connected": true,
-  "generated": "2026-11-16T08:02:14Z",
+  "generated": "2026-11-16T09:00:09Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 4
   },
   "today": {
-    "users": 82,
-    "pageviews": 92,
-    "sessions": 83,
-    "avg_session_seconds": 4.0
+    "users": 86,
+    "pageviews": 97,
+    "sessions": 87,
+    "avg_session_seconds": 3.8
   },
   "last7": {
-    "users": 531,
-    "pageviews": 814,
-    "sessions": 574,
-    "avg_session_seconds": 34.8
+    "users": 535,
+    "pageviews": 819,
+    "sessions": 577,
+    "avg_session_seconds": 34.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 95,
+      "views": 96,
       "avg_time_seconds": 250.4
     },
     {
@@ -75,21 +75,21 @@
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
       "views": 15,
-      "avg_time_seconds": 8.3
+      "avg_time_seconds": 8.7
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 554,
-      "users": 518
+      "sessions": 557,
+      "users": 522
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 22,
-      "users": 22
+      "sessions": 18,
+      "users": 18
     },
     {
       "source": "google",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 148
+      "users": 149
     },
     {
       "country": "Brazil",
@@ -118,19 +118,19 @@
       "users": 60
     },
     {
+      "country": "Vietnam",
+      "users": 32
+    },
+    {
       "country": "Hong Kong",
       "users": 31
     },
     {
-      "country": "Vietnam",
-      "users": 31
+      "country": "Colombia",
+      "users": 28
     },
     {
       "country": "Argentina",
-      "users": 27
-    },
-    {
-      "country": "Colombia",
       "users": 27
     },
     {
@@ -142,14 +142,14 @@
       "users": 21
     },
     {
-      "country": "Japan",
-      "users": 15
+      "country": "Malaysia",
+      "users": 16
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 523
+      "users": 527
     },
     {
       "device": "mobile",

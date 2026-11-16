@@ -161731,5 +161731,372 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 06:00:18 GMT"
+  },
+  "2i92ts": {
+    "id": "2i92ts",
+    "type": "news",
+    "headline": "Akshay Kumar and Vipul Amrutlal Shah Team Up for Sci-Fi Thriller Samuk",
+    "dek": "A new motion poster for Samuk reveals an extraterrestrial threat and sets a worldwide theatrical release date of May 28, 2027.",
+    "body": [
+      {
+        "h": "Stepping Into Science Fiction",
+        "p": [
+          "Bollywood star Akshay Kumar is expanding his cinematic horizons by venturing into the science-fiction genre. His upcoming project, titled Samuk, pairs him with filmmaker Vipul Amrutlal Shah for an ambitious new venture. Following the initial announcement of their latest creative partnership, the production team has released a moody and atmospheric motion poster that provides audiences with their very first glimpse into an unusual extraterrestrial storyline.",
+          "The newly unveiled visual promotional material confirms that the feature will be a survival-driven action thriller. By placing a major mainstream star into a sci-fi landscape dealing with otherworldly antagonists, the project marks a significant shift from the typical dramatic and comedic outings the actor is widely recognized for."
+        ]
+      },
+      {
+        "h": "Visuals and Tagline Clues",
+        "p": [
+          "The atmospheric motion poster showcases Akshay Kumar sporting a rugged, military-grade appearance while clutching a rifle. He stands face-to-face with the ominous silhouette of an unidentified creature's hand, establishing a stark visual contrast between human resilience and an unidentifiable alien presence.",
+          "Accompanying this striking visual reveal is a thematic tagline: 'The Mission is Human but The Enemy Isn’t'. This short phrase suggests that the narrative will focus heavily on tactical survival, human endurance, and a high-stakes struggle against an adversary that defies conventional military tactics."
+        ]
+      },
+      {
+        "h": "Release Date and Promotional Rollout",
+        "p": [
+          "Makers of the sci-fi project have officially locked in a theatrical release date, announcing that the movie will arrive in cinemas worldwide on May 28, 2027. This long lead time gives the production ample opportunity to build anticipation for its complex visual effects and world-building.",
+          "In addition to the motion poster, the team scheduled a subsequent major announcement for later in the afternoon at 2:00 PM. While specific details regarding the character reveals or extended plot points were initially kept under wraps, these staggered updates are designed to steadily increase viewer engagement."
+        ]
+      },
+      {
+        "h": "A Proven Creative Partnership",
+        "p": [
+          "The collaboration on Samuk continues a long-standing professional relationship between Akshay Kumar and Vipul Amrutlal Shah. The actor-director duo has previously delivered multiple successful cinematic outings across a wide spectrum of genres, establishing strong commercial chemistry over the years.",
+          "Their past joint projects include well-known titles such as Aankhen, Waqt: The Race Against Time, Namastey London, Singh Is Kinng, and Action Replayy. Having already navigated comedy, drama, romance, and conventional action together, this new venture allows the pair to test their limits in the science-fiction arena."
+        ]
+      },
+      {
+        "h": "Production Updates and Schedule",
+        "p": [
+          "Behind-the-scenes updates indicate that the production is moving steadily forward. Prior to the heavy promotional push, the film successfully wrapped up its scheduled filming portion in the United Kingdom before relocating back to Mumbai to continue shooting.",
+          "As the production crew transitions between international and domestic locations, fans continue to wait for further character introductions and deeper insights into the specific plot points driving the human-versus-alien conflict."
+        ]
+      },
+      {
+        "h": "Anticipation and Future Reveals",
+        "p": [
+          "With the genre, lead actor, and release window now firmly established, Samuk has successfully captured the attention of sci-fi enthusiasts and mainstream cinema fans alike. The fusion of gritty military aesthetics with a mysterious creature-feature dynamic promises a fresh theatrical experience.",
+          "Audiences must look toward subsequent updates from the makers to learn more about the complete supporting cast and the intricate lore behind the extraterrestrial adversary threatening the protagonist."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Akshay Kumar and filmmaker Vipul Amrutlal Shah are collaborating once again on a new sci-fi action thriller titled Samuk. A newly released motion poster showcases an extraterrestrial threat and confirms a worldwide theatrical release date of May 28, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar stars in Samuk.",
+      "Vipul Amrutlal Shah is the filmmaker for Samuk.",
+      "Samuk is scheduled to release in cinemas worldwide on May 28, 2027.",
+      "The film's tagline is 'The Mission is Human but The Enemy Isn’t'.",
+      "Previous collaborations between Kumar and Shah include Aankhen, Waqt: The Race Against Time, Namastey London, Singh Is Kinng, and Action Replayy.",
+      "Samuk wrapped its UK schedule and headed to Mumbai for shooting."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Vipul Amrutlal Shah"
+      ],
+      "titles": [
+        "Samuk",
+        "Aankhen",
+        "Waqt: The Race Against Time",
+        "Namastey London",
+        "Singh Is Kinng",
+        "Action Replayy"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Samuk",
+      "Samuk sci-fi thriller",
+      "Vipul Amrutlal Shah Samuk",
+      "Samuk release date"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Akshay-Kumar-starrer-Samuk-motion-poster-unveils-alien-threat-sci-fi-thriller-news.jpeg",
+        "caption": "Akshay Kumar and Vipul Amrutlal Shah Team Up for Sci-Fi Thriller Samuk",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 12:17:11 +0200"
+  },
+  "558n2v": {
+    "id": "558n2v",
+    "type": "news",
+    "headline": "Naslen Unfazed By Box Office Pressures Ahead Of Bachelor Party D'eux Release",
+    "dek": "Actor Naslen remains entirely unconcerned about the commercial outcome of his upcoming film Bachelor Party D'eux, as explained by co-star Chandu Salimkumar.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Release",
+        "p": [
+          "The Malayalam film industry is gearing up for the release of the upcoming action feature titled Bachelor Party D'eux. Directed by Amal Neerad, the project has generated considerable excitement among moviegoers following promotional rollouts. Scheduled to hit the big screen on November 19, the film has captured widespread attention due to its gritty premise and high production values.",
+          "As anticipation builds across various platforms, discussions surrounding the commercial prospects of the movie have intensified. However, key members of the cast appear relaxed regarding how the audience will ultimately receive the final cinematic product."
+        ]
+      },
+      {
+        "h": "Naslen's Perspective on Box Office Expectations",
+        "p": [
+          "Actor Naslen, who has been riding a wave of critical and commercial acclaim following his appearance in the newly released Suriya starrer Scene, addressed the chatter surrounding his professional trajectory. During a recent interaction with Cue Studio, the young performer was questioned about whether his recent accomplishments placed any added pressure on him to deliver another hit.",
+          "Responding directly to the inquiry, Naslen clarified that box office metrics do not dictate his personal satisfaction with a project. He expressed that he is genuinely happy with the film irrespective of its theatrical yield, demonstrating a remarkably stress-free attitude toward commercial pressures."
+        ]
+      },
+      {
+        "h": "Chandu Salimkumar Sheds Light on Filming Dynamics",
+        "p": [
+          "Co-star Chandu Salimkumar provided additional context regarding Naslen's composed demeanor during the actual production process. Sharing screen space with him on the Amal Neerad set, Chandu noted that his colleague maintained a calm and collected headspace throughout principal photography.",
+          "According to Chandu, working alongside a filmmaker of Amal Neerad's caliber played a significant role in establishing a comfortable environment. This steady atmosphere allowed the cast to focus entirely on their performances without being weighed down by outcome anxieties."
+        ]
+      },
+      {
+        "h": "Insights From the Promotional Campaign",
+        "p": [
+          "The promotional campaign for the film has steadily ramped up excitement among fans of dark action dramas. Recently, the makers revealed a teaser trailer showcasing intense confrontations, high-stakes suspense, and gripping dialogue delivery that align with the director's signature style.",
+          "In addition to the trailer, musical promotions have also commenced with the release of a track titled Chinthamooka. Composed by Christo Xavier with lyrics penned by Rafeeq Ahamed and vocals by Neha Nair, the song features a prominent dance sequence."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Musical Highlights",
+        "p": [
+          "The musical attraction Chinthamooka has drawn praise particularly for Paris Lakshmi's vibrant dance performance. The accompanying visuals also feature appearances by Shine Tom Chacko, Naslen, and Sharafudheen, further adding to the pre-release buzz.",
+          "Beyond these actors, the feature boasts a massive ensemble lineup featuring Kunchacko Boban, Soubin Shahir, Nadia Moidu, Rajisha Vijayan, and Tovino Thomas, making it one of the most star-studded Malayalam releases of the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Naslen has expressed that he is entirely unconcerned with the commercial outcome of his upcoming film Bachelor Party D'eux. Co-star Chandu Salimkumar explained that the actor maintained a relaxed mindset during production under the direction of Amal Neerad. With an ensemble cast and scheduled release date of November 19, anticipation remains high for the action drama."
+        ]
+      }
+    ],
+    "facts": [
+      "Bachelor Party D'eux releases on November 19.",
+      "Amal Neerad directed Bachelor Party D'eux.",
+      "Naslen stars in Bachelor Party D'eux and Scene.",
+      "Chandu Salimkumar acts alongside Naslen in the film.",
+      "Christo Xavier composed the track Chinthamooka.",
+      "Rafeeq Ahamed wrote the lyrics for Chinthamooka.",
+      "Neha Nair provided vocals for Chinthamooka."
+    ],
+    "entities": {
+      "people": [
+        "Naslen",
+        "Chandu Salimkumar",
+        "Amal Neerad",
+        "Suriya",
+        "Kunchacko Boban",
+        "Soubin Shahir",
+        "Paris Lakshmi",
+        "Nadia Moidu",
+        "Rajisha Vijayan",
+        "Tovino Thomas",
+        "Shine Tom Chacko",
+        "Sharafudheen",
+        "Rafeeq Ahamed",
+        "Christo Xavier",
+        "Neha Nair"
+      ],
+      "titles": [
+        "Bachelor Party D'eux",
+        "Scene",
+        "Chinthamooka"
+      ]
+    },
+    "keywords": [
+      "Bachelor Party Deux film",
+      "Naslen Bachelor Party Deux",
+      "Chandu Salimkumar Naslen",
+      "Amal Neerad Malayalam movie",
+      "Bachelor Party Deux release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135875641,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Naslen Unfazed By Box Office Pressures Ahead Of Bachelor Party D'eux Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T12:32:35+05:30"
+  },
+  "1rfvo1n": {
+    "id": "1rfvo1n",
+    "type": "news",
+    "headline": "Crash Season 2 Premieres on ENA with Returning Cast and High-Octane Action",
+    "dek": "The Traffic Crime Investigation team is back for a second season on ENA, bringing higher stakes, more vehicle chases, and a brand new murder mystery.",
+    "body": [
+      {
+        "h": "The Return of the Traffic Crime Unit",
+        "p": [
+          "The Traffic Crime Investigation team has officially returned to television screens with the premiere of Crash Season 2. Originally formed as a temporary unit, the group has now earned a permanent position dedicated to tackling national traffic crimes.",
+          "With a scale of crime much larger than anything they faced previously, the team of misfits must navigate even more dangerous situations while keeping the streets of Seoul safe."
+        ]
+      },
+      {
+        "h": "Familiar Faces and New Additions",
+        "p": [
+          "Viewers will see the return of several key cast members from the first season. Lee Min-ki and Kwak Sun-young are back to provide the brains and brawn of the operation, rejoining Team Leader Heo Sung-tae.",
+          "Original squad members Lee Ho-chul and Moon-hee also return for the new season. They are joined by a newcomer to the case, Park Ji-sung, who enters the force following the footsteps of his late mother who was also a police officer."
+        ]
+      },
+      {
+        "h": "A New Murder Mystery Unfolds",
+        "p": [
+          "The core plot of the second season revolves around an intricate murder mystery. The main antagonist is a killer who deliberately switches vehicles between different crimes, creating a massive challenge for the investigators.",
+          "True to the nature of the series, past trauma is set to play a significant role in the narrative, particularly through the backstory of the newest team recruit."
+        ]
+      },
+      {
+        "h": "Action, Comedy, and Noir Thrills",
+        "p": [
+          "Crash 2 retains the distinct blend of action, comedy, crime, noir, and thriller elements that defined its predecessor. Fans can expect the same comedic energy paired with high-stakes danger.",
+          "The streets of Seoul will feature plenty of damaged vehicles, jumping cars, flips, and large-scale explosions as the detectives chase down dangerous suspects."
+        ]
+      },
+      {
+        "h": "Broadcast Details and Streaming",
+        "p": [
+          "The twelve-episode series airs its episodes on Monday and Tuesday nights. The network broadcaster for the drama is ENA.",
+          "For international viewers, the show is accessible globally through the streaming platform Viki, allowing fans outside of South Korea to follow the weekly investigations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Crash 2 has officially premiered on ENA with a twelve-episode run airing on Mondays and Tuesdays. The second season brings back the main cast including Lee Min-ki, Kwak Sun-young, and Heo Sung-tae to tackle national traffic crimes and a new vehicle-switching killer.",
+          "Fans can stream the action and comedy-filled series globally on Viki."
+        ]
+      }
+    ],
+    "facts": [
+      "Crash 2 has 12 episodes",
+      "The drama airs on Monday and Tuesday",
+      "The broadcaster for Crash 2 is ENA",
+      "The global streamer for the show is Viki",
+      "Cast members include Lee Min-ki, Kwak Sun-young, Heo Sung-tae, Lee Ho-chul, Moon-hee, and Park Ji-sung"
+    ],
+    "entities": {
+      "people": [
+        "Lee Min-ki",
+        "Kwak Sun-young",
+        "Heo Sung-tae",
+        "Lee Ho-chul",
+        "Moon-hee",
+        "Park Ji-sung"
+      ],
+      "titles": [
+        "Crash 2",
+        "Crash"
+      ]
+    },
+    "keywords": [
+      "Crash 2",
+      "Lee Min-ki Crash 2",
+      "Kwak Sun-young ENA drama",
+      "Crash Season 2 premiere"
+    ],
+    "images": [
+      {
+        "url": "https://dramabeans.com/wp-content/uploads/2026/11/pw_crash2.jpg",
+        "caption": "Crash Season 2 Premieres on ENA with Returning Cast and High-Octane Action",
+        "source": "Dramabeans"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 07:00:56 +0000"
+  },
+  "1fhyhgc": {
+    "id": "1fhyhgc",
+    "type": "news",
+    "headline": "Gondhal and Ramayana Headline Oscar Conversations for India",
+    "dek": "Marathi psychological thriller Gondhal and Nitesh Tiwari's Ramayana: Part 1 capture national and international attention as they enter the race for the 99th Academy Awards.",
+    "body": [
+      {
+        "h": "The Oscar Race Entry",
+        "p": [
+          "The Marathi thriller Gondhal has captured widespread attention after the Film Federation of India selected the picture as the country's official submission for the Best International Feature Film category at the 99th Academy Awards.",
+          "While the Santosh Davakar directorial initially debuted in cinemas on November 14, 2025, it failed to achieve the initial box office success anticipated by its creators."
+        ]
+      },
+      {
+        "h": "Re-Release Strategy in Multiple Languages",
+        "p": [
+          "In a bid to expand its reach ahead of the Oscar consideration, the makers re-released the movie in seven different languages on November 13, 2026.",
+          "The wide linguistic rollout spans Marathi, Hindi, Tamil, Telugu, Malayalam, Kannada, and English, successfully drawing eyeballs from all corners of the country."
+        ]
+      },
+      {
+        "h": "Plot and Cultural Context",
+        "p": [
+          "Set in an 1851 Maharashtrian village over the course of a single tense night, the narrative unfolds against the backdrop of a traditional Gondhal ritual performed to invoke divine blessings.",
+          "The title operates on a dual level, representing both the devotional folk performance at the core of the story and the literal meaning of chaos as a missing son, a troubled marriage, and patriarchal tensions collide."
+        ]
+      },
+      {
+        "h": "Cinematic Craft and Visuals",
+        "p": [
+          "Cinephiles have praised the film for its technical prowess, highlighted by a gripping opening sequence where the first 25 minutes unfold in a single continuous take.",
+          "Lanterns, fireplaces, and authentic folk songs create a moody atmosphere that amplifies the underlying themes of jealousy, desire, and human tragedy."
+        ]
+      },
+      {
+        "h": "Ilaiyaraaja's Musical Magic",
+        "p": [
+          "Legendary composer Ilaiyaraaja crafted the film's score, allowing traditional sounds to dominate the silver screen and shape the overarching narrative.",
+          "Director Santosh Davakhar shared an amusing anecdote about the maestro's instinctual process when asked for an Oscar cue-sheet, recalling that Ilaiyaraaja told the team to simply explain to the Academy that the music was made purely by instinct without cue sheets."
+        ]
+      },
+      {
+        "h": "Ramayana: Part 1 Joins the Oscar Contention",
+        "p": [
+          "Alongside the Marathi drama, Nitesh Tiwari's Ramayana: Part 1 has also made headlines after being independently submitted for consideration at the 99th Academy Awards.",
+          "Released on November 5, 2026, the film utilizes heavy visual effects, prompting its makers to specifically target the Best Visual Effects category."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Two prominent Indian films, the Marathi psychological thriller Gondhal and Nitesh Tiwari's Ramayana: Part 1, are generating significant buzz ahead of the 99th Academy Awards. While Gondhal was selected as India's official submission for Best International Feature Film following a multi-language re-release, Ramayana: Part 1 has secured an independent submission targeting visual effects recognition."
+        ]
+      }
+    ],
+    "facts": [
+      "Gondhal is a Marathi psychological thriller directed by Santosh Davakar.",
+      "Gondhal originally released in cinemas on November 14, 2025.",
+      "The Film Federation of India selected Gondhal as India's official submission for Best International Feature Film at the 99th Academy Awards.",
+      "Gondhal was re-released in seven languages on November 13, 2026.",
+      "The story of Gondhal is set in an 1851 Maharashtrian village.",
+      "The first 25 minutes of Gondhal unfold in a single take.",
+      "Ilaiyaraaja composed the music for Gondhal.",
+      "Ramayana: Part 1 was directed by Nitesh Tiwari and released on November 5, 2026.",
+      "Ramayana: Part 1 was independently submitted for consideration at the 99th Academy Awards targeting the Best Visual Effects category."
+    ],
+    "entities": {
+      "people": [
+        "Santosh Davakar",
+        "Ilaiyaraaja",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Gondhal",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Gondhal film",
+      "Ramayana Part 1",
+      "Santosh Davakar",
+      "Nitesh Tiwari",
+      "Oscars 2027 India"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/gondhalramayanapart1-35631794818044.jpg",
+        "caption": "Gondhal and Ramayana Headline Oscar Conversations for India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 14:11:12 +0530"
   }
 };
