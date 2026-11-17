@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-16T06:52:11Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": {
-     "candidates": 231,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "One Of A Kind Romance Episode 3-4 Release Time Today: When Will New Ep Premiere? Is It Available In India?",
-      "Ebenezer Box Office: Johnny Depp Returns To The Global #1 Spot After 8 Years Despite Opening Below Industry Projections In North America!",
-      "Scene Box Office Day 10: Suriya’s Film Becomes 4th Highest-Grossing Kollywood Film Of 2026 In India",
-      "Why Ramayana's Historic Global Box Office Triumph Could Be Good News for SS Rajamouli's Varanasi",
-      "Ramayana Sets Biggest Second Weekend Box Office Record in India, Beats Dhurandhar 2 and Pushpa 2",
-      "Ramayana Beats Scene in Tamil Nadu Second Weekend Despite Fewer Shows, Nears ₹50 Cr as Second Film to Do So",
-      "Akshay Kumar's Samuk Release Date Locked As Makers Unveil First Look Poster",
-      "Horror Comedy Movies in Hindi: Why the Genre Became Bollywood's Safest Bet",
-      "Sunny Deol's Suryaa Postponed to 2027 Amid IMA Controversy but Actor Still Achieves a 19-Year Milestone",
-      "Jr NTR Plans Three Releases Between 2027 and 2028 as Dragon Part 2 and Anil Ravipudi Film Get Tentative Dates",
-      "Ramayana Nearly Doubles Godzilla Minus Zero's Second Weekend Worldwide Gross After Losing Opening Weekend Clash",
-      "Gracie Abrams to tour in Australia next year",
-      "Daniel Hall passes away at 48",
-      "Twinkle Khanna calls Ravana the 'original tech bro', compares him to tech billionaires Jensen Huang, Bill Gates",
-      "India's Got Latent season 1 contestant Keshav Jha bought a house and wrote a book after gaining popularity, has done 35 shows",
-      "Panchayat Season 5 delayed, makers announce show won't return in 2026 with cheeky Banrakas post",
-      "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
-      "Was Ravana Sita's father? How the Thai Ramayana flips the epic",
-      "Vivek Oberoi says 'powerful lobby' punished him for standing up for women in 2004",
-      "Big B greets fans on Chhath without bulletproof glass, son Abhishek stands guard"
-     ],
-     "updated": [],
-     "count": 213,
-     "detail": "219 stories, 0 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-16T07:51:07Z",
     "run_id": "43826642567",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "332 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-16T08:53:09Z",
-    "run_id": "43834524212",
+    "run_at": "2026-11-17T07:51:43Z",
+    "run_id": "44041805109",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 370,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Akshay Kumar and Vipul Amrutlal Shah Team Up for Sci-Fi Thriller Samuk",
-      "Naslen Unfazed By Box Office Pressures Ahead Of Bachelor Party D'eux Release",
-      "Crash Season 2 Premieres on ENA with Returning Cast and High-Octane Action",
-      "Gondhal and Ramayana Headline Oscar Conversations for India"
+      "EXCLUSIVE: Golmaal 5 sparks MASSIVE bidding war! Distributors ready to shell out OVER Rs. 100 crores for Ajay Devgn-Akshay Kumar starrer's all-India rights",
+      "Call Me Bae Season 2 release date announced: Ananya Panday returns with more romance, heartbreak and ‘Behen Code’ drama on December 17",
+      "Salman Khan begins 10-day shoot schedule in Pune for Monster co-starring Nayanthara, teaser set for his birthday: Report",
+      "Men Get Support, Women Have To...: Namrata Pradhan On Ganga Mai Ki Betiyan's Divorce Track- EXCLUSIVE",
+      "Parivarik Manuranjan Ending Explained: Whom Did Pankaj Tripathi’s Ranjan Dubey Fall In Love With? Aditi Rao Hydari’s Helen Or Manu?",
+      "Clayface North America Box Office: Batman’s Villain Surpasses Superman 3",
+      "Godzilla Minus Zero Japan Box Office: Records Biggest 2nd Weekend In Franchise History",
+      "Will Robert Pattinson Have To Choose Between James Bond And Batman? I Think DC Has A Bigger Problem",
+      "Paramvir Singh Cheema Collaborating With Panchayat Director Deepak Mishra For A New Project?",
+      "Ramayana and Dhurandhar: When India's Biggest Blockbusters Peaked Beyond Their Opening Weekend",
+      "In 2014, Ram Charan shot ‘Govindudu Andarivadele’ in the temple town of Rameswaram",
+      "Pattinson named as Bond: DDLJ link renews attention",
+      "Rajinikanth to Dhanush: South Indian stars who frequently visit famous temples",
+      "Jennifer Lawrence and Josh Hutcherson reunite at the ‘Hunger Games: Sunrise on the Reaping’ premiere",
+      "‘Anbhudan Mahi’: G V Prakash Kumar’s sports drama nears shoot completion",
+      "DYK 'Ramayana' star Kunal Kapoor once admitted he was offered only poet or terrorist roles?",
+      "'It Ends with Us' producer urges compassion for Blake Lively",
+      "Call Me Bae season 2 to release in December: Shruti Haasan joins Ananya Panday-starrer",
+      "In 2012, Robert Pattinson said he wanted to follow Daniel Craig as James Bond, called a fresh-faced 007 'worst Idea in the world'",
+      "'I felt like a spy': Photographer who shot Robert Pattinson's first look as James Bond reveals how shoot was 'shrouded in secrecy'"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 346,
+     "detail": "360 stories, 2 duplicates removed, 10 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-17T07:52:13Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Robert Pattinson Named as the Eighth Actor to Play James Bond",
+      "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
+      "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
+      "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-16T06:54:17Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": {
-     "candidates": 351,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 340, coming 11"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1887,27 @@
      "detail": "now 363, coming 9"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-16T08:59:57Z",
-    "run_id": "43834524212",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-17T07:52:13Z",
+    "run_id": "44041805109",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 372,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 363, coming 9"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2417,27 +2400,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-17T08:00:44Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "4u0op4",
+      "soff55",
+      "1ilvaza",
+      "1ocsls5",
+      "3nmfly",
+      "m3p2ee"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-16T06:54:58Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": {
-     "candidates": 690,
-     "detail": "657 collected staging rows from readers; 229 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 669 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2851,19 +2840,27 @@
      "detail": "+1 new rows, 3 updated rows, 675 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-17T08:00:42Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": {
+     "candidates": 698,
+     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 675 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3100,32 +3097,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-16T08:59:56Z",
-    "run_id": "43834524212",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Akshay Kumar and Vipul Amrutlal Shah Team Up for Sci-Fi Thriller Samuk",
-      "Crash Season 2 Premieres on ENA with Returning Cast and High-Octane Action",
-      "Gondhal and Ramayana Headline Oscar Conversations for India",
-      "Naslen Unfazed By Box Office Pressures Ahead Of Bachelor Party D'eux Release"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3642,19 +3626,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-17T08:00:43Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Robert Pattinson Named as the Eighth Actor to Play James Bond",
+      "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
+      "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
+      "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3884,64 +3881,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-16T06:52:52Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "sources": {
-      "trending": 19,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 36,
-      "pk_movies": 18
-     },
-     "picked": 20,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "The Awakening (1299501)",
-      "Cunk on Cinema (335981)",
-      "Carmen, La Matador (1826815)",
-      "Beyond the beyond (1821937)",
-      "Bitartean, gero (1819753)",
-      "Ice Factory Ghost (1815740)",
-      "If the Birds Sing (1810479)",
-      "BLACK STAR (1806331)",
-      "Jingle Hell (1774793)",
-      "Holy Wood Dust (1625362)",
-      "Clashing Through the Snow (1611767)",
-      "Axolodyssey (1545540)",
-      "The Other You (1493707)",
-      "Revolution for Beginners (1826832)",
-      "The Beast (1185344)",
-      "Dragon Ball Super: Beerus (312359)",
-      "The Empress (131488)",
-      "The Chosen (85077)",
-      "One Piece (37854)"
-     ],
-     "updated": [],
-     "count": 19
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4258,31 +4210,19 @@
      "count": 20
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-16T06:54:17Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 213 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 8/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Akshay Kumar's Science-Fiction Action Thriller Samuk Locks Theatrical Release Date and Unveils First-Look Poster",
-      "Top 15 Red Carpet Looks Unveiled at the 2026 Governors Awards",
-      "Ghilli Actress Nancy Jennifer Marries Karthik In A Traditional Beach Resort Ceremony",
-      "SBS Variety Hit 'My Grumpy Secretary' Extended to 16 Episodes with Star-Studded Lineup Featuring Jisoo, Kim Jong Kook, and Hwasa"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4779,19 +4719,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-17T07:52:13Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 346 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 1/2, box_office 5/6, celebrities_events 6/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 0/3, awards 3/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Robert Pattinson Named as the Eighth Actor to Play James Bond",
+      "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
+      "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
+      "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5105,24 +5057,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-17T07:53:22Z",
+    "run_id": "44041805109",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 392,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5467,24 +5421,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 44,
+     "count": 388,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5829,24 +5783,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 81,
+     "count": 19,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6096,24 +6050,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 2,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6348,74 +6297,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "metadata_refresh": [
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-16T06:53:27Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": {
-     "candidates": 50,
-     "valid": 50,
-     "failed": 0,
-     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Climat, que justice soit faite ! (1821357)",
-      "Heaven (1821181)",
-      "L'art de perdre en politique (1821168)",
-      "The Noah Movie; Epilogue: The Last Don (1820144)",
-      "erōtikós (1815438)",
-      "The Neighbourhood is Changing: Revisiting Mulberry Street (1812543)",
-      "Os Mortos-Vivos: Algo a Temer (1809555)",
-      "The Monster I Made (1805456)",
-      "Cuts (1805451)",
-      "In Your Heart Movie Version (1803408)",
-      "Hollow Ones (1803222)",
-      "The Fraying (1802622)",
-      "Schattenfangen (1797144)",
-      "No Man's Air (1796461)",
-      "My Own Personal Gulag (1796456)",
-      "A Minute of Silence (1796445)",
-      "Bahía Honda (1796353)",
-      "In un battito (1795686)",
-      "Aroma (1786551)",
-      "La Befana (1773826)",
-      "A Match for Mr. Christmas (1771047)",
-      "The Neighbourhood is Changing (1748010)",
-      "¿Quién hace la...? - 1979 (1733772)",
-      "Trifecta (1698273)",
-      "Midnight Knocks at the Door (1688811)",
-      "Entrevista com a Bruxa (1644267)",
-      "One Sweet Hour (1624945)",
-      "Antisémitisme, une haine toujours en mouvements (1820578)",
-      "The 16th Goddesses of Stardom Tag League Tournament in Kochi (1814622)",
-      "Tiempo Prestado (1811878)",
-      "Octarine (1808310)",
-      "The Boot Room (1806778)",
-      "The Phenomenon of Presence (1806776)",
-      "Machines Learning (1806769)",
-      "The Toast Trip (1806765)",
-      "What We Carry (1806755)",
-      "The One Who Draws Dance (1806752)",
-      "Bubbles (1806738)",
-      "Knocked Cold (1806725)",
-      "Friends With Benefits (1806711)",
-      "Murderers (1806701)",
-      "D!SoRd3rEd (1806696)",
-      "Frame Story (1803546)",
-      "Al Tiempo le da Hipo (1800295)",
-      "The New Extinction (1798430)"
-     ],
-     "count": 45
-    },
-    "reason": null
-   },
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6702,19 +6596,19 @@
      "count": 47
     },
     "reason": null
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6955,19 +6849,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7197,19 +7091,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7462,30 +7356,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-15T03:51:46Z",
-    "run_id": "43674141348",
-    "status": "success",
-    "checked": {
-     "candidates": 557,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 544"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7967,24 +7850,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-17T07:52:30Z",
+    "run_id": "44041805109",
+    "status": "success",
+    "checked": {
+     "candidates": 569,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 555"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 263,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8224,24 +8113,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-16T06:55:38Z",
-    "run_id": "43819549907",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6681,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8506,8 +8390,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-17T08:00:53Z",
+    "run_id": "44041805109",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-17T06:54:14Z"
+ "updated_at": "2026-11-17T08:00:53Z"
 }

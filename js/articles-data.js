@@ -169836,5 +169836,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 05:12:57 +0000"
+  },
+  "b7f451": {
+    "id": "b7f451",
+    "type": "news",
+    "headline": "Robert Pattinson Named as the Eighth Actor to Play James Bond",
+    "dek": "Robert Pattinson has officially been selected to take on the legendary role of 007, becoming the eighth actor to lead the storied spy franchise.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "The iconic cinematic franchise has officially found its next lead in Robert Pattinson, who was revealed as the new 007 on Monday. The casting makes him the eighth actor to step into the role since the film series launched in 1962.",
+          "Expressing his excitement following the public reveal, Pattinson described taking on the legendary character as an extraordinary milestone. He noted that stepping into the shoes of 007 is the pinnacle of his career and a true dream come true."
+        ]
+      },
+      {
+        "h": "Gratitude and Team Partnerships",
+        "p": [
+          "In his official statement, the newly appointed lead shared his appreciation for the creative forces behind the upcoming project. He specifically thanked key figures at Amazon MGM Studios for placing their trust in his abilities.",
+          "Pattinson also expressed enthusiasm for collaborating with the talented production team moving forward, emphasizing his eagerness to begin working closely with everyone involved in bringing the spy thriller to life."
+        ]
+      },
+      {
+        "h": "Audition Process and Contenders",
+        "p": [
+          "Before securing the iconic part, rumors circulated on Reddit suggesting the actor had undergone an extensive two-hour audition process. Reports indicated he competed against several other prominent names in the industry.",
+          "The wider shortlist of contenders reportedly featured actors such as Callum Turner, Jack Lowden, Josh O’Connor, and Nicholas Hoult. Candidates were evaluated rigorously on their camera presence, stunt capabilities, and line delivery."
+        ]
+      },
+      {
+        "h": "Testing and Selection Behind the Scenes",
+        "p": [
+          "The screen tests were evaluated closely by a high-profile creative team, including director Denis Villeneuve alongside producers Amy Pascal and David Heyman. Prior to the final decision, names like Idris Elba, Tom Hardy, and Henry Cavill had spent years as fan favorites for the vacancy.",
+          "According to industry reports, the successful actor learned about his casting just a day prior to the public announcement. His director personally delivered the life-changing news over a phone call, while losing contenders received direct calls from the production team."
+        ]
+      },
+      {
+        "h": "Director Perspectives",
+        "p": [
+          "Director Denis Villeneuve released a statement praising the immense talent pool that participated in the rigorous testing phase. He expressed profound gratitude to all the remarkable performers who tested for the coveted part.",
+          "Welcoming the new lead, Villeneuve highlighted that the chosen star possesses a timeless quality and brings a completely fresh energy to the character. The filmmaker stated he is thrilled to commence production."
+        ]
+      },
+      {
+        "h": "Franchise History and Legacy",
+        "p": [
+          "The lineage of cinematic secret agents dates back to the franchise's inception with Sean Connery in Dr No. Over the decades, actors including David Niven, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig have held the license to kill.",
+          "The most recent installment concluded its run in 2021 with No Time to Die, which famously featured the dramatic on-screen demise of the previous lead. The upcoming film will chart an entirely new course for the property."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson has been announced as the eighth actor to play James Bond, taking over the iconic franchise role following Daniel Craig's departure in 2021. Director Denis Villeneuve and producers tested multiple contenders before casting Pattinson, who expressed immense gratitude for the opportunity."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson is the eighth actor to play James Bond.",
+      "The franchise started with Sean Connery's 1962 film Dr No.",
+      "The announcement was made on Monday.",
+      "Daniel Craig's last Bond film, No Time to Die, released in 2021."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Sean Connery",
+        "Denis Villeneuve",
+        "Amy Pascal",
+        "David Heyman",
+        "Tanya",
+        "Callum Turner",
+        "Jack Lowden",
+        "Josh O’Connor",
+        "Nicholas Hoult",
+        "Idris Elba",
+        "Tom Hardy",
+        "Henry Cavill",
+        "David Niven",
+        "George Lazenby",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan",
+        "Daniel Craig"
+      ],
+      "titles": [
+        "James Bond",
+        "Dr No",
+        "No Time to Die"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Denis Villeneuve 007",
+      "James Bond casting 2026",
+      "eighth actor to play James Bond"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/robert-pattinson-bond.jpg",
+        "caption": "Robert Pattinson Named as the Eighth Actor to Play James Bond",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 06:44:00 +0000"
+  },
+  "1mvlpxj": {
+    "id": "1mvlpxj",
+    "type": "news",
+    "headline": "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
+    "dek": "Parent company RTL Group experiences financial lifts and streaming triumphs amid ongoing challenges in linear television advertising markets.",
+    "body": [
+      {
+        "h": "Third-Quarter Financial Surge",
+        "p": [
+          "Fremantle experienced a notable revenue increase of 7.8 percent during the third quarter, reaching €482 million, which equates to approximately $541 million. This growth trajectory successfully offset a softer financial start earlier in the calendar year.",
+          "The primary catalyst behind this quarterly surge was the delivery and strong performance of the high-profile thriller series Kill Jackie. This positive momentum provided a much-needed financial boost to its parent organization, RTL Group."
+        ]
+      },
+      {
+        "h": "Year-to-Date Performance and Division Timings",
+        "p": [
+          "Despite the strong third-quarter results, cumulative revenue figures across the first nine months of the year demonstrated a slight decline of 2.6 percent, landing at €1.32 billion or roughly $1.48 billion.",
+          "Executives attributed this minor nine-month dip primarily to scheduling and timing effects that impacted Fremantle's dedicated drama and film division during the initial half of the year. Meanwhile, the enterprise's entertainment and documentary divisions remained relatively stable."
+        ]
+      },
+      {
+        "h": "Streaming Successes Across Multiple Titles",
+        "p": [
+          "Several distinct productions under the Fremantle banner achieved significant viewership milestones on major streaming platforms throughout the tracking period. The reality competition program Wonka's The Golden Ticket launched on Netflix and quickly established itself as the platform's leading reality competition debut of the year.",
+          "Additionally, the documentary series Death of the Pastor's Wife dominated global charts as Netflix's top worldwide TV series for two consecutive weeks, alongside Minerva Academy securing positions in the Top 10 across numerous global territories."
+        ]
+      },
+      {
+        "h": "Global Distribution and Broadcast Milestones",
+        "p": [
+          "The thriller Kill Jackie continued to expand its international footprint following key distribution agreements. Warner Bros. Discovery secured the series for HBO Max across critical European markets, complementing existing availability on Prime Video and AMC+.",
+          "On traditional broadcast networks, the enduring competition format America's Got Talent successfully completed its twenty-first season, anchoring NBC's network programming schedule and dominating the U.S. summer television lineup."
+        ]
+      },
+      {
+        "h": "RTL Group Financial Health and Streaming Expansion",
+        "p": [
+          "At the broader group level, RTL reported total revenues climbing to €4.74 billion for the first nine months, aided by strategic portfolio additions and robust digital expansion. Paid subscriber bases for platforms like RTL+ and M6+ reached a combined nine million users.",
+          "This digital acceleration helped offset ongoing downturns in linear television advertising. Group leadership emphasized that streaming growth and strong studio output successfully safeguarded operating profits despite persistent market headwinds."
+        ]
+      },
+      {
+        "h": "Adjusted Guidance and Future Outlook",
+        "p": [
+          "In response to weaker-than-anticipated fourth-quarter demand within linear television advertising sectors, RTL Group revised its full-year revenue expectations downward toward the lower end of previous projections. Operating profit forecasts were similarly adjusted to reflect prevailing market realities.",
+          "Despite these localized advertising slumps, Fremantle continues operating on schedule toward achieving its established operational margin targets, backed by massive annual production volumes spanning numerous international markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fremantle posted a 7.8 percent revenue increase in the third quarter, largely driven by the thriller series Kill Jackie. This studio growth helped support parent company RTL Group even as linear TV advertising markets faced ongoing slumps and revised full-year financial forecasts."
+        ]
+      }
+    ],
+    "facts": [
+      "Fremantle Q3 revenue rose 7.8 percent to €482 million.",
+      "First nine months revenue fell 2.6 percent to €1.32 billion.",
+      "America's Got Talent is in Season 21.",
+      "RTL Group total revenue for January to September rose 15.1 percent to €4.74 billion.",
+      "Paid subscriptions to RTL+ and M6+ reached 9 million at September 30."
+    ],
+    "entities": {
+      "people": [
+        "Clement Schwebig"
+      ],
+      "titles": [
+        "Kill Jackie",
+        "America's Got Talent",
+        "Wonka's The Golden Ticket",
+        "Death of the Pastor's Wife",
+        "Minerva Academy",
+        "Baywatch"
+      ]
+    },
+    "keywords": [
+      "Fremantle revenue Q3",
+      "Kill Jackie series",
+      "RTL Group financial results",
+      "America's Got Talent Season 21"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/KillJackie_EP01_unitstill_260325_UM_02888.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 07:20:28 +0000"
+  },
+  "16owyca": {
+    "id": "16owyca",
+    "type": "news",
+    "headline": "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
+    "dek": "DCU's horror film Clayface reaches a new milestone at the box office, surpassing the domestic lifetime total of Superman III.",
+    "body": [
+      {
+        "h": "Theatrical Run and Milestones",
+        "p": [
+          "The DCU horror release Clayface is nearing the conclusion of its theatrical run after establishing itself as one of the franchise's successful outings. Bringing a notable Batman villain to the big screen, the feature has steadily outpaced several established titles in the studio's catalog. Having already crossed the $100 million milestone globally, the project continues to achieve notable box office markers as it wraps up its time in cinemas."
+        ]
+      },
+      {
+        "h": "Domestic and International Earnings",
+        "p": [
+          "After completing 24 days in domestic theaters, the feature brought in a little over $1 million on its fourth Sunday. Across its fourth weekend, the film accumulated a total of $3.7 million. Although it slipped out of the top 10 at the North American box office on its fourth Sunday, its cumulative domestic earnings have reached $63.6 million. Combined with $57.7 million pulled in from international territories, the movie's worldwide collection now stands at $121.3 million."
+        ]
+      },
+      {
+        "h": "Passing Superman III",
+        "p": [
+          "Holding the 34th position on the all-time list of DCU films, Clayface has officially climbed past the domestic lifetime gross of the 1983 superhero-comedy release Superman III, which starred Christopher Reeve and finished its run with $59.9 million in North America. The horror project is currently positioned just behind V for Vendetta, which earned $70.5 million domestically, and holds potential to overtake that title to claim the 33rd rank."
+        ]
+      },
+      {
+        "h": "Global Projections and Comparison",
+        "p": [
+          "On the global front, the movie is closing in on the worldwide figures of Supergirl, which sits at $126.7 million. Industry tracking suggests that the feature is poised to conclude its theatrical run with a global gross ranging between $130 million and $150 million, which will comfortably push it past Supergirl's total earnings."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers on an emerging Hollywood celebrity whose existence takes a dark twist as he mutates into a vengeful monster. Delving into motifs of vanishing identity, lost humanity, destructive affection, and unchecked scientific ambition, the storyline follows his unsettling transformation into darkness. The movie was released on October 23."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The DCU horror film Clayface has crossed $121.3 million globally after 24 days in domestic theaters, surpassing the North American lifetime gross of Superman III. Industry trackers project the film will finish its theatrical run with up to $150 million worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Clayface completed 24 days in domestic theaters",
+      "On its fourth Sunday, Clayface earned a little over $1 million",
+      "During its fourth weekend, Clayface earned $3.7 million",
+      "The domestic total of Clayface stands at $63.6 million",
+      "International earnings for Clayface are $57.7 million",
+      "The worldwide total for Clayface is $121.3 million",
+      "Superman III earned $59.9 million during its lifetime at the domestic box office",
+      "V for Vendetta earned $70.5 million",
+      "Supergirl earned $126.7 million worldwide",
+      "Clayface was released on October 23"
+    ],
+    "entities": {
+      "people": [
+        "Tom Rhys Harries",
+        "Christopher Reeve",
+        "Nicholas Hoult"
+      ],
+      "titles": [
+        "Clayface",
+        "Superman 3",
+        "V for Vendetta",
+        "Supergirl",
+        "Wildwood",
+        "How To Rob A Bank",
+        "Everest"
+      ]
+    },
+    "keywords": [
+      "Clayface box office",
+      "Clayface Superman 3",
+      "Tom Rhys Harries Clayface",
+      "Clayface domestic total"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/clayface-north-america-box-office-beats-the-1983-film-superman-3-01.jpg",
+        "caption": "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 07:17:11 +0000"
+  },
+  "ltv81g": {
+    "id": "ltv81g",
+    "type": "news",
+    "headline": "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie",
+    "dek": "Following its premiere at the TCL Chinese Theater, critics and audiences shared enthusiastic first reactions to Brad Pitt's return as Cliff Booth in the Netflix pseudo-sequel.",
+    "body": [
+      {
+        "h": "Initial Skepticism Surrounding the Project",
+        "p": [
+          "When word first emerged about a new feature centered on the iconic stuntman, many within the entertainment community treated the announcement with caution. The concept of Brad Pitt stepping back into his Oscar-winning persona for a pseudo-sequel to Once Upon a Time in Hollywood raised numerous eyebrows across the industry. Because the initial disclosure arrived on April Fool's Day, several observers questioned whether the entire endeavor was merely an elaborate hoax rather than a genuine production.",
+          "Doubts were eventually laid to rest when official details confirmed that the feature was indeed moving forward under high-profile creative leadership. The unique collaboration brought together writer Quentin Tarantino and director David Fincher, turning an unexpected headline into one of the most anticipated cinematic ventures of the 2026 calendar."
+        ]
+      },
+      {
+        "h": "The Greenlight Story and Premiere Event",
+        "p": [
+          "The path to production featured a remarkably streamlined greenlight process, as shared by Netflix co-CEO Ted Sarandos during the premiere introduction. Sarandos revealed that he decided to back the picture immediately after receiving a concise eleven-word text message from David Fincher detailing the creative team and starring actor. Without hesitation, the executive replied with a simple affirmation that set the machinery in motion.",
+          "On Monday, November 16, attendees packed the TCL Chinese Theater for the official Los Angeles debut of the movie. The packed crowd experienced the very first public screening of the feature, which blends atmospheric crime elements with comedic wanderings through historical Los Angeles."
+        ]
+      },
+      {
+        "h": "A Stylized Look at 1970s Los Angeles",
+        "p": [
+          "Viewers stepping into the screening were treated to an immersive recreation of nineteen-seventies Los Angeles, complete with period-accurate styling and meticulous set designs. The narrative functions as a sprawling hangout picture, allowing the protagonist to traverse the urban landscape while leaning heavily into charisma and laid-back momentum.",
+          "The atmosphere is further heightened by a curated selection of classic soul and rock needle drops that accompany the meandering storyline. Reviewers noted that the overall aesthetic acts as a loving tribute to the cinematic styles and eras that fascinated the original creative minds."
+        ]
+      },
+      {
+        "h": "Cast Performances and On-Screen Chemistry",
+        "p": [
+          "Brad Pitt's performance received widespread acclaim from critics sharing their thoughts on social media following the credits. Observers highlighted his effortless return to the role, with some labeling it among his most engaging recent screen turns.",
+          "Alongside the lead actor, Elizabeth Debicki earned high praise for her magnetic romantic chemistry and striking presence in the narrative. Additional standout contributions came from supporting players, including Peter Weller, who drew particular mention for his memorable work as an MVP presence in the sprawling cast."
+        ]
+      },
+      {
+        "h": "Music and Easter Eggs Abound",
+        "p": [
+          "Fans of the preceding film will find plenty of rewards throughout the runtime, as the production is packed with clever nods and Easter eggs referencing the original story. Reviewers pointed out numerous subtle callbacks that connect the narrative directly to its predecessor.",
+          "In addition to the visual references, the auditory landscape drew heavy applause from early attendees. The musical score, crafted by Trent and Atticus, received ecstatic notices for elevating the tension and rhythm of the production."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical and Streaming Windows",
+        "p": [
+          "Audiences eager to experience the project outside of festival and premiere settings will have multiple viewing opportunities in the coming weeks. The studio has scheduled a special two-week exclusive engagement in global IMAX theaters starting on November 25, 2026.",
+          "Following the limited theatrical run, the feature will make its wider digital debut on Netflix just in time for the holidays on Wednesday, December 23, allowing home viewers to stream the much-discussed release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Following its premiere at the TCL Chinese Theater, critics shared overwhelmingly positive first reactions to 'The Further Mis-Adventures of Cliff Booth', praising Brad Pitt's return and the direction by David Fincher. The movie is scheduled for an IMAX release before arriving on Netflix in late 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The Los Angeles premiere took place on Monday, November 16, 2026.",
+      "The premiere was held at the TCL Chinese Theater.",
+      "Ted Sarandos is the Netflix co-CEO.",
+      "The film is scheduled for a two-week exclusive IMAX engagement starting November 25, 2026.",
+      "The film will debut on Netflix on Wednesday, December 23, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Quentin Tarantino",
+        "David Fincher",
+        "Ted Sarandos",
+        "Elizabeth Debicki",
+        "Peter Weller",
+        "Trent",
+        "Atticus",
+        "Clayton Davis",
+        "Simon Thompson",
+        "Germain Lussier",
+        "Courtney Howard",
+        "Jazz Tangcay"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood",
+        "Once Upon a Time…",
+        "Hershey",
+        "Spider-Man: Brand New Day",
+        "Edward Said: Between Worlds",
+        "14th",
+        "Club Kid",
+        "Ebenezer",
+        "Blue Film",
+        "Kill Jackie",
+        "Call Me Bae"
+      ]
+    },
+    "keywords": [
+      "The Further Mis-Adventures of Cliff Booth",
+      "Brad Pitt Cliff Booth",
+      "David Fincher movie",
+      "Quentin Tarantino Cliff Booth"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
+        "caption": "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 06:58:15 +0000"
   }
 };

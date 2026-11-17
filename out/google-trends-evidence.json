@@ -1,8 +1,850 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-17T06:09:43.452208Z",
+ "checked_at": "2026-11-17T08:00:43.105620Z",
  "status": "ok",
  "items": [
+  {
+   "q": "tahiti",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Épidémie de grippe : le service de réanimation en Polynésie française sature face à l'arrivée précoce du virus d'un virus précoce",
+     "url": "https://la1ere.franceinfo.fr/polynesie/epidemie-de-grippe-le-service-de-reanimation-en-polynesie-francaise-sature-face-a-l-arrivee-d-un-virus-precoce-1757355.html"
+    },
+    {
+     "title": "Grippe : l’épidémie s’intensifie, les cas de varicelle également en hausse à Tahiti",
+     "url": "https://www.tntvnews.pf/polynesie/sante/grippe-lepidemie-sintensifie-les-cas-de-varicelle-egalement-en-hausse-a-tahiti/"
+    },
+    {
+     "title": "Déjà 155 cas de grippe, 55 hospitalisations et 3 morts",
+     "url": "https://www.radio1.pf/deja-155-cas-de-grippe-55-hospitalisations-et-3-morts/"
+    }
+   ]
+  },
+  {
+   "q": "los angeles weather",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T07:10:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "SoCal’s first atmospheric river storm of the season arrives this week: Here’s what it will bring",
+     "url": "https://www.latimes.com/california/story/2026-11-16/socals-first-atmospheric-river-storm-of-season-arrives-this-week"
+    },
+    {
+     "title": "Atmospheric river takes aim at Southern California with heavy rain, coastal flooding and mountain snow",
+     "url": "https://ktla.com/news/california/atmospheric-river-takes-aim-southern-california-heavy-rain-coastal-flooding-and-mountain-snow/"
+    },
+    {
+     "title": "Wet weather and dangerous surf continue in SoCal ahead of potential midweek storm",
+     "url": "https://www.foxla.com/news/rain-la-weather-high-surf-storm-november-16"
+    }
+   ]
+  },
+  {
+   "q": "fox news politics",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T07:00:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Pete Buttigieg fires back at Trump blaming him for FAA ground stop",
+     "url": "https://www.cnn.com/2026/11/16/politics/buttigieg-trump-faa-groundstop"
+    },
+    {
+     "title": "Even High-Flying Democrats Found Themselves Grounded in the Mile High City",
+     "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html"
+    },
+    {
+     "title": "Buttigieg fires back at Trump over FAA outage blame",
+     "url": "https://thehill.com/policy/transportation/6223723-buttigieg-trump-faa-groundstop/"
+    }
+   ]
+  },
+  {
+   "q": "axios",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Jordan inherits House GOP fight over punishing rebels",
+     "url": "https://www.axios.com/2026/11/17/jim-jordan-house-gop-rules"
+    },
+    {
+     "title": "House Republicans push for new rules targeting maverick holdouts",
+     "url": "https://www.politico.com/live-updates/2026/11/13/congress/house-gop-debates-disclipline-01164854"
+    },
+    {
+     "title": "Jim Jordan has lesson for Sherrod Brown and other Democrats | Opinion",
+     "url": "https://www.dispatch.com/story/opinion/columns/guest/2026/11/11/jim-jordan-sherrod-brown-ohio-senate-chuck-schumer/92707490007/"
+    }
+   ]
+  },
+  {
+   "q": "san diego",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "San Diego Unified unveils e-bike safety policy, board to vote Tuesday",
+     "url": "https://www.nbcsandiego.com/news/local/san-diego-unified-unveils-e-bike-safety-policy-board/4103005/"
+    },
+    {
+     "title": "San Diego Unified set to approve districtwide e-bike rules as injuries climb",
+     "url": "https://www.cbs8.com/article/news/education/san-diego-unified-to-approve-districtwide-e-bike-rules-as-injuries-climb/509-a9feb4fb-64fa-4ec3-85e5-e7456969de4c"
+    },
+    {
+     "title": "Coronado schools unveil new requirements for e-bikes",
+     "url": "https://coronadotimes.com/news/2026/11/16/coronado-schools-unveil-new-requirements-for-e-bikes/"
+    }
+   ]
+  },
+  {
+   "q": "apec",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Chinese, US business leaders to attend APEC summit in Shenzhen",
+     "url": "https://www.reuters.com/world/asia-pacific/chinese-us-business-leaders-attend-apec-summit-shenzhen-2026-11-16/"
+    },
+    {
+     "title": "Foreign Ministry Spokesperson Mao Ning’s Regular Press Conference on November 13, 2026",
+     "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202611/t20261113_12059012.html"
+    },
+    {
+     "title": "China APEC",
+     "url": "https://www.wvnews.com/newsfeed/world/china-apec/image_e9883f6f-b4c8-59f2-b051-ee5af7ccd003.html"
+    }
+   ]
+  },
+  {
+   "q": "john kiriakou",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
+     "url": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a"
+    },
+    {
+     "title": "The critical new geopolitical truth that explains Trump’s defense of ex-Nvidia chief",
+     "url": "https://www.cnn.com/2026/11/17/politics/trump-nvidia-jensen-huang-china"
+    },
+    {
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    }
+   ]
+  },
+  {
+   "q": "tahiti vs cook islands soccer",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:10:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Tahiti vs Cook Islands: First Half Total",
+     "url": "https://www.coinbase.com/en-nl/predictions/event/KXINTLFRIENDLY1HTOTAL-26NOV14TAHCOK"
+    },
+    {
+     "title": "Tahiti - Cook Islands prediction & picks 17.11.2026",
+     "url": "https://www.transfermarkt.us/online-betting/picks/tahiti-vs-cook-islands-picks-17-11-2026/"
+    },
+    {
+     "title": "Tahiti vs Cook Islands Preview & Prediction | 2026 International Friendly",
+     "url": "https://www.thestatszone.com/tahiti-vs-cook-islands-preview-prediction-2026-international-friendly-239324"
+    }
+   ]
+  },
+  {
+   "q": "gta 6 ultimate edition",
+   "traffic": "20000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:10:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "The biggest entertainment event of the year isn’t a movie — it’s ‘Grand Theft Auto VI’",
+     "url": "https://www.cnn.com/2026/11/16/media/grand-theft-auto-gta-vi-entertainment-media"
+    },
+    {
+     "title": "All tech eyes on Grand Theft Auto VI release Thursday",
+     "url": "https://www.audacy.com/wben/news/local/all-tech-eyes-on-grand-theft-auto-vi-release-thursday"
+    },
+    {
+     "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+     "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games"
+    }
+   ]
+  },
+  {
+   "q": "magic johnson",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T06:00:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "“Slam the Door Three Times”: Ex-Laker Recalls Furious Magic Johnson Kicking His Locker After Larry Bird Taunt",
+     "url": "https://sports.yahoo.com/articles/slam-door-three-times-ex-162652000.html"
+    },
+    {
+     "title": "Heat 137-117 Pistons (Nov 14, 2026) Game Recap",
+     "url": "https://www.espn.com/nba/recap/_/gameId/401909982"
+    },
+    {
+     "title": "Starting 5: Heat roll, Sixers rise, KD vs. AJ",
+     "url": "https://www.nba.com/news/starting-5-november-15-2026"
+    }
+   ]
+  },
+  {
+   "q": "jensen huang nvidia ceo",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+     "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
+    },
+    {
+     "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
+     "url": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a"
+    },
+    {
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    }
+   ]
+  },
+  {
+   "q": "libra horoscope today",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Libra Horoscope Today: November 17, 2026",
+     "url": "https://www.vogue.in/content/libra-horoscope-today-november-17-2026"
+    },
+    {
+     "title": "Libra, Weekly Horoscope, November 15 to November 21, 2026: Embrace family happiness, romantic development",
+     "url": "https://timesofindia.indiatimes.com/astrology/horoscope/libra-weekly-horoscope-november-15-to-november-21-2026-embrace-family-happiness-romantic-developments-and-career-recognition-while-managing-spending-wisely/articleshow/135805264.cms"
+    },
+    {
+     "title": "Libra Horoscope Today, November 15, 2026",
+     "url": "https://www.news18.com/astrology/horoscope/libra-daily-horoscope-today-tula-rashifal-astrological-predictions-on-november-15-2026-10426030.html"
+    }
+   ]
+  },
+  {
+   "q": "बातमी",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": []
+  },
+  {
+   "q": "சின்ன வெங்காயம்",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "கோயம்பேடு மார்க்கெட்டில் காய்கறி விலைகள் கிடு கிடு உயர்வு: சின்ன வெங்காயம் கிலோ ரூ.200க்கு விற்பனை",
+     "url": "https://makkalkural.net/%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%81-%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2/"
+    },
+    {
+     "title": "மழை காரணமாக உற்பத்தி பாதிப்பு: சின்ன வெங்காயம் கிலோ ரூ.210 ஆக உயர்வு",
+     "url": "https://www.hindutamil.in/news/business/small-onion-price-rises-to-rs-210-per-kg"
+    },
+    {
+     "title": "Vegetables Price Hike| காய்கறிகள் விலை உயர்வு - பொதுமக்கள் கருத்து",
+     "url": "https://www.thanthitv.com/news/tamilnadu/vegetable-price-hike-what-do-the-public-have-to-say"
+    }
+   ]
+  },
+  {
+   "q": "नागालैंड",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "हॉर्नबिल उत्सव 2026: नागालैंड की संस्कृति और पर्यटन का बड़ा मंच",
+     "url": "https://www.gktoday.in/hindi/%E0%A4%B9%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%AC%E0%A4%BF%E0%A4%B2-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5-2026-%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%BE%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1/"
+    },
+    {
+     "title": "नागालैंड में विदेशी पर्यटकों के लिए संरक्षित क्षेत्र परमिट में ढील, पर्यटन को मिलेगा बढ़ावा",
+     "url": "https://www.lokmatnews.in/india/nagaland-relaxes-protected-area-permit-for-foreign-tourists-boosts-tourism-a001-w01/"
+    },
+    {
+     "title": "जनजाति विकास समिति ने नागालैंड में मुफ्त डेंटल कैंप चलाया, 368 मरीजों का इलाज",
+     "url": "https://panchjanya.com/2026/11/17/499150/bharat/janjati-vikas-samiti-nagaland-free-dental-camp/"
+    }
+   ]
+  },
+  {
+   "q": "ఇల్లు ఇల్లాలు పిల్లలు",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Illu Illalu Pillalu Today నవంబర్ 17 ఎపిసోడ్: కూరగాయలు అమ్ముతున్న వల్లీ.. నేరుగా అత్తింటికి!! కెమెరాకి చిక్కిన లంచావతారం సాగర్",
+     "url": "https://telugu.samayam.com/tv/news/chandu-accuses-srivalli-of-orchestrating-the-vegetable-vender-in-illu-illalu-pillalu-2026-november-17-episode-preview/articleshow/135908368.cms"
+    },
+    {
+     "title": "Illu Illalu Pillalu Serial Today November 17th: ఇల్లు ఇల్లాలు పిల్లలు: నెత్తిన బుట్ట పెట్టి కూరగాయలు అమ్ముతున్న",
+     "url": "https://telugu.abplive.com/entertainment/tv/illu-illalu-pillalu-serial-today-november-17th-2026-written-update-in-telugu-in-star-maa-jio-hotstar-263830"
+    },
+    {
+     "title": "Illu Illalu Pillalu Today నవంబర్ 09 ఎపిసోడ్: భాగ్యం రక్తం కళ్లచూసిన ధీరజ్.. రామరాజు కాళ్లపై పడి క్షమాపణ.. పగతో రగిలిపోయిన భాగ్యం",
+     "url": "https://telugu.samayam.com/tv/news/bhagyam-apologies-to-ramaraju-for-insulting-in-illu-illalu-pillalu-2026-november-09-episode-preview/articleshow/135669762.cms"
+    }
+   ]
+  },
+  {
+   "q": "বালিগঞ্জ",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:00:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Kolkata News : বালিগঞ্জ থেকে একাধিক রুটে অটো বন্ধ, চরম উত্তেজনা ভোগান্তি যাত্রীদের",
+     "url": "https://bengali.abplive.com/district/kolkata-news-auto-services-on-several-routes-from-ballygunge-have-been-stopped-leading-to-high-tension-and-causing-hardship-for-passengers-1199564"
+    },
+    {
+     "title": "অটো বন্ধে সমস্য়ায় যাত্রীরা",
+     "url": "https://www.aaroananda.com/story/news/in-focus/ballygunge-auto-strike-causes-severe-commuter-distress-in-kolkata/11028738"
+    },
+    {
+     "title": "Kolkata News: বালিগঞ্জে অটো রুট বন্ধ করা নিয়ে উত্তেজনা ছড়াল এলাকায় | ABP Ananda",
+     "url": "https://bengali.abplive.com/videos/district/kolkata-news-tension-flared-in-the-ballygunge-area-over-the-closure-of-an-auto-rickshaw-route-watch-video-1199570"
+    }
+   ]
+  },
+  {
+   "q": "withdraw",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T07:00:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz"
+    },
+    {
+     "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+     "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
+    },
+    {
+     "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+     "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+    }
+   ]
+  },
+  {
+   "q": "सनी",
+   "traffic": "2000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T06:50:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "सनी देओल की सूर्या हुई पोस्टपोन, डॉक्टरों की आपत्ति का हुआ असर! सेंसर सर्टिफिकेट मिलने में हुई देरी",
+     "url": "https://www.aajtak.in/entertainment/bollywood-news/story/sunny-deol-ravi-kishan-starrer-suryaa-postponed-cbfc-delay-doctors-controversy-producer-reacts-tmovj-dskc-2698348-2026-11-17"
+    },
+    {
+     "title": "राजस्थान हाईकोर्ट ने सनी देओल की सूर्या को लेकर जारी किया नोटिस, 3 दिनों में मांगा",
+     "url": "https://www.abplive.com/entertainment/bollywood/rajasthan-high-court-issues-notice-to-sunny-deol-film-surya-seeks-reply-in-3-days-3215735"
+    },
+    {
+     "title": "डॉक्टरों के खिलाफ हिंसा दिखाना सनी देओल को पड़ा भारी, IMA की शिकायत के बाद टल गई Suryaa की रिलीज डेट",
+     "url": "https://www.jagran.com/entertainment/bollywood-sunny-deol-suryaa-postponed-amid-doctors-controversy-to-release-in-2027-next-year-40438155.html"
+    }
+   ]
+  },
+  {
+   "q": "chase bank outages",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T06:50:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays"
+    },
+    {
+     "title": "Widespread service outages at major U.S. banks appear to be over",
+     "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/"
+    },
+    {
+     "title": "Customers at some of the U.S.’ largest banks are reporting difficulty accessing accounts online",
+     "url": "https://www.thehindu.com/news/international/customers-at-some-of-the-us-largest-banks-are-reporting-difficulty-accessing-accounts-online/article71709556.ece"
+    }
+   ]
+  },
+  {
+   "q": "vicky pattison",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Vicky Pattison spotted helping Christmas shoppers in Newcastle's Eldon Square",
+     "url": "https://www.chroniclelive.co.uk/whats-on/whats-on-news/vicky-pattison-spotted-helping-christmas-34917246"
+    },
+    {
+     "title": "Vicky Pattison reveals she's finally getting her dream honeymoon after Dubai attacks halted plans",
+     "url": "https://www.thesun.co.uk/tvandshowbiz/41022364/vicky-pattison-gets-dream-honeymoon-after-dubai-attacks/"
+    }
+   ]
+  },
+  {
+   "q": "axios",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Axios Hires Nora Eckert From Reuters to Cover Future of Mobility and Transportation",
+     "url": "https://www.citybiz.co/article/933617/axios-hires-nora-eckert-from-reuters-to-cover-future-of-mobility-and-transportation/"
+    },
+    {
+     "title": "Axios hires Eckert from Reuters",
+     "url": "https://talkingbiznews.com/media-news/axios-hires-eckert-from-reuters/"
+    },
+    {
+     "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo"
+    }
+   ]
+  },
+  {
+   "q": "razaullah",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": []
+  },
+  {
+   "q": "xbox console boot animation update",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+     "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/"
+    },
+    {
+     "title": "Every Xbox Console Generation Sorted By Release Date",
+     "url": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/"
+    },
+    {
+     "title": "Xbox’s 25th Birthday Was All Over the Place",
+     "url": "https://www.polygon.com/patch-notes-xbox-25th-anniversary/"
+    }
+   ]
+  },
+  {
+   "q": "météo",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Les températures attendues ce mardi 17 novembre 2026",
+     "url": "https://fr.hespress.com/496715-les-temperatures-attendues-ce-mardi-17-novembre-2026.html"
+    },
+    {
+     "title": "Météo : temps généralement ensoleillé sur l’ensemble du territoire national",
+     "url": "https://lapatrienews.dz/meteo-temps-generalement-ensoleille-sur-lensemble-du-territoire-national/"
+    },
+    {
+     "title": "Météo de demain mardi : pluies attendues dans certaines régions du Royaume",
+     "url": "https://fr.hibapress.com/news-285665.html"
+    }
+   ]
+  },
+  {
+   "q": "meteorologia",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "El Niño pode prejudicar Brasil e beneficiar Argentina, Uruguai e Paraguai, diz Fitch",
+     "url": "https://www.bloomberglinea.com.br/2026/11/16/el-nino-pode-prejudicar-brasil-e-beneficiar-argentina-uruguai-e-paraguai-diz-fitch/"
+    },
+    {
+     "title": "El Niño deve perder força em 2027 e terminar no outono",
+     "url": "https://revistacultivar.com.br/noticias/el-nino-deve-perder-forca-em-2027-e-terminar-no-outono"
+    },
+    {
+     "title": "“Precisamos entender quando os impactos passam a comprometer de forma contínua a população”",
+     "url": "https://racismoambiental.net.br/2026/11/16/precisamos-entender-quando-os-impactos-passam-a-comprometer-de-forma-continua-a-populacao/"
+    }
+   ]
+  },
+  {
+   "q": "criminal investigation",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Peterborough leader calls for inquiry into disgraced ex-member",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkg0zz7z3mo"
+    },
+    {
+     "title": "Hiding in plain sight: How Rylan Ray kept up his public image as a Peterborough councillor while facing a criminal investigation",
+     "url": "https://www.cambsnews.co.uk/news/hiding-in-plain-sight-how-rylan-ray-kept-up-his-public-image-as-a-peterborough-councillor-while-facing-a-criminal-investigation/47242/"
+    },
+    {
+     "title": "Tories knew of child sex allegations against Peterborough councillor but waited 6 months to suspend him",
+     "url": "https://www.cambsnews.co.uk/investigation/exclusive/tories-knew-of-child-sex-allegations-against-peterborough-councillor-but-waited-6-months-to-suspend-him/47257/"
+    }
+   ]
+  },
+  {
+   "q": "hip drop tackle",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "'Is that not match-fixing?' - Erasmus questions officiating",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go"
+    },
+    {
+     "title": "Explosive Erasmus comments set the tone for Test week",
+     "url": "https://www.rte.ie/sport/rugby/2026/1116/1599460-explosive-erasmus-comments-set-the-tone-for-test-week/"
+    },
+    {
+     "title": "Rassie Erasmus: World Rugby to review South Africa head coach's extraordinary comments about double standards from officials",
+     "url": "https://www.skysports.com/rugby-union/news/13613011/rassie-erasmus-world-rugby-to-review-south-africa-head-coachs-extraordinary-comments-about-double-standards-from-officials"
+    }
+   ]
+  },
+  {
+   "q": "heidi gardner",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "'SNL' Alum Heidi Gardner's Boyfriend Dead at 43",
+     "url": "https://www.tmz.com/2026/11/16/ray-tintori-dead/"
+    },
+    {
+     "title": "Filmmaker Ray Tintori, Boyfriend of SNL Alum Heidi Gardner, Dead at 43",
+     "url": "https://people.com/filmmaker-ray-tintori-boyfriend-of-snl-alum-heidi-gardner-dead-12259461"
+    },
+    {
+     "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43",
+     "url": "https://variety.com/2026/film/news/ray-tintori-dead-filmmaker-beasts-southern-wild-1236949816/"
+    }
+   ]
+  },
+  {
+   "q": "ian paterson",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Ian Paterson patient Gillian Hudson among those recalled to hospital",
+     "url": "https://www.bbc.co.uk/news/articles/ck205jvv2ewpo"
+    }
+   ]
+  },
+  {
+   "q": "isaac heeney",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "GALLERY: Banned Swans train with teammates",
+     "url": "https://www.afl.com.au/news/1641576/in-pictures-banned-sydney-swans-isaac-heeney-chad-warner-and-james-jordon-return-to-training"
+    },
+    {
+     "title": "Rita Panahi: Swans saga a perfect storm of mass hysteria and virtue signalling",
+     "url": "https://www.heraldsun.com.au/news/opinion/rita-panahi-the-sydney-swans-case-was-never-representative-of-the-treatment-of-women-in-football-or-in-society/news-story/4e029461cf41b31c62a4578375d1df56"
+    },
+    {
+     "title": "'As you'd imagine': Banned Swans stars speak after big step towards returns",
+     "url": "https://www.foxsports.com.au/en-AU/news/australian-rules-football/as-youd-imagine-banned-swans-stars-speak-after-big-step-towards-returns/1os0diybznxw415qzoikv7mqsp"
+    }
+   ]
+  },
+  {
+   "q": "adelaide carlton pick trade afl draft",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:40:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "He's one of the best young players in the country. He says this chair is his biggest achievement",
+     "url": "https://www.afl.com.au/news/1640203/of-all-the-things-this-top-draft-prospect-lochie-burrows-is-proud-of-in-2026-this-chair-tops-the-list"
+    },
+    {
+     "title": "Crows in talks with Vic club for major draft pick trade",
+     "url": "https://www.theaustralian.com.au/sport/afl/afl-draft-crows-plot-trade-with-carlton-for-pick-13-in-order-to-swoop-on-lochie-burrows/news-story/1f7c2dab259a1bdc77f55c56112bd841"
+    },
+    {
+     "title": "‘Always believed’: Inside draft bolter’s rise sparking 17 club interviews… with two VERY keen",
+     "url": "https://www.foxsports.com.au/en-AU/news/australian-rules-football/always-believed-inside-draft-bolters-rise-that-sparked-17-club-interviews-with-two-very-keen/d7dkenfpv6h8x9qzgpgqqanz7"
+    }
+   ]
+  },
+  {
+   "q": "spaceplane",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Virgin Galactic aims for Delta spaceplane glide tests in January",
+     "url": "https://www.flightglobal.com/space/2026/11/virgin-galactic-aims-for-delta-spaceplane-glide-tests-in-january/"
+    },
+    {
+     "title": "Virgin Galactic Delivers Delta Class Spaceship Apeiron, Plans 15",
+     "url": "https://www.gurufocus.com/news/9196710/virgin-galactic-delivers-delta-class-spaceship-apeiron-plans-150-annual-flights-spce"
+    },
+    {
+     "title": "Virgin Galactic’s Apeiron – Named for the Ancient Greek “Boundless” – Arrives at Spaceport America",
+     "url": "https://greekcitytimes.com/2026/11/08/virgin-galactic-apeiron-spaceport-america/"
+    }
+   ]
+  },
+  {
+   "q": "axios",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Jordan inherits House GOP fight over punishing rebels",
+     "url": "https://www.axios.com/2026/11/17/jim-jordan-house-gop-rules"
+    },
+    {
+     "title": "House Republicans push for new rules targeting maverick holdouts",
+     "url": "https://www.politico.com/live-updates/2026/11/13/congress/house-gop-debates-disclipline-01164854"
+    },
+    {
+     "title": "Jim Jordan has lesson for Sherrod Brown and other Democrats | Opinion",
+     "url": "https://www.dispatch.com/story/opinion/columns/guest/2026/11/11/jim-jordan-sherrod-brown-ohio-senate-chuck-schumer/92707490007/"
+    }
+   ]
+  },
+  {
+   "q": "corpse flower geelong",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:30:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "‘We’re assuming it’s going to be a lot smellier this year’: Pete the corpse flower prepares to bloom in Geelong",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/pete-corpse-flower-blooms-in-geelong-botanic-gardens"
+    },
+    {
+     "title": "Giant corpse flower 'Pete' set to bloom in regional Victoria",
+     "url": "https://www.abc.net.au/news/2026-11-13/giant-corpse-flower-about-to-bloom-in-geelong/107378284"
+    },
+    {
+     "title": "Geelong’s stinky corpse flower begins to bloom",
+     "url": "https://www.geelongadvertiser.com.au/news/geelong/geelong-corpse-flower-stinky-pete-starts-to-bloom/news-story/5766ff7a80f00548a68fbde917be4f55"
+    }
+   ]
+  },
+  {
+   "q": "steffie waters",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Isaac Heeney and fiancee in emotional public exchange",
+     "url": "https://www.dailytelegraph.com.au/entertainment/sydney-confidential/isaac-heeney-and-fiancee-steffie-waters-pictured-in-emotional-exchange-after-police-clearance/news-story/b434baffea66c1f118e7581832b01f0f"
+    },
+    {
+     "title": "Waters ‘very cosy’ with identity, pic detail",
+     "url": "https://www.news.com.au/sport/sports-life/steffie-waters-very-cosy-with-identity-amid-cheeky-swipe-at-isaac-heeney/news-story/aa8ea530b85af70b2d11757f82375df9"
+    },
+    {
+     "title": "Heeney, partner in emotional public blow-up",
+     "url": "https://www.heraldsun.com.au/sport/afl/isaac-heeney-and-steffie-waters-in-emotional-public-blowup-as-they-work-through-relationship-issues/news-story/603a5dc46d0fe50186ae41c110708f4d"
+    }
+   ]
+  },
+  {
+   "q": "nara deer",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Nara deer send record number of people to hospital; over 70% are foreigners",
+     "url": "https://japantoday.com/category/national/nara-deer-send-record-number-of-people-to-hospital-over-70-are-foreigners"
+    },
+    {
+     "title": "Exploring Japans Ancient Capital Where Deer Roam Freely",
+     "url": "https://www.worldatlas.com/travel-stories/exploring-japans-ancient-capital-where-deer-roam-freely.html"
+    },
+    {
+     "title": "Nara's Famous Deer Turn Dangerous as Tourists",
+     "url": "https://newsonjapan.com/article/151371.php"
+    }
+   ]
+  },
+  {
+   "q": "casino royale",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:20:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Daniel Craig James Bond films never fulfilled 'Casino Royale' promise",
+     "url": "https://www.upi.com/Entertainment_News/Movies/2026/11/16/Daniel-Craig-James-Bond-films-Casino-Royale-20th-anniversary/8391794591535/"
+    },
+    {
+     "title": "Ian Fleming Published Just 4,728 Copies of ‘Casino Royale’ in 1953. James Bond Has Since Grossed Nearly $8 Billion",
+     "url": "https://www.mensjournal.com/entertainment/james-bond-origin-ian-fleming-first-book-history"
+    },
+    {
+     "title": "Casino Royale at 20: The Film That Reinvented James Bond",
+     "url": "https://www.flickeringmyth.com/casino-royale-at-20-the-film-that-reinvented-james-bond/"
+    }
+   ]
+  },
+  {
+   "q": "darren millane",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:10:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Why the Collingwood Magpies have brought Darren Millane’s No.42 out of retirement",
+     "url": "https://www.theage.com.au/sport/afl/why-the-magpies-have-brought-darren-millane-s-no-42-out-of-retirement-20261117-p61f0j.html"
+    },
+    {
+     "title": "‘Remembered forever’: Pies bring back Millane’s No. 42",
+     "url": "https://www.theaustralian.com.au/sport/afl/collingwood-bring-back-darren-millanes-no-42-jumper-for-the-clubs-annual-first-pick-in-the-draft/news-story/73c1fd03083e8fd43b912729fda1f7ee"
+    },
+    {
+     "title": "No. 42 returns to honour Darren Millane’s legacy",
+     "url": "https://www.collingwoodfc.com.au/news/2166143/no-42-returns-to-honour-darren-millanes-legacy"
+    }
+   ]
+  },
+  {
+   "q": "craigieburn drowning",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T07:10:00Z",
+   "observed_at": "2026-11-17T08:00:43.105620Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Bodies of woman and toddler found in Melbourne lake",
+     "url": "https://www.abc.net.au/news/2026-11-17/woman-toddler-drown-in-craigieburn-in-melbournes-north/107395678"
+    },
+    {
+     "title": "Woman and toddler dead after drowning in Melbourne lake",
+     "url": "https://www.nine.com.au/australia-news/vic/woman-toddler-dead-melbourne-craigieburn-20261117-p61ezp.html"
+    },
+    {
+     "title": "Woman and toddler dead in Craigieburn drowning tragedy",
+     "url": "https://www.theage.com.au/national/victoria/woman-and-toddler-dead-in-craigieburn-drowning-tragedy-20261117-p61exm.html"
+    }
+   ]
+  },
   {
    "q": "las vegas weather",
    "traffic": "200+",
@@ -1295,886 +2137,6 @@
     {
      "title": "Mavericks vs. Timberwolves Box Score and Stats - November 12, 2026",
      "url": "https://www.foxsports.com/nba/dallas-mavericks-vs-minnesota-timberwolves-nov-12-2026-game-boxscore-106704?tab=boxscore"
-    }
-   ]
-  },
-  {
-   "q": "rockstar games gta vi",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T03:20:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-     "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo"
-    },
-    {
-     "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
-     "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years"
-    },
-    {
-     "title": "Ahead of GTA VI’s release, Logitech is giving 7,000 employees the day off to play video games",
-     "url": "https://fortune.com/2026/11/10/logitech-gaming-day-off-ahead-of-grand-theft-auto-six-release-ceo-hanneke-faber-boost-productivity/"
-    }
-   ]
-  },
-  {
-   "q": "kyren wilson",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T03:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Champion of Champions snooker results: Kyren Wilson wins third straight title with win over Chris Wakelin",
-     "url": "https://www.bbc.co.uk/sport/snooker/articles/cmx29l9lzxn8o"
-    },
-    {
-     "title": "'I don't stand for it' - Wilson declares war on snooker's biggest enemy as Hendry chase hots up",
-     "url": "https://www.tntsports.co.uk/snooker/champion-of-champions/2026/kyren-wilson-war-biggest-enemy-stephen-hendry-chase-glory_sto23355778/story.shtml"
-    },
-    {
-     "title": "Wilson Wins Champion Of Champions To Extend Title Streak",
-     "url": "https://www.wst.tv/news/2026/november/15/Wilson-Wins-Champion-Of-Champions-To-Extend-Title-Streak"
-    }
-   ]
-  },
-  {
-   "q": "timberwolves vs trail blazers",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T02:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Micah Nori returns to Minnesota to compete against, laugh with old Timberwolves’ friends",
-     "url": "https://www.twincities.com/2026/11/16/micah-nori-returns-to-minnesota-to-compete-against-his-best-friends-and-probably-enjoy-a-couple-laughs/"
-    },
-    {
-     "title": "[!Buffstreams!] Where To Watch Trail Blazers vs Timberwolves Live Free NBA Game in US UK AU 16 November 2026",
-     "url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-buffstreams-where-to-watch-trail-blazers-vs-0sgta"
-    },
-    {
-     "title": "Wolves survive bumpy ending for bounce back win over Portland",
-     "url": "https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914492"
-    }
-   ]
-  },
-  {
-   "q": "heat vs rockets",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:20:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "%$#[ＬＩＶＥＳｔｒｅａｍ]NOW!!] Rockets vs Heat Live Free TV 16 November 2026",
-     "url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-livestream-now-rockets-vs-heat-live-free-tv-3bp18"
-    },
-    {
-     "title": "Jaylon Tyson (ankle) downgraded to out Monday",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-16/jaylon-tyson-ankle-downgraded-to-out-monday"
-    },
-    {
-     "title": "Klay Thompson Good to Go Against Houston - NBA News | Fantasy Basketball",
-     "url": "https://www.rotoballer.com/player-news/klay-thompson-good-to-go-against-houston/1995832"
-    }
-   ]
-  },
-  {
-   "q": "florence pugh",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:20:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Glenn Close cries! John Malkovich weeps! But it’s Nathan Fielder everyone wants to talk to at the honorary Oscars",
-     "url": "https://www.theguardian.com/film/2026/nov/16/governers-awards-honorary-oscars"
-    },
-    {
-     "title": "Governors Awards 2026: All The Best Looks From The Red Carpet",
-     "url": "https://www.vogue.co.uk/gallery/governor-awards-2026-red-carpet"
-    },
-    {
-     "title": "Hollywood salutes Glenn Close and Ridley Scott with honorary Oscars",
-     "url": "https://www.reuters.com/business/media-telecom/hollywood-salutes-glenn-close-ridley-scott-with-honorary-oscars-2026-11-16/"
-    }
-   ]
-  },
-  {
-   "q": "ravens vs chargers",
-   "traffic": "1000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Chargers vs. Ravens (17 Nov, 2026) Live Score",
-     "url": "https://www.espn.co.uk/nfl/game/_/gameId/401873065"
-    },
-    {
-     "title": "Monday Night Football: No surprises among Chargers-Ravens inactives",
-     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-no-surprises-among-chargers-ravens-inactives"
-    },
-    {
-     "title": "Denzel Perryman ready to play again",
-     "url": "https://uk.sports.yahoo.com/news/denzel-perryman-ready-play-again-212734424.html"
-    }
-   ]
-  },
-  {
-   "q": "pelicans vs warriors",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "[ＦＲＥＥ-ＬＩＶＥ] Pelicans v Warriors Live HD Free",
-     "url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-free-live-pelicans-v-warriors-live-hd-free-og9nq"
-    },
-    {
-     "title": "Preview: Lessons were learned in Texas",
-     "url": "https://dubnationhq.com/p/preview-lessons-were-learned-in-texas"
-    },
-    {
-     "title": "Photos: Pelicans vs. Warriors | Game Action 11/16/26",
-     "url": "https://www.nba.com/pelicans/photos/pelicans-vs-warriors-photos-game-action-11-16-2026"
-    }
-   ]
-  },
-  {
-   "q": "black friday deals",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Amazon Extends Black Friday And Cyber Monday Sales To 12 Days",
-     "url": "https://www.forbes.com/sites/pamdanziger/2026/11/15/amazon-stretches-2026-black-friday-cyber-monday-to-12-day-sales-event/"
-    },
-    {
-     "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
-     "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"
-    },
-    {
-     "title": "These are the best Black Friday discounts codes to know this November",
-     "url": "https://www.independent.co.uk/extras/indybest/black-friday/best-black-friday-discount-codes-2026-b3082237.html"
-    }
-   ]
-  },
-  {
-   "q": "jennifer lawrence",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "'The Hunger Games: Sunrise On The Reaping' NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More",
-     "url": "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-nyc-premiere-red-carpet-photos-lionsgate/"
-    },
-    {
-     "title": "Jennifer Lawrence and Josh Hutcherson Reunite at the Hunger Games: Sunrise on the Reaping Premiere 14 Years After Their Franchise Debut",
-     "url": "https://people.com/hunger-games-cast-reunites-14-years-after-debut-12259490"
-    },
-    {
-     "title": "‘Hunger Games’ Author Explains Why Haymitch Didn’t Tell Katniss and Peeta About His Rebellion",
-     "url": "https://gizmodo.com/hunger-games-author-explains-why-haymitch-didnt-tell-katniss-and-peeta-about-his-rebellion-2000839943"
-    }
-   ]
-  },
-  {
-   "q": "canada vs guatemala",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T01:00:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "José Pinto confía en la remontada de la azul y blanco",
-     "url": "https://onefootball.com/es/noticias/jose-pinto-confia-en-la-remontada-de-la-azul-y-blanco-43786479"
-    },
-    {
-     "title": "4-1. Canadá, con doblete de Oluwaseyi, alcanza las semifinales de la Liga de Naciones",
-     "url": "https://es-us.noticias.yahoo.com/deportes/4-1-canad%C3%A1-doblete-oluwaseyi-032846789.html"
-    },
-    {
-     "title": "Luis Fernando Tena: \"Tenemos confianza y creemos en nuestras fuerzas\"",
-     "url": "https://espndeportes.espn.com/futbol/guatemala/nota/_/id/17522440/luis-fernando-tena-confianza-guatemala-juego-de-vuelta-canada"
-    }
-   ]
-  },
-  {
-   "q": "pak vs sl",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:50:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Pakistan's Shakeel falls in the nineties twice, saves Test",
-     "url": "https://www.cricket.com.au/news/4608867/pakistans-shakeel-falls-in-the-nineties-twice-saves-test"
-    },
-    {
-     "title": "How the WTC is reshaping the second tier of Test cricket",
-     "url": "https://www.cricinfo.com/story/pak-vs-sl-wtc-second-tier-finds-its-purpose-in-the-next-generation-1562044"
-    },
-    {
-     "title": "Where to watch Pakistan vs. Sri Lanka live stream, TV channel, start time and lineups for 2nd Test match",
-     "url": "https://www.sportingnews.com/in/cricket/news/watch-pakistan-sri-lanka-live-stream-tv-channel-start-time-lineups-2nd-test/3054771bce86b775c2fa56fc"
-    }
-   ]
-  },
-  {
-   "q": "so you are",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:50:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Melbourne Cup runner suspected to be horse found in Sydney skip bin",
-     "url": "https://www.smh.com.au/sport/racing/melbourne-cup-runner-suspected-to-be-horse-found-in-sydney-skip-bin-20261117-p61ex8.html"
-    },
-    {
-     "title": "Racehorse So You Are dies of colic 13 days after running in Melbourne Cup",
-     "url": "https://www.abc.net.au/news/2026-11-16/racehorse-so-you-are-dies-of-colic-13-days-after-melbourne-cup/107390932"
-    },
-    {
-     "title": "‘We are devastated’: Top horse dies weeks after running Melbourne Cup",
-     "url": "https://www.nine.com.au/sport/horse-racing/so-you-are-death-melbourne-cup-racehorse-trainers-statement-tributes-20261116-p61ek1.html"
-    }
-   ]
-  },
-  {
-   "q": "infant",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:50:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "SC's infant mortality rate increases in latest state report",
-     "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-16/scs-infant-mortality-rate-increases-in-latest-state-report"
-    },
-    {
-     "title": "SC’s infant mortality rate is up. How Rock Hill region parents can help lower it",
-     "url": "https://www.heraldonline.com/news/local/article318099496.html"
-    },
-    {
-     "title": "SC infant mortality rate on the rise",
-     "url": "https://www.wltx.com/video/news/local/sc-infant-mortality-rate-on-the-rise/101-277d16d9-1c46-4a54-869c-938236740f41"
-    }
-   ]
-  },
-  {
-   "q": "melbourne storm",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:50:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Storm confirm new role for Kamikamica after medical retirement",
-     "url": "https://www.sen.com.au/news/2026/11/16/nrl-2026-melbourne-storm-announce-new-coaching-role-for-tui-kamikamica-following-medical-retirement"
-    },
-    {
-     "title": "NRL fans delighted after Melbourne Storm announce return of 142-game player after retirement",
-     "url": "https://au.news.yahoo.com/nrl-fans-delighted-after-melbourne-storm-announce-return-of-142-game-player-after-retirement-003117336.html"
-    },
-    {
-     "title": "Melbourne Storm confirm new role for Tui Kamikamica",
-     "url": "https://www.zerotackle.com/melbourne-storm-confirm-new-role-for-tui-kamikamica-261854/"
-    }
-   ]
-  },
-  {
-   "q": "ray tintori",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:40:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Filmmaker Ray Tintori, Boyfriend of SNL Alum Heidi Gardner, Dead at 43",
-     "url": "https://people.com/filmmaker-ray-tintori-boyfriend-of-snl-alum-heidi-gardner-dead-12259461"
-    },
-    {
-     "title": "Ray Tintori Dies: Filmmaker Who Worked On ‘Beasts Of The Southern Wild’ Was 43",
-     "url": "https://deadline.com/2026/11/ray-tintori-dead-filmmaker-heidi-gardner-1237226073/"
-    },
-    {
-     "title": "Ray Tintori, filmmaker romantically linked to Heidi Gardner, dies in NYC",
-     "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/16/ray-tintori-dead-heidi-gardner-boyfriend/92819555007/"
-    }
-   ]
-  },
-  {
-   "q": "joel embiid",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:20:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "76ers 135-123 Nets (17 Nov, 2026) Game Recap",
-     "url": "https://www.espn.com.au/nba/recap?gameId=401909997"
-    },
-    {
-     "title": "Observations after Embiid posts season-high 37 points in Sixers' win over Nets",
-     "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-nets-analysis-joel-embiid-jaylen-brown-nba/767271/"
-    },
-    {
-     "title": "76ers' Jaylen Brown: Back-to-back 31-point outings",
-     "url": "https://www.cbssports.com/fantasy/basketball/news/76ers-jaylen-brown-back-to-back-31-point-outings/"
-    }
-   ]
-  },
-  {
-   "q": "jeffrey epstein",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:20:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-     "url": "https://www.bbc.com/news/articles/c5n4exg1kkmyo"
-    },
-    {
-     "title": "Forensics expert casts doubt on Epstein case",
-     "url": "https://www.news.com.au/world/world-news-live-china-says-xi-trump-putin-to-discuss-world-peace/live-coverage/74cb3d2cf527835cada7da8418bc7f88"
-    },
-    {
-     "title": "‘Zero chance’ Epstein died by suicide, forensic expert says",
-     "url": "https://www.thetimes.com/uk/crime/article/epstein-death-homicide-not-suicide-new-p7f5p7dnf"
-    }
-   ]
-  },
-  {
-   "q": "sam healey",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:10:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Market Watch: Dragons’ signing spree continues with hooker coup",
-     "url": "https://www.theaustralian.com.au/sport/nrl/broncos-premiership-duo-xavier-willison-and-deine-mariner-to-meet-chiefs-officials-in-port-moresby/news-story/b9915736791d688555aa5b0d123cec8c"
-    },
-    {
-     "title": "Indifferent Proposal: the Martin/Young Swap",
-     "url": "https://sportress.org/2026/11/15/indifferent-proposal-the-martin-young-swap/"
-    },
-    {
-     "title": "Sam Healey set to depart Warriors",
-     "url": "https://sportnation.nz/article/sam-healey-set-to-depart-warriors"
-    }
-   ]
-  },
-  {
-   "q": "royal family news",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:00:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "The dilemma facing Harry and Meghan as Catherine’s coveted Christmas invites go out",
-     "url": "https://www.nine.com.au/lifestyle/royals/will-prince-harry-meghan-markle-be-invited-catherine-princess-of-wales-christmas-carols-concert-20261117-p61eqc.html"
-    },
-    {
-     "title": "Kate Middleton Announces Return of Her Christmas Carol Concert and Reveals This Year’s Theme",
-     "url": "https://people.com/kate-middleton-announces-return-christmas-carol-concert-reveals-theme-12252611"
-    },
-    {
-     "title": "Key royal likely be missing from Kate’s special night",
-     "url": "https://www.news24.com.au/lifestyle/celebrity-life/princess-of-wales-announces-date-of-annual-christmas-event-but-key-royal-is-likely-to-be-missing/news-story/2a6ea59514bf9ae1c24f59826abb26b9"
-    }
-   ]
-  },
-  {
-   "q": "reserve bank of australia",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T03:00:00Z",
-   "observed_at": "2026-11-17T04:05:59.945146Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "RBA board judges fifth rate hike needed to provide policy assurance",
-     "url": "https://www.reuters.com/world/asia-pacific/rba-board-judges-fifth-rate-hike-needed-provide-policy-assurance-2026-11-17/"
-    },
-    {
-     "title": "RBA’s Bullock Says Inflation Risks Still Skewed to the Upside",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-16/rba-s-bullock-says-inflation-risks-still-skewed-to-the-upside"
-    },
-    {
-     "title": "RBA: Minutes of the Monetary Policy Meeting of the Reserve Bank Board",
-     "url": "https://www.forexfactory.com/news/1437057-rba-minutes-of-the-monetary-policy-meeting-of"
-    }
-   ]
-  },
-  {
-   "q": "josh cuevas",
-   "traffic": "5000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Hellebuyck makes 43 saves, Devils push past Capitals to stay hot",
-     "url": "https://www.nhl.com/news/new-jersey-devils-washington-capitals-game-recap-november-14-2026"
-    },
-    {
-     "title": "New lines, same result: Capitals fall to Devils",
-     "url": "https://www.washingtonpost.com/sports/2026/11/14/caps-fall-7-4-rematch-with-new-jersey-devils/"
-    },
-    {
-     "title": "Devils 7-4 Capitals (Nov 14, 2026) Game Recap",
-     "url": "https://www.espn.com/nhl/recap/_/gameId/401892714"
-    }
-   ]
-  },
-  {
-   "q": "franz wagner",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Game Recap: Magic 107, Bucks 99 (Nov. 13)",
-     "url": "https://www.nba.com/watch/video/game-recap-magic-107-bucks-99-nov-13"
-    },
-    {
-     "title": "Milwaukee Bucks lose ninth in a row, fall to Magic 107-99",
-     "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/11/13/milwaukee-bucks-vs-orlando-magic-losing-streak-injury-report-starters-odds/92749146007/"
-    },
-    {
-     "title": "Bucks vs. Magic Player Grades: Bigs peform, team forgets how to make free throws",
-     "url": "https://www.brewhoop.com/bucks-analysis/81420/milwaukee-vs-orlando-magic-player-grades-stats-jaime-jaquez-jr-tyler-herro"
-    }
-   ]
-  },
-  {
-   "q": "anthony black",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "New NBA Trade Rumors on Magic's Anthony Black After Contract Extension Talks Fizzled Out",
-     "url": "https://bleacherreport.com/articles/25532919-new-nba-trade-rumors-magics-anthony-black-after-contract-extension-talks-fizzled-out"
-    },
-    {
-     "title": "Rival Executives Monitoring Anthony Black's Potential Availability",
-     "url": "https://basketball.realgm.com/wiretap/288128/Rival-Executives-Monitoring-Anthony-Blacks-Potential-Availability"
-    },
-    {
-     "title": "Yet team and league sources with knowledge of the …",
-     "url": "https://sports.yahoo.com/articles/yet-team-league-sources-knowledge-093644338.html"
-    }
-   ]
-  },
-  {
-   "q": "michael porter jr.",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Michael Porter Jr. sits for personal reasons — but he should be back soon",
-     "url": "https://nypost.com/2026/11/15/sports/michael-porter-jr-sits-for-personal-reasons-in-nets-loss/"
-    },
-    {
-     "title": "Jerami Grant News: Available against Washington",
-     "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-news-available-against-washington-539299"
-    },
-    {
-     "title": "“No, we want to give him his privacy. Everything, it’s …",
-     "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/15/no-we-want-to-give-him-his-privacy-everything-its/92793841007/"
-    }
-   ]
-  },
-  {
-   "q": "desmond bane",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Desmond Bane News: Leads Magic to victory",
-     "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-news-leads-magic-to-victory-539500"
-    },
-    {
-     "title": "Desmond Bane fills stat sheet Friday against Bucks",
-     "url": "https://www.fantasypros.com/nba/news/619984/desmond-bane-fills-stat-sheet-friday-against-bucks.php"
-    },
-    {
-     "title": "BANE FOR THREE 💥",
-     "url": "https://bvmsports.com/2026/11/11/bane-for-three-%F0%9F%92%A5/"
-    }
-   ]
-  },
-  {
-   "q": "go fund me",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Little Rascals’ Bug Hall Said He Had $10 Before GoFundMe (Exclusive)",
-     "url": "https://people.com/bug-hall-says-gofundme-support-helped-his-family-start-building-dream-home-exclusive-12259292"
-    },
-    {
-     "title": "‘Little Rascals’ Star Brandon Hall Sets Up GoFundMe To Pay For Care Of His 6th Child After Multiple Arrests",
-     "url": "https://www.imdb.com/news/ni66111874/?ref_=ttnw_art_perm"
-    },
-    {
-     "title": "'Little Rascals' Star Bug Hall Raises $15K After Taking 'Vow of Poverty'",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/little-rascals-star-bug-hall-063803579.html"
-    }
-   ]
-  },
-  {
-   "q": "maureen remigio",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Popular NFL wife describes chaotic 24 hours after Chiefs cut her husband from team",
-     "url": "https://www.kansascity.com/news/local/article318104049.html"
-    },
-    {
-     "title": "Andy Reid: It looks like Josh Downs, Patrick Mahomes have a little connection going",
-     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-it-looks-like-josh-downs-patrick-mahomes-have-a-little-connection-going"
-    },
-    {
-     "title": "ESPN’s Jeremy Fowler Reveals More Details on Kansas City Chiefs’ Trade Deadline Moves",
-     "url": "https://sports.yahoo.com/articles/espn-jeremy-fowler-reveals-more-233130364.html"
-    }
-   ]
-  },
-  {
-   "q": "dan schulman",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Inside Dan Schulman’s war on the old Verizon",
-     "url": "https://fortune.com/2026/11/11/verizon-ceo-dan-schulman-turnaround-strategy-layoffs-customer-growth-ai/"
-    },
-    {
-     "title": "Verizon Communications (VZ) Is Cutting 13,000 Jobs Under Dan Schulman",
-     "url": "https://simplywall.st/stocks/us/telecom/nyse-vz/verizon-communications/news/verizon-communications-vz-is-cutting-13000-jobs-under-dan-sc"
-    },
-    {
-     "title": "Verizon decodes a shifting customer psyche",
-     "url": "https://www.phonearena.com/news/verizon-dan-schulman-q3-2026_id184741"
-    }
-   ]
-  },
-  {
-   "q": "bam adebayo",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:20:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Bam Adebayo (hip) questionable to return Monday",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-16/bam-adebayo-hip-questionable-to-return-monday"
-    },
-    {
-     "title": "What happened to Bam Adebayo? Heat star suffers scary injury vs Rockets",
-     "url": "https://basketnews.com/news-259629-what-happened-to-bam-adebayo-heat-star-suffers-scary-injury-vs-rockets.html"
-    },
-    {
-     "title": "Bam Adebayo gets the hoop and the harm",
-     "url": "https://www.espn.co.uk/video/clip/_/id/50476742/bam-adebayo-gets-hoop-harm"
-    }
-   ]
-  },
-  {
-   "q": "madison huang",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T02:20:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-     "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
-    },
-    {
-     "title": "Jensen Huang's Children Work at Nvidia. An Expert Says 1 Obstacle Could Keep Either From Becoming CEO",
-     "url": "https://www.inc.com/victoria-salves/jensen-huang-children-work-at-nvidia-1-obtstacle-keep-from-becoming-ceo/91436758"
-    },
-    {
-     "title": "Meet Nico Caprez, Jensen Huang's son-in-law and 'consigliere' who could replace him as Nvidia's CEO",
-     "url": "https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/"
-    }
-   ]
-  },
-  {
-   "q": "ipl 2027",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "LSG set to trade Shami to RR for Sam Curran",
-     "url": "https://www.cricinfo.com/story/ipl-2027-lsg-set-to-trade-shami-to-rr-for-sam-curran-1562524"
-    },
-    {
-     "title": "IPL 2027: Shami likely to move from LSG to RR in swap with Curran ahead of retention deadline",
-     "url": "https://www.ap7am.com/en/139507/ipl-2027-shami-likely-to-move-from-lsg-to-rr-in-swap-with-curran-ahead-of-retention-deadline"
-    },
-    {
-     "title": "IPL 2027: LSG likely to trade Mohammed Shami to Rajasthan Royals for Sam Curran",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-lsg-likely-to-trade-mohammed-shami-to-rajasthan-royals-for-sam-curran/articleshow/135892599.cms"
-    }
-   ]
-  },
-  {
-   "q": "மகரம்",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "இந்த வார ராசி பலன் 14-11-2026 முதல் 21-11-2026 வரை",
-     "url": "https://www.nakkheeran.in/idhalgal/weekly-horoscope-from-14-11-2026-to-21-11-2026-12806503"
-    },
-    {
-     "title": "2026 வார ராசிபலன்- தனுசு, மகரம், கும்பம், மீனம்",
-     "url": "https://www.maalaimalar.com/spirituality/worship/weekly-rasipalan-thanusu-magaram-kumbam-meenam-19"
-    },
-    {
-     "title": "Weekly Rasi Palan | நவ., 9 முதல் 15 வரை.. கார்த்திகை மாதத்திற்கு முன்பே உருவாகும் ராஜயோகம்.. 4 ராசியினருக்கு எதிர்பாராத பணவரவு.. வார ராசிபலன் இதோ.!",
-     "url": "https://tamil.news18.com/photogallery/spiritual/weekly-horoscope-weekly-rasipalan-november-9-to-15-2026-astrological-prediction-of-all-zodiac-signs-by-astrologer-chirag-anu-2248480.html"
-    }
-   ]
-  },
-  {
-   "q": "పొదుపు",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "పొదుపు మంత్రం.. కరవు కష్టాలు దూరం",
-     "url": "https://www.eenadu.net/telugu-news/districts/warangal-news/697/126208986"
-    },
-    {
-     "title": "నీటి ట్యాంకు వద్ద వృథాగా పోతున్న తాగునీరు",
-     "url": "https://prajasakti.com/te-IN/districts/kakinada/wf-1794833468387"
-    },
-    {
-     "title": "పొదుపుతోనే ఎల్‌నినోకు చెక్‌",
-     "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/126206719"
-    }
-   ]
-  },
-  {
-   "q": "వడ్డీ",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:40:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Best Scheme: ఇది చాలా మందికి తెలియదు.. రూ.లక్ష జమ చేస్తే చాలు.. రూ.45 వేల వడ్డీ!",
-     "url": "https://tv9telugu.com/photo-gallery/business-photos/post-office-time-deposit-scheme-earn-44995-interest-on-1-lakh-investment-check-tenure-and-benefits-1959648.html"
-    },
-    {
-     "title": "బ్యాంకు ఎఫ్‌డీల కంటే అధిక లాభాలు.. ఈ పోస్టాఫీస్ స్కీంలో రూ.3 లక్షలు పెడితే ఎంతొస్తుందంటే?",
-     "url": "https://telugu.economictimes.com/personal-finance/news/post-office-time-deposit-scheme-earn-better-returns-than-bank-fds-with-a-rs-3-lakh-investment/articleshow/135768067.cms"
-    },
-    {
-     "title": "పోస్టాఫీసు మైండ్ బ్లోయింగ్ స్కీమ్.. రూ.లక్ష పెడితే ఏకంగా రూ. 44,995 వడ్డీ.. ప్రభుత్వానిదే బాధ్యత!",
-     "url": "https://www.bigtvlive.com/business/post-office-td-scheme-invest-rs-1-lakh-and-get-rs-44995-interest-in-5-years-at-7-5.html"
-    }
-   ]
-  },
-  {
-   "q": "silver",
-   "traffic": "100000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Gold continues getting cheaper for the 5th straight day in India | Gold prices have fallen by ₹5,632 since Diwali | Inshorts",
-     "url": "https://inshorts.com/en/news/gold-continues-getting-cheaper-for-the-5th-straight-day-in-india-1794834579102"
-    },
-    {
-     "title": "Gold Falls Rs 1,877, Silver Slumps Rs 6,567 In Futures Trade",
-     "url": "https://www.deccanchronicle.com/business/economics/gold-falls-rs-1877-silver-slumps-rs-6567-in-futures-trade-2004804"
-    },
-    {
-     "title": "Gold and silver rates today November 16, 2026: 22k 24k 18k Gold jewellery price in Delhi, Hyderabad, Benga",
-     "url": "https://m.economictimes.com/wealth/invest/gold-silver-rates-today-check-22k-24k-18k-gold-jewellery-price-in-delhi-hyderabad-bengaluru-chennai-from-ibja-joyalukkas-tanishq-malabar-and-kalyan-jewellers/articleshow/135875254.cms"
-    }
-   ]
-  },
-  {
-   "q": "শনি",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Shani Gochar: আগামী ৯৬ দিনে শনির গোচর, রাশিচক্রের জন্য শুভ সময় শুরু ৪টি রাশির গোল্ডেন টাইম",
-     "url": "https://bengali.abplive.com/astro/shani-gochar-2026-next-96-days-happy-time-started-this-4-zodiac-sign-get-golden-time-1199528"
-    },
-    {
-     "title": "Shani Margi 2026 December: শনির কৃপায় বাম্পার রোজগার! আগামী ২৪১ দিন ৫ রাশির টাকার অভাব হবেনা, ধারে ভারে সবার থেকে এগিয়ে জাতক-জাতিকা",
-     "url": "https://bengali.news18.com/photogallery/astrology/shani-margi-2026-december-saturn-transit-makes-maximum-profit-5-zodiacs-will-have-golden-period-arn-2964943.html"
-    },
-    {
-     "title": "Shani Gochar 2027: ২০২৭-এ শনির গোচর, এই ৪ রাশির জীবনে সাড়েসাতি",
-     "url": "https://bangla.aajtak.in/rashifal/story/shani-gochar-2027-on-3-june-4-zodiacs-will-face-sadesati-rpsg-1475358-2026-11-14"
-    }
-   ]
-  },
-  {
-   "q": "mp police admit card",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:30:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "MP Police Constable admit card 2026 expected to be released soon for over 7,500 vacancies, exam is on Nov",
-     "url": "https://timesofindia.indiatimes.com/education/news/mp-police-constable-admit-card-2026-expected-to-be-released-soon-for-over-7500-vacancies-exam-is-on-nov-19-check-steps-to-download-hall-tickets-and-other-details-here/articleshow/135876486.cms"
-    },
-    {
-     "title": "MP Police Constable Exam Date 2026: Check MPESB Driver Exam Schedule at esb.mp.gov.in",
-     "url": "https://www.jagranjosh.com/articles/mp-police-constable-exam-date-2026-check-mpesb-driver-exam-schedule-at-esb-mp-gov-in-1800019198-1"
-    },
-    {
-     "title": "MP Police Constable admit card 2026 expected soon for over 7,500 vacancies, exam on Nov 19: Check details here",
-     "url": "https://bestcolleges.indiatoday.in/latest-news/mp-police-constable-admit-card-2026-expected-soon-for-over-7500-vacancies-exam-on-nov-19-check-details-here-12568"
-    }
-   ]
-  },
-  {
-   "q": "कपिल देव",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:20:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "'टेस्ट से संन्यास कोहली की सबसे बड़ी गलती', कपिल देव ने ऐसा क्यों कहा? | The Lallantop",
-     "url": "https://www.thelallantop.com/sports/post/kapil-dev-said-virat-kohli-regret-test-retirement-angry-decision-rohit-sharma"
-    },
-    {
-     "title": "Kapil Dev ने Virat Kohli के टेस्ट संन्यास पर उठाए सवाल रोहित के भविष्य पर भी बोले",
-     "url": "https://www.prabhasakshi.com/cricket/kapil-dev-questions-virat-kohli-test-exit-mentions-rohit-sharma"
-    },
-    {
-     "title": "विराट कोहली को 10 साल बाद पछतावा होगा, मोहम्मद शमी ने बड़ी गलती की, कपिल देव का चौंकाने वाला दावा",
-     "url": "https://www.livehindustan.com/cricket/virat-kohli-will-regret-his-decision-after-10-years-mohammed-shami-made-the-big-mistake-kapil-devs-shocking-claim-201794821983510.html"
-    }
-   ]
-  },
-  {
-   "q": "ക്രിക്കറ്റ്",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:20:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "തെരുവ് ക്രിക്കറ്റ് കളിച്ച് വില്യം രാജകുമാരനും കെയ്റ്റ് രാജകുമാരിയും | Madhyamam",
-     "url": "https://www.madhyamam.com/sports/cricket/prince-william-and-princess-kate-playing-street-cricket-1572962"
-    },
-    {
-     "title": "സച്ചിനൊപ്പം ഗലി ക്രിക്കറ്റ് കളിച്ച് വില്യം രാജകുമാരനും കെയ്​റ്റ് മിഡില്‍റ്റണും; വൈറല്‍",
-     "url": "https://www.manoramanews.com/india/spotlight/2026/11/16/prince-william-and-kate-middleton-play-gully-cricket-with-sachin-tendulkar-in-mumbai.html"
-    },
-    {
-     "title": "സച്ചിനൊപ്പം ക്രിക്കറ്റ് കളിച്ച് ബ്രിട്ടീഷ് രാജകുമാരനും ഭാര്യയും, വീഡിയോ വൈറൽ",
-     "url": "https://www.keralakaumudi.com/news-360/sports/prince-william-and-kate-middleton-play-cricket-with-sachin-tendulkar-in-mumbai-1826951"
-    }
-   ]
-  },
-  {
-   "q": "ramayana movie collection day 13",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T02:20:00Z",
-   "observed_at": "2026-11-17T02:57:20.090122Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "“Ramayana”, India’s biggest film, turns a Hindu god into a star",
-     "url": "https://www.economist.com/culture/2026/11/12/ramayana-indias-biggest-film-turns-a-hindu-god-into-a-star"
-    },
-    {
-     "title": "‘Ramayana’ crosses Rs 1,300-crore globally, beats lifetime hauls of ‘RRR’, ‘Dhurandhar’",
-     "url": "https://www.telegraphindia.com/entertainment/ramayana-crosses-rs-1300-crore-globally-beats-lifetime-hauls-of-rrr-dhurandhar/cid/2189655"
-    },
-    {
-     "title": "‘Ramayana: Part 1’ box office collection Day 12: Ranbir Kapoor and Yash’s epic closes in on Rs 800 crore",
-     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-part-1-box-office-collection-day-12-ranbir-kapoor-and-yashs-epic-closes-in-on-rs-800-crore-mark-earns-rs-32-crore-on-second-monday/articleshow/135906564.cms"
     }
    ]
   }
