@@ -166622,5 +166622,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-16T18:33:26+05:30"
+  },
+  "ycn9na": {
+    "id": "ycn9na",
+    "type": "news",
+    "headline": "Sunshine Through The Rain Finale Episodes 22-24 Heading to Netflix Today",
+    "dek": "The romantic Chinese drama Sunshine Through The Rain is releasing its final episodes, including the much-anticipated conclusion, for international viewers on Netflix.",
+    "body": [
+      {
+        "h": "Finale Release Schedule",
+        "p": [
+          "The popular Chinese drama Sunshine Through The Rain is approaching its conclusion, bringing its final episodes to audiences today. Viewers who have followed the romantic series are eager to see how the storyline wraps up.",
+          "The release of episodes 22 through 24 marks the end of the current run, providing closure to the central narrative arc."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "The romantic C-drama features lead performances by Winwin, also known as Dong Si Cheng, alongside Yang Chao Yue. Their portrayal of the main characters has resonated with audiences throughout the run.",
+          "Produced on a modest budget, the series has emerged as a sleeper hit, capturing the attention of viewers through its distinct storytelling and emotional beats."
+        ]
+      },
+      {
+        "h": "Narrative Highlights and Sleeper Hit Status",
+        "p": [
+          "A major component of the show's appeal has been the gradual transition of the main characters from rivalry to romance. The natural chemistry between the leads has kept fans engaged.",
+          "In addition to the central romance, specific elements like the Germany track and emotional plot twists have helped the show build a dedicated following."
+        ]
+      },
+      {
+        "h": "Express Package on MangoTV",
+        "p": [
+          "Before the standard schedule finishes, the makers introduced an Express Package option on MangoTV. This allows subscribers willing to pay an additional fee to unlock episodes 22-24 ahead of time.",
+          "This early-access package gives dedicated fans a chance to view the final episodes before the regular broadcast schedule plays out."
+        ]
+      },
+      {
+        "h": "Netflix Streaming Updates for International Viewers",
+        "p": [
+          "Typically, international streaming platforms like Netflix follow the original network's regular release schedule, bypassing early-access perks like the Express Package.",
+          "However, Sunshine Through The Rain is diverging from this norm by scheduling the final episodes to drop on Netflix today, allowing international fans to watch the conclusion simultaneously."
+        ]
+      },
+      {
+        "h": "Exact Timings and Schedule",
+        "p": [
+          "Episode 21 is slated to drop at 12:00 PM Beijing Time, which corresponds to 9:30 AM IST on Tuesday, November 17, 2026.",
+          "Following the premiere of Episode 21, the remaining three concluding segments are expected to become accessible on the streaming platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The romantic C-drama Sunshine Through The Rain, starring Winwin and Yang Chao Yue, is releasing its final episodes 22 to 24 on Netflix today, November 17, 2026. While the series typically follows regular broadcast patterns, international viewers can catch the conclusion on the platform shortly after Episode 21 premieres at 12:00 PM Beijing Time."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunshine Through The Rain features Winwin (Dong Si Cheng) and Yang Chao Yue.",
+      "Episodes 22-24 are the finale episodes of the drama.",
+      "MangoTV offered an Express Package for the final episodes.",
+      "Episode 21 is scheduled to release at 12:00 PM Beijing Time (CST), which is 9:30 AM IST.",
+      "The story was published on Tuesday, November 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Winwin",
+        "Dong Si Cheng",
+        "Yang Chao Yue"
+      ],
+      "titles": [
+        "Sunshine Through The Rain"
+      ]
+    },
+    "keywords": [
+      "Sunshine Through The Rain",
+      "Winwin Dong Si Cheng",
+      "Yang Chao Yue",
+      "Sunshine Through The Rain Netflix finale"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-16t122514-282-33551794815812.jpg",
+        "caption": "Sunshine Through The Rain Finale Episodes 22-24 Heading to Netflix Today",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 05:30:11 +0530"
+  },
+  "71a9s5": {
+    "id": "71a9s5",
+    "type": "news",
+    "headline": "Ramya Krishnan Addresses Industry Realities and Confirms Casting Couch Exists",
+    "dek": "Actor Ramya Krishnan openly discussed exploitation in the entertainment industry during a recent podcast appearance, noting that the casting couch is a reality and that gender is no barrier to such misconduct.",
+    "body": [
+      {
+        "h": "Addressing the Casting Couch Debate",
+        "p": [
+          "Conversations regarding the existence of the casting couch within the entertainment business have persisted for years. While certain performers have outright denied its presence, others acknowledged it while maintaining they never personally encountered it. Meanwhile, stark accounts regarding the mistreatment of female actors by directors and male leads have continued to surface, with portions of the Hema Committee report in the Malayalam film industry focusing specifically on the issue.",
+          "Actor Ramya Krishnan has firmly addressed the topic, putting ongoing debates to rest by confirming that exploitation remains an active reality in the film sector. Speaking candidly on a podcast, she emphasized that such practices are not isolated to any single region or industry."
+        ]
+      },
+      {
+        "h": "Global Comparisons and Consent",
+        "p": [
+          "During her appearance on the show Raw Talks with VK, Krishnan was questioned about long-standing rumors surrounding the casting couch. Pointing to high-profile international scandals such as the Epstein Files, she noted that even in regions like the United States where women enjoy greater societal advancement, individuals still face grave exploitation.",
+          "She asserted that the phenomenon has occurred in the past, continues to happen, and will likely persist in various forms. According to the actor, whether an incident occurs by force, by choice, or under casual circumstances, the underlying reality cannot be swept aside simply because cinema is a glamorous profession."
+        ]
+      },
+      {
+        "h": "Exploitation Across Genders and Professions",
+        "p": [
+          "Expanding further on the nature of exploitation, Krishnan pointed out that misconduct is not restricted solely to the entertainment sector or limited by gender. She observed that women face similar vulnerabilities in numerous fields outside of cinema.",
+          "The actor also highlighted that gender serves no as barrier when it comes to predatory behavior and workplace exploitation, emphasizing that systemic issues of power imbalances stretch far beyond film sets."
+        ]
+      },
+      {
+        "h": "Cinematic Parallels in Khadgam",
+        "p": [
+          "The theme of industry exploitation is not entirely new to cinema and has occasionally been reflected directly on screen. Notably, her husband Krishna Vamsi directed the 2002 hit film Khadgam, which tackled similar industry struggles.",
+          "That movie featured a character named Seethamahalakshmi, an aspiring actor played by Sangeetha, who ultimately felt she had no alternative other than to comply with the demands placed upon her by industry gatekeepers."
+        ]
+      },
+      {
+        "h": "Harsh Conditions on Early Sets",
+        "p": [
+          "Beyond industry misconduct, Krishnan opened up about the stark lack of basic amenities during the earlier years of her career. She recalled that conveniences like dedicated privacy spaces, caravans, and proper washrooms on film locations were virtually nonexistent until relatively recently.",
+          "Sharing personal anecdotes from past shoots, she described how lead actors routinely had to use bottles inside an Ambassador car to relieve themselves during long working hours. She also mentioned applying her own makeup inside vehicles between multiple camera setups to save production time rather than relying on dedicated personal stylists."
+        ]
+      },
+      {
+        "h": "A Shift in Modern Production Standards",
+        "p": [
+          "Comparing past struggles with present-day conditions, Krishnan expressed that contemporary performers are considerably more fortunate. With a lighthearted laugh, she remarked that today's actors are blessed and have avoided facing even a fraction of the hardships endured by veterans of her generation.",
+          "The evolution of on-set infrastructure reflects a gradual, albeit overdue, transformation in how studios treat talent, marking a distinct shift from the demanding and unaccommodating environments of decades past."
+        ]
+      },
+      {
+        "h": "Current Projects and Career Path",
+        "p": [
+          "Krishnan continues to maintain a busy professional schedule across multiple language film industries. She was recently seen sharing screen space with superstar Rajinikanth in Jailer 2.",
+          "Her upcoming slate includes feature films such as Raaka, Sri Sri, Pocket Novel, and Tera Yaar Hoon Mein. In addition to her film roles, she recently stepped into the television space as a guest host on Bigg Boss 10 Tamil."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ramya Krishnan confirmed during a podcast interview that the casting couch and workplace exploitation exist within the film industry, noting that gender is no barrier to such misconduct. She contrasted current production environments with the difficult conditions she faced earlier in her career, which lacked basic amenities like caravans and proper washrooms."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramya Krishnan confirmed the existence of the casting couch during a podcast appearance on Raw Talks with VK.",
+      "She referenced the Epstein Files to illustrate that exploitation happens even in forward societies.",
+      "Her husband Krishna Vamsi directed the 2002 hit film Khadgam, which touched upon industry exploitation through the character Seethamahalakshmi, played by Sangeetha.",
+      "Krishnan recalled that actors previously lacked caravans or washrooms and sometimes used bottles inside an Ambassador car.",
+      "Her recent and upcoming projects include Jailer 2, Raaka, Sri Sri, Pocket Novel, and Tera Yaar Hoon Mein, alongside hosting Bigg Boss 10 Tamil."
+    ],
+    "entities": {
+      "people": [
+        "Ramya Krishnan",
+        "Neeshita Nyayapati",
+        "Krishna Vamsi",
+        "Sangeetha",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Khadgam",
+        "Jailer 2",
+        "Raaka",
+        "Sri Sri",
+        "Pocket Novel",
+        "Tera Yaar Hoon Mein",
+        "Bigg Boss 10 Tamil"
+      ]
+    },
+    "keywords": [
+      "Ramya Krishnan casting couch",
+      "Ramya Krishnan Raw Talks with VK",
+      "Ramya Krishnan interview exploitation",
+      "Krishna Vamsi Khadgam movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/16/1600x900/logo/Ramya_Krishnan_casting_couch_1794830148259_wT89_1794830160943_Go3v_4dcdc511-715d-4727-8499-5f9920ae23b4_EeU6.jpg",
+        "caption": "Ramya Krishnan Addresses Industry Realities and Confirms Casting Couch Exists",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 06:03:04 +0530"
+  },
+  "tvcq7i": {
+    "id": "tvcq7i",
+    "type": "news",
+    "headline": "Jennifer Lawrence and Josh Hutcherson Reunite at the World Premiere of 'Sunrise on the Reaping'",
+    "dek": "The original franchise stars walked the red carpet in New York City alongside returning cast members and prequel actors for the latest installment.",
+    "body": [
+      {
+        "h": "A Grand Reunion on the Red Carpet",
+        "p": [
+          "The world premiere of Sunrise on the Reaping in New York City brought together multiple generations of stars from the blockbuster dystopian franchise. More than a decade after wrapping up their promotional tours for Mockingjay – Part 2, original leads Jennifer Lawrence and Josh Hutcherson walked the red carpet side by side. The duo happily posed for photographs, delighting fans and photographers who had gathered to celebrate the continuation of the cinematic universe.",
+          "The special evening served as a massive gathering for the wider ensemble of the overarching series. Several notable alumni made their presence felt on the carpet, including Elizabeth Banks, who famously portrayed Effie Trinket, Amandla Stenberg as Rue, Jena Malone as Johanna Mason, and Willow Shields, known for her role as Primrose Everdeen."
+        ]
+      },
+      {
+        "h": "Prequel Stars Join the Celebration",
+        "p": [
+          "Adding to the star-studded atmosphere, actors from the previous prequel installment also turned out to support the new project. Rachel Zegler, who headlined The Ballad of Songbirds and Snakes as Lucy Gray Baird, stepped out for photos on the carpet. She was joined by her former co-star Tom Blyth, who had previously taken on the role of a young President Snow.",
+          "The mingling of original trilogy icons and newer prequel faces highlighted the expansive nature of the series. Attendees celebrated the enduring popularity of Suzanne Collins' literary world as it continues to translate onto the big screen under fresh creative directions."
+        ]
+      },
+      {
+        "h": "Reprising Iconic Roles After a Decade",
+        "p": [
+          "Reports surfaced previously revealing that Jennifer Lawrence and Josh Hutcherson would return as Katniss Everdeen and Peeta Mellark for a specific sequence in the new picture. This confirmation meant their presence at the global debut was heavily anticipated by followers of the franchise. Lawrence later discussed the emotional reality of stepping back into Katniss's shoes alongside her longtime colleagues.",
+          "The actor expressed how surreal it felt to work with the familiar crew members and assistant directors she had spent years collaborating with. She also shared humorous anecdotes about her co-stars, mentioning how Woody Harrelson showed up at her hotel room uninvited to maintain their playful dynamic."
+        ]
+      },
+      {
+        "h": "Plot Connections and Flash-Forward Epilogues",
+        "p": [
+          "The narrative of Sunrise on the Reaping focuses closely on a younger version of Haymitch Abernathy, portrayed on screen by Joseph Zada, as he navigates the dangers of the 50th edition of the deadly tournament. Faithful readers of the source material authored by Suzanne Collins will recall that the story concludes with a flash-forward epilogue.",
+          "That concluding portion of the book features appearances by key figures such as Katniss, Peeta, and Haymitch himself. Based on the casting and recent disclosures, the cinematic adaptation appears to be faithfully incorporating this sequence into its overall structure."
+        ]
+      },
+      {
+        "h": "Nostalgia on Social Media Leading Up to Debut",
+        "p": [
+          "In the hours leading up to the grand premiere event in New York City, Lawrence generated significant buzz online. She utilized her Instagram story to share a nostalgic collection of throwback photographs taken during promotional tours for the earlier films.",
+          "Those archival images captured her traveling across the globe alongside Hutcherson and fellow co-star Liam Hemsworth. The posts offered a touching reminder of the whirlwind era when the initial four motion pictures dominated global pop culture between 2012 and 2015."
+        ]
+      },
+      {
+        "h": "Openness to Returning to the Franchise",
+        "p": [
+          "Lawrence previously made her willingness to revisit the role clear during a press tour for her comedy film No Hard Feelings. At that time, she explicitly stated to reporters that she would be completely open to bringing Katniss back into her life if the right scenario presented itself.",
+          "That sentiment has now manifested into reality with her cameo appearance in the newest cinematic chapter. Her initial four-movie run established her as a defining action star of her generation, accumulating a massive global following."
+        ]
+      },
+      {
+        "h": "Box Office Legacy and Financial Milestones",
+        "p": [
+          "The overarching cinematic franchise has established an immense financial footprint across the entertainment industry over the past decade and a half. Driven by the original four films starring Lawrence, alongside the later additions, the entire series has amassed an impressive 3.3 billion dollars at the worldwide box office to date.",
+          "The enduring commercial appeal ensures that new entries continue to draw massive global audiences. The addition of the latest narrative keeps the momentum of the cinematic property robust and financially dominant."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jennifer Lawrence and Josh Hutcherson reunited at the world premiere of Sunrise onthe Reaping in New York City alongside other original and prequel franchise cast members. Lawrence previously confirmed her and Hutcherson's return for a cameo sequence reflecting the book's epilogue, which centers on a young Haymitch. The overarching franchise has grossed 3.3 billion dollars globally to date."
+        ]
+      }
+    ],
+    "facts": [
+      "Jennifer Lawrence and Josh Hutcherson reunited at the world premiere of Sunrise on the Reaping in New York City.",
+      "Elizabeth Banks, Amandla Stenberg, Jena Malone, and Willow Shields also appeared on the red carpet.",
+      "Rachel Zegler and Tom Blyth attended the event.",
+      "Joseph Zada plays a young Haymitch in Sunrise on the Reaping.",
+      "The franchise has grossed $3.3 billion to date at the worldwide box office.",
+      "Jennifer Lawrence headlined four Hunger Games movies between 2012 and 2015."
+    ],
+    "entities": {
+      "people": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Elizabeth Banks",
+        "Amandla Stenberg",
+        "Jena Malone",
+        "Willow Shields",
+        "Rachel Zegler",
+        "Tom Blyth",
+        "Woody Harrelson",
+        "Suzanne Collins",
+        "Joseph Zada",
+        "Liam Hemsworth"
+      ],
+      "titles": [
+        "Sunrise on the Reaping",
+        "The Hunger Games",
+        "The Hunger Games: Mockingjay – Part 2",
+        "The Hunger Games: The Ballad of Songbirds and Snakes",
+        "No Hard Feelings"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping premiere",
+      "Jennifer Lawrence Hunger Games",
+      "Josh Hutcherson Sunrise on the Reaping",
+      "The Hunger Games franchise box office"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445522.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Jennifer Lawrence and Josh Hutcherson Reunite at the World Premiere of 'Sunrise on the Reaping'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 00:32:42 +0000"
+  },
+  "159ovn0": {
+    "id": "159ovn0",
+    "type": "news",
+    "headline": "Robert Pattinson Receives Royal Approval After Being Cast as the New James Bond",
+    "dek": "The British royal family has officially welcomed Robert Pattinson as the next 007 following the major casting announcement for the 26th James Bond film.",
+    "body": [
+      {
+        "h": "Royal Welcome on Social Media",
+        "p": [
+          "Following the official announcement naming Robert Pattinson as the next James Bond, the British royal family extended a public greeting to the actor. Utilizing their official X account, representatives of the monarchy shared a special message celebrating his new role.",
+          "The welcoming post was published roughly 90 minutes after the casting news broke online. It cleverly acknowledged the fictional character's allegiance by stating that the actor was entering His Majesty's Secret Service."
+        ]
+      },
+      {
+        "h": "Stepping Into the Tuxedo",
+        "p": [
+          "At forty years of age, Robert Pattinson has been chosen to succeed Daniel Craig as the seventh official screen actor to take on the mantle of 007. He will spearhead the upcoming reboot of the long-standing cinematic franchise under Amazon MGM Studios.",
+          "The studio formally revealed his casting by wiping their social media channels and posting an identity confirmation message alongside a first-look photograph of Pattinson dressed in the iconic Bond tuxedo."
+        ]
+      },
+      {
+        "h": "The End of a Lengthy Casting Search",
+        "p": [
+          "Pattinson's confirmation brings a close to an extended period of speculation and searching for Craig's successor. Reports indicate he was part of a five-actor shortlist that included names like Josh O'Connor and Callum Turner.",
+          "Rumours regarding his appointment intensified shortly before the confirmation after reports surfaced regarding favourable contract discussions. His selection officially concludes the search to drive the franchise into its next chapter."
+        ]
+      },
+      {
+        "h": "Creative Leadership Behind the Reboot",
+        "p": [
+          "The forthcoming 26th instalment in the franchise marks a significant shift as the first project since Amazon MGM Studios secured full creative control and rights from Barbara Broccoli and Michael G Wilson. David Heyman and Amy Pascal are attached to oversee the production.",
+          "Behind the camera, Denis Villeneuve has been tapped to direct the feature film. Meanwhile, the screenplay for the reboot is being penned by Steven Knight."
+        ]
+      },
+      {
+        "h": "A Varied Career Leading to 007",
+        "p": [
+          "Pattinson brings a diverse filmography to the role, having transitioned from mainstream blockbusters to acclaimed independent projects over the past two decades. He initially gained widespread recognition through his appearances in Harry Potter and the Goblet of Fire and the Twilight series.",
+          "His career also features collaborations with notable auteurs such as David Cronenberg, Robert Eggers, and Lynne Ramsay. Additionally, he portrayed the caped crusader in The Batman and appeared in Christopher Nolan's epic film The Odyssey."
+        ]
+      },
+      {
+        "h": "Continuing a Storied Franchise Legacy",
+        "p": [
+          "Pattinson now enters a prestigious lineage of actors who have portrayed James Bond on screen, beginning with Sean Connery in Dr No. The iconic character has also been played by George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig.",
+          "Cumulatively, the James Bond film series has grossed $7.8 billion at the worldwide box office. This staggering figure cements the franchise as the fifth highest-grossing film series in cinematic history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson has been officially cast as the next James Bond, succeeding Daniel Craig for the franchise's 26th film. The British royal family publicly welcomed the actor on X shortly after Amazon MGM Studios announced his appointment."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson is 40 years old.",
+      "The announcement was made on November 17, 2026.",
+      "Pattinson is the seventh official screen actor to play James Bond.",
+      "Daniel Craig's final Bond film was No Time to Die in 2021.",
+      "Skyfall was released in 2012 and earned $1.1 billion worldwide.",
+      "Amazon MGM Studios acquired franchise rights for more than $1 billion in 2025.",
+      "The Bond franchise has earned $7.8 billion globally."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Daniel Craig",
+        "Denis Villeneuve",
+        "Steven Knight",
+        "Josh O'Connor",
+        "Callum Turner",
+        "Barbara Broccoli",
+        "Michael G Wilson",
+        "David Heyman",
+        "Amy Pascal",
+        "David Cronenberg",
+        "Robert Eggers",
+        "Lynne Ramsay",
+        "Christopher Nolan",
+        "Matt Reeves",
+        "Sean Connery",
+        "George Lazenby",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan"
+      ],
+      "titles": [
+        "No Time to Die",
+        "Skyfall",
+        "Harry Potter and the Goblet of Fire",
+        "Twilight",
+        "The Batman",
+        "The Odyssey",
+        "The Batman II",
+        "Dr No",
+        "Peaky Blinders"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "James Bond 26 film",
+      "Denis Villeneuve James Bond",
+      "Robert Pattinson casting"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/robert-pattinson-171955351-16x9_0.jpg?VersionId=db8mCK2U0PxiYzW8uc0C5dzDfwCnWfJa",
+        "caption": "Robert Pattinson Receives Royal Approval After Being Cast as the New James Bond",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 05:57:43 +0530"
   }
 };

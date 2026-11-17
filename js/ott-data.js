@@ -2,22 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "US",
-      "date": "2026-11-17",
-      "date_kind": "digital",
-      "id": 1368337,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "US",
-      "date": "2026-11-17",
-      "date_kind": "digital",
-      "id": 1535652,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "BR",
       "date": "2026-11-19",
       "date_kind": "digital",
@@ -111,6 +95,22 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1368337,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1535652,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "date": "2026-11-16",
       "date_kind": "release",
