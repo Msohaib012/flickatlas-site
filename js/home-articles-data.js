@@ -95,6 +95,163 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 15:46:50 +0200"
   },
+  "6ggosc": {
+    "id": "6ggosc",
+    "type": "news",
+    "headline": "ITV Unveils First Look and Release Details for Legal Drama Saviour Starring Anjli Mohindra",
+    "dek": "Imran Mahmood's upcoming legal drama Saviour has released its first preview images and casting details, offering a glimpse into the high-stakes world of a newly promoted solicitor.",
+    "entities": {
+      "people": [
+        "Imran Mahmood",
+        "Anjli Mohindra",
+        "Archie Fisher",
+        "Aidan Gillen",
+        "Shaun Parkes",
+        "Claire Goose",
+        "Sam Swainsbury"
+      ],
+      "titles": [
+        "Saviour",
+        "The Sarah Jane Adventures",
+        "Game of Thrones",
+        "Line of Duty",
+        "Silverpoint",
+        "The Coroner",
+        "Ludwig"
+      ]
+    },
+    "keywords": [
+      "Saviour ITV drama",
+      "Anjli Mohindra Saviour",
+      "Imran Mahmood Saviour",
+      "Aidan Gillen Saviour"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/86578d5e-cfda-46be-8aca-34fc595908b9.jpg?crop=1.00xw:0.752xh;0,0.190xh&amp;resize=1200:*",
+        "caption": "ITV Unveils First Look and Release Details for Legal Drama Saviour Starring Anjli Mohindra",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 13:43:00 +0000"
+  },
+  "19blzq4": {
+    "id": "19blzq4",
+    "type": "news",
+    "headline": "OM Box Office Day 1: Dhanush Starrer Eyes A Spot Among Kollywood's Top 5 Openers Of 2026 In India",
+    "dek": "Dhanush's upcoming film OM is projected to secure a strong opening at the Indian box office, targeting a position among the highest openers of 2026.",
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Rajinikanth",
+        "Rajkumar Periasamy",
+        "Shraddha Agrawal",
+        "Azmat Jagmag",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Chiyaan Vikram",
+        "Nayanthara",
+        "Suriya"
+      ],
+      "titles": [
+        "OM",
+        "Jailer 2",
+        "Amaran",
+        "Tere Ishk Mein",
+        "Vishwanath Sons",
+        "Karuppu",
+        "Kara",
+        "Jana Nayagan",
+        "Scene",
+        "Parasakthi",
+        "LIK: Love Insurance Kompany",
+        "Mandaadi",
+        "Sardar 2",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "OM film box office",
+      "Dhanush OM opening day",
+      "OM Kollywood openers 2026",
+      "OM release date November 20"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-box-office-1.jpg",
+        "caption": "OM Box Office Day 1: Dhanush Starrer Eyes A Spot Among Kollywood's Top 5 Openers Of 2026 In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 13:42:06 +0000"
+  },
+  "kwplk": {
+    "id": "kwplk",
+    "type": "news",
+    "headline": "Javed Akhtar Fires Back at Trolls Over Jawaharlal Nehru Autograph Memory on X",
+    "dek": "Veteran lyricist Javed Akhtar engaged in a heated exchange of replies on social media after sharing a personal recollection about meeting India's first Prime Minister.",
+    "entities": {
+      "people": [
+        "Javed Akhtar",
+        "Jawaharlal Nehru",
+        "Salim Khan",
+        "Anisha Rao"
+      ],
+      "titles": [
+        "Sholay",
+        "Deewaar",
+        "Zanjeer",
+        "Don"
+      ]
+    },
+    "keywords": [
+      "Javed Akhtar",
+      "Jawaharlal Nehru",
+      "Javed Akhtar Nehru autograph",
+      "Salim Javed"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/javed-akhtar-on-meeting-jawaharlal-nehru-175934226-16x9_0.jpg?VersionId=4bAko3m5hbqB_VOc.65JxTW0DKzs0TAH",
+        "caption": "Javed Akhtar Fires Back at Trolls Over Jawaharlal Nehru Autograph Memory on X",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:34:00 +0530"
+  },
+  "t2vgw8": {
+    "id": "t2vgw8",
+    "type": "news",
+    "headline": "MS Dhoni Concludes IPL Career and Takes on CSK Mentor Role for 2027",
+    "dek": "Mahendra Singh Dhoni has officially wrapped up his storied IPL playing career, transitioning into a mentoring role with Chennai Super Kings ahead of the 2027 season.",
+    "entities": {
+      "people": [
+        "MS Dhoni",
+        "Zaheer Khan"
+      ],
+      "titles": [
+        "MS Dhoni: The Untold Story"
+      ]
+    },
+    "keywords": [
+      "MS Dhoni",
+      "Chennai Super Kings",
+      "MS Dhoni IPL retirement",
+      "Dhoni CSK mentor 2027"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-17t180121-336-68331794918698.jpg",
+        "caption": "MS Dhoni Concludes IPL Career and Takes on CSK Mentor Role for 2027",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:03:06 +0530"
+  },
   "1y21v20": {
     "id": "1y21v20",
     "type": "news",
@@ -4467,207 +4624,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 16 Nov 2026 05:55:26 +0000"
   },
-  "1f1pv2e": {
-    "id": "1f1pv2e",
-    "type": "news",
-    "headline": "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
-    "dek": "A comprehensive guide to the latest television shows, films, music releases, and video games coming to your favorite streaming devices and platforms.",
-    "entities": {
-      "people": [
-        "Nicolas Cage",
-        "David O. Russell",
-        "Kathryn Hahn",
-        "Christian Bale",
-        "Anthony Bourdain",
-        "Matt Johnson",
-        "Dominic Sessa",
-        "Mark Kennedy",
-        "Ali Wong",
-        "Amanda Seyfried",
-        "Daniel Radcliffe",
-        "Bette Midler",
-        "Peter Dinklage",
-        "Léa Seydoux",
-        "Lindsey Bahr",
-        "Lisa",
-        "Sue Kim",
-        "Lalisa Manobal",
-        "Darius Rucker",
-        "Maria Sherman",
-        "Sam Bankman-Fried",
-        "Caroline Ellison",
-        "Boyle",
-        "Brett Ratner",
-        "Melania Trump",
-        "Rick Riordan",
-        "Walker Scobell",
-        "Kate Henderson",
-        "Gemma Arterton",
-        "Tom Bradby",
-        "Alicia Rancilio",
-        "Jason",
-        "Lucia",
-        "Lou Kesten"
-      ],
-      "titles": [
-        "Grand Theft Auto VI",
-        "Always Lalisa",
-        "The Altruists",
-        "Steps",
-        "Yellowjackets",
-        "Madden",
-        "Tony",
-        "Gentle Monster",
-        "Alter Ego",
-        "The White Lotus",
-        "Darius Rucker: They Called Me Hootie",
-        "Reveal",
-        "The Black Session Revealed",
-        "Melania, The Series",
-        "Melania",
-        "Percy Jackson and the Olympians",
-        "The Titan’s Curse",
-        "Secret Service"
-      ]
-    },
-    "keywords": [
-      "GTA VI streaming",
-      "Always Lalisa documentary",
-      "The Altruists Netflix",
-      "Steps animated movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2024/04/17/1600x900/logo/web-series_1713353092172_1713353099719.jpg",
-        "caption": "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 10:32:32 +0530"
-  },
-  "1o8wjgr": {
-    "id": "1o8wjgr",
-    "type": "news",
-    "headline": "Prime Video Sets March 2027 Premiere Date for The Mighty Nein Season 2",
-    "dek": "Critical Role's animated sequel series is officially returning to Prime Video next year, bringing eight brand-new episodes to subscribers worldwide on day one.",
-    "entities": {
-      "people": [
-        "Devanshi Basu",
-        "Liam O’Brien",
-        "Benjamin Walker",
-        "Maxim Baldry",
-        "Sam Riegel",
-        "Travis Willingham",
-        "Laura Bailey",
-        "Taliesin Jaffe",
-        "Ashley Johnson",
-        "Matthew Mercer",
-        "Marisha Ray",
-        "Tasha Huo",
-        "Chris Prynoski",
-        "Antonio Canobbio",
-        "Ben Kalina",
-        "Shannon Prynoski"
-      ],
-      "titles": [
-        "The Mighty Nein",
-        "The Lord of the Rings: The Rings of Power",
-        "The Legend of Vox Machina"
-      ]
-    },
-    "keywords": [
-      "The Mighty Nein Season 2",
-      "Vox Machina sequel release date",
-      "Prime Video The Mighty Nein",
-      "Critical Role animated series"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-65.jpg?resize=1200,630",
-        "caption": "Prime Video Sets March 2027 Premiere Date for The Mighty Nein Season 2",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 04:14:52 +0000"
-  },
-  "soff55": {
-    "id": "soff55",
-    "type": "news",
-    "headline": "Phil Collins Makes Rare Public Appearance With Children at Rock and Roll Hall of Fame Ceremony",
-    "dek": "Veteran musician Phil Collins celebrated his solo induction into the Rock and Roll Hall of Fame alongside three of his children, marking one of his first joint public appearances in over a decade.",
-    "entities": {
-      "people": [
-        "Phil Collins",
-        "Lily Collins",
-        "Joely Collins",
-        "Nicholas Collins",
-        "Isabella Cristina Serralles",
-        "Charlie McDowell",
-        "Billy Idol"
-      ],
-      "titles": [
-        "Emily in Paris",
-        "Genesis",
-        "Iron Maiden",
-        "Oasis",
-        "Sade",
-        "Wu-Tang Clan"
-      ]
-    },
-    "keywords": [
-      "Phil Collins",
-      "Lily Collins",
-      "Phil Collins Rock and Roll Hall of Fame",
-      "Phil Collins children"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135872351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Phil Collins Makes Rare Public Appearance With Children at Rock and Roll Hall of Fame Ceremony",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-16T09:34:21+05:30"
-  },
-  "u1k0cw": {
-    "id": "u1k0cw",
-    "type": "news",
-    "headline": "Spy Drama 'Slow Horses' Confirmed to Conclude With Season 8",
-    "dek": "Actor Olivia Cooke reveals that the critically acclaimed spy series starring Gary Oldman will wrap up its run following its eighth season.",
-    "entities": {
-      "people": [
-        "Olivia Cooke",
-        "Gary Oldman",
-        "Kristin Scott Thomas",
-        "Jack Lowden",
-        "Mick Herron",
-        "Sid Baker",
-        "Jackson Lamb",
-        "Diana Taverner",
-        "River Cartwright"
-      ],
-      "titles": [
-        "Slow Horses",
-        "House of the Dragon",
-        "Slough House"
-      ]
-    },
-    "keywords": [
-      "Slow Horses",
-      "Olivia Cooke",
-      "Gary Oldman",
-      "Slough House",
-      "House of the Dragon"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2024/04/17/1600x900/logo/web-series_1713353092172_1713353099719.jpg",
-        "caption": "Spy Drama 'Slow Horses' Confirmed to Conclude With Season 8",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 09:32:59 +0530"
-  },
   "eh6qc3": {
     "id": "eh6qc3",
     "type": "news",
@@ -4822,6 +4778,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-15T14:45:19Z"
+  },
+  "10ku136": {
+    "id": "10ku136",
+    "type": "news",
+    "headline": "Amanda Seyfried To Make Hosting Debut On Upcoming Episode Of Saturday Night Live",
+    "dek": "The actress will take the stage at Studio 8H alongside musical guest Don Toliver following a brief three-week hiatus for the long-running sketch comedy program.",
+    "entities": {
+      "people": [
+        "Amanda Seyfried",
+        "Don Toliver",
+        "John Mulaney",
+        "Jalen Brunson",
+        "Inde Navarrette",
+        "Druski",
+        "Lance Oppenheim",
+        "Nathan Fielder",
+        "Elizabeth Holmes",
+        "Billy Evans",
+        "Jane Wickline",
+        "Ben Marshall"
+      ],
+      "titles": [
+        "Saturday Night Live",
+        "You Can See Everything",
+        "Dropout"
+      ]
+    },
+    "keywords": [
+      "Amanda Seyfried SNL",
+      "Saturday Night Live December 5",
+      "Don Toliver SNL musical guest",
+      "You Can See Everything documentary",
+      "Amanda Seyfried You Can See Everything"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Amanda-Seyfried-2026.jpg",
+        "caption": "Amanda Seyfried To Make Hosting Debut On Upcoming Episode Of Saturday Night Live",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 05:11:59 +0000"
   },
   "19d8ylq": {
     "id": "19d8ylq",

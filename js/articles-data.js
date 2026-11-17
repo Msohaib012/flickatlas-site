@@ -172205,5 +172205,385 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 11:30:12 GMT"
+  },
+  "19blzq4": {
+    "id": "19blzq4",
+    "type": "news",
+    "headline": "OM Box Office Day 1: Dhanush Starrer Eyes A Spot Among Kollywood's Top 5 Openers Of 2026 In India",
+    "dek": "Dhanush's upcoming film OM is projected to secure a strong opening at the Indian box office, targeting a position among the highest openers of 2026.",
+    "body": [
+      {
+        "h": "Introduction To OM And Release Context",
+        "p": [
+          "The theatrical release of the highly anticipated film OM is generating substantial excitement across the industry. Initially slated to arrive in theaters on October 16, the premiere was pushed back to November 20 to avoid a clash with Rajinikanth's Jailer 2.",
+          "The movie arrives with favorable pre-release momentum driven by strong promotional material. Furthermore, the project benefits immensely from the involvement of director Rajkumar Periasamy, riding high on the massive success of his previous blockbuster Amaran."
+        ]
+      },
+      {
+        "h": "Projected Opening Figures In India",
+        "p": [
+          "Trade projections indicate that OM is poised to collect upwards of 15 crore net on its first day at the domestic box office. This robust start places it on track to potentially become the highest opening film of actor Dhanush's career.",
+          "Currently, Dhanush's personal best opening record is held by Tere Ishk Mein, which brought in 15.81 crore. Industry trackers note that surpassing this previous benchmark is well within reach for the new release."
+        ]
+      },
+      {
+        "h": "Targeting Kollywood's Top Openers Of 2026",
+        "p": [
+          "With an anticipated opening exceeding 15 crore, OM is firmly aiming for a spot within the top five Kollywood openers of 2026 in India. To crack the top tier, it needs to outperform Vishwanath Sons, which opened at 15.15 crore, a goal considered very achievable.",
+          "Beyond that milestone, the film has a realistic chance of overtaking Karuppu at 15.5 crore to claim the fourth position on the 2026 opening day ledger."
+        ]
+      },
+      {
+        "h": "A Major Comeback For Dhanush",
+        "p": [
+          "The strong opening projections offer a much-needed bounce-back for Dhanush following the disappointing box office performance of his previous venture, Kara, which managed a modest 6.2 crore opening.",
+          "Analysts suggest that if the film receives positive word-of-mouth from audiences, it could sustain exceptional momentum and achieve stellar long-term financial results in theaters."
+        ]
+      },
+      {
+        "h": "Existing Top Openers Of 2026",
+        "p": [
+          "The current list of top Kollywood openers for 2026 in India highlights fierce competition at the box office. Leading the chart is Jailer 2 with a massive 59.7 crore, followed by Jana Nayagan at 42.7 crore and Scene at 19.15 crore.",
+          "Further down the list are Karuppu at 15.5 crore and Vishwanath Sons at 15.15 crore, followed by Parasakthi at 12.35 crore, LIK: Love Insurance Kompany at 6.85 crore, Kara at 6.2 crore, Mandaadi at 4.85 crore, and Sardar 2 at 4.5 crore."
+        ]
+      },
+      {
+        "h": "Cast, Crew, And Production Details",
+        "p": [
+          "OM features a star-studded ensemble cast alongside Dhanush, including Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans in pivotal roles. The musical score for the feature is composed by Sai Abhyankkar.",
+          "The project is backed by producers Shraddha Agrawal, Dhanush, and Azmat Jagmag, and has been developed under the banners of Wunderbar Films and RTake Studios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush's film OM is scheduled to release on November 20 after a delay from October 16. It is projected to earn over 15 crore net on its first day, potentially setting a new opening record for the actor and entering the top five Kollywood openers of 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "OM releases on November 20",
+      "OM was originally scheduled for October 16",
+      "OM is projected to open with 15 crore+ net at the Indian box office",
+      "Tere Ishk Mein holds Dhanush's biggest opening with 15.81 crore",
+      "Kara opened at 6.2 crore",
+      "Jailer 2 opened at 59.7 crore",
+      "Jana Nayagan opened at 42.7 crore",
+      "Scene opened at 19.15 crore",
+      "Karuppu opened at 15.5 crore",
+      "Vishwanath Sons opened at 15.15 crore",
+      "Parasakthi opened at 12.35 crore",
+      "LIK: Love Insurance Kompany opened at 6.85 crore",
+      "Mandaadi opened at 4.85 crore",
+      "Sardar 2 opened at 4.5 crore"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Rajinikanth",
+        "Rajkumar Periasamy",
+        "Shraddha Agrawal",
+        "Azmat Jagmag",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Sai Abhyankkar",
+        "Chiyaan Vikram",
+        "Nayanthara",
+        "Suriya"
+      ],
+      "titles": [
+        "OM",
+        "Jailer 2",
+        "Amaran",
+        "Tere Ishk Mein",
+        "Vishwanath Sons",
+        "Karuppu",
+        "Kara",
+        "Jana Nayagan",
+        "Scene",
+        "Parasakthi",
+        "LIK: Love Insurance Kompany",
+        "Mandaadi",
+        "Sardar 2",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "OM film box office",
+      "Dhanush OM opening day",
+      "OM Kollywood openers 2026",
+      "OM release date November 20"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/om-box-office-1.jpg",
+        "caption": "OM Box Office Day 1: Dhanush Starrer Eyes A Spot Among Kollywood's Top 5 Openers Of 2026 In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 13:42:06 +0000"
+  },
+  "t2vgw8": {
+    "id": "t2vgw8",
+    "type": "news",
+    "headline": "MS Dhoni Concludes IPL Career and Takes on CSK Mentor Role for 2027",
+    "dek": "Mahendra Singh Dhoni has officially wrapped up his storied IPL playing career, transitioning into a mentoring role with Chennai Super Kings ahead of the 2027 season.",
+    "body": [
+      {
+        "h": "The End of an IPL Era",
+        "p": [
+          "Mahendra Singh Dhoni has brought his illustrious Indian Premier League career to a definitive close. Known widely by monikers like Thala and Captain Cool, the legendary cricketer leaves behind an unmatched legacy defined by iconic moments, unforgettable helicopter shots, and numerous victories.",
+          "Supporters across the cricketing world now must bid farewell to seeing him smash signature sixes on the field. However, his departure from active playing duties marks the conclusion of a remarkable chapter in franchise cricket history."
+        ]
+      },
+      {
+        "h": "Transitioning to a Coaching Capacity",
+        "p": [
+          "While his playing days in the league have concluded, Dhoni is not parting ways with the franchise entirely. He is set to assume a new responsibility as the team mentor for Chennai Super Kings ahead of the 2027 season.",
+          "This strategic transition allows the veteran leader to continue guiding the squad, imparting his invaluable experience to the next generation of players and supporting the franchise from the sidelines."
+        ]
+      },
+      {
+        "h": "Unpredictable Announcement Style",
+        "p": [
+          "True to his reputation for making sudden choices, Dhoni delivered his retirement decision in his trademark unexpected fashion. Throughout his career, spanning Tests, ODIs, and the T20 league, he has frequently stepped away on his own terms without offering prior warnings.",
+          "Franchise officials noted that during a recent conference call regarding player retentions and releases, the legendary player offered no hint of his upcoming departure, continuing his pattern of surprising management and fans alike."
+        ]
+      },
+      {
+        "h": "Management Discussions and Coaching Staff",
+        "p": [
+          "Prior to the announcement, the CSK legend participated in crucial discussions with the franchise management and the newly appointed head coach, Zaheer Khan. The conference call focused on finalising the list of players to be retained and released.",
+          "Senior franchise representatives expressed astonishment at how quietly the decision was handled, emphasizing that his method of functioning remains entirely unpredictable to those working closely with him."
+        ]
+      },
+      {
+        "h": "Unseen Footage Surfaces Online",
+        "p": [
+          "In the wake of his retirement confirmation, a previously unseen video featuring Dhoni has begun circulating widely across social media platforms. The emotional clip was shared by the Instagram page Unseen Chennai.",
+          "According to reports, the footage captures moments from the team's final match at the Chepauk Stadium last year, quickly capturing the attention of devoted supporters mourning the end of his active playing tenure."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mahendra Singh Dhoni has officially ended his playing career in the Indian Premier League, moving into a mentoring position with Chennai Super Kings for the 2027 season. Following his surprise departure, an unseen video from his final match last year at Chepauk Stadium went viral among emotional fans."
+        ]
+      }
+    ],
+    "facts": [
+      "Mahendra Singh Dhoni officially retired from the IPL on November 17, 2026.",
+      "He will take up a mentor role with CSK ahead of the 2027 season.",
+      "Zaheer Khan is the new head coach of CSK.",
+      "An unseen video from CSK's final match at Chepauk Stadium last year surfaced online via Unseen Chennai."
+    ],
+    "entities": {
+      "people": [
+        "MS Dhoni",
+        "Zaheer Khan"
+      ],
+      "titles": [
+        "MS Dhoni: The Untold Story"
+      ]
+    },
+    "keywords": [
+      "MS Dhoni",
+      "Chennai Super Kings",
+      "MS Dhoni IPL retirement",
+      "Dhoni CSK mentor 2027"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-17t180121-336-68331794918698.jpg",
+        "caption": "MS Dhoni Concludes IPL Career and Takes on CSK Mentor Role for 2027",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:03:06 +0530"
+  },
+  "6ggosc": {
+    "id": "6ggosc",
+    "type": "news",
+    "headline": "ITV Unveils First Look and Release Details for Legal Drama Saviour Starring Anjli Mohindra",
+    "dek": "Imran Mahmood's upcoming legal drama Saviour has released its first preview images and casting details, offering a glimpse into the high-stakes world of a newly promoted solicitor.",
+    "body": [
+      {
+        "h": "Introduction to Saviour",
+        "p": [
+          "Broadcasting network ITV has shared the initial preview materials for its upcoming television drama Saviour. The series centers on a talented criminal defense solicitor who faces intense challenges within the legal framework.",
+          "Created by criminal barrister, novelist, and screenwriter Imran Mahmood, the show aims to provide an authentic look at the complexities of the justice system."
+        ]
+      },
+      {
+        "h": "Plot and Protagonist",
+        "p": [
+          "Anjli Mohindra leads the cast as Indy Sangar, a brilliant criminal defense solicitor who has recently achieved a promotion to Higher Rights of Audience at the Old Bailey.",
+          "The narrative begins when Indy takes on the representation of a young man named Ben, played by Archie Fisher. Ben faces murder charges following a violent street brawl that resulted in a fatality."
+        ]
+      },
+      {
+        "h": "Systemic Challenges and Personal Stakes",
+        "p": [
+          "As Indy constructs Ben's defense, she uncovers deeply rooted issues within the legal and enforcement structures. The investigation pulls her into a web of police corruption, intense media scrutiny, and intricate racial politics.",
+          "Simultaneously, personal secrets from Indy's own past begin to emerge, threatening not only her professional standing but also her marriage and family stability."
+        ]
+      },
+      {
+        "h": "Star-Studded Supporting Cast",
+        "p": [
+          "The series features a robust ensemble cast alongside Mohindra and Fisher. Aidan Gillen takes on the role of Eddie, Ben's father, who is determined to clear his son's name by any means necessary.",
+          "Shaun Parkes joins the lineup as DI Jon Creasy. The cast is further rounded out by Claire Goose and Sam Swainsbury."
+        ]
+      },
+      {
+        "h": "First Look and Release Window",
+        "p": [
+          "ITV has distributed a short teaser trailer and a selection of promotional images to generate anticipation for the programme. The network confirmed that Saviour is scheduled to premiere across ITV and ITVX in 2027.",
+          "While a specific calendar release date has not yet been announced, the preview materials give audiences their initial glimpse into the gripping tone of the legal thriller."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ITV has released a first look and release window for the upcoming legal drama Saviour, created by Imran Mahmood. The series stars Anjli Mohindra as a defense solicitor navigating a complex murder case alongside actors Aidan Gillen and Shaun Parkes."
+        ]
+      }
+    ],
+    "facts": [
+      "Saviour is created and written by Imran Mahmood",
+      "Anjli Mohindra stars as Indy Sangar",
+      "Archie Fisher plays Ben",
+      "Aidan Gillen plays Eddie",
+      "Shaun Parkes plays DI Jon Creasy",
+      "Saviour will be released on ITV and ITVX in 2027"
+    ],
+    "entities": {
+      "people": [
+        "Imran Mahmood",
+        "Anjli Mohindra",
+        "Archie Fisher",
+        "Aidan Gillen",
+        "Shaun Parkes",
+        "Claire Goose",
+        "Sam Swainsbury"
+      ],
+      "titles": [
+        "Saviour",
+        "The Sarah Jane Adventures",
+        "Game of Thrones",
+        "Line of Duty",
+        "Silverpoint",
+        "The Coroner",
+        "Ludwig"
+      ]
+    },
+    "keywords": [
+      "Saviour ITV drama",
+      "Anjli Mohindra Saviour",
+      "Imran Mahmood Saviour",
+      "Aidan Gillen Saviour"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/86578d5e-cfda-46be-8aca-34fc595908b9.jpg?crop=1.00xw:0.752xh;0,0.190xh&amp;resize=1200:*",
+        "caption": "ITV Unveils First Look and Release Details for Legal Drama Saviour Starring Anjli Mohindra",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 13:43:00 +0000"
+  },
+  "kwplk": {
+    "id": "kwplk",
+    "type": "news",
+    "headline": "Javed Akhtar Fires Back at Trolls Over Jawaharlal Nehru Autograph Memory on X",
+    "dek": "Veteran lyricist Javed Akhtar engaged in a heated exchange of replies on social media after sharing a personal recollection about meeting India's first Prime Minister.",
+    "body": [
+      {
+        "h": "A Nostalgic Recollection Turns Contentious",
+        "p": [
+          "Veteran screenwriter and lyricist Javed Akhtar recently took to social media to share a fond personal memory involving India's first Prime Minister, Jawaharlal Nehru. The post, which detailed an encounter from decades ago, quickly attracted online controversy.",
+          "What started as a simple trip down memory lane escalated into a fiery back-and-forth between the veteran artist and several critics on the platform formerly known as Twitter."
+        ]
+      },
+      {
+        "h": "The Teen Murti Bhavan Memory",
+        "p": [
+          "Akhtar recalled visiting Teen Murti Bhavan, Nehru's official residence, on November 14, 1963, to attend the leader's 74th birthday celebrations. At 18 years old, he had the opportunity to shake hands with the Prime Minister, unaware that it would be Nehru's final birthday.",
+          "In his post, the lyricist mentioned that this marked his second and last meeting with the leader, adding that he had previously secured Nehru's autograph at the age of 13, which he continues to cherish as a prized possession."
+        ]
+      },
+      {
+        "h": "Sharp Retorts to Online Critics",
+        "p": [
+          "The post soon drew political jibes and negative remarks from users questioning his admiration for the former Prime Minister. One user dismissed Akhtar as a mediocre writer praising a mediocre leader.",
+          "Akhtar did not hold back in his response, firing back sharply at the critic and maintaining a fierce stance against unsolicited insults regarding his artistic legacy."
+        ]
+      },
+      {
+        "h": "Addressing Autograph Inquiries With Scorn",
+        "p": [
+          "Another user questioned whether Nehru handed out autographs exclusively to his political votebank during birthday gatherings. This prompted a swift clarification from the screenwriter.",
+          "Akhtar pointed out that he had obtained the autograph years prior to attending the birthday event, calling the user's remarks exceptionally poor taste and questioning their basic sense of decency."
+        ]
+      },
+      {
+        "h": "Calling Out Poor Upbringing and Ignorance",
+        "p": [
+          "As multiple users joined the fray to criticize him, Akhtar continued to reply directly, attributing their hostility to a lack of proper upbringing, frustration, and a total ignorance of historical context.",
+          "He expressed pity for the trolls, noting that their own harsh words revealed more about their personal character and background than anything else."
+        ]
+      },
+      {
+        "h": "A Storied Cinematic Legacy",
+        "p": [
+          "Outside of social media debates, Javed Akhtar remains one of the most celebrated figures in Hindi cinema. He famously rose to prominence alongside Salim Khan as part of the iconic Salim-Javed screenwriting duo.",
+          "Together, they revolutionized storytelling in Indian cinema by penning major 1970s and 1980s blockbusters such as Sholay, Deewaar, Zanjeer, and Don, helping screenwriters gain unprecedented industry recognition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran lyricist Javed Akhtar engaged in a fiery social media exchange after sharing a nostalgic memory about meeting Jawaharlal Nehru and obtaining his autograph in his youth. Online critics criticized his post with political jibes, prompting Akhtar to fire back and sharply question their decency and historical awareness."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of publication: November 17, 2026",
+      "Javed Akhtar's age when meeting Nehru in 1963: 18 years old",
+      "Nehru's age on his final birthday in 1963: 74th birthday",
+      "Javed Akhtar's age when he first took Nehru's autograph: 13 years old",
+      "Films written by the Salim-Javed duo: Sholay, Deewaar, Zanjeer, Don"
+    ],
+    "entities": {
+      "people": [
+        "Javed Akhtar",
+        "Jawaharlal Nehru",
+        "Salim Khan",
+        "Anisha Rao"
+      ],
+      "titles": [
+        "Sholay",
+        "Deewaar",
+        "Zanjeer",
+        "Don"
+      ]
+    },
+    "keywords": [
+      "Javed Akhtar",
+      "Jawaharlal Nehru",
+      "Javed Akhtar Nehru autograph",
+      "Salim Javed"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/javed-akhtar-on-meeting-jawaharlal-nehru-175934226-16x9_0.jpg?VersionId=4bAko3m5hbqB_VOc.65JxTW0DKzs0TAH",
+        "caption": "Javed Akhtar Fires Back at Trolls Over Jawaharlal Nehru Autograph Memory on X",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:34:00 +0530"
   }
 };
