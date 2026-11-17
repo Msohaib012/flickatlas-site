@@ -739,6 +739,33 @@ class TotalDeltaTests(unittest.TestCase):
         self.assertNotIn("last_7_days", reports["42"])
         self.assertNotIn("last_7_days", reports["77"])
 
+    def test_stale_world_reports_runner_case(self):
+        # Runner 2026-11-17: dropped out of the selection, report carried
+        # forward with a 2026-11-14 Mojo total, history frozen at one point.
+        def stale_report(observed_date, method="mojo_direct", industry="world"):
+            report = self._report(18_892_904, "2026-11-14T04:55:00Z", industry)
+            report["cumulative_total"]["method"] = method
+            report["cumulative_total"]["observed_date"] = observed_date
+            return report
+        reports = {
+            "1377237": stale_report("2026-11-14"),          # Runner: stale
+            "1283515": stale_report("2026-11-17"),          # Verity: fresh
+            "1562642": stale_report("2026-11-15"),          # Ghost: stale
+            "656908": stale_report("2026-11-14", industry="bollywood"),
+            "999": stale_report("2026-11-14", method="paired_components"),
+        }
+        picked = bo.stale_world_reports(reports, {"1283515"}, "2026-11-17", 4)
+        self.assertEqual(picked, [("2026-11-14", "1377237"),
+                                  ("2026-11-15", "1562642")])
+        # Cap: oldest first.
+        self.assertEqual(
+            bo.stale_world_reports(reports, set(), "2026-11-17", 1),
+            [("2026-11-14", "1377237")])
+        # A candidate is never picked, even when stale.
+        self.assertNotIn(
+            ("2026-11-14", "1377237"),
+            bo.stale_world_reports(reports, {"1377237"}, "2026-11-17", 4))
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

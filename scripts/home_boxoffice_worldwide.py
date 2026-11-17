@@ -85,6 +85,12 @@ SEARCH_COOLDOWN_HOURS = 24
 # at every gated round of the day instead of once a day. Titles that
 # already hold an accepted report keep the 24h cooldown above.
 SEARCH_COOLDOWN_HOURS_MISSING = 6
+# Stale carried-over refresh (2026-11-17): how many dropped-out world titles
+# the Mojo lane re-observes per run. A title that leaves the selection keeps
+# its report (carried forward) but no lane re-reads it, so its history
+# freezes and its windows sit at "Day 1" forever. Four covers the rail's
+# worth of stragglers without turning the Mojo lane into a bulk reader.
+STALE_REFRESH_CAP = 4
 WINDOW_LABELS = {
     "today": "today's worldwide theatrical gross",
     "last_2_days": "the worldwide theatrical gross for the last 2 calendar days",
@@ -1085,6 +1091,34 @@ def update_total_history(reports: dict[str, Any], previous_history: Any,
     return history, counts
 
 
+def stale_world_reports(reports: dict[str, Any], candidate_ids: set[str],
+                        today_ist: str, cap: int) -> list[tuple[str, str]]:
+    """Carried-over world reports whose Mojo total is stale, oldest first.
+
+    A title that drops out of the selection keeps its report, but the
+    candidate-only Mojo lane never re-observes it. Returns (observed_date,
+    movie_id) pairs for world reports with a `mojo_direct` cumulative
+    total observed before today, excluding current candidates and
+    paired-components totals (another lane's). Capped so the Mojo lane
+    stays small; the caller re-reads Mojo for each returned title.
+    """
+    stale: list[tuple[str, str]] = []
+    for movie_id, report in reports.items():
+        if movie_id in candidate_ids:
+            continue
+        if not isinstance(report, dict) or report.get("industry") != "world":
+            continue
+        total = report.get("cumulative_total")
+        if not isinstance(total, dict) or total.get("method") != "mojo_direct":
+            continue
+        obs = total.get("observed_date")
+        if not isinstance(obs, str) or obs >= today_ist:
+            continue
+        stale.append((obs, str(movie_id)))
+    stale.sort()
+    return stale[:cap]
+
+
 def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
                 now: dt.datetime | None = None) -> dict[str, Any]:
     now = now or dt.datetime.now(dt.timezone.utc)
@@ -1282,6 +1316,28 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
             mojo_fills += 1
             print(f"Mojo direct fill for {movie_id} [{item.get('title')}]: "
                   f"cumulative_total ${metric['amount']:,}")
+    # Stale carried-over refresh (2026-11-17): a world title that drops out
+    # of the selection keeps its report (carried forward above) but no lane
+    # ever re-observes its total, so its history freezes at one point and
+    # its 2D/7D windows sit at "Day 1" forever (Runner: observed 2026-11-14,
+    # never again, while Verity/Ghost Soldier advanced to Day 4). Re-read
+    # Mojo for carried-over world reports whose total is stale, oldest
+    # first, capped by STALE_REFRESH_CAP. Candidates are excluded (handled
+    # by the loop above); paired-components totals belong to another lane
+    # and are never overwritten here. A failed read leaves the stored
+    # figure standing, exactly like the candidate lane.
+    stale_refreshes = 0
+    for _obs, movie_id in stale_world_reports(
+            snapshot["reports"], set(by_id), today_ist, STALE_REFRESH_CAP):
+        report = snapshot["reports"][movie_id]
+        metric = mojo_direct_metric(
+            {"id": movie_id, "title": report.get("title") or movie_id},
+            now_iso, today_pkt)
+        if metric:
+            report["cumulative_total"] = metric
+            stale_refreshes += 1
+            print(f"Mojo stale refresh for {movie_id} [{report.get('title')}]: "
+                  f"cumulative_total ${metric['amount']:,}")
     # Totals differencing (2026-11-09): record today's verified
     # cumulative totals in the carried history and derive worldwide
     # 2-day/7-day windows from verified-total differences. Runs after
@@ -1295,6 +1351,7 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
         "attempts": search_attempts,
         "failures": search_failures,
         "mojo_fills": mojo_fills,
+        "stale_refreshes": stale_refreshes,
         "at": now_iso,
     }
     # Bound stored data to the 500 most recently observed report records.
