@@ -171784,5 +171784,426 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 15:46:50 +0200"
+  },
+  "a1d8a5": {
+    "id": "a1d8a5",
+    "type": "news",
+    "headline": "Zeenat Aman Sparks Speculation With Appearance on Pitch To Get Rich Season 2 Sets",
+    "dek": "Veteran star Zeenat Aman was recently seen on the production sets alongside Malaika Arora and Karan Johar, triggering talk of a possible role in the entrepreneurship reality program.",
+    "body": [
+      {
+        "h": "Unexpected On-Set Sighting",
+        "p": [
+          "Legendary film icon Zeenat Aman recently caused quite a stir after being photographed on the active production sets of a popular digital fashion series. Her presence alongside prominent figures immediately sparked widespread rumors regarding a potential collaboration.",
+          "Observers and fans alike began wondering if the veteran actress would step into a prominent role on the upcoming episodes, though producers have kept official details under strict wraps."
+        ]
+      },
+      {
+        "h": "Potential Panelist Roles",
+        "p": [
+          "While speculations run wild, insiders point out that her involvement could manifest as either a full-time judge or a specialized guest mentor. Her decades of experience in the entertainment industry make her a natural fit for offering constructive feedback.",
+          "However, the showrunners have yet to provide any formal confirmation regarding the true nature of her visit or whether she will return for subsequent filming schedules."
+        ]
+      },
+      {
+        "h": "A Legacy of Fashion and Culture",
+        "p": [
+          "Throughout her storied career, Zeenat Aman has profoundly shaped Indian cinema and remained an enduring symbol of style and grace across multiple generations. Her iconic status continues to influence modern fashion and popular culture standards.",
+          "Bringing such an influential personality into a modern business format adds a layer of depth, given her lifelong relationship with aesthetics, branding, and public presentation."
+        ]
+      },
+      {
+        "h": "Format and Platform Overview",
+        "p": [
+          "The web series streams digitally on JioHotstar and is heavily backed by the Fashion Entrepreneur Fund. Its core mission bridges creative fashion concepts with serious corporate investment opportunities.",
+          "Aspiring lifestyle entrepreneurs and designers use this platform to showcase unique collections, explain their core brand identities, and pitch viable business growth strategies to industry heavyweights."
+        ]
+      },
+      {
+        "h": "Previous Season Success",
+        "p": [
+          "The inaugural installment of the reality program featured a high-profile celebrity panel that included Akshay Kumar, Karan Johar, Manish Malhotra, and Malaika Arora. These established leaders evaluated pitches and guided fresh founders through challenging presentations.",
+          "That foundational success laid the groundwork for a much larger sophomore outing, proving that the blend of entertainment and entrepreneurship resonates well with viewers."
+        ]
+      },
+      {
+        "h": "Expanded Investments for Season Two",
+        "p": [
+          "For the upcoming edition, the production team has significantly raised the stakes by expanding its investment commitment pool to a massive Rs. 100 crores. This increased capital aims to nurture promising homegrown fashion businesses.",
+          "With production currently in full swing, these heavy financial commitments combined with star-studded set appearances have dramatically amplified viewer anticipation."
+        ]
+      },
+      {
+        "h": "Unconfirmed Extent of Involvement",
+        "p": [
+          "Whether the veteran star's recent visit points toward a singular themed guest appearance or a recurring mentoring position remains completely unverified at this moment. Audiences must wait for a formal announcement from the makers.",
+          "As filming continues behind closed doors, fans remain eager to see how the expanded second season will integrate legendary glamour with cutting-edge business pitches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actress Zeenat Aman was spotted on the sets of Pitch To Get Rich Season 2 alongside Malaika Arora and Karan Johar, sparking rumors of a potential judging or mentoring role. While the makers have not confirmed her involvement, production is underway for the second season, which features an expanded investment pool of Rs. 100 crores on JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "Zeenat Aman was spotted on the sets of Pitch To Get Rich Season 2 alongside Malaika Arora and Karan Johar.",
+      "The show streams on JioHotstar and is backed by the Fashion Entrepreneur Fund.",
+      "The first season featured Akshay Kumar, Karan Johar, Manish Malhotra, and Malaika Arora.",
+      "Season 2 has expanded its investment commitment pool to Rs. 100 crores."
+    ],
+    "entities": {
+      "people": [
+        "Zeenat Aman",
+        "Malaika Arora",
+        "Karan Johar",
+        "Akshay Kumar",
+        "Manish Malhotra"
+      ],
+      "titles": [
+        "Pitch To Get Rich Season 2"
+      ]
+    },
+    "keywords": [
+      "Zeenat Aman",
+      "Pitch To Get Rich Season 2",
+      "Malaika Arora",
+      "Karan Johar",
+      "JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Zeenat-Aman-spotted-on-sets-of-Pitch-To-Get-Rich-Season-2-news-1.jpeg",
+        "caption": "Zeenat Aman Sparks Speculation With Appearance on Pitch To Get Rich Season 2 Sets",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 16:21:26 +0200"
+  },
+  "1y21v20": {
+    "id": "1y21v20",
+    "type": "news",
+    "headline": "A Curated Look At The Six Outstanding Books Ranked For 2025",
+    "dek": "A closer examination of six diverse literary works that defined the reading landscape of 2025, ranging from historical hauntings to modern familial bonds.",
+    "body": [
+      {
+        "h": "Introduction to the Selection Process",
+        "p": [
+          "When evaluating the literary landscape of 2025, standard bestseller charts were entirely bypassed in favor of personal resonance. The primary metric for determining these favorites relied simply on the number of folded corners left in the pages.",
+          "The resulting collection of six books features wildly different styles and subjects, sharing only a high standard of quality that makes them well worth losing sleep over."
+        ]
+      },
+      {
+        "h": "The Buffalo Hunter Hunter by Stephen Graham Jones",
+        "p": [
+          "Opening with a professor named Etsy Beck discovering an old journal hidden inside a wall in Miles City, Montana, this novel traces the records of her great-great-grandfather, a Lutheran pastor from 1912. A Blackfeet man named Good Stab arrives at the church seeking to confess, sharing a tale of a multi-decade quest for revenge after becoming a vampire.",
+          "Authored by Stephen Graham Jones, the book draws deeply on personal roots and historical trauma, specifically highlighting the 1870 Marias Massacre. The narrative requires patience initially, but evolves into a gripping read once the supernatural confession unfolds."
+        ]
+      },
+      {
+        "h": "The Sisters by Jonas Hassen Khemiri",
+        "p": [
+          "Spanning over thirty years from the early 1990s to the modern day, this story tracks three Swedish sisters named Ina, Evelyn, and Anastasia Mikkola. Convinced that a family curse will claim everything they hold dear, their lives scatter across multiple international borders while repeatedly crossing paths with a boy named Jonas.",
+          "Jonas Hassen Khemiri employs a clever narrative framing device where the narrator shares his name, blurring the line between reality and fiction. The lengthy novel functions similarly to an old family photo album, exploring complex sibling dynamics."
+        ]
+      },
+      {
+        "h": "Stone Yard Devotional by Charlotte Wood",
+        "p": [
+          "A nameless protagonist in her fifties relocates from her established life to a secluded religious community located on the dry plains of New South Wales, Australia. Though she lacks religious belief and a clear purpose, her quiet days are soon disrupted by a mouse plague, the return of a murdered nun's bones, and an unresolved childhood acquaintance named Helen Parry.",
+          "Written by Charlotte Wood, this reflective novel earned a shortlisting for the 2024 Booker Prize. It persistently examines the difficult boundaries of human forgiveness and lingering resentment."
+        ]
+      },
+      {
+        "h": "The Director by Daniel Kehlmann",
+        "p": [
+          "Set during the 1930s, the plot centers on G.W. Pabst, formerly one of Europe's most prominent film directors who had previously collaborated with Greta Garbo and Louise Brooks. Stranded in Austria visiting his aging mother after the outbreak of war, the artist slowly makes compromises to produce films for the Nazi regime.",
+          "Translated into English by Ross Benjamin, Daniel Kehlmann's narrative blends stark historical reality with artistic commentary, prompting uncomfortable ethical questions about survival and collaboration."
+        ]
+      },
+      {
+        "h": "The Loneliness of Sonia and Sunny by Kiran Desai",
+        "p": [
+          "Kiran Desai returns with her first novel in nearly twenty years, following her 2006 Booker Prize win for The Inheritance of Loss. The narrative tracks Sonia, an art student in snowy Vermont, and Sunny, an aspiring journalist in New York, whose families back in India attempt to arrange a match between them.",
+          "Spanning nearly 700 pages and earning a shortlisting for the 2025 Booker Prize, the massive novel delves honestly into the profound isolation felt by individuals navigating life far from their homeland."
+        ]
+      },
+      {
+        "h": "Angel Down by Daniel Kraus",
+        "p": [
+          "Set during World War I, Private Cyril Bagger operates as a cynical scavenger surviving by taking items from dead bodies. Sent into no man's land alongside four other soldiers to mercy-kill a wounded individual, the group instead discovers a broken angel trapped in the mud.",
+          "Co-written by Daniel Kraus, who previously collaborated on The Shape of Water with Guillermo del Toro, the book is uniquely constructed as a single continuous sentence. This stylistic choice mirrors the frantic, breathless mindset of a soldier."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A curated look at six notable books highlights diverse literary works from 2025, featuring authors such as Stephen Graham Jones, Charlotte Wood, and Kiran Desai. The selections span genres from historical vampire fiction and wartime drama to personal explorations of family and loneliness."
+        ]
+      }
+    ],
+    "facts": [
+      "Safwan Azeem published the article on Nov 17, 2026",
+      "Stephen Graham Jones wrote The Buffalo Hunter Hunter",
+      "Arthur Beck was a Lutheran pastor in Miles City, Montana in 1912",
+      "The 1870 Marias Massacre was a real attack on a Blackfeet camp",
+      "Jonas Hassen Khemiri wrote The Sisters",
+      "Stone Yard Devotional was shortlisted for the 2024 Booker Prize",
+      "G.W. Pabst worked with Greta Garbo and Louise Brooks",
+      "Ross Benjamin provided the English translation for The Director",
+      "The Inheritance of Loss won the Booker Prize in 2006",
+      "The Loneliness of Sonia and Sunny is Kiran Desai's first novel in almost 20 years and was shortlisted for the 2025 Booker",
+      "Daniel Kraus co-wrote The Shape of Water with Guillermo del Toro"
+    ],
+    "entities": {
+      "people": [
+        "Safwan Azeem",
+        "Stephen Graham Jones",
+        "Arthur Beck",
+        "Good Stab",
+        "Jonas Hassen Khemiri",
+        "Charlotte Wood",
+        "Helen Parry",
+        "G.W. Pabst",
+        "Greta Garbo",
+        "Louise Brooks",
+        "Daniel Kehlmann",
+        "Ross Benjamin",
+        "Kiran Desai",
+        "Cyril Bagger",
+        "Daniel Kraus",
+        "Guillermo del Toro"
+      ],
+      "titles": [
+        "The Buffalo Hunter Hunter",
+        "The Sisters",
+        "Stone Yard Devotional",
+        "The Director",
+        "The Loneliness of Sonia and Sunny",
+        "The Inheritance of Loss",
+        "Angel Down",
+        "The Shape of Water"
+      ]
+    },
+    "keywords": [
+      "The Buffalo Hunter Hunter Stephen Graham Jones",
+      "Stone Yard Devotional Charlotte Wood",
+      "The Loneliness of Sonia and Sunny Kiran Desai",
+      "Angel Down Daniel Kraus"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/retro-off-white-face-on-orange-1.png?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "A Curated Look At The Six Outstanding Books Ranked For 2025",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 11:41:12 GMT"
+  },
+  "w58if1": {
+    "id": "w58if1",
+    "type": "news",
+    "headline": "T-Series and Hungama Launch FastTV Micro-Drama Platform with Rs 300 Crore Investment",
+    "dek": "Entertainment giants T-Series and Hungama Digital Media Entertainment have teamed up to roll out FastTV, a newly unveiled micro-drama streaming platform backed by a massive Rs 300 crore financial commitment.",
+    "body": [
+      {
+        "h": "The Birth of FastTV",
+        "p": [
+          "In a major development for the digital entertainment landscape, T-Series and Hungama Digital Media Entertainment have officially joined forces to create FastTV. This fresh venture serves as a specialized micro-drama platform explicitly designed to bolster India's footing within the rapidly expanding short-form content sector. Both major entertainment companies have injected a combined investment of Rs 300 crore into this partnership.",
+          "The primary focus of this substantial capital is to accelerate the creation of original intellectual properties, bolster underlying technological infrastructure, and aggressively grow the platform's consumer base. Officially announced in Mumbai on November 17, 2026, the service aims to cater directly to mobile-first audiences who prefer fast-paced storytelling."
+        ]
+      },
+      {
+        "h": "Capitalizing on Global and Local Trends",
+        "p": [
+          "The micro-drama format has experienced tremendous upward momentum internationally. Recent figures reveal that global revenues for this vertical hit $11 billion in the preceding year and are projected to surpass $14 billion by the conclusion of 2026. Domestically, the appetite for bite-sized narratives is equally compelling, with statistical trends showing that two out of every three viewers discovered micro-dramas over the past year alone.",
+          "FastTV intends to capitalize heavily on this shifting consumer habit. By offering short episodes crafted precisely for single-sitting consumption, the platform addresses the modern viewer's demand for instant, accessible, and engaging entertainment that fits seamlessly into a busy mobile lifestyle."
+        ]
+      },
+      {
+        "h": "Creative Collaborations and Global Reach",
+        "p": [
+          "Content on FastTV will be driven by a diverse pool of writers, directors, and performers recruited from established Indian film and television domains. The platform is curating stories spanning multiple genres and languages to ensure wide-ranging appeal. Furthermore, the ambition stretches far beyond domestic borders; FastTV plans to make its catalog available across India as well as 190 international countries, specifically targeting global audiences familiar with Indian entertainment.",
+          "The strategy relies heavily on delivering culturally resonant stories equipped with international distribution channels. This dual focus allows the joint venture to position itself as a major contender in the global short-form digital streaming market from its very inception."
+        ]
+      },
+      {
+        "h": "T-Series Brings Cinematic Legacy",
+        "p": [
+          "As an equal partner in the venture, T-Series brings its extensive background in movie production and music distribution to the table. Having built a rich catalog boasting over 180 films, the company holds deep institutional knowledge of Indian cinema. This expertise will directly guide the creative direction of FastTV.",
+          "In addition to narrative content, the platform's offerings will heavily integrate original musical compositions and soundtracks. This ensures that the signature audio-visual appeal traditionally associated with T-Series productions will remain central to the new micro-drama experience."
+        ]
+      },
+      {
+        "h": "Hungama's Digital and AI Expertise",
+        "p": [
+          "Hungama Digital Media Entertainment complements this partnership with over two decades of robust experience in digital media. The firm has successfully developed services spanning video, music, gaming, and immersive media, cultivating a user base exceeding 300 million individuals through strategic technology partnerships.",
+          "Significantly, Hungama has spent the last 18 months engineering the FastTV platform alongside patent-applied AI production technology. This in-house technological framework is tailored to streamline content development, aid production, handle multi-language localization, and deliver personalized viewing recommendations driven by individual user preferences."
+        ]
+      },
+      {
+        "h": "Leadership Perspectives on the Venture",
+        "p": [
+          "Bhushan Kumar, Chairman and Managing Director of T-Series, expressed enthusiasm about the collaboration, noting that the partnership merges complementary strengths with a shared vision for creative excellence. He emphasized the potential of combining compelling narratives, world-class music, and advanced technology to build a formidable Indian content ecosystem capable of resonating globally.",
+          "Neeraj Roy, Founder and CEO of Hungama Digital Media Entertainment, echoed these sentiments by stating that India requires a platform explicitly built for how a billion people currently consume media: stories written for mobile screens and told in minutes. He highlighted that micro-drama presents an unprecedented opportunity for India to lead rather than follow on the global stage."
+        ]
+      },
+      {
+        "h": "Current Availability and Future Roadmap",
+        "p": [
+          "FastTV is already fully operational and accessible to the public. Users can download the application via the App Store and Google Play, or access it directly through the web browser. The service is presently putting the finishing touches on its initial slate of original micro-drama content.",
+          "Official announcements detailing upcoming programming schedules, specific genres, and new show titles are anticipated to roll out in the coming weeks. Through this strategic alliance, T-Series and Hungama have laid the groundwork for a homegrown powerhouse in the mobile-first entertainment sector."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "T-Series and Hungama Digital Media Entertainment have partnered to launch FastTV, a new micro-drama platform backed by a Rs 300 crore investment announced in Mumbai on November 17, 2026. The venture combines T-Series' extensive production and musical background with Hungama's digital expertise and patent-applied AI technology to deliver localized short-form content across India and 190 countries. Currently available on the App Store, Google Play, and the web, the platform aims to serve global mobile audiences with original multi-language stories."
+        ]
+      }
+    ],
+    "facts": [
+      "T-Series and Hungama Digital Media Entertainment launched FastTV.",
+      "The joint venture involves an investment of Rs 300 crore.",
+      "The platform was announced in Mumbai on November 17, 2026.",
+      "Global micro-drama revenues reached $11 billion last year and are expected to cross $14 billion by the end of 2026.",
+      "Two out of every three viewers in India discovered micro-dramas over the past year.",
+      "T-Series has over 180 films to its credit.",
+      "Hungama has over two decades of experience and reaches more than 300 million users.",
+      "Hungama developed the FastTV platform and its patent-applied AI production technology over 18 months.",
+      "FastTV is available on the App Store, Google Play, and the web, targeting India and 190 countries.",
+      "Bhushan Kumar is the Chairman and Managing Director of T-Series.",
+      "Neeraj Roy is the Founder and CEO of Hungama Digital Media Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Bhushan Kumar",
+        "Neeraj Roy"
+      ],
+      "titles": [
+        "FastTV"
+      ]
+    },
+    "keywords": [
+      "FastTV",
+      "T-Series",
+      "Hungama",
+      "Rs 300 crores",
+      "Neeraj Roy"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-3.32.jpg.jpeg",
+        "caption": "T-Series and Hungama Launch FastTV Micro-Drama Platform with Rs 300 Crore Investment",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 15:54:18 +0200"
+  },
+  "ahxm8v": {
+    "id": "ahxm8v",
+    "type": "news",
+    "headline": "Mel Gibson's Survival Thriller Finds New Life on Streaming Platforms",
+    "dek": "Despite a quiet box office run earlier in the year, the survival feature starring Mel Gibson and Sofia Hublitz is drawing massive viewership on digital platforms.",
+    "body": [
+      {
+        "h": "An Unexpected Streaming Hit",
+        "p": [
+          "In a surprising turn of events, the recent survival feature starring renowned actor and filmmaker Mel Gibson has captured massive global interest on digital platforms. Despite flying largely under the radar during its initial release window earlier in the year, the production has surged up the charts to become a major attraction for digital subscribers.",
+          "Audiences browsing through digital libraries have increasingly gravitated toward the high-stakes narrative, propelling it into the upper echelons of current viewership rankings across the globe."
+        ]
+      },
+      {
+        "h": "Comparing the Narrative to Genre Classics",
+        "p": [
+          "Viewers and commentators have quickly drawn thematic parallels between this gritty wilderness adventure and acclaimed genre touchstones like Logan and The Last of Us. The storyline heavily revolves around a hardened protagonist navigating treacherous terrain while desperately guarding a vulnerable family member from looming external hazards.",
+          "This dynamic creates an intense atmosphere of isolation and constant peril, setting the tone for a grueling physical and emotional journey through untamed landscapes."
+        ]
+      },
+      {
+        "h": "The Box Office Reception",
+        "p": [
+          "Before finding its current audience on digital platforms, the feature experienced a very limited theatrical rollout. Because it lacked a wide distribution strategy in cinemas, the box office returns were relatively modest, pulling in a cumulative total of $54,000 during its theatrical window.",
+          "However, this low-key theatrical footprint has done little to hinder its ongoing momentum now that it is readily accessible for home viewing through subscription services."
+        ]
+      },
+      {
+        "h": "Starring Alongside Emerging Talent",
+        "p": [
+          "The project pairs the veteran Hollywood icon with rising performer Sofia Hublitz, widely recognized for her previous work in the acclaimed television series Ozark. Their on-screen collaboration drives the core emotional stakes of the narrative as they attempt to outmaneuver dangerous forces in the wild.",
+          "The contrast between the seasoned lead actor and his co-star adds depth to the dynamic between the protector and the young companion under his care."
+        ]
+      },
+      {
+        "h": "Current Standing on Prime Video",
+        "p": [
+          "Within the competitive landscape of digital video catalogs, the thriller currently holds the position of the second most-watched title globally on Prime Video. It sits comfortably just behind massive fantasy epics, proving that gritty survival stories still hold immense appeal for home viewers.",
+          "This strong showing on the platform demonstrates a healthy appetite for action-driven narratives featuring recognizable stars in stripped-down, rugged roles."
+        ]
+      },
+      {
+        "h": "Looking Ahead at Upcoming Directorial Projects",
+        "p": [
+          "The star's recent focus has largely been split between performing in occasional features and dedicating substantial effort to ambitious upcoming directorial endeavors. Notably, he is currently developing a pair of follow-up films continuing the narrative of his globally successful 2004 religious epic.",
+          "These upcoming theatrical releases are slated to arrive in subsequent years, reflecting his continued commitment to large-scale filmmaking alongside his acting engagements."
+        ]
+      },
+      {
+        "h": "A Legacy of Historical Epics",
+        "p": [
+          "Throughout his decades-long career in the entertainment industry, the filmmaker has cemented his reputation through grand-scale historical dramas and intense character studies. Projects such as Braveheart and The Patriot showcased his ability to manage sprawling historical action and deeply emotional core conflicts.",
+          "That extensive background in commanding large productions provides a solid foundation for the demanding schedule of his upcoming multi-part cinematic projects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A survival thriller starring Mel Gibson and Sofia Hublitz has achieved high viewership rankings on Prime Video despite a modest theatrical gross earlier in the year. The film draws comparisons to popular wilderness survival stories and is currently performing strongly on streaming while the lead actor prepares for future directorial projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Mel Gibson starred in Hunting Season at the start of 2026.",
+      "Sofia Hublitz is known for her role in Ozark.",
+      "Hunting Season grossed $54,000 at the box office.",
+      "Hunting Season is the #2 most-watched title globally on Prime Video.",
+      "The Passion of the Christ was released in 2004.",
+      "The Resurrection of the Christ Part 1 is scheduled for May 2027.",
+      "The Resurrection of the Christ Part 2 is scheduled for May 2028."
+    ],
+    "entities": {
+      "people": [
+        "Mel Gibson",
+        "Sofia Hublitz",
+        "Adam Blevins"
+      ],
+      "titles": [
+        "Logan",
+        "The Last of Us",
+        "The Passion of the Christ",
+        "The Resurrection of the Christ Part 1",
+        "The Resurrection of the Christ Part 2",
+        "Braveheart",
+        "The Patriot",
+        "Ozark",
+        "Hunting Season",
+        "The Lord of the Rings: The Rings of Power"
+      ]
+    },
+    "keywords": [
+      "Hunting Season film",
+      "Mel Gibson Prime Video",
+      "Sofia Hublitz Hunting Season",
+      "The Resurrection of the Christ release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunting-season-mel-gibson.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Mel Gibson's Survival Thriller Finds New Life on Streaming Platforms",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 11:30:12 GMT"
   }
 };
