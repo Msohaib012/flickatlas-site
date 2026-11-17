@@ -169041,5 +169041,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 03:00:00 +0000"
+  },
+  "gi3li": {
+    "id": "gi3li",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 12: Ranbir Kapoor Starrer Crosses Major Milestones",
+    "dek": "The mythological epic Ramayana continues its strong theatrical run, crossing major box office milestones after 12 days in cinemas.",
+    "body": [
+      {
+        "h": "Introduction to the Epical Venture",
+        "p": [
+          "The mythological epic Ramayana has captured the attention of moviegoers worldwide with its grand scale and high-profile ensemble. Directed by Nitish Tiwari and co-produced by Yash and Namit Malhotra, the feature film boasts a massive budget of Rs 2000cr and impressive visual effects.",
+          "Released strategically ahead of Diwali, the movie managed to secure the highest opening on Diwali ever recorded. The festive timing proved to be a masterstroke by the makers, drawing massive crowds to theaters from day one."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Crew",
+        "p": [
+          "The film features a prominent lead cast including Ranbir Kapoor, Yash, and Sai Pallavi. Their performances have been central to the positive reception and heavy footfalls witnessed across multiple regions.",
+          "In addition to the leads, the extensive supporting cast features Adinath Kothare, Ravi Dubey, Anupam Kher, Lara Dutta, Vivek Oberoi, Rakul Preet Singh, Arun Govil, and Sheeba Chaddha, contributing significantly to the project's scale."
+        ]
+      },
+      {
+        "h": "Box Office Performance and Day 12 Figures",
+        "p": [
+          "Following a mixed initial critical response, the theatrical performance turned exceptionally strong, crossing the Rs 700cr mark in India and surpassing the Rs 1300cr mark globally by the second weekend.",
+          "According to Sacnilk reports for the second Monday or day 12, the film earned a collection of Rs 32cr. This included Rs 23.75cr in Hindi, Rs 2cr in Kannada, Rs 2.85cr in Malayalam, Rs 1.9cr in Tamil, and Rs 1.5cr in Telugu."
+        ]
+      },
+      {
+        "h": "Cumulative Collections Across Regions",
+        "p": [
+          "The day 12 figures brought the overall domestic collection of the feature to Rs 792.6cr after 12 days of release. The regional breakdown indicates Rs 606cr in Hindi, Rs 65.1cr in Kannada, Rs 50.9cr in Telugu, Rs 36.3cr in Tamil, and Rs 34.3cr in Malayalam.",
+          "International markets have also contributed heavily to the overall tally, adding Rs 10cr on day 12 alone to reach an overseas total of Rs 490cr and a grand worldwide collection of Rs 1437.25cr."
+        ]
+      },
+      {
+        "h": "Beating Competitors in the Hindi Market",
+        "p": [
+          "A notable milestone for the production is its dominance in the Hindi belt, where it raked in Rs 606cr in 12 days. This achievement makes it the second fastest movie to reach the Rs 606cr mark in that specific market.",
+          "In doing so, it surpassed Allu Arjun's Pushpa 2, which took 14 days to achieve the same milestone. The top position in this category remains held by Dhurandhar 2, which reached the mark in 8 days."
+        ]
+      },
+      {
+        "h": "Records and Global Reach",
+        "p": [
+          "The film has already cemented its status as a major commercial success, establishing itself as the highest worldwide grosser for both Ranbir Kapoor and Yash.",
+          "Despite experiencing a dip in numbers during the second weekend and the following weekdays, the epic continues to shine brightly at ticket windows globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana reached an overall collection of Rs 792.6cr in India after 12 days, driven by strong numbers in the Hindi market and overseas territories. The film successfully surpassed Pushpa 2 to become the second fastest movie to cross the Rs 606cr milestone in the Hindi belt."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana has a budget of Rs 2000cr.",
+      "Day 12 total collection was Rs 32cr.",
+      "Hindi collection on day 12 was Rs 23.75cr.",
+      "Kannada collection on day 12 was Rs 2.0cr.",
+      "Malayalam collection on day 12 was Rs 2.85cr.",
+      "Tamil collection on day 12 was Rs 1.9cr.",
+      "Telugu collection on day 12 was Rs 1.5cr.",
+      "Overall collection after 12 days is Rs 792.6cr in India.",
+      "Hindi collection after 12 days is Rs 606cr.",
+      "Kannada collection after 12 days is Rs 65.1cr.",
+      "Telugu collection after 12 days is Rs 50.9cr.",
+      "Tamil collection after 12 days is Rs 36.3cr.",
+      "Malayalam collection after 12 days is Rs 34.3cr.",
+      "Overseas collection on day 12 was Rs 10cr.",
+      "Total overseas collection is Rs 490cr.",
+      "Total worldwide collection after 12 days is Rs 1437.25cr.",
+      "Pushpa 2 achieved the Hindi market milestone in 14 days.",
+      "Dhurandhar 2 achieved the Hindi market milestone in 8 days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitish Tiwari",
+        "Namit Malhotra",
+        "Adinath Kothare",
+        "Ravi Dubey",
+        "Anupam Kher",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Sheeba Chaddha",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 12 collection",
+      "Ramayana Hindi market collection",
+      "Ramayana vs Pushpa 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday12feature1-94801794894246.jpg",
+        "caption": "Ramayana Box Office Collection Day 12: Ranbir Kapoor Starrer Crosses Major Milestones",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 11:15:40 +0530"
+  },
+  "1aaagzs": {
+    "id": "1aaagzs",
+    "type": "news",
+    "headline": "Brad Pitt and Ines De Ramon Make a Red Carpet Appearance at Hollywood Premiere",
+    "dek": "The acclaimed actor and his partner walked hand in hand at the star-studded debut for his upcoming feature.",
+    "body": [
+      {
+        "h": "A Grand Hollywood Premiere",
+        "p": [
+          "Hollywood icon Brad Pitt recently returned to the spotlight for the official debut screening of his newest cinematic venture, generating immense excitement among fans and media alike. The gala event brought together numerous industry notables, filmmakers, and enthusiasts in Los Angeles to celebrate the upcoming picture.",
+          "The venue buzzed with anticipation as cast members and creators gathered on opening night. Amidst the flurry of flashes and interviews, the lead actor captured widespread attention by arriving alongside his significant other for the high-profile celebration."
+        ]
+      },
+      {
+        "h": "Stepping Out Together",
+        "p": [
+          "Maintaining a generally private romance since they began dating, Brad Pitt and Inés de Ramón made a rare and striking joint appearance on the red carpet. Their synchronized arrival at the TCL Chinese Theatre highlighted their ongoing support for one another's professional milestones.",
+          "Photographers captured the couple walking hand in hand as they navigated the crowded media line. Their composed demeanor and coordinated presence quickly became one of the most talked-about highlights of the evening's festivities."
+        ]
+      },
+      {
+        "h": "Red Carpet Fashion Choices",
+        "p": [
+          "For the premiere outing, Pitt opted for a sleek, monochromatic wardrobe consisting of a long black coat paired with a casual T-shirt, loose-fitting trousers, matching boots, and his trademark dark sunglasses. His effortless styling matched the cool persona he projects on screen.",
+          "Meanwhile, Ramón wore an elegant cream-colored, floor-length gown featuring distinct prints, subtle side cuts, and delicate frills along the bottom hem. She complemented the ensemble by wearing her hair down, creating a sophisticated look for the glamorous occasion."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest List",
+        "p": [
+          "Beyond the leading duo, the premiere drew an impressive array of prominent figures from the entertainment industry. Notable attendees included acclaimed filmmaker Quentin Tarantino and director David Fincher, adding prestige to the celebratory gathering.",
+          "Other well-known actors spotted on the red carpet included Timothy Olyphant, Jaden Smith, Yahya Abdul-Mateen II, Courtney Cox, Scott Caan, Connie Britton, Elizabeth Debicki, and Sam Trammell, contributing to the star-studded atmosphere of the night."
+        ]
+      },
+      {
+        "h": "Connecting to Previous Cinematic Work",
+        "p": [
+          "The new feature serves as a direct follow-up to a celebrated earlier film in the actor's filmography, continuing the narrative journey of a distinct cinematic universe. The story picks up nearly a decade after the events depicted in the original production.",
+          "Audiences will see the protagonist navigating a gritty urban environment while taking on unexpected odd jobs. This premise builds directly upon the groundwork laid by the predecessor, offering fans a deeper exploration of the central character's ongoing evolution."
+        ]
+      },
+      {
+        "h": "Plot and Character Details",
+        "p": [
+          "In the upcoming narrative, the former stuntman earns a living through modest employment as a projectionist and bartender. However, these everyday occupations mask a more complicated nocturnal occupation as a Hollywood fixer.",
+          "As a fixer, the main character is tasked with resolving messy, high-stakes dilemmas for powerful industry elites. This unique role places him squarely in the middle of dangerous situations within the entertainment capital."
+        ]
+      },
+      {
+        "h": "Release Schedule and Cast",
+        "p": [
+          "Fans eager to experience the project on the big screen will not have to wait much longer, as the production is slated for an IMAX theatrical launch. A digital streaming release will follow shortly thereafter for audiences preferring home viewing.",
+          "Alongside Pitt, the ensemble cast features a lineup of recognized talent including Timothy Olyphant, Elizabeth Debicki, Scott Caan, and Carla Gugino, all of whom contribute to the unfolding drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt and Ines de Ramon made a joint red carpet appearance at the premiere of 'The Further Mis-Adventures of Cliff Booth' in Los Angeles. The event was attended by numerous industry stars ahead of the film's upcoming theatrical and streaming releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt and Inés de Ramón have been together since 2022",
+      "The LA premiere took place on November 16, 2026",
+      "The venue for the premiere was the TCL Chinese Theatre",
+      "The film is a sequel set around eight years after 'Once Upon A Time in Hollywood'",
+      "The film releases in IMAX theatres on November 25, 2026",
+      "The film streams on Netflix on December 23, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Inés de Ramón",
+        "Quentin Tarantino",
+        "Jaden Smith",
+        "David Fincher",
+        "Timothy Olyphant",
+        "Yahya Abdul-Mateen II",
+        "Courtney Cox",
+        "Scott Caan",
+        "Connie Britton",
+        "Elizabeth Debicki",
+        "Sam Trammell",
+        "Reagan Yorke",
+        "Carla Gugino"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon A Time in Hollywood"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt",
+      "Ines De Ramon",
+      "The Further Mis-Adventures of Cliff Booth",
+      "Once Upon A Time in Hollywood",
+      "Cliff Booth premiere"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135911972,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Brad Pitt and Ines De Ramon Make a Red Carpet Appearance at Hollywood Premiere",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T10:55:03+05:30"
+  },
+  "klabbf": {
+    "id": "klabbf",
+    "type": "news",
+    "headline": "Choo Young Woo And izna’s Bang Jeemin Confirmed To Host 2026 KBS Song Festival",
+    "dek": "Actor Choo Young Woo and izna member Bang Jeemin have been officially announced as the hosts for the upcoming 2026 KBS Song Festival.",
+    "body": [
+      {
+        "h": "Official Hosting Announcement",
+        "p": [
+          "The official lineup for the upcoming year-end celebration has been revealed, confirming that actor Choo Young Woo and izna member Bang Jeemin will guide viewers through the evening. The announcement was made public on November 17, generating significant anticipation among K-pop and television fans alike.",
+          "Both presenters bring unique backgrounds to the broadcast stage, blending the worlds of acting and idol performance. Their partnership is expected to create a dynamic atmosphere for the major music event."
+        ]
+      },
+      {
+        "h": "Event Schedule And Venue",
+        "p": [
+          "The festive gathering is scheduled to take place at the KBS Arena. Proceedings will commence at 7 p.m. KST on December 18.",
+          "Attendees and home viewers can expect a tightly packed program celebrating the biggest names in the music industry within the designated venue space."
+        ]
+      },
+      {
+        "h": "First-Time Milestone For Choo Young Woo",
+        "p": [
+          "For actor Choo Young Woo, taking the helm as an MC for this grand year-end music festival represents a brand new career milestone. This marks his very first time hosting a major musical end-of-year broadcast.",
+          "Fans of the actor will get to see him step outside his usual dramatic acting roles to take on live hosting duties for a massive audience."
+        ]
+      },
+      {
+        "h": "Bang Jeemin Brings Proven Experience",
+        "p": [
+          "Joining him on stage is Bang Jeemin from the group izna, who brings established hosting credentials to the table. She has previously demonstrated her steady presentation skills in her ongoing role as the current master of ceremonies for Music Bank.",
+          "Her prior live television experience is expected to anchor the broadcast and ensure a smooth flow throughout the evening's festivities."
+        ]
+      },
+      {
+        "h": "Exclusive Special Stage Performances",
+        "p": [
+          "Beyond their standard presenting responsibilities, the dynamic duo is actively preparing an exclusive collaborative segment. Both hosts will display their personal singing and performance talents during a surprise special stage.",
+          "This unique performance has been curated specifically for the attendees and viewers tuning into the global broadcast."
+        ]
+      },
+      {
+        "h": "Thematic Concept Of Playverse",
+        "p": [
+          "This year's spectacular is organized under the creative concept titled PLAYVERSE, which is designed to represent a sprawling K-pop multiverse. The theme aims to break traditional broadcasting boundaries.",
+          "Performances and segments are planned to seamlessly transcend limitations of time, space, generational divides, and musical genres to unite diverse facets of the industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Choo Young Woo and izna member Bang Jeemin have been confirmed to host the 2026 KBS Song Festival at the KBS Arena on December 18 at 7 p.m. KST. The event will follow a PLAYVERSE concept and feature a special collaborative stage from the two hosts."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 KBS Song Festival announced its MC lineup on November 17.",
+      "Choo Young Woo and izna's Bang Jeemin are the confirmed hosts.",
+      "The festival takes place at KBS Arena at 7 p.m. KST on December 18.",
+      "This is Choo Young Woo's first time hosting a year-end music festival.",
+      "Bang Jeemin is the current MC of Music Bank.",
+      "The theme of the event is PLAYVERSE."
+    ],
+    "entities": {
+      "people": [
+        "Choo Young Woo",
+        "Bang Jeemin",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Music Bank",
+        "Oasis"
+      ]
+    },
+    "keywords": [
+      "Choo Young Woo",
+      "Bang Jeemin",
+      "2026 KBS Song Festival",
+      "izna"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17131230/choo-young-woo-bang-jeemin.jpg",
+        "caption": "Choo Young Woo And izna’s Bang Jeemin Confirmed To Host 2026 KBS Song Festival",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 04:44:36 +0000"
+  },
+  "b8s5pt": {
+    "id": "b8s5pt",
+    "type": "news",
+    "headline": "All Indian Cine Workers Association Applauds Salman Khan and Sonu Sood for Assisting Sharad Kapoor",
+    "dek": "The All Indian Cine Workers Association has expressed deep appreciation to actors Salman Khan and Sonu Sood for stepping forward to support struggling actor Sharad Kapoor during his tough phase.",
+    "body": [
+      {
+        "h": "Association Expresses Gratitude",
+        "p": [
+          "The All Indian Cine Workers Association has publicly thanked prominent Bollywood stars Salman Khan and Sonu Sood for extending their support to actor Sharad Kapoor. The association acknowledged their compassionate gestures during a challenging period in the actor's life, noting that such acts bring renewed hope to artists who fear being forgotten during difficult times.",
+          "In an official statement shared on Instagram, the film body detailed the specific forms of assistance provided by the stars. Salman Khan offered vital financial help, while Sonu Sood reportedly connected with the actor to discuss potential work opportunities and arrange necessary medical support."
+        ]
+      },
+      {
+        "h": "Appeal to the Film Fraternity",
+        "p": [
+          "Along with expressing gratitude, the association issued an earnest appeal to other prosperous members of the Indian film industry. They urged successful actors and filmmakers to follow the example set by Salman and Sonu by actively looking out for colleagues and technicians who might be quietly battling severe hardships.",
+          "The organization emphasized that everyone working in Indian cinema belongs to a single family. They reminded the fraternity that supporting one another through both triumphs and trials remains a fundamental duty toward humanity and the preservation of industry dignity."
+        ]
+      },
+      {
+        "h": "Background of Sharad Kapoor's Struggle",
+        "p": [
+          "Sharad Kapoor's difficult situation recently came to light when an emotional video circulated widely on social media platforms. The footage showed the actor having to part ways with his four pet dogs, named Josh, Rebel, Star and Panther, by temporarily relocating them to a Mumbai welfare center run by the Youth Organization in Defence of Animals following a leg injury.",
+          "Following that initial footage, another video surfaced in which Sharad openly discussed his ongoing personal and professional struggles. He candidly shared that he had battled depression, isolated himself from peers, and lost touch with work opportunities over time."
+        ]
+      },
+      {
+        "h": "Direct Appeal for Work",
+        "p": [
+          "Rather than asking purely for handouts, Sharad explicitly stated his desire to earn an independent living through his craft. He made a heartfelt plea to his colleagues and senior actors to help him secure acting roles so he could return to the profession with dignity.",
+          "As part of his efforts to restart his career, the actor also approached the Cine and TV Artistes' Association, seeking suitable performance opportunities spanning across films, television, and various OTT streaming platforms."
+        ]
+      },
+      {
+        "h": "Past Career and Industry Connections",
+        "p": [
+          "The recent discussions surrounding Sharad have reminded many of his earlier career highlights within the Hindi film industry. The association noted that he previously shared screen space with major superstars such as Shah Rukh Khan and Hrithik Roshan during a period when he was frequently in high demand.",
+          "In addition to the assistance provided by Salman Khan and Sonu Sood, reports indicated that veteran actor Amitabh Bachchan also reached out to Sharad following his public video appeals."
+        ]
+      },
+      {
+        "h": "Highlighting Systemic Vulnerabilities",
+        "p": [
+          "The association's statement touched upon the unpredictable nature of the entertainment industry, pointing out that difficult phases can affect anyone unexpectedly. They stressed that many other artists face similar silent battles away from the public eye.",
+          "By bringing these struggles to light, the organization hopes to foster a more supportive and protective environment within Bollywood, ensuring that veteran and lesser-known artists alike do not feel entirely abandoned when their careers slow down."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All Indian Cine Workers Association thanked Salman Khan and Sonu Sood for aiding actor Sharad Kapoor following his emotional appeal for work and medical support after a viral video highlighted his hardships. The association urged the broader film fraternity to stand by struggling artists within the Indian cinema family, noting that Amitabh Bachchan also reached out to him."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor is an actor who previously worked alongside stars like Shah Rukh Khan and Hrithik Roshan.",
+      "Salman Khan provided financial assistance to Sharad Kapoor.",
+      "Sonu Sood reportedly met Sharad Kapoor to discuss a project and arranged medical support.",
+      "Amitabh Bachchan also reached out to Sharad Kapoor following his social media post.",
+      "Sharad Kapoor temporarily moved his four pet dogs, named Josh, Rebel, Star and Panther, to a welfare center run by the Youth Organization in Defence of Animals in Mumbai after suffering a leg injury."
+    ],
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Salman Khan",
+        "Sonu Sood",
+        "Shah Rukh Khan",
+        "Hrithik Roshan",
+        "Amitabh Bachchan",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Josh"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor",
+      "Salman Khan Sonu Sood Sharad Kapoor",
+      "All Indian Cine Workers Association Sharad Kapoor",
+      "Sharad Kapoor work appeal"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Sharad_Sonu_Salman_1794884957887_F9D9_1794884966601_hSDP_ca49d8ac-fd08-473e-8362-656e04451179_yhYk.jpg",
+        "caption": "All Indian Cine Workers Association Applauds Salman Khan and Sonu Sood for Assisting Sharad Kapoor",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 09:45:53 +0530"
   }
 };

@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-17T04:47:42Z",
+  "generated": "2026-11-17T06:09:52Z",
   "realtime": {
-    "active_users": 3
+    "active_users": 1
   },
   "today": {
-    "users": 57,
-    "pageviews": 61,
-    "sessions": 57,
-    "avg_session_seconds": 15.6
+    "users": 67,
+    "pageviews": 71,
+    "sessions": 67,
+    "avg_session_seconds": 13.5
   },
   "last7": {
-    "users": 650,
-    "pageviews": 924,
-    "sessions": 691,
-    "avg_session_seconds": 29.8
+    "users": 660,
+    "pageviews": 934,
+    "sessions": 701,
+    "avg_session_seconds": 29.4
   },
   "top_pages": [
     {
@@ -82,20 +82,20 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 669,
-      "users": 636
+      "sessions": 679,
+      "users": 646
+    },
+    {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "sessions": 9,
+      "users": 9
     },
     {
       "source": "google",
       "medium": "organic",
       "sessions": 9,
       "users": 6
-    },
-    {
-      "source": "(not set)",
-      "medium": "(not set)",
-      "sessions": 8,
-      "users": 8
     },
     {
       "source": "search.google.com",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 200
+      "users": 204
     },
     {
       "country": "Brazil",
@@ -119,7 +119,7 @@
     },
     {
       "country": "Colombia",
-      "users": 36
+      "users": 37
     },
     {
       "country": "Vietnam",
@@ -127,7 +127,7 @@
     },
     {
       "country": "Hong Kong",
-      "users": 33
+      "users": 34
     },
     {
       "country": "Argentina",
@@ -135,11 +135,11 @@
     },
     {
       "country": "Bangladesh",
-      "users": 26
+      "users": 27
     },
     {
       "country": "Indonesia",
-      "users": 25
+      "users": 26
     },
     {
       "country": "Malaysia",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 640
+      "users": 650
     },
     {
       "device": "mobile",

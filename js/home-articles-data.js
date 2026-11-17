@@ -33,6 +33,92 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 08:32:50 +0200"
   },
+  "gi3li": {
+    "id": "gi3li",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 12: Ranbir Kapoor Starrer Crosses Major Milestones",
+    "dek": "The mythological epic Ramayana continues its strong theatrical run, crossing major box office milestones after 12 days in cinemas.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitish Tiwari",
+        "Namit Malhotra",
+        "Adinath Kothare",
+        "Ravi Dubey",
+        "Anupam Kher",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Sheeba Chaddha",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 12 collection",
+      "Ramayana Hindi market collection",
+      "Ramayana vs Pushpa 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday12feature1-94801794894246.jpg",
+        "caption": "Ramayana Box Office Collection Day 12: Ranbir Kapoor Starrer Crosses Major Milestones",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 11:15:40 +0530"
+  },
+  "1aaagzs": {
+    "id": "1aaagzs",
+    "type": "news",
+    "headline": "Brad Pitt and Ines De Ramon Make a Red Carpet Appearance at Hollywood Premiere",
+    "dek": "The acclaimed actor and his partner walked hand in hand at the star-studded debut for his upcoming feature.",
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Inés de Ramón",
+        "Quentin Tarantino",
+        "Jaden Smith",
+        "David Fincher",
+        "Timothy Olyphant",
+        "Yahya Abdul-Mateen II",
+        "Courtney Cox",
+        "Scott Caan",
+        "Connie Britton",
+        "Elizabeth Debicki",
+        "Sam Trammell",
+        "Reagan Yorke",
+        "Carla Gugino"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon A Time in Hollywood"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt",
+      "Ines De Ramon",
+      "The Further Mis-Adventures of Cliff Booth",
+      "Once Upon A Time in Hollywood",
+      "Cliff Booth premiere"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135911972,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Brad Pitt and Ines De Ramon Make a Red Carpet Appearance at Hollywood Premiere",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T10:55:03+05:30"
+  },
   "jf6vwf": {
     "id": "jf6vwf",
     "type": "news",
@@ -66,6 +152,71 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T04:47:33Z"
+  },
+  "klabbf": {
+    "id": "klabbf",
+    "type": "news",
+    "headline": "Choo Young Woo And izna’s Bang Jeemin Confirmed To Host 2026 KBS Song Festival",
+    "dek": "Actor Choo Young Woo and izna member Bang Jeemin have been officially announced as the hosts for the upcoming 2026 KBS Song Festival.",
+    "entities": {
+      "people": [
+        "Choo Young Woo",
+        "Bang Jeemin",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Music Bank",
+        "Oasis"
+      ]
+    },
+    "keywords": [
+      "Choo Young Woo",
+      "Bang Jeemin",
+      "2026 KBS Song Festival",
+      "izna"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17131230/choo-young-woo-bang-jeemin.jpg",
+        "caption": "Choo Young Woo And izna’s Bang Jeemin Confirmed To Host 2026 KBS Song Festival",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 04:44:36 +0000"
+  },
+  "b8s5pt": {
+    "id": "b8s5pt",
+    "type": "news",
+    "headline": "All Indian Cine Workers Association Applauds Salman Khan and Sonu Sood for Assisting Sharad Kapoor",
+    "dek": "The All Indian Cine Workers Association has expressed deep appreciation to actors Salman Khan and Sonu Sood for stepping forward to support struggling actor Sharad Kapoor during his tough phase.",
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Salman Khan",
+        "Sonu Sood",
+        "Shah Rukh Khan",
+        "Hrithik Roshan",
+        "Amitabh Bachchan",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Josh"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor",
+      "Salman Khan Sonu Sood Sharad Kapoor",
+      "All Indian Cine Workers Association Sharad Kapoor",
+      "Sharad Kapoor work appeal"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Sharad_Sonu_Salman_1794884957887_F9D9_1794884966601_hSDP_ca49d8ac-fd08-473e-8362-656e04451179_yhYk.jpg",
+        "caption": "All Indian Cine Workers Association Applauds Salman Khan and Sonu Sood for Assisting Sharad Kapoor",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 09:45:53 +0530"
   },
   "10l1uq1": {
     "id": "10l1uq1",
@@ -4526,183 +4677,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-15T21:52:36Z"
   },
-  "gislkv": {
-    "id": "gislkv",
-    "type": "news",
-    "headline": "Seven OTT Titles Curated for Family and Children Viewing This Weekend",
-    "dek": "Discover a curated list of seven movies and shows streaming across various OTT platforms to celebrate Children's Day with family-friendly entertainment.",
-    "entities": {
-      "people": [
-        "Anand Neelakantan",
-        "Guru Mantasari",
-        "Ollie",
-        "Ivy",
-        "Dipu",
-        "George",
-        "Badri",
-        "Budhdeb",
-        "Baloo",
-        "Bagheera",
-        "Sher Khan",
-        "Steve"
-      ],
-      "titles": [
-        "Shivlok Ke Kundakka Mundakka",
-        "Swapped",
-        "The Great Grand Superhero",
-        "The Sheep Detectives",
-        "Bandbudh Aur Budbak 2.0",
-        "Jungle Tales with Mowgli",
-        "A Minecraft Movie"
-      ]
-    },
-    "keywords": [
-      "Childrens Day OTT movies shows",
-      "Shivlok Ke Kundakka Mundakka",
-      "The Sheep Detectives Amazon Prime",
-      "A Minecraft Movie Netflix",
-      "Bandbudh Aur Budbak 2.0"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/childrendayottshows-82361794779189.jpg",
-        "caption": "Seven OTT Titles Curated for Family and Children Viewing This Weekend",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 03:16:50 +0530"
-  },
-  "7adwgu": {
-    "id": "7adwgu",
-    "type": "news",
-    "headline": "Taylor Sheridan's Yellowstone and Tulsa King Dominate Global Streaming Charts",
-    "dek": "Taylor Sheridan's renowned television universe continues to capture global audiences as Yellowstone returns to the top ten worldwide on Paramount+ while Tulsa King holds strong in second place.",
-    "entities": {
-      "people": [
-        "Taylor Sheridan",
-        "Sylvester Stallone",
-        "Erik Palladino",
-        "Glenn Fleshler",
-        "Anthony Skordi",
-        "Nickola Shreli",
-        "Manny Montana"
-      ],
-      "titles": [
-        "Tulsa King",
-        "Yellowstone",
-        "Mayor of Kingstown",
-        "The Madison",
-        "Lioness",
-        "Landman",
-        "Girls",
-        "Ironheart"
-      ]
-    },
-    "keywords": [
-      "Taylor Sheridan Yellowstone",
-      "Tulsa King Season 5",
-      "Sylvester Stallone Tulsa King",
-      "Yellowstone Paramount Plus"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/taylor-sheridan.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Taylor Sheridan's Yellowstone and Tulsa King Dominate Global Streaming Charts",
-        "source": "Collider"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 21:45:12 GMT"
-  },
-  "1m1m6fv": {
-    "id": "1m1m6fv",
-    "type": "news",
-    "headline": "Guy Ritchie's Spy Thriller Finds New Life on VOD",
-    "dek": "After finishing its streaming run in America, the action feature starring Jason Statham is climbing the digital rental charts.",
-    "entities": {
-      "people": [
-        "Guy Ritchie",
-        "Henry Cavill",
-        "Jake Gyllenhaal",
-        "Theo James",
-        "Tom Hardy",
-        "Jason Statham",
-        "Orson Fortune",
-        "Adam Blevins"
-      ],
-      "titles": [
-        "Young Sherlock",
-        "In The Grey",
-        "The Gentlemen",
-        "MobLand",
-        "Operation Fortune: Ruse de Guerre"
-      ]
-    },
-    "keywords": [
-      "Operation Fortune: Ruse de Guerre",
-      "Guy Ritchie",
-      "Jason Statham",
-      "In The Grey"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/operation-fortune-ruse-de-guerre-cary-elwes.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Guy Ritchie's Spy Thriller Finds New Life on VOD",
-        "source": "Collider"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 21:30:12 GMT"
-  },
-  "1lh9owt": {
-    "id": "1lh9owt",
-    "type": "news",
-    "headline": "Matt Damon Praises Robert Pattinson's Performance in The Odyssey as James Bond Casting Rumors Intensify",
-    "dek": "Matt Damon heaps praise on Robert Pattinson's antagonist role in Christopher Nolan's epic film, while discussions heat up around potential future casting for James Bond.",
-    "entities": {
-      "people": [
-        "Matt Damon",
-        "Robert Pattinson",
-        "Ben Affleck",
-        "Christopher Nolan",
-        "Tom Holland",
-        "John Leguizamo",
-        "Zendaya",
-        "Charlize Theron",
-        "Himesh Patel",
-        "Elliot Page",
-        "Chris Hansen",
-        "Nicholas Hoult",
-        "Jack Lowden",
-        "Callum Turner",
-        "Steven Soderbergh",
-        "Matt Reeves",
-        "Edward Cullen"
-      ],
-      "titles": [
-        "The Odyssey",
-        "The Drama",
-        "Primetime",
-        "Dune: Part Three",
-        "The Batman: Part II",
-        "Twilight",
-        "James Bond",
-        "Batman"
-      ]
-    },
-    "keywords": [
-      "Matt Damon Robert Pattinson Odyssey",
-      "Robert Pattinson James Bond frontrunner",
-      "Christopher Nolan The Odyssey cast",
-      "Ben Affleck Robert Pattinson Odyssey"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/matt-damon-in-the-odyssey.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Matt Damon Praises Robert Pattinson's Performance in The Odyssey as James Bond Casting Rumors Intensify",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 21:19:59 GMT"
-  },
   "eh6qc3": {
     "id": "eh6qc3",
     "type": "news",
@@ -4858,47 +4832,36 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-15T14:45:19Z"
   },
-  "14i9727": {
-    "id": "14i9727",
+  "1ilvaza": {
+    "id": "1ilvaza",
     "type": "news",
-    "headline": "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
-    "dek": "Apple TV expands its streaming catalog beyond traditional originals, welcoming classic hits including Cillian Murphy's acclaimed science fiction venture.",
+    "headline": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
+    "dek": "Actor Sonakshi Sinha approached the police after objecting to morphed photographs of herself circulating on social media, resulting in an arrest in Delhi that was later overturned by a Mumbai court due to procedural lapses.",
     "entities": {
       "people": [
-        "Cillian Murphy",
-        "Steven Spielberg",
-        "Ryan Murphy",
-        "Steven Knight",
-        "Nia DaCosta",
-        "Danny Boyle",
-        "Alex Garland",
-        "Jim",
-        "Tommy Shelby"
+        "Sonakshi Sinha",
+        "Aryan Deepak Jain",
+        "Aman Shahi",
+        "Prashant Trivedi",
+        "Aditya Jain",
+        "Monica Yadav"
       ],
-      "titles": [
-        "E.T. the Extra-Terrestrial",
-        "Eat, Pray, Love",
-        "Spider-Man: Far From Home",
-        "Peaky Blinders: The Immortal Man",
-        "28 Years Later: The Bone Temple",
-        "28 Days Later",
-        "Sunshine"
-      ]
+      "titles": []
     },
     "keywords": [
-      "Cillian Murphy Apple TV",
-      "Sunshine movie streaming",
-      "Danny Boyle Alex Garland sci-fi",
-      "Peaky Blinders The Immortal Man Netflix"
+      "Sonakshi Sinha",
+      "Aryan Deepak Jain",
+      "morphed photographs complaint",
+      "Mumbai court release"
     ],
     "images": [
       {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/cillian-murphy.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Cillian Murphy’s Sci-Fi Classic Sunshine Becomes a Major Streaming Hit on Apple TV",
-        "source": "Collider"
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Sonakshi_Sinha_1794722659291_tctK_1794722659413_FGin_36186392-981a-4b5a-b6ed-755031d61fd9_2Qz8.jpg",
+        "caption": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
+        "source": "Hindustan Times — Entertainment"
       }
     ],
-    "published": "Sun, 15 Nov 2026 01:30:12 GMT"
+    "published": "Sun, 15 Nov 2026 11:40:36 +0530"
   },
   "3sj8f4": {
     "id": "3sj8f4",
@@ -5137,6 +5100,38 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-14T14:45:15Z"
+  },
+  "1ocsls5": {
+    "id": "1ocsls5",
+    "type": "news",
+    "headline": "New Regency Files Lawsuit Against Filmmaker Michael Mann Over Heat Screenplay Copyright",
+    "dek": "Production company New Regency has taken legal action to block director Michael Mann from reclaiming rights to his 1995 crime drama screenplay as preparations continue for an upcoming sequel.",
+    "entities": {
+      "people": [
+        "Michael Mann",
+        "Meg Gardiner",
+        "Al Pacino",
+        "Robert De Niro"
+      ],
+      "titles": [
+        "Heat",
+        "Heat 2"
+      ]
+    },
+    "keywords": [
+      "New Regency Lawsuit Michael Mann",
+      "Michael Mann Heat screenplay copyright",
+      "New Regency Michael Mann Heat 2",
+      "Michael Mann Heat rights lawsuit"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Untitled-design-2026-11-13T182133.788.jpg",
+        "caption": "New Regency Files Lawsuit Against Filmmaker Michael Mann Over Heat Screenplay Copyright",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sat, 14 Nov 2026 02:51:26 +0000"
   },
   "1iumf04": {
     "id": "1iumf04",
@@ -5544,44 +5539,34 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-11T15:00:22Z"
   },
-  "m3p2ee": {
-    "id": "m3p2ee",
+  "3nmfly": {
+    "id": "3nmfly",
     "type": "news",
-    "headline": "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
-    "dek": "Co-star Kathryn Hahn shares insights into Nicolas Cage's deep physical and internal transformation to play NFL legend John Madden in the upcoming biographical film.",
+    "headline": "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+    "dek": "Nintendo's newly launched remake of the 1998 classic has shattered records, moving 5.2 million units globally in its opening four days.",
     "entities": {
       "people": [
-        "Nicolas Cage",
-        "Kathryn Hahn",
-        "John Madden",
-        "David O. Russell",
-        "Al Davis",
-        "Christian Bale",
-        "Sienna Miller",
-        "Carol Davis",
-        "Agatha Harkness",
-        "Danielle Broadway"
+        "Link"
       ],
       "titles": [
-        "Madden",
-        "Madden NFL",
-        "WandaVision",
-        "Agatha All Along"
+        "The Legend of Zelda: Ocarina of Time",
+        "Grand Theft Auto VI",
+        "The Legend of Zelda"
       ]
     },
     "keywords": [
-      "Nicolas Cage Madden film",
-      "Kathryn Hahn John Madden",
-      "David O. Russell Madden movie",
-      "Christian Bale Al Davis"
+      "The Legend of Zelda Ocarina of Time",
+      "Nintendo Switch 2 Zelda sales",
+      "Legend of Zelda 40th anniversary",
+      "Zelda live-action film 2027"
     ],
     "images": [
       {
-        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood1_1753008085297_1753008115348.jpeg",
-        "caption": "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
-        "source": "Hindustan Times — Entertainment"
+        "url": "https://variety.com/wp-content/uploads/2026/11/The-Legend-of-Zelda-Ocarina-of-Time-Remake.png?w=1000&#038;h=563&#038;crop=1",
+        "caption": "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+        "source": "Variety"
       }
     ],
-    "published": "Wed, 11 Nov 2026 02:25:20 +0530"
+    "published": "Wed, 11 Nov 2026 14:30:43 +0000"
   }
 };
