@@ -176029,5 +176029,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 19:23:37 +0000"
+  },
+  "a315m": {
+    "id": "a315m",
+    "type": "news",
+    "headline": "Ali Fazal and Naseeruddin Shah Head Cast of A Passage to India Series Adaptation",
+    "dek": "Richie Mehta is set to direct a five-part series version of E.M. Forster's classic novel, featuring an ensemble cast including Ali Fazal, Naseeruddin Shah, Tim Mison, and Fiona Shaw.",
+    "body": [
+      {
+        "h": "New Series Adaptation Announced",
+        "p": [
+          "A fresh five-part series adaptation of E.M. Forster's celebrated novel is officially in development. The production will bring the classic literary work to contemporary audiences as a multi-part television event.",
+          "Filming for the ambitious project is scheduled to take place entirely in India, grounding the narrative in the authentic settings described in the original text."
+        ]
+      },
+      {
+        "h": "Directorial Leadership and Creative Vision",
+        "p": [
+          "The project will be helmed by Richie Mehta, an Emmy-winning filmmaker known for his acclaimed work on 'Delhi Crime'. Mehta has expressed that adapting this novel has been a long-held career aspiration.",
+          "The director highlighted the enduring relevance of Forster's characters, noting that exploring the complex figures created a century ago offers a gripping dramatic experience for modern viewers."
+        ]
+      },
+      {
+        "h": "Key Cast Members and Character Details",
+        "p": [
+          "Ali Fazal takes on a central role in the production, starring as Aziz, a dedicated local doctor. The character has spent years caring for others and nurtures a hope that genuine friendships can transcend the boundaries of colonial rule.",
+          "Veteran actor Naseeruddin Shah joins the leading ensemble as Godbole, a teacher at the college who works alongside Fielding and provides spiritual grounding as narrative tensions rise."
+        ]
+      },
+      {
+        "h": "International and Supporting Ensemble",
+        "p": [
+          "Tim Mison has been cast as an elusive teacher who develops a close bond with Aziz. Meanwhile, BAFTA winner Fiona Shaw portrays Mrs. Moore, a worldly woman who travels to India to visit her son Ronny and arrange a match for him with Adela.",
+          "Additional cast members include Shahana Goswami in the role of Amrit Rao, Aziz's barrister who becomes India's first female lawyer, and Danish Hussain as Hamidullah, Aziz's uncle and closest confidant."
+        ]
+      },
+      {
+        "h": "The Plot and Central Conflict",
+        "p": [
+          "Set against the backdrop of the 1920s, the story follows Dr. Aziz as he attempts to build cross-cultural bridges between Indians and the British. However, his optimism faces a severe test following an unexplained event at the Marabar Caves.",
+          "The resulting accusation of assault sparks public outrage and a sensational trial. As the legal proceedings unfold, the lives of everyone involved are completely disrupted, forcing characters to confront the deep impacts of colonization."
+        ]
+      },
+      {
+        "h": "Literary and Cinematic Legacy",
+        "p": [
+          "E.M. Forster's original novel was published in 1924 and has a rich history of previous theatrical and cinematic reinterpretations. Santha Rama Rau adapted the story into a stage play in 1960, which Waris Hussein later directed for the 'Play of the Month' strand in 1965.",
+          "Most notably, David Lean directed a 1984 feature film adaptation based on Rau's play. That film achieved significant critical acclaim, securing 11 Academy Award nominations and winning two, including a best supporting actress win for Peggy Ashcroft."
+        ]
+      },
+      {
+        "h": "Recent Works of the Lead Cast",
+        "p": [
+          "Before taking on this new series adaptation, Ali Fazal was seen in 'Mirzapur: The Film'. That cinematic outing also featured Pankaj Tripathi in a lead role and emerged as a major commercial success for Farhan Akhtar's production banner, Excel Entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Richie Mehta is directing a new five-part series adaptation of E.M. Forster's 1924 novel 'A Passage to India', which will be filmed in India. The production features a prominent cast including Ali Fazal, Naseeruddin Shah, Tim Mison, and Fiona Shaw, exploring colonial themes set in the 1920s."
+        ]
+      }
+    ],
+    "facts": [
+      "Ali Fazal joined the lead cast of the series adaptation of A Passage to India",
+      "Tim Mison and Fiona Shaw are part of the lead cast",
+      "Richie Mehta is the Emmy-winning director of Delhi Crime directing the five-part series",
+      "The series will be set in the 1920s",
+      "Naseeruddin Shah plays the role of Godbole",
+      "Shahana Goswami plays Amrit Rao",
+      "Danish Hussain plays Hamidullah",
+      "Santha Rama Rau adapted the 1924 novel into a stage play in 1960",
+      "Waris Hussein directed a version for Play of the Month in 1965",
+      "David Lean directed a 1984 feature film adaptation that earned 11 Oscar nominations and won two",
+      "Peggy Ashcroft won best supporting actress as Mrs Moore in the 1984 film",
+      "Ali Fazal starred in Mirzapur: The Film alongside Pankaj Tripathi"
+    ],
+    "entities": {
+      "people": [
+        "Ali Fazal",
+        "Naseeruddin Shah",
+        "Tim Mison",
+        "Fiona Shaw",
+        "Richie Mehta",
+        "Shahana Goswami",
+        "Danish Hussain",
+        "Santha Rama Rau",
+        "Waris Hussein",
+        "David Lean",
+        "Peggy Ashcroft",
+        "Pankaj Tripathi",
+        "Farhan Akhtar"
+      ],
+      "titles": [
+        "A Passage to India",
+        "Delhi Crime",
+        "Santosh",
+        "Four Years Later",
+        "Haq",
+        "Tanaav",
+        "Play of the Month",
+        "Mirzapur: The Film"
+      ]
+    },
+    "keywords": [
+      "Ali Fazal A Passage to India",
+      "Naseeruddin Shah A Passage to India",
+      "Richie Mehta A Passage to India",
+      "A Passage to India series adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135940460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ali Fazal and Naseeruddin Shah Head Cast of A Passage to India Series Adaptation",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T03:11:47+05:30"
+  },
+  "1qdg3jc": {
+    "id": "1qdg3jc",
+    "type": "news",
+    "headline": "Reality Stars Kept in the Dark: The Mob Contestants Didn't Know the Rules",
+    "dek": "Willam Belli reveals that the cast of Hulu's new competition series The Mob filmed without knowing the rules, finally receiving a printed copy by Episode 4.",
+    "body": [
+      {
+        "h": "Entering the Arena Blind",
+        "p": [
+          "Reality television often relies on dramatic twists, unexpected elements, and strategic mystery to keep audiences hooked. However, a recent revelation from the cast of the Hulu competition series The Mob takes the concept of playing blind to an entirely unprecedented extreme.",
+          "While viewers frequently struggle to decipher the intricate layouts and formats of fresh reality programs, it turns out that the actual competitors stepping into the arena had an even harder time figuring out what was happening around them during early production days."
+        ]
+      },
+      {
+        "h": "Willam Belli Opens Up About the Confusion",
+        "p": [
+          "RuPaul's Drag Race alumnus Willam Belli recently shared insights regarding the chaotic experience of shooting the first season of the show. According to her comments on social media, the participants constantly requested official instructions during every single installment but walked away empty-handed.",
+          "It was not until the fourth episode that the competing personalities finally received a physical, printed copy of the guidelines. Until that point, the entire ensemble was forced to navigate challenges, alliances, and eliminations without a foundational understanding of the underlying mechanics."
+        ]
+      },
+      {
+        "h": "Strategic Secrecy and Stakes",
+        "p": [
+          "Looking back at the production choices, the decision to withhold standard guidelines from the talent begins to make a certain type of sense. In high-stakes strategic environments, information functions as a powerful currency that producers prefer to tightly control.",
+          "By keeping the cast members in the dark about exact technical parameters, the creative team managed to cultivate higher stakes and genuine organic tension. Contestants could not rely on pre-planned blueprints, forcing them to adapt on the fly."
+        ]
+      },
+      {
+        "h": "Impact on Early Eliminations",
+        "p": [
+          "Naturally, operating without a clear guidebook created unique hurdles during the opening chapters of the season. Several fan-favorite participants faced swift and unexpected exits before they could adequately grasp the rhythm of the game.",
+          "Early casualties included notable names like Dancing with the Stars judge Bruno Tonioli, who pledged allegiance to Joe Gorga before getting quickly removed, alongside other prominent early departures such as Debi Mazar."
+        ]
+      },
+      {
+        "h": "Comparisons to The Traitors",
+        "p": [
+          "Created by the minds behind the Emmy-winning Peacock favorite The Traitors, the new Hulu offering carried high expectations upon arrival. While its mission structures and job assignments felt significantly more urgent, adjusting to its rhythm proved challenging for everyone involved.",
+          "Because the series was entirely brand new, the cast lacked any previous seasons to study as a reference point. Those who managed to catch on quickly ultimately progressed further in the competition than their peers."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Potential Future Seasons",
+        "p": [
+          "The first season of the show has officially wrapped filming and is available to stream in its entirety on Hulu as part of the television schedule. Audiences are currently waiting to see if the network decides to grant the program a renewal order.",
+          "Should the production return for a sophomore run, the gameplay dynamics could look vastly different. Future contestants would presumably enter the space knowing what to expect, transforming how alliances and strategies unfold from day one."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Willam Belli revealed that contestants on Hulu's reality competition series The Mob competed without knowing the rules until receiving a printed copy by Episode 4. The lack of clear guidelines contributed to early eliminations for notable figures like Bruno Tonioli and Debi Mazar during the show's first season."
+        ]
+      }
+    ],
+    "facts": [
+      "Willam Belli did not receive a printed copy of the rules until Episode 4.",
+      "The Mob is available to stream on Hulu.",
+      "Bruno Tonioli pledged allegiance to Joe Gorga before being eliminated.",
+      "Debi Mazar was also among the early favorites who faced elimination."
+    ],
+    "entities": {
+      "people": [
+        "Willam Belli",
+        "Bruno Tonioli",
+        "Joe Gorga",
+        "Debi Mazar"
+      ],
+      "titles": [
+        "The Mob",
+        "The Traitors",
+        "RuPaul's Drag Race",
+        "Dancing with the Stars"
+      ]
+    },
+    "keywords": [
+      "The Mob Hulu",
+      "Willam Belli The Mob",
+      "Bruno Tonioli The Mob",
+      "The Mob rules"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/mBhSGR5uE2ovaCZaWwiUQP-2000-80.jpg",
+        "caption": "Reality Stars Kept in the Dark: The Mob Contestants Didn't Know the Rules",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 22:05:00 +0000"
+  },
+  "qvqmrn": {
+    "id": "qvqmrn",
+    "type": "news",
+    "headline": "MS Dhoni's Past Relationships With Actresses Return to Spotlight Following IPL Retirement Announcement",
+    "dek": "As MS Dhoni announces his retirement from the Indian Premier League, interest resurfaces around his past romantic links with prominent cinematic figures, including Deepika Padukone, Asin, and Raai Laxmi.",
+    "body": [
+      {
+        "h": "IPL Retirement Sparks Interest in Past Romances",
+        "p": [
+          "The recent announcement by MS Dhoni regarding his retirement from the Indian Premier League has placed the legendary cricketer back at the center of internet trends. While he currently shares a happy married life with his wife Sakhi, public curiosity has naturally drifted toward his past romantic involvements with prominent actresses from the entertainment industry.",
+          "Over the years, the former Indian cricket team captain's personal life has frequently crossed paths with Bollywood and South Indian cinema. As digital platforms buzz with discussions surrounding his departure from the IPL, fans and media outlets alike are revisiting the chapters of his personal history before his marriage."
+        ]
+      },
+      {
+        "h": "The Relationship With South Star Raai Laxmi",
+        "p": [
+          "Among his most publicized early involvements, the connection between MS Dhoni and South Indian sensation Raai Laxmi drew significant media attention. Although the cricketer never officially confirmed the romance, media reports indicated that the pair began dating around the year 2009.",
+          "The romance, however, did not stand the test of time and was short-lived. Even long after their separation, the actress continued to face persistent media questioning regarding their past association whenever Dhoni's name surfaced in conversations about his dating history."
+        ]
+      },
+      {
+        "h": "Describing the Past Link-Up As a Stain",
+        "p": [
+          "The constant public inquiry eventually began to frustrate Raai Laxmi. Deeply affected by how long the rumors lingered in the public eye, she expressed her exasperation in a candid interview where she openly referred to the relationship as a stain.",
+          "She remarked that people continued investing their energy into discussing a bygone romance, noting how strange it felt that her name was invariably brought up whenever Dhoni's past relationships were mentioned in public forums."
+        ]
+      },
+      {
+        "h": "Reflecting on Future Generations and Media Scrutiny",
+        "p": [
+          "Expanding further on her emotional distress, Raai Laxmi highlighted concerns regarding how these lingering reports might affect her personal life in the future. She wondered how she would address the coverage if her future children were to stumble upon these old news articles one day.",
+          "Her candid reflections shed light on the intense pressure public figures face when historical relationships refuse to fade from media archives, continuing to shadow their everyday lives years after a breakup."
+        ]
+      },
+      {
+        "h": "Close Proximity and Rumors Involving Deepika Padukone",
+        "p": [
+          "MS Dhoni's name was similarly linked with Bollywood star Deepika Padukone during the peak of their respective careers. Their rising closeness sparked widespread speculation about a potential romance, fueled further when the two shared the stage to walk the ramp together.",
+          "Adding fuel to the fire, the actress was spotted in the stands cheering for the cricketer during a live match. Lore surrounding their association also suggested that Dhoni altered his iconic long hairstyle at her request, though this chapter similarly concluded without lasting permanence."
+        ]
+      },
+      {
+        "h": "Connection With Advertisement Co-Star Asin",
+        "p": [
+          "Another notable name associated with the cricket icon during his earlier years in the spotlight was actress Asin. Their paths crossed when they collaborated on a commercial shoot, which reportedly brought them close and sparked media speculation about a budding romance.",
+          "Despite the swirling rumors that populated entertainment portals at the time, neither individual ever formally acknowledged or confirmed the relationship, allowing the speculation to eventually quiet down."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MS Dhoni's announcement regarding his IPL retirement has reignited public curiosity about his historical relationships with actresses like Deepika Padukone, Asin, and Raai Laxmi. While some associations like the one with Raai Laxmi left a lasting frustration due to continuous media questioning, others remained unconfirmed as the cricketer settled into married life."
+        ]
+      }
+    ],
+    "facts": [
+      "MS Dhoni announced his retirement from the Indian Premier League.",
+      "Raai Laxmi and MS Dhoni reportedly began dating in 2009.",
+      "Raai Laxmi publicly spoke about the relationship in 2014.",
+      "MS Dhoni was previously linked with Deepika Padukone, with whom he walked the ramp and who cheered for him at a match.",
+      "MS Dhoni and Asin grew close after working together on an ad shoot."
+    ],
+    "entities": {
+      "people": [
+        "MS Dhoni",
+        "Sakhi",
+        "Raai Laxmi",
+        "Deepika Padukone",
+        "Asin"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "MS Dhoni",
+      "Raai Laxmi",
+      "Deepika Padukone",
+      "Asin",
+      "IPL retirement"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6afc5c25a30a2-ms-dhoni-affairs-175236437-16x9.jpg",
+        "caption": "MS Dhoni's Past Relationships With Actresses Return to Spotlight Following IPL Retirement Announcement",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T22:37:16Z"
+  },
+  "1tb3hge": {
+    "id": "1tb3hge",
+    "type": "news",
+    "headline": "Actor Sharad Kapoor Prepares For Industry Comeback With Support From Salman Khan And Sonu Sood",
+    "dek": "Sharad Kapoor, known for his role in Josh, addresses his struggles with depression and financial hardship following past allegations, as industry peers extend a helping hand.",
+    "body": [
+      {
+        "h": "A Difficult Phase And Public Plea",
+        "p": [
+          "The unpredictable nature of the entertainment industry often leaves once-celebrated performers facing unexpected hardships. Sharad Kapoor, who captured audiences with his notable performances on the big screen, recently found himself navigating a severe personal and financial crisis. Facing health issues and a lack of professional opportunities, the actor reached out to the film fraternity and the public for assistance.",
+          "His struggles came to light as he detailed a prolonged period of being bedridden. The challenges severely impacted his livelihood and well-being, pushing him to seek help from senior artists whom he has long regarded as his heroes."
+        ]
+      },
+      {
+        "h": "The Impact Of Allegations And Depression",
+        "p": [
+          "A major catalyst for the actor's prolonged absence and mental health struggles stemmed from past sexual harassment allegations directed at him. Sharad Kapoor shared that facing unverified accusations inflicted deep psychological distress, leading him into a state of severe depression.",
+          "The emotional toll was heavy enough to isolate him, sapping his desire to interact with others or pursue creative work. For two to three years, he remained largely confined, dealing with the fallout of the controversy while battling health complications that also made it difficult to care for his four pet dogs, which eventually had to be sent to an animal welfare center."
+        ]
+      },
+      {
+        "h": "Support From Salman Khan And Sonu Sood",
+        "p": [
+          "Amidst these testing circumstances, notable figures from Bollywood stepped forward to offer assistance. The All India Cine Workers Association acknowledged the supportive efforts extended by prominent stars Salman Khan and Sonu Sood.",
+          "Sonu Sood personally met with Kapoor, while Salman Khan—who previously shared screen space with him in the film Jai Ho—also reached out to connect. Their involvement brought much-needed attention and relief to the struggling actor during a critical juncture."
+        ]
+      },
+      {
+        "h": "Confirmation Of A January Comeback",
+        "p": [
+          "Refusing to let adversity define his entire narrative, Kapoor has resolved to reclaim his place in the industry. He recently conveyed his gratitude to well-wishers through a video message, thanking them for their unwavering affection and promising not to let them down.",
+          "Looking ahead with renewed optimism, the actor explicitly confirmed his professional return, stating that he intends to resume work as a rockstar starting in January. This upcoming project marks a significant turning point in his efforts to rebuild his career."
+        ]
+      },
+      {
+        "h": "Warning Against Fake Social Media Accounts",
+        "p": [
+          "As news of Kapoor's financial distress circulated, fraudulent activity emerged online. Imposter profiles surfaced on social media platforms, attempting to solicit donations and financial contributions under the actor's name.",
+          "An official warning was issued via an Instagram story, clarifying that Kapoor has no affiliation with these secondary accounts and urging the public to refrain from sending money. Representatives associated with his support trust emphasized that genuine assistance should stem from sincere intent rather than social media spectacles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sharad Kapoor is preparing for a professional comeback in January following a difficult period marked by depression and financial distress. With support from industry colleagues Salman Khan and Sonu Sood, alongside precautions against online fundraising scams, the actor aims to restart his career."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor acted in the film Josh.",
+      "Sharad Kapoor acted in the film Jai Ho with Salman Khan.",
+      "Salman Khan and Sonu Sood offered support to Sharad Kapoor.",
+      "The All India Cine Workers Association acknowledged the support of Salman Khan and Sonu Sood.",
+      "Sharad Kapoor plans to resume work in January.",
+      "Sharad Kapoor stated he was bedridden for two to three years due to health issues and depression following sexual harassment allegations."
+    ],
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Salman Khan",
+        "Sonu Sood"
+      ],
+      "titles": [
+        "Josh",
+        "Jai Ho"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor comeback",
+      "Sharad Kapoor financial help",
+      "Salman Khan Sonu Sood Sharad Kapoor",
+      "Josh actor Sharad Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6afc2945d4cff-sharad-kapoor-set-for-hollywood-debut-1506244-16x9.jpg",
+        "caption": "Actor Sharad Kapoor Prepares For Industry Comeback With Support From Salman Khan And Sonu Sood",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T22:37:16Z"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-16T23:51:10Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": {
-     "candidates": 334,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "2027 Grammy Nominations: Snubs and surprises",
-      "Varuvaaiy makes history as the first Tamil song nominated at the Grammys",
-      "‘I Know This Sounds Dark.’ The Advice Kelly Clarkson Gives Contestants When The Voice Goes Live",
-      "‘Doctor Who’ Is Officially Returning, But There’s a Catch",
-      "10 Classic Rock Songs That Will Make Your Thanksgiving Playlist Unforgettable",
-      "The 8 Best Fantasy Books for Pure Escapism",
-      "Harlan Coben Gets Another Netflix Thriller Show After I Will Find You’s Massive Success",
-      "Martin Sheen & Alexis Bledel Team Up for New True-Story Sports Movie",
-      "Chris Pratt’s The Terminal List Franchise Expands With New Prequel TV Show, Details Revealed",
-      "Real-Life Couple Justin Long & Kate Bosworth Get Hilarious TV Show Jury Duty Fans Will Love",
-      "‘I Can Do Whatever the F— I Want!’: Jennifer Lopez Reacts to Her Twins Leaving for College",
-      "Second Trailer for Shyamalan's 'Remain' Ghost Story with Gyllenhaal",
-      "Prime Video's Most Expensive Series Returns To Become the Biggest Streaming Hit in the World",
-      "Keanu Reeves' Team-Up With Fellow Action Icon For Crime Thriller Remake Is Taking The Wrong Approach",
-      "The Good Daughter Interviews with Rose Byrne, Meghann Fahy, Olivia Williams, Karin Slaughter & More",
-      "X-Files' Mulder Replacement Himesh Patel Breaks Silence On Hulu Greenlight",
-      "Even Diehard Western Fans May Have Missed These 6 Classics Streaming On Prime Video",
-      "Attack on Titan Ending Explained",
-      "Apple TV's New 8-Part Heist Thriller Sets Rotten Tomatoes Audience Record",
-      "Marvel’s Webtoon Era Is Officially Here, And It Will Change Comics Forever"
-     ],
-     "updated": [],
-     "count": 321,
-     "detail": "334 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-17T00:52:08Z",
     "run_id": "43990873707",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "405 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-16T23:52:30Z",
-    "run_id": "43982715001",
+    "run_at": "2026-11-17T22:35:46Z",
+    "run_id": "44191352371",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 419,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Amitabh Bachchan Sparks Online Intrigue with Cryptic Social Media Post Amid Security Scare",
-      "Diljit Dosanjh Recites Rahat Indori Verse at Indore Concert Despite Threats and Restrictions",
-      "BLACKPINK Member Jennie Lands Two Grammy Nominations for Hit Collaboration 'Dracula'",
-      "Actor Teja Sajja Celebrates Engagement in Hyderabad with Industry Luminaries"
+      "Ali Fazal, Naseeruddin Shah lead cast of 'A Passage to India' series",
+      "Wait, The Actual Contestants On The Mob Weren't Told The Rules?",
+      "How Patrick Stewart Felt After His Fight With James Corden At The Glamour Awards",
+      "10 Great Fantasy Games That Come Close to Perfection",
+      "‘Blue Bloods’ Spin-Off Officially Returns in 2027",
+      "17 Years Later, J.J. Abrams’ Star Trek Timeline Officially Returns in New Release",
+      "ABC Is Officially Reviving a Disney Christmas Tradition That Never Should Have Left",
+      "Apple TV’s 25-Minute ‘Peanuts’ Masterpiece Is Perfect From Start to Finish",
+      "Heartland: Chastain's Voice Cracks Made the Singing Feel Real | Collider BTS",
+      "‘The Twilight Zone’ Meets ‘Severance’ in a Chilling Mystery Dropping Today",
+      "Harry Potter Officially Returns in 2027 With 2 New Books",
+      "‘Yellowstone’ Spin-Off Reveals First Look at Kayce Dutton’s New Cowgirl",
+      "'Club Kid' Review: Jordan Firstman's Crowd-Pleaser Deserves To Be an Oscar Contender",
+      "Christopher Nolan Is Fine With People Watching The Odyssey On Their Phones After IMAX Push",
+      "Home Alone Director Recalls Firing ‘Horrible’ Actor From Macaulay Culkin Christmas Movie",
+      "Paul Bettany Reveals Important Lesson He Learned From Bloody VisionQuest Eye Injury",
+      "Glen Powell Comedy Movie The Comeback King Sets Trailer Release Date in Video",
+      "Doomsday’s Tom Hiddleston Reveals How Loki Could Show Up in Avengers Endgame: Encore",
+      "LEGO’s Harry Potter TV Show Figures Signal a Very Different Hogwarts Future",
+      "Chris Evans Offer Clears Answer to if He’s Playing Captain America in Avengers: Doomsday"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 373,
+     "detail": "390 stories, 0 duplicates removed, 29 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-17T22:37:17Z",
+    "run_id": "44191352371",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ali Fazal and Naseeruddin Shah Head Cast of A Passage to India Series Adaptation",
+      "Reality Stars Kept in the Dark: The Mob Contestants Didn't Know the Rules",
+      "MS Dhoni's Past Relationships With Actresses Return to Spotlight Following IPL Retirement Announcement",
+      "Actor Sharad Kapoor Prepares For Industry Comeback With Support From Salman Khan And Sonu Sood"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-17T01:51:41Z",
-    "run_id": "43998590839",
-    "status": "success",
-    "checked": {
-     "candidates": 356,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 347, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,30 +1906,27 @@
      "detail": "now 367, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-17T22:37:17Z",
+    "run_id": "44191352371",
+    "status": "success",
+    "checked": {
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 367, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-17T00:08:33Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1x37hn2",
-      "pbth5o",
-      "1oss6pn"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2411,27 +2390,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T00:08:30Z",
-    "run_id": "43982715001",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-17T22:37:20Z",
+    "run_id": "44191352371",
     "status": "success",
     "checked": {
-     "candidates": 690,
-     "detail": "657 collected staging rows from readers; 229 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 669 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2845,19 +2823,27 @@
      "detail": "+0 new rows, 3 updated rows, 676 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-17T22:37:17Z",
+    "run_id": "44191352371",
+    "status": "success",
+    "checked": {
+     "candidates": 699,
+     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 676 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3094,32 +3080,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-17T00:08:32Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Amitabh Bachchan Sparks Online Intrigue with Cryptic Social Media Post Amid Security Scare",
-      "BLACKPINK Member Jennie Lands Two Grammy Nominations for Hit Collaboration 'Dracula'",
-      "Actor Teja Sajja Celebrates Engagement in Hyderabad with Industry Luminaries",
-      "Diljit Dosanjh Recites Rahat Indori Verse at Indore Concert Despite Threats and Restrictions"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3646,19 +3619,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-17T22:37:19Z",
+    "run_id": "44191352371",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Reality Stars Kept in the Dark: The Mob Contestants Didn't Know the Rules",
+      "MS Dhoni's Past Relationships With Actresses Return to Spotlight Following IPL Retirement Announcement",
+      "Actor Sharad Kapoor Prepares For Industry Comeback With Support From Salman Khan And Sonu Sood",
+      "Ali Fazal and Naseeruddin Shah Head Cast of A Passage to India Series Adaptation"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3888,19 +3874,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4218,31 +4204,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-16T23:52:29Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 321 still unprocessed; today by category: movies 10/6, tv_dramas 17/4, episodes 1/2, box_office 14/6, celebrities_events 17/5, upcoming_releases 5/4, ott_streaming 6/4, trailers 3/3, awards 6/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Amitabh Bachchan Sparks Online Intrigue with Cryptic Social Media Post Amid Security Scare",
-      "Diljit Dosanjh Recites Rahat Indori Verse at Indore Concert Despite Threats and Restrictions",
-      "BLACKPINK Member Jennie Lands Two Grammy Nominations for Hit Collaboration 'Dracula'",
-      "Actor Teja Sajja Celebrates Engagement in Hyderabad with Industry Luminaries"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4748,26 +4722,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-17T22:37:16Z",
+    "run_id": "44191352371",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 373 still unprocessed; today by category: movies 14/6, tv_dramas 15/4, episodes 2/2, box_office 15/6, celebrities_events 15/5, upcoming_releases 12/4, ott_streaming 10/4, trailers 3/3, awards 4/2, music_ost 3/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Ali Fazal and Naseeruddin Shah Head Cast of A Passage to India Series Adaptation",
+      "Reality Stars Kept in the Dark: The Mob Contestants Didn't Know the Rules",
+      "MS Dhoni's Past Relationships With Actresses Return to Spotlight Following IPL Retirement Announcement",
+      "Actor Sharad Kapoor Prepares For Industry Comeback With Support From Salman Khan And Sonu Sood"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-16T23:54:10Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5074,24 +5053,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 386,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5436,24 +5410,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 20,
+     "count": 377,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5788,19 +5762,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6050,19 +6029,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6297,19 +6276,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6596,19 +6575,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6849,19 +6828,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7091,19 +7070,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7352,6 +7331,16 @@
     "category": "Trending News",
     "run_at": "2026-11-17T22:13:17Z",
     "run_id": "44183988147",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7868,16 +7857,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-17T00:56:22Z",
     "run_id": "43990873707",
     "status": "skipped",
@@ -8114,19 +8093,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-17T00:08:42Z",
-    "run_id": "43982715001",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8396,8 +8375,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-17T22:37:30Z",
+    "run_id": "44191352371",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-17T22:13:17Z"
+ "updated_at": "2026-11-17T22:37:30Z"
 }
