@@ -167033,5 +167033,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 05:57:43 +0530"
+  },
+  "8u9d4d": {
+    "id": "8u9d4d",
+    "type": "news",
+    "headline": "Glenn Close Receives Honorary Oscar After Eight Prior Nominations",
+    "dek": "The acclaimed actress was finally awarded an Oscar statuette at the 2026 Governors Awards, presented by her longtime co-star John Malkovich.",
+    "body": [
+      {
+        "h": "The Governors Awards Presentation",
+        "p": [
+          "The distinguished entertainment event took place on Sunday night at the Dolby Theatre located in Hollywood. Veteran actress Glenn Close graced the occasion to accept a special honorary Oscar statuette recognizing her incredible contributions to cinema.",
+          "For the star-studded evening, the 79-year-old performer wore a custom design by Giorgio Armani paired with elegant jewelry from Chopard. She was joined at the ceremony by her daughter Annie Starke and her son-in-law Marc Albu, who came out to show their support."
+        ]
+      },
+      {
+        "h": "A Milestone After Eight Nominations",
+        "p": [
+          "This momentous occasion marks the very first time Glenn has taken home an Academy Award statuette, despite having earned eight competitive nominations throughout her prestigious and celebrated film career.",
+          "While accepting the prestigious tribute from the stage, she shared heartfelt remarks with the audience, expressing how deeply meaningful it was to be surrounded and embraced by industry peers who consistently inspire, challenge, and motivate her artistic growth."
+        ]
+      },
+      {
+        "h": "John Malkovich Honors His Co-Star",
+        "p": [
+          "The presentation was delivered by John Malkovich, Glenn's longtime friend and her co-star from the classic film Dangerous Liaisons. He took the opportunity to honor her remarkable fifty-year career with a touch of humor.",
+          "Reflecting on her extensive filmography, John humorously highlighted the sheer variety of dramatic exits her characters have experienced on film over the decades, celebrating her memorable impact on audiences worldwide."
+        ]
+      },
+      {
+        "h": "A Fifty-Year Legacy of Onscreen Demises",
+        "p": [
+          "During his speech, the presenter entertained the crowd by recounting some of the most striking character deaths the actress has portrayed on the silver screen across her half-century journey in the industry.",
+          "His list of memorable demises included cinematic moments where her characters were decapitated, stung by scorpions, devoured by infected children, involved in car crashes, strangled, and shot during dramatic scenes."
+        ]
+      },
+      {
+        "h": "Iconic Fatalities and Everyday Moments",
+        "p": [
+          "The lighthearted speech also brought up her unforgettable bathtub climax from the psychological thriller Fatal Attraction, alongside other memorable cinematic beats.",
+          "John playfully noted that even simple, quiet activities became compelling when she performed them, pointing out how her character merely washed dishes in the classic ensemble drama The Big Chill."
+        ]
+      },
+      {
+        "h": "A Storied Filmography of Recognition",
+        "p": [
+          "Glenn's journey with the Academy began decades ago, starting with her very first film role which earned her an immediate nomination.",
+          "Over the years, her exceptional talent was acknowledged by voters through nods for major projects including comedic and dramatic hits alike, cementing her status as a cinematic icon."
+        ]
+      },
+      {
+        "h": "Honoring Other Industry Legends",
+        "p": [
+          "The Governors Awards evening also shone a spotlight on other monumental figures within the entertainment and animation industries.",
+          "Alongside the celebrated actress, fellow luminaries Ridley Scott and Floyd Norman were likewise honored with their own honorary Academy Awards during the prestigious event."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actress Glenn Close received an honorary Oscar at the 2026 Governors Awards after earning eight prior competitive nominations throughout her career. Her longtime co-star John Malkovich presented the statuette while sharing humorous memories of her iconic onscreen deaths, at an event that also honored Ridley Scott and Floyd Norman."
+        ]
+      }
+    ],
+    "facts": [
+      "Glenn Close is 79 years old.",
+      "The 2026 Governors Awards took place on Sunday night, November 15, 2026.",
+      "The venue was the Dolby Theatre in Hollywood.",
+      "Glenn Close has received eight Oscar nominations throughout her career.",
+      "John Malkovich presented the honorary Oscar to Glenn Close.",
+      "Ridley Scott and Floyd Norman also received honorary Oscars."
+    ],
+    "entities": {
+      "people": [
+        "Glenn Close",
+        "John Malkovich",
+        "Annie Starke",
+        "Marc Albu",
+        "Ridley Scott",
+        "Floyd Norman"
+      ],
+      "titles": [
+        "The World According to Garp",
+        "The Big Chill",
+        "The Natural",
+        "Fatal Attraction",
+        "Dangerous Liaisons",
+        "Albert Nobbs",
+        "The Wife",
+        "Hillbilly Elegy"
+      ]
+    },
+    "keywords": [
+      "Glenn Close",
+      "John Malkovich",
+      "Governors Awards",
+      "honorary Oscar"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/glenn-close-honorary-oscar.jpg",
+        "caption": "Glenn Close Receives Honorary Oscar After Eight Prior Nominations",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 00:01:42 +0000"
+  },
+  "1m1b6w1": {
+    "id": "1m1b6w1",
+    "type": "news",
+    "headline": "Reserve Bank of India Files Review Plea in Supreme Court Over YES Bank AT-1 Bond Verdict",
+    "dek": "The central bank has approached the apex court for a reconsideration of the judgment that invalidated the write-off of Rs 8,415 crore in Additional Tier-1 bonds.",
+    "body": [
+      {
+        "h": "Central Bank Files Review Petition",
+        "p": [
+          "The Reserve Bank of India officially submitted a review petition in the Supreme Court. This legal move targets the recent judgment that reversed the cancellation of YES Bank's massive Additional Tier-1 bond write-off.",
+          "Official records from the apex court website confirm that the filing took place on November 13. The action comes shortly after the financial institution itself moved the court seeking a re-evaluation of the October 15 ruling."
+        ]
+      },
+      {
+        "h": "Background of the Legal Battle",
+        "p": [
+          "The core dispute originates from a historical financial rescue operation involving YES Bank in March 2020. During this period of severe distress, the lender executed a complete write-down of two specific Additional Tier-1 bond issuances totaling Rs 8,415 crore.",
+          "The wiped-out instruments comprised a Rs 3,000 crore issuance bearing a 9.5 percent coupon from December 2016 alongside a Rs 5,415 crore issuance carrying a 9 percent coupon from October 2017."
+        ]
+      },
+      {
+        "h": "Judicial History and High Court Ruling",
+        "p": [
+          "Axis Trustee Services initiated the legal challenge in May 2020 by representing the affected bondholders at the Bombay High Court. The High Court ultimately ruled in favor of the investors in January 2023.",
+          "That initial verdict invalidated the write-off action. Subsequently, the Supreme Court dismissed appeals brought forward by the central bank, the financial institution, and the Union government, thereby upholding the High Court decision."
+        ]
+      },
+      {
+        "h": "Core Legal Grounds of the Verdict",
+        "p": [
+          "In its October ruling, the Supreme Court determined that the administrator lacked the proper authority to eliminate the bonds. The justices pointed out that government authorities had intentionally removed a specific provision from the final reconstruction scheme that would have permitted such a write-down.",
+          "Consequently, the court concluded that the administrator acted outside authorized powers when executing the cancellation after the reconstruction scheme became effective on March 13, 2020."
+        ]
+      },
+      {
+        "h": "Nature of Additional Tier-1 Bonds",
+        "p": [
+          "Additional Tier-1 instruments function as specialized capital components meant to absorb financial shocks during periods of severe economic stress. They form a critical segment of a banking institution's regulatory capital framework.",
+          "The lender initially wrote off these instruments during a restructuring phase overseen by the central bank. This intervention was deemed necessary due to mounting bad loans, internal governance concerns, and pressing capital adequacy issues."
+        ]
+      },
+      {
+        "h": "Trustee Actions and Ongoing Demands",
+        "p": [
+          "Following the judicial outcome, Axis Trustee Services demanded the complete restoration of the bonds along with all associated rights. This includes updating depository and exchange records to reflect the reinstated holdings.",
+          "The trustee also indicated potential plans to pursue contempt proceedings regarding alleged failures to comply with the directives issued by the court."
+        ]
+      },
+      {
+        "h": "Potential Capital Implications for the Lender",
+        "p": [
+          "Reinstating the principal value of the disputed instruments carries substantial consequences for the bank's financial stability metrics. Based on capital standings from June 2026, restoring the principal could reduce the Common Equity Tier-1 ratio by approximately 250 basis points.",
+          "While the impact on the overall Tier-1 capital ratio would vary, the potential recalculation highlights the systemic importance of the ongoing legal review."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Reserve Bank of India filed a review petition in the Supreme Court on November 13 regarding the verdict that set aside the write-off of YES Bank's Rs 8,415 crore AT-1 bonds. This follows earlier rulings by the Bombay High Court and the apex court which favored bondholders represented by Axis Trustee Services.",
+          "The ongoing legal dispute addresses the powers of the bank administrator during the March 2020 reconstruction and carries significant potential impacts on the lender's capital ratios."
+        ]
+      }
+    ],
+    "facts": [
+      "RBI filed a review plea on November 13, 2026",
+      "YES Bank AT-1 bond write-off value is Rs 8,415 crore",
+      "Supreme Court verdict was delivered on October 15",
+      "Bombay High Court delivered its decision in January 2023",
+      "Reconstruction scheme became effective on March 13, 2020",
+      "First bond issuance was Rs 3,000 crore with a 9.5 percent coupon in December 2016",
+      "Second bond issuance was Rs 5,415 crore with a 9 percent coupon in October 2017",
+      "Axis Trustee Services approached the Bombay High Court in May 2020"
+    ],
+    "entities": {
+      "people": [],
+      "titles": []
+    },
+    "keywords": [
+      "RBI YES Bank AT-1 bond",
+      "YES Bank Rs 8415 crore bond write-off",
+      "Supreme Court YES Bank verdict",
+      "Axis Trustee Services YES Bank"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/16/6761-rbi.png",
+        "caption": "Reserve Bank of India Files Review Plea in Supreme Court Over YES Bank AT-1 Bond Verdict",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T01:51:40Z"
+  },
+  "15caf3l": {
+    "id": "15caf3l",
+    "type": "news",
+    "headline": "Marvel Unveils Original Plans for Avengers: Doomsday and Doctor Doom Integration",
+    "dek": "Kevin Feige shares how Doctor Doom was always meant to enter the narrative, revealing early plans for Avengers: The Kang Dynasty before the studio pivoted.",
+    "body": [
+      {
+        "h": "The Evolution of the Multiverse Saga",
+        "p": [
+          "The Marvel Cinematic Universe underwent a major transition regarding its overarching narrative direction for the fifth team-up installment. Initially, the production was widely known as Avengers: The Kang Dynasty, with plans centered squarely on the antagonist Kang the Conqueror. Actor Jonathan Majors portrayed the villain across multiple franchise entries before legal trouble shifted studio priorities.",
+          "Following a public trial resulting in guilty verdicts on two misdemeanor counts of domestic assault in December 2023, Marvel Studios dismissed Majors. Months later, during the July 2024 San Diego Comic-Con presentation, studio executives announced a rebranding and a new principal antagonist. Robert Downey Jr. was cast to portray Doctor Doom, and the project was officially retitled Avengers: Doomsday."
+        ]
+      },
+      {
+        "h": "Addressing Early Criticisms and Buildup",
+        "p": [
+          "The sudden pivot from Kang to Doctor Doom sparked considerable debate among fans and critics online. Many observers argued that abandoning the Multiverse Saga plans felt abrupt, especially since Kang had received substantial setup in projects like Loki and Ant-Man and the Wasp: Quantumania. Critics pointed out a perceived lack of foundational buildup for Doctor Doom compared to previous overarching villains.",
+          "Conversely, studio leadership maintained that the foundation for Doom's introduction had been in motion long before the casting change. Kevin Feige addressed the timeline during discussions with industry publications, clarifying that employment decisions regarding Majors accelerated certain transitions but did not originate them entirely."
+        ]
+      },
+      {
+        "h": "Insights from Kevin Feige",
+        "p": [
+          "In statements provided to Empire, Kevin Feige explained the delicate nature of handling the studio transition. He noted that while public perception linked the narrative shift directly to real-world controversies, the creative pivot toward Doctor Doom was already underway internally.",
+          "Furthermore, Feige noted that the lukewarm critical reception of Ant-Man and the Wasp: Quantumania did not dictate the shift, despite praise for the villain's performance. The conceptual evolution of the fifth Avengers chapter was actively being reshaped regardless of box-office and critical feedback from that specific release."
+        ]
+      },
+      {
+        "h": "The Original Bait-and-Switch Narrative",
+        "p": [
+          "Regarding the specific structural role of Doctor Doom, Feige detailed an intricate narrative design for the original script. The film would have retained its initial title while executing a dramatic mid-film twist that positioned Doctor Doom as the true mastermind behind the events.",
+          "This narrative strategy relied on a bait-and-switch format, revealing Doom's supremacy halfway through the runtime. Such a development would have directly set the stage for subsequent conflicts without discarding the initial framing entirely."
+        ]
+      },
+      {
+        "h": "Comic Book Precedent and Historical Context",
+        "p": [
+          "The conceptual integration of Doctor Doom replacing or superseding Kang aligns with established source material from Marvel Comics. In the classic 1980s Marvel Super Heroes Secret Wars storyline, Doctor Doom famously betrays Kang the Conqueror, providing a clear literary precedent for the cinematic shift.",
+          "Additionally, Doom serves as the central figure in the 2015 Secret Wars comic event, which shares its subtitle with the sixth Avengers installment. Studio leadership recognized that bringing in a definitive overarching presence akin to Thanos required a character of similar comic book magnitude."
+        ]
+      },
+      {
+        "h": "Audience Reception and Future Outlook",
+        "p": [
+          "Subverting audience expectations carries inherent risks, drawing comparisons to reactions seen in major franchises like Star Wars: The Last Jedi. Nevertheless, studio representatives emphasize that Doctor Doom has already received introductory nods through post-credit sequences in recent properties.",
+          "As the scheduled release date approaches, anticipation continues to build across fan communities. Metrics suggest strong engagement and the potential for significant commercial performance during the opening theatrical window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios originally intended to feature Doctor Doom as a major narrative twist midway through Avengers: The Kang Dynasty before real-world events and studio shifts led to a full rebranding as Avengers: Doomsday. Kevin Feige confirmed that these creative adjustments were already in motion prior to the departure of Jonathan Majors, drawing inspiration from classic comic book storylines where Doom supplants Kang."
+        ]
+      }
+    ],
+    "facts": [
+      "Jonathan Majors was found guilty on two misdemeanor counts of domestic assault.",
+      "Marvel Studios fired Jonathan Majors in December 2023.",
+      "Robert Downey Jr. was cast as Doctor Doom at San Diego Comic-Con in July 2024.",
+      "Avengers: Doomsday is scheduled for release on December 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Majors",
+        "Robert Downey Jr.",
+        "Kevin Feige",
+        "Thanos"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: The Kang Dynasty",
+        "Loki",
+        "Ant-Man and the Wasp: Quantumania",
+        "The Fantastic Four: First Steps",
+        "Avengers: Endgame - Encore",
+        "VisionQuest",
+        "Avengers: Infinity War",
+        "Star Wars: The Last Jedi"
+      ]
+    },
+    "keywords": [
+      "Avengers: Doomsday",
+      "Doctor Doom",
+      "Kevin Feige",
+      "Jonathan Majors"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/robert-downey-jr-as-doctor-doom-in-avengers-doomsday.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Unveils Original Plans for Avengers: Doomsday and Doctor Doom Integration",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 23:02:03 GMT"
+  },
+  "xpuwck": {
+    "id": "xpuwck",
+    "type": "news",
+    "headline": "Ananya Birla House Tour Reveals Grand Mumbai Mansion With British Design and Royal Artifacts",
+    "dek": "A closer look inside the luxurious Mumbai residence of entrepreneur and RCB owner Ananya Birla, showcasing its British-themed decor, rare artworks, and expansive gardens.",
+    "body": [
+      {
+        "h": "Introduction to the Grand Residence",
+        "p": [
+          "Ananya Birla, a prominent businesswoman and co-owner of the IPL franchise Royal Challengers Bengaluru, resides in a magnificent mansion located in Mumbai. Sharing the expansive property with her mother, her living space reflects a blend of traditional royalty and modern elegance.",
+          "The breathtaking interiors of this upscale Mumbai home recently caught public attention when filmmaker Farah Khan featured the property in her video blog, offering fans a rare glimpse into the lavish lifestyle within."
+        ]
+      },
+      {
+        "h": "British Theme and Interior Styling",
+        "p": [
+          "The aesthetic and layout of the mansion were personally curated by Ananya's mother, Dr. Neerja Birla. The household follows a distinct British design motif, creating an atmosphere that mirrors a royal palace.",
+          "Visitors stepping into the property are immediately greeted by grand chandeliers and a prominent statue of Lord Ganesha, blending spiritual elements seamlessly with opulent architectural choices."
+        ]
+      },
+      {
+        "h": "The Main Hall and Seating Areas",
+        "p": [
+          "Upon entry, the primary sitting area features circular white sofas, pink marble columns, and large glass chandeliers that impart an open, luminous feel to the room. A central wooden table and golden candle stands add to the majestic ambiance.",
+          "Further inside, another lounge area offers brown leather seating, wooden flooring, and generous windows that allow natural light to fill the space, complemented by classic antique showpieces."
+        ]
+      },
+      {
+        "h": "Family Heritage and Fine Art Collection",
+        "p": [
+          "The walls of the residence serve as a tribute to family legacy, featuring portraits of Ananya's great-grandfather, Ghanshyam Das Birla, and her grandfather, Aditya Birla.",
+          "Art enthusiasts will also note valuable paintings by M.F. Hussain displayed prominently on the walls, situated near the staircase leading to the upper levels of the home."
+        ]
+      },
+      {
+        "h": "Kitchen Facilities and Outdoor Spaces",
+        "p": [
+          "The kitchen is exceptionally spacious, featuring pale green cabinetry and walls that impart a refreshing tone. Equipped with a central island table, dual chimneys, and a large refrigerator, it combines modern utility with vast proportions.",
+          "The exterior features a personal garden so large it could host a national cricket match. Complete with outdoor seating, this verdant space serves as Ananya's preferred spot for writing."
+        ]
+      },
+      {
+        "h": "Background and Professional Achievements",
+        "p": [
+          "Beyond being the daughter of Aditya Birla Group Chairman Kumar Mangalam Birla, Ananya has carved out her own independent identity in the corporate and creative worlds. She made history in her family by entering the business sector and launching Swatantra Microfin at the age of 17.",
+          "In addition to her corporate ventures, she is an accomplished English pop musician with over 500 million global streams, alongside her ownership role with Royal Challengers Bengaluru."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A video blog tour revealed the luxurious Mumbai mansion of businesswoman and RCB owner Ananya Birla. Decorated with British themes by her mother Dr. Neerja Birla, the estate features extensive art collections, family portraits, and a massive garden."
+        ]
+      }
+    ],
+    "facts": [
+      "Ananya Birla lives in a Mumbai mansion with her mother, Dr. Neerja Birla.",
+      "The house tour was shown in a vlog by Farah Khan on November 16, 2026.",
+      "The residence features a British theme, pink marble columns, and art by M.F. Hussain.",
+      "Portraits of Ghanshyam Das Birla and Aditya Birla hang on the walls.",
+      "Ananya launched Swatantra Microfin at age 17.",
+      "She has surpassed 500 million global streams as an English pop musician.",
+      "She is an owner of the Royal Challengers Bengaluru IPL team."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Birla",
+        "Farah Khan",
+        "Dr. Neerja Birla",
+        "Ghanshyam Das Birla",
+        "Aditya Birla",
+        "M.F. Hussain",
+        "Kumar Mangalam Birla"
+      ],
+      "titles": [
+        "Royal Challengers Bengaluru",
+        "Swatantra Microfin"
+      ]
+    },
+    "keywords": [
+      "Ananya Birla house",
+      "Ananya Birla Mumbai mansion",
+      "Royal Challengers Bengaluru owner",
+      "Dr Neerja Birla interior design"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6afb0ad22b6e7-ananya-birla-house-tour-luxurious-lifestyle-networth-16532146-16x9.jpg",
+        "caption": "Ananya Birla House Tour Reveals Grand Mumbai Mansion With British Design and Royal Artifacts",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T01:51:40Z"
   }
 };

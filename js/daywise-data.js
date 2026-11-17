@@ -4519,12 +4519,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-16",
       "day": "Day 11",
-      "collection": 7923930
+      "collection": 7923930,
+      "overseas": 4701532,
+      "shows": 23573,
+      "occupancy": 47.9
     },
     {
       "date": "2026-11-16",
       "day": "Day 12",
-      "collection": 255679
+      "collection": 255679,
+      "overseas": 1056524,
+      "shows": 22395,
+      "occupancy": 25.3
     }
   ],
   "1607833": [
