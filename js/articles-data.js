@@ -168205,5 +168205,439 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T03:52:25Z"
+  },
+  "3159w2": {
+    "id": "3159w2",
+    "type": "news",
+    "headline": "Grammy Awards 2027 Nominations Unveiled: Raye, Taylor Swift, and Ariana Grande Make Historic Records",
+    "dek": "The Recording Academy announced the official nominations for the 69th annual Grammy Awards, highlighting major achievements by female pop icons alongside notable snubs for male artists.",
+    "body": [
+      {
+        "h": "Recording Academy Announces 2027 Nominations",
+        "p": [
+          "The Recording Academy officially revealed the nominations for the 69th annual Grammy Awards on Monday, November 16, 2026. Female artists commanded the spotlight across the major categories, setting a vibrant tone for the upcoming music industry celebration.",
+          "With a diverse array of talent recognized across various genres, the announcement immediately sparked widespread discussions among music enthusiasts worldwide regarding the contenders vying for golden gramophones."
+        ]
+      },
+      {
+        "h": "Raye Leads the Pack with Record Nominations",
+        "p": [
+          "British singer-songwriter Raye emerged as the most nominated artist for the 2027 ceremony, securing an impressive total of 11 category recognitions. Her acclaimed work earned nods in major fields including record, song, and album of the year for her project This Music May Contain Hope.",
+          "Her overwhelming presence on the ballot underscores her rapid ascent and critical acclaim within the contemporary music landscape, positioning her as a primary force heading into the awards night."
+        ]
+      },
+      {
+        "h": "Historic Milestones for Ariana Grande and Taylor Swift",
+        "p": [
+          "Ariana Grande carved her name into Grammy history by earning her seventh nomination for Best Pop Vocal Album with petal. She has successfully secured a nomination in this specific category for every album release since My Everything.",
+          "Meanwhile, Taylor Swift secured her eighth career nomination for Album of the Year with The Life of a Showgirl. This major achievement ties her with legendary artist Frank Sinatra for the most Album of the Year nominations in history."
+        ]
+      },
+      {
+        "h": "Olivia Rodrigo and Rosalía Rack Up Nominations",
+        "p": [
+          "Olivia Rodrigo continued her dominant streak with her third studio album, you seems pretty sad for a girl so in love, which captured a coveted Album of the Year nomination. She additionally pulled in six other nominations, including nods for Record and Song of the Year for The Cure.",
+          "Spanish artist Rosalía followed closely behind Raye with nine total nominations for her expansive album Lux, proving the immense global reach and critical appreciation of non-English language projects at the upcoming Grammys."
+        ]
+      },
+      {
+        "h": "Struggles and Snubs for Male Artists",
+        "p": [
+          "While female performers triumphed across the ballot, male artists faced a significantly tougher time securing recognition from the Recording Academy. Bruno Mars stood out as the sole male artist nominated in the Album of the Year category for The Romantic, while also scoring two additional nominations for Record and Song of the Year.",
+          "Other prominent male musicians experienced notable omissions. Noah Kahan missed out on anticipated major category nods and received only a single nomination for Best Contemporary Folk Album, while Harry Styles was completely shut out of the nominations for his album Kiss All The Time. Disco, Occasionally."
+        ]
+      },
+      {
+        "h": "Ceremony Details and Venue Information",
+        "p": [
+          "The 69th annual Grammy Awards ceremony is scheduled to take place on Sunday, February 7, 2027. Music's biggest night will be hosted at the Crypto.com Arena located in Los Angeles.",
+          "As the industry prepares for the live event, fans and critics alike continue to analyze the full slate of nominees across specialized fields ranging from rap and country to visual media and global music."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Recording Academy announced the nominations for the 69th annual Grammy Awards on November 16, 2026, with women dominating the major categories. Raye led all artists with 11 nominations, while Ariana Grande, Taylor Swift, and Olivia Rodrigo achieved historic milestones, contrasting with a difficult year for male artists like Harry Styles and Noah Kahan."
+        ]
+      }
+    ],
+    "facts": [
+      "The Recording Academy announced nominations for the 69th annual Grammy Awards on November 16, 2026.",
+      "Raye received the most nominations with 11 categories.",
+      "Rosalía received nine nominations for her album Lux.",
+      "Ariana Grande received her seventh Best Pop Vocal Album nomination for petal.",
+      "Taylor Swift received her eighth Album of the Year nomination for The Life of a Showgirl, tying Frank Sinatra.",
+      "Olivia Rodrigo received six nominations including for The Cure.",
+      "Bruno Mars was the only male artist nominated for Album of the Year for The Romantic.",
+      "The awards ceremony will be held on February 7, 2027, at the Crypto.com Arena in Los Angeles."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Swift",
+        "Ariana Grande",
+        "Olivia Rodrigo",
+        "Raye",
+        "Bruno Mars",
+        "Rosalía",
+        "Frank Sinatra",
+        "Noah Kahan",
+        "Harry Styles",
+        "Dolly Parton"
+      ],
+      "titles": [
+        "This Music May Contain Hope",
+        "Lux",
+        "Petal",
+        "My Everything",
+        "The Life of a Showgirl",
+        "you seems pretty sad for a girl so in love",
+        "The Cure",
+        "The Romantic",
+        "The Great Divide: The Last of the Bugs",
+        "Kiss All The Time. Disco, Occasionally"
+      ]
+    },
+    "keywords": [
+      "Grammy Awards 2027 nominations",
+      "Taylor Swift Grammy 2027",
+      "Raye Grammy nominations",
+      "Ariana Grande Grammy history"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156520236,thumbsize-1509971,width-1280,height-720,resizemode-75/156520236.jpg",
+        "caption": "Grammy Awards 2027 Nominations Unveiled: Raye, Taylor Swift, and Ariana Grande Make Historic Records",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T04:08:32Z"
+  },
+  "11aefrm": {
+    "id": "11aefrm",
+    "type": "news",
+    "headline": "Netflix Sci-Fi Thriller Sisyphus: The Myth Offers A Wild Alternative To Dark",
+    "dek": "Discover the 16-episode time travel K-drama on Netflix that brings high-adrenaline twists and a black-market crisis, serving as an ambitious alternative for fans looking beyond Dark.",
+    "body": [
+      {
+        "h": "Introduction to the Sci-Fi Alternative",
+        "p": [
+          "Nearly a decade after its initial release, the streaming series Dark continues to be celebrated as a gold standard for television narratives involving time travel. While many similar projects eventually become tangled in their own narrative paradoxes, Dark manages to maintain strict consistency throughout its run. Its unpredictability has kept viewers engaged as a top-tier science fiction experience.",
+          "However, another compelling option exists on the same streaming platform for audiences seeking a different flavor of science fiction. Sisyphus: The Myth is a Korean series that delivers an even more erratic and wild ride, offering a distinct alternative for enthusiasts of the genre."
+        ]
+      },
+      {
+        "h": "Premise and Core Setup",
+        "p": [
+          "The narrative of Sisyphus: The Myth initiates with an engineer named Han Tae-sul, who sets out to uncover the truth behind the mysterious passing of his brother. During this quest, he crosses paths with an individual claiming to be a traveler from the future.",
+          "This encounter sets off a chain of bizarre developments that rival the mental stimulation found in top-tier genre television. The series spans sixteen episodes, combining mystery, action, and fantasy elements into its overarching plot."
+        ]
+      },
+      {
+        "h": "Genre Bending and Tonal Shifts",
+        "p": [
+          "Unlike more meticulously planned narratives, Sisyphus: The Myth often struggles to maintain strict adherence to its own temporal rules. The show frequently shifts tones, moving between comedic romantic moments and grim post-apocalyptic settings.",
+          "Despite this tonal whiplash, the project displays a high level of ambition. It treats temporal mechanics not as a minor narrative device, but as an illegal black-market crisis affecting multiple timelines."
+        ]
+      },
+      {
+        "h": "The 2035 Crisis and Time Travel Rules",
+        "p": [
+          "In the background of the story, thousands of survivors from a ruined future in 2035 attempt to immigrate backward into the year 2020. To counteract this, a specialized law enforcement unit known as the Control Bureau actively hunts these temporal migrants.",
+          "Similar to the patterns seen in other complex sci-fi projects, the characters find themselves trapped in cyclical tragedies. Their very attempts to prevent disasters often serve as the exact catalyst that brings those catastrophes to life."
+        ]
+      },
+      {
+        "h": "Themes of Sacrifice and Tragic Loops",
+        "p": [
+          "As the narrative progresses toward its conclusion, characters repeatedly encounter the same unavoidable outcomes. Rather than accepting an eternal loop akin to the mythological punishment of Sisyphus, individuals make ultimate sacrifices.",
+          "This unhinged and fearless approach to genre-blending makes the series enthralling, even if it occasionally becomes weighed down by its own massive scale and unchecked ambition."
+        ]
+      },
+      {
+        "h": "Comparison to Dark and Streaming Appeal",
+        "p": [
+          "While Sisyphus: The Myth does not reach the same critical acclaim or flawless execution as Dark, it delivers solid performances and strong cyberpunk aesthetics. The production features intricate worldbuilding and grounds its high-concept sci-fi in relatable themes of personal regret.",
+          "Pacing remains a priority for the show, utilizing massive action sequences and gripping cliffhangers at the end of episodes. It serves as an entertaining weekend binge for viewers who prefer adrenaline-fueled storytelling over slow-burn mysteries."
+        ]
+      },
+      {
+        "h": "Production Details and Cast",
+        "p": [
+          "Released in 2021 on the network JTBC, the series spans a single season consisting of sixteen episodes. The project was directed by Jin Hyuk and written by the creative team of Lee Je-in and Jeon Chan-ho.",
+          "The extensive ensemble cast features prominent actors such as Cho Seung-woo, Park Shin-hye, Sung Dong-il, and many others, contributing to the show's complex web of characters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A recent retrospective highlights the 2021 Netflix science fiction series Sisyphus: The Myth as an ambitious, twist-heavy alternative to the platform's acclaimed show Dark. Despite facing criticisms regarding tone and consistency, the sixteen-episode K-drama offers a high-adrenaline time travel narrative driven by gritty worldbuilding and intense action."
+        ]
+      }
+    ],
+    "facts": [
+      "Dark and Sisyphus: The Myth are both available on Netflix.",
+      "Sisyphus: The Myth is a 16-episode series.",
+      "Sisyphus: The Myth aired in 2021 on JTBC.",
+      "The series features characters trying to stop futuristic immigrants from 2035 in the year 2020.",
+      "The cast includes Cho Seung-woo and Park Shin-hye."
+    ],
+    "entities": {
+      "people": [
+        "Dhruv Sharma",
+        "Han Tae-sul",
+        "Cho Seung-woo",
+        "Lee Jae-won",
+        "Park Shin-hye",
+        "Jung Hye-in",
+        "Lee So-yoon",
+        "Roh Hae-ju",
+        "Lee Si-woo",
+        "Chae Jong-hyeop",
+        "Sung Dong-il",
+        "Tae In-ho",
+        "Tae Won-seok",
+        "Jeon Kuk-hwan",
+        "Heo Joon-seok",
+        "Choi Jung-woo",
+        "Go Yoon",
+        "Kim Byung-chul",
+        "Lee Yeon-su",
+        "Lim Ji-sub",
+        "Kim Jong-tae",
+        "Ha Yul-Ri",
+        "Choe Min",
+        "Lee Myeong-ro",
+        "Kim Byung-choon",
+        "Hwang Dong-joo",
+        "Jin Hyuk",
+        "Lee Je-in",
+        "Jeon Chan-ho"
+      ],
+      "titles": [
+        "Dark",
+        "Sisyphus: The Myth"
+      ]
+    },
+    "keywords": [
+      "Sisyphus The Myth Netflix",
+      "Dark vs Sisyphus The Myth",
+      "Sisyphus The Myth time travel show",
+      "Sisyphus The Myth K drama"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/3675ddc8-f8d3-48f2-9e50-dc2d6bda2f27.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Sci-Fi Thriller Sisyphus: The Myth Offers A Wild Alternative To Dark",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:31:18 GMT"
+  },
+  "24794g": {
+    "id": "24794g",
+    "type": "news",
+    "headline": "Son Suk Ku and Nagayama Eita Lead Netflix Thriller The Blue Road",
+    "dek": "The upcoming Netflix hard-boiled series pairs Korean and Japanese stars for a cross-border murder investigation set in 2002.",
+    "body": [
+      {
+        "h": "Upcoming Netflix Premiere",
+        "p": [
+          "Netflix is expanding its international content lineup with the upcoming release of the hard-boiled thriller series titled The Blue Road. The project is scheduled to make its official global debut on November 20.",
+          "Ahead of the launch, the principal cast and the director gathered in Seoul for an official press conference to discuss the production and share insights with the media."
+        ]
+      },
+      {
+        "h": "Press Conference in Seoul",
+        "p": [
+          "On November 17, members of the cast alongside the director held a media event at the JW Marriott Dongdaemun Square in Seoul. The gathering served to promote the transnational narrative and highlight the collaborative efforts behind the streaming platform's latest project.",
+          "Attendees heard directly from the creative team about the challenges and unique experiences of bringing a multi-country detective story to life for television audiences."
+        ]
+      },
+      {
+        "h": "Star-Studded Lead Cast",
+        "p": [
+          "The drama features a prominent cross-border pairing in its lead roles. Actor Son Suk Ku steps into the shoes of Kim Seok, characterized as a persistent and cool-headed investigator representing the Seoul Metropolitan Police Agency.",
+          "Opposite him is Japanese actor Nagayama Eita, who portrays Inose, a fiery and driven detective working for the Tokyo Metropolitan Police Department. The two law enforcement figures must work across national lines to track down a dangerous criminal."
+        ]
+      },
+      {
+        "h": "Supporting Ensemble and Characters",
+        "p": [
+          "The supporting lineup includes several well-known names portraying pivotal figures in the intricate plot. Kim Shin Rok takes on the role of Ri Yun Ok, a Zainichi Korean businesswoman who exerts control over the pachinko industry in Japan.",
+          "Additionally, Choi Sung Eun appears as government agent Yoon Soo Kyung, investigating the unfolding situation from an alternative perspective, while Jung Jae Young plays Seo Hyun Tae, described as a shadowy boss within the Japanese underworld."
+        ]
+      },
+      {
+        "h": "Source Material and Plot Setting",
+        "p": [
+          "The narrative is adapted from a manga of the same name originally created by Edogawa Keishi and Kwon Ga Ya. Set against the backdrop of the year 2002, the story follows a trail of gruesome murders marked by twisted bodies and mysterious messages.",
+          "The investigation takes the protagonists on a sprawling path that crosses national boundaries, moving from Korea and Japan all the way to Hong Kong and Central Asia."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Direction",
+        "p": [
+          "The series is penned by writer Cho Yu Jin and directed by Han Jun Hee, who previously helmed Netflix's acclaimed series D.P. The director noted that he was initially drawn to the source material because of its unique combination of grotesque charm and a deeply emotional core.",
+          "Cast members also shared personal anecdotes from production, with Nagayama Eita revealing he accepted the role after the director's personal encouragement, and Jung Jae Young discussing his physical preparation by gaining weight for his character."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix is set to premiere the hard-boiled thriller series The Blue Road on November 20, following a press conference held in Seoul on November 17. The 2002-set adaptation follows detectives played by Son Suk Ku and Nagayama Eita as they track a cross-border killer across multiple regions alongside a supporting cast that includes Kim Shin Rok, Choi Sung Eun, and Jung Jae Young."
+        ]
+      }
+    ],
+    "facts": [
+      "The Blue Road premieres on Netflix on November 20, 2026.",
+      "The press conference was held on November 17, 2026, at JW Marriott Dongdaemun Square in Seoul.",
+      "Son Suk Ku plays Kim Seok from the Seoul Metropolitan Police Agency.",
+      "Nagayama Eita plays Inose from the Tokyo Metropolitan Police Department.",
+      "Kim Shin Rok plays Ri Yun Ok.",
+      "Choi Sung Eun plays Yoon Soo Kyung.",
+      "Jung Jae Young plays Seo Hyun Tae.",
+      "The series is based on the manga by Edogawa Keishi and Kwon Ga Ya.",
+      "The story is set in the year 2002."
+    ],
+    "entities": {
+      "people": [
+        "Son Suk Ku",
+        "Nagayama Eita",
+        "Kim Shin Rok",
+        "Choi Sung Eun",
+        "Jung Jae Young",
+        "Edogawa Keishi",
+        "Kwon Ga Ya",
+        "Cho Yu Jin",
+        "Han Jun Hee"
+      ],
+      "titles": [
+        "The Blue Road",
+        "D.P."
+      ]
+    },
+    "keywords": [
+      "The Blue Road Netflix",
+      "Son Suk Ku The Blue Road",
+      "Nagayama Eita The Blue Road",
+      "Han Jun Hee The Blue Road"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/ArrpvL_2d.jpg",
+        "caption": "Son Suk Ku and Nagayama Eita Lead Netflix Thriller The Blue Road",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:26:43 +0000"
+  },
+  "10l1uq1": {
+    "id": "10l1uq1",
+    "type": "news",
+    "headline": "Salman Khan To Reportedly Drop Monster Teaser On 60th Birthday",
+    "dek": "Bollywood superstar Salman Khan is planning a massive treat for his fans this December, with reports indicating a teaser release for his upcoming film Monster on his birthday.",
+    "body": [
+      {
+        "h": "A Milestone Birthday Reveal",
+        "p": [
+          "Bollywood icon Salman Khan might give his followers an unforgettable present for his upcoming diamond jubilee birthday. Sources indicate that the production team behind his highly anticipated feature Monster is coordinating a special promotional unveiling.",
+          "Rather than waiting for a standard promotional window, the makers aim to drop the very first teaser on December 27. This potential surprise would coincide directly with the superstar turning sixty years old, adding an extra layer of celebration for his massive fanbase."
+        ]
+      },
+      {
+        "h": "Pune Schedule And Production Updates",
+        "p": [
+          "In tandem with the promotional buzz, the production has moved its cameras to Pune for a fresh filming schedule. This leg of the shoot is slated to last for a minimum of ten days and concentrates heavily on dramatic sequences.",
+          "Veteran actress Seema Biswas has joined the leading man on location for these crucial portions. The team is balancing these intensive dramatic scenes alongside high-octane action sequences that form a major part of the narrative."
+        ]
+      },
+      {
+        "h": "A Landmark South Collaboration",
+        "p": [
+          "Anticipation for the project stems largely from its unique creative pairing, as it marks the first time the actor teams up with a South Indian director. Filmmaker Vamshi Paidipally takes the helm for this venture.",
+          "Industry observers frequently draw parallels to past cross-industry successes, hoping to recapture the box office frenzy seen when Shah Rukh Khan partnered with Atlee for Jawan. The director aims to present the actor in an explosive mass avatar."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Beyond the leading man, the production boasts an impressive roster of prominent actors. Nayanthara shares screen space with the superstar for the first time, generating significant curiosity regarding their onscreen chemistry.",
+          "The supporting cast features seasoned performers including Jackie Shroff, Arvind Swamy, Rahul Dev, and Ronit Roy. While these actors fill pivotal roles, the plot details remain tightly under wraps."
+        ]
+      },
+      {
+        "h": "Juggling Multiple Commitments",
+        "p": [
+          "Managing this massive cinematic undertaking requires careful time management, especially alongside television duties. The actor continues to oversee his hosting responsibilities for the reality television program Bigg Boss 20.",
+          "By strictly managing his schedule and fulfilling all concurrent professional obligations, the production remains firmly on track. This dedication ensures the project stays aligned with its major theatrical goals."
+        ]
+      },
+      {
+        "h": "Targeting An Eid 2027 Debut",
+        "p": [
+          "The theatrical rollout is currently being planned for the festive holiday of Eid in 2027. This timing marks a significant return to a traditional release window for the star.",
+          "Having missed out on the Eid slot in the year 2026 due to delays surrounding his other major feature Maatrubhumi: May War Rest In Peace, this upcoming holiday premiere holds immense strategic importance."
+        ]
+      },
+      {
+        "h": "A Busy December Lineup",
+        "p": [
+          "The final month of the year brings a flurry of activity for the actor's professional schedule. The month kicks off with the release of Maatrubhumi: May War Rest In Peace at the very beginning of December.",
+          "After concluding the year's cinematic arrivals with that project, the month is expected to close with the aforementioned promotional teaser drop, rounding out a packed closing period."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that Salman Khan may release the first teaser for his upcoming film Monster on his 60th birthday on December 27. The project, directed by Vamshi Paidipally and produced by Dil Raju, is currently filming in Pune and is slated for an Eid 2027 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan is turning 60 years old on December 27.",
+      "Monster is directed by Vamshi Paidipally and backed by producer Dil Raju.",
+      "The film's new shooting schedule is taking place in Pune for a minimum of 10 days.",
+      "Seema Biswas is part of the Pune shooting schedule alongside Salman Khan.",
+      "The cast of Monster includes Nayanthara, Jackie Shroff, Arvind Swamy, Rahul Dev, and Ronit Roy.",
+      "Monster is eyeing an Eid 2027 release.",
+      "Maatrubhumi: May War Rest In Peace is scheduled to release on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Mudit Bhatnagar",
+        "Atlee",
+        "Vamshi Paidipally",
+        "Seema Biswas",
+        "Nayanthara",
+        "Jackie Shroff",
+        "Arvind Swamy",
+        "Rahul Dev",
+        "Ronit Roy",
+        "Dil Raju",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Monster",
+        "Maatrubhumi: May War Rest In Peace",
+        "Jawan",
+        "Bigg Boss 20",
+        "Suryaa Ant Se Aarambh Tak"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Monster teaser",
+      "Monster film release date",
+      "Vamshi Paidipally Salman Khan",
+      "Salman Khan 60th birthday"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156518820,thumbsize-91241,width-1280,height-720,resizemode-75/156518820.jpg",
+        "caption": "Salman Khan To Reportedly Drop Monster Teaser On 60th Birthday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T04:08:32Z"
   }
 };

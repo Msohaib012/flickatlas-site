@@ -33,6 +33,95 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 08:32:50 +0200"
   },
+  "10l1uq1": {
+    "id": "10l1uq1",
+    "type": "news",
+    "headline": "Salman Khan To Reportedly Drop Monster Teaser On 60th Birthday",
+    "dek": "Bollywood superstar Salman Khan is planning a massive treat for his fans this December, with reports indicating a teaser release for his upcoming film Monster on his birthday.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Mudit Bhatnagar",
+        "Atlee",
+        "Vamshi Paidipally",
+        "Seema Biswas",
+        "Nayanthara",
+        "Jackie Shroff",
+        "Arvind Swamy",
+        "Rahul Dev",
+        "Ronit Roy",
+        "Dil Raju",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Monster",
+        "Maatrubhumi: May War Rest In Peace",
+        "Jawan",
+        "Bigg Boss 20",
+        "Suryaa Ant Se Aarambh Tak"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Monster teaser",
+      "Monster film release date",
+      "Vamshi Paidipally Salman Khan",
+      "Salman Khan 60th birthday"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156518820,thumbsize-91241,width-1280,height-720,resizemode-75/156518820.jpg",
+        "caption": "Salman Khan To Reportedly Drop Monster Teaser On 60th Birthday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T04:08:32Z"
+  },
+  "3159w2": {
+    "id": "3159w2",
+    "type": "news",
+    "headline": "Grammy Awards 2027 Nominations Unveiled: Raye, Taylor Swift, and Ariana Grande Make Historic Records",
+    "dek": "The Recording Academy announced the official nominations for the 69th annual Grammy Awards, highlighting major achievements by female pop icons alongside notable snubs for male artists.",
+    "entities": {
+      "people": [
+        "Taylor Swift",
+        "Ariana Grande",
+        "Olivia Rodrigo",
+        "Raye",
+        "Bruno Mars",
+        "Rosalía",
+        "Frank Sinatra",
+        "Noah Kahan",
+        "Harry Styles",
+        "Dolly Parton"
+      ],
+      "titles": [
+        "This Music May Contain Hope",
+        "Lux",
+        "Petal",
+        "My Everything",
+        "The Life of a Showgirl",
+        "you seems pretty sad for a girl so in love",
+        "The Cure",
+        "The Romantic",
+        "The Great Divide: The Last of the Bugs",
+        "Kiss All The Time. Disco, Occasionally"
+      ]
+    },
+    "keywords": [
+      "Grammy Awards 2027 nominations",
+      "Taylor Swift Grammy 2027",
+      "Raye Grammy nominations",
+      "Ariana Grande Grammy history"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156520236,thumbsize-1509971,width-1280,height-720,resizemode-75/156520236.jpg",
+        "caption": "Grammy Awards 2027 Nominations Unveiled: Raye, Taylor Swift, and Ariana Grande Make Historic Records",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T04:08:32Z"
+  },
   "1dnq75x": {
     "id": "1dnq75x",
     "type": "news",
@@ -74,6 +163,100 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T03:52:25Z"
+  },
+  "11aefrm": {
+    "id": "11aefrm",
+    "type": "news",
+    "headline": "Netflix Sci-Fi Thriller Sisyphus: The Myth Offers A Wild Alternative To Dark",
+    "dek": "Discover the 16-episode time travel K-drama on Netflix that brings high-adrenaline twists and a black-market crisis, serving as an ambitious alternative for fans looking beyond Dark.",
+    "entities": {
+      "people": [
+        "Dhruv Sharma",
+        "Han Tae-sul",
+        "Cho Seung-woo",
+        "Lee Jae-won",
+        "Park Shin-hye",
+        "Jung Hye-in",
+        "Lee So-yoon",
+        "Roh Hae-ju",
+        "Lee Si-woo",
+        "Chae Jong-hyeop",
+        "Sung Dong-il",
+        "Tae In-ho",
+        "Tae Won-seok",
+        "Jeon Kuk-hwan",
+        "Heo Joon-seok",
+        "Choi Jung-woo",
+        "Go Yoon",
+        "Kim Byung-chul",
+        "Lee Yeon-su",
+        "Lim Ji-sub",
+        "Kim Jong-tae",
+        "Ha Yul-Ri",
+        "Choe Min",
+        "Lee Myeong-ro",
+        "Kim Byung-choon",
+        "Hwang Dong-joo",
+        "Jin Hyuk",
+        "Lee Je-in",
+        "Jeon Chan-ho"
+      ],
+      "titles": [
+        "Dark",
+        "Sisyphus: The Myth"
+      ]
+    },
+    "keywords": [
+      "Sisyphus The Myth Netflix",
+      "Dark vs Sisyphus The Myth",
+      "Sisyphus The Myth time travel show",
+      "Sisyphus The Myth K drama"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/3675ddc8-f8d3-48f2-9e50-dc2d6bda2f27.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Sci-Fi Thriller Sisyphus: The Myth Offers A Wild Alternative To Dark",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:31:18 GMT"
+  },
+  "24794g": {
+    "id": "24794g",
+    "type": "news",
+    "headline": "Son Suk Ku and Nagayama Eita Lead Netflix Thriller The Blue Road",
+    "dek": "The upcoming Netflix hard-boiled series pairs Korean and Japanese stars for a cross-border murder investigation set in 2002.",
+    "entities": {
+      "people": [
+        "Son Suk Ku",
+        "Nagayama Eita",
+        "Kim Shin Rok",
+        "Choi Sung Eun",
+        "Jung Jae Young",
+        "Edogawa Keishi",
+        "Kwon Ga Ya",
+        "Cho Yu Jin",
+        "Han Jun Hee"
+      ],
+      "titles": [
+        "The Blue Road",
+        "D.P."
+      ]
+    },
+    "keywords": [
+      "The Blue Road Netflix",
+      "Son Suk Ku The Blue Road",
+      "Nagayama Eita The Blue Road",
+      "Han Jun Hee The Blue Road"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/ArrpvL_2d.jpg",
+        "caption": "Son Suk Ku and Nagayama Eita Lead Netflix Thriller The Blue Road",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:26:43 +0000"
   },
   "18jqy83": {
     "id": "18jqy83",
@@ -4537,184 +4720,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 20:34:04 +0000"
-  },
-  "1x37hn2": {
-    "id": "1x37hn2",
-    "type": "news",
-    "headline": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
-    "dek": "Host Salman Khan intervened on the latest Weekend Ka Vaar episode to call out Qazi Touqeer over his conduct toward Manish Goel, emphasizing the importance of setting boundaries inside the house.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Manish Goel",
-        "Qazi Touqeer",
-        "Mahhi Vij"
-      ],
-      "titles": [
-        "Bigg Boss 20",
-        "Balika Vadhu"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss 20",
-      "Salman Khan",
-      "Manish Goel",
-      "Qazi Touqeer",
-      "Mahhi Vij"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/manishgoelqazitouqeerbiggboss20writtenupdate-27771794772419.jpg",
-        "caption": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 01:29:37 +0530"
-  },
-  "t0ku1e": {
-    "id": "t0ku1e",
-    "type": "news",
-    "headline": "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State",
-    "dek": "Writers-directors Alejandro Damiani and Martin Avdolov debut their social satire at the Tallinn Black Nights Film Festival, starring César Troncoso as a man fighting a Kafkaesque bureaucratic nightmare.",
-    "entities": {
-      "people": [
-        "Georg Szalai",
-        "Silvio Bertolini",
-        "Alejandro Damiani",
-        "Martin Avdolov",
-        "César Troncoso",
-        "Silvia Kutica",
-        "Néstor Guzzini",
-        "Maruja Bustamante",
-        "Mónica Gonzaga",
-        "Mirella Pascual",
-        "Manuel Branaa",
-        "Dan Avram",
-        "Martí Rocca",
-        "Federico Cetta",
-        "David Matamoros",
-        "Andrés Rosenblatt",
-        "Matías Burgos",
-        "Terry Gilliam",
-        "Ryan Gajewski",
-        "Kimberly Nordyke",
-        "Kirsten Chuba",
-        "Rick Porter",
-        "Erin Lassner",
-        "Mike Barnes",
-        "Lacey Rose",
-        "Nancy Jo Sales",
-        "Scott Roxborough"
-      ],
-      "titles": [
-        "When I Existed",
-        "Fatherland",
-        "Wild Horse Nine",
-        "Another Story of the World",
-        "Ebenezer",
-        "The Odyssey",
-        "Arrow for a Stone Heart",
-        "Guardians of the Galaxy",
-        "Man of Tomorrow",
-        "Superman",
-        "Spider-Man: Brand New Day",
-        "The Electric Company",
-        "Brazil"
-      ]
-    },
-    "keywords": [
-      "When I Existed film",
-      "Alejandro Damiani Martin Avdolov",
-      "César Troncoso When I Existed",
-      "Tallinn Black Nights Film Festival 2026"
-    ],
-    "images": [
-      {
-        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/When-I-Existed-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
-        "caption": "Tallinn Film Festival Satire 'When I Existed' Follows a Retired Pensioner Declared Dead by the State",
-        "source": "The Hollywood Reporter"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 19:12:00 +0000"
-  },
-  "143ih4p": {
-    "id": "143ih4p",
-    "type": "news",
-    "headline": "Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates",
-    "dek": "Discover the release timings, platform details, and upcoming plot twists for episodes 20 and 21 of the popular romantic Chinese drama Sunshine Through The Rain.",
-    "entities": {
-      "people": [
-        "Winwin",
-        "Dong Si Chen",
-        "Yang Chao Yue",
-        "Chen Yan",
-        "Zheng Yu",
-        "Chen Yanzhou",
-        "Yan Zhou",
-        "Gaoxing"
-      ],
-      "titles": [
-        "Sunshine Through The Rain"
-      ]
-    },
-    "keywords": [
-      "Sunshine Through The Rain episodes 20-21",
-      "Winwin Yang Chao Yue cdrama",
-      "Sunshine Through The Rain Netflix release",
-      "Sunshine Through The Rain MGTV time"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-15t172602-225-48031794743898.jpg",
-        "caption": "Sunshine Through The Rain Episodes 20-21 Release Schedule And Plot Updates",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 00:05:16 +0530"
-  },
-  "1dmqcbm": {
-    "id": "1dmqcbm",
-    "type": "news",
-    "headline": "Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff",
-    "dek": "Everything you need to know about Taylor Sheridan's upcoming Paramount+ series Frisco King, starring Samuel L. Jackson.",
-    "entities": {
-      "people": [
-        "Taylor Sheridan",
-        "Samuel L. Jackson",
-        "Asa Germann",
-        "Kai Caster",
-        "Lilah Pate",
-        "Savanna Gann",
-        "Sylvester Stallone"
-      ],
-      "titles": [
-        "Frisco King",
-        "Tulsa King",
-        "Scream 7",
-        "Gen V",
-        "Spider-Noir",
-        "Yellowstone",
-        "The Runarounds",
-        "The Summer I Turned Pretty",
-        "English Teacher",
-        "Tell Me Lies"
-      ]
-    },
-    "keywords": [
-      "Frisco King",
-      "Tulsa King spinoff",
-      "Samuel L. Jackson Frisco King",
-      "Frisco King release date",
-      "Taylor Sheridan Paramount+"
-    ],
-    "images": [
-      {
-        "url": "https://decider.com/wp-content/uploads/2026/11/Frisco-King.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
-        "caption": "Frisco King Release Date, Cast, and Streaming Details for the Tulsa King Spinoff",
-        "source": "Decider"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 13:30:00 -0500"
   },
   "eh6qc3": {
     "id": "eh6qc3",
