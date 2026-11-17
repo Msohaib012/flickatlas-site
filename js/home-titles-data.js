@@ -31138,5 +31138,506 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-24",
     "popularity": 1.3769
+  },
+  "1728590": {
+    "id": 1728590,
+    "type": "movie",
+    "title": "Nowhere to Lay My Eyes",
+    "poster_path": "/2c0g7UABkH4d1LsdXRTUsrnfaww.jpg",
+    "backdrop_path": "/5ejzX59SvGFWGlgBnfU35RCyf6U.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "With her brother, Sanghee visits her mother on Jeju Island. It’s been 10 years. Her mother's restaurant has become a hit. Her stepfather is making a film about a \"grass tomb\". His daughter has just started painting. Previously unknown facts, needless advice and cheap compliments are passed back and forth. On the morning of her departure, the other family members watch one of Sanghee's films.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-21",
+    "popularity": 1.1663
+  },
+  "1824404": {
+    "id": 1824404,
+    "type": "movie",
+    "title": "The Black Sea",
+    "poster_path": "/5Sg1mkK1sGgmKTKZcppLtyAa2Rz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a world where a deadly virus has made the night air fatal, a secret platform allows people to hire strangers to fulfill their darkest desires.",
+    "industry": "world",
+    "original_language": "ar",
+    "origin_country": [
+      "EG"
+    ],
+    "production_countries": [
+      "EG"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-24",
+    "popularity": 0.165
+  },
+  "1822873": {
+    "id": 1822873,
+    "type": "movie",
+    "title": "Darius Rucker: They Called Me Hootie",
+    "poster_path": "/ir7EsjwI0IBknrYt7JHaKGMIrqu.jpg",
+    "backdrop_path": "/brF22Atolq9py6u9HPVoWu63dIq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Darius Rucker gets deeply personal about the cost of stardom, revealing his struggles with drugs and alcohol, the breakdown of his marriage and brushes with death. Through candid interviews with collaborators, friends and family, new footage from the road and in the studio as he records his forthcoming album and never-before-seen tape dating back to the start of Hootie & the Blowfish, this documentary traces the full journey of his extraordinary career, revealing a deeply personal story of ambition, resilience and reinvention.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-16",
+    "popularity": 3.8901
+  },
+  "1824355": {
+    "id": 1824355,
+    "type": "movie",
+    "title": "Tago",
+    "poster_path": "/1BdAxOvqq9L91WCxqSUn029LNB7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a remote Georgian village surrounded by misty mountains, a local man discovers the body of a young stranger on the riverbank and takes him home to his wife and young son. The arrival of this unexpected guest disturbs the family’s already fragile life, forcing each member to make difficult and extreme decisions.",
+    "industry": "world",
+    "original_language": "ka",
+    "origin_country": [
+      "GE"
+    ],
+    "production_countries": [
+      "GE"
+    ],
+    "spoken_languages": [
+      "ka"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-24",
+    "popularity": 0.0498
+  },
+  "1773340": {
+    "id": 1773340,
+    "type": "movie",
+    "title": "Mistletoe and Mimosas",
+    "poster_path": "/nxU3FefyvZZ1dMDpJu1cgobJyeS.jpg",
+    "backdrop_path": "/mUpleDBBpu1W2uzkCO61ccaRTSp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After inheriting her uncle's struggling Christmas-themed bar, a Manhattan businesswoman competes with a rival club owner in a series of holiday challenges, only to find herself falling for him.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-15",
+    "popularity": 4.4607
+  },
+  "1280115": {
+    "id": 1280115,
+    "type": "movie",
+    "title": "Way of the Warrior Kid",
+    "poster_path": "/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop_path": "/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-24",
+    "popularity": 4.9152
+  },
+  "1786283": {
+    "id": 1786283,
+    "type": "movie",
+    "title": "Petardos y Magnolias",
+    "poster_path": "/ibsb5kB85uSnfzIBex4ikFEytql.jpg",
+    "backdrop_path": "/yaY0bmhK9sn1ZOPY0p2sJQnarXr.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.6682
+  },
+  "928382": {
+    "id": 928382,
+    "type": "movie",
+    "title": "Robert Wilson: The Beauty of the Mysterious",
+    "poster_path": "/nYcI6GIkyBAZu8BzDemE3FOoS3v.jpg",
+    "backdrop_path": "/ptDnijvXGi01B6FmlBpuDIdkajq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "We look back at more than half a century of mysterious artistic creation while trying to crack a unique artistic code. Why are people moved to tears when Robert “Bob” Wilson puts minimalistic petrol pumps into a production of Shakespeare’s sonnets? Why does merciless repetition change our understanding of something? Together with Tom Waits, Willem Dafoe or Marina Abramović we trace back our own experience of Bob’s art. Is it true what Philipp Glass the collaborator of the milestone piece “Einstein on the Beach” laughingly and with apparent pleasure exclaims “what does it mean? It doesn’t mean anything!”?",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de",
+      "en"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Carnegie Hall+ Apple TV channel",
+        "logo_path": "/bRwEVhplTJJbp47sUa2DFUpsE42.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Carnegie Hall+ Amazon Channel",
+        "logo_path": "/nKingkQ2DSIbQzbxgPf5v9M0AiP.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-24",
+    "popularity": 0.8517
+  },
+  "810688": {
+    "id": 810688,
+    "type": "movie",
+    "title": "Petit Tom",
+    "poster_path": "/vjDga2XxrjLg3gj2G4KMhKDpDQt.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Tom is 6 years old. With his camera, he films his mother, the dog, and the alley. Tom has difficulties with studying; he is hyperactive; he has anger issues at school; moreover, he eats crisps for supper. Tom is the son of Nathalie, a loving drug-addicted bipolar mother; the brother of Caroline, an escort who would like to go back to school; and the grandson of Madeleine, the grandmother tired of taking care of everyone. Petit Tom is a film about life and childhood in the setting of chaos, flowing time, family heritage, and motherly love.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR",
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-24",
+    "popularity": 0.2033
+  },
+  "1828101": {
+    "id": 1828101,
+    "type": "movie",
+    "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
+    "poster_path": "/d9moHIig8e21mN1RCk8zu80ld3k.jpg",
+    "backdrop_path": "/soJPwfGLYvFEuDCC25HsCLP2hjw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As Middle-earth's fate hangs in the balance, Sauron reaches the height of his power in his quest for the One Ring.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0
+  },
+  "1827515": {
+    "id": 1827515,
+    "type": "movie",
+    "title": "Retratos",
+    "poster_path": "/o23Oe7Ai80XyJJHFgMxHtGpgM3W.jpg",
+    "backdrop_path": "/pejYBCzysHjzb1rLbj4sxu09F53.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-23",
+    "popularity": 0.0388
+  },
+  "214582": {
+    "id": 214582,
+    "type": "tv",
+    "title": "The Devil's Plan",
+    "poster_path": "/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "backdrop_path": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
+    "vote_average": 7.59,
+    "vote_count": 122,
+    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "en",
+      "ko"
+    ],
+    "published_at": "2026-11-17",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2023-09-26",
+    "popularity": 38.8118
+  },
+  "1796007": {
+    "id": 1796007,
+    "type": "movie",
+    "title": "Portrait of Many Faces",
+    "poster_path": "/pJgPLn7mdSK891tktFb18Fl95Ai.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A documentary on the diverse and unique students of the IIT Madras BS Degree Programme in India, which strives to spread education to all.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "ta",
+      "en"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Eros Now Select Apple TV channel",
+        "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-10-12",
+    "popularity": 0.5133
+  },
+  "340950": {
+    "id": 340950,
+    "type": "tv",
+    "title": "Nine to Five",
+    "poster_path": "/di937feqgXtc8Kal8UbaBfjMI2u.jpg",
+    "backdrop_path": "/7MH2b5VS7THb6WqAMUM6yofsJYB.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A lifelong runner-up joins a cutthroat fin-tech startup where only one new hire makes the founder's elite unit. Can he finally be Number One?",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-17",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-10-16",
+    "popularity": 0.2621
+  },
+  "338849": {
+    "id": 338849,
+    "type": "tv",
+    "title": "Dark Corridor Files",
+    "poster_path": "/m82zlSdY8J3g3FDgmTUaxyzKlDU.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dark Corridor Files is a horror mystery series set in an abandoned hospital where a group of investigators explore a restricted corridor notorious for paranormal activity. Each episode uncovers hidden records and terrifying secrets.",
+    "industry": "pakistani",
+    "original_language": "en",
+    "origin_country": [
+      "CN",
+      "PK",
+      "KR",
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "zh",
+      "en",
+      "ko",
+      "ur"
+    ],
+    "published_at": "2026-11-17",
+    "status": "In Production",
+    "providers": [],
+    "first_air_date": "2026-10-17",
+    "popularity": 0.4264
+  },
+  "1591522": {
+    "id": 1591522,
+    "type": "movie",
+    "title": "The Eken: Kerala-e Kurukshetra",
+    "poster_path": "/xO0KApYGFu4V1obQzJIcU6GLy5j.jpg",
+    "backdrop_path": "/bd7hiZnhdk4Yw951bcuHqqfG7Hk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A few mysterious men from Kochi arrive out of nowhere and whisk away the ever-baffling Eken Babu to Kerala. As confusion turns into curiosity, Eken finds himself at the centre of a bizarre new mystery.",
+    "industry": "bollywood",
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "bn",
+      "ml",
+      "hi"
+    ],
+    "published_at": "2026-11-17",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-15",
+    "popularity": 1.3775
   }
 };

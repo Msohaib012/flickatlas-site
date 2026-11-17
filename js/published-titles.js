@@ -49786,5 +49786,889 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [],
     "providers_wtw": []
+  },
+  "1728590": {
+    "id": 1728590,
+    "type": "movie",
+    "title": "Nowhere to Lay My Eyes",
+    "poster_path": "/2c0g7UABkH4d1LsdXRTUsrnfaww.jpg",
+    "backdrop_path": "/5ejzX59SvGFWGlgBnfU35RCyf6U.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "With her brother, Sanghee visits her mother on Jeju Island. It’s been 10 years. Her mother's restaurant has become a hit. Her stepfather is making a film about a \"grass tomb\". His daughter has just started painting. Previously unknown facts, needless advice and cheap compliments are passed back and forth. On the morning of her departure, the other family members watch one of Sanghee's films.",
+    "industry": "world",
+    "popularity": 1.1663,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "12",
+    "release_date": "2026-10-21",
+    "date_kind": "release",
+    "runtime": 73,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1824404": {
+    "id": 1824404,
+    "type": "movie",
+    "title": "The Black Sea",
+    "poster_path": "/5Sg1mkK1sGgmKTKZcppLtyAa2Rz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a world where a deadly virus has made the night air fatal, a secret platform allows people to hire strangers to fulfill their darkest desires.",
+    "industry": "world",
+    "popularity": 0.165,
+    "original_language": "ar",
+    "origin_country": [
+      "EG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "EG"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-11-24",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1822873": {
+    "id": 1822873,
+    "type": "movie",
+    "title": "Darius Rucker: They Called Me Hootie",
+    "poster_path": "/ir7EsjwI0IBknrYt7JHaKGMIrqu.jpg",
+    "backdrop_path": "/brF22Atolq9py6u9HPVoWu63dIq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Darius Rucker gets deeply personal about the cost of stardom, revealing his struggles with drugs and alcohol, the breakdown of his marriage and brushes with death. Through candid interviews with collaborators, friends and family, new footage from the road and in the studio as he records his forthcoming album and never-before-seen tape dating back to the start of Hootie & the Blowfish, this documentary traces the full journey of his extraordinary career, revealing a deeply personal story of ambition, resilience and reinvention.",
+    "industry": "world",
+    "popularity": 3.8901,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "qsL7zmdi_1Y",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NC16",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 91,
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1824355": {
+    "id": 1824355,
+    "type": "movie",
+    "title": "Tago",
+    "poster_path": "/1BdAxOvqq9L91WCxqSUn029LNB7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a remote Georgian village surrounded by misty mountains, a local man discovers the body of a young stranger on the riverbank and takes him home to his wife and young son. The arrival of this unexpected guest disturbs the family’s already fragile life, forcing each member to make difficult and extreme decisions.",
+    "industry": "world",
+    "popularity": 0.0498,
+    "original_language": "ka",
+    "origin_country": [
+      "GE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "GE"
+    ],
+    "spoken_languages": [
+      "ka"
+    ],
+    "certification": "",
+    "release_date": "2026-11-24",
+    "date_kind": "festival",
+    "runtime": 86,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1773340": {
+    "id": 1773340,
+    "type": "movie",
+    "title": "Mistletoe and Mimosas",
+    "poster_path": "/nxU3FefyvZZ1dMDpJu1cgobJyeS.jpg",
+    "backdrop_path": "/mUpleDBBpu1W2uzkCO61ccaRTSp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After inheriting her uncle's struggling Christmas-themed bar, a Manhattan businesswoman competes with a rival club owner in a series of holiday challenges, only to find herself falling for him.",
+    "industry": "world",
+    "popularity": 4.4607,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1280115": {
+    "id": 1280115,
+    "type": "movie",
+    "title": "Way of the Warrior Kid",
+    "poster_path": "/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+    "backdrop_path": "/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+    "industry": "world",
+    "popularity": 4.9152,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "R1ECMLrwDYQ",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "It takes a hero to train one.",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-11-24",
+    "date_kind": "release",
+    "runtime": 106,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1786283": {
+    "id": 1786283,
+    "type": "movie",
+    "title": "Petardos y Magnolias",
+    "poster_path": "/ibsb5kB85uSnfzIBex4ikFEytql.jpg",
+    "backdrop_path": "/yaY0bmhK9sn1ZOPY0p2sJQnarXr.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.6682,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "B-15",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "928382": {
+    "id": 928382,
+    "type": "movie",
+    "title": "Robert Wilson: The Beauty of the Mysterious",
+    "poster_path": "/nYcI6GIkyBAZu8BzDemE3FOoS3v.jpg",
+    "backdrop_path": "/ptDnijvXGi01B6FmlBpuDIdkajq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "We look back at more than half a century of mysterious artistic creation while trying to crack a unique artistic code. Why are people moved to tears when Robert “Bob” Wilson puts minimalistic petrol pumps into a production of Shakespeare’s sonnets? Why does merciless repetition change our understanding of something? Together with Tom Waits, Willem Dafoe or Marina Abramović we trace back our own experience of Bob’s art. Is it true what Philipp Glass the collaborator of the milestone piece “Einstein on the Beach” laughingly and with apparent pleasure exclaims “what does it mean? It doesn’t mean anything!”?",
+    "industry": "world",
+    "popularity": 0.8517,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de",
+      "en"
+    ],
+    "certification": "18+",
+    "release_date": "2026-11-24",
+    "date_kind": "release",
+    "runtime": 52,
+    "providers": [
+      {
+        "name": "Carnegie Hall+ Apple TV channel",
+        "logo_path": "/bRwEVhplTJJbp47sUa2DFUpsE42.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Carnegie Hall+ Amazon Channel",
+        "logo_path": "/nKingkQ2DSIbQzbxgPf5v9M0AiP.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Carnegie Hall+ Apple TV channel",
+        "logo_path": "/bRwEVhplTJJbp47sUa2DFUpsE42.png",
+        "region": "US",
+        "kind": "flatrate"
+      },
+      {
+        "name": "Carnegie Hall+ Amazon Channel",
+        "logo_path": "/nKingkQ2DSIbQzbxgPf5v9M0AiP.png",
+        "region": "US",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "810688": {
+    "id": 810688,
+    "type": "movie",
+    "title": "Petit Tom",
+    "poster_path": "/vjDga2XxrjLg3gj2G4KMhKDpDQt.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Tom is 6 years old. With his camera, he films his mother, the dog, and the alley. Tom has difficulties with studying; he is hyperactive; he has anger issues at school; moreover, he eats crisps for supper. Tom is the son of Nathalie, a loving drug-addicted bipolar mother; the brother of Caroline, an escort who would like to go back to school; and the grandson of Madeleine, the grandmother tired of taking care of everyone. Petit Tom is a film about life and childhood in the setting of chaos, flowing time, family heritage, and motherly love.",
+    "industry": "world",
+    "popularity": 0.2033,
+    "original_language": "fr",
+    "origin_country": [
+      "FR",
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-24",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1828101": {
+    "id": 1828101,
+    "type": "movie",
+    "title": "The Lord of the Rings: The Rings of Power – Forging the One Ring",
+    "poster_path": "/d9moHIig8e21mN1RCk8zu80ld3k.jpg",
+    "backdrop_path": "/soJPwfGLYvFEuDCC25HsCLP2hjw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As Middle-earth's fate hangs in the balance, Sauron reaches the height of his power in his quest for the One Ring.",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "maP_Kyy3DCA",
+      "name": "The Rings of Power - Season 3 Official Trailer | Prime Video",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tagline": "SEE THE FORGING OF THE ONE RING EARLY IN THEATRES.",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 70,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1827515": {
+    "id": 1827515,
+    "type": "movie",
+    "title": "Retratos",
+    "poster_path": "/o23Oe7Ai80XyJJHFgMxHtGpgM3W.jpg",
+    "backdrop_path": "/pejYBCzysHjzb1rLbj4sxu09F53.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.0388,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "L",
+    "release_date": "2026-11-23",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [],
+    "providers_wtw": []
+  },
+  "214582": {
+    "id": 214582,
+    "type": "tv",
+    "title": "The Devil's Plan",
+    "poster_path": "/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "backdrop_path": "/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
+    "vote_average": 7.59,
+    "vote_count": 122,
+    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+    "industry": "world",
+    "popularity": 38.8118,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "dtaLR2G-zmc",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Reality"
+    ],
+    "tagline": "The return. The real showdown",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "en",
+      "ko"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2023-09-26",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 38,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 6,
+        "air_date": "2026-11-16",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2023-09-26",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 12,
+        "air_date": "2025-05-06",
+        "name": "Death Room"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 14,
+        "air_date": "2026-11-10",
+        "name": "Dead Again"
+      }
+    ],
+    "created_by": [
+      "Jeong Jong-yeon"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "1796007": {
+    "id": 1796007,
+    "type": "movie",
+    "title": "Portrait of Many Faces",
+    "poster_path": "/pJgPLn7mdSK891tktFb18Fl95Ai.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A documentary on the diverse and unique students of the IIT Madras BS Degree Programme in India, which strives to spread education to all.",
+    "industry": "bollywood",
+    "popularity": 0.5133,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "The IIT Madras BS Degree Story",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "ta",
+      "en"
+    ],
+    "certification": "U",
+    "release_date": "2026-10-12",
+    "date_kind": "release",
+    "runtime": 80,
+    "providers": [
+      {
+        "name": "Eros Now Select Apple TV channel",
+        "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "providers_wtw": [
+      {
+        "name": "Eros Now Select Apple TV channel",
+        "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+        "region": "IN",
+        "kind": "flatrate"
+      }
+    ]
+  },
+  "340950": {
+    "id": 340950,
+    "type": "tv",
+    "title": "Nine to Five",
+    "poster_path": "/di937feqgXtc8Kal8UbaBfjMI2u.jpg",
+    "backdrop_path": "/7MH2b5VS7THb6WqAMUM6yofsJYB.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A lifelong runner-up joins a cutthroat fin-tech startup where only one new hire makes the founder's elite unit. Can he finally be Number One?",
+    "industry": "bollywood",
+    "popularity": 0.2621,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-16",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-10-16",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "338849": {
+    "id": 338849,
+    "type": "tv",
+    "title": "Dark Corridor Files",
+    "poster_path": "/m82zlSdY8J3g3FDgmTUaxyzKlDU.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dark Corridor Files is a horror mystery series set in an abandoned hospital where a group of investigators explore a restricted corridor notorious for paranormal activity. Each episode uncovers hidden records and terrifying secrets.",
+    "industry": "pakistani",
+    "popularity": 0.4264,
+    "original_language": "en",
+    "origin_country": [
+      "CN",
+      "PK",
+      "KR",
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Dark Corridor Files is a horror mystery series set in an abandoned hospital where a group of investigators explore a restricted corridor notorious for paranormal activity.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "zh",
+      "en",
+      "ko",
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-17",
+    "networks": [
+      "AA Group of Production",
+      "HairCog Media"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "AA Group of Production",
+    "episode_run_time": [
+      54
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-10-17",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ahsan Ali Web Designer",
+      "AA Group Of Production",
+      "HairCog Media"
+    ],
+    "providers": [],
+    "providers_wtw": []
+  },
+  "1591522": {
+    "id": 1591522,
+    "type": "movie",
+    "title": "The Eken: Kerala-e Kurukshetra",
+    "poster_path": "/xO0KApYGFu4V1obQzJIcU6GLy5j.jpg",
+    "backdrop_path": "/bd7hiZnhdk4Yw951bcuHqqfG7Hk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A few mysterious men from Kochi arrive out of nowhere and whisk away the ever-baffling Eken Babu to Kerala. As confusion turns into curiosity, Eken finds himself at the centre of a bizarre new mystery.",
+    "industry": "bollywood",
+    "popularity": 1.3775,
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-17",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "bn",
+      "ml",
+      "hi"
+    ],
+    "certification": "U",
+    "release_date": "2026-10-15",
+    "date_kind": "release",
+    "runtime": 119,
+    "providers": [],
+    "providers_wtw": []
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-16T18:52:21Z",
-    "run_id": "43933055172",
-    "status": "success",
-    "checked": {
-     "candidates": 454,
-     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE! Will Micro-Dramas Replace Long-Format Shows? Expert Decodes Why Short Dramas Are Winning Over Gen Z",
-      "How To Rob A Bank Box Office: Nicholas Hoult Starrer Needs To Reach This Major Milestone To Break Even",
-      "O M Chapter 1: Mammootty pulls co star Dhanush’s leg at pre-release event; says ‘He cannot sleep without seeing me’",
-      "Dare Devil: Ajith Kumar’s action entertainer to feature Shiva Rajkumar as main antagonist? Here’s what we know",
-      "AICWA thanks Salman and Sonu for backing Sharad Kapoor: 'Real stars stand beside their own'",
-      "Now That We Know Who Is Playing James Bond, Who Could Be The Next Bond Girl?",
-      "Divorce Is A ‘Big Part’ Of JLo’s Story, But I Love How Well She Took This Fan Joke About It",
-      "Apple TV’s New Thriller Officially Adds a ‘Daredevil’ Favorite",
-      "'Hogwarts Legacy' Meets 'Stardew Valley' in This Near-Perfect Indie Cozy Game",
-      "The 10 Most Rewatchable HBO Shows of All Time, Ranked",
-      "6 Shows To Watch if You Love 'Beyond Belief: Fact or Fiction'",
-      "‘Ludwig’ Season 2 Teases One Final Mystery in New Look at the Finale",
-      "14 Years Later, ‘Twilight’ Officially Brings Its Original Stars Back Together",
-      "Tom Hardy and Pierce Brosnan’s Crime Thriller Officially Surges to No. 1 Before Finale",
-      "‘Miss Scarlet’ Replacement Officially Gets First Look",
-      "Florence Pugh’s James Bond Girl Odds Surge, But She Can’t Claim the Top Spot",
-      "Elon Musk Criticizes SNL & Jeremy Culhane’s Impression of Him: ‘Try Harder’",
-      "The Heart of the Beast’s Streaming Success Has Everyone Rewatching These Beloved Dog Movies",
-      "Taraji P. Henson & Tyler Perry Bring Incredible True Story to Life in New Movie Trailer",
-      "007 Fans Have One Major Issue With Robert Pattinson’s James Bond Casting"
-     ],
-     "updated": [],
-     "count": 435,
-     "detail": "448 stories, 0 duplicates removed, 6 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-16T19:51:18Z",
     "run_id": "43943528694",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "523 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-16T20:12:21Z",
-    "run_id": "43943528694",
+    "run_at": "2026-11-17T18:51:52Z",
+    "run_id": "44152165811",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 553,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Part 1 Crosses Rs 763 Crore in India on Day 12",
-      "Pop Star Charli xcx and Electronic Producers Hit Back at DJ John Summit Over 2027 Grammy Nominations Rant",
-      "Dhanush and Mammootty Starrer OM Operation Mole Completes Censor Formalities Ahead of Global Launch",
-      "Jack Lowden Secures Major Future for Slow Horses Following James Bond Casting Outcome"
+      "Blossom In Darkness Episodes 10-11 Release Timings: When Will NEW Eps Drop TODAY? Where To Stream Online?",
+      "Haiku OTT Release Date: When And Where To Watch Aegan, Sri Devi & Femina George's Tamil Romantic Drama Online",
+      "The Remarried Empress Episodes 7-8 Spoiler: Will Rashta's Secret Get EXPOSED? Sovieshu To Cross All Limits?",
+      "John Doe OTT Release: Where To Watch Arjun Das And Sanchana Natarajan's Film After Its Theatrical Run",
+      "EXCLUSIVE! Is Ayesha Singh Under Pressure After Ghum Hai Kisikey Pyaar Meiin And Mannat? She Says ‘Want More…’",
+      "The Remarried Empress Episode 7-8 Dailymotion: Where To Watch Shin Min-a, Ju Ji-hoon's Kdrama Online In India?",
+      "Donga Naa Koduku OTT Release: Where To Watch Mouli Tanuj Prashanth's Film After Its Theatrical Run",
+      "2027 Grammy Nominations: 'Varuvaaiy' Becomes First Tamil Song To Receive Grammy Nomination",
+      "OM Advance Booking Tamil Nadu: Dhanush And Mammootty's Film Nears ₹1 Crore In Opening Day Pre-Sales",
+      "Ali Fazal To Star In Richie Mehta's Adaptation Of E M Forster's A Passage To India - DEETS",
+      "Box Office: Ramayana Becomes Only Bollywood Film To Enter 50 Crore Club In Kerala – But Yash Turns The Real Winner Here!",
+      "Netflix’s The Body Ending, Explained: Is Grace Really The God The Show Wants Us To Believe?",
+      "Salman gifts luxury watches worth up to Rs 6 lakh each to cast and crew of 'Maatrubhumi'",
+      "'Ramayan' TV's Lakshman praises Yash's performance in 'Ramayana' but feels spiritual connection was absent",
+      "Pregnant Ciara on baby No. 5 with Russell Wilson, stress-free Christmas plans",
+      "Ali Fazal to star in A Passage to India series adaptation with Naseeruddin Shah, Fiona Shaw; Richie Mehta to direct",
+      "Ramayana box office collection day 13: Ranbir Kapoor, Yash's epic crosses  ₹820 crore despite second-week slowdown",
+      "This Week's FBI Had A Surprising Update, And I Needed To Know About A Potential Spinoff",
+      "I’m Worried NBC Is Going To Misunderstand Why The Traitors New Blood Isn't Hitting",
+      "As Johnny Depp Faces Pirates Of The Caribbean 6 Rumors, Another Star Weighs In On Returning"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 499,
+     "detail": "533 stories, 0 duplicates removed, 20 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-17T18:55:53Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
+      "DC Officially Confirms 2027 Batman Project With First Look",
+      "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
+      "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-16T20:12:22Z",
-    "run_id": "43943528694",
-    "status": "success",
-    "checked": {
-     "candidates": 356,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 345, coming 11"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,35 +1901,27 @@
      "detail": "now 363, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-17T18:55:53Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": {
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 367, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-16T20:38:25Z",
-    "run_id": "43943528694",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "gyg0qt",
-      "b7xhvm",
-      "1f1pv2e",
-      "bagt6x",
-      "1lh9owt",
-      "1x37hn2",
-      "pbth5o",
-      "19d8ylq"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2409,27 +2383,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-16T18:54:28Z",
-    "run_id": "43933055172",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-17T18:56:18Z",
+    "run_id": "44152165811",
     "status": "success",
     "checked": {
-     "candidates": 690,
-     "detail": "657 collected staging rows from readers; 229 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 669 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2843,19 +2816,27 @@
      "detail": "+0 new rows, 3 updated rows, 676 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-17T18:55:53Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": {
+     "candidates": 699,
+     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 676 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3092,32 +3073,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-16T20:38:24Z",
-    "run_id": "43943528694",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Pop Star Charli xcx and Electronic Producers Hit Back at DJ John Summit Over 2027 Grammy Nominations Rant",
-      "Dhanush and Mammootty Starrer OM Operation Mole Completes Censor Formalities Ahead of Global Launch",
-      "Jack Lowden Secures Major Future for Slow Horses Following James Bond Casting Outcome",
-      "Ramayana Part 1 Crosses Rs 763 Crore in India on Day 12"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3648,19 +3616,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-17T18:56:18Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
+      "DC Officially Confirms 2027 Batman Project With First Look",
+      "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
+      "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3890,60 +3871,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-16T18:53:04Z",
-    "run_id": "43933055172",
-    "status": "success",
-    "checked": {
-     "candidates": 514,
-     "sources": {
-      "trending": 19,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 37,
-      "pk_movies": 18
-     },
-     "picked": 16,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Queen (342272)",
-      "Astrodude: A SolarBalls Movie (1796177)",
-      "Christmas at Moose Lake (1665375)",
-      "Redes de Carrizo (1827159)",
-      "The Nights Before Christmas (1773345)",
-      "Soulala (1704035)",
-      "Expedition: Saving Our Seas (1826442)",
-      "Beril_XXX (1565810)",
-      "Treasure Island (333101)",
-      "Crash (226102)",
-      "Slow Horses (95480)",
-      "Kalpana Aur Yatharth (1794745)",
-      "Andhvishwas (337614)",
-      "和离后我带女儿横扫魔域 (340772)",
-      "Drones (1728763)"
-     ],
-     "updated": [],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4219,31 +4159,61 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-16T18:54:27Z",
-    "run_id": "43933055172",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-17T18:52:25Z",
+    "run_id": "44152165811",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 435 still unprocessed; today by category: movies 8/6, tv_dramas 15/4, episodes 1/2, box_office 12/6, celebrities_events 12/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 3/3, awards 3/2, music_ost 2/2, viral 2/2"
+     "candidates": 515,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 37,
+      "pk_movies": 18
+     },
+     "picked": 17,
+     "skipped": 1,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "How To Rob A Bank Box Office: Financial Milestone Needed For Profitability",
-      "Paramount+ Reveals Amusing First Trailer for New 2D Animated Garfield Series",
-      "Salman Khan and Sonu Sood Extend Support to Sharad Kapoor Following His Viral Appeal",
-      "Michael Connelly Clarifies His Role In Upcoming Bosch: Start Of Watch Series"
+      "Nowhere to Lay My Eyes (1728590)",
+      "The Black Sea (1824404)",
+      "Darius Rucker: They Called Me Hootie (1822873)",
+      "Tago (1824355)",
+      "Mistletoe and Mimosas (1773340)",
+      "Way of the Warrior Kid (1280115)",
+      "Petardos y Magnolias (1786283)",
+      "Robert Wilson: The Beauty of the Mysterious (928382)",
+      "Petit Tom (810688)",
+      "The Lord of the Rings: The Rings of Power – Forging the One Ring (1828101)",
+      "Retratos (1827515)",
+      "The Devil's Plan (214582)",
+      "Portrait of Many Faces (1796007)",
+      "Nine to Five (340950)",
+      "Dark Corridor Files (338849)",
+      "The Eken: Kerala-e Kurukshetra (1591522)"
      ],
      "updated": [],
-     "count": 4
+     "count": 16
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4749,19 +4719,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-17T18:55:52Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 499 still unprocessed; today by category: movies 11/6, tv_dramas 13/4, episodes 2/2, box_office 11/6, celebrities_events 11/5, upcoming_releases 11/4, ott_streaming 10/4, trailers 2/3, awards 4/2, music_ost 3/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
+      "DC Officially Confirms 2027 Batman Project With First Look",
+      "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
+      "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5075,24 +5057,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 387,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5437,24 +5414,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 391,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5794,24 +5771,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 71,
+     "count": 35,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6056,19 +6033,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 78,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6303,19 +6285,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6602,19 +6584,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6855,19 +6837,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7097,19 +7079,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7358,6 +7340,16 @@
     "category": "Trending News",
     "run_at": "2026-11-17T18:24:51Z",
     "run_id": "44141378979",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7873,21 +7865,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 36,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-16T20:38:34Z",
     "run_id": "43943528694",
     "status": "skipped",
@@ -8119,24 +8096,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-16T18:55:11Z",
-    "run_id": "43933055172",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 7270,
+     "count": 49,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8401,8 +8378,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-17T18:56:28Z",
+    "run_id": "44152165811",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11630,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-17T18:24:51Z"
+ "updated_at": "2026-11-17T18:56:28Z"
 }

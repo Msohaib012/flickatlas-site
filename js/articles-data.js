@@ -174423,5 +174423,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 16:30:12 GMT"
+  },
+  "1cr858k": {
+    "id": "1cr858k",
+    "type": "news",
+    "headline": "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
+    "dek": "Fans of the supernatural romance C-drama Blossom In Darkness can tune in for episodes 10 and 11 today, with specific release times and streaming platforms announced for international viewers.",
+    "body": [
+      {
+        "h": "Introduction To The Series",
+        "p": [
+          "The romantic supernatural fantasy C-drama Blossom In Darkness has quickly captured the attention of audiences following the buzz surrounding Sunshine Through The Rain. The show premiered last week and has since garnered fairly positive reactions from viewers tuning in for its unique blend of fantasy and romance."
+        ]
+      },
+      {
+        "h": "Source Material And Premise",
+        "p": [
+          "Adapted from the web novel Shi Wan Kuang Hua Ru Meng Lai, the storyline features Li Hong Yi and Su Zhen Ni in the lead roles. The plot centers on Qi Feng Yin, a powerful demon born from evil thoughts who was imprisoned within the Panic Mountain Barrier a thousand years ago after killing mortals and immortals."
+        ]
+      },
+      {
+        "h": "The Journey Of Ya Mao",
+        "p": [
+          "Alongside the demon protagonist is Ya Mao, a little Medicine Spirit born from the herb Huanyangcao who finds herself hunted by various people due to her magical physique. While attempting to escape her pursuers, she accidentally enters the barrier and disrupts Qi Feng Yin's attempt to obtain a human body, which scatters his evil thoughts."
+        ]
+      },
+      {
+        "h": "Release Timings For Episodes 10-11",
+        "p": [
+          "Amid growing interest in the series, Blossom In Darkness returns with two new episodes scheduled to drop today, Wednesday, November 18. According to the official release schedule, the new installments will premiere at 12:00 PM Beijing Time, which corresponds to 9:30 AM IST."
+        ]
+      },
+      {
+        "h": "Platform Availability And Access",
+        "p": [
+          "Viewers can access episodes 10 and 11 on Youku for SVIP subscribers, while regular VIP members can access earlier episodes. Fans located in India and other international regions can stream the latest episodes directly on Youku with English subtitles."
+        ]
+      },
+      {
+        "h": "Alternative Streaming Options",
+        "p": [
+          "In addition to the official primary platform, the new episodes may also appear on Dailymotion a few hours after their official premiere. Viewers can visit Dailymotion and search for the specific episode titles to check for available community uploads."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Blossom In Darkness is releasing its 10th and 11th episodes today, November 18, 2026, on Youku at 9:30 AM IST for viewers following the fantasy romance C-drama. The series stars Li Hong Yi and Su Zhen Ni, continuing the narrative of the trapped demon and the medicine spirit."
+        ]
+      }
+    ],
+    "facts": [
+      "Blossom In Darkness episodes 10-11 release date is November 18, 2026",
+      "Release time is 12:00 PM Beijing Time or 9:30 AM IST",
+      "Starring Li Hong Yi and Su Zhen Ni",
+      "Adapted from the web novel Shi Wan Kuang Hua Ru Meng Lai"
+    ],
+    "entities": {
+      "people": [
+        "Li Hong Yi",
+        "Su Zhen Ni"
+      ],
+      "titles": [
+        "Blossom In Darkness",
+        "Sunshine Through The Rain",
+        "Shi Wan Kuang Hua Ru Meng Lai"
+      ]
+    },
+    "keywords": [
+      "Blossom In Darkness",
+      "Li Hong Yi",
+      "Su Zhen Ni",
+      "Blossom In Darkness episodes 10-11"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-17t220131-029-89831794933096.jpg",
+        "caption": "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 00:15:08 +0530"
+  },
+  "eg290j": {
+    "id": "eg290j",
+    "type": "news",
+    "headline": "DC Officially Confirms 2027 Batman Project With First Look",
+    "dek": "DC Comics expands its lineup with Batman: Shadow of the Bat, a newly announced series reuniting the creative minds behind Absolute Martian Manhunter for a February 2027 release.",
+    "body": [
+      {
+        "h": "DC Announces 2027 Batman Project",
+        "p": [
+          "DC has officially confirmed a brand-new Batman project scheduled to launch in early 2027, bringing a fresh creative direction to the iconic DC Comics hero. The announcement arrives alongside the first preview look for the upcoming publication, sparking excitement among comic book readers.",
+          "The project forms part of the ongoing DC Next Level initiative, positioning the Caped Crusader at the forefront of the publisher's upcoming comic slate."
+        ]
+      },
+      {
+        "h": "Creative Team and Visual Style",
+        "p": [
+          "The new series reunites the Eisner-winning creative duo Deniz Camp and Javier Rodríguez, who previously collaborated on Absolute Martian Manhunter. The newly unveiled preview pages showcase the same psychedelic visual energy in Gotham City.",
+          "Rather than sticking to a traditional modern noir style, the comic utilizes bold pop-art color blocking and creative panel layouts, transforming the setting into a vibrant sensory experience."
+        ]
+      },
+      {
+        "h": "Plot and Storyline Details",
+        "p": [
+          "The narrative begins when a mysterious explosion occurs at an abandoned ACE Chemical plant, releasing a toxic green cloud over Gotham. Authorities respond by imposing martial law and placing an entire neighborhood under quarantine.",
+          "Inside this contaminated zone, unknown neuropharmacological agents cause residents to mutate and spiral into madness. Batman enters the toxic haze to rescue citizens and investigate, only for the chemical fallout to warp his own senses into a disorienting hallucinatory perception."
+        ]
+      },
+      {
+        "h": "Leadership Changes at DC Studios",
+        "p": [
+          "The announcement comes during a period of major strategic shifts, following a November 2026 leadership shake-up at DC Studios that has left live-action film plans facing various uncertainties.",
+          "Projects such as Andy Muschietti's The Brave and the Bold and Matt Reeves' potential third installment of The Batman franchise are experiencing developmental questions, while Robert Pattinson has also been cast as the next James Bond."
+        ]
+      },
+      {
+        "h": "History of Multiple Batman Projects",
+        "p": [
+          "Juggling simultaneous live-action and printed iterations of the Dark Knight is nothing new for DC, which frequently manages multiple parallel versions across different media platforms.",
+          "Throughout the 2010s, big-screen appearances coexisted alongside television shows like Gotham and Titans. More recently, Robert Pattinson's film debut overlapped with Ben Affleck's DCEU Dark Knight and Michael Keaton's return in The Flash."
+        ]
+      },
+      {
+        "h": "Release Information and Availability",
+        "p": [
+          "Batman: Shadow of the Bat is officially scheduled to become available on February 24 from DC Comics, offering readers a psychedelic new take on Bruce Wayne's world.",
+          "The preview pages released alongside the announcement give fans their first glimpse into the surreal mental landscape and toxic quarantine zone featured in the upcoming issues."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Comics has officially confirmed the upcoming February 2027 release of Batman: Shadow of the Bat from the creative duo Deniz Camp and Javier Rodríguez. The series departs from traditional noir visuals with a psychedelic pop-art aesthetic as Batman investigates a toxic chemical explosion in Gotham City."
+        ]
+      }
+    ],
+    "facts": [
+      "DC officially confirmed a new Batman project published in February 2027.",
+      "The project is titled Batman: Shadow of the Bat.",
+      "The creative team consists of Deniz Camp and Javier Rodríguez.",
+      "The story begins with an explosion at an abandoned ACE Chemical plant.",
+      "Batman: Shadow of the Bat releases on February 24 from DC Comics."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Ayala",
+        "Andy Muschietti",
+        "Matt Reeves",
+        "Robert Pattinson",
+        "Ben Affleck",
+        "Michael Keaton",
+        "Deniz Camp",
+        "Javier Rodríguez",
+        "Bob Kane",
+        "Bill Finger",
+        "John Jones"
+      ],
+      "titles": [
+        "The Brave and the Bold",
+        "The Batman",
+        "Gotham",
+        "Titans",
+        "The Flash",
+        "Absolute Martian Manhunter",
+        "Batman: Shadow of the Bat",
+        "Batman",
+        "Batman: Arkham City",
+        "Batman: Arkham Asylum",
+        "Batman: Arkham Knight",
+        "Gotham Knights",
+        "Batman: The Telltale Series",
+        "The Batman Part II"
+      ]
+    },
+    "keywords": [
+      "Batman Shadow of the Bat",
+      "Deniz Camp Javier Rodríguez",
+      "DC Comics February 2027",
+      "Absolute Martian Manhunter"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/dc-s-live-action-batman-stands-next-to-the-batmobile-in-official-movie-concept-art.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "DC Officially Confirms 2027 Batman Project With First Look",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:41:36 GMT"
+  },
+  "1e8qq8t": {
+    "id": "1e8qq8t",
+    "type": "news",
+    "headline": "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
+    "dek": "As the royal romance K-drama crosses its halfway mark, upcoming episodes promise intense confrontations, dark secrets, and dramatic royal fallout.",
+    "body": [
+      {
+        "h": "Midway Through the Royal Drama",
+        "p": [
+          "The royal romance drama The Remarried Empress has firmly captured the attention of international K-drama audiences. Based on Alpha Tart's widely read web novel, the series has officially passed its halfway point, bringing a flood of unpredictable narrative twists that leave viewers constantly guessing.",
+          "Despite encountering some critique, the production remains a major focal point for discussions across streaming communities. Fans eagerly dissect every single scene as the narrative moves swiftly toward its most critical turning points."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Key Characters",
+        "p": [
+          "The series features a prominent ensemble cast. Shin Min Ah stars as Navier, the dignified, brilliant, and elegant Empress of the Eastern Empire. Ju Ji Hoon portrays her husband, Emperor Sovieshu, who becomes entirely captivated by his mistress Rashta, played by Lee Se Young.",
+          "Rounding out the main cast is Lee Jong Suk in the role of Heinrey, the charming prince of the Western Kingdom. Together, these actors bring immense depth and emotional weight to the ongoing royal tensions."
+        ]
+      },
+      {
+        "h": "Recap of Last Week's Major Surprises",
+        "p": [
+          "In the previous fifth and sixth episodes, audiences learned that Rashta is pregnant, with the palace assuming Sovieshu is the father. Blinded by her appearance and charm, Sovieshu actively alienates Navier, creating a deep rift in their marriage.",
+          "Meanwhile, Prince Heinrey continues trying to grow closer to Navier, having developed genuine feelings for her. Last week's broadcasts concluded on a dramatic cliffhanger when an unknown assailant tried to attack Heinrey with a sword right after an emotional moment and embrace with Navier."
+        ]
+      },
+      {
+        "h": "The Identity of the Attacker Revealed",
+        "p": [
+          "Previews for the upcoming seventh and eighth episodes show that the sword-wielding intruder is actually Navier's brother, Kosair. Incensed by how Sovieshu and Rashta have treated his sister, Kosair intends to put a stop to their affair.",
+          "When Rashta attempts to approach Navier and Kosair in the palace gardens later, Kosair makes his profound dislike for her plainly obvious. Shortly after this encounter, Rashta sits down while clutching her stomach."
+        ]
+      },
+      {
+        "h": "Sovieshu's Wrath and Prison Sentences",
+        "p": [
+          "Upon discovering the confrontation, a furious Sovieshu blames both Navier and Kosair for Rashta's physical state, claiming their hostility endangered his unborn child. This leads Kosair to start investigating Rashta's background and family roots.",
+          "Kosair's snooping only infuriates the emperor further, resulting in Sovieshu having Navier's brother thrown straight into prison. Simultaneously, Navier grows increasingly suspicious of Rashta as whispers about the true paternity of the unborn child begin circulating through the halls."
+        ]
+      },
+      {
+        "h": "Heinrey's Steadfast Support",
+        "p": [
+          "Amidst the escalating chaos within the empire, Prince Heinrey poses a direct question to Navier, asking if she truly loves Sovieshu. His concern highlights his growing commitment to her.",
+          "Heinrey remains resolute in his determination to stand by Navier's side, offering a steady shoulder as she navigates this immensely difficult and politically perilous environment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Remarried Empress reaches its halfway mark with upcoming episodes 7 and 8 exploring the aftermath of Kosair's attack on Prince Heinrey. As Sovieshu imprisons Kosair for investigating Rashta's background and tensions mount over the pregnant mistress, Prince Heinrey stands by Navier."
+        ]
+      }
+    ],
+    "facts": [
+      "The Remarried Empress is adapted from Alpha Tart's web novel.",
+      "Shin Min Ah stars as Empress Navier.",
+      "Ju Ji Hoon stars as Emperor Sovieshu.",
+      "Lee Se Young stars as Rashta.",
+      "Lee Jong Suk stars as Prince Heinrey.",
+      "Episodes 7 and 8 premiere on Wednesday, November 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shin Min Ah",
+        "Ju Ji Hoon",
+        "Lee Jong Suk",
+        "Lee Se Young",
+        "Alpha Tart",
+        "Navier",
+        "Sovieshu",
+        "Rashta",
+        "Heinrey",
+        "Kosair"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Shin Min Ah",
+      "Ju Ji Hoon",
+      "The Remarried Empress episodes 7 8",
+      "Rashta and Sovieshu"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-17t212356-027-88171794930869.jpg",
+        "caption": "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 23:45:17 +0530"
+  },
+  "w0o9cb": {
+    "id": "w0o9cb",
+    "type": "news",
+    "headline": "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer",
+    "dek": "Moroccan and Monroe share candid thoughts about their parents and family life in the upcoming Netflix documentary series Raising The Cannons.",
+    "body": [
+      {
+        "h": "Introduction to Raising The Cannons",
+        "p": [
+          "A forthcoming documentary project on Netflix is set to spotlight the expansive and complex family life of media personality and host Nick Cannon. Titled Raising The Cannons, the upcoming series offers an unfiltered look into his bustling existence as a father to twelve children shared with six different mothers.",
+          "The show aims to move past public headlines to examine how Cannon balances a busy entertainment career, health challenges, and his extensive blended family dynamic. Scheduled to premiere on December 18, 2026, the program features intimate access to several members of his household."
+        ]
+      },
+      {
+        "h": "Candid Comments From the Eldest Twins",
+        "p": [
+          "Among the most striking moments in the newly released promotional trailer involves Nick's fifteen-year-old twins, Moroccan and Monroe, whom he shares with music icon Mariah Carey. While riding in a car with her father, Monroe delivers a blunt and emotional observation, telling him that he and Mariah would have reunited if he did not have so many children.",
+          "Later in the footage, Moroccan weighs in on the family setup as well, expressing his perspective that the fast-paced and crowded lifestyle is not sustainable. Their rare on-camera statements provide a glimpse into the emotional realities of growing up within such a uniquely structured household."
+        ]
+      },
+      {
+        "h": "Divorce History and Past Regrets",
+        "p": [
+          "The relationship between Nick and Mariah has long been a subject of public interest since their marriage came to an end. The pair separated in 2014, and their formal divorce proceedings were concluded in 2016.",
+          "Within the documentary trailer, Nick reflects on the breakup, acknowledging that his own ego pushed Mariah away. He has previously noted that disparities in their respective levels of fame and financial success played a major role in his decision to initiate the separation."
+        ]
+      },
+      {
+        "h": "Reflecting on a Trauma Response",
+        "p": [
+          "In earlier remarks made during a 2025 appearance on The Breakfast Club, Cannon opened up about the rapid arrival of his numerous children. He characterized the period as a carelessness rooted in a trauma response rather than deliberate acting out.",
+          "He admitted that having access to substantial financial resources allowed him to move through life without adequate pause. Looking back, he expressed that taking time for inner work and deeper consideration might have altered the course of several scenarios."
+        ]
+      },
+      {
+        "h": "The Larger Family and Participating Mothers",
+        "p": [
+          "Beyond Moroccan and Monroe, Nick is father to a large group of children with various partners. His sons include Golden Sagon, Rise Messiah, twins Zion Mixolydian and Zillion Heir, and Legendary Love, while his daughters consist of Powerful Queen, Beautiful Zeppelin, Onyx Ice, and Halo Marie. Tragically, his infant son Zen passed away at five months old in 2021.",
+          "Out of the six mothers connected to his children, four are participating in the Netflix production: Abby De La Rosa, Alyssa Scott, Bre Tiesi, and LaNisha Cole. Mariah Carey and Brittany Bell chosen not to take part in the series."
+        ]
+      },
+      {
+        "h": "Background on Brittany Bell",
+        "p": [
+          "Brittany Bell, who shares children with Cannon, recently achieved a significant academic milestone outside of the entertainment sphere. The former model and Miss USA 2010 contestant for Arizona earned a doctorate in psychology in 2026.",
+          "Her doctoral dissertation focused on fathers with children across multiple women, exploring identity development and the psychological impact of paternal involvement on kids. She noted that having her children present for that milestone made the accomplishment deeply meaningful."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nick Cannon's upcoming Netflix documentary Raising The Cannons features emotional commentary from his fifteen-year-old twins with Mariah Carey regarding their parents' past split and the family's expansive lifestyle. The series explores his journey raising twelve children with multiple mothers while addressing past relationship regrets and personal growth."
+        ]
+      }
+    ],
+    "facts": [
+      "Raising The Cannons premieres on December 18, 2026",
+      "Nick Cannon has 12 children with six different moms",
+      "Moroccan and Monroe are 15-year-old twins",
+      "Mariah Carey and Nick Cannon split in 2014 and divorced in 2016",
+      "Son Zen died at five months old in 2021",
+      "Brittany Bell earned a doctorate in psychology in 2026"
+    ],
+    "entities": {
+      "people": [
+        "Nick Cannon",
+        "Mariah Carey",
+        "Moroccan",
+        "Monroe",
+        "Golden Sagon",
+        "Rise Messiah",
+        "Zion Mixolydian",
+        "Zillion Heir",
+        "Legendary Love",
+        "Powerful Queen",
+        "Beautiful Zeppelin",
+        "Onyx Ice",
+        "Halo Marie",
+        "Zen",
+        "Abby De La Rosa",
+        "Alyssa Scott",
+        "Bre Tiesi",
+        "LaNisha Cole",
+        "Brittany Bell"
+      ],
+      "titles": [
+        "Raising The Cannons",
+        "The Masked Singer"
+      ]
+    },
+    "keywords": [
+      "Raising The Cannons Netflix",
+      "Nick Cannon documentary",
+      "Mariah Carey twins",
+      "Moroccan and Monroe",
+      "Nick Cannon children"
+    ],
+    "images": [
+      {
+        "url": "https://images.hellomagazine.com/horizon/landscape/1200/feefda8b26d9-snapins-ai3262269343586838452.jpg",
+        "caption": "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer",
+        "source": "HELLO! Magazine"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:13:37 GMT"
   }
 };

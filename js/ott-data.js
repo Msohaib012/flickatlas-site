@@ -154,6 +154,18 @@ window.FA_OTT = {
     {
       "date": "2026-11-16",
       "date_kind": "release",
+      "id": 1822873,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-16",
+      "date_kind": "release",
       "id": 1771047,
       "providers": [
         {
@@ -225,6 +237,34 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1820144,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-15",
+      "date_kind": "release",
+      "id": 1773340,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -2387,6 +2427,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-12",
+      "date_kind": "release",
+      "id": 1796007,
+      "providers": [
+        {
+          "logo_path": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+          "name": "Eros Now Select Apple TV channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-11",
       "date_kind": "release",
       "id": 312359,
@@ -4487,6 +4539,18 @@ window.FA_OTT = {
         {
           "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
           "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2023-09-26",
+      "date_kind": "release",
+      "id": 214582,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "tv"
