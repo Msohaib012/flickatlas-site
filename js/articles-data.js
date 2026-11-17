@@ -170630,5 +170630,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 08:44:51 +0000"
+  },
+  "ra7yhy": {
+    "id": "ra7yhy",
+    "type": "news",
+    "headline": "Actor Dhanush Faces Severe Social Media Backlash After Bouncers Violently Push Fan During Promotional Event",
+    "dek": "A public promotional event for Dhanush's upcoming film 'O.M' turned controversial when security personnel aggressively shoved a kneeling fan to the ground while the actor continued to smile without intervening.",
+    "body": [
+      {
+        "h": "The Viral Incident at the Promotional Event",
+        "p": [
+          "Celebrity sightings often create cherished moments for dedicated supporters who travel significant distances to catch a glimpse of their favorite film stars. However, a recent public appearance by prominent actor Dhanush has ignited intense public debate regarding celebrity culture and fan safety.",
+          "A video clip capturing a promotional event for Dhanush's upcoming cinematic project titled 'O.M' quickly circulated across multiple social media platforms, drawing widespread criticism from online users concerning the aggressive behavior exhibited by the event's security staff."
+        ]
+      },
+      {
+        "h": "Security Personnel Violently Push a Supporter",
+        "p": [
+          "In the widely shared video footage, a passionate admirer was observed kneeling close to the actor in an attempt to capture a quick selfie with him. Shortly after the enthusiast positioned himself next to the star, security personnel rushed toward the individual.",
+          "The guards forcefully pulled the admirer away from the space, resulting in the young man losing his balance and falling heavily to the ground. Despite the sudden physical altercation taking place right beside him, Dhanush appeared to maintain a smile and offered no verbal or physical response to the unfolding situation."
+        ]
+      },
+      {
+        "h": "Public Scrutiny and Criticisms on Social Media",
+        "p": [
+          "The lack of intervention from the performer quickly attracted sharp disapproval from the online community. Viewers and commentators expressed dismay that a prominent celebrity would remain entirely passive while a supporter was treated roughly by security guards.",
+          "This incident fueled ongoing discussions about the boundaries of fandom, the dignity of individuals who worship film stars, and the ethical responsibilities that public figures hold toward people who support their careers."
+        ]
+      },
+      {
+        "h": "Film Critic Blue Sattai Maran Questions Fan Self-Respect",
+        "p": [
+          "The controversy further escalated when notable film critic and social media personality Blue Sattai Maran publicly addressed the episode, critiquing both the security's actions and the admirer's behavior.",
+          "Through a public post, Maran questioned why a young man would choose to compromise his personal self-respect merely to secure a photographic moment with a cinematic star, highlighting the humiliation the supporter faced when shoved away by the guards."
+        ]
+      },
+      {
+        "h": "Broader Debates on Fan Obsession and Boundaries",
+        "p": [
+          "Maran's commentary introduced another layer to the digital conversation, prompting internet users to fiercely debate the psychological phenomenon of celebrity obsession and the excessive lengths some individuals go to in order to meet stars.",
+          "Commentators noted that while admiration for artists is common, supporters must also recognize personal boundaries and refrain from rushing uninvited toward actors during public gatherings."
+        ]
+      },
+      {
+        "h": "Balancing Celebrity Protection and Supporter Treatment",
+        "p": [
+          "The episode has also reignited conversations regarding the delicate balance required by security teams at crowded public events. While high-profile personalities undeniably require professional protection to manage large crowds, the manner in which security personnel handle enthusiastic attendees remains critical.",
+          "Industry observers point out that aggressive tactics employed by guards not only endanger fans but also damage the public image of the celebrities they are hired to protect, proving that capturing a memorable moment should never involve physical violence."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Dhanush faced heavy backlash on social media after a video showed his bouncers forcefully pushing a kneeling fan to the ground during a promotional event for his film 'O.M'. While the actor remained silent and continued to smile without intervening, film critic Blue Sattai Maran and online commentators questioned both the security's aggressive tactics and the fan's compromised self-respect, sparking a broader debate over fan obsession and celebrity safety protocols."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident occurred at a promotional event for Dhanush's film 'O.M'.",
+      "A fan knelt beside Dhanush to take a selfie before being pulled away and pushed to the ground by security personnel.",
+      "Actor Dhanush did not respond to the incident and appeared to continue smiling.",
+      "Film critic and social media personality Blue Sattai Maran criticized the fan's behavior and questioned his self-respect."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Blue Sattai Maran"
+      ],
+      "titles": [
+        "O.M"
+      ]
+    },
+    "keywords": [
+      "Dhanush O.M event",
+      "Dhanush bouncers fan push",
+      "Blue Sattai Maran Dhanush",
+      "Dhanush viral video controversy"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135919418,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Actor Dhanush Faces Severe Social Media Backlash After Bouncers Violently Push Fan During Promotional Event",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T15:07:41+05:30"
+  },
+  "1ju9dbg": {
+    "id": "1ju9dbg",
+    "type": "news",
+    "headline": "Below Deck Season 13 Episode 6 Review and Recap",
+    "dek": "A closer look at the crew dynamics, captain decisions, and mounting tensions in Below Deck Season 13 Episode 6.",
+    "body": [
+      {
+        "h": "Moe Rededicates Himself to the Galley",
+        "p": [
+          "Chef Moe overcomes his previous anxieties and finds his footing on the yacht after delivering a strong charter performance. Encouragement from his coworkers and the prospect of a trip to Tokyo with his daughter give him the motivation he needs to continue through the season.",
+          "Moe manages to satisfy the demanding preferences of the charter guests, including teenagers demanding chicken and extra side dishes at dinner. His successful service results in a solid tip distribution and leaves him feeling fully restored."
+        ]
+      },
+      {
+        "h": "Leadership Shakeup on Deck",
+        "p": [
+          "Captain Kerry decides to strip Alex of his bosun title following a chaotic docking procedure complicated by wrong-sized fender hooks and poor communication. Kerry promotes Matt to bosun, acknowledging his aggressive leadership style while warning him to keep his ego under control.",
+          "Matt's elevation to bosun follows an episode of overt negativity where he complains constantly about his tasks and his fellow crew members. Despite his toxic approach and lack of teamwork, his calculated maneuvering ultimately secures him the promotion he wanted."
+        ]
+      },
+      {
+        "h": "Interior Tensions and Rainbeau's Isolation",
+        "p": [
+          "Within the interior department, Rainbeau struggles to find her place among the crew and increasingly isolates herself from the other stews. Her strict demeanor during a beach picnic and her interactions with Kaylee and Rosa create friction and awkward working conditions.",
+          "Rainbeau's unusual communication style and perceived closeness with the deckhands leave the rest of the interior team feeling alienated. Meanwhile, Fraser maintains a relatively hands-off approach to the mounting interpersonal drama among his staff."
+        ]
+      },
+      {
+        "h": "Teenage Guests Bring Chaos",
+        "p": [
+          "The young charter guests, Madison and Paris, provide plenty of unpredictability and entertainment throughout the voyage. Their indecision regarding shore excursions and constant demands for alternative meal options keep the crew on their toes.",
+          "Although their behavior initially frustrates the service staff, the crew eventually adapts to their high-energy antics. The guests depart fully satisfied with their onboard experience, leaving a substantial tip for the crew to share."
+        ]
+      },
+      {
+        "h": "Romance and Self-Respect Among the Crew",
+        "p": [
+          "Romantic dynamics continue to shift as crew members navigate casual flings and set personal boundaries. Rosa demonstrates strong self-respect after James clarifies that he only wants a casual arrangement, deciding to focus on her financial goals instead.",
+          "Kaylee also recognizes the need to keep her guard up around Matt despite her initial attraction to him. These grounded reactions highlight a refreshing sense of independence among several members of the crew."
+        ]
+      },
+      {
+        "h": "Broader Franchise Concerns",
+        "p": [
+          "Outside the immediate events on the charter, the reality television community faces ongoing discussions regarding cast behavior and safety. Recent off-screen incidents involving franchise alumni highlight growing scrutiny over network casting protocols.",
+          "These developments prompt broader conversations about the culture surrounding reality shows and how production teams handle accountability. The ongoing controversies underscore the unpredictable nature of the talent featured across these popular programs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Below Deck Season 13 Episode 6 features a major leadership change on deck as Captain Kerry demotes Alex and promotes Matt to bosun. Meanwhile, Chef Moe successfully redeems his culinary performance, and off-screen developments bring renewed scrutiny to the franchise's casting choices."
+        ]
+      }
+    ],
+    "facts": [
+      "Below Deck Season 13 Episode 6 is titled Over the Rainbeau.",
+      "Captain Kerry promoted Matt to bosun and demoted Alex to lead deckhand.",
+      "The charter guests left a tip totaling $35,444, which equals $2,954 each.",
+      "João Franco was arrested in Turkey following a bar fight."
+    ],
+    "entities": {
+      "people": [
+        "Matt",
+        "Alex",
+        "Rainbeau",
+        "Moe",
+        "Kerry",
+        "James",
+        "Sen",
+        "Kaylee",
+        "Rosa",
+        "Fraser",
+        "Madison",
+        "Paris",
+        "João Franco"
+      ],
+      "titles": [
+        "Below Deck"
+      ]
+    },
+    "keywords": [
+      "Below Deck Over the Rainbeau",
+      "Below Deck Season 13 Episode 6",
+      "Captain Kerry Matt Alex bosun",
+      "João Franco arrested Turkey"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/30f/134/b566d088143d3b930f373daae13921963f-belowdeck-6-nov2026.1x.rsocial.w1200.png",
+        "caption": "Below Deck Season 13 Episode 6 Review and Recap",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-17T02:00:02.102Z"
+  },
+  "z1nlx2": {
+    "id": "z1nlx2",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 72 Highlights: Kanika Mann Defends Love Gill After Housemates Ganging Up",
+    "dek": "Kanika Mann fiercely defends Love Gill during a high-stakes nomination task in Bigg Boss 20 Episode 72, as housemates clash over alliances and rule-breaking leads to a ration penalty.",
+    "body": [
+      {
+        "h": "Introduction and Episode Overview",
+        "p": [
+          "Episode 72 of Bigg Boss 20 brought high tension to the house, centered heavily around controversies involving Love Gill and Kanika Mann. Following the Weekend Ka Vaar session hosted by Salman Khan, housemates quickly divided into separate cliques and began analyzing various equations within the dwelling.",
+          "The drama reached a boiling point during a fresh nomination task conducted by Bigg Boss. Multiple contestants targeted Love Gill and Kanika Mann for their recent gameplay and changing dynamics with fellow participants."
+        ]
+      },
+      {
+        "h": "Housemates Analyze Alliances",
+        "p": [
+          "In the aftermath of Salman Khan's weekend appearance, contestants gathered in different corners of the house to discuss shifting loyalties. Mahhi voiced her opinion that Gullu had lost his focus because Kanika could easily manipulate him.",
+          "Concurrently, Qazi Touqeer offered words of comfort and support to ScoutOP. Meanwhile, Arishfa Khan and Uditi Singh shared suspicions that Love Gill was using ScoutOP merely as a tactical tool to survive deeper into the game."
+        ]
+      },
+      {
+        "h": "Kanika Mann Shares Emotional Frustration",
+        "p": [
+          "Away from the main group discussions, Kanika Mann grew emotional while conversing with Gullu and Love Gill. She voiced deep disappointment regarding the show's makers and host, perceiving a clear favoritism shown toward Qazi Touqeer.",
+          "Kanika lamented that while Qazi received praise for his entertaining antics, she felt unable to mimic such behavior to stand out. She admitted that her initial perception of Bigg Boss as a pure test of true personalities had completely shifted."
+        ]
+      },
+      {
+        "h": "Rule Breakers Face Bigg Boss's Wrath",
+        "p": [
+          "The following morning began with ScoutOP expressing appreciation for Arishfa Khan's culinary skills after she served him parathas, drawing praise from both Scout and Qazi. However, outside the house, Love and Gullu spent time chatting on the sofa.",
+          "When Love mentioned wanting to stretch her legs, Gullu immediately adjusted the furniture for her. Bigg Boss observed this interaction, gathered everyone in the living area, and penalized the house by cutting 20 percent of their weekly ration for breaking multiple rules, while also ordering Love and Gullu to rearrange the sofas."
+        ]
+      },
+      {
+        "h": "Nomination Task Drama Unfolds",
+        "p": [
+          "Bigg Boss then summoned the contestants to the activity area for the nomination task. Because ScoutOP was already nominated for the entire season, he was exempt from being voted against and instead placed in the role of a bartender serving drinks to the housemates.",
+          "Contestants participated by throwing drinks onto the faces of their least favorite peers to nominate them. Love Gill accumulated the maximum number of votes as participants accused her of ruining Scout's game and sparking emotional outbursts."
+        ]
+      },
+      {
+        "h": "Kanika Stands Up For Love Gill",
+        "p": [
+          "Amidst the heavy accusations leveled by Yung DSA and Qazi Touqeer against Love Gill, Kanika Mann stepped in forcefully to defend her ally. She lashed out at Amrapali Dubey, Qazi, and Yung, demanding that they allow ScoutOP to speak for himself rather than fighting his battles.",
+          "Kanika declared that Scout was not a four-year-old child and criticized the group for collectively targeting Love. Aside from Love, contestants Mahhi, Gullu, and Arishfa also received significant votes during the intense session."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 72 of Bigg Boss 20 featured intense conflicts during a nomination task where Love Gill received maximum votes from housemates. Kanika Mann strongly defended Love against accusations from contestants like Qazi Touqeer and Yung DSA, while the entire house faced a 20 percent ration cut for breaking rules."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode number is 72",
+      "Air date is November 16, 2026",
+      "Host is Salman Khan",
+      "Kanika Mann stated Scout is not a four-year-old child",
+      "Bigg Boss cut 20 per cent of the weekly ration"
+    ],
+    "entities": {
+      "people": [
+        "Kanika Mann",
+        "Love Gill",
+        "Salman Khan",
+        "Yung DSA",
+        "Amrapali Dubey",
+        "Qazi Touqeer",
+        "Mahhi",
+        "Arishfa Khan",
+        "Uditi Singh",
+        "ScoutOP",
+        "Gullu"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 72",
+      "Kanika Mann Love Gill",
+      "Bigg Boss 20 nomination task",
+      "ScoutOP Bigg Boss"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156521103,thumbsize-606403,width-1280,height-720,resizemode-75/156521103.jpg",
+        "caption": "Bigg Boss 20 Episode 72 Highlights: Kanika Mann Defends Love Gill After Housemates Ganging Up",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T09:55:42Z"
+  },
+  "vyn1z7": {
+    "id": "vyn1z7",
+    "type": "news",
+    "headline": "The Simpsons Fans Fear 'Great Blackout' Prediction for November 17",
+    "dek": "Social media users are buzzing over an old episode of The Simpsons featuring a terrifying blackout storyline tied to a specific November date.",
+    "body": [
+      {
+        "h": "The Viral Internet Rumor",
+        "p": [
+          "A wave of anxiety has washed over social media as fans of The Simpsons point toward a specific date mentioned in an older episode. Viewers online are discussing whether the long-running animated comedy has accurately forecasted a major disaster.",
+          "The conversation centers on a potential 'Great Blackout' supposedly lined up for 17 November, sending many viewers scrambling to check their calendars and speculate about possible technological failures."
+        ]
+      },
+      {
+        "h": "The Episode in Question",
+        "p": [
+          "The storyline causing all the social media chatter originates from an episode titled It's a Blunderlife Life, which first came out in 2023. In this particular installment, the narrative jumps forward sixty years into the future.",
+          "During this flash-forward sequence, an older version of Lisa Simpson addresses a younger generation about a Thanksgiving observance known as 'Remembrance candles'. She details how the town of Springfield commemorates a catastrophic power outage that nearly ruined the community."
+        ]
+      },
+      {
+        "h": "Inside the Diary Entry",
+        "p": [
+          "According to the narrative presented by future Lisa, residents light these candles every Thanksgiving because they had to endure writing things down by hand during the massive crisis. She notes that the ordeal began on a chilly November day.",
+          "The show displays a diary page from a book labeled APOCALYPTIC memories, highlighting a 17 November entry about an approaching storm. Once the weather hits, Springfield loses power entirely for six consecutive days."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Real-World Comparisons",
+        "p": [
+          "Because the iconic animated series holds a famous reputation for seemingly predicting real-life occurrences like Donald Trump's presidency and Lady Gaga's Super Bowl performance, viewers take these fictional dates very seriously. Fans immediately took to platforms like X to share their concerns.",
+          "Some social media users joked about missing out on playing new video games, while others connected the date to broader concerns or past technical issues like recent major bank and Microsoft outages."
+        ]
+      },
+      {
+        "h": "Why the Prediction Does Not Add Up",
+        "p": [
+          "Despite the widespread panic and online speculation, closer inspection reveals several flaws in the theory that a real blackout is imminent. Most notably, the diary shown in the cartoon does not state a specific calendar year for the storm.",
+          "Furthermore, the episode establishes that the blackout occurred six days before Thanksgiving. With Thanksgiving falling on 26 November this year, the timeline does not align with the current calendar."
+        ]
+      },
+      {
+        "h": "Local Scale and Lack of Evidence",
+        "p": [
+          "Another reassuring detail is that the fictional disaster depicted in the animated program was strictly confined to Springfield rather than impacting the entire planet. Real-world experts point out that there is zero reliable evidence indicating a global power collapse.",
+          "While internet anxiety regarding extreme grid failures or 'black sky' scenarios continues to circulate online, civil contingency experts use that term primarily to describe theoretical crises requiring stockpiled supplies and wind-up radios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fans of The Simpsons online have expressed concern over a viral episode featuring a 17 November diary entry about a major power outage in Springfield. However, discrepancies in the calendar timeline and the fictional, localized nature of the event show there is no real-world threat of a global blackout."
+        ]
+      }
+    ],
+    "facts": [
+      "17 November",
+      "It's a Blunderlife Life",
+      "2023",
+      "60 years",
+      "six days",
+      "26 November"
+    ],
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Lady Gaga",
+        "Lisa Simpson",
+        "Homer",
+        "Mr Burns",
+        "Claire Reid"
+      ],
+      "titles": [
+        "The Simpsons",
+        "It's a Blunderlife Life"
+      ]
+    },
+    "keywords": [
+      "The Simpsons Great Blackout",
+      "It's a Blunderlife Life episode",
+      "The Simpsons 17 November prediction",
+      "Donald Trump",
+      "Lady Gaga"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blta3bbf130a3789e19/6afbaa11dc67bb7a9fc10c31/Screenshot_2026-11-17_at_14.10.27.png",
+        "caption": "The Simpsons Fans Fear 'Great Blackout' Prediction for November 17",
+        "source": "LADbible"
+      }
+    ],
+    "published": "2026-11-17T01:13:25.462Z"
   }
 };
