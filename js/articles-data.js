@@ -167419,5 +167419,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T01:51:40Z"
+  },
+  "wil0sy": {
+    "id": "wil0sy",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Collection Day 12: Ranbir Kapoor and Yash's Epic Nears Rs 800 Crore Milestone",
+    "dek": "The mythological epic continues its impressive theatrical journey, bringing in substantial numbers across multiple languages during its second week.",
+    "body": [
+      {
+        "h": "Strong Box Office Performance",
+        "p": [
+          "The mythological feature continues to draw heavy crowds to theatres across the nation. Even as the film enters its second week of exhibition, audience turnout remains exceptionally high, keeping ticket counters busy.",
+          "The Hindi version of the movie has consistently maintained the top position, while dubbed versions in various regional languages have significantly bolstered the pan-India box office numbers."
+        ]
+      },
+      {
+        "h": "Day 12 Earnings Breakdown",
+        "p": [
+          "On its twelfth day in cinemas, tracking data indicates that the feature pulled in Rs 32 crore net across India. This total was accumulated from a vast deployment of 22,365 shows nationwide.",
+          "The Hindi language screenings generated the lion's share with Rs 23.75 crore from 17,742 shows. Meanwhile, regional markets also delivered notable contributions to the daily tally."
+        ]
+      },
+      {
+        "h": "Regional Language Contributions",
+        "p": [
+          "Malayalam screenings brought in Rs 2.85 crore utilizing 1,061 shows, while Kannada language showings secured Rs 2 crore across 892 screenings.",
+          "Further augmenting the totals, Tamil language runs collected Rs 1.90 crore from 1,158 shows, and Telugu screenings contributed Rs 1.50 crore from 1,512 shows."
+        ]
+      },
+      {
+        "h": "Overall Totals and Milestones",
+        "p": [
+          "Although the daily revenue experienced a 57.3 percent drop compared to the eleventh day, the collective financial run remains remarkably robust.",
+          "With these latest additions, the total domestic net collection for the feature has reached Rs 792.60 crore, placing it firmly on the verge of the monumental Rs 800 crore threshold."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The project is spearheaded by Ranbir Kapoor portraying Lord Rama, Sai Pallavi playing Sita, and Yash appearing as Ravana. The narrative draws inspiration from multiple historical versions, including the Valmiki Ramayana.",
+          "The film was directed by Nitesh Tiwari, who additionally co-wrote the screenplay alongside Shridhar Raghavan. Production duties were managed by Namit Malhotra and Yash."
+        ]
+      },
+      {
+        "h": "Ensemble Supporting Cast and Sequels",
+        "p": [
+          "Alongside the primary leads, the extensive ensemble cast features Ravie Dubey, Addinath Kothare, Lara Dutta, Vivek Oberoi, Rakul Preet Singh, Indira Krishnan, and Arun Govil.",
+          "Makers have already established plans for a follow-up project, with a sequel slated for a theatrical release in 2028 that will incorporate Sunny Deol as Lord Hanuman."
+        ]
+      },
+      {
+        "h": "Festival Screening Honor",
+        "p": [
+          "Beyond commercial milestones, the cinematic piece has been selected to open the BRICS segment at the upcoming 57th International Film Festival of India hosted in Goa.",
+          "Set to commence on November 20, the festival segment aims to present international cinematic traditions from all eleven BRICS member nations alongside various partner countries."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has achieved a cumulative domestic net collection of Rs 792.60 crore by its twelfth day after earning Rs 32 crore on its second Monday. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the feature is swiftly approaching the Rs 800 crore mark while preparing for an upcoming festival screening at IFFI 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 earned Rs 32 crore net in India on day 12.",
+      "The film's India net collection stands at Rs 792.60 crore.",
+      "Day 12 earnings were spread across 22,365 shows.",
+      "The Hindi version contributed Rs 23.75 crore from 17,742 screenings.",
+      "Malayalam earned Rs 2.85 crore across 1,061 shows.",
+      "Kannada collected Rs 2 crore from 892 shows.",
+      "Tamil collected Rs 1.90 crore from 1,158 shows.",
+      "Telugu collected Rs 1.50 crore from 1,512 shows.",
+      "Daily earnings fell by 57.3% compared to day 11.",
+      "The film is directed by Nitesh Tiwari.",
+      "The screenplay was co-written by Nitesh Tiwari and Shridhar Raghavan.",
+      "The film is produced by Namit Malhotra and Yash.",
+      "The cast includes Ranbir Kapoor, Sai Pallavi, Yash, Ravie Dubey, Addinath Kothare, Lara Dutta, Vivek Oberoi, Rakul Preet Singh, Indira Krishnan, and Arun Govil.",
+      "The sequel featuring Sunny Deol as Lord Hanuman is slated for a 2028 theatrical release.",
+      "The film will open the BRICS segment at the 57th International Film Festival of India (IFFI) in Goa on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Addinath Kothare",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Indira Krishnan",
+        "Arun Govil",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Rise of a Legend",
+        "Valmiki Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office collection",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana day 12 earnings",
+      "Yash Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135906583,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Part 1 Box Office Collection Day 12: Ranbir Kapoor and Yash's Epic Nears Rs 800 Crore Milestone",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T06:21:14+05:30"
+  },
+  "1h8vj7l": {
+    "id": "1h8vj7l",
+    "type": "news",
+    "headline": "Jang Sung Kyu, Sooyoung, and Moon Sang Min to Lead 2026 KBS Drama Awards",
+    "dek": "KBS has officially announced the three star hosts for the upcoming year-end ceremony celebrating the network's top dramas and actors.",
+    "body": [
+      {
+        "h": "Announcement of the Hosting Lineup",
+        "p": [
+          "Broadcasting network KBS has officially revealed the trio chosen to lead the upcoming year-end gala. The announcement confirmed that Jang Sung Kyu, Sooyoung, and Moon Sang Min will take the stage as the masters of ceremonies for the event.",
+          "The ceremony is scheduled to air live on the final day of the year, providing viewers with a chance to reflect on the network's broadcast projects from the past twelve months."
+        ]
+      },
+      {
+        "h": "Jang Sung Kyu Returns for Fourth Consecutive Year",
+        "p": [
+          "Returning to helm the program once again is prominent presenter Jang Sung Kyu. His participation marks his fourth consecutive year hosting the gala since he first took on the role.",
+          "Beyond his annual duties for the network's year-end celebration, he maintains an active presence across multiple television domains, ranging from reality and variety programs to public affairs and educational broadcasts."
+        ]
+      },
+      {
+        "h": "Sooyoung Joins the Presenting Team",
+        "p": [
+          "Adding fresh energy to the hosting panel, actress Sooyoung has been selected to co-host the ceremony for her very first time. Her inclusion highlights her active involvement in the entertainment industry throughout the year.",
+          "Her recent artistic endeavors include acting in the feature film OK! Madam: Bon Voyage and performing on stage in the theatrical production The Merchant of Venice. Furthermore, she is lined up to star in an upcoming weekend television serial for the network titled I Went to School."
+        ]
+      },
+      {
+        "h": "Moon Sang Min Completes the Trio",
+        "p": [
+          "Rounding out the main presenting team, Moon Sang Min steps into the hosting role for the third year in a row. His consistent presence has made him a familiar face for the network's annual festivities.",
+          "During the past year, he played a prominent role in the network's television drama To My Beloved Thief, where he took on challenging dual roles and shared notable screen chemistry with his fellow performer Nam Ji Hyun."
+        ]
+      },
+      {
+        "h": "Significance of the Annual Gala",
+        "p": [
+          "The yearly event serves as a major platform for honoring the network's most successful programming and the performers who brought the stories to life for television audiences.",
+          "By bringing together experienced presenters and rising stars, the broadcast aims to deliver an engaging evening for fans of Korean television dramas worldwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "KBS announced that Jang Sung Kyu, Sooyoung, and Moon Sang Min will host the upcoming year-end awards ceremony broadcast live on December 31. The event celebrates the network's dramas and actors, featuring returning hosts alongside Sooyoung making her debut as an MC."
+        ]
+      }
+    ],
+    "facts": [
+      "Jang Sung Kyu, Sooyoung, and Moon Sang Min are the hosts for the 2026 KBS Drama Awards",
+      "KBS announced the hosts on November 17",
+      "The 2026 KBS Drama Awards will broadcast live on December 31",
+      "Jang Sung Kyu is hosting for the fourth consecutive year since 2023",
+      "Sooyoung is hosting for the first time",
+      "Sooyoung appeared in the film OK! Madam: Bon Voyage and the play The Merchant of Venice",
+      "Sooyoung will star in the upcoming KBS2 weekend drama I Went to School",
+      "Moon Sang Min is hosting for the third year in a row",
+      "Moon Sang Min starred in the KBS2 drama To My Beloved Thief and worked with Nam Ji Hyun"
+    ],
+    "entities": {
+      "people": [
+        "Jang Sung Kyu",
+        "Sooyoung",
+        "Moon Sang Min",
+        "Nam Ji Hyun",
+        "Choi Soo Young",
+        "S Kim"
+      ],
+      "titles": [
+        "OK! Madam: Bon Voyage",
+        "The Merchant of Venice",
+        "I Went to School",
+        "To My Beloved Thief",
+        "2026 KBS Drama Awards",
+        "2025 KBS Drama Awards"
+      ]
+    },
+    "keywords": [
+      "2026 KBS Drama Awards",
+      "Jang Sung Kyu",
+      "Sooyoung",
+      "Moon Sang Min",
+      "To My Beloved Thief"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17112650/kbs-drama-awards-2026.jpg",
+        "caption": "Jang Sung Kyu, Sooyoung, and Moon Sang Min to Lead 2026 KBS Drama Awards",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 02:42:08 +0000"
+  },
+  "1db0usn": {
+    "id": "1db0usn",
+    "type": "news",
+    "headline": "Suriya's Scene Nears ₹250 Crore Worldwide Milestone Following Second Weekend",
+    "dek": "Tamil action comedy Scene experiences a weekday dip on its 11th day in theatres, bringing its cumulative domestic net past ₹139 crore.",
+    "body": [
+      {
+        "h": "First Monday Box Office Performance",
+        "p": [
+          "The Tamil feature Scene experienced a substantial drop in its theatrical earnings at the start of the week, following a strong run through its second weekend. Box office tracking platform Sacnilk reported that the film brought in an estimated ₹2.85 crore net across domestic screens on its 11th day.",
+          "This shift marked a decline of roughly 69.4% compared to the ₹9.30 crore net registered on the previous day. The reduction in numbers highlights the typical weekday slowing after a profitable second weekend for the action comedy."
+        ]
+      },
+      {
+        "h": "Domestic Language Breakdown",
+        "p": [
+          "The regional distribution shows that the Tamil version contributed ₹2.05 crore net on Monday across 2,739 scheduled screenings. Meanwhile, the Telugu language version added another ₹80 lakh net through 1,209 shows during the same period.",
+          "Viewer engagement remained steady on Day 11, with the Tamil screenings recording an average occupancy of 20%. The Telugu prints achieved an approximate occupancy rate of 19% across their respective showings."
+        ]
+      },
+      {
+        "h": "Ticket Sales and Total Collections",
+        "p": [
+          "Audience turnout accounted for roughly 2,45,512 tickets sold across both language versions on the 11th day alone. This addition brings the overall reported ticket count to approximately 1.05 crore since the film's initial theatrical launch.",
+          "With Monday's figures factored in, the total domestic net collection has advanced to ₹139.35 crore in India. At the same time, the domestic gross has risen to reach an estimated ₹161.85 crore."
+        ]
+      },
+      {
+        "h": "International Earnings and Worldwide Gross",
+        "p": [
+          "Beyond domestic borders, the feature brought in approximately ₹1.50 crore from international markets on its 11th day. This overseas performance pushes the cumulative international gross to about ₹86 crore.",
+          "Combining the domestic and overseas totals, the Suriya-starrer has accumulated a worldwide gross collection of approximately ₹247.85 crore over its first 11 days. The title is now positioned closely to cross the ₹250 crore global gross milestone."
+        ]
+      },
+      {
+        "h": "Second Week Trajectory",
+        "p": [
+          "Reviewing the second-week timeline, the feature started with ₹6 crore net on Friday, November 13. Collections climbed significantly to ₹9.50 crore on Saturday before hovering around ₹9.30 crore on Sunday prior to the Monday drop.",
+          "During its initial seven days in cinemas, the project accumulated ₹111.70 crore net in India. The subsequent earnings from Days 8 through 11 contributed an additional ₹27.65 crore to the domestic net total."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Written and directed by Jithu Madhavan, Scene functions as a Tamil action comedy featuring Suriya, Naslen, and Nazriya Nazim in the primary roles. Supporting performances are delivered by actors including Anandraj, Lal, and Raj Priyan.",
+          "The production represents the Tamil directorial debut for Jithu Madhavan alongside the Tamil acting debut for Naslen and composer Sushin Shyam's debut in the industry. Production duties were managed by Suriya and Jyothika via Zhagaram Studios and 2D Entertainment, with cinematography by Vineeth Augustian, editing by Ajmal Sabu, and audiography by Vishnu Govind."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action comedy Scene saw a decline in its box office numbers on its 11th day following its second weekend, bringing in ₹2.85 crore net domestically. The film's total worldwide gross reached ₹247.85 crore as it approaches the ₹250 crore milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released worldwide on November 6, 2026.",
+      "Day 11 was Monday, November 16, 2026.",
+      "Day 11 India net collection was ₹2.85 crore.",
+      "Day 10 India net collection was ₹9.30 crore.",
+      "Total India net collection reached ₹139.35 crore.",
+      "Total domestic gross stands at ₹161.85 crore.",
+      "Tamil version Day 11 net collection was ₹2.05 crore across 2,739 shows.",
+      "Telugu version Day 11 net collection was ₹80 lakh across 1,209 shows.",
+      "Total reported ticket sales reached approximately 1.05 crore.",
+      "Day 11 overseas gross collection reached approximately ₹86 crore.",
+      "Total worldwide gross in the first 11 days is ₹247.85 crore.",
+      "Second week Friday net collection was ₹6 crore on November 13.",
+      "Second week Saturday net collection was ₹9.50 crore.",
+      "First seven days India net collection was ₹111.70 crore."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Nazriya Nazim",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Jithu Madhavan",
+        "Sushin Shyam",
+        "Jyothika",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Vishnu Govind"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Scene Day 11 collection",
+      "Scene worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-66851794882517.jpg",
+        "caption": "Suriya's Scene Nears ₹250 Crore Worldwide Milestone Following Second Weekend",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 07:59:02 +0530"
+  },
+  "11lgb5z": {
+    "id": "11lgb5z",
+    "type": "news",
+    "headline": "Star Trek Online Brings Back Return to Duty Starter Pack for Limited Time",
+    "dek": "The popular MMORPG is treating console players to a special bundle re-release as part of the ongoing 60th-anniversary celebrations.",
+    "body": [
+      {
+        "h": "Introduction to the 60th Anniversary",
+        "p": [
+          "The franchise's diamond anniversary has taken enthusiasts through an emotional rollercoaster of milestones over the course of 2026. Packed with major reveals and nostalgic tributes like The Original Voyages, the year offered countless avenues for fans to honor the beloved science fiction universe.",
+          "From new television shows to a massive Magic: The Gathering crossover and exclusive collectibles, the celebration has been robust, though it was deeply overshadowed by the heartbreaking passing of Sir Patrick Stewart in October."
+        ]
+      },
+      {
+        "h": "The Return to Duty Promotion",
+        "p": [
+          "To wrap up the commemorative year, Star Trek Online has announced the limited-time return of its popular Return to Duty Starter Pack. The promotion specifically targets console users, giving PlayStation and Xbox players another opportunity to bolster their in-game fleets.",
+          "While the bundle previously came back to PC players in October, the current rollout runs from November 14th through November 24th, giving users a narrow window to secure the package."
+        ]
+      },
+      {
+        "h": "Contents of the Starter Pack",
+        "p": [
+          "Designed for both veterans looking to tweak existing characters and newcomers seeking an edge, the bundle includes several valuable upgrades and customization tools. Among the highlights is the Kobayashi Maru Supply Device, which summons the famous freighter to provide powerful buffs during space combat.",
+          "Other inclusions range from a Captain Alteration Token and Experimental Ship Upgrade Token to Master Keys and Phoenix Universal Tech Upgrades, costing 1,500 Zen in the game's store."
+        ]
+      },
+      {
+        "h": "Additional Returning Bundles",
+        "p": [
+          "Alongside the main promotion, three extra packages have been made available during the limited-time event. The Undiscovered Mini-Bundle introduces Augmented Gorn Bridge Officers and exclusive uniforms for 2,800 Zen.",
+          "Additionally, the Herald Bundle focuses on Iconian-inspired equipment for 1,200 Zen, while the Frontier Day Mini Bundle features Tier 4 freighters and Vulcan customization options for just 550 Zen."
+        ]
+      },
+      {
+        "h": "Background of Star Trek Online",
+        "p": [
+          "Set primarily in the 25th century, the free-to-play MMORPG has continued expanding its universe throughout 2026. The title allows players to captain their own starships and engage in massive multiplayer adventures across the galaxy.",
+          "The return of these starter packs acts as a fitting continuation of the year-long festivities, offering practical in-game rewards for devoted followers of the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Star Trek Online has officially brought back its Return to Duty Starter Pack for Xbox and PlayStation players through November 24th. The limited-time promotion, alongside three other returning bundles, gives fans additional ways to celebrate the franchise's 60th anniversary before the year concludes."
+        ]
+      }
+    ],
+    "facts": [
+      "Sir Patrick Stewart passed away in October 2026.",
+      "The Return to Duty pack is available on Xbox and PlayStation from November 14th through November 24th.",
+      "The Return to Duty bundle costs 1,500 Zen.",
+      "The Undiscovered Mini-Bundle is priced at 2,800 Zen.",
+      "The Herald Bundle is priced at 1,200 Zen.",
+      "The Frontier Day Mini Bundle is available for 550 Zen."
+    ],
+    "entities": {
+      "people": [
+        "Sir Patrick Stewart"
+      ],
+      "titles": [
+        "Star Trek",
+        "Star Trek Online",
+        "The Original Voyages"
+      ]
+    },
+    "keywords": [
+      "Star Trek Online Return to Duty",
+      "Star Trek 60th anniversary 2026",
+      "Star Trek Online console bundles",
+      "Kobayashi Maru Supply Device"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/star-trek-nemesis-picard-and-tng-crew.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Star Trek Online Brings Back Return to Duty Starter Pack for Limited Time",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 02:00:18 GMT"
   }
 };

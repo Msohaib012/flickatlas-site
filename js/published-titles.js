@@ -16807,15 +16807,9 @@ window.FA_PUBLISHED = {
     "runtime": 107,
     "providers": [
       {
-        "name": "HBO Max Amazon Channel",
-        "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "HBO Max",
-        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
-        "region": "US",
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ]
@@ -40793,7 +40787,20 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": []
+    "providers": [
+      {
+        "name": "Peacock Premium",
+        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Peacock Premium Plus",
+        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1812462": {
     "id": 1812462,
@@ -44329,7 +44336,14 @@ window.FA_PUBLISHED = {
       "Kim Ri-heon",
       "Hong Jin-yi"
     ],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Kocowa Amazon Channel",
+        "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1588240": {
@@ -46802,7 +46816,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Charlie Brooker"
     ],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1826815": {

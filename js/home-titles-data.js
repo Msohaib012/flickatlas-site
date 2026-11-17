@@ -10571,15 +10571,9 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
-        "name": "HBO Max Amazon Channel",
-        "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "HBO Max",
-        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
-        "region": "US",
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
@@ -25805,7 +25799,20 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Peacock Premium",
+        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Peacock Premium Plus",
+        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-12",
     "popularity": 6.9904
   },
@@ -28046,7 +28053,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-14",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Kocowa Amazon Channel",
+        "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-14",
     "popularity": 6.7477
   },
@@ -29595,7 +29609,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-16",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-12",
     "popularity": 11.5756
   },

@@ -157,6 +157,18 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-14",
+      "date_kind": "release",
+      "id": 301354,
+      "providers": [
+        {
+          "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+          "name": "Kocowa Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-14",
       "date_kind": "digital",
       "id": 1716604,
       "providers": [
@@ -389,6 +401,34 @@ window.FA_OTT = {
         {
           "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
           "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 335981,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 249565,
+      "providers": [
+        {
+          "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+          "name": "Peacock Premium"
+        },
+        {
+          "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+          "name": "Peacock Premium Plus"
         }
       ],
       "type": "tv"
@@ -2856,12 +2896,8 @@ window.FA_OTT = {
       "id": 950028,
       "providers": [
         {
-          "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
-          "name": "HBO Max Amazon Channel"
-        },
-        {
-          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
-          "name": "HBO Max"
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
         }
       ],
       "type": "movie"
