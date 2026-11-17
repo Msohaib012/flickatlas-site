@@ -170224,5 +170224,411 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 06:58:15 +0000"
+  },
+  "9jn3pj": {
+    "id": "9jn3pj",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Nears Rs 1500 Crore Globally On Day 12",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana: Part 1 continues its strong theatrical journey, approaching the Rs 1500 crore milestone worldwide after twelve days.",
+    "body": [
+      {
+        "h": "Phenomenal Box Office Run",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 remains remarkably strong as it enters its twelfth day of release. Since premiering on November 5, the high-profile feature has sustained impressive numbers at the ticket windows globally.",
+          "Industry tracking indicates that the mythological epic is rapidly approaching the massive Rs 1500 crore threshold worldwide. Domestically, the film is steadily getting closer to the Rs 800 crore mark in total collections."
+        ]
+      },
+      {
+        "h": "Day 12 Collection Breakdown",
+        "p": [
+          "According to initial estimates from Sacnilk, the feature added Rs 32 crore to its domestic net earnings on its twelfth day. This latest addition brings the cumulative India net collection to Rs 792.60 crore, while the gross earnings domestically reached Rs 947.25 crore.",
+          "In international markets, the project pulled in an additional Rs 10 crore, pushing its overseas total to Rs 490 crore. Combined domestic and overseas gross figures bring the overall twelve-day collection to Rs 1,437.25 crore."
+        ]
+      },
+      {
+        "h": "Multilingual Performance Across India",
+        "p": [
+          "The Hindi version drove the majority of the domestic day 12 net earnings, contributing Rs 23.75 crore across 17,768 screenings. The Malayalam language version brought in Rs 2.85 crore from 1,065 shows.",
+          "Additional support came from regional markets, with the Kannada version collecting Rs 2 crore from 892 shows, the Tamil version adding Rs 1.90 crore from 1,158 shows, and the Telugu version contributing Rs 1.5 crore across 1,152 shows."
+        ]
+      },
+      {
+        "h": "Scale And Vision Of The Epic",
+        "p": [
+          "Ahead of the cinematic rollout, lead actor Ranbir Kapoor likened the scale and visual spectacle of the project to The Lord of the Rings. He described it as a major national epic featuring six hours of visual content, action sequences, and emotional depth.",
+          "The narrative explores multiple layers of storytelling focused on themes of righteousness and familial duty. The actor noted that the production aims to showcase the ultimate triumph of good over evil."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the feature stars Ranbir Kapoor as Lord Rama and Sai Pallavi as Goddess Sita. Yash takes on the role of Ravana, while Ravie Dubey portrays Lord Lakshman.",
+          "The extensive supporting lineup features prominent names such as Arun Govil, Indira Krishna, Sonal Jha, Rakul Preet Singh, Vivek Oberoi, Kajal Aggarwal, and Shobana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 continues its powerful box office streak on day 12, nearing the Rs 1500 crore milestone globally and closing in on Rs 800 crore domestically. Directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash, the epic adaptation has sustained strong multilingual earnings since its November release."
+        ]
+      }
+    ],
+    "facts": [
+      "The film released on November 5, 2026.",
+      "On day 12, Ramayana added Rs 32 crore net in India.",
+      "The total India net collection reached Rs 792.60 crore by day 12.",
+      "Domestic gross earnings reached Rs 947.25 crore by day 12.",
+      "Overseas collection stood at Rs 490 crore after adding Rs 10 crore on day 12.",
+      "Total worldwide gross collection reached Rs 1,437.25 crore on day 12.",
+      "The Hindi version earned Rs 23.75 crore from 17,768 shows on day 12.",
+      "The Malayalam version earned Rs 2.85 crore from 1,065 shows on day 12.",
+      "The Kannada version earned Rs 2 crore from 892 shows on day 12.",
+      "The Tamil version earned Rs 1.90 crore from 1,158 shows on day 12.",
+      "The Telugu version earned Rs 1.5 crore from 1,152 shows on day 12."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Indira Krishna",
+        "Sonal Jha",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kajal Aggarwal",
+        "Shobana",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "The Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana worldwide collection day 12",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156522628,thumbsize-1072779,width-1280,height-720,resizemode-75/156522628.jpg",
+        "caption": "Ramayana: Part 1 Box Office Nears Rs 1500 Crore Globally On Day 12",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T08:52:58Z"
+  },
+  "hzifud": {
+    "id": "hzifud",
+    "type": "news",
+    "headline": "Hulu Secures Season 5 Renewal for Legal Drama Ahead of Season 4 Finale",
+    "dek": "Hulu and Onyx Collective have officially locked in another season for their hit legal drama while riding record-breaking viewership numbers.",
+    "body": [
+      {
+        "h": "Early Season 5 Renewal Announcement",
+        "p": [
+          "Hulu and Onyx Collective have officially ordered a fifth season of their popular legal drama. The early pickup comes just prior to the release of the current chapter's final episode.",
+          "The show has continued to expand its footprint on the platform, cementing its status as a major returning scripted asset for the streaming service."
+        ]
+      },
+      {
+        "h": "Record-Breaking Viewership and Global Streaming",
+        "p": [
+          "The fourth chapter stands as the most-watched run in the history of the series. It achieved double-digit percentage increases across all prior metrics.",
+          "Global audiences have consumed over 150 million hours of the series combined across Hulu and Disney+. Furthermore, the newest episode saw a viewership surge of over 40 percent compared to the season debut based on single-day tallies."
+        ]
+      },
+      {
+        "h": "Milestone Standing on the Platform",
+        "p": [
+          "With this newly secured fifth chapter, the program secures its place among the longest-running scripted properties on Hulu. It currently trails only a select few titles in total season counts.",
+          "The series originally premiered on the platform in the year 2022, steadily building an extensive library of episodes over its multi-year run."
+        ]
+      },
+      {
+        "h": "Cast and Character Lineup",
+        "p": [
+          "The fourth season features core series regulars including Emayatzy Corinealdi, McKinley Freeman, Tim Jo, and Angela Grovey. Additional talent joining the ensemble this year includes Durrell \"Tank\" Babbs and Meagan Good.",
+          "Returning guest stars for the current run feature Morris Chestnut, Joseph Sikora, and Brandee Evans. The extended recurring cast includes La La Anthony, Rutina Wesley, Taylor Polidore Williams, DeVaughn Nixon, and Alexxis Lemire."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Direction",
+        "p": [
+          "The narrative picks up after a violent incident leaves the family and law practice of the main protagonist shaken and uncertain about their future.",
+          "With a prominent client caught up in a media storm, the legal team faces a high-stakes struggle where every choice dictates whether the firm survives or collapses."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "Raamla Mohamed Hunter serves as the creator, writer, and executive producer of the legal drama. Kerry Washington also executive produces alongside Pilar Savone for Simpson Street.",
+          "Additional production backing comes from Larry Wilmore for Wilmore Films, alongside executive producers Anton Cropper, Lena Cordina, Tamara Gregory, and Erika L. Johnson. The project is a production of Onyx Collective and 20th Television."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hulu and Onyx Collective have renewed the legal drama Reasonable Doubt for a fifth season ahead of its Season 4 finale on November 24, 2026. The series achieved its most-watched season yet, surpassing 150 million global streaming hours and earning a prominent spot among the platform's longest-running scripted titles."
+        ]
+      }
+    ],
+    "facts": [
+      "Hulu and Onyx Collective renewed Reasonable Doubt for Season 5 on November 17, 2026.",
+      "The Season 4 finale streams on November 24, 2026.",
+      "The series has been streamed for over 150 million hours globally across Hulu and Disney+.",
+      "The series first debuted in 2022."
+    ],
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Emayatzy Corinealdi",
+        "McKinley Freeman",
+        "Tim Jo",
+        "Angela Grovey",
+        "Durrell \"Tank\" Babbs",
+        "Meagan Good",
+        "Morris Chestnut",
+        "Joseph Sikora",
+        "Brandee Evans",
+        "La La Anthony",
+        "Rutina Wesley",
+        "Taylor Polidore Williams",
+        "DeVaughn Nixon",
+        "Alexxis Lemire",
+        "Raamla Mohamed Hunter",
+        "Kerry Washington",
+        "Pilar Savone",
+        "Larry Wilmore",
+        "Anton Cropper",
+        "Lena Cordina",
+        "Tamara Gregory",
+        "Erika L. Johnson"
+      ],
+      "titles": [
+        "Reasonable Doubt",
+        "The Handmaid's Tale",
+        "Solar Opposites",
+        "Only Murders in the Building"
+      ]
+    },
+    "keywords": [
+      "Reasonable Doubt Season 5",
+      "Hulu legal drama",
+      "Reasonable Doubt renewal",
+      "Emayatzy Corinealdi Reasonable Doubt"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Hulu.jpg?resize=1200,630",
+        "caption": "Hulu Secures Season 5 Renewal for Legal Drama Ahead of Season 4 Finale",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 08:41:42 +0000"
+  },
+  "15nbqne": {
+    "id": "15nbqne",
+    "type": "news",
+    "headline": "Robert Pattinson Officially Named As The New James Bond By Amazon MGM Studios",
+    "dek": "The Batman star Robert Pattinson has beaten out several contenders to become the next 007, with Denis Villeneuve set to direct the upcoming franchise entry.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "Amazon MGM Studios has finally ended months of speculation by officially unveiling Robert Pattinson as the next actor to take on the role of James Bond. The British star steps into the iconic tuxedo following a rigorous casting and audition process.",
+          "Prior to the big reveal, the official 007 social media channels cleared all historical posts to prepare for the introduction of the new secret agent. Fans were treated to an initial photograph of Pattinson dressed in a sharp black suit alongside the signature firearm, accompanied by a teaser video featuring the legendary theme music."
+        ]
+      },
+      {
+        "h": "Beating Out Tough Competition",
+        "p": [
+          "Pattinson secured the covetous role after competing against a shortlist of talented British and international actors. Other notable contenders in the mix included Callum Turner, Jack Lowden, and Josh O'Connor.",
+          "Both Pattinson and Nicholas Hoult entered the screen tests as late additions to the final stages of consideration. Director Denis Villeneuve expressed his gratitude to all the remarkable performers who participated in the extensive audition journey."
+        ]
+      },
+      {
+        "h": "Director Denis Villeneuve and Creative Team",
+        "p": [
+          "The upcoming Bond film will be directed by Denis Villeneuve, who previously collaborated with Pattinson on Dune: Part Three. Villeneuve noted that the newly chosen lead brings an entirely fresh energy to the long-running cinematic property.",
+          "The creative lineup behind the scenes features producers Amy Pascal and David Heyman, known for their work on the Spider-Man and Harry Potter franchises respectively. Tanya Lapointe serves as executive producer, while Peaky Blinders creator Steven Knight is handling the screenplay."
+        ]
+      },
+      {
+        "h": "Pattinson's Reaction to the Casting",
+        "p": [
+          "According to reports from The Hollywood Reporter, Pattinson learned he had won the role just a day before the public announcement, receiving the life-changing news directly from director Denis Villeneuve himself.",
+          "Reflecting on his new milestone, Pattinson described the opportunity as an incredible dream come true. He remarked that portraying one of cinema's most legendary characters and being entrusted with the 007 designation is the absolute honor of a lifetime."
+        ]
+      },
+      {
+        "h": "Prestige Legacy of 007",
+        "p": [
+          "By taking on this landmark assignment, Robert Pattinson joins an elite lineage of actors who have previously portrayed the MI5 operative on screen. This distinguished roster includes Sean Connery, David Niven, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig.",
+          "Each of these performers helped shape the international spy thriller franchise over several decades, leaving behind a massive cinematic legacy that Pattinson will now carry forward into its next era."
+        ]
+      },
+      {
+        "h": "An Incredible Career Year",
+        "p": [
+          "The casting news caps off an exceptionally busy and successful period for the British actor. His current slate features appearances in multiple films including The Drama, The Odyssey, and Primetime.",
+          "In addition to preparing for his future as the world's most famous secret agent, Pattinson has also been busy filming Matt Reeves's upcoming DC Studios production, The Batman: Part Two, scheduled for 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon MGM Studios has officially named Robert Pattinson as the new James Bond following months of anticipation and a competitive audition process involving actors like Callum Turner, Jack Lowden, and Josh O'Connor. Directed by Denis Villeneuve with a script by Steven Knight, the upcoming franchise entry marks a major milestone in Pattinson's career as he joins the prestigious legacy of 007 actors."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson is the new James Bond",
+      "Amazon MGM Studios unveiled the casting on November 16, 2026",
+      "Denis Villeneuve will direct the next Bond film",
+      "Steven Knight is writing the screenplay",
+      "Amy Pascal and David Heyman are producing",
+      "Tanya Lapointe is the executive producer",
+      "Other actors considered included Callum Turner, Jack Lowden, Josh O'Connor, and Nicholas Hoult"
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Denis Villeneuve",
+        "Callum Turner",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Nicholas Hoult",
+        "Sean Connery",
+        "David Niven",
+        "George Lazenby",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan",
+        "Daniel Craig",
+        "Amy Pascal",
+        "David Heyman",
+        "Tanya Lapointe",
+        "Steven Knight",
+        "Matt Reeves",
+        "Sonal Pandya"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "The Drama",
+        "The Odyssey",
+        "Primetime",
+        "The Batman: Part Two",
+        "Spider-Man",
+        "Harry Potter",
+        "Peaky Blinders",
+        "Slow Horses"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Denis Villeneuve Bond film",
+      "Amazon MGM Studios 007",
+      "Robert Pattinson new 007"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156520491,thumbsize-397012,width-1280,height-720,resizemode-75/156520491.jpg",
+        "caption": "Robert Pattinson Officially Named As The New James Bond By Amazon MGM Studios",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T08:52:58Z"
+  },
+  "1ilti98": {
+    "id": "1ilti98",
+    "type": "news",
+    "headline": "Sunshine through the Rain Wraps Up Its Run",
+    "dek": "The youth drama starring Yang Chao Yue and WinWin concludes its broadcast schedule after gaining widespread popularity.",
+    "body": [
+      {
+        "h": "Broadcast Conclusion",
+        "p": [
+          "The youth-oriented television series Sunshine through the Rain reaches its conclusion today on November 17, 2026. Fans of the production have followed the narrative arc since its debut, leading up to the final broadcast of the show's concluding chapters.",
+          "The program has maintained a consistent schedule across its broadcast platforms, bringing the storyline of its central characters to a definitive end for international and domestic audiences alike."
+        ]
+      },
+      {
+        "h": "Series Structure and Platforms",
+        "p": [
+          "Comprising a total of 24 episodes, the healing coming-of-age drama first premiered on November 6, 2026. Viewers in China accessed the episodes through Hunan TV and Mango TV, while international audiences watched via Netflix simultaneously.",
+          "The production was backed by Linmon Pictures, Youyisi, and Mango TV, with direction handled by Mao De Shu."
+        ]
+      },
+      {
+        "h": "Main Cast Members",
+        "p": [
+          "The leading roles were portrayed by Yang Chao Yue as Zheng Yu and WinWin, also known as Dong Si Cheng of WayV, as Chen Yan Zhou.",
+          "Their performances anchored the narrative, depicting the emotional growth and evolving relationship between the two primary characters throughout the series run."
+        ]
+      },
+      {
+        "h": "Popularity and Ratings",
+        "p": [
+          "During its broadcast run, the project emerged as one of the most-watched dramas in China, securing the No. 2 position on Maoyan's real-time streaming popularity chart on November 16.",
+          "Additionally, the series accumulated an 8.9 score on the MyDramaList platform, reflecting positive audience reception among community members."
+        ]
+      },
+      {
+        "h": "Music and Social Media Response",
+        "p": [
+          "The English insert song titled 5th, performed by independent musician Shi Yan Kai, gained traction among viewers. The track ascended the NetEase Cloud Music charts alongside the circulation of romantic clips featuring the main characters online.",
+          "Discussion surrounding the conclusion and audience reviews trended on Weibo in the lead-up to the final broadcast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 24-episode youth drama Sunshine through the Rain concludes its run on November 17, 2026, after premiering on November 6 across Hunan TV, Mango TV, and Netflix. Starring Yang Chao Yue and WinWin, the production achieved strong streaming metrics and viewer ratings while engaging fans globally."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunshine through the Rain airs its finale on November 17, 2026",
+      "The drama has 24 episodes",
+      "The series premiered on November 6, 2026",
+      "It is broadcast on Hunan TV, Mango TV, and Netflix",
+      "Yang Chao Yue plays Zheng Yu",
+      "WinWin plays Chen Yan Zhou",
+      "The show ranked No. 2 on Maoyan's real-time streaming popularity chart on November 16, 2026",
+      "It holds an 8.9 rating on MyDramaList",
+      "The English insert song is titled 5th by Shi Yan Kai"
+    ],
+    "entities": {
+      "people": [
+        "Yang Chao Yue",
+        "WinWin",
+        "Dong Si Cheng",
+        "Mao De Shu",
+        "Shi Yan Kai"
+      ],
+      "titles": [
+        "Sunshine through the Rain",
+        "Jin Tian Shi Tai Yang Yu"
+      ]
+    },
+    "keywords": [
+      "Sunshine through the Rain",
+      "Yang Chao Yue",
+      "WinWin Sunshine through the Rain",
+      "Sunshine through the Rain finale"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/VBBWzJ_2d.jpg",
+        "caption": "Sunshine through the Rain Wraps Up Its Run",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 08:44:51 +0000"
   }
 };
