@@ -169442,5 +169442,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 09:45:53 +0530"
+  },
+  "tj2x7j": {
+    "id": "tj2x7j",
+    "type": "news",
+    "headline": "The Expanse Returns With All-New Crew in Osiris Reborn",
+    "dek": "Owlcat Games reveals a brand-new gameplay trailer for The Expanse: Osiris Reborn, introducing players to a fresh crew and a Spring 2027 launch window.",
+    "body": [
+      {
+        "h": "The Return of a Beloved Sci-Fi Universe",
+        "p": [
+          "More than four years have passed since the original television series concluded its run, leaving a significant gap for enthusiasts of gritty science fiction. Now, the universe created by James S. A. Corey is expanding once again into the interactive gaming medium.",
+          "The upcoming title promises to capture the hard sci-fi concepts and engaging character dynamics that made the original adaptation a favorite among audiences worldwide."
+        ]
+      },
+      {
+        "h": "Gameplay and the New Captain Trailer",
+        "p": [
+          "Owlcat Games recently released a three-minute promotional clip titled Becoming a Captain, showcasing fresh mission footage and introducing the protagonist.",
+          "Players will step into the role of a customizable protagonist known simply as the Captain, voiced by Alice Himora, navigating combat scenarios and branching conversations."
+        ]
+      },
+      {
+        "h": "Branching Choices and RPG Mechanics",
+        "p": [
+          "The newly revealed footage highlights cover shooter mechanics alongside complex dialogue choices that let users shape their commander's persona and decisions.",
+          "These systems draw strong comparisons to classic role-playing adventures, offering deep interaction with non-player characters both inside and outside of active combat."
+        ]
+      },
+      {
+        "h": "Familiar Timelines and Potential Crossovers",
+        "p": [
+          "Chronologically, the narrative unfolds concurrently with the events of the television program's first two seasons, creating opportunities for overlapping story beats.",
+          "While the original protagonists will not be the primary focus, the timeline opens up possibilities for encounters with the infamous vessel known as the Rocinante."
+        ]
+      },
+      {
+        "h": "Filling the Void for Genre Fans",
+        "p": [
+          "With beloved franchises like BioWare's catalog facing an uncertain future, this interactive adaptation arrives at an opportune moment for enthusiasts craving deep cosmic storytelling.",
+          "The project utilizes modern visual technology to deliver striking graphics and intense combat encounters featuring heat-seeking grenades, drones, and traditional assault rifles."
+        ]
+      },
+      {
+        "h": "Release Details and Anticipation",
+        "p": [
+          "The Expanse: Osiris Reborn is scheduled to officially launch during the second quarter, specifically in the Spring of 2027.",
+          "As promotional materials continue to emerge, excitement builds among the fanbase for another journey into the far reaches of outer space."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Owlcat Games has released a new gameplay trailer for The Expanse: Osiris Reborn, showcasing branching dialogue options and combat mechanics ahead of its Spring 2027 release. The title takes place around the same time as the first two seasons of the television show and features a new protagonist voiced by Alice Himora."
+        ]
+      }
+    ],
+    "facts": [
+      "The Expanse: Osiris Reborn is scheduled to launch in Q2 of 2027, or Spring of 2027.",
+      "The game is developed and published by Owlcat Games.",
+      "The playable main character is voiced by Alice Himora.",
+      "The storyline takes place roughly around the same time as the first two seasons of the TV show.",
+      "The newly released YouTube trailer is three minutes long and titled Becoming a Captain."
+    ],
+    "entities": {
+      "people": [
+        "Paul Farrelly",
+        "James S. A. Corey",
+        "Alice Himora",
+        "James Holden"
+      ],
+      "titles": [
+        "The Expanse",
+        "The Expanse: Osiris Reborn",
+        "Mass Effect",
+        "Mass Effect 5",
+        "Grand Theft Auto 6"
+      ]
+    },
+    "keywords": [
+      "The Expanse Osiris Reborn",
+      "Owlcat Games",
+      "Alice Himora",
+      "The Expanse game trailer"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/the-expanse-osiris-reborn-characters.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Expanse Returns With All-New Crew in Osiris Reborn",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 04:00:18 GMT"
+  },
+  "4safyd": {
+    "id": "4safyd",
+    "type": "news",
+    "headline": "Tiger Shroff Returns to Social Media with Romantic Teaser Following October Firing Incident",
+    "dek": "Actor Tiger Shroff makes his social media comeback by dropping the teaser for his upcoming romantic single 'Tenu Leke Jaana', co-starring Ketika Sharma, amidst an ongoing police investigation into a shooting targeting him last month.",
+    "body": [
+      {
+        "h": "Social Media Comeback After Prolonged Silence",
+        "p": [
+          "Bollywood star Tiger Shroff has officially ended his social media hiatus following a harrowing security scare that occurred in October. Having maintained a very quiet profile online over the past few weeks due to ongoing safety concerns, the actor re-engaged with his supporters by sharing exciting professional updates.",
+          "His return to digital platforms was marked by overwhelming warmth from fans who expressed immense relief and happiness to see the action star active and focusing on his upcoming creative endeavors once again."
+        ]
+      },
+      {
+        "h": "Teaser Release of 'Tenu Leke Jaana'",
+        "p": [
+          "The focal point of his return is the newly unveiled promotional teaser for his upcoming music video titled 'Tenu Leke Jaana'. The romantic single pairs him alongside actress Ketika Sharma in what promises to be a visually striking track.",
+          "In the newly released preview clip, Tiger displays his trademark sculpted physique while sharing affectionate moments and strong romantic chemistry with Ketika. The full music video is scheduled for release on November 18."
+        ]
+      },
+      {
+        "h": "Direct Announcement on X",
+        "p": [
+          "Tiger took directly to X to give his followers a glimpse of the romantic project, pairing the announcement with a caption highlighting the musical theme of the video. He wrote about having one more chance and one more dance alongside the release date.",
+          "This announcement serves as his first major work-related post since the October incident, showing that he is ready to move forward and share his artistic ventures with the public."
+        ]
+      },
+      {
+        "h": "Details of the October 18 Firing Incident",
+        "p": [
+          "The context surrounding his temporary social media absence stems from a serious security incident on October 18, 2026. Two unidentified gunmen reportedly opened fire at the vehicle he was traveling in as he drove away from a football ground.",
+          "Law enforcement authorities immediately launched a comprehensive investigation into the attack. Police reports indicate that the probe remains active and ongoing, with fourteen individuals having been arrested so far in connection with the case."
+        ]
+      },
+      {
+        "h": "Actor Maintains Silence on the Investigation",
+        "p": [
+          "Despite intense media speculation and public concern following the shooting, Tiger has chosen not to make any public remarks regarding the criminal investigation. He has opted to let law enforcement handle the probe without issuing personal statements.",
+          "By focusing entirely on his professional output rather than the ongoing legal proceedings, the actor appears to be channeling his energy back into his career."
+        ]
+      },
+      {
+        "h": "Upcoming Film Projects: 'Lag Jaa Gale'",
+        "p": [
+          "Beyond his musical collaboration with Ketika Sharma, Tiger has a busy slate of feature films lined up for the near future. His next major theatrical release is titled 'Lag Jaa Gale'.",
+          "The film features an ensemble cast including Janhvi Kapoor and Lakshya. Reports indicate that the production recently wrapped up its filming schedules in Pune and is slated to arrive in cinemas on May 14, 2027."
+        ]
+      },
+      {
+        "h": "Collaboration with Remo D'Souza",
+        "p": [
+          "In addition to 'Lag Jaa Gale', the actor has signed on for another high-profile cinematic venture. This upcoming project will be directed by well-known filmmaker and choreographer Remo D'Souza.",
+          "These successive film announcements demonstrate that Tiger's career momentum remains uninterrupted despite the recent personal challenges he has faced."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tiger Shroff returned to social media after a month-long low profile following an October 18 firing incident where two gunmen targeted his car. He shared the romantic teaser for his upcoming music video 'Tenu Leke Jaana', featuring Ketika Sharma and releasing on November 18, while police continue an ongoing probe with 14 arrests made. Additionally, the actor has upcoming film projects including 'Lag Jaa Gale' releasing on May 14, 2027, and a Remo D'Souza directorial."
+        ]
+      }
+    ],
+    "facts": [
+      "Tiger Shroff shared the teaser for 'Tenu Leke Jaana' on social media.",
+      "The music video features Tiger Shroff and Ketika Sharma.",
+      "The single 'Tenu Leke Jaana' releases on November 18.",
+      "Two gunmen allegedly fired at Tiger Shroff on October 18, 2026.",
+      "Fourteen people have been arrested in connection with the firing incident.",
+      "Tiger Shroff's upcoming film 'Lag Jaa Gale' co-stars Janhvi Kapoor and Lakshya.",
+      "Filming for 'Lag Jaa Gale' wrapped up in Pune.",
+      "'Lag Jaa Gale' is scheduled to release on May 14, 2027.",
+      "Tiger Shroff has another upcoming film directed by Remo D'Souza."
+    ],
+    "entities": {
+      "people": [
+        "Tiger Shroff",
+        "Ketika Sharma",
+        "Janhvi Kapoor",
+        "Lakshya",
+        "Remo D'Souza"
+      ],
+      "titles": [
+        "Tenu Leke Jaana",
+        "Lag Jaa Gale"
+      ]
+    },
+    "keywords": [
+      "Tiger Shroff Tenu Leke Jaana",
+      "Tiger Shroff firing incident",
+      "Ketika Sharma Tenu Leke Jaana",
+      "Lag Jaa Gale release date",
+      "Tiger Shroff upcoming films"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135909150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Tiger Shroff Returns to Social Media with Romantic Teaser Following October Firing Incident",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T09:10:27+05:30"
+  },
+  "1b9mj15": {
+    "id": "1b9mj15",
+    "type": "news",
+    "headline": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
+    "dek": "The hit action franchise on Amazon is growing with a brand new Vietnam War prequel series centered on Tom Reece.",
+    "body": [
+      {
+        "h": "Expanding the Franchise",
+        "p": [
+          "Amazon Prime Video is continuing to build out its military action franchise with a brand new prequel series. Titled Cry Havoc, the upcoming project draws its inspiration from the novel of the same name written by Jack Carr. This addition marks the third television entry in the growing universe.",
+          "The expanding ecosystem around the main program demonstrates a strong commitment from the platform to explore different eras and perspectives within Carr's literary world. Fans of the original adaptations will soon have even more content to explore as the universe broadens its scope."
+        ]
+      },
+      {
+        "h": "Focusing on Tom Reece",
+        "p": [
+          "While the main series follows James Reece, the prequel shifts its narrative focus to the character's father, Tom Reece. The storyline explores his experiences and service as a Navy SEAL during the Vietnam War. This background provides a deeper look into the family history that shaped the protagonist of the original stories.",
+          "Viewers were previously introduced to the elder Reece during the second season of the parent show. Actor David Keeley brought the role to life across four episodes, setting the stage for this dedicated exploration of the character's earlier military career."
+        ]
+      },
+      {
+        "h": "Connecting the Universe",
+        "p": [
+          "Cry Havoc joins an already established lineup that includes the flagship series starring Chris Pratt as well as the spin-off project titled The Terminal List: Dark Wolf, which features Taylor Kitsch. The original show initially premiered in 2022 and eventually returned for its second season in October 2026.",
+          "In addition to these ongoing projects, Chris Pratt is slated to reprise his role in Savage Son, which draws from another book by the same author. It remains to be determined whether this particular adaptation will manifest as a third season of the main show or take the form of another independent spinoff."
+        ]
+      },
+      {
+        "h": "Creative Leadership",
+        "p": [
+          "The development of the prequel is being spearheaded by a dedicated team of creators and producers. Max Adams, Jared Shaw, David Digilio, and author Jack Carr are all collaborating to bring the television project to fruition. Their combined efforts aim to maintain the gritty, authentic tone established by the previous entries.",
+          "Behind the scenes, Max Adams and David Digilio took on the responsibility of penning the pilot script. Furthermore, all four key developers serve as executive producers on the show, with Digilio taking charge of the production as the official showrunner."
+        ]
+      },
+      {
+        "h": "Literary Origins",
+        "p": [
+          "The entire television franchise traces its roots back to the popular novels penned by Jack Carr. While the flagship series adapts the books centering on James Reece, the new venture shifts to the prequel novel Cry Havoc to explore a different generation of military service.",
+          "This deep reliance on established literary material ensures that the television adaptations stay true to the tactical detail and character-driven plots that fans of the book series have come to expect from the author's work."
+        ]
+      },
+      {
+        "h": "Broader Context",
+        "p": [
+          "The announcement of the prequel highlights Amazon Prime Video's ongoing investment in high-profile action properties. By leveraging multiple books and branching out into different time periods, the platform is creating a comprehensive viewing experience for military fiction enthusiasts.",
+          "As production details continue to emerge, the anticipation among followers of the franchise remains high. The combination of established creative talent and rich source material positions the new series as a major addition to the streaming service's catalog."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video is expanding The Terminal List universe with a Vietnam War prequel series titled Cry Havoc, based on Jack Carr's novel. The show follows Tom Reece during his time as a Navy SEAL, with development led by Max Adams, Jared Shaw, David Digilio, and Carr."
+        ]
+      }
+    ],
+    "facts": [
+      "Amazon Prime Video is adding a new prequel series titled Cry Havoc based on the novel by Jack Carr.",
+      "The prequel follows Tom Reece during his time as a Navy SEAL serving in the Vietnam war.",
+      "Tom Reece was introduced in the parent show's second season, played by David Keeley for four episodes.",
+      "Cry Havoc adds a third show to the franchise, which includes the original series starring Chris Pratt and The Terminal List: Dark Wolf starring Taylor Kitsch.",
+      "The second season of The Terminal List returned in October 2026 after premiering in 2022.",
+      "Chris Pratt is set to reprise his role in Savage Son.",
+      "The prequel will be developed by Max Adams, Jared Shaw, David Digilio, and Jack Carr.",
+      "Max Adams and David Digilio penned the pilot script.",
+      "David Digilio acts as a showrunner and all four are executive producers."
+    ],
+    "entities": {
+      "people": [
+        "Jack Carr",
+        "Tom Reece",
+        "James Reece",
+        "David Keeley",
+        "Chris Pratt",
+        "Taylor Kitsch",
+        "Max Adams",
+        "Jared Shaw",
+        "David Digilio"
+      ],
+      "titles": [
+        "The Terminal List",
+        "Cry Havoc",
+        "The Terminal List: Dark Wolf",
+        "Savage Son"
+      ]
+    },
+    "keywords": [
+      "The Terminal List",
+      "Cry Havoc prequel",
+      "Jack Carr novel",
+      "Tom Reece Navy SEAL",
+      "Amazon Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/cry-havoc-terminal-list-prequel.jpg",
+        "caption": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 04:00:13 +0000"
+  },
+  "1wjboag": {
+    "id": "1wjboag",
+    "type": "news",
+    "headline": "Ramayana Overseas Box Office: Highest Grossing Indian Film In Phase 1 Takes Only 11 Days",
+    "dek": "Ramayana has achieved a historic milestone by crossing $51.75 million overseas in just 11 days, becoming the highest-grossing Indian film of all time in Phase 1.",
+    "body": [
+      {
+        "h": "Introduction to the Global Phenomenon",
+        "p": [
+          "International box office history has been thoroughly rewritten as Ramayana surges ahead globally. In a remarkably swift theatrical run lasting only 11 days, the movie has emerged as the highest-grossing Indian film of all time in Phase 1.",
+          "The project has achieved the unthinkable by accumulating a massive $51.75 million overseas, setting a brand new benchmark for Indian cinema on foreign shores."
+        ]
+      },
+      {
+        "h": "Dismantling Phase 1 Records",
+        "p": [
+          "By crossing the $50 million threshold in record-breaking time, Ramayana has dismantled the lifetime Phase 1 overseas records held by prominent titles such as Dhurandhar 2, Pathaan, Jawan, and Baahubali 2.",
+          "This rapid ascent has simultaneously propelled the film directly into the top seven highest-grossing Indian films overseas when counting all phases combined."
+        ]
+      },
+      {
+        "h": "Territory-Wise Breakdown",
+        "p": [
+          "The international success is led by a sensational $24 million collected in North America. Other notable contributions include $5.55 million across the UK and Ireland, alongside $5.40 million from the Gulf region.",
+          "Additional strong figures feature $4.20 million in Australia, $2.5 million in Europe, $1.5 million in Thailand, and $1.4 million in Nepal, rounding out a truly global footprint."
+        ]
+      },
+      {
+        "h": "Historic Milestones in the UK",
+        "p": [
+          "In the UK, Ramayana recorded a thunderous £1.10 million during its second weekend alone. This pushed its 11-day cumulative total in the region to £4.20 million.",
+          "With this feat, it stands as only the third Indian film in history to surpass the £4 million mark in the UK, trailing behind Dhurandhar 2 and Pathaan."
+        ]
+      },
+      {
+        "h": "Dominance in Germany",
+        "p": [
+          "The movie has also made waves in Germany by collecting €918K in just 11 days. This performance allowed it to overtake Shah Rukh Khan starrers like Pathaan and Jawan.",
+          "Ramayana now sits firmly as the number two highest-grossing Indian film of all time in Germany, trailing only behind Dhurandhar 2."
+        ]
+      },
+      {
+        "h": "Cast and Future Projections",
+        "p": [
+          "Featuring star power from Ranbir Kapoor and Yash, the film continues to redefine the international box office ceiling for Indian motion pictures. Additional records in the UK and Germany remain within its immediate grasp.",
+          "Crucially, this milestone was achieved even before entering Phase 2 East Asian markets such as China, Japan, and South Korea, which are still waiting in line."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has become the highest-grossing Indian film in Phase 1 overseas after earning $51.75 million in just 11 days. The film surpassed major titles like Dhurandhar 2, Pathaan, and Jawan while securing dominant territory-wise collections across North America, the UK, and Germany."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned $51.75 million overseas in 11 days.",
+      "North America contributed $24 million to the overseas total.",
+      "UK and Ireland collected $5.55 million (£4.20 million) for the film.",
+      "Germany collection reached €918K in 11 days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pathaan",
+        "Jawan",
+        "Baahubali 2",
+        "Dhurandhar",
+        "Kalki 2898 AD",
+        "Pushpa 2",
+        "Animal",
+        "Dangal",
+        "Secret Superstar",
+        "Disco Dancer",
+        "Bajrangi Bhaijaan",
+        "Andhadhun"
+      ]
+    },
+    "keywords": [
+      "Ramayana overseas box office",
+      "Ramayana Phase 1 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office record"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-overseas-box-office-01.jpg",
+        "caption": "Ramayana Overseas Box Office: Highest Grossing Indian Film In Phase 1 Takes Only 11 Days",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 05:12:57 +0000"
   }
 };

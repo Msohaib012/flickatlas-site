@@ -1,39 +1,45 @@
 {
   "connected": true,
-  "generated": "2026-11-17T06:09:52Z",
+  "generated": "2026-11-17T06:54:12Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 6
   },
   "today": {
-    "users": 67,
-    "pageviews": 71,
-    "sessions": 67,
-    "avg_session_seconds": 13.5
+    "users": 72,
+    "pageviews": 85,
+    "sessions": 73,
+    "avg_session_seconds": 14.5
   },
   "last7": {
-    "users": 660,
-    "pageviews": 934,
-    "sessions": 701,
+    "users": 664,
+    "pageviews": 948,
+    "sessions": 707,
     "avg_session_seconds": 29.4
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 97,
-      "avg_time_seconds": 272.6
+      "views": 98,
+      "avg_time_seconds": 267.2
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 28,
-      "avg_time_seconds": 17.3
+      "views": 31,
+      "avg_time_seconds": 18.2
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 21,
-      "avg_time_seconds": 29.3
+      "views": 22,
+      "avg_time_seconds": 27.9
+    },
+    {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 17,
+      "avg_time_seconds": 21.7
     },
     {
       "path": "/search",
@@ -42,54 +48,48 @@
       "avg_time_seconds": 23.9
     },
     {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 22.1
-    },
-    {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 12.7
+      "views": 16,
+      "avg_time_seconds": 14.2
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 15,
+      "views": 16,
       "avg_time_seconds": 7.5
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 8.9
-    },
-    {
-      "path": "/movie",
-      "title": "Movie Details: Cast, Story & Box Office | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 9.9
+      "views": 16,
+      "avg_time_seconds": 9.1
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 10.0
+      "views": 15,
+      "avg_time_seconds": 10.2
+    },
+    {
+      "path": "/tv",
+      "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
+      "views": 15,
+      "avg_time_seconds": 9.1
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 679,
-      "users": 646
+      "sessions": 685,
+      "users": 650
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 9,
-      "users": 9
+      "sessions": 11,
+      "users": 11
     },
     {
       "source": "google",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 204
+      "users": 207
     },
     {
       "country": "Brazil",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 650
+      "users": 654
     },
     {
       "device": "mobile",

@@ -107,7 +107,47 @@ window.FA_OTT = {
       "country": "US",
       "date": "2026-11-17",
       "date_kind": "digital",
+      "id": 1798903,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-17",
+      "date_kind": "digital",
       "id": 1535652,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "SE",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1802475,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1819503,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "DE",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1822061,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1822057,
       "providers": [],
       "type": "movie"
     },
@@ -124,10 +164,66 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "FR",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1821168,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1773826,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "TW",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1803408,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "MX",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1733772,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-16",
       "date_kind": "digital",
       "id": 1806668,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1821357,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1809555,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-16",
+      "date_kind": "digital",
+      "id": 1820144,
       "providers": [],
       "type": "movie"
     },
@@ -2886,6 +2982,19 @@ window.FA_OTT = {
         {
           "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
           "name": "HBO Max"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-06-26",
+      "date_kind": "digital",
+      "id": 1688811,
+      "providers": [
+        {
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
         }
       ],
       "type": "movie"

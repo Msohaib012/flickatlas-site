@@ -119,6 +119,49 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-17T10:55:03+05:30"
   },
+  "1wjboag": {
+    "id": "1wjboag",
+    "type": "news",
+    "headline": "Ramayana Overseas Box Office: Highest Grossing Indian Film In Phase 1 Takes Only 11 Days",
+    "dek": "Ramayana has achieved a historic milestone by crossing $51.75 million overseas in just 11 days, becoming the highest-grossing Indian film of all time in Phase 1.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pathaan",
+        "Jawan",
+        "Baahubali 2",
+        "Dhurandhar",
+        "Kalki 2898 AD",
+        "Pushpa 2",
+        "Animal",
+        "Dangal",
+        "Secret Superstar",
+        "Disco Dancer",
+        "Bajrangi Bhaijaan",
+        "Andhadhun"
+      ]
+    },
+    "keywords": [
+      "Ramayana overseas box office",
+      "Ramayana Phase 1 collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office record"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-overseas-box-office-01.jpg",
+        "caption": "Ramayana Overseas Box Office: Highest Grossing Indian Film In Phase 1 Takes Only 11 Days",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 05:12:57 +0000"
+  },
   "jf6vwf": {
     "id": "jf6vwf",
     "type": "news",
@@ -307,6 +350,81 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-17T04:08:32Z"
   },
+  "tj2x7j": {
+    "id": "tj2x7j",
+    "type": "news",
+    "headline": "The Expanse Returns With All-New Crew in Osiris Reborn",
+    "dek": "Owlcat Games reveals a brand-new gameplay trailer for The Expanse: Osiris Reborn, introducing players to a fresh crew and a Spring 2027 launch window.",
+    "entities": {
+      "people": [
+        "Paul Farrelly",
+        "James S. A. Corey",
+        "Alice Himora",
+        "James Holden"
+      ],
+      "titles": [
+        "The Expanse",
+        "The Expanse: Osiris Reborn",
+        "Mass Effect",
+        "Mass Effect 5",
+        "Grand Theft Auto 6"
+      ]
+    },
+    "keywords": [
+      "The Expanse Osiris Reborn",
+      "Owlcat Games",
+      "Alice Himora",
+      "The Expanse game trailer"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/the-expanse-osiris-reborn-characters.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Expanse Returns With All-New Crew in Osiris Reborn",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 04:00:18 GMT"
+  },
+  "1b9mj15": {
+    "id": "1b9mj15",
+    "type": "news",
+    "headline": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
+    "dek": "The hit action franchise on Amazon is growing with a brand new Vietnam War prequel series centered on Tom Reece.",
+    "entities": {
+      "people": [
+        "Jack Carr",
+        "Tom Reece",
+        "James Reece",
+        "David Keeley",
+        "Chris Pratt",
+        "Taylor Kitsch",
+        "Max Adams",
+        "Jared Shaw",
+        "David Digilio"
+      ],
+      "titles": [
+        "The Terminal List",
+        "Cry Havoc",
+        "The Terminal List: Dark Wolf",
+        "Savage Son"
+      ]
+    },
+    "keywords": [
+      "The Terminal List",
+      "Cry Havoc prequel",
+      "Jack Carr novel",
+      "Tom Reece Navy SEAL",
+      "Amazon Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/cry-havoc-terminal-list-prequel.jpg",
+        "caption": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 04:00:13 +0000"
+  },
   "1dnq75x": {
     "id": "1dnq75x",
     "type": "news",
@@ -348,6 +466,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T03:52:25Z"
+  },
+  "4safyd": {
+    "id": "4safyd",
+    "type": "news",
+    "headline": "Tiger Shroff Returns to Social Media with Romantic Teaser Following October Firing Incident",
+    "dek": "Actor Tiger Shroff makes his social media comeback by dropping the teaser for his upcoming romantic single 'Tenu Leke Jaana', co-starring Ketika Sharma, amidst an ongoing police investigation into a shooting targeting him last month.",
+    "entities": {
+      "people": [
+        "Tiger Shroff",
+        "Ketika Sharma",
+        "Janhvi Kapoor",
+        "Lakshya",
+        "Remo D'Souza"
+      ],
+      "titles": [
+        "Tenu Leke Jaana",
+        "Lag Jaa Gale"
+      ]
+    },
+    "keywords": [
+      "Tiger Shroff Tenu Leke Jaana",
+      "Tiger Shroff firing incident",
+      "Ketika Sharma Tenu Leke Jaana",
+      "Lag Jaa Gale release date",
+      "Tiger Shroff upcoming films"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135909150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Tiger Shroff Returns to Social Media with Romantic Teaser Following October Firing Incident",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T09:10:27+05:30"
   },
   "11aefrm": {
     "id": "11aefrm",
@@ -4526,156 +4678,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 23:10:01 +0000"
-  },
-  "skjenm": {
-    "id": "skjenm",
-    "type": "news",
-    "headline": "Ramayana: Part 1 Crosses Rs 1200 Crore Globally on Day 10",
-    "dek": "The Ranbir Kapoor and Yash-starrer mythological epic has continued its unstoppable run at the box office, surpassing the massive milestone within ten days of its theatrical debut.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Komal Nahta",
-        "Namit Malhotra",
-        "Sunny Deol",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Arun Govil",
-        "Indira Krishna",
-        "Rakul Preet Singh",
-        "Dhanush",
-        "Nirali Kanabar"
-      ],
-      "titles": [
-        "Ramayana: Part 1",
-        "Ramayana: Part 2",
-        "Dhurandhar"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 1 box office",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana worldwide collection day 10",
-      "Ramayana Part 2 Diwali 2028"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156511047,thumbsize-831003,width-1280,height-720,resizemode-75/156511047.jpg",
-        "caption": "Ramayana: Part 1 Crosses Rs 1200 Crore Globally on Day 10",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T22:51:34Z"
-  },
-  "kkmzp0": {
-    "id": "kkmzp0",
-    "type": "news",
-    "headline": "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
-    "dek": "The hit historical drama The Chosen has officially confirmed its seventh and final season, with filming already wrapped and theatrical premiere plans announced.",
-    "entities": {
-      "people": [
-        "Jonathan Roumie",
-        "Dallas Jenkins"
-      ],
-      "titles": [
-        "The Chosen",
-        "Joseph of Egypt",
-        "Book of Moses",
-        "The Way of the Chosen"
-      ]
-    },
-    "keywords": [
-      "The Chosen Season 7",
-      "Dallas Jenkins",
-      "Jonathan Roumie",
-      "The Chosen release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/the-chosen-season-6-stills-5-1.jpg",
-        "caption": "The Chosen Season 7 Confirmed: Final Season Release Date, Filming Updates and More Revealed",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 22:45:36 +0000"
-  },
-  "i42jcb": {
-    "id": "i42jcb",
-    "type": "news",
-    "headline": "Millie Bobby Brown to Star in Netflix Rom-Com Non-Refundable",
-    "dek": "The actor will headline and produce the upcoming romantic comedy alongside Jack Innanen, directed by Paul Briganti.",
-    "entities": {
-      "people": [
-        "Millie Bobby Brown",
-        "Jack Innanen",
-        "Paul Briganti",
-        "David Bernstein",
-        "Gabriel LaBelle",
-        "David Harbour",
-        "Paul Warner"
-      ],
-      "titles": [
-        "Non-Refundable",
-        "Adults",
-        "Just Picture It",
-        "Enola Holmes",
-        "Stranger Things",
-        "A Spy In the Blood"
-      ]
-    },
-    "keywords": [
-      "Millie Bobby Brown Non-Refundable",
-      "Non-Refundable movie Netflix",
-      "Jack Innanen Netflix movie",
-      "Paul Briganti Non-Refundable"
-    ],
-    "images": [
-      {
-        "url": "https://hips.hearstapps.com/hmg-prod/images/c054a718-e4be-4627-8c26-dbb33786b5fd.jpg?crop=0.927xw:0.697xh;0,0.254xh&amp;resize=1200:*",
-        "caption": "Millie Bobby Brown to Star in Netflix Rom-Com Non-Refundable",
-        "source": "Digital Spy"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 22:35:00 +0000"
-  },
-  "o63m2n": {
-    "id": "o63m2n",
-    "type": "news",
-    "headline": "Veteran Telugu Actor and Filmmaker Giri Babu Passes Away at 80",
-    "dek": "Renowned Telugu cinema personality Giri Babu has died at the age of 80 while receiving treatment at a hospital in Hyderabad, drawing condolences from political figures and the film industry.",
-    "entities": {
-      "people": [
-        "Giri Babu",
-        "YS Jagan Mohan Reddy",
-        "Bose Babu",
-        "Raghu Babu"
-      ],
-      "titles": [
-        "Jagame Maya",
-        "Simha Garjana",
-        "Merupudadi",
-        "Indrajith",
-        "Ranarangam",
-        "Nee Sukhame Ne Korukunna",
-        "Anni Manchi Sakunamule"
-      ]
-    },
-    "keywords": [
-      "Giri Babu",
-      "Giri Babu death",
-      "Raghu Babu father",
-      "YS Jagan Mohan Reddy tribute Giri Babu"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6624-giri-sirish.png",
-        "caption": "Veteran Telugu Actor and Filmmaker Giri Babu Passes Away at 80",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T21:52:36Z"
   },
   "eh6qc3": {
     "id": "eh6qc3",
