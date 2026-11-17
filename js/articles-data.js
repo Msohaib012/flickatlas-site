@@ -173536,5 +173536,358 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 14:00:16 GMT"
+  },
+  "1vjsa0": {
+    "id": "1vjsa0",
+    "type": "news",
+    "headline": "Manikanda Teaser Out Now: Vaibhav Stars In Vishnu Sasi Shankar's Upcoming Tamil Film",
+    "dek": "The official teaser for Manikanda has been released, offering audiences a first look at the Tamil film directed by Vishnu Sasi Shankar and starring Vaibhav in the lead role.",
+    "body": [
+      {
+        "h": "Teaser Launch Introduces Upcoming Tamil Project",
+        "p": [
+          "The promotional teaser for the upcoming Tamil feature Manikanda has officially been released to the public. Headlined by actor Vaibhav, the project marks a fresh cinematic venture directed by Vishnu Sasi Shankar, who previously helmed the Malayalam film Malikappuram.",
+          "The newly launched preview gives viewers an initial glimpse into the world and tone established by the filmmaker for this new regional release."
+        ]
+      },
+      {
+        "h": "Star-Studded Principal Cast and Special Appearances",
+        "p": [
+          "Alongside the lead performance by Vaibhav, the movie features prominent actors such as Aadukalam Naren, Aravind Aakash, and Meenakshi Govindarajan forming the primary cast.",
+          "In addition to the main actors, the production includes numerous familiar faces making special appearances. Names attached to these cameo roles span several industry figures including Ravi Mohan, Mirchi Shiva, Venkat Prabhu, Krishna, Mahath, Prem Gi Amaren, and Gangai Amaran."
+        ]
+      },
+      {
+        "h": "Theatrical Release Plans and Distribution",
+        "p": [
+          "Makers of Manikanda have mapped out a worldwide theatrical rollout during the Mandala Kaalam period in 2026. While the general release window has been confirmed, an exact calendar date for the theatrical premiere remains unannounced.",
+          "When the film ultimately reaches cinemas across various territories, distribution responsibilities will be managed by AP International."
+        ]
+      },
+      {
+        "h": "Creative Leadership Behind the Camera",
+        "p": [
+          "The production is steered by director Vishnu Sasi Shankar, with filmmaker Venkat Prabhu associated in the capacity of creative producer. Financial backing for the venture comes from producers JK Saravana and M Rajaram under the banner of Tantra Films.",
+          "The foundational concept and story credit belongs to Nanthakumar Thamichelvan, while the narrative script and screenplay were crafted by Adithya Tangirala and JK Saravana. Prithivi Adithya contributed the dialogue and additional screenplay elements."
+        ]
+      },
+      {
+        "h": "Technical and Design Departments",
+        "p": [
+          "A robust technical crew has been assembled to handle the film's post-production and stylistic elements. National Award-winning editor Praveen KL is overseeing the editing process, while Yuvan Selva serves as the director of photography.",
+          "The artistic vision is supported by production designer Surya Rajeevan and art director Janakiraman. Musical composition for the soundtrack is handled by Prem Gi Amaren, with lyric contributions coming from Gangai Amaren, PA Vijay, Yuwaji, JK Saravana, and Kumar Ramanathan."
+        ]
+      },
+      {
+        "h": "Action Choreography and Visual Effects",
+        "p": [
+          "Action sequences within the movie have been designed by stunt directors Stunt Silva and Sakthi Saravanan, alongside choreography managed by Ajay.",
+          "Visual effects, sound design, and CG work involve contributions from entities including Lightson Media, Studio Lot, Roughout, and Roger. Sound effects and mixing are executed by Prathap K, supported by Mahesh Bharadwaj R as the visual effects supervisor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The teaser for the Tamil film Manikanda has been released, starring Vaibhav and directed by Vishnu Sasi Shankar. The project features an extensive cast with special appearances and is scheduled for a worldwide theatrical release during Mandala Kaalam in 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Manikanda teaser was released on Tuesday, November 17, 2026.",
+      "The film stars Vaibhav in the lead role.",
+      "Vishnu Sasi Shankar directed the film.",
+      "The primary cast includes Aadukalam Naren, Aravind Aakash, and Meenakshi Govindarajan.",
+      "Special appearances feature Ravi Mohan, Mirchi Shiva, Venkat Prabhu, Krishna, Mahath, Prem Gi Amaren, and Gangai Amaran.",
+      "The film is scheduled for a worldwide theatrical release during Mandala Kaalam in 2026."
+    ],
+    "entities": {
+      "people": [
+        "Vaibhav",
+        "Vishnu Sasi Shankar",
+        "Aadukalam Naren",
+        "Aravind Aakash",
+        "Meenakshi Govindarajan",
+        "Ravi Mohan",
+        "Mirchi Shiva",
+        "Venkat Prabhu",
+        "Krishna",
+        "Mahath",
+        "Prem Gi Amaren",
+        "Gangai Amaran",
+        "JK Saravana",
+        "M Rajaram",
+        "Praveen KL",
+        "Yuvan Selva",
+        "Surya Rajeevan",
+        "Janakiraman",
+        "PA Vijay",
+        "Yuwaji",
+        "Kumar Ramanathan",
+        "Stunt Silva",
+        "Sakthi Saravanan",
+        "Ajay",
+        "Nanthakumar Thamichelvan",
+        "Adithya Tangirala",
+        "Prithivi Adithya",
+        "Prathap K",
+        "Mahesh Bharadwaj R"
+      ],
+      "titles": [
+        "Manikanda",
+        "Malikappuram"
+      ]
+    },
+    "keywords": [
+      "Manikanda teaser",
+      "Vaibhav Manikanda movie",
+      "Vishnu Sasi Shankar director",
+      "Manikanda release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/manikanda-41331794931208.jpg",
+        "caption": "Manikanda Teaser Out Now: Vaibhav Stars In Vishnu Sasi Shankar's Upcoming Tamil Film",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 21:31:34 +0530"
+  },
+  "k5ggdt": {
+    "id": "k5ggdt",
+    "type": "news",
+    "headline": "Florence Pugh Teases A Potential Turn As The Villain In Bond 26",
+    "dek": "The acclaimed actor has playfully suggested she might contact filmmaker Denis Villeneuve to pitch herself for a villainous role opposite her Dune: Part Three co-star.",
+    "body": [
+      {
+        "h": "An Actor's Playful Pitch For Bond 26",
+        "p": [
+          "The conversation surrounding the next installment in the legendary espionage franchise has taken an intriguing turn as notable performers begin expressing interest in joining the upcoming project. During a recent public appearance, a prominent Hollywood star floated the idea of securing a major antagonist role in the production. The remarks have quickly captured the attention of film enthusiasts eager to see how the next chapter in the spy series will shape up.",
+          "While attending a high-profile industry gathering in Los Angeles, the performer shared lighthearted thoughts about contacting the person at the helm of the feature. The playful banter has sparked widespread discussion across entertainment circles regarding potential casting choices for the highly anticipated motion picture."
+        ]
+      },
+      {
+        "h": "Connections To The Upcoming Villeneuve Project",
+        "p": [
+          "The focus of these recent casting aspirations centers around the acclaimed filmmaker attached to steer the direction of the famous secret agent series. Known for large-scale cinematic spectacles, the director has previously outlined distinct artistic visions for what a modern interpretation of the character should embody on the big screen.",
+          "Adding another layer of intrigue to the potential casting dynamic is an established working relationship between the actor and a fellow co-star who is also linked to the director's expansive sci-fi universe. The prospect of seeing these familiar faces square off in a completely different genre has amplified excitement levels significantly."
+        ]
+      },
+      {
+        "h": "Vision For The Iconic Franchise",
+        "p": [
+          "Discussions regarding the tone of the upcoming cinematic entry have emphasized the need for a gritty, grounded approach to the material. Creative leads have previously noted that the central operative must project genuine intensity, physical threat, and deep-seated emotional complexity rather than relying solely on superficial charm.",
+          "As development continues behind closed doors, fans and industry insiders alike are tracking every minor update related to the production. The involvement of top-tier creative talent ensures that expectations remain extraordinarily high for this next phase of the storied intellectual property."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Florence Pugh has playfully teased reaching out to director Denis Villeneuve regarding a potential villain role in Bond 26 opposite her Dune: Part Three co-star Robert Pattinson. The remarks were made while she attended a Hollywood event in Los Angeles."
+        ]
+      }
+    ],
+    "facts": [
+      "Florence Pugh teased calling Denis Villeneuve about playing a Bond villain.",
+      "Robert Pattinson is Florence Pugh's Dune: Part Three co-star.",
+      "The event took place at the Beverly Wilshire in Los Angeles, California.",
+      "The remarks were made at ELLE's Women In Hollywood event."
+    ],
+    "entities": {
+      "people": [
+        "Florence Pugh",
+        "Denis Villeneuve",
+        "Robert Pattinson"
+      ],
+      "titles": [
+        "Bond 26",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Bond 26",
+      "Florence Pugh",
+      "Denis Villeneuve",
+      "Robert Pattinson",
+      "Dune Part Three"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/17111318/BOND-26_BOND-VILLAIN_FLORENCE-PUGH_ROBERT-PATTINSON_DENIS-VILLENEUVE_.jpg",
+        "caption": "Florence Pugh Teases A Potential Turn As The Villain In Bond 26",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 16:42:42 +0000"
+  },
+  "101vvt2": {
+    "id": "101vvt2",
+    "type": "news",
+    "headline": "Kira Goldberg Departs Netflix After Eight Years to Join Paramount Pictures as Motion Picture Group Co-Head",
+    "dek": "After serving in key leadership roles at Netflix, Kira Goldberg is transitioning to Paramount Pictures to assume a senior executive position alongside Don Granger.",
+    "body": [
+      {
+        "h": "Executive Transition at the Top",
+        "p": [
+          "Kira Goldberg is officially stepping down from her role at Netflix to begin a new chapter at Paramount Pictures. During her time at Netflix, she spent eight years rising through the ranks to become Vice President of Film, overseeing multiple creative departments.",
+          "Her move to Paramount marks a major career shift where she will take on a senior leadership role. Working alongside Don Granger, Goldberg will serve as Co-Head of the Motion Picture Group as both executives guide the studio's cinematic vision."
+        ]
+      },
+      {
+        "h": "Internal Netflix Shakeups",
+        "p": [
+          "Goldberg's departure arrives on the heels of notable administrative changes within Netflix. The shift follows a significant organizational restructuring that occurred a month prior, marked by Peter Rice joining the company as Chief Content Officer and Dan Lin stepping down from his position as Head of Film.",
+          "Word of Goldberg exiting the streaming giant began circulating when she notified the staff directly. This internal transition points to a broader wave of executive movements reshaping the landscape of major entertainment studios."
+        ]
+      },
+      {
+        "h": "Portfolio Expansion Prior to Departure",
+        "p": [
+          "Before making her exit, Goldberg's responsibilities at Netflix underwent notable expansions. Several months prior to her departure, she was promoted to incorporate live-action family films into her already diverse oversight portfolio.",
+          "Prior to this addition, her remit at the streaming platform successfully encompassed thrillers, dramas, and faith-based projects. Her diverse curation reflected her capacity to manage multiple genres simultaneously across different audience demographics."
+        ]
+      },
+      {
+        "h": "Key Projects and Creative Achievements",
+        "p": [
+          "Throughout her tenure at Netflix, Goldberg successfully shepherded several prominent titles that resonated with audiences. Among her notable achievements was overseeing the wildly popular thriller Apex, which captured significant viewer attention.",
+          "In addition to high-octane thrillers, she also guided beloved family dramas that transitioned smoothly into the family entertainment space. Notable titles under her watch included Remarkably Bright Creatures and The Life List."
+        ]
+      },
+      {
+        "h": "Industry Background and Fox History",
+        "p": [
+          "Goldberg brings a wealth of prior industry experience to her new co-head position at Paramount Pictures. Before establishing her long-standing tenure at Netflix starting in 2018, she built her executive credentials as an official at 20th Century Fox.",
+          "Her background at a legacy studio helped lay the groundwork for her extensive career in feature film development. This foundational experience ultimately prepared her to manage large-scale motion picture slates at major Hollywood studios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kira Goldberg is leaving her position as VP Film at Netflix after eight years to join Paramount Pictures as Co-Head of the Motion Picture Group alongside Don Granger. Her departure follows recent leadership changes at Netflix, including Peter Rice becoming Chief Content Officer and Dan Lin leaving his role as Head of Film. During her time at Netflix, Goldberg managed faith-based films, thrillers, dramas, and family projects such as Apex, Remarkably Bright Creatures, and The Life List."
+        ]
+      }
+    ],
+    "facts": [
+      "Kira Goldberg spent eight years at Netflix.",
+      "Kira Goldberg is joining Paramount Pictures as Co-Head of the Motion Picture Group alongside Don Granger.",
+      "Peter Rice joined Netflix as Chief Content Officer and Dan Lin left as Head of Film a month prior to Goldberg's departure.",
+      "Goldberg joined Netflix in 2018 after previously working at 20th Century Fox.",
+      "Projects overseen by Goldberg at Netflix include Apex, Remarkably Bright Creatures, and The Life List."
+    ],
+    "entities": {
+      "people": [
+        "Kira Goldberg",
+        "Don Granger",
+        "Peter Rice",
+        "Dan Lin"
+      ],
+      "titles": [
+        "Apex",
+        "Remarkably Bright Creatures",
+        "The Life List"
+      ]
+    },
+    "keywords": [
+      "Kira Goldberg Netflix",
+      "Kira Goldberg Paramount Pictures",
+      "Don Granger Motion Picture Group",
+      "Netflix film executive departure"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Kira-Goldberg-Paramount.jpg?w=1000",
+        "caption": "Kira Goldberg Departs Netflix After Eight Years to Join Paramount Pictures as Motion Picture Group Co-Head",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 16:50:32 +0000"
+  },
+  "yiw82p": {
+    "id": "yiw82p",
+    "type": "news",
+    "headline": "Rutba Episode 14 Promo Drops on ARY Digital Highlighting Intense Dramatic Twists",
+    "dek": "The latest teaser for the hit television series Rutba gives viewers a gripping preview of Episode 14, showcasing a stellar ensemble cast featuring Hiba Bukhari, Talha Chahour, Zahid Ahmed, and Mehwish Hayat.",
+    "body": [
+      {
+        "h": "Unveiling the Latest Promotional Teaser",
+        "p": [
+          "The television network ARY Digital has officially released the promotional teaser for Episode 14 of the popular drama series Rutba. Fans of the show have eagerly awaited new footage following previous episodes, and the fresh preview delivers an intense look at the unfolding narrative.",
+          "The short clip highlights critical character moments and emotional stakes, continuing the momentum built by the series since its premiere. Viewers can access the full ongoing storyline through the ARY Plus application."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Performances",
+        "p": [
+          "Rutba boasts a prominent lineup of Pakistani television talent, led by actors Hiba Bukhari and Talha Chahour in central roles. Their dynamic portrayals drive much of the central conflict and emotional resonance within the weekly episodes.",
+          "The series also features notable performances by established stars Zahid Ahmed and Mehwish Hayat, whose involvement has significantly elevated the project's profile among television audiences across the region."
+        ]
+      },
+      {
+        "h": "Plot Developments and Character Arcs",
+        "p": [
+          "As the narrative progresses toward its fourteenth episode, tensions among the main characters reach new heights. The promotional video hints at mounting emotional distress and difficult choices facing the central figures.",
+          "Audience reactions and discussions on digital platforms indicate a high level of engagement with the character arcs, particularly concerning the turbulent relationships and dramatic hurdles depicted in recent broadcasts."
+        ]
+      },
+      {
+        "h": "Broadcasting and Digital Accessibility",
+        "p": [
+          "The drama series airs regularly on ARY Digital HD, which maintains a massive subscriber base on video-sharing platforms and television networks. Episodes are systematically rolled out for viewing through official television broadcasts.",
+          "For fans seeking uninterrupted access or catch-up options, the network directs viewers to the designated streaming application, ARY Plus, ensuring that audiences can follow every chapter of the story without missing a beat."
+        ]
+      },
+      {
+        "h": "Audience Reception and Fan Engagement",
+        "p": [
+          "Viewers have taken to comment sections and social media channels to discuss the emotional weight of the storyline. Many followers actively speculate about upcoming plot developments and express strong emotional investments in the characters.",
+          "The widespread engagement underscores the strong foothold the television serial has established among drama enthusiasts, turning weekly promo releases into major discussion points online."
+        ]
+      },
+      {
+        "h": "Production Background",
+        "p": [
+          "Rutba continues a long tradition of high-production-value serial dramas broadcast by ARY Digital. The network has consistently produced content that captures widespread domestic and international viewership.",
+          "With a talented cast and an engaging script, the series stands out as a prominent entry in current television programming schedules."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ARY Digital has released the promotional video for Episode 14 of the drama series Rutba, starring Hiba Bukhari, Talha Chahour, Zahid Ahmed, and Mehwish Hayat. The teaser offers a glimpse into the ongoing dramatic conflicts, with full episodes accessible via the ARY Plus app."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 14 promo of Rutba released on November 17, 2026",
+      "Airs on ARY Digital",
+      "Cast includes Hiba Bukhari, Talha Chahour, Zahid Ahmed, and Mehwish Hayat",
+      "Full drama available on the ARY Plus app"
+    ],
+    "entities": {
+      "people": [
+        "Hiba Bukhari",
+        "Talha Chahour",
+        "Zahid Ahmed",
+        "Mehwish Hayat"
+      ],
+      "titles": [
+        "Rutba"
+      ]
+    },
+    "keywords": [
+      "Rutba EP 14",
+      "Hiba Bukhari Rutba",
+      "Talha Chahour ASP Hadi",
+      "ARY Digital Rutba drama",
+      "Mehwish Hayat Zahid Ahmed"
+    ],
+    "images": [
+      {
+        "url": "https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f389.png",
+        "caption": "Rutba Episode 14 Promo Drops on ARY Digital Highlighting Intense Dramatic Twists",
+        "source": "ARY Digital HD (YouTube)"
+      }
+    ],
+    "published": "2026-11-17T16:35:12+00:00"
   }
 };
