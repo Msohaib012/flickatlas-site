@@ -1,6 +1,6 @@
 {
  "bucket": "13",
- "count": 68,
+ "count": 69,
  "titles": {
   "movie:10213": {
    "backdrop_path": "/n4ChV0MskyVOzOMBO8V6xoi6Z94.jpg",
@@ -5811,6 +5811,143 @@
    "type": "movie",
    "vote_average": 7.88,
    "vote_count": 317
+  },
+  "movie:595813": {
+   "backdrop_path": "/mvxR0mbDVQkQp3K1OhEU9iDbGcA.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Star / Sharon Gordon Fisherman",
+     "n": "Kristen Wiig"
+    },
+    {
+     "c": "Barb",
+     "n": "Annie Mumolo"
+    },
+    {
+     "c": "Edgar Pagét",
+     "n": "Jamie Dornan"
+    },
+    {
+     "c": "Darlie Bunkle",
+     "n": "Damon Wayans Jr."
+    },
+    {
+     "c": "Debbie",
+     "n": "Vanessa Bayer"
+    },
+    {
+     "c": "Pinky",
+     "n": "Fortune Feimster"
+    },
+    {
+     "c": "Delores",
+     "n": "Phyllis Smith"
+    },
+    {
+     "c": "Convertibles Bossman",
+     "n": "Ian Gomez"
+    },
+    {
+     "c": "Gary",
+     "n": "Michael Hitchcock"
+    },
+    {
+     "c": "Mickey Revelet",
+     "n": "Wendi McLendon-Covey"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Josh Greenbaum"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 595813,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "The story of best friends Barb and Star, who leave their small midwestern town for the first time to go on vacation in Vista Del Mar, Florida, where they soon find themselves tangled up in adventure, love, and a villain’s evil plot to kill everyone in town.",
+   "popularity": 1.6992,
+   "poster_path": "/m0kQFuMSe6ImokuyG9xfRPtWLQ4.jpg",
+   "production_countries": [
+    "US",
+    "MX"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "YouTube TV"
+    },
+    {
+     "name": "FXNow"
+    },
+    {
+     "name": "Lionsgate+ Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-17",
+   "release_date": "2021-02-12",
+   "revenue": 0,
+   "runtime": 107,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The friendship we all want. The vacation we all need.",
+   "title": "Barb & Star Go to Vista Del Mar",
+   "trailer": {
+    "key": "3EBwBGTlGFQ",
+    "name": "Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.049,
+   "vote_count": 364
   },
   "movie:62213": {
    "backdrop_path": "/cJYerfZVf2rNwfGMK3MQ8lTbMnY.jpg",

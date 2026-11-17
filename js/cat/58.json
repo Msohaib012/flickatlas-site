@@ -1,6 +1,6 @@
 {
  "bucket": "58",
- "count": 70,
+ "count": 71,
  "titles": {
   "movie:10258": {
    "backdrop_path": "/gdJ6j1hmt6dQgObWxDJAHUb58o6.jpg",
@@ -900,6 +900,119 @@
    "type": "movie",
    "vote_average": 6.688,
    "vote_count": 384
+  },
+  "movie:1163258": {
+   "backdrop_path": "/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+   "budget": 2400000,
+   "cast": [
+    {
+     "c": "Manoj Kumar Sharma",
+     "n": "Vikrant Massey"
+    },
+    {
+     "c": "Shraddha Joshi",
+     "n": "Medha Shankr"
+    },
+    {
+     "c": "Pritam Pandey",
+     "n": "Anant Joshi"
+    },
+    {
+     "c": "Gaurinandan",
+     "n": "Anshumaan Pushkar"
+    },
+    {
+     "c": "Dushyant Singh",
+     "n": "Priyanshu Chatterjee"
+    },
+    {
+     "c": "Pushpa Sharma",
+     "n": "Geeta Agrawal Sharma"
+    },
+    {
+     "c": "Ramveer Sharma",
+     "n": "Harish Khanna"
+    },
+    {
+     "c": "Vikas Divyakirti",
+     "n": "Vikas Divyakirti"
+    },
+    {
+     "c": "Dadi",
+     "n": "Sarita Joshi"
+    },
+    {
+     "c": "Deep Mohan",
+     "n": "Sam Mohan"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Vidhu Vinod Chopra"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 1163258,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "hi",
+   "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+   "popularity": 4.4624,
+   "poster_path": "/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "JioHotstar"
+    },
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Hulu"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+     "name": "JioHotstar",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-17",
+   "release_date": "2023-10-27",
+   "revenue": 37231,
+   "runtime": 146,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en",
+    "hi"
+   ],
+   "status": "Released",
+   "tagline": "#RESTART",
+   "title": "12th Fail",
+   "trailer": {
+    "key": "KjbtuqENvVE",
+    "name": "12th Fail - Official Trailer | Vidhu Vinod Chopra | In Cinemas Worldwide 27th October, 2023",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.948,
+   "vote_count": 300
   },
   "movie:11858": {
    "backdrop_path": "/bNZ4G2h9EABULTThr7lEx9ODzoj.jpg",
