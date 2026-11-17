@@ -168639,5 +168639,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T04:08:32Z"
+  },
+  "1uv4rkq": {
+    "id": "1uv4rkq",
+    "type": "news",
+    "headline": "Fans Share Their Verdict on CIA Season 2 Episode 7 Inside Men",
+    "dek": "Audience engagement is heating up as viewers cast their votes and debate standout performances for the latest chapter of CIA.",
+    "body": [
+      {
+        "h": "The Latest Episode Debuts",
+        "p": [
+          "Television enthusiasts have another opportunity to evaluate the newest installment of the popular series CIA. Season 2 Episode 7, titled Inside Men, has officially arrived, bringing fresh twists and high-stakes drama to the screen. Viewers tuning into the latest broadcast are diving straight into the evolving narrative.",
+          "As the storyline progresses, fan communities are buzzing with anticipation. Each new chapter offers fresh narrative directions, keeping audiences completely hooked on the unfolding espionage and intricate character dynamics."
+        ]
+      },
+      {
+        "h": "Cast Your Vote on the Episode",
+        "p": [
+          "Audience participation plays a massive role in the viewing experience, with platforms opening up dedicated polls for fans to grade the chapter. Viewers can rate Inside Men on a scale ranging from outstanding to what even was that.",
+          "These community metrics give a clear picture of how well a particular storyline resonates with the broader viewership base. Ratings collected from these digital ballots help highlight whether the latest narrative risks paid off for the production team."
+        ]
+      },
+      {
+        "h": "Standout Characters Take the Spotlight",
+        "p": [
+          "Aside from general episode grades, viewers are also tasked with selecting the standout character of the week. Inside Men featured several notable performances that captured the audience's attention and drove the plot forward.",
+          "Fans can cast ballots for specific figures who made the strongest impression during the broadcast. The nominated lineup showcases the breadth of talent driving the series forward this season."
+        ]
+      },
+      {
+        "h": "Performances Fueling the Discussion",
+        "p": [
+          "The character ballot features several key players from the ensemble cast. Viewers can vote for Colin Glass played by Tom Ellis, Bill Goodman portrayed by Nick Gehlfuss, and Nikki Reynard brought to life by Necar Zadegan.",
+          "Additional nominees rounding out the performance pool include Gina Gosian played by Natalee Linez, Dawson Rogers portrayed by Bruce Altman, and Maya Leary brought to the screen by Anna Greene."
+        ]
+      },
+      {
+        "h": "Community Debates and Spoilers",
+        "p": [
+          "Beyond voting, the comment sections serve as a virtual hub for passionate fans to dissect every narrative beat. Viewers are actively sharing their favorite moments, highlighting unexpected surprises, and expressing occasional disappointments.",
+          "Platforms hosting these discussions advise caution for anyone who has not yet caught up with the broadcast. Because fans freely exchange opinions and plot details, spoiler warnings remain strictly in effect for newcomers."
+        ]
+      },
+      {
+        "h": "Looking Ahead to What Comes Next",
+        "p": [
+          "With Inside Men now out in the wild, conversations naturally drift toward future developments. Audiences are already speculating on what storylines might emerge next as the season moves closer to its upcoming arcs.",
+          "The continuous feedback loop between viewers and online community boards ensures that excitement surrounding the show remains consistently high week after week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fans of the series CIA are currently rating the latest Season 2 Episode 7 titled Inside Men through interactive community polls. Viewers are also voting on standout performances from actors including Tom Ellis, Nick Gehlfuss, Necar Zadegan, Natalee Linez, Bruce Altman, and Anna Greene while discussing plot developments online."
+        ]
+      }
+    ],
+    "facts": [
+      "CIA Season 2 Episode 7 is titled Inside Men",
+      "Tom Ellis plays Colin Glass",
+      "Nick Gehlfuss plays Bill Goodman",
+      "Necar Zadegan plays Nikki Reynard",
+      "Natalee Linez plays Gina Gosian",
+      "Bruce Altman plays Dawson Rogers",
+      "Anna Greene plays Maya Leary"
+    ],
+    "entities": {
+      "people": [
+        "Tom Ellis",
+        "Nick Gehlfuss",
+        "Necar Zadegan",
+        "Natalee Linez",
+        "Bruce Altman",
+        "Anna Greene"
+      ],
+      "titles": [
+        "CIA"
+      ]
+    },
+    "keywords": [
+      "CIA Inside Men",
+      "CIA Season 2 Episode 7",
+      "Tom Ellis CIA",
+      "CIA episode poll"
+    ],
+    "images": [],
+    "published": "2026-11-17T03:00:00.378+00:00"
+  },
+  "1cwnhhr": {
+    "id": "1cwnhhr",
+    "type": "news",
+    "headline": "Teja Sajja Exchanges Rings with Mourya in Hyderabad Ceremony",
+    "dek": "Telugu actor Teja Sajja celebrated his engagement to fiancée Mourya at a private hotel in Hyderabad, with prominent film stars and political figures in attendance.",
+    "body": [
+      {
+        "h": "The Private Engagement Ceremony",
+        "p": [
+          "Telugu cinema actor Teja Sajja, widely recognized for his leading performance in Hanu-Man, has officially taken the next step in his personal life. The performer exchanged rings with his fiancée, Mourya, during an intimate gathering held at the Taj Krishna Hotel.",
+          "The celebration took place on a Monday afternoon, drawing close family members and select guests. Soon after the rituals concluded, photographs capturing the couple during the festivities began circulating across online platforms."
+        ]
+      },
+      {
+        "h": "Attire and Visual Highlights",
+        "p": [
+          "Images shared online by entertainment observer Ramesh Bala showcased the engaged couple in coordinated traditional wear. The groom-to-be sported a light-coloured kurta complemented by a peach-toned Nehru jacket featuring detailed floral embroidery.",
+          "Mourya chose a shimmering greyish-green ensemble for the occasion. Her outfit stood out with intricate beadwork, elaborate embroidery, and layered pearl shoulder chains that completed her look."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest List",
+        "p": [
+          "A large number of heavyweights from the Telugu film industry turned up at the venue to congratulate the couple. Notable actors such as Chiranjeevi, Rana Daggubati, Nani, and Ravi Teja graced the ceremony with their presence.",
+          "Directors and producers including Anil Ravipudi, Allu Aravind, Suresh Babu, Dil Raju, and Prasanth Varma were also spotted among the attendees, alongside fellow actors like Adivi Sesh, Sudheer Babu, and Varalaxmi Sarathkumar."
+        ]
+      },
+      {
+        "h": "Political Dignitaries in Attendance",
+        "p": [
+          "Aside from cinema icons, several prominent political figures made their way to the Hyderabad hotel to extend their blessings. Telangana Governor Shiv Pratap Shukla was present to wish the couple well.",
+          "Other notable political names included Union Minister G. Kishan Reddy, Telangana Cinematography Minister Komatireddy Venkat Reddy, Minister Seethakka, Harish Rao, and Ganta Srinivasa Rao."
+        ]
+      },
+      {
+        "h": "Background on Mourya",
+        "p": [
+          "Details regarding Teja’s future wife emerged from a prior interview the actor gave to Deccan Chronicle. He revealed that she grew up in the United States and remains completely removed from the cinematic limelight.",
+          "Her background lies outside the entertainment industry entirely. Instead, she belongs to the technology sector and works closely alongside her father."
+        ]
+      },
+      {
+        "h": "Upcoming Wedding and Professional Ventures",
+        "p": [
+          "Reports indicate that the couple plans to formalise their union through a destination wedding scheduled for December. The upcoming ceremony marks a major personal milestone for the actor.",
+          "On the professional front, Teja Sajja remains busy with upcoming cinematic projects. He is currently involved in Zombie Reddy 2 - NXT LVL, a feature directed by Suparn S Varma, created by Prasanth Varma, and featuring Upendra Rao and Shanaya Kapoor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Telugu actor Teja Sajja got engaged to his fiancée Mourya during a private afternoon ceremony at the Taj Krishna Hotel in Hyderabad on November 16. A host of film industry stars, directors, and political dignitaries attended the event to bless the couple, who are reportedly planning a destination wedding in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Teja Sajja got engaged to fiancée Mourya on Monday afternoon, November 16.",
+      "The engagement ceremony took place at the Taj Krishna Hotel in Hyderabad.",
+      "Chiranjeevi, Rana Daggubati, and Nani attended the ceremony.",
+      "Mourya was raised in the USA and works in the tech industry with her father.",
+      "Teja Sajja is working on Zombie Reddy 2 - NXT LVL directed by Suparn S Varma and created by Prasanth Varma."
+    ],
+    "entities": {
+      "people": [
+        "Teja Sajja",
+        "Mourya",
+        "Chiranjeevi",
+        "Rana Daggubati",
+        "Nani",
+        "Ravi Teja",
+        "Anil Ravipudi",
+        "Niharika Konidela",
+        "Allu Aravind",
+        "Shiv Pratap Shukla",
+        "G. Kishan Reddy",
+        "Komatireddy Venkat Reddy",
+        "Seethakka",
+        "Harish Rao",
+        "Ganta Srinivasa Rao",
+        "Suresh Babu",
+        "Dil Raju",
+        "TG Vishwa Prasad",
+        "Sushmita Konidela",
+        "K. Raghavendra Rao",
+        "Prasanth Varma",
+        "Maruthi",
+        "Chandoo Mondeti",
+        "Shiva Nirvana",
+        "Nandini Reddy",
+        "Adivi Sesh",
+        "Srikanth",
+        "Sudheer Babu",
+        "Varalaxmi Sarathkumar",
+        "Nidhhi Agerwal",
+        "Ritika Nayak",
+        "Imanvi",
+        "Suparn S Varma",
+        "Upendra Rao",
+        "Shanaya Kapoor"
+      ],
+      "titles": [
+        "Hanu-Man",
+        "Zombie Reddy 2 - NXT LVL"
+      ]
+    },
+    "keywords": [
+      "Teja Sajja engagement",
+      "Teja Sajja fiancée Mourya",
+      "Teja Sajja Hyderabad ceremony",
+      "Zombie Reddy 2 NXT LVL"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135908899,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Teja Sajja Exchanges Rings with Mourya in Hyderabad Ceremony",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T08:54:59+05:30"
+  },
+  "jf6vwf": {
+    "id": "jf6vwf",
+    "type": "news",
+    "headline": "Akshay Kumar Unveils Terrifying Alien-Like Monster in New Motion Poster for Sci-Fi Thriller Samuk",
+    "dek": "Bollywood star Akshay Kumar has released a brand-new motion poster for his upcoming sci-fi action thriller Samuk, offering audiences their first clear look at the film's menacing extraterrestrial creature ahead of its May 2027 theatrical release.",
+    "body": [
+      {
+        "h": "First Look At The Samuk Monster",
+        "p": [
+          "Bollywood actor Akshay Kumar has heightened anticipation for his upcoming cinematic venture by sharing a brand-new motion poster that reveals the terrifying face of the primary monster in Samuk. The striking visual offers fans an unfiltered look at the intimidating creature, immediately drawing comparisons to classic sci-fi entities due to its distinct extraterrestrial design.",
+          "The newly unveiled footage showcases the star dressed in a sharp tuxedo while wielding an automatic firearm. His intense, menacing glare directed off-screen establishes the high-stakes peril his character faces against the non-human antagonist."
+        ]
+      },
+      {
+        "h": "Action-Packed Jungle Teasers And Previous Reveals",
+        "p": [
+          "This latest character and creature reveal follows an earlier promotional teaser shared by the leading man, which featured a colossal hand belonging to the mysterious monster. That initial promotional clip placed the actor in the heart of a dense jungle setting, clutching a heavy-duty weapon as he braced himself for a dangerous confrontation.",
+          "Accompanying that earlier jungle teaser was a resolute message emphasizing that the oncoming adversary is decidedly not human, framing the narrative as a desperate battle for the survival of humanity where retreat is entirely off the table."
+        ]
+      },
+      {
+        "h": "Plot Hints And The Extraterrestrial Threat",
+        "p": [
+          "Although the creative team behind the project has kept detailed plot specifics tightly under wraps, the promotional taglines point heavily toward an impending planetary invasion. The narrative promises to explore a grim struggle between human survival and an unidentified, monstrous predator.",
+          "The marketing campaign successfully built initial curiosity hours prior to the main reveal, with the actor teasing an important announcement and promising fans an uncompromising action narrative devoid of standard rules."
+        ]
+      },
+      {
+        "h": "A Major Collaboration And 13-Year Reunion",
+        "p": [
+          "Samuk marks a significant creative reunion in the Hindi film industry, bringing the lead actor back together with filmmaker Vipul Amrutlal Shah after a hiatus of thirteen years. The ambitious project is being produced under the Sunshine Pictures banner.",
+          "The production brings together seasoned Indian cinematic leadership with prominent international craftspeople, signaling the scale and global ambitions of this big-screen sci-fi spectacle."
+        ]
+      },
+      {
+        "h": "World-Class International Crew On Board",
+        "p": [
+          "To achieve its ambitious sci-fi aesthetic and high-octane sequences, the production has enlisted renowned international talent. Academy Award-nominated creature-effects designer Alec Gillis, celebrated for his exceptional work on major Hollywood properties like the Alien and Predator franchises, has lent his expertise to the film.",
+          "Additionally, British action director Luke Tumber has been brought on board to design and direct the movie's complex action sequences, injecting a distinct global flavor into the feature's visual style."
+        ]
+      },
+      {
+        "h": "Release Details And Cinematic Timeline",
+        "p": [
+          "Audiences will have to wait a while longer to experience the full spectacle on the big screen, as the makers have locked in a theatrical release date of May 28, 2027.",
+          "As the promotional rollout continues to gather momentum, fans can expect more glimpses into the terrifying world and extraterrestrial invasion orchestrated by the director."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Akshay Kumar has revealed the first look of a terrifying monster in a new motion poster for his upcoming sci-fi action thriller Samuk, directed by Kanishk Varma. Set for a May 28, 2027 theatrical release, the film features international talent such as creature-effects designer Alec Gillis and action director Luke Tumber, while reuniting the lead actor with producer Vipul Amrutlal Shah after 13 years."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar stars in Samuk",
+      "Kanishk Varma is the director of Samuk",
+      "Samuk is scheduled for release on May 28, 2027",
+      "Vipul Amrutlal Shah is the producer of Samuk under Sunshine Pictures",
+      "Samuk marks a 13-year reunion between Akshay Kumar and Vipul Amrutlal Shah",
+      "Alec Gillis is the Academy Award-nominated creature-effects designer for the film",
+      "Luke Tumber is the British action director for the film"
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Kanishk Varma",
+        "Vipul Amrutlal Shah",
+        "Alec Gillis",
+        "Luke Tumber"
+      ],
+      "titles": [
+        "Samuk",
+        "Alien",
+        "Predator"
+      ]
+    },
+    "keywords": [
+      "Samuk",
+      "Akshay Kumar Samuk",
+      "Kanishk Varma Samuk",
+      "Samuk monster motion poster"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156518276,thumbsize-194542,width-1280,height-720,resizemode-75/156518276.jpg",
+        "caption": "Akshay Kumar Unveils Terrifying Alien-Like Monster in New Motion Poster for Sci-Fi Thriller Samuk",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T04:47:33Z"
+  },
+  "ugcqml": {
+    "id": "ugcqml",
+    "type": "news",
+    "headline": "The Fantasticks Arrives on Broadway After Seven Decades",
+    "dek": "The legendary musical makes its historic Broadway debut at the Hayes Theater with a modern queer reimagining directed by Christopher Gattelli.",
+    "body": [
+      {
+        "h": "A Historic Seven-Decade Journey to Broadway",
+        "p": [
+          "The historic arrival of The Fantasticks on Broadway marks a monumental milestone for the legendary musical, which spent nearly seventy years enchanting audiences primarily off-Broadway. Setting the stage with two distinct theatrical prop trunks labeled Hayes Theater and Sullivan Street Playhouse, the production signals its deep roots while stepping firmly into a contemporary era. This landmark staging brings the stalwart of nineteen-sixties whimsy into a modern landscape with a renewed sense of purpose.",
+          "Under the direction of Christopher Gattelli, the production retains the core spirit that kept the original incarnation running for an astonishing forty-two years. While acknowledging that older forms of theatrical whimsy can occasionally test modern sensibilities, this revival embraces its theatricality without hesitation. By honoring the foundations laid by creators Tom Jones and Harvey Schmidt, the creative team ensures that the show's enduring appeal remains completely intact for current theatergoers."
+        ]
+      },
+      {
+        "h": "Reimagining the Classic Boy-Meets-Girl Narrative",
+        "p": [
+          "The most striking departure in this version is the clever gender-switch of the central romance, transforming the traditional boy-meets-girl plot into a boy-meets-boy narrative. The youths, originally Matt and Luisa, are reimagined as Matt and Lewis, played by newcomers Maxim Chlumecky and Nathan Levy. This creative pivot accommodates the timeless love story with remarkable ease, supported by revisions that late lyricist Tom Jones worked on prior to his death in 2023.",
+          "The narrative itself retains its fairy-tale and allegorical framework, echoing the playful trickery of Shakespearean comedy. Next-door neighbors Matt and Lewis share a secret romance, completely unaware that their feuding parents are actually close friends orchestrating a fake rivalry. This manufactured conflict relies on reverse psychology to push the sons together, leading to a theatrical abduction plot orchestrated by the famous magician El Gallo."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Standout Performances",
+        "p": [
+          "The revival features a talented ensemble mixing fresh faces with beloved stage veterans who deliver stellar vocals and sharp comedic timing. Leslie Rodriguez Kritzer and Ruthie Ann Miles portray the scheming mothers with great flair, executing a brilliant song-and-dance routine titled Never Say No early in the performance. Their dynamic chemistry anchors the parental conspiracy that drives the first act forward into moonlight and mischief.",
+          "Meanwhile, Maxim Chlumecky infuses Matt with an adventurous spirit that regularly steals scenes, while Nathan Levy portrays Lewis with guileless charm and an ingénue's self-infatuation. The cast also features Zane Phillips making an impressive Broadway debut as the charismatic bandit El Gallo, alongside a strong supporting roster including David Patrick Kelly, Kevin del Aguila, and Ahmad Simmons as the silent wall character."
+        ]
+      },
+      {
+        "h": "Musical Score and Orchestral Updates",
+        "p": [
+          "The iconic score that once crossed over to popular music charts retains its lovely resonance, featuring beloved numbers such as Much More, Soon It's Gonna Rain, I Can See It, and the iconic Try to Remember. While purists might initially question the updated orchestrations by Sam Davis, which introduce strings, woodwinds, and brass to supplement the traditional minimalist piano and harp, the musical arrangements add rich texture.",
+          "These musical choices enhance the emotional beats of the story without overshadowing the intimate storytelling traditions of the original production. Every song serves to propel the whimsical narrative forward, bridging the gap between nostalgic stage history and contemporary musical theater expectations."
+        ]
+      },
+      {
+        "h": "Design, Choreography, and Aesthetics",
+        "p": [
+          "Christopher Gattelli brings the same inventive know-how he utilized in Schmigadoon! and Death Becomes Her to the staging of this production. His restrained choreography blends full-scale dance numbers with simpler, joyful movements that complement Jason Sherwood's minimalist set design, which features a brick theater backdrop, a cut-out crescent moon, and subtle splashes of greenery.",
+          "Costume designer Linda Cho bridges eras effectively by blending the everyday normcore of the young men with the flashy, seductive bandit attire of El Gallo. Meanwhile, the silent character known traditionally as The Mute continues to stand between the two households, maintaining the classic staging customs while the production successfully replaces outdated archaic dialogue with cleaner modern phrasing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The legendary musical The Fantasticks has made its historic Broadway debut at the Hayes Theater under the direction of Christopher Gattelli. Featuring a queer reimagining of its central romance and a talented cast including Maxim Chlumecky, Nathan Levy, and Ruthie Ann Miles, the production successfully brings a decades-old stage staple into the modern era."
+        ]
+      }
+    ],
+    "facts": [
+      "The production opened at Broadway's Hayes Theater.",
+      "Christopher Gattelli serves as the director and choreographer.",
+      "Tom Jones wrote the book and lyrics, while Harvey Schmidt composed the music.",
+      "The original Off-Broadway production ran for a total of 42 years.",
+      "Tom Jones worked on revised lyrics for this version shortly before his death in 2023.",
+      "The running time of the show is 2 hours and 5 minutes, including intermission."
+    ],
+    "entities": {
+      "people": [
+        "Greg Evans",
+        "Christopher Gattelli",
+        "Tom Jones",
+        "Harvey Schmidt",
+        "Maxim Chlumecky",
+        "Nathan Levy",
+        "Zane Phillips",
+        "Leslie Rodriguez Kritzer",
+        "Ruthie Ann Miles",
+        "David Patrick Kelly",
+        "Kevin del Aguila",
+        "Ahmad Simmons",
+        "Sam Davis",
+        "Jason Sherwood",
+        "Linda Cho",
+        "Barbra Streisand",
+        "Alexander Pope"
+      ],
+      "titles": [
+        "The Fantasticks",
+        "All My Sons",
+        "Downstate",
+        "Pippin",
+        "Godspell",
+        "Two Strangers (Carry A Cake Across New York)",
+        "Schmigadoon!",
+        "Death Becomes Her",
+        "The Rape of the Lock"
+      ]
+    },
+    "keywords": [
+      "The Fantasticks Broadway",
+      "Christopher Gattelli The Fantasticks",
+      "Maxim Chlumecky Nathan Levy",
+      "The Fantasticks Hayes Theater"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/THE-FANTASTICKS-Nathan-Levy-and-Maxim-Chlumecky-Joan-Marcus-2026.jpg?w=1024",
+        "caption": "The Fantasticks Arrives on Broadway After Seven Decades",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:00:00 +0000"
   }
 };

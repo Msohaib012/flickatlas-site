@@ -33,6 +33,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 08:32:50 +0200"
   },
+  "jf6vwf": {
+    "id": "jf6vwf",
+    "type": "news",
+    "headline": "Akshay Kumar Unveils Terrifying Alien-Like Monster in New Motion Poster for Sci-Fi Thriller Samuk",
+    "dek": "Bollywood star Akshay Kumar has released a brand-new motion poster for his upcoming sci-fi action thriller Samuk, offering audiences their first clear look at the film's menacing extraterrestrial creature ahead of its May 2027 theatrical release.",
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Kanishk Varma",
+        "Vipul Amrutlal Shah",
+        "Alec Gillis",
+        "Luke Tumber"
+      ],
+      "titles": [
+        "Samuk",
+        "Alien",
+        "Predator"
+      ]
+    },
+    "keywords": [
+      "Samuk",
+      "Akshay Kumar Samuk",
+      "Kanishk Varma Samuk",
+      "Samuk monster motion poster"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156518276,thumbsize-194542,width-1280,height-720,resizemode-75/156518276.jpg",
+        "caption": "Akshay Kumar Unveils Terrifying Alien-Like Monster in New Motion Poster for Sci-Fi Thriller Samuk",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T04:47:33Z"
+  },
   "10l1uq1": {
     "id": "10l1uq1",
     "type": "news",
@@ -258,6 +292,69 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 03:26:43 +0000"
   },
+  "1cwnhhr": {
+    "id": "1cwnhhr",
+    "type": "news",
+    "headline": "Teja Sajja Exchanges Rings with Mourya in Hyderabad Ceremony",
+    "dek": "Telugu actor Teja Sajja celebrated his engagement to fiancée Mourya at a private hotel in Hyderabad, with prominent film stars and political figures in attendance.",
+    "entities": {
+      "people": [
+        "Teja Sajja",
+        "Mourya",
+        "Chiranjeevi",
+        "Rana Daggubati",
+        "Nani",
+        "Ravi Teja",
+        "Anil Ravipudi",
+        "Niharika Konidela",
+        "Allu Aravind",
+        "Shiv Pratap Shukla",
+        "G. Kishan Reddy",
+        "Komatireddy Venkat Reddy",
+        "Seethakka",
+        "Harish Rao",
+        "Ganta Srinivasa Rao",
+        "Suresh Babu",
+        "Dil Raju",
+        "TG Vishwa Prasad",
+        "Sushmita Konidela",
+        "K. Raghavendra Rao",
+        "Prasanth Varma",
+        "Maruthi",
+        "Chandoo Mondeti",
+        "Shiva Nirvana",
+        "Nandini Reddy",
+        "Adivi Sesh",
+        "Srikanth",
+        "Sudheer Babu",
+        "Varalaxmi Sarathkumar",
+        "Nidhhi Agerwal",
+        "Ritika Nayak",
+        "Imanvi",
+        "Suparn S Varma",
+        "Upendra Rao",
+        "Shanaya Kapoor"
+      ],
+      "titles": [
+        "Hanu-Man",
+        "Zombie Reddy 2 - NXT LVL"
+      ]
+    },
+    "keywords": [
+      "Teja Sajja engagement",
+      "Teja Sajja fiancée Mourya",
+      "Teja Sajja Hyderabad ceremony",
+      "Zombie Reddy 2 NXT LVL"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135908899,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Teja Sajja Exchanges Rings with Mourya in Hyderabad Ceremony",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T08:54:59+05:30"
+  },
   "18jqy83": {
     "id": "18jqy83",
     "type": "news",
@@ -332,6 +429,85 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 03:03:28 +0000"
+  },
+  "1uv4rkq": {
+    "id": "1uv4rkq",
+    "type": "news",
+    "headline": "Fans Share Their Verdict on CIA Season 2 Episode 7 Inside Men",
+    "dek": "Audience engagement is heating up as viewers cast their votes and debate standout performances for the latest chapter of CIA.",
+    "entities": {
+      "people": [
+        "Tom Ellis",
+        "Nick Gehlfuss",
+        "Necar Zadegan",
+        "Natalee Linez",
+        "Bruce Altman",
+        "Anna Greene"
+      ],
+      "titles": [
+        "CIA"
+      ]
+    },
+    "keywords": [
+      "CIA Inside Men",
+      "CIA Season 2 Episode 7",
+      "Tom Ellis CIA",
+      "CIA episode poll"
+    ],
+    "images": [],
+    "published": "2026-11-17T03:00:00.378+00:00"
+  },
+  "ugcqml": {
+    "id": "ugcqml",
+    "type": "news",
+    "headline": "The Fantasticks Arrives on Broadway After Seven Decades",
+    "dek": "The legendary musical makes its historic Broadway debut at the Hayes Theater with a modern queer reimagining directed by Christopher Gattelli.",
+    "entities": {
+      "people": [
+        "Greg Evans",
+        "Christopher Gattelli",
+        "Tom Jones",
+        "Harvey Schmidt",
+        "Maxim Chlumecky",
+        "Nathan Levy",
+        "Zane Phillips",
+        "Leslie Rodriguez Kritzer",
+        "Ruthie Ann Miles",
+        "David Patrick Kelly",
+        "Kevin del Aguila",
+        "Ahmad Simmons",
+        "Sam Davis",
+        "Jason Sherwood",
+        "Linda Cho",
+        "Barbra Streisand",
+        "Alexander Pope"
+      ],
+      "titles": [
+        "The Fantasticks",
+        "All My Sons",
+        "Downstate",
+        "Pippin",
+        "Godspell",
+        "Two Strangers (Carry A Cake Across New York)",
+        "Schmigadoon!",
+        "Death Becomes Her",
+        "The Rape of the Lock"
+      ]
+    },
+    "keywords": [
+      "The Fantasticks Broadway",
+      "Christopher Gattelli The Fantasticks",
+      "Maxim Chlumecky Nathan Levy",
+      "The Fantasticks Hayes Theater"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/THE-FANTASTICKS-Nathan-Levy-and-Maxim-Chlumecky-Joan-Marcus-2026.jpg?w=1024",
+        "caption": "The Fantasticks Arrives on Broadway After Seven Decades",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:00:00 +0000"
   },
   "1h8vj7l": {
     "id": "1h8vj7l",
@@ -4526,200 +4702,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 15 Nov 2026 21:19:59 GMT"
-  },
-  "1gojm8d": {
-    "id": "1gojm8d",
-    "type": "news",
-    "headline": "Club Kid Dominates Specialty Box Office Expansion While Paper Tiger Debuts Strongly",
-    "dek": "A24 feature debut Club Kid leads limited expansions with impressive numbers, while James Gray's Paper Tiger achieves a top-tier per-screen opening.",
-    "entities": {
-      "people": [
-        "Jill Goldsmith",
-        "James Gray",
-        "Pedro Almodóvar",
-        "Alex Gibney",
-        "Jordan Firstman",
-        "Adam Driver",
-        "Scarlett Johansson",
-        "Miles Teller",
-        "Peter Farrelly",
-        "Zachary Wigon",
-        "Maika Monroe",
-        "Jason Isaacs",
-        "Ruth Wilson",
-        "Martin McDonagh",
-        "John Malkovich",
-        "Sam Rockwell",
-        "John Turturro",
-        "Jimmy Jenkins",
-        "Sean Ono Lennon",
-        "Gabi Asfour",
-        "Adi Gil",
-        "Angela Donhauser",
-        "Rosanna Arquette",
-        "Marisa Tomei",
-        "Virgilio Villoresi",
-        "Dino Buzzati",
-        "Johnny Depp",
-        "Bowen Yang",
-        "Jensen Huang",
-        "John Mulaney",
-        "Russell Brand",
-        "David Tennant",
-        "Kevin Feige",
-        "Jeremy Culhane",
-        "Skip Hinnant"
-      ],
-      "titles": [
-        "Victorian Psycho",
-        "Club Kid",
-        "Paper Tiger",
-        "Anora",
-        "The Invite",
-        "I Play Rocky",
-        "Mouse",
-        "Wild Horse Nine",
-        "Bitter Christmas",
-        "The Only Living Pickpocket in New York",
-        "God With Us",
-        "ThreeASFOUR: FULL CIRCLE",
-        "Orfeo",
-        "Poema a fumetti",
-        "Jimmy",
-        "Drummer Boy",
-        "Heated Rivalry",
-        "Ebenezer",
-        "Ramayana",
-        "Godzilla Minus Zero",
-        "Wildwood",
-        "Only Murders In The Building",
-        "Doctor Who",
-        "Harry Potter",
-        "Avengers",
-        "X-Men",
-        "Glee",
-        "Electric Company",
-        "You're A Good Man, Charlie Brown"
-      ]
-    },
-    "keywords": [
-      "Club Kid film",
-      "James Gray Paper Tiger",
-      "Jordan Firstman Club Kid",
-      "Wild Horse Nine box office",
-      "Victorian Psycho movie"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDCLKI_EC011.jpg?w=1024",
-        "caption": "Club Kid Dominates Specialty Box Office Expansion While Paper Tiger Debuts Strongly",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 21:01:07 +0000"
-  },
-  "ew6skl": {
-    "id": "ew6skl",
-    "type": "news",
-    "headline": "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman",
-    "dek": "The Delhi Police Special Cell has taken two suspected operatives into custody for allegedly orchestrating separate attacks against an A-list Bollywood star and a Delhi entrepreneur on behalf of overseas handlers.",
-    "entities": {
-      "people": [
-        "Deep",
-        "Deepak Singh",
-        "Vikas Thakur",
-        "Vicky",
-        "Mad Sandhu",
-        "Tiger Shroff"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Delhi Police arrest",
-      "Bollywood actor targeted",
-      "Deepak Singh arrest",
-      "Tiger Shroff",
-      "Mad Sandhu"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/15/6635-ani-1.png",
-        "caption": "Delhi Police Apprehends Two Alleged Shooters Targeting Bollywood Actor and Businessman",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T20:53:22Z"
-  },
-  "kwho9s": {
-    "id": "kwho9s",
-    "type": "news",
-    "headline": "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads",
-    "dek": "Authorities in Indore have implemented rigorous security measures, including facial recognition and drone surveillance, for Diljit Dosanjh's sold-out Sunday musical performance.",
-    "entities": {
-      "people": [
-        "Diljit Dosanjh",
-        "Aman Singh Rathore"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Diljit Dosanjh Indore concert",
-      "Diljit Dosanjh C21 Estate Ground",
-      "Diljit Dosanjh security Indore",
-      "Diljit Dosanjh November 15"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/10/5337-diljit-dosanjh.jpg",
-        "caption": "Diljit Dosanjh Indore Concert Security Heightened With CCTVs And Bomb Squads",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T20:53:22Z"
-  },
-  "mlbmg1": {
-    "id": "mlbmg1",
-    "type": "news",
-    "headline": "Danny Boyle Reveals the Final Chapter of 28 Years Later Needs Financing Despite a Completed Script",
-    "dek": "Director Danny Boyle shares that while the script for the third installment of the zombie franchise is finished, the production still needs to secure financial backing.",
-    "entities": {
-      "people": [
-        "Danny Boyle",
-        "Alex Garland",
-        "Nia DaCosta",
-        "Cillian Murphy",
-        "Jim",
-        "Spike",
-        "Kellie",
-        "Rupert Murdoch",
-        "Jack O'Connell",
-        "Guy Pearce",
-        "Billy Evans"
-      ],
-      "titles": [
-        "Ink",
-        "The Sun",
-        "28 Years Later",
-        "The Bone Temple",
-        "28 Days Later",
-        "You Can See Everything"
-      ]
-    },
-    "keywords": [
-      "28 Years Later",
-      "Danny Boyle",
-      "Cillian Murphy",
-      "The Bone Temple",
-      "Ink film"
-    ],
-    "images": [
-      {
-        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Cillian-Murphy-28-Years-Later.jpg",
-        "caption": "Danny Boyle Reveals the Final Chapter of 28 Years Later Needs Financing Despite a Completed Script",
-        "source": "TheWrap"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 20:34:04 +0000"
   },
   "eh6qc3": {
     "id": "eh6qc3",
