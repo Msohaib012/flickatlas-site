@@ -171402,5 +171402,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 08:35:00 +0000"
+  },
+  "icm4pr": {
+    "id": "icm4pr",
+    "type": "news",
+    "headline": "Avengers Doomsday Pre-Sales Shatter Records in India With Midnight Screenings and Record-Breaking Ticket Prices",
+    "dek": "Marvel enthusiasts in India are witnessing unprecedented ticket pricing and early access as Avengers Doomsday sets a new benchmark for advance bookings and theater rates.",
+    "body": [
+      {
+        "h": "Early Release Schedule in India",
+        "p": [
+          "Marvel fans across the nation are gearing up for the arrival of Avengers Doomsday next month. While audiences in the United States must wait for the official theatrical rollout on December 18, Indian cinemas are slated to debut the blockbuster a full day earlier.",
+          "This strategic adjustment accommodates the colossal anticipation and fan craze surrounding the upcoming Marvel Cinematic Universe feature, giving local viewers a head start on the global viewing schedule."
+        ]
+      },
+      {
+        "h": "Historic Advance Booking Trends",
+        "p": [
+          "The excitement for the superhero spectacle has translated into unprecedented pre-sales momentum nearly a month ahead of its official premiere. Cinemas in India have deviated from standard practices by introducing midnight screenings right at the start of the booking window rather than waiting until release week.",
+          "Such early availability for 12:00 AM shows marks a notable milestone for theatrical trends in the region. Fans have quickly responded to these late-night slots, demonstrating exceptional demand well before the movie hits the big screen."
+        ]
+      },
+      {
+        "h": "Stellar Cast and MCU Expectations",
+        "p": [
+          "As part of the expansive Marvel franchise, the project brings together several prominent Hollywood actors. The celebrated lineup features Robert Downey Jr., Chris Evans, and Chris Hemsworth among other major stars.",
+          "The inclusion of these iconic performers has naturally elevated fan expectations, cementing the film as one of the most anticipated theatrical events of the year."
+        ]
+      },
+      {
+        "h": "Record-Breaking Ticket Pricing",
+        "p": [
+          "Beyond scheduling shifts, Avengers Doomsday has established a brand-new benchmark for ticket costs in India. The rates for this release surpass previous highs reported for other major titles like Ramayana, Oppenheimer, and The Odyssey.",
+          "Digital ticketing platforms have captured unprecedented pricing tiers, signaling a distinct shift in how high-demand Hollywood blockbusters are valued in major metropolitan markets."
+        ]
+      },
+      {
+        "h": "The ₹4,300 Milestone in Navi Mumbai",
+        "p": [
+          "A prime illustration of this pricing shift appears on BookMyShow, where a single ticket in Navi Mumbai reached a staggering ₹4,300. The Cinepolis Seawoods multiplex listed this amount for a 12:05 AM English format screening specified as MS INF VSN 4DX 3D.",
+          "This development highlights a major milestone within the country's ticketing ecosystem, as individual movie admission rates cross the ₹4,000 threshold for the very first time."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers Doomsday is set to release in India a day prior to its US debut, generating historic pre-sales and early midnight screenings over a month in advance. The title has also established a new pricing record in the country, with single tickets reaching up to ₹4,300 in Navi Mumbai."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday releases in the US on December 18 and a day earlier in India.",
+      "The film features Robert Downey Jr., Chris Evans, and Chris Hemsworth.",
+      "Midnight screening tickets are priced at ₹4,300 for a 12:05 AM show at Cinepolis Seawoods in Navi Mumbai.",
+      "The story was published on Tuesday, November 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth"
+      ],
+      "titles": [
+        "Avengers Doomsday",
+        "Ramayana",
+        "Oppenheimer",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday tickets price in India",
+      "Avengers Doomsday Navi Mumbai",
+      "Robert Downey Jr"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-17t164337-385-59901794914024.jpg",
+        "caption": "Avengers Doomsday Pre-Sales Shatter Records in India With Midnight Screenings and Record-Breaking Ticket Prices",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 16:44:07 +0530"
+  },
+  "r2os0z": {
+    "id": "r2os0z",
+    "type": "news",
+    "headline": "Udta Teer Hits the 50 Crore Net Mark at the Indian Box Office",
+    "dek": "Ayushmann Khurrana and Sara Ali Khan's family entertainer crosses the 50 crore net milestone in its twenty-fifth day despite a slowdown.",
+    "body": [
+      {
+        "h": "Initial Run and Momentum Loss",
+        "p": [
+          "The Bollywood family entertainer Udta Teer, featuring lead actors Ayushmann Khurrana and Sara Ali Khan, experienced a promising start during its initial week in cinemas. However, the film struggled to sustain its momentum as the weeks progressed, falling short of becoming a clean winner at the domestic box office.",
+          "A strong opening week generated considerable numbers, but subsequent drops in daily ticket sales resulted in an underwhelming total over its twenty-five day theatrical run."
+        ]
+      },
+      {
+        "h": "Impact of Competition",
+        "p": [
+          "External theatrical competition played a significant role in curtailing the film's box office longevity. The strong presence and ongoing run of Ramayana notably impacted the audience footfall for Udta Teer, restricting its ability to add substantial figures in its later weeks."
+        ]
+      },
+      {
+        "h": "Milestone and Final Collection Estimates",
+        "p": [
+          "Despite the slowdown, the feature successfully crossed a crucial financial threshold during its final days in theaters. The film earned fifteen lakh on its fourth Monday, bringing its cumulative net total in India to fifty crore and one lakh.",
+          "With theatrical momentum nearly exhausted, trade projections indicate the lifetime net collection will likely conclude between fifty crore and fifty lakh and fifty-one crore net."
+        ]
+      },
+      {
+        "h": "Week-Wise Collection Breakdown",
+        "p": [
+          "The domestic trajectory began with a strong first week collection of thirty crore and eighty-eight lakh net. This was followed by fifteen crore and fifty lakh net in the second week, and two crore and fifty-six lakh net in the third week.",
+          "Daily figures in the fourth week included twenty lakh on day twenty-two, thirty-one lakh on day twenty-three, forty-one lakh on day twenty-four, and fifteen lakh on day twenty-five."
+        ]
+      },
+      {
+        "h": "Ayushmann Khurrana Post-COVID Milestone",
+        "p": [
+          "Reaching the fifty crore net mark makes Udta Teer the fourth film starring Ayushmann Khurrana to achieve this milestone in the post-COVID era at the Indian box office. Prior to this release, Dream Girl 2, Thamma, and Pati Patni Aur Woh Do reached the same threshold."
+        ]
+      },
+      {
+        "h": "Comparison Among Post-COVID Releases",
+        "p": [
+          "Among the actor's post-COVID releases, Thamma leads the domestic collections with one hundred and fifty-seven crore and five lakh, followed by Dream Girl 2 at one hundred and five crore, and Pati Patni Aur Woh Do at fifty-nine crore and twenty-nine lakh.",
+          "Udta Teer positions itself as his fourth-highest-grossing film of this era, remaining behind Pati Patni Aur Woh Do while sitting ahead of Doctor G, Chandigarh Kare Aashiqui, An Action Hero, and Anek."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Udta Teer reached the fifty crore net milestone at the Indian box office during its twenty-five day run, marking Ayushmann Khurrana's fourth film to achieve this post-COVID feat. Despite a solid opening week, competition from Ramayana and slowing momentum led to an expected lifetime total of fifty to fifty-one crore net."
+        ]
+      }
+    ],
+    "facts": [
+      "Udta Teer stars Ayushmann Khurrana and Sara Ali Khan.",
+      "The film earned 15 lakh on its 25th day.",
+      "The total net collection after 25 days is 50.01 crore.",
+      "The gross collection equals 59.03 crore.",
+      "Week 1 collection was 30.88 crore net.",
+      "Week 2 collection was 15.5 crore net.",
+      "Week 3 collection was 2.56 crore net.",
+      "Day 22 collection was 20 lakh.",
+      "Day 23 collection was 31 lakh.",
+      "Day 24 collection was 41 lakh.",
+      "Thamma collected 157.05 crore.",
+      "Dream Girl 2 collected 105 crore.",
+      "Pati Patni Aur Woh Do collected 59.29 crore.",
+      "Doctor G collected 30 crore.",
+      "Chandigarh Kare Aashiqui collected 28.5 crore.",
+      "An Action Hero collected 10.89 crore.",
+      "Anek collection was 8.15 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sara Ali Khan"
+      ],
+      "titles": [
+        "Udta Teer",
+        "Ramayana",
+        "Dream Girl 2",
+        "Thamma",
+        "Pati Patni Aur Woh Do",
+        "Doctor G",
+        "Chandigarh Kare Aashiqui",
+        "An Action Hero",
+        "Anek"
+      ]
+    },
+    "keywords": [
+      "Udta Teer box office",
+      "Ayushmann Khurrana Udta Teer",
+      "Udta Teer collection",
+      "Ayushmann Khurrana post covid films"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/udta-teer-box-office.jpg",
+        "caption": "Udta Teer Hits the 50 Crore Net Mark at the Indian Box Office",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 11:38:50 +0000"
+  },
+  "1m2cvzd": {
+    "id": "1m2cvzd",
+    "type": "news",
+    "headline": "Street Fighter Reaches Major Global Milestone After Completing One Month in Cinemas",
+    "dek": "The Hollywood video game adaptation crosses the coveted $100 million mark worldwide, officially becoming the highest-grossing installment in its cinematic franchise.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The Hollywood video game adaptation Street Fighter has officially completed thirty-one days in theaters worldwide. During its fifth weekend in release, the feature successfully surpassed the major $100 million global milestone.",
+          "On its fifth Sunday alone, the production brought in $217K, which helped push its total weekend earnings to $754K. This steady accumulation over several weeks ultimately allowed the title to cross the coveted financial threshold."
+        ]
+      },
+      {
+        "h": "Franchise Record Broken",
+        "p": [
+          "With this latest achievement, Street Fighter has claimed the top spot within its cinematic franchise. It surpassed the previous record-holder, the 1994 film adaptation.",
+          "The original 1994 movie had previously held the all-time highest-grossing record for the property after collecting $99.4 million throughout its theatrical run."
+        ]
+      },
+      {
+        "h": "Break-Even Challenges Ahead",
+        "p": [
+          "Despite securing the franchise's top spot, the movie remains far from reaching its necessary financial break-even target. The production was mounted on an estimated budget of $82 million.",
+          "Industry standards typically require a project to gross approximately 2.5 times its production cost globally to achieve profitability. This means the feature needs around $205 million in worldwide revenue to break even."
+        ]
+      },
+      {
+        "h": "Current Revenue Breakdown",
+        "p": [
+          "The worldwide total of $100.74 million is comprised of distinct domestic and international earnings after a full month on the big screen. Domestically, the project accumulated $59 million.",
+          "Meanwhile, overseas markets contributed an additional $41.7 million to the overall global tally, helping the production inch past the nine-figure mark."
+        ]
+      },
+      {
+        "h": "Box Office Trajectory and Momentum",
+        "p": [
+          "The film enjoyed a strong opening week driven primarily by heavy pre-release hype and anticipation. However, it failed to sustain that momentum as it transitioned into its second week.",
+          "Because it still requires more than $105 million to break even and its current daily momentum has slowed considerably, industry expectations suggest the release will ultimately finish as a box office failure."
+        ]
+      },
+      {
+        "h": "Critical Reception and Cast",
+        "p": [
+          "Upon its theatrical debut, the project experienced a mixed response from general audiences while facing largely negative reviews from professional critics. This constrained its overall box office potential.",
+          "The Hollywood cast features Noah Centineo and Jason Momoa in leading roles, alongside Vidyut Jammwal, who appears in a prominent supporting capacity."
+        ]
+      },
+      {
+        "h": "Premise and Release Details",
+        "p": [
+          "The narrative follows iconic game characters Ryu and Ken as they reunite after Chun-Li recruits them for the World Warrior Tournament. They become entangled in a hidden conspiracy that forces them to confront their troubled pasts.",
+          "The feature film was distributed by Paramount Pictures and co-produced by Legendary Pictures and Capcom, with an official theatrical release date of October 16."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Street Fighter crossed the $100 million mark globally after completing 31 days in theaters, surpassing the 1994 film to become the highest-grossing entry in the franchise. Despite this record, the film faces steep financial hurdles and is unlikely to reach its $205 million break-even target.",
+          "The adaptation features Noah Centineo, Jason Momoa, and Vidyut Jammwal, and follows Ryu and Ken competing in the World Warrior Tournament after opening on October 16."
+        ]
+      }
+    ],
+    "facts": [
+      "Street Fighter crossed the $100 million mark worldwide after 31 days in theaters.",
+      "On its fifth Sunday, the film earned $217K.",
+      "The fifth weekend total reached $754K.",
+      "Domestic earnings stand at $59 million.",
+      "International earnings stand at $41.7 million.",
+      "The worldwide total after 31 days is $100.74 million.",
+      "The 1994 predecessor collected $99.4 million during its run.",
+      "The production budget is $82 million.",
+      "The film needs around $205 million to break even.",
+      "The film was released on October 16."
+    ],
+    "entities": {
+      "people": [
+        "Noah Centineo",
+        "Jason Momoa",
+        "Vidyut Jammwal"
+      ],
+      "titles": [
+        "Street Fighter"
+      ]
+    },
+    "keywords": [
+      "Street Fighter box office",
+      "Street Fighter 100 million",
+      "Street Fighter franchise top spot",
+      "Street Fighter movie break even"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/street-fighter-worldwide-box-office-beats-og-film-to-claim-top-spot-in-franchise-001.jpg",
+        "caption": "Street Fighter Reaches Major Global Milestone After Completing One Month in Cinemas",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 11:15:28 +0000"
+  },
+  "1qk6k14": {
+    "id": "1qk6k14",
+    "type": "news",
+    "headline": "Chhaya Kadam Honored with Special Award at BRICS+ International Film Festival for Snow Flower",
+    "dek": "Acclaimed performer Chhaya Kadam achieves international acclaim, securing the Special Award of the Festival for her compelling role in the cross-cultural project Snow Flower.",
+    "body": [
+      {
+        "h": "Global Recognition for Indian Talent",
+        "p": [
+          "Renowned performer Chhaya Kadam continues to expand her footprint across the international cinematic landscape, adding a prestigious new accolade to her impressive career portfolio. The talented actor has officially been bestowed with the Special Award of the Festival at the BRICS+ International Film Festival.",
+          "This high-profile international honor highlights her remarkable contribution to contemporary cinema and underscores the growing appreciation for Indian artistry on world stages. Her ability to transcend cultural and linguistic boundaries has cemented her status as a formidable global talent."
+        ]
+      },
+      {
+        "h": "Award-Winning Role in Snow Flower",
+        "p": [
+          "The international recognition centers on her brilliant performance as Nanda in Snow Flower, a distinctive cinematic collaboration between India and Russia. Her portrayal of the character brought deep emotional resonance and genuine authenticity to the screen.",
+          "Critics and festival juries alike praised her nuanced execution, noting how effectively she inhabited a complex role. Her work in the feature stands as a testament to her dedication and her gift for breathing life into intricate narratives."
+        ]
+      },
+      {
+        "h": "Festival Timeline and Locations",
+        "p": [
+          "The BRICS+ International Film Festival took place across multiple vibrant cultural hubs, running from October 29 through November 3, 2026. Events and screenings were hosted in both St. Petersburg and Moscow.",
+          "The festival gathered cinematic works and creators from diverse nations, creating a rich environment for cultural exchange and international artistic celebration during its late autumn run."
+        ]
+      },
+      {
+        "h": "Festival Jury Accolades",
+        "p": [
+          "Beyond individual acting praise, the festival committee specifically honored Snow Flower for championing unique storytelling values. The official citation commended the production for establishing a vibrant national character.",
+          "Furthermore, the jury highlighted the project's bold exploration of deep unifying principles that connect the varied cultures of different peoples, praising its visionary approach to international co-productions."
+        ]
+      },
+      {
+        "h": "A Versatile Journey Across Cinema",
+        "p": [
+          "Chhaya Kadam is widely celebrated throughout the entertainment industry for her powerful screen presence and exceptional versatility. She has consistently delivered memorable, multi-layered performances across both Marathi and Hindi language cinema.",
+          "Her continuous evolution as a performer allows her to shift effortlessly between diverse genres and storytelling styles, earning the deep respect of peers, critics, and audiences alike."
+        ]
+      },
+      {
+        "h": "Peers Celebrate Her Craft",
+        "p": [
+          "The acclaim surrounding her recent projects has drawn enthusiastic praise from fellow industry figures. Notably, co-actor Taapsee Pannu recently expressed immense admiration for her work.",
+          "Taapsee publicly declared herself a dedicated fan of Chhaya, noting a strong personal desire to collaborate alongside her, which speaks volumes about her esteemed reputation within the filmmaking community."
+        ]
+      },
+      {
+        "h": "A Major Milestone in a Flourishing Career",
+        "p": [
+          "Securing this international prize represents a major turning point in Chhaya Kadam's professional journey. It firmly establishes her presence outside traditional domestic boundaries and opens doors to future global ventures.",
+          "As her performances continue to garner international praise, her ongoing trajectory signals an exciting new chapter for her career and for cross-border cinematic partnerships."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Chhaya Kadam received the Special Award of the Festival at the BRICS+ International Film Festival for her role as Nanda in the India-Russia co-production Snow Flower. The festival, held in St. Petersburg and Moscow from October 29 to November 3, 2026, recognized the film for creating a vibrant national character and exploring cultural unity."
+        ]
+      }
+    ],
+    "facts": [
+      "Chhaya Kadam won the Special Award of the Festival at the BRICS+ International Film Festival.",
+      "She was honored for her performance as Nanda in Snow Flower.",
+      "Snow Flower is an India-Russia co-production.",
+      "The festival took place from October 29 to November 3, 2026, across St. Petersburg and Moscow.",
+      "Taapsee Pannu is a co-actor who called herself a big fan of Chhaya Kadam."
+    ],
+    "entities": {
+      "people": [
+        "Chhaya Kadam",
+        "Taapsee Pannu",
+        "Nanda"
+      ],
+      "titles": [
+        "Snow Flower",
+        "Gandhari"
+      ]
+    },
+    "keywords": [
+      "Chhaya Kadam",
+      "Snow Flower",
+      "BRICS International Film Festival",
+      "Chhaya Kadam Snow Flower",
+      "Special Award Snow Flower"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-3.05.jpg.jpeg",
+        "caption": "Chhaya Kadam Honored with Special Award at BRICS+ International Film Festival for Snow Flower",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 15:46:50 +0200"
   }
 };

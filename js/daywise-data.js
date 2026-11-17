@@ -691,6 +691,11 @@ window.FA_DAYWISE = {
       "collection": 6339,
       "shows": 95,
       "occupancy": 9.8
+    },
+    {
+      "date": "2023-11-15",
+      "day": "Day 31",
+      "collection": 190174
     }
   ],
   "1423191": [
