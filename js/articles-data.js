@@ -175640,5 +175640,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 19:40:07 +0000"
+  },
+  "101sr0n": {
+    "id": "101sr0n",
+    "type": "news",
+    "headline": "The Fastest Indian Films to Breach the Rs 1,000 Crore Worldwide Milestone",
+    "dek": "A look at the record-breaking Indian cinematic releases that stormed into the coveted Rs 1,000 crore global club in record time, transforming box office expectations.",
+    "body": [
+      {
+        "h": "The Evolution of Box Office Milestones",
+        "p": [
+          "In the modern era of Indian cinema, audience attention is consistently captured by the mammoth global earnings of highly-anticipated theatrical releases. While filmmakers once aspired for modest domestic milestones, the benchmark for commercial success has dramatically shifted toward the prestigious Rs 1,000 crore worldwide club.",
+          "Where a modest Rs 100 crore opening week used to dominate media headlines, evolving marketing strategies and changing audience demographics have redefined cinematic success. Contemporary blockbusters now achieve global earnings surpassing a thousand crore rupees in just a matter of days."
+        ]
+      },
+      {
+        "h": "Pushpa 2: The Rule Sets the Pace",
+        "p": [
+          "Claiming the top spot for rapid global commercial success, Pushpa 2: The Rule achieved the Rs 1,000 crore worldwide milestone in a phenomenal six days following its 2024 premiere.",
+          "The feature went on to amass a massive lifetime worldwide gross of Rs 1,742 crore alongside an India net collection of Rs 1,234.10 crore, according to tracking data from Sacnilk."
+        ]
+      },
+      {
+        "h": "Dhurandhar 2: The Revenge Follows Closely",
+        "p": [
+          "Maintaining momentum for contemporary cinematic hits, Dhurandhar 2: The Revenge entered the global Rs 1,000 crore club within seven days of its release in 2026.",
+          "The high-profile release secured a lifetime worldwide gross collection of Rs 1,813 crore, supported by an India net figure of Rs 1,149.30 crore."
+        ]
+      },
+      {
+        "h": "Ramayana: Part 1 Continues Its Theatrical Run",
+        "p": [
+          "Among current box office sensations, Ramayana: Part 1 crossed the Rs 1,000 crore worldwide threshold within eight days while still running actively in cinemas in 2026.",
+          "Trade trackers recorded its lifetime worldwide gross at Rs 1,384.50 crore, accompanied by an India net earning of Rs 760.60 crore during its exhibition window."
+        ]
+      },
+      {
+        "h": "Pioneering Milestones: Baahubali 2 and Dangal",
+        "p": [
+          "Before recent speed records were established, SS Rajamouli's Baahubali 2: The Conclusion crossed the Rs 1,000 crore worldwide mark in 10 days following its 2017 premiere, eventually hitting a lifetime global gross of Rs 1,788.06 crore and an India net collection of Rs 1,030.42 crore.",
+          "Similarly, Dangal reached the global milestone on its 10th day in 2016, propelled by a massive box-office surge in China. It closed its run with a lifetime worldwide gross of Rs 2,070.30 crore and an India net total of Rs 387.38 crore."
+        ]
+      },
+      {
+        "h": "Other Notable Global Blockbusters",
+        "p": [
+          "Several other major features have etched their names into the exclusive club by crossing the benchmark within a span of two to four weeks. RRR achieved the feat in 16 days with a lifetime global gross of Rs 1,230.00 crore and Rs 782.20 crore in India net collections.",
+          "KGF: Chapter 2 and Jawan both accomplished the milestone in 18 days, registering lifetime worldwide grosses of Rs 1,215.00 crore and Rs 1,160.00 crore respectively. Meanwhile, Kalki 2898 AD reached the figure in 17 days with a worldwide total of Rs 1,042.25 crore, and Pathaan crossed the threshold in 27 days with a global gross of Rs 1,055.00 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Recent theatrical releases have redefined box office expectations by crossing the Rs 1,000 crore worldwide milestone in unprecedented timeframes. Films like Pushpa 2: The Rule, Dhurandhar 2: The Revenge, and Ramayana: Part 1 lead the list of fastest records established in Indian cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Pushpa 2: The Rule crossed Rs 1000 crore worldwide in 6 days in 2024.",
+      "Dhurandhar 2: The Revenge crossed Rs 1000 crore worldwide in 7 days in 2026.",
+      "Ramayana: Part 1 crossed Rs 1000 crore worldwide in 8 days in 2026.",
+      "Baahubali 2: The Conclusion crossed Rs 1000 crore worldwide in 10 days in 2017.",
+      "Dangal crossed Rs 1000 crore worldwide on its 10th day in 2016.",
+      "RRR crossed Rs 1000 crore worldwide in 16 days in 2022.",
+      "KGF: Chapter 2 crossed Rs 1000 crore worldwide in 18 days in 2022.",
+      "Jawan crossed Rs 1000 crore worldwide in 18 days in 2023.",
+      "Pathaan crossed Rs 1000 crore worldwide in 27 days in 2023.",
+      "Kalki 2898 AD crossed Rs 1000 crore worldwide in 17 days in 2024."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Pushpa 2: The Rule",
+        "Dhurandhar 2: The Revenge",
+        "Ramayana: Part 1",
+        "Baahubali 2: The Conclusion",
+        "Dangal",
+        "RRR",
+        "KGF: Chapter 2",
+        "Jawan",
+        "Pathaan",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Pushpa 2 The Rule box office",
+      "Dhurandhar 2 The Revenge",
+      "Ramayana Part 1 worldwide collection",
+      "fastest Indian films to cross 1000 crore"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/16/6704-fastest-1000-cr-films.jpg",
+        "caption": "The Fastest Indian Films to Breach the Rs 1,000 Crore Worldwide Milestone",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T21:51:49Z"
+  },
+  "sws7so": {
+    "id": "sws7so",
+    "type": "news",
+    "headline": "Netflix Schedules Greta Gerwig's Narnia Adaptation for Early 2027 Debut",
+    "dek": "Filmmaker Greta Gerwig brings C.S. Lewis's foundational fantasy tale to the screen, tracing the very birth of the magical realm.",
+    "body": [
+      {
+        "h": "Bringing the Beginning to Screen",
+        "p": [
+          "Netflix has locked in the release schedule for Greta Gerwig's highly anticipated adaptation of C.S. Lewis's classic fantasy literature. The film embarks on a journey long before the events of the famous wardrobe portal, tracing the absolute genesis of the magical realm. Rather than starting where most readers first encountered the series, the production opens up the expanded universe through a prequel narrative that established how the fantasy landscape came to be.",
+          "The project forms part of the platform's major 2027 content slate, which was recently highlighted during a prominent festival appearance in Texas. Fans of the literary franchise can anticipate a theatrical run ahead of its digital streaming premiere. The rollout strategy bridges the gap between traditional cinema distribution and home viewing for global audiences."
+        ]
+      },
+      {
+        "h": "Exploring Origins Beyond the Wardrobe",
+        "p": [
+          "By focusing on the events penned in 1955—five years after the initial book publication—the narrative shifts away from the Pevensie siblings. Instead, audiences witness the foundational era of the realm through entirely different eyes. The plot introduces two young companions whose encounter with magical rings transports them far away from London into unfamiliar dimensions.",
+          "These youthful protagonists must navigate the chaotic fallout of dangerous experiments conducted by an irresponsible adult relative. Their unintended journey leads them straight into the miraculous moment of creation, allowing viewers to witness the birth of the land firsthand. This approach offers a stark contrast to discovering a hidden world tucked away behind winter coats."
+        ]
+      },
+      {
+        "h": "The Vision Behind the Director's Chair",
+        "p": [
+          "Acclaimed filmmaker Greta Gerwig takes the helm of the production, bringing her distinct creative vision to the fantasy genre following her success with major biographical and dramatic works. The director has frequently expressed a deep, long-standing personal attachment to the source material. Her childhood fascination with the imagery of a magnificent lion singing an entire reality into existence serves as the emotional core of her cinematic approach.",
+          "Translating that pivotal sonic creation into a theatrical experience provides a unique artistic challenge. The filmmaker intends to make the initial encounter with the fantastical realm feel genuinely strange, vast, and overwhelming, even for lifelong enthusiasts who already know the overarching mythology by heart."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "The production features a robust cast of acclaimed performers bringing the literary figures to life. David McKenna and Beatrice Campbell step into the leading roles of the intrepid young friends who stumble into the multiverse. Their journey anchors the emotional weight of the overarching adventure.",
+          "Alongside the young leads, the ensemble boasts prominent names taking on crucial supporting and antagonistic parts. Emma Mackey assumes the role of the formidable White Witch, while veteran performers such as Carey Mulligan, Daniel Craig, Meryl Streep, and Ciarán Hinds round out the impressive roster of talent."
+        ]
+      },
+      {
+        "h": "Crafting the Soundscapes",
+        "p": [
+          "Music plays an integral part in the storytelling, particularly given the narrative's emphasis on a world brought into existence through song. To capture this auditory magic, the director has reunited with trusted musical collaborators who previously partnered with her on Barbie.",
+          "The composers tasked with building the score face a monumental assignment. They must construct an opening musical number capable of conveying the immense scale of a universe being born from nothingness, setting an appropriately epic tone for the entire cinematic journey."
+        ]
+      },
+      {
+        "h": "Release Timeline and Distribution",
+        "p": [
+          "The cinematic rollout is scheduled to commence early in the year, giving moviegoers multiple ways to experience the spectacle. Premium format previews are slated to begin shortly before the wide theatrical distribution hits big screens.",
+          "Following the exclusive theatrical window, the feature will make its permanent home on the digital platform for subscribers worldwide. This hybrid release plan ensures that fans can enjoy the sweeping scale of the production both in cinema halls and at home."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has confirmed that Greta Gerwig's adaptation of C.S. Lewis's fantasy prequel will debut in early 2027, featuring a star-studded cast and a theatrical run prior to its streaming release. The film explores the creation of the magical realm through the eyes of new young protagonists and features a musical score crafted by returning collaborators."
+        ]
+      }
+    ],
+    "facts": [
+      "C.S. Lewis published the story in 1955.",
+      "Greta Gerwig is directing Narnia: The Magician's Nephew.",
+      "The movie arrives on Netflix on April 2, 2027.",
+      "The theatrical release is set for February 12, 2027.",
+      "IMAX previews begin on February 10, 2027.",
+      "David McKenna plays Digory Kirke.",
+      "Beatrice Campbell plays Polly Plummer.",
+      "Emma Mackey plays the White Witch.",
+      "Mark Ronson and Andrew Wyatt are composing the score."
+    ],
+    "entities": {
+      "people": [
+        "Hannah Hunt",
+        "C.S. Lewis",
+        "Greta Gerwig",
+        "David McKenna",
+        "Beatrice Campbell",
+        "Emma Mackey",
+        "Carey Mulligan",
+        "Daniel Craig",
+        "Meryl Streep",
+        "Ciarán Hinds",
+        "Mark Ronson",
+        "Andrew Wyatt",
+        "Douglas Gresham",
+        "Mark Gordon",
+        "Amy Pascal",
+        "Vincent Sieber",
+        "Lucy Pevensie"
+      ],
+      "titles": [
+        "The Lion, the Witch and the Wardrobe",
+        "The Magician’s Nephew",
+        "Barbie",
+        "Little Women",
+        "Narnia: The Magician's Nephew",
+        "Rings of Power",
+        "One Piece",
+        "The Witcher",
+        "Percy Jackson"
+      ]
+    },
+    "keywords": [
+      "Narnia The Magicians Nephew",
+      "Greta Gerwig Narnia Netflix",
+      "David McKenna Beatrice Campbell Narnia",
+      "Emma Mackey White Witch"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/daniel-craig-in-a-room-full-of-lights-in-narnia-the-magician-s-nephew.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Netflix Schedules Greta Gerwig's Narnia Adaptation for Early 2027 Debut",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 20:50:31 GMT"
+  },
+  "bwlhxr": {
+    "id": "bwlhxr",
+    "type": "news",
+    "headline": "Ranveer Singh Delights Young Admirers With Selfies At Mumbai Event Amid Pralay First Look Buzz",
+    "dek": "Bollywood star Ranveer Singh charmed young fans and media representatives alike during a recent grooming brand launch in Mumbai, even as excitement mounts over his upcoming rugged transformation in Pralay.",
+    "body": [
+      {
+        "h": "Charming Young Fans In Mumbai",
+        "p": [
+          "Bollywood star Ranveer Singh brought his signature high energy to a public appearance in Mumbai on Tuesday, November 17, 2026. Attending an event for the launch of his new men's grooming brand, the actor took time out to connect warmly with children who had gathered outside the venue.",
+          "Dressed in a sharp suit, Ranveer personally operated his phone to capture selfies with his young admirers. Videos of the heartwarming interaction quickly spread across social media, drawing praise from followers for the actor's approachable and kind demeanour."
+        ]
+      },
+      {
+        "h": "Warm Interaction With Paparazzi",
+        "p": [
+          "Beyond his sweet gesture toward the children, the actor also shared pleasantries with the press corps assembled at the venue. He walked over to the cameramen individually, shaking their hands and conversing with them.",
+          "The media members, present to cover the brand launch, received a generous display of affection from the actor, adding to the festive and positive atmosphere of the evening."
+        ]
+      },
+      {
+        "h": "A Milestone Year Professionally And Personally",
+        "p": [
+          "The year 2026 has brought immense personal and professional milestones for Ranveer Singh. In March, he achieved record-breaking success by delivering the highest-grossing film in Hindi cinema history with Dhurandhar: The Revenge.",
+          "On the personal front, the actor welcomed his second baby girl with his wife, Deepika Padukone, in September. The couple, who are also parents to their first daughter Dua, revealed their second daughter's name as Devi Singh Padukone on the occasion of Dussehra."
+        ]
+      },
+      {
+        "h": "Gearing Up For Pralay",
+        "p": [
+          "Ranveer's latest public sighting arrives right on the heels of major buzz surrounding his upcoming cinematic venture, Pralay. The first photographs from the film's set emerged online on Monday, November 16, showcasing the actor in a completely rugged avatar featuring unkempt hair and a thick beard.",
+          "Directed by Jai Mehta, Pralay is a zombie survival thriller set in a near-future Mumbai where human survival is threatened by a severe pandemic and outbreak. Production on the project commenced in August 2026 across real locations in the city."
+        ]
+      },
+      {
+        "h": "Production Debut And Backing",
+        "p": [
+          "The upcoming thriller holds special significance as it marks Ranveer Singh's debut as a film producer. The movie is backed collectively by Birla Studios, True Story Films, and the actor's own production banner, Maa Kasam Films.",
+          "While the makers have largely kept plot details and the official release date under wraps, Pralay stands as Ranveer's first major silver-screen outing following the massive success of Dhurandhar: The Revenge."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranveer Singh was recently spotted at a Mumbai event launching his men's grooming brand, where he clicked selfies with children and greeted the paparazzi. This appearance followed the release of his rugged first-look pictures for his upcoming zombie thriller Pralay, directed by Jai Mehta. The actor has enjoyed a momentous 2026 marked by the massive box-office success of Dhurandhar: The Revenge, expanding his family with wife Deepika Padukone, and stepping into production."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranveer Singh attended a men's grooming brand launch in Mumbai on Tuesday, November 17, 2026.",
+      "First pictures from the set of Pralay surfaced online on Monday, November 16, 2026.",
+      "Dhurandhar: The Revenge released in March 2026 and became the highest grossing film in the history of Hindi cinema.",
+      "Ranveer Singh and Deepika Padukone welcomed their second daughter in September 2026, naming her Devi Singh Padukone on Dussehra.",
+      "Pralay is directed by Jai Mehta and went on floors in August 2026.",
+      "Pralay is backed by Birla Studios, True Story Films, and Maa Kasam Films."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Deepika Padukone",
+        "Jai Mehta",
+        "Dua",
+        "Devi Singh Padukone",
+        "Mudit Bhatnagar"
+      ],
+      "titles": [
+        "Dhurandhar: The Revenge",
+        "Pralay"
+      ]
+    },
+    "keywords": [
+      "Ranveer Singh",
+      "Pralay",
+      "Dhurandhar The Revenge",
+      "Jai Mehta"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156526129,thumbsize-72203,width-1280,height-720,resizemode-75/156526129.jpg",
+        "caption": "Ranveer Singh Delights Young Admirers With Selfies At Mumbai Event Amid Pralay First Look Buzz",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T21:51:49Z"
+  },
+  "8hxrvg": {
+    "id": "8hxrvg",
+    "type": "news",
+    "headline": "Danny Boyle Reveals the Single Condition Required for 28 Years Later: Part III",
+    "dek": "Director Danny Boyle explains that a third installment in the horror franchise depends entirely on securing financing following the box office stumble of the previous film.",
+    "body": [
+      {
+        "h": "The Financial Hurdle Facing Part III",
+        "p": [
+          "The realization of 28 Years Later: Part III hinges entirely on a significant financial hurdle. Director Danny Boyle has openly discussed the status of the prospective third entry in the horror series, noting that a complete script already exists.",
+          "While the creative team is eager to move forward, the project remains stalled because the necessary capital has not yet been raised. Sony Pictures produced the preceding films, but financing remains the ultimate obstacle."
+        ]
+      },
+      {
+        "h": "Script Status and Cillian Murphy's Involvement",
+        "p": [
+          "Alex Garland has written a script for the final chapter, which Boyle describes as fantastic. Furthermore, Cillian Murphy is reportedly interested in reprising his role following his brief appearance in 28 Years Later: The Bone Temple.",
+          "The proposed narrative is designed to conclude the entire franchise in a structured manner, bringing the overarching story to a definitive close if production ever gets underway."
+        ]
+      },
+      {
+        "h": "Box Office Discrepancies Between Installments",
+        "p": [
+          "The hesitation from studio executives stems from divergent box office performances. The initial film grossed $151 million against a production budget in the $60 million range, marking a successful run.",
+          "However, the sequel struggled financially by generating only $58.5 million worldwide on a comparable budget. This downturn caused hesitation regarding greenlighting another expensive production."
+        ]
+      },
+      {
+        "h": "A Powerhouse Creative Team",
+        "p": [
+          "Despite financial setbacks, the project boasts an acclaimed lineup of talent. Cillian Murphy and Danny Boyle are both Academy Award winners, while Alex Garland is an Oscar-nominated screenwriter.",
+          "This high level of industry recognition leaves a small window of possibility for the film to eventually overcome its monetary obstacles and secure backing."
+        ]
+      },
+      {
+        "h": "Potential Streaming Solutions",
+        "p": [
+          "Finding alternative funding sources might involve looking beyond traditional theatrical models. Partnering with a streaming service is viewed as a pragmatic route for the production.",
+          "Netflix currently has a partnership with Sony and is releasing Boyle's new movie Ink, making a streaming collaboration a logical avenue to explore for the trilogy's conclusion."
+        ]
+      },
+      {
+        "h": "Factors Contributing to the Sequel's Struggle",
+        "p": [
+          "Several elements may have contributed to the second film's commercial struggles at the box office. The first movie featured an unconventional ending that left viewers divided.",
+          "Additionally, a compressed release schedule of roughly six months between installments potentially hindered audience momentum rather than helping it."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Danny Boyle states that 28 Years Later: Part III will only happen if the production can secure enough money to move forward. Although a script by Alex Garland exists and Cillian Murphy is willing to return, the box office failure of 28 Years Later: The Bone Temple has left Sony hesitant to fund the final chapter."
+        ]
+      }
+    ],
+    "facts": [
+      "Danny Boyle directed 28 Years Later and Ink.",
+      "Alex Garland wrote the script for the third part.",
+      "Cillian Murphy appeared in 28 Years Later: The Bone Temple.",
+      "28 Years Later made $151 million against a budget around $60 million.",
+      "28 Years Later: The Bone Temple grossed $58.5 million worldwide on a similar budget.",
+      "Sony Pictures produced 28 Years Later and The Bone Temple.",
+      "Netflix is releasing Danny Boyle's movie Ink."
+    ],
+    "entities": {
+      "people": [
+        "Cillian Murphy",
+        "Danny Boyle",
+        "Alex Garland",
+        "Ryan Scott"
+      ],
+      "titles": [
+        "28 Years Later",
+        "28 Years Later: Part III",
+        "28 Years Later: The Bone Temple",
+        "Ink",
+        "Oppenheimer"
+      ]
+    },
+    "keywords": [
+      "28 Years Later Part III",
+      "Danny Boyle 28 Years Later",
+      "Cillian Murphy 28 Years Later",
+      "Alex Garland script"
+    ],
+    "images": [
+      {
+        "url": "https://www.slashfilm.com/img/gallery/cillian-murphys-28-years-later-part-iii-will-only-happen-under-one-condition-says-director-danny-boyle/l-intro-1794942521.jpg",
+        "caption": "Danny Boyle Reveals the Single Condition Required for 28 Years Later: Part III",
+        "source": "SlashFilm"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 19:23:37 +0000"
   }
 };
