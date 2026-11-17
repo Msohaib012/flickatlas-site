@@ -172585,5 +172585,439 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 18:34:00 +0530"
+  },
+  "eoza1n": {
+    "id": "eoza1n",
+    "type": "news",
+    "headline": "Theatrical and Streaming Lineup for November 18-24, 2026 Features Major Blockbusters and Diverse Indie Titles",
+    "dek": "A comprehensive look at the films arriving in cinemas and hitting streaming platforms between November 18 and November 24, 2026, led by Lionsgate's latest Hunger Games installment.",
+    "body": [
+      {
+        "h": "Theatrical Highlights Led by Lionsgate",
+        "p": [
+          "The week of November 18 through November 24, 2026, brings a major slate of cinematic offerings to the big screen, anchored heavily by one of the year's most anticipated theatrical events. Presale enthusiasm has dominated discussions leading up to the rollout, positioning the new additions as a dominant force at the box office.",
+          "Audiences heading to cinemas will find a mix of massive blockbusters and targeted specialty releases designed to cater to various demographics and cinematic tastes."
+        ]
+      },
+      {
+        "h": "The Hunger Games: Sunrise on the Reaping Arrives Wide",
+        "p": [
+          "Lionsgate's sixth entry in the beloved dystopian franchise arrives on November 20 in a wide theatrical release. Directed by Francis Lawrence, the film stars Joseph Zada as a young Haymitch Abernathy.",
+          "Early indicators show that presales for the blockbuster have outpaced those of 'Wicked', pointing toward a massive turnout during its opening weekend."
+        ]
+      },
+      {
+        "h": "Expansions and Limited Screenings",
+        "p": [
+          "Peter Farrelly's biographical drama 'I Play Rocky' expands nationwide on November 20 following its initial limited run that began on November 6. The timing coincides closely with the fiftieth anniversary of the original 'Rocky' film from November 21, 1976.",
+          "Additionally, Focus Features rolls out 'Elsinore' in select theaters on November 20 with a cast featuring Andrew Scott and Olivia Colman, while Sumerian's 'Josephine' also launches in limited release on the same date."
+        ]
+      },
+      {
+        "h": "Thriller and Specialty Releases",
+        "p": [
+          "Horror and thriller fans receive a new entry with 'Best Pancakes in the County', a standoff thriller written and directed by Ken Sanzel. The movie stars Nicolas Cage, Justin Long, and Shelley Hennig, utilizing a day-and-date release strategy in select theaters and on digital platforms on November 20.",
+          "Rounding out the specialty slate, MUBI releases 'Minotaur' in limited theaters, appearing alongside Magnolia Pictures' re-release of 'The Host' and several other specialized projects."
+        ]
+      },
+      {
+        "h": "Schedule Changes and Notable Delays",
+        "p": [
+          "Several titles previously expected during this window have experienced shifts in their distribution calendars. The John Travolta and Robert Carlyle JFK assassination drama 'November 1963' was moved by distributor Ketchup Entertainment from its original date to December 4, 2026.",
+          "Similarly, early reports placing 'Frozen III' in late November 2026 proved incorrect, as Disney pushed the project to November 2027 to allow both 'Frozen 3' and 'Frozen 4' to be produced concurrently."
+        ]
+      },
+      {
+        "h": "Streaming Premieres Across Major Platforms",
+        "p": [
+          "Netflix hosts a busy week of content starting November 18 with the Léa Seydoux drama 'Gentle Monster', the Leighton Meester fake-dating romantic comedy 'Guarding Stars', and the reality competition series 'Win the Mall'. These are followed by the eight-episode drama 'The Altruists' on November 19 and the film 'Steps' on November 20.",
+          "Prime Video adds the Nicolas Cage-led sports biopic 'Madden' to its streaming library on November 18, following its limited theatrical run that started on November 11. The documentary 'Rob Lowe: The Outsider' concludes the Netflix weekly lineup on November 24."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The theatrical and streaming calendar for November 18 to November 24, 2026, features a diverse mix of major cinematic events, led by the wide release of Lionsgate's 'The Hunger Games: Sunrise on the Reaping'. Alongside prominent theatrical expansions and limited indie projects, various platforms debut notable streaming titles like 'Gentle Monster' and 'Madden'."
+        ]
+      }
+    ],
+    "facts": [
+      "The release week runs from November 18 to November 24, 2026.",
+      "The Hunger Games: Sunrise on the Reaping opens wide on November 20, 2026.",
+      "Francis Lawrence directed The Hunger Games: Sunrise on the Reaping.",
+      "Joseph Zada stars as a young Haymitch Abernathy.",
+      "I Play Rocky expands wide on November 20, 2026, after beginning a limited run on November 6, 2026.",
+      "Peter Farrelly directed I Play Rocky, starring Stephan James.",
+      "The original Rocky film was released on November 21, 1976.",
+      "Elsinore releases in select theaters on November 20, 2026, starring Andrew Scott and Olivia Colman.",
+      "Josephine opens in limited theaters on November 20, 2026.",
+      "Best Pancakes in the County releases day-and-date in select theaters and on digital on November 20, 2026.",
+      "Ken Sanzel wrote and directed Best Pancakes in the County, starring Nicolas Cage, Justin Long, and Shelley Hennig.",
+      "Minotaur opens in limited theaters on November 20, 2026, alongside a re-release of The Host.",
+      "November 1963 was moved by Ketchup Entertainment to December 4, 2026.",
+      "Frozen III was delayed by Disney to November 2027.",
+      "Gentle Monster and Guarding Stars land on Netflix on November 18, 2026.",
+      "The Altruists arrives on Netflix on November 19, 2026.",
+      "Steps arrives on Netflix on November 20, 2026.",
+      "Rob Lowe: The Outsider releases on Netflix on November 24, 2026.",
+      "Madden begins streaming on Prime Video on November 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Francis Lawrence",
+        "Joseph Zada",
+        "Haymitch Abernathy",
+        "Peter Farrelly",
+        "Stephan James",
+        "Andrew Scott",
+        "Olivia Colman",
+        "Ken Sanzel",
+        "Nicolas Cage",
+        "Justin Long",
+        "Shelley Hennig",
+        "John Travolta",
+        "Robert Carlyle",
+        "Léa Seydoux",
+        "Leighton Meester",
+        "Rob Lowe",
+        "John Madden",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Wicked",
+        "I Play Rocky",
+        "Rocky",
+        "Elsinore",
+        "Josephine",
+        "Best Pancakes in the County",
+        "Minotaur",
+        "The Host",
+        "November 1963",
+        "Frozen III",
+        "Frozen 3",
+        "Frozen 4",
+        "Gentle Monster",
+        "Guarding Stars",
+        "Win the Mall",
+        "The Altruists",
+        "Steps",
+        "Rob Lowe: The Outsider",
+        "Madden",
+        "Sunrise on the Reaping",
+        "Ebenezer",
+        "KPop Demon Hunters Tour 2027"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games: Sunrise on the Reaping",
+      "I Play Rocky film release",
+      "Elsinore Focus Features",
+      "November 18-24 2026 movies",
+      "Gentle Monster Netflix drama"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/10/empty-cinema.jpg",
+        "caption": "Theatrical and Streaming Lineup for November 18-24, 2026 Features Major Blockbusters and Diverse Indie Titles",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 13:50:25 +0000"
+  },
+  "cjzpo9": {
+    "id": "cjzpo9",
+    "type": "news",
+    "headline": "Official Trailer Unveiled for Documentary 'Jane Elliott Against the World'",
+    "dek": "Flatbush Pictures releases the official United States trailer for Judd Ehrlich's documentary focusing on the renowned educator and anti-racism activist Jane Elliott.",
+    "body": [
+      {
+        "h": "Introduction to the Documentary Trailer",
+        "p": [
+          "Flatbush Pictures has officially released the promotional trailer for the documentary titled Jane Elliott Against the World. The feature provides an engaging portrait of Jane Elliott, an educator from Iowa known for confronting racial prejudice.",
+          "The newly debuted footage highlights her lifelong dedication to challenging white America and sparking vital conversations surrounding discrimination and societal power dynamics."
+        ]
+      },
+      {
+        "h": "The Origin of the Blue Eyes / Brown Eyes Exercise",
+        "p": [
+          "Jane Elliott initially gained prominence following a controversial classroom experiment conducted in 1968. The day after the assassination of Martin Luther King Jr., the rural schoolteacher divided her all-white third-grade students by eye color to demonstrate the realities of discrimination.",
+          "That foundational Blue Eyes / Brown Eyes exercise drew immediate backlash within her community. Despite the intense negative reactions, the exercise became a widely recognized pedagogical tool for explaining prejudice."
+        ]
+      },
+      {
+        "h": "Continuing the Fight Into Modern Times",
+        "p": [
+          "Now nearly ninety years old, Elliott continues to speak out against racism and advocate for inclusive education. The documentary captures her transition from her hometown in Iowa to participating in modern ideological battles over what history is taught in schools.",
+          "The film examines the deep personal costs she has faced after decades of public activism. It showcases her relentless refusal to back down even after more than fifty-five years on the front lines."
+        ]
+      },
+      {
+        "h": "Festival Premiere and Theatrical Release Plans",
+        "p": [
+          "Jane Elliott Against the World first debuted earlier this year at the 2026 Sundance Film Festival. Following its festival run, Flatbush Pictures has scheduled the documentary to open in select United States theaters starting on December 4th, 2026.",
+          "The theatrical rollout places the project squarely in the thick of the awards season. Audiences seeking more details can consult the official website associated with the film."
+        ]
+      },
+      {
+        "h": "Director and Production Team",
+        "p": [
+          "The documentary is directed by acclaimed filmmaker Judd Ehrlich. His previous directing credits include Mayor of the West Side, Run for Your Life, Magic Camp, We Could Be King, Keepers of the Game, The Price of Freedom, and 26th Street Garage: The FBI's Untold Story of 9/11.",
+          "Production duties on the project were handled by Elena Gaby alongside Max Powers and director Judd Ehrlich."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Flatbush Pictures has unveiled the official trailer for Jane Elliott Against the World, a documentary directed by Judd Ehrlich about longtime activist and teacher Jane Elliott. Following its premiere at the 2026 Sundance Film Festival, the film is set for a select theater release on December 4th, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Jane Elliott Against the World is a documentary film directed by Judd Ehrlich.",
+      "The documentary originally premiered at the 2026 Sundance Film Festival.",
+      "Flatbush Pictures is releasing the film in select US theaters starting on December 4th, 2026.",
+      "Jane Elliott is a rural Iowa schoolteacher who conducted a controversial 1968 lesson on discrimination based on eye color.",
+      "The 1968 classroom exercise took place the day after Martin Luther King Jr. was assassinated.",
+      "Judd Ehrlich's previous directing credits include Mayor of the West Side, Run for Your Life, Magic Camp, We Could Be King, Keepers of the Game, The Price of Freedom, and 26th Street Garage: The FBI's Untold Story of 9/11.",
+      "The film was produced by Elena Gaby, Max Powers, and Judd Ehrlich."
+    ],
+    "entities": {
+      "people": [
+        "Jane Elliott",
+        "Judd Ehrlich",
+        "Martin Luther King Jr.",
+        "Elena Gaby",
+        "Max Powers"
+      ],
+      "titles": [
+        "Jane Elliott Against the World",
+        "Mayor of the West Side",
+        "Run for Your Life",
+        "Magic Camp",
+        "We Could Be King",
+        "Keepers of the Game",
+        "The Price of Freedom",
+        "26th Street Garage: The FBI's Untold Story of 9/11"
+      ]
+    },
+    "keywords": [
+      "Jane Elliott Against the World",
+      "Judd Ehrlich documentary",
+      "Jane Elliott trailer",
+      "Flatbush Pictures",
+      "Sundance Film Festival 2026"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/janeelliottpostermaincolobigtw2.jpg",
+        "caption": "Official Trailer Unveiled for Documentary 'Jane Elliott Against the World'",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 14:00:52 +0000"
+  },
+  "3sr93c": {
+    "id": "3sr93c",
+    "type": "news",
+    "headline": "Sunrise on the Reaping Cast, Release Date and Early Reviews",
+    "dek": "Everything confirmed about Francis Lawrence's sixth Hunger Games film, including the cast, book connections, and initial critic reactions.",
+    "body": [
+      {
+        "h": "Release Schedule",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping is scheduled to debut in North American theaters on November 20, 2026. Lionsgate is handling the distribution for the latest installment in the franchise.",
+          "Audience members looking to catch the movie early can attend premium large-format screenings starting November 18, which is two days prior to the official wide release."
+        ]
+      },
+      {
+        "h": "Directorial Leadership",
+        "p": [
+          "Francis Lawrence returns to helm the sixth movie in the series, continuing a streak of directing every entry since Catching Fire.",
+          "His ongoing involvement maintains a consistent creative vision for the cinematic universe as it expands with new prequel narratives."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "Joseph Zada anchors the film in the lead role as a young Haymitch Abernathy, starring opposite Whitney Peak as Lenore Dove Baird.",
+          "The ensemble features Mckenna Grace as Maysilee Donner, Ben Wang as Wyatt Callow, Molly McCann as Louella McCoy, and Iona Bell as Lou Lou."
+        ]
+      },
+      {
+        "h": "Expanding the Ensemble",
+        "p": [
+          "Younger versions of familiar characters appear in the prequel, with Maya Hawke portraying Wiress and Kelvin Harrison Jr. playing Beetee Latier. Lili Taylor completes the tribute mentor group as Mags Flanagan.",
+          "The adult cast brings together prominent actors including Ralph Fiennes, Elle Fanning, Jesse Plemons, Glenn Close, and Kieran Culkin, according to casting reports from Variety and Deadline."
+        ]
+      },
+      {
+        "h": "Literary Background",
+        "p": [
+          "The plot adapts Suzanne Collins' 2025 novel of the same title, serving as a prequel set roughly 24 years before the events of the original trilogy.",
+          "It follows a teenage Haymitch Abernathy through the competition that ultimately shapes him into the cynical mentor featured in the 2012 film, slotting between The Ballad of Songbirds & Snakes and the main trilogy."
+        ]
+      },
+      {
+        "h": "Initial Reactions and Reviews",
+        "p": [
+          "Early social media feedback from the October 28 London premiere praised the project, with several critics describing it as the strongest installment in the franchise yet and commending Joseph Zada's work.",
+          "The official review embargo lifted on the morning of November 17, 2026, bringing early scored reviews such as an 8 out of 10 from Collider, while aggregate scores from Rotten Tomatoes and Metacritic remained unpopulated ahead of the premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming sixth Hunger Games film, directed by Francis Lawrence and distributed by Lionsgate, arrives in North American theaters on November 20, 2026, following early screenings on November 18. Starring Joseph Zada as a young Haymitch Abernathy alongside an extensive ensemble cast, the prequel adapts Suzanne Collins' 2025 novel and has already drawn positive early feedback following its London premiere and the lifting of review embargoes."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping releases on November 20, 2026.",
+      "Francis Lawrence directs the film.",
+      "Joseph Zada stars as a young Haymitch Abernathy.",
+      "The film adapts Suzanne Collins' 2025 novel.",
+      "The review embargo lifted on November 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Francis Lawrence",
+        "Joseph Zada",
+        "Whitney Peak",
+        "Mckenna Grace",
+        "Ben Wang",
+        "Molly McCann",
+        "Iona Bell",
+        "Maya Hawke",
+        "Kelvin Harrison Jr.",
+        "Lili Taylor",
+        "Ralph Fiennes",
+        "Elle Fanning",
+        "Jesse Plemons",
+        "Glenn Close",
+        "Kieran Culkin",
+        "Suzanne Collins"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Catching Fire",
+        "The Ballad of Songbirds & Snakes",
+        "The Hunger Games"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping",
+      "Joseph Zada",
+      "Francis Lawrence",
+      "Suzanne Collins Sunrise on the Reaping"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/10/empty-cinema.jpg",
+        "caption": "Sunrise on the Reaping Cast, Release Date and Early Reviews",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 13:45:26 +0000"
+  },
+  "braotz": {
+    "id": "braotz",
+    "type": "news",
+    "headline": "Rajinikanth's million-dollar PIC with grandsons goes viral, daughter Soundarya gives a glimpse into their Greece vacay",
+    "dek": "Filmmaker Soundarya Rajinikanth shared heartwarming photos from her family trip to Greece, capturing a rare, relaxed moment of Superstar Rajinikanth with his grandsons.",
+    "body": [
+      {
+        "h": "Family Getaway in Athens",
+        "p": [
+          "A family holiday recently provided a refreshing break for Superstar Rajinikanth, moving him away from his demanding shooting schedules. Filmmaker Soundarya Rajinikanth took to social media to share a series of images capturing their time together during a vacation in Greece.",
+          "The snapshots documented the family exploring the historic Greek capital of Athens. Soundarya expressed her joy online, noting the wonderful memories built during the getaway and highlighting how the family soaked up every moment of the trip."
+        ]
+      },
+      {
+        "h": "Viral Photograph With Grandsons",
+        "p": [
+          "Among the shared images, a specific picture featuring Rajinikanth alongside his grandsons quickly caught the attention of internet users. The rare photograph offered admirers a candid look at the actor in a relaxed family setting.",
+          "The widely circulated image resonated deeply with fans, generating massive traction on social media. It showcased a warm, affectionate bond shared across generations within the Rajinikanth family."
+        ]
+      },
+      {
+        "h": "Connection to a Destination Wedding",
+        "p": [
+          "The family journey to Greece was not merely a casual holiday but was tied to a major wedding celebration. The trip aligned with the nuptials of music director Anirudh Ravichander and Kavya Maran, which took place in the European nation.",
+          "The wedding ceremony was hosted on November 11 as a private affair. It brought together close family members and select prominent guests who traveled abroad to partake in the festivities."
+        ]
+      },
+      {
+        "h": "Prominent Families and Backgrounds",
+        "p": [
+          "The union joined two notable households, as Kavya Maran is the daughter of Sun Group chairman Kalanithi Maran and Kavery Maran. She also serves as the CEO of the SunRisers Hyderabad franchise.",
+          "The destination event served as a major gathering point for well-known figures from both the entertainment industry and political spheres, drawing high-profile attendees from various sectors."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest List",
+        "p": [
+          "Rajinikanth was among the distinguished personalities who journeyed to Greece to support the couple. Other notable figures at the celebrations included former Tamil Nadu Chief Minister MK Stalin and Union Minister Dayanidhi Maran.",
+          "Sun Pictures also extended public congratulations to the newly married couple by sharing official wedding moments across their social media handles, amplifying the public interest in the event."
+        ]
+      },
+      {
+        "h": "Upcoming Chennai Reception",
+        "p": [
+          "Following the overseas ceremonies, the families have returned their focus to upcoming domestic celebrations. Preparations are actively underway for a grand wedding reception scheduled to take place in Chennai.",
+          "The reception, set for November 21, is anticipated to host an expansive gathering of industry peers, political leaders, and well-wishers to celebrate the newlyweds."
+        ]
+      },
+      {
+        "h": "Joy for Admirers",
+        "p": [
+          "The timing of Soundarya's vacation photographs has given admirers an additional reason to celebrate. The glimpses of Rajinikanth enjoying a peaceful personal break have been warmly received by the public.",
+          "As the entertainment community awaits the upcoming Chennai reception, these viral family moments provide a delightful window into the personal life of the legendary actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Soundarya Rajinikanth shared photos from a family trip to Greece, highlighting a viral picture of Superstar Rajinikanth with his grandsons. The Greece trip was connected to the November 11 wedding of music director Anirudh Ravichander and Kavya Maran, attended by prominent figures before an upcoming Chennai reception on November 21."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth traveled to Greece for a family vacation and wedding celebrations.",
+      "Soundarya Rajinikanth shared the vacation pictures on Instagram.",
+      "Anirudh Ravichander and Kavya Maran married in Greece on November 11.",
+      "Kavya Maran is the daughter of Kalanithi Maran and Kavery Maran.",
+      "MK Stalin and Dayanidhi Maran were among the prominent guests associated with the celebrations.",
+      "The Chennai wedding reception is scheduled for November 21."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Soundarya Rajinikanth",
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Kalanithi Maran",
+        "Kavery Maran",
+        "MK Stalin",
+        "Dayanidhi Maran"
+      ],
+      "titles": [
+        "SunRisers Hyderabad"
+      ]
+    },
+    "keywords": [
+      "Rajinikanth Greece vacay",
+      "Soundarya Rajinikanth photos",
+      "Anirudh Ravichander Kavya Maran wedding",
+      "Rajinikanth grandsons viral picture"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135929593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rajinikanth's million-dollar PIC with grandsons goes viral, daughter Soundarya gives a glimpse into their Greece vacay",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T20:11:27+05:30"
   }
 };
