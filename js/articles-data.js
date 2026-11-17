@@ -173889,5 +173889,539 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T16:35:12+00:00"
+  },
+  "1wit30w": {
+    "id": "1wit30w",
+    "type": "news",
+    "headline": "Bano Episode 34 — Watch Online on Geo TV",
+    "dek": "Bano episode 34 aired on 2026-11-17 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 34 aired on 2026-11-17 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=-YMdzDwLT8M"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 34 aired on 2026-11-17.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=-YMdzDwLT8M",
+      "YouTube views: 131,030."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/-YMdzDwLT8M/hqdefault.jpg",
+        "caption": "Bano Episode 34",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-17T17:00:30Z"
+  },
+  "1xcxpxw": {
+    "id": "1xcxpxw",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 19 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 19 aired on 2026-11-17 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 19 aired on 2026-11-17 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=EWu3FS4YfVg"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 19 aired on 2026-11-17.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=EWu3FS4YfVg",
+      "YouTube views: 5,565."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/EWu3FS4YfVg/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 19",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-17T17:00:10Z"
+  },
+  "15hoh7e": {
+    "id": "15hoh7e",
+    "type": "news",
+    "headline": "Hurmat Episode 14 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 14 aired on 2026-11-17 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 14 aired on 2026-11-17 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=GT35OUCEk4M"
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 14 aired on 2026-11-17.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=GT35OUCEk4M",
+      "YouTube views: 811,089."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/GT35OUCEk4M/hqdefault.jpg",
+        "caption": "Hurmat Episode 14",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-17T16:00:31Z"
+  },
+  "19a32sa": {
+    "id": "19a32sa",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 73: Manish Goel, Qazi Touqeer, and Amrapali Dubey Face High Drama",
+    "dek": "Episode 73 of Bigg Boss 20 brings intense nomination showdowns, personal clashes between Manish Goel and Qazi Touqeer, and heated arguments involving Amrapali Dubey and Love Gill.",
+    "body": [
+      {
+        "h": "Rising Tensions in the House",
+        "p": [
+          "Viewers of Bigg Boss 20 are in for a massive wave of drama as the contestants gear up for Episode 73. Housemates have officially locked horns, with several personal relationships fracturing under the intense pressure of the game.",
+          "The upcoming episode places nominations at the center of the chaos, forcing participants to make strategic choices that deeply affect their standing with one another."
+        ]
+      },
+      {
+        "h": "Manish Goel and Qazi Touqeer Clash",
+        "p": [
+          "The most prominent talking point of Episode 73 is the severe confrontation between Manish Goel and Qazi Touqeer. The argument ignited during the nomination task when Qazi repeatedly addressed Manish as 'Professor'.",
+          "The Anupamaa actor took strong exception to the label. Despite Manish's objections, Qazi persisted with the remark, resulting in a sharp and heated exchange between the two participants."
+        ]
+      },
+      {
+        "h": "Heated Words and Personal Grievances",
+        "p": [
+          "Visibly upset during the altercation, Manish defended his appearance and persona. He warned Qazi against raising his voice at him, asserting his identity strongly.",
+          "Beyond the nickname dispute, Manish revealed deeper hurt regarding their friendship. He expressed disappointment over Qazi's attitude, indicating a permanent shift in their equation as the nomination task brought underlying tensions to light."
+        ]
+      },
+      {
+        "h": "Amrapali Dubey and Love Gill Face Off",
+        "p": [
+          "In addition to the men's clash, friction erupted between Love Gill and Amrapali Dubey. Love lashed out after the Bhojpuri actress accused her of playing the 'sister card' during house conversations.",
+          "Love made her displeasure clear to the entire house, warning everyone to stop involving her name or blaming her for things she had no part in."
+        ]
+      },
+      {
+        "h": "Eviction History So Far",
+        "p": [
+          "As the reality show progresses toward newer challenges, a total of six contestants have already been shown the door. Rohed Khan was the very first participant to be evicted.",
+          "Following Rohed, housemates Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan were progressively eliminated from the competition."
+        ]
+      },
+      {
+        "h": "Schedule and Where to Watch",
+        "p": [
+          "Bigg Boss 20 Episode 73 is scheduled to premiere on JioHotstar at 9 PM on November 17. Following the OTT release, it will also air on Colors TV at 10:30 PM.",
+          "For viewers tracking unofficial platforms, the episode is expected to surface on Dailymotion after 11 PM. However, viewers are advised to stick to official streaming channels to avoid copyright removals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 73 of Bigg Boss 20 brings fresh confrontations on November 17, highlighted by a sharp dispute between Manish Goel and Qazi Touqeer alongside a clash involving Amrapali Dubey and Love Gill. The episode features high-stakes nomination tasks and streaming details across official platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 73 releases on November 17",
+      "JioHotstar streams the episode at 9 PM",
+      "Colors TV airs the episode at 10:30 PM",
+      "Six contestants have been eliminated so far: Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan"
+    ],
+    "entities": {
+      "people": [
+        "Manish Goel",
+        "Qazi Touqeer",
+        "Amrapali Dubey",
+        "Love Gill",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan",
+        "Vanshaj Singh",
+        "Yung-Amrapali"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Anupamaa"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 73",
+      "Manish Goel Qazi Touqeer fight",
+      "Amrapali Dubey Love Gill",
+      "Bigg Boss 20 November 17"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20episode73dailymotion-27441794931672.jpg",
+        "caption": "Bigg Boss 20 Episode 73: Manish Goel, Qazi Touqeer, and Amrapali Dubey Face High Drama",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 21:51:02 +0530"
+  },
+  "p7t2ai": {
+    "id": "p7t2ai",
+    "type": "news",
+    "headline": "Netflix Unveils Season 2 Trailer And First-Look Photos For Hit Sci-Fi Series 3 Body Problem",
+    "dek": "Netflix has dropped the first teaser and photos for Season 2 of 3 Body Problem, featuring ominous warnings from the San-Ti, returning cast members, and a confirmed release date.",
+    "body": [
+      {
+        "h": "The Return of the Sci-Fi Epic",
+        "p": [
+          "Netflix has officially released the first trailer and initial production photos for the highly anticipated second season of its major science fiction hit. The upcoming episodes promise to elevate the stakes as humanity faces an escalating existential threat from beyond the stars.",
+          "Based on the acclaimed novels by Cixin Liu, the television adaptation continues to captivate global audiences with its grand scale and intricate exploration of first contact with an alien civilization."
+        ]
+      },
+      {
+        "h": "Ominous Warnings and Plot Details",
+        "p": [
+          "The newly debuted teaser opens with a chilling transmission from the San-Ti civilization, acknowledging their prolonged silence while confirming they have continuously watched humanity. The alien message mentions sending an emissary to Earth to supposedly resolve ongoing conflicts.",
+          "However, Planetary Defense Council leader Thomas Wade remains entirely unconvinced by the diplomatic overtures. In the footage, he issues a stark warning that the extraterrestrial visitors have not traveled trillions of miles to negotiate, but rather to completely exterminate humanity."
+        ]
+      },
+      {
+        "h": "Action and Narrative Scope",
+        "p": [
+          "Teaser footage highlights numerous time jumps, heavy action sequences, and expansive storytelling elements. Narrative momentum builds directly upon the foundation laid by the first book and season, shifting focus to the second novel in the trilogy.",
+          "According to the official logline for the upcoming episodes, the alien invasion draws closer as society prepares to confront the threat both on Earth and in deep space. While a space fleet embarks on a multi-century mission, a hidden secret inside one individual's mind may serve as the species' final chance at survival."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production",
+        "p": [
+          "The series was created by David Benioff, D.B. Weiss, and Alexander Woo, who also serve as writers and executive producers. The trio previously confirmed that the television drama is mapped out to run for three distinct seasons, matching the structure of Cixin Liu's literary trilogy.",
+          "Executive producers for the second installment include Bernie Caulfield, Rian Johnson, Ram Bergman, Nena Rodrigue, Qi Lin, Jilong Zhao, Xiaosong Gao, Lauren Ma, Brad Pitt, Jeremy Kleiner, Dede Gardner, Rosamund Pike, Robie Uniacke, Jeremy Podeswa, Miguel Sapochnik, and Duncan Muggoch. Directing duties for the season are handled by Jeremy Podeswa and Miguel Sapochnik."
+        ]
+      },
+      {
+        "h": "Returning Cast and Guest Stars",
+        "p": [
+          "Liam Cunningham returns as Thomas Wade alongside a robust ensemble of series regulars. The main cast features Jess Hong, Benedict Wong, Eiza Gonzalez, Jovan Adepo, Saamer Usmani, Marlo Kelly, Sea Shimooka, Claudia Doumit, and Ellie De Lange.",
+          "The sophomore run also welcomes notable guest stars to the narrative. The guest lineup includes Alfie Allen, David Yip, Jordan Sunshine, and Josh Brener."
+        ]
+      },
+      {
+        "h": "Global Success and Milestones",
+        "p": [
+          "The show achieved massive popularity following its initial debut, spending seven consecutive weeks inside the Global Top 10 rankings. It reached the Top 10 in 93 countries and secured the number one spot in 44 nations, accumulating 46.6 million total views.",
+          "Music from the project also made an impact, with three soundtrack songs landing on Billboard's Top TV Songs chart, highlighted by Lana Del Rey's track 'Video Games' claiming the number one position."
+        ]
+      },
+      {
+        "h": "Release Schedule",
+        "p": [
+          "Fans waiting to continue the journey will not have to wait much longer for new content. Season 2 is scheduled to premiere globally on Thursday, January 14, with all six episodes dropping simultaneously on Netflix."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the first trailer and photos for Season 2 of 3 Body Problem, showcasing warnings from the San-Ti and setting a January 14 premiere date for all six episodes. Created by David Benioff, D.B. Weiss, and Alexander Woo, the upcoming season adapts the second book of Cixin Liu's trilogy and features returning stars like Liam Cunningham and Jess Hong."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 2 of 3 Body Problem premieres on Thursday, January 14",
+      "Season 2 consists of six episodes",
+      "Season 2 is based on book 2 of Cixin Liu's trilogy",
+      "The series was created by David Benioff, D.B. Weiss, and Alexander Woo",
+      "Season 1 spent seven weeks in the Global Top 10",
+      "Season 1 reached the Top 10 in 93 countries and hit #1 in 44 countries",
+      "Season 1 accumulated 46.6 million views",
+      "Lana Del Rey's Video Games reached #1 on Billboard's Top TV Songs chart"
+    ],
+    "entities": {
+      "people": [
+        "Denise Petski",
+        "Chris Long",
+        "Edie Falco",
+        "Justin Long",
+        "Kate Bosworth",
+        "Cixin Liu",
+        "Thomas Wade",
+        "Liam Cunningham",
+        "David Benioff",
+        "D.B. Weiss",
+        "Alexander Woo",
+        "Jess Hong",
+        "Benedict Wong",
+        "Eiza Gonzalez",
+        "Jovan Adepo",
+        "Saamer Usmani",
+        "Marlo Kelly",
+        "Sea Shimooka",
+        "Claudia Doumit",
+        "Ellie De Lange",
+        "Alfie Allen",
+        "David Yip",
+        "Jordan Sunshine",
+        "Josh Brener",
+        "Lana Del Rey",
+        "Bernie Caulfield",
+        "Rian Johnson",
+        "Ram Bergman",
+        "Nena Rodrigue",
+        "Qi Lin",
+        "Jilong Zhao",
+        "Xiaosong Gao",
+        "Lauren Ma",
+        "Brad Pitt",
+        "Jeremy Kleiner",
+        "Dede Gardner",
+        "Rosamund Pike",
+        "Robie Uniacke",
+        "Jeremy Podeswa",
+        "Miguel Sapochnik",
+        "Duncan Muggoch",
+        "Kira Goldberg",
+        "Larry David",
+        "Russell Brand",
+        "Rosario Dawson"
+      ],
+      "titles": [
+        "3 Body Problem",
+        "Katie Greaves",
+        "The Renovation",
+        "Video Games",
+        "Cupertino",
+        "Ghosts",
+        "Eternally Yours",
+        "Sheriff Country",
+        "FBI",
+        "Survivor",
+        "NCIS: Origins",
+        "Only Murders In The Building",
+        "Doctor Who",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "3 Body Problem Season 2",
+      "Netflix 3 Body Problem trailer",
+      "David Benioff D.B. Weiss Alexander Woo",
+      "Liam Cunningham Thomas Wade"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/3BP_203_250822_LH_00202_R.jpg?w=1024",
+        "caption": "Netflix Unveils Season 2 Trailer And First-Look Photos For Hit Sci-Fi Series 3 Body Problem",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 16:02:47 +0000"
+  },
+  "1x6n4nk": {
+    "id": "1x6n4nk",
+    "type": "news",
+    "headline": "Avengers Doomsday Creates Box Office Frenzy in India With Massive Presales",
+    "dek": "The highly anticipated Hollywood blockbuster is generating unprecedented advance sales across the country, crossing major milestones on a limited screen count.",
+    "body": [
+      {
+        "h": "Extraordinary Early Demand",
+        "p": [
+          "The theatrical horizon in India is witnessing an unprecedented wave of excitement as advance booking trends for the upcoming superhero spectacle capture massive attention. Fans across the nation have rushed to secure their seats, creating a buying frenzy that has outpaced typical industry timelines. The sheer volume of eager moviegoers highlights the immense anticipation surrounding the cinematic project.",
+          "As the booking windows officially expanded, ticket counters experienced an immediate surge in activity. Exhibitors noted that audience enthusiasm translated into rapid-fire transactions across major ticketing platforms, setting a remarkably high benchmark for Hollywood releases in the country."
+        ]
+      },
+      {
+        "h": "Impressive Presale Numbers",
+        "p": [
+          "Current tracking indicators reveal that advance earnings are rapidly approaching the Rs. 15 crore mark. This stellar financial accumulation has been driven by the sale of more than 2 lakh tickets within a remarkably short span of time. Out of this impressive total, the figures allocated specifically to the opening day stand at approximately Rs. 10 crore.",
+          "Industry analysts monitoring the initial 24-hour trajectory anticipate that sales will surge even higher by the following morning, pushing closer to the Rs. 20 crore threshold while crossing 3 lakh in total tickets sold. This rapid acceleration underscores a robust consumer appetite that shows no signs of slowing down."
+        ]
+      },
+      {
+        "h": "Limited Screen Rollout Constraints",
+        "p": [
+          "What makes these high presale figures particularly remarkable is that they are being achieved on a heavily restricted rollout. Current availability is limited to roughly 300 screens nationwide, specifically restricted to venues that have secured Infinity Vision certification.",
+          "While initial ticket offerings were planned strictly for standard auditoriums, the overwhelming demand prompted exhibitors to open bookings for specialized formats as well. Premium screens featuring enhanced audio and visual setups quickly joined the booking roster, further amplifying the financial momentum despite the absence of an IMAX release."
+        ]
+      },
+      {
+        "h": "Unprecedented Showtimes and Scheduling",
+        "p": [
+          "The sheer intensity of audience demand has forced cinemas to adapt their operating hours far in advance of the premiere. Rather than waiting for release week to accommodate extra crowds with midnight screenings, theaters have proactively scheduled shows at the earliest permitted slots.",
+          "Across numerous urban centres, participating venues have listed screenings starting as early as midnight, alongside early-morning shows kicking off at 6 AM. Securing packed houses for such unconventional time slots weeks before the actual premiere is a rare feat in modern distribution history."
+        ]
+      },
+      {
+        "h": "Challenging Previous Hollywood Records",
+        "p": [
+          "Market observers are projecting that the film is well-positioned to shatter existing benchmarks for Hollywood openings in India. The current opening-day standard is held by Spider-Man: Brand New Day, which pulled in Rs. 79 crore earlier in the year.",
+          "Furthermore, the highest single-day collection record for an overseas franchise entry finished just shy of the Rs. 100 crore milestone on its opening Sunday. Current market momentum suggests both milestones are within reach, with performance caps dictated solely by overall auditorium capacity."
+        ]
+      },
+      {
+        "h": "Analytical Trade Tracking and Scope",
+        "p": [
+          "It is important to note that all projected figures, opening-day forecasts, and lifetime collection milestones are derived from subjective trade estimates. These analytical metrics incorporate various commercial parameters, ongoing advance trends, and prevailing market sentiment.",
+          "These tracking numbers do not serve as certified accounting statements or finalised collections. Industry trackers continue to evaluate these metrics as the release date draws closer, keeping a close eye on how overall capacity limitations might shape the final box office run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers Doomsday is sparking immense excitement at the Indian box office, nearing Rs. 15 crore in advance sales with over 2 lakh tickets sold on a limited rollout of around 300 screens. The film is on track to break previous Hollywood opening records as cinemas schedule early morning and midnight shows to meet extraordinary demand."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday is nearing Rs. 15 crore in presales in India.",
+      "The film has sold over 2 lakh tickets so far.",
+      "Opening day numbers are around Rs. 10 crore.",
+      "Sales are on a limited rollout of around 300 screens with Infinity Vision certification.",
+      "Spider-Man: Brand New Day grossed Rs. 79 crore earlier this year as the current opening-day record holder."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Avengers Doomsday",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday India box office",
+      "Avengers Doomsday presales",
+      "Spider-Man Brand New Day"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/2052585064_doomsday-2.jpg",
+        "caption": "Avengers Doomsday Creates Box Office Frenzy in India With Massive Presales",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 22:09:24 +0530"
+  },
+  "c570r0": {
+    "id": "c570r0",
+    "type": "news",
+    "headline": "Mark Wahlberg and Seth MacFarlane Return in Official Trailer for Ted: The Animated Series",
+    "dek": "Peacock has dropped the first trailer for Ted: The Animated Series, bringing back the iconic dynamic duo twelve years after the events of Ted 2.",
+    "body": [
+      {
+        "h": "The Return of John and Ted",
+        "p": [
+          "Fans of the raunchy talking bear can rejoice as Peacock officially rolls out the very first trailer for Ted: The Animated Series. The upcoming project brings back familiar voices and expands on a comedic cinematic universe that first captivated audiences with live-action films.",
+          "Twelve years after the storyline of Ted 2, the new animated format finds the titular foul-mouthed bear and his lifelong human companion navigating a brand-new phase of their chaotic lives while retaining their signature humor."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "In this latest installment, the dynamic duo have settled into adulthood with dead-end jobs and a peculiar living arrangement. They reside as next-door neighbors, ensuring that disastrous ideas can travel rapidly from one household to the other.",
+          "While both characters have officially established families of their own, their proximity guarantees that mischief is never far away. Their shared history of talking each other into terrible decisions continues to drive the narrative forward in a fresh episodic format."
+        ]
+      },
+      {
+        "h": "Familiar Voices and New Additions",
+        "p": [
+          "Mark Wahlberg reprises his role as the voice of John Bennett, anchoring the animated transition with his recognizable comedic timing. Joining him is series creator Seth MacFarlane once again voicing the lovable yet cynical teddy bear, Ted.",
+          "Amanda Seyfried also returns to voice Sam, John's wife, alongside Jessica Barth who reprises her role as Tami-Lynn. Meanwhile, fresh voice talent enters the mix with Kyle Mooney and Liz Richman stepping in to portray new characters Apollo and Ruth."
+        ]
+      },
+      {
+        "h": "Behind the Scenes",
+        "p": [
+          "The creative team behind the scenes features familiar hands guiding the transition into animation. Seth MacFarlane co-created the series alongside Paul Corrigan and Brad Walsh, who previously executive produced the live-action prequel series and return here as co-showrunners.",
+          "The visual style and animation production for the project are being managed by Rough Draft Studios. The transition to animation allows the franchise to explore new narrative avenues while keeping the nostalgic core of the characters intact."
+        ]
+      },
+      {
+        "h": "Franchise Background",
+        "p": [
+          "The franchise originally captured public attention through the blockbuster feature films focusing on John Bennett's bizarre childhood wish that brought his teddy bear to life. Later, a Peacock live-action prequel series took viewers back to the 1990s when John was still in high school.",
+          "Throughout the movies and television iterations, the central theme has always revolved around the unbreakable, if destructive, bond between John and Ted. This animated continuation bridges the gap past the events seen in previous cinematic entries."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Audiences eager to catch the premiere will not have to wait much longer, as Peacock has slated the debut for December 17. The initial launch will consist of the first eight episodes dropping all at once.",
+          "Fans looking to follow the continued adventures can expect additional episodes to roll out later in 2027. The streaming platform serves as the exclusive home for this new animated chapter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Peacock has released the official trailer for Ted: The Animated Series, bringing back Mark Wahlberg as John Bennett and Seth MacFarlane as Ted twelve years after Ted 2. The upcoming show features returning cast members alongside new voice actors and premieres its first eight episodes on December 17."
+        ]
+      }
+    ],
+    "facts": [
+      "Mark Wahlberg returns as John Bennett in Ted: The Animated Series.",
+      "Seth MacFarlane voices Ted and co-created the series.",
+      "The animated sequel is set 12 years after the events of Ted 2.",
+      "The first eight episodes premiere on December 17 on Peacock.",
+      "Additional episodes are scheduled to arrive in 2027.",
+      "Amanda Seyfried returns as Sam and Jessica Barth returns as Tami-Lynn.",
+      "Kyle Mooney and Liz Richman join the cast as Apollo and Ruth.",
+      "Paul Corrigan and Brad Walsh serve as co-showrunners.",
+      "Rough Draft Studios handles the animation."
+    ],
+    "entities": {
+      "people": [
+        "Mark Wahlberg",
+        "Seth MacFarlane",
+        "Amanda Seyfried",
+        "Jessica Barth",
+        "Kyle Mooney",
+        "Liz Richman",
+        "Paul Corrigan",
+        "Brad Walsh"
+      ],
+      "titles": [
+        "Ted",
+        "Ted 2",
+        "Ted: The Animated Series"
+      ]
+    },
+    "keywords": [
+      "Ted: The Animated Series trailer",
+      "Mark Wahlberg Ted animated show",
+      "Seth MacFarlane Peacock series",
+      "Ted animated release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/01/ted-tv-show.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Mark Wahlberg and Seth MacFarlane Return in Official Trailer for Ted: The Animated Series",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 16:30:12 GMT"
   }
 };
