@@ -170999,5 +170999,408 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T01:13:25.462Z"
+  },
+  "1dzkk3v": {
+    "id": "1dzkk3v",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 13: Yash And Ranbir Kapoor Starrer Crosses Rs 800 Crore Nett",
+    "dek": "Mythological epic Ramayana continues its box office journey, crossing the Rs 800 crore nett mark in India despite seeing a dip in morning show occupancy on its thirteenth day.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "The mythological epic Ramayana has captured major attention in the cinematic world this year as the second release for lead star Yash in 2026. Following his return earlier in the year with Toxic, Yash takes on a significant role here as Raavan while also serving as a co-producer alongside Namit Malhotra.",
+          "Directed by Nitesh Tiwari, the high-profile feature brings together a major star cast. It marks the very first collaboration between Yash, Nitesh Tiwari, and co-stars Ranbir Kapoor and Sai Pallavi."
+        ]
+      },
+      {
+        "h": "Star Cast and Creative Collaboration",
+        "p": [
+          "The ambitious cinematic project features Ranbir Kapoor stepping into the role of Lord Ram, while Sai Pallavi portrays Sita alongside Yash. Their combined star power has driven immense anticipation and commercial success for the title.",
+          "With Yash taking high financial stakes as a co-producer alongside Namit Malhotra, the collaboration under Nitesh Tiwari's direction has resulted in one of the most talked-about and successful releases of the year."
+        ]
+      },
+      {
+        "h": "Box Office Rampage and Festive Release",
+        "p": [
+          "Released around the Diwali festival period, the feature immediately went on a box office rampage. It has since emerged as a record-breaking title for its main leads, securing the highest worldwide grosser status for Ranbir Kapoor, Sai Pallavi, and Yash.",
+          "Despite opening to mixed reviews from audiences, the film has enjoyed extraordinary financial milestones, though trade reports indicate it is gradually slowing down during its second week in theaters."
+        ]
+      },
+      {
+        "h": "Day 13 Morning Occupancy Trends",
+        "p": [
+          "The film recorded a morning show occupancy of 12 percent on its twelfth day. Following the conclusion of the Chhath festival, it experienced a further dip on its thirteenth day, registering a footfall of 10.38 percent during morning screenings.",
+          "This morning trend reflects the expected cooling period in footfalls as the feature moves deeper into its second week of theatrical exhibition across various regions."
+        ]
+      },
+      {
+        "h": "Day 13 Collection Breakdown",
+        "p": [
+          "According to tracking data from Sacnilk, the mythological feature accumulated Rs 7.87 crore by early afternoon on its thirteenth day. This total comprised Rs 6.03 crore from the Hindi version, Rs 64 lakh from Kannada, Rs 61 lakh from Tamil, and Rs 59 lakh from Telugu markets.",
+          "These ongoing weekday additions have successfully pushed the overall domestic collection of the feature past a major financial milestone."
+        ]
+      },
+      {
+        "h": "Total Nett Earnings and Language Contributions",
+        "p": [
+          "With the latest figures added, the cumulative nett collection for the movie reached Rs 800.47 crore. The regional breakdown highlights a dominant Hindi language performance contributing Rs 612.03 crore to the total.",
+          "Other language markets also added substantial numbers, with Kannada standing at Rs 65.74 crore, Telugu at Rs 51.49 crore, Tamil at Rs 36.91 crore, and Malayalam contributing Rs 34.3 crore to the domestic nett tally."
+        ]
+      },
+      {
+        "h": "Global Standings and Overseas Records",
+        "p": [
+          "On the international front, the feature currently ranks as the fifth highest-grossing Indian movie globally, boasting a massive worldwide collection of Rs 1437.25 crore after twelve days in cinemas.",
+          "Additionally, the cinematic venture has secured the second highest overseas collection of all time, pulling in an impressive Rs 490 crore from international territories outside India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Nitesh Tiwari directorial Ramayana has crossed the Rs 800 crore nett milestone in India on its thirteenth day despite experiencing a dip in morning occupancy following the Chhath festival. Backed by a strong ensemble including Yash, Ranbir Kapoor, and Sai Pallavi, the mythological drama continues to hold massive worldwide and overseas standings."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash released Toxic earlier in 2026 before Ramayana.",
+      "Ramayana is directed by Nitesh Tiwari.",
+      "Yash plays Raavan, Ranbir Kapoor plays Lord Ram, and Sai Pallavi plays Sita.",
+      "Yash and Namit Malhotra are co-producers of the film.",
+      "The movie was released around Diwali.",
+      "Day 12 morning show occupancy was 12 percent.",
+      "Day 13 morning show occupancy was 10.38 percent.",
+      "Day 13 earnings until 1:30 pm were Rs 7.87cr.",
+      "Hindi collection for day 13 until 1:30 pm was Rs 6.03cr.",
+      "Kannada collection for day 13 until 1:30 pm was Rs 64L.",
+      "Tamil collection for day 13 until 1:30 pm was Rs 61L.",
+      "Telugu collection for day 13 until 1:30 pm was Rs 59L.",
+      "Overall nett collection reached Rs 800.47cr.",
+      "Hindi total nett is Rs 612.03cr.",
+      "Kannada total nett is Rs 65.74cr.",
+      "Telugu total nett is Rs 51.49cr.",
+      "Tamil total nett is Rs 36.91cr.",
+      "Malayalam total nett is Rs 34.3cr.",
+      "Total worldwide collection after 12 days is 1437.25cr.",
+      "Overseas collection is Rs 490cr.",
+      "Story published on November 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Toxic",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 13 collection",
+      "Ranbir Kapoor Ramayana",
+      "Yash Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday13mrngfeature-84101794907243.jpg",
+        "caption": "Ramayana Box Office Collection Day 13: Yash And Ranbir Kapoor Starrer Crosses Rs 800 Crore Nett",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 14:52:20 +0530"
+  },
+  "14jouqe": {
+    "id": "14jouqe",
+    "type": "news",
+    "headline": "Claudia Kim Defies All Odds For Ahn Bo Hyun In Thrilling Teaser For Upcoming Historical Series Sacred Jewel",
+    "dek": "A fresh teaser for the upcoming historical drama Sacred Jewel highlights Claudia Kim stepping out to rescue Ahn Bo Hyun amidst the chaos of the Goryeo Dynasty.",
+    "body": [
+      {
+        "h": "Introduction To The Upcoming Historical Drama",
+        "p": [
+          "The upcoming television drama titled Sacred Jewel has officially shared a brand new video preview, offering audiences a glimpse into its dramatic narrative. Set in the historical era of 1258 during the Goryeo Dynasty, the plot unfolds at a time when the kingdom stands on the absolute brink of defeat after enduring thirty years of war with Mongolia.",
+          "The central plot revolves around the courageous mission of an expedition unit venturing right onto active battlefields. Their primary objective is locating the Avalokitesvara Bead, which is regarded as a sacred relic possessing divine power capable of safeguarding the entire nation."
+        ]
+      },
+      {
+        "h": "Character Dynamics And Plot Setup",
+        "p": [
+          "Actress Claudia Kim takes on the role of Wang Hee, showcasing a fiercely resolute personality in the promotional video. She delivers a firm declaration refusing any peace negotiations and rejecting the notion of Goryeo turning into a vassal state.",
+          "Having previously closed off her emotions due to the trauma of a political marriage and the grief of losing someone close, Wang Hee begins experiencing a personal transformation after crossing paths with young general Baek Gyeol, portrayed by Ahn Bo Hyun."
+        ]
+      },
+      {
+        "h": "The Special Bond Between Wang Hee And Baek Gyeol",
+        "p": [
+          "Baek Gyeol is introduced as a former member of the Gyeonryong Army who deeply comprehends the inner turmoil and feelings of Wang Hee. This shared understanding allows the two characters to gradually forge a unique and special bond with one another.",
+          "The situation escalates dramatically when Baek Gyeol bravely volunteers to lead the escort squad responsible for retrieving the crucial Avalokitesvara Bead, which serves as the final hope for the salvation of Goryeo."
+        ]
+      },
+      {
+        "h": "High Stakes And Dangerous Battles",
+        "p": [
+          "Tension reaches a fever pitch as the escort unit falls under a brutal attack orchestrated by opposing Mongolian forces. In the footage, Baek Gyeol is visibly depicted with arrows piercing his physical body during the onslaught.",
+          "Following reports indicating that the squad has been nearly entirely wiped out, a desperate Wang Hee pleads for assistance to reach Myeongju, ultimately deciding to take matters directly into her own hands."
+        ]
+      },
+      {
+        "h": "Wang Hee Transforms Into A Protector",
+        "p": [
+          "In a pivotal moment of the preview, Wang Hee firmly declares that it is her turn to protect Gyeol, displaying her unwavering dedication to safeguarding the person she loves.",
+          "Her profound evolution from a sheltered princess into an active woman who seizes control of her personal destiny and steps into grave danger acts as the primary driving force for the narrative arc of the show."
+        ]
+      },
+      {
+        "h": "Additional Characters And Complications",
+        "p": [
+          "The overarching plot thickens further with the involvement of Wang Mu, portrayed by Yoon Kyun Sang, who serves as the commander tasked with defending Wonju Fortress. His entanglement in these events points toward an extremely difficult road ahead for the main protagonist.",
+          "With multiple factions, military campaigns, and personal stakes colliding, the television series promises plenty of dramatic twists and high-stakes emotional confrontation upon its arrival."
+        ]
+      },
+      {
+        "h": "Broadcast Details And Premiere Information",
+        "p": [
+          "Fans eagerly anticipating the program do not have to wait much longer, as Sacred Jewel is officially scheduled to premiere on December 5 at 10:40 p.m. KST.",
+          "The release of this latest teaser has successfully heightened anticipation across entertainment platforms, drawing significant attention to the performances of its lead cast members."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A fresh teaser for the upcoming Goryeo Dynasty drama Sacred Jewel showcases Claudia Kim taking extreme risks to rescue Ahn Bo Hyun after his escort squad is ambushed by Mongolian forces. The series is scheduled to make its official premiere on December 5 at 10:40 p.m. KST."
+        ]
+      }
+    ],
+    "facts": [
+      "Sacred Jewel is set in 1258 during the Goryeo Dynasty after 30 years of war with Mongolia.",
+      "Wang Hee is played by Claudia Kim.",
+      "Baek Gyeol is played by Ahn Bo Hyun.",
+      "Wang Mu is played by Yoon Kyun Sang.",
+      "Sacred Jewel premieres on December 5 at 10:40 p.m. KST."
+    ],
+    "entities": {
+      "people": [
+        "Claudia Kim",
+        "Ahn Bo Hyun",
+        "Yoon Kyun Sang",
+        "Wang Hee",
+        "Baek Gyeol",
+        "Wang Mu"
+      ],
+      "titles": [
+        "Sacred Jewel",
+        "Yumi's Cells",
+        "Chimera"
+      ]
+    },
+    "keywords": [
+      "Sacred Jewel",
+      "Claudia Kim Sacred Jewel",
+      "Ahn Bo Hyun Sacred Jewel",
+      "Sacred Jewel teaser"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17175346/sacred-jewel-1-.png",
+        "caption": "Claudia Kim Defies All Odds For Ahn Bo Hyun In Thrilling Teaser For Upcoming Historical Series Sacred Jewel",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 08:57:42 +0000"
+  },
+  "1dmxnp4": {
+    "id": "1dmxnp4",
+    "type": "news",
+    "headline": "Spider-Man: Brand New Day Returning to Theatres with Extended Cut",
+    "dek": "The blockbuster superhero film is heading back to cinemas on December 4 featuring an extended cut, fresh scenes, and additional surprises.",
+    "body": [
+      {
+        "h": "The Theatrical Return Announcement",
+        "p": [
+          "Audiences will soon get another chance to experience the blockbuster superhero adventure on the big screen. The cinematic feature is scheduled to return to theaters on December 4, bringing along an extended cut filled with previously unseen scenes and special surprises for moviegoers.",
+          "The exciting update was shared directly through the official social media channels associated with the film. Utilizing a post on the platform X, formerly known as Twitter, the studio welcomed fans back with the thematic caption celebrating the upcoming theatrical re-release."
+        ]
+      },
+      {
+        "h": "What to Expect from the Extended Cut",
+        "p": [
+          "While specific details regarding the duration and exact nature of the additional footage remain under wraps, the promise of new material is expected to draw crowds back to cinemas. The re-released version aims to offer fresh sequences that were absent during the initial theatrical run.",
+          "Advance ticket sales for this upcoming extended version are scheduled to launch on Thursday, November 19. Fans eager to secure their seats can anticipate further announcements concerning participating locations, screening formats, and show schedules as the premiere date approaches."
+        ]
+      },
+      {
+        "h": "Record-Breaking Box Office Phenomenon",
+        "p": [
+          "The decision to bring the feature back to the big screen follows its extraordinary commercial performance worldwide. Garnering over $2.52 billion globally, the title secured its place as the third-highest-grossing film of all time, standing right behind Avatar and Avengers: Endgame.",
+          "Furthermore, the cinematic release made history by achieving a massive $932 million global opening weekend. This milestone included a staggering $360 million generated solely within North America, highlighting the enduring global appeal of the popular Marvel character."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The fourth instalment of the franchise is directed by filmmaker Destin Daniel Cretton. Tom Holland reprises his role as the famous web-slinging superhero, leading a star-studded ensemble cast.",
+          "The supporting lineup features Zendaya as MJ, Jacob Batalon as Ned Leeds, Sadie Sink as Jean Grey, Jon Bernthal as Frank Castle, also known as The Punisher, Mark Ruffalo as Bruce Banner and the Hulk, alongside Michael Mando and Tramell Tillman."
+        ]
+      },
+      {
+        "h": "Storyline and Chronology",
+        "p": [
+          "The narrative picks up four years after the monumental events of Spider-Man: No Way Home. Peter Parker finds himself navigating daily life within a reality where everyone has entirely forgotten his true identity.",
+          "This unique premise explores the character's struggles in isolation, adding deep emotional layers to the superhero spectacle that resonated strongly with global audiences during its original release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Spider-Man: Brand New Day is heading back to cinemas on December 4 with an extended cut featuring unseen scenes and advance tickets going on sale Thursday. Directed by Destin Daniel Cretton and starring Tom Holland, the film previously achieved massive global success by grossing over $2.52 billion worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Spider-Man: Brand New Day returns to theatres on December 4",
+      "Advance ticket sales for the extended cut begin Thursday, November 19",
+      "The film collected over $2.52 billion worldwide",
+      "It is the third-highest-grossing film of all time behind Avatar and Avengers: Endgame",
+      "Global opening weekend reached $932 million",
+      "North American opening weekend was $360 million",
+      "Directed by Destin Daniel Cretton",
+      "Starring Tom Holland, Zendaya, Jacob Batalon, Sadie Sink, Jon Bernthal, Mark Ruffalo, Michael Mando, and Tramell Tillman",
+      "Set four years after the events of Spider-Man: No Way Home"
+    ],
+    "entities": {
+      "people": [
+        "Soumyabrata Gupta",
+        "Destin Daniel Cretton",
+        "Tom Holland",
+        "Zendaya",
+        "Jacob Batalon",
+        "Sadie Sink",
+        "Jon Bernthal",
+        "Mark Ruffalo",
+        "Michael Mando",
+        "Tramell Tillman"
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Avatar",
+        "Avengers: Endgame",
+        "Spider-Man: No Way Home"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day",
+      "Tom Holland Spider-Man extended cut",
+      "Spider-Man Brand New Day December 4",
+      "Destin Daniel Cretton movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156522692,thumbsize-153059,width-1280,height-720,resizemode-75/156522692.jpg",
+        "caption": "Spider-Man: Brand New Day Returning to Theatres with Extended Cut",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T10:53:26Z"
+  },
+  "7spr66": {
+    "id": "7spr66",
+    "type": "news",
+    "headline": "Shraddha Kapoor Shines In Ji Ji Re Ji From The Upcoming Epic Musical Drama Eetha",
+    "dek": "Maddock Films and Kathputli Creations have released the first song from Eetha, introducing Shraddha Kapoor as a legendary artist in a vibrant musical journey.",
+    "body": [
+      {
+        "h": "Introduction To Eetha And Ji Ji Re Ji",
+        "p": [
+          "The vibrant universe of Eetha has officially been unveiled to the public through the release of its very first musical track, titled Ji Ji Re Ji. Following the massive internet success of the film's trailer, Maddock Films and Kathputli Creations have given audiences their initial glimpse into the grand production.",
+          "Fronted by Shraddha Kapoor as the titular character, the newly released track serves as a theatrical introduction to the artistic environment and cultural setting of the upcoming cinematic experience."
+        ]
+      },
+      {
+        "h": "A Powerhouse Creative Team",
+        "p": [
+          "The creation of Ji Ji Re Ji brings together some of the most celebrated names in the Indian film industry. The composition, arrangement, conduct, and overall production of the song are handled by the acclaimed, National Award-winning musical duo Ajay-Atul.",
+          "Complementing the grand score are evocative lyrics penned by Amitabh Bhattacharya and brought to life through the powerful and resonant vocals of playback singer Shreya Ghoshal."
+        ]
+      },
+      {
+        "h": "Visuals, Choreography And Traditional Aesthetics",
+        "p": [
+          "Vaibhavi Merchant takes charge of the choreography, guiding Shraddha Kapoor through expressive movements and striking stage presence. The visual aesthetics heavily lean into traditional cultural elements.",
+          "Kapoor is seen donning a classic Nauvari sari paired with traditional jewellery and ghungroos, capturing the rich theatrical energy and essence of a legendary stage performer."
+        ]
+      },
+      {
+        "h": "The Central Role Of Music In The Narrative",
+        "p": [
+          "Within the framework of Eetha, music functions as much more than a mere backdrop. It acts as the primary language through which the protagonist's complex emotions, personal ambitions, and core identity are communicated.",
+          "Because the story revolves around the life of a legendary artist, the soundtrack carries the crucial responsibility of immersing the audience directly into her world while establishing the theatrical scale of the film."
+        ]
+      },
+      {
+        "h": "Celebrating Strength And Individuality",
+        "p": [
+          "At its core, Ji Ji Re Ji functions as a dedicated tribute to female strength, resilience, and personal independence. The poetic songwriting highlights the central figure not just as an entertainer, but as an ambitious woman of quiet power.",
+          "Through dynamic stage presence and rich cultural framing, the track highlights a narrative about defying established societal conventions and rising above adversity."
+        ]
+      },
+      {
+        "h": "Background And Release Details",
+        "p": [
+          "Eetha is framed as an epic musical drama inspired by the extraordinary life of a Lavani legend who carved out a permanent place in history despite facing numerous obstacles.",
+          "The feature film is directed by Laxman Utekar and is jointly produced by Dinesh Vijan, Laxman Utekar, and Karishma Sharma. It is officially scheduled to hit movie theaters on December 4, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Maddock Films and Kathputli Creations have released Ji Ji Re Ji, the first song from the upcoming epic musical drama Eetha starring Shraddha Kapoor. Directed by Laxman Utekar and featuring contributions from Ajay-Atul, Shreya Ghoshal, Amitabh Bhattacharya, and Vaibhavi Merchant, the film is set for a theatrical release on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shraddha Kapoor stars as Eetha",
+      "The song is titled Ji Ji Re Ji",
+      "Music is composed by Ajay-Atul",
+      "Lyrics are by Amitabh Bhattacharya",
+      "Vocals are by Shreya Ghoshal",
+      "Choreography is by Vaibhavi Merchant",
+      "The film is directed by Laxman Utekar",
+      "The film is produced by Dinesh Vijan, Laxman Utekar, and Karishma Sharma",
+      "The film releases in cinemas on December 4, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Ajay-Atul",
+        "Amitabh Bhattacharya",
+        "Shreya Ghoshal",
+        "Vaibhavi Merchant",
+        "Laxman Utekar",
+        "Dinesh Vijan",
+        "Karishma Sharma"
+      ],
+      "titles": [
+        "Eetha",
+        "Ji Ji Re Ji"
+      ]
+    },
+    "keywords": [
+      "Eetha song Ji Ji Re Ji",
+      "Shraddha Kapoor Eetha",
+      "Ajay-Atul Eetha movie",
+      "Laxman Utekar Eetha release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/eetha-song-ji-ji-re-ji-out-shraddha-kapoor-brings-eetha-bais-world-to-life-with-music-dance-a-traditional-nauvari-saree.jpg",
+        "caption": "Shraddha Kapoor Shines In Ji Ji Re Ji From The Upcoming Epic Musical Drama Eetha",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 08:35:00 +0000"
   }
 };
