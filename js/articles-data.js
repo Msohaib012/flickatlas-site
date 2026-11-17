@@ -173019,5 +173019,522 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T20:11:27+05:30"
+  },
+  "k6ajva": {
+    "id": "k6ajva",
+    "type": "news",
+    "headline": "Khushi Episode 66 — Watch Online on HUM TV",
+    "dek": "Khushi episode 66 aired on 2026-11-17 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 66 aired on 2026-11-17 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=2ZgvdKBTjDA"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 66 aired on 2026-11-17.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=2ZgvdKBTjDA",
+      "YouTube views: 206,847."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/2ZgvdKBTjDA/hqdefault.jpg",
+        "caption": "Khushi Episode 66",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-17T15:00:38Z"
+  },
+  "o0b9pz": {
+    "id": "o0b9pz",
+    "type": "news",
+    "headline": "Uswah Episode 55 — Watch Online on Geo TV",
+    "dek": "Uswah episode 55 aired on 2026-11-17 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 55 aired on 2026-11-17 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=sfNhOhI3GpY"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 55 aired on 2026-11-17.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=sfNhOhI3GpY",
+      "YouTube views: 555,739."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/sfNhOhI3GpY/hqdefault.jpg",
+        "caption": "Uswah Episode 55",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-17T15:00:06Z"
+  },
+  "y2lia2": {
+    "id": "y2lia2",
+    "type": "news",
+    "headline": "Dastoor Episode 88 — Watch Online on Green TV",
+    "dek": "Dastoor episode 88 aired on 2026-11-17 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 88 aired on 2026-11-17 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=KF7mNX-Jlrs"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 88 aired on 2026-11-17.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=KF7mNX-Jlrs",
+      "YouTube views: 71,144.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/KF7mNX-Jlrs/hqdefault.jpg",
+        "caption": "Dastoor Episode 88",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-17T14:45:39Z"
+  },
+  "1x07923": {
+    "id": "1x07923",
+    "type": "news",
+    "headline": "Vijay Antony's Wife Fatima Reveals the Heartbreaking Reason Behind the Actor's Barefoot Lifestyle at 'Appa Kutty' Event",
+    "dek": "During a promotional event for the upcoming film 'Appa Kutty', Fatima Antony shared emotional details regarding her late daughter Meera and explained why Vijay Antony has chosen to stop wearing regular footwear.",
+    "body": [
+      {
+        "h": "An Emotional Gathering for Appa Kutty",
+        "p": [
+          "The pre-release promotional event for the upcoming Tamil film Appa Kutty served as a deeply significant moment for actor and composer Vijay Antony and his family. The gathering brought together the cast and crew to discuss the upcoming feature, but it quickly became an emotional space for personal reflections.",
+          "Joining Vijay Antony at the gathering was his wife Fatima Antony and their younger daughter Laura. The presence of the family added a poignant atmosphere to the proceedings as they prepared to share details about the new cinematic project."
+        ]
+      },
+      {
+        "h": "Fatima Antony Breaks Five-Year Hiatus",
+        "p": [
+          "While addressing the audience at the event, Fatima Antony revealed that she was stepping out for a public cinema function for the first time in five years. She noted that she had avoided attending such entertainment industry gatherings ever since the tragic passing of their elder daughter, Meera.",
+          "Her return to a public entertainment platform underscored the profound personal weight of the occasion. The family's openness about their ongoing journey resonated deeply with everyone present at the venue."
+        ]
+      },
+      {
+        "h": "The Story Behind Vijay Antony Going Barefoot",
+        "p": [
+          "One of the most striking personal details shared during the event concerned Vijay Antony's distinctive lifestyle choice of walking entirely without shoes or slippers. Fatima explained that this decision stems directly from memories of their late daughter Meera.",
+          "According to Fatima, the family had accumulated a large collection of footwear purchased for Meera, leaving an entire room filled with her shoes and slippers. Confronted daily by these belongings, Vijay Antony resolved to forgo wearing footwear himself, making exceptions only for major stage shows."
+        ]
+      },
+      {
+        "h": "A Cherished Watch Keeps Memory Alive",
+        "p": [
+          "In addition to his barefoot routine, Fatima highlighted another touching daily tribute that Vijay Antony maintains in honor of Meera. Despite owning several high-end luxury timepieces, the actor consistently opts to wear a simple, inexpensive watch.",
+          "She explained that this specific watch holds immense sentimental value because it was the exact piece that Meera wore on her wrist for the very last time, keeping her close to him through every working day."
+        ]
+      },
+      {
+        "h": "Finding a Fatherly Bond and Family Support",
+        "p": [
+          "Opening up about her own life, Fatima also shared how Vijay Antony became a pillar of emotional support for her. Recalling her early years, she mentioned that her biological father left her family when she was only seven years old.",
+          "She expressed gratitude, stating that Vijay Antony ultimately provided her with the nurturing love and stability of a father. This deep emotional connection continues to anchor their family through both joyful creative milestones and private grief."
+        ]
+      },
+      {
+        "h": "Director Mu Maran and the Premise of Appa Kutty",
+        "p": [
+          "Shifting focus to the cinematic project itself, Vijay Antony spoke about the film's creative vision and director Mu Maran. He encouraged audiences to experience the movie alongside their loved ones, promising a deeply affecting narrative.",
+          "The film stars Vijay Antony and Preethi Asrani in prominent roles, exploring the complex dynamics of a father-daughter relationship. The cast also features Baby Lithanya, Bhagavathi Perumal, and several other supporting actors ahead of its theatrical release on November 20."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "At the pre-release event for the upcoming film Appa Kutty, Vijay Antony's wife Fatima shared emotional memories about their late daughter Meera, explaining why the actor has chosen to remain barefoot and wear a specific watch belonging to her. The family-centric drama, directed by Mu Maran and starring Vijay Antony alongside Preethi Asrani, is scheduled to arrive in theaters on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Antony's wife Fatima attended the 'Appa Kutty' event.",
+      "Fatima stated she had not attended a cinema event in five years since daughter Meera passed away.",
+      "Vijay Antony stopped wearing footwear because an entire room is filled with slippers and shoes bought for Meera.",
+      "Vijay Antony wears an inexpensive watch that Meera had on her wrist for the last time.",
+      "Fatima's father left her and her younger sister when Fatima was seven years old.",
+      "'Appa Kutty' stars Vijay Antony and Preethi Asrani.",
+      "The film is directed by Mu Maran.",
+      "The film also features Baby Lithanya and Bhagavathi Perumal.",
+      "'Appa Kutty' is scheduled to release in theatres on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Antony",
+        "Fatima Antony",
+        "Meera",
+        "Laura",
+        "Mu Maran",
+        "Preethi Asrani",
+        "Baby Lithanya",
+        "Bhagavathi Perumal"
+      ],
+      "titles": [
+        "Appa Kutty"
+      ]
+    },
+    "keywords": [
+      "Appa Kutty film",
+      "Vijay Antony wife Fatima",
+      "Vijay Antony Appa Kutty event",
+      "Meera Vijay Antony footwear"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135928798,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vijay Antony's Wife Fatima Reveals the Heartbreaking Reason Behind the Actor's Barefoot Lifestyle at 'Appa Kutty' Event",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T19:37:29+05:30"
+  },
+  "13g3te0": {
+    "id": "13g3te0",
+    "type": "news",
+    "headline": "Real-Life Superhero Documentary Phoenix Jones Sets Netflix Streaming Debut",
+    "dek": "The talked-about festival documentary chronicling the journey of real-life Seattle vigilante Benjamin Fodor is officially heading to Netflix this December.",
+    "body": [
+      {
+        "h": "Heading to Netflix This December",
+        "p": [
+          "The festival circuit hit chronicling the journey of a real-life costumed vigilante has officially secured its first streaming home. Phoenix Jones: The Rise and Fall of a Real Life Superhero is scheduled to make its official subscription streaming debut in the United States on December 12th, 2026.",
+          "Prior to picking up its new streaming home, the feature-length project travelled through the film festival circuit earlier in the year. It initially held its premiere inside the Documentary Feature Competition at the SXSW Film TV Festival back in March, followed subsequently by a hometown screening event during the Seattle International Film Festival."
+        ]
+      },
+      {
+        "h": "The Rise of a Viral Sensation",
+        "p": [
+          "The subject at the center of the project became a prominent internet sensation during the early 2010s. Operating beneath a striking black-and-gold costume, Benjamin Fodor worked as a mixed martial artist in Seattle who began walking the metropolitan pavement equipped with a taser and pepper spray.",
+          "His street patrols eventually expanded into a larger collaborative group of fellow costumed crimefighters known formally as the Rain City Superhero Movement. However, the period of widespread public fame proved temporary as controversies and legal altercations began to mount."
+        ]
+      },
+      {
+        "h": "Unmasking and Legal Turmoil",
+        "p": [
+          "The momentum surrounding the superhero collective hit a major roadblock following an incident outside a local nightclub in 2011. After being arrested following a pepper-spray altercation where no charges were ultimately brought forward, Fodor chose to publicly unmask himself, leading to the gradual dissolution of his superhero league.",
+          "Years later, the subject found himself back in the public eye during 2020 following a separate arrest on drug-related accusations stemming from an undercover police sting operation."
+        ]
+      },
+      {
+        "h": "Behind the Production and Interviews",
+        "p": [
+          "Filming for the project spanned approximately six years, capturing both the triumphs and downfalls of Fodor's unusual path. The documentary relies heavily on the subject himself to recount his experiences, alongside a diverse lineup of personal and professional interview subjects.",
+          "Among those appearing on screen are his brother, fellow MMA fighter Caros Fodor, and his son, Freedom Fodor. Additional interviewees include fellow real-life costumed figures Midnight Jack, Ghost, and El Caballero, alongside actor Rainn Wilson, author Jon Ronson, and former detective Mark Jamison."
+        ]
+      },
+      {
+        "h": "Creative Team and Runtime",
+        "p": [
+          "The feature marks the debut feature-length directorial effort for filmmaker Bayan Joonam. Production duties were handled by the company Laugh Cry Wow, with Claire Chubbuck, Marlowe Blue, and Duncan Dickerson acting as producers alongside executive producer Jami Gertz.",
+          "The completed documentary has a total runtime measuring 1 hour and 45 minutes, offering an in-depth look at the complex legacy of its primary subject."
+        ]
+      },
+      {
+        "h": "Critical Reception and Legacy",
+        "p": [
+          "Critical feedback emerging from various festival screenings has leaned generally favorable. Reviewers widely agreed that Fodor serves as an inherently compelling documentary subject, even if minor critiques pointed toward a slightly extended runtime.",
+          "Publications weighed in with respectable scores, including a 6 out of 10 from Screen Rant describing the feature as a wild ride, and a 7 out of 10 score awarded by Film Threat. Ultimately, the documentary leaves interpretations open, allowing audiences to decide whether the central figure functioned as a true hero, a simple vigilante, or a more complicated individual."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The documentary Phoenix Jones: The Rise and Fall of a Real Life Superhero is set to arrive on Netflix in the United States on December 12th, 2026, following its earlier festival appearances at SXSW and the Seattle International Film Festival. Directed by Bayan Joonam, the project explores the complex six-year journey of Benjamin Fodor, a mixed martial artist who patrolled Seattle as a costumed vigilante during the early 2010s.",
+          "Featuring interviews with family members, fellow costumed figures, and prominent names like Rainn Wilson and Jon Ronson, the film examines the viral fame, legal troubles, and lasting legacy of the Rain City Superhero Movement."
+        ]
+      }
+    ],
+    "facts": [
+      "Phoenix Jones: The Rise and Fall of a Real Life Superhero releases on Netflix in the US on December 12th, 2026",
+      "The documentary is directed by Bayan Joonam in his feature debut",
+      "The film premiered in the Documentary Feature Competition at SXSW in March",
+      "Benjamin Fodor began patrolling Seattle in 2010",
+      "Fodor was arrested following a pepper-spray incident in 2011",
+      "Fodor was arrested on drug charges in an undercover sting in 2020",
+      "The documentary runs for 1 hour and 45 minutes",
+      "Screen Rant scored the film 6/10 and Film Threat scored it 7/10"
+    ],
+    "entities": {
+      "people": [
+        "Bayan Joonam",
+        "Benjamin Fodor",
+        "Caros Fodor",
+        "Freedom Fodor",
+        "Midnight Jack",
+        "Ghost",
+        "El Caballero",
+        "Jon Ronson",
+        "Rainn Wilson",
+        "Mark Jamison",
+        "Claire Chubbuck",
+        "Marlowe Blue",
+        "Duncan Dickerson",
+        "Jami Gertz"
+      ],
+      "titles": [
+        "Phoenix Jones: The Rise and Fall of a Real Life Superhero",
+        "The Men Who Stare at Goats",
+        "Super"
+      ]
+    },
+    "keywords": [
+      "Phoenix Jones Netflix",
+      "Phoenix Jones The Rise and Fall of a Real Life Superhero",
+      "Benjamin Fodor documentary",
+      "Bayan Joonam Phoenix Jones"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/phoenix-jones-superhero-documentary-coming-to-netflix.jpg",
+        "caption": "Real-Life Superhero Documentary Phoenix Jones Sets Netflix Streaming Debut",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 14:01:01 +0000"
+  },
+  "1grixwz": {
+    "id": "1grixwz",
+    "type": "news",
+    "headline": "Actor Sharad Kapoor exposes fake donation reels, reveals visitors took back cash",
+    "dek": "Actor Sharad Kapoor has spoken out against individuals exploiting his difficult circumstances for social media content, alleging that visitors filmed themselves handing him money only to take it back later.",
+    "body": [
+      {
+        "h": "The Exploitation of Vulnerability",
+        "p": [
+          "Actor Sharad Kapoor has voiced his distress regarding individuals who allegedly leverage his challenging personal circumstances to generate social media content. The performer, who previously appealed to the film industry for work opportunities and financial assistance amid health concerns, revealed that certain visitors engaged in deceptive practices during recent encounters.",
+          "According to Kapoor, visitors handed him cheques or cash, recorded the exchange for online clout, and subsequently retrieved the money. Consequently, the actor stated that he will no longer entertain visitors following these distressing experiences."
+        ]
+      },
+      {
+        "h": "Statements From the Actor and Friends",
+        "p": [
+          "In a video shared on Tuesday, November 17, 2026, Sharad expressed gratitude to genuine supporters while condemning the misleading content circulating online. He noted that people placed money in his hands on camera, leaving him bewildered about their true intentions.",
+          "His friend Hema Choudhary, who is associated with the Bezubaan Trust, also criticized individuals for approaching the actor and recording him when he was unwell. She appealed to the public to respect his privacy and cease filming donation-related reels."
+        ]
+      },
+      {
+        "h": "Warning Against Fraudulent Fundraisers",
+        "p": [
+          "Alongside personal appeals, the Bezubaan Trust issued a strict warning regarding fraudulent fundraising campaigns. The organization clarified on Instagram that it has no association with any accounts claiming to collect donations for Sharad Kapoor or the trust itself.",
+          "The trust urged the public not to believe or contribute to any unauthorized financial appeals circulating across digital platforms. They emphasized that their primary focus remains arranging proper medical care for the actor rather than soliciting public funds."
+        ]
+      },
+      {
+        "h": "Background of the Crisis",
+        "p": [
+          "Sharad's financial and health struggles drew public attention after a video surfaced showing him emotional about parting with his four pet dogs. The pets were relocated to an animal welfare center due to his ongoing difficulties.",
+          "Another video released by the trust featured the actor discussing his battles with depression. During this time, he made a direct appeal to the Hindi film industry for professional opportunities and financial support."
+        ]
+      },
+      {
+        "h": "Industry Support and Assistance",
+        "p": [
+          "Following his public appeal, several notable Bollywood personalities and colleagues stepped forward to extend their support. Figures including Salman Khan, Sonu Sood, and Amitabh Bachchan intervened to offer medical assistance and work opportunities.",
+          "The outpouring of backing from industry heavyweights highlighted the severe nature of the actor's situation, prompting organized efforts to ensure he receives appropriate medical attention and care."
+        ]
+      },
+      {
+        "h": "Sharad Kapoor's Film Legacy",
+        "p": [
+          "Sharad Kapoor made his Bollywood debut in 'Mera Pyara Bharat' and achieved wider recognition with the 1996 film 'Dastak', which also introduced Sushmita Sen to Hindi cinema. His filmography includes appearances in 'Tamanna', 'Josh', 'Khauff', and 'Kyo Kii... Main Jhuth Nahin Bolta'.",
+          "He also featured in notable titles such as 'Jaani Dushman: Ek Anokhi Kahani', 'LOC Kargil', and 'Lakshya'. The actor has remained away from the film industry for several years prior to these recent developments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sharad Kapoor has exposed individuals for recording fake donation videos where money was handed to him and then taken back. While friends and organizations work to arrange his medical care and warn against unauthorized fundraisers, prominent Bollywood figures have stepped in to offer assistance."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor alleged visitors filmed themselves offering money and then took it back.",
+      "The video statement was shared on Tuesday, November 17, 2026.",
+      "Hema Choudhary is associated with the Bezubaan Trust.",
+      "Sharad Kapoor had to move his four pet dogs to an animal welfare centre.",
+      "Bollywood celebrities who stepped in to help include Salman Khan, Sonu Sood, and Amitabh Bachchan.",
+      "Sharad Kapoor made his Bollywood debut with Mera Pyara Bharat and gained recognition with Dastak in 1996."
+    ],
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Hema Choudhary",
+        "Salman Khan",
+        "Sonu Sood",
+        "Amitabh Bachchan",
+        "Sushmita Sen"
+      ],
+      "titles": [
+        "Mera Pyara Bharat",
+        "Dastak",
+        "Tamanna",
+        "Josh",
+        "Khauff",
+        "Kyo Kii... Main Jhuth Nahin Bolta",
+        "Jaani Dushman: Ek Anokhi Kahani",
+        "LOC Kargil",
+        "Lakshya"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor",
+      "Bezubaan Trust",
+      "Sharad Kapoor fake donation reels",
+      "Sonu Sood Sharad Kapoor",
+      "Dastak 1996"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/people-making-fake-donation-reels-actor-sharad-kapoor-exposes-ugly-side-of-help-170020227-16x9_0.jpg?VersionId=1CgFsnD0hwhbIhBxEg0uKJeYxkDLMJvJ",
+        "caption": "Actor Sharad Kapoor exposes fake donation reels, reveals visitors took back cash",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 19:33:29 +0530"
+  },
+  "144vzig": {
+    "id": "144vzig",
+    "type": "news",
+    "headline": "James Cameron's Acclaimed Sci-Fi Sequel Aliens Is Leaving Netflix Soon",
+    "dek": "The celebrated 1986 action masterpiece directed by James Cameron is set to depart from Netflix in the United States at the end of November.",
+    "body": [
+      {
+        "h": "Departure From Netflix",
+        "p": [
+          "Subscribers of Netflix in the United States will soon lose access to one of the most celebrated science fiction action films ever produced. James Cameron's acclaimed sequel is officially scheduled to leave the streaming library on December 1, meaning the final day for viewers to watch the movie on the platform is November 30.",
+          "While this upcoming removal means the feature will no longer be available on Netflix, it is not completely disappearing from the digital streaming landscape. Fans and new viewers will still be able to find and stream the film on other popular subscription services including Hulu and Disney+."
+        ]
+      },
+      {
+        "h": "Background and Creation",
+        "p": [
+          "Premiering in theaters on July 18, 1986, the project arrived four years after James Cameron's debut feature, Piranha II: The Spawning. Given significant creative resources, the filmmaker proved he could helm a major franchise follow-up that expanded upon established mythos.",
+          "The story resumes 57 years after the terrifying events of Ridley Scott's original 1979 classic. Ellen Ripley, portrayed by Sigourney Weaver, is rescued from decades of cryogenic slumber by a deep-space salvage crew and subsequently learns that a human settlement has been founded on the planet where she first encountered the lethal Xenomorphs."
+        ]
+      },
+      {
+        "h": "Shifting From Horror to Action",
+        "p": [
+          "While Ridley Scott's initial installment operated as a claustrophobic, slow-building space haunted house thriller, the 1986 follow-up completely reinvented the atmospheric tone. The project leaned heavily into military conflict and large-scale creature encounters, embracing the fitting tagline 'This Time It's War'.",
+          "Ripley reluctantly joins a team of Colonial Marines on an investigative mission to the colony. Following up a groundbreaking cinematic hit was no small feat, but audiences readily embraced Cameron's ambitious vision, particularly after the director's success with The Terminator two years prior."
+        ]
+      },
+      {
+        "h": "Box Office and Commercial Success",
+        "p": [
+          "Backed by an estimated production budget of $18 million, the sci-fi blockbuster performed exceptionally well at the worldwide box office. The theatrical run ultimately grossed more than $131 million globally, cementing its status as a major financial success for the studio.",
+          "Moviegoers turned out in massive numbers to experience the high-octane spectacle on the big screen, proving that a genre sequel could match or even exceed the commercial reach of its predecessor."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Awards",
+        "p": [
+          "The motion picture earned widespread praise from professional film critics and general audiences alike. On Rotten Tomatoes, the feature holds a remarkable critical rating of 93%, with many reviewers noting that it stands shoulder-to-shoulder with or even surpasses the 1979 original.",
+          "General viewers awarded the film a 94% approval rating on the Popcornmeter. Furthermore, the production received seven Academy Award nominations and secured two competitive Oscars: Best Sound Effects Editing and Best Visual Effects, alongside a Best Actress nomination for Sigourney Weaver."
+        ]
+      },
+      {
+        "h": "Franchise Legacy",
+        "p": [
+          "Decades after its original theatrical release, the 1986 classic remains widely regarded as a near-perfect milestone in science fiction cinema. Its influence can be felt across numerous subsequent entries in the overarching franchise, including later sequels and related projects.",
+          "The feature established new benchmarks for action-driven storytelling within the sci-fi genre, ensuring that James Cameron's directorial achievement continues to be celebrated by generations of movie fans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Cameron's acclaimed 1986 sci-fi action sequel is scheduled to leave Netflix at the end of November, with December 1 marking its removal date. Although it will no longer stream on that specific platform, audiences can still view the movie through alternative services like Hulu and Disney+."
+        ]
+      }
+    ],
+    "facts": [
+      "James Cameron directs Aliens, released on July 18, 1986.",
+      "Aliens is leaving Netflix on December 1, with November 30 as the last streaming day.",
+      "The production budget for Aliens was $18 million, and it grossed over $131 million worldwide.",
+      "Aliens won two Academy Awards out of seven nominations.",
+      "Sigourney Weaver received an Academy Award nomination for Best Actress for her role as Ellen Ripley."
+    ],
+    "entities": {
+      "people": [
+        "James Cameron",
+        "Ridley Scott",
+        "Sigourney Weaver",
+        "Marlee Matlin",
+        "Marsha Fottler",
+        "James Melzer"
+      ],
+      "titles": [
+        "Aliens",
+        "Alien",
+        "Piranha II: The Spawning",
+        "The Terminator",
+        "Children of a Lesser God",
+        "Alien 3",
+        "Alien Resurrection",
+        "Prometheus",
+        "Alien: Covenant",
+        "Alien: Romulus"
+      ]
+    },
+    "keywords": [
+      "Aliens film Netflix",
+      "James Cameron Aliens",
+      "Sigourney Weaver Ripley",
+      "Aliens streaming removal"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/james-cameron.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "James Cameron's Acclaimed Sci-Fi Sequel Aliens Is Leaving Netflix Soon",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 14:00:16 GMT"
   }
 };

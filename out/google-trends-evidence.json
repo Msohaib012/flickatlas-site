@@ -1,8 +1,884 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-17T14:16:29.115244Z",
+ "checked_at": "2026-11-17T16:24:45.481754Z",
  "status": "ok",
  "items": [
+  {
+   "q": "dustin may",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Nine Teams Reportedly Trying To Sign Brewers World Series Champion",
+     "url": "https://sports.yahoo.com/articles/nine-teams-reportedly-trying-sign-130158713.html"
+    },
+    {
+     "title": "Multiple Teams Interested In Dustin May",
+     "url": "https://www.mlbtraderumors.com/2026/11/multiple-teams-interested-in-dustin-may.html"
+    },
+    {
+     "title": "SF Giants News: Missing out on Tim Hill, 1 of many teams in on Dustin May",
+     "url": "https://aroundthefoghorn.com/sf-giants-news-missing-out-on-tim-hill-1-of-many-teams-in-on-dustin-may"
+    }
+   ]
+  },
+  {
+   "q": "gavin baker",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Why tech bros are desperate to bring Jensen Huang back — and why that would be a mistake",
+     "url": "https://www.cnn.com/2026/11/17/business/jensen-huang-return-risk"
+    },
+    {
+     "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+     "url": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36"
+    },
+    {
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    }
+   ]
+  },
+  {
+   "q": "nasa",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+     "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space"
+    },
+    {
+     "title": "A NASA probe from the '70s is still talking, and Wednesday it will be a light-day away",
+     "url": "https://abcnews.com/US/nasa-probe-70s-talking-wednesday-light-day/story?id=138164652"
+    },
+    {
+     "title": "The Silent Ambassador to the Galaxy: Voyager at One Light-Day",
+     "url": "https://www.caltech.edu/about/news/the-silent-ambassador-to-the-galaxy-voyager-at-one-light-day"
+    }
+   ]
+  },
+  {
+   "q": "now stock",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "ServiceNow Stock’s (NOW) Historic Sell-Off May Have Gone Too Far",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-stock-now-historic-sell-213800295.html"
+    },
+    {
+     "title": "ServiceNow's Record Plunge Leaves Shares at 21x 2027 Earnings as AI Bookings Swell",
+     "url": "https://finance.biggo.com/news/13a0bb1d-efb2-444f-9357-8e83815b055e"
+    },
+    {
+     "title": "ServiceNow (NYSE:NOW) Stock Falls 2.9% - Time to Sell?",
+     "url": "https://www.marketbeat.com/instant-alerts/price-servicenow-nyse-now-stock-falls-29-time-to-sell-2026-11-16/"
+    }
+   ]
+  },
+  {
+   "q": "gambia vs côte d'ivoire",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T15:50:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "LIVE: Gambia vs Ivory Coast | 2027 AFCON Qualifiers",
+     "url": "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles/live-gambia-vs-ivory-coast-2027-afcon-qualifiers-2026-11-17"
+    },
+    {
+     "title": "Liberia vs Cape Verde: First Half Spread",
+     "url": "https://www.coinbase.com/en-mx/predictions/event/KXAFCON1HSPREAD-26NOV17LBRCPV"
+    },
+    {
+     "title": "Yalcouye scores again while Minteh returns to international action",
+     "url": "https://uk.sports.yahoo.com/news/yalcouye-scores-again-while-minteh-225118951.html"
+    }
+   ]
+  },
+  {
+   "q": "jensen huang statement",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T15:50:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+     "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
+    },
+    {
+     "title": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2",
+     "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html"
+    },
+    {
+     "title": "Nvidia turmoil exposes growing rift inside Trump’s White House",
+     "url": "https://www.washingtonpost.com/technology/2026/11/16/fight-between-bessent-lutnick-over-nvidia-chips-heats-up/"
+    }
+   ]
+  },
+  {
+   "q": "wow forever patch notes",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T15:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+     "url": "https://tech.yahoo.com/gaming/articles/wow-forevers-continued-wrestle-dungeons-115112318.html"
+    },
+    {
+     "title": "World of Warcraft Forever tries to shut down dungeon boosting but riles up the playerbase in the process",
+     "url": "https://massivelyop.com/2026/11/16/world-of-warcraft-forever-tries-to-shut-down-dungeon-boosting-but-riles-up-the-playerbase-in-the-process/"
+    },
+    {
+     "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It",
+     "url": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it"
+    }
+   ]
+  },
+  {
+   "q": "togo vs algeria",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T15:30:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Algeria vs Togo: Africa Cup of Nations Qualification stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c620r0842054t"
+    },
+    {
+     "title": "The secret behind the exclusion: did Luca Zidane pay the price for his father's stance on the thorny issue?",
+     "url": "https://www.yardbarker.com/soccer/articles/the_secret_behind_the_exclusion_did_luca_zidane_pay_the_price_for_his_fathers_stance_on_the_thorny_issue/s1_17790_44545811"
+    },
+    {
+     "title": "Togo Football Chief Accuses Algeria of Neglecting Team at Airport",
+     "url": "https://www.moroccoworldnews.com/2026/11/346651/togo-football-chief-accuses-algeria-of-neglecting-team-at-airport/"
+    }
+   ]
+  },
+  {
+   "q": "kenya vs south africa",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T15:30:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Kenya v South Africa - Kick off time, how to watch Bafana in second AFCON qualifier",
+     "url": "https://africa.espn.com/espn/story/_/id/50499451/kenya-bafana-kick-how-watch-afcon-qualifier"
+    },
+    {
+     "title": "Kenya vs South Africa: Africa Cup of Nations Qualification stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cqrkgdxxkg23t"
+    },
+    {
+     "title": "Kenya vs South Africa Afcon clash live on NTV",
+     "url": "https://nation.africa/kenya/sports/football/kenya-vs-south-africa-afcon-clash-live-on-ntv-5673304"
+    }
+   ]
+  },
+  {
+   "q": "crm stock",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-17T15:30:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”",
+     "url": "https://www.tikr.com/blog/salesforce-sinks-9-as-software-slides-before-anthropic-ipo-investor-warns-ai-companies-seek-to-destroy-salesforce-entirely?"
+    },
+    {
+     "title": "CRM support and resistance levels as stock hits oversold territory",
+     "url": "https://www.investing.com/news/stock-market-news/crm-support-and-resistance-levels-as-stock-hits-oversold-territory-93CH-5033460"
+    },
+    {
+     "title": "Salesforce Shares Tumble Over Six Percent in New York : 기업주식정보 : JKN",
+     "url": "https://news.jkn.co.kr/editions/english/post/1102769"
+    }
+   ]
+  },
+  {
+   "q": "తండ్రి",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:50:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "‘అందరం సమానం’ అని కుమారుడి భలే నేర్పించాడు ఈ తండ్రి..!",
+     "url": "https://www.sakshi.com/telugu-news/family/parenting-tips-man-takes-son-trains-general-coach-goes-viral-2963069"
+    },
+    {
+     "title": "రైలులో థర్డ్ ఏసీ ప్రయాణంపై కొడుకు ఫిర్యాదు.. జనరల్ కంపార్ట్‌మెంట్ కి తీసుకెళ్లిన తండ్రి.. వీడియో వైరల్",
+     "url": "https://telugu.boldsky.com/insync/boy-complains-about-3ac-coach-father-takes-him-to-general-compartment-viral-video-057095.html"
+    },
+    {
+     "title": "లగ్జరీల నడుమ పెరిగే పిల్లలకు అసలైన జీవితాన్ని పరిచయం చేసిన తండ్రి: వైరల్ వీడియో వెనుక గొప్ప పాఠం",
+     "url": "https://www.ap7am.com/tn/887050/father-introduces-real-life-to-kids-raised-in-luxury-a-great-lesson-behind-viral-video"
+    }
+   ]
+  },
+  {
+   "q": "libya vs tunisia",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Tunisia vs Libya: Africa Cup of Nations Qualification stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cwx28ee4ygnlt"
+    },
+    {
+     "title": "Tunisia: Libya coach Youssef Dabo describes \"wounded\" opponent",
+     "url": "https://panafricafootball.com/article/tunisia-libya-afcon-qualifier-wounded-team-26"
+    },
+    {
+     "title": "Tunisia v Libya: AFCON hopes in danger after 2-0 loss",
+     "url": "https://africa.dailynewsegypt.com/tunisia-v-libya-tripoli/"
+    }
+   ]
+  },
+  {
+   "q": "kick stream",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Iraq vs Iran football match today LIVE Streaming info — When, where to watch IRQ v IRN?",
+     "url": "https://sportstar.thehindu.com/football/iraq-vs-iran-football-match-today-live-streaming-info-irq-v-irn-tv-channel-where-to-watch/article71711835.ece"
+    },
+    {
+     "title": "Shafaq News..Iraq meets Iran in Basra Four Nations finale",
+     "url": "https://shafaq.com/en/sport/Iraq-meets-Iran-in-Basra-Four-Nations-finale"
+    },
+    {
+     "title": "Iraq vs. Iran - Live Score - November 17, 2026",
+     "url": "https://www.foxsports.com/soccer/friendlies-men-iraq-vs-iran-nov-17-2026-game-boxscore-1110765"
+    }
+   ]
+  },
+  {
+   "q": "nvidia results",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Dow falls 600 points as tech shares decline, traders eye reported NSA network outage: Live updates",
+     "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+    },
+    {
+     "title": "European shares fall, Nasdaq futures inch up ahead of Nvidia earnings",
+     "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-17/"
+    },
+    {
+     "title": "Stocks slide to kick off major week for Wall Street",
+     "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
+    }
+   ]
+  },
+  {
+   "q": "operation mole movie",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Director Rajkumar Periasamy on helming Dhanush-Mammootty’s ‘O.M’ and working with an ensemble of stars",
+     "url": "https://www.thehindu.com/entertainment/movies/rajkumar-periasamy-om-operation-mole-dhanush-mammootty-sai-pallavi-naseeruddin-shah-sreeleela/article71711384.ece"
+    },
+    {
+     "title": "Dhanush's 'O.M' clears censor with U/A Certificate, Runtime of Mammootty, Sai Pallavi, Sreeleela starrer",
+     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanushs-o-m-clears-censor-with-u/a-certificate-runtime-of-mammootty-sai-pallavi-sreeleela-starrer-out-ahead-of-november-20-release/articleshow/135923751.cms"
+    },
+    {
+     "title": "Producer reveals why she chose Dhanush-Mammootty's OM | Tap to know more | Inshorts",
+     "url": "https://inshorts.com/en/news/producer-reveals-why-she-chose-dhanush-mammootty-s-om-1794823279159"
+    }
+   ]
+  },
+  {
+   "q": "elise zakaria",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Sara Boustany and Kristina Bogic Can Keep a Secret",
+     "url": "https://www.interviewmagazine.com/film/the-body-sara-boustany-kristina-bogic-netflix-quinn-shephard"
+    },
+    {
+     "title": "All About ‘The Body’s Sara Boustany, the Standout Actress Playing Elise",
+     "url": "https://www.imdb.com/news/ni66107967/?ref_=nwc_art_perm"
+    },
+    {
+     "title": "‘The Body’ Stars Dish on ‘Electric’ Chemistry Between Their Characters",
+     "url": "https://gomag.com/article/the-body-stars-dish-on-electric-chemistry-between-their-characters/"
+    }
+   ]
+  },
+  {
+   "q": "kenya vs south africa",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:30:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Kenya v South Africa - Kick off time, how to watch Bafana in second AFCON qualifier",
+     "url": "https://www.espn.in/espn/story/_/id/50499451/kenya-bafana-kick-how-watch-afcon-qualifier"
+    },
+    {
+     "title": "McCarthy declares zero sympathy for home country ahead of duel with Harambee Stars",
+     "url": "https://capitalfm.africa/mccarthy-declares-zero-sympathy-for-home-country-ahead-of-duel-with-harambee-stars/"
+    },
+    {
+     "title": "Bafana’s qualification route demands and calculations",
+     "url": "https://www.kickoff.com/psl/sa-national-teams/bafana-bafana-in-qualification-mountain-climb"
+    }
+   ]
+  },
+  {
+   "q": "আগামীকালের আবহাওয়া",
+   "traffic": "20000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "ঘূর্ণিঝড়ে পরিণত ‘আকভান’, শক্তি বাড়িয়ে চলতি সপ্তাহেই ল্যান্ডফল! বাংলার ৬ জেলায় হলুদ সতর্কতা",
+     "url": "https://www.thewall.in/west-bengal/cyclone-akvan-intensifies-moves-towards-coast-west-bengal-weather-alert/tid/209613"
+    },
+    {
+     "title": "আগামী ৫ দিন...! আবহাওয়ার তুমুল রদবদলের হুঁশিয়ারি, দক্ষিণবঙ্গের ৬ জেলা কাঁপাবে ঝড়, বৃষ্টি, বজ্রপাত, কী হবে কলকাতায়? জানিয়ে দিল IMD",
+     "url": "https://bengali.news18.com/photogallery/kolkata/imd-bengal-weather-update-the-next-5-days-rainfall-forecast-for-6-districts-of-south-bengal-stormy-wind-rain-lightning-to-hit-these-states-what-will-happen-in-kolkata-imd-gave-report-sanj-2966272.html"
+    },
+    {
+     "title": "WB Cyclone Alerts: ঘূর্ণিঝড় 'আখভান'র দাপটে বঙ্গে অতিভারী বৃষ্টির শঙ্কা! আগামী কয়েকদিন কেমন থাকবে আবহাওয়া?",
+     "url": "https://bangla.asianetnews.com/west-bengal/wb-cyclone-alerts-there-was-heavy-rain-and-storm-chances-several-parts-of-west-bengal-check-the-forecast-update-anbmp/photoshow-v6o4ito"
+    }
+   ]
+  },
+  {
+   "q": "togo vs algeria",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Togo vs Algeria AFCON 2027 Qualifiers LIVE Streaming info — When, where to watch TOG v ALG?",
+     "url": "https://sportstar.thehindu.com/football/togo-vs-algeria-afcon-2027-qualifiers-live-streaming-info-tog-v-alg-tv-channel-where-to-watch/article71712217.ece"
+    },
+    {
+     "title": "The secret behind the exclusion: did Luca Zidane pay the price for his father's stance on the thorny issue?",
+     "url": "https://www.goal.com/en/lists/the-secret-behind-the-exclusion-did-luca-zidane-pay-the-price-for-his-father-s-stance-on-the-thorny-issue/blt8e667515920b777a"
+    },
+    {
+     "title": "Togo Football Chief Accuses Algeria of Neglecting Team at Airport",
+     "url": "https://www.moroccoworldnews.com/2026/11/346651/togo-football-chief-accuses-algeria-of-neglecting-team-at-airport/"
+    }
+   ]
+  },
+  {
+   "q": "sierra leone vs dr congo",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-17T15:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "TotalEnergies CAF AFCON 2027 Qualifiers: DR Congo extend perfect run as Guinea-Bissau and Zimbabwe held to draws",
+     "url": "https://www.cafonline.com/afcon2025/news/totalenergies-caf-afcon-2027-qualifiers-dr-congo-extend-perfect-run-as-guinea-bissau-and-zimbabwe-held-to-draws/"
+    },
+    {
+     "title": "Poland vs Sweden Prediction, Betting Tips, Team News - 17 November 2026",
+     "url": "https://insights.betfred.com/football/sierra-leone-v-congo-dr-prediction-leopards-can-stay-perfect-in-group-e/"
+    },
+    {
+     "title": "CAN 2027: Without a point, Sierra Leone calls up Malachi Jones against the DRC",
+     "url": "https://beninwebtv.com/en/can-2027-without-a-point-sierra-leone-calls-up-malachi-jones-against-the-drc/"
+    }
+   ]
+  },
+  {
+   "q": "libya vs tunisia",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:10:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Tunisia vs Libya: Africa Cup of Nations Qualification stats & head-to-head",
+     "url": "https://www.bbc.co.uk/sport/football/live/cwx28ee4ygnlt"
+    },
+    {
+     "title": "Libya vs Tunisia Prediction, Betting Tips & Odds | 17 Nov 2026",
+     "url": "https://www.sportsgambler.com/betting-tips/football/libya-vs-tunisia-prediction-2026-11-17/"
+    },
+    {
+     "title": "Beninese referee appointed to officiate Libya’s Africa Cup of Nations qualifier against Tunisia",
+     "url": "https://libyaobserver.ly/sports/beninese-referee-appointed-officiate-libyas-africa-cup-nations-qualifier-against-tunisia"
+    }
+   ]
+  },
+  {
+   "q": "raf barnham",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:10:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "RAF Barnham migrant camp plan to be drawn up after £3.4m contract",
+     "url": "https://www.bbc.co.uk/news/articles/cqly4n800dylo"
+    },
+    {
+     "title": "Cost of housing asylum seekers at two ex-military camps costing taxpayers almost as much as it did to put them in hotels, ministers admit",
+     "url": "https://www.dailymail.com/news/article-16297315/Cost-housing-asylum-seekers-two-ex-military-camps-costing.html"
+    },
+    {
+     "title": "Kier and Reds10 secure £4.6m asylum-site deals",
+     "url": "https://www.constructionnews.co.uk/contracts/kier-and-reds10-secure-4-6m-asylum-site-deals-13-11-2026/"
+    }
+   ]
+  },
+  {
+   "q": "ally mccoist",
+   "traffic": "1000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:10:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Scotland: What’s going wrong for head coach Sebastien Pocognoli and can he turn things around?",
+     "url": "https://www.skysports.com/football/news/13613120/scotland-what-s-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around"
+    },
+    {
+     "title": "Scotland fan views on 4-0 Nations League defeat to Switzerland",
+     "url": "https://www.bbc.com/sport/articles/c804w7k6q7xwo"
+    },
+    {
+     "title": "Ally McCoist asked whether he would take Scotland job and names perfect alternative",
+     "url": "https://talksport.com/football/4712436/ally-mccoist-next-scotland-manager-david-moyes-sebastien-pocognoli/"
+    }
+   ]
+  },
+  {
+   "q": "mcdonalds home alone meal",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:10:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Macaulay Culkin Reprises His Role as Kevin for the Launch of McDonald’s Home Alone Meal",
+     "url": "https://people.com/macaulay-culkin-stars-in-mcdonalds-ad-for-home-alone-themed-meal-12258509"
+    },
+    {
+     "title": "McDonald's 'Home Alone Meal' includes collectible socks, special menu items",
+     "url": "https://www.usatoday.com/story/food/dining/fast-food/2026/11/17/mcdonalds-home-alone-meal/92814012007/"
+    },
+    {
+     "title": "McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items",
+     "url": "https://www.myfoxzone.com/article/news/nation-world/mcdonalds-home-alone-socks-menu-items/507-89fc3ac4-aaf6-42e0-80a8-c2e35f7dd950"
+    }
+   ]
+  },
+  {
+   "q": "airport",
+   "traffic": "500+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Plane stuck in grass at Heathrow before take-off",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wnwzmd8mo"
+    },
+    {
+     "title": "British Airways flight veers off runway before take-off",
+     "url": "https://news.sky.com/story/british-airways-flight-veers-off-runway-before-take-off-13613270"
+    },
+    {
+     "title": "British Airways plane veers off Heathrow runway",
+     "url": "https://www.telegraph.co.uk/news/2026/11/17/british-airways-plane-veers-off-heathrow-runway/"
+    }
+   ]
+  },
+  {
+   "q": "peter storey",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Peter Storey: 1945-2026",
+     "url": "https://www.arsenal.com/news/peter-storey-1945-2026-a8tWW2W4IErn"
+    },
+    {
+     "title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
+     "url": "https://www.theguardian.com/football/2026/nov/17/peter-storey-arsenal-england-dies-aged-81"
+    },
+    {
+     "title": "Arsenal legend and Double winner Peter Storey dies aged 81 as tributes paid",
+     "url": "https://www.thesun.co.uk/sport/41051780/peter-storey-arsenal-legend-league-cup-fa/"
+    }
+   ]
+  },
+  {
+   "q": "uk tribunal playstation monopoly case",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+     "url": "https://www.reuters.com/world/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-2026-11-17/"
+    },
+    {
+     "title": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing",
+     "url": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk"
+    },
+    {
+     "title": "PlayStation users’ £2bn lawsuit against Sony thrown out by competition tribunal",
+     "url": "https://www.independent.co.uk/news/business/sony-london-press-association-b3086493.html"
+    }
+   ]
+  },
+  {
+   "q": "ponzi scheme",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "£100m ‘Ponzi’ scheme goes bust",
+     "url": "https://www.thetimes.com/business/companies-markets/article/ponzi-scheme-hj-collection-osborne-baldwin-reece-mennie-slgmfrc9g"
+    },
+    {
+     "title": "£300m ‘Ponzi scheme’ collapses into administration",
+     "url": "https://www.telegraph.co.uk/business/2026/11/17/300m-ponzi-scheme-collapses-into-administration/"
+    },
+    {
+     "title": "Boris Johnson backs tokenization months after likening bitcoin to a 'Ponzi scheme'",
+     "url": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368"
+    }
+   ]
+  },
+  {
+   "q": "russia tu-95ms bombers vietnam deployment",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T16:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Russia Sends Nuclear-Capable Bombers to Vietnam for First Time in Years",
+     "url": "https://united24media.com/world/russia-sends-nuclear-capable-bombers-to-vietnam-for-first-time-in-years-24443"
+    },
+    {
+     "title": "Russia deploys two Tu-95MS bombers to Vietnam ahead of APEC summit",
+     "url": "https://newsukraine.rbc.ua/news/russia-deploys-two-tu-95ms-bombers-to-vietnam-1794917029.html"
+    },
+    {
+     "title": "Russia deploys Tu-95MS bombers to Vietnam",
+     "url": "https://defence-blog.com/russia-deploys-tu-95ms-bombers-to-vietnam/"
+    }
+   ]
+  },
+  {
+   "q": "nsa",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-17T15:50:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "CNN Reports Outage Hit Secret NSA Internal Communications Network",
+     "url": "https://en.bloomingbit.io/feed/news/124648"
+    },
+    {
+     "title": "Highly classified network used by US’s National Security Agency down: Report | World News",
+     "url": "https://www.hindustantimes.com/world-news/highly-classified-network-used-by-us-national-security-agency-down-nsa-updates-trump-administration-101794930739112.html"
+    },
+    {
+     "title": "Exclusive: Sources tell CNN highly classified US national security communications network goes down",
+     "url": "https://www.cnn.com/2026/11/17/us/video/national-security-communications-network-down-digvid"
+    }
+   ]
+  },
+  {
+   "q": "weight loss pill australia",
+   "traffic": "2000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T15:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "First GLP-1 weight loss pill to be sold in Australia ‘in days’: What you should know",
+     "url": "https://www.heraldsun.com.au/health/diet-fitness/weight-loss/australia-approves-second-weightloss-pill-foundayo-as-alternative-to-ozempic-jabs/news-story/684db4dbcb88a4d3ed1c9bebbca1dcfc"
+    },
+    {
+     "title": "New weight-loss pill to hit Aussie pharmacy shelves",
+     "url": "https://www.nine.com.au/australia-news/videos/new-weight-loss-pill-to-hit-aussie-pharmacy-shelves/cmwkd4gxu00030gmumvamz87n"
+    },
+    {
+     "title": "New Wegovy pill v Eli Lilly’s weight-loss tablet: How the GLP-1 pills compare in Australia",
+     "url": "https://www.theaustralian.com.au/health/diet/new-wegovy-pill-v-eli-lillys-weightloss-tablet-how-the-glp1-pills-compare-in-australia/news-story/e2b845918a0b5555f931da7d6d234004"
+    }
+   ]
+  },
+  {
+   "q": "gta 6 release date",
+   "traffic": "2000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T15:00:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "What is GTA6 and why is everyone talking about it?",
+     "url": "https://www.abc.net.au/news/2026-11-17/grand-theft-auto-6-gta6-explainer/107384556"
+    },
+    {
+     "title": "Watch A Current Affair - Season 2026 - The billion-dollar impact one video game could have on the world",
+     "url": "https://www.9now.com.au/a-current-affair/season-2026/clip-cmwkfbvlk00040hmodumi5mb4"
+    },
+    {
+     "title": "Leave requests jump 29pc as Australians prepare for GTA VI",
+     "url": "https://www.afr.com/technology/the-young-australians-missing-work-for-a-video-game-20261117-p61eiy"
+    }
+   ]
+  },
+  {
+   "q": "nvidia earnings",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T14:50:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Dow falls 600 points as tech shares decline, traders eye reported NSA network outage: Live updates",
+     "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+    },
+    {
+     "title": "Stock market today: Dow, S&P 500, Nasdaq slip in countdown to Nvidia earnings",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    },
+    {
+     "title": "Markets drop ahead of Nvidia’s results; China pledges ‘necessary measures’ against US AI chip restrictions – business live",
+     "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates?page=with:block-6afc7c2d8f08258efcd24afb"
+    }
+   ]
+  },
+  {
+   "q": "dijon",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T14:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Mobilisation du 17 novembre : orchestre, rassemblement, revendications... Voici ce qui est prévu à Dijon",
+     "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/mobilisation-du-17-novembre-orchestre-rassemblement-revendications-voici-ce-qui-est-prevu-a-dijon-3450333.html"
+    },
+    {
+     "title": "Dijon. Grève du 17 novembre : la circulation pertubée sur le réseau Divia",
+     "url": "https://www.bienpublic.com/social/2026/11/16/greve-du-17-novembre-la-circulation-pertubee-sur-le-reseau-divia"
+    },
+    {
+     "title": "\"Une fois que le loyer est payé, il ne reste plus grand chose\" - A Dijon, la manifestation pour de meilleurs salaires",
+     "url": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/dijon/une-fois-que-le-loyer-est-paye-il-ne-reste-plus-grand-chose-a-dijon-la-manifestation-pour-de-meilleurs-salaires-1025913"
+    }
+   ]
+  },
+  {
+   "q": "mckenna grace",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T14:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Mckenna Grace has come into her own as a style star to watch",
+     "url": "https://www.nine.com.au/lifestyle/fashion-beauty/mckenna-grace-style-hunger-games-sunrise-on-the-reaping-red-carpet-looks-20261117-p61eso.html"
+    },
+    {
+     "title": "Mckenna Grace Just Rocked the Ultimate Katniss Tribute",
+     "url": "https://www.teenvogue.com/story/mckenna-grace-katniss-braid-nyc-11-16-2026"
+    },
+    {
+     "title": "Mckenna Grace Wears Another ALmée Couture Creation Promoting ‘The Hunger Games’",
+     "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/mckenna-grace-wears-another-alm-224508640.html"
+    }
+   ]
+  },
+  {
+   "q": "cannes",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T13:30:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Cannes Condemns Iran's Judicial Persecution of Jafar Panahi: 'One Voice to Prevent His Imprisonment'",
+     "url": "https://www.thewrap.com/creative-content/movies/cannes-jafar-panahi-iran-prison-sentence-protest/"
+    },
+    {
+     "title": "Cannes Condemns Five-Year Prison Sentence Against Iranian Palme d’Or Winner Jafar Panahi and Pleads for International Support",
+     "url": "https://www.imdb.com/it/news/ni66115491/?ref_=nwc_art_perm"
+    },
+    {
+     "title": "Cannes Protests “Judicial Persecution” Of Iranian Director Jafar Panahi",
+     "url": "https://deadline.com/2026/11/cannes-protests-sanctions-iranian-director-jafar-panahi-1237226517/"
+    }
+   ]
+  },
+  {
+   "q": "zimbabwe vs afghanistan",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T13:10:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Afghanistan v Zimbabwe - Afghanistan v Zimbabwe in UAE 2026, 2nd Test - Cricket Score Centre - Live Cricket Scores",
+     "url": "https://www.abc.net.au/news/sport/score-centre/cricket/2026-11-17/afg-zim/69058"
+    },
+    {
+     "title": "Ball by Ball Commentary & Live Score - AFG vs ZIM, 2nd Test",
+     "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/ball-by-ball-commentary"
+    },
+    {
+     "title": "Taylor hits another fifty",
+     "url": "https://www.heraldonline.co.zw/taylor-hits-another-fifty/"
+    }
+   ]
+  },
+  {
+   "q": "amanda seyfried",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T12:50:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Billy Evans, in first interview, tells his side of \"You Can See Everything,\" its portrayal of Elizabeth Holmes",
+     "url": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/"
+    },
+    {
+     "title": "Holmes’ partner ‘didn’t consent’ to nude scene",
+     "url": "https://www.news.com.au/entertainment/movies/new-movies/elizabeth-holmes-boyfriend-billy-evans-reacts-to-villainous-portrayal-in-you-can-see-everything/news-story/e95459df8cf8cc0d57756d259b3036b4"
+    },
+    {
+     "title": "‘Did not give consent’: Major claim about X-rated scene in Elizabeth Holmes documentary",
+     "url": "https://www.news24.com.au/lifestyle/celebrity-life/did-not-give-consent-elizabeth-holmes-partner-billy-evans-makes-major-claim-about-hit-documentarys-shower-scenes/news-story/d7173a885b10b2fc11af50a8e6e1720c"
+    }
+   ]
+  },
+  {
+   "q": "jetstar new seating rule",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T12:40:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Jetstar’s new seating rule is causing confusion",
+     "url": "https://www.nine.com.au/travel/rule-on-moving-seats-jetstar-confirms-change-20261117-p61eh9.html"
+    },
+    {
+     "title": "New Jetstar seat ‘rule’ making passengers see red",
+     "url": "https://escape.news.com.au/travel-advice/air-travel/air-travel-tips/new-jetstar-seat-rule-making-passengers-see-red/news-story/1ff1675a8afb5cf74752aca8dd4447ae"
+    }
+   ]
+  },
+  {
+   "q": "malawi vs egypt",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-17T12:20:00Z",
+   "observed_at": "2026-11-17T16:24:45.481754Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Malawi vs Egypt: Africa Cup of Nations Qualification stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c54gnlrrgwn9t"
+    },
+    {
+     "title": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
+     "url": "https://www.reuters.com/sports/soccer/salah-breaks-egypt-scoring-record-tunisia-lose-libya-2026-11-13/"
+    },
+    {
+     "title": "Mohamed Salah becomes Egypt's all-time record goalscorer",
+     "url": "https://www.liverpoolfc.com/news/mohamed-salah-becomes-egypt-all-time-record-goalscorer"
+    }
+   ]
+  },
   {
    "q": "brittany snow",
    "traffic": "500+",
@@ -682,112 +1558,6 @@
    ]
   },
   {
-   "q": "cannes",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T13:30:00Z",
-   "observed_at": "2026-11-17T14:16:29.115244Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "France Cannes 2025 Die My Love Photo Call",
-     "url": "https://www.wvnews.com/newsfeed/entertainment/france-cannes-2025-die-my-love-photo-call/image_c59e3b11-ab85-51c8-a2ae-3a56ac2a8379.html"
-    },
-    {
-     "title": "France Cannes 2025 Die, My Love Red Carpet",
-     "url": "https://www.goshennews.com/news/national_news/france-cannes-2025-die-my-love-red-carpet/image_286ff805-6be1-54bc-8557-ac160d3ab723.html"
-    },
-    {
-     "title": "France Cannes 2025 Die My Love Photo Call",
-     "url": "https://www.reflector.com/features/entertainment/france-cannes-2025-die-my-love-photo-call/image_69c8f1c1-a6c6-5b37-9714-41c12a2f369d.html"
-    }
-   ]
-  },
-  {
-   "q": "zimbabwe vs afghanistan",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T13:10:00Z",
-   "observed_at": "2026-11-17T14:16:29.115244Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Afghanistan v Zimbabwe - Afghanistan v Zimbabwe in UAE 2026, 2nd Test - Cricket Score Centre - Live Cricket Scores",
-     "url": "https://www.abc.net.au/news/sport/score-centre/cricket/2026-11-17/afg-zim/69058"
-    },
-    {
-     "title": "Muzarabani, Cremer lead Zimbabwe's push for victory",
-     "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-report"
-    },
-    {
-     "title": "Chevrons on the cusp of victory",
-     "url": "https://www.heraldonline.co.zw/chevrons-on-the-cusp-of-victory/"
-    }
-   ]
-  },
-  {
-   "q": "amanda seyfried",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T12:50:00Z",
-   "observed_at": "2026-11-17T14:16:29.115244Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "How this Hollywood star became the key to You Can See Everything",
-     "url": "https://www.smh.com.au/culture/movies/how-this-hollywood-star-became-the-key-to-you-can-see-everything-20261116-p61bz9.html"
-    },
-    {
-     "title": "The ‘You Can See Everything’ Interview You’ve Been Waiting For",
-     "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/"
-    },
-    {
-     "title": "Amanda Seyfried Slams Billy Evans, Talks 'You Can See Everything' Filming",
-     "url": "https://variety.com/2026/film/news/amanda-seyfried-slams-billy-evans-you-can-see-everything-filming-1236945046/"
-    }
-   ]
-  },
-  {
-   "q": "jetstar new seating rule",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T12:40:00Z",
-   "observed_at": "2026-11-17T14:16:29.115244Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Jetstar’s new seating rule is causing confusion",
-     "url": "https://www.nine.com.au/travel/rule-on-moving-seats-jetstar-confirms-change-20261117-p61eh9.html"
-    },
-    {
-     "title": "New Jetstar seat ‘rule’ making passengers see red",
-     "url": "https://escape.news.com.au/travel-advice/air-travel/air-travel-tips/new-jetstar-seat-rule-making-passengers-see-red/news-story/1ff1675a8afb5cf74752aca8dd4447ae"
-    }
-   ]
-  },
-  {
-   "q": "malawi vs egypt",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T12:20:00Z",
-   "observed_at": "2026-11-17T14:16:29.115244Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
-     "url": "https://www.reuters.com/sports/soccer/salah-breaks-egypt-scoring-record-tunisia-lose-libya-2026-11-13/"
-    },
-    {
-     "title": "Mohamed Salah becomes Egypt's all-time record goalscorer",
-     "url": "https://www.liverpoolfc.com/news/mohamed-salah-becomes-egypt-all-time-record-goalscorer"
-    },
-    {
-     "title": "LIVE: Malawi vs Egypt | 2027 AFCON Qualifiers",
-     "url": "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles/live-malawi-vs-egypt-2027-afcon-qualifiers-2026-11-17"
-    }
-   ]
-  },
-  {
    "q": "chris bowen cop31 climate negotiations",
    "traffic": "100+",
    "geo": "AU",
@@ -1418,737 +2188,6 @@
     {
      "title": "ASK ITALIAN UNVEILS CHRISTMAS 2026 MENU FEATURING APEROL SPROUTZ, FESTIVE PIZZA AND ITALIAN DESSERTS!",
      "url": "https://vergemagazine.co.uk/ask-italian-unveils-christmas-2026-menu-featuring-aperol-sproutz-festive-pizza-and-italian-desserts/"
-    }
-   ]
-  },
-  {
-   "q": "japan",
-   "traffic": "1000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T10:50:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-     "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o"
-    },
-    {
-     "title": "Japan scrambles jets to counter suspected Russian aircraft",
-     "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537"
-    },
-    {
-     "title": "South Korea scrambles fighter jets after Russian military aircraft enter air defense zone",
-     "url": "https://kyivindependent.com/south-korea-scrambles-fighter-jets-after-russian-military-aircraft-enter-air-defense-zone/"
-    }
-   ]
-  },
-  {
-   "q": "kay lake slimming world winner",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T10:50:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Slimmer named Woman of the Year after losing 13st",
-     "url": "https://www.bbc.co.uk/news/articles/crpdwn9qwwv0o"
-    },
-    {
-     "title": "Mom loses nearly 200 pounds after fears of ruining daughter’s wedding photos",
-     "url": "https://nypost.com/2026/11/16/health/mother-feared-going-to-daughters-wedding-has-dramatic-weight-loss/"
-    },
-    {
-     "title": "Size 26 mother, 53, who dreaded being in her daughter's wedding photos sheds 13 stone with an old-fashioned slimming method and taking up walking",
-     "url": "https://www.dailymail.com/lifestyle/article-16296283/Size-26-mother-53-dreaded-daughters-wedding-photos-sheds-13-5-stone-old-fashioned-slimming-method-taking-walking.html"
-    }
-   ]
-  },
-  {
-   "q": "ms dhoni",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T10:50:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Inside CSK: How Dhoni broke the news to the maangement",
-     "url": "https://www.cricbuzz.com/cricket-news/140943/inside-csk-how-dhoni-broke-the-news-to-the-maangement"
-    },
-    {
-     "title": "IPL 2027 retention - Will MS Dhoni play one final season?",
-     "url": "https://www.cricinfo.com/live-blog/ipl-2027-retention-will-ms-dhoni-play-one-final-season-1562922"
-    },
-    {
-     "title": "MS Dhoni retires from IPL and confirms new CSK role",
-     "url": "https://www.independent.co.uk/sport/cricket/ms-dhoni-retires-ipl-chennai-super-kings-new-role-b3086331.html"
-    }
-   ]
-  },
-  {
-   "q": "prince of wales bridge",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T10:30:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Police shut M4 Prince of Wales Bridge due to concerns over person's safety",
-     "url": "https://www.walesonline.co.uk/news/wales-news/m4-prince-wales-bridge-shut-34922543"
-    },
-    {
-     "title": "Major motorway shut in BOTH directions with ‘no time given for reopening’",
-     "url": "https://www.thesun.co.uk/news/41044888/m4-closed-both-directions-busy-bridge-police-incident/"
-    },
-    {
-     "title": "M4 Prince of Wales bridge diversion after 'police incident' shuts road",
-     "url": "https://www.bristolpost.co.uk/news/bristol-news/m4-prince-wales-bridge-diversion-11244437"
-    }
-   ]
-  },
-  {
-   "q": "singapura x brasil",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T10:20:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": []
-  },
-  {
-   "q": "brazil national football team",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T11:00:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Brazil legend Romário calls for Carlo Ancelotti sacking",
-     "url": "https://www.espn.com.au/football/story/_/id/50509468/brazil-romario-carlo-ancelotti-sacking"
-    },
-    {
-     "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-     "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark"
-    },
-    {
-     "title": "Ancelotti responds to Romario’s criticism",
-     "url": "https://www.thechronicle.com.au/sport/ancelotti-responds-to-romarios-criticism/video/a8b39609ce2908f2d11afc7f389b75e2"
-    }
-   ]
-  },
-  {
-   "q": "ms dhoni",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T10:40:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "IPL 2027 retention - Will Jaiswal stay at RR? DC could miss Starc",
-     "url": "https://www.cricinfo.com/live-blog/ipl-2027-retention-will-ms-dhoni-play-one-final-season-1562922"
-    },
-    {
-     "title": "'There is no CSK without MS Dhoni': N Srinivasan's emotional message, calls signing Thala in 2008 his 'be",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-csk-without-ms-dhoni-n-srinivasans-emotional-message-calls-signing-thala-in-2008-his-best-decision/articleshow/135919783.cms"
-    },
-    {
-     "title": "MS Dhoni retires - CSK legend bids adieu ahead of IPL 2027",
-     "url": "https://www.cricbuzz.com/cricket-videos/219788/ms-dhoni-retires-csk-legend-bids-adieu-ahead-of-ipl-2027"
-    }
-   ]
-  },
-  {
-   "q": "brazil",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T10:30:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
-     "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports"
-    },
-    {
-     "title": "The Poison Pipeline: How Smuggled Pesticides Flood Brazil",
-     "url": "https://www.bloomberg.com/features/2026-banned-chinese-pesticides-smuggling-brazil/"
-    },
-    {
-     "title": "European and British pesticides named in 1,600 poisoning cases in Brazil last year",
-     "url": "https://unearthed.greenpeace.org/2026/11/17/eu-uk-pesticide-poisoning-brazil/"
-    }
-   ]
-  },
-  {
-   "q": "fargo",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T10:30:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "City of Fargo asks judge to toss Tennessee woman’s $10M lawsuit over facial recognition arrest",
-     "url": "https://www.valleynewslive.com/2026/11/16/city-fargo-asks-judge-toss-tennessee-womans-10m-lawsuit-over-facial-recognition-arrest/"
-    },
-    {
-     "title": "Fargo, detective respond to $10 million federal lawsuit filed by Angela Lipps",
-     "url": "https://www.kvrr.com/news/local/fargo-detective-respond-to-10-million-federal-lawsuit-filed-by-angela-lipps/article_a79bc547-59f4-4d20-93a6-debe2722ee66.html"
-    },
-    {
-     "title": "Tennessee Grandmother's $10M Lawsuit Exposes the Risks of AI Policing",
-     "url": "https://www.yahoo.com/news/us/articles/tennessee-grandmothers-10m-lawsuit-exposes-133027454.html"
-    }
-   ]
-  },
-  {
-   "q": "james blunt ryan air",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T10:30:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "James Blunt announces baffling name change",
-     "url": "https://www.nine.com.au/entertainment/celebrity/james-blunt-changed-name-to-ryanair-fan-bet-new-album-20261117-p61esw.html"
-    },
-    {
-     "title": "James Blunt ‘legally changes name to Ryan Air’",
-     "url": "https://www.telegraph.co.uk/news/2026/11/17/james-blunt-name-change-ryan-air-album-tops-charts/"
-    },
-    {
-     "title": "James Blunt legally changes name to ‘Ryan Air’ after album hits number one",
-     "url": "https://www.ntnews.com.au/entertainment/james-blunt-legally-changes-name-to-ryan-air-after-album-hits-number-one/video/179a9766d05668dda7545d2545efde07"
-    }
-   ]
-  },
-  {
-   "q": "brazil vs singapore",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T10:10:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Carlo Ancelotti reveals why Raphinha REFUSED early Barcelona return despite Brazil suspension following red card controversy",
-     "url": "https://www.goal.com/en-au/news/carlo-ancelotti-raphinha-barcelona-brazil-red-card/blt3de67beb1666e44a"
-    },
-    {
-     "title": "Tension Erupts Between Raphinha and Barcelona After ‘Mysterious’ Surgery",
-     "url": "https://forzafootball.com/news/tension-erupts-between-raphinha-and-barcelona-after-mysterious-surgery-159484944"
-    },
-    {
-     "title": "Raphinha, emocionado, explica sus palabras: \"No quería volver a lesionarme\"",
-     "url": "https://onefootball.com/en/video/raphinha-emocionado-explica-sus-palabras-no-queria-volver-a-lesionarme-43771027"
-    }
-   ]
-  },
-  {
-   "q": "japan",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T10:10:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-     "url": "https://www.bbc.com/news/articles/c60evw20qe47o"
-    },
-    {
-     "title": "Japan scrambles jets to counter suspected Russian aircraft",
-     "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537"
-    },
-    {
-     "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace in southwestern Japan",
-     "url": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049"
-    }
-   ]
-  },
-  {
-   "q": "hungarian authorities buried cash find",
-   "traffic": "1000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-17T09:40:00Z",
-   "observed_at": "2026-11-17T12:08:19.531065Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Nearly $30 million of buried cash was discovered. It's likely just the start",
-     "url": "https://www.sbs.com.au/news/article/buried-cash-hungary-orban/4y1hbgi24"
-    },
-    {
-     "title": "Hungary recovers $20 million cash in probe of Orban minister",
-     "url": "https://www.reuters.com/world/hungary-recovers-20-million-cash-probe-orban-minister-2026-11-14/"
-    },
-    {
-     "title": "A $20 Million Stash Sends Viktor Orban’s Party Into a Tailspin",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-17/20-million-stash-sends-viktor-orban-party-fidesz-peter-magyar"
-    }
-   ]
-  },
-  {
-   "q": "singapour – brésil",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Singapour, Angola… Pourquoi certains pays d’Amérique du Sud jouent-ils contre des nations si mal classées en amical ?",
-     "url": "https://www.ouest-france.fr/sport/football/equipe-argentine/singapour-angola-pourquoi-certains-pays-damerique-du-sud-jouent-ils-contre-des-nations-si-mal-classees-en-amical-3e65ec54-de80-11f1-a62b-776e3051b0df"
-    },
-    {
-     "title": "Singapour prévoit de plonger le Brésil dans la crise.",
-     "url": "https://www.vietnam.vn/fr/singapore-tinh-chuyen-dim-brazil-vao-khung-hoang"
-    },
-    {
-     "title": "Singapour-Brésil : les compositions officielles dévoilées",
-     "url": "https://africafootunited.com/singapour-bresil-les-compositions-officielles-devoilees/"
-    }
-   ]
-  },
-  {
-   "q": "singapura x brasil",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": []
-  },
-  {
-   "q": "zimbabwe vs afghanistan",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:40:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Muzarabani, Cremer lead Zimbabwe's push for victory",
-     "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-report"
-    },
-    {
-     "title": "WATCH: Ikram Alikhil takes a stunning diving catch to dismiss Ben Curran on Day 3 of ZIM vs AFG 2nd Test",
-     "url": "https://crickettimes.com/2026/11/watch-ikram-alikhil-takes-a-stunning-diving-catch-to-dismiss-ben-curran-on-day-3-of-zim-vs-afg-2nd-test/"
-    },
-    {
-     "title": "Afghanistan vs Zimbabwe 2nd Test Day 5 live streaming, scores and match updates",
-     "url": "https://www.cricketworld.com/afghanistan-vs-zimbabwe-2nd-test-day-5-live-streaming-scores-and-match-updates/114381.htm"
-    }
-   ]
-  },
-  {
-   "q": "gas prices",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:20:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "The best and worst times to drive to your Thanksgiving plans this year, according to AAA",
-     "url": "https://www.wbur.org/news/2026/11/16/thanksgiving-driving-best-worst-traffic"
-    },
-    {
-     "title": "Airfare, gas prices expected to impact Thanksgiving travel: AAA",
-     "url": "https://thehill.com/policy/transportation/6223078-airfare-gas-prices-thanksgiving-holiday-travel-predictions/"
-    },
-    {
-     "title": "Maryland Thanksgiving travel forecast: Worst traffic times predicted",
-     "url": "https://www.wbaltv.com/article/maryland-thanksgiving-travel-forecast-aaa-worst-traffic-times/74441236"
-    }
-   ]
-  },
-  {
-   "q": "movie times",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:20:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "CHIPOTLE DEBUTS THE \"SNEAK IT IN\" HOODIE DESIGNED TO DISCREETLY BRING BURRITOS TO THE MOVIES",
-     "url": "https://newsroom.chipotle.com/2026-11-16-CHIPOTLE-DEBUTS-THE-SNEAK-IT-IN-HOODIE-DESIGNED-TO-DISCREETLY-BRING-BURRITOS-TO-THE-MOVIES"
-    },
-    {
-     "title": "Chipotle is helping people sneak food into movie theaters. Here’s how",
-     "url": "https://ktla.com/food/chipotle-is-helping-people-sneak-food-into-movie-theaters-heres-how/"
-    },
-    {
-     "title": "Chipotle launches ‘Sneak It In’ hoodies with hidden pouch to keep your burrito warm",
-     "url": "https://www.foxbusiness.com/fox-news-food-drink/chipotle-launches-sneak-in-hoodies-hidden-pouch-keep-your-burrito-warm"
-    }
-   ]
-  },
-  {
-   "q": "arresto",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:20:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "«De Gennaro va arrestato, ha depistato le indagini sulla strage di via D'Amelio»: la richiesta choc per l'ex capo della polizia indagato per depistaggio, poi il no del Gip",
-     "url": "https://www.corriere.it/cronache/26_novembre_16/de-gennaro-indagato-per-il-caso-borsellino-i-giudici-cercano-l-agenda-rossa-05a800de-d964-4b83-b525-e4d7ccdd3xlk.shtml"
-    },
-    {
-     "title": "Chiesto l'arresto dell'ex capo della Polizia De Gennaro, il gip dice no",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/16/la-strage-di-via-damelio-gianni-de-gennaro-indagato-per-depistaggio_f194921d-4c33-4bf6-99bc-f4bae25314ce.html"
-    },
-    {
-     "title": "Indagini pericolose, chi vuole riscrivere la storia delle stragi",
-     "url": "https://www.editorialedomani.it/idee/commenti/stragi-mafia-inchiesta-caltanissetta-de-luca-de-gennaro-ijb4e73q"
-    }
-   ]
-  },
-  {
-   "q": "singapore vs brazil",
-   "traffic": "5000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:10:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Real Madrid star Vinicius Jr embraces Brazil pressure and vows to shield Endrick & Estevao from critics",
-     "url": "https://www.goal.com/en/news/real-madrid-vinicius-brazil-endrick-estevao/blt1a3300a4d2ada184"
-    },
-    {
-     "title": "Lions’ man for big moments Shawal Anuar eyeing ‘dream come true’ run-out against Brazil",
-     "url": "https://www.straitstimes.com/sport/football/lions-man-for-big-moments-shawal-anuar-eyeing-dream-come-true-run-out-against-brazil"
-    },
-    {
-     "title": "Licensable picture: Mizuho Blue Challenge - Singapore v Brazil",
-     "url": "https://www.reutersconnect.com/item/mizuho-blue-challenge-singapore-v-brazil/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgwUjZDR0c"
-    }
-   ]
-  },
-  {
-   "q": "พีท พีระ",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:10:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "ช็อกวงการเพลง! พบร่าง \"พีธ พีระ\" อดีตสมาชิก Peacemaker เสียชีวิตในบ้านพัก",
-     "url": "https://www.sanook.com/news/9912243/"
-    },
-    {
-     "title": "บอย เศร้า สูญเสีย พีธ พีระ ขอบคุณทุกอย่างที่มีให้กันตลอด 27 ปี ขอให้เพื่อนเดินทางปลอดภัย",
-     "url": "https://www.matichon.co.th/entertainment/news_5979299"
-    },
-    {
-     "title": "ช็อกวงการเพลง! “พีท พีระ” เสียชีวิตในบ้านพัก ค่ายต้นสังกัดยืนยันข่าวเศร้าเป็นเรื่องจริง",
-     "url": "https://today.line.me/th/v3/article/rmpDj1Y"
-    }
-   ]
-  },
-  {
-   "q": "on",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T09:10:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Trump Administration Divide on China Policy Breaks Into Public View",
-     "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
-    },
-    {
-     "title": "Trump sees ‘both sides’ as Nvidia scandal fuels feud between top aides",
-     "url": "https://www.washingtonpost.com/technology/2026/11/16/fight-between-bessent-lutnick-over-nvidia-chips-heats-up/"
-    },
-    {
-     "title": "Howard Lutnick is one big problem for the Trump administration",
-     "url": "https://www.cnn.com/2026/11/16/politics/howard-lutnick-trump-administration-nvidia"
-    }
-   ]
-  },
-  {
-   "q": "big boi 200 pound marlin",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-17T08:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "OutKast rapper Big Boi reels in massive 200-pound marlin during fishing trip off Cabo San Lucas | OutKick",
-     "url": "https://www.foxnews.com/outkick-sports/outkast-rapper-big-boi-reels-massive-200-pound-marlin-fishing-trip-cabo-san-lucas"
-    },
-    {
-     "title": "Grammy-Winning Rapper Battles 200-Pound Sea Creature for Nearly an Hour",
-     "url": "https://www.vice.com/en/article/grammy-winning-rapper-battles-200-pound-sea-creature-for-nearly-an-hour/"
-    },
-    {
-     "title": "Rapper Big Boi Catches Massive Striped Marlin In Mexico That Is Fully Exempt From Billfish Conservation Laws",
-     "url": "https://brobible.com/sports/article/big-boi-striped-marlin-fishing-cabo-mexico-billfish-conservation-act-legal-mount/"
-    }
-   ]
-  },
-  {
-   "q": "ipl 2025",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": []
-  },
-  {
-   "q": "ट्रेविस हेड",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "IPL 2027 में नहीं खेलेंगे ट्रैविस हेड",
-     "url": "https://www.cricinfo.com/hindi/story/srh-opener-travis-head-set-to-miss-ipl-2027-1562920"
-    },
-    {
-     "title": "ट्रेविस हेड क्यों हो गए आईपीएल 2027 से बाहर, आखिर क्या है इसके पीछे की वजह!",
-     "url": "https://www.indiatv.in/sports/cricket/travis-head-out-of-ipl-2027-for-sunrisers-hyderabad-what-is-the-reason-behind-it-2026-11-17-1254820"
-    },
-    {
-     "title": "IPL 2027: सनराइजर्स हैदराबाद को झटका, ट्रेविस हेड नहीं खेलेंगे अगला आईपीएल",
-     "url": "https://www.jagran.com/cricket/headlines-travis-head-will-miss-ipl-2027-informed-sunrisers-hyderabad-40439207.html"
-    }
-   ]
-  },
-  {
-   "q": "india vs palestine u17",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Eleven AIFF-FIFA-Odisha Talent Academy players in India squad for AFC U17 Asian Cup Qualifiers",
-     "url": "https://www.the-aiff.com/article/eleven-aiff-fifa-odisha-talent-academy-players-in-india-squad-for-afc-u17-asian-cup-qualifiers"
-    },
-    {
-     "title": "India wallop Guam 12-0 in AFC U-17 Asian Cup Qualifiers",
-     "url": "https://theshillongtimes.com/2026/11/15/india-wallop-guam-12-0-in-afc-u-17-asian-cup-qualifiers/"
-    },
-    {
-     "title": "India U-17 Team Eye Crucial Win Against Palestine to Strengthen Qualification Hopes",
-     "url": "https://english.hindusthansamachar.in/Encyc/2026/11/17/Sports-Football-India-U17-Mens.php"
-    }
-   ]
-  },
-  {
-   "q": "கனிமம்",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:30:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "தமிழகத்தில் இருந்து வெளிமாநிலங்களுக்கு கனிமங்களை கொண்டு செல்வதற்கான தடை ரத்து",
-     "url": "https://www.hindutamil.in/news/tamilnadu/high-court-cancel-tn-govts-ban-order-in-minerals-transported-for-out-states"
-    },
-    {
-     "title": "தமிழகத்தில் இருந்து வெளி மாநிலங்களுக்கு கனிமங்களை கொண்டு செல்வதற்கான தடை ரத்து!",
-     "url": "https://www.dinamani.com/tamilnadu/2026/Nov/17/ban-transporting-minerals-from-tamil-nadu-to-other-states-lifted"
-    },
-    {
-     "title": "கனிமங்களை வெளிமாநிலங்களுக்கு கொண்டு செல்ல தமிழக அரசு விதித்த தடை ரத்து... * சென்னை உயர்நீதிமன்றம் அதிரடி..!",
-     "url": "https://rockforttimes.in/tamil-nadu-governments-ban-on-transporting-minerals-to-other-states-cancelled-madras-high-court-delivers-major-order/"
-    }
-   ]
-  },
-  {
-   "q": "সূর্য কান্ত",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:30:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "প্রধান বিচারপতির বিরুদ্ধে মন্তব্য করে বহিষ্কৃত আইনজীবী",
-     "url": "https://www.anandabazar.com/india/lawyer-expelled-for-making-remarks-against-the-chief-justice-of-supreme-court-prnt/cid/1726915"
-    },
-    {
-     "title": "'আপনি ওই কুর্সির যোগ্য নন', সুপ্রিম কোর্টে CJI-কে কটাক্ষ! এজলাস থেকে বের করা হল আইনজীবীকে",
-     "url": "https://www.thewall.in/India/lawyer-escorted-out-supreme-court-unpleasant-remarks-cji-surya-kant/tid/209592"
-    },
-    {
-     "title": "আপনি এই চেয়ারের যোগ্য নন, প্রধান বিচারপতির উদ্দেশে লাগামছাড়া মন্তব্য, বহিষ্কৃত আইনজীবী",
-     "url": "https://www.sangbadpratidin.in/india/a-lawyer-escorted-out-after-remarks-at-cji-surya-kant/pid/1431372/"
-    }
-   ]
-  },
-  {
-   "q": "singapore vs brazil",
-   "traffic": "20000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:10:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Singapore vs Brazil: Friendlies stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cw772xnn72n6t"
-    },
-    {
-     "title": "Real Madrid star Vinicius Jr embraces Brazil pressure and vows to shield Endrick & Estevao from critics",
-     "url": "https://www.goal.com/en-in/news/real-madrid-vinicius-brazil-endrick-estevao/blt1a3300a4d2ada184"
-    },
-    {
-     "title": "How to watch Singapore vs. Brazil online for free",
-     "url": "https://mashable.com/entertainment/singapore-brazil-international-friendly-2026-live-stream-for-free"
-    }
-   ]
-  },
-  {
-   "q": "अभिषेक बच्चन",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:10:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "गोल्डी ढिल्लों ने दी धमकी, आखिर अमिताभ बच्चन का 1984 के सिख विरोधी हिंसा से क्या है कनेक्शन?",
-     "url": "https://navbharatlive.com/maharashtra/mumbai/goldy-dhillon-threat-amitabh-bachchan-1984-anti-sikh-riots-connection-gsp26"
-    },
-    {
-     "title": "'बुलेटप्रूफ में भी मारेंगे', अमिताभ-अभिषेक को अब गोल्डी ढिल्लों गैंग से मिली धमकी | The Lallantop",
-     "url": "https://www.thelallantop.com/india/post/gangster-goldy-dhillon-threatens-amitabh-and-abhishek-bachchan"
-    },
-    {
-     "title": "अमिताभ बच्चन को किस बात का खतरा? 'बच गए' पोस्ट के पीछे की कहानी",
-     "url": "https://www.aajtak.in/short-videos/video/amitabh-bachchan-bach-gaye-post-jalsa-attack-property-dispute-celebs-security-mmtm-2697657-2026-11-16"
-    }
-   ]
-  },
-  {
-   "q": "kea",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:10:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "KCET 2027 Notification: Will KEA Release Registration Early?",
-     "url": "https://www.pw.live/kseab/exams/kcet-2027-syllabus-released-early-notification-registration-dates"
-    },
-    {
-     "title": "KCET 2027 Syllabus - Check Key Changes vs 2026, Added Practical Topics & Deleted Portions here",
-     "url": "https://www.shiksha.com/engineering/articles/kcet-2027-syllabus-out-key-changes-blogId-246708"
-    },
-    {
-     "title": "Karnataka CET 2027: KEA Releases Detailed Subject-Wise Syllabus PDFs",
-     "url": "https://www.ndtv.com/education/karnataka-cet-2027-kea-releases-detailed-subject-wise-syllabus-pdfs-12326299"
-    }
-   ]
-  },
-  {
-   "q": "michael burry",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:00:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Michael Burry says he won't buy Nvidia stock 'at any price' now — as he predicts 'real problems' beyond Jensen Huang",
-     "url": "https://www.businessinsider.com/michael-burry-nvidia-stock-price-jensen-huang-elon-musk-ai-2026-11"
-    },
-    {
-     "title": "Michael Burry’s Nasdaq-100 puts target a 2027 tech crash: QQQ is down 10%, but Apple and Microsoft earning",
-     "url": "https://m.economictimes.com/world/us/michael-burrys-nasdaq-100-puts-target-a-2027-tech-crash-qqq-is-down-10-but-apple-and-microsoft-earnings-are-growing-should-investors-follow-his-warning/articleshow/135893377.cms"
-    },
-    {
-     "title": "AI Bull Market Trap Exposed: The Big Short Strikes Again – Critical Insights for 2024 Investors",
-     "url": "https://eu.36kr.com/en/p/4071606841021320"
-    }
-   ]
-  },
-  {
-   "q": "pyre",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-17T09:00:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "'Pyre': Only Lovers Left Alive in an Apocalypse",
-     "url": "https://thewire.in/film/vinod-kapri-pyre-review-only-lover-left-alive"
-    },
-    {
-     "title": "Vinod Kapri says he was warned of ‘serious repercussions’ for speaking up as Pyre faced screen cuts amid Ramayana release | Bollywood",
-     "url": "https://www.hindustantimes.com/entertainment/bollywood/vinod-kapri-says-he-was-warned-of-serious-repercussions-for-speaking-up-as-pyre-faced-screen-cuts-amid-ramayana-release-101794727234916.html"
-    },
-    {
-     "title": "‘A good story matters more than star power’",
-     "url": "https://www.dailyexcelsior.com/a-good-story-matters-more-than-star-power/"
-    }
-   ]
-  },
-  {
-   "q": "manila",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Trump about to land in Manila ahead of meeting with India, Japan and Australia leaders - follow live",
-     "url": "https://www.bbc.co.uk/news/live/cw99e0n0lpnnt"
-    },
-    {
-     "title": "Trump lands in the Philippines to attend summit of Southeast Asian leaders",
-     "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
-    },
-    {
-     "title": "Donald Trump’s Asia tour begins",
-     "url": "https://www.economist.com/the-world-in-brief/2026/11/17/24ca0675-7ce2-4c38-8484-6a4a6fe01c2c"
-    }
-   ]
-  },
-  {
-   "q": "wwe raw results",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-17T09:50:00Z",
-   "observed_at": "2026-11-17T10:05:34.011594Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Carmelo Hayes & Cruz Montana take down The Usos to give The 946 the WarGames advantage",
-     "url": "https://www.wwe.com/shows/raw/2026-11-16"
-    },
-    {
-     "title": "WWE Raw Preview (11/16/26): Start Time, Match Card, How to Watch & Live Stream",
-     "url": "https://www.si.com/fannation/wrestling/wwe/wwe-raw-preview-start-time-match-card-how-to-watch-live-stream-nov16"
-    },
-    {
-     "title": "WWE Raw Winners, Live Grades, Reaction and Highlights From November 16",
-     "url": "https://bleacherreport.com/articles/25534347-wwe-raw-winners-live-grades-reaction-and-highlights-november-16"
     }
    ]
   }
