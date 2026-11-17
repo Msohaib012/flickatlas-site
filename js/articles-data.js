@@ -175258,5 +175258,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 23:03:44 +0530"
+  },
+  "1cwbdpd": {
+    "id": "1cwbdpd",
+    "type": "news",
+    "headline": "Ramayana Day 13 BO Collection: Ranbir Kapoor-Yash Film Enters Rs 800 Crore Club On Second Tuesday",
+    "dek": "Ramayana: Part 1 crosses another major box office milestone, pushing its India net collection past Rs 800 crore within 13 days of release.",
+    "body": [
+      {
+        "h": "Reaching The Rs 800 Crore Milestone",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has achieved a monumental box office milestone by crossing the Rs 800 crore mark in domestic net collections. Within 13 days of its theatrical run, the feature has captured widespread audience attention across the country.",
+          "The film continues to hold a strong grip at the ticket windows, maintaining steady figures despite entering the second week of its release cycle."
+        ]
+      },
+      {
+        "h": "Second Tuesday Collections And Language Breakdown",
+        "p": [
+          "On Tuesday, November 17, the Nitesh Tiwari directorial earned Rs 28.70 crore net across 22,526 shows. The Hindi version remained the primary contributor with Rs 21 crore from 17,845 shows.",
+          "Regional versions also added significantly to the tally, with Malayalam earning Rs 2.35 crore, Kannada bringing in Rs 2.10 crore, Tamil contributing Rs 1.75 crore, and Telugu adding Rs 1.50 crore."
+        ]
+      },
+      {
+        "h": "Global Projections And Worldwide Gross",
+        "p": [
+          "The international performance has been equally remarkable, with overseas markets adding Rs 12 crore on the second Tuesday alone. This pushed the cumulative international gross to Rs 502 crore.",
+          "Combined with domestic numbers, the worldwide gross has climbed to Rs 1,483.50 crore, placing the production within touching distance of the Rs 1,500 crore global threshold."
+        ]
+      },
+      {
+        "h": "Day-Wise Domestic Trajectory",
+        "p": [
+          "The journey to the current figures includes a robust opening week and steady second-week holds. Starting with Rs 64.85 crore on Day 1, the feature peaked on Day 5 with Rs 107.50 crore.",
+          "Subsequent days saw natural weekday adjustments, moving from Rs 75.00 crore on Day 11 and Rs 32.00 crore on Day 12 down to the Rs 28.70 crore recorded on Day 13."
+        ]
+      },
+      {
+        "h": "Cast, Crew, And Cinematic Scale",
+        "p": [
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra, the project brings the ancient Indian epic to life on a grand scale with extensive visual effects. The feature hit theatres on November 5, 2026.",
+          "The stellar ensemble includes Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana, alongside supporting performances from Ravi Dubey, Arun Govil, Lara Dutta, Vivek Oberoi, and Rakul Preet Singh."
+        ]
+      },
+      {
+        "h": "Comparative Performance",
+        "p": [
+          "While maintaining remarkable momentum, the feature experienced a slight dip compared to its Monday performance of Rs 32 crore net in India.",
+          "Additionally, its second Tuesday earnings slightly trailed behind Ranveer Singh's Dhurandhar 1, which recorded Rs 32.10 crore on its corresponding second Tuesday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 crossed the Rs 800 crore net domestic milestone on its second Tuesday, driven by strong multi-language contributions across India. With worldwide gross figures approaching the Rs 1,500 crore mark, the Nitesh Tiwari directorial continues its historic theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 crossed Rs 800 crore in India net collection within 13 days.",
+      "The film earned Rs 28.70 crore net across 22,526 shows on Day 13.",
+      "The Hindi version earned Rs 21 crore from 17,845 shows on Day 13.",
+      "The Malayalam version added Rs 2.35 crore from 1,067 shows on Day 13.",
+      "The Kannada version collected Rs 2.10 crore from 894 shows on Day 13.",
+      "The Tamil version contributed Rs 1.75 crore from 1,168 shows on Day 13.",
+      "The Telugu version earned Rs 1.50 crore from 1,552 shows on Day 13.",
+      "Total India net collection reached Rs 821.30 crore by Day 13.",
+      "Domestic gross collection stands at Rs 981.50 crore.",
+      "Worldwide gross collection stands at Rs 1,483.50 crore.",
+      "The film released in theatres on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "A R Rahman",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dhurandhar 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Day 13 box office",
+      "Ramayana collection Rs 800 crore"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156526949,thumbsize-88475,width-1280,height-720,resizemode-75/156526949.jpg",
+        "caption": "Ramayana Day 13 BO Collection: Ranbir Kapoor-Yash Film Enters Rs 800 Crore Club On Second Tuesday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T20:52:45Z"
+  },
+  "17eb2bb": {
+    "id": "17eb2bb",
+    "type": "news",
+    "headline": "The Traitors Season 5 Trailer Sets Release Date and Cast for Alan Cumming’s Hit TV Show",
+    "dek": "Peacock has unveiled the official trailer, cast list, and release date for the upcoming fifth season of its hit reality competition series hosted by Alan Cumming.",
+    "body": [
+      {
+        "h": "First Look at The Traitors Season 5",
+        "p": [
+          "Peacock has officially shared the first look at the highly anticipated fifth installment of its award-winning reality competition format. The newly dropped trailer offers fans a glimpse into the dramatic return of the castle setting and the fresh batch of famous personalities ready to test their wits.",
+          "The preview opens with host Alan Cumming welcoming the audience and the players alike, setting a theatrical tone for the games of deception and strategy that lie ahead. The footage highlights the tension building among the celebrity cast as alliances begin to form and fracture."
+        ]
+      },
+      {
+        "h": "Release Date and Schedule",
+        "p": [
+          "Viewers will not have to wait much longer to dive into the new psychological games, as the series is scheduled to premiere on Thursday, January 14, 2027. To kick off the run, the streaming platform will drop the first two episodes simultaneously at 9 p.m. ET or 6 p.m. PT.",
+          "Following the double-episode premiere, fresh installments will roll out on a weekly basis every Thursday. The dramatic trajectory of the season is set to culminate with a grand season finale and a special reunion event scheduled for March 18."
+        ]
+      },
+      {
+        "h": "Host and Cast Lineup",
+        "p": [
+          "Emmy-winning entertainer Alan Cumming returns to his throne at Ardross Castle in Scotland to guide the psychological competition. He will oversee a brand-new roster comprising twenty-three celebrity contestants hailing from various corners of television, music, sports, and entertainment.",
+          "The diverse roster features notable names such as RuPaul’s Drag Race star Bianca Del Rio, Olympic snowboarder Chloe Kim, actor Dominic Monaghan, singer Cody Simpson, and actress Kristin Chenoweth. They are joined by former contestants from other major reality franchises including Survivor, The Bachelor, Big Brother, Love Island, and The Real Housewives."
+        ]
+      },
+      {
+        "h": "Inside the Gameplay and Trailer Teases",
+        "p": [
+          "The newly released promotional footage gives a taste of the ruthless tactics the players intend to employ while residing in the Scottish castle. In the trailer, Cumming declares that the chorus of chaos has begun before telling the participants to take their seats because murder waits for no one.",
+          "The core mechanics of the competition remain rooted in stealth and deduction, with Cumming secretly designating a select few players as Traitors during the initial Roundtable. While the Traitors scheme under the cover of darkness, the remaining Faithful must work together during daytime discussions to identify and banish the deceivers."
+        ]
+      },
+      {
+        "h": "New Twists and Streaming Availability",
+        "p": [
+          "According to announcements from Peacock, the upcoming fifth chapter will introduce fresh gameplay twists designed to alter how the Traitors carry out their nighttime eliminations or recruit new members into their secret alliance. These adjustments aim to keep both the players and the audience guessing throughout the season.",
+          "For fans wishing to catch up on previous runs or follow the new episodes as they drop, all seasons of the reality competition program remain available to stream exclusively on Peacock."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Peacock has released the official trailer and cast details for the fifth season of The Traitors, hosted by Emmy winner Alan Cumming. The upcoming installment will premiere on January 14, 2027, featuring twenty-three celebrity contestants competing at Ardross Castle in Scotland."
+        ]
+      }
+    ],
+    "facts": [
+      "The Traitors Season 5 premieres on Thursday, January 14, 2027.",
+      "The season finale and reunion event are scheduled for March 18.",
+      "There are 23 celebrity contestants in the cast.",
+      "The show takes place at Ardross Castle in Scotland.",
+      "Cast members include Bianca Del Rio, Chloe Kim, Dominic Monaghan, Cody Simpson, and Kristin Chenoweth."
+    ],
+    "entities": {
+      "people": [
+        "Alan Cumming",
+        "Bianca Del Rio",
+        "Chloe Kim",
+        "Dominic Monaghan",
+        "Cody Simpson",
+        "Kristin Chenoweth",
+        "Manoj Chekkilla"
+      ],
+      "titles": [
+        "The Traitors",
+        "RuPaul’s Drag Race",
+        "The Bachelor",
+        "Survivor",
+        "Big Brother",
+        "The Real Housewives",
+        "Love Island"
+      ]
+    },
+    "keywords": [
+      "The Traitors Season 5",
+      "Alan Cumming The Traitors",
+      "The Traitors release date",
+      "The Traitors Peacock cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/The-Traitors-Season-5-Trailer-Sets-Release-Date-Cast-for-Alan-Cummings-Hit-TV-Show.jpg?resize=1200,630",
+        "caption": "The Traitors Season 5 Trailer Sets Release Date and Cast for Alan Cumming’s Hit TV Show",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 19:40:35 +0000"
+  },
+  "b5pw5z": {
+    "id": "b5pw5z",
+    "type": "news",
+    "headline": "Bollywood Dominates Hollywood at the 2026 Box Office as Ramayana, Dhurandhar 2, and Drishyam 3 Surge Ahead",
+    "dek": "Hindi cinema has scored major victories against high-profile Hollywood releases in 2026, with blockbusters like Ramayana Part 1, Dhurandhar The Revenge, and Drishyam 3 outperforming international contenders worldwide.",
+    "body": [
+      {
+        "h": "A Landmark Year for Hindi Cinema",
+        "p": [
+          "The global box office usually sees Hollywood holding a dominant position whenever international and domestic films clash head-to-head. However, the entertainment landscape in 2026 has witnessed a remarkable shift, with prominent Bollywood titles consistently overshadowing major foreign releases. Rather than playing second fiddle to international studio juggernauts, Indian films have commanded massive audiences globally and set new benchmarks.",
+          "This trend highlights a growing appetite for high-concept domestic storytelling that matches or exceeds the scale of Hollywood productions. Industry analysts have noted that the traditional power balance is evolving, as Hindi cinema delivers major commercial successes that resonate far beyond local borders."
+        ]
+      },
+      {
+        "h": "Ramayana Outpaces Godzilla Minus Zero",
+        "p": [
+          "One of the most anticipated and tense box office clashes involved Ranbir Kapoor and Yash starrer Ramayana Part 1 and the successful international franchise film Godzilla Minus Zero. Given that the previous installment of the Godzilla series won an Oscar, audiences and experts anticipated a fierce competition.",
+          "Despite initial concerns, Ramayana Part 1 surged ahead globally. By November 16, the Ranbir Kapoor and Yash starrer crossed 150 million dollars, translating to approximately 1400 crore INR in worldwide collections. In comparison, Godzilla Minus Zero reached around 104.8 million dollars, or roughly 900 to 1000 crore INR. With upcoming releases scheduled in major Asian markets like China, Japan, Russia, and South Korea, Ramayana is projected to potentially touch the 200 million dollar mark."
+        ]
+      },
+      {
+        "h": "Dhurandhar The Revenge Crushes Ready or Not 2",
+        "p": [
+          "The box office dominance began early in the year with the release of Dhurandhar The Revenge on March 19. The movie faced off against Ready or Not 2, the official sequel to the successful 2019 Hollywood film Ready or Not.",
+          "While the first part of the Hollywood franchise enjoyed strong popularity, the sequel was completely overshadowed by Dhurandhar 2. The Indian blockbuster amassed a staggering worldwide collection exceeding 200 million dollars, amounting to more than 1800 crore INR, whereas the foreign sequel managed only about 43 million dollars, or roughly 402 crore INR."
+        ]
+      },
+      {
+        "h": "Drishyam 3 Triumphs Over Tom Cruise Starrer",
+        "p": [
+          "An October 2 clash brought together Ajay Devgn's franchise film Drishyam 3 and a dark comedy directed by a critically acclaimed filmmaker starring Tom Cruise. The showdown pitted a well-established domestic suspense brand against a major Hollywood star vehicle.",
+          "Drishyam 3 ultimately emerged victorious in this matchup. Ajay Devgn's movie crossed 250 crore INR globally, whereas the Tom Cruise-led film failed to breach the 200 crore INR threshold, reinforcing Bollywood's strong grip on the theatrical market during the autumn season."
+        ]
+      },
+      {
+        "h": "Upcoming International and Domestic Clashes",
+        "p": [
+          "While Bollywood has enjoyed the upper hand for much of the year, Hollywood has also landed notable hits, such as Spider-Man Brand New Day, which pulled in strong numbers across Indian and international box offices.",
+          "Attention now turns to the closing month of the year. The impending arrival of Avengers Doomsday has already demonstrated massive momentum through advance bookings, raising the question of whether Shah Rukh Khan's upcoming film King will be able to challenge its box office supremacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "In 2026, Bollywood films including Ramayana Part 1, Dhurandhar The Revenge, and Drishyam 3 successfully outperformed major Hollywood competitors at the worldwide box office. These Hindi blockbusters outearned international counterparts like Godzilla Minus Zero, Ready or Not 2, and Tom Cruise's film, marking a major shift in theatrical dominance."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 stars Ranbir Kapoor and Yash.",
+      "Ramayana Part 1 crossed 150 million dollars (approx 1400 crore INR) worldwide by November 16.",
+      "Godzilla Minus Zero earned 104.8 million dollars (approx 900-1000 crore INR).",
+      "Godzilla Minus Zero is scheduled for release in India on November 20.",
+      "Dhurandhar The Revenge was released on March 19.",
+      "Dhurandhar The Revenge grossed over 200 million dollars (more than 1800 crore INR) worldwide.",
+      "Ready or Not 2 earned around 43 million dollars (approx 402 crore INR).",
+      "Drishyam 3 stars Ajay Devgn.",
+      "Drishyam 3 and Tom Cruise's movie clashed at the box office on October 2.",
+      "Drishyam 3 collected over 250 crore INR globally while the Tom Cruise movie stayed under 200 crore INR."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Tom Cruise",
+        "Ajay Devgn",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Godzilla Minus Zero",
+        "Dhurandhar The Revenge",
+        "Ready or Not 2",
+        "Drishyam 3",
+        "Spider-Man Brand New Day",
+        "Avengers Doomsday",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Dhurandhar The Revenge collection",
+      "Drishyam 3 Ajay Devgn",
+      "Ranbir Kapoor Ramayana Godzilla Minus Zero"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc1d179c6fe-bollywood-vs-hollywood-2026-172334429-16x9.jpg",
+        "caption": "Bollywood Dominates Hollywood at the 2026 Box Office as Ramayana, Dhurandhar 2, and Drishyam 3 Surge Ahead",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T20:52:45Z"
+  },
+  "1f10s3r": {
+    "id": "1f10s3r",
+    "type": "news",
+    "headline": "Ted: The Animated Series Trailer Unleashes New Chaos From Seth MacFarlane",
+    "dek": "A fresh preview for Peacock's animated iteration of Ted reunites the classic foul-mouthed bear with John Bennett, bringing Family Guy-style humor and franchise veterans back to the screen.",
+    "body": [
+      {
+        "h": "The Thunder Buddies Return in Animated Form",
+        "p": [
+          "Fans of the raunchy, hard-drinking teddy bear can celebrate as a brand new preview arrives for Ted: The Animated Series. Shifting gears from previous live-action iterations, the upcoming show embraces the animated medium to push boundaries further than before.",
+          "Without the constraints of physical on-set physics or restrictive CGI budgets, creator Seth MacFarlane leans heavily into unrestrained absurdity. The project marks an exciting evolution for the popular comedy property."
+        ]
+      },
+      {
+        "h": "A Decade Later in the Timeline",
+        "p": [
+          "Set twelve years after the events depicted in Ted and Ted 2, the narrative catches up with the titular bear and his human companion, John Bennett. Both characters find themselves navigating the monotonous struggles of middle age.",
+          "Living as neighbors with separate families and dead-end jobs, the duo continues to foster terrible decision-making. Their enduring bond remains central to the chaos as they tackle marriage and parenting."
+        ]
+      },
+      {
+        "h": "Familiar Voices and Fresh Additions",
+        "p": [
+          "Seth MacFarlane steps back into the recording booth to voice the lovable, unfiltered teddy bear. Meanwhile, original film cast members Mark Wahlberg, Amanda Seyfried, and Jessica Barth reprise their respective roles as John, Sam, and Tami-Lynn.",
+          "The voice cast also welcomes exciting new talent to the fold. Saturday Night Live alum Kyle Mooney joins the project to voice a brand new character named Apollo, alongside Liz Richman who voices Ruth."
+        ]
+      },
+      {
+        "h": "Middle-Aged Struggles Meet Bad Habits",
+        "p": [
+          "Age clearly catches up with the iconic duo in the preview, as their heavy consumption of booze and cheeba meets the harsh realities of growing older. Their attempts to relive past glory days lead to thoroughly irresponsible misadventures.",
+          "Anyone unfortunate enough to cross paths with the pair tends to catch collateral damage. Their attempts at domestic responsibility continually derail into absolute hilarity."
+        ]
+      },
+      {
+        "h": "Classic Family Guy Aesthetic and Bizarre Cameos",
+        "p": [
+          "Longtime viewers of Seth MacFarlane's television output will instantly recognize the distinct visual art style. The animation heavily mirrors the aesthetic of his long-running staple Family Guy.",
+          "True to that stylistic heritage, the show features slapstick violence, exaggerated drug consumption, and wild celebrity guest appearances. An unexpected cameo by the Insane Clown Posse highlights the chaotic tone of the series."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Franchise Context",
+        "p": [
+          "The animated adaptation follows the massive success that Peacock achieved with its previous live-action prequel series. That initial triumph paved the way for the platform to expand the universe further.",
+          "By steering the property back toward the original feature-film timeline, the creators can explore fresh narrative territory. The transition to animation ensures the characters remain as crude and irreverent as ever."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Seth MacFarlane and Mark Wahlberg reunite twelve years after Ted 2 for Peacock's upcoming animated series. The newly released trailer showcases the return of the iconic thunder buddies alongside familiar franchise cast members.",
+          "The show combines classic Family Guy-style chaos with middle-aged domestic struggles, promising unfiltered humor for longtime fans."
+        ]
+      }
+    ],
+    "facts": [
+      "Ted: The Animated Series is created by Seth MacFarlane.",
+      "The series is set 12 years after Ted and Ted 2.",
+      "Mark Wahlberg, Amanda Seyfried, and Jessica Barth reprise their film roles.",
+      "Kyle Mooney and Liz Richman join the voice cast as Apollo and Ruth.",
+      "The project streams on Peacock."
+    ],
+    "entities": {
+      "people": [
+        "Seth MacFarlane",
+        "Mark Wahlberg",
+        "Amanda Seyfried",
+        "Jessica Barth",
+        "Kyle Mooney",
+        "Liz Richman"
+      ],
+      "titles": [
+        "Ted: The Animated Series",
+        "Ted",
+        "Ted 2",
+        "Family Guy"
+      ]
+    },
+    "keywords": [
+      "Ted: The Animated Series",
+      "Seth MacFarlane Ted show",
+      "Mark Wahlberg Ted animated",
+      "Peacock Ted series trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.joblo.com/wp-content/uploads/2026/09/ted_the_animated_series_premiere.jpg",
+        "caption": "Ted: The Animated Series Trailer Unleashes New Chaos From Seth MacFarlane",
+        "source": "JoBlo"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 19:40:07 +0000"
   }
 };
