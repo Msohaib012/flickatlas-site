@@ -141296,10 +141296,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "FAA nationwide ground stop",
-      "Sean Duffy air traffic control",
-      "Markwayne Mullin telecommunications outage",
-      "flights canceled delayed November 13"
+      "US Federal Aviation Administration ground stop",
+      "FAA nationwide ground stop network outage",
+      "US FAA lifts nationwide ground stop",
+      "FAA network outage flights cancellation"
     ],
     "images": [
       {
@@ -141389,10 +141389,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "BTS Jin Seoul building",
-      "Jin Hannam-dong property 9.6 billion",
-      "BTS Jin Jini building",
-      "Kim Seokjin real estate Seoul"
+      "BTS Jin commercial property Seoul",
+      "Jin Hannam-dong Seoul building Jini",
+      "BTS member Jin property purchase",
+      "Jin 9.6 billion won Seoul building"
     ],
     "images": [
       {
@@ -141575,10 +141575,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Grammy Awards",
-      "Ella Langley",
-      "Taylor Swift",
-      "Album of the Year"
+      "Grammy Awards 2027 Album of the Year",
+      "Ella Langley Olivia Dean Grammy Awards",
+      "Grammy Awards Album of the Year predictions",
+      "Olivia Rodrigo Grammy Awards 2027"
     ],
     "images": [
       {
@@ -141659,9 +141659,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Diljit Dosanjh Ahmedabad concert",
-      "Diljit Dosanjh November 21 concert",
-      "Diljit Dosanjh Patiala Pegg",
-      "Diljit Dosanjh Narendra Modi Stadium"
+      "Diljit Dosanjh song restrictions Narendra Modi Stadium",
+      "Diljit Dosanjh concert safety demands",
+      "Diljit Dosanjh Ahmedabad performance"
     ],
     "images": [
       {
@@ -141863,10 +141863,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Dhindora Season 2",
-      "Bhuvan Bam Netflix",
-      "Titu Mama Dhindora",
-      "Sanjeeda Sheikh Dhindora"
+      "Bhuvan Bam Dhindora Season 2",
+      "Dhindora Season 2 Netflix release date",
+      "Bhuvan Bam Netflix Dhindora",
+      "Dhindora Season 2 Netflix"
     ],
     "images": [
       {
@@ -141954,10 +141954,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "New Regency Michael Mann Heat",
-      "Heat screenplay copyright lawsuit",
-      "Michael Mann termination notices",
-      "Heat 2 production January 19"
+      "New Regency Lawsuit Michael Mann",
+      "Michael Mann Heat screenplay copyright",
+      "New Regency Michael Mann Heat 2",
+      "Michael Mann Heat rights lawsuit"
     ],
     "images": [
       {
@@ -142051,11 +142051,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bigg Boss 20",
-      "Love Gill",
-      "Scout OP",
-      "Kanika Mann",
-      "Bigg Boss 20 Episode 69"
+      "Bigg Boss 20 Episode 69 Love Gill",
+      "Scout OP Kanika Mann Bigg Boss 20",
+      "Bigg Boss 20 Love Gill Scout OP",
+      "Kanika Mann Love Gill Bigg Boss"
     ],
     "images": [
       {
@@ -142151,10 +142150,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Clayface movie",
-      "DC horror spin off",
-      "James Gunn Peter Safran DC",
-      "Matt Reeves The Batman"
+      "DC Horror Spin-Off Exits Theaters",
+      "DC R-Rated Horror digital launch",
+      "DC cinematic project theatrical run",
+      "DC horror movie digital premiere"
     ],
     "images": [
       {
@@ -142245,9 +142244,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Shilpa Shetty Pyaar Ka Pressure Cooker",
-      "Pyaar Ka Pressure Cooker reality show",
-      "Colors TV Pyaar Ka Pressure Cooker",
-      "Shilpa Shetty new show"
+      "Pyaar Ka Pressure Cooker Colors channel",
+      "Shilpa Shetty reality television series",
+      "Pyaar Ka Pressure Cooker host Shilpa Shetty"
     ],
     "images": [
       {
@@ -142339,11 +142338,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Terminal List",
-      "Jack Carr",
-      "Chris Pratt",
-      "The Terminal List Dark Wolf",
-      "Prime Video action thriller"
+      "The Terminal List Prime Video",
+      "Chris Pratt The Terminal List streaming",
+      "The Terminal List streaming charts summit",
+      "Chris Pratt Prime Video series"
     ],
     "images": [
       {
@@ -142443,10 +142441,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana Day 9 collection",
-      "Ramayana beats Chhaava"
+      "Ramayana Box Office Collection Day 9",
+      "Ranbir Kapoor Ramayana Chhaava",
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Ranbir Kapoor 1100 crore"
     ],
     "images": [
       {
@@ -142543,10 +142541,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "James Gunn DCU exit",
+      "James Gunn and Peter Safran Exit DC Studios",
       "The People Vs. Gorilla Grodd",
-      "DC Studios leadership change",
-      "Superman spin off series"
+      "James Gunn Peter Safran Superman",
+      "DC Studios The People Vs. Gorilla Grodd"
     ],
     "images": [
       {
@@ -142635,10 +142633,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "O.M trailer review",
-      "Mammootty O.M film",
-      "Dhanush Sai Pallavi O.M",
-      "Rajkumar Periaswamy O.M"
+      "O.M trailer review Mammootty",
+      "Mammootty Dhanush Sai Pallavi O.M",
+      "O.M action drama trailer",
+      "Mammootty Dhanush Sai Pallavi"
     ],
     "images": [
       {
@@ -142727,10 +142725,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Boston Blue Bloodlines",
-      "Boston Blue episode 206",
-      "Donny Wahlberg Boston Blue",
-      "Boston Blue review"
+      "Boston Blue Season 2 Episode 6 Bloodlines",
+      "Boston Blue Bloodlines episode rating",
+      "Donny Wahlberg Boston Blue Bloodlines",
+      "Boston Blue Season 2"
     ],
     "images": [],
     "published": "2026-11-14T04:00:00.176+00:00"
@@ -142815,10 +142813,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene movie OTT release",
-      "Suriya Scene box office",
-      "Jithu Madhavan Scene Tamil film",
-      "Scene digital rights Netflix"
+      "Suriya Scene crime thriller",
+      "Scene digital deal box office",
+      "Suriya Scene movie box office run",
+      "Suriya Tamil crime thriller Scene"
     ],
     "images": [
       {
@@ -167815,5 +167813,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 02:00:18 GMT"
+  },
+  "137ablb": {
+    "id": "137ablb",
+    "type": "news",
+    "headline": "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
+    "dek": "Marvel's highly anticipated blockbuster Avengers: Doomsday has set a new benchmark by launching midnight ticket sales more than thirty days before its theatrical debut in India.",
+    "body": [
+      {
+        "h": "Unprecedented Early Ticket Sales",
+        "p": [
+          "The enthusiasm surrounding the upcoming Marvel superhero feature has climbed to extraordinary heights following a surprising announcement about advance ticket availability. Even though the nationwide theatrical rollout is slated for Thursday, December 17, ticketing platforms swung open on the night of November 16, crossing the crucial one-month threshold prior to the premiere.",
+          "Despite the unusually early window, eager fans have rushed to secure seats, causing tickets to sell out at a remarkably rapid pace across multiple locations. This unprecedented surge underscores the immense anticipation building around the cinematic event."
+        ]
+      },
+      {
+        "h": "A Historic Move for Midnight Screenings",
+        "p": [
+          "What elevates this rollout into historic territory is the immediate inclusion of post-midnight showtimes right from the onset of advance sales. Traditionally, multiplex operators restrict initial bookings to standard daytime and evening hours, reserving late-night or post-midnight slots for release day depending entirely on audience demand.",
+          "As a notable point of comparison, previous major Hollywood releases like Oppenheimer introduced late-night screenings more than ten days after sales began, and just two to three days before opening. In stark contrast, this Marvel tentpole has completely upended standard industry practices by offering midnight slots from day one of ticketing."
+        ]
+      },
+      {
+        "h": "Metropolitan Hubs Lead the Charge",
+        "p": [
+          "The early rush has been heavily concentrated around major metropolitan zones, with prominent exhibition chains rolling out early morning schedules. In Mumbai, venues such as PVR Lower Parel, Miraj Wadala, PVR Sangam Andheri, and INOX Raghuleela Kandivali have slotted screenings for 12:05 am and early morning hours.",
+          "Similarly, Cinepolis properties in Thane and Mumbai suburbs along with Delhi-NCR locations like Cinepolis Airia Mall and Cinepolis Grand View High Street have listed post-midnight and early morning timings to accommodate the overwhelming influx of eager moviegoers."
+        ]
+      },
+      {
+        "h": "Format Diversity Across Regions",
+        "p": [
+          "While the vast majority of these inaugural late-night screenings focus on the English version presented in Infinity Vision 3D, select theatres have carved out unique formatting options. Cinepolis Vastral stands out as the sole cinema offering a post-midnight slot in the conventional 2D format.",
+          "Meanwhile, regional variations have emerged in places like Surat, where PVR Rahul Raj scheduled a 2:15 am screening utilizing Infinity Vision 3D paired with the Hindi dubbed track, showcasing the diverse linguistic demand for the franchise."
+        ]
+      },
+      {
+        "h": "Potential Expansion and Exhibition Hurdles",
+        "p": [
+          "Industry analysts anticipate that the current lineup of graveyard-shift screenings is merely the beginning. Given the blistering pace at which existing slots are filling up, multiplexes are widely expected to introduce additional showtimes between midnight and six in the morning.",
+          "However, the title faces one notable roadblock regarding premium formats. Due to Dune: Part Three securing exclusive IMAX contracts in major territories for its own release the following day on Friday, December 18, the superhero epic will bypass an IMAX rollout entirely."
+        ]
+      },
+      {
+        "h": "A Crowded Year-End Box Office Clash",
+        "p": [
+          "The fierce early demand signals that the film is poised to establish itself as one of the strongest box office openers in the region. Its arrival anchors a heavily packed second half of December 2026.",
+          "Alongside Dune: Part Three, the competitive landscape features Jumanji: Open World and the highly anticipated Shah Rukh Khan-starrer King, setting the stage for a blockbuster conclusion to the cinematic calendar year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has made history by opening its advance midnight show bookings over a month before its December 17 release in India. With tickets selling rapidly across major cities and various formats, the milestone highlights unprecedented fan demand amidst a crowded December box office lineup."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases in India on Thursday, December 17.",
+      "Advance bookings opened on the night of November 16, more than a month before release.",
+      "Oppenheimer (2023) added midnight screenings 10 days after advance bookings commenced and 2-3 days before release.",
+      "Dune: Part Three releases on Friday, December 18."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Oppenheimer",
+        "Dune: Part Three",
+        "Jumanji: Open World",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking",
+      "Marvel Films",
+      "Robert Downey Jr Doctor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Avengers-620.jpeg",
+        "caption": "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 08:32:50 +0200"
+  },
+  "1ym3cj9": {
+    "id": "1ym3cj9",
+    "type": "news",
+    "headline": "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
+    "dek": "Oh Jung Se, Jeon Hye Jin, Joo Jong Hyuk, and Joo Hyun Young have been officially confirmed to star in the upcoming TVING series about amateur baseball and married life.",
+    "body": [
+      {
+        "h": "Introduction to the New Sports Series",
+        "p": [
+          "Streaming platform TVING has officially announced an upcoming sports drama titled Sunning Baseball Club. The production centers around a unique amateur baseball league composed of married men who negotiate weekend passes from their spouses to play.",
+          "Rather than focusing strictly on the competitive pressures of winning or losing, the narrative highlights ordinary husbands who navigate domestic responsibilities alongside personal rediscovery on the baseball diamond."
+        ]
+      },
+      {
+        "h": "Creative Team and Production Background",
+        "p": [
+          "The upcoming series brings together a notable creative team known for their previous collaborative work. Director Min Jin Ki and scriptwriter Yoon Ki Young, both recognized for the New Recruit series, are teaming up once again for this project.",
+          "Their combined experience in character-driven storytelling sets the stage for a humorous yet grounded look at everyday marital dynamics mixed with sports entertainment."
+        ]
+      },
+      {
+        "h": "Oh Jung Se and Jeon Hye Jin Lead the Cast",
+        "p": [
+          "Actor Oh Jung Se takes on the role of Son Jung Ho, the coach of the baseball club. Son is a former broadcast producer currently experiencing unemployment whose primary source of joy is watching baseball at home while trying to regain his self-confidence.",
+          "Jeon Hye Jin portrays Kang So Jung, the wife of Son Jung Ho and a writer for a political investigative program. Characterized by sharp insights, she engages in friendly bickering with her husband to depict a realistic married couple."
+        ]
+      },
+      {
+        "h": "Supporting Characters and Business Owners",
+        "p": [
+          "Park Ji Hwan stars as Park Hyun Cheol, the owner of a fried chicken restaurant that serves as the home ground for the amateur baseball team. Having raised twins, Park belatedly discovers a passion for baseball that shifts the dynamics in his marriage.",
+          "Gong Min Jung plays Choi Eun Joo, Park Hyun Cheol's wife. She is a working mother recognized for her professional capabilities at the bank."
+        ]
+      },
+      {
+        "h": "Reuniting Stars Play Newlyweds",
+        "p": [
+          "Joo Jong Hyuk and Joo Hyun Young reunite on screen as a couple married for six months, building on their previous on-screen chemistry from Extraordinary Attorney Woo.",
+          "Joo Jong Hyuk plays Yoon Sang Woo, a former middle school baseball athlete who steps up as the team's shortstop and ace. Joo Hyun Young portrays Han Joo Ah, a kindergarten teacher with an adorable nagging voice."
+        ]
+      },
+      {
+        "h": "Additional Married Couples in the Club",
+        "p": [
+          "Lee Sang Jin takes on the role of Lee Seung Min, who assists at his father's restaurant counter while supporting his wife's career. Bae Yoon Kyung stars as Kim Do Yeon, Lee Seung Min's wife and a flight attendant known for her beauty and skills.",
+          "The pair respects each other's independent lives outside of marriage, though their routines face shifts through the baseball club."
+        ]
+      },
+      {
+        "h": "Release Timeline and Expectations",
+        "p": [
+          "The project has an official release window slated for 2027. Fans of the cast and sports-themed narratives can anticipate further updates from TVING as production progresses."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "TVING confirmed the main cast for its upcoming sports drama Sunning Baseball Club, scheduled to premiere in 2027. The series features actors including Oh Jung Se, Jeon Hye Jin, Joo Jong Hyuk, and Joo Hyun Young portraying married individuals who find personal growth through an amateur baseball league."
+        ]
+      }
+    ],
+    "facts": [
+      "Date confirmed: November 17, 2026",
+      "Network: TVING",
+      "Release year: 2027",
+      "Director: Min Jin Ki",
+      "Scriptwriter: Yoon Ki Young"
+    ],
+    "entities": {
+      "people": [
+        "Oh Jung Se",
+        "Jeon Hye Jin",
+        "Park Ji Hwan",
+        "Gong Min Jung",
+        "Joo Jong Hyuk",
+        "Joo Hyun Young",
+        "Lee Sang Jin",
+        "Bae Yoon Kyung",
+        "Min Jin Ki",
+        "Yoon Ki Young"
+      ],
+      "titles": [
+        "Sunning Baseball Club",
+        "New Recruit",
+        "Extraordinary Attorney Woo",
+        "Fifties Professionals",
+        "Reborn Rookie"
+      ]
+    },
+    "keywords": [
+      "Sunning Baseball Club",
+      "Oh Jung Se",
+      "Jeon Hye Jin",
+      "TVING baseball drama"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17114232/sunning-baseball-club.png",
+        "caption": "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 03:03:28 +0000"
+  },
+  "18jqy83": {
+    "id": "18jqy83",
+    "type": "news",
+    "headline": "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
+    "dek": "The 57th International Film Festival of India in Goa will feature over 230 movies, Spain as Country of Honour, and Dhurandhar alongside Becoming as opening features.",
+    "body": [
+      {
+        "h": "Global Cinema Showcase in Goa",
+        "p": [
+          "The 57th edition of the International Film Festival of India is scheduled to take place in Goa from November 20 to November 28. The upcoming nine-day cultural event operates under the central theme of 'Stories Without Borders', bringing together global cinema enthusiasts, industry professionals, and artistes.",
+          "Chief Minister Pramod Sawant officially announced the details during a press briefing in the coastal state. The festival continues to reinforce Goa's stature as a prominent hub for international artistic collaboration and cinematic exchange."
+        ]
+      },
+      {
+        "h": "Opening Films and International Partners",
+        "p": [
+          "The prestigious festival will commence with the screening of Dhurandhar and Becoming as its joint opening films. Ranveer Singh appears in a still from Dhurandhar, generating considerable anticipation among attendees.",
+          "Spain has been officially designated as the Country of Honour for this year's edition, while Russia will serve as the designated Partner Country. Furthermore, the programming will cast a specific spotlight on BRICS cinema alongside its extensive global lineup."
+        ]
+      },
+      {
+        "h": "Venues and Screening Statistics",
+        "p": [
+          "Organizers have lined up more than 230 films originating from domestic and international markets, including over 150 global movies hailing from 86 countries. These cinematic works will be exhibited across six distinct venues containing a total of 13 screens.",
+          "The screening locations comprise INOX Panjim, Maquinez Palace, INOX Porvorim, Z Square Samrat-Ashok, Magic Moviez located in Ponda, and Ravindra Bhavan situated in Margao. Collectively, these venues offer a seating capacity exceeding 4,000 delegates, with all locations equipped with accessibility features for individuals with disabilities."
+        ]
+      },
+      {
+        "h": "Diverse Categories and Industry Initiatives",
+        "p": [
+          "The Indian Panorama segment will present 25 feature films and 20 non-feature films. Additionally, the event features contributions from 52 women moviemakers and 62 debut filmmakers.",
+          "The sixth iteration of Creative Minds of Tomorrow will assemble 100 participants chosen from 13 distinct filmmaking crafts. Meanwhile, the WAVES Film Bazaar will act as a central marketplace for producers, buyers, and distributors to negotiate co-productions and business ventures."
+        ]
+      },
+      {
+        "h": "Workshops, Parades, and Cultural Events",
+        "p": [
+          "Kala Academy will host 14 masterclasses, interactive sessions, panel discussions, retrospectives, and workshops between November 21 and November 27. The Dr Shyama Prasad Mukherjee Indoor Stadium near Panaji will stage both the grand opening and closing ceremonies.",
+          "The schedule also includes the IFFI Parade themed 'Celebrating the Joy of Cinema' on November 25, moving from the Entertainment Society of Goa premises to Kala Academy. Romtamel cultural performances by seven groups will take place along the Mandovi promenade on select dates."
+        ]
+      },
+      {
+        "h": "Special Sections and Public Activities",
+        "p": [
+          "The Special Goan Section highlights 12 selected films from a pool of 35 entries, with Ancessao serving as the opening feature for this category. A selection jury chaired by filmmaker Om Raut, alongside director Jadumoni Dutta and actor Amruta Khanvilkar, oversaw these selections.",
+          "Additional public attractions feature IFFIMiles opposite the Entertainment Society of Goa premises, open-air screenings at Miramar, Margao, and Vagator Helipad, and a peacock-inspired Aakash Kandil lantern competition spanning all 12 talukas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 57th International Film Festival of India in Goa will screen over 230 films under the theme 'Stories Without Borders' from November 20 to 28. Featuring Dhurandhar and Becoming as opening films with Spain as the Country of Honour, the event is jointly organized by the Union Ministry of Information and Broadcasting and the Goa government."
+        ]
+      }
+    ],
+    "facts": [
+      "IFFI 2026 is the 57th edition of the festival.",
+      "The festival takes place in Goa from November 20 to 28, 2026.",
+      "Spain is the Country of Honour and Russia is the Partner Country.",
+      "Dhurandhar and Becoming are the opening films.",
+      "Over 230 films will be screened, including over 150 international movies from 86 countries.",
+      "There are six venues comprising 13 screens with a seating capacity of over 4,000 delegates.",
+      "The Indian Panorama showcases 25 feature films and 20 non-feature films.",
+      "Om Raut chaired the Special Goan Section selection jury, with Jadumoni Dutta and Amruta Khanvilkar as members.",
+      "Over 7,000 registrations have been received."
+    ],
+    "entities": {
+      "people": [
+        "Pramod Sawant",
+        "Ranveer Singh",
+        "Om Raut",
+        "Jadumoni Dutta",
+        "Amruta Khanvilkar"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Becoming",
+        "Ancessao"
+      ]
+    },
+    "keywords": [
+      "IFFI 2026 Goa",
+      "Dhurandhar film IFFI",
+      "Spain Country of Honour IFFI",
+      "Pramod Sawant IFFI 2026"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Dhurandhar_IFFI_1794885046346_m9w3_1794885046483_2UF1_8735baed-137a-47fa-b11d-6e520b4a311a_AyuN.jpg",
+        "caption": "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 08:44:22 +0530"
+  },
+  "1dnq75x": {
+    "id": "1dnq75x",
+    "type": "news",
+    "headline": "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos",
+    "dek": "Exclusive photographs from the Mumbai production of Jai Mehta's upcoming thriller Pralay showcase Ranveer Singh in a rugged, bearded look while also marking his debut as a producer.",
+    "body": [
+      {
+        "h": "First Look From the Set",
+        "p": [
+          "Exclusive photographs from the ongoing production of the upcoming thriller Pralay have surfaced online, giving fans their very first glimpse of actor Ranveer Singh in character. The project, directed by filmmaker Jai Mehta, features the actor in a starkly different aesthetic compared to his previous screen appearances. Set photos captured during recent outdoor schedules present the lead star sporting long hair paired with a thick, unkempt beard.",
+          "To complement his gritty facial styling, the actor's wardrobe on set leans heavily into rugged outdoor textures. He was spotted wearing a brown jacket layered over standard denim apparel, establishing an immediate visual tone that aligns with the genre and setting of the narrative."
+        ]
+      },
+      {
+        "h": "Production Details and Genre",
+        "p": [
+          "Positioned as a post-apocalyptic thriller, Pralay represents a brand-new creative direction for its leading man. Beyond starring in the primary role, this cinematic venture marks a significant milestone in the actor's career by establishing his debut as a producer. The backing for the movie is a collaborative effort involving Birla Studios, True Story Films, and Maa Kasam Films.",
+          "Production activities for the project are currently underway at live outdoor locations situated in and around Mumbai. According to the creative team, the storyline is deliberately designed to capture the distinct pulse and urban landscape of the city, weaving together a sweeping cinematic spectacle with an intimate human emotional core."
+        ]
+      },
+      {
+        "h": "Plot Theme and Co-Star",
+        "p": [
+          "The narrative framework of the film has been described by the makers as a compelling journey centered around survival, human instinct, and the sheer courage required to fight for what truly matters. Rather than relying solely on conventional action tropes, the script aims to ground its high-stakes environment in grounded emotional stakes.",
+          "Sharing screen space with the lead actor is Kalyani Priyadarshan, who joins the project as the female lead. The actress comes from a notable cinematic lineage as the daughter of legendary filmmaker Priyadarshan, adding further anticipation to her pairing with the film's star."
+        ]
+      },
+      {
+        "h": "Recent Controversy Over Filming Locations",
+        "p": [
+          "The production recently faced external hurdles when a controversy erupted regarding shooting permissions at Azad Maidan. The Mumbai Cricket Association raised formal objections against a six-hour filming schedule at the venue, alleging that the production activities caused postponements to scheduled inter-school cricket matches.",
+          "Addressing the controversy in a prior media interaction, filmmaker Hansal Mehta firmly defended the production team's stance. He clarified that all shooting activities at Azad Maidan possessed complete legal clearance, backed by requisite permission letters issued by relevant police and sports departments, alongside a formal acknowledgement from the Mumbai Cricket Association."
+        ]
+      },
+      {
+        "h": "Broader Context of Mumbai Filming",
+        "p": [
+          "Beyond the immediate scheduling dispute, the incident sparked a wider conversation concerning the logistical challenges faced by film units operating within metropolitan spaces. Hansal Mehta took the opportunity to express broader frustrations regarding the local filming climate.",
+          "The director remarked that while Mumbai serves as the beating heart of the Indian film industry, it has increasingly evolved into an exceptionally unfriendly urban environment for conducting on-location motion picture shoots, highlighting the bureaucratic friction filmmakers frequently navigate."
+        ]
+      },
+      {
+        "h": "The Star's Recent Cinematic Journey",
+        "p": [
+          "This new project follows hot on the heels of the actor's extensive involvement in high-profile action cinema. Most recently, he was seen headlining Aditya Dhar's spy thriller Dhurandhar: The Revenge, where he portrayed the dual character roles of Hamza Ali Mazari and Jaskirat Singh Rangi.",
+          "That theatrical release, which arrived on March 19, 2026, featured a massive ensemble cast including Arjun Rampal, Sanjay Dutt, Rakesh Bedi, Akshaye Khanna, Saumya Tandon, Danish Iqbal, and R Madhavan. Backed by JioStudios and B62 Studios, the film went on to achieve massive commercial success, raking in an extraordinary Rs 1813 crore at the worldwide box office according to tracking metrics provided by Sacnilk."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Exclusive set photos from Mumbai have revealed Ranveer Singh's rugged, long-haired look for Jai Mehta's post-apocalyptic thriller Pralay, which also marks the actor's debut as a producer alongside co-star Kalyani Priyadarshan. While the production recently addressed a shooting controversy at Azad Maidan, the project follows the actor's massive box office success with Dhurandhar: The Revenge."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranveer Singh plays the lead role in the film Pralay.",
+      "Jai Mehta is the director of Pralay.",
+      "Kalyani Priyadarshan stars alongside Ranveer Singh in Pralay.",
+      "Pralay is produced by Birla Studios, True Story Films, and Maa Kasam Films.",
+      "Pralay marks Ranveer Singh's debut as a producer.",
+      "The film is a post-apocalyptic thriller shot at live locations in and around Mumbai.",
+      "The Mumbai Cricket Association raised objections to a six-hour shoot at Azad Maidan.",
+      "Hansal Mehta responded to the Azad Maidan shoot controversy.",
+      "Ranveer Singh was last seen in Dhurandhar: The Revenge, released on March 19, 2026.",
+      "Dhurandhar: The Revenge collected Rs 1813 crore at the worldwide box office according to Sacnilk."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Jai Mehta",
+        "Kalyani Priyadarshan",
+        "Priyadarshan",
+        "Hansal Mehta",
+        "Aditya Dhar",
+        "Arjun Rampal",
+        "Sanjay Dutt",
+        "Rakesh Bedi",
+        "Akshaye Khanna",
+        "Saumya Tandon",
+        "Danish Iqbal",
+        "R Madhavan"
+      ],
+      "titles": [
+        "Pralay",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ranveer Singh Pralay look",
+      "Jai Mehta Pralay film",
+      "Pralay post-apocalyptic thriller",
+      "Kalyani Priyadarshan Pralay",
+      "Ranveer Singh producer debut"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156516998,thumbsize-914551,width-1280,height-720,resizemode-75/156516998.jpg",
+        "caption": "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T03:52:25Z"
   }
 };
