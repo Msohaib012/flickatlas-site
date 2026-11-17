@@ -166236,5 +166236,391 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 16 Nov 2026 16:48:00 EST"
+  },
+  "15slv7f": {
+    "id": "15slv7f",
+    "type": "news",
+    "headline": "Amitabh Bachchan Sparks Online Intrigue with Cryptic Social Media Post Amid Security Scare",
+    "dek": "Veteran Bollywood actor Amitabh Bachchan shared a brief and mysterious two-word note on social media following a series of security threats directed at his Mumbai home, Jalsa.",
+    "body": [
+      {
+        "h": "The Cryptic Social Media Message",
+        "p": [
+          "Legendary Indian cinema icon Amitabh Bachchan recently drew significant attention online after publishing a short, two-word message on social media. The veteran actor took to X, formerly known as Twitter, on November 15, 2026, to share the brief update reading 'Bach Gaye.'",
+          "True to his distinct style of communication on the platform, the post was labeled with his traditional sequential prefix, reading 'T 5847 - Bach Gaye.' Because the actor did not provide any further context or explanation, fans and internet users quickly began speculating about the meaning behind the phrase."
+        ]
+      },
+      {
+        "h": "Timing Coincides with Jalsa Security Alarms",
+        "p": [
+          "The timing of the actor's enigmatic online remark immediately drew parallels to a series of concerning security alerts involving his prominent Juhu residence, Jalsa. Over the past several weeks, local authorities in Mumbai received multiple threatening emails that explicitly listed the megastar's home among potential targets.",
+          "While official investigators have not established a direct link between the online post and the security scares, the convergence of the events naturally heightened public interest and concern regarding the safety of the veteran performer."
+        ]
+      },
+      {
+        "h": "A Series of Threatening Communications",
+        "p": [
+          "The security disruptions began when an email sent to Mumbai Mayor Ritu Tawde’s office on October 23 mentioned Jalsa alongside the venue of a concert featuring singer-actor Diljit Dosanjh at Mahalaxmi Racecourse. A subsequent threat arrived on November 6, once again naming the actor's residence alongside the Bombay High Court.",
+          "A third alarming email emerged on November 12, adding Chhatrapati Shivaji Maharaj International Airport and other prominent locations to the target list while referencing an outfit calling itself the Khalistan National Army. Law enforcement agencies initiated thorough checks at all listed locations while probing the origin of the threats."
+        ]
+      },
+      {
+        "h": "Police Intervention Against Alleged Conspiracies",
+        "p": [
+          "In addition to the email alerts, investigative reports highlighted that law enforcement recently intercepted external criminal plots in the region. Authorities successfully apprehended two suspects, identified as Deepak and Vikas, who were allegedly directed by a foreign-based gangster to carry out an attack on a Bollywood actor in Mumbai.",
+          "The successful neutralization of these plots brought a renewed focus on the overall security apparatus surrounding prominent film personalities and high-profile residences across the city."
+        ]
+      },
+      {
+        "h": "Refusing to Alter Sunday Traditions",
+        "p": [
+          "Despite the swirling security concerns and official investigations, the 84-year-old actor refused to let the threats interfere with his decades-old tradition of greeting his admirers. Every Sunday, crowds gather outside Jalsa to catch a glimpse of the megastar, a ritual he maintains faithfully.",
+          "Although he temporarily utilized a protective bulletproof glass enclosure during his November 1 appearance following the initial threats, the veteran actor chose to discard the barrier for his subsequent Sunday greeting, standing openly on an elevated platform in a colorful hoodie and bandana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amitabh Bachchan shared a brief online message reading 'Bach Gaye' on November 15, 2026, coinciding with a series of recent bomb threats directed at his Mumbai home, Jalsa. While police investigate the threats and foil separate alleged criminal plots involving suspects Deepak and Vikas, the veteran actor has continued his traditional Sunday fan greetings outside his residence."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan shared a post on X on November 15, 2026, reading 'Bach Gaye'.",
+      "Threatening emails naming Jalsa were received on October 23, November 6, and November 12, 2026.",
+      "The October 23 email was sent to Mumbai Mayor Ritu Tawde's office.",
+      "Suspects Deepak and Vikas were apprehended by police regarding an alleged conspiracy targeting a Bollywood actor.",
+      "Amitabh Bachchan is 84 years old."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Ritu Tawde",
+        "Diljit Dosanjh",
+        "Deepak",
+        "Vikas"
+      ],
+      "titles": [
+        "Jalsa"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan Bach Gaye",
+      "Amitabh Bachchan Jalsa bomb threat",
+      "Amitabh Bachchan X post",
+      "Juhu residence security Mumbai"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/11/5427-amitabh-bachchan.jpg",
+        "caption": "Amitabh Bachchan Sparks Online Intrigue with Cryptic Social Media Post Amid Security Scare",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-16T23:52:29Z"
+  },
+  "z3a31u": {
+    "id": "z3a31u",
+    "type": "news",
+    "headline": "Diljit Dosanjh Recites Rahat Indori Verse at Indore Concert Despite Threats and Restrictions",
+    "dek": "Diljit Dosanjh addressed his fans at the Indore stop of his AURA India Tour 2026, reciting a famous Rahat Indori verse after overcoming significant security threats, permission hurdles, and song restrictions.",
+    "body": [
+      {
+        "h": "Concert in Indore",
+        "p": [
+          "Diljit Dosanjh recently took the stage at the Delight Dastoor Ground for his performance in Indore as part of the AURA India Tour 2026. The artist used the platform to express his gratitude to the fans who showed up in large numbers to support him despite the hurdles leading up to the event.",
+          "His address to the audience marked a defiant moment on tour, as he highlighted his dedication to fulfilling commitments made to his supporters regardless of external pressures."
+        ]
+      },
+      {
+        "h": "Addressing Opposition and Threats",
+        "p": [
+          "Before taking the stage, the singer faced multiple attempts to halt his arrival and performance in the city. Addressing the crowd, he noted that despite various restrictions and opposition attempts, he remained determined to stand before his fans.",
+          "He emphasized that once a promise is made to visit a place and perform, he does not back down from his word."
+        ]
+      },
+      {
+        "h": "Reciting Rahat Indori",
+        "p": [
+          "During his interaction with the audience, Diljit began by chanting 'Jai Shri Mahakal' before honoring the late and noted Urdu poet Rahat Indori. He recited famous verses from Indori's ghazal to the cheering crowd.",
+          "The lines resonated deeply with the attendees, touching upon themes of truth, defiance, and unity as he quoted the iconic phrase regarding the nation's soil and heritage."
+        ]
+      },
+      {
+        "h": "Song Restrictions Imposed",
+        "p": [
+          "The performance came with specific limitations regarding the setlist. Authorities restricted the singer from performing four of his popular tracks during the Indore concert.",
+          "The prohibited songs included Patiala Peg, 5 Taara, Case, and Jatt Uthe Fire Karda, which had to be omitted from the live lineup."
+        ]
+      },
+      {
+        "h": "Security and Threats Context",
+        "p": [
+          "The event took place against the backdrop of serious security concerns, including a series of threat emails sent to various institutions across Indore. Warnings of potential blasts were reportedly sent to three private schools and the Indore Mayor's office.",
+          "Additionally, an email sent to the Gwalior bench of the Madhya Pradesh High Court specifically threatened to target the concert stage itself."
+        ]
+      },
+      {
+        "h": "Heavy Security Measures",
+        "p": [
+          "Organizers secured police clearance for the event only hours before the concert was scheduled to begin. In response to the threats, authorities implemented massive security protocols at the venue.",
+          "More than 300 police personnel and over 1,000 volunteers were deployed. The extensive safety measures featured drone surveillance, watchtowers, baggage scanners, entry point checks, and a Bomb Detection and Disposal Squad."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh successfully performed at the Indore stop of his AURA India Tour 2026 after overcoming severe security threats, permission delays, and song restrictions. During the concert, he thanked his supporters and recited a verse by poet Rahat Indori."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh performed in Indore as part of his AURA India Tour 2026.",
+      "The concert took place at Delight Dastoor Ground.",
+      "Four songs were restricted: Patiala Peg, 5 Taara, Case, and Jatt Uthe Fire Karda.",
+      "Threat emails were sent to three private schools, the Indore Mayor's office, and the Gwalior bench of the Madhya Pradesh High Court.",
+      "More than 300 police personnel and over 1,000 volunteers were deployed at the venue."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Rahat Indori",
+        "Srijita Sen"
+      ],
+      "titles": [
+        "AURA India Tour 2026",
+        "Patiala Peg",
+        "5 Taara",
+        "Case",
+        "Jatt Uthe Fire Karda"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Indore concert",
+      "AURA India Tour 2026",
+      "Rahat Indori verse Diljit Dosanjh",
+      "Diljit Dosanjh Indore threats"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/diljit-dosanjh1794807113.jpg",
+        "caption": "Diljit Dosanjh Recites Rahat Indori Verse at Indore Concert Despite Threats and Restrictions",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T16:00:35+05:30"
+  },
+  "1jwmyfc": {
+    "id": "1jwmyfc",
+    "type": "news",
+    "headline": "BLACKPINK Member Jennie Lands Two Grammy Nominations for Hit Collaboration 'Dracula'",
+    "dek": "The artist secures major nods at the upcoming 69th Grammy Awards, joining fellow K-pop acts in groundbreaking category placements.",
+    "body": [
+      {
+        "h": "Grammy Breakthrough with Dracula",
+        "p": [
+          "Jennie of BLACKPINK has successfully secured two prestigious nominations at the upcoming 69th Grammy Awards. Her standout track 'Dracula', created alongside the Australian act Tame Impala, captured attention across the global music industry to earn nods in major categories.",
+          "Among the recognitions is a nomination for Record of the Year, standing as one of the four highly competitive General Field categories that welcome entries across all musical genres. Additionally, the collaborative effort received a nomination for Best Pop Duo/Group Performance."
+        ]
+      },
+      {
+        "h": "Origins and Chart Success of the Track",
+        "p": [
+          "The journey of 'Dracula' began when it originally dropped as a Tame Impala solo release in October of the previous year. Momentum surged after a remix featuring Jennie was released in February, quickly finding widespread popularity across short-form video platforms.",
+          "On the Billboard Hot 100 chart dated November 21, the single maintained the No. 3 position for its second consecutive week. This achievement matches the highest rank ever attained by a female K-pop soloist, a milestone previously set by Rosé."
+        ]
+      },
+      {
+        "h": "Historic Chart Runs and Longevity",
+        "p": [
+          "The track has demonstrated incredible staying power, spending a remarkable total of 25 weeks inside the top 10. This impressive feat extends Jennie's own record for the longest-running top 10 hit by any K-pop artist.",
+          "Furthermore, 'Dracula' has proven to be a massive commercial powerhouse on radio waves, successfully holding the top spot on the Radio Songs chart for nine consecutive weeks."
+        ]
+      },
+      {
+        "h": "Company in the Winner's Circle",
+        "p": [
+          "Jennie now stands as the second member of BLACKPINK to achieve a nomination in the coveted Record of the Year category. She follows closely behind groupmate Rosé, who secured a nomination last year for her collaborative track 'APT.' featuring Bruno Mars.",
+          "In the Record of the Year category, 'Dracula' faces stiff competition against notable tracks released by artists including Olivia Dean, Ella Langley, Bruno Mars, RAYE, Olivia Rodrigo, Taylor Swift, and the collaborative group of Rosalía, Björk, and Yves Tumor."
+        ]
+      },
+      {
+        "h": "New Recognition for Asian Pop Music",
+        "p": [
+          "The 69th Grammy Awards also introduced a brand-new category designed specifically to honor Asian popular music, encompassing K-pop, J-pop, and C-pop. The Recording Academy officially announced the creation of this category in June.",
+          "In this newly minted Best Asian Pop Music Performance category, K-pop groups IVE and KiiiKiii earned nominations for their respective tracks 'BANG BANG' and '404 (New Era)'. They are joined in the category by international contenders including BINI and SB19 from the Philippines, alongside BABYMETAL and LiSA from Japan."
+        ]
+      },
+      {
+        "h": "Ceremony Details and Schedule",
+        "p": [
+          "The official nominees for the 69th Grammy Awards were unveiled to the public on November 16 during a live-streamed broadcast hosted on YouTube. Music fans and industry insiders alike are now looking ahead to the main event.",
+          "The star-studded award ceremony is scheduled to take place on February 7, 2027. The festivities will be hosted at the Crypto.com Arena located in Los Angeles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BLACKPINK's Jennie has earned two Grammy nominations for her collaborative track 'Dracula' with Tame Impala, including a nod for Record of the Year at the upcoming 69th Grammy Awards. The song continues a historic chart run alongside achievements by other Asian acts in newly established categories ahead of the February 2027 ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "Jennie earned 2 Grammy nominations for 'Dracula'",
+      "The 69th Grammy Awards nominations were revealed on November 16, 2026",
+      "'Dracula' is a collaboration with Tame Impala",
+      "'Dracula' was originally released as a solo track in October 2025",
+      "The remix featuring Jennie was released in February 2026",
+      "'Dracula' held No. 3 on the Hot 100 for the chart dated November 21, 2026",
+      "'Dracula' spent 25 weeks in the top 10",
+      "'Dracula' topped the Radio Songs chart for 9 consecutive weeks",
+      "Rosé was previously nominated for Record of the Year for 'APT.' with Bruno Mars",
+      "IVE was nominated for 'BANG BANG' in the Best Asian Pop Music Performance category",
+      "KiiiKiii was nominated for '404 (New Era)' in the Best Asian Pop Music Performance category",
+      "The 69th Grammy Awards will take place on February 7, 2027, at Crypto.com Arena in Los Angeles"
+    ],
+    "entities": {
+      "people": [
+        "Jennie",
+        "Tame Impala",
+        "Rosé",
+        "Bruno Mars",
+        "Olivia Dean",
+        "Ella Langley",
+        "RAYE",
+        "Olivia Rodrigo",
+        "Taylor Swift",
+        "Rosalía",
+        "Björk",
+        "Yves Tumor",
+        "LiSA"
+      ],
+      "titles": [
+        "Dracula",
+        "APT.",
+        "BANG BANG",
+        "404 (New Era)"
+      ]
+    },
+    "keywords": [
+      "Jennie Dracula Grammy nominations",
+      "BLACKPINK Jennie Record of the Year",
+      "Jennie Tame Impala Dracula",
+      "69th Grammy Awards K-pop nominees"
+    ],
+    "images": [],
+    "published": "Mon, 16 Nov 2026 18:00:00 EST"
+  },
+  "159vvxm": {
+    "id": "159vvxm",
+    "type": "news",
+    "headline": "Actor Teja Sajja Celebrates Engagement in Hyderabad with Industry Luminaries",
+    "dek": "Popular film star Teja Sajja recently exchanged rings in an intimate ceremony in Banjara Hills, Hyderabad, surrounded by prominent political figures and cinema icons.",
+    "body": [
+      {
+        "h": "The Engagement Ceremony in Hyderabad",
+        "p": [
+          "Popular film actor Teja Sajja has officially entered a new chapter in his personal life by exchanging rings in a private ceremony. The traditional celebration took place on Monday at a well-known hotel located in Banjara Hills, Hyderabad.",
+          "The intimate gathering was designed to keep the joyous occasion close to family and cherished friends. Surrounded by the warmth of loved ones and colleagues from the film fraternity, the event radiated love and happiness."
+        ]
+      },
+      {
+        "h": "Distinguished Guests and Political Figures",
+        "p": [
+          "The ring ceremony was graced by several notable dignitaries, including the Hon'ble Governor of Telangana, Shri Shiv Pratap Shukla. The Governor extended his heartfelt congratulations and warmest wishes to the couple for a journey ahead filled with love, harmony, and togetherness.",
+          "Union Minister G Kishan Reddy and MLA Thanneeru Harish Rao also made it to the engagement to bless the couple. Ahead of the celebrations, the actor personally visited and invited Telangana Chief Minister Revanth Reddy."
+        ]
+      },
+      {
+        "h": "Film Industry Bigwigs Join the Celebration",
+        "p": [
+          "A vast array of movie icons and close friends from the cinema world stepped in to offer their congratulations. Megastar Chiranjeevi attended the occasion, sharing a deeply nostalgic bond with Teja, who had famously played the young version of the actor in the 2002 blockbuster Indra.",
+          "Other prominent attendees included Ravi Teja, senior producer Allu Aravind, and Natural Star Nani. The diverse guest list highlighted the strong relationships the actor has built across the film industry over the years."
+        ]
+      },
+      {
+        "h": "Co-Stars and Filmmakers Attend",
+        "p": [
+          "The festivities were further brightened by the presence of co-stars and creative minds. Ritika Nayak, who starred alongside Teja in his superhero venture Mirai, joined the celebration.",
+          "Young director Karthik Ghattamaneni, known for his work on Mirai, was also present. They were joined by veteran filmmaker K Raghavendra Rao, Rana Daggubati, and Varalaxmi Sarathkumar."
+        ]
+      },
+      {
+        "h": "More Notable Names from Cinema",
+        "p": [
+          "Additional well-known personalities from the entertainment sector added grace to the occasion. The attendees included producer Bellamkonda Suresh, actor Sai Sreenivas, Srikanth, Rao Ramesh, and VK Naresh.",
+          "The impressive turnout reflected the warmth and camaraderie shared among members of the regional film community as they gathered to celebrate the milestone."
+        ]
+      },
+      {
+        "h": "Background of the Bride-to-Be",
+        "p": [
+          "The bride-to-be comes from a family deeply rooted in the technology sector, possessing no prior connections to the film industry. Having been raised in the United States, she works closely alongside her father in their family business.",
+          "Unlike her partner, her life has consistently remained distant from the glitz and limelight of the cinema world, maintaining a distinct path outside of entertainment."
+        ]
+      },
+      {
+        "h": "Teja Sajja's Career Journey",
+        "p": [
+          "Teja Sajja began his professional journey as a child artist before successfully transitioning into lead roles in feature films. Over time, he has expanded his creative horizons, most recently making an OTT debut as a host.",
+          "His career includes notable projects such as the superhero venture Mirai and the film HanuMan, anchoring his presence as a recognizable face in cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Teja Sajja celebrated his engagement in a private ceremony in Banjara Hills, Hyderabad, on Monday. The event was attended by political dignitaries like the Governor of Telangana and numerous film industry icons, including Chiranjeevi and Nani."
+        ]
+      }
+    ],
+    "facts": [
+      "Teja Sajja got engaged on Monday, November 16, 2026.",
+      "The ceremony took place at a hotel in Banjara Hills, Hyderabad.",
+      "The Governor of Telangana, Shri Shiv Pratap Shukla, attended the event.",
+      "Chiranjeevi previously shared screen space with Teja Sajja when Teja played a young version of him in the 2002 film Indra."
+    ],
+    "entities": {
+      "people": [
+        "Teja Sajja",
+        "Shri Shiv Pratap Shukla",
+        "Revanth Reddy",
+        "Chiranjeevi",
+        "Ravi Teja",
+        "Allu Aravind",
+        "Nani",
+        "Ritika Nayak",
+        "K Raghavendra Rao",
+        "Rana Daggubati",
+        "Varalaxmi Sarathkumar",
+        "Bellamkonda Suresh",
+        "Sai Sreenivas",
+        "Srikanth",
+        "Rao Ramesh",
+        "VK Naresh",
+        "G Kishan Reddy",
+        "Thanneeru Harish Rao",
+        "Karthik Ghattamaneni"
+      ],
+      "titles": [
+        "Indra",
+        "Irumudi",
+        "Mirai",
+        "HanuMan"
+      ]
+    },
+    "keywords": [
+      "Teja Sajja engagement",
+      "Teja Sajja wedding",
+      "Chiranjeevi Nani Teja Sajja",
+      "Teja Sajja fiancée family"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/teja-sajja-gets-engaged-chiranjeevi-nani-and-other-celebrities-attend1794834181.jpg",
+        "caption": "Actor Teja Sajja Celebrates Engagement in Hyderabad with Industry Luminaries",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-16T18:33:26+05:30"
   }
 };
