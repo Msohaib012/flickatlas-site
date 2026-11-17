@@ -174814,5 +174814,449 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 18:13:37 GMT"
+  },
+  "11yocsx": {
+    "id": "11yocsx",
+    "type": "news",
+    "headline": "Ramayana Crosses 50 Crore in Kerala Box Office, Yash Makes History",
+    "dek": "Ramayana has become the first Bollywood film to breach the 50 crore gross milestone in Kerala, while actor Yash achieves a rare cross-industry feat.",
+    "body": [
+      {
+        "h": "Historic Milestone in Kerala",
+        "p": [
+          "The theatrical run of Ramayana in Kerala has shattered long-standing regional barriers for Hindi cinema. Traditionally recognized as one of the most challenging southern territories for Bollywood releases, the state has witnessed an unprecedented commercial wave at the box office.",
+          "After completing thirteen days in theaters, the movie officially crossed the fifty crore gross collection mark. This achievement establishes it as the single and only Bollywood feature film in history to enter the fifty crore club within the territory."
+        ]
+      },
+      {
+        "h": "Crushing Previous Bollywood Records",
+        "p": [
+          "Before this release, Hindi cinema had never managed to cross even the twenty crore gross mark in Kerala. The previous highest-grossing Bollywood film in the state was Ranveer Singh starrer Dhurandhar 2, which held the all-time record with a lifetime gross of 19.25 crore.",
+          "Ramayana has not only surpassed that previous benchmark but has exceeded it by nearly 160 percent. Bolstered by a strong second weekend and consistent weekday attendance across Malayalam and 3D screenings, the feature is now targeting a lifetime gross exceeding 75 crore in the state."
+        ]
+      },
+      {
+        "h": "Yash Claims an Unprecedented Feat",
+        "p": [
+          "While the milestone marks a monumental breakthrough for Ranbir Kapoor and the Hindi film industry, actor Yash has emerged as a defining figure of the box office run. He has secured a rare cross-industry achievement that no other Indian actor has accomplished.",
+          "Yash is now the sole actor in India to headline the very first fifty crore plus grossing film in Kerala for two entirely different film industries. His rare double milestone highlights his massive pan-Indian commercial pull."
+        ]
+      },
+      {
+        "h": "Expanding His Box Office Legacy",
+        "p": [
+          "The actor first broke the Kerala box office ceiling back in 2022 with the Prashanth Neel directorial KGF: Chapter 2. That release made history by becoming the first Kannada film ever to cross the fifty crore gross threshold in the state.",
+          "Four years following that success, his portrayal of Ravana alongside Ranbir Kapoor as Lord Ram in Ramayana has successfully delivered Bollywood its maiden fifty crore plus grosser in the same region. This adds another remarkable chapter to his cinematic legacy."
+        ]
+      },
+      {
+        "h": "Pan-Indian Industry Pioneers",
+        "p": [
+          "The landscape of regional milestones in Kerala features several notable historic openers for different film industries. Each industry had a distinct trailblazer that first unlocked the fifty crore gross club in the territory.",
+          "For Mollywood, the milestone was achieved by Pulimurugan. Kollywood reached the mark with Jailer, Tollywood achieved it through Baahubali 2, Sandalwood was represented by KGF: Chapter 2, and Bollywood has now been added to the list by Ramayana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has made history as the first Bollywood film to cross fifty crore gross in Kerala after thirteen days, surpassing the previous record held by Dhurandhar 2 by nearly 160 percent. Additionally, actor Yash has become the only Indian star to headline the first fifty crore plus grosser in Kerala for two separate film industries, following his earlier success with KGF: Chapter 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana completed 13 days at the ticket window",
+      "Ramayana crossed 50 crore gross at the Kerala box office",
+      "Ranveer Singh's Dhurandhar 2 held the previous Bollywood record in Kerala with 19.25 crore",
+      "Ramayana surpassed the previous record by nearly 160%",
+      "Ramayana had a 17.50 crore second weekend",
+      "Yash starred in KGF: Chapter 2 in 2022 directed by Prashanth Neel",
+      "Yash plays Ravana alongside Ranbir Kapoor's Lord Ram in Ramayana: Part 1"
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Ranveer Singh",
+        "Prashanth Neel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "KGF: Chapter 2",
+        "Pulimurugan",
+        "Jailer",
+        "Baahubali 2",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office Kerala",
+      "Yash Ramayana Kerala 50 crore",
+      "Ranbir Kapoor Ramayana Kerala collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-rise-of-a-legend-bms-box-office-update-001.jpg",
+        "caption": "Ramayana Crosses 50 Crore in Kerala Box Office, Yash Makes History",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:15:32 +0000"
+  },
+  "1d0uyzi": {
+    "id": "1d0uyzi",
+    "type": "news",
+    "headline": "007: First Light And Grand Theft Auto VI Dominate The Game Awards 2026 Nominations",
+    "dek": "The Game Awards 2026 has officially announced its full list of nominees, with Grand Theft Auto VI and 007: First Light leading the charge across multiple categories.",
+    "body": [
+      {
+        "h": "Major Nominations Unveiled",
+        "p": [
+          "The gaming industry is experiencing a monumental week as The Game Awards 2026 has officially revealed its complete roster of nominees. The announcement arrives amidst a flurry of major pop culture moments, including the casting news surrounding the James Bond franchise and the imminent arrival of a massive entertainment release. Naturally, the nominations reflect this excitement by placing several highly anticipated and legendary franchises directly in the spotlight."
+        ]
+      },
+      {
+        "h": "Grand Theft Auto VI Leads The Pack",
+        "p": [
+          "Despite not yet being officially launched at the time of the announcement, Grand Theft Auto VI managed to secure a remarkable eight nominations. The massive title claimed spots in prestigious categories such as Game Of The Year, Best Game Direction, Best Narrative, and Best Art Direction. Additionally, cast member Manni L. Perez received a nod for Best Performance, highlighting the immense scope and anticipation surrounding the release."
+        ]
+      },
+      {
+        "h": "James Bond Makes A Splash",
+        "p": [
+          "Joining the heavy hitters is 007: First Light, which successfully shook things up with four major nominations. The title earned a coveted place in the Game Of The Year lineup alongside its narrative and action-adventure category recognitions. Star Patrick Gibson was also honoured with a nomination for Best Performance, keeping the iconic spy firmly in the pop culture conversation."
+        ]
+      },
+      {
+        "h": "Fierce Competition For Game Of The Year",
+        "p": [
+          "The race for the ultimate prize at this year's ceremony features a diverse and formidable lineup of contenders. Alongside Grand Theft Auto VI and 007: First Light, the Game Of The Year category includes Control Resonant, Phantom Blade Zero, Resident Evil Requiem, and the nostalgia-driven hit The Legend Of Zelda: Ocarina Of Time. These titles represent the pinnacle of interactive entertainment recognized by the awards committee this year."
+        ]
+      },
+      {
+        "h": "Recognising Diverse Categories",
+        "p": [
+          "Beyond the primary categories, the nominations highlight excellence across various genres, including racing, strategy, and indie development. Titles like Biddy Blas and Star Wars: Galactic Racers secured recognition in audio design and racing categories, while Zero Company represented the Star Wars universe in strategy and simulation. The indie scene also shone brightly with nominations for titles such as Cairn, Mina The Hollower, and Big Walk."
+        ]
+      },
+      {
+        "h": "Adaptations And Accessibility Honoured",
+        "p": [
+          "The adaptation category features a thrilling showdown between major entertainment properties, including Cyberpunk Edgerunners: Season 2, Fallout: Season 2, Mortal Kombat 2, Resident Evil, and The Super Mario Galaxy Movie. Meanwhile, Marvel’s Wolverine received noteworthy attention, with Liam McIntyre nominated for Best Performance and the title praised for its robust accessibility features."
+        ]
+      },
+      {
+        "h": "Ceremony Details",
+        "p": [
+          "The culmination of this event will take place on December 10, when the final winners are revealed during a live broadcast. The ceremony is scheduled to stream directly from the Peacock Theatre in Los Angeles, bringing together developers, actors, and fans to celebrate the absolute best achievements in gaming for the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Game Awards 2026 has announced its official nominations, highlighted by Grand Theft Auto VI securing eight nods and 007: First Light earning four. Winners in these categories will be revealed during a livestream event at the Peacock Theatre in Los Angeles on December 10."
+        ]
+      }
+    ],
+    "facts": [
+      "The Game Awards 2026 nominations were announced on November 17, 2026.",
+      "Grand Theft Auto VI received eight nominations.",
+      "007: First Light received four nominations.",
+      "Patrick Gibson was nominated for Best Performance for 007: First Light.",
+      "Manni L. Perez was nominated for Best Performance for Grand Theft Auto 6.",
+      "Liam McIntyre was nominated for Best Performance for Marvel's Wolverine.",
+      "Angela Sant’Albano was nominated for Best Performance for Resident Evil Requiem.",
+      "Rahul Kohli was nominated for Best Performance for Saros.",
+      "The winners will be revealed on December 10, 2026.",
+      "The ceremony takes place at the Peacock Theatre in Los Angeles."
+    ],
+    "entities": {
+      "people": [
+        "Jordan King",
+        "Robert Pattinson",
+        "Patrick Gibson",
+        "Angela Sant’Albano",
+        "Liam McIntyre",
+        "Manni L. Perez",
+        "Rahul Kohli"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "007: First Light",
+        "Control Resonant",
+        "Phantom Blade Zero",
+        "Resident Evil Requiem",
+        "The Legend Of Zelda: Ocarina Of Time",
+        "Star Wars: Galactic Racers",
+        "Zero Company",
+        "Cairn",
+        "Mina The Hollower",
+        "Mewgenics",
+        "Big Walk",
+        "Denshattack",
+        "Cyberpunk Edgerunners: Season 2",
+        "Fallout: Season 2",
+        "Mortal Kombat 2",
+        "Resident Evil",
+        "The Super Mario Galaxy Movie",
+        "Marvel’s Wolverine",
+        "Pragmata",
+        "The Blood of Dawnwalker",
+        "Mouse P.I. For Hire",
+        "Ace Combat 8: Wings of Theve",
+        "Mixtape",
+        "Saros",
+        "Forever Ago",
+        "Life is Strange Reunion",
+        "Lily’s World XD",
+        "Arc Raiders",
+        "Final Fantasy 14 Online",
+        "Fortnite",
+        "No Man’s Sky",
+        "The Witcher 3: Wild Hunt",
+        "Crimson Desert",
+        "Helldivers 2",
+        "Warframe",
+        "Dressmaker",
+        "Esoteric Ebb",
+        "Orbitals",
+        "Replaced",
+        "Silver Pines",
+        "Arknights Endfield",
+        "Monster Hunter Outlanders",
+        "Neverness to Everness",
+        "Pokemon Champions",
+        "Where Winds Meet",
+        "Forefront",
+        "Into the Radious 2",
+        "Little Nightmares VR: Altered Echoes",
+        "Teenage Mutant Ninja Turtles: Empire City",
+        "Thief VR: Legacy of Shadow",
+        "Gears of War: E-Day",
+        "Onimusha: Way of the Sword",
+        "Final Fantasy Resonance",
+        "Fire Emblem: Fortune’s Weave",
+        "Monster Hunter Stories 3: Twisted Reflection",
+        "Trails in the Sky: 2nd Chapter",
+        "2XKO",
+        "Avatar Legends: The Fighting Game",
+        "Invincible VS Marvel",
+        "Tokon: Fighting Souls",
+        "My Hero Academia: All’s Justice",
+        "Lego Batman: Legacy of the Dark Knight",
+        "Nintendo Switch Sports Resort",
+        "Pokemon Pokopia",
+        "Yoshi and the Mysterious Book",
+        "Planet Zoo 2",
+        "Slay the Spire 2",
+        "EA Sports FC 27",
+        "Forza Horizon 6",
+        "Screamer",
+        "Call of Duty: Modern Warfare 4",
+        "Marathon",
+        "Meccha Chameleon",
+        "Assassin’s Creed: Black Flag Resynced",
+        "Rhythm Heaven Groove",
+        "Fable",
+        "Final Fantasy 7: Revelation",
+        "God of War Laufey",
+        "Resident Evil: Veronica",
+        "The Witcher 4"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto 6",
+      "007 First Light",
+      "The Game Awards 2026",
+      "Patrick Gibson",
+      "Liam McIntyre"
+    ],
+    "images": [
+      {
+        "url": "https://images.bauerhosting.com/celebrity/sites/42/2026/11/The-Game-Awards-2026.png?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
+        "caption": "007: First Light And Grand Theft Auto VI Dominate The Game Awards 2026 Nominations",
+        "source": "Empire"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:35:59 +0000"
+  },
+  "1bq7jab": {
+    "id": "1bq7jab",
+    "type": "news",
+    "headline": "Salman Khan Surprises 'Maatrubhumi' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+    "dek": "Bollywood star Salman Khan recently hosted a special celebration at his Panvel farmhouse, handing out high-end Swiss watches to the team behind his upcoming war drama.",
+    "body": [
+      {
+        "h": "An Unexpected Gathering at the Farmhouse",
+        "p": [
+          "Bollywood superstar Salman Khan recently hosted a private get-together at his Panvel property for the cast and crew of his forthcoming war drama. The event took place on November 12, serving as a warm gesture of appreciation for everyone who remained dedicated to the project through its various stages.",
+          "Team members had originally been informed that the meeting was strictly for discussing upcoming promotional strategies. Instead, the gathering transformed into a celebration where the lead actor surprised attendees with costly tokens of gratitude."
+        ]
+      },
+      {
+        "h": "Generous Gifts of High-End Timepieces",
+        "p": [
+          "Reports indicate that the star distributed approximately 20 to 25 luxury Swiss timepieces to the individuals who worked closely on the movie. Each watch carried an estimated value ranging between Rs 2 lakh and Rs 6 lakh.",
+          "Careful thought went into selecting the items, with specific brands chosen for male and female recipients. Male team members were presented with Longines and TAG Heuer pieces, while female colleagues received Rado watches."
+        ]
+      },
+      {
+        "h": "Notable Attendees and Industry Figures",
+        "p": [
+          "The celebration brought together key creative minds and performers associated with the production. Director Apoorva Lakhia was present at the farmhouse alongside cast members Chitrangda Singh, Ankur Bhatia, Vipin Bhardwaj, and Tanya Desai.",
+          "Also in attendance was dialogue writer Chintan Shah. Following the event, several participants shared photographs and memorable glimpses of the evening across social media platforms."
+        ]
+      },
+      {
+        "h": "Celebration Following Trailer Launch",
+        "p": [
+          "This exclusive farmhouse gathering occurred shortly after the official trailer for the project was unveiled in Mumbai on November 10. The timing allowed the core team to come together and mark the promotional milestone collectively.",
+          "Such events often help build camaraderie among film units, especially after enduring a lengthy production cycle filled with various changes and scheduling shifts."
+        ]
+      },
+      {
+        "h": "Production Journey and Background",
+        "p": [
+          "The upcoming war drama has experienced an extended and challenging road to completion. Over the course of its production, the film faced multiple revisions regarding its schedule and overall release plans.",
+          "Despite these hurdles, the cast and crew maintained their commitment to the venture, a dedication that ultimately prompted the lead star to honor them with substantial gifts for sticking by the production."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Arrival",
+        "p": [
+          "Directed by Apoorva Lakhia, the film features a leading cast that includes Salman Khan and Chitrangda Singh. It is positioned to arrive in cinemas across India on December 4, 2026.",
+          "This project holds special significance for fans as it marks Salman Khan's first major theatrical release of the year 2026, building anticipation as the release date approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan hosted a celebration at his Panvel farmhouse for the cast and crew of his war drama 'Maatrubhumi: May War Rest in Peace', gifting them luxury Swiss watches. The event followed the film's trailer launch and preceded its theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan hosted a get-together at his Panvel farmhouse on November 12, 2026.",
+      "The film's trailer was launched in Mumbai on November 10, 2026.",
+      "Salman Khan gifted 20 to 25 luxury watches worth between Rs 2 lakh and Rs 6 lakh each.",
+      "Male members received Longines and TAG Heuer watches, and women received Rado timepieces.",
+      "Attendees included director Apoorva Lakhia, actors Chitrangda Singh, Ankur Bhatia, Vipin Bhardwaj, Tanya Desai, and dialogue writer Chintan Shah.",
+      "The film 'Maatrubhumi: May War Rest in Peace' is directed by Apoorva Lakhia and releases across India on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Chitrangda Singh",
+        "Ankur Bhatia",
+        "Vipin Bhardwaj",
+        "Tanya Desai",
+        "Chintan Shah"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi film",
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Apoorva Lakhia war drama"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135936857,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Surprises 'Maatrubhumi' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T23:41:35+05:30"
+  },
+  "nrgi8y": {
+    "id": "nrgi8y",
+    "type": "news",
+    "headline": "From Tour Guide to HSBC Head of Asia Equity Strategy: The Remarkable Journey of Herald van der Linde",
+    "dek": "Discover how a Dutch student who funded his university education by working as a tour guide in Asia rose to become a major financial strategist at HSBC.",
+    "body": [
+      {
+        "h": "Early Struggles and Unconventional Beginnings",
+        "p": [
+          "In the early 1990s, Herald van der Linde was a university student in the Netherlands trying to find ways to pay for his education. To support himself while satisfying his curiosity about the world, he took on part-time work as a tour guide. This job eventually took him across continents, leading him to work in countries like China and Indonesia.",
+          "His early experiences abroad were not without hardship. During his very first trip to China, he faced unfortunate hurdles, including being robbed of US$100 in Shenzhen and surviving a terrifying emergency landing in a paddy field near Guilin. Despite these alarming initial events, the journey ignited a lifelong passion for the region."
+        ]
+      },
+      {
+        "h": "A Life-Changing Decision in Asia",
+        "p": [
+          "The trials he faced in China only solidified his resolve to build a future in the East. He noted that from that moment onward, he knew he wanted to live and work in Asia permanently. After finishing his master's degree in economics, he packed a one-way ticket to Indonesia to launch his professional journey as a financial analyst.",
+          "This bold relocation marked the beginning of an extensive corporate career. Over the subsequent decades, he immersed himself deeply in Asian markets, eventually climbing the ranks to secure the prominent position of HSBC's head of Asia equity strategy, operating out of Hong Kong."
+        ]
+      },
+      {
+        "h": "Deep Cultural Immersion and Academic Interests",
+        "p": [
+          "Van der Linde's connection to the region went far beyond routine financial forecasting. Driven by a genuine appreciation for his adopted home, he took the time to learn both Chinese and Indonesian. He also dedicated himself to studying regional history extensively.",
+          "His academic and cultural pursuits culminated in authorship. He wrote books focusing on Jakarta and explored ancient Indonesian empires such as Majapahit and Srivijaya, reflecting a rare depth of integration into local societies."
+        ]
+      },
+      {
+        "h": "Personal Milestones in a Foreign Land",
+        "p": [
+          "Asia also shaped his personal life in profound ways. During a flight in Jakarta, he crossed paths with an Indonesian woman who would later become his wife.",
+          "The couple built a family together, eventually having a son. Today, their son lives in Amsterdam and pursues his own ambitions in the field of music, bridging their international lifestyle."
+        ]
+      },
+      {
+        "h": "Investment Philosophy and Wealth Management",
+        "p": [
+          "Reflecting on his financial journey, Van der Linde shared insights into his personal investment strategies. He revealed that about 90 per cent of his savings—funds he does not anticipate needing within five years—are placed into global equity exchange-traded funds, or ETFs.",
+          "His core philosophy remains remarkably simple: diversify and stay invested. Interestingly, this pragmatic approach stems partly from humble beginnings; he recalled a time when a bank once turned him and a university friend away because they lacked sufficient starting funds."
+        ]
+      },
+      {
+        "h": "Growth of Investments and Financial Discipline",
+        "p": [
+          "Having started investing in ETFs back in 2005, Van der Linde has watched his portfolio grow significantly. Despite navigating several major market downturns over the years, his holdings have expanded nearly tenfold.",
+          "When asked what he would do if he suddenly received a $1 million windfall, he outlined a balanced approach. He stated he would donate a quarter of the sum to educational causes, put the rest into an ETF, and celebrate the moment over a meal with friends."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A 56-year-old Dutch national named Herald van der Linde transitioned from working as a tour guide in China and Indonesia to becoming HSBC's head of Asia equity strategy based in Hong Kong. Having built a decades-long career in finance after completing his economics degree, he is also an author of regional history books and a proponent of long-term ETF investing."
+        ]
+      }
+    ],
+    "facts": [
+      "Herald van der Linde is a 56-year-old Dutch national.",
+      "He worked as a tour guide in China and Indonesia in the early 1990s.",
+      "He was robbed of US$100 in Shenzhen during an early trip.",
+      "He joined HSBC in 2005.",
+      "He is based in Hong Kong as HSBC's head of Asia equity strategy."
+    ],
+    "entities": {
+      "people": [
+        "Herald van der Linde",
+        "Mahipal Singh Chouhan"
+      ],
+      "titles": [
+        "The Straits Times"
+      ]
+    },
+    "keywords": [
+      "Herald van der Linde",
+      "HSBC Asia equity strategy",
+      "Dutch tour guide HSBC",
+      "Herald van der Linde HSBC"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Screenshot_2026-11-17_225534_1794936368309_2NKu_1794936379854_p981_1f22a795-bf9e-43cd-9f31-bcbf42501924_pM5p.png",
+        "caption": "From Tour Guide to HSBC Head of Asia Equity Strategy: The Remarkable Journey of Herald van der Linde",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 23:03:44 +0530"
   }
 };

@@ -82,6 +82,158 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 18:41:36 GMT"
   },
+  "1d0uyzi": {
+    "id": "1d0uyzi",
+    "type": "news",
+    "headline": "007: First Light And Grand Theft Auto VI Dominate The Game Awards 2026 Nominations",
+    "dek": "The Game Awards 2026 has officially announced its full list of nominees, with Grand Theft Auto VI and 007: First Light leading the charge across multiple categories.",
+    "entities": {
+      "people": [
+        "Jordan King",
+        "Robert Pattinson",
+        "Patrick Gibson",
+        "Angela Sant’Albano",
+        "Liam McIntyre",
+        "Manni L. Perez",
+        "Rahul Kohli"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "007: First Light",
+        "Control Resonant",
+        "Phantom Blade Zero",
+        "Resident Evil Requiem",
+        "The Legend Of Zelda: Ocarina Of Time",
+        "Star Wars: Galactic Racers",
+        "Zero Company",
+        "Cairn",
+        "Mina The Hollower",
+        "Mewgenics",
+        "Big Walk",
+        "Denshattack",
+        "Cyberpunk Edgerunners: Season 2",
+        "Fallout: Season 2",
+        "Mortal Kombat 2",
+        "Resident Evil",
+        "The Super Mario Galaxy Movie",
+        "Marvel’s Wolverine",
+        "Pragmata",
+        "The Blood of Dawnwalker",
+        "Mouse P.I. For Hire",
+        "Ace Combat 8: Wings of Theve",
+        "Mixtape",
+        "Saros",
+        "Forever Ago",
+        "Life is Strange Reunion",
+        "Lily’s World XD",
+        "Arc Raiders",
+        "Final Fantasy 14 Online",
+        "Fortnite",
+        "No Man’s Sky",
+        "The Witcher 3: Wild Hunt",
+        "Crimson Desert",
+        "Helldivers 2",
+        "Warframe",
+        "Dressmaker",
+        "Esoteric Ebb",
+        "Orbitals",
+        "Replaced",
+        "Silver Pines",
+        "Arknights Endfield",
+        "Monster Hunter Outlanders",
+        "Neverness to Everness",
+        "Pokemon Champions",
+        "Where Winds Meet",
+        "Forefront",
+        "Into the Radious 2",
+        "Little Nightmares VR: Altered Echoes",
+        "Teenage Mutant Ninja Turtles: Empire City",
+        "Thief VR: Legacy of Shadow",
+        "Gears of War: E-Day",
+        "Onimusha: Way of the Sword",
+        "Final Fantasy Resonance",
+        "Fire Emblem: Fortune’s Weave",
+        "Monster Hunter Stories 3: Twisted Reflection",
+        "Trails in the Sky: 2nd Chapter",
+        "2XKO",
+        "Avatar Legends: The Fighting Game",
+        "Invincible VS Marvel",
+        "Tokon: Fighting Souls",
+        "My Hero Academia: All’s Justice",
+        "Lego Batman: Legacy of the Dark Knight",
+        "Nintendo Switch Sports Resort",
+        "Pokemon Pokopia",
+        "Yoshi and the Mysterious Book",
+        "Planet Zoo 2",
+        "Slay the Spire 2",
+        "EA Sports FC 27",
+        "Forza Horizon 6",
+        "Screamer",
+        "Call of Duty: Modern Warfare 4",
+        "Marathon",
+        "Meccha Chameleon",
+        "Assassin’s Creed: Black Flag Resynced",
+        "Rhythm Heaven Groove",
+        "Fable",
+        "Final Fantasy 7: Revelation",
+        "God of War Laufey",
+        "Resident Evil: Veronica",
+        "The Witcher 4"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto 6",
+      "007 First Light",
+      "The Game Awards 2026",
+      "Patrick Gibson",
+      "Liam McIntyre"
+    ],
+    "images": [
+      {
+        "url": "https://images.bauerhosting.com/celebrity/sites/42/2026/11/The-Game-Awards-2026.png?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
+        "caption": "007: First Light And Grand Theft Auto VI Dominate The Game Awards 2026 Nominations",
+        "source": "Empire"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:35:59 +0000"
+  },
+  "11yocsx": {
+    "id": "11yocsx",
+    "type": "news",
+    "headline": "Ramayana Crosses 50 Crore in Kerala Box Office, Yash Makes History",
+    "dek": "Ramayana has become the first Bollywood film to breach the 50 crore gross milestone in Kerala, while actor Yash achieves a rare cross-industry feat.",
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Ranveer Singh",
+        "Prashanth Neel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "KGF: Chapter 2",
+        "Pulimurugan",
+        "Jailer",
+        "Baahubali 2",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office Kerala",
+      "Yash Ramayana Kerala 50 crore",
+      "Ranbir Kapoor Ramayana Kerala collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-rise-of-a-legend-bms-box-office-update-001.jpg",
+        "caption": "Ramayana Crosses 50 Crore in Kerala Box Office, Yash Makes History",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 18:15:32 +0000"
+  },
   "1e8qq8t": {
     "id": "1e8qq8t",
     "type": "news",
@@ -167,6 +319,69 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 18:13:37 GMT"
+  },
+  "1bq7jab": {
+    "id": "1bq7jab",
+    "type": "news",
+    "headline": "Salman Khan Surprises 'Maatrubhumi' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+    "dek": "Bollywood star Salman Khan recently hosted a special celebration at his Panvel farmhouse, handing out high-end Swiss watches to the team behind his upcoming war drama.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Chitrangda Singh",
+        "Ankur Bhatia",
+        "Vipin Bhardwaj",
+        "Tanya Desai",
+        "Chintan Shah"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi film",
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Apoorva Lakhia war drama"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135936857,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Surprises 'Maatrubhumi' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-17T23:41:35+05:30"
+  },
+  "nrgi8y": {
+    "id": "nrgi8y",
+    "type": "news",
+    "headline": "From Tour Guide to HSBC Head of Asia Equity Strategy: The Remarkable Journey of Herald van der Linde",
+    "dek": "Discover how a Dutch student who funded his university education by working as a tour guide in Asia rose to become a major financial strategist at HSBC.",
+    "entities": {
+      "people": [
+        "Herald van der Linde",
+        "Mahipal Singh Chouhan"
+      ],
+      "titles": [
+        "The Straits Times"
+      ]
+    },
+    "keywords": [
+      "Herald van der Linde",
+      "HSBC Asia equity strategy",
+      "Dutch tour guide HSBC",
+      "Herald van der Linde HSBC"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Screenshot_2026-11-17_225534_1794936368309_2NKu_1794936379854_p981_1f22a795-bf9e-43cd-9f31-bcbf42501924_pM5p.png",
+        "caption": "From Tour Guide to HSBC Head of Asia Equity Strategy: The Remarkable Journey of Herald van der Linde",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 23:03:44 +0530"
   },
   "1wit30w": {
     "id": "1wit30w",
@@ -4409,169 +4624,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-16T18:33:26+05:30"
-  },
-  "1uy5d3j": {
-    "id": "1uy5d3j",
-    "type": "news",
-    "headline": "Rapper and Producer Young L, Architect of The Pack's Minimalist Sound, Passes Away at 39",
-    "dek": "Too $hort leads tributes for the Berkeley-born artist, remembered for shaping Bay Area hyphy music with hits like 'Vans' and co-founding Pink Dolphin.",
-    "entities": {
-      "people": [
-        "Young L",
-        "Lloyd Omadhebo",
-        "Too $hort",
-        "Lil B",
-        "Lil Uno",
-        "Stunnaman",
-        "Mistah F.A.B.",
-        "Andrew Barber",
-        "DJ Ill Will",
-        "Soulja Boy",
-        "Mac Miller",
-        "Prodigy",
-        "Kool AD",
-        "Bladee",
-        "DJ Mustard"
-      ],
-      "titles": [
-        "Vans",
-        "Skateboards 2 Scrapers",
-        "Based Boys",
-        "Wolfpack Party",
-        "Loud Pockets",
-        "Mario Domo Vs The World"
-      ]
-    },
-    "keywords": [
-      "Young L",
-      "The Pack",
-      "Too $hort",
-      "Vans song"
-    ],
-    "images": [
-      {
-        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T210107.726.webp",
-        "caption": "Rapper and Producer Young L, Architect of The Pack's Minimalist Sound, Passes Away at 39",
-        "source": "VVIP Times"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 13:03:21 +0000"
-  },
-  "s3ykmn": {
-    "id": "s3ykmn",
-    "type": "news",
-    "headline": "Foo Fighters Announce 2027 U.K. and European Summer Stadium Tour",
-    "dek": "The renowned rock band has revealed a massive 15-date stadium trek across the U.K. and Europe for 2027, featuring an array of special guest artists.",
-    "entities": {
-      "people": [
-        "Dave Grohl",
-        "Iggy Pop",
-        "St. Vincent",
-        "Phil Collins",
-        "Bob Dylan",
-        "Daniel Hall",
-        "Olivia Dean",
-        "Kehlani",
-        "Juanes",
-        "Lily Collins",
-        "Violet Grohl",
-        "Alice Mae"
-      ],
-      "titles": [
-        "Your Favorite Toy",
-        "Studio 666",
-        "Grand Theft Auto VI",
-        "Billboard 200",
-        "Official Albums Chart"
-      ]
-    },
-    "keywords": [
-      "Foo Fighters tour",
-      "Foo Fighters 2027 U.K. tour",
-      "Foo Fighters tickets",
-      "Your Favorite Toy album"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/P115P21T.jpg?w=1024",
-        "caption": "Foo Fighters Announce 2027 U.K. and European Summer Stadium Tour",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 12:19:40 +0000"
-  },
-  "11szijz": {
-    "id": "11szijz",
-    "type": "news",
-    "headline": "Song Hye-kyo and Gong Yoo Lead Netflix Period Drama Tantara",
-    "dek": "Netflix has revealed the teaser and release schedule for Tantara, a 1960s-80s Korean showbiz drama starring Song Hye-kyo and Gong Yoo.",
-    "entities": {
-      "people": [
-        "Song Hye-kyo",
-        "Gong Yoo",
-        "Seolhyun",
-        "Cha Seung-won",
-        "Noh Hee-kyung",
-        "Lee Yoon-jung",
-        "Lee Ha-nee",
-        "Na Moon-hee"
-      ],
-      "titles": [
-        "Tantara",
-        "Our Blues",
-        "Dear My Friends",
-        "It's Okay, That's Love",
-        "That Winter, The Wind Blows",
-        "Coffee Prince",
-        "Cheese in the Trap",
-        "The Glory",
-        "Squid Game"
-      ]
-    },
-    "keywords": [
-      "Song Hye-kyo Tantara",
-      "Gong Yoo Tantara",
-      "Netflix Tantara release date",
-      "Tantara K-drama cast"
-    ],
-    "images": [
-      {
-        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T223843.285.webp",
-        "caption": "Song Hye-kyo and Gong Yoo Lead Netflix Period Drama Tantara",
-        "source": "VVIP Times"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 12:09:16 +0000"
-  },
-  "sxvhje": {
-    "id": "sxvhje",
-    "type": "news",
-    "headline": "Amitabh Bachchan and Abhishek Bachchan Face Death Threats From Gangster Goldy Dhillon",
-    "dek": "Gangster Goldy Dhillon has issued a fresh social media threat targeting Bollywood icons Amitabh Bachchan and Abhishek Bachchan, challenging ongoing security measures and referencing the 1984 anti-Sikh riots.",
-    "entities": {
-      "people": [
-        "Amitabh Bachchan",
-        "Abhishek Bachchan",
-        "Goldy Dhillon",
-        "Vikas Thakur",
-        "Deepak Singh"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Amitabh Bachchan death threat",
-      "Goldy Dhillon threat Bachchans",
-      "Vikas Thakur Deepak Singh arrest",
-      "Amitabh Bachchan security Jalsa"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/bigbabhishekfeature-13961794830546.jpg",
-        "caption": "Amitabh Bachchan and Abhishek Bachchan Face Death Threats From Gangster Goldy Dhillon",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 17:33:23 +0530"
   },
   "1f1pv2e": {
     "id": "1f1pv2e",
