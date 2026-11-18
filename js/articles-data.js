@@ -180812,5 +180812,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 15:18:33 +0530"
+  },
+  "1i9herl": {
+    "id": "1i9herl",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 13 Worldwide: Ranbir Kapoor and Yash Epic Nears Rs 1500 Crore",
+    "dek": "Nitesh Tiwari's mythological feature continues its stellar theatrical run, closing in on a massive global milestone by its thirteenth day.",
+    "body": [
+      {
+        "h": "Global Box Office Journey",
+        "p": [
+          "The mythological cinematic spectacle starring Ranbir Kapoor and Yash is rapidly approaching the monumental Rs 1,500 crore benchmark in worldwide gross collections. Co-produced by Namit Malhotra and Yash, the film has captured the imagination of global audiences since its release.",
+          "Internationally recognized as Ramayana – Rise of a Legend in Western territories, the feature has successfully cleared the $150 million threshold globally, powered by consistent audience turnout."
+        ]
+      },
+      {
+        "h": "Domestic Performance and Language Breakup",
+        "p": [
+          "According to trade tracking figures from Sacnilk, the feature experienced a moderated pace during its second week, recording a second Tuesday net collection of Rs 28.35 crore across a massive footprint of 22,551 shows throughout India.",
+          "The domestic figures encompass robust performances across various regional markets, contributing to a total India net collection of Rs 820.95 crore and a cumulative domestic gross of Rs 981.10 crore by the close of Day 13."
+        ]
+      },
+      {
+        "h": "Overseas Expansion and International Dominance",
+        "p": [
+          "The directorial venture by Nitesh Tiwari continues to thrive beyond domestic borders, aided by ongoing expansions into new international territories such as Thailand, Vietnam, and Nepal.",
+          "Foreign markets added a notable Rs 12 crore on the second Tuesday alone, lifting total overseas gross collections to Rs 502 crore and establishing the production as a major international force."
+        ]
+      },
+      {
+        "h": "Surpassing Major Overseas Milestones",
+        "p": [
+          "With cumulative international earnings reaching $53.4 million, the mythological epic has climbed to the position of the sixth highest-grossing Indian film in overseas markets.",
+          "In achieving this standing, the feature has overtaken the lifetime international receipts of several notable predecessors, including Ranveer Singh's Dhurandhar The Revenge at $51 million, Shah Rukh Khan's Pathaan at $49 million, and SS Rajamouli's RRR at $40 million."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Helmed by director Nitesh Tiwari and co-written alongside Shridhar Raghavan, the project features a massive ensemble cast representing key figures from the Indian epic.",
+          "Ranbir Kapoor portrays Lord Rama, Sai Pallavi appears as Goddess Sita, and Yash stars as Ravana, alongside prominent performances by Sunny Deol, Ravie Dubey, Lara Dutta, and Arun Govil among others."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash-led Ramayana is on the verge of hitting the Rs 1,500 crore worldwide milestone following steady collections through its second Tuesday. The Nitesh Tiwari directorial has amassed significant domestic and international grosses, outpacing several major previous box office records abroad."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor and Yash-led Ramayana worldwide collection is close to the Rs 1,500 crore mark.",
+      "The film is directed by Nitesh Tiwari and titled Ramayana – Rise of a Legend in the West.",
+      "It has minted over $150 millions globally.",
+      "On its second Tuesday, the film earned Rs 28.35 crore net across 22,551 shows in India.",
+      "Day 13 total India gross collection stands at Rs 981.10 crore and net collection at Rs 820.95 crore.",
+      "Overseas gross collection stands at Rs 502 crore.",
+      "Worldwide gross collection stands at Rs 1,483.10 crore.",
+      "International earnings have reached $53.4 million, surpassing Dhurandhar The Revenge, Pathaan, and RRR."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Shridhar Raghavan",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Indira Krishnan",
+        "Ajinkya Deo",
+        "Sheeba Chaddha",
+        "Shobana",
+        "Faisal Malik",
+        "Ranveer Singh",
+        "Shah Rukh Khan",
+        "SS Rajamouli"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana – Rise of a Legend",
+        "Dhurandhar The Revenge",
+        "Pathaan",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana worldwide collection",
+      "Ramayana Day 13 collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Ranbir-Kapoor-Yash-Led-Ramayana-Nears-The-Rs-1500-Cr-Mark-At-The-Worldwide-Box-Office.webp",
+        "caption": "Ramayana Box Office Day 13 Worldwide: Ranbir Kapoor and Yash Epic Nears Rs 1500 Crore",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 11:50:45 +0000"
+  },
+  "be1x2l": {
+    "id": "be1x2l",
+    "type": "news",
+    "headline": "Salman Khan's Maatrubhumi Secures Censor Clearance With U/A 16+ Rating Ahead of December Release",
+    "dek": "Following extensive administrative delays regarding its geopolitical subject matter, Salman Khan's upcoming action drama has officially cleared the Central Board of Film Certification.",
+    "body": [
+      {
+        "h": "Official Censor Board Approval",
+        "p": [
+          "The Central Board of Film Certification has formally cleared Salman Khan's upcoming motion picture after a lengthy and challenging evaluation phase. Official records confirm that the project secured its certification status.",
+          "This regulatory milestone concludes a prolonged period of uncertainty for the production team, paving the way for its scheduled theatrical rollout across the country without further bureaucratic obstacles."
+        ]
+      },
+      {
+        "h": "Historical Conflict Context",
+        "p": [
+          "The narrative of the feature is anchored around the tense military standoff that occurred between India and China back in 2020. Because of this sensitive subject matter, the production faced intense scrutiny from regulators.",
+          "Observers noted that potential diplomatic sensitivities surrounding Sino-Indian relations contributed significantly to the administrative hurdles during the examination process before government clearance was eventually granted."
+        ]
+      },
+      {
+        "h": "Title Changes and Evolution",
+        "p": [
+          "During its early development and announcement stages, the project was widely identified under a different working title before undergoing a complete rebranding earlier this year.",
+          "The filmmakers decided to rechristen the venture to better reflect its thematic core, shifting away from its original designation as the production moved closer to completion."
+        ]
+      },
+      {
+        "h": "Runtime and Structural Details",
+        "p": [
+          "According to the specifications listed on the official regulatory documentation, the final cut of the movie has a verified length lasting over two and a half hours.",
+          "This duration aligns closely with the typical pacing choices seen across the leading actor's filmography over the past dozen years, maintaining a familiar structure for audiences."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Directorial Team",
+        "p": [
+          "Helmed by director Apoorva Lakhia, the cinematic venture features a large supporting cast alongside the primary lead, bringing together performers from various backgrounds.",
+          "Actors including Chitrangda Singh, Ankur Bhatia, Heera Sohal, and Dayashankar Pandey make up the roster, supported by names like Jason Tham, Abhilash Chaudhary, and several others."
+        ]
+      },
+      {
+        "h": "Distribution Plans and Theatrical Arrival",
+        "p": [
+          "The commercial distribution for the film has been secured by Jio Studios, which plans to distribute the prints widely to screens nationwide at the start of next month.",
+          "Fans and industry analysts are closely tracking the upcoming premiere as excitement builds following positive early reactions from private rough-cut screenings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan's feature Maatrubhumi has received its U/A 16+ censor certificate after months of delays caused by its 2020 border conflict theme. Directed by Apoorva Lakhia and distributed by Jio Studios, the film is scheduled to arrive in cinemas on December 4."
+        ]
+      }
+    ],
+    "facts": [
+      "Maatrubhumi was passed by the CBFC on November 18 with a U/A 16+ certificate.",
+      "The film has a runtime of 154.12 minutes.",
+      "Maatrubhumi is scheduled to release in cinemas on December 4.",
+      "The film is directed by Apoorva Lakhia.",
+      "Jio Studios will release the film all over India."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Ankur Bhatia",
+        "Heera Sohal",
+        "Dayashankar Pandey",
+        "Jason Tham",
+        "Abhilash Chaudhary",
+        "Vipin Bhardwaj",
+        "Samar Gill",
+        "Tenzin Bodh",
+        "Tanya Desai",
+        "Zeyn Shaw",
+        "Abhishrri Sen",
+        "Apoorva Lakhia"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle Of Galwan",
+        "Bajrangi Bhaijaan",
+        "Sultan"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi censor clearance",
+      "Maatrubhumi release date",
+      "Apoorva Lakhia film",
+      "Maatrubhumi CBFC certificate"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/BREAKING-After-months-of-hurdles-Salman-Khans-Maatrubhumi-FINALLY-gets-censor-clearance-passed-with-UA-16-certificate.jpg",
+        "caption": "Salman Khan's Maatrubhumi Secures Censor Clearance With U/A 16+ Rating Ahead of December Release",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 16:23:34 +0200"
+  },
+  "qq6x0q": {
+    "id": "qq6x0q",
+    "type": "news",
+    "headline": "Walton Goggins Teases Major Character Arc and Existential Questions for The Ghoul in Fallout Season 3",
+    "dek": "Actor Walton Goggins opens up about the upcoming third season of Prime Video's hit series Fallout, exploring what happens when a character achieves a two-century-long goal.",
+    "body": [
+      {
+        "h": "The Ongoing Pursuit of Family",
+        "p": [
+          "As the hit post-apocalyptic television series prepares to return for another installment, viewers can expect a deep exploration of personal motivations. The narrative centers heavily on the relentless journey of a mutated gunslinger who continues to search for his missing kin across the wasteland.",
+          "During a recent discussion at an awards screening event, actor Walton Goggins reflected on the emotional weight driving his character forward. The unfolding plot challenges the boundaries of endurance as the protagonist confronts the reality of his lost relatives after centuries of separation."
+        ]
+      },
+      {
+        "h": "Uncovering Revelations in the Wasteland",
+        "p": [
+          "Major developments during the previous run of episodes shifted the dynamic of the story entirely. The character finally discovered that his wife and daughter survived the devastating events of the past, though they were subsequently relocated to Colorado under mysterious circumstances.",
+          "With the trail leading straight to a new geographic region, the pursuit has intensified. The narrative momentum now pivots toward a direct confrontation with the ghosts of his pre-war life, setting up high stakes for the upcoming narrative arc."
+        ]
+      },
+      {
+        "h": "Existential Dilemmas of a Two-Century Quest",
+        "p": [
+          "Achieving a goal that has defined a person's existence for two hundred years brings unique psychological challenges. Goggins raised compelling questions regarding how fulfilling such a long-held ambition might fundamentally alter a hardened survivor's perspective on life.",
+          "The core theme revolves around the aftermath of success rather than just the chase itself. Whether the protagonist manages to locate his family or faces continued separation remains secondary to the internal transformation such a discovery would provoke."
+        ]
+      },
+      {
+        "h": "Production Updates and Potential Release Windows",
+        "p": [
+          "While fans eagerly await official confirmation regarding the premiere schedule, recent cast comments have provided a tentative timeframe. Actor Kyle MacLachlan recently shared with a fan that the upcoming episodes could debut around May or June of next year.",
+          "Production milestones have also been steadily advancing behind the scenes. Goggins recently marked a significant production milestone by wrapping up his filming commitments for the third batch of episodes, accompanied by messages that sparked fan curiosity about the show's long-term trajectory."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding the Future",
+        "p": [
+          "Despite the excitement surrounding the upcoming season, the ultimate longevity of the streaming adaptation remains open-ended. Goggins has noted a lack of insider information regarding a potential fourth season, leaving room for speculation about how many chapters the creative team plans to execute.",
+          "Social media updates from the lead actor have occasionally carried a nostalgic tone resembling a farewell. However, cast members have consistently expressed confidence that the writing will remain faithful to the source material that inspired the television adaptation."
+        ]
+      },
+      {
+        "h": "Staying True to the Source Material",
+        "p": [
+          "Maintaining authenticity to the beloved video game franchise has been a cornerstone of the production's philosophy. The creative team has consistently aimed to honor the distinct tone and lore established by the interactive titles.",
+          "As the television project expands its narrative scope into new territories like Colorado, preserving the core identity of the franchise remains vital. Viewers and players alike continue to look for narrative elements that bridge the gap between the games and the screen adaptation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Walton Goggins revealed that the third season of Fallout will examine the psychological impact on the Ghoul if he finally finds his family after a two-century search. Meanwhile, co-star Kyle MacLachlan hinted at a possible release window of May or June next year as production on the Prime Video series wraps up."
+        ]
+      }
+    ],
+    "facts": [
+      "Walton Goggins plays the Ghoul in Fallout",
+      "The Ghoul's wife and daughter were taken to Colorado",
+      "The Ghoul has been searching for his family for 200 years",
+      "Kyle MacLachlan plays Hank in Fallout",
+      "Kyle MacLachlan stated season 3 could premiere in May or June of next year",
+      "Walton Goggins wrapped filming on Fallout season 3"
+    ],
+    "entities": {
+      "people": [
+        "Walton Goggins",
+        "Kyle MacLachlan"
+      ],
+      "titles": [
+        "Fallout"
+      ]
+    },
+    "keywords": [
+      "Fallout season 3 release date",
+      "Walton Goggins Fallout season 3",
+      "Fallout Ghoul family search",
+      "Kyle MacLachlan Fallout season 3"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/VZEXtzRBUwc8BJx3hnNQL6-1920-80.jpg",
+        "caption": "Walton Goggins Teases Major Character Arc and Existential Questions for The Ghoul in Fallout Season 3",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 11:00:09 +0000"
+  },
+  "qshvge": {
+    "id": "qshvge",
+    "type": "news",
+    "headline": "Shah Rukh Khan's Action Spectacle King Generates Massive Pre-Release Buzz Ahead of Christmas Arrival",
+    "dek": "Superstar Shah Rukh Khan is returning to the silver screen after a three-year hiatus with the upcoming action entertainer King, slated for a December 24, 2026 theatrical debut.",
+    "body": [
+      {
+        "h": "Anticipated Christmas Theatrical Arrival",
+        "p": [
+          "The upcoming action entertainer King featuring Bollywood superstar Shah Rukh Khan is quickly building substantial momentum as it prepares for a grand theatrical arrival on December 24, 2026. Generating excitement across the film community, the project marks the celebrated actor's major return to the big screen following a three-year break. Promoted as a large-scale action spectacle tailored for viewers in domestic and overseas territories, the feature has quickly become one of the most talked-about Hindi film releases of the year.",
+          "As the promotional campaign slowly gains traction, audiences and industry trackers alike are watching closely to see how the project performs. With just over a month remaining until its scheduled holiday debut, excitement among fans continues to escalate steadily, establishing a strong foundation for its upcoming theatrical run."
+        ]
+      },
+      {
+        "h": "Musical Success of Tu Mil Jaaye",
+        "p": [
+          "The excitement surrounding the project received an extra boost with the drop of its inaugural single, Tu Mil Jaaye, which premiered on the superstar's birthday on November 2. The romantic track features the lead actor alongside Deepika Padukone, drawing considerable praise for their established on-screen chemistry and the unique musical collaboration of Arijit Singh and Ed Sheeran.",
+          "Composed by the talented duo Sachin-Jigar, the song quickly resonated with listeners and soared to the top position on Ormax Heartbeats' weekly music chart. This early musical triumph has significantly elevated the film's public visibility and added further momentum to its pre-release campaign."
+        ]
+      },
+      {
+        "h": "Reunion of Khan and Director Siddharth Anand",
+        "p": [
+          "A major highlight of this upcoming venture is the high-profile reunion between Shah Rukh Khan and director Siddharth Anand following their massive 2023 blockbuster Pathaan. That previous collaboration played a pivotal role in spearheading the actor's successful return to leading theatrical roles, a triumph that was subsequently followed by another massive box-office hit in Jawan.",
+          "The creative partnership brings back the winning combination that previously thrilled crowds, raising expectations for another high-octane cinematic experience. Director Siddharth Anand's handling of large-scale action is expected to lend the new feature a distinct visual and narrative edge."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "Beyond the primary leads, the production boasts an impressive supporting lineup that brings together several prominent names from the Hindi film industry. Notably, the project features the superstar sharing the big screen with his daughter Suhana Khan for the very first time, adding a deeply personal element to the casting choice.",
+          "The stellar ensemble is further rounded out by well-known performers including Deepika Padukone, Abhishek Bachchan, and Rani Mukerji. This diverse grouping of established talent has generated additional curiosity among cinephiles looking forward to seeing how these dynamic performers interact on screen."
+        ]
+      },
+      {
+        "h": "Production Backing and Distribution Interest",
+        "p": [
+          "The scale of the production is heavily supported by major industry banners Red Chillies Entertainment and Marflix Pictures, which are jointly crafting the venture as a grand spectacle. This institutional backing has ensured high production values and widespread industry interest from the earliest stages of development.",
+          "Furthermore, the theatrical distribution rights have attracted intense commercial attention, with major deals reportedly secured well ahead of the premiere. Such robust early business indicators reflect confidence from distributors regarding the commercial viability of the project."
+        ]
+      },
+      {
+        "h": "Holiday Box Office Competitiveness",
+        "p": [
+          "Landing a coveted Christmas release date places the title in a prime window for holiday moviegoers, though it also means facing stiff competition from major Hollywood releases. The film is scheduled to arrive close to prominent international titles such as Avengers: Doomsday and Dune: Part Three.",
+          "Consequently, screen availability and shifting audience demand will serve as critical determinants in shaping the title's opening-week performance. Given the lead actor's proven track record of driving record-breaking theatrical openings, expectations remain high despite the crowded holiday landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming action entertainer King, directed by Siddharth Anand, is set for a theatrical release on December 24, 2026, following a three-year break for the superstar. The film has already generated strong buzz through its star-studded cast—featuring Suhana Khan, Deepika Padukone, Abhishek Bachchan, and Rani Mukerji—and the success of its first single, Tu Mil Jaaye."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's King is scheduled for theatrical release on December 24, 2026.",
+      "The film is directed by Siddharth Anand.",
+      "The first song, Tu Mil Jaaye, was released on Shah Rukh Khan's birthday on November 2.",
+      "Tu Mil Jaaye features Shah Rukh Khan and Deepika Padukone, with vocals by Arijit Singh and Ed Sheeran, and music by Sachin-Jigar.",
+      "King features Shah Rukh Khan and his daughter Suhana Khan sharing the screen for the first time.",
+      "The cast also includes Abhishek Bachchan and Rani Mukerji.",
+      "The film is produced by Red Chillies Entertainment and Marflix Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Arijit Singh",
+        "Ed Sheeran",
+        "Sachin-Jigar",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Rani Mukerji"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Pathaan",
+        "Jawan",
+        "Avengers: Doomsday",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "King film",
+      "Shah Rukh Khan King",
+      "Siddharth Anand King",
+      "Tu Mil Jaaye song"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028613.jpg",
+        "caption": "Shah Rukh Khan's Action Spectacle King Generates Massive Pre-Release Buzz Ahead of Christmas Arrival",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 10:58:05 +0000"
   }
 };
