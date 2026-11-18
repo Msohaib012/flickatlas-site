@@ -183934,5 +183934,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 23:45:12 +0530"
+  },
+  "vtaei7": {
+    "id": "vtaei7",
+    "type": "news",
+    "headline": "A Peek Inside Ananya Birla's Massive Rs 425 Crore Mumbai Mansion Featured in Farah Khan's Vlog",
+    "dek": "Choreographer and vlogger Farah Khan recently gave fans an exclusive virtual tour of singer and entrepreneur Ananya Birla's luxurious 20,000 to 25,000 square foot Mumbai residence.",
+    "body": [
+      {
+        "h": "Exploring the Jatia House Tour",
+        "p": [
+          "Popular choreographer and director Farah Khan recently ventured into vlogging, treating her audience to a unique virtual house tour on her show 'Food With Farah'. On this latest episode, she explored the sprawling Mumbai mansion belonging to prominent singer and entrepreneur Ananya Birla.",
+          "The magnificent property boasts a carpet area spanning between 20,000 and 25,000 square feet, leaving the visiting director stunned by its sheer grand scale and royal ambiance right from the start."
+        ]
+      },
+      {
+        "h": "History and Acquisition of the Estate",
+        "p": [
+          "During the vlog, Farah Khan mentioned that despite their long-standing acquaintance, this marked her maiden visit to the Jatia House in Mumbai.",
+          "According to reports from Times of India Homes, industrialist Kumar Mangalam Birla purchased this high-profile property back in the year 2018 for a staggering Rs 425 crore."
+        ]
+      },
+      {
+        "h": "Palatial Entrance and Artistic Interiors",
+        "p": [
+          "Stepping inside, the three-storeyed mansion immediately welcomes visitors with a giant chandelier and a large idol of Lord Ganesha positioned prominently at the entrance, prompting Farah to remark that they had walked into a palace.",
+          "The grand hall features thoughtfully placed prominent paintings, including notable artwork by MF Husain, highlighting the family's appreciation for fine art."
+        ]
+      },
+      {
+        "h": "British-Inspired Architecture and Decor",
+        "p": [
+          "Ananya Birla shared that the entire property was designed as the brainchild of her mother, Neerja Birla, reflecting a distinct British-inspired luxury architectural style filled with unique statement artefacts.",
+          "The exterior showcases an ivory and cream-toned facade complemented by intricate stonework and high ceilings, while the interior living spaces feature rich wooden floors, antique furniture, and Victorian-era decor that evoked comparisons to a James Bond film."
+        ]
+      },
+      {
+        "h": "Unique Kitchen Spaces and Culinary Prep",
+        "p": [
+          "The tour also highlighted the residence's kitchen, which features catchy lime-green cabinetry, polished stone surfaces, and modern stainless-steel appliances, occupying a compact footprint comparable to a luxury studio apartment.",
+          "Utilizing this space, the duo prepared a simple lunch together, cooking traditional dishes like jeera aloo and bhindi."
+        ]
+      },
+      {
+        "h": "Lush Gardens and Special Token Gifts",
+        "p": [
+          "Outside the main structure, the mansion is enveloped by plush green surroundings and neatly trimmed gardens featuring Victorian-style garden gazebos built with distinctive turquoise-green metalwork.",
+          "Adding a personal touch to the visit, Farah Khan presented Ananya with a special Rs 50,000 timepiece from the Gates of India series by Jaipur Watch Company, a gesture deeply appreciated by Ananya for being proudly made in India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Farah Khan recently toured singer-entrepreneur Ananya Birla's Rs 425 crore Mumbai mansion on her vlog. The massive three-storeyed property features British-inspired architecture, artwork by MF Husain, and gardens, with Ananya noting the home was designed by her mother Neerja Birla."
+        ]
+      }
+    ],
+    "facts": [
+      "The property spans a carpet area of 20,000 to 25,000 square feet.",
+      "Industrialist Kumar Mangalam Birla purchased the Jatia House for Rs 425 crore in 2018.",
+      "The house is a three-storeyed mansion.",
+      "Neerja Birla is the mastermind behind the home's design.",
+      "Farah Khan gifted an exquisite watch worth Rs 50,000 from Jaipur Watch Company's Gates of India series."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Birla",
+        "Farah Khan",
+        "Neerja Birla",
+        "Kumar Mangalam Birla",
+        "MF Husain"
+      ],
+      "titles": [
+        "Food With Farah"
+      ]
+    },
+    "keywords": [
+      "Ananya Birla house",
+      "Farah Khan vlog",
+      "Jatia House Mumbai",
+      "Neerja Birla home design",
+      "Kumar Mangalam Birla house"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/18/6912-ananya-birla-house-farah.jpg",
+        "caption": "A Peek Inside Ananya Birla's Massive Rs 425 Crore Mumbai Mansion Featured in Farah Khan's Vlog",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T19:52:48Z"
+  },
+  "jgins8": {
+    "id": "jgins8",
+    "type": "news",
+    "headline": "Cary Elwes and Colm Meaney Face Off in New Trailer for The Panic",
+    "dek": "A fresh preview has been released for The Panic, a historical thriller detailing a fierce battle for industrial dominance during a major financial collapse.",
+    "body": [
+      {
+        "h": "The Trailer Release and Setup",
+        "p": [
+          "A brand-new promotional preview has been officially released for the upcoming motion picture titled The Panic. The footage gives audiences an early look at a tense clash between two influential industry titans.",
+          "Set against the backdrop of the year 1907, the preview highlights the rising tensions as America faces the threat of a severe financial collapse."
+        ]
+      },
+      {
+        "h": "Plot and Historical Basis",
+        "p": [
+          "The feature is rooted in actual historical events from the Panic of 1907. The narrative centers on a high-stakes collision between powerful financial figures fighting for control.",
+          "According to the official plot summary, character J.P. Morgan utilizes the spreading national crisis to undermine his rival, secure absolute power, and shape the financial trajectory of the country."
+        ]
+      },
+      {
+        "h": "Lead Cast and Characters",
+        "p": [
+          "Actor Cary Elwes takes on the role of Charles Barney, described as a leading banker in New York. Meanwhile, veteran Star Trek star Colm Meaney portrays J.P. Morgan.",
+          "The preview showcases the two actors going head-to-head, featuring dramatic lines that emphasize their bitter rivalry and the opposing forces driving the narrative forward."
+        ]
+      },
+      {
+        "h": "Expanded Cast and Crew",
+        "p": [
+          "Beyond the two leading men, the production features a diverse ensemble cast including Cristiana Dell'Anna, Justin Chatwin, Anastasiya Mitrunen, Tim Daly, and Malcolm McDowell.",
+          "The project is handled entirely by filmmaker Daniel Adams, who serves in the dual role of director and writer for the feature."
+        ]
+      },
+      {
+        "h": "Release Details and Runtime",
+        "p": [
+          "The motion picture carries a total runtime measured at 131 minutes. Distribution duties for the project are managed by The Avenue.",
+          "Fans looking to experience the historical thriller on the big screen can expect a theater-exclusive release scheduled for January 22, 2027."
+        ]
+      },
+      {
+        "h": "Background of the Lead Actors",
+        "p": [
+          "Colm Meaney is widely recognized for his memorable science fiction performances as Miles Edward O'Brien in television franchises such as Star Trek: Deep Space Nine and Star Trek: The Next Generation. His career also features credits in projects like The Snapper, Remarkably Bright Creatures, Hell on Wheels, and No Way Up.",
+          "Cary Elwes boasts an extensive filmography featuring prominent roles in Robin Hood: Men in Tights, The Princess Bride, The Crush, and Saw."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new trailer has been revealed for the upcoming biographical drama film The Panic, starring Cary Elwes and Colm Meaney as rival industrialists Charles Barney and J.P. Morgan during the 1907 financial crisis. Directed and written by Daniel Adams, the feature is distributed by The Avenue and is scheduled for a theatrical release on January 22, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "The Panic is based on a true story from 1907.",
+      "Cary Elwes plays Charles Barney in the film.",
+      "Colm Meaney plays J.P. Morgan in the film.",
+      "The film has a runtime of 131 minutes.",
+      "The Panic is scheduled for a theater-exclusive release on January 22, 2027.",
+      "The movie is directed and written by Daniel Adams.",
+      "The Avenue is distributing the film."
+    ],
+    "entities": {
+      "people": [
+        "Cary Elwes",
+        "Colm Meaney",
+        "Daniel Adams",
+        "Charles Barney",
+        "J.P. Morgan",
+        "Miles Edward O’Brien",
+        "Cristiana Dell’Anna",
+        "Justin Chatwin",
+        "Anastasiya Mitrunen",
+        "Tim Daly",
+        "Malcolm McDowell",
+        "Disita Sikdar"
+      ],
+      "titles": [
+        "The Panic",
+        "Star Trek: Deep Space Nine",
+        "Star Trek: The Next Generation",
+        "The Snapper",
+        "Remarkably Bright Creatures",
+        "Hell on Wheels",
+        "No Way Up",
+        "Robin Hood: Men in Tights",
+        "The Princess Bride",
+        "The Crush",
+        "Saw"
+      ]
+    },
+    "keywords": [
+      "The Panic movie trailer",
+      "Cary Elwes The Panic",
+      "Colm Meaney J.P. Morgan",
+      "Daniel Adams director",
+      "The Avenue movies"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-2026-11-19T001010.210.png?resize=1200,630",
+        "caption": "Cary Elwes and Colm Meaney Face Off in New Trailer for The Panic",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 18:49:36 +0000"
+  },
+  "1fwdap2": {
+    "id": "1fwdap2",
+    "type": "news",
+    "headline": "Netflix Orders Grendel Adult Animated Series Based on Dark Horse Comics",
+    "dek": "Matt Wagner's legendary comic book character Hunter Rose is finally headed to the screen as Netflix greenlights an adult animated action adaptation.",
+    "body": [
+      {
+        "h": "The Animated Adaptation Takes Shape",
+        "p": [
+          "Streaming giant Netflix has officially given a series order to Grendel, an adult animated action project derived from the enduring comic book franchise published by Dark Horse. The narrative centers on Hunter Rose, a signature creation of writer and artist Matt Wagner.",
+          "The story kicks into motion after the tragic murder of the protagonist's beloved. Devoting his existence to retribution, Hunter Rose cuts a destructive path through street syndicates, the societal elite, and New York City's supernatural underworld while hunting down the person responsible for the killing."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "The creative helm of the television adaptation belongs to Bobak Esfarjani, who serves as writer, executive producer, and showrunner. Esfarjani brings notable industry pedigree to the project, having recently worked as a consulting producer on the first season of Apple TV's Widow's Bay, which earned an Emmy win for Outstanding Comedy Series.",
+          "Production duties are shared among a prominent roster of executive producers. Chris Tongue, Tim Wiesch, and Jay Komas represent Dark Horse Entertainment, alongside Lydia Antonini and original comic creator Matt Wagner. Meanwhile, Bobbypills handles studio responsibilities for the series."
+        ]
+      },
+      {
+        "h": "From Comic Origins to Screen",
+        "p": [
+          "Matt Wagner's creation first debuted in 1982 through Comico before transitioning to Dark Horse following the independent label's financial collapse. Over more than four decades, the property has remained at the vanguard of independent comic books, earning widespread acclaim alongside Wagner's other notable works like Mage.",
+          "Reflecting on the upcoming adaptation, Wagner expressed enthusiasm about the transition. He noted that the dynamic new format preserves the gritty adult tone of the source material while introducing fresh narrative approaches, hyper-kinetic action sequences, and striking visceral violence."
+        ]
+      },
+      {
+        "h": "Previous Live-Action Attempt at Netflix",
+        "p": [
+          "This new animated greenlight follows a prior attempt by the streaming platform to adapt the property in live-action. In 2021, Netflix ordered a live-action version under its first-look agreement with Dark Horse Entertainment, casting Abubakr Ali in the lead role alongside performers like Jaime Ray Newman and Erik Palladino under showrunner Andrew Dabb.",
+          "However, approximately a year later, the platform decided not to advance with the live-action footage. Despite shelving that version, the streamer retained strong confidence in the underlying intellectual property and initiated development on the animated iteration by early 2026."
+        ]
+      },
+      {
+        "h": "Executive Perspectives and Vision",
+        "p": [
+          "John Derderian, Vice President of Animation Series and Kids Family TV at Netflix, emphasized that the project aims to subvert traditional superhero expectations in the same manner as the original print publication. He praised the collaborative partnership with Dark Horse Entertainment and Bobbypills.",
+          "Showrunner Bobak Esfarjani echoed these sentiments, expressing his profound excitement about steering such an iconic persona. He credited the unwavering support of Matt Wagner, fellow executive producers, and the studio teams for making the collaborative endeavor deeply fulfilling."
+        ]
+      },
+      {
+        "h": "Expanding Adult Animation Lineup",
+        "p": [
+          "The addition of Grendel further broadens Netflix's expanding portfolio of mature animated content. The platform's current slate in this genre features titles such as Blue Eye Samurai, Long Story Short, Haunted Hotel, Devil May Cry, and Mating Season.",
+          "With production underway and a dedicated creative team steering the project, the franchise is positioned to finally secure its long-awaited audiovisual debut under the banner of high-end adult streaming animation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has ordered an adult animated series adaptation of Matt Wagner's Dark Horse comic book Grendel, with Bobak Esfarjani serving as showrunner and Bobbypills as the studio. The project follows a previously cancelled live-action iteration from 2021 and joins the platform's growing slate of mature animated titles."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix ordered Grendel as an adult animated action series on November 18, 2026.",
+      "Matt Wagner created the comic book character Hunter Rose.",
+      "Grendel was originally published in 1982 by Comico before moving to Dark Horse.",
+      "Bobak Esfarjani serves as the writer, executive producer, and showrunner.",
+      "A live-action version of Grendel was previously ordered by Netflix in 2021 and later shelved."
+    ],
+    "entities": {
+      "people": [
+        "Matt Wagner",
+        "Bobak Esfarjani",
+        "Chris Tongue",
+        "Tim Wiesch",
+        "Jay Komas",
+        "Lydia Antonini",
+        "John Derderian",
+        "Andrew Dabb",
+        "Abubakr Ali",
+        "Jaime Ray Newman",
+        "Erik Palladino"
+      ],
+      "titles": [
+        "Grendel",
+        "Widow's Bay",
+        "WandaVision",
+        "Alien: Earth",
+        "The Umbrella Academy",
+        "Locke and Key",
+        "Halo: Forward Unto Dawn",
+        "Dead Boy Detectives",
+        "Creature Commandos",
+        "Captain Laserhawk",
+        "Mage",
+        "Blue Eye Samurai",
+        "Long Story Short",
+        "Haunted Hotel",
+        "Devil May Cry",
+        "Mating Season"
+      ]
+    },
+    "keywords": [
+      "Grendel",
+      "Netflix",
+      "Matt Wagner",
+      "Dark Horse",
+      "Bobak Esfarjani"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Grendel.png?w=1024",
+        "caption": "Netflix Orders Grendel Adult Animated Series Based on Dark Horse Comics",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 18:30:00 +0000"
+  },
+  "1wbzj4g": {
+    "id": "1wbzj4g",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 20 Premieres on ARY Digital",
+    "dek": "The twentieth episode of the popular television drama Lagan Lagi has officially been released, bringing new emotional developments for Zunaira and the rest of the cast.",
+    "body": [
+      {
+        "h": "Latest Episode Release",
+        "p": [
+          "Fans of serial television can now watch the twentieth installment of the hit program, which made its official debut on November 18, 2026. The broadcast continues the dramatic narrative trajectory established in previous weeks, airing via ARY Digital.",
+          "Viewers tracking the series online have access to the latest content through official streaming outlets, maintaining engagement with the unfolding plot as relationships shift and characters face new obstacles."
+        ]
+      },
+      {
+        "h": "Central Plot and Character Arc",
+        "p": [
+          "The current storyline centers heavily on Zunaira as she confronts a series of testing situations, unexpected developments, and matters of the heart. Her choices dictate the direction of her future amidst growing emotional complexity.",
+          "Viewers witness how emotional ties are strained under pressure, compelling the main figures to make difficult decisions that will leave lasting impacts on their lives and interpersonal bonds."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "The television project features Hina Chaudhary stepping into the role of Zunaira, supported by Saad Qureshi who portrays Zaviyar. Haris Waheed also takes on a significant role in the narrative as Daniyal.",
+          "An extensive supporting cast rounds out the production, including Jaweria Ali, Hamza Majeed Khan, Kinza Malik, Ayesha Toor, Salma Zafar, Imran Aslam, Maham Amir, and Momina Bajwa among others."
+        ]
+      },
+      {
+        "h": "Creative Team Behind the Screen",
+        "p": [
+          "The narrative framework and dialogue of the serial are penned by writer Rabia Razzaque, who crafts the interpersonal conflicts and dramatic twists driving the show forward.",
+          "Directorial responsibilities belong to Bilawal Hussain Abbassi, who guides the pacing and visual delivery to maintain tension and emotional resonance across the broadcasted episodes."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Network",
+        "p": [
+          "Audiences can tune in to watch the program every Monday through Friday during the evening time slot at 9 PM. The series is broadcast exclusively on the television network ARY Digital HD.",
+          "For viewers wishing to catch up on missed installments or access alternative viewing options, the network provides digital integration through the ARY Plus application and its official online platforms."
+        ]
+      },
+      {
+        "h": "Network Context and Reach",
+        "p": [
+          "ARY Digital serves as a major hub for serialized entertainment within the region, delivering consistent programming that includes relatable stories and original soundtracks. The platform routinely shares updates and full installments via its digital channels.",
+          "Through its robust television and online presence, the network continues to distribute high-definition content to a wide audience base interested in contemporary dramatic series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 20 of Lagan Lagi premiered on November 18, 2026, on ARY Digital, highlighting continuing dramatic developments for Zunaira and other characters portrayed by actors like Hina Chaudhary, Saad Qureshi, and Haris Waheed. Written by Rabia Razzaque and directed by Bilawal Hussain Abbassi, the serial maintains its regular Monday through Friday broadcast schedule at 9 PM."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 20 was released on 18 November 2026",
+      "The show airs on ARY Digital",
+      "The broadcast time is Monday to Friday at 9 PM",
+      "Hina Chaudhary plays Zunaira",
+      "Saad Qureshi plays Zaviyar",
+      "Haris Waheed plays Daniyal",
+      "The writer is Rabia Razzaque",
+      "The director is Bilawal Hussain Abbassi"
+    ],
+    "entities": {
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan",
+        "Kinza Malik",
+        "Ayesha Toor",
+        "Salma Zafar",
+        "Imran Aslam",
+        "Maham Amir",
+        "Momina Bajwa",
+        "Rabia Razzaque",
+        "Bilawal Hussain Abbassi"
+      ],
+      "titles": [
+        "Lagan Lagi"
+      ]
+    },
+    "keywords": [
+      "Lagan Lagi Episode 20",
+      "Hina Chaudhary Lagan Lagi",
+      "ARY Digital dramas",
+      "Haris Waheed Saad Qureshi"
+    ],
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/pHeVlyhHY54/hq720.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&amp;rs=AOn4CLCKP_knER0FradCQUcWg7kgC1vdFQ",
+        "caption": "Lagan Lagi Episode 20 Premieres on ARY Digital",
+        "source": "ARY Digital HD (YouTube)"
+      }
+    ],
+    "published": "2026-11-18T18:05:21+00:00"
   }
 };
