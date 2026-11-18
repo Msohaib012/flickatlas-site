@@ -182082,5 +182082,422 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T13:44:36Z"
+  },
+  "17dbjp4": {
+    "id": "17dbjp4",
+    "type": "news",
+    "headline": "Dastoor Episode 89 — Watch Online on Green TV",
+    "dek": "Dastoor episode 89 aired on 2026-11-18 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 89 aired on 2026-11-18 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=h7P-YzAZNA4"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 89 aired on 2026-11-18.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=h7P-YzAZNA4",
+      "YouTube views: 7,217.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/h7P-YzAZNA4/hqdefault.jpg",
+        "caption": "Dastoor Episode 89",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-18T14:45:00Z"
+  },
+  "1xfxnk1": {
+    "id": "1xfxnk1",
+    "type": "news",
+    "headline": "Sharad Kapoor's Dire Condition Exposed by Friend, Claiming Actor Was 99 Percent Done",
+    "dek": "Recent revelations about actor Sharad Kapoor's struggles shed light on his isolation, severe living conditions, and the lack of support from his family.",
+    "body": [
+      {
+        "h": "Recent Headlines Involving Sharad Kapoor",
+        "p": [
+          "Actor Sharad Kapoor has found himself back in the center of public attention following the emergence of a video revealing his disheveled appearance. Known for his work in projects like Josh, the actor subsequently made a direct public plea asking for work opportunities. These developments brought his difficult personal circumstances to the forefront of entertainment news."
+        ]
+      },
+      {
+        "h": "Revelations From Friend Hema Chaudhary",
+        "p": [
+          "During a podcast appearance on Bollywood Cut Uncut, Hema Chaudhary, founder of the Bezubaan Trust animal shelter, shared alarming details about Sharad Kapoor's living situation. She claimed the actor had completely withdrawn from the outside world and neglected his basic personal care for an extended period. According to her statements, he spent nearly two years confined to his bed without taking a bath."
+        ]
+      },
+      {
+        "h": "The Rescue and Dogs Involvement",
+        "p": [
+          "Hema Chaudhary explained that she originally came across the actor while visiting the area for a dog rescue operation through her public welfare organization. She asserted that the animals effectively led her to his doorstep, noting that he had no visitors checking in on him. In her view, the lack of human contact meant he was slowly deteriorating, stating that he was almost done 99 percent before she intervened."
+        ]
+      },
+      {
+        "h": "Allegations Against Family Members",
+        "p": [
+          "The animal shelter founder also discussed her attempts to involve the actor's relatives in his recovery and care. She stated that she reached out to his brother to explain the gravity of the situation, but claimed the response was dismissive. After initial contact, she alleged that family members refused to entertain further calls or offer meaningful assistance."
+        ]
+      },
+      {
+        "h": "Personal History and Relationships",
+        "p": [
+          "Beyond his current living conditions, Chaudhary touched upon elements of Sharad Kapoor's past personal life. She mentioned that he was previously engaged to Koel Basu, the daughter of former West Bengal Chief Minister Jyoti Basu, though the relationship did not culminate in marriage. Furthermore, she noted that while he is currently in a relationship, his partner is unable to adequately look after him."
+        ]
+      },
+      {
+        "h": "Industry Support Amid Hardships",
+        "p": [
+          "As details of his financial, medical, and professional struggles continued to circulate, figures from the film industry began offering assistance. Following initial reports of Salman Khan reaching out, actor Sonu Sood also reportedly stepped forward to help Kapoor navigate his current hardships. These outreach efforts emerged alongside his public appeals for work in the entertainment industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sharad Kapoor's recent return to the headlines has brought attention to severe personal and living struggles, highlighted by distressing claims from his friend Hema Chaudhary. While industry figures like Salman Khan and Sonu Sood have reportedly reached out to aid him, allegations point to a troubling lack of support from his family. The ongoing situation underscores the deep challenges the actor has faced in his personal and professional life."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor acted in the film Josh.",
+      "Hema Chaudhary is the founder of the Bezubaan Trust.",
+      "Sharad Kapoor was previously engaged to Koel Basu.",
+      "Koel Basu is the daughter of former West Bengal Chief Minister Jyoti Basu.",
+      "Salman Khan and Sonu Sood reportedly reached out to help Sharad Kapoor."
+    ],
+    "entities": {
+      "people": [
+        "Sharad Kapoor",
+        "Hema Chaudhary",
+        "Salman Khan",
+        "Sonu Sood",
+        "Koel Basu",
+        "Jyoti Basu"
+      ],
+      "titles": [
+        "Josh"
+      ]
+    },
+    "keywords": [
+      "Sharad Kapoor",
+      "Sharad Kapoor news",
+      "Hema Chaudhary Sharad Kapoor",
+      "Sharad Kapoor struggles"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-18t201233-664-40971795012974.jpg",
+        "caption": "Sharad Kapoor's Dire Condition Exposed by Friend, Claiming Actor Was 99 Percent Done",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 20:13:15 +0530"
+  },
+  "187mx72": {
+    "id": "187mx72",
+    "type": "news",
+    "headline": "Dancing with the Stars Semi-Finals Shocker: Harry Shum Jr.'s Elimination and Glee Tribute Overshadowed by Background Antics",
+    "dek": "Harry Shum Jr. delivered a deeply emotional Glee tribute on Dancing with the Stars before his surprising elimination, but background antics from professional dancers sparked intense frustration.",
+    "body": [
+      {
+        "h": "Semi-Final Shock on ABC",
+        "p": [
+          "The semi-finals of Dancing with the Stars brought high drama and unexpected outcomes to ABC and Disney+. Despite securing two perfect scores during the evening, contestant Harry Shum Jr. faced a surprising elimination from the competition. The results highlighted the massive influence of the fan vote in determining who advances toward the season finale.",
+          "Shum's exit caught many viewers off guard given his stellar technical performances on the dance floor. His departure marked a dramatic turning point as the remaining celebrity couples inch closer to the ultimate prize."
+        ]
+      },
+      {
+        "h": "A Touching Glee Tribute",
+        "p": [
+          "For his final routine, Shum performed a quickstep that paid homage to his time on the hit musical series Glee. Rather than using the popular Amy Winehouse recording of Valerie, the live band performed the specific Glee arrangement famously sung by the late Naya Rivera. Certain choreography moments were even mirrored directly from the original television number.",
+          "The tribute carried deep personal significance for the cast and longtime fans of the show. Upon completing the routine, Shum pointed upward toward heaven in a poignant gesture honoring his late co-star."
+        ]
+      },
+      {
+        "h": "Emotional Moments in the Skybox",
+        "p": [
+          "Following the performance, Shum headed up to the Skybox to speak with host Julianne Hough. Visibly emotional and having seemingly shed a tear during his routine, he expressed how deeply intertwined Dancing with the Stars and Glee felt to him.",
+          "He shared with the audience and host that dancing to Rivera's version meant a great deal to many people, including himself, before concluding with a heartfelt message directed at his late co-star. The touching remarks resonated strongly with viewers watching at home."
+        ]
+      },
+      {
+        "h": "Background Distractions Spark Outrage",
+        "p": [
+          "While Shum delivered his heartfelt speech about Naya Rivera, a jarring contrast unfolded in the background. Professional dancers Alan Bersten and Brandon Armstrong were spotted in the Skybox shooting content for a TikTok live broadcast.",
+          "Their presence directly behind the emotional interview pulled focus away from a solemn memorial moment. Many audience members felt that the lack of situational awareness was deeply disrespectful given the gravity of the tribute."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Professional Conduct",
+        "p": [
+          "The juxtaposition between Shum's raw grief and the pros filming a social media segment quickly ignited backlash online. Viewers pointed out that while Bersten and Armstrong were simply executing their duties, reading the room during such a tender moment was entirely necessary.",
+          "The incident sparked wider discussions regarding backstage etiquette and the constant push for digital content creation during live television broadcasts. Fans voiced frustration that a sacred television tribute was momentarily upstaged by internet promotion."
+        ]
+      },
+      {
+        "h": "Legacy of the Glee Connection",
+        "p": [
+          "The emotional weight of the evening demonstrated the enduring legacy left behind by Glee and its cast members. Shum's journey on the dance competition brought nostalgia to the forefront of the season.",
+          "Even though his time in the competition ended unexpectedly, his exit will be remembered for the heartfelt acknowledgment of his roots and the community connection forged through musical television."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Harry Shum Jr. was eliminated during the semi-finals of Dancing with the Stars despite earning two perfect scores. His final performance featured a tribute to Glee and late actress Naya Rivera, though the emotional moment was disrupted by background social media recording by professional dancers Alan Bersten and Brandon Armstrong."
+        ]
+      }
+    ],
+    "facts": [
+      "Harry Shum Jr. was eliminated during the semi-finals of Dancing with the Stars.",
+      "The semi-finals aired on ABC and streamed on Disney+.",
+      "Harry Shum Jr. performed a quickstep to the Glee arrangement of Valerie.",
+      "Alan Bersten and Brandon Armstrong were recording content for a TikTok live in the background.",
+      "Julianne Hough hosted the Skybox segment."
+    ],
+    "entities": {
+      "people": [
+        "Harry Shum Jr.",
+        "Naya Rivera",
+        "Julianne Hough",
+        "Alan Bersten",
+        "Brandon Armstrong",
+        "Amy Winehouse",
+        "Heather Morris"
+      ],
+      "titles": [
+        "Dancing with the Stars",
+        "Glee",
+        "Grey's Anatomy",
+        "Valerie"
+      ]
+    },
+    "keywords": [
+      "Harry Shum Jr",
+      "Dancing with the Stars Glee tribute",
+      "Naya Rivera",
+      "Alan Bersten Brandon Armstrong TikTok",
+      "DWTS semi-finals elimination"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/vX7tbo4nnATKP5DRypP4BW-2000-80.jpg",
+        "caption": "Dancing with the Stars Semi-Finals Shocker: Harry Shum Jr.'s Elimination and Glee Tribute Overshadowed by Background Ant",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 14:18:08 +0000"
+  },
+  "1t5n7za": {
+    "id": "1t5n7za",
+    "type": "news",
+    "headline": "Ramayana Box Office: Ranbir Kapoor Starrer Nears Rs 1500 Crore Worldwide",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana is projected to cross the Rs 1500 crore global milestone on its fourteenth day, setting a new benchmark for Bollywood.",
+    "body": [
+      {
+        "h": "Global Box Office Momentum",
+        "p": [
+          "The theatrical run of Ramayana continues to draw massive attention across global markets. Following a powerful opening during the Diwali window, the mythological epic has sustained strong numbers. Trade analysts are closely monitoring the film as it approaches a major worldwide milestone on its fourteenth day.",
+          "The production has steadily climbed higher on global charts since its theatrical debut. Industry watchers anticipate that the worldwide gross will reach an unprecedented high by the conclusion of its second week in cinemas."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, the high-profile project brings together a prominent ensemble cast. Ranbir Kapoor takes on the central role of Lord Ram, while Sai Pallavi portrays Sita, creating substantial anticipation among audiences prior to release.",
+          "Kannada star Yash plays the formidable character of Raavan, marking his return to the big screen. In addition to his acting responsibilities, Yash serves as a co-producer alongside Namit Malhotra, giving him a deeply involved role in the making of the epic."
+        ]
+      },
+      {
+        "h": "Milestone Projection for Day 14",
+        "p": [
+          "Projections indicate that the feature will touch the Rs 1500 crore mark globally on its fourteenth day, which marks the second Wednesday of its theatrical run. Over its first thirteen days, the picture amassed a worldwide collection of Rs 1483.1 crore.",
+          "International markets are also contributing significantly to this total. The overseas collection alone is predicted to surpass Rs 510 crore as the feature enters the latter half of its second week."
+        ]
+      },
+      {
+        "h": "Challenging Previous Records",
+        "p": [
+          "Should the current projections hold true, Ramayana will outpace earlier major releases. It is on track to surpass Ranveer Singh's Dhurandhar 2 in terms of speed to the Rs 1500 crore global threshold.",
+          "For context, Dhurandhar 2 achieved the same milestone in sixteen days. This potential record highlights the scale of commercial success the cinematic adaptation has commanded since opening."
+        ]
+      },
+      {
+        "h": "Breakdown of Domestic Earnings",
+        "p": [
+          "Domestically, the film is eyeing a gross of over Rs 1000 crore within India. The regional figures reflect a broad multi-language appeal across different territories.",
+          "Language-wise contributions show the Hindi version leading with Rs 638.08 crore. This is followed by Rs 68.44 crore from the Kannada version, Rs 53.39 crore in Telugu, Rs 39.22 crore in Tamil, and Rs 36.65 crore in Malayalam."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Sai Pallavi's Ramayana is projected to hit the Rs 1500 crore worldwide mark on its fourteenth day. Directed by Nitesh Tiwari and co-produced by Yash, the mythological drama aims to surpass Dhurandhar 2 as the fastest Bollywood film to reach this global milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari.",
+      "Ranbir Kapoor stars as Lord Ram and Sai Pallavi stars as Sita.",
+      "Yash plays the role of Raavan and is a co-producer alongside Namit Malhotra.",
+      "The 13-day worldwide collection stands at Rs 1483.1 crore.",
+      "Day 14 global collections are projected to touch the Rs 1500 crore mark.",
+      "Overseas collection is likely to cross Rs 510 crore.",
+      "Dhurandhar 2 took 16 days to reach the Rs 1500 crore milestone.",
+      "Domestic language earnings include Rs 638.08 crore in Hindi, Rs 68.44 crore in Kannada, Rs 53.39 crore in Telugu, Rs 39.22 crore in Tamil, and Rs 36.65 crore in Malayalam."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Toxic",
+        "Ramayana",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana worldwide collection",
+      "Ramayana box office day 14",
+      "Ranbir Kapoor Ramayana movie",
+      "Yash Raavan Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday14wwpredictionfeature-38581795011002.jpg",
+        "caption": "Ramayana Box Office: Ranbir Kapoor Starrer Nears Rs 1500 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 19:41:33 +0530"
+  },
+  "ucxyl3": {
+    "id": "ucxyl3",
+    "type": "news",
+    "headline": "Ramayana Hits 1,000 Crore Domestic Gross Milestone in 14 Days",
+    "dek": "Namit Malhotra's Ramayana has crossed the prestigious 1,000 crore mark at the Indian box office within two weeks, making it the sixth Indian film and the third Bollywood title to enter the exclusive club.",
+    "body": [
+      {
+        "h": "A Historic Box Office Milestone",
+        "p": [
+          "Namit Malhotra's production Ramayana has officially entered the elite 1,000 crore gross club at the domestic box office. Achieving this monumental feat in just 14 days, the theatrical run has captured widespread attention across the country.",
+          "The Nitesh Tiwari directorial reached the milestone during its second week in cinemas. This rapid ascent solidifies its position as one of the most commercially successful domestic releases in the history of Indian cinema."
+        ]
+      },
+      {
+        "h": "Exclusive Company in Indian Cinema",
+        "p": [
+          "With this accomplishment, Ramayana becomes only the sixth Indian film of all time to cross the 1,000 crore gross mark domestically. It joins an elite roster of blockbusters that includes Baahubali 2, Pushpa 2, KGF Chapter 2, and the Dhurandhar franchise.",
+          "While crossing 1,000 crore worldwide has become more common for major Indian films, achieving the same figure exclusively from the domestic market remains an exceptionally rare milestone."
+        ]
+      },
+      {
+        "h": "A Landmark Achievement for Bollywood",
+        "p": [
+          "The milestone holds special significance for the Hindi film industry, which historically saw South Indian productions dominate this exclusive club. Ranveer Singh's Dhurandhar first broke the barrier for Bollywood in 2025, followed by its sequel earlier this year.",
+          "Ramayana now stands as the third Hindi production to join the list. This trend demonstrates the expanding domestic box-office potential of major Bollywood theatrical offerings in recent years."
+        ]
+      },
+      {
+        "h": "Milestones for Cast and Crew",
+        "p": [
+          "The blockbuster success marks a major career high for its leading stars, Ranbir Kapoor and Sai Pallavi, as it is their first film to enter the 1,000 crore domestic club. Ranbir's previous biggest domestic hit was Animal.",
+          "Meanwhile, co-star Yash secured his second entry into the exclusive club, following his massive success with KGF Chapter 2. Director Nitesh Tiwari also added another major commercial triumph to his resume following Dangal."
+        ]
+      },
+      {
+        "h": "Box Office Journey and Holiday Support",
+        "p": [
+          "The film's box office momentum was heavily aided by strong collections across Hindi as well as four South Indian language versions. It capitalized on the extended Diwali holiday period during its opening week.",
+          "Sustaining substantial business over its second weekend helped push the film across the threshold before completing two full weeks in theatres. Further collections are anticipated as its theatrical run continues."
+        ]
+      },
+      {
+        "h": "Rarity of Domestic Records",
+        "p": [
+          "Establishing the benchmark in 2017, Baahubali 2 stood alone for nearly five years before another film managed to replicate the domestic feat. The frequency has noticeably accelerated recently.",
+          "With Ramayana and another title both achieving the milestone in 2026, the timeline for reaching domestic box office records has shortened significantly for Indian cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana crossed the 1,000 crore gross mark at the Indian box office in 14 days, becoming the sixth Indian film to achieve the feat. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film marks the third Bollywood title to enter the exclusive domestic club."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana entered the 1000 crore gross club at the Indian box office in 14 days.",
+      "It is the third Bollywood and 6th Indian title of all time to hit the milestone.",
+      "The film was directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "It stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "Baahubali 2 established the benchmark in 2017 with an India gross collection of 1,418 Cr.",
+      "KGF: Chapter 2 grossed 1,001 Cr domestically in 2022.",
+      "Pushpa 2: The Rule grossed 1,471 Cr domestically in 2024.",
+      "Dhurandhar grossed 1,008 Cr domestically in 2025.",
+      "Dhurandhar 2: The Revenge grossed 1,375.50 Cr domestically in 2026.",
+      "Ramayana was released on Thursday, November 5, 2026, with an India net of 820.95 Cr and worldwide gross of 1,483.10 Cr."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Baahubali 2: The Conclusion",
+        "Pushpa 2: The Rule",
+        "KGF: Chapter 2",
+        "Dhurandhar",
+        "Dhurandhar 2: The Revenge",
+        "Animal",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ramayana 1000 crore club",
+      "Ranbir Kapoor Ramayana collection",
+      "Nitesh Tiwari Ramayana India gross"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028616.jpg",
+        "caption": "Ramayana Hits 1,000 Crore Domestic Gross Milestone in 14 Days",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 14:25:33 +0000"
   }
 };
