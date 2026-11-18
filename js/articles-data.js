@@ -176406,5 +176406,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-17T22:37:16Z"
+  },
+  "w461io": {
+    "id": "w461io",
+    "type": "news",
+    "headline": "Avengers: Doomsday Advance Bookings Cross Rs 10 Crore in India",
+    "dek": "Marvel Studios’ upcoming blockbuster Avengers: Doomsday has surpassed the Rs 10 crore mark in opening-day pre-sales in India approximately a month ahead of its official theatrical release.",
+    "body": [
+      {
+        "h": "Strong Opening Pre-Sales in India",
+        "p": [
+          "Marvel Studios has ignited massive excitement among Indian cinephiles as advance ticket sales for Avengers: Doomsday officially opened. The sci-fi superhero feature crossed the significant milestone of Rs 10 crore in pre-sales for its opening day.",
+          "Tracking reports indicate that this remarkable figure was achieved roughly thirty days before the motion picture officially arrives in cinemas across the nation."
+        ]
+      },
+      {
+        "h": "Multiplex Ticket Sales and Pacing",
+        "p": [
+          "Data compiled by Sacnilk reveals that approximately one lakh tickets have been purchased across major national multiplex chains including PVR INOX and Cinepolis.",
+          "This volume of tickets was secured by eager fans in a mere nineteen hours after advance booking windows became available to the public."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Marvel Pre-Sales",
+        "p": [
+          "The early pre-sales performance of Doomsday has already outpaced the twenty-four-hour opening figures recorded by several legendary predecessors in the country.",
+          "For comparison, Avengers: Endgame pulled in Rs 8.27 crore, Spider-Man: No Way Home collected an estimated Rs 6.56 crore, and Avengers: Infinity War brought in around Rs 5.02 crore during their initial pre-sale periods."
+        ]
+      },
+      {
+        "h": "Extended Booking Window Advantage",
+        "p": [
+          "A major factor contributing to the current figures is the exceptionally early opening of ticket sales, which commenced a full month prior to the film's premiere.",
+          "In contrast, earlier Marvel blockbusters typically began selling tickets only about a week before their respective theatrical debuts, leaving Doomsday with ample room for further growth."
+        ]
+      },
+      {
+        "h": "Comparison With Endgame's Legacy",
+        "p": [
+          "Despite the stellar start, Avengers: Endgame still holds formidable benchmarks, having sold over one million tickets on BookMyShow within its first twenty-four hours back in 2019.",
+          "While Doomsday has not reached that specific tier yet, the extended booking window has provided supporters with a much larger timeframe to reserve their seats."
+        ]
+      },
+      {
+        "h": "High Pricing Fails to Deter Fans",
+        "p": [
+          "Enthusiasm has remained exceptionally high despite steep admission costs, with premium tickets at Cinepolis Seawoods in Nerul reaching an estimated Rs 4,200.",
+          "This particular rate applies to a 4DX 3D midnight screening on opening day, pushing the final checkout price to approximately Rs 4,300 with added booking charges."
+        ]
+      },
+      {
+        "h": "Star Power and Future Trajectory",
+        "p": [
+          "The extraordinary ticket rates surpass those seen for recent high-profile cinematic releases such as Ramayana, Oppenheimer, and Dhurandhar: The Revenge.",
+          "Audience anticipation has also been bolstered by the triumphant run of Spider-Man: Brand New Day earlier in the year, alongside the highly publicized return of Robert Downey Jr. to the franchise as Doctor Doom alongside Chris Evans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has surpassed Rs 10 crore in Indian opening-day advance bookings about a month before its December 17 theatrical release. The film sold roughly one lakh tickets across national chains despite premium ticket prices reaching over Rs 4,000."
+        ]
+      }
+    ],
+    "facts": [
+      "Advance bookings for Avengers: Doomsday crossed Rs 10 crore in India roughly 30 days before release.",
+      "Approximately one lakh tickets were sold across PVR INOX and Cinepolis in 19 hours.",
+      "Avengers: Endgame earned Rs 8.27 crore in its opening-day pre-sales.",
+      "Spider-Man: No Way Home recorded an estimated Rs 6.56 crore in pre-sales.",
+      "Avengers: Infinity War raked in an estimated Rs 5.02 crore.",
+      "Cinepolis Seawoods in Nerul listed tickets at an estimated Rs 4,200 for a 4DX 3D midnight screening.",
+      "The theatrical release date is set for December 17."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Chris Evans"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Spider-Man: No Way Home",
+        "Avengers: Infinity War",
+        "Ramayana",
+        "Oppenheimer",
+        "Dhurandhar: The Revenge",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday box office",
+      "Avengers Doomsday advance booking India",
+      "Robert Downey Jr Chris Evans movie",
+      "Avengers Doomsday ticket price"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135943400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avengers: Doomsday Advance Bookings Cross Rs 10 Crore in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T04:17:23+05:30"
+  },
+  "9osenp": {
+    "id": "9osenp",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Secures Eight Nominations for the Upcoming Game Awards",
+    "dek": "Rockstar Games' highly anticipated title lands eight major nods including Game of the Year alongside impressive pre-sale figures.",
+    "body": [
+      {
+        "h": "GTA VI Dominates Award Nominations",
+        "p": [
+          "The gaming industry has reacted with immense enthusiasm as the upcoming release from Rockstar Games secured eight nominations for the annual ceremony. This milestone arrives while the title already boasts massive financial success, having accumulated massive pre-sales prior to its official launch date.",
+          "Industry observers have closely tracked the rollout of recognition, which places the blockbuster release at the forefront of the upcoming competitive season. The strong showing across multiple categories underscores the immense anticipation surrounding the project."
+        ]
+      },
+      {
+        "h": "Competing for Game of the Year",
+        "p": [
+          "Among the eight categories where the title is recognized, the contest for Game of the Year stands out as the most competitive. Fellow contenders in this premier category include major projects from renowned studios across the global development landscape.",
+          "Titles vying alongside the Rockstar Games production include entries from prominent creators and publishers, setting the stage for a dramatic showdown at the upcoming gala event in Los Angeles."
+        ]
+      },
+      {
+        "h": "Category Breakdown and Artistic Recognition",
+        "p": [
+          "Beyond the top category, the production earned nods in various specialized fields highlighting technical and creative excellence. Nominations span across specific creative disciplines including visual artistry, narrative depth, and musical score composition.",
+          "Individual contributors from the cast also received personal acknowledgment for their work, showcasing the depth of talent involved in bringing the sprawling virtual world to life."
+        ]
+      },
+      {
+        "h": "Publisher Landscape and Industry Standouts",
+        "p": [
+          "Looking at the broader list of contenders, several major companies emerged with impressive totals across their respective portfolios. Publishers such as Nintendo and Capcom secured substantial recognition with numerous nods for their various releases.",
+          "The diverse array of nominated software reflects a vibrant ecosystem of interactive entertainment, ranging from massive blockbusters to creative independent ventures."
+        ]
+      },
+      {
+        "h": "Ceremony Details and Streaming Information",
+        "p": [
+          "The celebratory event is scheduled to broadcast live from the Peacock Theater located in Los Angeles. Fans around the world will be able to tune in through a wide array of digital platforms and video services.",
+          "Organizers have confirmed that the presentation will stream across more than forty different digital networks, ensuring global accessibility for enthusiasts eager to witness the winners announced."
+        ]
+      },
+      {
+        "h": "Production Team and Leadership",
+        "p": [
+          "The large-scale production of the gala relies on an experienced crew of executive producers and creative directors. Key figures guiding the broadcast include Geoff Keighley and Kimmie Kim as executive producers.",
+          "Additional leadership roles are filled by industry veterans overseeing the creative direction, staging, and co-production efforts to deliver a polished viewing experience for audiences worldwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI has earned eight nominations for the 2026 Game Awards, including a spot in the Game of the Year category. The recognition coincides with substantial pre-sale figures ahead of the title's scheduled launch.",
+          "The winners will be revealed during the live ceremony broadcast from the Peacock Theater in Los Angeles, with widespread streaming availability across numerous digital platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI received eight Game Awards nominations",
+      "The game accumulated over $1B in presales",
+      "The Game Awards ceremony takes place on Thursday, December 10, 2026",
+      "The event is held live from the Peacock Theater in Los Angeles"
+    ],
+    "entities": {
+      "people": [
+        "Geoff Keighley",
+        "Kimmie Kim",
+        "Richard Preuss",
+        "LeRoy Bennett",
+        "Lara Karchmer",
+        "Angela Sant’Albano",
+        "Liam McIntyre",
+        "Manni L. Perez",
+        "Patrick Gibson",
+        "Rahul Kohli"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "007 First Light",
+        "Control Resonant",
+        "Phantom Blade Zero",
+        "Resident Evil Requiem",
+        "The Legend of Zelda: Ocarina of Time"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "Grand Theft Auto VI Game Awards",
+      "GTA VI nominations",
+      "Game of the Year nominees"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/the-game-awards-2026-007-gta-zelda.jpg?w=1024",
+        "caption": "Grand Theft Auto VI Secures Eight Nominations for the Upcoming Game Awards",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 23:28:21 +0000"
+  },
+  "9j4ac4": {
+    "id": "9j4ac4",
+    "type": "news",
+    "headline": "Sunil Lahri Responds to Entitlement Debate Over Remarks on Ranbir Kapoor's Ramayana",
+    "dek": "Veteran actor Sunil Lahri has dismissed accusations of entitlement after he and other cast members of the 1987 television series Ramayan shared their views on Nitesh Tiwari's cinematic adaptation.",
+    "body": [
+      {
+        "h": "Addressing the Entitlement Debate",
+        "p": [
+          "Veteran television actor Sunil Lahri recently addressed the ongoing social media criticism surrounding comments made by members of the 1987 Ramayan cast regarding the upcoming film adaptation, Ramayana: Part 1. The actor, who famously portrayed Lakshman in Ramanand Sagar's classic television series, firmly rejected the notion that the older cast members were speaking from a place of entitlement.",
+          "Social media users had begun questioning the veteran actors for expressing their reservations about the new movie. However, Lahri clarified that the original cast never viewed themselves through such a lens. Instead, they firmly believed that a higher power had personally chosen them to bring these legendary characters to life."
+        ]
+      },
+      {
+        "h": "The Divine Connection",
+        "p": [
+          "In a detailed conversation with ANI, Lahri explained the deeply spiritual mindset that guided the actors during the production of the 1987 television show. He emphasized that the ensemble felt divinely selected for their respective roles, which allowed them to perform with absolute devotion.",
+          "The actor noted that the love and respect they received from audiences decades ago remain entirely unchanged to this day. For the original cast, the association with the epic was never about ego or authority, but rather about fulfilling a sacred responsibility bestowed upon them."
+        ]
+      },
+      {
+        "h": "Reactions to the New Adaptation",
+        "p": [
+          "The debate gained momentum as various actors from the classic television series, including Sunil Lahri and Dipika Chikhlia, who played Sita, publicly discussed their thoughts on Nitesh Tiwari's big-screen project. Both actors voiced specific reservations regarding certain creative directions taken in the modern version.",
+          "These public observations sparked lively online discussions about how veterans of the classic television medium perceive contemporary cinematic retellings of the same ancient mythological text."
+        ]
+      },
+      {
+        "h": "Varun Grover's Public Critique",
+        "p": [
+          "The controversy intensified when lyricist and writer Varun Grover took to social media to criticize the tone of the remarks coming from the older television actors. Grover openly questioned their commentary, writing that the actors from Ramanand Sagar’s version were speaking with an entitlement as if they were actual divine avatars.",
+          "This critical viewpoint resonated with a section of internet users, further fueling the digital debate about generational perspectives on mythological storytelling in Indian entertainment."
+        ]
+      },
+      {
+        "h": "Lahri's Review of Ramayana: Part 1",
+        "p": [
+          "Aside from addressing the controversy, Sunil Lahri shared his personal review of Ranbir Kapoor's Ramayana: Part 1 after experiencing the film firsthand in theaters. He offered a balanced critique, acknowledging the extensive technical effort behind the project.",
+          "The veteran actor praised the movie's visual effects, cinematography, set designs, and locations. Furthermore, he noted that every cast member delivered commendable performances tailored to the specific demands of their assigned roles."
+        ]
+      },
+      {
+        "h": "Creative and Spiritual Observations",
+        "p": [
+          "Despite his praise for the technical execution, Lahri expressed a few critical thoughts regarding the narrative focus of the film. He questioned the depth of the background research and the writing choices made for the epic.",
+          "Specifically, the actor felt that the distinct contrast between Lord Ram and Ravana could have been handled differently. He also mentioned that he had anticipated a stronger spiritual connection from a major cinematic adaptation of the epic tale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sunil Lahri responded to criticism that the actors of the 1987 Ramayan show displayed entitlement when commenting on Ranbir Kapoor's Ramayana: Part 1. Clarifying that the original cast felt divinely chosen for their roles, Lahri also shared his own theater review praising the film's visuals while noting narrative and spiritual critiques."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunil Lahri played Lakshman in Ramanand Sagar's 1987 television series Ramayan.",
+      "Dipika Chikhlia played Sita in the 1987 television series.",
+      "Nitesh Tiwari is the director of the new film adaptation Ramayana: Part 1 starring Ranbir Kapoor.",
+      "Varun Grover criticized the older show's actors on social media regarding their comments."
+    ],
+    "entities": {
+      "people": [
+        "Sunil Lahri",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Dipika Chikhlia",
+        "Varun Grover",
+        "Ramanand Sagar"
+      ],
+      "titles": [
+        "Ramayan",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Sunil Lahri Ramayan",
+      "Ranbir Kapoor Ramayana Part 1",
+      "Sunil Lahri comments",
+      "Varun Grover Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156526232,thumbsize-74988,width-1280,height-720,resizemode-75/156526232.jpg",
+        "caption": "Sunil Lahri Responds to Entitlement Debate Over Remarks on Ranbir Kapoor's Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T00:51:40Z"
+  },
+  "dwrfob": {
+    "id": "dwrfob",
+    "type": "news",
+    "headline": "Howard Lee Departs as Skydance Establishes Skydance Global Cable Media Under Channing Dungey",
+    "dek": "A sweeping structural consolidation unites Warner Bros. Discovery and Paramount Global cable networks into Skydance Global Cable Media, resulting in executive reassignments and the departure of longtime television veteran Howard Lee after nearly three decades.",
+    "body": [
+      {
+        "h": "Introduction of Skydance Global Cable Media",
+        "p": [
+          "The corporate landscape of television has shifted dramatically with the formal confirmation of a brand-new cable division called Skydance Global Cable Media. This newly forged entity successfully merges an expansive portfolio of more than fifty cable networks under a single operational umbrella, drawing together major properties previously held separately by Warner Bros. Discovery and Paramount Global.",
+          "Overseen by television group leader Channing Dungey, the massive reorganization aims to optimize the combined strengths of these iconic brands. By housing numerous networks together, the leadership team hopes to position the massive collection of channels for long-term multi-platform success in an increasingly competitive modern media ecosystem."
+        ]
+      },
+      {
+        "h": "Howard Lee Exits After Decades of Service",
+        "p": [
+          "Amidst the sweeping structural overhaul, longtime executive Howard Lee has officially departed from the company. Having originally joined Discovery Inc. back in 1998 as a vice president for Travel Channel Development, Lee spent twenty-eight years contributing significantly to the organization's growth and creative output.",
+          "Most recently serving as the chief creative officer of US Networks, Lee's extensive oversight historically encompassed major channels like the Discovery Channel, TLC, HGTV, and the Food Network. In a formal internal memo, Channing Dungey expressed deep gratitude for Lee's immense talent, passion, and leadership during his lengthy tenure."
+        ]
+      },
+      {
+        "h": "Legacy of Pop Cultural Programming",
+        "p": [
+          "During his remarkable career with the company, Howard Lee helped develop and launch several defining pop cultural institutions and television sensations. His notable oversight brought hits like '90 Day Fiancé', 'Toddlers & Tiaras', 'Sister Wives', 'Dr. Pimple Popper', and 'Baylen Out Loud' to enthusiastic global audiences.",
+          "Furthermore, under his watch, perennial viewing traditions achieved stellar milestones. The annual Puppy Bowl delivered its highest audience numbers in eight years, while Shark Week managed to post its largest year-over-year ratings growth in over a decade."
+        ]
+      },
+      {
+        "h": "Unscripted Lifestyle and Broad-Based Entertainment Divisions",
+        "p": [
+          "To effectively manage the vast array of over fifty combined cable channels, Channing Dungey partitioned the newly formed organization into four distinct operational buckets. The unscripted lifestyle division will now be led by Food Network president Betsy Sanner Ayala, who expands her purview to add oversight of Discovery, HGTV, and Magnolia, with Joe Boyle continuing as head of content for Discovery.",
+          "Concurrently, the broad-based entertainment division falls under the leadership of TNT, TBS, and ID president Jason Sarlanis. Sarlanis will now take on TLC as part of his responsibilities, working alongside Alon Orstein, who remains in place as TLC's head of content."
+        ]
+      },
+      {
+        "h": "Talent, Music, Live, and Animation Grouping",
+        "p": [
+          "The third specialized division focuses squarely on talent, music, and live programming, placing OWN president Tina Perry in charge of an expanded portfolio that now includes both BET and MTV/VH1. Within this sector, Sitarah Pendelton continues as head of content for MTV/VH1, Brian Rikuda steps in as head of BET, and Aisha Summers-Burke remains head of BET content, all reporting directly to Perry.",
+          "Meanwhile, the fourth segment groups together comedy and animation assets under the banner of Skydance Television Animation. Overseen by Michael Ouweleen as president, this powerful branch consolidates major studios and networks including Nickelodeon, Adult Swim, Cartoon Network, Warner Bros. Animation, and Hanna-Barbera Studios Europe."
+        ]
+      },
+      {
+        "h": "Studio Leadership and Future Strategy",
+        "p": [
+          "Within the newly consolidated animation and comedy division, day-to-day studio assets will see direct management from Peter Girardi and Alec Botnick, both reporting to Michael Ouweleen. Botnick will additionally continue overseeing programming for Nickelodeon alongside Laurel Weir, while Ari Pearce maintains day-to-day oversight of Comedy Central.",
+          "With this intricate leadership framework now established, the overarching strategy emphasizes safeguarding core linear television operations while actively building out multi-platform pathways. Company leaders plan to share further details regarding the international side of the business in the upcoming weeks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Skydance has formally established Skydance Global Cable Media under Channing Dungey, combining extensive cable portfolios from Warner Bros. Discovery and Paramount Global into four distinct operational segments. This major transition includes the departure of longtime executive Howard Lee after twenty-eight years with the company, marking the end of an influential era for brands like TLC and the Discovery Channel."
+        ]
+      }
+    ],
+    "facts": [
+      "Howard Lee spent 28 years at Discovery after joining in 1998.",
+      "Channing Dungey leads Warner Bros. TV Group and U.S. Networks.",
+      "Skydance Global Cable Media combines over 50 cable networks.",
+      "Betsy Sanner Ayala is the President of Food Network.",
+      "Jason Sarlanis serves as president of TNT, TBS, and ID.",
+      "Tina Perry serves as president of OWN."
+    ],
+    "entities": {
+      "people": [
+        "Howard Lee",
+        "Channing Dungey",
+        "Betsy Sanner Ayala",
+        "Joe Boyle",
+        "Jason Sarlanis",
+        "Alon Orstein",
+        "Tina Perry",
+        "Sitarah Pendelton",
+        "Brian Rikuda",
+        "Aisha Summers-Burke",
+        "Louis Carr",
+        "Michael Ouweleen",
+        "Peter Girardi",
+        "Alec Botnick",
+        "Laurel Weir",
+        "Ari Pearce",
+        "David Ellison",
+        "Andrew Wallenstein"
+      ],
+      "titles": [
+        "The Traitors",
+        "90 Day Fiancé",
+        "Toddlers & Tiaras",
+        "Sister Wives",
+        "Dr. Pimple Popper",
+        "Baylen Out Loud",
+        "Puppy Bowl",
+        "Shark Week",
+        "Soul Train Awards",
+        "VMAs",
+        "Rick and Morty",
+        "Coven Academy",
+        "La Bola Negra"
+      ]
+    },
+    "keywords": [
+      "Howard Lee exits Skydance",
+      "Skydance Global Cable Media",
+      "Channing Dungey cable structure",
+      "Howard Lee Discovery TLC",
+      "Skydance Television Animation"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2020/05/tlc-president-howard-lee.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Howard Lee Departs as Skydance Establishes Skydance Global Cable Media Under Channing Dungey",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 23:47:53 +0000"
   }
 };
