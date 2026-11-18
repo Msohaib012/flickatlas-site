@@ -178812,5 +178812,403 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 04:37:04 +0000"
+  },
+  "1o3iobz": {
+    "id": "1o3iobz",
+    "type": "news",
+    "headline": "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
+    "dek": "Renowned actress Tabu has signed on for her first Hindi original streaming project, starring in YRF Entertainment's upcoming fictionalised drama inspired by real-life survival efforts.",
+    "body": [
+      {
+        "h": "Introduction to the Project",
+        "p": [
+          "Acclaimed actress Tabu has officially boarded the cast of Tunnel Men, marking her very first appearance in a Hindi original streaming series. The upcoming production comes from YRF Entertainment and is slated for release on Netflix.",
+          "The project is a fictionalised drama that draws heavy inspiration from the emotional core and determination witnessed during a major real-life crisis."
+        ]
+      },
+      {
+        "h": "Inspiration from Real-World Events",
+        "p": [
+          "The premise of the show looks back at the gripping events of November 2023, when an entire nation anxiously followed an extensive and grueling rescue mission. The operation successfully extracted numerous trapped laborers from a collapsed subterranean passage situated in Uttarakhand.",
+          "Rather than focusing solely on the physical danger, Tunnel Men aims to capture the underlying spirit of that period. It highlights human resilience, collaborative teamwork, and the unwavering hope that kept the rescue mission alive."
+        ]
+      },
+      {
+        "h": "Tabu's Illustrious Career Journey",
+        "p": [
+          "With a professional acting journey extending well past three decades, Tabu has established a reputation for seamlessly navigating between mainstream commercial cinema and independent artistic films. Her versatility spans across both Hindi releases and various regional-language projects.",
+          "Her exceptional talents have previously earned her prestigious National Film Awards for standout performances in Maachis and Chandni Bar. Additionally, her depth as a performer has been thoroughly showcased in complex features such as Maqbool, Haider, and Andhadhun."
+        ]
+      },
+      {
+        "h": "Expanding Into Global Cinema",
+        "p": [
+          "Beyond her domestic acclaim, Tabu has cultivated an impressive international portfolio. She memorably portrayed Ashima Ganguli in Mira Nair's adaptation of The Namesake and later appeared in Ang Lee's visually stunning Life of Pi.",
+          "Her global footprint expanded further when she took on the role of Sister Francesca in the television enterprise Dune: Prophecy, proving her capability to command international screens."
+        ]
+      },
+      {
+        "h": "Creative Leadership Behind the Camera",
+        "p": [
+          "The series benefits from experienced creative leadership, with Shiv Rawail stepping in as showrunner. Rawail previously directed The Railway Men and aims to infuse this new narrative with the same grounded, human-centric storytelling focused on acts of bravery.",
+          "In addition to the directorial vision, the series marks a significant administrative milestone as the inaugural project overseen by Saugata Mukherjee since joining YRF Entertainment as Head of Content under Chief Executive Officer Akshaye Widhani."
+        ]
+      },
+      {
+        "h": "A Track Record of Acclaimed Content",
+        "p": [
+          "Saugata Mukherjee brings a wealth of experience to the table, having previously supervised several of India's most talked-about television and streaming projects. His past oversight includes notable titles like Scam 1992, Maharani, Tabbar, and Rocket Boys.",
+          "Furthermore, multiple projects under his previous supervision—including Aarya, Rocket Boys, and Real Kashmir Football Club—earned prestigious International Emmy nominations, setting high expectations for his new role."
+        ]
+      },
+      {
+        "h": "Streaming Partnership and Legacy",
+        "p": [
+          "The upcoming show will premiere worldwide on Netflix, extending an ongoing creative collaboration between the streaming platform and Yash Raj Films. This alliance previously produced the documentary venture The Romantics in 2023.",
+          "By combining a high-profile rescue narrative, a seasoned creative team, and one of India's most celebrated dramatic actresses, Tunnel Men is positioned as a major upcoming fixture in the digital entertainment landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tabu has joined the cast of YRF Entertainment's Netflix series Tunnel Men for her first Hindi original streaming role. The fictionalised drama is inspired by the teamwork and resilience of the 2023 Uttarakhand tunnel rescue and features Shiv Rawail as showrunner alongside content head Saugata Mukherjee."
+        ]
+      }
+    ],
+    "facts": [
+      "Tabu joined Tunnel Men, a YRF Entertainment series for Netflix.",
+      "The series is inspired by the 2023 Uttarakhand tunnel rescue.",
+      "Shiv Rawail is the showrunner for Tunnel Men.",
+      "Saugata Mukherjee is the Head of Content at YRF Entertainment under CEO Akshaye Widhani.",
+      "The partnership between Netflix and YRF Entertainment previously included The Romantics in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Tabu",
+        "Shiv Rawail",
+        "Saugata Mukherjee",
+        "Akshaye Widhani",
+        "Mira Nair",
+        "Ashima Ganguli",
+        "Ang Lee"
+      ],
+      "titles": [
+        "Tunnel Men",
+        "Maachis",
+        "Chandni Bar",
+        "Maqbool",
+        "Haider",
+        "Andhadhun",
+        "The Namesake",
+        "Life of Pi",
+        "Dune: Prophecy",
+        "The Railway Men",
+        "Scam 1992",
+        "Maharani",
+        "Tabbar",
+        "Rocket Boys",
+        "Aarya",
+        "Real Kashmir Football Club",
+        "The Romantics"
+      ]
+    },
+    "keywords": [
+      "Tabu Tunnel Men",
+      "YRF Entertainment Netflix series",
+      "Uttarakhand tunnel rescue show",
+      "Shiv Rawail Tunnel Men"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-12.00.jpg.jpeg",
+        "caption": "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 12:07:59 +0200"
+  },
+  "fdq9wj": {
+    "id": "fdq9wj",
+    "type": "news",
+    "headline": "Lord of the Rings: Ascension Tabletop Game Officially Announced",
+    "dek": "Stone Blade Entertainment is bringing a new tabletop deckbuilding experience to Middle-earth, with shipping targeted for December 2027.",
+    "body": [
+      {
+        "h": "Introduction to the New Middle-earth Project",
+        "p": [
+          "Middle-earth continues to expand its vast universe through various media adaptations, ranging from television series to digital interactive entertainment. Fans constantly anticipate fresh additions that either explore deep lore or revisit familiar narrative milestones from the legendary fantasy franchise.",
+          "Joining this extensive line of releases is a new project designed to give enthusiasts a different way to experience the original trilogy. The upcoming title aims to leverage an established intellectual property to offer an immersive tabletop experience."
+        ]
+      },
+      {
+        "h": "Developer Background and Mechanics",
+        "p": [
+          "The upcoming project is being developed by Stone Blade Entertainment, the studio recognized for creating the popular Ascension deckbuilding series. This new tabletop adaptation draws foundational elements from those established rules while reimagining them for J.R.R. Tolkien's universe.",
+          "Players can engage with the game individually or gather in groups of up to four people. The core objective involves progressing through the three original books, completing various tasks, and preventing corruption by the power of the One Ring."
+        ]
+      },
+      {
+        "h": "Crowdfunding Success on Gamefound",
+        "p": [
+          "Before entering its current production phase, the project was crowdfunded through the Gamefound platform. It achieved massive popularity among supporters during this campaign.",
+          "Records from the Gamefound page show that the campaign successfully raised $2,410,467 with backing from 8051 individual contributors."
+        ]
+      },
+      {
+        "h": "Gameplay Features and Components",
+        "p": [
+          "Participants will encounter familiar elements during their playthroughs, including recruitable heroes, recognizable items, and specialized abilities. These features are structured to provide a thorough deckbuilding exploration of the classic story.",
+          "As with previous entries in the studio's catalog, the new release is slated to feature high-grade components alongside detailed artwork. Supporters who missed the initial campaign can still secure copies through the Gamefound platform."
+        ]
+      },
+      {
+        "h": "Pricing and Packaging Options",
+        "p": [
+          "The release is structured so that each of the three books receives its own dedicated box. These individual boxes function as standalone experiences with distinct rules.",
+          "Individual standalone boxes are priced at $60 each, whereas a comprehensive trilogy bundle containing all three packages is available for $150."
+        ]
+      },
+      {
+        "h": "Estimated Delivery Timeline",
+        "p": [
+          "Current schedules listed on the project platform point to a shipping window in December 2027 for backers. However, like many crowdfunded initiatives, this timeline remains subject to potential adjustments.",
+          "External factors could influence the production schedule, meaning fulfillment might shift into 2028 depending on how manufacturing progresses."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Stone Blade Entertainment has officially announced Lord of the Rings: Ascension, a tabletop deckbuilding game successfully crowdfunded on Gamefound with over $2.4 million raised. The title is scheduled to ship in December 2027 and offers standalone boxes for each of the three original books."
+        ]
+      }
+    ],
+    "facts": [
+      "Lord of the Rings: Ascension is a tabletop deckbuilding game developed by Stone Blade Entertainment.",
+      "The Gamefound crowdfunding campaign raised $2,410,467 from 8051 backers.",
+      "Shipping for backers is currently listed for December 2027.",
+      "Individual standalone boxes cost $60, while the trilogy bundle costs $150."
+    ],
+    "entities": {
+      "people": [
+        "Tom Wilson",
+        "J.R.R. Tolkien"
+      ],
+      "titles": [
+        "Lord of the Rings: Ascension",
+        "The Rings of Power",
+        "Middle-Earth: Shadow of War",
+        "The Lord Of The Rings: Gollum",
+        "The Lord of the Rings: Return to Moria",
+        "The Lord of the Rings (1978)",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "The Lord of the Rings: The Two Towers",
+        "The Lord of the Rings: The Return of the King",
+        "The Hobbit: An Unexpected Journey",
+        "The Hobbit: The Desolation of Smaug",
+        "The Hobbit: The Battle of the Five Armies",
+        "The Lord of the Rings: The War of the Rohirrim",
+        "The Lord of the Rings: The Rings of Power"
+      ]
+    },
+    "keywords": [
+      "Lord of the Rings Ascension",
+      "Stone Blade Entertainment",
+      "Gamefound crowdfunded",
+      "Lord of the Rings board game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/elijah-wood-as-frodo-in-the-lord-of-the-rings-the-two-towers.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Lord of the Rings: Ascension Tabletop Game Officially Announced",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 06:30:18 GMT"
+  },
+  "mz2piw": {
+    "id": "mz2piw",
+    "type": "news",
+    "headline": "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
+    "dek": "Director Shashaank Khaitaan is back with a fresh romantic thriller titled Aisi Deewangi Dekhi Nahi Kahin, marking the cinematic debut of new actors Subhaan and Airah.",
+    "body": [
+      {
+        "h": "Introduction to Aisi Deewangi Dekhi Nahi Kahin",
+        "p": [
+          "Filmmaker Shashaank Khaitaan has officially announced his next directorial venture, titled Aisi Deewangi Dekhi Nahi Kahin. Known for exploring vibrant cinematic worlds, the director is set to dive into a distinct narrative that blends intense romance, deep passion, and dark revenge.",
+          "The project has generated significant industry buzz following the release of its title announcement video, which gives audiences their very first look into the distinct mood and aesthetic of the upcoming feature film."
+        ]
+      },
+      {
+        "h": "Introducing Debut Actors Subhaan and Airah",
+        "p": [
+          "A major highlight of the project is the introduction of two brand-new faces to the big screen: Subhaan and Airah. Stepping into the industry as debut actors, the duo take on the central roles in this ambitious romantic drama.",
+          "The initial promotional material showcases an intimate and tender moment between the two leads before sharply pivoting into an unexpected visual contrast, hinting at a turbulent journey ahead for the characters."
+        ]
+      },
+      {
+        "h": "Director Shashaank Khaitaan's Track Record with New Pairings",
+        "p": [
+          "Shashaank Khaitaan has built a stellar reputation over the years for discovering and launching fresh on-screen chemistry. His past directorial ventures have successfully introduced and cemented new pairings in the hearts of moviegoers.",
+          "Notable examples of his eye for talent include bringing together Varun Dhawan and Alia Bhatt in Badrinath Ki Dulhania, as well as pairing Janhvi Kapoor and Ishaan Khatter in Dhadak. With his latest project, he applies this same creative instinct to a brand-new generation of performers."
+        ]
+      },
+      {
+        "h": "Plot Hints and Tone of the Film",
+        "p": [
+          "While full plot details remain under wraps, the official promotional poster and video teaser indicate that the story goes far beyond a conventional romance. The narrative is constructed to take an intense and highly unpredictable turn.",
+          "This thematic shift leaves viewers curious about the darker elements lurking beneath the surface of the central love story, promising a multi-layered cinematic experience."
+        ]
+      },
+      {
+        "h": "Production Backing and 214 Entertainment",
+        "p": [
+          "Aisi Deewangi Dekhi Nahi Kahin carries immense significance behind the scenes as it marks an important milestone for 214 Entertainment. The newly launched production banner is founded by Shashaank Khaitaan alongside Amit Chandrra and Nalini Datta Khaitaan.",
+          "In addition to the aforementioned founders, the film's production team also includes co-producer Karishma Thakker, bringing together a dedicated collaborative force to steer the project."
+        ]
+      },
+      {
+        "h": "Release Date and Distribution Plans",
+        "p": [
+          "Fans eagerly anticipating the project will not have to wait too much longer, as the makers have locked in a concrete theatrical release date. The revenge love story is officially scheduled to open in cinemas on July 9, 2027.",
+          "Written and directed entirely by Shashaank Khaitaan, the film aims for a grand theatrical arrival during the summer release window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Shashaank Khaitaan has announced his upcoming revenge love story titled Aisi Deewangi Dekhi Nahi Kahin, which will feature debut actors Subhaan and Airah in the lead roles. Produced under the newly launched banner 214 Entertainment, the film is scheduled to hit theaters on July 9, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Shashaank Khaitaan is the writer and director of Aisi Deewangi Dekhi Nahi Kahin.",
+      "Subhaan and Airah are debut actors starring in the film.",
+      "The film is scheduled to release in cinemas on July 9, 2027.",
+      "The producers of the film are Amit Chandrra, Nalini Datta Khaitaan, Karishma Thakker, and Shashaank Khaitaan.",
+      "The film is backed by the newly launched production banner 214 Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Shashaank Khaitaan",
+        "Subhaan",
+        "Airah",
+        "Varun Dhawan",
+        "Alia Bhatt",
+        "Janhvi Kapoor",
+        "Ishaan Khatter",
+        "Amit Chandrra",
+        "Nalini Datta Khaitaan",
+        "Karishma Thakker"
+      ],
+      "titles": [
+        "Aisi Deewangi Dekhi Nahi Kahin",
+        "Badrinath Ki Dulhania",
+        "Dhadak"
+      ]
+    },
+    "keywords": [
+      "Aisi Deewangi Dekhi Nahi Kahin",
+      "Shashaank Khaitaan",
+      "Subhaan Airah debut film",
+      "Aisi Deewangi Dekhi Nahi Kahin release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Shashaank-Khaitaans-Aisi-Deewangi-Dekhi-Nahi-Kahin-Starring-Debut-Actors-Subhaan-And-Airah-To-Release-On-July-9-2027.jpg",
+        "caption": "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 06:12:49 +0000"
+  },
+  "1qeb00i": {
+    "id": "1qeb00i",
+    "type": "news",
+    "headline": "Panchayat Season 5 Gets Official December Release Date on Prime Video",
+    "dek": "The acclaimed comedy-drama Panchayat returns for its milestone fifth season on Prime Video, featuring a major leadership change in the village of Phulera.",
+    "body": [
+      {
+        "h": "Release Date and Streaming Details",
+        "p": [
+          "Prime Video has officially scheduled the global premiere of Panchayat Season 5 for December 3. The hit Hindi comedy-drama will be accessible to viewers across India and in more than 240 countries and territories worldwide.",
+          "Produced by The Viral Fever, the series continues its exclusive run on the streaming service. The upcoming episodes bring back the familiar rural setting and the ensemble cast that audiences have followed across previous years."
+        ]
+      },
+      {
+        "h": "Leadership Shift in Phulera",
+        "p": [
+          "The fifth installment introduces a significant political shakeup in the fictional village of Phulera. Power has shifted, with Banrakas stepping in as the new Pradhanpati.",
+          "Residents are left wondering whether his new position will bring actual transformation to the community or if his promises are merely political stunts. His ascent disrupts long-standing dynamics and alters local loyalties."
+        ]
+      },
+      {
+        "h": "Returning Cast and Creative Team",
+        "p": [
+          "Viewers will see the return of favorite characters alongside the central protagonist, Sachivji. The returning ensemble features Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sunita Rajwar, Faizal Malik, Chandan Roy, Sanvikaa, Durgesh Kumar, and Ashok Pathak.",
+          "Behind the camera, Deepak Kumar Mishra serves as director. He created the series alongside Chandan Kumar and Arunabh Kumar."
+        ]
+      },
+      {
+        "h": "Milestone Achievement for Indian OTT",
+        "p": [
+          "Executives from both Prime Video and production company TVF highlighted the significance of reaching a fifth season. Manish Menghani, director and head of SVOD content acquisition at Prime Video India, noted that the series has become deeply embedded in viewers' lives over time.",
+          "Vijay Koshy, president of TVF, pointed out that Panchayat stands as one of only two Indian streaming shows to reach a fifth season, attributing this success to the support of Prime Video and the audience's love for simple, honest storytelling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has announced that Season 5 of the Hindi comedy-drama Panchayat will premiere worldwide on December 3. The new season shifts village leadership to Banrakas, bringing back the core cast and creative team for another installment on the platform."
+        ]
+      }
+    ],
+    "facts": [
+      "Panchayat Season 5 premieres globally on Prime Video on December 3.",
+      "The series is produced by The Viral Fever.",
+      "Deepak Kumar Mishra directed the new installment and created the show with Chandan Kumar and Arunabh Kumar.",
+      "Returning cast members include Jitendra Kumar, Raghubir Yadav, Neena Gupta, Sunita Rajwar, Faizal Malik, Chandan Roy, Sanvikaa, Durgesh Kumar, and Ashok Pathak.",
+      "Banrakas becomes Phulera's new Pradhanpati in Season 5.",
+      "Panchayat is one of only two Indian shows on OTT to reach its fifth season."
+    ],
+    "entities": {
+      "people": [
+        "Naman Ramachandran",
+        "Deepak Kumar Mishra",
+        "Chandan Kumar",
+        "Arunabh Kumar",
+        "Jitendra Kumar",
+        "Raghubir Yadav",
+        "Neena Gupta",
+        "Sunita Rajwar",
+        "Faizal Malik",
+        "Chandan Roy",
+        "Sanvikaa",
+        "Durgesh Kumar",
+        "Ashok Pathak",
+        "Manish Menghani",
+        "Vijay Koshy"
+      ],
+      "titles": [
+        "Panchayat",
+        "Dune: Prophecy",
+        "Tunnel Men",
+        "The Age of Bhaarat"
+      ]
+    },
+    "keywords": [
+      "Panchayat Season 5",
+      "Prime Video Panchayat",
+      "The Viral Fever Panchayat",
+      "Phulera village Panchayat",
+      "Jitendra Kumar Panchayat"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Panchayat-season-5.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Panchayat Season 5 Gets Official December Release Date on Prime Video",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 06:25:00 +0000"
   }
 };
