@@ -185111,5 +185111,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T21:33:11Z"
+  },
+  "1hjnoy7": {
+    "id": "1hjnoy7",
+    "type": "news",
+    "headline": "Avengers Doomsday Crosses Rs 10 Crore in Advance Bookings With Record-Breaking Demand",
+    "dek": "Marvel Studios' upcoming blockbuster Avengers Doomsday has crossed Rs 10 crore in opening-day advance sales within 19 hours, driven by Robert Downey Jr's return and soaring ticket prices.",
+    "body": [
+      {
+        "h": "Phenomenal Early Response",
+        "p": [
+          "Marvel Studios is witnessing unprecedented demand for its next major superhero spectacle as advance bookings for Avengers Doomsday officially open across India. The film has managed to cross the Rs 10 crore mark in opening-day gross collections within a remarkably short span of roughly 19 hours.",
+          "Trade tracking estimates from Sacnilk indicate that approximately one lakh tickets have already been snapped up across major national multiplex chains including PVR, INOX, and Cinepolis. This explosive start highlights the immense anticipation surrounding the upcoming theatrical release."
+        ]
+      },
+      {
+        "h": "The Robert Downey Jr Factor",
+        "p": [
+          "A primary driver behind this massive early rush is the highly publicized return of Robert Downey Jr to the Marvel Cinematic Universe. Having previously anchored the franchise as Iron Man, the celebrated actor is set to make a dramatic comeback in this instalment playing the iconic antagonist Doctor Doom.",
+          "Fans have eagerly rushed to secure their seats nearly a month before the film hits the big screen, underlining the enduring appeal of the actor and his pivotal new role within the overarching superhero narrative."
+        ]
+      },
+      {
+        "h": "Staggering Ticket Prices in Navi Mumbai",
+        "p": [
+          "Beyond the sheer volume of sales, individual ticket pricing has become a major talking point for this release. A premium ticket for a 4DX 3D screening at Cinepolis Seawoods in Nerul, Navi Mumbai, has reportedly reached a staggering Rs 4,200.",
+          "When factoring in additional convenience and booking fees, the final checkout price climbs to approximately Rs 4,300. This places it among the highest individual movie ticket prices ever reported for a cinematic release in the country."
+        ]
+      },
+      {
+        "h": "Surpassing Past Marvel Milestones",
+        "p": [
+          "The early sales figures place Avengers Doomsday well ahead of several previous Marvel blockbusters during their respective opening 24-hour advance booking windows. Sacnilk data reveals that the new film has outperformed the initial day-one paces of earlier entries such as Avengers: Endgame, Spider-Man: No Way Home, and Avengers: Infinity War.",
+          "While historical comparisons are complex due to Doomsday launching its ticket window approximately 30 days prior to its premiere—a much longer runway than many of its predecessors—the early momentum remains a clear testament to audience enthusiasm."
+        ]
+      },
+      {
+        "h": "BookMyShow Records High Hourly Velocity",
+        "p": [
+          "Digital ticketing platform BookMyShow has also registered tremendous activity since bookings went live. The platform surpassed the milestone of one lakh tickets sold for the feature within its first 24 hours of availability.",
+          "During peak periods of the rollout, the booking rush reportedly exceeded 10,000 tickets sold every single hour. Although these numbers do not yet match the historic multi-million benchmark set by Avengers: Endgame in 2019, the extended advance booking window has created a unique trajectory for the title."
+        ]
+      },
+      {
+        "h": "Theatrical Schedule and Context",
+        "p": [
+          "Avengers Doomsday is officially scheduled to arrive in cinemas on December 17. The early ticket sales provide a fascinating window into how much fans are willing to spend for premium formats like midnight 4DX 3D screenings.",
+          "The stratospheric pricing and rapid sales velocity have drawn parallel discussions alongside high-profile premium screenings of other notable theatrical releases, emphasizing a growing trend of audiences paying top dollar for immediate big-screen experiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios' upcoming feature Avengers Doomsday has grossed over Rs 10 crore in advance bookings within 19 hours of opening in India. Headlined by Robert Downey Jr as Doctor Doom, the movie has sold nearly one lakh tickets across national chains while recording individual ticket prices as high as Rs 4,300 for 4DX 3D screenings ahead of its December 17 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday crossed Rs 10 crore in opening-day advance bookings within 19 hours.",
+      "Approximately one lakh tickets were sold across PVR, INOX, and Cinepolis.",
+      "The film is scheduled to arrive in cinemas on December 17.",
+      "Robert Downey Jr returns to the MCU as Doctor Doom.",
+      "A ticket at Cinepolis Seawoods in Nerul, Navi Mumbai reached Rs 4,200, climbing to Rs 4,300 with booking charges for a 4DX 3D screening.",
+      "Avengers: Endgame recorded an advance gross of Rs 8.27 crore during its first 24 hours.",
+      "Spider-Man: No Way Home recorded an advance gross of Rs 6.56 crore during its first 24 hours.",
+      "Avengers: Infinity War recorded an advance gross of Rs 5.02 crore during its first 24 hours."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr"
+      ],
+      "titles": [
+        "Avengers Doomsday",
+        "Avengers: Endgame",
+        "Spider-Man: No Way Home",
+        "Avengers: Infinity War",
+        "Oppenheimer",
+        "Ramayana",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday advance booking",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday tickets price",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156530546,thumbsize-293826,width-1280,height-720,resizemode-75/156530546.jpg",
+        "caption": "Avengers Doomsday Crosses Rs 10 Crore in Advance Bookings With Record-Breaking Demand",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T22:52:34Z"
+  },
+  "11136j5": {
+    "id": "11136j5",
+    "type": "news",
+    "headline": "Ramayana Hits Rs 1500 Crore Worldwide Box Office Milestone on Day 14",
+    "dek": "The Nitesh Tiwari directorial starring Ranbir Kapoor and Sai Pallavi enters the elite club of the highest-earning Indian movies globally within two weeks of release.",
+    "body": [
+      {
+        "h": "The Major Global Milestone",
+        "p": [
+          "The mythological epic Ramayana has achieved a massive milestone by crossing the Rs 1500 crore threshold globally. This feat was accomplished within just fourteen days of its theatrical distribution.",
+          "Directed by Nitesh Tiwari, the movie has sustained an exceptionally powerful performance across both domestic and international territories."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Day 14 Performance",
+        "p": [
+          "Based on figures reported by Sacnilk, the feature brought in Rs 23.20 crore net across India on its fourteenth day. This single-day total came from a massive count of 22,263 shows nationwide.",
+          "The latest numbers elevate the overall domestic net earnings of the film to Rs 844.40 crore. Meanwhile, the cumulative gross collections within India have climbed to Rs 1009.05 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown on Second Thursday",
+        "p": [
+          "The Hindi version remained the strongest engine for ticket sales on the second Thursday, contributing Rs 16.50 crore from 17,638 shows.",
+          "Regional versions also added steady numbers, with Malayalam bringing in Rs 2.15 crore, Kannada adding Rs 1.65 crore, Tamil earning Rs 1.60 crore, and Telugu contributing Rs 1.30 crore."
+        ]
+      },
+      {
+        "h": "International Box Office Contribution",
+        "p": [
+          "Overseas markets continued to be a vital pillar for the cinematic venture, adding another Rs 8 crore gross on Day 14 alone.",
+          "This pushed the total international gross collection of the movie to a formidable Rs 510 crore, complementing its domestic figures to establish the grand worldwide sum."
+        ]
+      },
+      {
+        "h": "Placing Among the All-Time Highest Grossers",
+        "p": [
+          "With a cumulative worldwide gross reaching Rs 1519.05 crore and counting, Ramayana has officially become the fifth Indian film ever to cross the Rs 1500 crore mark.",
+          "It joins an elite group led by Aamir Khan's Dangal, followed by Dhurandhar: The Revenge, Baahubali 2: The Conclusion, and Pushpa 2: The Rule."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "The feature boasts a prominent cast featuring Ranbir Kapoor portraying Lord Ram, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman.",
+          "Helmed by Nitesh Tiwari and backed by producer Namit Malhotra, the grand project stands out as one of the prominent cinematic events of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mythological film Ramayana has crossed Rs 1500 crore worldwide within 14 days, becoming the fifth Indian movie to achieve this milestone. Starring Ranbir Kapoor and Sai Pallavi under Nitesh Tiwari's direction, the project continues a strong theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs 1500 crore worldwide within 14 days of release.",
+      "Day 14 net collection in India was Rs 23.20 crore.",
+      "Total domestic net collection reached Rs 844.40 crore.",
+      "India gross collection stands at Rs 1009.05 crore.",
+      "Hindi version collected Rs 16.50 crore on Day 14.",
+      "Malayalam version collected Rs 2.15 crore on Day 14.",
+      "Kannada version added Rs 1.65 crore on Day 14.",
+      "Tamil version collected Rs 1.60 crore on Day 14.",
+      "Telugu version earned Rs 1.30 crore on Day 14.",
+      "International gross collection reached Rs 510 crore.",
+      "Total worldwide gross collection reached Rs 1519.05 crore.",
+      "Dangal leads with Rs 2070.30 crore.",
+      "Dhurandhar: The Revenge collected Rs 1813.39 crore.",
+      "Baahubali 2: The Conclusion stands at Rs 1788.06 crore.",
+      "Pushpa 2: The Rule stands at Rs 1742.10 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Aamir Khan",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Dhurandhar: The Revenge",
+        "Baahubali 2: The Conclusion",
+        "Pushpa 2: The Rule"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Sai Pallavi",
+      "Ramayana box office",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156533200,thumbsize-132685,width-1280,height-720,resizemode-75/156533200.jpg",
+        "caption": "Ramayana Hits Rs 1500 Crore Worldwide Box Office Milestone on Day 14",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T22:52:34Z"
+  },
+  "15lpwuh": {
+    "id": "15lpwuh",
+    "type": "news",
+    "headline": "Samara Weaving and Kyle Gallner Star in Netflix Hit Carolina Caroline",
+    "dek": "Samara Weaving and Kyle Gallner lead Adam Carter Rehmeier's romantic crime thriller Carolina Caroline, which has quickly climbed into the Netflix Top 5.",
+    "body": [
+      {
+        "h": "A First-Time Onscreen Pairing",
+        "p": [
+          "Horror icons Samara Weaving and Kyle Gallner share the screen for the very first time in the romantic crime thriller Carolina Caroline. Directed by Adam Carter Rehmeier, the film has emerged as a surprising hit on streaming platforms.",
+          "The project brings together two notable genre stars who have carved out distinct paths in recent years, making their collaboration an unexpected treat for film enthusiasts."
+        ]
+      },
+      {
+        "h": "Streaming Success on Netflix",
+        "p": [
+          "Following its release, Carolina Caroline immediately launched into the Top 5 on Netflix. The film successfully held its competitive position against various holiday titles such as A Dog's Perfect Christmas.",
+          "It also stood out amid other fresh non-holiday releases, including Reminder of Him starring Maika Monroe and Tyriq Withers."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Written by William Thomas Dean IV, the story follows Caroline, played by Weaving, whose monotonous life working at a filling station changes entirely when Oliver, played by Gallner, walks in to buy a packet of peanuts.",
+          "Oliver is a charming conman specializing in tricking clerks into giving incorrect change. After Weaving catches on and confronts him outside, an instant and explosive connection sparks between them, blending romance and crime."
+        ]
+      },
+      {
+        "h": "Escalating Crimes and Romance",
+        "p": [
+          "As the romance between Caroline and Oliver deepens, their criminal activities grow progressively bolder and more reckless. Their strong emotional and physical attraction drives them to cover their tracks in increasingly risky ways.",
+          "Like many classic tales of outlaw romance, their journey eventually leads to mounting chaos and an impossible decision when tragedy looms on the horizon."
+        ]
+      },
+      {
+        "h": "Parallels to Bonnie and Clyde",
+        "p": [
+          "Carolina Caroline functions as an unofficial adaptation of the historical story of Bonnie Parker and Clyde Barrow. The real-life figures operated primarily in Texas and engaged in robbing small stores and banks before meeting a fateful end.",
+          "The film mirrors these elements by incorporating a Texas setting, bank robberies, high-rise hotel stays funded by stolen money, and an eventual shootout, while taking creative liberties for Hollywood storytelling."
+        ]
+      },
+      {
+        "h": "Broader Careers of the Lead Actors",
+        "p": [
+          "The release of Carolina Caroline aligns with a busy period for Samara Weaving, who has appeared in several other genre projects including Over Your Dead Body, Ready or Not 2: Here I Come, Azrael, Scream VI, and Eenie Meanie.",
+          "Meanwhile, Kyle Gallner previously collaborated with director Adam Carter Rehmeier on Dinner in America and saw his drama thriller Cotton Fever premiere at the Tribeca Festival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Samara Weaving and Kyle Gallner star in the romantic crime thriller Carolina Caroline, directed by Adam Carter Rehmeier and written by William Thomas Dean IV. The film has debuted strongly on Netflix, entering the platform's Top 5 while drawing inspiration from the real-life history of Bonnie and Clyde."
+        ]
+      }
+    ],
+    "facts": [
+      "Carolina Caroline stars Samara Weaving and Kyle Gallner.",
+      "The film is directed by Adam Carter Rehmeier.",
+      "The script was written by William Thomas Dean IV.",
+      "The movie launched into the Top 5 on Netflix.",
+      "Kyle Gallner previously worked with Adam Carter Rehmeier on Dinner in America."
+    ],
+    "entities": {
+      "people": [
+        "Samara Weaving",
+        "Kyle Gallner",
+        "Adam Carter Rehmeier",
+        "William Thomas Dean IV",
+        "Maika Monroe",
+        "Tyriq Withers",
+        "Daniel Blake Schwartz",
+        "Bonnie Parker",
+        "Clyde Barrow",
+        "Juan Silva"
+      ],
+      "titles": [
+        "Carolina Caroline",
+        "A Dog's Perfect Christmas",
+        "Reminder of Him",
+        "It Follows",
+        "Victorian Psycho",
+        "Him",
+        "Over Your Dead Body",
+        "Ready or Not 2: Here I Come",
+        "Azrael",
+        "Scream VI",
+        "Eenie Meanie",
+        "Cotton Fever",
+        "Dinner in America",
+        "Mr. and Mrs. Smith",
+        "Bound"
+      ]
+    },
+    "keywords": [
+      "Carolina Caroline film",
+      "Samara Weaving Carolina Caroline",
+      "Kyle Gallner Netflix",
+      "Adam Carter Rehmeier"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/kyle-gallner-and-samara-weaving-in-carolina-caroline.png?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Samara Weaving and Kyle Gallner Star in Netflix Hit Carolina Caroline",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 22:00:19 GMT"
+  },
+  "m7z1i6": {
+    "id": "m7z1i6",
+    "type": "news",
+    "headline": "Robert Pattinson's James Bond Deal and Audition Pay Revealed",
+    "dek": "The Hollywood star is reportedly lined up to lead the iconic spy franchise under a multi-million dollar agreement, following a high-stakes casting process.",
+    "body": [
+      {
+        "h": "The New Face of 007",
+        "p": [
+          "In a major casting development for Hollywood, Robert Pattinson has reportedly secured the iconic role of James Bond. Stepping into the shoes of the legendary British secret service agent, the actor emerged as a surprise wildcard contender.",
+          "Beating out intense competition from various other contenders, Pattinson managed to convince the decision-makers to hand him the keys to the long-running cinematic franchise."
+        ]
+      },
+      {
+        "h": "A Lucrative Three-Year Agreement",
+        "p": [
+          "Financial projections indicate that the star is looking at a monumental payday spanning a multi-year commitment. Industry figures suggest he has signed a three-year contract for the spy series.",
+          "Estimates place his total potential earnings for taking on the franchise between USD 76 million and USD 98 million, or roughly GBP 58 million to GBP 75 million."
+        ]
+      },
+      {
+        "h": "Massive Payday Before Filming Begins",
+        "p": [
+          "The financial rewards for the actor began well before he officially signed on the dotted line or stepped in front of the primary cameras. Reports indicate that he received a significant compensation sum purely for trying out for the part.",
+          "According to details emerging from media publications, the actor was paid USD 1 million just to participate in the formal audition process for the character."
+        ]
+      },
+      {
+        "h": "Shifting Away from Unknowns",
+        "p": [
+          "Historically, the espionage franchise has preferred to select relatively lesser-known actors to portray the suave spy. However, producers were willing to make a notable exception in this case.",
+          "Despite his already massive global fame stemming from previous blockbuster roles, the studio opted to offer Pattinson a substantially higher salary to anchor the new era of films."
+        ]
+      },
+      {
+        "h": "Influence of High-Profile Supporters",
+        "p": [
+          "The casting decision also received a surprising and powerful push from figures outside the traditional studio hierarchy. Reports indicate that Lauren Sanchez played a notable role in championing the actor.",
+          "After Amazon founder Jeff Bezos shared a copy of the audition tapes, Sanchez was reportedly captivated by the screen test, favoring the actor because she found his performance striking and compelling."
+        ]
+      },
+      {
+        "h": "Behind the Casting Room Doors",
+        "p": [
+          "Jeff Bezos himself acknowledged being heavily involved in the evaluation process. He admitted that leadership was initially biased against casting someone who was already so globally recognizable.",
+          "Despite early reservations about choosing a major star over an unknown talent, Bezos noted that watching the screening test made the right choice undeniably clear."
+        ]
+      },
+      {
+        "h": "Direct Communication from the Director",
+        "p": [
+          "The momentous news of landing the coveted role was delivered to the actor directly by a high-profile filmmaker. According to industry reports, director Denis Villeneuve personally informed him of his selection.",
+          "The actor and filmmaker share a professional history, having previously collaborated on a major project slated for release in December."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson has been selected to play James Bond, securing a multi-year deal worth up to USD 100 million after receiving a USD 1 million payout just to audition. The casting decision overcame initial hesitation regarding his fame, backed by high-profile support and finalized through direct communication from director Denis Villeneuve."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson is set to play the new James Bond.",
+      "Pattinson could earn close to USD 100 million for the saga.",
+      "He was paid USD 1 million just to audition for 007.",
+      "He signed a three-year deal estimated between USD 76 million and USD 98 million.",
+      "Lauren Sanchez was reportedly impressed by his audition tapes shared by Jeff Bezos.",
+      "Jeff Bezos admitted initial bias against casting someone so famous.",
+      "Denis Villeneuve personally informed Pattinson about landing the Bond role."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Lauren Sanchez",
+        "Jeff Bezos",
+        "Denis Villeneuve"
+      ],
+      "titles": [
+        "James Bond",
+        "007",
+        "Dune: Part 3"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Robert Pattinson USD 100 million salary",
+      "James Bond audition payment",
+      "Denis Villeneuve Robert Pattinson Bond"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135971969,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Robert Pattinson's James Bond Deal and Audition Pay Revealed",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T03:31:29+05:30"
   }
 };
