@@ -182888,5 +182888,173 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 15:35:14 +0000"
+  },
+  "esaykc": {
+    "id": "esaykc",
+    "type": "news",
+    "headline": "Khushi Episode 67 — Watch Online on HUM TV",
+    "dek": "Khushi episode 67 aired on 2026-11-18 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 67 aired on 2026-11-18 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=d7Rl4D26jJ4"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 67 aired on 2026-11-18.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=d7Rl4D26jJ4",
+      "YouTube views: 310,029."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/d7Rl4D26jJ4/hqdefault.jpg",
+        "caption": "Khushi Episode 67",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-18T15:00:06Z"
+  },
+  "hjyxxz": {
+    "id": "hjyxxz",
+    "type": "news",
+    "headline": "Uswah Episode 56 — Watch Online on Geo TV",
+    "dek": "Uswah episode 56 aired on 2026-11-18 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 56 aired on 2026-11-18 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=ZMsOyXB0mzM"
+        ]
+      },
+      {
+        "h": "About Uswah",
+        "p": [
+          "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 56 aired on 2026-11-18.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=ZMsOyXB0mzM",
+      "YouTube views: 947,887.",
+      "TMDB: Uswah (id 336291)."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": [
+        "Omer Shahzad",
+        "Sania Shamshad",
+        "Haroon Shahid",
+        "Ammara Malik"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ZMsOyXB0mzM/hqdefault.jpg",
+        "caption": "Uswah Episode 56",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-18T15:00:04Z"
+  },
+  "gxwjs6": {
+    "id": "gxwjs6",
+    "type": "news",
+    "headline": "Khafa Episode 30 Brings Fresh Drama and Surprises on Har Pal Geo",
+    "dek": "A closer look at the latest developments in the popular Pakistani television series Khafa, featuring main cast members Mikaal Zulfiqar, Hira Mani, and Saif Ali Khan.",
+    "body": [
+      {
+        "h": "Introduction to the Latest Episode",
+        "p": [
+          "The television landscape has been buzzing with excitement following the rollout of the thirtieth chapter of the popular serial Khafa. Viewers tuned in eagerly to see how the complex relationships and ongoing conflicts would unfold. Broadcast through Har Pal Geo, the series continues to draw substantial attention from audiences looking for high-stakes emotional storytelling.",
+          "As the narrative progresses, the plot thickens with unexpected turns that leave fans anticipating what might happen next. The mid-November release date has marked another milestone for the program as it sustains its steady viewership and viewer engagement across multiple streaming platforms."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Core Plot",
+        "p": [
+          "At the center of the story is Tazeen, a dedicated educator who shoulders the responsibility of raising her brothers and sisters following her father's passing. Known for her selflessness and independent spirit, she constantly sets aside her own desires to provide for her household.",
+          "On the other side of the spectrum is Mohtashim, the son of Raza. Born into an affluent environment, he faces severe mistreatment from his stepmother Shehla and Rayan. Despite his luxurious background, Mohtashim prefers a modest and humble existence over the trappings of wealth."
+        ]
+      },
+      {
+        "h": "Turning Points and Major Conflict",
+        "p": [
+          "The storyline takes a sharp turn when Tazeen confronts a wrongful accusation of theft. This devastating incident causes her to lose the trust of her own relatives as well as the affection of the man she loves.",
+          "Seeking to shield her from further harm, Mohtashim steps forward to marry her. However, this union sparks intense jealousy in Rayan, who harbors a secret romantic attachment to Tazeen. Driven by bitter vengeance, Rayan sets a dangerous plan into motion."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "The serial boasts a prominent ensemble cast that brings depth to the intense narrative. Lead performances by Mikaal Zulfiqar and Hira Mani anchor the emotional weight of the production, portraying the trials and tribulations of the central figures.",
+          "Additional performances by Saif Ali Khan further enrich the viewing experience. The chemistry and tension among the actors have been widely discussed by fans across digital spaces and social media commentary groups."
+        ]
+      },
+      {
+        "h": "Audience Reception and Reach",
+        "p": [
+          "Since its premiere earlier in the year, the show has cultivated a loyal following. Digital uploads of recaps and full episodes routinely pull in tens of thousands of views within hours of going live on video sharing networks.",
+          "Broadcasters have also highlighted the expanding availability of the network in international markets, allowing viewers in regions like the United States to keep up with their favorite serials without missing a beat."
+        ]
+      },
+      {
+        "h": "Looking Ahead in the Narrative",
+        "p": [
+          "With betrayal, hidden secrets, and sudden plot twists dominating the screen, the trajectory of the characters remains uncertain. Fans are left wondering how the fallout from recent events will impact the core relationships.",
+          "As upcoming chapters approach, the central question for followers is whether destiny will ultimately favor the main characters or if further tragedies await them in the episodes to come."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The thirtieth episode of Khafa aired on Har Pal Geo, continuing the dramatic saga of Tazeen and Mohtashim. Featuring performances by Mikaal Zulfiqar, Hira Mani, and Saif Ali Khan, the series explores themes of sacrifice, wrongful accusations, and vengeance."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 30 of Khafa was released on 18th November 2026.",
+      "The series is broadcast by Har Pal Geo.",
+      "The cast includes Mikaal Zulfiqar, Hira Mani, and Saif Ali Khan.",
+      "Tazeen is a schoolteacher who takes care of her siblings after her father's death.",
+      "Mohtashim is the son of Raza and is mistreated by his stepmother Shehla and Rayan."
+    ],
+    "entities": {
+      "people": [
+        "Mikaal Zulfiqar",
+        "Hira Mani",
+        "Saif Ali Khan",
+        "Tazeen",
+        "Mohtashim",
+        "Raza",
+        "Shehla",
+        "Rayan"
+      ],
+      "titles": [
+        "Khafa"
+      ]
+    },
+    "keywords": [
+      "Khafa Episode 30",
+      "Mikaal Zulfiqar Khafa",
+      "Hira Mani Khafa",
+      "Har Pal Geo Khafa"
+    ],
+    "images": [],
+    "published": "2026-11-18T15:15:33+00:00"
   }
 };

@@ -155,6 +155,80 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 15:16:11 +0000"
   },
+  "gxwjs6": {
+    "id": "gxwjs6",
+    "type": "news",
+    "headline": "Khafa Episode 30 Brings Fresh Drama and Surprises on Har Pal Geo",
+    "dek": "A closer look at the latest developments in the popular Pakistani television series Khafa, featuring main cast members Mikaal Zulfiqar, Hira Mani, and Saif Ali Khan.",
+    "entities": {
+      "people": [
+        "Mikaal Zulfiqar",
+        "Hira Mani",
+        "Saif Ali Khan",
+        "Tazeen",
+        "Mohtashim",
+        "Raza",
+        "Shehla",
+        "Rayan"
+      ],
+      "titles": [
+        "Khafa"
+      ]
+    },
+    "keywords": [
+      "Khafa Episode 30",
+      "Mikaal Zulfiqar Khafa",
+      "Hira Mani Khafa",
+      "Har Pal Geo Khafa"
+    ],
+    "images": [],
+    "published": "2026-11-18T15:15:33+00:00"
+  },
+  "esaykc": {
+    "id": "esaykc",
+    "type": "news",
+    "headline": "Khushi Episode 67 — Watch Online on HUM TV",
+    "dek": "Khushi episode 67 aired on 2026-11-18 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/d7Rl4D26jJ4/hqdefault.jpg",
+        "caption": "Khushi Episode 67",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-18T15:00:06Z"
+  },
+  "hjyxxz": {
+    "id": "hjyxxz",
+    "type": "news",
+    "headline": "Uswah Episode 56 — Watch Online on Geo TV",
+    "dek": "Uswah episode 56 aired on 2026-11-18 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": [
+        "Omer Shahzad",
+        "Sania Shamshad",
+        "Haroon Shahid",
+        "Ammara Malik"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ZMsOyXB0mzM/hqdefault.jpg",
+        "caption": "Uswah Episode 56",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-18T15:00:04Z"
+  },
   "17dbjp4": {
     "id": "17dbjp4",
     "type": "news",
@@ -4740,109 +4814,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 11:30:12 GMT"
   },
-  "1m2cvzd": {
-    "id": "1m2cvzd",
-    "type": "news",
-    "headline": "Street Fighter Reaches Major Global Milestone After Completing One Month in Cinemas",
-    "dek": "The Hollywood video game adaptation crosses the coveted $100 million mark worldwide, officially becoming the highest-grossing installment in its cinematic franchise.",
-    "entities": {
-      "people": [
-        "Noah Centineo",
-        "Jason Momoa",
-        "Vidyut Jammwal"
-      ],
-      "titles": [
-        "Street Fighter"
-      ]
-    },
-    "keywords": [
-      "Street Fighter box office",
-      "Street Fighter 100 million",
-      "Street Fighter franchise top spot",
-      "Street Fighter movie break even"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/street-fighter-worldwide-box-office-beats-og-film-to-claim-top-spot-in-franchise-001.jpg",
-        "caption": "Street Fighter Reaches Major Global Milestone After Completing One Month in Cinemas",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 11:15:28 +0000"
-  },
-  "icm4pr": {
-    "id": "icm4pr",
-    "type": "news",
-    "headline": "Avengers Doomsday Pre-Sales Shatter Records in India With Midnight Screenings and Record-Breaking Ticket Prices",
-    "dek": "Marvel enthusiasts in India are witnessing unprecedented ticket pricing and early access as Avengers Doomsday sets a new benchmark for advance bookings and theater rates.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Chris Hemsworth"
-      ],
-      "titles": [
-        "Avengers Doomsday",
-        "Ramayana",
-        "Oppenheimer",
-        "The Odyssey"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday tickets price in India",
-      "Avengers Doomsday Navi Mumbai",
-      "Robert Downey Jr"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-17t164337-385-59901794914024.jpg",
-        "caption": "Avengers Doomsday Pre-Sales Shatter Records in India With Midnight Screenings and Record-Breaking Ticket Prices",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 16:44:07 +0530"
-  },
-  "1dmxnp4": {
-    "id": "1dmxnp4",
-    "type": "news",
-    "headline": "Spider-Man: Brand New Day Returning to Theatres with Extended Cut",
-    "dek": "The blockbuster superhero film is heading back to cinemas on December 4 featuring an extended cut, fresh scenes, and additional surprises.",
-    "entities": {
-      "people": [
-        "Soumyabrata Gupta",
-        "Destin Daniel Cretton",
-        "Tom Holland",
-        "Zendaya",
-        "Jacob Batalon",
-        "Sadie Sink",
-        "Jon Bernthal",
-        "Mark Ruffalo",
-        "Michael Mando",
-        "Tramell Tillman"
-      ],
-      "titles": [
-        "Spider-Man: Brand New Day",
-        "Avatar",
-        "Avengers: Endgame",
-        "Spider-Man: No Way Home"
-      ]
-    },
-    "keywords": [
-      "Spider-Man Brand New Day",
-      "Tom Holland Spider-Man extended cut",
-      "Spider-Man Brand New Day December 4",
-      "Destin Daniel Cretton movie"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156522692,thumbsize-153059,width-1280,height-720,resizemode-75/156522692.jpg",
-        "caption": "Spider-Man: Brand New Day Returning to Theatres with Extended Cut",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-17T10:53:26Z"
-  },
   "7spr66": {
     "id": "7spr66",
     "type": "news",
@@ -5043,6 +5014,74 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 16 Nov 2026 09:43:48 +0200"
+  },
+  "ysh6sy": {
+    "id": "ysh6sy",
+    "type": "news",
+    "headline": "Kevin Feige Explains Why Bringing Original X-Men Into 'Avengers: Doomsday' Felt Right",
+    "dek": "Marvel Studios president Kevin Feige discusses celebrating a quarter-century of Marvel storytelling by integrating classic characters from the 2000s X-Men universe into the upcoming Avengers film.",
+    "entities": {
+      "people": [
+        "Kevin Feige",
+        "James Marsden",
+        "Rebecca Romijn",
+        "Hugh Jackman",
+        "Ryan Reynolds",
+        "Patrick Stewart"
+      ],
+      "titles": [
+        "X-Men",
+        "Avengers: Doomsday",
+        "Deadpool and Wolverine"
+      ]
+    },
+    "keywords": [
+      "Kevin Feige X-Men",
+      "Avengers Doomsday",
+      "Patrick Stewart Professor X",
+      "Ryan Reynolds Hugh Jackman Doomsday writing"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/MSDXMEN_EC006.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Kevin Feige Explains Why Bringing Original X-Men Into 'Avengers: Doomsday' Felt Right",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:10:01 +0000"
+  },
+  "1x37hn2": {
+    "id": "1x37hn2",
+    "type": "news",
+    "headline": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
+    "dek": "Host Salman Khan intervened on the latest Weekend Ka Vaar episode to call out Qazi Touqeer over his conduct toward Manish Goel, emphasizing the importance of setting boundaries inside the house.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Manish Goel",
+        "Qazi Touqeer",
+        "Mahhi Vij"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Balika Vadhu"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Salman Khan",
+      "Manish Goel",
+      "Qazi Touqeer",
+      "Mahhi Vij"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/manishgoelqazitouqeerbiggboss20writtenupdate-27771794772419.jpg",
+        "caption": "Salman Khan Steps In During Bigg Boss 20 Weekend Ka Vaar to Address Qazi Touqeer and Manish Goel Clash",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 01:29:37 +0530"
   },
   "eh6qc3": {
     "id": "eh6qc3",
@@ -5668,51 +5707,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-13T14:45:17Z"
-  },
-  "8c197r": {
-    "id": "8c197r",
-    "type": "news",
-    "headline": "Lagan Lagi Episode 16 — Watch Online on ARY Digital",
-    "dek": "Lagan Lagi episode 16 aired on 2026-11-12 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Lagan Lagi"
-      ],
-      "people": [
-        "Hina Chaudhary",
-        "Saad Qureshi",
-        "Haris Waheed",
-        "Jaweria Ali",
-        "Hamza Majeed Khan"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/e6PWhETh-3g/hqdefault.jpg",
-        "caption": "Lagan Lagi Episode 16",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-12T17:00:27Z"
-  },
-  "lzaf9b": {
-    "id": "lzaf9b",
-    "type": "news",
-    "headline": "Bano Episode 29 — Watch Online on Geo TV",
-    "dek": "Bano episode 29 aired on 2026-11-12 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Bano"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/LMtKOtqvmxM/hqdefault.jpg",
-        "caption": "Bano Episode 29",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-12T17:00:22Z"
   }
 };
