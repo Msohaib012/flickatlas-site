@@ -45,6 +45,80 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 16:23:34 +0200"
   },
+  "1qj2t4r": {
+    "id": "1qj2t4r",
+    "type": "news",
+    "headline": "Pakistani Drama Character Abu Bakr Sparks Viral Discussion Across India",
+    "dek": "A character from the Pakistani television serial Dar-e-Nijaat has become a viral sensation online, prompting discussions on how viewers perceive relationship dynamics compared to aggressive cinematic tropes.",
+    "entities": {
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Neha Farheen"
+      ],
+      "titles": [
+        "Dar-e-Nijaat",
+        "Kabir Singh",
+        "Animal",
+        "Pushpa"
+      ]
+    },
+    "keywords": [
+      "Dar-e-Nijaat",
+      "Abu Bakr",
+      "Sheheryar Munawar Siddiqui",
+      "pakistani serial dar e nijaat"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc7e52a1d57-abu-bakr-171825223-16x9.jpg",
+        "caption": "Pakistani Drama Character Abu Bakr Sparks Viral Discussion Across India",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T13:44:36Z"
+  },
+  "iorufh": {
+    "id": "iorufh",
+    "type": "news",
+    "headline": "BBC Unveils Festive Trailer for The Other Bennet Sister Christmas Special",
+    "dek": "Mary Bennet returns for a three-part holiday special on BBC One and iPlayer, exploring married life, new friendships, and period medicine.",
+    "entities": {
+      "people": [
+        "Ella Bruccoleri",
+        "Dónal Finn",
+        "Tanya Reynolds",
+        "Laurie Davidson",
+        "Ruth Jones",
+        "Varada Sethu",
+        "Janice Hadlow",
+        "Jane Austen"
+      ],
+      "titles": [
+        "The Other Bennet Sister",
+        "Pride and Prejudice",
+        "SAS Rogue Heroes",
+        "Sex Education",
+        "Ted Lasso",
+        "Gavin and Stacey",
+        "Doctor Who",
+        "Persuasion"
+      ]
+    },
+    "keywords": [
+      "The Other Bennet Sister",
+      "Ella Bruccoleri Mary Bennet",
+      "The Other Bennet Sister Christmas special",
+      "Dónal Finn Thomas Hayward"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/donal-finn-ella-bruccoleri-the-other-bennet-sister-693c3faecfb34.jpg?crop=0.348xw:0.262xh;0.213xw,0.178xh&amp;resize=1200:*",
+        "caption": "BBC Unveils Festive Trailer for The Other Bennet Sister Christmas Special",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 13:08:00 +0000"
+  },
   "1i0uqao": {
     "id": "1i0uqao",
     "type": "news",
@@ -94,6 +168,85 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-18T12:51:47Z"
+  },
+  "x90ytl": {
+    "id": "x90ytl",
+    "type": "news",
+    "headline": "Ramayana Hits Three Major Box Office Milestones Globally on Day 13",
+    "dek": "Director Nitesh Tiwari's mythological epic starring Ranbir Kapoor, Yash, and Sai Pallavi has crossed massive global earnings after thirteen days in cinemas.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Dhurandhar 2",
+        "Pushpa 2: The Rule",
+        "Baahubali 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana worldwide collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-worldwide-box-office-day-13-delivers-not-one-not-two-but-three-major-milestones-next-huge-target-218-crore-away-001.jpg",
+        "caption": "Ramayana Hits Three Major Box Office Milestones Globally on Day 13",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 12:37:37 +0000"
+  },
+  "b21n6q": {
+    "id": "b21n6q",
+    "type": "news",
+    "headline": "Trailer Released for Fantasy Drama Billy Knight Featuring Al Pacino and Charlie Heaton",
+    "dek": "Magenta Edge Films has officially launched the trailer for the upcoming fantasy drama Billy Knight, showcasing performances by Al Pacino and Charlie Heaton.",
+    "entities": {
+      "people": [
+        "Al Pacino",
+        "Charlie Heaton",
+        "Alec Griffen Roth",
+        "Diana Silvers",
+        "Patrick Schwarzenegger",
+        "Diplo",
+        "Rick Ross",
+        "Harry Jowsey",
+        "Angela Sarafyan",
+        "Sara Sampaio",
+        "Elsie Hewitt",
+        "Aleeha Rogers",
+        "Roberta Hanlan",
+        "Savannah Rodin",
+        "Amie Cranswick"
+      ],
+      "titles": [
+        "Billy Knight",
+        "Stranger Things"
+      ]
+    },
+    "keywords": [
+      "Billy Knight film",
+      "Al Pacino Billy Knight",
+      "Charlie Heaton Billy Knight",
+      "Alec Griffen Roth movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/Billy-Knight.jpg",
+        "caption": "Trailer Released for Fantasy Drama Billy Knight Featuring Al Pacino and Charlie Heaton",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 12:20:17 +0000"
   },
   "1i9herl": {
     "id": "1i9herl",
@@ -4714,174 +4867,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 08:35:00 +0000"
-  },
-  "1mvlpxj": {
-    "id": "1mvlpxj",
-    "type": "news",
-    "headline": "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
-    "dek": "Parent company RTL Group experiences financial lifts and streaming triumphs amid ongoing challenges in linear television advertising markets.",
-    "entities": {
-      "people": [
-        "Clement Schwebig"
-      ],
-      "titles": [
-        "Kill Jackie",
-        "America's Got Talent",
-        "Wonka's The Golden Ticket",
-        "Death of the Pastor's Wife",
-        "Minerva Academy",
-        "Baywatch"
-      ]
-    },
-    "keywords": [
-      "Fremantle revenue Q3",
-      "Kill Jackie series",
-      "RTL Group financial results",
-      "America's Got Talent Season 21"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/10/KillJackie_EP01_unitstill_260325_UM_02888.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Fremantle Reports Third-Quarter Revenue Growth Fueled by Thriller Series Kill Jackie",
-        "source": "Variety"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 07:20:28 +0000"
-  },
-  "16owyca": {
-    "id": "16owyca",
-    "type": "news",
-    "headline": "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
-    "dek": "DCU's horror film Clayface reaches a new milestone at the box office, surpassing the domestic lifetime total of Superman III.",
-    "entities": {
-      "people": [
-        "Tom Rhys Harries",
-        "Christopher Reeve",
-        "Nicholas Hoult"
-      ],
-      "titles": [
-        "Clayface",
-        "Superman 3",
-        "V for Vendetta",
-        "Supergirl",
-        "Wildwood",
-        "How To Rob A Bank",
-        "Everest"
-      ]
-    },
-    "keywords": [
-      "Clayface box office",
-      "Clayface Superman 3",
-      "Tom Rhys Harries Clayface",
-      "Clayface domestic total"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/clayface-north-america-box-office-beats-the-1983-film-superman-3-01.jpg",
-        "caption": "Clayface North America Box Office: Batman Villain Surpasses Superman 3",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 07:17:11 +0000"
-  },
-  "ltv81g": {
-    "id": "ltv81g",
-    "type": "news",
-    "headline": "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie",
-    "dek": "Following its premiere at the TCL Chinese Theater, critics and audiences shared enthusiastic first reactions to Brad Pitt's return as Cliff Booth in the Netflix pseudo-sequel.",
-    "entities": {
-      "people": [
-        "Brad Pitt",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Ted Sarandos",
-        "Elizabeth Debicki",
-        "Peter Weller",
-        "Trent",
-        "Atticus",
-        "Clayton Davis",
-        "Simon Thompson",
-        "Germain Lussier",
-        "Courtney Howard",
-        "Jazz Tangcay"
-      ],
-      "titles": [
-        "The Further Mis-Adventures of Cliff Booth",
-        "Once Upon a Time in Hollywood",
-        "Once Upon a Time…",
-        "Hershey",
-        "Spider-Man: Brand New Day",
-        "Edward Said: Between Worlds",
-        "14th",
-        "Club Kid",
-        "Ebenezer",
-        "Blue Film",
-        "Kill Jackie",
-        "Call Me Bae"
-      ]
-    },
-    "keywords": [
-      "The Further Mis-Adventures of Cliff Booth",
-      "Brad Pitt Cliff Booth",
-      "David Fincher movie",
-      "Quentin Tarantino Cliff Booth"
-    ],
-    "images": [
-      {
-        "url": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
-        "caption": "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie",
-        "source": "IndieWire"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 06:58:15 +0000"
-  },
-  "b7f451": {
-    "id": "b7f451",
-    "type": "news",
-    "headline": "Robert Pattinson Named as the Eighth Actor to Play James Bond",
-    "dek": "Robert Pattinson has officially been selected to take on the legendary role of 007, becoming the eighth actor to lead the storied spy franchise.",
-    "entities": {
-      "people": [
-        "Robert Pattinson",
-        "Sean Connery",
-        "Denis Villeneuve",
-        "Amy Pascal",
-        "David Heyman",
-        "Tanya",
-        "Callum Turner",
-        "Jack Lowden",
-        "Josh O’Connor",
-        "Nicholas Hoult",
-        "Idris Elba",
-        "Tom Hardy",
-        "Henry Cavill",
-        "David Niven",
-        "George Lazenby",
-        "Roger Moore",
-        "Timothy Dalton",
-        "Pierce Brosnan",
-        "Daniel Craig"
-      ],
-      "titles": [
-        "James Bond",
-        "Dr No",
-        "No Time to Die"
-      ]
-    },
-    "keywords": [
-      "Robert Pattinson James Bond",
-      "Denis Villeneuve 007",
-      "James Bond casting 2026",
-      "eighth actor to play James Bond"
-    ],
-    "images": [
-      {
-        "url": "https://images.indianexpress.com/2026/11/robert-pattinson-bond.jpg",
-        "caption": "Robert Pattinson Named as the Eighth Actor to Play James Bond",
-        "source": "Indian Express — Entertainment"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 06:44:00 +0000"
   },
   "196ll1": {
     "id": "196ll1",

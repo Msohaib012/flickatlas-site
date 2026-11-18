@@ -181700,5 +181700,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T12:51:47Z"
+  },
+  "x90ytl": {
+    "id": "x90ytl",
+    "type": "news",
+    "headline": "Ramayana Hits Three Major Box Office Milestones Globally on Day 13",
+    "dek": "Director Nitesh Tiwari's mythological epic starring Ranbir Kapoor, Yash, and Sai Pallavi has crossed massive global earnings after thirteen days in cinemas.",
+    "body": [
+      {
+        "h": "A Historic Run at the Global Box Office",
+        "p": [
+          "The worldwide theatrical run of director Nitesh Tiwari's grand cinematic venture has reached unprecedented heights. Thirteen days into its release, the feature has rewritten global box office records by accumulating an enormous worldwide gross.",
+          "Audiences around the globe have flocked to theaters to witness this massive mythological drama, driving its earnings to extraordinary levels and setting a new benchmark for contemporary releases."
+        ]
+      },
+      {
+        "h": "Unlocking Three Monumental Milestones",
+        "p": [
+          "In a single day of box office reporting, the production successfully breached three major financial milestones. These achievements solidify its standing as one of the most commercially successful films in modern cinema history.",
+          "The scale of these accomplishments highlights the unprecedented demand and widespread appeal of the feature across diverse markets and demographics."
+        ]
+      },
+      {
+        "h": "Entering the Elite 1500 Crore Worldwide Club",
+        "p": [
+          "Reaching a massive global gross, the film has officially entered the elite 1500 crore worldwide club. It now stands as the third highest-grossing Bollywood film globally.",
+          "The only other Hindi-language titles to achieve this extraordinary feat previously are Dangal and Dhurandhar 2, placing this latest release in exceptionally rare company."
+        ]
+      },
+      {
+        "h": "Conquering the Overseas Market Without Traditional Phased Releases",
+        "p": [
+          "Beyond domestic borders, the production has crossed a massive international gross collection. This achievement marks it as the third highest-grossing Hindi film overseas.",
+          "Notably, it has etched its name in history by becoming the first Bollywood project to breach this international earnings threshold purely during its initial release phase, without relying on traditional secondary markets like China or Japan."
+        ]
+      },
+      {
+        "h": "Dominating the Domestic Circuit in India",
+        "p": [
+          "Within domestic Indian circuits, audience turnout remained exceptionally robust throughout the first thirteen days. The domestic gross collection surpassed a massive landmark barrier.",
+          "This strong performance across local territories served as the primary foundation for the feature's meteoric rise on global charts."
+        ]
+      },
+      {
+        "h": "Chasing the Next Big Global Target",
+        "p": [
+          "With its position secured in the global top five, attention now shifts toward upcoming targets on the all-time charts. The feature stands within striking distance of overtaking Pushpa 2: The Rule.",
+          "Other legendary blockbusters remaining ahead on the global leaderboard include Dangal, Dhurandhar 2, Baahubali 2, and Pushpa 2."
+        ]
+      },
+      {
+        "h": "Comprehensive Box Office Breakdown After Thirteen Days",
+        "p": [
+          "Detailed figures following the thirteenth day of release showcase the distribution of earnings across sectors. The domestic net collection stands at a substantial figure, complemented by strong domestic and overseas gross totals.",
+          "These comprehensive statistics illustrate the sheer magnitude of the commercial performance achieved thus far in its theatrical lifecycle."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Nitesh Tiwari's Ramayana has achieved three major global box office milestones on its thirteenth day, crossing significant domestic and international gross thresholds. Starring Ranbir Kapoor, Yash, and Sai Pallavi, the film now ranks among the highest-grossing Indian films globally and sets its sights on further climbing the all-time charts."
+        ]
+      }
+    ],
+    "facts": [
+      "The film has completed 13 days in theatres.",
+      "The worldwide gross stands at 1509.19 crore.",
+      "The overseas gross collection is 507.15 crore.",
+      "The India gross collection is 1002.04 crore.",
+      "The India net collection is 849.18 crore.",
+      "Dangal grossed 2070.3 crore.",
+      "Dhurandhar 2 grossed 1850.83 crore.",
+      "Baahubali 2 grossed 1788.06 crore.",
+      "Pushpa 2 grossed 1727.23 crore."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Dhurandhar 2",
+        "Pushpa 2: The Rule",
+        "Baahubali 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana worldwide collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-worldwide-box-office-day-13-delivers-not-one-not-two-but-three-major-milestones-next-huge-target-218-crore-away-001.jpg",
+        "caption": "Ramayana Hits Three Major Box Office Milestones Globally on Day 13",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 12:37:37 +0000"
+  },
+  "b21n6q": {
+    "id": "b21n6q",
+    "type": "news",
+    "headline": "Trailer Released for Fantasy Drama Billy Knight Featuring Al Pacino and Charlie Heaton",
+    "dek": "Magenta Edge Films has officially launched the trailer for the upcoming fantasy drama Billy Knight, showcasing performances by Al Pacino and Charlie Heaton.",
+    "body": [
+      {
+        "h": "First Look at Billy Knight",
+        "p": [
+          "Magenta Edge Films has officially debuted the promotional trailer for the upcoming fantasy drama film Billy Knight. The project stands out as the feature film directorial and writing debut for filmmaker Alec Griffen Roth.",
+          "The newly released footage offers audiences their very first glimpse into the magical and cinematic world crafted by Roth, setting the stage for the narrative journey that awaits viewers upon its release."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story follows a young aspiring filmmaker named Alex, portrayed by Charlie Heaton. Following the death of his father, who was a failed screenwriter, Alex sorts through his remaining belongings and uncovers a unique handkerchief featuring the embroidered name Billy Knight.",
+          "Driven by curiosity and a desire to uncover the truth behind the mysterious artifact, Alex launches into an adventurous Hollywood quest to find the elusive Billy Knight, played by legendary actor Al Pacino."
+        ]
+      },
+      {
+        "h": "Grad School Journeys and Cinema Love",
+        "p": [
+          "Alongside Alex in the narrative is fellow graduate film student Emily, brought to life by actress Diana Silvers. Together, the two characters navigate the arduous and inspiring paths of trying to establish their careers within the film industry.",
+          "Serving simultaneously as a heartfelt love letter to the magic of cinema and the city of Hollywood, the plot delves deeply into the blurred boundaries that separate imaginative fiction from everyday reality."
+        ]
+      },
+      {
+        "h": "Star-Studded Supporting Cast",
+        "p": [
+          "Beyond the primary leads, the production boasts an extensive and eclectic ensemble cast featuring several notable names from entertainment, music, and digital media.",
+          "The supporting roster includes Patrick Schwarzenegger, Diplo, Rick Ross, Harry Jowsey, Angela Sarafyan, Sara Sampaio, Elsie Hewitt, Aleeha Rogers, Roberta Hanlan, and Savannah Rodin."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Fans eagerly anticipating the arrival of the feature film can mark their calendars for its official launch date. The studio has scheduled the release to take place on January 8th."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Magenta Edge Films released the official trailer for the fantasy drama Billy Knight, marking the directorial debut of Alec Griffen Roth. The film stars Charlie Heaton and Al Pacino in a Hollywood journey centering on a mysterious handkerchief and a cinematic quest."
+        ]
+      }
+    ],
+    "facts": [
+      "Billy Knight is an upcoming fantasy drama film.",
+      "Alec Griffen Roth is the writer and director of the film.",
+      "Charlie Heaton stars as Alex.",
+      "Al Pacino stars as Billy Knight.",
+      "Diana Silvers stars as Emily.",
+      "The release date is set for January 8th."
+    ],
+    "entities": {
+      "people": [
+        "Al Pacino",
+        "Charlie Heaton",
+        "Alec Griffen Roth",
+        "Diana Silvers",
+        "Patrick Schwarzenegger",
+        "Diplo",
+        "Rick Ross",
+        "Harry Jowsey",
+        "Angela Sarafyan",
+        "Sara Sampaio",
+        "Elsie Hewitt",
+        "Aleeha Rogers",
+        "Roberta Hanlan",
+        "Savannah Rodin",
+        "Amie Cranswick"
+      ],
+      "titles": [
+        "Billy Knight",
+        "Stranger Things"
+      ]
+    },
+    "keywords": [
+      "Billy Knight film",
+      "Al Pacino Billy Knight",
+      "Charlie Heaton Billy Knight",
+      "Alec Griffen Roth movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/Billy-Knight.jpg",
+        "caption": "Trailer Released for Fantasy Drama Billy Knight Featuring Al Pacino and Charlie Heaton",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 12:20:17 +0000"
+  },
+  "iorufh": {
+    "id": "iorufh",
+    "type": "news",
+    "headline": "BBC Unveils Festive Trailer for The Other Bennet Sister Christmas Special",
+    "dek": "Mary Bennet returns for a three-part holiday special on BBC One and iPlayer, exploring married life, new friendships, and period medicine.",
+    "body": [
+      {
+        "h": "Introduction to the Holiday Special",
+        "p": [
+          "Audiences are preparing to catch up with Mary Bennet this holiday season as the BBC releases an official trailer for the festive special of the coming-of-age television drama The Other Bennet Sister. Set inside the literary universe established by Jane Austen in Pride and Prejudice, the upcoming three-part event draws from the novel of the same name by author Janice Hadlow.",
+          "The narrative shifts its focus directly onto the rich inner world of Mary, portrayed by Ella Bruccoleri. As the sole unmarried Bennet sister during the original story, she worked to carve out her own individual path, ultimately earning a happy ending in the acclaimed first season."
+        ]
+      },
+      {
+        "h": "Married Life and Societal Expectations",
+        "p": [
+          "The Christmas special moves forward to examine Mary's adjustment to married life. Dropping her maiden name, she is now introduced as Mrs. Hayward, sharing a household with Thomas, a character played by SAS Rogue Heroes star Dónal Finn.",
+          "Mary finds herself grappling with the rigid societal expectations of what a wife is supposed to be. In the preview footage, she candidly confesses to feeling exhausted while trying to maintain the appearance of the perfect wife to both her husband and broader society."
+        ]
+      },
+      {
+        "h": "Returning Faces and Fused Friendships",
+        "p": [
+          "Familiar characters from the first season return for the special, including Tanya Reynolds, known for her roles in Sex Education and Ted Lasso, who reprises her part as Mary's former frenemy Caroline Bingley. Now married to William and carrying the title Mrs. Ryder, Caroline arrives at Mary's doorstep heavily pregnant and seeking assistance.",
+          "The narrative hints at a developing closeness between the two women. Additional returning cast members include Gavin and Stacey star Ruth Jones as the hypochondriac and catastrophizing Mrs. Bennet, alongside Doctor Who actress Varada Sethu in the role of Ann Baxter."
+        ]
+      },
+      {
+        "h": "Quirky Scientific Interests Continue",
+        "p": [
+          "Fans who appreciated Mary's distinct scientific readings and discoveries throughout the first run of episodes will find her core interests intact. The trailer features a sequence where Mary visits a doctor and becomes visibly fascinated by a state-of-the-art medical instrument known as the stethoscope.",
+          "Asking if she can take a turn with the device, she checks the doctor's heartbeat before cheerfully declaring that he is alive, signaling that her peculiar intellectual curiosities remain a part of her character."
+        ]
+      },
+      {
+        "h": "Future Prospects and Series Outlook",
+        "p": [
+          "Regarding the broader future of the television drama, Ella Bruccoleri addressed whether the show might secure another full season. She noted that the series did not conclude on a cliffhanger, explaining that the creative team did not intend to leave the story hanging in that manner.",
+          "While acknowledging that there is certainly more material to explore, she pointed out that the production team will likely move on to other projects, with indications that the BBC intends to adapt Jane Austen's Persuasion next."
+        ]
+      },
+      {
+        "h": "Release Details and Platform Availability",
+        "p": [
+          "The upcoming three-part Christmas special is scheduled to air in December on BBC One, with streaming availability on BBC iPlayer. Viewers hoping to catch up on the background of the story can currently watch the entirety of season one on the same platform.",
+          "An exact broadcast date within the month of December remains to be officially confirmed by the network, leaving fans anticipating the upcoming holiday release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC has released a festive trailer for a three-part Christmas special of the period drama The Other Bennet Sister, which will air in December on BBC One and iPlayer. The upcoming episodes follow Mary Bennet, played by Ella Bruccoleri, as she navigates married life with Thomas, portrayed by Dónal Finn, alongside returning cast members like Tanya Reynolds and Ruth Jones. While the show is not expected to receive another full season order as creators look toward adapting Jane Austen's Persuasion, the holiday special brings back familiar characters and quirky storylines for fans of the universe."
+        ]
+      }
+    ],
+    "facts": [
+      "The Other Bennet Sister is based on the novel by Janice Hadlow.",
+      "Ella Bruccoleri plays Mary Bennet.",
+      "Dónal Finn plays Thomas Hayward.",
+      "Tanya Reynolds plays Caroline Bingley.",
+      "Laurie Davidson plays William.",
+      "Ruth Jones plays Mrs. Bennet.",
+      "Varada Sethu plays Ann Baxter.",
+      "The Christmas special is a three-part event.",
+      "The special will air in December on BBC One and iPlayer.",
+      "Season 1 is currently available on BBC iPlayer."
+    ],
+    "entities": {
+      "people": [
+        "Ella Bruccoleri",
+        "Dónal Finn",
+        "Tanya Reynolds",
+        "Laurie Davidson",
+        "Ruth Jones",
+        "Varada Sethu",
+        "Janice Hadlow",
+        "Jane Austen"
+      ],
+      "titles": [
+        "The Other Bennet Sister",
+        "Pride and Prejudice",
+        "SAS Rogue Heroes",
+        "Sex Education",
+        "Ted Lasso",
+        "Gavin and Stacey",
+        "Doctor Who",
+        "Persuasion"
+      ]
+    },
+    "keywords": [
+      "The Other Bennet Sister",
+      "Ella Bruccoleri Mary Bennet",
+      "The Other Bennet Sister Christmas special",
+      "Dónal Finn Thomas Hayward"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/donal-finn-ella-bruccoleri-the-other-bennet-sister-693c3faecfb34.jpg?crop=0.348xw:0.262xh;0.213xw,0.178xh&amp;resize=1200:*",
+        "caption": "BBC Unveils Festive Trailer for The Other Bennet Sister Christmas Special",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 13:08:00 +0000"
+  },
+  "1qj2t4r": {
+    "id": "1qj2t4r",
+    "type": "news",
+    "headline": "Pakistani Drama Character Abu Bakr Sparks Viral Discussion Across India",
+    "dek": "A character from the Pakistani television serial Dar-e-Nijaat has become a viral sensation online, prompting discussions on how viewers perceive relationship dynamics compared to aggressive cinematic tropes.",
+    "body": [
+      {
+        "h": "The Rise of a New Digital Phenomenon",
+        "p": [
+          "Audiences across digital platforms have turned their attention toward a character from a neighboring television series, shifting away from conventional cinematic archetypes. Viewers have begun sharing clips and scenes featuring this persona extensively across social media networks, generating widespread discussion.",
+          "The character in question belongs to a serialized television drama titled Dar-e-Nijaat, capturing the imagination of viewers who frequently circulate moments from the show on platforms like Instagram and X."
+        ]
+      },
+      {
+        "h": "Contrasting Cinematic Archetypes",
+        "p": [
+          "In recent years, Indian cinema has frequently featured dominant, hot-tempered figures in leading roles. Films such as Kabir Singh, Animal, and Pushpa presented assertive protagonists marked by aggressive behavior and intense emotional detachment.",
+          "While these cinematic figures achieved notable commercial success, their actions and relationship dynamics often sparked debate regarding real-world applications. In contrast, the reception of the television character presents a markedly different approach to interpersonal relationships."
+        ]
+      },
+      {
+        "h": "Characteristics of Abu Bakr",
+        "p": [
+          "The focal point of this digital trend is Abu Bakr, a character from Dar-e-Nijaat whose demeanor relies heavily on composure rather than volatility. Observers have noted his tendency to remain patient during difficult situations instead of resorting to immediate outbursts.",
+          "Furthermore, the character demonstrates a strong emphasis on mutual respect and emotional intelligence. Rather than attempting to dominate a partner, the persona values personal boundaries, non-verbal cues, and shared understanding."
+        ]
+      },
+      {
+        "h": "The Actor Behind the Role",
+        "p": [
+          "The widespread popularity of the character is anchored by the performance of well-known actor Sheheryar Munawar Siddiqui. His portrayal has resonated deeply with households and individual viewers alike.",
+          "Through a measured and understated acting style, the performer has managed to elevate the role into a prominent topic of conversation throughout the region."
+        ]
+      },
+      {
+        "h": "Shifting Viewer Preferences",
+        "p": [
+          "The viral traction of Dar-e-Nijaat indicates a potential evolution in what audiences look for in character writing. Many users have expressed a preference for supportive and considerate relationship traits over intense dominance.",
+          "Commentary accompanying the viral clips suggests that younger generations and general audiences are increasingly drawn to portrayals of stability, care, and mutual regard in media."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Pakistani television serial Dar-e-Nijaat and its character Abu Bakr, played by Sheheryar Munawar Siddiqui, have gone viral on social media. Viewers are comparing this calm and respectful character to aggressive alpha male roles in Bollywood films, sparking widespread online discussion."
+        ]
+      }
+    ],
+    "facts": [
+      "The character Abu Bakr appears in the Pakistani television serial Dar-e-Nijaat.",
+      "Sheheryar Munawar Siddiqui plays the role of Abu Bakr.",
+      "Bollywood films mentioned in relation to alpha male tropes include Kabir Singh, Animal, and Pushpa.",
+      "The article was published on November 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Neha Farheen"
+      ],
+      "titles": [
+        "Dar-e-Nijaat",
+        "Kabir Singh",
+        "Animal",
+        "Pushpa"
+      ]
+    },
+    "keywords": [
+      "Dar-e-Nijaat",
+      "Abu Bakr",
+      "Sheheryar Munawar Siddiqui",
+      "pakistani serial dar e nijaat"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc7e52a1d57-abu-bakr-171825223-16x9.jpg",
+        "caption": "Pakistani Drama Character Abu Bakr Sparks Viral Discussion Across India",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T13:44:36Z"
   }
 };
