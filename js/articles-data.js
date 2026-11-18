@@ -182499,5 +182499,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 14:25:33 +0000"
+  },
+  "z8xwir": {
+    "id": "z8xwir",
+    "type": "news",
+    "headline": "Has Ramayana Recovered 100% Of Its Budget? Examining The Numbers Behind The Mythological Epic",
+    "dek": "As Ramayana crosses massive milestones at the box office within thirteen days of release, conflicting budget figures spark intense debates regarding its financial recovery and official success status.",
+    "body": [
+      {
+        "h": "The Box Office Phenomenon",
+        "p": [
+          "The mythological epic Ramayana has taken the box office by storm, generating massive collections across domestic and international markets. In just thirteen days since its theatrical release, the movie has achieved staggering financial milestones that have grabbed the attention of industry analysts and fans alike. With the film hauling immense sums, a burning question has emerged across the internet regarding its budgetary recovery.",
+          "Audiences and trade trackers are actively discussing whether the monumental revenues pulled in by the feature have completely covered its production costs. Such rapid accumulation of wealth within less than two weeks puts the project in an elite tier of high-earning cinema. However, determining whether it has officially entered the profit-making zone depends entirely on which financial figures one chooses to believe."
+        ]
+      },
+      {
+        "h": "Contrasting Budget Figures Circulating Online",
+        "p": [
+          "The core confusion surrounding the film's financial status stems from two wildly contrasting budget numbers currently circulating in public discourse. On one hand, producer Namit Malhotra has previously stated in numerous interviews that the two-part franchise carries a combined budget of 4000 crore. This massive financial umbrella covers both Part 1 and Part 2, establishing it as an exceptionally costly Indian film project.",
+          "On the other hand, filmmaker Ram Gopal Varma recently stepped forward with a drastically different estimate for the opening installment. According to his calculations and information, the actual cost of Ramayana: Part 1 sits significantly lower, fueling an entirely separate debate about the film's true profitability and return on investment."
+        ]
+      },
+      {
+        "h": "Ram Gopal Varma's Claims On Part 1's Cost",
+        "p": [
+          "Following his viewing of Ramayana: Part 1, filmmaker Ram Gopal Varma took to social media to challenge the widespread assumption that each individual installment requires a staggering 2000 crore to produce. He revealed that the first part was mounted at a mere fraction of that estimated amount, suggesting a much more grounded expenditure for the opening chapter.",
+          "In his public statements, the filmmaker pointed out that the actual cost amounts to a little less than 800 crore. He noted that this figure even accounts for mutually beneficial deals, global tax benefits, and subsidy elements that would eventually bring the net financial burden down even further. Furthermore, he argued that experienced filmmakers can easily deduce that the production costs could not possibly exceed that lower threshold."
+        ]
+      },
+      {
+        "h": "VFX And Narrative Distribution Arguments",
+        "p": [
+          "To support his budget breakdown, Ram Gopal Varma emphasized how the heavier elements of the production are structurally distributed across the franchise. He highlighted that extensive visual effects, massive war sequences, and grand set pieces—including the Lanka episodes, Hanuman's chapters, and the final battle—are predominantly concentrated in Ramayana: Part 2.",
+          "Additionally, he noted typical industry patterns where many major motion productions allocate significant portions of their resources strictly toward climatic sequences. By asserting that the heavy lifting of the budget belongs to the upcoming sequel, his evaluation makes a logical case for a much cheaper opening film."
+        ]
+      },
+      {
+        "h": "Is 100% Recovery Achieved?",
+        "p": [
+          "The validity of Ram Gopal Varma's claims creates two very different realities for the epic's box office standing. If his lower budget estimate holds true, the film has indeed recovered its entire budget and successfully entered the profit-making zone much faster than anticipated. Celebrations would naturally follow such a swift financial turnaround for the enterprise.",
+          "Conversely, if the producer's overarching 4000 crore combined budget for both parts remains the baseline, the financial landscape looks different. Producer Namit Malhotra has not officially detailed the exact budget split between the two parts nor responded to the alternative 800 crore figure, leaving the official success verdict pending while the movie continues to rake in crores every hour."
+        ]
+      },
+      {
+        "h": "Global Milestones And Overseas Triumph",
+        "p": [
+          "Regardless of how the budget dissection ultimately shakes out, the mythological feature has undeniably cemented a powerful legacy through its raw earning power. The picture has sailed past major collection tiers, including an India net collection of 849.18 crore, a gross collection of 1002.04 crore, and a worldwide gross collection reaching 1509.19 crore within its first thirteen days.",
+          "Moreover, the project has carved out a historic space in overseas markets. It stands as Bollywood's first film to cross the 500 crore mark overseas without even requiring a phase two release, positioning itself as the 7th highest earner in the history of Indian cinema on the global stage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has amassed massive collections globally within thirteen days, triggering intense speculation over whether the film has fully recovered its production budget. While contrasting budget figures from the producer and filmmaker Ram Gopal Varma leave the official financial verdict undecided, the mythological epic continues to break records internationally."
+        ]
+      }
+    ],
+    "facts": [
+      "The net collection in India reached 849.18 crore in 13 days.",
+      "The gross collection in India reached 1002.04 crore.",
+      "The worldwide gross collection reached 1509.19 crore.",
+      "Producer Namit Malhotra stated a combined budget of 4000 crore for Part 1 and Part 2.",
+      "Filmmaker Ram Gopal Varma claimed the actual cost of Part 1 is a little less than 800 crore."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ram Gopal Varma"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana budget",
+      "Ramayana box office",
+      "Ram Gopal Varma Ramayana",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-has-ramayana-already-recovered-100-of-its-budget-fact-check-001.jpg",
+        "caption": "Has Ramayana Recovered 100% Of Its Budget? Examining The Numbers Behind The Mythological Epic",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 15:16:11 +0000"
+  },
+  "1twjbaq": {
+    "id": "1twjbaq",
+    "type": "news",
+    "headline": "The 'Yeh Prem Mol Liya' trailer: Ayushmann Khurrana and Sharvari's film showcases a new-age love story with changing traditions",
+    "dek": "The trailer for 'Yeh Prem Mol Liya' has arrived online, highlighting a fresh romance starring Ayushmann Khurrana and Sharvari that challenges conventional marriage norms.",
+    "body": [
+      {
+        "h": "The Arrival of the Trailer",
+        "p": [
+          "The official promotional video for the upcoming feature 'Yeh Prem Mol Liya' has officially made its way online, generating considerable buzz across various social media networks. This romantic project brings together Ayushmann Khurrana and Sharvari in the principal roles, steering a narrative centred on romance, societal expectations, and evolving cultural traditions.",
+          "As audiences view the footage, they are introduced to characters who refuse to follow established relationship templates. The visual preview sets a distinct tone by questioning age-old marital customs, offering viewers a contemporary perspective on how modern couples navigate commitment and family structures."
+        ]
+      },
+      {
+        "h": "Challenging Traditional Norms",
+        "p": [
+          "The narrative momentum of the preview begins when Prem proposes to Purva, prompting a complex discussion about their future. Purva explains her inability to abandon her household and relatives, pointing out that everyone depends heavily on her presence at home. This interaction directly addresses the long-standing societal pressure where women typically must leave their ancestral families behind following a wedding ceremony.",
+          "Determined to find a workable path forward without compromising their responsibilities, Prem introduces an unconventional resolution. Instead of asking Purva to relocate to his family home, he proposes that his own family relocate into Purva's residence, inverting the traditional domestic arrangement."
+        ]
+      },
+      {
+        "h": "Domestic Chaos and Family Dynamics",
+        "p": [
+          "This bold and unprecedented decision immediately establishes the foundation for substantial comedic tension and dramatic friction. The preview provides glimpses into the ensuing wedding ceremonies followed by Prem successfully moving his entire household into Purva's domestic space, creating an environment ripe for domestic upheaval.",
+          "As the two distinct family units begin sharing a roof, inevitable clashes arise due to their contrasting backgrounds and habits. Despite these ongoing cultural and personal disagreements, both Prem and Purva remain steadfast in their mission to prove that their unconventional living arrangement can ultimately succeed."
+        ]
+      },
+      {
+        "h": "Musical Background and Composition",
+        "p": [
+          "Beyond the storyline and character dynamics, the audio landscape of the project has been crafted by well-known composer Himesh Reshammiya. The musical roster associated with the feature encompasses a diverse selection of tracks designed to complement the narrative emotional beats.",
+          "The soundtrack lineup features songs carrying titles such as 'Yeh Prem Mol Liya', 'Saawan Aaya Hai', 'Jhumka Patola', 'Tum Jeene Ki Wajah Ho', and 'Bulaye Chhathi Maa', each contributing to the romantic and familial atmosphere of the cinematic piece."
+        ]
+      },
+      {
+        "h": "Audience Reactions and Netizen Feedback",
+        "p": [
+          "Following its online debut, the promotional cut quickly attracted varied commentary from netizens and film enthusiasts across the digital landscape. Supporters expressed enthusiasm for the upcoming musical numbers, with one commenter highlighting anticipation for Himesh Reshammiya's musical score while another praised the lead actors for delivering a heartfelt dramatic performance.",
+          "Other viewers focused on the unique premise, noting that the blend of family-oriented emotion and fresh narrative twists felt compelling. Meanwhile, some observers offered a more cautious evaluation, noting that justifying the domestic setup to mainstream audiences might prove challenging, yet expressing confidence in the creative team's ability to pull off the narrative concept."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "With the promotional campaign now underway, anticipation continues to build among fans of the lead performers and romantic dramas alike. The feature film is officially scheduled to premiere in cinema halls on November 27.",
+          "As the theatrical opening date approaches, viewers and industry watchers await further developments regarding how audiences will receive this examination of modern relationships and shifting household traditions on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for 'Yeh Prem Mol Liya', starring Ayushmann Khurrana as Prem and Sharvari as Purva, has been released online, showcasing a modern love story that challenges traditional marriage expectations. To solve family dependencies, Prem decides to move his family into Purva's home, setting up a clash of lifestyles supported by a soundtrack composed by Himesh Reshammiya. The film is slated for a theatrical release on November 27."
+        ]
+      }
+    ],
+    "facts": [
+      "Ayushmann Khurrana stars as Prem in 'Yeh Prem Mol Liya'.",
+      "Sharvari stars as Purva in 'Yeh Prem Mol Liya'.",
+      "Himesh Reshammiya composed the music for the film.",
+      "The film's playlist includes 'Yeh Prem Mol Liya', 'Saawan Aaya Hai', 'Jhumka Patola', 'Tum Jeene Ki Wajah Ho', and 'Bulaye Chhathi Maa'.",
+      "The film is scheduled to release in theatres on November 27."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Himesh Reshammiya",
+        "Prem",
+        "Purva"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Saawan Aaya Hai",
+        "Jhumka Patola",
+        "Tum Jeene Ki Wajah Ho",
+        "Bulaye Chhathi Maa"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya trailer",
+      "Ayushmann Khurrana Sharvari film",
+      "Yeh Prem Mol Liya release date",
+      "Himesh Reshammiya Yeh Prem Mol Liya"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135966970,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "The 'Yeh Prem Mol Liya' trailer: Ayushmann Khurrana and Sharvari's film showcases a new-age love story with changing tra",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T21:06:46+05:30"
+  },
+  "p8j4kc": {
+    "id": "p8j4kc",
+    "type": "news",
+    "headline": "Dhanush Starrer O.M - Operation Mole Shatters Kerala Advance Booking Records Ahead Of Worldwide Release",
+    "dek": "Dhanush and Mammootty's upcoming spy action thriller O.M - Operation Mole has crossed the Rs 1 crore milestone in Kerala opening-day pre-sales, surpassing the actor's previous high set by Raayan.",
+    "body": [
+      {
+        "h": "Milestone Pre-Sales In Kerala",
+        "p": [
+          "The upcoming spy action thriller O.M - Operation Mole has achieved a major pre-sale milestone in Kerala, crossing the Rs 1 crore mark in opening-day advance bookings. Industry trackers reported the updated figures just two days prior to the theatrical launch.",
+          "Ticket sales across the state have surged, reflecting strong anticipation among regional audiences. The rapid pace of pre-bookings highlights solid interest for the upcoming wide release."
+        ]
+      },
+      {
+        "h": "Surpassing Raayan's Benchmark",
+        "p": [
+          "With this latest collection, O.M - Operation Mole has officially outpaced the opening-day advance booking figures of Dhanush's previous project, Raayan. That film had recorded approximately Rs 1.03 crore in pre-sales within the same region.",
+          "This achievement establishes a new personal best for Dhanush regarding opening-day pre-sales in Kerala. The film continues to maintain steady momentum as the final booking window counts down."
+        ]
+      },
+      {
+        "h": "Tracking Numbers And Show Counts",
+        "p": [
+          "According to industry tracker A B George, the advance collection touched Rs 1.04 crore by the evening of November 18. This figure was accumulated across a total of 865 scheduled shows.",
+          "Approximately 62,000 tickets had been claimed by patrons as of 6 PM IST. Additional ticket purchases are anticipated before the final curtain rises on opening day."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The project features a prominent ensemble cast led by Dhanush, alongside a notable appearance by Mammootty. Other key performers include Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+          "The film is written and directed by Rajkumar Periasamy. Production duties are shared by Wunderbar Films and RTake Studios."
+        ]
+      },
+      {
+        "h": "Technical And Creative Team",
+        "p": [
+          "Music for the film has been composed by Sai Abhyankkar, while Ezhil Arasu K manages the cinematography. Editing responsibilities are handled by R. Kalaivanan.",
+          "Action choreography is directed by Yannick Ben and Kecha Khamphakdee, with Rajeevan serving as production designer and Sandy managing choreography."
+        ]
+      },
+      {
+        "h": "Production And Worldwide Arrival",
+        "p": [
+          "O.M - Operation Mole is scheduled for a worldwide theatrical rollout on November 20, 2026. The production is backed by Shraddha Agrawal, Dhanush, and Azmat Jagmag.",
+          "Sreyas Srinivasan and Sandesh Agrawal serve as co-producers, while Vishu Ramaswamy acts as the creative producer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush and Mammootty's upcoming spy action thriller O.M - Operation Mole has crossed Rs 1.04 crore in Kerala opening-day advance bookings across 865 shows. Written and directed by Rajkumar Periasamy, the film surpasses the previous Kerala pre-sales record held by Raayan ahead of its November 20 worldwide theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M - Operation Mole collected Rs 1.04 crore in Kerala advance bookings.",
+      "The pre-sales figure was recorded across 865 shows.",
+      "Approximately 62,000 tickets were sold as of 6 PM IST on November 18.",
+      "Raayan had recorded approximately Rs 1.03 crore in Kerala opening-day advance bookings.",
+      "The film is scheduled for a worldwide theatrical release on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Rajkumar Periasamy",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan",
+        "Yannick Ben",
+        "Kecha Khamphakdee",
+        "Rajeevan",
+        "Sandy",
+        "Shraddha Agrawal",
+        "Azmat Jagmag",
+        "Sreyas Srinivasan",
+        "Sandesh Agrawal",
+        "Vishu Ramaswamy",
+        "A B George"
+      ],
+      "titles": [
+        "O.M - Operation Mole",
+        "Raayan"
+      ]
+    },
+    "keywords": [
+      "O.M - Operation Mole",
+      "Dhanush",
+      "Mammootty",
+      "Raayan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/om-83331795015634.jpg",
+        "caption": "Dhanush Starrer O.M - Operation Mole Shatters Kerala Advance Booking Records Ahead Of Worldwide Release",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 20:58:10 +0530"
+  },
+  "ufljge": {
+    "id": "ufljge",
+    "type": "news",
+    "headline": "Ananya Birla Teases Ranveer Singh's Pralay as a 'Spectacle' on Koffee With Karan",
+    "dek": "Producer Ananya Birla appeared on Koffee With Karan to discuss her entertainment ventures, offering high praise for the upcoming Ranveer Singh-starrer Pralay and reflecting on her debut project.",
+    "body": [
+      {
+        "h": "Ananya Birla Appears on Koffee With Karan",
+        "p": [
+          "In a recent installment of the popular celebrity chat show Koffee With Karan, producer Ananya Birla stepped into the spotlight to discuss her work in the entertainment landscape. Heading the newly established Birla Studios, Ananya shared insights regarding her professional journey and upcoming cinematic ventures.",
+          "The episode provided a platform for the producer to talk candidly about her entry into film production, addressing how her transition into the industry unfolded organically without any preconceived strategic blueprints."
+        ]
+      },
+      {
+        "h": "Praising the Upcoming Project Pralay",
+        "p": [
+          "During the conversation, Ananya offered an exciting update on her much-anticipated collaboration with actor Ranveer Singh titled Pralay. She expressed great enthusiasm for the project, boldly declaring to host Karan Johar that the upcoming film is destined to be a true spectacle.",
+          "Pralay marks Ranveer Singh's first major cinematic release following his massive success with the Dhurandhar franchise. The upcoming movie, reportedly operating as a zombie-thriller, is being directed by filmmaker Jai Mehta."
+        ]
+      },
+      {
+        "h": "Reflecting on Main Vaapas Aaunga",
+        "p": [
+          "Ananya also touched upon her production debut, Main Vaapas Aaunga, directed by the renowned Imtiaz Ali. Host Karan Johar praised the project as one of the notable sleeper hits of the year, noting its trajectory from a modest beginning to a significant box office presence.",
+          "According to trade trackers and box office data, the film opened with a net collection of Rs 1.15 crore in India on its first day and ultimately achieved a worldwide gross of Rs 99.39 crore. Ananya expressed immense pride in collaborating with Imtiaz Ali on the successful project."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Box Office Run",
+        "p": [
+          "Main Vaapas Aaunga featured a prominent ensemble cast including seasoned actor Naseeruddin Shah, Punjabi star Diljit Dosanjh, Sharvari, and Vedang Raina. The film's remarkable growth from day one numbers surprised industry observers.",
+          "Ananya Birla acknowledged the phenomenal journey of the film, highlighting how the initial Rs 1 crore business on day one eventually expanded into a historic commercial outcome."
+        ]
+      },
+      {
+        "h": "Lighthearted Moments and Casual Banter",
+        "p": [
+          "The episode also featured several lighthearted interactions, including a moment when Ananya Birla casually referred to host Karan Johar as 'Pops'. This prompted fellow guest Ananya Panday to playfully question the affectionate nickname.",
+          "Explaining her perspective, Birla noted that she views the filmmaker as a father figure, establishing a warm and informal dynamic on the chat show set."
+        ]
+      },
+      {
+        "h": "The 'Struggle' Discussion",
+        "p": [
+          "A humorous yet tense exchange occurred when Ananya Birla discussed facing various obstacles in her professional path while remarking that she had never truly experienced a 'struggle'. Fellow guest Ananya Panday quickly interjected, stating that the word acts as a trigger for her.",
+          "The brief moment drew laughter from Karan Johar, while Birla promptly apologized to Panday for the phrasing, making for one of the most talked-about segments of the evening."
+        ]
+      },
+      {
+        "h": "Final Season of Koffee With Karan",
+        "p": [
+          "This appearance is part of the ninth and final season of Koffee With Karan, which premiered in October. Host Karan Johar has previously confirmed that he will not return for subsequent seasons of the iconic chat show.",
+          "The farewell season has brought together a diverse array of guests from across the entertainment industry, offering viewers final rounds of memorable conversations and candid revelations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Ananya Birla appeared on the final season of Koffee With Karan to discuss her entertainment career, highlighting her debut production Main Vaapas Aaunga and teasing Ranveer Singh's upcoming film Pralay as a major spectacle. The episode also featured lighthearted banter, including a discussion about industry struggles alongside fellow guest Ananya Panday."
+        ]
+      }
+    ],
+    "facts": [
+      "Ananya Birla appeared on Koffee With Karan on November 18, 2026.",
+      "Main Vaapas Aaunga earned Rs 1.15 crore net in India on opening day.",
+      "Main Vaapas Aaunga earned Rs 99.39 crore worldwide.",
+      "Pralay stars Ranveer Singh and is directed by Jai Mehta."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Ananya Birla",
+        "Karan Johar",
+        "Ananya Panday",
+        "Imtiaz Ali",
+        "Jai Mehta",
+        "Naseeruddin Shah",
+        "Diljit Dosanjh",
+        "Sharvari",
+        "Vedang Raina"
+      ],
+      "titles": [
+        "Pralay",
+        "Main Vaapas Aaunga",
+        "Dhurandhar",
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Ananya Birla Pralay",
+      "Ranveer Singh Pralay",
+      "Main Vaapas Aaunga box office",
+      "Ananya Birla Koffee With Karan"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Ananya-Birla-gives-an-update-about-Ranveer-Singhs-Pralay-1.jpg",
+        "caption": "Ananya Birla Teases Ranveer Singh's Pralay as a 'Spectacle' on Koffee With Karan",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 15:35:14 +0000"
   }
 };
