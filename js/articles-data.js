@@ -176813,5 +176813,414 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 23:47:53 +0000"
+  },
+  "1gboosc": {
+    "id": "1gboosc",
+    "type": "news",
+    "headline": "Ramayana crosses Rs 1,483 crore in thirteen days and outranks The Odyssey on IMDb",
+    "dek": "Nitesh Tiwari's epic adaptation hits a massive global milestone as overseas markets continue to fuel its theatrical run.",
+    "body": [
+      {
+        "h": "Thirteen-Day Global Milestone",
+        "p": [
+          "The theatrical run of the ambitious mythological drama has achieved a major worldwide milestone by crossing Rs 1,483 crore in gross collections within thirteen days of release. While domestic ticket sales experienced a slowdown during the second week, robust contributions from international territories successfully maintained the upward momentum of its global tally.",
+          "Industry tracking figures highlight the scale of this international interest, with overseas markets accounting for a substantial portion of the total revenue. This steady stream of foreign ticket sales has helped cushion the natural dip in local theatre attendance following the conclusion of the opening week."
+        ]
+      },
+      {
+        "h": "Breakdown of Domestic Earnings",
+        "p": [
+          "In the domestic market, the feature accumulated a cumulative nett collection of Rs 821.30 crore alongside an overall Indian gross of Rs 981.50 crore. During the thirteenth day alone, the film brought in Rs 28.70 crore nett across the country, marking a minor decline compared to its earnings on the preceding day.",
+          "The theatrical footprint remained extensive throughout the country, with theatres running a cumulative total of over three lakh shows over the course of thirteen days. This widespread availability ensured that audiences continued to turn out in steady numbers despite the cooling down of week-one enthusiasm."
+        ]
+      },
+      {
+        "h": "Regional Language Contributions",
+        "p": [
+          "The Hindi version of the adaptation emerged as the primary driver of domestic revenue, contributing a massive share to the overall local nett collection. Regional versions also added healthy figures to the total, with the Kannada, Telugu, Tamil, and Malayalam language prints drawing dedicated regional audiences.",
+          "During the first eight days, the film secured a robust domestic nett total before adding further collections over the subsequent five days to reach its current milestone. The distribution across multiple languages helped sustain its multi-region appeal during the second week."
+        ]
+      },
+      {
+        "h": "Climbing the IMDb Popularity Charts",
+        "p": [
+          "Beyond financial milestones, the feature has also gained significant traction on digital platforms, securing the third position on a major global popularity index. By climbing to third place on the worldwide chart, it edged past Christopher Nolan's high-profile project, which currently holds the fourth spot.",
+          "This metric reflects online user interest and page view volume rather than critical review scores, demonstrating that global audiences are actively searching for and following updates regarding the production. It currently stands out as the sole Indian feature represented within the global top ten list."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari and backed by producer Namit Malhotra, the project brings a grand vision of the classic Indian epic to the big screen. The ensemble cast features Ranbir Kapoor in the central role alongside Sai Pallavi and Yash, supported by actors such as Ravi Dubey, Sunny Deol, and Arun Govil.",
+          "Conceived as a sweeping two-part cinematic venture, the overarching storytelling plan includes a scheduled sequel. The second instalment of the epic adaptation is already mapped out to arrive in theatres worldwide on the occasion of Diwali in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana crossed Rs 1,483 crore in worldwide gross collections within thirteen days while also capturing the third spot on IMDb's global popularity chart ahead of The Odyssey. Backed by Namit Malhotra and starring Ranbir Kapoor, Sai Pallavi, and Yash, the film continues to draw audiences globally as it prepares for a planned second installment in 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs 1,483 crore worldwide in 13 days.",
+      "The film is ranked third on IMDb's Most Popular Movies chart.",
+      "Christopher Nolan's The Odyssey is ranked fourth on the IMDb chart.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Ranbir Kapoor, Sai Pallavi, and Yash star in the film.",
+      "Namit Malhotra is the producer of the film.",
+      "India gross stands at Rs 981.50 crore including nett collections of Rs 821.30 crore.",
+      "Overseas markets contributed Rs 502 crore.",
+      "On Day 13, the film collected Rs 28.70 crore nett in India.",
+      "The film recorded 3,05,513 shows in India over 13 days.",
+      "Hindi version nett collection is Rs 627 crore.",
+      "Kannada version nett collection is Rs 67.20 crore.",
+      "Telugu version nett collection is Rs 52.40 crore.",
+      "Tamil version nett collection is Rs 38.05 crore.",
+      "Malayalam version nett collection is Rs 36.65 crore.",
+      "Week 1 India nett was Rs 564.60 crore across 1,90,518 shows.",
+      "Week 2 India nett between Days 9 and 13 was Rs 256.70 crore across 1,14,995 shows.",
+      "Ravi Dubey, Sunny Deol, and Arun Govil are part of the cast.",
+      "The second instalment is scheduled to release on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Namit Malhotra",
+        "Christopher Nolan",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil"
+      ],
+      "titles": [
+        "Ramayana",
+        "The Odyssey",
+        "You Can See Everything",
+        "Ebenezer"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 13 collection",
+      "Ramayana IMDb ranking",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-180734931-16x9_0.jpg?VersionId=z2qC3blo8LJ4DoOcmJ3b2mON6ao5yGZ_",
+        "caption": "Ramayana crosses Rs 1,483 crore in thirteen days and outranks The Odyssey on IMDb",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 06:44:34 +0530"
+  },
+  "1sei10e": {
+    "id": "1sei10e",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 Box Office Collection Day 12: Nayanthara Starrer Witnesses a Sharp Decline",
+    "dek": "The fantasy film directed by Sundar C experiences a notable slump in ticket sales during its second week in theatres across domestic markets.",
+    "body": [
+      {
+        "h": "The Box Office Slide",
+        "p": [
+          "The fantasy feature starring Nayanthara is navigating a difficult phase during its theatrical run as revenue figures continue to decrease. On Tuesday, November 17, the movie brought in a modest domestic net amount across hundreds of active screenings throughout the country. This marked a significant reduction in audience attendance as the feature entered the middle portion of its second week on the big screen.",
+          "Industry tracking metrics highlighted that daily earnings took a steep downward turn compared to the previous day's tally. The overall domestic performance reflects a cooling off period after the initial wave of spectators headed to cinemas during the opening frame. Exhibitors across various regions noted lighter crowds during regular screening slots."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Gross Totals",
+        "p": [
+          "Following the latest single-day figures, the overall domestic net collection for the feature has advanced steadily while gross earnings cross the twenty-four crore mark in India. These aggregated numbers encompass the entire theatrical deployment spanning more than sixteen thousand total shows since the movie first premiered in theatres.",
+          "The initial seven-day frame established a solid foundation before ticket sales began to taper off. During the subsequent week-long stretch, the project accumulated additional revenue at a much more subdued pace, reflecting the standard cooling curve often observed in multi-language regional releases after their debut period."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution",
+        "p": [
+          "A breakdown of the domestic earnings reveals that the Tamil version constitutes the vast majority of the overall financial returns, accounting for nearly all of the domestic net accumulation. Meanwhile, the Telugu language version contributed a minor percentage to the cumulative figures.",
+          "Audience occupancy rates varied across different show timings throughout the day. Morning screenings recorded lower turnout percentages, while afternoon, evening, and night slots experienced slightly better numbers, maintaining modest theatre capacity utilization overall."
+        ]
+      },
+      {
+        "h": "Advance Booking Trends for Day Thirteen",
+        "p": [
+          "Tracking data collected ahead of the thirteenth day in theatres offered a glimpse into the ongoing momentum for upcoming screenings. Advance booking receipts demonstrated steady, albeit modest, pre-sales figures as prospective viewers secured tickets for Wednesday.",
+          "These pre-release metrics continue to assist analysts in monitoring audience interest levels as the project moves deeper into its second week of exhibition. While advance tallies remain lower than opening week figures, they provide consistent baseline numbers for participating cinemas."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Helmed by director Sundar C, the fantasy sequel features prominent South Indian actor Nayanthara in the central titular role. The supporting cast includes well-known artists such as Urvashi, Regina Cassandra, Yogi Babu, and Duniya Vijay in vital narrative parts.",
+          "The creative team behind the production aimed to capture the same mythological fantasy appeal that made earlier installments popular with regional audiences, relying on a robust ensemble cast to draw crowds to multiplexes and single screens alike."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Releases",
+        "p": [
+          "A look back at Nayanthara's earlier comedy-drama release highlights similar box office trajectories for the actor's recent filmography. That previous title also encountered a steep slowdown in revenue during its twelfth day in theatres, recording comparable show counts and daily gross totals.",
+          "Although the current fantasy venture has managed to accumulate higher overall domestic earnings at an equivalent stage of its theatrical run than the previous film, both projects faced hurdles in sustaining high audience momentum past their initial opening frames."
+        ]
+      },
+      {
+        "h": "Critical Reception and Disclaimer",
+        "p": [
+          "Reviewers offered mixed feedback for the fantasy sequel, with entertainment publications awarding the feature a modest two stars out of five. Critics pointed out both the ambitions of the narrative and the challenges in maintaining viewer engagement throughout the runtime.",
+          "Market analysts emphasize that all box office figures are compiled from public and industry tracking sources and remain approximate. These tallies are subject to updates as official studio reports are finalized or as international market data becomes fully verified."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nayanthara's starring vehicle Mookuthi Amman 2 experienced a significant forty-seven percent drop in daily collections on Tuesday, bringing its cumulative domestic gross past twenty-four crore rupees. Directed by Sundar C, the fantasy feature continues to report modest occupancy rates and advance booking numbers during its second week in theatres."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 earned Rs 29 lakh net in India on Tuesday, November 17",
+      "The film played across 691 shows on Tuesday",
+      "Cumulative domestic net collection reached Rs 20.97 cr",
+      "India gross stands at Rs 24.18 cr",
+      "Daily collection dropped by 47.3% compared to Monday's Rs 55 lakh",
+      "Opening week net collection was Rs 17.93 cr",
+      "Opening week India gross was Rs 20.72 cr",
+      "First five days of second week collected Rs 3.04 cr net and Rs 3.46 cr gross",
+      "Total shows across India reached 16,064",
+      "Tamil version accounts for Rs 19.79 cr or 94.4% of domestic net",
+      "Telugu version contributed Rs 1.18 cr or 5.6%",
+      "Tamil 2D occupancy on Tuesday was 16.86% overall",
+      "Advance bookings for Wednesday, November 18 generated Rs 29.64 lakh gross",
+      "Nayanthara's previous film 'Hi' earned Rs 19 lakh net on Tuesday, September 8, 2026",
+      "Mookuthi Amman 2 received 2 out of 5 stars from ETimes"
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "Urvashi",
+        "Regina Cassandra",
+        "Yogi Babu",
+        "Duniya Vijay"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Hi"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 box office",
+      "Nayanthara Mookuthi Amman 2 collection",
+      "Sundar C film earnings",
+      "Mookuthi Amman 2 day 12 box office"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135944205,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mookuthi Amman 2 Box Office Collection Day 12: Nayanthara Starrer Witnesses a Sharp Decline",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T05:58:34+05:30"
+  },
+  "1hmo0o0": {
+    "id": "1hmo0o0",
+    "type": "news",
+    "headline": "Bouma Box Office Day 6: Sagar Surya's Horror Thriller Crosses Rs 5.68 Crore Amid Slight Dip",
+    "dek": "Malayalam gothic mystery thriller Bouma maintains steady momentum in theatres, crossing the Rs 5.68 crore mark by its sixth day despite a weekday reduction in ticket sales.",
+    "body": [
+      {
+        "h": "Box Office Milestone Reached",
+        "p": [
+          "The Malayalam gothic mystery thriller Bouma has achieved a notable domestic milestone, accumulating a total of Rs 5.68 crore in India net collections over its first six days in cinemas. Starring Sagar Surya in the lead role, the feature has drawn considerable attention from regional moviegoers since its theatrical launch.",
+          "On its sixth day, which fell on Tuesday, November 17, the picture brought in Rs 70 lakh from 736 shows across various screening slots. This single-day earning reflects a 15.7% decline compared to the previous day's performance when the film grossed Rs 83 lakh."
+        ]
+      },
+      {
+        "h": "Day-Wise Earnings Breakdown",
+        "p": [
+          "Bouma opened its box office journey on Thursday, November 12, with a modest collection of Rs 50 lakh net. The project immediately picked up pace on Friday, surging by 66% to pull in Rs 83 lakh before climbing further over the weekend.",
+          "Saturday saw collections reach Rs 1.32 crore, while Sunday recorded the highest single-day performance for the title thus far with Rs 1.50 crore. However, the customary weekday drop hit on Monday with a 44.7% reduction, followed by Tuesday's additional 15.7% dip."
+        ]
+      },
+      {
+        "h": "Ticket Sales and Audience Turnout",
+        "p": [
+          "According to industry tracking reports from Sacnilk, the horror venture sold approximately 53,434 tickets on Tuesday alone. This single-day figure brings the cumulative ticket sales across the six-day theatrical run to an estimated total of 411,780 admissions.",
+          "The overall India gross collection for the film currently stands at Rs 6.60 crore. Screenings in the Malayalam 2D format registered an aggregate occupancy rate of 28.50% on Tuesday, with night shows drawing the highest crowd concentration at 45.33%."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Across Showtimes",
+        "p": [
+          "Audience engagement varied across different times of the day during the film's sixth theatrical run. Afternoon screenings registered an occupancy rate of 23.92%, while evening shows recorded 21.75% attendance.",
+          "Morning shows saw the lowest turnout with a 17.25% occupancy rate. Despite a slight increase in total daily screenings from 735 on Monday to 736 on Tuesday, overall viewer percentages trended downward."
+        ]
+      },
+      {
+        "h": "Sequel Announcement and Future Plans",
+        "p": [
+          "Capitalising on the early theatrical momentum, the creators behind Bouma officially announced a second instalment via social media on Sunday, November 15. The confirmation assures audiences that the mysterious cinematic world will expand in the future.",
+          "At present, the production team has kept details regarding the sequel under wraps, withholding information about the upcoming plot, production schedules, or the returning cast members for the next chapter."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Critical Reception",
+        "p": [
+          "Written and directed by Rejin S Babu, Bouma blends gothic horror elements with a mystery-driven narrative. Alongside lead actor Sagar Surya, the project features prominent performances by Vineeth, Revathy Sharma, Dileesh Pothan, Aditi Balan, and Madhupal.",
+          "The technical crew includes Sharan Velayudhan as cinematographer, Christo Xavier as music composer, and Sooraj ES as editor. Upon release, the feature received a critical rating of 2.5 stars out of 5 from ETimes."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centres on a struggling singer who travels to an ancestral villa located in an estate in Peermade. The property is deeply linked to her childhood and distant memories she can barely recall, leading to unsettling overlaps between her past and present.",
+          "Simultaneously, local law enforcement investigates a series of missing women, with their search ultimately intersecting with the estate. The story unfolds across multiple timelines, incorporating supernatural undertones to explore the dark history of the location."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sagar Surya's Malayalam horror thriller Bouma has crossed Rs 5.68 crore in net collections during its first six days in theatres. Following a weekend peak, the film experienced a 15.7% dip on Tuesday while the makers simultaneously announced a sequel to the gothic mystery."
+        ]
+      }
+    ],
+    "facts": [
+      "Bouma collected Rs 5.68 crore in India net collections in its first six days.",
+      "The film earned Rs 70 lakh on Tuesday, November 17, from 736 shows.",
+      "Tuesday's collection represented a 15.7% decline from Monday's Rs 83 lakh.",
+      "Total ticket sales across the six-day run reached 411,780, with 53,434 tickets sold on Tuesday.",
+      "The film's India gross collection reached Rs 6.60 crore.",
+      "The sequel was officially announced on Sunday, November 15.",
+      "The film is written and directed by Rejin S Babu.",
+      "The cast includes Sagar Surya, Vineeth, Revathy Sharma, Dileesh Pothan, Aditi Balan, and Madhupal.",
+      "ETimes gave the film 2.5 stars out of 5."
+    ],
+    "entities": {
+      "people": [
+        "Sagar Surya",
+        "Rejin S Babu",
+        "Vineeth",
+        "Revathy Sharma",
+        "Dileesh Pothan",
+        "Aditi Balan",
+        "Madhupal",
+        "Sharan Velayudhan",
+        "Christo Xavier",
+        "Sooraj ES"
+      ],
+      "titles": [
+        "Bouma"
+      ]
+    },
+    "keywords": [
+      "Bouma box office collection",
+      "Sagar Surya Bouma thriller",
+      "Bouma Malayalam movie day 6",
+      "Bouma sequel announcement"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135944483,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bouma Box Office Day 6: Sagar Surya's Horror Thriller Crosses Rs 5.68 Crore Amid Slight Dip",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T06:16:51+05:30"
+  },
+  "98mjem": {
+    "id": "98mjem",
+    "type": "news",
+    "headline": "Suriya and Naslen starrer 'Scene' crosses Rs 252 crore worldwide on day 12",
+    "dek": "The thriller starring Suriya and Naslen continues its strong theatrical run, outpacing the star's previous release 'Vishwanath and Sons' with robust domestic and international numbers.",
+    "body": [
+      {
+        "h": "Box Office Momentum and Worldwide Milestones",
+        "p": [
+          "The collaborative thriller featuring actors Suriya and Naslen has continued to demonstrate steady theatrical momentum. Within twelve days of hitting cinema halls, the film's total worldwide gross collection has climbed to Rs 252.45 crore, bringing it steadily closer to the prominent Rs 300 crore global milestone.",
+          "The project's ongoing commercial success stems from robust multi-language distribution across thousands of screens, appealing to a broad demographic of moviegoers in both domestic and international markets."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Daily Performance",
+        "p": [
+          "On Tuesday, November 17, the feature added Rs 2.90 crore in net domestic collections across India. This latest single-day intake was distributed across 4,011 active shows encompassing both the Tamil and Telugu language versions.",
+          "The film's cumulative domestic net collection has now advanced to Rs 142.40 crore, while the corresponding gross figures within India stand at an impressive Rs 165.45 crore, reflecting consistent audience footfall well into its second week."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution and Occupancy",
+        "p": [
+          "The Tamil version remains the primary driver of the film's commercial returns, accumulating a cumulative India net collection of Rs 114.15 crore, which accounts for approximately 80.2 percent of the total domestic business. On its twelfth day, the Tamil variant generated Rs 2.05 crore from 2,781 shows.",
+          "Meanwhile, the Telugu version has chipped in with a cumulative domestic net of Rs 28.25 crore, making up the remaining 19.8 percent. On the specific tracked day, the Telugu variant brought in Rs 85 lakh from 1,230 shows, supported by steady occupancy rates throughout morning, afternoon, and evening screenings."
+        ]
+      },
+      {
+        "h": "Regional Distribution Across States",
+        "p": [
+          "Geographically, Tamil Nadu continues to anchor the domestic gross collections, contributing Rs 1.50 crore on the tracked day alone, which represents nearly 44.8 percent of the regional total. Other southern states also played a vital role in sustaining the numbers.",
+          "Audience turnout in Andhra Pradesh and Telangana collectively yielded Rs 85 lakh, Kerala added another Rs 55 lakh, Karnataka contributed Rs 40 lakh, and remaining Indian territories rounded out the figures with an additional Rs 5 lakh."
+        ]
+      },
+      {
+        "h": "International Markets and Overseas Gross",
+        "p": [
+          "Beyond domestic borders, the film has found a warm reception among overseas audiences. International territories contributed another Rs 1 crore on Day 12 alone, elevating the total overseas gross collection to an impressive Rs 87 crore.",
+          "At present, domestic territories account for roughly 65.5 percent of the film's worldwide gross, while international markets contribute the remaining 34.5 percent of the global revenue distribution."
+        ]
+      },
+      {
+        "h": "Surpassing 'Vishwanath and Sons'",
+        "p": [
+          "The current box office trajectory has allowed 'Scene' to outperform Suriya's earlier release, 'Vishwanath and Sons', when comparing earnings at the exact same twelve-day milestone. The older film had recorded a worldwide gross of Rs 182.30 crore by its twelfth day.",
+          "Directed by Jithu Madhavan, the new release has comfortably outpaced those preceding benchmarks, underscoring a notable upward shift in box office performance for the lead actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Naslen's multi-language thriller 'Scene' reached a worldwide gross of Rs 252.45 crore by its twelfth day, driven by strong domestic and international ticket sales. The film successfully surpassed the twelve-day benchmarks set by the actor's previous release, 'Vishwanath and Sons', while continuing a steady second-week theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide gross collection reached Rs 252.45 crore in 12 days.",
+      "India net collection on Tuesday, November 17 was Rs 2.90 crore.",
+      "Total active shows on Day 12 numbered 4,011.",
+      "Cumulative domestic net collection reached Rs 142.40 crore.",
+      "India gross collection stands at Rs 165.45 crore.",
+      "International gross collection reached Rs 87 crore.",
+      "Tamil version cumulative India net is Rs 114.15 crore.",
+      "Telugu version cumulative India net is Rs 28.25 crore.",
+      "Vishwanath and Sons recorded a worldwide gross of Rs 182.30 crore by its twelfth day."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "Scene",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Naslen Scene movie",
+      "Scene day 12 worldwide earnings",
+      "Scene surpasses Vishwanath and Sons"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135943912,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya and Naslen starrer 'Scene' crosses Rs 252 crore worldwide on day 12",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T05:32:39+05:30"
   }
 };

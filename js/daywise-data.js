@@ -4569,7 +4569,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-17",
       "day": "Day 13",
-      "collection": 3032224
+      "collection": 3032224,
+      "overseas": 1267829,
+      "shows": 22551,
+      "occupancy": 22.9
     }
   ],
   "1607833": [
@@ -4822,6 +4825,14 @@ window.FA_DAYWISE = {
       "collection": 301109,
       "overseas": 158479,
       "shows": 3948,
+      "occupancy": 19.7
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Day 12",
+      "collection": 306392,
+      "overseas": 105652,
+      "shows": 4011,
       "occupancy": 19.7
     }
   ],
@@ -5098,7 +5109,16 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-12",
       "day": "Day 1",
-      "collection": 52826
+      "collection": 52826,
+      "shows": 401,
+      "occupancy": 36.0
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Day 6",
+      "collection": 73957,
+      "shows": 736,
+      "occupancy": 31.0
     }
   ],
   "1567605": [
