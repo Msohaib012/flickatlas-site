@@ -45,6 +45,56 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 16:23:34 +0200"
   },
+  "1i0uqao": {
+    "id": "1i0uqao",
+    "type": "news",
+    "headline": "Ramayana Box Office: Ranbir Kapoor and Yash Film Enters Top 7 Highest-Grossing Indian Films Worldwide",
+    "dek": "The mythological drama Ramayana, starring Ranbir Kapoor and Yash, has crossed the Rs 1,400 crore milestone globally within its first 14 days in theaters.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sonal Jha",
+        "Adinath Kothare",
+        "Nitish Sharma",
+        "Shobana",
+        "Rakul Preet Singh",
+        "Kajal Agarwal",
+        "Anupam Kher",
+        "Sunny Deol",
+        "Taran Adarsh",
+        "Kevin Feige",
+        "Jensen Huang",
+        "Rahul Gandhi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part Two",
+        "Godzilla Minus Zero",
+        "Avengers Doomsday"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156528429,thumbsize-270162,width-1280,height-720,resizemode-75/156528429.jpg",
+        "caption": "Ramayana Box Office: Ranbir Kapoor and Yash Film Enters Top 7 Highest-Grossing Indian Films Worldwide",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T12:51:47Z"
+  },
   "1i9herl": {
     "id": "1i9herl",
     "type": "news",
@@ -99,6 +149,140 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 11:50:45 +0000"
+  },
+  "1vatu2v": {
+    "id": "1vatu2v",
+    "type": "news",
+    "headline": "BBC Releases First Look at Sci-Fi Thriller Sutherland Starring Gugu Mbatha-Raw",
+    "dek": "The upcoming six-part drama blends deep space exploration with a terrestrial mystery rooted in the Scottish Highlands.",
+    "entities": {
+      "people": [
+        "David Craig",
+        "Mirren Wood",
+        "Gugu Mbatha-Raw",
+        "Logan Muir",
+        "Stuart Martin",
+        "Iain De Caestecker",
+        "Calum",
+        "Michael McElhatton",
+        "Holden",
+        "Ingrid Oliver",
+        "Cambridge",
+        "Phyllis Logan",
+        "Fiona",
+        "Ivana Miličević",
+        "Vera",
+        "Tibu Fortes",
+        "Aziz",
+        "Jacob Hauberg Lohmann",
+        "Arne",
+        "Sam Hazeldine",
+        "Estes",
+        "James Mackenzie",
+        "Bennet",
+        "Oli Fyne",
+        "Polly",
+        "Amy Manson",
+        "Catriona",
+        "Nicholas Rowe",
+        "Professor Crowther",
+        "James Smythe",
+        "Laura Grace",
+        "Chloë Wicks",
+        "Patrick Harkins"
+      ],
+      "titles": [
+        "Sutherland",
+        "Doctor Who",
+        "Downton Abbey",
+        "Loki",
+        "The War Between the Land and the Sea",
+        "Rebel Moon",
+        "The Winter King",
+        "Agents of SHIELD",
+        "House of Guinness",
+        "Game of Thrones",
+        "Sweetpea",
+        "Guilt",
+        "Banshee",
+        "Shetland",
+        "Oxen",
+        "Slow Horses",
+        "Outlander",
+        "Bookish",
+        "Rebus",
+        "The Crown",
+        "All Her Fault",
+        "Vigil",
+        "Line of Duty",
+        "Truelove",
+        "The Gold",
+        "The Winter King Podcast"
+      ]
+    },
+    "keywords": [
+      "Sutherland BBC sci-fi thriller",
+      "Gugu Mbatha-Raw Sutherland",
+      "Stuart Martin Sutherland series",
+      "Sutherland release date BBC"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/5.-Sam-Hazeldine-Ingrid-Oliver-and-James-Mackenzie-as-Estes-Cambridge-and-Bennet-in-Sutherland-coming-to-BBC-iPlayer-and-BBC-One-b56f3ec.jpg?resize=1200%2C630",
+        "caption": "BBC Releases First Look at Sci-Fi Thriller Sutherland Starring Gugu Mbatha-Raw",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 11:32:02 GMT"
+  },
+  "sfdsgg": {
+    "id": "sfdsgg",
+    "type": "news",
+    "headline": "Teaser Released for Devotional Drama Manikanda Starring Vaibhav",
+    "dek": "The makers of the upcoming Tamil film Manikanda have unveiled its official teaser, showcasing a devotional journey centered around Lord Ayyappa and featuring a star-studded cast.",
+    "entities": {
+      "people": [
+        "Vaibhav",
+        "Vishnu Sasi Shankar",
+        "Meenakshi Govindarajan",
+        "Aadukalam Naren",
+        "Aravind Aakash",
+        "Ravi Mohan",
+        "Mirchi Shiva",
+        "Venkat Prabhu",
+        "Krishna",
+        "Mahath",
+        "Prem Gi Amaren",
+        "Gangai Amaren",
+        "Yuvan Selva",
+        "Praveen KL",
+        "Adithya Tangirala",
+        "JK Saravana",
+        "Prithivi Adithya",
+        "Surya Rajeevan",
+        "Janakiraman",
+        "Stunt Silva",
+        "Sakthi Saravanan"
+      ],
+      "titles": [
+        "Manikanda",
+        "Malikappuram"
+      ]
+    },
+    "keywords": [
+      "Manikanda film teaser",
+      "Vaibhav Manikanda Tamil movie",
+      "Vishnu Sasi Shankar Manikanda",
+      "Manikanda release date Mandala Kaalam"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135961144,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Teaser Released for Devotional Drama Manikanda Starring Vaibhav",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T16:48:48+05:30"
   },
   "qq6x0q": {
     "id": "qq6x0q",
@@ -169,6 +353,69 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 10:58:05 +0000"
+  },
+  "ebc1ta": {
+    "id": "ebc1ta",
+    "type": "news",
+    "headline": "Unforgotten Season 7 First-Look Trailer Teases Emotional Territory for Jess and Sunny",
+    "dek": "ITV has revealed a first-look trailer for Unforgotten season 7, confirming a 2027 release date and announcing a star-studded cast addition.",
+    "entities": {
+      "people": [
+        "David Craig",
+        "Sophie Rundle",
+        "Kirsty J Curtis",
+        "Julian Rhind-Tutt",
+        "Natalie Simpson",
+        "Jessica 'Jess' James",
+        "Sunny Khan",
+        "Sinéad Keenan",
+        "Sanjeev Bhaskar",
+        "Jordan Long",
+        "Carolina Main",
+        "Pippa Nixon",
+        "Georgia Mackenzie",
+        "Leanne Balcombe",
+        "Paul Kaye",
+        "Jo Hartley",
+        "Paula Wilcox",
+        "Susan Hampshire",
+        "Philip Martin Brown",
+        "Andrew Lancel",
+        "Steve",
+        "Kate Robbins",
+        "Kate",
+        "Chris Lang",
+        "Andy Wilson",
+        "Gerry Cooper",
+        "Mary Brock",
+        "Lacee Cook",
+        "Hugh Swafham",
+        "Ruby Allenford",
+        "Murray Boulting",
+        "Fran Lingley",
+        "Kaz Willets"
+      ],
+      "titles": [
+        "Unforgotten",
+        "Peaky Blinders",
+        "The Winter King Podcast",
+        "High School Musical"
+      ]
+    },
+    "keywords": [
+      "Unforgotten season 7",
+      "Unforgotten trailer ITV",
+      "Sophie Rundle Unforgotten",
+      "Jess and Sunny Unforgotten"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/unforgotten-sanjeev-sinead-season-7-c7d07c7.jpg?resize=1200%2C630",
+        "caption": "Unforgotten Season 7 First-Look Trailer Teases Emotional Territory for Jess and Sunny",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 10:45:10 GMT"
   },
   "1o3iobz": {
     "id": "1o3iobz",
@@ -4636,168 +4883,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 17 Nov 2026 06:44:00 +0000"
   },
-  "137ablb": {
-    "id": "137ablb",
-    "type": "news",
-    "headline": "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
-    "dek": "Marvel's highly anticipated blockbuster Avengers: Doomsday has set a new benchmark by launching midnight ticket sales more than thirty days before its theatrical debut in India.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr",
-        "Shah Rukh Khan"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Oppenheimer",
-        "Dune: Part Three",
-        "Jumanji: Open World",
-        "King"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Avengers Doomsday advance booking",
-      "Marvel Films",
-      "Robert Downey Jr Doctor Doom"
-    ],
-    "images": [
-      {
-        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Avengers-620.jpeg",
-        "caption": "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
-        "source": "Bollywood Hungama"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 08:32:50 +0200"
-  },
-  "gi3li": {
-    "id": "gi3li",
-    "type": "news",
-    "headline": "Ramayana Box Office Collection Day 12: Ranbir Kapoor Starrer Crosses Major Milestones",
-    "dek": "The mythological epic Ramayana continues its strong theatrical run, crossing major box office milestones after 12 days in cinemas.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Nitish Tiwari",
-        "Namit Malhotra",
-        "Adinath Kothare",
-        "Ravi Dubey",
-        "Anupam Kher",
-        "Lara Dutta",
-        "Vivek Oberoi",
-        "Rakul Preet Singh",
-        "Arun Govil",
-        "Sheeba Chaddha",
-        "Allu Arjun"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana day 12 collection",
-      "Ramayana Hindi market collection",
-      "Ramayana vs Pushpa 2"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday12feature1-94801794894246.jpg",
-        "caption": "Ramayana Box Office Collection Day 12: Ranbir Kapoor Starrer Crosses Major Milestones",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 11:15:40 +0530"
-  },
-  "1aaagzs": {
-    "id": "1aaagzs",
-    "type": "news",
-    "headline": "Brad Pitt and Ines De Ramon Make a Red Carpet Appearance at Hollywood Premiere",
-    "dek": "The acclaimed actor and his partner walked hand in hand at the star-studded debut for his upcoming feature.",
-    "entities": {
-      "people": [
-        "Brad Pitt",
-        "Inés de Ramón",
-        "Quentin Tarantino",
-        "Jaden Smith",
-        "David Fincher",
-        "Timothy Olyphant",
-        "Yahya Abdul-Mateen II",
-        "Courtney Cox",
-        "Scott Caan",
-        "Connie Britton",
-        "Elizabeth Debicki",
-        "Sam Trammell",
-        "Reagan Yorke",
-        "Carla Gugino"
-      ],
-      "titles": [
-        "The Further Mis-Adventures of Cliff Booth",
-        "Once Upon A Time in Hollywood"
-      ]
-    },
-    "keywords": [
-      "Brad Pitt",
-      "Ines De Ramon",
-      "The Further Mis-Adventures of Cliff Booth",
-      "Once Upon A Time in Hollywood",
-      "Cliff Booth premiere"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135911972,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Brad Pitt and Ines De Ramon Make a Red Carpet Appearance at Hollywood Premiere",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-17T10:55:03+05:30"
-  },
-  "1wjboag": {
-    "id": "1wjboag",
-    "type": "news",
-    "headline": "Ramayana Overseas Box Office: Highest Grossing Indian Film In Phase 1 Takes Only 11 Days",
-    "dek": "Ramayana has achieved a historic milestone by crossing $51.75 million overseas in just 11 days, becoming the highest-grossing Indian film of all time in Phase 1.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Shah Rukh Khan"
-      ],
-      "titles": [
-        "Ramayana",
-        "Dhurandhar 2",
-        "Pathaan",
-        "Jawan",
-        "Baahubali 2",
-        "Dhurandhar",
-        "Kalki 2898 AD",
-        "Pushpa 2",
-        "Animal",
-        "Dangal",
-        "Secret Superstar",
-        "Disco Dancer",
-        "Bajrangi Bhaijaan",
-        "Andhadhun"
-      ]
-    },
-    "keywords": [
-      "Ramayana overseas box office",
-      "Ramayana Phase 1 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana box office record"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-overseas-box-office-01.jpg",
-        "caption": "Ramayana Overseas Box Office: Highest Grossing Indian Film In Phase 1 Takes Only 11 Days",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 05:12:57 +0000"
-  },
   "196ll1": {
     "id": "196ll1",
     "type": "news",
@@ -4928,6 +5013,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-16T14:45:28Z"
+  },
+  "u6q5rp": {
+    "id": "u6q5rp",
+    "type": "news",
+    "headline": "Mumbai Court Orders Release of Delhi Man Arrested Over Morphed Photos of Sonakshi Sinha",
+    "dek": "A Mumbai court has ordered the release of a Delhi resident arrested following a complaint by Sonakshi Sinha regarding manipulated social media images, citing significant procedural flaws in the arrest.",
+    "entities": {
+      "people": [
+        "Sonakshi Sinha",
+        "Aryan Deepak Jain",
+        "Aman Shahi",
+        "Prashant Trivedi",
+        "Aditya Jain",
+        "Sania Mirza",
+        "Zaheer Iqbal Khan"
+      ],
+      "titles": [
+        "Serving It Up With Sania"
+      ]
+    },
+    "keywords": [
+      "Sonakshi Sinha morphed photos",
+      "Aryan Deepak Jain Delhi man",
+      "Bandra Police Sonakshi Sinha",
+      "Mumbai court release Delhi man"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-9.35.jpg.jpeg",
+        "caption": "Mumbai Court Orders Release of Delhi Man Arrested Over Morphed Photos of Sonakshi Sinha",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 16 Nov 2026 09:43:48 +0200"
   },
   "eh6qc3": {
     "id": "eh6qc3",
@@ -5083,6 +5202,37 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-15T14:45:19Z"
+  },
+  "1ilvaza": {
+    "id": "1ilvaza",
+    "type": "news",
+    "headline": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
+    "dek": "Actor Sonakshi Sinha approached the police after objecting to morphed photographs of herself circulating on social media, resulting in an arrest in Delhi that was later overturned by a Mumbai court due to procedural lapses.",
+    "entities": {
+      "people": [
+        "Sonakshi Sinha",
+        "Aryan Deepak Jain",
+        "Aman Shahi",
+        "Prashant Trivedi",
+        "Aditya Jain",
+        "Monica Yadav"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sonakshi Sinha",
+      "Aryan Deepak Jain",
+      "morphed photographs complaint",
+      "Mumbai court release"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/15/1600x900/logo/Sonakshi_Sinha_1794722659291_tctK_1794722659413_FGin_36186392-981a-4b5a-b6ed-755031d61fd9_2Qz8.jpg",
+        "caption": "Sonakshi Sinha Files Complaint Over Morphed Photos, Man Arrested in Delhi Later Released by Mumbai Court",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 11:40:36 +0530"
   },
   "3jqsav": {
     "id": "3jqsav",

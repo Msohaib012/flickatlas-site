@@ -181209,5 +181209,496 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 10:58:05 +0000"
+  },
+  "1vatu2v": {
+    "id": "1vatu2v",
+    "type": "news",
+    "headline": "BBC Releases First Look at Sci-Fi Thriller Sutherland Starring Gugu Mbatha-Raw",
+    "dek": "The upcoming six-part drama blends deep space exploration with a terrestrial mystery rooted in the Scottish Highlands.",
+    "body": [
+      {
+        "h": "First Look at Sutherland",
+        "p": [
+          "The BBC has officially unveiled the first batch of images and casting details for Sutherland, an upcoming six-part science fiction thriller series. Set to premiere in 2027, the ambitious drama reaches from the remote landscapes of northern Scotland out into the vast expanses of deep space.",
+          "The production is scheduled to broadcast on BBC One and stream on BBC iPlayer. Fans of speculative fiction and intricate mysteries can anticipate a story that bridges the gap between cosmic ambition and terrestrial secrets."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative is set in the near future within the Scottish region of Sutherland, where a privately funded spaceport prepares to launch the United Kingdom's very first crewed space mission. At the helm of the operation is flight director Mirren Wood.",
+          "Simultaneously, back on solid ground, Detective Sergeant Logan Muir takes on a bizarre case. He investigates the peculiar return of a missing biologist who attempted to infiltrate the spaceport unlawfully. As the space mission progresses and the investigation deepens, both threads are revealed to be intertwined with a decades-old mystery."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "The series features a prominent ensemble cast boasting veterans of popular franchises like Doctor Who and Downton Abbey. Gugu Mbatha-Raw takes the lead role of flight director Mirren Wood, supported by Stuart Martin as DS Logan Muir and Iain De Caestecker as Calum.",
+          "Michael McElhatton portrays Holden, the head of the Paravel Space Hub. The broader cast includes Ingrid Oliver as astronaut Cambridge, Phyllis Logan as Fiona, Ivana Miličević as Vera, Tibu Fortes as Aziz, and Jacob Hauberg Lohmann as Arne."
+        ]
+      },
+      {
+        "h": "Expanded Ensemble",
+        "p": [
+          "Rounding out the extensive character lineup are Sam Hazeldine and James Mackenzie as astronauts Estes and Bennet. Oli Fyne appears as Holden's daughter Polly, Amy Manson takes on the role of detective Catriona, and Nicholas Rowe portrays Professor Crowther.",
+          "The rich variety of characters brings together actors known from numerous high-profile television projects, establishing high expectations for the dramatic dynamics within the facility and beyond."
+        ]
+      },
+      {
+        "h": "Behind the Scenes",
+        "p": [
+          "Sutherland is produced by World Productions, the acclaimed studio previously behind successful dramas such as Vigil and Line of Duty. Production on the series has officially wrapped following filming on location in Scotland.",
+          "The scripts are penned by writer and creator James Smythe, with Laura Grace contributing as writer for the fourth episode. Directing duties for the series are shared between Chloë Wicks and Patrick Harkins."
+        ]
+      },
+      {
+        "h": "Themes and Atmosphere",
+        "p": [
+          "According to official synopses provided by the BBC, Sutherland is framed as a sci-fi mystery with love and loss at its emotional core. The narrative explores humanity's innate drive to look outward and understand what lies beyond the stars.",
+          "At the same time, the story questions what has remained hidden on Earth all along, merging existential wonder with grounded investigative drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC has provided a first look at the upcoming six-part sci-fi thriller Sutherland, which is scheduled to air on BBC One and BBC iPlayer in 2027. Created by James Smythe and produced by World Productions, the series stars Gugu Mbatha-Raw and Stuart Martin in a story blending a historic crewed space mission from Scotland with a mysterious terrestrial investigation."
+        ]
+      }
+    ],
+    "facts": [
+      "Sutherland is a six-part sci-fi thriller series coming in 2027.",
+      "The series will air on BBC One and BBC iPlayer.",
+      "Gugu Mbatha-Raw plays flight director Mirren Wood.",
+      "Stuart Martin plays DS Logan Muir.",
+      "Iain De Caestecker plays Calum.",
+      "Michael McElhatton plays Holden.",
+      "Ingrid Oliver plays astronaut Cambridge.",
+      "Phyllis Logan plays Fiona.",
+      "James Smythe is the writer and creator.",
+      "Laura Grace penned episode four.",
+      "Chloë Wicks and Patrick Harkins handle directing duties.",
+      "World Productions is the production company."
+    ],
+    "entities": {
+      "people": [
+        "David Craig",
+        "Mirren Wood",
+        "Gugu Mbatha-Raw",
+        "Logan Muir",
+        "Stuart Martin",
+        "Iain De Caestecker",
+        "Calum",
+        "Michael McElhatton",
+        "Holden",
+        "Ingrid Oliver",
+        "Cambridge",
+        "Phyllis Logan",
+        "Fiona",
+        "Ivana Miličević",
+        "Vera",
+        "Tibu Fortes",
+        "Aziz",
+        "Jacob Hauberg Lohmann",
+        "Arne",
+        "Sam Hazeldine",
+        "Estes",
+        "James Mackenzie",
+        "Bennet",
+        "Oli Fyne",
+        "Polly",
+        "Amy Manson",
+        "Catriona",
+        "Nicholas Rowe",
+        "Professor Crowther",
+        "James Smythe",
+        "Laura Grace",
+        "Chloë Wicks",
+        "Patrick Harkins"
+      ],
+      "titles": [
+        "Sutherland",
+        "Doctor Who",
+        "Downton Abbey",
+        "Loki",
+        "The War Between the Land and the Sea",
+        "Rebel Moon",
+        "The Winter King",
+        "Agents of SHIELD",
+        "House of Guinness",
+        "Game of Thrones",
+        "Sweetpea",
+        "Guilt",
+        "Banshee",
+        "Shetland",
+        "Oxen",
+        "Slow Horses",
+        "Outlander",
+        "Bookish",
+        "Rebus",
+        "The Crown",
+        "All Her Fault",
+        "Vigil",
+        "Line of Duty",
+        "Truelove",
+        "The Gold",
+        "The Winter King Podcast"
+      ]
+    },
+    "keywords": [
+      "Sutherland BBC sci-fi thriller",
+      "Gugu Mbatha-Raw Sutherland",
+      "Stuart Martin Sutherland series",
+      "Sutherland release date BBC"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/5.-Sam-Hazeldine-Ingrid-Oliver-and-James-Mackenzie-as-Estes-Cambridge-and-Bennet-in-Sutherland-coming-to-BBC-iPlayer-and-BBC-One-b56f3ec.jpg?resize=1200%2C630",
+        "caption": "BBC Releases First Look at Sci-Fi Thriller Sutherland Starring Gugu Mbatha-Raw",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 11:32:02 GMT"
+  },
+  "sfdsgg": {
+    "id": "sfdsgg",
+    "type": "news",
+    "headline": "Teaser Released for Devotional Drama Manikanda Starring Vaibhav",
+    "dek": "The makers of the upcoming Tamil film Manikanda have unveiled its official teaser, showcasing a devotional journey centered around Lord Ayyappa and featuring a star-studded cast.",
+    "body": [
+      {
+        "h": "Introduction to the Teaser Release",
+        "p": [
+          "The creative team behind the upcoming Tamil cinematic venture Manikanda has officially rolled out the teaser, providing fans with their very first visual introduction to the project. This newly revealed footage sets a devotional tone, immediately signaling to audiences that the story dives deep into spiritual themes.",
+          "With the arrival of this first glimpse, excitement has steadily built around how the narrative will unfold. The project brings together a notable blend of storytelling and spiritual elements, capturing immediate attention across the Tamil entertainment landscape."
+        ]
+      },
+      {
+        "h": "Cast and Character Lineup",
+        "p": [
+          "Actor Vaibhav steps into the primary lead role, anchoring the devotional drama with his central performance. Alongside him, the film features Meenakshi Govindarajan, Aadukalam Naren, and Aravind Aakash in significant supporting capacities that shape the unfolding plot.",
+          "Beyond the primary ensemble, the production boasts an extensive array of special guest appearances. Notable figures such as Ravi Mohan, Mirchi Shiva, Venkat Prabhu, Krishna, Mahath, Prem Gi Amaren, and Gangai Amaren are slated to make memorable cameo insertions."
+        ]
+      },
+      {
+        "h": "Directorial Vision and Production Team",
+        "p": [
+          "The project is directed by Vishnu Sasi Shankar, who previously helmed the filmmaker's seat for Malikappuram. His prior experience with spiritually resonant narratives informs the atmospheric direction seen throughout the newly launched teaser.",
+          "In addition to his on-screen cameo appearance, Venkat Prabhu contributes behind the scenes as the creative producer. The technical backbone is further strengthened by music composer Prem Gi Amaren and cinematographer Yuvan Selva."
+        ]
+      },
+      {
+        "h": "Writers and Technical Crew",
+        "p": [
+          "The foundational story and screenplay are credited to Adithya Tangirala and JK Saravana, ensuring a structured narrative framework. Their work is complemented by sharp dialogues penned by Prithivi Adithya.",
+          "National Award-winning editor Praveen KL manages the editing suite. The visual and action aesthetics are further rounded out by production designer Surya Rajeevan, art director Janakiraman, and stunt choreographers Stunt Silva and Sakthi Saravanan."
+        ]
+      },
+      {
+        "h": "Thematic Focus and Cultural Context",
+        "p": [
+          "At its core, Manikanda revolves heavily around Lord Ayyappa, weaving faith and devotion into its primary dramatic framework. This thematic choice connects the film deeply with traditional cultural practices and regional reverence.",
+          "While specific character arcs and comprehensive plot outlines remain tightly under wraps, the spiritual core is expected to resonate strongly with viewers who appreciate culturally grounded cinema."
+        ]
+      },
+      {
+        "h": "Theatrical Release Plans",
+        "p": [
+          "Following the promotional momentum of the teaser debut, discussions have naturally turned toward when the feature will land in cinemas. The distribution plan targets a worldwide theatrical launch during the Mandala Kaalam period.",
+          "Although the specific calendar date remains unannounced by the producers, tying the premiere window directly to the Mandala season is poised to play a vital role in the film's promotional campaign."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official teaser for the upcoming Tamil devotional film Manikanda has been released, showcasing Vaibhav in the lead role under the direction of Vishnu Sasi Shankar. The project features a wide array of prominent actors in special appearances and is scheduled for a worldwide theatrical release during the Mandala Kaalam period in 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Vaibhav leads the Tamil movie Manikanda",
+      "Vishnu Sasi Shankar directed the film",
+      "The film revolves around Lord Ayyappa",
+      "The teaser was released on November 18, 2026",
+      "The film is scheduled for a worldwide release during the Mandala Kaalam in 2026"
+    ],
+    "entities": {
+      "people": [
+        "Vaibhav",
+        "Vishnu Sasi Shankar",
+        "Meenakshi Govindarajan",
+        "Aadukalam Naren",
+        "Aravind Aakash",
+        "Ravi Mohan",
+        "Mirchi Shiva",
+        "Venkat Prabhu",
+        "Krishna",
+        "Mahath",
+        "Prem Gi Amaren",
+        "Gangai Amaren",
+        "Yuvan Selva",
+        "Praveen KL",
+        "Adithya Tangirala",
+        "JK Saravana",
+        "Prithivi Adithya",
+        "Surya Rajeevan",
+        "Janakiraman",
+        "Stunt Silva",
+        "Sakthi Saravanan"
+      ],
+      "titles": [
+        "Manikanda",
+        "Malikappuram"
+      ]
+    },
+    "keywords": [
+      "Manikanda film teaser",
+      "Vaibhav Manikanda Tamil movie",
+      "Vishnu Sasi Shankar Manikanda",
+      "Manikanda release date Mandala Kaalam"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135961144,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Teaser Released for Devotional Drama Manikanda Starring Vaibhav",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T16:48:48+05:30"
+  },
+  "ebc1ta": {
+    "id": "ebc1ta",
+    "type": "news",
+    "headline": "Unforgotten Season 7 First-Look Trailer Teases Emotional Territory for Jess and Sunny",
+    "dek": "ITV has revealed a first-look trailer for Unforgotten season 7, confirming a 2027 release date and announcing a star-studded cast addition.",
+    "body": [
+      {
+        "h": "First-Look Trailer Released",
+        "p": [
+          "ITV has launched a twenty-second teaser trailer for the upcoming seventh season of the acclaimed crime drama Unforgotten.",
+          "The promotional footage offers fans an initial glimpse into the narrative direction and confirms that the show will return to television screens in the year 2027."
+        ]
+      },
+      {
+        "h": "The Cold Case Begins",
+        "p": [
+          "The new chapter of the series starts with the discovery of teenage human remains located within a crawl space in Ladbroke Grove.",
+          "A successful DNA match linked to a historic case pulls the central detectives back into an older investigation that connects London and Great Yarmouth."
+        ]
+      },
+      {
+        "h": "New Faces and Dark Secrets",
+        "p": [
+          "As the inquiry into the young victim's life progresses, the detectives encounter a fresh array of characters whose daily lives conceal hidden secrets.",
+          "The newly introduced individuals feature troubled social worker Mary Brock, respected inmate Lacee Cook, struggling addict Hugh Swafham, and tenacious journalist Ruby Allenford."
+        ]
+      },
+      {
+        "h": "Returning Cast and Crew",
+        "p": [
+          "This upcoming run follows a sixth entry that drew an audience of more than nine million viewers under the guidance of creators and directors.",
+          "Core detectives DCI Jessica 'Jess' James and DI Sunny Khan return alongside familiar ensemble members such as Jordan Long, Carolina Main, Pippa Nixon, and Georgia Mackenzie."
+        ]
+      },
+      {
+        "h": "Behind the Scenes",
+        "p": [
+          "The series is created and written by Chris Lang and directed by Andy Wilson, with filming having already wrapped on the new episodes.",
+          "Both leading actors have expressed enthusiasm regarding their return, noting that the script delivers another intricate web of secrets while pushing the team into uncharted emotional territory."
+        ]
+      },
+      {
+        "h": "Broadcasting and Availability",
+        "p": [
+          "Unforgotten is scheduled to arrive soon on ITV and ITVX, where viewers can also stream older episodes from past seasons.",
+          "The production continues its tradition of gripping cold-case storytelling while expanding its dramatic scope for the upcoming seventh chapter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ITV released a teaser trailer for the seventh season of Unforgotten, confirming a 2027 premiere alongside a cold case spanning London and Great Yarmouth. The upcoming episodes feature returning leads alongside a new guest cast including Sophie Rundle."
+        ]
+      }
+    ],
+    "facts": [
+      "Unforgotten season 7 will return in 2027",
+      "ITV released a 20-second first-look teaser",
+      "The new chapter begins with teenage human remains found in a crawl space in Ladbroke Grove",
+      "The investigation stretches between London and Great Yarmouth",
+      "Sophie Rundle plays troubled social worker Mary Brock",
+      "Kirsty J Curtis plays respected inmate Lacee Cook",
+      "Julian Rhind-Tutt plays struggling addict Hugh Swafham",
+      "Natalie Simpson plays tenacious journalist Ruby Allenford",
+      "Season 6 drew more than nine million viewers",
+      "Sinéad Keenan plays DCI Jessica 'Jess' James",
+      "Sanjeev Bhaskar plays DI Sunny Khan",
+      "Chris Lang created and wrote Unforgotten",
+      "Andy Wilson directed the episodes"
+    ],
+    "entities": {
+      "people": [
+        "David Craig",
+        "Sophie Rundle",
+        "Kirsty J Curtis",
+        "Julian Rhind-Tutt",
+        "Natalie Simpson",
+        "Jessica 'Jess' James",
+        "Sunny Khan",
+        "Sinéad Keenan",
+        "Sanjeev Bhaskar",
+        "Jordan Long",
+        "Carolina Main",
+        "Pippa Nixon",
+        "Georgia Mackenzie",
+        "Leanne Balcombe",
+        "Paul Kaye",
+        "Jo Hartley",
+        "Paula Wilcox",
+        "Susan Hampshire",
+        "Philip Martin Brown",
+        "Andrew Lancel",
+        "Steve",
+        "Kate Robbins",
+        "Kate",
+        "Chris Lang",
+        "Andy Wilson",
+        "Gerry Cooper",
+        "Mary Brock",
+        "Lacee Cook",
+        "Hugh Swafham",
+        "Ruby Allenford",
+        "Murray Boulting",
+        "Fran Lingley",
+        "Kaz Willets"
+      ],
+      "titles": [
+        "Unforgotten",
+        "Peaky Blinders",
+        "The Winter King Podcast",
+        "High School Musical"
+      ]
+    },
+    "keywords": [
+      "Unforgotten season 7",
+      "Unforgotten trailer ITV",
+      "Sophie Rundle Unforgotten",
+      "Jess and Sunny Unforgotten"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/unforgotten-sanjeev-sinead-season-7-c7d07c7.jpg?resize=1200%2C630",
+        "caption": "Unforgotten Season 7 First-Look Trailer Teases Emotional Territory for Jess and Sunny",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 10:45:10 GMT"
+  },
+  "1i0uqao": {
+    "id": "1i0uqao",
+    "type": "news",
+    "headline": "Ramayana Box Office: Ranbir Kapoor and Yash Film Enters Top 7 Highest-Grossing Indian Films Worldwide",
+    "dek": "The mythological drama Ramayana, starring Ranbir Kapoor and Yash, has crossed the Rs 1,400 crore milestone globally within its first 14 days in theaters.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The mythological epic Ramayana has achieved a significant milestone by entering the list of the top seven highest-grossing Indian films worldwide. In just fourteen days of theatrical release, the ambitious feature has crossed the massive Rs 1,400 crore threshold globally.",
+          "Mounted on a grand cinematic scale, the film continues its steady march toward the Rs 2,000 crore club. Within its first eleven days alone, the production accumulated $147.5 million internationally."
+        ]
+      },
+      {
+        "h": "Weekend Earnings and Distribution",
+        "p": [
+          "Handled overseas by Sony Pictures Releasing International, the feature opened to a strong $55.7 million during its first weekend worldwide. The subsequent weekend added another $38.1 million to the tally, reflecting a 34 percent drop compared to the opening figures.",
+          "The feature initially debuted in select territories including India, North America, the U.K., Thailand, Indonesia, and Australia on November 5."
+        ]
+      },
+      {
+        "h": "Upcoming International Expansion",
+        "p": [
+          "The global theatrical run is set to widen further with upcoming launches across multiple countries. Brazil, Italy, Ukraine, Hungary, and Poland are scheduled to receive the film on November 19 and 20.",
+          "Additional markets including Argentina, Central America, Colombia, Ecuador, Peru, and Czechia will screen the movie starting November 26. Furthermore, the makers are targeting 2027 releases in key regions like China, Russia, Japan, and South Korea, with the project already submitted for censor board clearance in China."
+        ]
+      },
+      {
+        "h": "Impact on Other Releases",
+        "p": [
+          "The massive footprint of Ramayana in IMAX formats created schedule adjustments for competing titles in India. The arrival of Godzilla Minus Zero was delayed by two weeks, moving its Indian theatrical debut from November 6 to November 20."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, the movie features a prominent ensemble cast. Ranbir Kapoor portrays Rama alongside Sai Pallavi as Sita, Yash as Ravana, and Ravi Dubey as Lakshman.",
+          "The supporting cast includes Arun Govil as Dashrath, Indira Krishnan as Kaushalya, Lara Dutta as Kaikeyi, Sonal Jha as Sumitra, Adinath Kothare as Bharat, and Nitish Sharma as Shatrughan. Additional appearances feature Shobana as Kekasi, Rakul Preet Singh as Surpanakha, Kajal Agarwal as Mandodari, and Anupam Kher providing the voice of Jatayu."
+        ]
+      },
+      {
+        "h": "Plans for Ramayana Part Two",
+        "p": [
+          "A mid-credit scene in the first installment introduced Sunny Deol as Hanuman for the upcoming sequel, though his full look remains undisclosed. Part Two is currently under production on the floors and is scheduled for a theatrical release on Diwali 2028.",
+          "Following the completion of the current shoot, the team will transition into working on the visual effects for the sequel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's mythological drama Ramayana has crossed Rs 1,400 crore globally in 14 days, securing its place among the top seven highest-grossing Indian films worldwide. Directed by Nitesh Tiwari, the movie continues its international rollout across multiple countries while planning major 2027 releases in markets like China, Russia, Japan, and South Korea alongside a confirmed sequel for Diwali 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is the seventh highest-grossing Indian film globally.",
+      "The film crossed the Rs 1,400 crore mark worldwide in 14 days.",
+      "The movie earned $147.5 million worldwide in 11 days.",
+      "Sony Pictures Releasing International handled the overseas distribution.",
+      "The film opened at $55.7 million in the first weekend and brought in $38.1 million the next weekend.",
+      "Godzilla Minus Zero was delayed in India to November 20.",
+      "Ramayana Part Two is scheduled for release on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sonal Jha",
+        "Adinath Kothare",
+        "Nitish Sharma",
+        "Shobana",
+        "Rakul Preet Singh",
+        "Kajal Agarwal",
+        "Anupam Kher",
+        "Sunny Deol",
+        "Taran Adarsh",
+        "Kevin Feige",
+        "Jensen Huang",
+        "Rahul Gandhi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part Two",
+        "Godzilla Minus Zero",
+        "Avengers Doomsday"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156528429,thumbsize-270162,width-1280,height-720,resizemode-75/156528429.jpg",
+        "caption": "Ramayana Box Office: Ranbir Kapoor and Yash Film Enters Top 7 Highest-Grossing Indian Films Worldwide",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T12:51:47Z"
   }
 };
