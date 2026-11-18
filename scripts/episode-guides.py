@@ -903,6 +903,71 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=1)
 
 
+def seed_known_from_articles(known):
+    """Self-heal (2026-11-18): re-enter episodes that have an info post
+    in js/articles-data.js but no state record in out/episodes.json.
+    That gap happens when a run dies after writing the articles/feed
+    and before save_state() (e.g. the 20-min step timeout killing the
+    summary loop): the posts exist, the feed is fresh, but the state
+    file — which /episode-guides reads — never learned about them, and
+    the 48h lookback ages them out of re-detection. Seeding from the
+    articles (headline "<Drama> Episode N — Watch Online on
+    <channel>", video id from the "Watch the full episode: <url>"
+    fact) restores them with summary=None so the backlog pass
+    summarises them. Returns the number seeded. Never overwrites an
+    existing record, and never seeds non-episode (news) articles."""
+    try:
+        articles = read_js_map(ARTICLES_JS, "FA_ARTICLES")
+    except Exception as e:
+        print(f"seed: articles unreadable ({e}) — skipping")
+        return 0
+    feed_cats = {}
+    try:
+        with open(EPISODE_FEED_JSON, encoding="utf-8") as f:
+            for e in (json.load(f).get("feed") or []):
+                if isinstance(e, dict) and e.get("id"):
+                    feed_cats[e["id"]] = e.get("cats") or ["pakistan"]
+    except Exception:
+        feed_cats = {}
+    known_aids = {rec.get("article_id") for rec in known.values()
+                  if isinstance(rec, dict)}
+    seeded = 0
+    for aid, art in articles.items():
+        if not isinstance(art, dict):
+            continue
+        if aid in known_aids:
+            continue
+        m = re.match(r"^(.+?) Episode (\d+) — Watch Online on (.+)$",
+                     art.get("headline") or "")
+        if not m:
+            continue
+        drama, epno, channel = (m.group(1).strip(), int(m.group(2)),
+                                m.group(3).strip())
+        vid = None
+        for fact in (art.get("facts") or []):
+            mm = re.search(
+                r"https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})",
+                fact or "")
+            if mm:
+                vid = mm.group(1)
+                break
+        if not vid or vid in known:
+            continue
+        known[vid] = {
+            "video_id": vid, "drama": drama, "episode": epno,
+            "channel": channel,
+            "url": f"https://www.youtube.com/watch?v={vid}",
+            "published": art.get("published") or "",
+            "article_id": aid, "summary": None, "summary_at": None,
+            "views": 0, "cats": feed_cats.get(aid) or ["pakistan"],
+        }
+        seeded += 1
+    if seeded:
+        print(f"seed: restored {seeded} episode(s) from articles-data.js "
+              f"into state")
+    return seeded
+
+
 def summaries_today(state):
     today = datetime.now(timezone.utc).date().isoformat()
     n = 0
@@ -941,6 +1006,11 @@ def main():
               "posting ungated)")
     state = load_state()
     known = state.get("episodes") or {}
+    # Self-heal (2026-11-18): episodes whose posts exist but whose
+    # state record was lost when a run died before save_state() —
+    # re-enter them from the articles before detection, so they are
+    # neither re-posted nor left off /episode-guides.
+    seed_known_from_articles(known)
 
     # ---- 0. rewrite (manual): EPISODE_REWRITE="Drama|Ep,Drama|Ep" —
     # clear the summary of listed episodes so the backlog pass below
@@ -1075,6 +1145,14 @@ def main():
             with open(EPISODE_FEED_JSON, "w", encoding="utf-8") as f:
                 json.dump({"feed": feed_entries}, f, ensure_ascii=False, indent=1)
             print(f"episode-feed: {len(feed_entries)} entries")
+        # Persist state BEFORE the summary loop (2026-11-18 fix): the
+        # loop runs up to 50 slow Gemini fileData watches and the step
+        # timeout (20 min) can kill the run mid-loop — previously
+        # save_state() ran only at the very end, so every killed run
+        # lost its detections and out/episodes.json froze (14 Nov)
+        # while the articles/feed stayed fresh.
+        save_state({"episodes": known})
+        print("state: saved before summaries")
 
     # ---- 4. summary backlog: EVERY episode without a summary, same run
     # (owner order 2026-10-28); backlog ordered by views desc, never redo
@@ -1130,6 +1208,16 @@ def main():
                 summary_names.append(
                     f"{ep['drama']} Ep {ep['episode']}")
                 print(f"  summary done ({len(summary)} chars)")
+                # Persist after EVERY summary (2026-11-18 fix): a
+                # timeout mid-loop must not lose the summaries already
+                # made — write the articles and the state now.
+                write_js_map(
+                    ARTICLES_JS, "FA_ARTICLES", articles,
+                    "/* FlickAtlas — published articles. GENERATED by the auto-pipeline "
+                    "(scripts/gemini_batch.py + scripts/apply-auto.py) and the panel "
+                    "publish-export — do not edit by hand. */")
+                sync_home_articles(articles)
+                save_state({"episodes": known})
             if made:
                 write_js_map(
                     ARTICLES_JS, "FA_ARTICLES", articles,
