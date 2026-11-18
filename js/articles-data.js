@@ -177222,5 +177222,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T05:32:39+05:30"
+  },
+  "8gpewl": {
+    "id": "8gpewl",
+    "type": "news",
+    "headline": "Avengers Doomsday Advance Booking Ignites Massive Frenzy Across India",
+    "dek": "Advance ticket sales for Avengers Doomsday have opened with tremendous momentum in India, selling tens of thousands of passes weeks before its theatrical premiere.",
+    "body": [
+      {
+        "h": "Unprecedented Early Demand",
+        "p": [
+          "The upcoming Hollywood blockbuster Avengers Doomsday has ignited extraordinary enthusiasm among moviegoers across India, even though its theatrical premiere is still roughly a month away. Limited advance ticket sales recently commenced, instantly creating a massive stir at the box office. Fans are eagerly snapping up passes, prompting cinemas to schedule midnight, late-night, and early morning screenings to accommodate the overwhelming rush."
+        ]
+      },
+      {
+        "h": "Release Schedule and Phased Booking",
+        "p": [
+          "Directed by Anthony and Joe Russo, the feature is scheduled to hit Indian theatres on December 17, 2026, which is a day prior to its worldwide release. Advance booking kicked off on a Monday night across select theatres and limited shows, yet it immediately pulled in a phenomenal response from audiences. Industry reports indicate that booking windows are currently live in major metropolitan hubs like Mumbai and Delhi NCR within prominent multiplex chains such as PVR and Cinepolis, with screenings largely offered in English and Hindi via Infinity Vision 3D formats."
+        ]
+      },
+      {
+        "h": "Staggering Ticket Sales and Hourly Velocity",
+        "p": [
+          "Sacnilk reports reveal that approximately 50,000 opening day tickets have already been sold, generating over 3 crore rupees in gross collection. Concurrently, online platforms like BookMyShow are witnessing ticket sales surge at a velocity exceeding 10,000 per hour. This immense craze has forced exhibitors to introduce unconventional screening times, including midnight, 3 AM, and 6 AM shows in various locations to satisfy the public appetite."
+        ]
+      },
+      {
+        "h": "Potential Box Office Records",
+        "p": [
+          "Trade analysts are projecting monumental opening figures based on these early booking trends. If the current momentum persists, the title could pull in a net collection of 90 to 100 crore rupees on its opening day in India. Such a feat would establish it as the largest opening ever for a Hollywood release in the country, surpassing previous benchmarks set by Marvel Cinematic Universe predecessors like Spider-Man: Brand New Day, which previously achieved a gross collection of 72.50 crore rupees."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "The star-powered ensemble features Robert Downey Jr. returning in the prominent role of Doctor Doom. Alongside him, the film showcases renowned international talent including Chris Hemsworth, Chris Evans, Pedro Pascal, Florence Pugh, and Anthony Mackie."
+        ]
+      },
+      {
+        "h": "Wider Sales Awaited",
+        "p": [
+          "Because advance bookings are currently restricted to a handful of select venues and limited time slots, comprehensive ticket sales across all nationwide languages and screening formats are yet to launch fully. Industry observers anticipate that ticket velocity will accelerate even further once pan-country booking opens up completely, setting the stage for historic box office milestones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Advance booking for Avengers Doomsday has opened in India with massive success, selling around 50,000 tickets and generating over 3 crore rupees in gross collection within hours. The film, directed by Anthony and Joe Russo and starring Robert Downey Jr. alongside other major actors, releases on December 17, 2026. Trade experts predict it could break previous Hollywood opening records in the country by targeting a 90 to 100 crore rupee net collection on day one."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday releases in India on December 17, 2026",
+      "Advance booking opened on Monday night, November 17, 2026",
+      "About 50000 opening day tickets have been sold",
+      "Gross collection from advance sales has crossed 3 crore rupees",
+      "BookMyShow ticket sales exceeded 10000 per hour",
+      "Projected opening day net collection is 90 to 100 crore rupees",
+      "Spider-Man: Brand New Day previously held the Hollywood opening record in India with 72.50 crore rupees gross",
+      "Robert Downey Jr. plays Doctor Doom"
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Chris Evans",
+        "Pedro Pascal",
+        "Florence Pugh",
+        "Anthony Mackie"
+      ],
+      "titles": [
+        "Avengers Doomsday",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking India",
+      "Robert Downey Jr. Doctor Doom",
+      "Anthony and Joe Russo Avengers"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc0c16a478e-avengers-doomsday-advance-booking-171101544-16x9.jpg",
+        "caption": "Avengers Doomsday Advance Booking Ignites Massive Frenzy Across India",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T02:51:46Z"
+  },
+  "1nuhw2n": {
+    "id": "1nuhw2n",
+    "type": "news",
+    "headline": "Sanam Teri Kasam Producer Rewards Harshvardhan Rane With a Luxury Car as Actor Pushes for a Sequel",
+    "dek": "Following the strong theatrical resurgence of their romantic drama, producer Deepak Mukut has presented actor Harshvardhan Rane with a high-end vehicle, prompting the lead star to campaign for a follow-up film.",
+    "body": [
+      {
+        "h": "A Grand Gesture From the Producer",
+        "p": [
+          "Producer Deepak Mukut has surprised lead actor Harshvardhan Rane with an expensive automobile as a token of appreciation. The gift, a Land Rover Defender Octa valued at over three and a half crores in Indian currency, fulfilled an earlier commitment made by the producer.",
+          "The reward came on the heels of the romantic film's unexpected box office resurgence during its theatrical return, where the cast and crew celebrated a renewed wave of audience affection."
+        ]
+      },
+      {
+        "h": "Fulfilling a Promise Made After Re-Release",
+        "p": [
+          "Deepak Mukut publicly acknowledged Harshvardhan Rane's dedication to promoting the movie during its second theatrical run. In a social media post handing over the vehicle keys, the producer thanked the performer for steadfastly supporting the project.",
+          "Stating that honoring a commitment matters, the producer remarked that just as the actor stood by the cinematic venture previously, he was now standing by his word."
+        ]
+      },
+      {
+        "h": "The Actor's Public Response and Sequel Plea",
+        "p": [
+          "While expressing deep gratitude for the luxury vehicle, Harshvardhan Rane quickly turned the conversation toward the future of the franchise. He used the occasion to publicly lobby for a green light on a prospective follow-up project.",
+          "The actor noted that he plans to visit the producer's office alongside dedicated supporters on his upcoming birthday next month to officially request authorization for a second installment in the romantic series."
+        ]
+      },
+      {
+        "h": "Leaving Creative Control to the Studio",
+        "p": [
+          "Demonstrating his eagerness to see the project materialize, the leading man offered complete creative flexibility to the production team. He mentioned that both the scriptwriters and the directors could be chosen entirely at the discretion of the studio head.",
+          "Whether this birthday wish will be granted remains uncertain, but the public appeal has reignited intense fan speculation about the possibility of continuing the story."
+        ]
+      },
+      {
+        "h": "Background of the 2016 Romantic Drama",
+        "p": [
+          "The original feature film first debuted in cinemas on February 5, 2016, under the direction of Radhika Rao and Vinay Sapru. It starred Harshvardhan Rane in the role of Inder alongside Mawra Hocane portraying Saru.",
+          "Despite its initial theatrical run yielding modest domestic earnings of around eight crores, the title gradually cultivated a dedicated cult following through digital streaming platforms over the subsequent years."
+        ]
+      },
+      {
+        "h": "Phenomenal Box Office Revival in 2025",
+        "p": [
+          "Nearly nine years after its initial premiere, the movie returned to the big screen on February 7, 2025, generating a remarkably different commercial outcome. The opening day alone brought in approximately four point twenty-five crores.",
+          "The overall domestic net collections eventually surpassed forty-two crores, while the worldwide gross figures climbed to approximately fifty-four crores, cementing its status as a major success story."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Deepak Mukut gifted Harshvardhan Rane a Land Rover Defender Octa worth over Rs. 3.5 crore to honor a promise made after the 2025 re-release of their film Sanam Teri Kasam. In response, the actor thanked the producer and announced plans to request approval for a sequel, Sanam Teri Kasam 2, with fans on his birthday next month."
+        ]
+      }
+    ],
+    "facts": [
+      "Harshvardhan Rane received a Land Rover Defender Octa valued at over Rs. 3.5 crore from producer Deepak Mukut.",
+      "Sanam Teri Kasam originally released on February 5, 2016.",
+      "The film was directed by Radhika Rao and Vinay Sapru.",
+      "Sanam Teri Kasam re-released in theatres on February 7, 2025.",
+      "The re-release earned around Rs. 4.25 crore on its opening day.",
+      "Total domestic net collections for the re-release exceeded Rs. 42 crore, with a worldwide gross of approximately Rs. 54 crore."
+    ],
+    "entities": {
+      "people": [
+        "Harshvardhan Rane",
+        "Deepak Mukut",
+        "Radhika Rao",
+        "Vinay Sapru",
+        "Mawra Hocane"
+      ],
+      "titles": [
+        "Sanam Teri Kasam",
+        "Sanam Teri Kasam 2"
+      ]
+    },
+    "keywords": [
+      "Harshvardhan Rane Land Rover",
+      "Deepak Mukut gift to Harshvardhan Rane",
+      "Sanam Teri Kasam re-release",
+      "Sanam Teri Kasam 2"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/17123438/Miss-Malini-Wordpress-Images-2026-11-17T123400.430.jpg",
+        "caption": "Sanam Teri Kasam Producer Rewards Harshvardhan Rane With a Luxury Car as Actor Pushes for a Sequel",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-18T02:51:46Z"
+  },
+  "10yibld": {
+    "id": "10yibld",
+    "type": "news",
+    "headline": "Horror Phenomenon Obsession Officially Drops on Netflix in the United States",
+    "dek": "Curry Barker's micro-budget directorial debut arrives on streaming following historic worldwide box office milestones.",
+    "body": [
+      {
+        "h": "Streaming Arrival on Netflix",
+        "p": [
+          "The supernatural thriller Obsession officially made its way to Netflix in the United States, bringing the major cinematic hit straight to home screens. Fans who missed the theatrical run or want to revisit the spooky premise can now stream the movie directly.",
+          "The arrival on the digital subscription platform follows weeks of immense anticipation from horror enthusiasts across the country."
+        ]
+      },
+      {
+        "h": "Unprecedented Box Office Momentum",
+        "p": [
+          "The feature film achieved remarkable milestones during its theatrical run, highlighted by a phenomenal second-weekend performance. Instead of suffering the usual box office drop, the picture pulled in $23.9 million during its second weekend, marking a 39 percent jump from its $17.2 million opening frame.",
+          "That notable upward trajectory included earning $6.7 million more on its second weekend in theaters compared to its debut frame."
+        ]
+      },
+      {
+        "h": "Micro-Budget Origins and Directorial Debut",
+        "p": [
+          "The staggering financial return is even more monumental considering the project was completed on an exceptionally lean budget of just $750,000. This modest financial backing turned the production into an unprecedented commercial triumph.",
+          "These figures cemented the project as an extraordinarily successful directorial debut for Curry Barker, who helmed the picture."
+        ]
+      },
+      {
+        "h": "A Unique Premise That Sells Itself",
+        "p": [
+          "Much of the widespread appeal stems from a remarkably straightforward and inventive narrative hook crafted by the filmmaker. In the story, a character named Bear utilizes a mystical trinket known as the One Wish Willow to compel his friend Nikki to harbor deep affection for him.",
+          "The streamlined premise proved easy for audiences to grasp instantly and explain to others without spoiling the plot."
+        ]
+      },
+      {
+        "h": "Historic Box Office Milestones",
+        "p": [
+          "Earlier in the year, the feature crossed a massive financial threshold by grossing $500 million worldwide by August. This achievement made it officially the first original movie of the decade to hit the half-billion-dollar mark globally.",
+          "Additionally, the film secured its place in cinematic history as the fifth horror movie ever to cross $500 million globally."
+        ]
+      },
+      {
+        "h": "Joining Elite Horror Company",
+        "p": [
+          "By reaching the half-billion-dollar milestone worldwide, the film now stands alongside a select group of legendary genre titles. It shares this elite club with previous blockbusters including It, The Sixth Sense, I Am Legend, and World War Z.",
+          "The achievement places the modern indie debut in the company of some of the most successful scary movies ever released."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Curry Barker's horror film Obsession has officially begun streaming on Netflix in the U.S. following its historic run as the first original movie of the 2020s to gross $500 million worldwide. Built on a $750,000 budget, the movie achieved massive box office success and joined an elite group of high-grossing horror films."
+        ]
+      }
+    ],
+    "facts": [
+      "Obsession began streaming on Netflix in the U.S. on November 17, 2026",
+      "The film's first weekend earned $17.2 million",
+      "The second weekend earned $23.9 million, a 39% increase",
+      "The movie was filmed on a $750,000 budget",
+      "It became the first original movie of the 2020s to gross $500 million worldwide in August",
+      "It is the fifth horror movie to gross $500 million worldwide",
+      "Curry Barker directed the movie",
+      "Michael Johnston plays Bear",
+      "Inde Navarrate plays Nikki"
+    ],
+    "entities": {
+      "people": [
+        "Hannah Hunt",
+        "Curry Barker",
+        "Michael Johnston",
+        "Inde Navarrate",
+        "Jason Voorhees",
+        "Michael Myers",
+        "Freddy Krueger",
+        "Pennywise",
+        "John Carpenter",
+        "Wes Craven"
+      ],
+      "titles": [
+        "Obsession",
+        "It",
+        "The Sixth Sense",
+        "I Am Legend",
+        "World War Z",
+        "Friday the 13th",
+        "Halloween",
+        "A Nightmare on Elm Street"
+      ]
+    },
+    "keywords": [
+      "Obsession Netflix streaming",
+      "Curry Barker Obsession movie",
+      "Obsession horror film 500 million",
+      "Obsession box office earnings"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/obsession.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Horror Phenomenon Obsession Officially Drops on Netflix in the United States",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 01:30:12 GMT"
+  },
+  "bbhqzu": {
+    "id": "bbhqzu",
+    "type": "news",
+    "headline": "Director Santosh Davakhar Discusses Gondhal as India's Official Oscar Entry",
+    "dek": "Filmmaker Santosh Davakhar shares insights into his Marathi film Gondhal heading to the 99th Academy Awards and how it contrasts with major productions like Ramayana.",
+    "body": [
+      {
+        "h": "The Journey to the 99th Academy Awards",
+        "p": [
+          "Marathi filmmaker Santosh Davakhar has shared insights regarding the journey of his movie Gondhal toward the 99th Academy Awards. The project was chosen as India's official entry in the Best International Feature Film category.",
+          "This official selection came after competing against 33 different submissions. Prior to this milestone, Davakhar earned recognition by winning the Silver Peacock for Best Director at the 2025 International Film Festival of India."
+        ]
+      },
+      {
+        "h": "International Screenings and Campaign Feedback",
+        "p": [
+          "The team behind the movie has arranged multiple screenings in Los Angeles and New York to support their Oscar campaign. Further events and screenings are scheduled in locations across Europe, alongside an upcoming presentation with the British Academy of Film and Television Arts.",
+          "Davakhar noted that the feedback received from Academy members has been remarkably encouraging. Although members often share their thoughts privately with publicists rather than directly, the reported reactions indicate that attendees found the feature epic and were actively recommending it to others."
+        ]
+      },
+      {
+        "h": "Distinguishing Gondhal from Ramayana",
+        "p": [
+          "Addressing the attention surrounding various high-profile Indian titles, Davakhar emphasized that direct comparisons are unnecessary due to differing genres, scales, and overall approaches. He pointed out that his project is competing specifically in the International Feature Film category.",
+          "In contrast, he acknowledged that other prominent titles like Ramayana pursue recognition across different categories. He spoke of Ramayana as an Indian mythological story and a source of national pride, drawing nostalgic parallels to watching Ramanand Sagar's television series on DD1."
+        ]
+      },
+      {
+        "h": "The Value of Global Exposure for Indian Cinema",
+        "p": [
+          "The director expressed belief that the international success of massive Indian productions can ultimately benefit the wider domestic industry. He referenced the historic performance of Dangal in China as a prime example of how a film's global popularity can open doors for others.",
+          "According to Davakhar, when one domestic title gains substantial international exposure, it creates pathways and broader opportunities for subsequent Indian films attempting to reach overseas audiences."
+        ]
+      },
+      {
+        "h": "Appreciation for Regional and Realistic Storytelling",
+        "p": [
+          "Davakhar highlighted the unique strengths of regional cinema, noting that such films frequently stand out through their grounded settings and commitment to realistic storytelling. He contrasted this style with productions that lean heavily on exaggerated heroism.",
+          "Citing acclaimed titles like Laapataa Ladies, Homebound, and Neeraj Ghaywan's Masaan, he praised their realistic approaches. He underscored that maintaining this authentic style remains crucial for regional storytelling."
+        ]
+      },
+      {
+        "h": "Overcoming Production Hurdles Without Major Studios",
+        "p": [
+          "Development on the project began in 2020, with Davakhar completing and copyrighting the first screenplay draft that same year. Because the movie featured an unconventional and dark subject matter, securing traditional studio backing proved exceptionally difficult.",
+          "Facing reluctance from major investors, the filmmaker ultimately financed the production using his personal savings. He explained that operating without a major studio required him to balance his dual roles as director and producer while focusing heavily on the strength of the script."
+        ]
+      },
+      {
+        "h": "The Jury Selection Process in India",
+        "p": [
+          "Davakhar revealed details regarding the final selection deliberations conducted by the Film Federation of India. The final round featured his film alongside Angh and Imtiaz Ali's Main Vaapas Aaunga.",
+          "During this final evaluation, his film secured all 14 votes, while Angh received 11 votes. Expressing admiration for fellow filmmaker Imtiaz Ali, Davakhar mentioned Rockstar and Tamasha among his personal favorite movies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marathi filmmaker Santosh Davakhar discussed his film Gondhal being selected as India's official entry for the 99th Academy Awards following a competitive domestic selection process. He emphasized that his dark, independently funded regional project and major mythological works like Ramayana represent different facets of Indian cinema on the global stage."
+        ]
+      }
+    ],
+    "facts": [
+      "Gondhal is a Marathi film directed by Santosh Davakhar.",
+      "The film was selected as India's official entry in the Best International Feature Film category for the 99th Academy Awards.",
+      "The selection followed a competition among 33 submissions.",
+      "Santosh Davakhar won the Silver Peacock for Best Director at the 2025 International Film Festival of India.",
+      "The first screenplay draft of Gondhal was completed and copyrighted in 2020.",
+      "In the final Film Federation of India selection round, Gondhal received 14 votes, Angh received 11 votes, and Imtiaz Ali's Main Vaapas Aaunga was also a finalist."
+    ],
+    "entities": {
+      "people": [
+        "Santosh Davakhar",
+        "Ramanand Sagar",
+        "Neeraj Ghaywan",
+        "Imtiaz Ali"
+      ],
+      "titles": [
+        "Gondhal",
+        "Ramayana: Rise of a Legend",
+        "Ramayan",
+        "Dangal",
+        "Laapataa Ladies",
+        "Homebound",
+        "Masaan",
+        "Angh",
+        "Main Vaapas Aaunga",
+        "Rockstar",
+        "Tamasha"
+      ]
+    },
+    "keywords": [
+      "Gondhal film",
+      "Santosh Davakhar",
+      "India Oscar entry",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135944632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Director Santosh Davakhar Discusses Gondhal as India's Official Oscar Entry",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T06:27:52+05:30"
   }
 };

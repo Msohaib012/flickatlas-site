@@ -1176,6 +1176,10 @@ window.FA_OTT = {
       "id": 1600653,
       "providers": [
         {
+          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
           "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
           "name": "Hulu"
         }
@@ -4147,10 +4151,6 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        },
-        {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
         }
       ],
       "type": "movie"

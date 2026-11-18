@@ -5357,12 +5357,6 @@ window.FA_PUBLISHED = {
         "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
         "region": "IN",
         "type": "flatrate"
-      },
-      {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
-        "type": "flatrate"
       }
     ],
     "release_date": "2025-06-23",
@@ -29574,6 +29568,12 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 0,
     "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      },
       {
         "name": "Hulu",
         "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",

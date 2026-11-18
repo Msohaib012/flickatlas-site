@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T03:51:48Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": {
-     "candidates": 308,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Avengers: Doomsday creates HISTORY; emerges as the FIRST film to open midnight show bookings ONE MONTH before release; shows already filling FAST",
-      "Amitabh Bachchan Pens Heartfelt Birthday Wish For Granddaughter Aaradhya As She Turns 15: Ghar Ki Poti Ka…",
-      "Donga Naa Koduku (DNK) Box Office Collection Day 4: Mouli's Film Sees 60% Drop, Crosses ₹7 Crore Gross",
-      "Teja Sajja gets engaged to Mourya in Hyderabad; Chiranjeevi, Rana Daggubati attend",
-      "Miley Cyrus expresses gratitude for the joint Grammy 2027 nomination with Dolly Parton",
-      "Ray Tintori passes away at 43",
-      "‘Mookuthi Amman 2’ BO: Nayanthara’s film earns Rs 36 lakh amid 59% drop",
-      "Over 230 films to be screened at IFFI 2026 in Goa; Dhurandhar to open, Spain named Country of Honour",
-      "Good evening, Mr Bond. We’ve been expecting you",
-      "Devan Ekambaram, Susha’s Varuvaaiy becomes first Tamil song to earn Grammy nomination, singer-composer shares heartfelt note",
-      "French acting legend Gerard Depardieu drops appeal for sexual assault conviction, offers ‘sincere apologies’ to victims",
-      "Honour of a lifetime: Robert Pattinson after being named the new James Bond",
-      "Bold & Beautiful Reveals Who Is Leaving or Joining This Week From Nov 16-20",
-      "Forget Dark, Netflix's 16-Episode Sci-Fi Thriller Delivers An Even Wilder Time Travel Ride",
-      "Hulk Is No Longer Marvel's Strongest Hero, And His Replacement Isn't Who Fans Would Think",
-      "Brad Pitt Confirms What Prevented Leonardo DiCaprio From Returning For Cliff Booth",
-      "3 Generations Of Hunger Games Cast Unite For The First Time Ahead Of Sunrise On The Reaping Release",
-      "The Odyssey's Digital Release Proves Nolan's Commitment To Theaters",
-      "Elizabeth Debicki Says ‘Tenet’ Co-Star Robert Pattinson Will Be the ‘Perfect’ James Bond: ‘I’m So Thrilled’",
-      "‘The Fantasticks’ Review: A Welcome Broadway Debut Seven Decades In The Making"
-     ],
-     "updated": [],
-     "count": 299,
-     "detail": "302 stories, 0 duplicates removed, 6 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-17T04:07:14Z",
     "run_id": "44014838345",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "349 stories, 0 duplicates removed, 14 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T03:52:25Z",
-    "run_id": "44012994835",
+    "run_at": "2026-11-18T02:51:10Z",
+    "run_id": "44226165572",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 346,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
-      "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
-      "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
-      "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos"
+      "AOT' vs 'O.M' clash: Dulquer Salmaan calls father's film a 'big whale'",
+      "Akshay Shares Four-S Philosophy, explains Sukh, Shaanti, Seva and Sehat",
+      "Katrina Kaif makes rare appearance at Udaipur event - WATCH",
+      "'Gondhal' director Santosh Davakhar on India's Oscar entry",
+      "Anne Hathaway welcomes third child with husband Adam Shulman",
+      "The Last Of Us’ Gabriel Luna Discusses The Cast Wrapping The Final Season, And I’m Already Emotional",
+      "Jennifer Lopez Revealed The Origins Of The JLo Nickname (And I Had No Idea)",
+      "Jared Padalecki On Jumping From The Boys Into A Netflix Rom-Com: 'You Really Want To Take A Shower'",
+      "10 Classic Thriller Books Worth Reading Again and Again",
+      "7 Greatest Action Movies That Are Also Biopics, Ranked",
+      "The First Original Movie of the Decade To Make $500 Million Is Officially on Netflix",
+      "10 Classic Fantasy Books To Read Before Kicking the Bucket",
+      "J.J. Abrams’ ‘Jurassic Park’ Replacement Officially Crowned the New King of HBO Max",
+      "CBS Officially Pulls All Three ‘NCIS’ Shows From Next Week’s Schedule",
+      "HBO’s ‘Harry Potter’ Reboot Is About To Take One Iconic Scene Much Further",
+      "HBO's 5-Part Haunting Historical Miniseries Is a True Streaming Masterpiece",
+      "‘Obsession’ Director’s Next Movie Officially Casts a Stephen King Favorite",
+      "Netflix’s ‘Black Doves’ Has the Perfect Solution for James Bond’s Biggest Problem",
+      "New ‘Dungeon Crawler Carl’ Release Is a Reminder to Read One of the Biggest Fantasy Series Ever",
+      "Why Home Alone Recast Marv Addressed By Director 36 Years Later"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 326,
+     "detail": "346 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,45 +1462,32 @@
      "detail": "+4 articles, +2 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-18T02:51:46Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Avengers Doomsday Advance Booking Ignites Massive Frenzy Across India",
+      "Sanam Teri Kasam Producer Rewards Harshvardhan Rane With a Luxury Car as Actor Pushes for a Sequel",
+      "Horror Phenomenon Obsession Officially Drops on Netflix in the United States",
+      "Director Santosh Davakhar Discusses Gondhal as India's Official Oscar Entry"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-17T04:47:33Z",
-    "run_id": "44019104193",
-    "status": "success",
-    "checked": {
-     "candidates": 359,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 350, coming 9"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-17T05:53:14Z",
-    "run_id": "44026894548",
-    "status": "success",
-    "checked": {
-     "candidates": 359,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 350, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,35 +1883,45 @@
      "detail": "now 367, coming 9"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-17T04:06:01Z",
-    "run_id": "44012994835",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-18T02:57:42Z",
+    "run_id": "44226165572",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
-     "added": [
-      "tvcq7i",
-      "14k0sh9",
-      "1vmtxrq",
-      "4u0op4",
-      "soff55",
-      "14i9727",
-      "3sj8f4",
-      "m3p2ee"
-     ],
+     "added": [],
      "updated": [],
-     "count": 8
+     "count": 0,
+     "detail": "now 367, coming 9"
     },
     "reason": null
    },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-18T02:57:42Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": {
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 367, coming 9"
+    },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2403,27 +2377,26 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T04:05:27Z",
-    "run_id": "44012994835",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-18T03:02:46Z",
+    "run_id": "44226165572",
     "status": "success",
     "checked": {
-     "candidates": 696,
-     "detail": "657 collected staging rows from readers; 233 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 671 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2837,19 +2810,27 @@
      "detail": "+0 new rows, 7 updated rows, 676 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T03:02:43Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": {
+     "candidates": 706,
+     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 680 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3086,32 +3067,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-17T04:06:01Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
-      "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
-      "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
-      "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3633,19 +3601,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-18T03:02:45Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Avengers Doomsday Advance Booking Ignites Massive Frenzy Across India",
+      "Sanam Teri Kasam Producer Rewards Harshvardhan Rane With a Luxury Car as Actor Pushes for a Sequel",
+      "Horror Phenomenon Obsession Officially Drops on Netflix in the United States",
+      "Director Santosh Davakhar Discusses Gondhal as India's Official Oscar Entry"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3875,19 +3856,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4205,31 +4186,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-17T03:52:25Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 299 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 3/5, upcoming_releases 2/4, ott_streaming 2/4, trailers 0/3, awards 2/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Avengers: Doomsday Smashes Records as Advance Midnight Show Bookings Open a Month Prior",
-      "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
-      "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
-      "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4730,26 +4699,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-18T02:51:46Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 326 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Avengers Doomsday Advance Booking Ignites Massive Frenzy Across India",
+      "Sanam Teri Kasam Producer Rewards Harshvardhan Rane With a Luxury Car as Actor Pushes for a Sequel",
+      "Horror Phenomenon Obsession Officially Drops on Netflix in the United States",
+      "Director Santosh Davakhar Discusses Gondhal as India's Official Oscar Entry"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-17T03:53:46Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5056,24 +5030,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 449,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5413,24 +5382,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 20,
+     "count": 392,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5765,19 +5734,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 17,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6027,19 +6001,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6274,19 +6248,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6573,22 +6547,22 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-11-17T04:10:20Z",
     "run_id": "44014838345",
     "status": "skipped",
@@ -6815,22 +6789,33 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-18T02:57:23Z",
+    "run_id": "44226165572",
+    "status": "success",
+    "checked": {
+     "candidates": 824,
+     "processed": 824,
+     "succeeded": 824,
+     "failed": 0,
+     "already_have_providers": 259,
+     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 824
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-17T04:10:20Z",
     "run_id": "44014838345",
     "status": "skipped",
@@ -7057,45 +7042,22 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-11-17T04:05:59Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "James Gunn and Peter Safran Exit DC Studios, Casting Doubt on The People Vs. Gor",
-      "Boston Blue Season 2 Episode 6 Bloodlines Episode Rating and Discussion",
-      "O.M Trailer Review: Mammootty, Dhanush And Sai Pallavi Starrer Promises High-Oct",
-      "Shilpa Shetty To Host New Reality Television Series Pyaar Ka Pressure Cooker On ",
-      "Bigg Boss 20 Episode 69 Sees Love Gill And Scout OP Respond To Kanika Mann's Cla",
-      "Diljit Dosanjh Faces Song Restrictions and Safety Demands Ahead of Ahmedabad Con",
-      "Bhuvan Bam's Dhindora Season 2 Sets Netflix Release Date",
-      "Suriya's Crime Thriller 'Scene' Secures Massive Digital Deal and Strong Box Offi",
-      "Ramayana Box Office Collection Day 9: Ranbir Kapoor Starrer Surpasses Chhaava An",
-      "BTS Member Jin Acquires Commercial Property in Seoul Worth 9.6 Billion Won and R",
-      "Grammy Awards 2027: Early Predictions Point to Ella Langley, Olivia Dean, and Ol",
-      "DC's R-Rated Horror Spin-Off Exits Theaters Ahead of Digital Launch",
-      "The Terminal List Ascends to the Summit of Prime Video Streaming Charts",
-      "New Regency Files Lawsuit Against Filmmaker Michael Mann Over Heat Screenplay Co",
-      "US Federal Aviation Administration Lifts Nationwide Ground Stop Following Massiv"
-     ],
-     "count": 15
-    },
-    "reason": null
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-11-17T04:10:20Z",
     "run_id": "44014838345",
     "status": "skipped",
@@ -7318,6 +7280,16 @@
     "category": "Trending News",
     "run_at": "2026-11-18T02:04:55Z",
     "run_id": "44218851670",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7836,16 +7808,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-17T04:10:20Z",
     "run_id": "44014838345",
     "status": "skipped",
@@ -8082,24 +8044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-17T04:06:10Z",
-    "run_id": "44012994835",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4987,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8364,8 +8321,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-18T03:02:54Z",
+    "run_id": "44226165572",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-18T02:04:55Z"
+ "updated_at": "2026-11-18T03:02:54Z"
 }
