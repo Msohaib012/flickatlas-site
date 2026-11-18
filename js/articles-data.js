@@ -180360,5 +180360,457 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 09:00:00 +0000"
+  },
+  "d3095e": {
+    "id": "d3095e",
+    "type": "news",
+    "headline": "Why There Is No New Scrubs Season 2 Episode Tonight",
+    "dek": "Fans tuning in for the latest medical comedy drama will need to exercise patience as the network implements a brief pause.",
+    "body": [
+      {
+        "h": "The Current Broadcast Schedule",
+        "p": [
+          "Viewers looking forward to the latest installment of the hospital comedy will encounter a temporary pause in the weekly broadcast schedule. The television network has decided to hold back the next chapter, meaning that the anticipated storyline will not be broadcast on the evening of November 18, 2026.",
+          "Instead of delivering the next chapter, the network has placed the television program on a brief two-week hiatus. Audiences can expect the medical staff to return with fresh humorous antics and hospital drama when the series resumes its regular schedule on December 2, 2026."
+        ]
+      },
+      {
+        "h": "Season Overview and Structure",
+        "p": [
+          "The current installment of the hospital comedy has been slated for a total run of ten episodes. This structured batch allows the creative team to deliver a focused narrative arc while balancing the medical cases and character growth.",
+          "Even with the ongoing short break, the production has plenty of engaging material mapped out for the remainder of the run. The creative minds behind the program have ensured that the hospital setting remains as vibrant and unpredictable as ever."
+        ]
+      },
+      {
+        "h": "Familiar Faces Making Their Return",
+        "p": [
+          "Audiences tuning into the current season will find plenty of comfort in the returning ensemble, which keeps the core dynamic intact. Zach Braff, Donald Faison, and Sarah Chalke reprise their famous roles as J.D., Turk, and Elliot respectively.",
+          "Additionally, other beloved cast members are stepping back into their scrubs for the ongoing storylines. John C. McGinley returns as the sharp-tongued Dr. Cox, Judy Reyes is back as Carla, and Christa Miller reprises her role as Jordan Sullivan."
+        ]
+      },
+      {
+        "h": "Character Additions and Departures",
+        "p": [
+          "While many legacy performers are back on screen, the hospital halls will also feature some notable cast changes. Neil Flynn steps back into his recurring role as The Janitor, while Rachel Bilson joins for a multi-episode arc as Charlie, a hospital visitor who previously bonded with J.D.",
+          "On the other hand, certain recognizable faces from the previous chapter will not be part of the current run. Performers such as Joel Kim Booster, X Mayo, and Ken Jenkins are not returning for this block of episodes."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Leadership",
+        "p": [
+          "The creative steering committee for the series features a mix of returning visionaries and new executive producers. Aseem Batra serves as showrunner, explaining that reviving a classic property requires acknowledging the natural progression of the characters' lives and health.",
+          "The executive producer roster also features Mike Royce and Mathew Harawitz joining the team alongside Michael Spiller and Randall Keenan Winston. Bill Lawrence, Jeff Ingold, Liza Katzer, along with cast members Braff, Faison, and Chalke, round out the leadership group."
+        ]
+      },
+      {
+        "h": "Critical Reception and Legacy",
+        "p": [
+          "The return of the hospital comedy follows a strong inaugural run that managed to impress both professional critics and everyday viewers alike. That earlier success translated into impressive Rotten Tomatoes metrics, capturing high scores of 90 percent and 92 percent.",
+          "With such a strong foundation established by the previous chapter, supporters of the show remain hopeful that the current run will maintain its high quality. The challenge now is to keep the comedic momentum alive across all ten episodes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Scrubs Season 2 is currently on a two-week broadcasting break and will return with its next episode on December 2, 2026. The ten-episode season features many returning cast members alongside several notable casting changes and behind-the-scenes leadership updates."
+        ]
+      }
+    ],
+    "facts": [
+      "Scrubs Season 2 will not air Episode 7 on November 18, 2026.",
+      "The show is on a 2-week break and returns on Dec 2.",
+      "Season 2 will have 10 episodes.",
+      "Zach Braff, Donald Faison, and Sarah Chalke reprise their roles as J.D., Turk, and Elliot.",
+      "Neil Flynn returns as The Janitor.",
+      "Rachel Bilson joins for a multi-episode arc as Charlie.",
+      "John C. McGinley and Judy Reyes reprise Dr. Cox and Carla.",
+      "Christa Miller reprises her role as Jordan Sullivan.",
+      "Joel Kim Booster and X Mayo are not returning.",
+      "Ken Jenkins is not returning as Dr. Kelso.",
+      "Aseem Batra is the showrunner.",
+      "Season 1 earned Rotten Tomatoes scores of 90% and 92%."
+    ],
+    "entities": {
+      "people": [
+        "Rishabh Shandilya",
+        "Zach Braff",
+        "Donald Faison",
+        "Sarah Chalke",
+        "Neil Flynn",
+        "Rachel Bilson",
+        "Ava Bunn",
+        "Asher Green",
+        "Blake Lewis",
+        "Amara Hadi",
+        "Dashana Trainor",
+        "John C. McGinley",
+        "Judy Reyes",
+        "Joel Kim Booster",
+        "X Mayo",
+        "Christa Miller",
+        "Ken Jenkins",
+        "Aseem Batra",
+        "Mike Royce",
+        "Mathew Harawitz",
+        "Michael Spiller",
+        "Randall Keenan Winston",
+        "Bill Lawrence",
+        "Jeff Ingold",
+        "Liza Katzer"
+      ],
+      "titles": [
+        "Scrubs",
+        "Scrubs Season 2"
+      ]
+    },
+    "keywords": [
+      "Scrubs Season 2",
+      "Scrubs Episode 7",
+      "Zach Braff Scrubs",
+      "Scrubs release schedule"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-18T151255.894.webp?resize=1200,630",
+        "caption": "Why There Is No New Scrubs Season 2 Episode Tonight",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:43:32 +0000"
+  },
+  "167bv68": {
+    "id": "167bv68",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise on the Reaping Explores Haymitch Abernathy's Deadliest Games",
+    "dek": "Panem returns to the big screen with the sixth theatrical installment in the dystopian franchise, focusing on the 50th Hunger Games and a teenage Haymitch Abernathy.",
+    "body": [
+      {
+        "h": "Introduction to the New Prequel",
+        "p": [
+          "The popular dystopian film franchise expands once again with the arrival of The Hunger Games: Sunrise on the Reaping. Adapted from Suzanne Collins' March 2025 novel, this project serves as the sixth theatrical installment overall and the second prequel in the series.",
+          "The narrative shifts its primary focus away from later rebellions to examine one of the original trilogy's most complex characters, showing how a sixteen-year-old Haymitch Abernathy managed to survive inside a notoriously brutal arena."
+        ]
+      },
+      {
+        "h": "Release Schedule and Runtime",
+        "p": [
+          "Audiences can expect the global rollout to begin on Thursday, November 19, 2026, featuring international territories and early-access preview screenings. A wide theatrical release follows on Friday, November 20, 2026, across the United States, the United Kingdom, and India.",
+          "Carrying a PG-13 rating, the production features a substantial runtime of two hours and 38 minutes, translating to 158 minutes. This puts it right alongside The Ballad of Songbirds Snakes as one of the longest films in the entire cinematic series."
+        ]
+      },
+      {
+        "h": "Timeline and the Second Quarter Quell",
+        "p": [
+          "Viewers will find the story positioned 24 years before Katniss Everdeen volunteers for the 74th Hunger Games. It also takes place 40 years after Coriolanus Snow's rise to power during the 10th Games.",
+          "The plot centers on the 50th Hunger Games, known throughout Panem as the Second Quarter Quell. Every 25 years, the Capitol introduces a cruel twist to commemorate the defeat of the districts, which for this specific iteration meant doubling the tribute count to 48 children."
+        ]
+      },
+      {
+        "h": "District 12 and Haymitch's Reality",
+        "p": [
+          "On his sixteenth birthday, which happens to coincide with Reaping Day, Haymitch Abernathy hopes only to survive the local ceremony and spend quiet time with his girlfriend, Lenore Dove. Instead, the system sweeps him toward the Capitol.",
+          "Once caught inside the Capitol's machinery, he discovers that the arena odds have been heavily manipulated. This realization pulls him into a covert effort aimed at shattering the regime's illusion of absolute control."
+        ]
+      },
+      {
+        "h": "Background from The Ballad of Songbirds Snakes",
+        "p": [
+          "Understanding this era of Panem requires looking back at the events of The Ballad of Songbirds Snakes, set during the 10th Hunger Games 64 years prior to Katniss's era. An eighteen-year-old Coriolanus Snow originally helped modernize the games through televised entertainment.",
+          "After his rule-breaking was exposed, Snow was exiled to District 12 as a peacekeeper, where his ruthless ambition ultimately led him to turn on Covey singer Lucy Gray Baird in the woods, leaving her fate a mystery."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Joseph Zada takes on the lead role of a resourceful teenage Haymitch. He is joined by Mckenna Grace as Maysilee Donner, Ben Wang as Wyatt Callow, Molly McCann as Louella McCoy, and Percy Daggs IV as Ampert Latier.",
+          "Past victors from other districts step in to mentor the District 12 teenagers, including Kelvin Harrison Jr. as Beetee Latier, Maya Hawke as a young Wiress, and Lili Taylor as Mags Flanagan."
+        ]
+      },
+      {
+        "h": "Capitol Elite and Returning Faces",
+        "p": [
+          "Ralph Fiennes portrays President Coriolanus Snow in the Capitol, alongside Jesse Plemons as an ambitious young Plutarch Heavensbee. Kieran Culkin appears as broadcast host Caesar Flickerman, and Elle Fanning plays a young Effie Trinket.",
+          "The supporting Capitol cast features Glenn Close as Drusilla Sickle and Billy Porter as Magno Stift. Additionally, Jennifer Lawrence, Josh Hutcherson, and Woody Harrelson reprise their roles in the post-Mockingjay epilogue."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping brings Suzanne Collins' novel to the big screen as the sixth theatrical installment in the franchise. Chronicling the 50th Hunger Games and the trials of a young Haymitch Abernathy, the film features an extensive cast and a late 2026 release date."
+        ]
+      }
+    ],
+    "facts": [
+      "The film is the sixth theatrical installment and second prequel in the franchise.",
+      "It is adapted from Suzanne Collins' March 2025 novel.",
+      "The global rollout begins on Thursday, November 19, 2026, with a wide release on Friday, November 20, 2026.",
+      "The film carries a PG-13 rating and a runtime of 158 minutes.",
+      "The story is set 24 years before the 74th Hunger Games and features the 50th Hunger Games.",
+      "Joseph Zada stars as the teenage Haymitch Abernathy."
+    ],
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Katniss Everdeen",
+        "Coriolanus Snow",
+        "Haymitch Abernathy",
+        "Lenore Dove",
+        "Lucy Gray Baird",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Mckenna Grace",
+        "Maysilee Donner",
+        "Ben Wang",
+        "Wyatt Callow",
+        "Molly McCann",
+        "Louella McCoy",
+        "Percy Daggs IV",
+        "Ampert Latier",
+        "Beetee",
+        "Kelvin Harrison Jr.",
+        "Maya Hawke",
+        "Wiress",
+        "Lili Taylor",
+        "Mags Flanagan",
+        "Ralph Fiennes",
+        "Plutarch Heavensbee",
+        "Jesse Plemons",
+        "Philip Seymour Hoffman",
+        "Kieran Culkin",
+        "Caesar Flickerman",
+        "Elle Fanning",
+        "Effie Trinket",
+        "Glenn Close",
+        "Drusilla Sickle",
+        "Billy Porter",
+        "Magno Stift",
+        "Jennifer Lawrence",
+        "Josh Hutcherson"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "The Ballad of Songbirds Snakes",
+        "The Hunger Games"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Haymitch Abernathy cast release date",
+      "Sunrise on the Reaping Panem timeline",
+      "The Hunger Games 50th Hunger Games"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-release-date-cast-everything-about-panems-deadliest-games.jpg",
+        "caption": "The Hunger Games: Sunrise on the Reaping Explores Haymitch Abernathy's Deadliest Games",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:40:53 +0000"
+  },
+  "19n3ipj": {
+    "id": "19n3ipj",
+    "type": "news",
+    "headline": "The Team Behind the Controversial Documentary 'NAZA' Maintains Plans for a Free Online Release",
+    "dek": "Despite a strong theatrical run and global box office earnings, the creators of the explosive documentary NAZA are preparing to launch the film for free on The Guardian platform.",
+    "body": [
+      {
+        "h": "Upcoming Free Digital Premiere",
+        "p": [
+          "The creative team behind the provocative documentary NAZA remains committed to making the project available for free on The Guardian website within the coming weeks. Although the film enjoyed an extensive theatrical rollout spanning fifty countries, producers and directors always intended to provide open access to digital viewers.",
+          "Key stakeholders discussed this digital strategy during a panel appearance at the International Documentary Festival Amsterdam. Representatives confirmed that the online premiere will take place in early December, though a precise calendar date has not yet been announced to the public."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Box Office Impact",
+        "p": [
+          "Prior to its planned web debut, NAZA achieved unexpected commercial success as a cinematic release. The project emerged as a worldwide box office sensation, accumulating fifteen million dollars in ticket sales and drawing 1.6 million admissions.",
+          "Co-directors Yuval Abraham and Rachel Szor initially envisioned a direct-to-web release immediately following their premiere at the Venice Film Festival. However, distribution partners persuaded the filmmakers that a traditional theatrical window would help the project reach diverse audiences who might not normally seek out investigative journalism online."
+        ]
+      },
+      {
+        "h": "Whistleblower Testimonies and Core Content",
+        "p": [
+          "The documentary centers on interviews with twenty-four anonymous sources from Israeli intelligence and the Israel Defense Forces. These whistleblowers allege that military commanders displayed indifference toward Palestinian civilian casualties while targeting Hamas operations in Gaza.",
+          "According to the film's subjects, leadership authorized nighttime strikes on homes knowing that innocent women and children were likely to be harmed. The documentary also includes assertions that artificial intelligence was utilized in the target selection process."
+        ]
+      },
+      {
+        "h": "Official Denials and Regulatory Pushback",
+        "p": [
+          "The military and government leadership have firmly rejected the accusations featured in the project. The Israel Defense Forces denied violating human rights standards or the Geneva Convention during the conflict, and also refuted claims regarding the use of artificial intelligence for targeting.",
+          "The release provoked intense backlash from right-wing political figures in Israel. Culture Minister Miki Zohar advocated for revoking the citizenship of co-directors Yuval Abraham and Rachel Szor, a proposal that received endorsement from Prime Minister Benjamin Netanyahu."
+        ]
+      },
+      {
+        "h": "Counter-Documentaries and Military Directives",
+        "p": [
+          "The controversy expanded when government supporters produced a competing film titled NAZA: The Real Story, filmed overnight on Tel Aviv rooftops in an attempt to mimic the aesthetic of the original work. Filmmakers pointed out that this counter-project was explicitly designed to mislead viewers regarding the true source material.",
+          "Additionally, the Israeli military distributed a dedicated guidebook to Air Force commanders and other officers. The instructional material instructs leaders on how to address the documentary's allegations and aims to reinforce soldiers' confidence in the righteousness of their operations."
+        ]
+      },
+      {
+        "h": "Broader Significance and Creator Perspectives",
+        "p": [
+          "Despite facing severe political opposition and misleading counter-productions, the creative team views the defensive reactions as evidence of the project's potency. Producer James Wilson emphasized that the documentary serves as a vital alarm bell regarding widespread humanitarian crises and societal complicity in the West.",
+          "Director Yuval Abraham noted that generating widespread scrutiny forces institutions into a defensive posture where they realize they are being closely watched. While acknowledging that a single film cannot instantly transform global politics, Abraham expressed hope that the project can contribute to a larger collective push for empathy and accountability."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The documentary NAZA is moving forward with plans for a free digital release on The Guardian website in early December following a successful global theatrical run that brought in fifteen million dollars. The film has sparked intense political controversy and official denials in Israel over its whistleblower accounts of military operations in Gaza."
+        ]
+      }
+    ],
+    "facts": [
+      "NAZA earned $15 million at the worldwide box office.",
+      "The documentary recorded 1.6 million admissions across 50 countries.",
+      "Co-directors Yuval Abraham and Rachel Szor previously directed No Other Land.",
+      "The film features interviews with 24 anonymous members of Israeli intelligence and the IDF.",
+      "Culture Minister Miki Zohar vowed to strip Abraham and Szor of their Israeli citizenship, a move endorsed by Prime Minister Benjamin Netanyahu.",
+      "A counter documentary titled NAZA: The Real Story was produced by supporters of the Israeli government."
+    ],
+    "entities": {
+      "people": [
+        "Yuval Abraham",
+        "Rachel Szor",
+        "Fionualla Jamison",
+        "Lindsay Poulton",
+        "Harry Davies",
+        "James Wilson",
+        "Neil Young",
+        "Coen Dijkstra",
+        "Miki Zohar",
+        "Benjamin Netanyahu"
+      ],
+      "titles": [
+        "NAZA",
+        "Concrete Land",
+        "To Hold A Mountain",
+        "No Other Land",
+        "NAZA: The Real Story",
+        "Zone of Interest"
+      ]
+    },
+    "keywords": [
+      "NAZA documentary",
+      "Yuval Abraham NAZA",
+      "The Guardian NAZA release",
+      "NAZA film IDFA"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png?w=1024",
+        "caption": "The Team Behind the Controversial Documentary 'NAZA' Maintains Plans for a Free Online Release",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:10:47 +0000"
+  },
+  "uz37b5": {
+    "id": "uz37b5",
+    "type": "news",
+    "headline": "The Remarried Empress Episodes 7-8 Ending Explained: Divorce Shockers, Secret Plans, and Royal Confessions",
+    "dek": "As The Remarried Empress approaches its final stretch on Disney+, episodes 7 and 8 deliver major plot twists, palace intrigue, and a shocking divorce announcement.",
+    "body": [
+      {
+        "h": "Introduction to the Royal Drama",
+        "p": [
+          "The Disney+ royal romance series The Remarried Empress has captured significant attention from K-drama enthusiasts as it approaches its final stretch. Based on AlphaTart's bestselling web novel of the same name, the show has drawn viewers in with unexpected developments and dramatic twists.",
+          "Featuring a prominent cast including Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, and Lee Se Young in lead roles, the royal saga continues to spark lively conversations online despite facing its share of initial criticism."
+        ]
+      },
+      {
+        "h": "Palace Intrigues and Rashta's Schemes",
+        "p": [
+          "Following the arrival of Navier's brother, Kosair, tensions within the palace escalate significantly. Rashta seizes the opportunity to elevate her manipulative tactics, falsely accusing Kosair of pushing her.",
+          "Backed by her servants who agree to lie, the pregnant Rashta convinces Emperor Sovieshu of the false charges. Blinded by his obsession, Sovieshu punishes Kosair and has him imprisoned."
+        ]
+      },
+      {
+        "h": "Bonds and Revelations",
+        "p": [
+          "Amid the palace turmoil, Heinrey steps in to offer comfort to a heartbroken Navier. He lightheartedly suggests she take revenge on Sovieshu by seeking out a handsome, high-ranking lover, subtly hinting at his own feelings.",
+          "Meanwhile, a long-hidden secret regarding the infertile cookie from Navier and Sovieshu's shared childhood finally comes to light by the end of Episode 7, adding deeper context to their strained history."
+        ]
+      },
+      {
+        "h": "Investigation into the Past",
+        "p": [
+          "Growing suspicious of Rashta and noticing frequent visits from her former master, Rotteshu, Navier launches her own private investigation. She tasks a trusted man to unearth her rival's hidden past.",
+          "The inquiry successfully exposes Rashta's hidden child, the fabrications she has maintained, and the true identity of her newborn's father, setting the stage for a major confrontation."
+        ]
+      },
+      {
+        "h": "The Shocker Divorce Announcement",
+        "p": [
+          "Before Navier can present her findings to Sovieshu, she walks in on the Emperor and Rashta together. In a dramatic twist, Sovieshu declares his decision to divorce Navier and elevate Rashta as the next Empress.",
+          "Refusing to be entirely broken by the sudden decree, Navier delivers a powerful concluding note to Episode 8, informing Sovieshu that she plans to attend Heinrey's upcoming royal coronation in the Western Kingdom."
+        ]
+      },
+      {
+        "h": "Developments in the Western Kingdom",
+        "p": [
+          "Far away from the capital, Heinrey faces his own set of personal trials after receiving news that his brother, King Wharton III, is seriously ill. He is forced to depart and leave Navier behind.",
+          "Before his passing, King Wharton III asks Heinrey to succeed him and marry Lady Krista, his widow. Although Krista was Heinrey's first love, he refuses the arranged marriage, declaring that his heart belongs to someone else."
+        ]
+      },
+      {
+        "h": "Special Cameos and Guest Appearances",
+        "p": [
+          "Episodes 7 and 8 also feature surprising guest appearances that delight fans of the series. Lee Jun Hyuk makes a notable cameo as the ailing King Wharton III.",
+          "Additionally, Kang Han Na makes a special appearance in the series as Lady Krista, adding further emotional weight to the Western Kingdom storyline."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Remarried Empress episodes 7 and 8 deliver intense palace drama as Rashta's manipulations lead to Kosair's imprisonment and a shocking divorce announcement from Sovieshu. Meanwhile, Navier uncovers Rashta's past secrets and prepares to attend Heinrey's coronation in the Western Kingdom, where Heinrey declines to marry Lady Krista."
+        ]
+      }
+    ],
+    "facts": [
+      "The Remarried Empress is based on AlphaTart's bestselling web novel.",
+      "The series streams on Disney+.",
+      "Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, and Lee Se Young star in lead roles.",
+      "Lee Jun Hyuk cameos as King Wharton III.",
+      "Kang Han Na cameos as Lady Krista."
+    ],
+    "entities": {
+      "people": [
+        "Shin Min Ah",
+        "Ju Ji Hoon",
+        "Lee Jong Suk",
+        "Lee Se Young",
+        "Rashta",
+        "Sovieshu",
+        "Kosair",
+        "Heinrey",
+        "Wharton III",
+        "Krista",
+        "Rotteshu",
+        "Lee Jun Hyuk",
+        "Kang Han Na",
+        "Navier"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "The Remarried Empress episodes 7 8",
+      "Rashta Sovieshu Navier",
+      "Heinrey Lady Krista"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-18t151812-229-69801794995298.jpg",
+        "caption": "The Remarried Empress Episodes 7-8 Ending Explained: Divorce Shockers, Secret Plans, and Royal Confessions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 15:18:33 +0530"
   }
 };

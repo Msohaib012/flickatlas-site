@@ -50,6 +50,165 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 12:07:59 +0200"
   },
+  "uz37b5": {
+    "id": "uz37b5",
+    "type": "news",
+    "headline": "The Remarried Empress Episodes 7-8 Ending Explained: Divorce Shockers, Secret Plans, and Royal Confessions",
+    "dek": "As The Remarried Empress approaches its final stretch on Disney+, episodes 7 and 8 deliver major plot twists, palace intrigue, and a shocking divorce announcement.",
+    "entities": {
+      "people": [
+        "Shin Min Ah",
+        "Ju Ji Hoon",
+        "Lee Jong Suk",
+        "Lee Se Young",
+        "Rashta",
+        "Sovieshu",
+        "Kosair",
+        "Heinrey",
+        "Wharton III",
+        "Krista",
+        "Rotteshu",
+        "Lee Jun Hyuk",
+        "Kang Han Na",
+        "Navier"
+      ],
+      "titles": [
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "The Remarried Empress episodes 7 8",
+      "Rashta Sovieshu Navier",
+      "Heinrey Lady Krista"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-18t151812-229-69801794995298.jpg",
+        "caption": "The Remarried Empress Episodes 7-8 Ending Explained: Divorce Shockers, Secret Plans, and Royal Confessions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 15:18:33 +0530"
+  },
+  "d3095e": {
+    "id": "d3095e",
+    "type": "news",
+    "headline": "Why There Is No New Scrubs Season 2 Episode Tonight",
+    "dek": "Fans tuning in for the latest medical comedy drama will need to exercise patience as the network implements a brief pause.",
+    "entities": {
+      "people": [
+        "Rishabh Shandilya",
+        "Zach Braff",
+        "Donald Faison",
+        "Sarah Chalke",
+        "Neil Flynn",
+        "Rachel Bilson",
+        "Ava Bunn",
+        "Asher Green",
+        "Blake Lewis",
+        "Amara Hadi",
+        "Dashana Trainor",
+        "John C. McGinley",
+        "Judy Reyes",
+        "Joel Kim Booster",
+        "X Mayo",
+        "Christa Miller",
+        "Ken Jenkins",
+        "Aseem Batra",
+        "Mike Royce",
+        "Mathew Harawitz",
+        "Michael Spiller",
+        "Randall Keenan Winston",
+        "Bill Lawrence",
+        "Jeff Ingold",
+        "Liza Katzer"
+      ],
+      "titles": [
+        "Scrubs",
+        "Scrubs Season 2"
+      ]
+    },
+    "keywords": [
+      "Scrubs Season 2",
+      "Scrubs Episode 7",
+      "Zach Braff Scrubs",
+      "Scrubs release schedule"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-18T151255.894.webp?resize=1200,630",
+        "caption": "Why There Is No New Scrubs Season 2 Episode Tonight",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:43:32 +0000"
+  },
+  "167bv68": {
+    "id": "167bv68",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise on the Reaping Explores Haymitch Abernathy's Deadliest Games",
+    "dek": "Panem returns to the big screen with the sixth theatrical installment in the dystopian franchise, focusing on the 50th Hunger Games and a teenage Haymitch Abernathy.",
+    "entities": {
+      "people": [
+        "Suzanne Collins",
+        "Katniss Everdeen",
+        "Coriolanus Snow",
+        "Haymitch Abernathy",
+        "Lenore Dove",
+        "Lucy Gray Baird",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Mckenna Grace",
+        "Maysilee Donner",
+        "Ben Wang",
+        "Wyatt Callow",
+        "Molly McCann",
+        "Louella McCoy",
+        "Percy Daggs IV",
+        "Ampert Latier",
+        "Beetee",
+        "Kelvin Harrison Jr.",
+        "Maya Hawke",
+        "Wiress",
+        "Lili Taylor",
+        "Mags Flanagan",
+        "Ralph Fiennes",
+        "Plutarch Heavensbee",
+        "Jesse Plemons",
+        "Philip Seymour Hoffman",
+        "Kieran Culkin",
+        "Caesar Flickerman",
+        "Elle Fanning",
+        "Effie Trinket",
+        "Glenn Close",
+        "Drusilla Sickle",
+        "Billy Porter",
+        "Magno Stift",
+        "Jennifer Lawrence",
+        "Josh Hutcherson"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "The Ballad of Songbirds Snakes",
+        "The Hunger Games"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Haymitch Abernathy cast release date",
+      "Sunrise on the Reaping Panem timeline",
+      "The Hunger Games 50th Hunger Games"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-release-date-cast-everything-about-panems-deadliest-games.jpg",
+        "caption": "The Hunger Games: Sunrise on the Reaping Explores Haymitch Abernathy's Deadliest Games",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:40:53 +0000"
+  },
   "6laf17": {
     "id": "6laf17",
     "type": "news",
@@ -98,6 +257,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 14:49:48 +0530"
+  },
+  "19n3ipj": {
+    "id": "19n3ipj",
+    "type": "news",
+    "headline": "The Team Behind the Controversial Documentary 'NAZA' Maintains Plans for a Free Online Release",
+    "dek": "Despite a strong theatrical run and global box office earnings, the creators of the explosive documentary NAZA are preparing to launch the film for free on The Guardian platform.",
+    "entities": {
+      "people": [
+        "Yuval Abraham",
+        "Rachel Szor",
+        "Fionualla Jamison",
+        "Lindsay Poulton",
+        "Harry Davies",
+        "James Wilson",
+        "Neil Young",
+        "Coen Dijkstra",
+        "Miki Zohar",
+        "Benjamin Netanyahu"
+      ],
+      "titles": [
+        "NAZA",
+        "Concrete Land",
+        "To Hold A Mountain",
+        "No Other Land",
+        "NAZA: The Real Story",
+        "Zone of Interest"
+      ]
+    },
+    "keywords": [
+      "NAZA documentary",
+      "Yuval Abraham NAZA",
+      "The Guardian NAZA release",
+      "NAZA film IDFA"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png?w=1024",
+        "caption": "The Team Behind the Controversial Documentary 'NAZA' Maintains Plans for a Free Online Release",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:10:47 +0000"
   },
   "3nk9u7": {
     "id": "3nk9u7",
@@ -4569,169 +4770,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-17T04:08:32Z"
   },
-  "3159w2": {
-    "id": "3159w2",
-    "type": "news",
-    "headline": "Grammy Awards 2027 Nominations Unveiled: Raye, Taylor Swift, and Ariana Grande Make Historic Records",
-    "dek": "The Recording Academy announced the official nominations for the 69th annual Grammy Awards, highlighting major achievements by female pop icons alongside notable snubs for male artists.",
-    "entities": {
-      "people": [
-        "Taylor Swift",
-        "Ariana Grande",
-        "Olivia Rodrigo",
-        "Raye",
-        "Bruno Mars",
-        "Rosalía",
-        "Frank Sinatra",
-        "Noah Kahan",
-        "Harry Styles",
-        "Dolly Parton"
-      ],
-      "titles": [
-        "This Music May Contain Hope",
-        "Lux",
-        "Petal",
-        "My Everything",
-        "The Life of a Showgirl",
-        "you seems pretty sad for a girl so in love",
-        "The Cure",
-        "The Romantic",
-        "The Great Divide: The Last of the Bugs",
-        "Kiss All The Time. Disco, Occasionally"
-      ]
-    },
-    "keywords": [
-      "Grammy Awards 2027 nominations",
-      "Taylor Swift Grammy 2027",
-      "Raye Grammy nominations",
-      "Ariana Grande Grammy history"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156520236,thumbsize-1509971,width-1280,height-720,resizemode-75/156520236.jpg",
-        "caption": "Grammy Awards 2027 Nominations Unveiled: Raye, Taylor Swift, and Ariana Grande Make Historic Records",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-17T04:08:32Z"
-  },
-  "tj2x7j": {
-    "id": "tj2x7j",
-    "type": "news",
-    "headline": "The Expanse Returns With All-New Crew in Osiris Reborn",
-    "dek": "Owlcat Games reveals a brand-new gameplay trailer for The Expanse: Osiris Reborn, introducing players to a fresh crew and a Spring 2027 launch window.",
-    "entities": {
-      "people": [
-        "Paul Farrelly",
-        "James S. A. Corey",
-        "Alice Himora",
-        "James Holden"
-      ],
-      "titles": [
-        "The Expanse",
-        "The Expanse: Osiris Reborn",
-        "Mass Effect",
-        "Mass Effect 5",
-        "Grand Theft Auto 6"
-      ]
-    },
-    "keywords": [
-      "The Expanse Osiris Reborn",
-      "Owlcat Games",
-      "Alice Himora",
-      "The Expanse game trailer"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/the-expanse-osiris-reborn-characters.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "The Expanse Returns With All-New Crew in Osiris Reborn",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 04:00:18 GMT"
-  },
-  "1b9mj15": {
-    "id": "1b9mj15",
-    "type": "news",
-    "headline": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
-    "dek": "The hit action franchise on Amazon is growing with a brand new Vietnam War prequel series centered on Tom Reece.",
-    "entities": {
-      "people": [
-        "Jack Carr",
-        "Tom Reece",
-        "James Reece",
-        "David Keeley",
-        "Chris Pratt",
-        "Taylor Kitsch",
-        "Max Adams",
-        "Jared Shaw",
-        "David Digilio"
-      ],
-      "titles": [
-        "The Terminal List",
-        "Cry Havoc",
-        "The Terminal List: Dark Wolf",
-        "Savage Son"
-      ]
-    },
-    "keywords": [
-      "The Terminal List",
-      "Cry Havoc prequel",
-      "Jack Carr novel",
-      "Tom Reece Navy SEAL",
-      "Amazon Prime Video"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/cry-havoc-terminal-list-prequel.jpg",
-        "caption": "Amazon Prime Video Expands The Terminal List Universe With Cry Havoc Prequel",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 04:00:13 +0000"
-  },
-  "1dnq75x": {
-    "id": "1dnq75x",
-    "type": "news",
-    "headline": "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos",
-    "dek": "Exclusive photographs from the Mumbai production of Jai Mehta's upcoming thriller Pralay showcase Ranveer Singh in a rugged, bearded look while also marking his debut as a producer.",
-    "entities": {
-      "people": [
-        "Ranveer Singh",
-        "Jai Mehta",
-        "Kalyani Priyadarshan",
-        "Priyadarshan",
-        "Hansal Mehta",
-        "Aditya Dhar",
-        "Arjun Rampal",
-        "Sanjay Dutt",
-        "Rakesh Bedi",
-        "Akshaye Khanna",
-        "Saumya Tandon",
-        "Danish Iqbal",
-        "R Madhavan"
-      ],
-      "titles": [
-        "Pralay",
-        "Dhurandhar: The Revenge"
-      ]
-    },
-    "keywords": [
-      "Ranveer Singh Pralay look",
-      "Jai Mehta Pralay film",
-      "Pralay post-apocalyptic thriller",
-      "Kalyani Priyadarshan Pralay",
-      "Ranveer Singh producer debut"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156516998,thumbsize-914551,width-1280,height-720,resizemode-75/156516998.jpg",
-        "caption": "Ranveer Singh's Rugged Look for Post-Apocalyptic Thriller Pralay Revealed in Exclusive Set Photos",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-17T03:52:25Z"
-  },
   "196ll1": {
     "id": "196ll1",
     "type": "news",
@@ -5220,44 +5258,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-14T14:45:15Z"
   },
-  "p5d6en": {
-    "id": "p5d6en",
-    "type": "news",
-    "headline": "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
-    "dek": "Sony Pictures is launching a robust awards campaign and global screening strategy to secure a historic Best Picture nomination for Spider-Man: Brand New Day.",
-    "entities": {
-      "people": [
-        "Tom Holland",
-        "Destin Daniel Cretton",
-        "Jon Watts",
-        "Tom Rothman",
-        "Zendaya"
-      ],
-      "titles": [
-        "Spider-Man: Brand New Day",
-        "Onward",
-        "Uncharted",
-        "The Odyssey",
-        "Black Panther",
-        "Joker",
-        "Dune: Part Three"
-      ]
-    },
-    "keywords": [
-      "Spider-Man Brand New Day",
-      "Tom Holland Spider-Man",
-      "Tom Rothman Sony Pictures",
-      "Spider-Man Brand New Day Oscar"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/tom-holland.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Sat, 14 Nov 2026 00:35:38 GMT"
-  },
   "1iumf04": {
     "id": "1iumf04",
     "type": "news",
@@ -5531,36 +5531,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T15:00:25Z"
-  },
-  "ddarhf": {
-    "id": "ddarhf",
-    "type": "news",
-    "headline": "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood",
-    "dek": "Discover how Zendaya and Tom Holland transitioned from the Spider-Man set to becoming Hollywood's ultimate Gen Z power couple, balancing massive fortunes, global stardom, and fierce privacy.",
-    "entities": {
-      "people": [
-        "Zendaya",
-        "Tom Holland"
-      ],
-      "titles": [
-        "Spider-Man",
-        "Dune",
-        "Challengers"
-      ]
-    },
-    "keywords": [
-      "Zendaya Tom Holland relationship",
-      "Zendaya net worth",
-      "Tom Holland Spider-Man",
-      "Gen Z power couple Hollywood"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af416e36abba-gen-z-couple-111858228-16x9.png",
-        "caption": "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T03:59:28Z"
   }
 };
