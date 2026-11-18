@@ -178436,5 +178436,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T04:53:00Z"
+  },
+  "1shprc4": {
+    "id": "1shprc4",
+    "type": "news",
+    "headline": "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
+    "dek": "Renowned lyricist and writer Javed Akhtar opened up about Nitesh Tiwari's upcoming film Ramayana, calling Lord Ram a symbol of morality, while also sharing his thoughts on Sonia Gandhi's book.",
+    "body": [
+      {
+        "h": "Javed Akhtar On Ramayan",
+        "p": [
+          "Celebrated writer and lyricist Javed Akhtar recently shared his thoughts on the highly anticipated 2026 film Ramayana directed by Nitesh Tiwari. During an event, he addressed questions regarding the cinematic project featuring actor Ranbir Kapoor.",
+          "While the veteran artist has not watched the movie yet, he expressed a strong desire to experience it on screen in the near future."
+        ]
+      },
+      {
+        "h": "Family Recommendation",
+        "p": [
+          "The lyricist noted that his daughter, Zoya Akhtar, has already watched the ambitious project. He mentioned that she appreciated the film's quality.",
+          "According to him, Zoya rarely praises any creative work easily, making her positive review of the Ranbir Kapoor starrer notable."
+        ]
+      },
+      {
+        "h": "Perspective On Lord Ram",
+        "p": [
+          "Expanding on his views, Javed Akhtar described Lord Ram as much more than just a historical figure. He defined the deity as a living embodiment of ideals, ethics, and a proper way of conducting one's life.",
+          "He emphasized that the essence of Ram is deeply embedded in the blood and cultural ethos of every Indian, regardless of their religious background."
+        ]
+      },
+      {
+        "h": "Transcending Religious Boundaries",
+        "p": [
+          "The writer acknowledged that his candid remarks might invite disagreement or even anger from certain sections of people. However, he maintained that the core values represented by Ram belong to all citizens.",
+          "He stated that these moral standards form an integral part of the values passed down through generations in the country."
+        ]
+      },
+      {
+        "h": "Comments On Sonia Gandhi's Book",
+        "p": [
+          "Apart from discussing cinema, Javed Akhtar touched upon literary topics at the gathering. He revealed that he has started reading the book Belonging: A Journey of Love authored by Sonia Gandhi.",
+          "He praised the writing style, describing it as simple, beautiful, and engaging. Although he is not affiliated with the Congress party, he expressed deep respect and admiration for Sonia Gandhi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned writer Javed Akhtar shared his perspective on the film Ramayana starring Ranbir Kapoor and directed by Nitesh Tiwari, noting that his daughter Zoya has already praised it. He described Lord Ram as an ideal of morality transcending religious boundaries and also mentioned reading Sonia Gandhi's book Belonging: A Journey of Love."
+        ]
+      }
+    ],
+    "facts": [
+      "Javed Akhtar spoke about the film Ramayana at an event on Tuesday, November 17, 2026.",
+      "The film Ramayana is directed by Nitesh Tiwari and stars Ranbir Kapoor.",
+      "Javed Akhtar's daughter Zoya has watched the film and praised it.",
+      "Javed Akhtar is reading the book Belonging: A Journey of Love by Sonia Gandhi."
+    ],
+    "entities": {
+      "people": [
+        "Javed Akhtar",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Zoya Akhtar",
+        "Sonia Gandhi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Belonging: A Journey of Love"
+      ]
+    },
+    "keywords": [
+      "Javed Akhtar Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayan",
+      "Javed Akhtar on Lord Ram",
+      "Sonia Gandhi Belonging book"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc8974e0985-javed-akhtar-161952994-16x9.jpg",
+        "caption": "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T04:56:40Z"
+  },
+  "mwaedw": {
+    "id": "mwaedw",
+    "type": "news",
+    "headline": "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
+    "dek": "Australian country music artist Wade Forster dominates the upcoming Golden Guitar Awards with 10 nominations, setting a unique record with simultaneous album nods.",
+    "body": [
+      {
+        "h": "Wade Forster Dominates the Field",
+        "p": [
+          "Australian country music star Wade Forster has captured the spotlight by securing an impressive 10 nominations heading into the 55th annual Golden Guitar Awards. As Australia's premier country music honors, the ceremony highlights the industry's standout performers, and Forster enters the race as the clear frontrunner following a remarkable breakout period in his career.",
+          "His massive tally of nominations reflects a prolific stretch that has cemented his status as a major force in contemporary country music. Forster has successfully transitioned from regional acclaim to broader international visibility, capturing the attention of both fans and industry peers alike."
+        ]
+      },
+      {
+        "h": "A Landmark Year of Touring and Releases",
+        "p": [
+          "The exceptional recognition comes on the heels of a transformative career year for the singer, songwriter, and guitarist. Over recent months, Forster achieved a major milestone by making his debut performance at the historic Grand Ole Opry in the United States, followed quickly by a series of sold-out concerts across American venues.",
+          "Back home in Australia, he completed an extensive coast-to-coast national tour. This rigorous touring schedule was undertaken to support his third studio album, titled The Aftermath, which was released through Community Music."
+        ]
+      },
+      {
+        "h": "Historical Double Album Nominations",
+        "p": [
+          "In a development believed to be an absolute first for the Golden Guitar Awards, Forster has managed to secure nominations for two distinct albums across separate categories for the same event. Both of his recent records were produced by Simon Johnson, showcasing a consistent creative partnership that has clearly resonated with the voting bodies.",
+          "His sophomore 2025 release, Gooseneck Party, earned nods for alt country/Americana album of the year as well as the overarching album of the year category. Meanwhile, his newer project, The Aftermath, contends for contemporary country album of the year and also goes head-to-head for album of the year."
+        ]
+      },
+      {
+        "h": "Prior Accolades and Steady Momentum",
+        "p": [
+          "Forster's current dominance is built upon solid foundational success established earlier in 2026. Earlier that year, he collected two Golden Guitar trophies, specifically winning male artist of the year and new talent of the year.",
+          "Those early triumphs were propelled by the popularity of Gooseneck Party, proving that his artistic trajectory has been steadily rising rather than peaking overnight. His ability to maintain creative quality across consecutive album releases has kept him at the forefront of the genre."
+        ]
+      },
+      {
+        "h": "Nomination Launch and Fellow Contenders",
+        "p": [
+          "The official nominees across 16 different categories were revealed during a lunchtime gathering held in central Sydney as part of the broader ARIA Awards week of events. Among the other notable artists scoring multiple mentions, Brooke McClymont Adam Eckersley and James Johnston secured six nominations each, while Mack Geiger followed closely with five.",
+          "Additional multiple-nomination honoress include Catherine Britt, Dean Perrett, Felicity Urquhart Josh Cunningham, Morgan Evans, and William Alexander with four categories each. Meanwhile, Beccy Cole, Sons of Atticus, Kingswood, The French Family Band, and newcomer Tyla Rodrigues each secured three nods, alongside Fanny Lumsden leading a group with two chances."
+        ]
+      },
+      {
+        "h": "Festival Details and Industry Outlook",
+        "p": [
+          "The announcement event also featured live performances from artists such as Jake Whittaker, Zac and George, alongside an opening act by Beccy Cole and Duncan Toombs. Awards executive producer Peter Ross and CMAA chair Dobe Newton spoke at the launch, emphasizing the thriving state and diversity of the nation's country music landscape.",
+          "Organizers reported a total of 580 entries accepted for consideration across the various awards. The winners will be officially announced on Saturday, Jan. 23, during the Toyota 55th Tamworth Country Music Festival in Tamworth, New South Wales, Australia's designated home of country music."
+        ]
+      },
+      {
+        "h": "Event Legacy and Local Support",
+        "p": [
+          "The annual festival is projected to draw roughly 30,000 country music enthusiasts on each of its 10 operating days. The Tamworth Regional Council will present the awards ceremony at the Tamworth Regional Entertainment and Conference Centre, continuing its legacy as Australia's longest-running music awards show.",
+          "Support for the festival is provided by the New South Wales government through its tourism and major events agency, Destination NSW. This strong institutional backing ensures the continued celebration of the country music industry's most creative and talented figures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Wade Forster has secured 10 nominations for the 55th annual Golden Guitar Awards, including a historic double-album nomination feat for his records Gooseneck Party and The Aftermath. The nominees were unveiled during ARIA Awards week in Sydney, with the winners set to be announced on January 23 at the Tamworth Country Music Festival in New South Wales."
+        ]
+      }
+    ],
+    "facts": [
+      "Wade Forster received 10 nominations for the 55th annual Golden Guitar Awards.",
+      "Nominations were announced on Tuesday, November 17, in central Sydney.",
+      "The 55th Tamworth Country Music Festival takes place on Saturday, January 23.",
+      "A total of 580 entries were accepted for the awards.",
+      "Brooke McClymont Adam Eckersley and James Johnston received six nominations each.",
+      "Mack Geiger collected five nominations."
+    ],
+    "entities": {
+      "people": [
+        "Wade Forster",
+        "Gavin Bain",
+        "Noah Kahan",
+        "Cody Johnson",
+        "Fanny Lumsden",
+        "Simon Johnson",
+        "Brooke McClymont",
+        "Adam Eckersley",
+        "James Johnston",
+        "Mack Geiger",
+        "Catherine Britt",
+        "Dean Perrett",
+        "Felicity Urquhart",
+        "Josh Cunningham",
+        "Morgan Evans",
+        "William Alexander",
+        "Beccy Cole",
+        "Tyla Rodrigues",
+        "Jake Whittaker",
+        "Duncan Toombs",
+        "Peter Ross",
+        "Dobe Newton"
+      ],
+      "titles": [
+        "The Aftermath",
+        "Gooseneck Party"
+      ]
+    },
+    "keywords": [
+      "Wade Forster Golden Guitar Awards",
+      "55th Golden Guitar Awards nominations",
+      "Wade Forster The Aftermath",
+      "Tamworth Country Music Festival 2027"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/wade-forster-2026-1800.jpg?w=1024",
+        "caption": "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 04:45:00 +0000"
+  },
+  "1os7b9w": {
+    "id": "1os7b9w",
+    "type": "news",
+    "headline": "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
+    "dek": "Ajay Devgn starrer Drishyam: The Conclusion has cleared its final major legal hurdle for streaming, as the Madras High Court refused to block its digital premiere.",
+    "body": [
+      {
+        "h": "Legal Clearance For Digital Premiere",
+        "p": [
+          "The third and final chapter of the Hindi Drishyam trilogy has successfully bypassed a significant legal obstacle concerning its upcoming digital release. The Madras High Court declined to issue an injunction that would have restrained the film's OTT distribution.",
+          "This ruling provides substantial relief to the makers and fans of the franchise, ensuring that the crime thriller can transition to streaming platforms without ongoing judicial interference."
+        ]
+      },
+      {
+        "h": "The Core Of The Copyright Dispute",
+        "p": [
+          "The legal tussle originated from a copyright claim brought forward by Rajkumar Theatres Private Limited. The company contended that they possessed valid rights concerning the remake of the original Malayalam property.",
+          "According to the plaintiff, the original creators lacked the authority to assign adaptation rights to alternative production houses for the third installment, leading to a commercial suit filed against the distribution of the movie."
+        ]
+      },
+      {
+        "h": "Tracing The Chain Of Rights",
+        "p": [
+          "The contractual history dates back to December 2013, when original creators Antony Perumbavoor's Aashirvad Cinemas and Jeethu Joseph granted Wide Angle Creations exclusive North Indian remake and adaptation permissions. Subsequently, Wide Angle partnered with Rajkumar Theatres in June 2014.",
+          "Over the years, the rights shifted multiple times. Wide Angle assigned the Hindi remake permissions to Viacom18 Media in September 2024, which later transferred to Digital 18 Media. Eventually, Aashirvad Cinemas and Jeethu Joseph entered into a separate arrangement with Panorama Studios in November 2025."
+        ]
+      },
+      {
+        "h": "Court Observations And Final Verdict",
+        "p": [
+          "Justice P B Balaji presided over the fresh application and dismissed the commercial suit, noting that an earlier injunction plea against the theatrical release had already attained finality back on October 1, 2026.",
+          "The court highlighted that Rajkumar Theatres failed to establish a subsisting right capable of preventing the original copyright owners from assigning adaptation tasks, nor did they demonstrate actionable infringement from the released film."
+        ]
+      },
+      {
+        "h": "Theatrical Background And Naming Controversy",
+        "p": [
+          "Before the film hit the big screen, Rajkumar Theatres had unsuccessfully attempted to block theatrical, television, and digital exploitation. The Ajay Devgn-starrer ultimately arrived in cinemas on October 2, 2026.",
+          "As part of the legal arguments, the plaintiff also questioned the omission of the numeral 3 from the title, suggesting it was an intentional maneuver to bypass their claimed ownership over subsequent instalments."
+        ]
+      },
+      {
+        "h": "Expected OTT Release Timeline",
+        "p": [
+          "With the legal restrictions officially cleared, the crime thriller is anticipated to arrive on a digital platform in the near future. Industry analysts point to the standard eight-week theatrical-to-digital window observed by Hindi films.",
+          "This typical timeline places the digital premiere around late November or early December 2026, though an official announcement detailing the specific streaming partner and exact date remains pending."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Madras High Court has dismissed a copyright lawsuit seeking to block the digital release of Ajay Devgn's Drishyam: The Conclusion. The ruling clears the path for the crime thriller's anticipated streaming premiere by the end of November or early December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Ajay Devgn stars in Drishyam: The Conclusion",
+      "The Madras High Court ruled on Tuesday, November 17, 2026",
+      "Rajkumar Theatres Private Limited filed the copyright dispute",
+      "The original Malayalam film makers are Antony Perumbavoor's Aashirvad Cinemas and Jeethu Joseph",
+      "The film was directed by Abhishek Pathak",
+      "The theatrical release occurred on October 2, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Jaideep Ahlawat",
+        "Abhishek Pathak",
+        "Antony Perumbavoor",
+        "Jeethu Joseph",
+        "P B Balaji"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam: The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 OTT release",
+      "Ajay Devgn Drishyam The Conclusion",
+      "Madras High Court copyright case",
+      "Drishyam 3 streaming date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156525160,thumbsize-154292,width-1280,height-720,resizemode-75/156525160.jpg",
+        "caption": "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T04:56:40Z"
+  },
+  "w22tv7": {
+    "id": "w22tv7",
+    "type": "news",
+    "headline": "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert",
+    "dek": "Former teacher Joyce Lakin shares her story of ending up in the spotlight during a recent performance at SoFi Stadium.",
+    "body": [
+      {
+        "h": "A Surprising Moment at SoFi Stadium",
+        "p": [
+          "An 81-year-old former teacher captured widespread attention across the internet following a memorable appearance during a major live music event. Footage circulated widely showing the senior fan dancing directly on stage alongside a well-known R&B performer during a recent tour stop in Southern California.",
+          "The special moment took place during a mid-November tour date held at a prominent stadium venue in Los Angeles. The musical artist's backup performers spotted the dedicated attendee in the crowd and extended an invitation for her to join the production."
+        ]
+      },
+      {
+        "h": "The Special Onstage Performance",
+        "p": [
+          "The unique guest was welcomed into the spotlight just as the main act prepared to deliver a popular track known as 'Take You Down'. During this specific segment of the concert, the singer traditionally invites a female supporter to share the stage for a choreographed interaction.",
+          "The octogenarian attendee stood out in a distinctive outfit featuring a lengthy zebra-print fur coat, a matching furry hat, and sunglasses, while also carrying a red cane. The headlining artist delivered a personal serenade as the segment transitioned to a nearby couch set piece."
+        ]
+      },
+      {
+        "h": "Embracing the Unexpected Opportunity",
+        "p": [
+          "Reflecting on the surreal experience during an interview with a major news network, the elderly fan noted that she lacked the time to panic and simply chose to roll with the moment. Instead of freezing under the bright stadium lights, she decided to make the most of the rare opportunity.",
+          "With a lifelong passion for rhythm and movement guiding her, she refused to remain stationary once she reached the platform. Her internal sense of beat and rhythm took over as she participated fully in the unexpected onstage highlight."
+        ]
+      },
+      {
+        "h": "A Meaningful Journey to the Concert",
+        "p": [
+          "The memorable night out carried deep personal significance for the fan and her family following a difficult medical diagnosis earlier in the year. Over the summer, she learned she had cancer and subsequently underwent a surgical procedure in August to remove a tumor from her intestines.",
+          "Looking for a positive distraction and something joyful to anticipate during her recovery, she asked her youngest daughter to accompany her to the massive stadium show. Her daughter acknowledged that refusing the request was simply not an option under the circumstances."
+        ]
+      },
+      {
+        "h": "The Healing Power of Music",
+        "p": [
+          "For the longtime music lover, rhythm has served as an enduring source of strength and comfort throughout her life. She explained that melodies help maintain momentum and keep a person moving forward through challenging times.",
+          "That deep appreciation for sound and motion carried her straight onto the platform in front of thousands of screaming spectators. Her refusal to stand still turned an ordinary concert intermission into an unforgettable viral sensation."
+        ]
+      },
+      {
+        "h": "Social Media Recognition and Response",
+        "p": [
+          "The headline-making moment did not go unnoticed by the headlining performer, who quickly took to social media to share his appreciation. He uploaded multiple snapshots from the live interaction to his personal Instagram account.",
+          "Accompanying the photo gallery, the performer expressed his admiration directly by captioning the post with a declaration of love, paired with duplicate heart symbols and a hands-together prayer emoji, cementing the moment online."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An 81-year-old former teacher named Joyce Lakin went viral after being invited onstage by dancers during a November 15 concert at SoFi Stadium. Attending the show with her daughter following a summer cancer diagnosis and August surgery, Lakin embraced the moment while the singer performed 'Take You Down' and later shared photos online praising her."
+        ]
+      }
+    ],
+    "facts": [
+      "Joyce Lakin is an 81-year-old former teacher.",
+      "Chris Brown is a 37-year-old R&B singer.",
+      "The concert took place on November 15, 2026, at SoFi Stadium in Los Angeles.",
+      "Joyce Lakin was diagnosed with cancer in the summer of 2026.",
+      "She underwent surgery in August 2026 to remove a tumor from her intestines.",
+      "Lakin attended the concert with her daughter, Lori Lakin Hutcherson."
+    ],
+    "entities": {
+      "people": [
+        "Chris Brown",
+        "Joyce Lakin",
+        "Lori Lakin Hutcherson"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Chris Brown concert",
+      "Joyce Lakin",
+      "SoFi Stadium",
+      "Lori Lakin Hutcherson"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/chris-brown-81-year-old-fan.jpg",
+        "caption": "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 04:37:04 +0000"
   }
 };
