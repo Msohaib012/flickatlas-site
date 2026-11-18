@@ -150508,10 +150508,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana OTT deal",
-      "Dil Raju Ramayana collection",
-      "Ramayana 2000 crore box office",
-      "Namit Malhotra Ramayana"
+      "Ramayana OTT deal digital rights",
+      "Dil Raju Ramayana digital rights",
+      "Ramayana makers digital rights update",
+      "Dil Raju Ramayana box office collections"
     ],
     "images": [
       {
@@ -150596,11 +150596,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bigg Boss 20",
-      "Scout OP",
-      "Salman Khan",
-      "Young DSA",
-      "Love Gill"
+      "Salman Khan Scout OP Bigg Boss 20",
+      "Bigg Boss 20 Scout OP physical fight",
+      "Salman Khan Weekend Ka Vaar Bigg Boss 20",
+      "Scout OP Young DSA Bigg Boss 20"
     ],
     "images": [
       {
@@ -150879,10 +150878,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
+      "BTS Melon Music Awards 2026",
       "BTS ARIRANG World Tour",
-      "Melon Music Awards 2026",
-      "BTS four major awards",
-      "BTS ARIRANG album"
+      "BTS four major wins Melon Music Awards",
+      "BTS Daesang Melon Music Awards"
     ],
     "images": [
       {
@@ -150986,10 +150985,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
+      "ENHYPEN I Want You music video",
+      "THE SIN PARALLEL WORLD ENHYPEN",
       "ENHYPEN I Want You",
-      "THE SIN PARALLEL WORLD",
-      "ENHYPEN Weverse Con Festival India 2027",
-      "ENHYPEN music video release"
+      "ENHYPEN vampire-inspired universe"
     ],
     "images": [
       {
@@ -151075,10 +151074,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "TREASURE SHOCK music video",
-      "TREASURE 100 million views",
-      "YG Entertainment TREASURE",
-      "SHOCK music video record"
+      "TREASURE SHOCK music video 100 million views",
+      "TREASURE SHOCK milestone",
+      "TREASURE SHOCK YouTube views",
+      "TREASURE music video SHOCK"
     ],
     "images": [
       {
@@ -151168,10 +151167,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Parineeti Chopra Ramayana",
-      "Ramayana box office collection",
-      "Ranbir Kapoor Yash Ramayana"
+      "Parineeti Chopra Ramayana Rise of a Legend",
+      "Ramayana Rise of a Legend 1200 crore",
+      "Parineeti Chopra Nitesh Tiwari Ramayana",
+      "Ramayana Rise of a Legend box office"
     ],
     "images": [
       {
@@ -151256,10 +151255,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Katrina Kaif Kay Beauty",
-      "Katrina Kaif Vicky Kaushal",
-      "Vihaan Kaushal",
-      "Kay Beauty UAE UK"
+      "Katrina Kaif Vicky Kaushal Kay Beauty",
+      "Katrina Kaif Vicky Kaushal marriage",
+      "Katrina Kaif motherhood Vicky Kaushal",
+      "Kay Beauty Katrina Kaif"
     ],
     "images": [
       {
@@ -151359,10 +151358,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Michael 2",
-      "Michael Jackson biopic sequel",
-      "Michael Lionsgate movie",
-      "Michael Jackson film controversies"
+      "Michael Jackson sequel film Michael",
+      "Lionsgate Michael 2 biopic",
+      "Michael Jackson biopic hurdles",
+      "Michael sequel film"
     ],
     "images": [
       {
@@ -151460,11 +151459,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "HBO Harry Potter series",
-      "Harry Potter TV show clip",
-      "Dominic McLaughlin Harry Potter",
-      "Francesca Gardiner Harry Potter",
-      "Harry Potter release date 2026"
+      "HBO Harry Potter TV series first clip",
+      "Harry Potter Hogwarts Dining Hall video",
+      "Dominic McLaughlin Harry Potter series",
+      "HBO Harry Potter adaptation"
     ],
     "images": [
       {
@@ -151656,10 +151654,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana Day 10 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana global collection"
+      "Ramayana box office day 10",
+      "Ranbir Kapoor Yash Ramayana 1200 crore",
+      "Nitesh Tiwari Ramayana global milestone",
+      "Ramayana box office collection"
     ],
     "images": [
       {
@@ -151970,11 +151968,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kamal Haasan Sandiyar",
-      "Sandiyar title controversy",
-      "SU Arun Kumar film",
-      "Tamil Film Producers Council Sandiyar",
-      "Krishnasamy Sandiyar objection"
+      "Kamal Haasan Sandiyar title controversy",
+      "Sandiyar film objections",
+      "SU Arun Kumar Sandiyar movie",
+      "Tamil Film Producers Council Sandiyar"
     ],
     "images": [
       {
@@ -152064,10 +152061,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Giri Babu death",
-      "Raghu Babu father",
-      "Giri Babu last rites",
-      "Telugu actor Giri Babu"
+      "Giri Babu passes away",
+      "Raghu Babu Giri Babu final rites",
+      "Telugu actor Giri Babu death",
+      "Giri Babu 83"
     ],
     "images": [
       {
@@ -152243,10 +152240,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Chris Pratt",
-      "James Gunn",
-      "Guardians of the Galaxy",
-      "DC Studios"
+      "Chris Pratt James Gunn Marvel reunion",
+      "Chris Pratt Guardians of the Galaxy",
+      "James Gunn DC Studios",
+      "Chris Pratt DC reunion"
     ],
     "images": [
       {
@@ -152329,10 +152326,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Vimal",
-      "Mannar Vagaiyara",
-      "Madras High Court",
-      "cheque bounce case"
+      "Actor Vimal Madras High Court plea",
+      "Vimal cheque bounce dispute",
+      "Mannar Vagaiyara legal case",
+      "Vimal Madras High Court"
     ],
     "images": [
       {
@@ -154706,10 +154703,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part 1 box office",
-      "Ranbir Kapoor Ramayana collection",
-      "Ramayana Part 1 worldwide gross",
-      "Ramayana second Saturday collection"
+      "Ramayana Part 1 box office 1228 crore",
+      "Ranbir Kapoor Yash Ramayana Part 1",
+      "Ramayana Part 1 second weekend",
+      "Nitesh Tiwari Ramayana Part 1 collections"
     ],
     "images": [
       {
@@ -177614,5 +177611,426 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T06:27:52+05:30"
+  },
+  "fuadk7": {
+    "id": "fuadk7",
+    "type": "news",
+    "headline": "'Avengers: Doomsday' Official Rating, Runtime and Box Office Advance Bookings Unveiled Ahead of December Release",
+    "dek": "Marvel Studios' upcoming blockbuster 'Avengers: Doomsday' secures an official PG-13 rating with content warnings for violence and language, while advance ticket sales in India cross Rs 10 crore.",
+    "body": [
+      {
+        "h": "Official Certification and Content Warnings",
+        "p": [
+          "Marvel Studios' highly anticipated film 'Avengers: Doomsday' has officially secured a PG-13 rating from filmratings.com just a month ahead of its theatrical debut. Certification details indicate that the feature will contain bloody images, violence, action sequences, and specific language.",
+          "This certification heavily reinforces ongoing speculation that the upcoming installment will adopt a darker, more intense tone compared to previous films in the overarching franchise."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast and Character Shifts",
+        "p": [
+          "Directed by the Russo Brothers, the blockbuster brings together a massive roster of heroes from all corners of the Marvel universe, spanning the Avengers, the Fantastic Four, the New Avengers, Spider-Man, Shang-Chi, and Fox-era X-Men variants.",
+          "In a major twist for the cinematic universe, Robert Downey Jr. transitions away from his iconic superhero persona to portray the primary antagonist, Doctor Doom. Meanwhile, familiar faces return to the fold, including Chris Hemsworth as Thor and Tom Hiddleston as Loki."
+        ]
+      },
+      {
+        "h": "Return of Classic X-Men Characters",
+        "p": [
+          "The feature also incorporates several legacy actors and beloved characters back into the overarching storyline. Notably, the late Patrick Stewart makes his final appearance as Professor Charles Xavier.",
+          "Alongside Stewart, Ian McKellen reprises his role as Magneto, and James Marsden returns as the mutant hero Cyclops, adding a heavy dose of nostalgia for longtime fans of the superhero genre."
+        ]
+      },
+      {
+        "h": "Steve Rogers Returns to Address a Multiverse Threat",
+        "p": [
+          "Chris Evans is set to reprise his legendary role as Steve Rogers, picking up the character's narrative arc after the emotional conclusion of 'Avengers: Endgame'. Narrative reports outline that after returning the Infinity Stones and living a full life with Peggy Carter, Rogers is drawn back into action.",
+          "A terrifying new danger threatening multiple universes forces the veteran soldier to answer the call once more, positioning him alongside Thor and Reed Richards to tackle the looming multiverse crisis."
+        ]
+      },
+      {
+        "h": "Theatrical Runtime and Extended Cut Speculation",
+        "p": [
+          "The standard theatrical cut of the movie is scheduled to run for approximately two hours and 29 minutes. However, discussions surrounding a much longer version have already ignited fan excitement online.",
+          "According to reports from Cinema Crave, the Russo Brothers have expressed interest in showcasing an uncut version that stretches to around three hours and 40 minutes, potentially arriving as a re-release prior to the subsequent instalment, 'Avengers: Secret Wars'."
+        ]
+      },
+      {
+        "h": "Strong Advance Bookings in India",
+        "p": [
+          "The project is slated to arrive in theatres across India on December 17, with ticket windows officially open for eager fans. Major ticket booking platforms indicate that the feature has already surpassed Rs 10 crore in advance reservations.",
+          "Furthermore, midnight premiere shows starting from 12 am are rapidly selling out across major multiplex and theatre chains, highlighting massive anticipation for the blockbuster event."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "'Avengers: Doomsday' has received an official PG-13 rating for bloody images and violence ahead of its December 17 release in India. Directed by the Russo Brothers, the film features an expansive cast including Robert Downey Jr. as Doctor Doom and returning stars like Chris Evans and Patrick Stewart, while advance bookings have already crossed Rs 10 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is scheduled for release in India on December 17, 2026.",
+      "The film has received a PG-13 rating with descriptors for bloody images, violence/action, and language.",
+      "The theatrical runtime is approximately two hours and 29 minutes.",
+      "Advance bookings in India have crossed Rs 10 crore.",
+      "Robert Downey Jr. plays the villain Doctor Doom."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Patrick Stewart",
+        "Ian McKellen",
+        "James Marsden",
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Chris Evans",
+        "Peggy Carter",
+        "Reed Richards",
+        "Charles Xavier",
+        "Magneto",
+        "Cyclops",
+        "Thor",
+        "Loki",
+        "Steve Rogers",
+        "Doctor Doom"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Endgame",
+        "Avengers: Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday rating",
+      "Avengers Doomsday runtime",
+      "Chris Evans Steve Rogers"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135946180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Avengers: Doomsday' Official Rating, Runtime and Box Office Advance Bookings Unveiled Ahead of December Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T08:26:58+05:30"
+  },
+  "1pa0hc6": {
+    "id": "1pa0hc6",
+    "type": "news",
+    "headline": "Dancing With the Stars Shocks Fans With Harry Shum Jr. and Jenna Johnson Elimination in Semi-Finals",
+    "dek": "The latest episode of Dancing With the Stars Season 35 delivered a major surprise as Harry Shum Jr. and Jenna Johnson were sent home just before the finale.",
+    "body": [
+      {
+        "h": "Semi-Finals Shock",
+        "p": [
+          "The latest broadcast of Dancing With the Stars delivered an unexpected shock to viewers as co-hosts Julianne Hough and Alfonso Ribeiro announced that Harry Shum Jr. and Jenna Johnson were eliminated from the competition. Despite delivering strong performances throughout the night, the fan-favorite duo fell short of securing a spot in the upcoming round.",
+          "The sudden exit stunned the audience and fellow competitors alike, proving that high scores alone are never enough to guarantee safety in the later stages of the reality dance show. As the remaining pairs celebrated moving forward, the departure marked one of the most emotional moments of the current season."
+        ]
+      },
+      {
+        "h": "Perfection on the Dance Floor",
+        "p": [
+          "Before their elimination, Harry and Jenna delivered stellar routines that earned them top marks from the judges panel consisting of Carrie Ann Inaba, Derek Hough, and Bruno Tonioli. They kicked off their evening with a powerful Paso Doble set to Rihanna featuring Calvin Harris, which received a flawless 30 out of 30 score.",
+          "Their second performance was an energetic Quickstep performed to the Glee version of Valerie, serving as a special nod to Harry's late Glee co-star Naya Rivera. That routine also picked up a maximum 30 out of 30 score, making their final exit even more baffling to supporters who watched them dominate the technical leaderboard."
+        ]
+      },
+      {
+        "h": "Finalists Advance",
+        "p": [
+          "With Harry and Jenna exiting the competition, five remaining couples successfully booked their tickets to the upcoming Season 35 finale. Among those moving forward are Maura Higgins paired with Mark Ballas, and Ezra Frech dancing alongside Daniella Karagach.",
+          "The remaining slots are rounded out by Tatyana Ali paired with Jan Ravnik, Connor Wood dancing with Rylee Arnold, and Amber Glenn teamed up with Pasha Pashkov. All five duos will now focus their energy on preparing for the final showdown."
+        ]
+      },
+      {
+        "h": "A Night of High Scores",
+        "p": [
+          "The semi-final round required every remaining pair to execute two brand new routines, tackling both a ballroom style and a Latin piece. Connor and Rylee earned a 24 out of 30 for their Jive and another 24 out of 30 for their Quickstep, while Ezra and Daniella captured a 27 out of 30 for their Quickstep and a perfect 30 out of 30 for their Jive.",
+          "Maura and Mark secured a top-tier 30 out of 30 for their Samba and a close 29 out of 30 for their Viennese Waltz. Amber and Pasha dazzled the judges with back-to-back 30 out of 30 scores for their Salsa and Viennese Waltz, and Tatyana and Jan collected a 27 out of 30 for their Waltz alongside a 28 out of 30 for their Cha Cha."
+        ]
+      },
+      {
+        "h": "Road to the Finale",
+        "p": [
+          "The highly anticipated Season 35 finale of Dancing With the Stars is scheduled to air next Tuesday at 8 p.m. ET and 5 p.m. PT. Fans can tune in live via ABC and Disney+, with streaming availability opening up on Hulu the following day.",
+          "Alongside the crowning of the new DWTS champions, the concluding episode will welcome back all eliminated Season 35 contestants for a massive group reunion performance in the ballroom."
+        ]
+      },
+      {
+        "h": "Star-Studded Return",
+        "p": [
+          "The upcoming finale will feature a gathering of familiar faces returning to the dance floor one final time. Celebrities slated to make an appearance include Jenna Dewan, Guillermo Rodriguez, Julia Stiles, and Tyler Cameron.",
+          "Other notable names returning for the grand conclusion include Sarah Jane Nader, Taylor Hanson, and Ciara Miller, promising a festive atmosphere to celebrate the end of the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Harry Shum Jr. and Jenna Johnson were eliminated from Dancing With the Stars during the Season 35 semi-finals despite earning two perfect scores. Five remaining couples will advance to compete in next week's finale broadcast on ABC, Disney+, and Hulu."
+        ]
+      }
+    ],
+    "facts": [
+      "Harry Shum Jr. and Jenna Johnson were eliminated during the DWTS Semi-Finals.",
+      "The Season 35 finale airs next Tuesday at 8 p.m. ET/5 p.m. PT.",
+      "Harry and Jenna received scores of 30/30 for their Paso Doble and Quickstep.",
+      "Returning stars for the finale include Jenna Dewan, Julia Stiles, and Tyler Cameron."
+    ],
+    "entities": {
+      "people": [
+        "Harry Shum Jr.",
+        "Jenna Johnson",
+        "Julianne Hough",
+        "Alfonso Ribeiro",
+        "Maura Higgins",
+        "Mark Ballas",
+        "Ezra Frech",
+        "Daniella Karagach",
+        "Tatyana Ali",
+        "Jan Ravnik",
+        "Connor Wood",
+        "Rylee Arnold",
+        "Amber Glenn",
+        "Pasha Pashkov",
+        "Carrie Ann Inaba",
+        "Derek Hough",
+        "Bruno Tonioli",
+        "Elvis Presley",
+        "Calvin Harris",
+        "Luciano Perrone",
+        "Hozier",
+        "3 Doors Down",
+        "Kenny Loggins",
+        "Celia Cruz",
+        "Ariana Grande",
+        "Journey",
+        "Pete Rodríguez",
+        "Naya Rivera",
+        "Jenna Dewan",
+        "Guillermo Rodriguez",
+        "Julia Stiles",
+        "Tyler Cameron",
+        "Sarah Jane Nader",
+        "Taylor Hanson",
+        "Ciara Miller"
+      ],
+      "titles": [
+        "Dancing With the Stars",
+        "Glee"
+      ]
+    },
+    "keywords": [
+      "Harry Shum Jr",
+      "Jenna Johnson",
+      "Dancing With the Stars",
+      "DWTS Season 35 finale"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/newspress-collage-88qqgvory-1794943358508.jpg?quality=75&amp;strip=all&amp;1794925649&amp;w=1024",
+        "caption": "Dancing With the Stars Shocks Fans With Harry Shum Jr. and Jenna Johnson Elimination in Semi-Finals",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 22:03:48 -0500"
+  },
+  "1l43ymi": {
+    "id": "1l43ymi",
+    "type": "news",
+    "headline": "Only Murders in London Trailer Released for Season 6",
+    "dek": "Steve Martin, Martin Short, and Selena Gomez relocate their true-crime investigation overseas in the upcoming sixth season.",
+    "body": [
+      {
+        "h": "Introduction to the Overseas Mystery",
+        "p": [
+          "The beloved comedic trio of crime solvers is heading far away from the familiar confines of the Arconia building. In the newly released trailer for the upcoming season, Charles, Oliver, and Mabel take their true-crime podcast on an international trip to London for their most demanding inquiry yet.",
+          "The narrative shifts gears following the shocking events that concluded the previous season, setting the stage for a completely fresh environment filled with distinct challenges for the enthusiastic podcasters."
+        ]
+      },
+      {
+        "h": "The Catalyst Behind the Journey",
+        "p": [
+          "The fifth season ended with a dramatic development involving the death of fellow podcaster Cinda Canning on the sidewalk right outside the Arconia. Teasers from the new footage indicate that the circumstances surrounding her demise connect directly to events that took place across the ocean.",
+          "Consequently, the trio faces a summons from Cinda herself when her next appearance arrives directly at their doorstep, compelling them to travel abroad in order to track down her killer."
+        ]
+      },
+      {
+        "h": "A Familiar Yet Foreign Setting",
+        "p": [
+          "As the investigators settle into their new surroundings, they quickly realize that their work will not be entirely straightforward. Navigating the home of the classic cozy murder mystery presents unique cultural hurdles.",
+          "Furthermore, their investigation takes an unexpected twist when they stumble upon a crucial location tied to the case that bears a striking and uncanny resemblance to their beloved Arconia."
+        ]
+      },
+      {
+        "h": "The Core Cast Returns",
+        "p": [
+          "Fans of the acclaimed series will see the primary ensemble back in action. Steve Martin reprises his role as Charles, Martin Short returns as Oliver, and Selena Gomez portrays Mabel once again.",
+          "In addition to the main three, Tina Fey returns to her role as Cinda Canning. Other notable returning cast members include Meryl Streep, Da'Vine Joy Randolph, and Michael Cyril Creighton."
+        ]
+      },
+      {
+        "h": "An Extensive Guest Ensemble",
+        "p": [
+          "The upcoming episodes will introduce a massive lineup of guest stars to the narrative. The extensive roster includes Simone Ashley, Matthew Beard, Jim Broadbent, Peter Capaldi, and Olivia Colman.",
+          "Rounding out the robust guest cast are Nicola Coughlan, Jamie Demetriou, Martin Freeman, Richard E. Grant, Geri Halliwell-Horner, Jane Horrocks, Sharon Horgan, Lesley Nicol, Jennifer Saunders, Sean Teale, David Tennant, Anjana Vasan, and Jodie Whittaker."
+        ]
+      },
+      {
+        "h": "Title Change and Premiere Date",
+        "p": [
+          "Reflecting the new international backdrop, the sixth season has officially been titled 'Only Murders in London'. Audiences will not have to wait much longer to see how the story unfolds.",
+          "The premiere is scheduled to drop on December 8, bringing the latest chapter of the dysfunctional trio's investigative adventures to viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for the sixth season of the hit series reveals that Steve Martin, Martin Short, and Selena Gomez are taking their podcast to London following the death of Cinda Canning. The upcoming episodes, premiering on December 8 and featuring an expansive guest cast, will find the trio investigating a new mystery in an unfamiliar setting that eerily echoes the Arconia."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 6 is titled 'Only Murders in London'",
+      "The season premieres on December 8",
+      "Cast members returning include Steve Martin, Martin Short, Selena Gomez, Tina Fey, Meryl Streep, Da'Vine Joy Randolph, and Michael Cyril Creighton",
+      "Guest stars include Simone Ashley, Matthew Beard, Jim Broadbent, Peter Capaldi, Olivia Colman, Nicola Coughlan, Jamie Demetriou, Martin Freeman, Richard E. Grant, Geri Halliwell-Horner, Jane Horrocks, Sharon Horgan, Lesley Nicol, Jennifer Saunders, Sean Teale, David Tennant, Anjana Vasan, and Jodie Whittaker"
+    ],
+    "entities": {
+      "people": [
+        "Steve Martin",
+        "Martin Short",
+        "Selena Gomez",
+        "Tina Fey",
+        "Meryl Streep",
+        "Da'Vine Joy Randolph",
+        "Michael Cyril Creighton",
+        "Simone Ashley",
+        "Matthew Beard",
+        "Jim Broadbent",
+        "Peter Capaldi",
+        "Olivia Colman",
+        "Nicola Coughlan",
+        "Jamie Demetriou",
+        "Martin Freeman",
+        "Richard E. Grant",
+        "Geri Halliwell-Horner",
+        "Jane Horrocks",
+        "Sharon Horgan",
+        "Lesley Nicol",
+        "Jennifer Saunders",
+        "Sean Teale",
+        "David Tennant",
+        "Anjana Vasan",
+        "Jodie Whittaker"
+      ],
+      "titles": [
+        "Only Murders in London",
+        "Only Murders in the Building"
+      ]
+    },
+    "keywords": [
+      "Only Murders in London",
+      "Only Murders in the Building Season 6",
+      "Steve Martin Martin Short Selena Gomez",
+      "Only Murders in London trailer release"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135945368,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Only Murders in London Trailer Released for Season 6",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T07:27:46+05:30"
+  },
+  "p5m5bh": {
+    "id": "p5m5bh",
+    "type": "news",
+    "headline": "Patrick and Brittany Mahomes Reveal the Gender of Baby No. 4",
+    "dek": "Patrick and Brittany Mahomes shared a festive gender reveal video, confirming they are expecting another son to join their growing family.",
+    "body": [
+      {
+        "h": "A Festive Celebration for Baby No. 4",
+        "p": [
+          "Patrick and Brittany Mahomes recently shared a joyful gender reveal video on Instagram, announcing that they are set to welcome another baby boy. The update comes just days after the couple initially informed the public that they are expecting their fourth child.",
+          "In a kitchen setting, the couple plunged champagne glasses into a specialty cake decorated with delicate pink and blue flowers. The inside of the confection revealed blue cake, while blue and metallic confetti rained down to celebrate the upcoming arrival."
+        ]
+      },
+      {
+        "h": "Surrounded by Family",
+        "p": [
+          "The intimate gathering included the couple's three older children: daughters Sterling, age 5, and Golden, age 1, along with son Patrick Bronze, age 3. Family members and friends gathered closely to share hugs and smiles as the children posed for photos.",
+          "Ray LaMontagne's song You Are the Best Thing provided the musical backdrop for the family video upload, which was captioned with Baby #4 and expressive emojis."
+        ]
+      },
+      {
+        "h": "Evenly Matching the Score",
+        "p": [
+          "The new baby boy will help even out the household dynamic by creating an equal number of sons and daughters. Patrick Mahomes previously expressed his hopes for another boy during a press conference earlier in the month, stating he wanted to even up the score with his son Bronze.",
+          "While balancing the family was a playful goal, the quarterback emphasized that his primary wish above all else was for a healthy child to join the household."
+        ]
+      },
+      {
+        "h": "Initial Pregnancy Announcement",
+        "p": [
+          "The gender reveal follows a pregnancy announcement made a week prior via a joint Instagram carousel. In the photos, the entire family posed together on a beach wearing matching shades of white, with Patrick gently cradling Brittany's baby bump.",
+          "That initial post was captioned with another blessing from God and noted that their household count would soon reach six members."
+        ]
+      },
+      {
+        "h": "Relationship and Family Goals",
+        "p": [
+          "The couple first met while they were still in school before becoming engaged in September 2020. They subsequently celebrated their marriage in a March 2022 wedding ceremony.",
+          "Patrick had previously mentioned that he never ruled out expanding the family beyond three children, noting in a January 2025 press conference that his original goal was three before deciding to see if they would return for another later on."
+        ]
+      },
+      {
+        "h": "Warm Reactions from Fans and Teams",
+        "p": [
+          "Following the announcement, well-wishes poured in from fans and sports organizations alike. The Kansas City Chiefs joined the comment section with a row of blue heart emojis to celebrate their quarterback's family news.",
+          "Supporters chimed in with enthusiastic remarks, joking about evening the score among the Mahomes children and sending congratulatory messages to the growing family."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Patrick and Brittany Mahomes announced they are expecting their fourth child and recently revealed in an Instagram video that they are having a baby boy. The couple celebrated the gender reveal with their three older children using a themed cake and confetti."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick and Brittany Mahomes are expecting their fourth child.",
+      "Their older children are daughters Sterling, 5, and Golden, 1, and son Patrick Bronze, 3.",
+      "The couple became engaged in September 2020 and married in March 2022.",
+      "Patrick Mahomes is a three-time Super Bowl champion and quarterback for the Kansas City Chiefs."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Mahomes",
+        "Brittany Mahomes",
+        "Sterling",
+        "Golden",
+        "Patrick Bronze",
+        "Ray LaMontagne"
+      ],
+      "titles": [
+        "You Are the Best Thing"
+      ]
+    },
+    "keywords": [
+      "Patrick Mahomes",
+      "Brittany Mahomes",
+      "baby number four",
+      "gender reveal",
+      "Kansas City Chiefs"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149153771.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Patrick and Brittany Mahomes Reveal the Gender of Baby No. 4",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 21:55:49 -0500"
   }
 };
