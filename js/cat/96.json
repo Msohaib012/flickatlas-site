@@ -1,6 +1,6 @@
 {
  "bucket": "96",
- "count": 71,
+ "count": 72,
  "titles": {
   "movie:1028196": {
    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
@@ -6646,6 +6646,188 @@
    "type": "movie",
    "vote_average": 7.649,
    "vote_count": 377
+  },
+  "movie:896": {
+   "backdrop_path": "/d3RW7jRsBCHfC9QZaUF9FpzJrh8.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Apurba 'Apu' Roy",
+     "n": "Soumitra Chatterjee"
+    },
+    {
+     "c": "Aparna Roy",
+     "n": "Sharmila Tagore"
+    },
+    {
+     "c": "Kajal Roy",
+     "n": "Alok Chakravarty"
+    },
+    {
+     "c": "Pulu",
+     "n": "Swapan Mukherjee"
+    },
+    {
+     "c": "Shashinarayan's Wife",
+     "n": "Sefalika Devi"
+    },
+    {
+     "c": "Shashinarayan",
+     "n": "Dhiresh Majumdar"
+    },
+    {
+     "c": "Landlord",
+     "n": "Dhiren Ghosh"
+    },
+    {
+     "c": "Apu's Neighbor",
+     "n": "Belarani Devi"
+    },
+    {
+     "c": "",
+     "n": "Asha Devi"
+    },
+    {
+     "c": "Office Associate",
+     "n": "Shanti Bhattacherjee"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "UA",
+   "date_kind": "release",
+   "director": [
+    "Satyajit Ray"
+   ],
+   "genres": [
+    "Drama"
+   ],
+   "id": 896,
+   "industry": "bollywood",
+   "origin_country": [
+    "IN"
+   ],
+   "original_language": "bn",
+   "overview": "Apu, now a jobless ex-student dreaming vaguely of a future as a writer, is invited to join an old college friend on a trip up-country to a village wedding.",
+   "popularity": 1.9608,
+   "poster_path": "/6Tz1Q69o2n3Zwb0ZffzPL0nFt2T.jpg",
+   "production_countries": [
+    "IN"
+   ],
+   "providers": [
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+     "name": "HBO Max Amazon Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/32XVilXkVbrwV96O3N5i0rtuyd6.png",
+     "name": "Criterion Channel",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+     "name": "HBO Max",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+     "name": "Google Play Movies",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-18",
+   "release_date": "1959-05-01",
+   "revenue": 134241,
+   "runtime": 105,
+   "source": "catalogue",
+   "spoken_languages": [
+    "bn",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The World of Apu",
+   "trailer": {
+    "key": "mgv68E_o6VM",
+    "name": "The Apu Trilogy: 2015 Restoration - Janus Films Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 8.123,
+   "vote_count": 300
   },
   "movie:9096": {
    "backdrop_path": "/jsnzeDldCBScvH8ocuXG4ZK0Szn.jpg",

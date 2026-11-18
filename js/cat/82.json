@@ -1,6 +1,6 @@
 {
  "bucket": "82",
- "count": 75,
+ "count": 77,
  "titles": {
   "movie:102382": {
    "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
@@ -2690,6 +2690,123 @@
    "type": "movie",
    "vote_average": 5.811,
    "vote_count": 370
+  },
+  "movie:20482": {
+   "backdrop_path": "/yjEoHzWo4O8tTa7lrVNv2okVkLz.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Lt. Dan Muldoon",
+     "n": "Barry Fitzgerald"
+    },
+    {
+     "c": "Frank Niles",
+     "n": "Howard Duff"
+    },
+    {
+     "c": "Ruth Morrison",
+     "n": "Dorothy Hart"
+    },
+    {
+     "c": "Jimmy Halloran",
+     "n": "Don Taylor"
+    },
+    {
+     "c": "Captain Donahue",
+     "n": "Frank Conroy"
+    },
+    {
+     "c": "Willy Garzah",
+     "n": "Ted de Corsia"
+    },
+    {
+     "c": "Dr. Lawrence Stoneman",
+     "n": "House Jameson"
+    },
+    {
+     "c": "Mrs. Halloran",
+     "n": "Anne Sargent"
+    },
+    {
+     "c": "Mrs. Batory",
+     "n": "Adelaide Klein"
+    },
+    {
+     "c": "Mr. Batory",
+     "n": "Grover Burgess"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jules Dassin"
+   ],
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "id": 20482,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "After a former model is drowned in her bathtub, Detective James Halloran and Lieutenant Dan Muldoon attempt to piece together her murder.",
+   "popularity": 2.219,
+   "poster_path": "/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Artiflix"
+    },
+    {
+     "name": "HBO Max Amazon Channel"
+    },
+    {
+     "name": "Criterion Channel"
+    },
+    {
+     "name": "HBO Max"
+    },
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/hO4tZhtSJ7VrVnJusimkY3MltSx.png",
+     "name": "Artiflix",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-18",
+   "release_date": "1948-03-04",
+   "revenue": 0,
+   "runtime": 96,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "The soul of a city. Her glory stripped! Her passion bared!",
+   "title": "The Naked City",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.217,
+   "vote_count": 300
   },
   "movie:2182": {
    "backdrop_path": "/n8jSLMc8zT2p1rELAUyRCc3VN7B.jpg",
@@ -6483,6 +6600,130 @@
    "type": "movie",
    "vote_average": 5.4,
    "vote_count": 381
+  },
+  "movie:78182": {
+   "backdrop_path": "/bwfbcCPAcKDBG1xFQm8zf2AHeaq.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Elena",
+     "n": "Nadezhda Markina"
+    },
+    {
+     "c": "Sergey",
+     "n": "Aleksey Rozin"
+    },
+    {
+     "c": "Vladimir",
+     "n": "Andrey Smirnov"
+    },
+    {
+     "c": "Katerina",
+     "n": "Elena Lyadova"
+    },
+    {
+     "c": "",
+     "n": "Yaroslav Zhalnin"
+    },
+    {
+     "c": "Vitek",
+     "n": "Alexei Maslodudov"
+    },
+    {
+     "c": "Friend Sanka",
+     "n": "Yura Borisov"
+    },
+    {
+     "c": "",
+     "n": "Ivan Mulin"
+    },
+    {
+     "c": "Operations Officer",
+     "n": "Oksana Semenova"
+    },
+    {
+     "c": "Aleksandr",
+     "n": "Igor Ogurtsov"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "14",
+   "date_kind": "release",
+   "director": [
+    "Andrei Zvyagintsev"
+   ],
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "id": 78182,
+   "industry": "world",
+   "origin_country": [
+    "RU"
+   ],
+   "original_language": "ru",
+   "overview": "After suffering a heart attack, a wealthy elderly Russian man plans to will most of his estate to his estranged daughter. However, his wife has other plans.",
+   "popularity": 1.5623,
+   "poster_path": "/pdSxysKTeE6oTYhtVBF08Nwj2Ir.jpg",
+   "production_countries": [
+    "RU"
+   ],
+   "providers": [
+    {
+     "name": "Klassiki"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/cgfAUbWv7QcVkf9LZw07FjnuFv7.png",
+     "name": "Klassiki",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "US"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+     "name": "Fandango At Home",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-18",
+   "release_date": "2011-06-06",
+   "revenue": 228239,
+   "runtime": 110,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ru"
+   ],
+   "status": "Released",
+   "tagline": "Thy Will Be Done.",
+   "title": "Elena",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.162,
+   "vote_count": 300
   },
   "movie:782": {
    "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",

@@ -1,6 +1,6 @@
 {
  "bucket": "23",
- "count": 76,
+ "count": 77,
  "titles": {
   "movie:1023": {
    "backdrop_path": "/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
@@ -4921,6 +4921,111 @@
    "type": "movie",
    "vote_average": 8.076,
    "vote_count": 381
+  },
+  "movie:5923": {
+   "backdrop_path": "/9r9AaYJrV2oIhwPKRUsZdF10Bwy.jpg",
+   "budget": 12000000,
+   "cast": [
+    {
+     "c": "Jake Holman",
+     "n": "Steve McQueen"
+    },
+    {
+     "c": "Frenchy Burgoyne",
+     "n": "Richard Attenborough"
+    },
+    {
+     "c": "Captain Collins",
+     "n": "Richard Crenna"
+    },
+    {
+     "c": "Shirley Eckert",
+     "n": "Candice Bergen"
+    },
+    {
+     "c": "Po-han",
+     "n": "Mako"
+    },
+    {
+     "c": "Jameson",
+     "n": "Larry Gates"
+    },
+    {
+     "c": "Ensign Bordelles",
+     "n": "Charles Robinson"
+    },
+    {
+     "c": "Stawski",
+     "n": "Simon Oakland"
+    },
+    {
+     "c": "Harris",
+     "n": "Ford Rainey"
+    },
+    {
+     "c": "Bronson",
+     "n": "Joe Turkel"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Robert Wise"
+   ],
+   "genres": [
+    "Drama",
+    "War"
+   ],
+   "id": 5923,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Engineer Jake Holman arrives aboard the gunboat USS San Pablo, assigned to patrol a tributary of the Yangtze in the middle of exploited and revolution-torn 1926 China. His iconoclasm and cynical nature soon clash with the 'rice-bowl' system which runs the ship and the uneasy symbiosis between Chinese and foreigner on the river. Hostility towards the gunboat's presence reaches a climax when the boat must crash through a river-boom and rescue missionaries upriver at China Light Mission.",
+   "popularity": 2.3061,
+   "poster_path": "/muZyCXWoayEtwVkxc0ql48X1h6L.jpg",
+   "production_countries": [
+    "US",
+    "TW",
+    "HK"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+     "name": "YouTube",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-18",
+   "release_date": "1966-12-20",
+   "revenue": 20000000,
+   "runtime": 196,
+   "source": "catalogue",
+   "spoken_languages": [
+    "zh",
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "This is the heroic story of the men on the U.S.S. San Pablo who disturbed the sleeping dragon of savage China as the threatened world watched in breathless terror.",
+   "title": "The Sand Pebbles",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 7.227,
+   "vote_count": 300
   },
   "movie:606523": {
    "backdrop_path": "/MocpW8Wrp8uireBg6bT6Y6TKWC.jpg",

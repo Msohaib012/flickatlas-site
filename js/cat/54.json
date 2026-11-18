@@ -1,6 +1,6 @@
 {
  "bucket": "54",
- "count": 82,
+ "count": 83,
  "titles": {
   "movie:1015154": {
    "backdrop_path": "/i0YlPmyAfjxWJczVqK0MP88XKU4.jpg",
@@ -8632,6 +8632,116 @@
    "type": "movie",
    "vote_average": 5.729,
    "vote_count": 316
+  },
+  "movie:8854": {
+   "backdrop_path": "/61Wj1C1hrOyu6mAHARS8J5ShOzq.jpg",
+   "budget": 16000000,
+   "cast": [
+    {
+     "c": "John Henry Irons / Steel",
+     "n": "Shaquille O'Neal"
+    },
+    {
+     "c": "Sparky",
+     "n": "Annabeth Gish"
+    },
+    {
+     "c": "Uncle Joe",
+     "n": "Richard Roundtree"
+    },
+    {
+     "c": "Nathaniel Burke",
+     "n": "Judd Nelson"
+    },
+    {
+     "c": "Grandma Odessa",
+     "n": "Irma P. Hall"
+    },
+    {
+     "c": "Lamont",
+     "n": "Harvey Silver"
+    },
+    {
+     "c": "Martin",
+     "n": "Ray J"
+    },
+    {
+     "c": "Col. David",
+     "n": "Charles Napier"
+    },
+    {
+     "c": "Sen. Nolan",
+     "n": "Kerrie Keane"
+    },
+    {
+     "c": "Major",
+     "n": "Eric Pierpoint"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG-13",
+   "date_kind": "release",
+   "director": [
+    "Kenneth Johnson"
+   ],
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Crime",
+    "Fantasy"
+   ],
+   "id": 8854,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "When a renegade military reject puts new superweapons in dangerous hands, John Henry Irons becomes Steel. Wearing body armor, wielding a fearsome electrohammer and riding a gadget-packed motorcycle, he's ready to wage war... if he can fix the untimely glitches in his untested gear.",
+   "popularity": 2.4062,
+   "poster_path": "/ufA7d5LT2rGj58KaZErPhcMkJ4U.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    },
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    },
+    {
+     "kind": "buy",
+     "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+     "name": "Apple TV Store",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-18",
+   "release_date": "1997-08-15",
+   "revenue": 1686429,
+   "runtime": 97,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Heroes don't come any bigger.",
+   "title": "Steel",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 4.2,
+   "vote_count": 300
   },
   "movie:8954": {
    "backdrop_path": "/jCpkP51DUg09LFxc5mhPbGVJV9f.jpg",

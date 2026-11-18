@@ -1,6 +1,6 @@
 {
  "bucket": "17",
- "count": 94,
+ "count": 95,
  "titles": {
   "movie:10117": {
    "backdrop_path": "/wz9Fntmcqvrd4bqtPCTLp5DeEwc.jpg",
@@ -2707,6 +2707,124 @@
    "type": "movie",
    "vote_average": 7.77,
    "vote_count": 11921
+  },
+  "movie:14317": {
+   "backdrop_path": "/xAsjesWKuxkMub8w8GRoMjZYRZm.jpg",
+   "budget": 35000000,
+   "cast": [
+    {
+     "c": "Eliza Thornberry (voice)",
+     "n": "Lacey Chabert"
+    },
+    {
+     "c": "Darwin (voice)",
+     "n": "Tom Kane"
+    },
+    {
+     "c": "Phaedra (Elephant) (voice)",
+     "n": "Cree Summer"
+    },
+    {
+     "c": "Nigel Thornberry / Col. Radcliff Thornberry (voice)",
+     "n": "Tim Curry"
+    },
+    {
+     "c": "Cordelia Thornberry (voice)",
+     "n": "Lynn Redgrave"
+    },
+    {
+     "c": "Marianne Thornberry (voice)",
+     "n": "Jodi Carlisle"
+    },
+    {
+     "c": "Debbie Thornberry (voice)",
+     "n": "Danielle Harris"
+    },
+    {
+     "c": "Donnie Thornberry (voice)",
+     "n": "Flea"
+    },
+    {
+     "c": "Cheetah Cubs (voice)",
+     "n": "Crystal Scales"
+    },
+    {
+     "c": "Tally (Cheetah Cub) (voice)",
+     "n": "Kimberly Brooks"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Cathy Malkasian",
+    "Jeff McGrath"
+   ],
+   "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Animation"
+   ],
+   "id": 14317,
+   "industry": "world",
+   "origin_country": [
+    "US"
+   ],
+   "original_language": "en",
+   "overview": "Eliza and Debbie are two sisters who don't always get along. But their relationship is put to the test when Debbie's life is in danger, and Eliza might have to give up her power to talk to animals....",
+   "popularity": 3.2891,
+   "poster_path": "/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg",
+   "production_countries": [
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "fuboTV"
+    },
+    {
+     "name": "Paramount Plus Premium"
+    },
+    {
+     "name": "Paramount Plus Essential"
+    },
+    {
+     "name": "Paramount+ Amazon Channel"
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel"
+    },
+    {
+     "name": "Now TV Cinema"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-18",
+   "release_date": "2002-12-20",
+   "revenue": 0,
+   "runtime": 85,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "You don't need extraordinary powers to do extraordinary things.",
+   "title": "The Wild Thornberrys Movie",
+   "trailer": null,
+   "type": "movie",
+   "vote_average": 6.495,
+   "vote_count": 300
   },
   "movie:14517": {
    "backdrop_path": "/zDkLBWZmt8jZrEhdKoUKoaEwETC.jpg",
