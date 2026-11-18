@@ -178032,5 +178032,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 21:55:49 -0500"
+  },
+  "t4a0t8": {
+    "id": "t4a0t8",
+    "type": "news",
+    "headline": "Al Pacino and Charlie Heaton Lead New Trailer for Romantic Fantasy Drama",
+    "dek": "Magenta Edge Films has revealed the official trailer for Billy Knight, featuring Al Pacino and Stranger Things star Charlie Heaton in a magical cinematic journey.",
+    "body": [
+      {
+        "h": "The Trailer Release",
+        "p": [
+          "Magenta Edge Films has officially launched the preview for Billy Knight, bringing together a star-studded cast led by legendary actor Al Pacino and Charlie Heaton. The upcoming project serves as a romantic fantasy drama that acts as a love letter to the art of filmmaking.",
+          "The newly dropped footage offers audiences a first real look into the magical journey that awaits the main characters. It highlights the blend of whimsical fantasy, romance, and emotional depth that anchors the narrative."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story follows two graduate school students, Alex and Emily, as they try to break into the film industry as aspiring creators. Alex is simultaneously dealing with profound personal grief following the death of his father, who was a failed screenwriter.",
+          "A major turning point occurs when Alex stumbles upon an embroidered handkerchief bearing the name Billy Knight. This singular discovery sparks a sweeping Hollywood adventure to track down the elusive and reclusive figure portrayed by Pacino."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "Alongside Al Pacino and Charlie Heaton, the romantic fantasy drama features Diana Silvers and Patrick Schwarzenegger in prominent roles. The picture marks the feature directorial debut of writer-director Alec Griffen Roth.",
+          "Reflecting on the production, Roth expressed that building this imaginative world mixed with everyday reality was an incredible experience. He noted his gratitude for working with such iconic talent and an amazing crew."
+        ]
+      },
+      {
+        "h": "Star-Studded Cameos and Music",
+        "p": [
+          "In addition to the main narrative, the film features musical contributions and a special appearance by artist Beck. The project also incorporates cameo appearances from recognizable personalities including Diplo, Rick Ross, and Harry Jowsey.",
+          "The expansive supporting cast further rounds out with performances by Angela Sarafyan, Sara Sampaio, Elsie Hewitt, and Aleeha Rogers, adding extra texture to the cinematic world."
+        ]
+      },
+      {
+        "h": "Festival Circuit and Production",
+        "p": [
+          "Before securing its broader distribution deal, the picture made the rounds through multiple film festivals throughout 2025 and 2026. These exhibition stops included the Newport Beach Film Festival, Coronado Island Film Festival, Torino Film Festival, Sedona International Film Festival, and Omaha Film Festival.",
+          "The feature was brought to life through the backing of Prominent Productions, Firebrand Media Group, and RNA Pictures. A large team of producers and executive producers oversaw the making of the film prior to its upcoming commercial rollout."
+        ]
+      },
+      {
+        "h": "Theatrical Release Details",
+        "p": [
+          "Magenta Edge Films has slated the romantic fantasy feature for a nationwide theatrical release. Fans of the cast will be able to catch the movie on the big screen starting January 8, 2027.",
+          "The upcoming launch brings the long-awaited project from its festival run directly to general audiences across the country, building significant anticipation among supporters of the lead actors."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Magenta Edge Films has debuted the trailer for the romantic fantasy drama Billy Knight, starring Al Pacino and Charlie Heaton. The film is scheduled for a nationwide theatrical release on January 8, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Al Pacino stars in Billy Knight",
+      "Charlie Heaton stars in Billy Knight",
+      "Magenta Edge Films is releasing the movie",
+      "The theatrical release date is January 8, 2027",
+      "Alec Griffen Roth is the writer-director",
+      "Diana Silvers and Patrick Schwarzenegger also star"
+    ],
+    "entities": {
+      "people": [
+        "Al Pacino",
+        "Charlie Heaton",
+        "Diana Silvers",
+        "Patrick Schwarzenegger",
+        "Alec Griffen Roth",
+        "Beck",
+        "Diplo",
+        "Rick Ross",
+        "Harry Jowsey",
+        "Angela Sarafyan",
+        "Sara Sampaio",
+        "Elsie Hewitt",
+        "Aleeha Rogers",
+        "Vritti Johar"
+      ],
+      "titles": [
+        "Billy Knight",
+        "Stranger Things",
+        "Home Alone",
+        "Home Alone 2: Lost in New York"
+      ]
+    },
+    "keywords": [
+      "Billy Knight trailer",
+      "Al Pacino Billy Knight",
+      "Charlie Heaton Billy Knight",
+      "Magenta Edge Films"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-18-Nov-2026-03-07-PM-1483.jpg?resize=1200,630",
+        "caption": "Al Pacino and Charlie Heaton Lead New Trailer for Romantic Fantasy Drama",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 04:07:59 +0000"
+  },
+  "pnhdyi": {
+    "id": "pnhdyi",
+    "type": "news",
+    "headline": "Ami Trivedi: The Voice Behind Sai Pallavi's Sita in Hindi Ramayana",
+    "dek": "Discover television and theatre artist Ami Trivedi, the talented voice actor who dubbed Sai Pallavi's character Sita in the Hindi version of the film Ramayana.",
+    "body": [
+      {
+        "h": "Introduction to the Hindi Voice of Sita",
+        "p": [
+          "In the Hindi version of the film Ramayana, the character of Sita, originally played by Sai Pallavi, features a voice that has captured considerable attention. Rather than utilizing Sai Pallavi's own voice for the final cut, the production team brought in renowned television and Gujarati theatre artist Ami Trivedi to handle the Hindi dubbing duties.",
+          "Regional dubbing experts were specifically selected for each language version of the project, including Hindi, Kannada, Telugu, and Malayalam, to ensure that the diction and cultural nuances hit the precise mark. For Hindi, Trivedi stepped in to bridge the language gap for audiences."
+        ]
+      },
+      {
+        "h": "Ami Trivedi's Extensive Acting Background",
+        "p": [
+          "Before stepping into high-profile dubbing work, Ami Trivedi built a robust and long-standing career as a prominent television and theatre performer. She began her journey in the entertainment industry as a child actor, making early appearances in television projects such as Humraahi and The Zee Horror Show.",
+          "Over the decades, her versatile acting abilities allowed her to secure memorable roles across a wide spectrum of television shows, establishing her as a household name among daily soap viewers and theatre enthusiasts alike."
+        ]
+      },
+      {
+        "h": "Notable Television Credits",
+        "p": [
+          "Trivedi's television resume includes a vast array of popular series, ranging from sitcoms and dramas to horror and procedural shows. Some of her recognized credits feature appearances in Khichdi, Kumkum – Ek Pyara Sa Bandhan, Kituu Sabb Jaantii Hai, Aahat, Ssshhhh...Phir Koi Hai, and Mano Ya Na Mano.",
+          "Her television footprint expanded further with projects like Zaara – Pyaar Ki Saugat, Rakhi – Atoot Rishtey Ki Dor, Jaane Kya Baat Hui, Bajega Band Baaja, Sajan Re Jhoot Mat Bolo, and Papad Pol – Shahabuddin Rathod Ki Rangeen Duniya. She also appeared in Adaalat, Fear Files: Darr Ki Sacchi Tasvirein, Pritam Pyare Aur Woh, Tu Mere Agal Bagal Hai, Chidiya Ghar, Tedi Medi Family, and Saat Phero Ki Hera Pherie."
+        ]
+      },
+      {
+        "h": "Memorable Characters on the Small Screen",
+        "p": [
+          "Among her extensive television gallery, several specific characters cemented her reputation as a formidable acting talent. She delivered standout performances as Kittu Purohit in Kituu Sabb Jaantii Hai and brought charm to Kokila Parikh in Papad Pol.",
+          "Additionally, she showcased her dramatic range portraying advocate Urmi Dikshit in Adaalat, winning over audiences through diverse character portrayals across comedy, drama, and legal fiction."
+        ]
+      },
+      {
+        "h": "Tenure on Yeh Rishta Kya Kehlata Hai",
+        "p": [
+          "One of Trivedi's most notable recent television roles was in Rajan Shahi's long-running family drama Yeh Rishta Kya Kehlata Hai. In the popular series, she played the character of Manjari Birla.",
+          "She continued to engage viewers in the daily soap until her departure from the show in the year 2023, marking the end of a significant chapter in her prime-time television career."
+        ]
+      },
+      {
+        "h": "Reflecting on the Ramayana Audition and Process",
+        "p": [
+          "Following the release of Ramayana, Trivedi reflected openly on her experience auditioning for and securing the dubbing role. She described the opportunity as feeling like a divine placement.",
+          "She expressed deep admiration for Sai Pallavi's on-screen work, noting that watching the effortless performance added initial pressure to match that exact standard. Her primary objective was to honor the divine sanctity of Sita while maintaining strict fidelity to the emotional boundaries and visual portrait created by Pallavi."
+        ]
+      },
+      {
+        "h": "Future Plans with the Franchise",
+        "p": [
+          "The journey for Trivedi within this epic cinematic universe is far from over. With the production still currently on floors, she is slated to return to the recording studio.",
+          "Ami Trivedi will once again lend her voice to dub for Sai Pallavi's character in the upcoming second part of Ramayana."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television and theatre artist Ami Trivedi provided the Hindi dubbing voice for Sai Pallavi's character Sita in the film Ramayana. Known for her extensive acting career across numerous TV shows including Yeh Rishta Kya Kehlata Hai, Trivedi described the dubbing role as a divine placement and will return to voice the character for the second part of the film."
+        ]
+      }
+    ],
+    "facts": [
+      "Ami Trivedi dubbed the Hindi voice for Sai Pallavi's Sita in Ramayana",
+      "Ami Trivedi left Yeh Rishta Kya Kehlata Hai in 2023",
+      "Ami Trivedi played Manjari Birla in Yeh Rishta Kya Kehlata Hai",
+      "Ami Trivedi will dub for Sai Pallavi for the second part of Ramayana"
+    ],
+    "entities": {
+      "people": [
+        "Ami Trivedi",
+        "Sai Pallavi",
+        "Rajan Shahi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Humraahi",
+        "The Zee Horror Show",
+        "Khichdi",
+        "Kumkum – Ek Pyara Sa Bandhan",
+        "Kituu Sabb Jaantii Hai",
+        "Aahat",
+        "Ssshhhh...Phir Koi Hai",
+        "Mano Ya Na Mano",
+        "Zaara – Pyaar Ki Saugat",
+        "Rakhi – Atoot Rishtey Ki Dor",
+        "Jaane Kya Baat Hui",
+        "Bajega Band Baaja",
+        "Sajan Re Jhoot Mat Bolo",
+        "Papad Pol – Shahabuddin Rathod Ki Rangeen Duniya",
+        "Adaalat",
+        "Fear Files: Darr Ki Sacchi Tasvirein",
+        "Pritam Pyare Aur Woh",
+        "Tu Mere Agal Bagal Hai",
+        "Chidiya Ghar",
+        "Tedi Medi Family",
+        "Saat Phero Ki Hera Pherie",
+        "Yeh Rishta Kya Kehlata Hai"
+      ]
+    },
+    "keywords": [
+      "Ami Trivedi",
+      "Sai Pallavi Ramayana",
+      "Ramayana Hindi voice Sita",
+      "Ami Trivedi Yeh Rishta Kya Kehlata Hai"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156525638,thumbsize-526054,width-1280,height-720,resizemode-75/156525638.jpg",
+        "caption": "Ami Trivedi: The Voice Behind Sai Pallavi's Sita in Hindi Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T04:53:00Z"
+  },
+  "5lfeat": {
+    "id": "5lfeat",
+    "type": "news",
+    "headline": "Anne Hathaway welcomes third child with husband Adam Shulman",
+    "dek": "Actor Anne Hathaway and her husband Adam Shulman have welcomed their third child together, sparking fan speculation about the baby's gender after being spotted in New York.",
+    "body": [
+      {
+        "h": "The New Addition to the Family",
+        "p": [
+          "Hollywood star Anne Hathaway has officially become a mother for the third time, welcoming a new baby with her husband Adam Shulman. A reliable source confirmed the birth of the child to People, bringing fresh joy to the couple's household. The family has continued to grow, adding another member to their lives alongside their older children.",
+          "The pregnancy was originally shared with the public in June through an engaging social media post. In an Instagram video, the actor displayed her baby bump while wearing a flowy white outfit. The clip featured the track Baby I'm Yours by Barbara Lewis, accompanied by a caption confirming the wonderful news."
+        ]
+      },
+      {
+        "h": "First Public Stroll in New York",
+        "p": [
+          "Following the birth, the actor made her initial public appearance while walking through the streets of New York City. Photographed by media outlets, she was seen carrying her newborn securely in a baby carrier. For the outing, she opted for a comfortable long white coat paired with matching track pants.",
+          "The appearance quickly drew attention from onlookers and fans alike. It marked the first time the newborn was seen in public since the delivery, capturing the interest of followers across various platforms."
+        ]
+      },
+      {
+        "h": "Fan Speculation Over the Baby's Gender",
+        "p": [
+          "The newborn's attire during the New York stroll immediately ignited widespread speculation regarding the baby's gender. Observers and fans pointed to a pink bobble hat worn by the infant as a potential clue. Many expressed excitement online, suggesting that the couple might have welcomed a baby girl.",
+          "Previously, the parents already shared two sons, Jonathan and Jack. While public curiosity has reached high levels, the couple has not yet released an official statement or confirmation regarding the newborn's gender."
+        ]
+      },
+      {
+        "h": "Previous Statements on Keeping Details Private",
+        "p": [
+          "During an appearance on Jimmy Kimmel Live in August, the actor addressed questions about the impending arrival. She explicitly stated that she and her husband had chosen to keep the sex of the baby private. During the interview, she noted her intention to step away temporarily to focus on personal time.",
+          "True to her word, she has maintained a quiet approach regarding specific details of the birth. The decision to withhold the gender prior to the arrival aligns with the couple's preference for maintaining privacy around their family life."
+        ]
+      },
+      {
+        "h": "Recent and Upcoming Film Projects",
+        "p": [
+          "Alongside family milestones, the actor has remained active in her professional career. She was recently seen in the psychological thriller Verity, directed by Michael Showalter. The movie also featured Dakota Johnson and Josh Hartnett, and was adapted from a novel by Colleen Hoover.",
+          "Looking ahead, she is set to appear in the upcoming war drama Alone at Dawn. Directed by Ron Howard and co-starring Adam Driver and Betty Gilpin, the feature focuses on United States Air Force combat controller John A Chapman. The theatrical release is scheduled for December 25."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Anne Hathaway and her husband Adam Shulman have welcomed their third child, as confirmed by a source to People. The actor was recently spotted walking in New York City carrying her newborn, which sparked fan speculation about the baby's gender due to a pink bobble hat. The couple already shares two sons, Jonathan and Jack, and had previously chosen not to reveal the sex of their third child prior to the birth."
+        ]
+      }
+    ],
+    "facts": [
+      "Anne Hathaway welcomed her third child with husband Adam Shulman.",
+      "Jonathan is 10 years old and Jack is 6 years old.",
+      "The pregnancy was announced on Instagram in June.",
+      "Verity was directed by Michael Showalter.",
+      "Alone at Dawn is scheduled to release on December 25."
+    ],
+    "entities": {
+      "people": [
+        "Anne Hathaway",
+        "Adam Shulman",
+        "Jonathan",
+        "Jack",
+        "Michael Showalter",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Colleen Hoover",
+        "Nick Antosca",
+        "Ron Howard",
+        "Adam Driver",
+        "Betty Gilpin",
+        "Dan Schilling",
+        "Lori Chapman Longfritz",
+        "John A Chapman",
+        "Riya Sharma",
+        "Jimmy Kimmel",
+        "Barbara Lewis"
+      ],
+      "titles": [
+        "Verity",
+        "Alone at Dawn",
+        "Baby I'm Yours"
+      ]
+    },
+    "keywords": [
+      "Anne Hathaway",
+      "Adam Shulman",
+      "Verity",
+      "Alone at Dawn"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/FILM-VERITY-_1794972362708_QlBY_1794972362839_1qo0_bb92d330-5197-4def-b87b-cf77e5e41f26_FKWv.JPG",
+        "caption": "Anne Hathaway welcomes third child with husband Adam Shulman",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:38:03 +0530"
+  },
+  "1tfgzlo": {
+    "id": "1tfgzlo",
+    "type": "news",
+    "headline": "Earthshot Prize 2026: Alia Bhatt, Rakul Preet Singh, Karan Johar And Others Grace Prince William's Environmental Awards Ceremony",
+    "dek": "The Earthshot Prize 2026 brought together global royalty, Bollywood celebrities and environmental leaders in Mumbai for its sixth annual edition.",
+    "body": [
+      {
+        "h": "Star-Studded Arrival in Mumbai",
+        "p": [
+          "The sixth edition of the Earthshot Prize transformed Mumbai into a major hub for global royalty, cinematic stars, and environmental leaders. The prestigious environmental awards ceremony took place over two days on November 16 and 17, 2026, marking the very first time the initiative has traveled to India.",
+          "The metropolitan city welcomed international figures alongside the biggest names from the Indian film industry. The high-profile gathering celebrated groundbreaking ecological innovations while offering a glittering red carpet experience for attendees."
+        ]
+      },
+      {
+        "h": "Royal Presence of Prince William and Catherine",
+        "p": [
+          "Prince William and Catherine, Princess of Wales, served as the most anticipated guests of the multi-day event in Mumbai. Prince William chose a classic all-black traditional ensemble for the prestigious evening, matching the formal atmosphere of the ceremony.",
+          "Meanwhile, Catherine, Princess of Wales, stood out in a vibrant red outfit adorned with gold embellishments. Her attire featured rich colors, detailed embroidery, and striking statement jewelry, bringing an elegant and significant touch to the first-ever Indian edition of the awards."
+        ]
+      },
+      {
+        "h": "Alia Bhatt's Vintage-Inspired Look",
+        "p": [
+          "Alia Bhatt delivered a striking appearance on the red carpet in a carefully curated black and antique-gold outfit. The attire featured intricate detailing that lent her overall aesthetic a distinct vintage-inspired appeal.",
+          "The acclaimed actress completed her ensemble with long gold statement earrings, keeping her hair pulled back in a neat style. Her understated makeup allowed the elaborate craftsmanship of her outfit to take center stage, adding considerable Bollywood glamour to the proceedings."
+        ]
+      },
+      {
+        "h": "Rakul Preet Singh's Contemporary Saree",
+        "p": [
+          "Rakul Preet Singh turned heads at the environmental awards ceremony by stepping out in a dark saree detailed with shimmering bronze and gold patterns. She paired the traditional drape with a matching strapless blouse for a modern, contemporary edge.",
+          "The star kept her accessories to a minimum by wearing subtle statement earrings and styling her hair in a sleek manner. Her choice of an embellished dark ensemble resulted in a memorable and glamorous red carpet appearance."
+        ]
+      },
+      {
+        "h": "Notable Bollywood and Sports Figures",
+        "p": [
+          "Beyond Alia Bhatt and Rakul Preet Singh, the grand ceremony drew several other prominent personalities from the entertainment and sporting worlds. Renowned filmmaker Karan Johar and actress Sonam Kapoor were present to support the global environmental initiative.",
+          "Cricket legend Sachin Tendulkar and members of his family also attended the high-profile gathering in Mumbai, bridging the worlds of Indian sports and international environmental activism."
+        ]
+      },
+      {
+        "h": "Background of the Earthshot Prize",
+        "p": [
+          "Established by Prince William in the year 2020, the Earthshot Prize functions as a prominent global environmental award. Its primary mission is to identify, recognise, and support innovative solutions addressing some of the most critical ecological challenges facing the planet.",
+          "Each year, the initiative honors five distinct winners across five core categories: Protect and Restore Nature, Clean Our Air, Revive Our Oceans, Build a Waste-Free World, and Fix Our Climate. Every winner is awarded a £1 million grant designed to scale up their solutions and secure lasting positive impacts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The sixth edition of the Earthshot Prize took place in Mumbai on November 16 and 17, 2026, marking its debut in India under the leadership of Prince William and Catherine, Princess of Wales. Prominent Bollywood figures including Alia Bhatt, Rakul Preet Singh, Karan Johar, and Sonam Kapoor attended the ceremony alongside sports icon Sachin Tendulkar to celebrate global environmental innovation and £1 million grant winners."
+        ]
+      }
+    ],
+    "facts": [
+      "The sixth edition of the Earthshot Prize was held in Mumbai on November 16 and 17, 2026.",
+      "The Earthshot Prize was founded by Prince William in 2020.",
+      "Each winner of the Earthshot Prize receives a £1 million grant.",
+      "Alia Bhatt, Rakul Preet Singh, Karan Johar, Sonam Kapoor, and Sachin Tendulkar attended the event."
+    ],
+    "entities": {
+      "people": [
+        "Prince William",
+        "Catherine",
+        "Alia Bhatt",
+        "Rakul Preet Singh",
+        "Karan Johar",
+        "Sonam Kapoor",
+        "Sachin Tendulkar"
+      ],
+      "titles": [
+        "Earthshot Prize"
+      ]
+    },
+    "keywords": [
+      "Earthshot Prize 2026",
+      "Alia Bhatt Earthshot Prize",
+      "Prince William Mumbai",
+      "Rakul Preet Singh Earthshot"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156526118,thumbsize-275366,width-1280,height-720,resizemode-75/156526118.jpg",
+        "caption": "Earthshot Prize 2026: Alia Bhatt, Rakul Preet Singh, Karan Johar And Others Grace Prince William's Environmental Awards ",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T04:53:00Z"
   }
 };
