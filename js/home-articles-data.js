@@ -50,6 +50,143 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 12:07:59 +0200"
   },
+  "6laf17": {
+    "id": "6laf17",
+    "type": "news",
+    "headline": "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+    "dek": "The streaming platform has released the first teaser for Dr. Hassan, starring Nawazuddin Siddiqui and Dia Mirza, set to premiere on December 11.",
+    "entities": {
+      "people": [
+        "Nawazuddin Siddiqui",
+        "Hugh Laurie",
+        "Dia Mirza",
+        "Faisal Rashid",
+        "Rehmat Rattan",
+        "Jayson Thaam",
+        "Smaran Sanu",
+        "Vinay Chhawal",
+        "Ketan Pedgaonkar",
+        "Virat Basoya",
+        "Deepak Dhar",
+        "Rishi Negi",
+        "Rajesh Chadha",
+        "Mrinalini Jain",
+        "Shyam Rathi",
+        "Vibhas Singh Gautam",
+        "Alok Jain",
+        "David Shore",
+        "Linfield Ng",
+        "Rohan Sippy"
+      ],
+      "titles": [
+        "Dr. Hassan",
+        "House"
+      ]
+    },
+    "keywords": [
+      "Dr Hassan",
+      "Nawazuddin Siddiqui",
+      "Dia Mirza",
+      "JioHotstar",
+      "Rohan Sippy"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/Screenshot_2026-11-18_143926_1794992983669_EGew_1794992992581_xpRO_5fa69677-6f4e-4ccb-8904-8d294b8cc156_Dax4.png",
+        "caption": "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 14:49:48 +0530"
+  },
+  "3nk9u7": {
+    "id": "3nk9u7",
+    "type": "news",
+    "headline": "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+    "dek": "The hit animated series adapts Yuto Suzuki's bestselling manga and returns to Netflix for its second season following a massive global viewership run.",
+    "entities": {
+      "people": [
+        "Yuto Suzuki",
+        "Taro Sakamoto",
+        "Kikunosuke Toya",
+        "Misa Watanabe",
+        "Shinshū Fuji",
+        "Amane Yotsumura",
+        "Etsuko Satoda",
+        "Satoru Yotsumura"
+      ],
+      "titles": [
+        "Sakamoto Days",
+        "Blue Box",
+        "The Summer Hikaru Died"
+      ]
+    },
+    "keywords": [
+      "Sakamoto Days Season 2",
+      "Sakamoto Days Netflix release date",
+      "Yuto Suzuki Sakamoto Days",
+      "Sakamoto Days season 2 characters"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2025/10/sakamoto-days-season-2-netflix-renewal.jpg",
+        "caption": "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:04:53 +0000"
+  },
+  "hu7yig": {
+    "id": "hu7yig",
+    "type": "news",
+    "headline": "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day",
+    "dek": "Minnie Driver stars as a hostage negotiator in the upcoming British heist drama The Day, which has secured a late December premiere date on Paramount+.",
+    "entities": {
+      "people": [
+        "Minnie Driver",
+        "Sylvia 'Vox' Voxley",
+        "Luca Pasqualino",
+        "Louisa Harland",
+        "Jonas Geirnaert",
+        "Julie Mahieu",
+        "Ben Harris",
+        "Jesse O'Mahoney",
+        "Mike Benson",
+        "Andy Morgan",
+        "Daniel March",
+        "Tamryn Reinecke",
+        "Jake Rollins",
+        "Andy Tohill",
+        "Ryan Tohill"
+      ],
+      "titles": [
+        "The Day",
+        "Emily in Paris",
+        "Runaway",
+        "Rivals",
+        "The Musketeers",
+        "Renegade Nell",
+        "Derry Girls",
+        "De Dag",
+        "The Dig",
+        "Dalgliesh"
+      ]
+    },
+    "keywords": [
+      "The Day",
+      "Minnie Driver The Day",
+      "Paramount+ The Day release date",
+      "The Day trailer"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/The-Day-1.jpg?w=1024",
+        "caption": "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:00:00 +0000"
+  },
   "31ijgo": {
     "id": "31ijgo",
     "type": "news",
@@ -124,6 +261,52 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 10:50:31 +0200"
+  },
+  "zdybuw": {
+    "id": "zdybuw",
+    "type": "news",
+    "headline": "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Release",
+    "dek": "The Praveen S Vijay directorial starring Keerthy Suresh and Mysskin has officially cleared its censor board formalities and is slated for a worldwide theatrical launch on November 20.",
+    "entities": {
+      "people": [
+        "Keerthy Suresh",
+        "Praveen S Vijay",
+        "Mysskin",
+        "Veronica",
+        "Heartbeat Charukesh",
+        "Balasaravanan",
+        "Madhusudhanan",
+        "Shilpa Manjunath",
+        "R Sundararajan",
+        "Brigida",
+        "Mala Parvathi",
+        "A Venkatesh",
+        "Arul Vincent",
+        "Sam C S",
+        "Prasanna G K",
+        "Karthik Subbaraj",
+        "Radhika Apte"
+      ],
+      "titles": [
+        "Sathyavan Savithiri",
+        "Dorothy",
+        "Akka"
+      ]
+    },
+    "keywords": [
+      "Sathyavan Savithiri",
+      "Keerthy Suresh",
+      "Praveen S Vijay",
+      "Sathyavan Savithiri release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135956097,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Releas",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T14:04:38+05:30"
   },
   "n5lpuv": {
     "id": "n5lpuv",
@@ -4548,197 +4731,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T03:52:25Z"
-  },
-  "4safyd": {
-    "id": "4safyd",
-    "type": "news",
-    "headline": "Tiger Shroff Returns to Social Media with Romantic Teaser Following October Firing Incident",
-    "dek": "Actor Tiger Shroff makes his social media comeback by dropping the teaser for his upcoming romantic single 'Tenu Leke Jaana', co-starring Ketika Sharma, amidst an ongoing police investigation into a shooting targeting him last month.",
-    "entities": {
-      "people": [
-        "Tiger Shroff",
-        "Ketika Sharma",
-        "Janhvi Kapoor",
-        "Lakshya",
-        "Remo D'Souza"
-      ],
-      "titles": [
-        "Tenu Leke Jaana",
-        "Lag Jaa Gale"
-      ]
-    },
-    "keywords": [
-      "Tiger Shroff Tenu Leke Jaana",
-      "Tiger Shroff firing incident",
-      "Ketika Sharma Tenu Leke Jaana",
-      "Lag Jaa Gale release date",
-      "Tiger Shroff upcoming films"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135909150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Tiger Shroff Returns to Social Media with Romantic Teaser Following October Firing Incident",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-17T09:10:27+05:30"
-  },
-  "11aefrm": {
-    "id": "11aefrm",
-    "type": "news",
-    "headline": "Netflix Sci-Fi Thriller Sisyphus: The Myth Offers A Wild Alternative To Dark",
-    "dek": "Discover the 16-episode time travel K-drama on Netflix that brings high-adrenaline twists and a black-market crisis, serving as an ambitious alternative for fans looking beyond Dark.",
-    "entities": {
-      "people": [
-        "Dhruv Sharma",
-        "Han Tae-sul",
-        "Cho Seung-woo",
-        "Lee Jae-won",
-        "Park Shin-hye",
-        "Jung Hye-in",
-        "Lee So-yoon",
-        "Roh Hae-ju",
-        "Lee Si-woo",
-        "Chae Jong-hyeop",
-        "Sung Dong-il",
-        "Tae In-ho",
-        "Tae Won-seok",
-        "Jeon Kuk-hwan",
-        "Heo Joon-seok",
-        "Choi Jung-woo",
-        "Go Yoon",
-        "Kim Byung-chul",
-        "Lee Yeon-su",
-        "Lim Ji-sub",
-        "Kim Jong-tae",
-        "Ha Yul-Ri",
-        "Choe Min",
-        "Lee Myeong-ro",
-        "Kim Byung-choon",
-        "Hwang Dong-joo",
-        "Jin Hyuk",
-        "Lee Je-in",
-        "Jeon Chan-ho"
-      ],
-      "titles": [
-        "Dark",
-        "Sisyphus: The Myth"
-      ]
-    },
-    "keywords": [
-      "Sisyphus The Myth Netflix",
-      "Dark vs Sisyphus The Myth",
-      "Sisyphus The Myth time travel show",
-      "Sisyphus The Myth K drama"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/3675ddc8-f8d3-48f2-9e50-dc2d6bda2f27.jpeg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Netflix Sci-Fi Thriller Sisyphus: The Myth Offers A Wild Alternative To Dark",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 03:31:18 GMT"
-  },
-  "24794g": {
-    "id": "24794g",
-    "type": "news",
-    "headline": "Son Suk Ku and Nagayama Eita Lead Netflix Thriller The Blue Road",
-    "dek": "The upcoming Netflix hard-boiled series pairs Korean and Japanese stars for a cross-border murder investigation set in 2002.",
-    "entities": {
-      "people": [
-        "Son Suk Ku",
-        "Nagayama Eita",
-        "Kim Shin Rok",
-        "Choi Sung Eun",
-        "Jung Jae Young",
-        "Edogawa Keishi",
-        "Kwon Ga Ya",
-        "Cho Yu Jin",
-        "Han Jun Hee"
-      ],
-      "titles": [
-        "The Blue Road",
-        "D.P."
-      ]
-    },
-    "keywords": [
-      "The Blue Road Netflix",
-      "Son Suk Ku The Blue Road",
-      "Nagayama Eita The Blue Road",
-      "Han Jun Hee The Blue Road"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/ArrpvL_2d.jpg",
-        "caption": "Son Suk Ku and Nagayama Eita Lead Netflix Thriller The Blue Road",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 03:26:43 +0000"
-  },
-  "1cwnhhr": {
-    "id": "1cwnhhr",
-    "type": "news",
-    "headline": "Teja Sajja Exchanges Rings with Mourya in Hyderabad Ceremony",
-    "dek": "Telugu actor Teja Sajja celebrated his engagement to fiancée Mourya at a private hotel in Hyderabad, with prominent film stars and political figures in attendance.",
-    "entities": {
-      "people": [
-        "Teja Sajja",
-        "Mourya",
-        "Chiranjeevi",
-        "Rana Daggubati",
-        "Nani",
-        "Ravi Teja",
-        "Anil Ravipudi",
-        "Niharika Konidela",
-        "Allu Aravind",
-        "Shiv Pratap Shukla",
-        "G. Kishan Reddy",
-        "Komatireddy Venkat Reddy",
-        "Seethakka",
-        "Harish Rao",
-        "Ganta Srinivasa Rao",
-        "Suresh Babu",
-        "Dil Raju",
-        "TG Vishwa Prasad",
-        "Sushmita Konidela",
-        "K. Raghavendra Rao",
-        "Prasanth Varma",
-        "Maruthi",
-        "Chandoo Mondeti",
-        "Shiva Nirvana",
-        "Nandini Reddy",
-        "Adivi Sesh",
-        "Srikanth",
-        "Sudheer Babu",
-        "Varalaxmi Sarathkumar",
-        "Nidhhi Agerwal",
-        "Ritika Nayak",
-        "Imanvi",
-        "Suparn S Varma",
-        "Upendra Rao",
-        "Shanaya Kapoor"
-      ],
-      "titles": [
-        "Hanu-Man",
-        "Zombie Reddy 2 - NXT LVL"
-      ]
-    },
-    "keywords": [
-      "Teja Sajja engagement",
-      "Teja Sajja fiancée Mourya",
-      "Teja Sajja Hyderabad ceremony",
-      "Zombie Reddy 2 NXT LVL"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135908899,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Teja Sajja Exchanges Rings with Mourya in Hyderabad Ceremony",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-17T08:54:59+05:30"
   },
   "196ll1": {
     "id": "196ll1",

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T09:52:05Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": {
-     "candidates": 300,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Where Is Sharad Kapoor's Wife Koel Basu NOW? Is She Related To Ex Bengal CM Jyoti Basu? Here's How",
-      "Ramayana Box Office Collection Day 13 (Mrng Trend): Ranbir's Film Enters 800cr Despite Slow Start Post Chhatt",
-      "How To Rob A Bank Ending Explained: Does Ryan Escape From Prison After The Final Heist?",
-      "Pyaade First Poster Out: Jimmy Shergill, Adhyayan Suman & Pranutan Bahl Unveils A Game Of Power & Manipulation",
-      "Eetha Song Ji Ji Re Ji Out: Shraddha Kapoor Brings Eetha Bai’s World To Life With Music, Dance & A Traditional Nauvari Saree",
-      "'Ramayana' box office collection day 13 (LIVE)",
-      "Kareena Kapoor, Hrithik Roshan reunite after 23 years? Here's the truth",
-      "Sai Pallavi and Sreeleela's dance at the 'O.M' event wins fans over",
-      "Dhanush faces social media backlash after bouncers push fan at 'O.M' event",
-      "Aishwarya's old Dhanush statement resurfaces as Anirudh skips '3' actor",
-      "‘Eetha’: Shraddha Kapoor showcases Lavani dance in first song ‘Ji Ji Re Ji’",
-      "Dove Cameron on including Cameron Boyce’s voice note in the last song of her LP, ‘Final Girl’",
-      "Karan Johar teases Kareena Kapoor and Hrithik Roshan's reunion in new ad, 25 years after Kabhi Khushi Kabhie Gham",
-      "Archana’s son Aayushmaan reveals parents’ reaction to 6-year age gap with fiancée Samiksha",
-      "One more chance: Tiger Shroff in his first social media post after firing incident",
-      "Rupert Grint Jokes About Reuniting With Daniel Radcliffe and Emma Watson: “I’ll Make Some Calls”",
-      "Elliot Page’s $1.8B Blockbuster Just Made Its Way To Your Homes",
-      "Owen Wilson & Travis Scott’s R-Rated Comedy Just Made Its Way To Your Homes",
-      "Indian Actress and Director Nandita Das, Syrian Star Taim Hassan to Be Honored by Doha Film Festival",
-      "‘Kill Jackie’ Spurs On Fremantle Q3 Revenue To $530M But TV Ad Revenue Declines Weigh On RTL"
-     ],
-     "updated": [],
-     "count": 280,
-     "detail": "296 stories, 0 duplicates removed, 4 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-17T10:51:09Z",
     "run_id": "44068526322",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "404 stories, 6 duplicates removed, 158 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T09:55:42Z",
-    "run_id": "44059265140",
+    "run_at": "2026-11-18T09:51:44Z",
+    "run_id": "44279694431",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 381,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
     },
     "changed": {
      "added": [
-      "Actor Dhanush Faces Severe Social Media Backlash After Bouncers Violently Push Fan During Promotional Event",
-      "Below Deck Season 13 Episode 6 Review and Recap",
-      "Bigg Boss 20 Episode 72 Highlights: Kanika Mann Defends Love Gill After Housemates Ganging Up",
-      "The Simpsons Fans Fear 'Great Blackout' Prediction for November 17"
+      "SCOOP: Sanjay Leela Bhansali makes a BIG move! Bhansali Productions to venture into film distribution and acquisition",
+      "The Remarried Empress Ep 8 Ending: Did Navier Find Out Sovieshu-Rashta's Secret Plan? Heinrey Admits His Love?",
+      "Ramayana Box Office Collection Day 14 Prediction: Ranbir’s Film To Beat Dhurandhar Lifetime Collection Today",
+      "Bigg Boss 20: Gauahar Supports Love Gill As Salman's Intuition Remark Sparks Debate: Nobody Used Anyone",
+      "OM Advance Booking: Dhanush And Mammootty's Film Nears ₹5 Crore In Worldwide Opening Day Pre-Sales",
+      "Ramayana Overseas Box Office: Bollywood’s 1st 500 Crore Film Overseas Without Phase 2 Release – 7th Highest In Indian Cinema’s History!",
+      "The Hunger Games: Sunrise On The Reaping: Release Date, Cast & Everything About Panem’s Deadliest Games",
+      "Clayface Box Office: Sets China Release Date, Audience Score Beats The Batman & Aquaman",
+      "Daayra OTT Verdict: Kareena Kapoor & Prithviraj Sukumaran’s Film Enters Top 10 Bollywood Debut Weeks Of 2026 On Netflix!",
+      "OM Box Office Advance Booking (2 Days To Go): Sells 1 Lakh+ Tickets Across Fewer Than 2,000 Shows!",
+      "Ramayana Crosses 14 Million BookMyShow Tickets in Just 14 Days, Set to Enter All-Time Top 5 by End of Week 2",
+      "Ramayana Eyes Fastest ₹1,500 Crore Worldwide Milestone for Bollywood in Just 14 Days, ₹1,000 Crore India Gross Also in Sight",
+      "Mission Mirchi: Technician dies in truck crash",
+      "Samantha Ruth Prabhu shares pictures from intimate pregnancy ceremony with Raj Nidimoru",
+      "Sonakshi reacts to Rahul Gandhi's comment about Sonia Gandhi sitting on Rajiv Gandhi's lap",
+      "Philippine police charge Meghan Markle’s father for possessing and distributing CSAEM",
+      "‘Sathyavan Savithiri’: Keerthy Suresh’s courtroom drama gets U/A certificate",
+      "Dulquer Salmaan confirms Tamil film 'Goli' with Karthikeyan Velappan",
+      "Deshdrohi 2 | KRK announces film; Pooja Hegde, Nawazuddin Siddiqui, Deepak Dobriyal to star? Here's what Deepak says",
+      "GTA VI release times for the US, India, UK, Europe, and more"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 366,
+     "detail": "376 stories, 0 duplicates removed, 5 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:52:05Z",
+    "run_id": "44279694431",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+      "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+      "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Release",
+      "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-17T12:53:03Z",
-    "run_id": "44086923085",
-    "status": "success",
-    "checked": {
-     "candidates": 372,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 363, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,31 +1901,27 @@
      "detail": "now 367, coming 9"
     },
     "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-18T09:52:05Z",
+    "run_id": "44279694431",
+    "status": "success",
+    "checked": {
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 367, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-17T10:05:35Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1ilvaza",
-      "1ocsls5",
-      "3nmfly",
-      "fbqwfk"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2393,27 +2371,26 @@
      "count": 2
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T10:04:58Z",
-    "run_id": "44059265140",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-18T09:57:07Z",
+    "run_id": "44279694431",
     "status": "success",
     "checked": {
-     "candidates": 698,
-     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 676 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2827,19 +2804,27 @@
      "detail": "+0 new rows, 7 updated rows, 679 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:57:06Z",
+    "run_id": "44279694431",
+    "status": "success",
+    "checked": {
+     "candidates": 707,
+     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3076,32 +3061,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-17T10:05:34Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20 Episode 72 Highlights: Kanika Mann Defends Love Gill After Housemates Ganging Up",
-      "Actor Dhanush Faces Severe Social Media Backlash After Bouncers Violently Push Fan During Promotional Event",
-      "Below Deck Season 13 Episode 6 Review and Recap",
-      "The Simpsons Fans Fear 'Great Blackout' Prediction for November 17"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3622,19 +3594,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:57:06Z",
+    "run_id": "44279694431",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+      "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+      "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day",
+      "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Release"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3864,19 +3849,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4194,31 +4179,19 @@
      "count": 20
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-17T09:55:42Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 280 still unprocessed; today by category: movies 7/6, tv_dramas 7/4, episodes 1/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 0/3, awards 3/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Actor Dhanush Faces Severe Social Media Backlash After Bouncers Violently Push Fan During Promotional Event",
-      "Below Deck Season 13 Episode 6 Review and Recap",
-      "Bigg Boss 20 Episode 72 Highlights: Kanika Mann Defends Love Gill After Housemates Ganging Up",
-      "The Simpsons Fans Fear 'Great Blackout' Prediction for November 17"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4719,26 +4692,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:52:05Z",
+    "run_id": "44279694431",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 366 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 0/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 2/4, ott_streaming 7/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+      "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+      "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Release",
+      "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-17T09:57:10Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5045,24 +5023,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 369,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5392,24 +5365,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 19,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5744,19 +5712,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6006,19 +5974,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6253,19 +6221,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6551,19 +6519,19 @@
      "count": 46
     },
     "reason": null
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6804,19 +6772,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7046,19 +7014,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7307,6 +7275,16 @@
     "category": "Trending News",
     "run_at": "2026-11-18T09:05:28Z",
     "run_id": "44270456617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7824,16 +7802,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-17T10:53:36Z",
     "run_id": "44068526322",
     "status": "skipped",
@@ -8070,24 +8038,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-17T10:05:43Z",
-    "run_id": "44059265140",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4905,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8347,8 +8310,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:57:14Z",
+    "run_id": "44279694431",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-18T09:05:28Z"
+ "updated_at": "2026-11-18T09:57:14Z"
 }

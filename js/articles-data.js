@@ -179942,5 +179942,423 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T08:54:07Z"
+  },
+  "6laf17": {
+    "id": "6laf17",
+    "type": "news",
+    "headline": "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+    "dek": "The streaming platform has released the first teaser for Dr. Hassan, starring Nawazuddin Siddiqui and Dia Mirza, set to premiere on December 11.",
+    "body": [
+      {
+        "h": "Introduction to Dr. Hassan",
+        "p": [
+          "Nawazuddin Siddiqui is entering the realm of medical mysteries through Dr. Hassan, a new JioHotstar series that serves as an Indian adaptation of the internationally renowned show House. The streaming service recently unveiled the official first teaser, announcing a premiere date of December 11.",
+          "The newly released promotional footage gives viewers a preliminary look at Siddiqui portraying an exceptional medical professional capable of untangling the most complex cases, though his personality diverges sharply from standard clinical norms."
+        ]
+      },
+      {
+        "h": "Production and Creative Background",
+        "p": [
+          "The project is produced by Banijay Asia for JioHotstar and officially licensed by NBCUniversal Formats, which operates under the Universal Studio Group. The adaptation relocates the core premise into a distinctly Indian environment, incorporating domestic cultural nuances, familiar social relationships, and everyday situations.",
+          "The creative team behind the scenes features Rohan Sippy in the director's chair. The script and adaptation duties were handled by Vinay Chhawal and Ketan Pedgaonkar, while Virat Basoya contributed the dialogue."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Cast",
+        "p": [
+          "Siddiqui steps into the shoes of Dr. Hassan, an insightful practitioner whose gift for identifying rare diseases is matched only by his unconventional demeanor. The narrative aims to blend procedural medical puzzles with character-driven humor and intricate personal dynamics.",
+          "Alongside Siddiqui, the ensemble cast includes Dia Mirza, Faisal Rashid, Rehmat Rattan, Jayson Thaam, and Smaran Sanu. Executive production is overseen by Vibhas Singh Gautam, with Deepak Dhar, Rishi Negi, Rajesh Chadha, Mrinalini Jain, and Shyam Rathi serving as producers."
+        ]
+      },
+      {
+        "h": "Executive Perspectives on Localization",
+        "p": [
+          "Alok Jain, Head of Hindi and English Entertainment Business at JioStar, emphasized the importance of cultural resonance when commissioning local versions of global properties. He noted that while great characters travel well, they truly thrive when embedded in the lived realities of their audience.",
+          "Deepak Dhar, Founder and CEO of Banijay Asia and Endemol Shine India, acknowledged the weight of adapting such a widely cherished premise. He praised Siddiqui's ability to infuse depth into the role and highlighted the collaborative partnership with NBCUniversal Formats and JioHotstar."
+        ]
+      },
+      {
+        "h": "Nawazuddin Siddiqui's Connection to the Role",
+        "p": [
+          "For Siddiqui, stepping into this protagonist's shoes involved drawing upon childhood observations around local clinics and dispensaries in his hometown. He expressed enthusiasm for capturing the delicate balance between the character's towering intellect and peculiar worldview.",
+          "The actor credited JioHotstar for taking a creative risk by offering him such an eccentric and layered protagonist, noting that discovering the external and internal nuances of Hassan proved to be an engaging challenge."
+        ]
+      },
+      {
+        "h": "Legacy of the Original House Series",
+        "p": [
+          "The source material, House, was originally created by David Shore and starred Hugh Laurie as the cantankerous Dr. Gregory House. Broadcast on FOX across eight seasons from 2004 to 2012, the original show earned numerous accolades, including multiple Emmy and Golden Globe awards.",
+          "Linfield Ng, VP of Format Sales and Production at NBCUniversal Formats, remarked that Dr. Hassan represents the third international adaptation of the iconic format, expressing excitement over how the Indian creative team will reinterpret the beloved premise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nawazuddin Siddiqui stars as Dr. Hassan in JioHotstar's upcoming Indian adaptation of the hit series House, produced by Banijay Asia and directed by Rohan Sippy. The series, which also features Dia Mirza, is scheduled to premiere on December 11."
+        ]
+      }
+    ],
+    "facts": [
+      "Dr. Hassan releases on December 11",
+      "Nawazuddin Siddiqui stars as Dr. Hassan",
+      "Dia Mirza stars in the series",
+      "Produced by Banijay Asia for JioHotstar",
+      "Directed by Rohan Sippy",
+      "Licensed by NBCUniversal Formats",
+      "Original House ran from 2004 to 2012 on FOX"
+    ],
+    "entities": {
+      "people": [
+        "Nawazuddin Siddiqui",
+        "Hugh Laurie",
+        "Dia Mirza",
+        "Faisal Rashid",
+        "Rehmat Rattan",
+        "Jayson Thaam",
+        "Smaran Sanu",
+        "Vinay Chhawal",
+        "Ketan Pedgaonkar",
+        "Virat Basoya",
+        "Deepak Dhar",
+        "Rishi Negi",
+        "Rajesh Chadha",
+        "Mrinalini Jain",
+        "Shyam Rathi",
+        "Vibhas Singh Gautam",
+        "Alok Jain",
+        "David Shore",
+        "Linfield Ng",
+        "Rohan Sippy"
+      ],
+      "titles": [
+        "Dr. Hassan",
+        "House"
+      ]
+    },
+    "keywords": [
+      "Dr Hassan",
+      "Nawazuddin Siddiqui",
+      "Dia Mirza",
+      "JioHotstar",
+      "Rohan Sippy"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/Screenshot_2026-11-18_143926_1794992983669_EGew_1794992992581_xpRO_5fa69677-6f4e-4ccb-8904-8d294b8cc156_Dax4.png",
+        "caption": "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 14:49:48 +0530"
+  },
+  "3nk9u7": {
+    "id": "3nk9u7",
+    "type": "news",
+    "headline": "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+    "dek": "The hit animated series adapts Yuto Suzuki's bestselling manga and returns to Netflix for its second season following a massive global viewership run.",
+    "body": [
+      {
+        "h": "Introduction to the Return",
+        "p": [
+          "Fans of the hit anime adaptation Sakamoto Days have reason to celebrate as the streaming platform officially confirms the premiere date for the upcoming second season. The highly anticipated continuation of the Japanese series is scheduled to debut globally on January 18, 2027.",
+          "Following a stellar run for its initial episodes, the continuation brings back the unique blend of high-octane action and domestic comedy that captured audiences worldwide. Viewers eager to follow the former legendary hitman's journey will soon have new episodes to stream."
+        ]
+      },
+      {
+        "h": "Source Material and Manga Impact",
+        "p": [
+          "The animated series is based on the popular Japanese manga authored and illustrated by Yuto Suzuki. The source material has enjoyed explosive growth in readership since the screen adaptation debuted on the platform.",
+          "Records indicate that the manga's circulation surged from 7 million copies in December 2024 to 15 million copies by August 2025. Out of 283 published chapters, the first season adapted 75 chapters across 9 volumes, leaving plenty of narrative ground for future episodes."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story centers on Taro Sakamoto, once recognized as the world's most lethal assassin. In a sudden twist, he chose to walk away from the underworld to pursue a peaceful life in the name of love.",
+          "Now running a neighborhood convenience store alongside his family, Sakamoto frequently finds his quiet routine interrupted. His dangerous past routinely catches up with him, forcing him to utilize his elite combat skills to safeguard his loved ones."
+        ]
+      },
+      {
+        "h": "Global Viewership and Success",
+        "p": [
+          "The first season proved to be a major triumph for the platform, appearing on the global top ten list for 14 weeks between January 12 and September 7. During that stretch, it accumulated 106.8 million viewing hours, translating to roughly 40.4 million completed views.",
+          "Overall performance metrics show the program came close to crossing 40 million completed views with over 240 million hours watched. Engagement reports specifically note 212,100,000 hours viewed and 36,500,000 completed views through 2025."
+        ]
+      },
+      {
+        "h": "Renewal Timeline and Announcement",
+        "p": [
+          "Despite concluding the first season on September 23, 2025, the official greenlight for the continuation took longer than expected compared to other titles like Blue Box and The Summer Hikaru Died. Engagement numbers, however, made the renewal a certainty.",
+          "The confirmation arrived at the Jump Festa 26 event accompanied by a Japanese teaser trailer and promotional key art. The streaming service officially declared the return with a statement highlighting the comeback of the hitman turned shopkeeper."
+        ]
+      },
+      {
+        "h": "New Characters Joining the Cast",
+        "p": [
+          "The upcoming episodes will introduce several fresh faces to the narrative landscape. Amane Yotsumura, voiced by Kikunosuke Toya, enters as an ORDER aspirant and weapon expert seeking vengeance.",
+          "Additional additions include Etsuko Satoda, voiced by Misa Watanabe as a strict JCC teacher concealing deadly skills, and Satoru Yotsumura, voiced by Shinshū Fuji as a legendary former ORDER member tied to the underworld."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sakamoto Days Season 2 has officially received a Netflix release date of January 18, 2027, following a highly successful first season that drove massive growth for Yuto Suzuki's original manga. The upcoming episodes will introduce new characters like Amane Yotsumura and continue the adventures of the former legendary assassin."
+        ]
+      }
+    ],
+    "facts": [
+      "Sakamoto Days Season 2 releases on January 18, 2027.",
+      "The manga author and illustrator is Yuto Suzuki.",
+      "Manga circulation rose from 7 million in December 2024 to 15 million in August 2025.",
+      "The first season finale aired on September 23, 2025.",
+      "The show spent 14 weeks in Netflix's global top ten list.",
+      "Season 1 accumulated 106.8 million viewing hours and 40.4 million completed views during its initial top ten run.",
+      "Total 2025 hours viewed reached 212,100,000 with 36,500,000 completed views.",
+      "Total 2026 hours viewed reached 28,500,000 with 3,300,000 completed views.",
+      "The anime has adapted 75 chapters across 9 volumes out of 283 published chapters.",
+      "Amane Yotsumura is voiced by Kikunosuke Toya.",
+      "Etsuko Satoda is voiced by Misa Watanabe.",
+      "Satoru Yotsumura is voiced by Shinshū Fuji."
+    ],
+    "entities": {
+      "people": [
+        "Yuto Suzuki",
+        "Taro Sakamoto",
+        "Kikunosuke Toya",
+        "Misa Watanabe",
+        "Shinshū Fuji",
+        "Amane Yotsumura",
+        "Etsuko Satoda",
+        "Satoru Yotsumura"
+      ],
+      "titles": [
+        "Sakamoto Days",
+        "Blue Box",
+        "The Summer Hikaru Died"
+      ]
+    },
+    "keywords": [
+      "Sakamoto Days Season 2",
+      "Sakamoto Days Netflix release date",
+      "Yuto Suzuki Sakamoto Days",
+      "Sakamoto Days season 2 characters"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2025/10/sakamoto-days-season-2-netflix-renewal.jpg",
+        "caption": "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:04:53 +0000"
+  },
+  "zdybuw": {
+    "id": "zdybuw",
+    "type": "news",
+    "headline": "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Release",
+    "dek": "The Praveen S Vijay directorial starring Keerthy Suresh and Mysskin has officially cleared its censor board formalities and is slated for a worldwide theatrical launch on November 20.",
+    "body": [
+      {
+        "h": "Censor Clearance And Release Plans",
+        "p": [
+          "The upcoming courtroom drama Sathyavan Savithiri, headlined by actor Keerthy Suresh, has officially cleared its censor board formalities. The Central Board of Film Certification has granted the movie a U/A certificate, clearing the path for its planned theatrical distribution.",
+          "Makers of the film have scheduled a worldwide theatrical rollout for November 20. The production team utilized social media platforms to share the official censor update with eager fans and prospective audiences."
+        ]
+      },
+      {
+        "h": "Announcement And Promotional Material",
+        "p": [
+          "Following the successful completion of the censor process, the project's banner posted an enthusiastic message online declaring that the courtroom is ready for the main arguments. This update arrived shortly after the release of the official promotional trailer.",
+          "The trailer gave viewers an initial look at the core premise, introducing the central conflict of the story and highlighting the dramatic courtroom sequences that form the backbone of the narrative."
+        ]
+      },
+      {
+        "h": "Plot Premise And Character Dynamics",
+        "p": [
+          "In the film, Keerthy Suresh portrays a lawyer named Savithiri. The storyline begins when her family pressures her into an arranged marriage despite her clear lack of interest in the proposed alliance.",
+          "Things take a dramatic turn when a murder case unfolds involving an NRI woman named Veronica. Savithiri's own husband emerges as the primary suspect, prompting her to take on his defense and fight to prove his innocence."
+        ]
+      },
+      {
+        "h": "Opposing Counsel And Legal Battle",
+        "p": [
+          "Adding to the dramatic tension, actor Mysskin plays the role of Markandeyan, who serves as Savithiri's former boss and a fellow lawyer. He steps into the case representing the opposing side.",
+          "The narrative is set to feature an intense legal battle between the two lawyers, as Mysskin's character pulls out all the stops to secure a victory in court against his former subordinate."
+        ]
+      },
+      {
+        "h": "Ensemble Cast And Crew",
+        "p": [
+          "Alongside the lead actors, the movie boasts a robust supporting cast featuring Heartbeat Charukesh, Balasaravanan, Madhusudhanan, Shilpa Manjunath, R Sundararajan, Brigida, Mala Parvathi, and A Venkatesh in various pivotal roles.",
+          "Behind the camera, the technical crew includes Arul Vincent managing the cinematography, Sam C S creating the musical score, and Prasanna G K working as the film's editor under the direction of Praveen S Vijay."
+        ]
+      },
+      {
+        "h": "Scheduling Adjustments And Recent Works",
+        "p": [
+          "The feature was initially locked in for an earlier theatrical debut on July 24 before the team opted to postpone the arrival date to the current November slot.",
+          "Lead star Keerthy Suresh has seen notable recent releases as well, having appeared in Karthik Subbaraj's Tamil film Dorothy alongside a starring role in the Netflix crime-drama series Akka alongside Radhika Apte."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Keerthy Suresh's upcoming courtroom drama Sathyavan Savithiri has secured a U/A censor certificate ahead of its scheduled worldwide theatrical release on November 20. Directed by Praveen S Vijay, the film features the lead actor defending her husband against murder charges opposite her former boss played by Mysskin."
+        ]
+      }
+    ],
+    "facts": [
+      "Sathyavan Savithiri is scheduled for a worldwide theatrical release on November 20.",
+      "The film has received a U/A certificate from the Central Board of Film Certification.",
+      "Praveen S Vijay is the director of the film.",
+      "Keerthy Suresh plays a lawyer named Savithiri.",
+      "Mysskin plays Savithiri's former boss and opposing lawyer named Markandeyan.",
+      "The film was initially scheduled to release on July 24."
+    ],
+    "entities": {
+      "people": [
+        "Keerthy Suresh",
+        "Praveen S Vijay",
+        "Mysskin",
+        "Veronica",
+        "Heartbeat Charukesh",
+        "Balasaravanan",
+        "Madhusudhanan",
+        "Shilpa Manjunath",
+        "R Sundararajan",
+        "Brigida",
+        "Mala Parvathi",
+        "A Venkatesh",
+        "Arul Vincent",
+        "Sam C S",
+        "Prasanna G K",
+        "Karthik Subbaraj",
+        "Radhika Apte"
+      ],
+      "titles": [
+        "Sathyavan Savithiri",
+        "Dorothy",
+        "Akka"
+      ]
+    },
+    "keywords": [
+      "Sathyavan Savithiri",
+      "Keerthy Suresh",
+      "Praveen S Vijay",
+      "Sathyavan Savithiri release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135956097,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Keerthy Suresh's Upcoming Courtroom Drama Sathyavan Savithiri Receives U/A Censor Certification Ahead Of November Releas",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T14:04:38+05:30"
+  },
+  "hu7yig": {
+    "id": "hu7yig",
+    "type": "news",
+    "headline": "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day",
+    "dek": "Minnie Driver stars as a hostage negotiator in the upcoming British heist drama The Day, which has secured a late December premiere date on Paramount+.",
+    "body": [
+      {
+        "h": "First Look At Minnie Driver In Character",
+        "p": [
+          "Audiences have received their first look at actress Minnie Driver starring as DI Sylvia Voxley, also known as 'Vox', in the upcoming British heist drama series titled The Day. Produced for Paramount+, the show features the Emily in Paris and Runaway star stepping into high-stakes hostage negotiator mode during a tense bank siege.",
+          "In the newly revealed promotional footage, criminals inside a barricaded building are seen threatening bank staff. One of the hostage takers delivers an ultimatum to Vox, demanding £100,000, which translates to $132,000, or else they will begin killing hostages."
+        ]
+      },
+      {
+        "h": "Release Schedule And Territory Rollout",
+        "p": [
+          "Alongside the trailer reveal, Skydance-owned Paramount announced an official release date of December 31 for the series. On this premiere date, the first four episodes of the drama will become available to stream.",
+          "The remaining four episodes of the eight-part series are scheduled to debut a week later on January 7, 2027. This rollout will take place across all Paramount+ territories, with the exception of Germany, Switzerland, and Austria."
+        ]
+      },
+      {
+        "h": "A Dual-Perspective Narrative Structure",
+        "p": [
+          "The dramatic series unfolds across the course of one full day, beginning from the perspective of the police. DI Sylvia Vox battles against mounting pressure and ticking time to rescue the trapped individuals safely.",
+          "Just as the dangerous situation reaches a critical breaking point, the narrative completely rewinds. The entire story is then told all over again from the perspective of the robbers, with each episode flipping between the two viewpoints to continually reframe the truth."
+        ]
+      },
+      {
+        "h": "Starring Cast And Creative Team",
+        "p": [
+          "The series features a talented supporting cast including Luca Pasqualino, known for his work in Rivals and The Musketeers, alongside Louisa Harland from Renegade Nell and Derry Girls.",
+          "The British adaptation was written by Ben Harris and Jesse O'Mahoney. It is based on the original Belgian series De Dag, created by Jonas Geirnaert and Julie Mahieu."
+        ]
+      },
+      {
+        "h": "Production Backing And Direction",
+        "p": [
+          "The project is a collaborative effort brought to screens from Dynamic Television and Clapperboard Studios. Executive producers on the series include Mike Benson and Andy Morgan for Clapperboard, alongside Daniel March and Tamryn Reinecke from Dynamic Television.",
+          "Additionally, Jake Rollins serves as producer on the project. The directing duties for the drama are shared by co-directors Andy Tohill and Ryan Tohill, both previously recognized for their work on The Dig and Dalgliesh."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ has released the official trailer and launch date for the British heist drama The Day, starring Minnie Driver as a hostage negotiator. The series debuts its first four episodes on December 31, followed by the remaining four episodes on January 7, 2027, across select territories."
+        ]
+      }
+    ],
+    "facts": [
+      "Minnie Driver stars as DI Sylvia 'Vox' Voxley.",
+      "The series is titled The Day.",
+      "The criminals demand £100,000 ($132,000).",
+      "The first four episodes launch on December 31.",
+      "The following four episodes debut on January 7, 2027.",
+      "The show streams in all Paramount+ territories bar Germany, Switzerland and Austria.",
+      "Luca Pasqualino and Louisa Harland also star.",
+      "The show is based on Jonas Geirnaert and Julie Mahieu's Belgian series De Dag.",
+      "Ben Harris and Jesse O'Mahoney wrote the British version."
+    ],
+    "entities": {
+      "people": [
+        "Minnie Driver",
+        "Sylvia 'Vox' Voxley",
+        "Luca Pasqualino",
+        "Louisa Harland",
+        "Jonas Geirnaert",
+        "Julie Mahieu",
+        "Ben Harris",
+        "Jesse O'Mahoney",
+        "Mike Benson",
+        "Andy Morgan",
+        "Daniel March",
+        "Tamryn Reinecke",
+        "Jake Rollins",
+        "Andy Tohill",
+        "Ryan Tohill"
+      ],
+      "titles": [
+        "The Day",
+        "Emily in Paris",
+        "Runaway",
+        "Rivals",
+        "The Musketeers",
+        "Renegade Nell",
+        "Derry Girls",
+        "De Dag",
+        "The Dig",
+        "Dalgliesh"
+      ]
+    },
+    "keywords": [
+      "The Day",
+      "Minnie Driver The Day",
+      "Paramount+ The Day release date",
+      "The Day trailer"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/The-Day-1.jpg?w=1024",
+        "caption": "Paramount+ Reveals Trailer and Launch Date for Minnie Driver Heist Drama The Day",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 09:00:00 +0000"
   }
 };
