@@ -184344,5 +184344,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T18:05:21+00:00"
+  },
+  "3pa6ox": {
+    "id": "3pa6ox",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 13: Ranbir Kapoor-Yash Epic Records Massive Rs 1484 Crore",
+    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana continues its phenomenal run, crossing impressive global milestones on its 13th day in theatres.",
+    "body": [
+      {
+        "h": "Global Box Office Momentum",
+        "p": [
+          "The ambitious mythological feature starring Ranbir Kapoor and Yash continues to command strong attendance across international and domestic territories. Maintaining steady momentum deep into its second week, the project demonstrates robust global appeal.",
+          "The worldwide earnings reflect expanding interest beyond traditional domestic strongholds, positioning the feature close to another major financial benchmark as international collections steadily climb."
+        ]
+      },
+      {
+        "h": "International Earnings Breakdown",
+        "p": [
+          "On its thirteenth day in cinemas, the film secured a gross collection of Rs 12 crore in overseas markets alone. This addition brings the cumulative international collection to a striking Rs 502 crore.",
+          "Combined with domestic figures, the Nitesh Tiwari directorial reached a worldwide gross collection of Rs 1,483.50 crore after thirteen days of theatrical release."
+        ]
+      },
+      {
+        "h": "Domestic Performance and Milestones",
+        "p": [
+          "Within domestic theatres, the production registered a net collection of Rs 28.70 crore on its thirteenth day. This brings the cumulative India net total to an impressive Rs 821.30 crore.",
+          "Simultaneously, the domestic gross figure stands at Rs 981.50 crore, keeping the feature within touching distance of the coveted Rs 1,500 crore global milestone."
+        ]
+      },
+      {
+        "h": "Language-Wise Collection Analysis",
+        "p": [
+          "The domestic earnings spanned multiple regional languages, with the Hindi version contributing the largest share of ticket sales at Rs 21 crore.",
+          "Regional versions also performed steadily, bringing in Rs 2.35 crore in Malayalam, Rs 2.10 crore in Kannada, Rs 1.75 crore in Tamil, and Rs 1.50 crore in Telugu."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Titled Ramayana: Rise of a Legend, the project is a 2026 Indian epic mythological feature directed by Nitesh Tiwari. Ranbir Kapoor leads the cast as Lord Rama alongside Sai Pallavi as Princess Sita.",
+          "The expansive cast also includes Yash as Ravana, Ravi Dubey as Lakshman, Sunny Deol as Hanuman, Arun Govil as King Dashrath, Lara Dutta as Kaikeyi, Rakul Preet Singh as Surpanakha, and Anupam Kher voicing Jatayu."
+        ]
+      },
+      {
+        "h": "Plot Structure and Release Strategy",
+        "p": [
+          "Conceived as a two-part live-action adaptation of Valmiki's ancient Hindu text, the narrative chronicles Rama's early life in Ayodhya, his marriage to Sita, and their subsequent fourteen-year forest exile.",
+          "The first instalment documents the rise of Ravana, culminating in Sita's abduction and an aerial confrontation involving Jatayu, while the second part is planned for a Diwali 2027 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's mythological feature Ramayana reached a worldwide gross collection of Rs 1,483.50 crore by its thirteenth day in theatres. The Nitesh Tiwari directorial accumulated Rs 821.30 crore in domestic net earnings alongside Rs 502 crore from international markets."
+        ]
+      }
+    ],
+    "facts": [
+      "The film's worldwide gross collection reached Rs 1,483.50 crore in 13 days.",
+      "Overseas gross collection on Day 13 was Rs 12 crore, totalling Rs 502 crore internationally.",
+      "India net collection on Day 13 was Rs 28.70 crore, with a total India net of Rs 821.30 crore and domestic gross of Rs 981.50 crore.",
+      "Language-wise collections on Day 13 include Hindi at Rs 21 crore, Malayalam at Rs 2.35 crore, Kannada at Rs 2.10 crore, Tamil at Rs 1.75 crore, and Telugu at Rs 1.50 crore.",
+      "The film was released worldwide on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Anupam Kher"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Day 13 collection",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156528262,thumbsize-379524,width-1280,height-720,resizemode-75/156528262.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 13: Ranbir Kapoor-Yash Epic Records Massive Rs 1484 Crore",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T20:52:15Z"
+  },
+  "2bvz7q": {
+    "id": "2bvz7q",
+    "type": "news",
+    "headline": "DC's Detective Comics Launches New Storyline Where Clark Kent is Suspected of Murder",
+    "dek": "A fresh six-issue narrative kicks off in Detective Comics, placing Superman at the center of a homicide investigation and testing his bond with Batman.",
+    "body": [
+      {
+        "h": "A New Era for Detective Comics",
+        "p": [
+          "The iconic comic series Detective Comics is embarking on a brand-new narrative path as the creative run of writer Tom Taylor and artist Mikel Janin comes to its conclusion. Marking a major shift for the Caped Crusader, the publication is launching a six-issue arc that places Superman directly in the crosshairs of a homicide investigation.",
+          "This fresh sequence of events alters the dynamic between Gotham's dark protector and Metropolis' shining beacon of hope, bringing profound changes to how Earth's defensive forces operate while a major character faces severe accusations."
+        ]
+      },
+      {
+        "h": "The Murder of Esme Brennan",
+        "p": [
+          "The plot centers around Detective Comics #1115, which hit shelves on November 18, 2026, and confirmed the tragic death of Esme Brennan, the daughter of Smallville's mayor. The narrative highlights the brutal execution-style killing, which involved two shotgun blasts.",
+          "Adding to the shock of the incident is the unsettling ambiguity surrounding whether Superman himself was responsible. Despite his legendary moral compass, even the Man of Steel experiences moments of uncertainty regarding his own actions during the time of the crime."
+        ]
+      },
+      {
+        "h": "Surrendering the Man of Steel",
+        "p": [
+          "In a display of his principled nature, Clark Kent willingly cooperates with the authorities, turning himself in through his civilian persona. This voluntary surrender creates a significant void in Earth's frontline defenses, particularly with cosmic threats like Darkseid still lingering in the background.",
+          "The local sheriff's department builds its case against Clark using tangible evidence from the scene at the Smallville Ravens stadium. Investigators recover a business card belonging to Clark and discover that his phone number was the last call registered on Esme's mobile device."
+        ]
+      },
+      {
+        "h": "Straining the World's Finest Bond",
+        "p": [
+          "Batman approaches the case with an initial deep trust in his longtime friend and fellow superhero. However, as the investigation deepens, that foundational trust faces severe erosion during a clandestine prison meeting between the two heroes.",
+          "During their tense exchange behind bars, Clark fails to offer an absolute denial when questioned about the killing. This hesitation complicates Batman's ability to maintain objectivity while trying to separate his personal loyalty from his reputation as the world's greatest detective."
+        ]
+      },
+      {
+        "h": "Echoes of Classic DC Tropes",
+        "p": [
+          "The storyline draws thematic parallels to classic narrative events like Identity Crisis, which similarly sent shockwaves through the broader Justice League. Yet, the primary concern here remains the potential for irreversible damage to the friendship uniting Batman and Superman.",
+          "Future installments in the six-issue arc promise further investigation, including Batman teaming up with the Question in Detective Comics #1117. These upcoming chapters will test whether the World's Finest duo can survive the profound tension introduced by the murder probe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Detective Comics has launched a six-issue storyline where Clark Kent surrenders to authorities as the primary suspect in the murder of Esme Brennan. The investigation strains the lifelong friendship between Batman and Superman as the Dark Knight struggles to determine if his ally is truly guilty."
+        ]
+      }
+    ],
+    "facts": [
+      "Detective Comics launched a new six-issue storyline starting November 18, 2026.",
+      "The arc marks the conclusion of writer Tom Taylor and artist Mikel Janin's run.",
+      "Esme Brennan, the daughter of Smallville's mayor, is found murdered with two shotgun blasts.",
+      "Clark Kent surrenders himself as the primary suspect in the killing.",
+      "Evidence against Clark includes his business card and phone records.",
+      "Batman teams up with the Question in Detective Comics #1117."
+    ],
+    "entities": {
+      "people": [
+        "J.R. Waugh",
+        "Tom Taylor",
+        "Mikel Janin",
+        "Clark Kent",
+        "Esme Brennan",
+        "Darkseid"
+      ],
+      "titles": [
+        "Absolute Batman",
+        "Detective Comics",
+        "Lanterns",
+        "Identity Crisis"
+      ]
+    },
+    "keywords": [
+      "Detective Comics #1115",
+      "Clark Kent Murderer storyline",
+      "Batman and Superman DC comics",
+      "Tom Taylor Mikel Janin"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/batman-and-superman-clark-kent-murderer.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "DC's Detective Comics Launches New Storyline Where Clark Kent is Suspected of Murder",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 20:00:19 GMT"
+  },
+  "xai06e": {
+    "id": "xai06e",
+    "type": "news",
+    "headline": "Panchayat Season 5 Release Date Announced: Prime Video Sets December Premiere for Neena Gupta and Jitendra Kumar Series",
+    "dek": "The wait is over for fans of the acclaimed village comedy-drama, as Prime Video confirms the arrival of Panchayat season 5 for early December, bringing back the political rivalries and quirky residents of Phulera.",
+    "body": [
+      {
+        "h": "Official Premiere Date Announced",
+        "p": [
+          "Streaming giant Prime Video has officially ended months of speculation by locking down the premiere schedule for the highly anticipated fifth installment of its flagship comedy-drama series. Viewers can mark their calendars for December 3, when the show makes its grand return to screens worldwide.",
+          "The upcoming batch of episodes promises to thrust audiences right back into the rustic charm, peculiar village administration, and local rivalries that have made the Hindi-language series a massive phenomenon across digital platforms."
+        ]
+      },
+      {
+        "h": "Phulera Under New Leadership",
+        "p": [
+          "The narrative picks up right after the intense electoral showdown that defined the previous run, which saw East and West Phulera factions clash in a fierce political battle. With the votes tallied, the dynamic of the village council has fundamentally inverted.",
+          "Bhushan Sharma, widely known by his notorious moniker Banrakas, managed to defeat the former leadership by a margin of 73 votes. With Bhushan assuming power as the new Pradhan alongside his wife Kranti Devi, the administrative transition is set to introduce fresh friction and organizational chaos for the rest of the community."
+        ]
+      },
+      {
+        "h": "Recapping the Season 4 Finale",
+        "p": [
+          "The preceding season heavily revolved around the bitter competition between Manju Devi and Kranti Devi, capturing the fierce rivalry that gripped the local residents. Panchayat secretary Abhishek Tripathi found himself caught directly in the political crossfire while simultaneously chasing his long-term ambition of clearing the rigorous civil services exams.",
+          "That chapter concluded on a high note when Abhishek successfully cleared his CAT exam with a remarkable 97 percentile. Aside from his academic milestones, the finale featured an emotional turning point as he and Rinki finally confessed their mutual affection, deciding to stay put in Phulera rather than moving away immediately."
+        ]
+      },
+      {
+        "h": "Expectations and Subplots for the New Episodes",
+        "p": [
+          "While political maneuvering and village administrative hurdles will undoubtedly anchor the core conflict, the new season is also anticipated to explore personal arcs. Fans are expected to see a deeper dive into the romance between Abhishek and Rinki following their emotional breakthrough.",
+          "Furthermore, the dethroned faction, including the former Pradhan Manju Devi and Brij Bhushan, is unlikely to let the new power structure settle without a fight, setting the stage for retaliatory political maneuvers."
+        ]
+      },
+      {
+        "h": "Creative Minds Behind the Project",
+        "p": [
+          "The streaming hit continues its collaboration with production banner The Viral Fever, keeping the foundational creative team intact. Direction and creation duties are steered by Deepak Kumar Mishra, who shares creator credits alongside Chandan Kumar and Arunabh Kumar.",
+          "The production relies heavily on its celebrated ensemble to maintain its authentic flavor, blending seasoned performances with regional humor and grounded storytelling."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The returning cast features familiar faces anchoring their respective roles, including Jitendra Kumar as the beleaguered village secretary Abhishek Tripathi and Neena Gupta portraying the former village leader Manju Devi.",
+          "They are joined by Raghubir Yadav, Sunita Rajwar as Kranti Devi, Faizal Malik, Chandan Roy, Sanvikaa, Ashok Pathak, and Durgesh Kumar stepping into the prominent role of the newly elected Pradhan, Bhushan Sharma."
+        ]
+      },
+      {
+        "h": "A Look Back at the Franchise Timeline",
+        "p": [
+          "The journey of the comedy-drama began with the premiere of its inaugural season on April 3, 2020, quickly capturing the attention of locked-down audiences. This was followed by a second season rollout on May 18, 2022.",
+          "As the series grew in popularity, subsequent chapters arrived with the third season on May 28, 2024, and the fourth season on June 24, 2025, culminating in the upcoming December release for the fifth outing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has scheduled Panchayat season 5 to premiere on December 3, following the political shakeup where Bhushan Sharma defeated Manju Devi by 73 votes to become the new Pradhan. Created by Deepak Kumar Mishra, Chandan Kumar, and Arunabh Kumar, the series features returning stars Jitendra Kumar and Neena Gupta alongside the established ensemble cast.",
+          "The upcoming episodes will focus on the resulting village politics and the next phase of Abhishek and Rinki's relationship following his success in clearing the CAT exam."
+        ]
+      }
+    ],
+    "facts": [
+      "Panchayat season 5 will release on Prime Video on December 3.",
+      "Bhushan Sharma defeated Manju Devi in the election by 73 votes.",
+      "Abhishek cleared his CAT exam with 97 percentile in season 4.",
+      "Panchayat season 1 released on April 3, 2020.",
+      "Panchayat season 2 arrived on May 18, 2022.",
+      "Panchayat season 3 premiered on May 28, 2024.",
+      "Panchayat season 4 started streaming on June 24, 2025.",
+      "The series is produced by The Viral Fever.",
+      "Deepak Kumar Mishra is the director and co-creator alongside Chandan Kumar and Arunabh Kumar."
+    ],
+    "entities": {
+      "people": [
+        "Neena Gupta",
+        "Jitendra Kumar",
+        "Tanmayi Savadi",
+        "Manju Devi",
+        "Kranti Devi",
+        "Abhishek Tripathi",
+        "Rinki",
+        "Bhushan Sharma",
+        "Banrakas",
+        "Brij Bhushan",
+        "Deepak Kumar Mishra",
+        "Chandan Kumar",
+        "Arunabh Kumar",
+        "Raghubir Yadav",
+        "Sunita Rajwar",
+        "Faizal Malik",
+        "Chandan Roy",
+        "Sanvikaa",
+        "Durgesh Kumar",
+        "Ashok Pathak",
+        "Bhushan"
+      ],
+      "titles": [
+        "Panchayat"
+      ]
+    },
+    "keywords": [
+      "Panchayat season 5",
+      "Panchayat release date",
+      "Jitendra Kumar Panchayat",
+      "Neena Gupta Prime Video",
+      "Phulera new Pradhan"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156529808,thumbsize-718208,width-1280,height-720,resizemode-75/156529808.jpg",
+        "caption": "Panchayat Season 5 Release Date Announced: Prime Video Sets December Premiere for Neena Gupta and Jitendra Kumar Series",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T20:52:15Z"
+  },
+  "zz7yqg": {
+    "id": "zz7yqg",
+    "type": "news",
+    "headline": "Why There Is No New Abbott Elementary Episode On November 18",
+    "dek": "Fans of the hit ABC sitcom will have to wait for the next chapter of season 6 as the network broadcasts a major awards show.",
+    "body": [
+      {
+        "h": "The Schedule Change on ABC",
+        "p": [
+          "Viewers tuning in on Wednesday, November 18, 2026, will not find a fresh installment of the popular comedy series on ABC. Instead of airing its standard weekly lineup, the network has cleared its schedule to broadcast the 60th Annual Country Music Association Awards, commonly known as the CMAs.",
+          "This programming switch marks the beginning of the mockumentary's first official hiatus of its sixth season. Following the release of the sixth episode, titled \"Competition,\" on November 11, the show has entered a two-week break that spans the Thanksgiving holiday."
+        ]
+      },
+      {
+        "h": "Where Season 6 Left Off",
+        "p": [
+          "The most recent outing delivered significant plot developments for the teachers and staff of the beloved Philadelphia school. In \"Competition,\" former adversaries Janine Teagues and Principal Ava joined forces to lead the institution's step class to a major victory.",
+          "The triumph came with a massive reward: an all-expenses-paid trip to Disney World for the winning step students. To add to the excitement, faculty members Gregory Eddie, Janine, Barb, and Melissa were selected to accompany the group as chaperons."
+        ]
+      },
+      {
+        "h": "The Pending Proposal Tease",
+        "p": [
+          "Before the trip was announced, Gregory spent much of the episode attempting to secure a table at an upscale Italian restaurant. His ultimate goal was to find the perfect romantic setting to propose to Janine.",
+          "Although he abandoned those restaurant plans once the Disney World excursion was revealed, the magical theme park near the Christmas season has left fans speculating about a potential proposal during the upcoming trip."
+        ]
+      },
+      {
+        "h": "Return Date and Landmark Milestone",
+        "p": [
+          "The mockumentary will remain off the air through Thanksgiving before making its official return on December 2. That upcoming broadcast will be a major milestone for the series, serving as the landmark 100th episode, titled \"One Hundred.\"",
+          "Whether the creative team chooses to feature Gregory's proposal during this milestone celebration remains unconfirmed. Showrunners and writers have spent considerable buildup on the engagement storyline since Janine accidentally discovered his plan during the season's Halloween episode."
+        ]
+      },
+      {
+        "h": "Looking Ahead to December and 2027",
+        "p": [
+          "Following the milestone 100th episode, the schedule includes one more release before another brief break. Season 6, episode 8, entitled \"Parents,\" is scheduled to air on December 9.",
+          "Once that episode premieres, the series will head into another short hiatus lasting until January 2027. Fans are eager to see how upcoming storylines unfold, including whether Gregory and Jacob will share more scenes and how Principal Ava will react to a potential engagement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Abbott Elementary is currently on a two-week hiatus because ABC is broadcasting the 60th Annual Country Music Awards on November 18, 2026. The comedy series will return on December 2 with its 100th episode, \"One Hundred,\" following a dramatic sixth-episode cliffhanger involving a school trip to Disney World and teased wedding plans for Gregory and Janine."
+        ]
+      }
+    ],
+    "facts": [
+      "November 18, 2026",
+      "60th Annual Country Music Association Awards",
+      "Season 6, Episode 6",
+      "Competition",
+      "December 2, 2026",
+      "One Hundred",
+      "December 9, 2026",
+      "Parents"
+    ],
+    "entities": {
+      "people": [
+        "Janine Teagues",
+        "Gregory Eddie",
+        "Ava",
+        "Barb",
+        "Melissa",
+        "Jacob",
+        "Mr. Johnson"
+      ],
+      "titles": [
+        "Abbott Elementary",
+        "Competition",
+        "One Hundred",
+        "Parents"
+      ]
+    },
+    "keywords": [
+      "Abbott Elementary season 6",
+      "Abbott Elementary November 18",
+      "Gregory and Janine proposal",
+      "Abbott Elementary episode 7"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/lisa-ann-walter-s-melissa-and-quinta-brunson-s-janine-in-abbott-elementary.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why There Is No New Abbott Elementary Episode On November 18",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 20:30:19 GMT"
   }
 };

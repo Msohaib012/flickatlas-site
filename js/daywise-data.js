@@ -4593,7 +4593,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-17",
       "day": "Day 13",
-      "collection": 3576334,
+      "collection": 3032224,
       "overseas": 1267829,
       "shows": 22551,
       "occupancy": 22.9
