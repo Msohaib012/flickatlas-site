@@ -185518,5 +185518,370 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T03:31:29+05:30"
+  },
+  "n0m87u": {
+    "id": "n0m87u",
+    "type": "news",
+    "headline": "Paris Hilton Urges US House To Pass DEFIANCE Act, Discloses Over One Lakh AI-Generated Graphic Images Of Herself",
+    "dek": "American socialite Paris Hilton appeared on Capitol Hill to advocate for the bipartisan DEFIANCE Act, revealing that over one lakh explicit deepfake images and videos of her likeness exist online.",
+    "body": [
+      {
+        "h": "Appeal on Capitol Hill",
+        "p": [
+          "American media personality and socialite Paris Hilton traveled to Capitol Hill to press US lawmakers for the swift passage of the bipartisan DEFIANCE Act. The proposed federal legislation is designed specifically to shield victims from the harms of non-consensual, sexually explicit AI-generated content.",
+          "During her visit, Hilton stood alongside Representatives Alexandria Ocasio-Cortez and Laurel Lee, directing her urgent request toward House leadership. She specifically called on House Speaker Mike Johnson, Majority Leader Steve Scalise, and Judiciary Committee Chairman Jim Jordan to bring the stalled bill to the floor for a formal vote."
+        ]
+      },
+      {
+        "h": "Personal Revelation of Deepfakes",
+        "p": [
+          "Addressing the media during her appearance, Hilton disclosed the staggering scale of AI-driven harassment she faces. She revealed that more than 100,000 sexually explicit deepfake images and videos featuring her likeness are currently circulating across the web.",
+          "The socialite also highlighted broader research indicating that over 50 million individuals have been impacted by such manipulated material. Furthermore, she noted data suggesting that a significant portion of women serving in the 119th Congress have similarly been targeted by deepfake technology."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Trauma",
+        "p": [
+          "Drawing on her own history, Hilton reflected on the profound violation of having intimate media shared publicly without permission. At the age of 19, she endured the unauthorized release of an explicit video distributed by her former partner, Rick Salomon.",
+          "Highlighting her previous advocacy, Hilton noted that ten months prior she stood at the Capitol to share the emotional toll of having one's body exposed. She emphasized that if someone with her extensive resources and platform can feel vulnerable, younger and less equipped individuals face an even greater sense of powerlessness."
+        ]
+      },
+      {
+        "h": "Social Media Statistics and Scale",
+        "p": [
+          "In a series of posts shared via Instagram Stories, Hilton detailed the overwhelming prevalence of non-consensual explicit media online. She cited statistics indicating that 98 percent of deepfakes found on the internet are sexually explicit, with 99 percent of those targeted being women.",
+          "Hilton further pointed out that 1 in 8 young people in the United States know someone affected by deepfake nudes, translating to roughly one kid in every classroom across America. She also noted that websites built to undress people without consent attract 18.5 million visitors monthly, generating up to $36 million annually."
+        ]
+      },
+      {
+        "h": "Understanding the DEFIANCE Act",
+        "p": [
+          "The DEFIANCE Act, which stands for Disrupt Explicit Forged Images and Non-Consensual Edits Act, aims to create a federal civil remedy. This legal avenue would allow affected individuals whose likenesses are exploited in explicit deepfakes to file lawsuits against creators and distributors.",
+          "If passed, the legislation would enable victims to seek financial damages and recover profits tied to the distribution of such material. Additionally, the bill introduces a 10-year statute of limitations starting when the victim discovers the violation or turns 18."
+        ]
+      },
+      {
+        "h": "Lawmakers Voice Concern",
+        "p": [
+          "Representative Laurel Lee underscored the severe real-world consequences of sharing non-consensual explicit imagery during the Capitol discussions. Lee warned that once these files are distributed, the resulting harassment and threats can permanently damage careers, relationships, and educational opportunities.",
+          "Meanwhile, Representative Alexandria Ocasio-Cortez questioned the delay in advancing the legislation, noting the lack of progress in the lower chamber despite broad bipartisan backing. The US Senate had previously approved the bill unanimously in January."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paris Hilton visited Capitol Hill alongside Representatives Alexandria Ocasio-Cortez and Laurel Lee to urge House leadership to pass the stalled DEFIANCE Act. Hilton revealed that over 100,000 explicit deepfake images of her likeness exist online and emphasized the urgent need for federal legal protections for victims."
+        ]
+      }
+    ],
+    "facts": [
+      "Paris Hilton disclosed over 1,00,000 AI-generated explicit images and videos of herself online.",
+      "The DEFIANCE Act previously received unanimous approval in the US Senate.",
+      "At age 19, Paris Hilton was subjected to the unauthorized release of an explicit video by former boyfriend Rick Salomon.",
+      "Research cited indicates 83 of the 156 women serving in the 119th Congress have been targeted by manipulated imagery.",
+      "Websites built to undress people in photos without consent receive 18.5 million visitors a month and make up to $36 million a year."
+    ],
+    "entities": {
+      "people": [
+        "Paris Hilton",
+        "Alexandria Ocasio-Cortez",
+        "Laurel Lee",
+        "Mike Johnson",
+        "Steve Scalise",
+        "Jim Jordan",
+        "Rick Salomon"
+      ],
+      "titles": [
+        "DEFIANCE Act"
+      ]
+    },
+    "keywords": [
+      "Paris Hilton DEFIANCE Act",
+      "Paris Hilton AI images Capitol Hill",
+      "DEFIANCE Act US House",
+      "Alexandria Ocasio-Cortez Laurel Lee DEFIANCE Act"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156530979,thumbsize-168354,width-1280,height-720,resizemode-75/156530979.jpg",
+        "caption": "Paris Hilton Urges US House To Pass DEFIANCE Act, Discloses Over One Lakh AI-Generated Graphic Images Of Herself",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T23:51:36Z"
+  },
+  "18ufstg": {
+    "id": "18ufstg",
+    "type": "news",
+    "headline": "Skydance to Merge Warner Bros and Paramount Television Studios",
+    "dek": "Skydance announces plans to integrate Warner Bros Television Group and Paramount Television Studios into a single entity launching in early 2027.",
+    "body": [
+      {
+        "h": "The Studio Consolidation",
+        "p": [
+          "Skydance has announced plans to combine the Warner Bros Television Group and Paramount Television Studios. The newly unified enterprise will operate under the name Warner Bros Television Studios and is scheduled to officially launch in early 2027."
+        ]
+      },
+      {
+        "h": "Leadership Structure",
+        "p": [
+          "Channing Dungey and Matt Thunell, who previously headed WBTV and PTVS respectively, will take on roles as presidents of the new organization. They will report directly to George Cheeks, who serves as Skydance TV co-chair and chief content officer."
+        ]
+      },
+      {
+        "h": "Expanded Oversight",
+        "p": [
+          "In addition to their primary duties, the two newly appointed presidents will take charge of supervising BET Studios as well as Warner Bros International Television Production. Meanwhile, both television studios are set to function independently until the formal rollout in 2027."
+        ]
+      },
+      {
+        "h": "Financial Goals and Staffing",
+        "p": [
+          "During an internal staff memo distributed on Wednesday, George Cheeks did not mention any anticipated redundancies. However, context reveals that Skydance currently manages a debt load totaling $80 billion, with top leadership aiming to implement $6 billion in cost reductions over the upcoming three-year period."
+        ]
+      },
+      {
+        "h": "Cable Media and Standalone Units",
+        "p": [
+          "Channing Dungey will maintain her position as chair of Skydance Global Cable Media, a division that oversees a stable of over 50 cable network brands spanning Paramount and Warner Bros Discovery. At the same time, CBS Studios led by David Stapf will continue operating as a standalone entity, encompassing CBS Studios International, Skydance Sports Entertainment, and See It Now Studios."
+        ]
+      },
+      {
+        "h": "Executive Perspective",
+        "p": [
+          "Commenting on the structural changes, George Cheeks expressed enthusiasm in an internal communication. He noted that bringing these creative teams together provides a reinforced foundation to back storytellers, promote strong concepts, and deliver exceptional television content to viewers globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Skydance is merging Warner Bros Television Group and Paramount Television Studios into Warner Bros Television Studios, launching in early 2027 under presidents Channing Dungey and Matt Thunell. The move comes as leadership targets cost cuts amid an $80bn debt load, while CBS Studios remains a standalone operation."
+        ]
+      }
+    ],
+    "facts": [
+      "Skydance is merging Warner Bros Television Group and Paramount Television Studios under the banner Warner Bros Television Studios.",
+      "The new combined studio launches in early 2027.",
+      "Channing Dungey and Matt Thunell will serve as presidents of the new business.",
+      "George Cheeks is the Skydance TV co-chair and chief content officer.",
+      "Skydance carries a debt load of $80bn and top brass are looking to make $6bn in cuts in the next three years.",
+      "David Stapf leads CBS Studios, which will remain a standalone."
+    ],
+    "entities": {
+      "people": [
+        "Jeremy Kay",
+        "Channing Dungey",
+        "Matt Thunell",
+        "George Cheeks",
+        "David Stapf",
+        "Ben Dalton",
+        "Silvia Wong",
+        "Manny Angeles"
+      ],
+      "titles": [
+        "Insectasy",
+        "Heated Rivalry",
+        "A Girl Unknown",
+        "Ella Arcangel"
+      ]
+    },
+    "keywords": [
+      "Skydance",
+      "Warner Bros Television Studios",
+      "Paramount Television Studios",
+      "Channing Dungey",
+      "Matt Thunell"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/5/8/1492558_channingdungeyandmattthunell_989848.jpg",
+        "caption": "Skydance to Merge Warner Bros and Paramount Television Studios",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 22:34:00 GMT"
+  },
+  "1de8k54": {
+    "id": "1de8k54",
+    "type": "news",
+    "headline": "Arnold Schwarzenegger's Son Joseph Baena Shares Cooking Video With Mother Mildred As The Terminator Star Details Holiday Customs With Maria Shriver",
+    "dek": "Joseph Baena highlights his relationship with mother Mildred Baena through a home-cooking video, while Arnold Schwarzenegger opens up about maintaining family Christmas traditions with his ex-wife Maria Shriver.",
+    "body": [
+      {
+        "h": "A Rare Glimpse Into Family Life",
+        "p": [
+          "Joseph Baena recently gave his followers a special look into his personal life by posting a warm moment shared alongside his mother, Mildred Baena. The video, published on TikTok on Monday, November 16, featured the 29-year-old bodybuilder displaying his culinary talents in the kitchen. Preparing a hearty meal of steak and potatoes for his mother, Joseph walked his audience through the simple yet thoughtful evening routine.",
+          "The footage captured the young fitness enthusiast carefully seasoning a cut of beef before searing it in an oiled pan. He then enhanced the dish by sautéing onions and mushrooms in Worcestershire sauce, placing the vegetables over the cooked meat, and plating it with potatoes. When the meal was completed, he asked his mother for her honest reaction, to which she happily confirmed that it tasted wonderful."
+        ]
+      },
+      {
+        "h": "Background Of A Kept Secret",
+        "p": [
+          "This intimate mother-son window brought renewed attention to a complex family history that became public nearly two decades ago. Joseph was born in October 1997 following an affair between Hollywood icon Arnold Schwarzenegger and his longtime housekeeper, Mildred Baena, during the actor's marriage to journalist Maria Shriver.",
+          "Mildred chose to keep Joseph's paternity private for the first seven or eight years of his life. However, as the boy grew older, his striking physical resemblance to the Terminator star became increasingly difficult to ignore, leading to the truth coming to light in 2011."
+        ]
+      },
+      {
+        "h": "The Fallout And Public Revelation",
+        "p": [
+          "The revelation of Joseph's paternity triggered significant changes within the Schwarzenegger-Shriver household. Mildred disclosed the truth to Maria Shriver after questions about the child's appearance began circulating publicly, and Arnold formally acknowledged his son that same year.",
+          "The major family secret contributed directly to the breakdown of Arnold and Maria's marriage. The couple separated in 2011 and ultimately finalised their divorce a decade later in 2021, a period of personal turmoil the actor later reflected on in his 2023 Netflix documentary series, Arnold, where he described the infidelity as a major failure in his life."
+        ]
+      },
+      {
+        "h": "Building A Strong Father-Son Bond",
+        "p": [
+          "Despite the complicated circumstances surrounding his birth, Arnold Schwarzenegger has consistently expressed immense pride in being Joseph's father. Over the subsequent years, the two have forged a remarkably close relationship anchored by shared interests and mutual support.",
+          "The father-son duo regularly train together in the gym, with the veteran action star actively supporting Joseph's pursuits in bodybuilding. Furthermore, Joseph has frequently accompanied his famous father to various high-profile red-carpet premieres."
+        ]
+      },
+      {
+        "h": "Preserving Holiday Traditions",
+        "p": [
+          "Aside from his connection with Joseph, Arnold Schwarzenegger recently discussed how he and his former wife, Maria Shriver, continue to unite their family for Christmas despite their official divorce. In an interview with PEOPLE, the actor explained that keeping holiday customs alive remains a vital priority for them.",
+          "Noting that their children appreciate seeing them together, the actor emphasized that family unity transcends marital status. Arnold and Shriver share four children together: Katherine, Christina, Patrick, and Christopher, ensuring large family gatherings persist."
+        ]
+      },
+      {
+        "h": "Austrian Roots And Festive Customs",
+        "p": [
+          "The Terminator star also elaborated on the specific holiday customs he grew up with in Austria and how he successfully passed those traditions down to his children and grandchildren. Arnold, who plays Santa Claus in the upcoming comedy film The Man with the Bag on Prime Video, noted that childhood customs remain central to their celebrations.",
+          "Recalling how his childhood home always featured a towering Christmas tree that stretched all the way from the floor to touch the ceiling, the actor shared that the tradition continues today. On Christmas Day, the family gathers at Maria's house to celebrate around a massive tree together."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Arnold Schwarzenegger's son Joseph Baena shared a video on TikTok preparing a meal for his mother Mildred Baena, highlighting their close bond. Meanwhile, Arnold discussed maintaining holiday traditions and gathering for Christmas at the home of his ex-wife Maria Shriver."
+        ]
+      }
+    ],
+    "facts": [
+      "Joseph Baena posted a video on TikTok on Monday, November 16.",
+      "Joseph Baena is 29 years old.",
+      "Joseph Baena was born in October 1997.",
+      "Arnold Schwarzenegger and Maria Shriver separated in 2011 and finalised their divorce in 2021.",
+      "Arnold Schwarzenegger starred in a 2023 Netflix documentary series titled Arnold.",
+      "Arnold Schwarzenegger is 79 years old.",
+      "Arnold and Maria Shriver share four children: Katherine, Christina, Patrick, and Christopher.",
+      "Arnold Schwarzenegger stars as Santa Claus in the comedy film The Man with the Bag, premiering on Prime Video on December 2."
+    ],
+    "entities": {
+      "people": [
+        "Arnold Schwarzenegger",
+        "Joseph Baena",
+        "Mildred Baena",
+        "Maria Shriver",
+        "Katherine",
+        "Christina",
+        "Patrick",
+        "Christopher"
+      ],
+      "titles": [
+        "Arnold",
+        "The Man with the Bag"
+      ]
+    },
+    "keywords": [
+      "Joseph Baena",
+      "Arnold Schwarzenegger",
+      "Mildred Baena",
+      "Maria Shriver",
+      "The Man with the Bag"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135973882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Arnold Schwarzenegger's Son Joseph Baena Shares Cooking Video With Mother Mildred As The Terminator Star Details Holiday",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T03:46:54+05:30"
+  },
+  "ok9mxg": {
+    "id": "ok9mxg",
+    "type": "news",
+    "headline": "Christine Quinn Makes Dramatic Comeback in Selling Sunset Season 10 Trailer",
+    "dek": "Netflix has dropped the official trailer and cast details for Selling Sunset Season 10, highlighting the highly anticipated return of Christine Quinn and fresh office friction.",
+    "body": [
+      {
+        "h": "The Return of a Fan Favorite",
+        "p": [
+          "Fans of reality television have plenty to look forward to as Netflix prepares to launch the tenth season of its hit reality series. The newly unveiled trailer confirms that Christine Quinn is stepping back into the spotlight after an absence of four full seasons.",
+          "Her reappearance has immediately revitalized conversation around the brokerage, signaling that the upcoming episodes will lean heavily into the familiar high-stakes environment that made the series a global phenomenon."
+        ]
+      },
+      {
+        "h": "Release Details and Schedule",
+        "p": [
+          "Viewers will not have to wait much longer to dive into the latest workplace conflicts and multi-million dollar listings. Netflix has officially scheduled the premiere date for December 4, 2026.",
+          "The streaming platform released both the promotional trailer and the complete cast breakdown simultaneously, giving audiences an extensive first look at what is in store for the brokerage."
+        ]
+      },
+      {
+        "h": "Jason Oppenheim Reflects on the Journey",
+        "p": [
+          "As the series reaches its tenth season, brokerage head Jason Oppenheim shared his thoughts on the remarkable milestone. In a public statement, he expressed immense pride in the show's ability to showcase the vibrant landscape of Los Angeles while highlighting his deep passion for real estate.",
+          "He also emphasized that the most rewarding aspect of the journey has been knowing the show brings laughter, entertainment, and happiness to families and loved ones watching together around the world."
+        ]
+      },
+      {
+        "h": "Official Season Logline and New Dynamics",
+        "p": [
+          "The official premise for the upcoming season sets a tumultuous tone for the agents at the firm. Set against the glossy backdrop of Los Angeles real estate, the brokerage is forced to adapt to a bold new reality.",
+          "Each agent's willpower faces severe tests as fresh workplace dynamics begin to shift rapidly. To complicate matters further, unresolved drama from the past returns to haunt the team."
+        ]
+      },
+      {
+        "h": "Cast Shakeups and Returning Faces",
+        "p": [
+          "Season 10 brings a massive overhaul to the roster of real estate professionals. Alongside Christine Quinn, returning favorites such as Heather Rae El Moussa are stepping back in to navigate the turbulent office atmosphere.",
+          "The new episodes will also introduce several brand-new agents to the O Group, while notably bidding farewell to seven longtime stars who are exiting the show."
+        ]
+      },
+      {
+        "h": "Tension and Trust Issues",
+        "p": [
+          "Returning after a four-season hiatus brought a wave of emotion for Christine Quinn, who noted that she felt no time had passed at all and that nothing had changed. Meanwhile, Heather Rae El Moussa admitted that returning to the office was a major decision given the heavy mix of personalities.",
+          "Old tensions linger beneath the surface, with Heather Rae candidly confessing that she still struggles to fully trust her returning colleague as they navigate working together once again."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the official trailer and cast details for Selling Sunset Season 10, set to premiere on December 4, 2026. The upcoming episodes feature major cast changes, including the return of Christine Quinn after a four-season hiatus, alongside brewing tensions with Heather Rae El Moussa."
+        ]
+      }
+    ],
+    "facts": [
+      "Selling Sunset Season 10 premieres on December 4, 2026",
+      "Christine Quinn returns after a four-season hiatus",
+      "Seven longtime stars are exiting the show",
+      "Heather Rae El Moussa returns alongside new agents joining the O Group"
+    ],
+    "entities": {
+      "people": [
+        "Christine Quinn",
+        "Jason Oppenheim",
+        "Heather Rae El Moussa"
+      ],
+      "titles": [
+        "Selling Sunset"
+      ]
+    },
+    "keywords": [
+      "Selling Sunset Season 10",
+      "Christine Quinn Selling Sunset",
+      "Heather Rae El Moussa",
+      "Jason Oppenheim Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/selling-sunset-season-10-trailer.jpg",
+        "caption": "Christine Quinn Makes Dramatic Comeback in Selling Sunset Season 10 Trailer",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 21:11:06 +0000"
   }
 };
