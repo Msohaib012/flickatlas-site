@@ -183457,5 +183457,482 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T21:12:56+05:30"
+  },
+  "1w900ih": {
+    "id": "1w900ih",
+    "type": "news",
+    "headline": "Bano Episode 35 — Watch Online on Geo TV",
+    "dek": "Bano episode 35 aired on 2026-11-18 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 35 aired on 2026-11-18 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=6yDMqBUJwfw"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 35 aired on 2026-11-18.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=6yDMqBUJwfw",
+      "YouTube views: 219,118."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/6yDMqBUJwfw/hqdefault.jpg",
+        "caption": "Bano Episode 35",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-18T17:00:20Z"
+  },
+  "1to51ck": {
+    "id": "1to51ck",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 20 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 20 aired on 2026-11-18 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 20 aired on 2026-11-18 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Hf0pMc6-ehU"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 20 aired on 2026-11-18.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Hf0pMc6-ehU",
+      "YouTube views: 10,201."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Hf0pMc6-ehU/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 20",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-18T17:00:09Z"
+  },
+  "1mi5vbn": {
+    "id": "1mi5vbn",
+    "type": "news",
+    "headline": "O.M - Operation Mole Nears ₹10 Crore in Global Advance Bookings Ahead of Theatrical Premiere",
+    "dek": "The upcoming spy action thriller starring Dhanush and Mammootty approaches the double-digit mark in worldwide opening-day pre-sales.",
+    "body": [
+      {
+        "h": "Global Advance Bookings Milestone",
+        "p": [
+          "The upcoming spy action thriller O.M - Operation Mole is closing in on the ₹10 crore milestone for worldwide opening-day advance bookings. With one full day remaining before its theatrical rollout, global pre-sales have already climbed to ₹9.40 crore.",
+          "Trade tracker Jerin Georgekutty published these figures on X, noting that ticket sales across various international territories suggest the film will easily breach the double-digit advance booking threshold soon."
+        ]
+      },
+      {
+        "h": "Pre-Sales Timeline and Windows",
+        "p": [
+          "The latest update regarding the pre-sales performance was shared late on Wednesday, November 18, 2026. The reported numbers represent opening-day advance ticket purchases exclusively and are distinct from post-release box office grosses.",
+          "With November 19 acting as the final complete day for bookings prior to the premiere, the remaining window serves as a crucial period for final pre-release ticket acquisition."
+        ]
+      },
+      {
+        "h": "Cast and Ensemble Highlights",
+        "p": [
+          "Dhanush anchors the project in the lead role, supported by Malayalam cinema veteran Mammootty as part of the prominent ensemble. The feature also stars Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+          "The heavy-hitting cast brings together talent from multiple film industries, generating substantial pre-release attention across diverse regional markets."
+        ]
+      },
+      {
+        "h": "Direction and Production Team",
+        "p": [
+          "The Tamil spy action project is written and directed by Rajkumar Periasamy. On the production front, the movie is backed by Wunderbar Films and RTake Studios.",
+          "Producers attached to the venture include Shraddha Agrawal, Dhanush, and Azmat Jagmag, alongside co-producers Sreyas Srinivasan and Sandesh Agrawal, with Vishu Ramaswamy contributing as creative producer."
+        ]
+      },
+      {
+        "h": "Technical and Creative Crew",
+        "p": [
+          "Sai Abhyankkar has composed the musical score for the feature. Cinematography is managed by Ezhil Arasu K, while R. Kalaivanan oversees the editing work.",
+          "Stunt choreography is handled by Yannick Ben and Kecha Khamphakdee. Rajeevan serves as the production designer, and Sandy manages dance choreography."
+        ]
+      },
+      {
+        "h": "Sound Design and Theatrical Schedule",
+        "p": [
+          "The sound department features Sync Cinema handling sound design alongside Kannan Ganpat on sound mixing duties. Every technical department has been aligned for the big-screen experience.",
+          "O.M - Operation Mole is officially slated for a worldwide theatrical release on November 20, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush and Mammootty's spy thriller O.M - Operation Mole reached ₹9.40 crore in worldwide opening-day advance bookings ahead of its November 20, 2026 theatrical release. The Rajkumar Periasamy directorial is projected to cross ₹10 crore in pre-sales before hitting cinemas globally."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M - Operation Mole global opening-day advance bookings reached ₹9.40 crore.",
+      "The trade update was shared by Jerin Georgekutty on November 18, 2026.",
+      "The film is scheduled for a worldwide theatrical release on November 20, 2026.",
+      "The film stars Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+      "Rajkumar Periasamy wrote and directed the film."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Jerin Georgekutty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans",
+        "Rajkumar Periasamy",
+        "Sai Abhyankkar",
+        "Ezhil Arasu K",
+        "R. Kalaivanan",
+        "Yannick Ben",
+        "Kecha Khamphakdee",
+        "Rajeevan",
+        "Sandy",
+        "Kannan Ganpat",
+        "Shraddha Agrawal",
+        "Azmat Jagmag",
+        "Sreyas Srinivasan",
+        "Sandesh Agrawal",
+        "Vishu Ramaswamy"
+      ],
+      "titles": [
+        "O.M - Operation Mole"
+      ]
+    },
+    "keywords": [
+      "O.M Operation Mole advance booking",
+      "Dhanush Mammootty O.M movie",
+      "O.M worldwide pre sales",
+      "Rajkumar Periasamy O.M release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/omab-82071795025767.jpg",
+        "caption": "O.M - Operation Mole Nears ₹10 Crore in Global Advance Bookings Ahead of Theatrical Premiere",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 23:49:53 +0530"
+  },
+  "ixjng4": {
+    "id": "ixjng4",
+    "type": "news",
+    "headline": "Telugu Horror Thriller 418 Sets Netflix Digital Premiere Date",
+    "dek": "Following its theatrical run, the horror thriller 418 starring Chaithra J Achar and Surya Raj Veerabathini is heading to Netflix in five languages.",
+    "body": [
+      {
+        "h": "Digital Debut Announcement",
+        "p": [
+          "Audiences who missed the theatrical run of the Telugu horror thriller 418 will soon have the chance to watch the movie online. The project is officially slated to make its digital streaming debut on Netflix, bringing the chilling cinematic experience directly to home screens.",
+          "The announcement has generated considerable excitement among fans of regional horror cinema. The upcoming digital release ensures that the feature will reach a much wider audience across multiple linguistic territories."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Languages",
+        "p": [
+          "Netflix will release the title globally in five distinct languages, catering to viewers across diverse regions. The streaming options will include Telugu, Hindi, Tamil, Kannada, and Malayalam.",
+          "This multi-language rollout highlights the growing demand for pan-Indian content on digital platforms. Fans can expect the film to land on the service on November 20, 2026."
+        ]
+      },
+      {
+        "h": "Theatrical Background and Timeline",
+        "p": [
+          "The feature originally premiered in cinemas on October 23, 2026. Its swift transition to the streaming space comes less than a month after its initial theatrical outing.",
+          "This rapid turnaround allows viewers who prefer watching movies at home to experience the narrative shortly after its box-office window concludes."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "The story unfolds within the confines of a medical college hostel. The central premise revolves around a mysterious room that has remained securely locked for fifteen and a half decades.",
+          "When strange and unexplained occurrences begin to trouble the resident students, their curiosity pushes them to investigate the long-standing closure. Their probe eventually exposes terrifying truths that test their grip on science, fear, and superstition."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "The movie features a prominent ensemble cast led by Chaithra J Achar, Surya Raj Veerabathini, and Ramesh Indira. Their performances form the dramatic core of the chilling investigations inside the hostel.",
+          "Supporting roles are filled by Charan Lakkaraju, Preethi Pagadala, Shree Vaishnav, Shashank Patil, Kota Jayaram, Goparaju Vijay, and Shrikanth Ganesh, alongside many other talented artists."
+        ]
+      },
+      {
+        "h": "Direction and Technical Crew",
+        "p": [
+          "The project is written and directed by Kirtan Nadagouda. Production duties were handled by Naveen Yerneni and Ravi Shankar under the banner of Mythri Movie Makers, with Prashanth Neel presenting the work.",
+          "The technical team includes cinematographer Dinesh Divakaran, music composer Venky GG, editor Akul Avinash, and production designer Ullas Hydoor. Sound mixing and design were managed by Vishnu Sujathan and Anupam C."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu horror thriller 418, directed by Kirtan Nadagouda and starring Chaithra J Achar and Surya Raj Veerabathini, is heading to Netflix on November 20, 2026. Following its October theatrical release, the film will stream in five different languages after exploring strange occurrences tied to a locked hostel room."
+        ]
+      }
+    ],
+    "facts": [
+      "418 is a Telugu horror thriller film.",
+      "The film stars Chaithra J Achar, Surya Raj Veerabathini, and Ramesh Indira.",
+      "The movie was directed by Kirtan Nadagouda.",
+      "It originally arrived in theatres on October 23, 2026.",
+      "The film will begin streaming on Netflix on November 20, 2026.",
+      "It will be available in Telugu, Hindi, Tamil, Kannada, and Malayalam."
+    ],
+    "entities": {
+      "people": [
+        "Chaithra J Achar",
+        "Surya Raj Veerabathini",
+        "Ramesh Indira",
+        "Kirtan Nadagouda",
+        "Naveen Yerneni",
+        "Ravi Shankar",
+        "Prashanth Neel"
+      ],
+      "titles": [
+        "418"
+      ]
+    },
+    "keywords": [
+      "418 OTT Release",
+      "418 Netflix release date",
+      "Chaithra J Achar 418 movie",
+      "418 Telugu horror thriller"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/418-91191795026525.jpg",
+        "caption": "Telugu Horror Thriller 418 Sets Netflix Digital Premiere Date",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 00:14:39 +0530"
+  },
+  "1ncgs4h": {
+    "id": "1ncgs4h",
+    "type": "news",
+    "headline": "Sunrise on the Reaping Box Office Projections Outpace Previous Franchise Installment",
+    "dek": "Lionsgate's sixth dystopian movie in the franchise is eyeing a strong North American opening weekend, tracking well ahead of 2023's prequel.",
+    "body": [
+      {
+        "h": "Strong Opening Weekend Projections",
+        "p": [
+          "The sixth entry in the dystopian franchise from Lionsgate is heading toward a robust opening weekend across North America. Box office projections suggest the film will perform significantly better than the previous installment in the series.",
+          "Industry tracking places the target at over $100 million from approximately 3,900 theaters. While studio projections lean toward an $85 million debut, exhibitors remain optimistic that the opening weekend figures could climb as high as $125 million."
+        ]
+      },
+      {
+        "h": "Comparison to Prior Releases",
+        "p": [
+          "Achieving a $100 million threshold would place the release among a select group of theatrical titles to reach that specific milestone in 2026. The current figures indicate a much stronger start than 2023's prequel, The Ballad of Songbirds and Snakes, which debuted domestically at $44 million before accumulating $363 million globally.",
+          "Historical data for the broader franchise shows varying opening numbers across the years. The inaugural film launched to $152 million in 2012, followed by Catching Fire at $158 million in 2013, and the two parts of Mockingjay opening at $121 million and $102 million respectively."
+        ]
+      },
+      {
+        "h": "Production Budgets Across the Prequels",
+        "p": [
+          "Financial investments for the franchise have scaled alongside its expanding scope. The production budget for this latest installment exceeds $150 million.",
+          "In contrast, the preceding prequel in the series was produced for an estimated budget of around $100 million, reflecting the growing financial scale of returning to the dystopian world."
+        ]
+      },
+      {
+        "h": "Plot and Setting Details",
+        "p": [
+          "Derived from the novel by Suzanne Collins, the narrative transports viewers back to Panem 24 years before the timeline of the original motion picture. The plot centers on a young Haymitch Abernathy during his participation in the 50th Hunger Games.",
+          "Also recognized as the Second Quarter Quell, this special edition of the brutal competition mandates that every district provide double the usual quantity of tributes to fight inside the arena."
+        ]
+      },
+      {
+        "h": "Cast and Character Connections",
+        "p": [
+          "Joseph Zada steps into the role of the younger Haymitch Abernathy. Fans of the original films will recall Woody Harrelson portraying the older version of the character, who later acts as a mentor to Katniss Everdeen and Peeta Mellark.",
+          "The ensemble cast also includes Whitney Peak as Lenore Dove Baird, Ralph Fiennes as President Snow, Jesse Plemons as Plutarch Heavensbee, Elle Fanning as a younger Effie Trinket, and Glenn Close as Drusilla Sickle."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Release Date",
+        "p": [
+          "Francis Lawrence returns to direct the feature. Lawrence has previously helmed every installment in the cinematic series with the sole exception of the original film.",
+          "Audiences will be able to see the movie when it officially hits theaters on November 20, strategically scheduled just ahead of the Thanksgiving holiday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Box office projections indicate that The Hunger Games: Sunrise on the Reaping is heading toward an opening weekend that could surpass $100 million, outperforming the previous franchise prequel. Based on Suzanne Collins' novel and directed by Francis Lawrence, the film stars Joseph Zada as a young Haymitch Abernathy ahead of its November 20 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping is the sixth movie in Lionsgate's series.",
+      "It is projected to debut with more than $100 million from approximately 3,900 theaters in North America.",
+      "Lionsgate projects an $85 million debut, while exhibitors believe it could reach $125 million.",
+      "The Ballad of Songbirds and Snakes debuted with $44 million domestically and grossed $363 million worldwide in 2023.",
+      "The first Hunger Games opened to $152 million in 2012.",
+      "Catching Fire opened with $158 million in 2013.",
+      "Mockingjay – Part 1 and Mockingjay – Part 2 debuted with $121 million and $102 million respectively.",
+      "The production budget of the movie is more than $150 million.",
+      "The previous prequel was made for approximately $100 million.",
+      "The story is set 24 years before the events of the original film.",
+      "Joseph Zada plays a young Haymitch Abernathy in the 50th Hunger Games / Second Quarter Quell.",
+      "Francis Lawrence directs the film, which releases on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Nitish Singh",
+        "Suzanne Collins",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Katniss Everdeen",
+        "Peeta Mellark",
+        "Whitney Peak",
+        "Lenore Dove Baird",
+        "Ralph Fiennes",
+        "President Snow",
+        "Jesse Plemons",
+        "Plutarch Heavensbee",
+        "Elle Fanning",
+        "Effie Trinket",
+        "Glenn Close",
+        "Drusilla Sickle",
+        "Francis Lawrence"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "The Ballad of Songbirds and Snakes",
+        "The Hunger Games",
+        "Catching Fire",
+        "Mockingjay – Part 1",
+        "Mockingjay – Part 2"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Sunrise on the Reaping box office",
+      "Joseph Zada Haymitch Abernathy",
+      "Lionsgate Hunger Games movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-2026-11-19T000040.363.png?resize=1200,630",
+        "caption": "Sunrise on the Reaping Box Office Projections Outpace Previous Franchise Installment",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 18:32:32 +0000"
+  },
+  "1djv8i6": {
+    "id": "1djv8i6",
+    "type": "news",
+    "headline": "Imagining a Bollywood Remake of The Remarried Empress",
+    "dek": "Fans explore a dream Hindi cinema adaptation of the popular royal K-drama, selecting top Bollywood stars for the principal roles.",
+    "body": [
+      {
+        "h": "The Appeal of the Royal K-Drama",
+        "p": [
+          "The royal Korean series adaptation of the webtoon The Remarried Empress has captured widespread attention from enthusiasts. Audiences have grown deeply engrossed in the show, drawn by its attractive cast, stunning royal costumes, and elaborate glamour.",
+          "Beyond its visual appeal, the series offers a compelling narrative filled with romance, deception, betrayal, and intense drama. This combination has positioned it as one of the most heavily discussed streaming titles of the year."
+        ]
+      },
+      {
+        "h": "The Original Cast and Characters",
+        "p": [
+          "The core appeal of the drama stems significantly from its talented ensemble performers. The original lead lineup features prominent South Korean stars who bring complex royal figures to life.",
+          "Among the principal actors are Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, and Lee Se Young. Their performances have driven intense discussions and left viewers wondering how a Hindi film industry adaptation might look."
+        ]
+      },
+      {
+        "h": "Envisioning Emperor Sovieshu in Bollywood",
+        "p": [
+          "Emperor Sovieshu Vict rules the Eastern Empire as a central character in the narrative. Known for his charm and tall stature, he marries Navier for political reasons while harboring childhood affection, until Rashta alters his world entirely.",
+          "For a Hindi cinema version, Ranveer Singh emerges as a strong contender due to his versatility with complex characters. Alternatively, Ranbir Kapoor stands out as an equally compelling choice given his ability to portray emotionally conflicted figures."
+        ]
+      },
+      {
+        "h": "Casting the Empress Navier",
+        "p": [
+          "Empress Navier serves as the protagonist and a prominent noblewoman of the Eastern Empire. She combines beauty with sharp intelligence, grace, and the inherent poise of a true ruler.",
+          "Following Shin Min Ah's portrayal, Deepika Padukone is envisioned stepping into the royal shoes. Her regal screen presence and natural elegance make her an ideal fit for wearing grand royal gowns."
+        ]
+      },
+      {
+        "h": "Finding Prince Heinrey",
+        "p": [
+          "Prince Heinrey of the Western Empire is a charming bird-shapeshifter wielding heat magic. Popular among women and notably younger than Navier, he eventually wins her heart and marries her.",
+          "To bring this youthful romance to Hindi cinema, Ishaan Khatter offers a strong option following his work in Netflix's The Royal. Another potential choice is Ahaan Panday, whose screen presence suits the charming royal."
+        ]
+      },
+      {
+        "h": "The Complex Character of Rashta",
+        "p": [
+          "Rashta presents a layered villainous role as a former runaway slave who uses a sweet exterior to mask her manipulative ambitions. She balances cunning desires for power with an innocent facade.",
+          "Pratibha Ranta is imagined as an ideal choice for this tricky role. Her appearance and acting capability match the requirement for portraying a deceptive yet outwardly innocent persona."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The discussion imagines a hypothetical Bollywood adaptation of the popular royal K-drama The Remarried Empress. Fans and commentators have proposed various Hindi film stars like Ranbir Kapoor, Ranveer Singh, and Deepika Padukone to take on the iconic roles."
+        ]
+      }
+    ],
+    "facts": [
+      "The Remarried Empress is adapted from a popular webtoon of the same name.",
+      "Original cast members include Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, and Lee Se Young.",
+      "Ranbir Kapoor and Ranveer Singh are suggested for the role of Sovieshu.",
+      "Deepika Padukone is suggested for the role of Navier.",
+      "Ishaan Khatter and Ahaan Panday are suggested for the role of Heinrey.",
+      "Pratibha Ranta is suggested for the role of Rashta."
+    ],
+    "entities": {
+      "people": [
+        "Shin Min Ah",
+        "Ju Ji Hoon",
+        "Lee Jong Suk",
+        "Lee Se Young",
+        "Ranbir Kapoor",
+        "Ranveer Singh",
+        "Deepika Padukone",
+        "Ishaan Khatter",
+        "Ahaan Panday",
+        "Pratibha Ranta"
+      ],
+      "titles": [
+        "The Remarried Empress",
+        "The Royal"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress Bollywood cast",
+      "The Remarried Empress Kdrama remake",
+      "Ranbir Kapoor Ranveer Singh Sovieshu",
+      "Deepika Padukone Navier",
+      "Ishaan Khatter Ahaan Panday Heinrey"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-18t184837-991-38101795007924.jpg",
+        "caption": "Imagining a Bollywood Remake of The Remarried Empress",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 23:45:12 +0530"
   }
 };

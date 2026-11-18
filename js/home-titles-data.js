@@ -32177,5 +32177,541 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-25",
     "popularity": 0.4696
+  },
+  "1810785": {
+    "id": 1810785,
+    "type": "movie",
+    "title": "Quand Janet dort",
+    "poster_path": "/jISVpGWnCvFdqbpbCBq1AAqWnPK.jpg",
+    "backdrop_path": "/o0gpywPN5W9ReNBg1KEQf5YyDnj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Quand Janet dort portrays Janet Lumb, a Chinese-Canadian artist who has lived in Montreal for many years. Fuelled by dreams and chaos, her artistic world takes shape through performance and musical composition. At 72, Janet is losing her memory. Her artistic and political legacy, along with the details of her life, are fading, though they remain deeply precious to her friend Laurence. To shake up her daily routine, create new memories and revive old ones, he spontaneously plans a trip to Ecuador. Through a polyphonic narrative moving between spoken and written voices, a memory that spans generations gradually emerges. Together, these voices invite reflection on belonging and what is passed down. Janet’s embodied presence, the archival materials documenting her impact and the tenderness with which she is portrayed celebrate the quiet strength of her work and activism.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-18",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.2036
+  },
+  "1771194": {
+    "id": 1771194,
+    "type": "movie",
+    "title": "Hook: Never, Never Ending",
+    "poster_path": "/3WqL7nb6kR6yuCLTWMy0ylYtLsB.jpg",
+    "backdrop_path": "/kucifJyQOd0v0NwHSmNZjX9i65x.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Straight from the set of HOOK, this hour-long documentary features never before seen behind the scenes footage.  Relive the adventure of creating this beloved film that has become a cult classic with extraordinary access to access to Steven Spielberg, Robin Williams, Dustin Hoffman, Julia Roberts, and the crew through interviews and footage captured during production, as well as Steven Spielberg’s home movies.  Experience the triumph and trials of making HOOK in a thrilling and nostalgic time capsule that audiences will treasure.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 1.8371
+  },
+  "341769": {
+    "id": 341769,
+    "type": "tv",
+    "title": "The Killing of The Golden Rooster",
+    "poster_path": "/2NaGk1VVMjP8Qd5a4phrfBUoucP.jpg",
+    "backdrop_path": "/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg",
+    "vote_average": 8.368,
+    "vote_count": 19,
+    "overview": "Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-18",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2026-11-12",
+    "popularity": 23.3382
+  },
+  "1805423": {
+    "id": 1805423,
+    "type": "movie",
+    "title": "Raphael",
+    "poster_path": "/xE3Hvg5yyxQ4w7Bxhmpz3lsd3v8.jpg",
+    "backdrop_path": "/26KhlTT2RfLYYa8dfRzLAMZuCRY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Alexei, an elite war android modeled after the youthful image of an aging dictator, serves as commanding officer in a refugee district, leading the suppression of a rebellion. There, he encounters Michael, the last remaining Catholic priest, and awakens to faith—beginning a dangerous journey in search of redemption.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.0808
+  },
+  "1789548": {
+    "id": 1789548,
+    "type": "movie",
+    "title": "Honeymoon Tomorrow",
+    "poster_path": "/w0fxnkJOAXrRFB5N5R3PANVKcCi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A film that centers on a young, lower-middle-class man named Anush. Living in tight, limited housing, Anush plans to keep things simple and spend his honeymoon right at home with his new wife. However, his plans completely unravel on his wedding day when his mother is unexpectedly forced to move into their tiny, single-bedroom apartment.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "LK"
+    ],
+    "production_countries": [
+      "LK"
+    ],
+    "spoken_languages": [
+      "si"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.2958
+  },
+  "1786829": {
+    "id": 1786829,
+    "type": "movie",
+    "title": "An Unexpected Christmas Plan",
+    "poster_path": "/k7T7oASsetNEfjDac9IYfaEEJOd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When Christmas-averse business executive Jen is reluctantly tasked with looking after her sister’s two kids, handsome neighbor Adam helps her navigate holiday disasters, rediscover family, and open her heart to an unexpected romance this holiday season.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [
+      {
+        "name": "Passionflix Amazon Channel",
+        "logo_path": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-25",
+    "popularity": 2.8677
+  },
+  "1782614": {
+    "id": 1782614,
+    "type": "movie",
+    "title": "The Gruffalo: From Father to Son",
+    "poster_path": "/ryW5ekGYtJiVar8TgqnkYOBpN74.jpg",
+    "backdrop_path": "/xBZLagWx5YuhbGZ6pnvAUwO40J1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A double feature of The Gruffalo and The Gruffalo’s Child",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.442
+  },
+  "1777575": {
+    "id": 1777575,
+    "type": "movie",
+    "title": "Le Noël d'Ernest et Célestine",
+    "poster_path": "/7MkyPjYtscKP5oxPVZT6XjZJU99.jpg",
+    "backdrop_path": "/d9fdoxoPKpHsdEZXDsUqRAHnRjI.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR",
+      "BE"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.3534
+  },
+  "1769056": {
+    "id": 1769056,
+    "type": "movie",
+    "title": "Shane V",
+    "poster_path": "/cgPPYSHqCNzPigp1drfFOKu7XqL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The epic conclusion to the Shane saga arrives. When Marcus Wiley gains the powers of the Red Room and escapes from prison, it's up to Shane to stop his father- once and for all.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.054
+  },
+  "1745196": {
+    "id": 1745196,
+    "type": "movie",
+    "title": "The Wanderers - Episode I",
+    "poster_path": "/zgJIEHwOyyoOcN6tlRJDquVEYYS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-18",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.0389
+  },
+  "1722832": {
+    "id": 1722832,
+    "type": "movie",
+    "title": "ODISEA 2016",
+    "poster_path": "/4J5kL4hg5H8drvvAvodnE2nRWoX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the brink of turning 18 and terrified of adult responsibilities, a teenager finds a pair of glasses that transports him back to the \"safe haven\" of 2016. But when the portal begins to collapse, a frantic race against time begins, leaving him with only two choices: remain trapped in his memories forever, or take on the biggest responsibility of all—growing up to save his life.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.0961
+  },
+  "1720486": {
+    "id": 1720486,
+    "type": "movie",
+    "title": "Lilo & Scratch",
+    "poster_path": "/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
+    "backdrop_path": "/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 3.1138
+  },
+  "1706051": {
+    "id": 1706051,
+    "type": "movie",
+    "title": "CHICA BUSCA PISO",
+    "poster_path": "/ecqF54W4jEp93gf0UymRz0A9k5H.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Storage rooms advertised as apartments, unexplained skin rashes, endless spreadsheets and dates that go horrifically wrong.  María is surviving, barely, the ordeal of flat-hunting in a big city while clocking in every day at a job that bores her to death. Her life is a parade of small disasters. But somewhere between the absurdity, María is discovering who she really is. And across the city, so is everyone else; the hard way.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-18",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.5227
+  },
+  "1670563": {
+    "id": 1670563,
+    "type": "movie",
+    "title": "Thanks for Coming",
+    "poster_path": "/sg8u5F3cTrDl6UM0InfbXwVlkeL.jpg",
+    "backdrop_path": "/uxUwpYPlFSidyaF7g4NyZvpoksE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This is the story of a filmmaker. Alain Cavalier, always accompanied by his camera, continues to film life with passion, still learning about himself and, above all, about others. However, he is growing older and sees his speed, his vitality, his boldness, and his lightheartedness waning. With a slight lump in his throat but still laughing, he keeps a video diary of his farewell to cinema. This will be his last film.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.7483
+  },
+  "1666683": {
+    "id": 1666683,
+    "type": "movie",
+    "title": "Congo Boy",
+    "poster_path": "/s4Sek2gAudKh9AO9f8q1zQDX2uj.jpg",
+    "backdrop_path": "/mCF79jj7s5KZAyqxvNGJxEnF32P.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bangui, Central African Republic. 17 year-old Robert dreams of a career in music, but civil war is tearing the country apart. When both his parents are thrown into prison, he is left to look after his four younger siblings on his own, juggling daily life, odd jobs, school exams and concert stages, determined to follow his dream.",
+    "industry": "world",
+    "original_language": "sg",
+    "origin_country": [
+      "CD",
+      "CF"
+    ],
+    "production_countries": [
+      "CF",
+      "CD",
+      "FR",
+      "IT"
+    ],
+    "spoken_languages": [
+      "fr",
+      "ln",
+      "sg",
+      "sw"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 1.3838
+  },
+  "1650174": {
+    "id": 1650174,
+    "type": "movie",
+    "title": "House of Glory",
+    "poster_path": "/feT5E0xkHridkpMA7nuGpDIeTLw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the dormant rooms of a family home, a man reads his father's journal then summons his spirit",
+    "industry": "world",
+    "original_language": "ar",
+    "origin_country": [
+      "JO"
+    ],
+    "production_countries": [
+      "JO"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.101
+  },
+  "1622167": {
+    "id": 1622167,
+    "type": "movie",
+    "title": "A Vast Algorithm of Humanity: The Movie",
+    "poster_path": "/kbwg8DzALjTezZV84XJ1fi5KefS.jpg",
+    "backdrop_path": "/yV88CTLHvV6jzF4T3d0Srwf852R.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Do-ah initiates a lawsuit against her husband's uncle who takes away a piece of land that her husband's grandfather left them. Do-ah decides to initiate the lawsuit, unable to stand by when the land and medicine business that her family has worked so hard to realize is stolen before her eyes. But she has no material evidence, and she knows nothing about legal procedures or what to do in court, leading to an extremely difficult situation for her. However in the midst of these troubles, she is reminded of the mysterious and rare treasure that can be used to solve any situation and to locate the expansive at land inside of her which she used to know.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.7157
+  },
+  "1556167": {
+    "id": 1556167,
+    "type": "movie",
+    "title": "A Poet of the River",
+    "poster_path": "/gd7CKyb3gIUR8KL2WgnGI5z4u7a.jpg",
+    "backdrop_path": "/oinA4PKWdjT3b7w0WPEGrsPhJCo.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An 18-year-old North Korean defector, Lee Sun-hwa, crosses the Duman River, traversing the thin boundary between life and death, and arrives in South Korea. Upon completing her resettlement program at Hanawon, she is placed in a public housing unit in Nowon, Seoul. Yet, life in the South feels like an uncharted world. Choosing to enroll in a South Korean high school rather than extend her stay at Hanawon, she soon finds herself struggling—both academically and culturally. Her only wish is to reunite with her family.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.2236
+  },
+  "1550500": {
+    "id": 1550500,
+    "type": "movie",
+    "title": "The Boom Killer",
+    "poster_path": "/lvOM3PCoCZsD5AOS69mtfoVKXlp.jpg",
+    "backdrop_path": "/oFgnNemL7nxov4p7HEV4JSBq17Y.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A great tragedy occurs during the filming of a movie. In an unexpected twist, the renowned Detective Bones takes on the case, as he can sniff out that something isn’t right.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.8944
+  },
+  "1550308": {
+    "id": 1550308,
+    "type": "movie",
+    "title": "Laya",
+    "poster_path": "/62Kq0xgu5AjSqcaM6Haawirz8ju.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Against the coastal backdrop of Oslob, Cebu, a young woman drifts from place to place, carrying an unresolved anger from the loss of her father at a young age, until her path crosses with a lonely ex-criminal, also haunted by shadows from the past.",
+    "industry": "world",
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [
+      "tl"
+    ],
+    "published_at": "2026-11-18",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-25",
+    "popularity": 0.3597
   }
 };

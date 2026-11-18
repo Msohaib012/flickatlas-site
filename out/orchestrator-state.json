@@ -1,38 +1,38 @@
 {
  "steps": {
   "apply_auto": {
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "convert_news": {
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "episode_guides": {
-   "last_run": "2026-11-18T17:26:06Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "failure",
-   "last_attempt_at": "2026-11-18T17:26:06Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
    "last_success": "2026-11-14T20:07:48Z",
    "consecutive_failures": 0
   },
   "fetch": {
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "gemini_batch": {
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "gemini_reviews": {
@@ -51,16 +51,16 @@
   },
   "multisource_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-11-18T17:54:08Z",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "overseas_ai": {
    "last_status": "success",
-   "last_run": "2026-11-18T17:26:06Z",
-   "last_attempt_at": "2026-11-18T17:26:06Z",
-   "last_success": "2026-11-18T17:26:06Z",
+   "last_run": "2026-11-18T19:35:16Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "providers_backfill": {
@@ -71,18 +71,18 @@
    "consecutive_failures": 0
   },
   "publish": {
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "failure",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
    "last_success": "2026-11-18T07:19:18Z",
    "consecutive_failures": 0
   },
   "sacnilk_boxoffice": {
    "last_status": "failed",
-   "last_run": "2026-11-18T15:23:41Z",
-   "last_attempt_at": "2026-11-18T15:23:41Z",
+   "last_run": "2026-11-18T19:21:34Z",
+   "last_attempt_at": "2026-11-18T19:21:34Z",
    "last_success": "2026-11-08T11:57:48Z",
-   "consecutive_failures": 62,
+   "consecutive_failures": 63,
    "detail": "reader timed out; last-good staging retained"
   },
   "stats_health": {
@@ -93,48 +93,48 @@
    "consecutive_failures": 0
   },
   "stats_pipeline": {
-   "last_run": "2026-11-18T12:58:32Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T12:58:32Z",
-   "last_success": "2026-11-18T12:58:32Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "stats_traffic": {
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "tavily_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-11-18T17:26:06Z",
-   "last_attempt_at": "2026-11-18T17:26:06Z",
-   "last_success": "2026-11-18T17:26:06Z",
+   "last_run": "2026-11-18T19:35:16Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "title_seed": {
-   "last_run": "2026-11-18T09:05:28Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-18T09:05:28Z",
-   "last_success": "2026-11-18T09:05:28Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "trending_weekly": {
    "last_status": "success",
-   "last_run": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
    "stale": false,
    "newest_entry": "2026-10-28",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:25:55Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:05Z",
    "consecutive_failures": 0,
-   "evidence_checked_at": "2026-11-18T17:25:55Z"
+   "evidence_checked_at": "2026-11-18T19:35:05Z"
   },
   "version_bump": {
    "last_status": "success",
-   "last_run": "2026-11-18T17:54:08Z",
-   "last_attempt_at": "2026-11-18T17:54:08Z",
-   "last_success": "2026-11-18T17:54:08Z",
+   "last_run": "2026-11-18T19:35:16Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "keywords_refresh": {
@@ -145,20 +145,20 @@
    "consecutive_failures": 0
   },
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-18T12:51:07Z",
-   "last_run": "2026-11-18T12:51:07Z",
+   "last_attempt_at": "2026-11-18T19:12:58Z",
+   "last_run": "2026-11-18T19:12:58Z",
    "last_status": "success",
-   "last_success": "2026-11-18T12:51:07Z",
+   "last_success": "2026-11-18T19:12:58Z",
    "consecutive_failures": 0,
-   "detail": "valid top 20 snapshot"
+   "detail": "valid top 19 snapshot"
   },
   "fnn_boxoffice": {
-   "last_attempt_at": "2026-11-18T12:54:37Z",
-   "last_run": "2026-11-18T12:54:37Z",
+   "last_attempt_at": "2026-11-18T19:23:24Z",
+   "last_run": "2026-11-18T19:23:24Z",
    "last_status": "success",
-   "last_success": "2026-11-18T12:54:37Z",
+   "last_success": "2026-11-18T19:23:24Z",
    "consecutive_failures": 0,
-   "detail": "validated 184 rows; 1 staging files changed"
+   "detail": "validated 185 rows; 1 staging files changed"
   },
   "moviemint_boxoffice": {
    "last_attempt_at": "2026-11-18T13:49:43Z",
@@ -169,11 +169,11 @@
    "detail": "reader timed out; last-good staging retained"
   },
   "ott_digital": {
-   "last_attempt_at": "2026-11-18T08:52:55Z",
-   "last_run": "2026-11-18T08:52:55Z",
+   "last_attempt_at": "2026-11-18T19:13:18Z",
+   "last_run": "2026-11-18T19:13:18Z",
    "last_status": "failed",
    "last_success": "2026-11-17T06:51:46Z",
-   "consecutive_failures": 5,
+   "consecutive_failures": 6,
    "detail": "invalid release_dates response for 1810118"
   },
   "wp_boxoffice": {
@@ -201,15 +201,15 @@
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "advance_booking": {
-   "last_run": "2026-11-18T09:05:28Z",
-   "last_attempt_at": "2026-11-18T09:05:28Z",
+   "last_run": "2026-11-18T19:35:16Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
    "last_status": "success",
-   "last_success": "2026-11-18T09:05:28Z",
+   "last_success": "2026-11-18T19:35:16Z",
    "consecutive_failures": 0
   },
   "home_boxoffice_worldwide": {
-   "last_run": "2026-11-18T17:26:06Z",
-   "last_attempt_at": "2026-11-18T17:26:06Z",
+   "last_run": "2026-11-18T19:35:16Z",
+   "last_attempt_at": "2026-11-18T19:35:16Z",
    "last_status": "failure",
    "last_success": "2026-11-18T04:02:01Z",
    "consecutive_failures": 0
@@ -223,5 +223,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-18T17:54:08Z"
+ "updated_at": "2026-11-18T19:35:16Z"
 }

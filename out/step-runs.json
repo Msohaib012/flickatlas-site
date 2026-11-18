@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T18:51:52Z",
-    "run_id": "44152165811",
-    "status": "success",
-    "checked": {
-     "candidates": 553,
-     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Blossom In Darkness Episodes 10-11 Release Timings: When Will NEW Eps Drop TODAY? Where To Stream Online?",
-      "Haiku OTT Release Date: When And Where To Watch Aegan, Sri Devi & Femina George's Tamil Romantic Drama Online",
-      "The Remarried Empress Episodes 7-8 Spoiler: Will Rashta's Secret Get EXPOSED? Sovieshu To Cross All Limits?",
-      "John Doe OTT Release: Where To Watch Arjun Das And Sanchana Natarajan's Film After Its Theatrical Run",
-      "EXCLUSIVE! Is Ayesha Singh Under Pressure After Ghum Hai Kisikey Pyaar Meiin And Mannat? She Says ‘Want More…’",
-      "The Remarried Empress Episode 7-8 Dailymotion: Where To Watch Shin Min-a, Ju Ji-hoon's Kdrama Online In India?",
-      "Donga Naa Koduku OTT Release: Where To Watch Mouli Tanuj Prashanth's Film After Its Theatrical Run",
-      "2027 Grammy Nominations: 'Varuvaaiy' Becomes First Tamil Song To Receive Grammy Nomination",
-      "OM Advance Booking Tamil Nadu: Dhanush And Mammootty's Film Nears ₹1 Crore In Opening Day Pre-Sales",
-      "Ali Fazal To Star In Richie Mehta's Adaptation Of E M Forster's A Passage To India - DEETS",
-      "Box Office: Ramayana Becomes Only Bollywood Film To Enter 50 Crore Club In Kerala – But Yash Turns The Real Winner Here!",
-      "Netflix’s The Body Ending, Explained: Is Grace Really The God The Show Wants Us To Believe?",
-      "Salman gifts luxury watches worth up to Rs 6 lakh each to cast and crew of 'Maatrubhumi'",
-      "'Ramayan' TV's Lakshman praises Yash's performance in 'Ramayana' but feels spiritual connection was absent",
-      "Pregnant Ciara on baby No. 5 with Russell Wilson, stress-free Christmas plans",
-      "Ali Fazal to star in A Passage to India series adaptation with Naseeruddin Shah, Fiona Shaw; Richie Mehta to direct",
-      "Ramayana box office collection day 13: Ranbir Kapoor, Yash's epic crosses  ₹820 crore despite second-week slowdown",
-      "This Week's FBI Had A Surprising Update, And I Needed To Know About A Potential Spinoff",
-      "I’m Worried NBC Is Going To Misunderstand Why The Traitors New Blood Isn't Hitting",
-      "As Johnny Depp Faces Pirates Of The Caribbean 6 Rumors, Another Star Weighs In On Returning"
-     ],
-     "updated": [],
-     "count": 499,
-     "detail": "533 stories, 0 duplicates removed, 20 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-17T19:51:35Z",
     "run_id": "44162909701",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "570 stories, 1 duplicates removed, 33 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T18:55:53Z",
-    "run_id": "44152165811",
+    "run_at": "2026-11-18T18:52:18Z",
+    "run_id": "44374059043",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 476,
+     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
     },
     "changed": {
      "added": [
-      "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
-      "DC Officially Confirms 2027 Batman Project With First Look",
-      "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
-      "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer"
+      "418 OTT Release Date: When And Where To Watch Chaithra J Achar And Surya Raj Veerabathini's Film Online",
+      "OM Advance Booking: Dhanush And Mammootty's Film Nears ₹10 Crore In Worldwide Opening Day Pre-Sales",
+      "What If The Remarried Empress Gets A Bollywood Remake? Our Dream B-Town Recast For The Royal Kdrama",
+      "Inside Swara Bhasker and Fahad Ahmad’s Mumbai bungalow: ‘Not a fancy Bollywood house’",
+      "Sooraj Barjatya calls Dhurandhar a ‘wonderful film’: ‘Every film has its place’",
+      "Kevin Feige reveals RDJ’s Doctor Doom was in the works before Jonathan Majors was fired",
+      "article zee news impact nbcc issues revised notice for sarojini nagar flat auction 3162496",
+      "article a prince once swept me off my feet kareena kapoor shares witty note after meeting prince william 3162472",
+      "article big b reveals why he wrote bach gaye in earlier tweet 3162494",
+      "article dia mirzas cryptic post about nawazuddin siddiqui calling him nightmare confuses fans 3162435",
+      "article step inside ananya birlas swanky rs 425 crore mansion british vibe to luxury studio apartment size kitchen take a quick home tour 3162456",
+      "article the earthshot prize 2026 alia bhatt to simone ashley 6 desi beauties who dazzled at the green carpet in pics 3162440",
+      "article pm modi meets prince william princess kate hails growing momentum in india uk ties 3162497",
+      "article rahul gandhis economic disaster remark sparks row what do indias gdp figures reveal 3162498",
+      "article i dont see him getting a game vidyut sivaramakrishnan explains why kuldeep yadav was released from indias test squad ahead of new zealand series exclusive 3162495",
+      "photo gallery salman khan nayanthara monster allu arjun deepika padukone raaka prabhas triptii dimri spirit ranveer singh kalyani priyadarshan pralay randeep hooda shraddha kapoor eetha fresh on screen jodis 3224261",
+      "video apec summit 2026 dinner xi jinping hosts donald trump vladimir putin world leaders in shenzhen 3224287",
+      "video cjp news condition in delhi police won t leak it saurav das submits address proof to court 3224231",
+      "video cyclone akvan 7 andhra pradesh s districts on red alert ahead of november 20 landfall odisha 3224246",
+      "video indigo extends suspension of all flights to riyadh jeddah dammam and madinah until november 30 3224286"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 389,
+     "detail": "413 stories, 0 duplicates removed, 63 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1482,27 +1459,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-18T19:14:40Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "O.M - Operation Mole Nears ₹10 Crore in Global Advance Bookings Ahead of Theatrical Premiere",
+      "Telugu Horror Thriller 418 Sets Netflix Digital Premiere Date",
+      "Sunrise on the Reaping Box Office Projections Outpace Previous Franchise Installment",
+      "Imagining a Bollywood Remake of The Remarried Empress"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-17T20:52:46Z",
-    "run_id": "44173525871",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 367, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1916,26 +1898,27 @@
      "detail": "now 367, coming 9"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-17T18:56:18Z",
-    "run_id": "44152165811",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-18T19:14:40Z",
+    "run_id": "44374059043",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 367, coming 9"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2394,27 +2377,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-18T19:35:07Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "19a32sa",
+      "7spr66",
+      "1f1pv2e",
+      "ysh6sy",
+      "1x37hn2",
+      "qvfl28",
+      "1ozif6h",
+      "1idn33h"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T18:55:53Z",
-    "run_id": "44152165811",
-    "status": "success",
-    "checked": {
-     "candidates": 699,
-     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 676 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2828,19 +2819,27 @@
      "detail": "+0 new rows, 3 updated rows, 683 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T19:34:21Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": {
+     "candidates": 708,
+     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 680 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3077,32 +3076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-17T18:56:18Z",
-    "run_id": "44152165811",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
-      "DC Officially Confirms 2027 Batman Project With First Look",
-      "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
-      "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3617,19 +3603,34 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-18T19:35:06Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Telugu Horror Thriller 418 Sets Netflix Digital Premiere Date",
+      "Sunrise on the Reaping Box Office Projections Outpace Previous Franchise Installment",
+      "Imagining a Bollywood Remake of The Remarried Empress",
+      "O.M - Operation Mole Nears ₹10 Crore in Global Advance Bookings Ahead of Theatrical Premiere",
+      "Bano Episode 35 — Watch Online on Geo TV",
+      "Lagan Lagi Episode 20 — Watch Online on ARY Digital"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3859,61 +3860,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T18:52:25Z",
-    "run_id": "44152165811",
-    "status": "success",
-    "checked": {
-     "candidates": 515,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 37,
-      "pk_movies": 18
-     },
-     "picked": 17,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Nowhere to Lay My Eyes (1728590)",
-      "The Black Sea (1824404)",
-      "Darius Rucker: They Called Me Hootie (1822873)",
-      "Tago (1824355)",
-      "Mistletoe and Mimosas (1773340)",
-      "Way of the Warrior Kid (1280115)",
-      "Petardos y Magnolias (1786283)",
-      "Robert Wilson: The Beauty of the Mysterious (928382)",
-      "Petit Tom (810688)",
-      "The Lord of the Rings: The Rings of Power – Forging the One Ring (1828101)",
-      "Retratos (1827515)",
-      "The Devil's Plan (214582)",
-      "Portrait of Many Faces (1796007)",
-      "Nine to Five (340950)",
-      "Dark Corridor Files (338849)",
-      "The Eken: Kerala-e Kurukshetra (1591522)"
-     ],
-     "updated": [],
-     "count": 16
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4189,31 +4148,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-17T18:55:52Z",
-    "run_id": "44152165811",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T19:13:18Z",
+    "run_id": "44374059043",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 499 still unprocessed; today by category: movies 11/6, tv_dramas 13/4, episodes 2/2, box_office 11/6, celebrities_events 11/5, upcoming_releases 11/4, ott_streaming 10/4, trailers 2/3, awards 4/2, music_ost 3/2, viral 2/2"
+     "candidates": 516,
+     "sources": {
+      "trending": 19,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 39,
+      "pk_movies": 18
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Blossom In Darkness Episodes 10-11 Release Timings: When And Where To Watch The Chinese Drama",
-      "DC Officially Confirms 2027 Batman Project With First Look",
-      "The Remarried Empress Episodes 7-8 Spoilers: Secret Exposures and Growing Palace Tensions",
-      "Mariah Carey and Nick Cannon's Twins Speak Out in Netflix Trailer"
+      "Quand Janet dort (1810785)",
+      "Hook: Never, Never Ending (1771194)",
+      "The Killing of The Golden Rooster (341769)",
+      "Raphael (1805423)",
+      "Honeymoon Tomorrow (1789548)",
+      "An Unexpected Christmas Plan (1786829)",
+      "The Gruffalo: From Father to Son (1782614)",
+      "Le Noël d'Ernest et Célestine (1777575)",
+      "Shane V (1769056)",
+      "The Wanderers - Episode I (1745196)",
+      "ODISEA 2016 (1722832)",
+      "Lilo & Scratch (1720486)",
+      "CHICA BUSCA PISO (1706051)",
+      "Thanks for Coming (1670563)",
+      "Congo Boy (1666683)",
+      "House of Glory (1650174)",
+      "A Vast Algorithm of Humanity: The Movie (1622167)",
+      "A Poet of the River (1556167)",
+      "The Boom Killer (1550500)",
+      "Laya (1550308)"
      ],
      "updated": [],
-     "count": 4
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4711,19 +4704,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-18T19:14:40Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 389 still unprocessed; today by category: movies 10/6, tv_dramas 14/4, episodes 0/2, box_office 16/6, celebrities_events 11/5, upcoming_releases 5/4, ott_streaming 8/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "O.M - Operation Mole Nears ₹10 Crore in Global Advance Bookings Ahead of Theatrical Premiere",
+      "Telugu Horror Thriller 418 Sets Netflix Digital Premiere Date",
+      "Sunrise on the Reaping Box Office Projections Outpace Previous Franchise Installment",
+      "Imagining a Bollywood Remake of The Remarried Empress"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5030,24 +5035,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-18T19:16:34Z",
+    "run_id": "44374059043",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 391,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5332,24 +5339,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 35,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5644,24 +5646,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 78,
+     "count": 54,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5906,19 +5908,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 74,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6153,19 +6160,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6451,19 +6458,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6704,19 +6711,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6946,19 +6953,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7211,30 +7218,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-16T18:16:58Z",
-    "run_id": "43922577830",
-    "status": "success",
-    "checked": {
-     "candidates": 564,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 482"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7721,24 +7717,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-18T19:15:28Z",
+    "run_id": "44374059043",
+    "status": "success",
+    "checked": {
+     "candidates": 574,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 41; attempt cooldown deferred: 533"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 49,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7973,24 +7975,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-17T18:56:28Z",
-    "run_id": "44152165811",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11630,
+     "count": 86,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8235,8 +8237,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-18T19:35:16Z",
+    "run_id": "44374059043",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ]
  },
- "updated_at": "2026-11-18T17:54:08Z"
+ "updated_at": "2026-11-18T19:35:16Z"
 }
