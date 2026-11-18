@@ -184734,5 +184734,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 20:30:19 GMT"
+  },
+  "blqm9a": {
+    "id": "blqm9a",
+    "type": "news",
+    "headline": "Cyclone Akvan: Andhra On High Alert, Odisha To Evacuate 2 Lakh From Coastal Areas As Cyclonic Storm Intensifies",
+    "dek": "Cyclone Akvan is expected to hit Andhra Pradesh on November 20, prompting heavy rain alerts, coastal preparedness measures and Odisha's plan to evacuate over two lakh people.",
+    "body": [
+      {
+        "h": "Formation And Path Of Cyclone Akvan",
+        "p": [
+          "Cyclonic Storm Akvan formed over the Bay of Bengal and began tracking slowly across the water, prompting warnings from weather forecasters. The India Meteorological Department reported that the system moved at a speed of 3 kmph over a six-hour window before strengthening into a severe cyclonic storm.",
+          "Projections indicate that the weather system will continue gathering power, moving northwestwards to become a very severe cyclonic storm. Officials tracking the trajectory predict a landfall between Nellore and Tuni along the Andhra Pradesh-Yanam coast."
+        ]
+      },
+      {
+        "h": "Andhra Pradesh Government Response",
+        "p": [
+          "With memories of recent storms still fresh, authorities in Andhra Pradesh have placed the administration on high alert. Previous cyclones like Arnab and Murasu caused extensive crop destruction across vast acreage, inflicting nearly Rs 7,000 crore in economic losses.",
+          "Chief Minister N Chandrababu Naidu instructed administrative teams to keep local populations constantly updated with weather warnings. Officials have been ordered to clear fallen trees and broken utility poles swiftly, while warning citizens to stay away from vulnerable water bodies."
+        ]
+      },
+      {
+        "h": "Rainfall And Wind Warnings",
+        "p": [
+          "The meteorological office issued forecasts warning of heavy rainfall across various southern districts spanning four consecutive days starting November 18. Specific locations expected to bear the brunt of early downpours include Srikakulam, Parvathipuram Manyam, Vizianagaram, Visakhapatnam, and Alluri Sitharama Raju districts.",
+          "In addition to continuous rain, coastal regions face threats of thunderstorms and lightning. Gale-force winds reaching speeds up to 80 kmph are anticipated across Coastal Andhra Pradesh, Yanam, and Rayalaseema."
+        ]
+      },
+      {
+        "h": "Current Coordinates And Timing",
+        "p": [
+          "Tracking data positioned the storm at specific distances from major regional hubs as of Tuesday night. The center of the disturbance sat approximately 610 km east of Chennai, 630 km northeast of Trincomalee, and 660 km southeast of Machilipatnam.",
+          "Further distance markers placed the eye about 670 km south-southeast of Visakhapatnam and 790 km south of Gopalpur. Forecasters anticipate the weather system will cross the coast around noon on November 20 with sustained wind speeds reaching up to 145 kmph."
+        ]
+      },
+      {
+        "h": "Evacuation Measures In Odisha",
+        "p": [
+          "Neighboring Odisha initiated large-scale preparations, planning to shift more than two hundred thousand residents out of high-risk coastal and hilly zones. Disaster Management Minister Suresh Pujari led a review meeting to finalize safety protocols ahead of the impending landfall.",
+          "State planners identified landslides as a primary threat, noting that a vast majority of fatalities during the previous month's Cyclone Arnab stemmed from earth slips. Operations target foothill communities and elevated settlements located within six vulnerable districts."
+        ]
+      },
+      {
+        "h": "Targeted Vulnerable Districts",
+        "p": [
+          "The administrative focus in Odisha centers on six specific districts deemed highly susceptible to landslides and severe weather impacts. These designated zones comprise Ganjam, Gajapati, Rayagada, Kandhamal, Malkangiri, and Koraput.",
+          "To assist evacuation and rescue logistics, the Special Relief Commissioner's office enlisted the Odisha Remote Sensing Application Centre. The agency was tasked with supplying satellite data and GIS maps detailing vulnerable village clusters and affected roadways."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cyclone Akvan has intensified over the Bay of Bengal and is projected to strike the Andhra Pradesh-Yanam coast as a very severe cyclonic storm on November 20. In response, Andhra Pradesh has issued widespread rain alerts while Odisha prepares to evacuate over two lakh people from landslide-prone districts."
+        ]
+      }
+    ],
+    "facts": [
+      "Cyclone Akvan is expected to hit Andhra Pradesh on November 20.",
+      "Odisha plans to evacuate over two lakh people from coastal areas.",
+      "The cyclone is projected to cross the Andhra Pradesh-Yanam coast between Nellore and Tuni around noon on November 20.",
+      "Previous cyclones Arnab and Murasu inflicted losses estimated at nearly Rs 7,000 crore in Andhra Pradesh.",
+      "Andhra Pradesh Chief Minister N Chandrababu Naidu directed officials to minimize cyclone impact.",
+      "Heavy rainfall is forecast in parts of Andhra Pradesh for four days beginning November 18.",
+      "Gale winds are expected to reach speeds of up to 80 kmph.",
+      "Maximum sustained wind speeds at landfall could reach up to 145 kmph.",
+      "Odisha Disaster Management Minister Suresh Pujari chaired a review meeting regarding evacuations.",
+      "Six Odisha districts identified as highly vulnerable to landslides are Ganjam, Gajapati, Rayagada, Kandhamal, Malkangiri, and Koraput."
+    ],
+    "entities": {
+      "people": [
+        "Sumit Sharma",
+        "N Chandrababu Naidu",
+        "Suresh Pujari"
+      ],
+      "titles": [
+        "Cyclone Akvan",
+        "Cyclone Arnab",
+        "Cyclone Murasu"
+      ]
+    },
+    "keywords": [
+      "Cyclone Akvan",
+      "Andhra Pradesh cyclone",
+      "Odisha evacuation",
+      "N Chandrababu Naidu",
+      "Suresh Pujari"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156528307,thumbsize-2023569,width-1280,height-720,resizemode-75/156528307.jpg",
+        "caption": "Cyclone Akvan: Andhra On High Alert, Odisha To Evacuate 2 Lakh From Coastal Areas As Cyclonic Storm Intensifies",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T21:33:11Z"
+  },
+  "1gzmapt": {
+    "id": "1gzmapt",
+    "type": "news",
+    "headline": "Yellowjackets Final Season Arrives on Paramount+ This Week",
+    "dek": "The acclaimed survival thriller returns for its fourth and final season on Paramount+ this week, bringing a definitive end to the high-stakes dual-timeline drama.",
+    "body": [
+      {
+        "h": "The End of the Survival Journey",
+        "p": [
+          "Paramount+ is set to welcome back one of its most gripping survival thrillers as Yellowjackets returns for its fourth season. Since its initial premiere in the fall of 2021, the series has continuously captivated audiences with its chilling atmosphere and psychological depth. This upcoming chapter marks the end of the road for the characters' grueling fight for survival, bringing closure to a narrative that has kept viewers on edge for years.",
+          "The journey to this final installment has been marked by intense pacing and unforgettable moments. Fans have watched the central mystery unfold across multiple seasons of shocking twists, laying the groundwork for a conclusion that promises to address the lingering questions of the overarching plot."
+        ]
+      },
+      {
+        "h": "A Packed Schedule and Release Date",
+        "p": [
+          "The fourth season of Yellowjackets officially premieres on Paramount+ on November 20th. This release comes a little over a year after the conclusion of the third season in April of 2025.",
+          "While the creative team initially mapped out plans extending to a fifth season, the decision was made to wrap up the storyline in the fourth outing. Creators Ashley Lyle and Bart Nickerson have brought the narrative arc regarding the stranded teenagers to its natural conclusion without stretching the premise further."
+        ]
+      },
+      {
+        "h": "Dual Timelines and Core Plot Threads",
+        "p": [
+          "The show continues its signature dual-timeline structure, contrasting the harrowing 19-month ordeal of a high-stakes girls soccer team stranded in the Canadian wilderness during the 1990s with the complex realities of the adult survivors in the present day.",
+          "Key developments from preceding seasons have set the stage for high tension. Viewers recently learned the identity of the pit girl as Mari, a detail teased since the very beginning of the series. Additionally, Natalie's triumph in securing a signal on the satellite phone provided a crucial turning point for the group's trapped members."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "The upcoming episodes feature a returning ensemble of recognizable talent. The main cast includes Melanie Lynskey, Christina Ricci, Tawny Cypress, Sophie Nélisse, Jasmin Savoy Brown, and Sophie Thatcher.",
+          "In the modern-day timeline, adult versions of characters such as Shauna, Taissa, Misty, and Melissa continue grappling with the heavy secrets they kept hidden after their rescue. Following multiple seasons defined by violence, murders, cover-ups, and the tragic death of Van at the close of the third season, the surviving adults are venturing into increasingly unstable territory."
+        ]
+      },
+      {
+        "h": "Navigating the Return Home",
+        "p": [
+          "Teasers for the fourth season provide glimpses into the difficult reintegration process awaiting the teens as they make their rocky return to Wiskayok. Waiting family members and old acquaintances complicate their homecoming.",
+          "The returning characters must confront the fallout of decisions made prior to the plane crash, navigating these challenges as profoundly altered individuals shaped by their time in the wilderness."
+        ]
+      },
+      {
+        "h": "Legacy of a Hit Survival Thriller",
+        "p": [
+          "Over its run, Yellowjackets has established a distinct space in contemporary television by blending mystery, horror, and high-drama storytelling. The show has accumulated a dedicated following eager to see how the various narrative threads converge.",
+          "As the series prepares to bow out on Paramount+ Premium Plan on November 20th, audiences have a brief window to revisit earlier episodes filled with hunts, betrayals, and dark secrets before the final chapters unfold."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ is releasing the fourth and final season of the survival thriller Yellowjackets on November 20th, concluding the story of the stranded soccer team and the adult survivors. The final installment features the returning ensemble cast and ties up loose ends from the previous three seasons without proceeding to a fifth season."
+        ]
+      }
+    ],
+    "facts": [
+      "Yellowjackets premiered in 2021.",
+      "Yellowjackets season 3 concluded in April 2025.",
+      "Yellowjackets season 4 premieres on Paramount+ on November 20th.",
+      "The series was originally planned for a fifth season by creators Ashley Lyle and Bart Nickerson.",
+      "The stranded high school soccer team spent 19 months in the Canadian wilderness in the 1990s."
+    ],
+    "entities": {
+      "people": [
+        "Mary Kassel",
+        "Melanie Lynskey",
+        "Christina Ricci",
+        "Tawny Cypress",
+        "Sophie Nélisse",
+        "Jasmin Savoy Brown",
+        "Sophie Thatcher",
+        "Ashley Lyle",
+        "Bart Nickerson",
+        "Mari",
+        "Natalie",
+        "Shauna",
+        "Taissa",
+        "Misty",
+        "Melissa",
+        "Van"
+      ],
+      "titles": [
+        "Yellowjackets"
+      ]
+    },
+    "keywords": [
+      "Yellowjackets season 4",
+      "Yellowjackets Paramount plus",
+      "Yellowjackets release date",
+      "Ashley Lyle Bart Nickerson"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/yellowjackets.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Yellowjackets Final Season Arrives on Paramount+ This Week",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 19:30:19 GMT"
+  },
+  "1wczjl9": {
+    "id": "1wczjl9",
+    "type": "news",
+    "headline": "NBCC Issues Revised Notice for Sarojini Nagar Flat Auction After Media Impact",
+    "dek": "National Buildings Construction Corporation Limited has rectified its previous oversight by issuing a revised corrigendum regarding the cancelled e-auction of flats at Avenue Towers in Sarojini Nagar following media coverage.",
+    "body": [
+      {
+        "h": "Revised Corrigendum Issued",
+        "p": [
+          "National Buildings Construction Corporation Limited has updated its official communication regarding the controversial e-auction of residential units at Avenue Towers located in Sarojini Nagar. The state-owned enterprise issued a revised corrigendum after widespread media reports highlighted discrepancies in its previous announcements. Prospective buyers are now formally advised about ongoing legal proceedings concerning specific units.",
+          "Earlier communications from the organization had omitted crucial disclosures about active legal challenges. The updated notice ensures that potential applicants are fully informed before committing funds to the fresh bidding process."
+        ]
+      },
+      {
+        "h": "Re-Inclusion of Cancelled Units",
+        "p": [
+          "The latest notification addresses the status of forty-nine residential flats whose earlier bids were abruptly annulled on October 28, 2026, due to administrative reasons. All forty-nine of these properties have now been restored and re-included in the newly launched auction schedule.",
+          "However, this inclusion comes with explicit caveats. Bidders who previously secured these units have already initiated legal challenges in the judicial system, complicating the immediate transfer of ownership."
+        ]
+      },
+      {
+        "h": "Legal Disclaimers and Warnings",
+        "p": [
+          "Prospective participants in the current e-auction have been cautioned to exercise extreme personal discretion. NBCC explicitly stated in its revised disclaimer that it will bear no financial responsibility or liability for any resulting losses or future claims arising from the disputed units.",
+          "This protective stance attempts to shield the corporation from liability while simultaneously encouraging buyers to enter the bidding pool fully aware of the ongoing court disputes attached to certain flats."
+        ]
+      },
+      {
+        "h": "Contradictory Statements in Prior Notices",
+        "p": [
+          "The controversy deepened due to conflicting statements issued by the corporation. When fresh applications were invited on November 6, 2026, official notices explicitly claimed that no litigation was pending regarding the land or properties in question.",
+          "This claim directly contradicted judicial timelines, as the Delhi High Court had issued a formal notice to NBCC just one day prior, on November 5, 2026, demanding responses to petitions filed by aggrieved bidders."
+        ]
+      },
+      {
+        "h": "Eligibility Clarifications for Bidders",
+        "p": [
+          "Initial re-auction rules had completely barred previous highest bidders from returning to the bidding platform. The newly released corrigendum modifies this restriction, clarifying that only individuals whose bids were officially declared successful are prohibited from participating.",
+          "This adjustment effectively opens the door for prior highest bidders, who previously approached the High Court, to re-enter the competition for the properties they initially claimed."
+        ]
+      },
+      {
+        "h": "Grievances of Affected Buyers",
+        "p": [
+          "Aggrieved purchasers have maintained in their court filings that they submitted the highest bids well above the reserve price established by NBCC. They argue that cancelling these winning bids lacked any valid or transparent justification.",
+          "Legal counsels for the buyers have questioned the haste with which the new auction was deployed, noting that NBCC launched the fresh process within twenty-four hours of a court hearing where it offered no future course of action."
+        ]
+      },
+      {
+        "h": "Ongoing High Court Proceedings",
+        "p": [
+          "The matter remains deeply entangled in the Delhi High Court, where buyers have formally requested a complete stay on the new auction process. The judiciary has advised NBCC to avoid complicating the situation further.",
+          "NBCC counsel has confirmed that a detailed reply addressing petitioners' objections will be submitted shortly. The next official hearing is slated for November 26, 2026, when the court will evaluate whether to halt the auction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "NBCC has issued a revised corrigendum for the Sarojini Nagar Avenue Towers flat auction following extensive media reports pointing out earlier omissions of ongoing litigation. The updated notice warns prospective buyers about pending Delhi High Court petitions involving forty-nine units while clarifying bidder eligibility.",
+          "Legal proceedings continue as the court reviews the matter, with the next hearing scheduled for November 26, 2026, to determine potential stays on the auction."
+        ]
+      }
+    ],
+    "facts": [
+      "NBCC issued a revised corrigendum regarding the cancelled e-auction of flats at Sarojini Nagar's Avenue Towers on November 18, 2026.",
+      "Bids for 49 flats from a previous e-auction were cancelled on October 28, 2026.",
+      "NBCC invited fresh applications for the flats on November 6, 2026.",
+      "The Delhi High Court issued a notice to NBCC on November 5, 2026.",
+      "The next court hearing is scheduled for November 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Reema Sharma"
+      ],
+      "titles": [
+        "Zee News"
+      ]
+    },
+    "keywords": [
+      "NBCC Sarojini Nagar flat auction",
+      "Avenue Towers e-auction notice",
+      "Delhi High Court NBCC case",
+      "Sarojini Nagar flats cancelled bids"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/18/6954-image892fed61.jpg",
+        "caption": "NBCC Issues Revised Notice for Sarojini Nagar Flat Auction After Media Impact",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T21:33:11Z"
+  },
+  "g1b14k": {
+    "id": "g1b14k",
+    "type": "news",
+    "headline": "Kareena Kapoor Shares Witty Note After Meeting Prince William",
+    "dek": "Actress Kareena Kapoor Khan posted pictures with Saif Ali Khan and Karan Johar following their meeting with Prince William in Mumbai.",
+    "body": [
+      {
+        "h": "The Royal Meeting in Mumbai",
+        "p": [
+          "Bollywood star Kareena Kapoor Khan recently had the opportunity to meet Prince William during his official visit to Mumbai for the Earthshot Prize 2026. The actress took to Instagram to document the occasion, sharing several photographs from the gathering.",
+          "Accompanying her at the meeting were her husband, actor Saif Ali Khan, and renowned filmmaker Karan Johar. The group posed together in elegant attire, with Kareena wearing a stylish white outfit for the high-profile interaction."
+        ]
+      },
+      {
+        "h": "A Witty Social Media Caption",
+        "p": [
+          "Known for her charming personality and quick wit, Kareena accompanied her photo gallery with a memorable caption. She humorously wrote that a prince had once swept her off her feet, adding that meeting this particular royal was lovely.",
+          "The playful opening line quickly drew attention from fans and followers across social media platforms, perfectly blending her trademark humor with the formal nature of a royal encounter."
+        ]
+      },
+      {
+        "h": "Conversations on Hindi Cinema",
+        "p": [
+          "During their discussion with the Prince of Wales, the conversation naturally drifted toward the entertainment industry. Kareena noted that they spoke extensively about a shared love for Hindi cinema and how Indian movies have resonated with viewers in the UK.",
+          "The actress described the meeting as a true honor, emphasizing how cinematic art continues to bridge cultural gaps and build lasting connections between diverse international audiences."
+        ]
+      },
+      {
+        "h": "Celebrating 25 Years of Cinematic Milestones",
+        "p": [
+          "The timing of the royal visit coincided with a major cinematic anniversary, as Kareena highlighted the 25-year legacy of the iconic film Kabhi Khushi Kabhie Gham. She credited the movie for bringing a tremendous amount of heart to British audiences.",
+          "She also praised filmmaker Karan Johar for his pioneering role in taking Bollywood storytelling to global markets, noting that his work proved how far Indian narratives could successfully travel."
+        ]
+      },
+      {
+        "h": "Saif Ali Khan Shares Memories With the Prince",
+        "p": [
+          "Saif Ali Khan also spoke to the media about his interaction with Prince William during the royal's visit to Dharma Productions. He revealed that their conversation spanned several engaging topics, including films, music, and cricket.",
+          "The actor shared that they discussed his late father, the legendary former Indian cricket captain Mansoor Ali Khan Pataudi, famously known as Tiger Pataudi. They reminisced about his father's cricketing days in both England and India."
+        ]
+      },
+      {
+        "h": "Earthshot Prize 2026 Context",
+        "p": [
+          "Prince William's journey to Mumbai was centered around the prestigious Earthshot Prize 2026 initiative. The visit brought together notable figures from various sectors, including prominent names from the Indian film fraternity.",
+          "The intersection of royalty, environmental advocacy, and Bollywood glamour created one of the most talked-about cultural crossovers of the year, drawing widespread media coverage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kareena Kapoor Khan shared a witty Instagram post featuring photos with Saif Ali Khan and Karan Johar after meeting Prince William in Mumbai during his Earthshot Prize 2026 visit. The group discussed Hindi cinema and sports, marking a significant cultural interaction."
+        ]
+      }
+    ],
+    "facts": [
+      "Kareena Kapoor Khan met Prince William in Mumbai during his visit for the Earthshot Prize 2026.",
+      "Saif Ali Khan and Karan Johar were also present at the meeting.",
+      "Saif Ali Khan discussed his father, Tiger Pataudi, and cricket with Prince William.",
+      "The meeting touched upon 25 years of Kabhi Khushi Kabhie Gham and Hindi cinema's reach in the UK."
+    ],
+    "entities": {
+      "people": [
+        "Kareena Kapoor",
+        "Prince William",
+        "Saif Ali Khan",
+        "Karan Johar",
+        "Mansoor Ali Khan Pataudi"
+      ],
+      "titles": [
+        "Jab We Met",
+        "Kabhi Khushi Kabhie Gham"
+      ]
+    },
+    "keywords": [
+      "Kareena Kapoor Prince William",
+      "Saif Ali Khan Karan Johar",
+      "Earthshot Prize 2026 Mumbai",
+      "Kabhi Khushi Kabhie Gham"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/18/6931-qetw.jpg",
+        "caption": "Kareena Kapoor Shares Witty Note After Meeting Prince William",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T21:33:11Z"
   }
 };
