@@ -179210,5 +179210,373 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 06:25:00 +0000"
+  },
+  "k60y7p": {
+    "id": "k60y7p",
+    "type": "news",
+    "headline": "Ramayana Box Office Run Creates IMAX Show Sharing Hurdles for Godzilla Minus Zero",
+    "dek": "The phenomenal success of Ramayana in IMAX formats has sparked distribution challenges, delaying advance bookings for Godzilla Minus Zero and threatening The Hunger Games franchise with a potential format omission.",
+    "body": [
+      {
+        "h": "Upcoming Godzilla Release in India",
+        "p": [
+          "Cinemagoers across India are eagerly awaiting the arrival of the Japanese monster feature Godzilla Minus Zero on the big screen. Exhibitors have scheduled the film to debut in local cinemas on Friday, November 20, generating substantial online discussion among enthusiasts.",
+          "Initial reports regarding the theatrical schedule were confirmed when PVR INOX Pictures Limited verified that the project would secure dedicated IMAX screenings alongside standard formats."
+        ]
+      },
+      {
+        "h": "The IMAX Exclusivity Context",
+        "p": [
+          "The primary root of the current scheduling conflict stems from the extraordinary commercial performance of Ramayana in premium large-format screens. The grand Indian production secured an exclusive two-week agreement with IMAX theaters to maximize its box office reach.",
+          "Due to this protected window, the release of Godzilla Minus Zero was deliberately delayed by a fortnight in the domestic territory, even though it debuted concurrently in several international markets back on November 5 and 6."
+        ]
+      },
+      {
+        "h": "Show Sharing Negotiations and Resistance",
+        "p": [
+          "With the initial two-week exclusivity period concluding, distribution representatives at PVR INOX moved to allocate auditorium space for the incoming monster movie. However, negotiations hit a roadblock due to resistance from the distributors handling Ramayana.",
+          "Exhibitors attempted to broker a compromise by requesting a single, prime-time evening slot for the incoming title. Despite this minimal ask, representatives for the ongoing blockbuster expressed reluctance to relinquish any peak evening time slots."
+        ]
+      },
+      {
+        "h": "Conflicting Views on Prime Time Audiences",
+        "p": [
+          "The distributors of the incumbent Indian epic argued that morning and weekday screenings continue to draw strong footfalls, indicating that weekend attendance will remain exceptionally robust. They maintained that surrendering a peak slot would hurt their overall yields.",
+          "Conversely, the exhibiting team countered that the target demographic for Godzilla Minus Zero consists heavily of working professionals. Such audiences typically require post-work timings, making slots after 6:00 pm essential for the film's success."
+        ]
+      },
+      {
+        "h": "Pending Resolution and Advance Bookings",
+        "p": [
+          "Industry stakeholders anticipate that these scheduling discussions will reach a final conclusion shortly, which will subsequently allow ticket counters to open for advance reservations. The remaining question centers on whether the imported feature will secure an evening prime slot or be relegated to daytime hours.",
+          "The delay leaves fans waiting anxiously for confirmation on how the premium theater slots will ultimately be divided between the two competing titles."
+        ]
+      },
+      {
+        "h": "Implications for Hollywood Franchises",
+        "p": [
+          "Beyond the immediate monster movie schedule, similar premium format constraints are impacting other Hollywood imports arriving on the exact same Friday. Specifically, theatrical arrangements for major international properties face growing uncertainty.",
+          "The upcoming franchise installment, The Hunger Games: Sunrise On The Reaping, which holds the distinction of being the first in its series to receive official recognition as filmed for the format, may skip premium formatting entirely in the region."
+        ]
+      },
+      {
+        "h": "Status Updates and Industry Outlook",
+        "p": [
+          "Trade analysts note that a definitive confirmation regarding the format availability for the Hollywood franchise entry should materialize soon. Industry observers continue to monitor how high-performing domestic blockbusters influence the distribution landscape for foreign language imports.",
+          "As exhibition spaces remain tightly contested, the outcome of these negotiations highlights the powerful commercial leverage held by successful domestic features in premium auditoriums."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The massive success of Ramayana in IMAX has created significant show-sharing hurdles for upcoming releases like Godzilla Minus Zero and The Hunger Games: Sunrise On The Reaping ahead of their Friday, November 20 arrivals. While exhibitors work to finalize time slots with reluctant stakeholders, ticket buyers await final resolutions on screen allocations."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero releases in India on Friday, November 20.",
+      "Nayana Bijli is the Lead for Distribution, Licensing Content Acquisition at PVR INOX Pictures Limited.",
+      "Ramayana had an exclusive two-week IMAX arrangement.",
+      "Godzilla Minus Zero and Ramayana released in some markets on November 5/6.",
+      "The Hunger Games: Sunrise On The Reaping is scheduled to arrive in Indian cinemas on Friday, November 20."
+    ],
+    "entities": {
+      "people": [
+        "Nayana Bijli",
+        "Vardhaan Puri",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Ramayana",
+        "The Hunger Games: Sunrise On The Reaping",
+        "Ramayana - Part I"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Ramayana IMAX",
+      "PVR INOX Pictures",
+      "The Hunger Games Sunrise On The Reaping",
+      "Nayana Bijli"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/SCOOP-Ramayanas-BLOCKBUSTER-run-creates-IMAX-show-sharing-hurdles-for-Godzilla-Minus-Zero-The-Hunger-Games-may-skip-IMAX-release.jpeg",
+        "caption": "Ramayana Box Office Run Creates IMAX Show Sharing Hurdles for Godzilla Minus Zero",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 10:50:31 +0200"
+  },
+  "1icr0ob": {
+    "id": "1icr0ob",
+    "type": "news",
+    "headline": "Taeyeon Reveals Seventh Solo Concert 'F.L.Y.' and Extensive Asia Tour",
+    "dek": "The Girls' Generation star is set to launch her brand new concert series at the KSPO DOME in Seoul before traveling across six Asian cities, coinciding with the release of her fourth full-length album.",
+    "body": [
+      {
+        "h": "The Announcement of 'F.L.Y. in Seoul'",
+        "p": [
+          "SM Entertainment officially shared exciting plans for the upcoming solo concert series headlined by the renowned Girls' Generation member. Titled 'TAEYEON CONCERT - F.L.Y. in Seoul,' the multi-day musical event will take place over three consecutive days to ring in the new year.",
+          "Performances are scheduled to run from January 15 to January 17, 2027. The venue hosting these highly anticipated opening shows is the prominent KSPO DOME situated within Seoul's Olympic Park, setting a grand stage for the artist's return."
+        ]
+      },
+      {
+        "h": "Schedule and Timing Details",
+        "p": [
+          "Concert organizers have outlined specific start times for each of the three Seoul dates to accommodate eager attendees. The opening night on January 15 will kick off at 7 PM KST, while the subsequent weekend performances on January 16 and 17 will begin earlier at 5 PM KST.",
+          "Fans securing admission will experience a carefully structured weekend of live entertainment, building anticipation as the singer takes center stage for her seventh solo concert venture."
+        ]
+      },
+      {
+        "h": "Ticketing and Sales Information",
+        "p": [
+          "Access to the Seoul concerts will be managed exclusively through Melon Ticket, utilizing a tiered booking approach for fan club members and general audiences alike. A domestic pre-sale targeting official fan club participants opens on December 1 at 8 PM KST.",
+          "Following the domestic window, a global pre-sale is slated for December 2, with general ticket sales opening publicly on December 3. High demand is expected as supporters rush to secure seats for the opening leg of the tour."
+        ]
+      },
+      {
+        "h": "Expansion Into a Six-City Asia Tour",
+        "p": [
+          "Beyond the capital city performances, the artist will embark on an expansive regional trek spanning six major Asian destinations through the month of April. The overseas journey begins shortly after the Seoul kickoff.",
+          "Stops on the itinerary include Macau on January 30 and 31, Bangkok on February 27, a multi-night run in Hong Kong from March 27 to 29, Taipei on April 3, and a concluding two-night engagement in Tokyo on April 17 and 18."
+        ]
+      },
+      {
+        "h": "New Album 'Unspecial' and Setlist Preview",
+        "p": [
+          "The upcoming concert series directly accompanies the release of the artist's fourth full-length album, titled 'Unspecial.' The new record is scheduled to drop on November 30 at 6 PM KST, featuring a tracklist of 12 songs across diverse genres, including a title track sharing the album's name.",
+          "Concertgoers can anticipate a fresh and dynamic setlist incorporating live renditions of these newly minted tracks, blending brand-new musical directions with established fan favorites."
+        ]
+      },
+      {
+        "h": "Teasing B-Side Tracks",
+        "p": [
+          "Ahead of the full album drop, management has provided listeners with glimpses of the record through select B-side tracks. Promoted R&B selections include songs titled 'Toothache,' 'Parachute,' and 'Cheers.'",
+          "These previews have heightened interest in the upcoming release, showcasing the stylistic range and vocal versatility that will ultimately translate to the live stage during the tour."
+        ]
+      },
+      {
+        "h": "Legacy and Past Milestones",
+        "p": [
+          "This upcoming tour marks a significant return to the stage, arriving approximately one year and 10 months after her previous major outing, 'TAEYEON CONCERT - The TENSE,' held in March 2025. Across six previous solo concert runs, she has firmly established her vocal prowess and commanding stage presence.",
+          "Furthermore, 'Unspecial' represents her first full-length album in four years and 10 months, following the monumental success of her third full album, 'INVU,' released in 2022. That previous project achieved remarkable heights by capturing eight music show trophies and dominating the iTunes Top Albums chart across 23 regions globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taeyeon has announced her seventh solo concert series, 'F.L.Y.,' starting with a three-day opening at the KSPO DOME in Seoul from January 15 to 17, 2027, followed by a six-city Asia tour concluding in April.",
+          "The tour coincides with the release of her fourth full-length album, 'Unspecial,' arriving on November 30 with 12 tracks, marking her first full-length release since her 2022 album 'INVU.'"
+        ]
+      }
+    ],
+    "facts": [
+      "Taeyeon will hold her seventh solo concert titled 'TAEYEON CONCERT - F.L.Y. in Seoul' at the KSPO DOME.",
+      "The Seoul concerts take place from January 15 to 17, 2027.",
+      "The fourth full-length album 'Unspecial' releases on November 30 at 6 PM KST.",
+      "The Asia tour covers six cities from January through April, including Macau, Bangkok, Hong Kong, Taipei, and Tokyo.",
+      "Her previous album 'INVU' was released in 2022 and won eight music show trophies while topping iTunes charts in 23 regions."
+    ],
+    "entities": {
+      "people": [
+        "Taeyeon"
+      ],
+      "titles": [
+        "TAEYEON CONCERT - F.L.Y. in Seoul",
+        "TAEYEON CONCERT - The TENSE",
+        "Unspecial",
+        "Toothache",
+        "Parachute",
+        "Cheers",
+        "INVU",
+        "Girls' Generation"
+      ]
+    },
+    "keywords": [
+      "Taeyeon FLY concert",
+      "Taeyeon Unspecial album",
+      "Taeyeon Asia tour 2027",
+      "TAEYEON CONCERT F.L.Y. in Seoul"
+    ],
+    "images": [],
+    "published": "Wed, 18 Nov 2026 01:00:00 EST"
+  },
+  "1tpge1r": {
+    "id": "1tpge1r",
+    "type": "news",
+    "headline": "Salman Khan Surprises 'Maatrubhumi: May War Rest in Peace' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+    "dek": "Bollywood star Salman Khan recently surprised the team of his upcoming war drama with luxury Swiss watches during what was originally planned as a routine promotional meeting.",
+    "body": [
+      {
+        "h": "A Generous Surprise at the Farmhouse",
+        "p": [
+          "Bollywood icon Salman Khan has once again demonstrated his reputation for generosity by hosting an exclusive private party for the cast and crew of his upcoming film. Gathered at his Panvel farmhouse, the team expected a standard meeting to discuss ongoing promotional strategies.",
+          "Instead, the agenda shifted entirely when the actor unveiled a major surprise, transforming the professional get-together into a celebratory evening to honor the hard work put into the project."
+        ]
+      },
+      {
+        "h": "Luxury Swiss Timepieces as Tokens of Appreciation",
+        "p": [
+          "The highlight of the evening was the distribution of high-end luxury Swiss watches to everyone involved in the production. Reports indicate that roughly twenty to twenty-five watches were handed out personally by the lead star.",
+          "Each timepiece was valued between Rs 2 lakh and Rs 6 lakh. Photographs from the special gathering quickly circulated online, offering fans a glimpse into the celebratory atmosphere at the farmhouse."
+        ]
+      },
+      {
+        "h": "Thoughtful Selection for Men and Women",
+        "p": [
+          "Demonstrating attention to detail, Salman Khan reportedly selected different luxury brands tailored specifically for the men and women on the project team. He made sure to hand out the expensive presents personally.",
+          "This gesture was aimed at acknowledging the dedication and grueling hours the team invested to bring the war drama from script to screen."
+        ]
+      },
+      {
+        "h": "Key Cast and Crew in Attendance",
+        "p": [
+          "Several notable members of the film's team were present at the Panvel gathering to enjoy the festivities and receive their gifts. Attendees included director Apoorva Lakhia and lead actress Chitrangda Singh.",
+          "Other cast and crew members present at the celebration were actors Ankur Bhatia, Vipin Bhardwaj, Tanya Desai, and dialogue writer Chintan Shah, many of whom shared moments from the party on social media."
+        ]
+      },
+      {
+        "h": "Background on 'Maatrubhumi: May War Rest in Peace'",
+        "p": [
+          "The project serves as a major upcoming war drama starring Salman Khan and Chitrangda Singh, under the direction of Apoorva Lakhia. It is produced under the banner of Salman Khan Films.",
+          "Initially announced under the working title 'Battle of Galwan', the production later underwent a title change to its current moniker before locking in its theatrical launch."
+        ]
+      },
+      {
+        "h": "Theatrical Release Timeline",
+        "p": [
+          "The film's journey to the big screen experienced a few scheduling adjustments before settling on its final release date. Initially slated for a January arrival, the makers pushed the timeline.",
+          "The team finally settled on December 4, 2026, as the official date for the film to hit theatres nationwide, building anticipation among fans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan hosted a private party at his Panvel farmhouse on November 12, surprising the cast and crew of his upcoming film with luxury Swiss watches. The gathering, initially disguised as a promotional meeting, celebrated the team's hard work ahead of the film's theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan threw a private party at his Panvel farmhouse on November 12, 2026.",
+      "The party was held for the cast and crew of 'Maatrubhumi: May War Rest in Peace'.",
+      "Salman Khan gave away roughly 20 to 25 luxury watches.",
+      "Each watch was priced between Rs 2 lakh and Rs 6 lakh.",
+      "Attendees included director Apoorva Lakhia and actors Chitrangda Singh, Ankur Bhatia, Vipin Bhardwaj, and Tanya Desai, along with dialogue writer Chintan Shah.",
+      "The film was originally announced as 'Battle of Galwan'.",
+      "The film is scheduled for release on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Apoorva Lakhia",
+        "Ankur Bhatia",
+        "Vipin Bhardwaj",
+        "Tanya Desai",
+        "Chintan Shah"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Salman Khan",
+      "Maatrubhumi: May War Rest in Peace",
+      "Chitrangda Singh",
+      "Apoorva Lakhia",
+      "Battle of Galwan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135950955,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Surprises 'Maatrubhumi: May War Rest in Peace' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T11:14:05+05:30"
+  },
+  "qvnnvd": {
+    "id": "qvnnvd",
+    "type": "news",
+    "headline": "RIIZE and PLAVE unite in cross-dimensional teaser for upcoming collaboration single 'Lowkey'",
+    "dek": "K-pop boy group RIIZE and virtual group PLAVE have unveiled a joint teaser image ahead of their collaborative release on November 30.",
+    "body": [
+      {
+        "h": "The Cross-Dimensional Meetup",
+        "p": [
+          "A fascinating new promotional image has brought two completely different musical spheres together for the very first time. Real-life boy group RIIZE and virtual boy group PLAVE have shared a joint teaser snapshot that unites all eleven members in a single frame within an unfamiliar environment.",
+          "The newly dropped image portrays the six members of RIIZE standing face-to-face with the five virtual characters of PLAVE. This unusual convergence of actual performers and digital avatars serves as a strong hint about the creative theme driving their upcoming joint project."
+        ]
+      },
+      {
+        "h": "First Collaboration for 2023 Debutants",
+        "p": [
+          "The upcoming release titled 'Lowkey' represents the inaugural musical partnership between these two acts. Both RIIZE and PLAVE originally entered the music scene in the year 2023, making them peers in terms of industry tenure.",
+          "Despite their differing foundations—one operating as a traditional human dance ensemble and the other as a digitally rendered virtual act—both teams have gathered substantial followings. Their decision to team up for a shared single and accompanying music video has captured widespread interest."
+        ]
+      },
+      {
+        "h": "Musical Style and Soundscape",
+        "p": [
+          "Sonic details for 'Lowkey' point toward an upbeat and refreshing house-based dance composition. The track weaves together UK garage-style synthesizers with a commanding bass line and energetic, groovy drums.",
+          "Lyrically, the song adopts a gentle narrative approach. It tells a romantic tale about two individuals existing in separate worlds who happen to cross paths, ultimately forging a brand new universe of their own."
+        ]
+      },
+      {
+        "h": "Inside the Narrative Music Video",
+        "p": [
+          "The accompanying music video further develops the cross-dimensional concept introduced in the teasers. The plot kicks off when a malfunctioning warp device causes both groups to crash-land unexpectedly into a mysterious, unknown dimension.",
+          "Upon discovering each other in this strange space, RIIZE and PLAVE proceed to synchronize their movements and perform together to a shared rhythm. Successfully merging real-life performers and virtual characters into one cohesive story stands out as a primary focal point of the video."
+        ]
+      },
+      {
+        "h": "Merging Global Stage Presence with Virtual Innovation",
+        "p": [
+          "The partnership bridges two distinct strengths within the current entertainment landscape. RIIZE has cultivated a reputation for commanding global stages through intense choreography and powerful presence.",
+          "On the other hand, PLAVE has leveraged advanced technology to establish a massive dedicated fandom. By combining these contrasting approaches, the collaboration highlights ongoing experimentation in modern music production."
+        ]
+      },
+      {
+        "h": "Release Details and Anticipation",
+        "p": [
+          "As the countdown to the drop continues, the participants have been steadily rolling out individual teaser images. This steady stream of previews has amplified excitement among supporters worldwide.",
+          "The collaboration single 'Lowkey' along with its official music video are scheduled to arrive simultaneously on November 30 at 12 PM KST."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "RIIZE and PLAVE have teamed up for their first-ever collaborative single titled 'Lowkey', featuring a joint music video that brings all eleven members together across dimensions. The house-based dance track and its accompanying visual project are set to launch simultaneously on November 30 at 12 PM KST."
+        ]
+      }
+    ],
+    "facts": [
+      "RIIZE and PLAVE released a teaser image on November 18, 2026.",
+      "RIIZE consists of six members, while PLAVE consists of five members, totaling 11 members.",
+      "Both groups debuted in 2023.",
+      "The collaboration single is titled 'Lowkey'.",
+      "Lowkey is a house-based dance track with UK garage synthesizers, a heavy bass line, and groovy drums.",
+      "The single and music video release date is November 30 at 12 PM KST."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Lowkey"
+      ]
+    },
+    "keywords": [
+      "RIIZE",
+      "PLAVE",
+      "Lowkey collaboration single",
+      "RIIZE and PLAVE Lowkey teaser"
+    ],
+    "images": [],
+    "published": "Wed, 18 Nov 2026 02:00:00 EST"
   }
 };

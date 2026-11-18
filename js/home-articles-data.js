@@ -50,6 +50,63 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 12:07:59 +0200"
   },
+  "k60y7p": {
+    "id": "k60y7p",
+    "type": "news",
+    "headline": "Ramayana Box Office Run Creates IMAX Show Sharing Hurdles for Godzilla Minus Zero",
+    "dek": "The phenomenal success of Ramayana in IMAX formats has sparked distribution challenges, delaying advance bookings for Godzilla Minus Zero and threatening The Hunger Games franchise with a potential format omission.",
+    "entities": {
+      "people": [
+        "Nayana Bijli",
+        "Vardhaan Puri",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Ramayana",
+        "The Hunger Games: Sunrise On The Reaping",
+        "Ramayana - Part I"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Ramayana IMAX",
+      "PVR INOX Pictures",
+      "The Hunger Games Sunrise On The Reaping",
+      "Nayana Bijli"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/SCOOP-Ramayanas-BLOCKBUSTER-run-creates-IMAX-show-sharing-hurdles-for-Godzilla-Minus-Zero-The-Hunger-Games-may-skip-IMAX-release.jpeg",
+        "caption": "Ramayana Box Office Run Creates IMAX Show Sharing Hurdles for Godzilla Minus Zero",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 10:50:31 +0200"
+  },
+  "qvnnvd": {
+    "id": "qvnnvd",
+    "type": "news",
+    "headline": "RIIZE and PLAVE unite in cross-dimensional teaser for upcoming collaboration single 'Lowkey'",
+    "dek": "K-pop boy group RIIZE and virtual group PLAVE have unveiled a joint teaser image ahead of their collaborative release on November 30.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Lowkey"
+      ]
+    },
+    "keywords": [
+      "RIIZE",
+      "PLAVE",
+      "Lowkey collaboration single",
+      "RIIZE and PLAVE Lowkey teaser"
+    ],
+    "images": [],
+    "published": "Wed, 18 Nov 2026 02:00:00 EST"
+  },
   "fdq9wj": {
     "id": "fdq9wj",
     "type": "news",
@@ -176,6 +233,71 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 06:12:49 +0000"
+  },
+  "1icr0ob": {
+    "id": "1icr0ob",
+    "type": "news",
+    "headline": "Taeyeon Reveals Seventh Solo Concert 'F.L.Y.' and Extensive Asia Tour",
+    "dek": "The Girls' Generation star is set to launch her brand new concert series at the KSPO DOME in Seoul before traveling across six Asian cities, coinciding with the release of her fourth full-length album.",
+    "entities": {
+      "people": [
+        "Taeyeon"
+      ],
+      "titles": [
+        "TAEYEON CONCERT - F.L.Y. in Seoul",
+        "TAEYEON CONCERT - The TENSE",
+        "Unspecial",
+        "Toothache",
+        "Parachute",
+        "Cheers",
+        "INVU",
+        "Girls' Generation"
+      ]
+    },
+    "keywords": [
+      "Taeyeon FLY concert",
+      "Taeyeon Unspecial album",
+      "Taeyeon Asia tour 2027",
+      "TAEYEON CONCERT F.L.Y. in Seoul"
+    ],
+    "images": [],
+    "published": "Wed, 18 Nov 2026 01:00:00 EST"
+  },
+  "1tpge1r": {
+    "id": "1tpge1r",
+    "type": "news",
+    "headline": "Salman Khan Surprises 'Maatrubhumi: May War Rest in Peace' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+    "dek": "Bollywood star Salman Khan recently surprised the team of his upcoming war drama with luxury Swiss watches during what was originally planned as a routine promotional meeting.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Apoorva Lakhia",
+        "Ankur Bhatia",
+        "Vipin Bhardwaj",
+        "Tanya Desai",
+        "Chintan Shah"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Salman Khan",
+      "Maatrubhumi: May War Rest in Peace",
+      "Chitrangda Singh",
+      "Apoorva Lakhia",
+      "Battle of Galwan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135950955,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Surprises 'Maatrubhumi: May War Rest in Peace' Cast and Crew with Luxury Watches at Panvel Farmhouse",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T11:14:05+05:30"
   },
   "1os7b9w": {
     "id": "1os7b9w",
@@ -4632,154 +4754,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 17 Nov 2026 03:00:00 +0000"
-  },
-  "1h8vj7l": {
-    "id": "1h8vj7l",
-    "type": "news",
-    "headline": "Jang Sung Kyu, Sooyoung, and Moon Sang Min to Lead 2026 KBS Drama Awards",
-    "dek": "KBS has officially announced the three star hosts for the upcoming year-end ceremony celebrating the network's top dramas and actors.",
-    "entities": {
-      "people": [
-        "Jang Sung Kyu",
-        "Sooyoung",
-        "Moon Sang Min",
-        "Nam Ji Hyun",
-        "Choi Soo Young",
-        "S Kim"
-      ],
-      "titles": [
-        "OK! Madam: Bon Voyage",
-        "The Merchant of Venice",
-        "I Went to School",
-        "To My Beloved Thief",
-        "2026 KBS Drama Awards",
-        "2025 KBS Drama Awards"
-      ]
-    },
-    "keywords": [
-      "2026 KBS Drama Awards",
-      "Jang Sung Kyu",
-      "Sooyoung",
-      "Moon Sang Min",
-      "To My Beloved Thief"
-    ],
-    "images": [
-      {
-        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17112650/kbs-drama-awards-2026.jpg",
-        "caption": "Jang Sung Kyu, Sooyoung, and Moon Sang Min to Lead 2026 KBS Drama Awards",
-        "source": "Soompi"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 02:42:08 +0000"
-  },
-  "1db0usn": {
-    "id": "1db0usn",
-    "type": "news",
-    "headline": "Suriya's Scene Nears ₹250 Crore Worldwide Milestone Following Second Weekend",
-    "dek": "Tamil action comedy Scene experiences a weekday dip on its 11th day in theatres, bringing its cumulative domestic net past ₹139 crore.",
-    "entities": {
-      "people": [
-        "Suriya",
-        "Naslen",
-        "Nazriya Nazim",
-        "Anandraj",
-        "Lal",
-        "Raj Priyan",
-        "Jithu Madhavan",
-        "Sushin Shyam",
-        "Jyothika",
-        "Vineeth Augustian",
-        "Ajmal Sabu",
-        "Vishnu Govind"
-      ],
-      "titles": [
-        "Scene"
-      ]
-    },
-    "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Scene Day 11 collection",
-      "Scene worldwide gross"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/scene-66851794882517.jpg",
-        "caption": "Suriya's Scene Nears ₹250 Crore Worldwide Milestone Following Second Weekend",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 07:59:02 +0530"
-  },
-  "11lgb5z": {
-    "id": "11lgb5z",
-    "type": "news",
-    "headline": "Star Trek Online Brings Back Return to Duty Starter Pack for Limited Time",
-    "dek": "The popular MMORPG is treating console players to a special bundle re-release as part of the ongoing 60th-anniversary celebrations.",
-    "entities": {
-      "people": [
-        "Sir Patrick Stewart"
-      ],
-      "titles": [
-        "Star Trek",
-        "Star Trek Online",
-        "The Original Voyages"
-      ]
-    },
-    "keywords": [
-      "Star Trek Online Return to Duty",
-      "Star Trek 60th anniversary 2026",
-      "Star Trek Online console bundles",
-      "Kobayashi Maru Supply Device"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/star-trek-nemesis-picard-and-tng-crew.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Star Trek Online Brings Back Return to Duty Starter Pack for Limited Time",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 02:00:18 GMT"
-  },
-  "1ju9dbg": {
-    "id": "1ju9dbg",
-    "type": "news",
-    "headline": "Below Deck Season 13 Episode 6 Review and Recap",
-    "dek": "A closer look at the crew dynamics, captain decisions, and mounting tensions in Below Deck Season 13 Episode 6.",
-    "entities": {
-      "people": [
-        "Matt",
-        "Alex",
-        "Rainbeau",
-        "Moe",
-        "Kerry",
-        "James",
-        "Sen",
-        "Kaylee",
-        "Rosa",
-        "Fraser",
-        "Madison",
-        "Paris",
-        "João Franco"
-      ],
-      "titles": [
-        "Below Deck"
-      ]
-    },
-    "keywords": [
-      "Below Deck Over the Rainbeau",
-      "Below Deck Season 13 Episode 6",
-      "Captain Kerry Matt Alex bosun",
-      "João Franco arrested Turkey"
-    ],
-    "images": [
-      {
-        "url": "https://pyxis.nymag.com/v1/imgs/30f/134/b566d088143d3b930f373daae13921963f-belowdeck-6-nov2026.1x.rsocial.w1200.png",
-        "caption": "Below Deck Season 13 Episode 6 Review and Recap",
-        "source": "Vulture"
-      }
-    ],
-    "published": "2026-11-17T02:00:02.102Z"
   },
   "196ll1": {
     "id": "196ll1",
