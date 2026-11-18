@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T08:51:59Z",
-    "run_id": "44050179403",
-    "status": "success",
-    "checked": {
-     "candidates": 297,
-     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Avengers: Doomsday sets another RECORD; Navi Mumbai multiplex sells ticket for Rs. 4,300; price of a single ticket crosses Rs. 4,000 mark for the FIRST time ever!",
-      "Arjun Kapoor partners with London Fog Watches as face of the brand and co-creative director",
-      "Love In Disguise Episode 10 Release Time Today: When & Where To Stream Ep 10? What To Expect From K-drama?",
-      "Daayra Ending Explained: Did Kareena Kapoor’s Ajooni File Her Final Report Against Prithviraj Sukumaran’s DCP Raman Kumar?",
-      "The Vvaan 2 Announced Just 52 Days After First Film's Release as Ektaa Kapoor and TVF Plan Bigger Folklore Universe",
-      "Rohit Shetty's Golmaal 5 Attracts 100+ Crore India Distribution Rights Race Ahead of January 2027 Release",
-      "Jailer 2 Adds ₹227 Cr to Jailer's Worldwide Gross, But How Does Its 38.1% Growth Compare With India's Biggest Sequels?",
-      "‘Aakasamlo Oka Tara’: Dulquer Salmaan’s film receives U/A certification",
-      "Aryan Khan eyes Coachella-style music festival in India",
-      "Tiger Shroff shares new song teaser in first Instagram post after firing incident, writes ‘one more chance, one more dance’",
-      "Ramayana, Dhurandhar 2 propel Indian box office past  ₹15000 crore in 2026, giving Indian cinema's highest-grossing year ever",
-      "Raghu Ram once said Roadies was over when he left, now returns with Rebirth: What changed?",
-      "After Sonu Sood, Aashiqui actor Rahul Roy meets Sharad Kapoor, revisits the '90s",
-      "Why can't unmarried women perform Chhath? Akshara Singh hits back at trolls",
-      "K3G is back? Karan Johar reunites Poo, Rohan after 25 years but there's a twist",
-      "Neil Nitin Mukesh serves prasad; Himesh, Bhumi soak in devotion at Guruji's satsang",
-      "Remain trailer: Jake Gyllenhaal, Phoebe Dynevor battle paranormal forces",
-      "Eetha FIRST Song Ji Ji Re Ji Out! Shraddha Kapoor Performs Lavani With Grace, Strength And Impeccable Expressions- Watch",
-      "Salma Hayek Dances in Strappy Black Dress During Grown Ups 3 Massage Session",
-      "Hulu’s Successful 39-Part Legal Drama Renewed for Season 5 Ahead of Season 4 Finale"
-     ],
-     "updated": [],
-     "count": 289,
-     "detail": "292 stories, 0 duplicates removed, 5 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-17T09:52:05Z",
     "run_id": "44059265140",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "390 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-17T08:52:58Z",
-    "run_id": "44050179403",
+    "run_at": "2026-11-18T08:52:10Z",
+    "run_id": "44270456617",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 562,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Part 1 Box Office Nears Rs 1500 Crore Globally On Day 12",
-      "Hulu Secures Season 5 Renewal for Legal Drama Ahead of Season 4 Finale",
-      "Robert Pattinson Officially Named As The New James Bond By Amazon MGM Studios",
-      "Sunshine through the Rain Wraps Up Its Run"
+      "Karan Tacker has joined Arshad Warsi and Rasika Dugal for Farhan Akhtar’s Victims?",
+      "Shashaank Khaitaan announces Aisi Deewangi Dekhi Nahin Kahin; introduces newcomers Subhaan and Airah",
+      "TV Actress Shiva Pathania Praises Sai Pallavi's Stint In Ramayana: I Saw Her Performance & I'm In Awe",
+      "Bigg Boss 20: Fans Question Amrapali's Friendship With Love After Mudslinging: Bhagwan 100 Dushman Dede Par...",
+      "Purple Halcyon (Ashwani A) Earns Rs 1 Crore Monthly From Instagram Subscriptions? Here's What She Revealed",
+      "Ramayana Box Office Day 13: Ranbir Kapoor & Yash Play Peek-A-Boo With 850 Crore Mark, But Miss Dhurandhar’s Top Spot On The 2nd Tuesday!",
+      "Box Office: Ramayana Nails 5 Records In The South – Ranbir Kapoor & Yash Become The Only Actors To Hit This Huge Milestone!",
+      "Bachelor Party Deux Box Office Advance (1 Day To Go): Surpasses Kunchacko Boban’s Previous Release",
+      "5 Nayanthara Films That Showcase Her Power As A Leading Lady: From Kolamavu Kokila To Dora",
+      "Ramayana's IMAX Dominance Creates Show-Sharing Hurdles for Godzilla Minus Zero, Hunger Games Release in Doubt",
+      "Ramayana Creates Bollywood History as First Film to Cross ₹50 Crore Gross in All Four South Indian Markets",
+      "k balachander classics restored for screening at frances festival des 3 continents 87235.html",
+      "samantha ruth prabhu celebrates intimate traditional baby shower ceremony 87228.html",
+      "salman khan turns promo meet into party gifts luxury watches to maatrubhumi team 87226.html",
+      "javed akhtar says essence of ram runs in every indians blood reveals zoya akhtar liked ramayana 87225.html",
+      "the idea came from you ranbir kapoor on yashs idea for ravanas 10 head scene in ramayana 87223.html",
+      "call me bae season 2 release date out ananya panday returns as bae this december 87204.html",
+      "'Ramayana' box office collection day 14 (LIVE)",
+      "Nikita Dutta Joins Guru: Actor joins John Abraham’s thriller",
+      "Dulquer Salmaan jokes mother will watch his film before Mammootty’s ‘OM’"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 402,
+     "detail": "404 stories, 6 duplicates removed, 158 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-18T08:54:07Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Call Me Bae Season 2 Sets December Release Date on Prime Video",
+      "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+      "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+      "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-17T11:53:04Z",
-    "run_id": "44077624609",
-    "status": "success",
-    "checked": {
-     "candidates": 372,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 363, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,26 +1901,27 @@
      "detail": "now 367, coming 9"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-17T08:54:41Z",
-    "run_id": "44050179403",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-18T08:54:08Z",
+    "run_id": "44270456617",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 376,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 367, coming 9"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2390,27 +2373,29 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-18T09:05:19Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "p5d6en",
+      "ddarhf"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T08:54:39Z",
-    "run_id": "44050179403",
-    "status": "success",
-    "checked": {
-     "candidates": 698,
-     "detail": "661 collected staging rows from readers; 233 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+0 new rows, 6 updated rows, 673 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2824,19 +2809,27 @@
      "detail": "+0 new rows, 3 updated rows, 683 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:04:53Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 707,
+     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+0 new rows, 7 updated rows, 679 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3073,32 +3066,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-17T08:54:40Z",
-    "run_id": "44050179403",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sunshine through the Rain Wraps Up Its Run",
-      "Ramayana: Part 1 Box Office Nears Rs 1500 Crore Globally On Day 12",
-      "Hulu Secures Season 5 Renewal for Legal Drama Ahead of Season 4 Finale",
-      "Robert Pattinson Officially Named As The New James Bond By Amazon MGM Studios"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3619,19 +3599,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:05:19Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+      "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+      "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour",
+      "Call Me Bae Season 2 Sets December Release Date on Prime Video"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3861,19 +3854,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4145,31 +4138,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-17T08:52:58Z",
-    "run_id": "44050179403",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T08:52:55Z",
+    "run_id": "44270456617",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 289 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 1/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 0/3, awards 3/2, music_ost 2/2, viral 1/2"
+     "candidates": 514,
+     "sources": {
+      "trending": 19,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 37,
+      "pk_movies": 18
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Ramayana: Part 1 Box Office Nears Rs 1500 Crore Globally On Day 12",
-      "Hulu Secures Season 5 Renewal for Legal Drama Ahead of Season 4 Finale",
-      "Robert Pattinson Officially Named As The New James Bond By Amazon MGM Studios",
-      "Sunshine through the Rain Wraps Up Its Run"
+      "A shirt (1828390)",
+      "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH (1457866)",
+      "Suicide forcé : un féminicide invisible ? (1828786)",
+      "Guarding Stars (1551025)",
+      "Furies (1484090)",
+      "Alain Souchon accompagné par Ours & Pierre Souchon (1828757)",
+      "Jupiter (1502759)",
+      "Starlight (1828420)",
+      "White Blast (1244809)",
+      "Corner: Our Bumpy Story (1828100)",
+      "Keevve? (1826874)",
+      "Le masque fantôme (1826075)",
+      "A Lone Jamun Tree (1825350)",
+      "Gorgonia (1823039)",
+      "Huellas (1820765)",
+      "THE INTERVIEW FINALE (1820274)",
+      "DIDIMBAL (1818285)",
+      "Banou (1816476)",
+      "There Goes My Childhood: The Seven Awesome Kids Story (1814378)",
+      "4Kims (1812380)"
      ],
      "updated": [],
-     "count": 4
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4670,19 +4697,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-18T08:54:07Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 402 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 0/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Call Me Bae Season 2 Sets December Release Date on Prime Video",
+      "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+      "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+      "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4989,24 +5028,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-18T08:55:32Z",
+    "run_id": "44270456617",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 406,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5341,24 +5382,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 16,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5693,19 +5729,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 21,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5950,22 +5991,27 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 87,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
     "run_at": "2026-11-17T10:05:43Z",
     "run_id": "44059265140",
     "status": "skipped",
@@ -6192,22 +6238,27 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-11-17T10:05:43Z",
     "run_id": "44059265140",
     "status": "skipped",
@@ -6434,19 +6485,75 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-18T08:53:31Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 50,
+     "valid": 50,
+     "failed": 0,
+     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "The Hunger Games: Sunrise on the Reaping (1300968)",
+      "V. Shantaram (1590846)",
+      "A Primeira Vez A Gente Nunca Esquece (1821412)",
+      "Gregor Samsa No Século XXI (1821378)",
+      "Where the Air Tastes Like the Sea (1816178)",
+      "The First Five Minutes... The Title Design Legacy of Dan Perri (1815534)",
+      "Precipicio (1814908)",
+      "Ouragan Hugo, l'épreuve du vent (1812796)",
+      "Moth Wood (1812211)",
+      "LIM YOUNG WOONG | IM HERO THE STADIUM 2 (1809304)",
+      "Wild Eyes: The Woman of the Prince (1809258)",
+      "TechnoChimères (1801528)",
+      "Mangabangabaka (1796426)",
+      "Princess (1790569)",
+      "sad pride generation (1782916)",
+      "Tu ne jugeras point (1782610)",
+      "Hot Wieners and Coffee Milk (1774577)",
+      "Gomorrah (1766051)",
+      "Andoy (1764859)",
+      "Snow in June (1756431)",
+      "The Night Was Completely Ruined (1693535)",
+      "Enjoy Your Stay (1616187)",
+      "Camembert (1613021)",
+      "Malika (1562691)",
+      "Status: Rejected (1561347)",
+      "She Who Refused Death (1725526)",
+      "KI - Die letzte Erfindung der Menschheit? (1822061)",
+      "Instagram/TikTok, la guerre des réseaux (1822057)",
+      "Storia di un bimbo mucca (1821193)",
+      "Long Haired Businessmen (1819503)",
+      "A Cangaceira (1817352)",
+      "Se Eu Tivesse Seus Olhos, (1817008)",
+      "Qué lejos están las fuentes y los pájaros (1816482)",
+      "bonus track desesperada (1815558)",
+      "asturias es jazz (1815552)",
+      "Human.ID (1806788)",
+      "Freeborn (1805492)",
+      "Sapped (1805475)",
+      "Cadence (1805464)",
+      "GW:s mord - Mordet på Wilma (1802475)",
+      "Second Chance Holiday (1801870)",
+      "Intolerant (1800864)",
+      "KILL/SAVE (1798903)",
+      "People Experience (1798642)",
+      "Den sista turisten i Europa (1798439)",
+      "Vandycorn (1822468)"
+     ],
+     "count": 46
+    },
+    "reason": null
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6687,19 +6794,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6929,19 +7036,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7194,30 +7301,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-16T07:51:49Z",
-    "run_id": "43826642567",
-    "status": "success",
-    "checked": {
-     "candidates": 564,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 551"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7701,19 +7797,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-18T08:54:30Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": {
+     "candidates": 574,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 558"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7948,19 +8055,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 252,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-17T08:54:49Z",
-    "run_id": "44050179403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8225,8 +8337,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-18T09:05:28Z",
+    "run_id": "44270456617",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ]
  },
- "updated_at": "2026-11-18T07:52:23Z"
+ "updated_at": "2026-11-18T09:05:28Z"
 }

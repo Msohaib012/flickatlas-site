@@ -179578,5 +179578,369 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Wed, 18 Nov 2026 02:00:00 EST"
+  },
+  "1kttojm": {
+    "id": "1kttojm",
+    "type": "news",
+    "headline": "Call Me Bae Season 2 Sets December Release Date on Prime Video",
+    "dek": "Ananya Panday returns as Bella Chowdhary for an eight-episode second season of Call Me Bae, premiering worldwide on December 17, 2026.",
+    "body": [
+      {
+        "h": "The Return of Bella Chowdhary",
+        "p": [
+          "Prime Video has officially announced the return of its hit streaming series, confirming a December premiere for the second season. Ananya Panday reprises her role as the spirited protagonist, bringing back the signature fashion and humor that defined the first outing.",
+          "A newly released promotional poster features the lead character reclining atop a bright pink autorickshaw amidst heavy traffic. The playful imagery highlights the chaotic charm that fans have come to associate with the character's adventures."
+        ]
+      },
+      {
+        "h": "Release Details and Format",
+        "p": [
+          "The upcoming sophomore chapter is scheduled to drop worldwide on December 17, 2026. Following the structure of the previous installment, the new season will consist of eight episodes.",
+          "The narrative picks up roughly two years after the events of the first season, continuing the protagonist's journey in the bustling entertainment and media landscape."
+        ]
+      },
+      {
+        "h": "Plot Developments and Career Growth",
+        "p": [
+          "Viewers will see the central character navigating the next phase of her professional life as her journalism career begins to gain momentum. However, professional success does not translate to personal peace.",
+          "The storyline introduces fresh complications, including a complicated romance involving her returning former husband and her attractive superior at work. Viral fame and professional hurdles add further strain to her daily routine."
+        ]
+      },
+      {
+        "h": "New Additions to the Cast",
+        "p": [
+          "The beloved friend group known as the Behen Code will face unexpected challenges in the upcoming episodes. A notable new addition to the ensemble is a mysterious character referred to as the Nayi Behen.",
+          "Actor Shruti Haasan joins the cast to portray this new dynamic, shaking up the established relationships and bringing fresh energy to the narrative."
+        ]
+      },
+      {
+        "h": "Returning Fan Favorites",
+        "p": [
+          "Alongside the main leads, the upcoming episodes feature a robust lineup of returning supporting talent. The ensemble cast includes Vir Das, Gurfateh Pirzada, and Varun Sood.",
+          "Other familiar faces returning to the screen are Vihaan Samat, Muskkaan Jaferi, Niharika Lyra Dutt, Lisa Mishra, and Mini Mathur, ensuring plenty of familiar chemistry."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production",
+        "p": [
+          "Behind the camera, the creative team remains consistent with the first outing. Collin D'Cunha returns to direct the series, while Ishita Moitra continues as the creator.",
+          "The production is backed by Dharmatic Entertainment. Producer Karan Johar expressed enthusiasm for expanding the fictional universe and continuing the character's eventful journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Call Me Bae Season 2 will premiere globally on Prime Video on December 17, 2026, with Ananya Panday returning for an eight-episode run. The upcoming season features a new romantic entanglement, career growth, and additions to the cast like Shruti Haasan under the direction of Collin D'Cunha."
+        ]
+      }
+    ],
+    "facts": [
+      "Ananya Panday stars as Bella Chowdhary in Call Me Bae Season 2.",
+      "Call Me Bae Season 2 premieres worldwide on December 17, 2026.",
+      "The second season consists of eight episodes.",
+      "Shruti Haasan joins the cast as a new character.",
+      "Karan Johar is the producer of the Dharmatic Entertainment series.",
+      "Collin D'Cunha returns to direct Season 2, which was created by Ishita Moitra."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Shruti Haasan",
+        "Vir Das",
+        "Gurfateh Pirzada",
+        "Varun Sood",
+        "Vihaan Samat",
+        "Muskkaan Jaferi",
+        "Niharika Lyra Dutt",
+        "Lisa Mishra",
+        "Mini Mathur",
+        "Collin D'Cunha",
+        "Ishita Moitra",
+        "Karan Johar",
+        "Fernando Lindez",
+        "Luca Melucci"
+      ],
+      "titles": [
+        "Call Me Bae",
+        "Call Me Bae Season 2"
+      ]
+    },
+    "keywords": [
+      "Call Me Bae Season 2",
+      "Ananya Panday Call Me Bae",
+      "Call Me Bae release date",
+      "Shruti Haasan Call Me Bae"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/call-me-bae-season-21794902438.jpg",
+        "caption": "Call Me Bae Season 2 Sets December Release Date on Prime Video",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-18T12:17:24+05:30"
+  },
+  "n5lpuv": {
+    "id": "n5lpuv",
+    "type": "news",
+    "headline": "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+    "dek": "Popularly known as Purple Halcyon, Ashwani A discusses her monthly earnings from Instagram subscriptions and shares insights into her tax payments.",
+    "body": [
+      {
+        "h": "Introduction To The Earnings",
+        "p": [
+          "Kerala-based content creator Ashwani A, widely recognized under the online identity Purple Halcyon, recently shared details regarding her revenue generation from social media. During a media interaction, she discussed the financial returns brought in specifically by her Instagram subscriptions.",
+          "She revealed that her earnings through this particular feature can reach up to Rs 1 crore in a given month. However, she noted that this figure is not uniform across the entire year and that monthly revenues fluctuate."
+        ]
+      },
+      {
+        "h": "Subscription Model And Content",
+        "p": [
+          "The monetization model utilized by the creator relies heavily on exclusive content offered through Instagram subscriptions. Followers opt to pay a fee to access specific updates and materials that are kept separate from her regular, publicly available posts.",
+          "This revenue stream forms a major part of the Purple Halcyon online presence, contributing significantly to the financial success reported during her recent statements."
+        ]
+      },
+      {
+        "h": "Tax Details And Financial Disclosures",
+        "p": [
+          "Alongside her comments on subscription revenues, Ashwani addressed the matter of taxes paid on her earnings. Reports indicate that she paid Rs 51.5 lakh in taxes during 2025.",
+          "Furthermore, she mentioned that her tax payments for 2026 had already surpassed the total amount paid during the previous year, pointing to continued growth in her overall income."
+        ]
+      },
+      {
+        "h": "Origins In Travel Vlogging",
+        "p": [
+          "Before establishing her current digital footprint, Ashwani began her social media journey by creating travel vlogs. This initial phase of her content creation took place while she was living abroad after previously working in the United Kingdom.",
+          "Upon returning to Kerala, she transitioned away from purely travel-focused material and gradually developed the Purple Halcyon persona that audiences follow today."
+        ]
+      },
+      {
+        "h": "Shift To Glamour Content",
+        "p": [
+          "As her online identity evolved, the style of her posts shifted towards professionally shot photographs and videos featuring a glamour-oriented presentation.",
+          "This strategic pivot in content type coincided with a notable growth in her Instagram following, paving the way for the successful implementation of the subscription feature."
+        ]
+      },
+      {
+        "h": "Account Suspension And Recovery",
+        "p": [
+          "The digital journey of the creator has also encountered obstacles, including a prolonged interruption involving her original Instagram account. The main profile remained unavailable for several months before she eventually regained access to it.",
+          "During the period when her primary account was inaccessible, she established a presence on other social media platforms to maintain communication with her audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kerala content creator Ashwani A, known as Purple Halcyon, disclosed that her Instagram subscription income can reach up to Rs 1 crore monthly, though earnings vary. She also revealed that she paid Rs 51.5 lakh in taxes for 2025, with 2026 payments already exceeding that amount following her transition from travel vlogs to glamour-oriented content."
+        ]
+      }
+    ],
+    "facts": [
+      "Ashwani A is a Kerala-based content creator known as Purple Halcyon.",
+      "Her monthly Instagram subscription earnings can reach Rs 1 crore.",
+      "She paid Rs 51.5 lakh in taxes during 2025.",
+      "Her tax payments in 2026 already exceeded the 2025 amount.",
+      "She previously lived and worked in the United Kingdom before returning to Kerala.",
+      "Her original Instagram account was unavailable for several months before she regained access."
+    ],
+    "entities": {
+      "people": [
+        "Ashwani A",
+        "Purple Halcyon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Purple Halcyon",
+      "Ashwani A",
+      "Instagram subscription income",
+      "Purple Halcyon earnings"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/purplehalcyonashwania-85621794988885.jpg",
+        "caption": "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 13:39:55 +0530"
+  },
+  "1vss9l": {
+    "id": "1vss9l",
+    "type": "news",
+    "headline": "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+    "dek": "A brand new preview has dropped for the upcoming Korean television drama Gift, featuring lead actor Kim Woo Bin offering advice on how to secure a win.",
+    "body": [
+      {
+        "h": "Fresh Promotional Footage Released",
+        "p": [
+          "A brand new promotional trailer has officially been released for the upcoming television series Gift. The latest preview gives fans an exciting look at the show, highlighting its central premise and core characters.",
+          "Viewers are treated to scenes featuring the main cast members as anticipation continues to build ahead of the official series premiere next month."
+        ]
+      },
+      {
+        "h": "Kim Woo Bin Teaches the Rules of Success",
+        "p": [
+          "In this latest preview clip, lead actor Kim Woo Bin takes center stage to explain the vital strategies required to win a baseball game. His character delivers passionate instructions about achieving victory on the field.",
+          "The footage establishes his authority and expertise in the sport, setting the tone for the inspirational sports journey at the heart of the narrative."
+        ]
+      },
+      {
+        "h": "A Supernatural Twist on Coaching",
+        "p": [
+          "The plot of Gift centers around a professional baseball coach, portrayed by Kim Woo Bin, whose life takes an unexpected turn following an accident. He miraculously gains a unique supernatural ability that allows him to instantly gauge anyone's athletic potential with just a single glance.",
+          "Armed with this extraordinary new power, he transitions from managing elite professional athletes to taking charge of the absolute worst high school team in the country."
+        ]
+      },
+      {
+        "h": "Starring Cast and Production Details",
+        "p": [
+          "The upcoming drama features a talented principal cast led by Kim Woo Bin and co-starring Seo Eun Soo. Both actors bring substantial star power to this new television project.",
+          "Fans of the lead actors will recall their previous work, with Kim Woo Bin having starred in Genie, Make a Wish and Seo Eun Soo appearing in Made in Korea 2."
+        ]
+      },
+      {
+        "h": "Premiere Schedule and Network",
+        "p": [
+          "Audiences do not have to wait much longer to watch the series unfold on their screens. Gift is officially scheduled to premiere on December 5.",
+          "The network broadcasting the highly anticipated drama series will be tvN, bringing the sports-themed story to viewers globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A fresh trailer for the upcoming tvN drama Gift features lead actor Kim Woo Bin explaining how to win a baseball game following a character-altering accident. The series is scheduled to premiere on December 5 and also stars Seo Eun Soo."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim Woo Bin stars in Gift",
+      "Seo Eun Soo stars in Gift",
+      "Gift premieres on December 5",
+      "Gift airs on tvN",
+      "Kim Woo Bin previously starred in Genie, Make a Wish",
+      "Seo Eun Soo previously starred in Made in Korea 2",
+      "The trailer was published on November 18, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Kim Woo Bin",
+        "Seo Eun Soo"
+      ],
+      "titles": [
+        "Gift",
+        "Genie, Make a Wish",
+        "Made in Korea 2"
+      ]
+    },
+    "keywords": [
+      "Gift kdrama trailer",
+      "Kim Woo Bin Gift drama",
+      "Seo Eun Soo Gift",
+      "Gift tvN premiere December 5"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/kdramakisses.com/wp-content/uploads/2026/10/Gift-Kim-Woo-Bin-3.jpg?fit=400%2C225&ssl=1",
+        "caption": "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+        "source": "Kdrama Kisses"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 08:00:18 +0000"
+  },
+  "31ijgo": {
+    "id": "31ijgo",
+    "type": "news",
+    "headline": "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour",
+    "dek": "Campus Diaries Season 2 arrives four years after the original, streaming on MX Player by Amazon Prime Video with familiar faces and new relationship dynamics.",
+    "body": [
+      {
+        "h": "Introduction And Release Details",
+        "p": [
+          "Four years after the debut of the original campus hit, the second season of Campus Diaries has officially premiered on MX Player by Amazon Prime Video. Authored by Nirali Kanabar, the review evaluates whether the returning college drama successfully recaptures the magic of its first outing.",
+          "Released on November 18, 2026, the series carries a critic rating of 3.0, positioning itself as a blend of romance, drama, and comedy that takes viewers straight back to the hallways of Excel University."
+        ]
+      },
+      {
+        "h": "The Plot And Character Dynamics",
+        "p": [
+          "The narrative shifts focus to a new academic year at Excel University, where the core group of friends faces fresh trials. Dynamics among the primary characters undergo notable changes as the story progresses.",
+          "Romances evolve and complicate throughout the season, notably with Sanya and Raghav growing closer, while Abhilash and Sushmita explore a completely new dynamic. Simultaneously, Sudheer and Priyanka experience an unexpected yet interesting shift in their relationship."
+        ]
+      },
+      {
+        "h": "Themes And Storytelling Approach",
+        "p": [
+          "Helmed by directors Abhishek Yadav and Prem Mistry, the second chapter attempts to balance nostalgia with fresh narrative elements. The show tackles themes of friendship, campus pressure, and relationship turmoil while maintaining the core charm of the franchise.",
+          "A distinguishing feature of this season is the incorporation of relevant social issues, pushing the plot beyond conventional college romance tropes and giving the overarching storyline added dimension."
+        ]
+      },
+      {
+        "h": "Performances And Cast",
+        "p": [
+          "The returning ensemble cast brings a welcome sense of familiarity and nostalgia to the screen. Ritvik Sahore reprises his role as Abhilash, delivering a performance characterized by natural charm and restraint as he navigates heartbreak and tough decisions.",
+          "Harsh Beniwal steps back into the shoes of Sudheer, serving as a primary source of comic relief while infusing the show with youthful energy. Meanwhile, Srishti Rindani handles her role as Sanya with a grounded personality, alongside returning actors Saloni Gaur and Saloni Khanna who contribute distinct twists to the plot."
+        ]
+      },
+      {
+        "h": "Critique Of The Screenplay",
+        "p": [
+          "Despite its promising themes and established character connections, the series struggles with specific narrative flaws. The plot often feels familiar, with campus conflicts, misunderstandings, and relationship hurdles following a well-worn formula.",
+          "Furthermore, the inclusion of a parallel storyline results in an overcrowded screenplay, which prevents the college drama from fully realizing its creative potential and reaching new heights."
+        ]
+      },
+      {
+        "h": "Verdict And Conclusion",
+        "p": [
+          "Ultimately, Campus Diaries Season 2 functions as an entertaining continuation for those invested in the first chapter. It leans heavily on nostalgia, character familiarity, and relationship struggles to carry the viewing experience.",
+          "While an overcrowded narrative holds the show back, dedicated fans of the original release will likely appreciate the way the new episodes blend familiar comforts with fresh social themes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Campus Diaries Season 2 premiered on November 18, 2026, on MX Player by Amazon Prime Video, bringing back cast members like Harsh Beniwal and Ritvik Sahore. The college drama received a 3.0 critic rating for successfully blending nostalgia, humour, and social issues despite facing criticism for an overcrowded screenplay."
+        ]
+      }
+    ],
+    "facts": [
+      "Campus Diaries Season 2 was released on November 18, 2026.",
+      "The show streams on MX Player by Amazon Prime Video.",
+      "The critic rating for Campus Diaries 2 is 3.0.",
+      "Harsh Beniwal plays Sudheer and Ritvik Sahore plays Abhilash.",
+      "Abhishek Yadav and Prem Mistry are the creators of Campus Diaries 2."
+    ],
+    "entities": {
+      "people": [
+        "Harsh Beniwal",
+        "Ritvik Sahore",
+        "Srishti Randani",
+        "Abhinav Sharma",
+        "Saloni Khanna",
+        "Saloni Gaur",
+        "Abhishek Yadav",
+        "Prem Mistry",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Campus Diaries",
+        "Campus Diaries 2",
+        "Campus Diaries Season 2"
+      ]
+    },
+    "keywords": [
+      "Campus Diaries Season 2",
+      "Harsh Beniwal",
+      "Ritvik Sahore",
+      "Campus Diaries 2 review"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156530086,thumbsize-736956,width-1280,height-720,resizemode-75/156530086.jpg",
+        "caption": "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T08:54:07Z"
   }
 };

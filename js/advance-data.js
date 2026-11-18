@@ -20,14 +20,14 @@ window.FA_ADVANCE = {
     {
       "date": "2026-11-21",
       "day": "",
-      "collection": 44311
+      "collection": 49984
     }
   ],
   "1384528": [
     {
       "date": "2026-11-20",
       "day": "",
-      "collection": 11231
+      "collection": 792393
     }
   ],
   "1505644": [
@@ -35,6 +35,20 @@ window.FA_ADVANCE = {
       "date": "2026-11-19",
       "day": "",
       "collection": 30069
+    }
+  ],
+  "1735403": [
+    {
+      "date": "2026-11-20",
+      "day": "",
+      "collection": 31474
+    }
+  ],
+  "1540824": [
+    {
+      "date": "2026-11-20",
+      "day": "",
+      "collection": 17211
     }
   ]
 };

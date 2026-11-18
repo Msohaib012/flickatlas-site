@@ -50,6 +50,44 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 12:07:59 +0200"
   },
+  "31ijgo": {
+    "id": "31ijgo",
+    "type": "news",
+    "headline": "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour",
+    "dek": "Campus Diaries Season 2 arrives four years after the original, streaming on MX Player by Amazon Prime Video with familiar faces and new relationship dynamics.",
+    "entities": {
+      "people": [
+        "Harsh Beniwal",
+        "Ritvik Sahore",
+        "Srishti Randani",
+        "Abhinav Sharma",
+        "Saloni Khanna",
+        "Saloni Gaur",
+        "Abhishek Yadav",
+        "Prem Mistry",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Campus Diaries",
+        "Campus Diaries 2",
+        "Campus Diaries Season 2"
+      ]
+    },
+    "keywords": [
+      "Campus Diaries Season 2",
+      "Harsh Beniwal",
+      "Ritvik Sahore",
+      "Campus Diaries 2 review"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156530086,thumbsize-736956,width-1280,height-720,resizemode-75/156530086.jpg",
+        "caption": "Campus Diaries Season 2 Review: Harsh Beniwal And Ritvik Sahore Return In A College Drama Of Heart And Humour",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-18T08:54:07Z"
+  },
   "k60y7p": {
     "id": "k60y7p",
     "type": "news",
@@ -87,6 +125,64 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 10:50:31 +0200"
   },
+  "n5lpuv": {
+    "id": "n5lpuv",
+    "type": "news",
+    "headline": "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+    "dek": "Popularly known as Purple Halcyon, Ashwani A discusses her monthly earnings from Instagram subscriptions and shares insights into her tax payments.",
+    "entities": {
+      "people": [
+        "Ashwani A",
+        "Purple Halcyon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Purple Halcyon",
+      "Ashwani A",
+      "Instagram subscription income",
+      "Purple Halcyon earnings"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/purplehalcyonashwania-85621794988885.jpg",
+        "caption": "Kerala Content Creator Ashwani A Reveals Instagram Subscription Earnings",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 13:39:55 +0530"
+  },
+  "1vss9l": {
+    "id": "1vss9l",
+    "type": "news",
+    "headline": "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+    "dek": "A brand new preview has dropped for the upcoming Korean television drama Gift, featuring lead actor Kim Woo Bin offering advice on how to secure a win.",
+    "entities": {
+      "people": [
+        "Kim Woo Bin",
+        "Seo Eun Soo"
+      ],
+      "titles": [
+        "Gift",
+        "Genie, Make a Wish",
+        "Made in Korea 2"
+      ]
+    },
+    "keywords": [
+      "Gift kdrama trailer",
+      "Kim Woo Bin Gift drama",
+      "Seo Eun Soo Gift",
+      "Gift tvN premiere December 5"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/kdramakisses.com/wp-content/uploads/2026/10/Gift-Kim-Woo-Bin-3.jpg?fit=400%2C225&ssl=1",
+        "caption": "Kim Woo Bin Breaks Down Victory in Fresh Promotional Clip for Upcoming Series Gift",
+        "source": "Kdrama Kisses"
+      }
+    ],
+    "published": "Wed, 18 Nov 2026 08:00:18 +0000"
+  },
   "qvnnvd": {
     "id": "qvnnvd",
     "type": "news",
@@ -106,6 +202,49 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "Wed, 18 Nov 2026 02:00:00 EST"
+  },
+  "1kttojm": {
+    "id": "1kttojm",
+    "type": "news",
+    "headline": "Call Me Bae Season 2 Sets December Release Date on Prime Video",
+    "dek": "Ananya Panday returns as Bella Chowdhary for an eight-episode second season of Call Me Bae, premiering worldwide on December 17, 2026.",
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Shruti Haasan",
+        "Vir Das",
+        "Gurfateh Pirzada",
+        "Varun Sood",
+        "Vihaan Samat",
+        "Muskkaan Jaferi",
+        "Niharika Lyra Dutt",
+        "Lisa Mishra",
+        "Mini Mathur",
+        "Collin D'Cunha",
+        "Ishita Moitra",
+        "Karan Johar",
+        "Fernando Lindez",
+        "Luca Melucci"
+      ],
+      "titles": [
+        "Call Me Bae",
+        "Call Me Bae Season 2"
+      ]
+    },
+    "keywords": [
+      "Call Me Bae Season 2",
+      "Ananya Panday Call Me Bae",
+      "Call Me Bae release date",
+      "Shruti Haasan Call Me Bae"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/call-me-bae-season-21794902438.jpg",
+        "caption": "Call Me Bae Season 2 Sets December Release Date on Prime Video",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-18T12:17:24+05:30"
   },
   "fdq9wj": {
     "id": "fdq9wj",
@@ -4600,160 +4739,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T08:54:59+05:30"
-  },
-  "18jqy83": {
-    "id": "18jqy83",
-    "type": "news",
-    "headline": "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
-    "dek": "The 57th International Film Festival of India in Goa will feature over 230 movies, Spain as Country of Honour, and Dhurandhar alongside Becoming as opening features.",
-    "entities": {
-      "people": [
-        "Pramod Sawant",
-        "Ranveer Singh",
-        "Om Raut",
-        "Jadumoni Dutta",
-        "Amruta Khanvilkar"
-      ],
-      "titles": [
-        "Dhurandhar",
-        "Becoming",
-        "Ancessao"
-      ]
-    },
-    "keywords": [
-      "IFFI 2026 Goa",
-      "Dhurandhar film IFFI",
-      "Spain Country of Honour IFFI",
-      "Pramod Sawant IFFI 2026"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/Dhurandhar_IFFI_1794885046346_m9w3_1794885046483_2UF1_8735baed-137a-47fa-b11d-6e520b4a311a_AyuN.jpg",
-        "caption": "Over 230 Films to Be Screened at IFFI 2026 in Goa with Dhurandhar as Opener",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 08:44:22 +0530"
-  },
-  "1ym3cj9": {
-    "id": "1ym3cj9",
-    "type": "news",
-    "headline": "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
-    "dek": "Oh Jung Se, Jeon Hye Jin, Joo Jong Hyuk, and Joo Hyun Young have been officially confirmed to star in the upcoming TVING series about amateur baseball and married life.",
-    "entities": {
-      "people": [
-        "Oh Jung Se",
-        "Jeon Hye Jin",
-        "Park Ji Hwan",
-        "Gong Min Jung",
-        "Joo Jong Hyuk",
-        "Joo Hyun Young",
-        "Lee Sang Jin",
-        "Bae Yoon Kyung",
-        "Min Jin Ki",
-        "Yoon Ki Young"
-      ],
-      "titles": [
-        "Sunning Baseball Club",
-        "New Recruit",
-        "Extraordinary Attorney Woo",
-        "Fifties Professionals",
-        "Reborn Rookie"
-      ]
-    },
-    "keywords": [
-      "Sunning Baseball Club",
-      "Oh Jung Se",
-      "Jeon Hye Jin",
-      "TVING baseball drama"
-    ],
-    "images": [
-      {
-        "url": "https://0.soompi.io/wp-content/uploads/2026/11/17114232/sunning-baseball-club.png",
-        "caption": "TVING Announces Star-Studded Cast for New Sports Drama Sunning Baseball Club",
-        "source": "Soompi"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 03:03:28 +0000"
-  },
-  "1uv4rkq": {
-    "id": "1uv4rkq",
-    "type": "news",
-    "headline": "Fans Share Their Verdict on CIA Season 2 Episode 7 Inside Men",
-    "dek": "Audience engagement is heating up as viewers cast their votes and debate standout performances for the latest chapter of CIA.",
-    "entities": {
-      "people": [
-        "Tom Ellis",
-        "Nick Gehlfuss",
-        "Necar Zadegan",
-        "Natalee Linez",
-        "Bruce Altman",
-        "Anna Greene"
-      ],
-      "titles": [
-        "CIA"
-      ]
-    },
-    "keywords": [
-      "CIA Inside Men",
-      "CIA Season 2 Episode 7",
-      "Tom Ellis CIA",
-      "CIA episode poll"
-    ],
-    "images": [],
-    "published": "2026-11-17T03:00:00.378+00:00"
-  },
-  "ugcqml": {
-    "id": "ugcqml",
-    "type": "news",
-    "headline": "The Fantasticks Arrives on Broadway After Seven Decades",
-    "dek": "The legendary musical makes its historic Broadway debut at the Hayes Theater with a modern queer reimagining directed by Christopher Gattelli.",
-    "entities": {
-      "people": [
-        "Greg Evans",
-        "Christopher Gattelli",
-        "Tom Jones",
-        "Harvey Schmidt",
-        "Maxim Chlumecky",
-        "Nathan Levy",
-        "Zane Phillips",
-        "Leslie Rodriguez Kritzer",
-        "Ruthie Ann Miles",
-        "David Patrick Kelly",
-        "Kevin del Aguila",
-        "Ahmad Simmons",
-        "Sam Davis",
-        "Jason Sherwood",
-        "Linda Cho",
-        "Barbra Streisand",
-        "Alexander Pope"
-      ],
-      "titles": [
-        "The Fantasticks",
-        "All My Sons",
-        "Downstate",
-        "Pippin",
-        "Godspell",
-        "Two Strangers (Carry A Cake Across New York)",
-        "Schmigadoon!",
-        "Death Becomes Her",
-        "The Rape of the Lock"
-      ]
-    },
-    "keywords": [
-      "The Fantasticks Broadway",
-      "Christopher Gattelli The Fantasticks",
-      "Maxim Chlumecky Nathan Levy",
-      "The Fantasticks Hayes Theater"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/THE-FANTASTICKS-Nathan-Levy-and-Maxim-Chlumecky-Joan-Marcus-2026.jpg?w=1024",
-        "caption": "The Fantasticks Arrives on Broadway After Seven Decades",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 03:00:00 +0000"
   },
   "196ll1": {
     "id": "196ll1",
