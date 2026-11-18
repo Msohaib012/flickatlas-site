@@ -4731,84 +4731,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-16T14:45:28Z"
   },
-  "1f1pv2e": {
-    "id": "1f1pv2e",
-    "type": "news",
-    "headline": "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
-    "dek": "A comprehensive guide to the latest television shows, films, music releases, and video games coming to your favorite streaming devices and platforms.",
-    "entities": {
-      "people": [
-        "Nicolas Cage",
-        "David O. Russell",
-        "Kathryn Hahn",
-        "Christian Bale",
-        "Anthony Bourdain",
-        "Matt Johnson",
-        "Dominic Sessa",
-        "Mark Kennedy",
-        "Ali Wong",
-        "Amanda Seyfried",
-        "Daniel Radcliffe",
-        "Bette Midler",
-        "Peter Dinklage",
-        "Léa Seydoux",
-        "Lindsey Bahr",
-        "Lisa",
-        "Sue Kim",
-        "Lalisa Manobal",
-        "Darius Rucker",
-        "Maria Sherman",
-        "Sam Bankman-Fried",
-        "Caroline Ellison",
-        "Boyle",
-        "Brett Ratner",
-        "Melania Trump",
-        "Rick Riordan",
-        "Walker Scobell",
-        "Kate Henderson",
-        "Gemma Arterton",
-        "Tom Bradby",
-        "Alicia Rancilio",
-        "Jason",
-        "Lucia",
-        "Lou Kesten"
-      ],
-      "titles": [
-        "Grand Theft Auto VI",
-        "Always Lalisa",
-        "The Altruists",
-        "Steps",
-        "Yellowjackets",
-        "Madden",
-        "Tony",
-        "Gentle Monster",
-        "Alter Ego",
-        "The White Lotus",
-        "Darius Rucker: They Called Me Hootie",
-        "Reveal",
-        "The Black Session Revealed",
-        "Melania, The Series",
-        "Melania",
-        "Percy Jackson and the Olympians",
-        "The Titan’s Curse",
-        "Secret Service"
-      ]
-    },
-    "keywords": [
-      "GTA VI streaming",
-      "Always Lalisa documentary",
-      "The Altruists Netflix",
-      "Steps animated movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2024/04/17/1600x900/logo/web-series_1713353092172_1713353099719.jpg",
-        "caption": "What to Stream: 'GTA VI,' 'Always Lalisa,' 'The Altruists' and 'Steps'",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Mon, 16 Nov 2026 10:32:32 +0530"
-  },
   "7adwgu": {
     "id": "7adwgu",
     "type": "news",
@@ -5492,6 +5414,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-13T14:45:17Z"
   },
+  "1xjsev2": {
+    "id": "1xjsev2",
+    "type": "news",
+    "headline": "GTA 6 Estimated To Record $5 Billion Opening Week Sales as Gaming Industry Braces for Historic Launch",
+    "dek": "Rockstar Games' Grand Theft Auto VI is projected to rake in billions during its opening week, sparking immense anticipation across the global entertainment landscape.",
+    "entities": {
+      "people": [
+        "Sunit Jangir",
+        "Strauss Zelnick",
+        "Jason Duval",
+        "Lucia Caminos"
+      ],
+      "titles": [
+        "GTA 6",
+        "Grand Theft Auto VI",
+        "GTA 5"
+      ]
+    },
+    "keywords": [
+      "GTA 6",
+      "Grand Theft Auto VI",
+      "Rockstar Games",
+      "Jason Duval Lucia Caminos",
+      "Strauss Zelnick"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028516.jpg",
+        "caption": "GTA 6 Estimated To Record $5 Billion Opening Week Sales as Gaming Industry Braces for Historic Launch",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 06:05:47 +0000"
+  },
   "8c197r": {
     "id": "8c197r",
     "type": "news",
@@ -5557,5 +5513,55 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T15:00:25Z"
+  },
+  "q3whac": {
+    "id": "q3whac",
+    "type": "news",
+    "headline": "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
+    "dek": "After a brief two-week pause, Taylor Sheridan's procedural series Marshals is returning with a high-stakes new episode featuring shifting character dynamics and jurisdictional conflicts.",
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Denis Kimathi",
+        "Kayce Dutton",
+        "Luke Grimes",
+        "Spencer Hudnut",
+        "Cal",
+        "Logan Marshall-Green",
+        "Belle",
+        "Arielle Kebbel",
+        "Andrea",
+        "Ash Santos",
+        "Mo",
+        "Mo Brings Plenty",
+        "Mike McLusky",
+        "Dwight Manfredi"
+      ],
+      "titles": [
+        "Yellowstone",
+        "The Wire",
+        "Shameless",
+        "The Big Bang Theory",
+        "The Blacklist",
+        "Marshals",
+        "Landman",
+        "Tulsa King",
+        "Mayor of Kingstown"
+      ]
+    },
+    "keywords": [
+      "Marshals CBS show",
+      "Kayce Dutton Yellowstone spin-off",
+      "Taylor Sheridan Marshals episode",
+      "Luke Grimes Marshals Season 2"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/luke-grimes-marshals-204.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:30:12 GMT"
   }
 };
