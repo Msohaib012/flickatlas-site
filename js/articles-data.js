@@ -188786,5 +188786,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 05:53:22 +0000"
+  },
+  "6vnwap": {
+    "id": "6vnwap",
+    "type": "news",
+    "headline": "Tabu Sets Hindi OTT Debut With YRF Entertainment Series Tunnel Men Inspired By 2023 Rescue",
+    "dek": "Veteran actress Tabu has joined the cast of YRF Entertainment's upcoming Netflix drama Tunnel Men, marking her first appearance in a Hindi original streaming series.",
+    "body": [
+      {
+        "h": "Entering The World Of Streaming",
+        "p": [
+          "Acclaimed actress Tabu is officially stepping into the realm of Hindi original streaming content. She has signed on for a major role in YRF Entertainment's upcoming Netflix series titled Tunnel Men.",
+          "This project marks a notable milestone in her career spanning more than three decades, offering her a fresh medium to showcase her acting prowess through long-form episodic storytelling."
+        ]
+      },
+      {
+        "h": "Inspired By Real-Life Bravery",
+        "p": [
+          "The newly announced Netflix series is a fictionalised drama that draws its primary inspiration from the courage, resilience, and teamwork demonstrated during the 2023 Uttarakhand tunnel rescue operation.",
+          "Rather than functioning as a direct documentary retelling, the show seeks to capture the overarching spirit and emotional weight of the intense days when emergency teams worked tirelessly to save stranded individuals."
+        ]
+      },
+      {
+        "h": "The 2023 Uttarkashi Incident",
+        "p": [
+          "The underlying real-life event gripped the entire nation in November 2023, when 41 workers became trapped inside the partially collapsed Silkyara tunnel located in Uttarkashi.",
+          "A massive, painstaking rescue effort followed, involving engineers, technical specialists, and multiple agencies who navigated unstable terrain and immense pressure to eventually evacuate all trapped workers safely."
+        ]
+      },
+      {
+        "h": "Themes Of Resilience And Hope",
+        "p": [
+          "Tunnel Men will focus heavily on themes of determination, collective effort, and hope in the face of daunting physical and technical obstacles.",
+          "The fictional narrative is designed to highlight the human elements of the crisis, paying tribute to the coordination and endurance required to achieve a successful outcome."
+        ]
+      },
+      {
+        "h": "An Illustrious Acting Career",
+        "p": [
+          "Tabu brings a rich legacy of diverse and performance-driven roles to the YRF Entertainment production. Her extensive filmography covers both mainstream commercial entertainers and acclaimed independent cinema.",
+          "Her decades-long journey in the industry has established her reputation for tackling complex characters across multiple languages and distinct genres with remarkable versatility."
+        ]
+      },
+      {
+        "h": "Critical Accolades And Milestones",
+        "p": [
+          "Throughout her career, the veteran actress has earned widespread acclaim and numerous accolades, including two National Film Awards for Best Actress for her standout performances in Maachis and Chandni Bar.",
+          "Her credits also feature memorable appearances in Vishal Bhardwaj's Maqbool and Haider, alongside Sriram Raghavan's thriller Andhadhun, cementing her status as a powerhouse performer."
+        ]
+      },
+      {
+        "h": "International Recognition",
+        "p": [
+          "Beyond Indian cinema, Tabu's talent has resonated globally through significant roles in international projects such as Mira Nair's The Namesake and Ang Lee's Academy Award-winning Life of Pi.",
+          "Her addition to the cast of Tunnel Men introduces yet another high-profile title to her varied and distinguished body of work as she prepares for her streaming debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tabu is set to make her Hindi original streaming debut in YRF Entertainment's upcoming Netflix series Tunnel Men. The fictionalised drama is inspired by the 2023 Uttarakhand tunnel rescue operation involving trapped workers in Uttarkashi."
+        ]
+      }
+    ],
+    "facts": [
+      "Tabu is making her Hindi original streaming debut.",
+      "The project is YRF Entertainment's Netflix series Tunnel Men.",
+      "The series is inspired by the November 2023 Uttarakhand tunnel rescue operation.",
+      "The real-life incident involved 41 workers trapped inside the partially collapsed Silkyara tunnel in Uttarkashi.",
+      "Tabu won National Film Awards for Best Actress for Maachis and Chandni Bar.",
+      "Her career spans over three decades."
+    ],
+    "entities": {
+      "people": [
+        "Tabu",
+        "Vishal Bhardwaj",
+        "Sriram Raghavan",
+        "Mira Nair",
+        "Ang Lee"
+      ],
+      "titles": [
+        "Tunnel Men",
+        "Maachis",
+        "Chandni Bar",
+        "Maqbool",
+        "Haider",
+        "Andhadhun",
+        "The Namesake",
+        "Life of Pi"
+      ]
+    },
+    "keywords": [
+      "Tabu Tunnel Men",
+      "YRF Netflix series Tunnel Men",
+      "Tabu Hindi OTT debut",
+      "Uttarakhand tunnel rescue series"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156530533,thumbsize-143632,width-1280,height-720,resizemode-75/156530533.jpg",
+        "caption": "Tabu Sets Hindi OTT Debut With YRF Entertainment Series Tunnel Men Inspired By 2023 Rescue",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T07:51:25Z"
+  },
+  "1k985n5": {
+    "id": "1k985n5",
+    "type": "news",
+    "headline": "Dakota and Elle Fanning Unite Onscreen for the First Time in The Nightingale Adaptation",
+    "dek": "Real-life sisters Dakota and Elle Fanning bring Kristin Hannah's bestselling novel to the big screen, exploring sisterhood and survival during World War II.",
+    "body": [
+      {
+        "h": "First Time Acting Opposite Each Other",
+        "p": [
+          "Real-life sisters Dakota and Elle Fanning star together for the very first time in the feature adaptation of Kristin Hannah's bestselling novel, The Nightingale. Although they previously played different versions of the same character in the 2001 film I Am Sam, they had never shared a scene together onscreen prior to this project.",
+          "Reflecting on the experience, the siblings admitted to initial nerves about working side by side. Ultimately, they relied on their lifelong history of playing together and acting out childhood scenarios to find an immediate sense of comfort and ease on set."
+        ]
+      },
+      {
+        "h": "Development and Long-Awaited Journey",
+        "p": [
+          "Hollywood spent years trying to pair the Fanning sisters in a shared movie. They were previously considered for the 20011 film My Sister's Keeper, but declined because Dakota did not want to shave her head, and because they felt appearing together at that age would have felt gimmicky.",
+          "The current adaptation was initially slated for preproduction in Budapest in March 2020 just as the pandemic struck, delaying the production timeline significantly. Author Kristin Hannah expressed profound gratitude for the sisters' unwavering dedication to bringing her vision of the story to the screen."
+        ]
+      },
+      {
+        "h": "Characters and Plot Dynamics",
+        "p": [
+          "The Nightingale follows two French sisters navigating Nazi-occupied France during World War II. Dakota plays Vianne, the cautious and guarded older sibling who initially urges restraint before ultimately shielding Jewish children in her home.",
+          "Elle portrays Isabelle, the rebellious younger sister who joins the French Resistance and becomes a direct target of the Nazis. The narrative contrasts their different approaches to survival, with one sister operating quietly and the other taking a louder, more daring path."
+        ]
+      },
+      {
+        "h": "Production Leadership and Directorial Vision",
+        "p": [
+          "In addition to starring in the film, Dakota and Elle Fanning serve as producers through their company, Lewellen Pictures. Filmmaker Michael Morris took over directing duties from original director Mélanie Laurent, viewing the sweeping World War II epic primarily as a deep exploration of sisterhood.",
+          "Author Kristin Hannah contributed to the script development process alongside screenwriter Dana Stevens. Hannah intentionally stayed away from writing the screenplay herself to ensure an objective cinematic interpretation of her novel."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Notable Figures",
+        "p": [
+          "Oscar-winner Mark Rylance was cast as the sisters' fictional father, Julien, a World War I veteran characterized as an emotionally stunted and neglected figure. The Fannings praised Rylance's powerful presence and emotional authenticity on set.",
+          "The broader ensemble cast features Shira Haas, Albrecht Schuch, and Edmund Donovan as Gaëtan, a communist resistance fighter and love interest for Isabelle. Several actors from the series The Great, including Douglas Hodge and Gwilym Lee, also joined the project."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Sisterly Routines",
+        "p": [
+          "Filming the emotionally and physically taxing historical project required significant recovery time for the lead actors. Off-camera, the sisters maintained a routine of watching television, eating Thai food, and enjoying true crime series.",
+          "In a moment of art imitating life, Dakota developed a real-life habit of making Isabelle's bed in the morning, mirroring a specific scene where Vianne tends to her sister's sleeping space. The pair only experienced a single minor argument during their final week of shooting while sharing a cramped couch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dakota and Elle Fanning star together for the first time in the feature film adaptation of Kristin Hannah's bestselling novel The Nightingale, playing estranged sisters in Nazi-occupied France. Directed by Michael Morris and featuring an ensemble cast including Mark Rylance, the movie is scheduled to hit theaters on March 19, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "The Nightingale is set to hit theaters on March 19, 2027.",
+      "The novel by Kristin Hannah has sold over 11 million copies worldwide.",
+      "Dakota and Elle Fanning previously played the same character in the 2001 film I Am Sam.",
+      "Preproduction for the film was originally scheduled in Budapest in March 2020."
+    ],
+    "entities": {
+      "people": [
+        "Dakota Fanning",
+        "Elle Fanning",
+        "Kristin Hannah",
+        "Michael Morris",
+        "Mark Rylance",
+        "Dana Stevens",
+        "Shira Haas",
+        "Albrecht Schuch",
+        "Edmund Donovan",
+        "Mélanie Laurent",
+        "Andrée de Jongh",
+        "Douglas Hodge",
+        "Gwilym Lee",
+        "Katherine Heigl",
+        "Sarah Chalke",
+        "Stellan Skarsgård",
+        "Sofia Vassilieva",
+        "Abigail Breslin"
+      ],
+      "titles": [
+        "The Nightingale",
+        "I Am Sam",
+        "My Sister's Keeper",
+        "Firefly Lane",
+        "Margo's Got Money Troubles",
+        "The Great",
+        "The Hunger Games",
+        "Unorthodox",
+        "All Quiet on the Western Front",
+        "Civil War",
+        "Sentimental Value"
+      ]
+    },
+    "keywords": [
+      "The Nightingale film",
+      "Dakota and Elle Fanning",
+      "Kristin Hannah The Nightingale",
+      "Michael Morris director"
+    ],
+    "images": [
+      {
+        "url": "https://media.vanityfair.com/photos/6afd2102076e601c9d2486ea/16:9/w_1280,c_limit/VF-Nightingale-5.png",
+        "caption": "Dakota and Elle Fanning Unite Onscreen for the First Time in The Nightingale Adaptation",
+        "source": "Vanity Fair"
+      }
+    ],
+    "published": "2026-11-19T07:51:25Z"
+  },
+  "11vesyw": {
+    "id": "11vesyw",
+    "type": "news",
+    "headline": "Amitabh Bachchan Clarifies Cryptic 'Bach Gaye' Tweet After Wardrobe Malfunction on Kaun Banega Crorepati Set",
+    "dek": "Veteran actor Amitabh Bachchan has put an end to online speculation by revealing his mysterious social media post was about a broken trouser belt during a television shoot rather than recent security threats.",
+    "body": [
+      {
+        "h": "The Mysterious Social Media Post",
+        "p": [
+          "Legendary actor Amitabh Bachchan recently caused a stir across social media platforms after publishing a very brief and cryptic post containing only the words 'Bach Gaye'. The unexpected remark immediately caught the attention of his massive follower base, leaving everyone guessing about its true meaning.",
+          "Without any accompanying context or explanation in the initial message, supporters and commentators began trying to decode what the veteran star might have experienced to prompt such a specific exclamation."
+        ]
+      },
+      {
+        "h": "Speculation Amid Security Concerns",
+        "p": [
+          "The timing of the ambiguous message led many online users to connect the statement directly to recent reports concerning the actor's personal security in Mumbai. Over the preceding weeks, discussions had circulated regarding alleged conspiracies and threats directed toward public figures and prominent locations.",
+          "In addition to these worries, authorities had received multiple bomb threat emails mentioning several notable sites across the city, including his own residence, Jalsa, as well as the Bombay High Court and the Mahalaxmi Racecourse."
+        ]
+      },
+      {
+        "h": "Wardrobe Malfunction on Television Set",
+        "p": [
+          "To clear up the confusion and calm public worry, the actor took to his official X handle on Wednesday, November 18, to provide the actual background of the remark. He explained that the phrase stemmed from an entirely unexpected and humorous incident while working on the sets of his television game show, Kaun Banega Crorepati.",
+          "During the rigorous recording session, his trouser belt suddenly broke, creating an urgent wardrobe emergency that required an immediate improvised solution to keep filming uninterrupted."
+        ]
+      },
+      {
+        "h": "Improvising With a Drawstring",
+        "p": [
+          "Faced with the sudden equipment failure while cameras were rolling, the seasoned performer had to think quickly to secure his wardrobe. Rather than halting the production entirely, he managed to find a quick alternative on the spot.",
+          "He humorously shared the details of the fix with his followers, explaining that he quickly tied a drawstring to keep his trousers securely in place, prompting his relieved exclamation of survival."
+        ]
+      },
+      {
+        "h": "Enhanced Security and Public Appearances",
+        "p": [
+          "Before the clarification, heightened security measures had been visibly implemented around his Juhu residence, with extra police personnel stationed near the property following the threat reports. Security agencies had previously searched the threatened locations without finding any suspicious items.",
+          "The actor had also drawn attention during his weekly Sunday meet-and-greet on November 1 when he briefly greeted crowds from behind protective bulletproof glass. However, he subsequently reverted to his regular open interactions during his public appearances on November 8 and November 15."
+        ]
+      },
+      {
+        "h": "Continuing Long-Standing Traditions",
+        "p": [
+          "Despite the online speculation and security adjustments, the veteran star has remained steadfast in maintaining his decades-long routine of connecting directly with supporters who gather outside his home every single week.",
+          "His return to standard fan interactions highlights his dedication to upholding these personal traditions while continuing his regular television production schedules without letting unexpected wardrobe mishaps disrupt his commitment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amitabh Bachchan explained that his cryptic 'Bach Gaye' post referred to a broken trouser belt on the Kaun Banega Crorepati set rather than security threats. The clarification followed online speculation linking the tweet to bomb threat reports and police presence near his Mumbai home, Jalsa."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan posted a cryptic tweet saying 'Bach Gaye'.",
+      "The clarification was shared on Wednesday, November 18.",
+      "The incident involved a broken trouser belt and a drawstring on the set of Kaun Banega Crorepati.",
+      "Jalsa is Amitabh Bachchan's Mumbai residence in Juhu.",
+      "Bulletproof glass was used during the Sunday meet-and-greet on November 1.",
+      "Normal fan interactions resumed on November 8 and November 15."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan Bach Gaye tweet",
+      "Amitabh Bachchan Kaun Banega Crorepati wardrobe malfunction",
+      "Amitabh Bachchan Jalsa security",
+      "Kaun Banega Crorepati shoot incident"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156531450,thumbsize-36180,width-1280,height-720,resizemode-75/156531450.jpg",
+        "caption": "Amitabh Bachchan Clarifies Cryptic 'Bach Gaye' Tweet After Wardrobe Malfunction on Kaun Banega Crorepati Set",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T07:51:25Z"
+  },
+  "1vx1fuh": {
+    "id": "1vx1fuh",
+    "type": "news",
+    "headline": "Netflix Renews Physical: Asia for Season 2 and Expands Global Franchise",
+    "dek": "The streaming giant is doubling down on its hit unscripted competition format, ordering a second season of Physical: Asia alongside several international adaptations.",
+    "body": [
+      {
+        "h": "The Unscripted Renewal",
+        "p": [
+          "Netflix has officially greenlit a second season for Physical: Asia following the strong performance of its initial run. Viewers can expect the continuation of the high-stakes competition when the show returns to the streaming platform.",
+          "The upcoming installment is slated to begin streaming in the year 2027, bringing back the intense physical challenges that defined the inaugural episodes."
+        ]
+      },
+      {
+        "h": "Background and Launch Success",
+        "p": [
+          "The series originally debuted in October 2025, marking one of Netflix’s earliest forays into unscripted Asian television programming. The show quickly resonated with audiences worldwide.",
+          "Upon its release, the competition format secured a position inside the streamer's Global Top 10 list for three consecutive weeks, proving its immediate appeal to international viewers."
+        ]
+      },
+      {
+        "h": "Global Franchise Expansion",
+        "p": [
+          "The success of the format has spurred a much larger international rollout across multiple regions. Editions titled Physical 100: Mexico and Physical 100: Italy each achieved two consecutive weeks in the Global Top 10 following their respective launches.",
+          "Building on this momentum, Physical 100: Mexico has already secured a second season. Furthermore, localized versions for the United States, France, and Sweden are currently in active development."
+        ]
+      },
+      {
+        "h": "Insights from Netflix Leadership",
+        "p": [
+          "Kihwan Yoo, Netflix Director of Content, highlighted the remarkable trajectory of the format from a localized Korean creation into a widespread international phenomenon.",
+          "Yoo pointed to universal appeal and elevated production values as key drivers of the quick audience adoption, while noting that diverse cultural identities continue to enrich the format worldwide."
+        ]
+      },
+      {
+        "h": "Creative Vision for Season 2",
+        "p": [
+          "Looking ahead to the upcoming episodes, Kihwan Yoo promised even higher stakes featuring tougher competitors and stronger national representation.",
+          "Producer Jang Ho-gi revealed plans for an entirely different world and signature quests designed to elevate the nation-versus-nation format beyond simple scale expansions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has officially renewed Physical: Asia for a second season set to premiere in 2027 following its successful debut in October 2025. The broader franchise continues to grow with international editions and upcoming adaptations across multiple countries."
+        ]
+      }
+    ],
+    "facts": [
+      "Physical: Asia was renewed for Season 2 by Netflix.",
+      "The show will start streaming in 2027.",
+      "It launched in October 2025.",
+      "The series held a spot in Netflix's Global Top 10 for three straight weeks.",
+      "Physical 100: Mexico and Physical 100: Italy landed two consecutive weeks in the Global Top 10.",
+      "Physical 100: Mexico has received a second season.",
+      "U.S., French, and Swedish editions are in development.",
+      "Kihwan Yoo is the Netflix Director of Content.",
+      "Jang Ho-gi is the producer of the series."
+    ],
+    "entities": {
+      "people": [
+        "Devanshi Basu",
+        "Kihwan Yoo",
+        "Jang Ho-gi"
+      ],
+      "titles": [
+        "Physical: Asia",
+        "Physical 100: Mexico",
+        "Physical 100: Italy"
+      ]
+    },
+    "keywords": [
+      "Physical Asia Netflix",
+      "Physical Asia Season 2",
+      "Kihwan Yoo Netflix",
+      "Jang Ho-gi Physical Asia"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Untitled-design-2026-08-06T015936.199.png?resize=1200,630",
+        "caption": "Netflix Renews Physical: Asia for Season 2 and Expands Global Franchise",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 06:04:40 +0000"
   }
 };
