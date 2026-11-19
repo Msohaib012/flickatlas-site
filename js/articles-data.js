@@ -192773,5 +192773,454 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 16:35:56 GMT"
+  },
+  "uaxxk7": {
+    "id": "uaxxk7",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 21 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 21 aired on 2026-11-19 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 21 aired on 2026-11-19 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=N_8zpc3VNC4"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 21 aired on 2026-11-19.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=N_8zpc3VNC4",
+      "YouTube views: 6,414."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/N_8zpc3VNC4/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 21",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-19T17:00:35Z"
+  },
+  "ybncqm": {
+    "id": "ybncqm",
+    "type": "news",
+    "headline": "Bano Episode 36 — Watch Online on Geo TV",
+    "dek": "Bano episode 36 aired on 2026-11-19 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 36 aired on 2026-11-19 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=t-1WAqaKETY"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 36 aired on 2026-11-19.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=t-1WAqaKETY",
+      "YouTube views: 142,819."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/t-1WAqaKETY/hqdefault.jpg",
+        "caption": "Bano Episode 36",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-19T17:00:30Z"
+  },
+  "jhytd9": {
+    "id": "jhytd9",
+    "type": "news",
+    "headline": "Anirudh Ravichander Shares Unseen Photos From Wedding Festivities With Kavya Maran",
+    "dek": "Music composer-singer Anirudh Ravichander has released a series of previously unseen photographs from his wedding celebrations with Sunrisers Hyderabad CEO Kavya Maran.",
+    "body": [
+      {
+        "h": "Unseen Wedding Memories",
+        "p": [
+          "A few days after walking down the aisle, prominent music composer and singer Anirudh Ravichander has treated his fans to fresh glimpses of his marital celebrations. The newly married artist shared a carousel of photographs on Instagram capturing candid and joyous moments from the multi-day event.",
+          "The newlywed couple can be seen celebrating alongside their closest friends and family members. The shared images highlight various cheerful segments of the destination festivities held recently."
+        ]
+      },
+      {
+        "h": "Destination Wedding in Greece",
+        "p": [
+          "The private destination wedding took place in Greece on November 11. The elaborate celebrations kicked off on November 10 and extended over a span of more than two days, culminating in the formal union of the couple.",
+          "Anirudh Ravichander tied the knot with Kavya Maran, who serves as the CEO of Sunrisers Hyderabad and an executive director at Sun TV Network. The wedding ceremony itself followed the tradition of a self-respect marriage."
+        ]
+      },
+      {
+        "h": "Special Moments and Grand Entrances",
+        "p": [
+          "Among the shared highlights is a frame featuring Anirudh wrapping his arms warmly around Kavya. Another notable image captures the couple making a grand entrance hand-in-hand while cheering guests applaud on either side.",
+          "The festivities also included a distinct musical highlight, with the composer taking the stage to sing directly for his bride. Additional frames feature the newlyweds posing alongside their respective parents."
+        ]
+      },
+      {
+        "h": "Fashion Choices During the Celebrations",
+        "p": [
+          "Kavya Maran wore a white draped skirt featuring a distinct slit, matched with a golden off-shoulder corset for one of the main functions. Anirudh complemented her in an all-white ensemble consisting of a double-breasted jacket and tailored trousers.",
+          "For another event during the celebrations, Kavya donned a champagne-gold gown accompanied by a pink feathered wrap. Anirudh opted for a classic black shirt and trousers paired with a sophisticated grey blazer."
+        ]
+      },
+      {
+        "h": "Self-Respect Marriage Tradition",
+        "p": [
+          "The wedding ceremony was confirmed as a self-respect marriage by DMK IT Wing Secretary Dr T R B Rajaa. This specific concept of marriage was initially introduced to Tamil Nadu by social reformer Periyar EV Ramasamy.",
+          "In this traditional format, the bride and groom formalize their bond by exchanging vows and garlands or rings while in the presence of designated witnesses."
+        ]
+      },
+      {
+        "h": "High-Profile Attendees and Upcoming Reception",
+        "p": [
+          "The destination wedding successfully brought together a host of notable figures from diverse fields including cinema, politics, business, and cricket. Prominent attendees included superstar Rajinikanth and DMK president MK Stalin.",
+          "Following the destination nuptials in Greece, the families are scheduled to host a grand wedding reception for the couple in Chennai on November 21."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander shared unseen photographs on Instagram from his Greece destination wedding to Sunrisers Hyderabad CEO Kavya Maran. The multi-day celebrations featured traditional elements, high-profile guests, and upcoming reception plans in Chennai."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander married Kavya Maran on November 11 in Greece.",
+      "The wedding celebrations began on November 10.",
+      "Kavya Maran is the CEO of Sunrisers Hyderabad and Sun TV Network executive director.",
+      "The wedding was confirmed as a self-respect marriage by Dr T R B Rajaa.",
+      "A wedding reception is scheduled in Chennai on November 21.",
+      "Attendees included Rajinikanth and MK Stalin."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Dr T R B Rajaa",
+        "Periyar EV Ramasamy",
+        "Rajinikanth",
+        "MK Stalin"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Anirudh Ravichander",
+      "Kavya Maran",
+      "Anirudh Kavya Maran wedding",
+      "Anirudh Ravichander wedding photos"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/anirudh-ravich.jpg",
+        "caption": "Anirudh Ravichander Shares Unseen Photos From Wedding Festivities With Kavya Maran",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 14:18:02 +0000"
+  },
+  "2sxzjh": {
+    "id": "2sxzjh",
+    "type": "news",
+    "headline": "Transformers Deluxe Edition Book 3 HC Confirms 2027 Release Featuring Optimus Prime and Megatron",
+    "dek": "Image Comics has announced the upcoming release of Transformers Deluxe Edition Book 3 HC, bringing together the start of the Robert Kirkman era in a massive 280-page hardcover arriving in April 2027.",
+    "body": [
+      {
+        "h": "A Major Milestone for the Franchise",
+        "p": [
+          "The enduring Transformers universe continues to chart a thrilling path forward, with 2027 bringing a notable collection for enthusiasts of the saga. At the core of this ongoing conflict between the Autobots and Decepticons stand iconic leaders Optimus Prime and Megatron, whose battles span across both Earth and Cybertron in a pivotal narrative arc.",
+          "This upcoming release offers dedicated readers a comprehensive way to experience a crucial chapter in the franchise history without needing to track down individual monthly comics."
+        ]
+      },
+      {
+        "h": "Transitioning to a New Creative Era",
+        "p": [
+          "Following a celebrated run on issues one through twenty-four by Daniel Warren Johnson, Jorge Corona, and Mike Spicer, the series transitioned into its current phase under superstar writer Robert Kirkman. Working alongside artists such as Dan Mora, Kirkman and the creative team have steered the publication into a fresh direction that has garnered positive attention from readers.",
+          "This ongoing saga forms part of the wider Energon Universe initiative, which has revitalized several classic properties under Image Comics and established a distinct tone for its participating titles."
+        ]
+      },
+      {
+        "h": "Inside the 2027 Hardcover Release",
+        "p": [
+          "Collector-focused readers and fans who prefer reading stories in a single volume can look forward to the launch of Transformers Deluxe Edition Book 3 HC. Scheduled to hit shelves on April 29, 2027, this substantial hardcover volume will span 280 pages and carry a retail price of $49.99.",
+          "The collection compiles issues twenty-five through thirty-six of the ongoing series, alongside an additional story originally featured in the Energon Universe Special 2026."
+        ]
+      },
+      {
+        "h": "An All-Star Lineup of Artistic Talent",
+        "p": [
+          "While Robert Kirkman pens the overarching narrative across all twelve collected issues, the hardcover showcases illustrations from a variety of distinct visual artists. Contributors to this massive edition include Dan Mora, Jason Howard, Jorge Corona, and Ludo Lullabi.",
+          "Despite the shifting guest artists handling different interior sequences, colorist Mike Spicer maintains a consistent visual identity throughout the entire volume."
+        ]
+      },
+      {
+        "h": "Key Plot Developments and Faction Conflicts",
+        "p": [
+          "Within the pages of these collected issues, the Autobot forces face internal friction as Optimus Prime and Elita One clash over differing visions for their faction's future, threatening to create divisions among their ranks. Meanwhile, new faces such as Arcee Magnus enter the fray to alter the balance of power.",
+          "On the opposing side, the Decepticons navigate their own trials as Megatron undergoes a powerful vision that reveals hidden secrets and reshapes his ultimate leadership trajectory."
+        ]
+      },
+      {
+        "h": "Availability and Collector Appeal",
+        "p": [
+          "The gorgeous hardcover format serves as an ideal centerpiece for bookshelf displays, catering directly to enthusiasts who favor binging complete arcs rather than episodic reading. Image Comics has cemented this release as one of the major highlights for physical media collectors in the spring of 2027.",
+          "With top-tier creative talent and definitive narrative shifts for both primary robot factions, the publication promises lasting significance for long-time followers of the brand."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Image Comics has officially scheduled the launch of Transformers Deluxe Edition Book 3 HC for April 29, 2027, priced at $49.99. The 280-page hardcover collects issues twenty-five through thirty-6 of the ongoing series and an Energon Universe Special 2026 story, highlighting creative contributions from Robert Kirkman, Dan Mora, and others while focusing on core conflicts involving Optimus Prime and Megatron."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date is April 29, 2027",
+      "Price is $49.99",
+      "Page count is 280 pages",
+      "Collects Transformers issues 25 through 36 and a story from Energon Universe Special 2026"
+    ],
+    "entities": {
+      "people": [
+        "TJ Mills",
+        "Robert Kirkman",
+        "Dan Mora",
+        "Daniel Warren Johnson",
+        "Jorge Corona",
+        "Mike Spicer",
+        "Jason Howard",
+        "Ludo Lullabi",
+        "Andrzej Sapkowski"
+      ],
+      "titles": [
+        "Transformers",
+        "Invincible",
+        "The Walking Dead",
+        "Justice League Unlimited",
+        "Superman",
+        "Mighty Morphin Power Rangers",
+        "Transformers Deluxe Edition Book 3 HC",
+        "Energon Universe Special 2026",
+        "Astounding Wolf-Man",
+        "Lobo",
+        "Ghost Pepper",
+        "Sword of Destiny",
+        "The Witcher",
+        "The Expanse",
+        "Godzilla",
+        "Attack On Titan"
+      ]
+    },
+    "keywords": [
+      "Transformers Deluxe Edition Book 3 HC",
+      "Robert Kirkman Transformers",
+      "Image Comics Transformers 2027",
+      "Transformers Dan Mora"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/optimus-prime-in-transformers-dark-of-the-moon.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Transformers Deluxe Edition Book 3 HC Confirms 2027 Release Featuring Optimus Prime and Megatron",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 17:38:25 GMT"
+  },
+  "1m0wdab": {
+    "id": "1m0wdab",
+    "type": "news",
+    "headline": "Raja Bhaiya Snatches Mic From Pawan Singh at Ramkatha Event, Dhirendra Shastri Reacts",
+    "dek": "A video from a Ramkatha event in Kunda, Pratapgarh featuring Raja Bhaiya, Pawan Singh, and Dhirendra Shastri has gone viral, sparking diverse reactions among fans.",
+    "body": [
+      {
+        "h": "The Ramkatha Event in Kunda",
+        "p": [
+          "A religious Ramkatha event held in Kunda, located in the Pratapgarh district of Uttar Pradesh, brought together several prominent personalities. Among those attending the grand gathering were well-known regional figures, drawing significant public attention.",
+          "The spiritual gathering was graced by the presence of prominent figures including MLA Raja Bhaiya and popular singer Pawan Singh, alongside spiritual leader Dhirendra Shastri, making it a major talking point in the region."
+        ]
+      },
+      {
+        "h": "The Unexpected Mic-Snatching Incident",
+        "p": [
+          "During the proceedings, Raja Bhaiya took the stage to address the audience and handed the microphone over to Pawan Singh, encouraging everyone to listen to him. However, just as the singer prepared to speak, Raja Bhaiya abruptly took the microphone back.",
+          "The sudden action caught attendees off guard. Explaining his intervention, Raja Bhaiya noted that the names of Dhananjay Singh and Prinsu had been accidentally left out of the introductions, apologizing for the written omission and acknowledging his own oversight."
+        ]
+      },
+      {
+        "h": "Dhirendra Shastri and Audience Reaction",
+        "p": [
+          "The unexpected moment on stage amused many of those in attendance. Dhirendra Shastri was seen reacting to the incident with a visible laugh as the sequence unfolded before the crowd.",
+          "Footage of the event quickly spread across social media platforms, capturing widespread attention online as viewers parsed the interactions between the high-profile guests on the dais."
+        ]
+      },
+      {
+        "h": "Pawan Singh's Composed Response",
+        "p": [
+          "Despite the awkward interruption on stage, the singer maintained his composure. Observers noted his patience in handling the situation without showing visible frustration.",
+          "Later in the program, after receiving the microphone again, he expressed that listening to the Katha had filled his heart with joy and thanked Raja Bhaiya for the opportunity."
+        ]
+      },
+      {
+        "h": "Musical Performance Follows",
+        "p": [
+          "Regaining his place at the podium, the singer asked his music team to set a specific musical scale. He then proceeded to sing a devotional bhajan for the assembly.",
+          "His performance resonated with the audience, prompting loud applause and drawing cheers from the packed crowd gathered at the religious venue."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Online Debate",
+        "p": [
+          "The viral clip drew mixed reactions from supporters across the internet. While some found the abrupt interruption amusing, others felt the situation could have been handled with more tact.",
+          "Many users specifically praised the singer for keeping his cool on stage, contrasting his calm demeanor with his usual confident public persona."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MLA Raja Bhaiya took the microphone back from Pawan Singh during a Ramkatha event in Pratapgarh, prompting laughter from Dhirendra Shastri and drawing widespread reactions online. Despite the sudden interruption, the singer maintained his composure and later performed a devotional bhajan for the audience."
+        ]
+      }
+    ],
+    "facts": [
+      "The event took place in Kunda, Pratapgarh district, Uttar Pradesh.",
+      "The incident occurred on November 19, 2026.",
+      "The key figures involved were Raja Bhaiya, Pawan Singh, and Dhirendra Shastri.",
+      "Raja Bhaiya snatched the microphone back to mention omitted names including Dhananjay Singh and Prinsu."
+    ],
+    "entities": {
+      "people": [
+        "Raja Bhaiya",
+        "Pawan Singh",
+        "Dhirendra Shastri",
+        "Dhananjay Singh",
+        "Prinsu"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Raja Bhaiya Pawan Singh mic",
+      "Pawan Singh Kunda Ramkatha",
+      "Dhirendra Shastri viral video",
+      "Pratapgarh Ramkatha event"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afed1f3e9a12-pawan-singh-193946939-16x9.jpg",
+        "caption": "Raja Bhaiya Snatches Mic From Pawan Singh at Ramkatha Event, Dhirendra Shastri Reacts",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T18:13:42Z"
+  },
+  "14wwwb8": {
+    "id": "14wwwb8",
+    "type": "news",
+    "headline": "Michelle Pfeiffer's Reflections on Wisdom: Embracing What We Don't Know",
+    "dek": "Hollywood veteran Michelle Pfeiffer shares profound insights on aging, humility, and the liberating truth that wisdom comes from recognizing our own limitations.",
+    "body": [
+      {
+        "h": "The Essence of Wisdom",
+        "p": [
+          "Renowned Hollywood icon Michelle Pfeiffer recently shared a thoughtful perspective on aging and personal growth during an appearance on Magic FM. Highlighting the realities of getting older, the acclaimed actress discussed how time and experience fundamentally shift a person's outlook on life.",
+          "Rather than cultivating a persona of absolute certainty, Pfeiffer suggested that true maturity is anchored in humility. Her reflections center on the comforting realization that acknowledging one's lack of complete understanding is actually a hallmark of wisdom."
+        ]
+      },
+      {
+        "h": "Moving Past Black-and-White Thinking",
+        "p": [
+          "In her remarks, Pfeiffer noted that youth is often characterized by rigid viewpoints and an intense internal pressure to possess all the answers. People frequently feel compelled to project total confidence and prove their knowledge to the world.",
+          "However, as individuals navigate relationships, careers, and the unpredictable twists of daily existence, their horizons inevitably broaden. This expanded view reveals just how vast and complex the world truly is, exposing numerous blind spots along the way."
+        ]
+      },
+      {
+        "h": "Frees From Ego and Fosters Growth",
+        "p": [
+          "Admitting that you do not possess all the answers serves as a powerful antidote to ego. Dropping the pretense of omniscience keeps a person naturally curious, open-minded, and ready to learn from those around them.",
+          "Pfeiffer emphasized that getting older should not be viewed negatively. Instead, accumulating life experiences and allowing them to guide you forward into uncertainty is a genuine blessing."
+        ]
+      },
+      {
+        "h": "Early Roots and Humble Beginnings",
+        "p": [
+          "Long before achieving global stardom, Michelle Pfeiffer grew up in a working-class household in Orange County, California. Born on April 29, 1958, to parents Richard Pfeiffer and Donna Taverna, she spent much of her youth as a self-described tomboy who preferred surfing and hanging out at the beach over academics.",
+          "Initially, she showed little interest in traditional schoolwork. Her trajectory shifted dramatically when she enrolled in a high school drama class, initially chosen as an easy way to avoid regular coursework, which ultimately ignited her passion for acting."
+        ]
+      },
+      {
+        "h": "Stepping into Hollywood and Finding Focus",
+        "p": [
+          "Pfeiffer initially attended college with the ambition of becoming a court reporter, but she quickly realized that path was not meant for her. Seeking a way into the entertainment industry with minimal formal training, she entered the Miss Orange County beauty pageant in 1978 to secure an agent, winning the title and placing sixth in the Miss California pageant.",
+          "Her early career featured minor television guest appearances on programs like 'Fantasy Island', 'Delta House', and 'CHiPs'. Following these small television roles, she landed her first major studio lead in the musical sequel 'Grease 2' in 1982."
+        ]
+      },
+      {
+        "h": "Breakthrough and Career-Defining Roles",
+        "p": [
+          "Although 'Grease 2' fell short critically and commercially, Pfeiffer's portrayal of Stephanie Zinone caught the attention of perceptive casting directors. A major turning point arrived in 1983 when director Brian De Palma cast her alongside Al Pacino in the classic crime drama 'Scarface'.",
+          "Despite initial reluctance to audition, Pfeiffer won over the director with her undeniable talent. Delivering an unforgettable performance as Elvira Hancock, she cemented her status in Hollywood, eventually accumulating over 60 acting credits and numerous accolades throughout her storied career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actress Michelle Pfeiffer recently shared insights on Magic FM regarding aging and the liberating realization that wisdom involves accepting one's lack of absolute knowledge. Reflecting on her journey from humble beginnings in California to a celebrated career featuring over sixty acting credits including 'Scarface', Pfeiffer highlighted how life experience replaces rigid youthful certainty with humility and openness."
+        ]
+      }
+    ],
+    "facts": [
+      "Michelle Pfeiffer was born on April 29, 1958.",
+      "She was born in Santa Ana, California.",
+      "Her father was Richard Pfeiffer and her mother was Donna Taverna.",
+      "She entered the Miss Orange County beauty pageant in 1978.",
+      "She placed sixth in the Miss California pageant.",
+      "She starred in the 1982 musical sequel Grease 2.",
+      "She starred in the 1983 film Scarface directed by Brian De Palma alongside Al Pacino."
+    ],
+    "entities": {
+      "people": [
+        "Michelle Pfeiffer",
+        "Richard Pfeiffer",
+        "Donna Taverna",
+        "Brian De Palma",
+        "Al Pacino"
+      ],
+      "titles": [
+        "Dangerous Minds",
+        "Ant-Man and the Wasp",
+        "Fantasy Island",
+        "Delta House",
+        "CHiPs",
+        "Grease 2",
+        "Scarface"
+      ]
+    },
+    "keywords": [
+      "Michelle Pfeiffer quote",
+      "Michelle Pfeiffer Scarface",
+      "Michelle Pfeiffer background",
+      "Michelle Pfeiffer career"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135987581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Michelle Pfeiffer's Reflections on Wisdom: Embracing What We Don't Know",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T23:00:00+05:30"
   }
 };
