@@ -194822,5 +194822,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T15:55:20+05:30"
+  },
+  "1whlapb": {
+    "id": "1whlapb",
+    "type": "news",
+    "headline": "Ramayana Box Office Records: Ranbir Kapoor And Yash Starrer Rockets Past Global Milestones",
+    "dek": "Ranbir Kapoor and Yash's epic adaptation Ramayana is rewriting box office history, racing toward Rs 1000 crore in India and shattering worldwide milestones.",
+    "body": [
+      {
+        "h": "Introduction to the Blockbuster Run",
+        "p": [
+          "The theatrical adaptation of the Indian epic Ramayana, starring Ranbir Kapoor and Yash, continues its unstoppable march at the box office. As the film races towards the Rs 1000 crore mark in India by its 15th day, it has proven to be a juggernaut that shows no signs of slowing down before December.",
+          "Audiences have turned out in droves to experience the grand cinematic vision, making it one of the most successful cultural and commercial events in recent film history."
+        ]
+      },
+      {
+        "h": "Fastest to Rs 1500 Crore Worldwide",
+        "p": [
+          "In a display of unprecedented global dominance, Ramayana crossed the Rs 1500 crore mark worldwide in just 14 days. This remarkable feat crowns it as the fastest Indian film to ever achieve this massive global milestone.",
+          "In doing so, it outpaced several major box office heavyweights, surpassing the milestones previously set by Dhurandhar: The Revenge, which took 16 days, Baahubali 2, which took 21 days, and Pushpa 2, which completed the journey in 15 days."
+        ]
+      },
+      {
+        "h": "Setting IMAX Records",
+        "p": [
+          "The film's theatrical appeal extended heavily into premium formats, securing the biggest worldwide IMAX opening ever recorded for an Indian film. This massive large-format launch earned around $6 million, which translates to near Rs 56.25 crore.",
+          "Industry experts view this milestone as a pivotal achievement for Indian cinema, proving the immense potential of domestic storytelling in international premium theatrical markets."
+        ]
+      },
+      {
+        "h": "Single-Day and Weekday Benchmarks",
+        "p": [
+          "Ramayana also made waves with its extraordinary weekday numbers. It stands as the second Bollywood film to earn over Rs 100 crore nett in a single day, following Dhurandhar: The Revenge.",
+          "On its 5th day, which fell on a Monday, the film collected Rs 95 crore to set a new record for the highest Monday collection by a Hindi film. It followed this up on its 6th day with a staggering Tuesday collection of Rs 78.21 crore India nett, comfortably beating the previous record held by Gadar 2 at Rs 55 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Career Highs for Cast Members",
+        "p": [
+          "The monumental success of Ramayana has naturally propelled its lead actors into new professional territory. The movie is easily the biggest hit and highest-grossing film for Ranbir Kapoor, Yash, and Sai Pallavi, while also registering the biggest openings of their respective careers.",
+          "Prior to this release, Ranbir Kapoor's biggest hit was Animal at Rs 917 crore, Yash's career-best was KGF 2 at Rs 1250 crore, and Sai Pallavi's highest grosser was Amaran at Rs 330 crore."
+        ]
+      },
+      {
+        "h": "Cultural and Commercial Significance",
+        "p": [
+          "The phenomenal box office run of Ramayana underscores the enduring appeal of mythological epics when mounted on a grand scale. The combination of high-profile star power, advanced visual effects, and strategic holiday-adjacent release windows has created a historic theatrical phenomenon.",
+          "Trade analysts continue to monitor the film's trajectory as it nears its next major domestic threshold, cementing a legacy that will be difficult for future releases to challenge."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's blockbuster film Ramayana has become the fastest Indian movie to cross Rs 1500 crore worldwide while racing towards Rs 1000 crore in India. The movie has shattered multiple records, including the biggest global IMAX opening and highest weekday earnings for a Hindi film, marking career-best highs for its lead cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs 1500 crore worldwide in 14 days.",
+      "The film earned around $6 million or near Rs 56.25 crore in its worldwide IMAX opening.",
+      "On its 5th day Monday, the film collected Rs 95 crore.",
+      "On its 6th day Tuesday, the film collected Rs 78.21 crore India nett.",
+      "Ranbir Kapoor's previous biggest hit was Animal at Rs 917 crore.",
+      "Yash's career-best film was KGF 2 at Rs 1250 crore.",
+      "Sai Pallavi's biggest hit was Amaran at Rs 330 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar: The Revenge",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Gadar 2",
+        "Animal",
+        "KGF 2",
+        "Amaran"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana collection day 15",
+      "Ramayana 1500 crore worldwide"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/11/19/2762249-rabir-202611191258330000.jpg",
+        "caption": "Ramayana Box Office Records: Ranbir Kapoor And Yash Starrer Rockets Past Global Milestones",
+        "source": "DNA India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T22:51:32Z"
+  },
+  "15eqb9k": {
+    "id": "15eqb9k",
+    "type": "news",
+    "headline": "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+    "dek": "Rockstar Games has finally launched the long-awaited title for current-generation consoles, complete with purchasing options across major online retailers.",
+    "body": [
+      {
+        "h": "The Release of Grand Theft Auto VI",
+        "p": [
+          "Following a thirteen-year wait since the predecessor, Rockstar Games has officially delivered the follow-up title for players worldwide. Gamers have eagerly anticipated this installment for over a decade, making it a monumental event in the interactive entertainment industry.",
+          "The software is now available for current-generation hardware, specifically designed to utilize the capabilities of modern platforms and deliver an expansive open-world experience."
+        ]
+      },
+      {
+        "h": "Pricing and Supported Platforms",
+        "p": [
+          "The title is accessible for both Sony PlayStation 5 and Xbox Series X/S consoles. Buyers can secure their copies starting at $79.99, applicable to both digital download formats and physical retail editions.",
+          "Due to the intense anticipation surrounding the project, the software quickly climbed the retail rankings to become a leading bestseller on major e-commerce platforms upon its launch."
+        ]
+      },
+      {
+        "h": "Retailers and Packaging Details",
+        "p": [
+          "Interested customers can acquire the software through multiple popular online outlets, including Amazon, Walmart, and Best Buy. Each of these vendors provides options for both platform versions at the standard launch price.",
+          "For those purchasing the physical edition, it is worth noting that the box contains a download code rather than a traditional optical disc, streamlining the installation process for digital distribution."
+        ]
+      },
+      {
+        "h": "Audio Experience and Soundtrack",
+        "p": [
+          "Beyond the detailed open-world graphics and virtual freedom, the software features a top-tier soundtrack and dedicated radio stations. The high-fidelity audio design is enhanced when paired with world-class audio systems or gaming headsets.",
+          "Players looking to optimize their acoustic environment can utilize equipment such as the Denon DHT-S517 soundbar or the new PlayStation PULSE Wireless Headset to fully appreciate the in-game music and sound effects."
+        ]
+      },
+      {
+        "h": "Featured Soundtrack Artists",
+        "p": [
+          "The music lineup includes contributions from a diverse array of prominent artists and producers. Notable tracks featured in the experience range from collaborations by Yung Lean featuring Future and Metro Boomin to contributions from Travis Scott.",
+          "Additional musical artists on the tracklist include CA7RIEL, Paco Amoroso, PinkPantheress, Fred again.., Etienne de Crécy, Morgan Wallen, Rauw Alejandro, and Keith Richards."
+        ]
+      },
+      {
+        "h": "Shipping and Membership Perks",
+        "p": [
+          "Shoppers utilizing Amazon can benefit from complimentary delivery options depending on their membership status. Active Prime subscribers receive free shipping automatically on their hardware and software orders.",
+          "Customers who are not currently members can meet alternative cart minimums or explore introductory trial periods to gain access to expedited delivery, digital entertainment benefits, and exclusive seasonal savings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rockstar Games has released the highly anticipated video game for Sony PlayStation 5 and Xbox Series X/S consoles at a price of $79.99. The title is available through major retailers like Amazon, Walmart, and Best Buy, accompanied by a comprehensive soundtrack featuring numerous prominent artists."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI was released by Rockstar Games for Sony PlayStation 5 and Xbox Series X/S.",
+      "The price for the game is $79.99 for both digital download and physical copy.",
+      "The physical box contains a download code instead of a disc.",
+      "The game is available through Amazon, Walmart, and Best Buy."
+    ],
+    "entities": {
+      "people": [
+        "Future",
+        "Metro Boomin",
+        "Yung Lean",
+        "Travis Scott",
+        "CA7RIEL",
+        "Paco Amoroso",
+        "PinkPantheress",
+        "Fred again..",
+        "Etienne de Crécy",
+        "Morgan Wallen",
+        "Rauw Alejandro",
+        "Keith Richards"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "GTA 5"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA 6 PS5 Xbox",
+      "Rockstar Games GTA 6",
+      "GTA 6 soundtrack"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-Vice-City-Hero-Billboard-1548.jpg?w=1024",
+        "caption": "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:53:18 +0000"
+  },
+  "1jpw52x": {
+    "id": "1jpw52x",
+    "type": "news",
+    "headline": "Shashi Tharoor Steps Into Television Hosting With Discovery India's New Docuseries",
+    "dek": "Congress parliamentarian and author Shashi Tharoor is preparing for his first-ever television hosting assignment in a four-part docuseries exploring the cultural journey of the Ramayana across Asia.",
+    "body": [
+      {
+        "h": "The Hosting Debut",
+        "p": [
+          "Well-known author and Congress parliamentarian Shashi Tharoor is branching into television presentation for the very first time. He will front a brand-new documentary production that examines the ancient epic and its vast regional footprints.",
+          "The project marks an entirely new professional chapter for the prominent political figure, bringing his literary interests directly to the small screen through a major factual entertainment network."
+        ]
+      },
+      {
+        "h": "About Itihasa: Ramayana Beyond Borders",
+        "p": [
+          "The upcoming television venture is titled Itihasa: Ramayana Beyond Borders. Structured as a four-part undertaking, the production is scheduled for its official premiere on December 7.",
+          "Discovery India is backing the project, and the network recently offered audiences a preview of the programme by sharing a promotional clip across its official Instagram account."
+        ]
+      },
+      {
+        "h": "Tracing the Epic Across Continents",
+        "p": [
+          "The narrative arc of the docuseries focuses on how the ancient text migrated over centuries. It documents the various ways different societies embraced the classic story and adapted it to fit their own cultural landscapes.",
+          "Rather than focusing solely on its country of origin, the programme follows the movement of the narrative outward, demonstrating how civilizations across distinct regions developed unique interpretations of the traditional tale."
+        ]
+      },
+      {
+        "h": "Geographic Scope and Cultural Reach",
+        "p": [
+          "While maintaining India as its primary narrative foundation, the series maps the passage of the epic through multiple international territories. Locations highlighted in the production include Sri Lanka, Cambodia, and Thailand.",
+          "The geographic exploration extends further into Southeast Asia, incorporating cultural perspectives and historical connections found within the Philippines, Indonesia, and Malaysia."
+        ]
+      },
+      {
+        "h": "Core Characters and Thematic Focus",
+        "p": [
+          "Each installment of the four-part release centers on the foundational figures of the narrative. The episodes examine central entities such as Lord Ram, Goddess Sita, Lord Hanuman, and Ravana.",
+          "The storytelling delves into specific thematic elements, ranging from ideals of traditional kingship and varying visual depictions of devotion to contrasting perspectives on key personalities within the text."
+        ]
+      },
+      {
+        "h": "Host Perspective and Network Vision",
+        "p": [
+          "Discussing his involvement, Shashi Tharoor noted that the text has long captured his literary attention alongside its traditional religious importance. He mentioned spending years reading about the various iterations of the tale.",
+          "Tharoor expressed enthusiasm for partnering with Discovery India, praising the network's capacity to present cultural history to broad audiences and highlighting the importance of recognizing the reach of these traditions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Author and Congress MP Shashi Tharoor is set to make his television hosting debut in a four-part Discovery India docuseries titled Itihasa: Ramayana Beyond Borders. Premiering on December 7, the programme explores the historical journey and cultural evolution of the epic across Sri Lanka and various Southeast Asian nations."
+        ]
+      }
+    ],
+    "facts": [
+      "Shashi Tharoor is an author and Congress MP.",
+      "The docuseries is titled Itihasa: Ramayana Beyond Borders.",
+      "It is a four-part Discovery India docuseries.",
+      "The series premieres on December 7.",
+      "The show explores the Ramayana across Southeast Asia and Sri Lanka."
+    ],
+    "entities": {
+      "people": [
+        "Shashi Tharoor"
+      ],
+      "titles": [
+        "Itihasa: Ramayana Beyond Borders"
+      ]
+    },
+    "keywords": [
+      "Shashi Tharoor Ramayana docuseries",
+      "Itihasa Ramayana Beyond Borders",
+      "Shashi Tharoor hosting debut",
+      "Discovery India Ramayana series"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/19/7036-sashi-tharoor.png",
+        "caption": "Shashi Tharoor Steps Into Television Hosting With Discovery India's New Docuseries",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T22:51:32Z"
+  },
+  "1r4pmw4": {
+    "id": "1r4pmw4",
+    "type": "news",
+    "headline": "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House",
+    "dek": "JioHotstar has dropped the teaser for Dr. Hassan, an Indian reimagining of the global hit series House, starring Nawazuddin Siddiqui and Dia Mirza ahead of its December premiere.",
+    "body": [
+      {
+        "h": "The Teaser Drop",
+        "p": [
+          "JioHotstar has officially unveiled the teaser for its upcoming series Dr. Hassan, generating immediate excitement across the streaming landscape. The preview introduces audiences to a bold new medical drama that adapts a beloved global television format for Indian viewers.",
+          "The newly released footage highlights the moody atmosphere of hospital corridors and establishes the tone of the upcoming project. Fans were given their very first look at the main characters and the high-stakes diagnostic puzzles that will drive the narrative forward."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Nawazuddin Siddiqui takes center stage as the brilliant yet abrasive diagnostician who operates strictly by his own rules. His character is tasked with solving impossible medical mysteries that leave ordinary doctors completely stumped.",
+          "Alongside Nawazuddin Siddiqui, Dia Mirza plays a key role in the series. The show promises plenty of sharp wit and tangled hospital politics as the protagonist navigates baffling symptoms while driving everyone around him up the wall."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "The series is directed by Rohan Sippy, who brings his distinct vision to the gripping medical narrative. His direction aims to capture the tense, fast-paced environment of specialized hospital departments.",
+          "Production duties are handled by Banijay Asia in collaboration with NBCUniversal Formats. Their partnership brings a polished scale to the adaptation of a major international television property."
+        ]
+      },
+      {
+        "h": "Supporting Cast Members",
+        "p": [
+          "In addition to the leads, the project features an ensemble of supporting talent. Actors Faisal Rashid and Rehmat Rattan are part of the hospital drama.",
+          "The cast is further rounded out by performers Jayson Thaam and Smaran Sanu, who contribute to the complex web of medical professionals and patients."
+        ]
+      },
+      {
+        "h": "Actor Insights",
+        "p": [
+          "Stepping into the title role struck a surprisingly personal chord for Nawazuddin Siddiqui, who recalled spending time around clinics and dispensaries in his hometown during his youth. Observing those interesting people and situations helped shape his approach to the character.",
+          "Reflecting on the experience, Siddiqui noted that finding the balance between exceptional intelligence and a unique worldview was an enjoyable challenge. He expressed gratitude to the platform for trusting him with such an unusual and bold creative project."
+        ]
+      },
+      {
+        "h": "Global Origins and Legacy",
+        "p": [
+          "The series serves as an official Indian reimagining of House, the global cult classic that originally ran for eight acclaimed seasons. Hugh Laurie famously fronted the international version, establishing the gold standard for anti-hero medical dramas.",
+          "Bringing that razor-sharp cynicism and brilliant eccentricity into an Indian hospital setting marks a fresh approach to a familiar television archetype."
+        ]
+      },
+      {
+        "h": "Streaming Details",
+        "p": [
+          "Viewers won't have to wait much longer to dive into the medical mysteries, as the show is scheduled for its official premiere on December 11, 2026. The release is positioned as one of the most intriguing streaming treats of the month."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "JioHotstar has released the teaser for Dr. Hassan, an Indian adaptation of the hit series House starring Nawazuddin Siddiqui and Dia Mirza. Directed by Rohan Sippy, the upcoming streaming series is slated to premiere on December 11."
+        ]
+      }
+    ],
+    "facts": [
+      "Nawazuddin Siddiqui and Dia Mirza star in Dr. Hassan",
+      "Dr. Hassan is an Indian adaptation of House",
+      "JioHotstar dropped the teaser on November 19, 2026",
+      "The series premieres on December 11, 2026",
+      "Rohan Sippy is the director",
+      "Banijay Asia and NBCUniversal Formats are the producers",
+      "Faisal Rashid, Rehmat Rattan, Jayson Thaam, and Smaran Sanu are part of the cast",
+      "Hugh Laurie starred in the original eight-season series House"
+    ],
+    "entities": {
+      "people": [
+        "Nawazuddin Siddiqui",
+        "Dia Mirza",
+        "Hugh Laurie",
+        "Rohan Sippy",
+        "Faisal Rashid",
+        "Rehmat Rattan",
+        "Jayson Thaam",
+        "Smaran Sanu"
+      ],
+      "titles": [
+        "Dr. Hassan",
+        "House",
+        "Thug Life",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Dr Hassan teaser",
+      "Nawazuddin Siddiqui Dr Hassan",
+      "Dia Mirza JioHotstar series",
+      "Dr Hassan House adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/dr-hassan1795076699.jpg",
+        "caption": "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-19T15:30:13+05:30"
   }
 };

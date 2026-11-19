@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T22:52:06Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": {
-     "candidates": 517,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Arnold Schwarzenegger's son Joseph shares rare glimpse of life with mother",
-      "Robert Pattinson set to earn USD 100 million for James Bond saga",
-      "khesari lal yadav stage show obscene behavior asked for kiss married actress tmovh dskc 2700013 2026 11 18",
-      "mira rajput kapoor flaunts stretch marks faces troll over edited instagram photos tmovg 2699818 2026 11 18",
-      "aisi deewangi dekhi nahin kahin who is subhan nadiadwala and airah bose roy debut bollywood salman khan support tmovg dskc 2700069 2026 11 18",
-      "amitabh bachchan clarifies his bach gaye tweet naada belt netizens react hilariously tmovg dskc 2699871 2026 11 18",
-      "dhanashree verma gets romantic actor lifts her on danced together cosy chemistry yuzvendra chahal tmovh dskc 2699817 2026 11 18",
-      "indias got latent winner subhash ahirwar accuses samay raina share emotional video tmovg dskc 2700040 2026 11 18",
-      "yeh prem mol liya trailer released ayushmann khurana and sharvari love story families maayka sasural tmovg dskc 2699890 2026 11 18",
-      "rakhi sawant ex husband marriage trouble wife somi khan cryptic post surrender herself to allah tmovh 2699870 2026 11 18",
-      "sara tendulkar and saaniya chandhok leopard dress steals fashion show nand bhabhi hold hands chemistry photos tmovh 2700064 2026 11 18",
-      "anant singh stays away from bollywood not ready for biopic daughter shivangi singh wedding tmovh dskc 2700045 2026 11 18",
-      "grammy 2027 varuvaaiy tamil song nomination subramania bharati krishna devotional poem tmovh dskc 2699715 2026 11 18",
-      "pakistani actress ishaa noor quits showbiz for islam performed namaz quran religious lifestyle hijab burqa tmovf dskc 2699751 2026 11 18",
-      "gen z cartoons millennials watched in childhood gen z should know srss dskc 2699833 2026 11 18",
-      "dubai based cyber fraud network busted in india as police uncover twelve thousand active sim cards international scam mmta 2700088 2026 11 18",
-      "sonakshi sinha reaction sonia gandhi trolling rahul gandhi congress rss bjp details mmtm 2699599 2026 11 18",
-      "india us trade deal negotiations to conclude soon signing awaits us tariff architecture article 156531810",
-      "aisi deewangi dekhi nahi kahin release when to watch subhaan nadiadwala airah bose roys debut film article 156530687",
-      "amitabh bachchan explains bach gaye tweet amid threats reveals kbc shoot wardrobe malfunction article 156531293"
-     ],
-     "updated": [],
-     "count": 361,
-     "detail": "380 stories, 5 duplicates removed, 137 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-18T23:51:06Z",
     "run_id": "44424128231",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "363 stories, 0 duplicates removed, 26 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T23:51:36Z",
-    "run_id": "44424128231",
+    "run_at": "2026-11-19T22:51:05Z",
+    "run_id": "44632336485",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 354,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Paris Hilton Urges US House To Pass DEFIANCE Act, Discloses Over One Lakh AI-Generated Graphic Images Of Herself",
-      "Skydance to Merge Warner Bros and Paramount Television Studios",
-      "Arnold Schwarzenegger's Son Joseph Baena Shares Cooking Video With Mother Mildred As The Terminator Star Details Holiday Customs With Maria Shriver",
-      "Christine Quinn Makes Dramatic Comeback in Selling Sunset Season 10 Trailer"
+      "A Teen’s Make-A-Wish Dream Was To Be In A Hallmark Movie. She Got To Do That And So Much More",
+      "Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend",
+      "Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal",
+      "Hulu’s 8-Part Mystery Series Feels Like It Was Made To Be Binged",
+      "Olympus Has Fallen & Agents of SHIELD Actor Lance Broadway Passes Away at 43",
+      "Spider-Man 4 Extended Cut Teaser Has Big Announcement for Fans Who Want to See New MCU Footage",
+      "Brooks Nader Joins Jessica Biel & Johnny Depp’s Daughter in Cast of New NSFW Movie",
+      "World War Z 2 Gets Update, Brad Pitt Explains Bringing ‘Fresh’ Ideas to Zombie Genre",
+      "Spider-Man’s Doctor Octopus Just Got His Most Horrifying Makeover Ever From Marvel, See It Here",
+      "Watch: Pixar's 'Love on a Plate' Short Film About Food & Community",
+      "Disney+ Crime Fantasy Adaptation Officially Moves Forward 16 Years Later",
+      "'Breaking Bad' Icon Aaron Paul Officially Reunites With Netflix for Smash Hit Thriller Series",
+      "Matt Damon Responds to Christopher Nolan Calling His Odysseus the Performance of a Lifetime",
+      "HBO's Greatest Historical Miniseries Has 95% on Rotten Tomatoes & You Can Binge It in Under 6 Hours",
+      "Disney’s $1 Billion Live-Action Remake Sequel Officially Recruits ‘Spider-Man’ Star",
+      "Forget Lioness, Taylor Sheridan’s 2-Part Action Series Is Now A 160-Day Streaming Sensation",
+      "7 Reasons Netflix's New Stranger Things Series Should Be A Sequel, Not A Prequel",
+      "Superman Just Left The Justice League, Dark Decision Explained",
+      "South Park: Bigger, Longer & Uncut Is The Show's Best Episode",
+      "Bestselling 5-Novel Mystery Thriller Franchise Getting First-Ever TV Adaptation"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 331,
+     "detail": "354 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 0 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-19T22:51:33Z",
+    "run_id": "44632336485",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Box Office Records: Ranbir Kapoor And Yash Starrer Rockets Past Global Milestones",
+      "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+      "Shashi Tharoor Steps Into Television Hosting With Discovery India's New Docuseries",
+      "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T00:52:29Z",
-    "run_id": "44432236736",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 368, coming 8"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,26 +1900,27 @@
      "detail": "now 383, coming 8"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-18T23:56:37Z",
-    "run_id": "44424128231",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-19T22:51:33Z",
+    "run_id": "44632336485",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 391,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 383, coming 8"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2403,27 +2386,35 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-19T22:56:39Z",
+    "run_id": "44632336485",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "15eqb9k",
+      "uao2gh",
+      "hwbe4b",
+      "18n49lk",
+      "167bv68",
+      "19a32sa",
+      "ltv81g",
+      "1x37hn2"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T23:01:02Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": {
-     "candidates": 708,
-     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2837,19 +2828,27 @@
      "detail": "+0 new rows, 3 updated rows, 691 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T22:56:37Z",
+    "run_id": "44632336485",
+    "status": "success",
+    "checked": {
+     "candidates": 718,
+     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 691 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3086,32 +3085,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-18T23:56:37Z",
-    "run_id": "44424128231",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Paris Hilton Urges US House To Pass DEFIANCE Act, Discloses Over One Lakh AI-Generated Graphic Images Of Herself",
-      "Skydance to Merge Warner Bros and Paramount Television Studios",
-      "Christine Quinn Makes Dramatic Comeback in Selling Sunset Season 10 Trailer",
-      "Arnold Schwarzenegger's Son Joseph Baena Shares Cooking Video With Mother Mildred As The Terminator Star Details Holiday Customs With Maria Shriver"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3645,19 +3631,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-19T22:56:38Z",
+    "run_id": "44632336485",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Box Office Records: Ranbir Kapoor And Yash Starrer Rockets Past Global Milestones",
+      "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+      "Shashi Tharoor Steps Into Television Hosting With Discovery India's New Docuseries",
+      "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3887,19 +3886,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4221,31 +4220,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-18T22:52:34Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 361 still unprocessed; today by category: movies 11/6, tv_dramas 17/4, episodes 1/2, box_office 19/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 11/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 4/2"
-    },
-    "changed": {
-     "added": [
-      "Avengers Doomsday Crosses Rs 10 Crore in Advance Bookings With Record-Breaking Demand",
-      "Ramayana Hits Rs 1500 Crore Worldwide Box Office Milestone on Day 14",
-      "Samara Weaving and Kyle Gallner Star in Netflix Hit Carolina Caroline",
-      "Robert Pattinson's James Bond Deal and Audition Pay Revealed"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4750,26 +4737,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-19T22:51:32Z",
+    "run_id": "44632336485",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 331 still unprocessed; today by category: movies 16/6, tv_dramas 13/4, episodes 2/2, box_office 13/6, celebrities_events 16/5, upcoming_releases 8/4, ott_streaming 8/4, trailers 6/3, awards 2/2, music_ost 3/2, viral 4/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Box Office Records: Ranbir Kapoor And Yash Starrer Rockets Past Global Milestones",
+      "How to Purchase Grand Theft Auto VI for Sony PS5 and Xbox Online",
+      "Shashi Tharoor Steps Into Television Hosting With Discovery India's New Docuseries",
+      "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-18T22:53:46Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5076,19 +5068,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5368,19 +5360,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5690,19 +5682,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5952,19 +5944,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6199,19 +6191,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6495,19 +6487,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6748,19 +6740,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6990,19 +6982,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7251,6 +7243,16 @@
     "category": "Trending News",
     "run_at": "2026-11-19T22:03:17Z",
     "run_id": "44622787487",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7772,16 +7774,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-18T23:56:45Z",
     "run_id": "44424128231",
     "status": "skipped",
@@ -8018,19 +8010,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-18T23:01:20Z",
-    "run_id": "44415363930",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8260,8 +8252,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-19T22:56:49Z",
+    "run_id": "44632336485",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-19T22:03:17Z"
+ "updated_at": "2026-11-19T22:56:49Z"
 }
