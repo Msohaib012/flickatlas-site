@@ -33291,5 +33291,529 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-26",
     "popularity": 0.3113
+  },
+  "1830694": {
+    "id": 1830694,
+    "type": "movie",
+    "title": "Here Among Strangers",
+    "poster_path": "/8wCEMet7ODApbxySTBF0sVPA7xK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a rapidly growing city, seventy-year-old farmer Sudhakar Bhujbal continues to cultivate his shrinking patch of land, rooted in a world that no longer sees him. As glass towers rise around his soil, he remains- tending the earth among strangers, a quiet figure of continuity against a skyline of relentless change",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0
+  },
+  "1827458": {
+    "id": 1827458,
+    "type": "movie",
+    "title": "Ali, I mean Matias",
+    "poster_path": "/lvXAMuy8DfrsoyMsFX9mc9BMlNN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Ali tries to create the perfect job application but keeps running into obstacles.",
+    "industry": "world",
+    "original_language": "fi",
+    "origin_country": [
+      "FI"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "fa",
+      "fi"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.1578
+  },
+  "1447885": {
+    "id": 1447885,
+    "type": "movie",
+    "title": "Heysel 85",
+    "poster_path": "/fn54b8z4tiq9hPbT5m0FcEbDSrv.jpg",
+    "backdrop_path": "/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When 39 people are killed prior to the European Cup at the Brussels Heysel stadium in 1985, the mayor's daughter and an Italian journalist are torn between their professional assignments, family, and human nature.",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "NL",
+      "DE",
+      "BE"
+    ],
+    "production_countries": [
+      "BE",
+      "RO",
+      "NL",
+      "DE"
+    ],
+    "spoken_languages": [
+      "nl",
+      "en",
+      "it",
+      "fr"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-18",
+    "popularity": 1.6637
+  },
+  "340808": {
+    "id": 340808,
+    "type": "tv",
+    "title": "Mera Ghar",
+    "poster_path": "/5DqGr15v2d5zupFLzYO13kTkFZ3.jpg",
+    "backdrop_path": "/iXh2sR2jiq09yaMcgDywyLrMmEi.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mera Ghar is a family drama centered on Sherry, the youngest member of a household, who is raised by his elder sister Farkhanda after their mother's death. Having devoted her life to him.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "ur"
+    ],
+    "published_at": "2026-11-19",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-21",
+    "popularity": 0.3622
+  },
+  "340280": {
+    "id": 340280,
+    "type": "tv",
+    "title": "Gordon",
+    "poster_path": "/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+    "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+    "vote_average": 7.3,
+    "vote_count": 3,
+    "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-19",
+    "status": "Ended",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2026-11-18",
+    "popularity": 22.1314
+  },
+  "308007": {
+    "id": 308007,
+    "type": "tv",
+    "title": "The Altruists",
+    "poster_path": "/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+    "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2026-11-19",
+    "popularity": 6.9437
+  },
+  "1810018": {
+    "id": 1810018,
+    "type": "movie",
+    "title": "Girls Just Wanna Cum",
+    "poster_path": "/tb6UC96Se17OpVV8Dk3gBLstexL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "no plot announced",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2822
+  },
+  "1808156": {
+    "id": 1808156,
+    "type": "movie",
+    "title": "STRØM – Nordwärts zur Freiheit",
+    "poster_path": "/kYEqCK4sPUXLelaecvVkHeETC48.jpg",
+    "backdrop_path": "/byu6e3I1LXMiSwoK42DrSg7bD4M.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.236
+  },
+  "1807930": {
+    "id": 1807930,
+    "type": "movie",
+    "title": "Parkway Drive - Home",
+    "poster_path": "/8cABaM3PTv3bHkUDashfHvEdelc.jpg",
+    "backdrop_path": "/vnChj33ve4pDkJqSNZY4g1UbSMG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Parkway Drive : HOME - Live at the Sydney Opera House",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2584
+  },
+  "1806071": {
+    "id": 1806071,
+    "type": "movie",
+    "title": "Perry the Christmas Penguin",
+    "poster_path": "/rvaRfuJ0rTrzxrcDgYKbcrMdYSO.jpg",
+    "backdrop_path": "/uMNBmHD9kEL8J6cbiswg34c3z1u.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The truth about the Covid virus is finally revealed ___ it reached the North Pole! With Santa quarantined, the only HOPE to save Christmas is the adorable Perry the Penguin. Filled with adventure, music, and laughter, Perry the Christmas Penguin keeps the true meaning of Christmas at heart ___ Jesus Christ.  A movie the entire family will treasure!",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2191
+  },
+  "1803220": {
+    "id": 1803220,
+    "type": "movie",
+    "title": "Mr. Ibrahim's House",
+    "poster_path": "/1DxoGJWxQDoVkM4wYCvweZtocWn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "ar",
+    "origin_country": [
+      "LB"
+    ],
+    "production_countries": [
+      "LB"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.5304
+  },
+  "1797377": {
+    "id": 1797377,
+    "type": "movie",
+    "title": "Bichos del mar",
+    "poster_path": "/uYTQGXobST0zbqoBXmGBsuezb8h.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es",
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.3386
+  },
+  "1794165": {
+    "id": 1794165,
+    "type": "movie",
+    "title": "The Devil Knows Your Name",
+    "poster_path": "/kOXsGDVpuJxbVZsYSJtF0SeI2XW.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mariel and Tino, a documentary filmmaking duo specializing in disturbing crimes, investigate a tragedy that occurred a year earlier at a care home, where a young volunteer named Gisela set fire to a dormitory with several children inside. Their investigation leads them to Father Román, a Vatican-sanctioned exorcist who claims to have treated her for demonic possession. Mariel refuses to believe him—until they discover a young woman locked in a forest cabin who claims to be Gisela and accuses the priest of holding her captive.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.4433
+  },
+  "1792356": {
+    "id": 1792356,
+    "type": "movie",
+    "title": "Love Exposed",
+    "poster_path": "/rfFRirqIcIEx737PJFAumY9ifRT.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "cs",
+    "origin_country": [
+      "CZ"
+    ],
+    "production_countries": [
+      "CZ",
+      "SK"
+    ],
+    "spoken_languages": [
+      "cs"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2053
+  },
+  "1791784": {
+    "id": 1791784,
+    "type": "movie",
+    "title": "Něco jako rodina",
+    "poster_path": "/zLQdK4RJqVSYgYdYsDUXbZpXRKX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "cs",
+    "origin_country": [
+      "CZ"
+    ],
+    "production_countries": [
+      "CZ"
+    ],
+    "spoken_languages": [
+      "cs"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2256
+  },
+  "1785221": {
+    "id": 1785221,
+    "type": "movie",
+    "title": "Ber's Room",
+    "poster_path": "/t2XvRvACErUNTqdNWr0XWNjbBy7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 1994 Mauritius, an approaching cyclone traps a family inside their home. As the storm rages outside, unspoken trauma and terrifying home dynamics tighten.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "MU"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.1094
+  },
+  "295778": {
+    "id": 295778,
+    "type": "tv",
+    "title": "Scrubs",
+    "poster_path": "/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+    "backdrop_path": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+    "vote_average": 7.698,
+    "vote_count": 134,
+    "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "published_at": "2026-11-19",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2026-02-25",
+    "popularity": 25.1446
+  },
+  "1475768": {
+    "id": 1475768,
+    "type": "movie",
+    "title": "Maatrubhumi:  May War Rest in Peace",
+    "poster_path": "/si4RdbdCGZSy39N2EzN8dabszim.jpg",
+    "backdrop_path": "/p1VCtvROMZ0g60UqMeTY2e7MTUX.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Based on the events that took place between the Indian and Chinese troops at the Galwan region on June 15, 2020 when 200 Indian soldiers bravely defended their territory against a force of 1200 Chinese Liberation Army soldiers",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-12-04",
+    "popularity": 2.4364
+  },
+  "340064": {
+    "id": 340064,
+    "type": "tv",
+    "title": "Aaj Phir Jeene Ki Tamanna Hai",
+    "poster_path": "/qq24hDvcLPf3j8GwCHeX7tYbGKW.jpg",
+    "backdrop_path": "/fKfbhIgPdB8rA8beQIz4TMWlklQ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Ishaan has written his first love song, and it’s for someone he has quietly fallen for. When Ambar asks who it is, Ishaan stops talking and sings it straight to him. But Ambar’s heart already belongs to someone else, someone who hasn’t come back. So Ishaan asks him one thing: “Agar woh kabhi lautke na aaye... toh kya tum mera haath thaamoge?”",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-07",
+    "popularity": 0.6712
+  },
+  "337418": {
+    "id": 337418,
+    "type": "tv",
+    "title": "Arey Wah!",
+    "poster_path": "/eoJyVqdrvKFpDrIBrdLNswoLY2T.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follow a CEO and his team as they navigate the unpredictable world of advertising, marketing, creative agencies, clients, and workplace drama. When every brief goes off the rails, survival means finding the most wildly creative ways to solve each problem.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-10-15",
+    "popularity": 1.0149
   }
 };

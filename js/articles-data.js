@@ -193222,5 +193222,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T23:00:00+05:30"
+  },
+  "8aq7r6": {
+    "id": "8aq7r6",
+    "type": "news",
+    "headline": "Where is Mahakumbh Viral Girl Monalisa Bhosle Now Amid Controversies and Marriage?",
+    "dek": "A look into the journey of Mahakumbh viral sensation Monalisa Bhosle, her sudden rise to fame, marriage to Farman Khan, and the controversies surrounding her career.",
+    "body": [
+      {
+        "h": "Rise to Internet Stardom",
+        "p": [
+          "Monalisa Bhosle captured national attention during the 2025 Mahakumbh in Prayagraj. Originally selling rudraksha beads and living in modest conditions, her striking eyes and expressive face turned her into an overnight internet sensation.",
+          "Social media users quickly dubbed her the Mahakumbh viral girl and Kumbh beauty. This sudden wave of popularity opened unexpected doors for her, transitioning her from a street vendor to receiving legitimate film offers."
+        ]
+      },
+      {
+        "h": "Film Opportunities and Training",
+        "p": [
+          "Filmmaker Sanoj Mishra noticed her sudden fame and offered her the lead role in his upcoming movie, The Diary of Manipur. Monalisa underwent acting training to prepare for the part.",
+          "Reports indicated that the shooting for the film wrapped up around February 2026. However, before the movie could hit the big screen, a series of turbulent personal events put the release on indefinite hold."
+        ]
+      },
+      {
+        "h": "Romance and Marriage",
+        "p": [
+          "Monalisa crossed paths with Farman Khan during the puja ceremony for the Malayalam movie Nagamma, where he played a villain and she starred as the heroine. Working together on set sparked a romance between them.",
+          "On March 11, 2026, the couple tied the knot at a temple in Thiruvananthapuram, Kerala. Monalisa sought police protection at the time, stating she wanted to live with Farman of her own free will and alleging her family wanted to force an unwanted relative marriage upon her."
+        ]
+      },
+      {
+        "h": "Religious Controversy and Allegations",
+        "p": [
+          "Because Monalisa and Farman belong to different religions, their union sparked intense public debate and social media backlash, with some critics labeling it love jihad. Her father also voiced strong opposition, claiming she had been trapped.",
+          "Both Monalisa and Farman refuted these accusations. Monalisa clarified that they married according to Hindu rituals in a temple without any religious conversion, while Farman emphasized his respect for all beliefs and his wife's personal choices."
+        ]
+      },
+      {
+        "h": "Age Disputes and Trolling",
+        "p": [
+          "The marriage brought forth additional scrutiny, particularly regarding Monalisa's age. While initial reports cited her as 16, she stated she was 18 at the time of her wedding, leaving the matter subject to legal review.",
+          "Despite facing heavy online trolling and disabling comments on her posts, Monalisa has continued to build a presence on YouTube and social media platforms alongside her husband."
+        ]
+      },
+      {
+        "h": "Current Status of Film Projects",
+        "p": [
+          "Her slated Bollywood debut in The Diary of Manipur faced a major roadblock after Monalisa accused director Sanoj Mishra of inappropriate touching during production. Sanoj denied the allegations and subsequently stated he would not release the film.",
+          "Even with that setback, her career in cinema may not be entirely over. Updates from March 2026 noted that she claimed two of her South Indian films were completed and awaiting release, and she has also appeared in content alongside Telugu actress Kalpalatha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mahakumbh viral girl Monalisa Bhosle gained widespread fame in 2025 before facing intense scrutiny over her marriage to Farman Khan, age disputes, and controversies involving her debut film. Despite stalled Bollywood projects and online backlash, she continues to create content online and awaits the release of her completed South Indian movies."
+        ]
+      }
+    ],
+    "facts": [
+      "Monalisa Bhosle became an internet sensation during the 2025 Prayagraj Mahakumbh.",
+      "She married Farman Khan at a temple in Thiruvananthapuram, Kerala on March 11, 2026.",
+      "Her slated Bollywood debut was titled The Diary of Manipur and directed by Sanoj Mishra.",
+      "She met Farman Khan during the puja ceremony of the Malayalam film Nagamma."
+    ],
+    "entities": {
+      "people": [
+        "Monalisa Bhosle",
+        "Farman Khan",
+        "Sanoj Mishra",
+        "Kalpalatha"
+      ],
+      "titles": [
+        "The Diary of Manipur",
+        "Nagamma"
+      ]
+    },
+    "keywords": [
+      "Monalisa Bhosle",
+      "Farman Khan",
+      "The Diary of Manipur",
+      "Nagamma film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6afc5d36a475c-where-is-mahakumbh-viral-girl-monalisa-175709432-16x9.jpg",
+        "caption": "Where is Mahakumbh Viral Girl Monalisa Bhosle Now Amid Controversies and Marriage?",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T18:52:03Z"
+  },
+  "bl6bf4": {
+    "id": "bl6bf4",
+    "type": "news",
+    "headline": "Disney Revives Iconic $3.2 Billion Adventure Franchise in Epic Trailer 10 Years in the Making",
+    "dek": "A decade since the last mainline film hit theaters, Disney is bringing back one of 20th Century's most popular and lucrative film series with Ice Age: Boiling Point.",
+    "body": [
+      {
+        "h": "The Return of a Cinematic Giant",
+        "p": [
+          "Following Disney's acquisition of 20th Century Fox, discussions surrounding major intellectual properties predominantly focused on superheroes and sci-fi universes like X-Men, Predator, and Alien. Yet, a massive animated enterprise remained dormant until now, marking a major turning point for the studio.",
+          "A full decade has passed since the previous mainline installment premiered on the big screen. The release of a fresh preview reveals the next major catastrophic trial awaiting the beloved prehistoric herd."
+        ]
+      },
+      {
+        "h": "Franchise History and Legacy",
+        "p": [
+          "As one of the highest-grossing animated collections in cinema history, the series has accumulated a massive box office total of $3.2 billion across five theatrical releases originating from the first movie in 2002.",
+          "Despite immense financial success, critical reception for subsequent chapters experienced a notable decline over the years. The prior sequel, Ice Age: Collision Course, managed only an 18% approval rating on Rotten Tomatoes while grossing $400 million globally."
+        ]
+      },
+      {
+        "h": "Plot and Premise of the New Sequel",
+        "p": [
+          "The upcoming feature is titled Ice Age: Boiling Point and is scheduled for a theatrical release on February 5, 2027. In this installment, the crew undertakes a perilous quest within the Lost World to protect a threatened dinosaur egg.",
+          "The promotional footage highlights a narrative centered on safeguarding the territory by transporting the egg to the summit of a volcano in a manner reminiscent of an epic fantasy quest."
+        ]
+      },
+      {
+        "h": "Returning Voices and New Additions",
+        "p": [
+          "The core voice cast reprises their iconic roles, featuring Ray Romano as Manny, John Leguizamo as Sid, and Denis Leary as Diego. They are joined by Queen Latifah returning as Ellie and Simon Pegg as Buck.",
+          "Additional cast members bringing new and returning characters to life include Ashley Park as Zee, Josh Peck as Eddie, Vincent Tong as Crash, Adam DeVine as Julian, and Coco Jones as Peaches."
+        ]
+      },
+      {
+        "h": "Scrat and Prehistoric Chaos",
+        "p": [
+          "Fans can also look forward to the return of the iconic saber-toothed squirrel Scrat, voiced by Chris Wedge. His signature misadventures involve caring for a baby Scrat, voiced by Kari Wahlgren, while fleeing from a colossal dinosaur-sized Scrat, voiced by Dee Bradley Baker.",
+          "The preview showcases plenty of prehistoric wildlife, molten lava, and high-stakes peril that promises to test the courage of the entire herd."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney is reviving the multi-billion dollar animated property with the upcoming release of Ice Age: Boiling Point, hitting theaters a decade after the previous mainline film. The new preview highlights a high-stakes adventure featuring the return of the classic voice cast alongside fresh characters and classic chaotic moments."
+        ]
+      }
+    ],
+    "facts": [
+      "Disney purchased 20th Century Fox.",
+      "The Ice Age franchise has grossed $3.2 billion over five theatrical releases since 2002.",
+      "Ice Age: Collision Course earned an 18% score on Rotten Tomatoes and made $400 million.",
+      "Ice Age: Boiling Point is set to hit theaters on Feb. 5, 2027.",
+      "Ray Romano voices Manny, John Leguizamo voices Sid, Denis Leary voices Diego, Queen Latifah voices Ellie, and Simon Pegg voices Buck.",
+      "Ashley Park plays Zee, Josh Peck plays Eddie, Vincent Tong plays Crash, Adam DeVine plays Julian, Coco Jones plays Peaches, Chris Wedge plays Scrat, Kari Wahlgren plays Baby Scrat, and Dee Bradley Baker plays Jurassic Scrat."
+    ],
+    "entities": {
+      "people": [
+        "Ray Romano",
+        "John Leguizamo",
+        "Denis Leary",
+        "Queen Latifah",
+        "Simon Pegg",
+        "Ashley Park",
+        "Josh Peck",
+        "Vincent Tong",
+        "Adam DeVine",
+        "Coco Jones",
+        "Chris Wedge",
+        "Kari Wahlgren",
+        "Dee Bradley Baker",
+        "John C. Donkin",
+        "Michael Berg",
+        "Michael J. Wilson",
+        "Yoni Brenner",
+        "Lori Forte",
+        "Patrick Worlock",
+        "Josh Eckland"
+      ],
+      "titles": [
+        "Ice Age: Boiling Point",
+        "Ice Age",
+        "Ice Age: Collision Course",
+        "Ice Age: The Meltdown",
+        "Ice Age: Dawn of the Dinosaurs",
+        "Ice Age: Continental Drift",
+        "Ice Age: Adventures of Buck Wild",
+        "X-Men",
+        "Predator",
+        "Alien",
+        "Lord of the Rings",
+        "Deadpool"
+      ]
+    },
+    "keywords": [
+      "Ice Age Boiling Point",
+      "Ray Romano Manny Ice Age",
+      "Ice Age Boiling Point trailer",
+      "Disney Ice Age 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/ice-age-boiling-point-dino.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Disney Revives Iconic $3.2 Billion Adventure Franchise in Epic Trailer 10 Years in the Making",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 17:37:07 GMT"
+  },
+  "1469c18": {
+    "id": "1469c18",
+    "type": "news",
+    "headline": "Guarding Stars Review: Leighton Meester and Jared Padalecki Deliver a Cozy Holiday Rom-Com",
+    "dek": "A comprehensive review of the new Netflix romantic comedy Guarding Stars, starring Leighton Meester, Jared Padalecki, and Andie MacDowell.",
+    "body": [
+      {
+        "h": "Introduction to Guarding Stars",
+        "p": [
+          "Audiences looking for a seasonal romantic comedy set against a Christmas backdrop have a new option with Guarding Stars. Released directly on Netflix, the movie brings together familiar television stars for a lighthearted festive experience.",
+          "Directed by Elizabeth Allen Rosenbaum, the feature film adapts Katherine Center's novel The Bodyguard for the screen, offering viewers a blend of holiday cheer, romance, and light suspense."
+        ]
+      },
+      {
+        "h": "The Premise and Plot",
+        "p": [
+          "The story centers on Hannah Brooks, a former law enforcement officer now working as an executive protection agent. She is tasked with guarding a major Hollywood action star named Jack Stapleton after he starts receiving threatening messages from a stalker.",
+          "When Jack plans to spend the Christmas holidays at his family ranch in Montana, he persuades Hannah to act as his girlfriend to prevent his recovering mother from worrying. This setup leads them into a snowy retreat where past family tensions and ongoing stalker threats unfold."
+        ]
+      },
+      {
+        "h": "Standout Performances",
+        "p": [
+          "Leighton Meester anchors the production as Hannah Brooks, utilizing sharp comic timing, dry humor, and a commanding physical presence that suits her role as a professional bodyguard.",
+          "Jared Padalecki offers natural charm and vulnerability alongside Meester, while Andie MacDowell contributes emotional depth and warmth as Jack's recovering mother."
+        ]
+      },
+      {
+        "h": "What Works in the Film",
+        "p": [
+          "The picture succeeds best as a breezy, heartwarming holiday romantic comedy. The fake-dating trope feels entertaining thanks to the natural chemistry between the two lead actors.",
+          "A cozy snowy ranch setting, playful humor, and a comforting festive atmosphere give the movie its core appeal for viewers seeking a casual seasonal watch."
+        ]
+      },
+      {
+        "h": "Weaknesses and Flaws",
+        "p": [
+          "The project struggles whenever it shifts focus away from the core romance into thriller territory. The mystery surrounding the obsessed fan comes across as predictable and serves primarily as a device to force proximity between the characters.",
+          "Abrupt tonal shifts, unpolished action sequences, overly bright visuals, and rushed family reconciliations detract from the overall narrative consistency."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Guarding Stars premiered on Netflix on November 19, 2026, offering a holiday romantic comedy based on Katherine Center's novel The Bodyguard. Directed by Elizabeth Allen Rosenbaum and starring Leighton Meester, Jared Padalecki, and Andie MacDowell, the film earned a 3 out of 5 rating for its cozy appeal despite minor narrative flaws."
+        ]
+      }
+    ],
+    "facts": [
+      "Guarding Stars was released on Netflix on November 19, 2026.",
+      "The movie is directed by Elizabeth Allen Rosenbaum.",
+      "The film stars Leighton Meester, Jared Padalecki, Andie MacDowell, Noah LaLonde, Shaun Johnston, Toby Sandeman, and Phil Brooks.",
+      "The story is based on the novel The Bodyguard by Katherine Center.",
+      "The film received a rating of 3 out of 5."
+    ],
+    "entities": {
+      "people": [
+        "Leighton Meester",
+        "Jared Padalecki",
+        "Andie MacDowell",
+        "Elizabeth Allen Rosenbaum",
+        "Katherine Center",
+        "Noah LaLonde",
+        "Shaun Johnston",
+        "Toby Sandeman",
+        "Phil Brooks",
+        "Erin Cardillo",
+        "Richard Keith",
+        "Gina Matthews",
+        "Grant Scharbo"
+      ],
+      "titles": [
+        "Guarding Stars",
+        "The Bodyguard"
+      ]
+    },
+    "keywords": [
+      "Guarding Stars movie review",
+      "Leighton Meester Guarding Stars",
+      "Jared Padalecki Netflix movie",
+      "Guarding Stars release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/2004449518_guarding-stars-webp.webp",
+        "caption": "Guarding Stars Review: Leighton Meester and Jared Padalecki Deliver a Cozy Holiday Rom-Com",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 22:21:57 +0530"
+  },
+  "1t86cpe": {
+    "id": "1t86cpe",
+    "type": "news",
+    "headline": "Disney Plus Series Afterlife with Archie Announces Main Cast",
+    "dek": "The upcoming Disney Plus adaptation has officially selected its main cast members to portray Archie, Betty, Veronica, Jughead, and Sabrina.",
+    "body": [
+      {
+        "h": "The Main Cast Announcement",
+        "p": [
+          "The upcoming Disney Plus series Afterlife with Archie has officially revealed its core cast members. The production has selected five relatively young actors to step into the iconic roles established in the original comics and previous adaptations.",
+          "This major casting update follows earlier reports from July indicating that Disney Plus was actively developing the project for its streaming platform."
+        ]
+      },
+      {
+        "h": "Portraying Archie Andrews and Veronica Lodge",
+        "p": [
+          "Vasco Faria, who previously appeared in Your Fault: London, has secured the role of the central protagonist, Archie Andrews.",
+          "Meanwhile, Aliyah Mastin, known for her work in Paradise, has been cast to play Veronica Lodge in the upcoming series."
+        ]
+      },
+      {
+        "h": "Bringing Betty, Jughead, and Sabrina to Life",
+        "p": [
+          "Sarah Abbott, recognized from The Body, has been chosen to portray Betty Cooper. Angel Rivera from Countdown joins the ensemble as Jughead Jones.",
+          "Additionally, Chloe Avakian from This Is Not a Test has been slated to take on the role of Sabrina Spellman."
+        ]
+      },
+      {
+        "h": "Premise of the Zombie Apocalypse Adaptation",
+        "p": [
+          "The series adapts the 10-issue comic book series of the same name created by Roberto Aguirre-Sacasa and Francesco Francavilla.",
+          "The storyline follows a horrifying turn of events in Riverdale when a supernatural spell cast by a teen witch goes disastrously wrong, unleashing hordes of the possessed dead upon the town."
+        ]
+      },
+      {
+        "h": "Official Logline and Stakes",
+        "p": [
+          "The official logline states that an army of the possessed dead takes over Riverdale, forcing Archie and his friends to fight for survival.",
+          "This unprecedented crisis places severe pressure on the friendships, romances, and loyalties that have traditionally kept the group united."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Creative Team",
+        "p": [
+          "The project is produced by Warner Bros. Television, with Alfonso Gomez-Rejon on board to direct and executive produce the first two episodes.",
+          "Roberto Aguirre-Sacasa, the creator of Riverdale, is developing the new adaptation while also serving as a writer and executive producer."
+        ]
+      },
+      {
+        "h": "Production Leadership and Future Outlook",
+        "p": [
+          "Additional executive producers include Jimmy Gibbons through Muckle Man Productions, along with Greg Berlanti, Sarah Schechter, Leigh London Redman, and Jon Goldwater.",
+          "Although the youthful cast hints at the possibility of a lengthy run akin to Riverdale, an official premiere date has not yet been announced."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney Plus has announced the lead cast for its upcoming series Afterlife with Archie, which is being developed by the creative team behind Riverdale. The show will adapt the zombie apocalypse comic book by Roberto Aguirre-Sacasa and Francesco Francavilla, featuring young stars like Vasco Faria and Sarah Abbott."
+        ]
+      }
+    ],
+    "facts": [
+      "Disney Plus is developing the series Afterlife with Archie.",
+      "Vasco Faria plays Archie Andrews.",
+      "Aliyah Mastin plays Veronica Lodge.",
+      "Sarah Abbott plays Betty Cooper.",
+      "Angel Rivera plays Jughead Jones.",
+      "Chloe Avakian plays Sabrina Spellman.",
+      "The comic book series was created by Roberto Aguirre-Sacasa and Francesco Francavilla.",
+      "Alfonso Gomez-Rejon is directing and executive producing the first two episodes."
+    ],
+    "entities": {
+      "people": [
+        "Vasco Faria",
+        "Aliyah Mastin",
+        "Sarah Abbott",
+        "Angel Rivera",
+        "Chloe Avakian",
+        "Roberto Aguirre-Sacasa",
+        "Francesco Francavilla",
+        "Alfonso Gomez-Rejon",
+        "Jimmy Gibbons",
+        "Greg Berlanti",
+        "Sarah Schechter",
+        "Leigh London Redman",
+        "Jon Goldwater"
+      ],
+      "titles": [
+        "Afterlife with Archie",
+        "Riverdale",
+        "Your Fault: London",
+        "Paradise",
+        "The Body",
+        "Countdown",
+        "This Is Not a Test"
+      ]
+    },
+    "keywords": [
+      "Afterlife with Archie",
+      "Disney Plus Riverdale show",
+      "Archie Betty Veronica Jughead Sabrina cast",
+      "Roberto Aguirre-Sacasa Afterlife with Archie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/riverdale.jpg?resize=1200,630",
+        "caption": "Disney Plus Series Afterlife with Archie Announces Main Cast",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 17:31:56 +0000"
   }
 };

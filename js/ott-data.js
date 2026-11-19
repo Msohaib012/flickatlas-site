@@ -165,6 +165,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-18",
+      "date_kind": "release",
+      "id": 340280,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "country": "FR",
       "date": "2026-11-18",
       "date_kind": "digital",
@@ -3653,6 +3665,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-02-25",
+      "date_kind": "release",
+      "id": 295778,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-02-20",
