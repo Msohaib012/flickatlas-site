@@ -190386,5 +190386,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 10:29:49 +0000"
+  },
+  "uao2gh": {
+    "id": "uao2gh",
+    "type": "news",
+    "headline": "Indian Firms Grant Employees Leave to Play Grand Theft Auto VI",
+    "dek": "Several Indian businesses, including consumer electronics brand boAt and Udaipur-based Influish, have given employees the option to take a day off to experience the highly anticipated release of Grand Theft Auto VI.",
+    "body": [
+      {
+        "h": "The Long-Awaited Global Launch",
+        "p": [
+          "Gamers worldwide finally received their first taste of Grand Theft Auto VI on November 19, marking the arrival of one of the most eagerly awaited video game titles in history. The momentous rollout was celebrated globally with playing parties, special events, and posts from world leaders.",
+          "Some dedicated fans even took official leave from their regular schedules to explore Leonida, the fictional US state that serves as the setting for the new installment developed by Rockstar Games."
+        ]
+      },
+      {
+        "h": "Thirteen Years in the Making",
+        "p": [
+          "The massive frenzy surrounding the launch is largely due to the monumental wait time, as the game spent thirteen years in development with a budget exceeding one billion dollars. Upon release, it immediately climbed to the top of Metacritic's all-time gaming leaderboard, securing a score of 99.",
+          "Excitement was further fueled by nostalgia, the massive scale of the production, and the enduring cultural legacy left behind by its predecessor, Grand Theft Auto V. Fans endured more than a decade of anticipation, which famously birthed the popular social media meme template referencing events happening before the release."
+        ]
+      },
+      {
+        "h": "Indian Corporations Join the Movement",
+        "p": [
+          "The incredible enthusiasm for the release prompted several organizations to adjust their normal operations to accommodate eager gamers on the launch day. Companies chose to acknowledge the pop culture milestone by giving staff members dedicated time away from their desks.",
+          "This corporate trend quickly caught on across various sectors, demonstrating how deeply embedded the gaming franchise has become in modern pop culture and everyday professional environments."
+        ]
+      },
+      {
+        "h": "boAt Approves the Vice City Vacation",
+        "p": [
+          "Consumer electronics brand boAt, co-founded by Aman Gupta, stood out among the companies offering staff an optional day off on November 19. The brand issued a playful notice on Instagram jokingly approving a Vice City vacation for its personnel.",
+          "The company emphasized the spirit of work-life balance, noting that employees deserved a break to focus on their missions after showing over a decade of patience and anticipation."
+        ]
+      },
+      {
+        "h": "Influish and Inde by ChairsCarte Offer Time Off",
+        "p": [
+          "Udaipur-based firm Influish took a step further by granting a paid holiday for its entire team of fifty employees on November 19. The company also arranged PlayStation 5 consoles inside the office space for team members who wanted to come in and play.",
+          "Similarly, interior design studio Inde by ChairsCarte announced a company holiday for Thursday, reflecting on how they grew up playing earlier entries in the franchise such as Vice City and Grand Theft Auto V."
+        ]
+      },
+      {
+        "h": "Social Media Frenzy and Spoilers",
+        "p": [
+          "Alongside corporate holidays, social media platforms were instantly flooded with clips and highlights from the newly released game. Users shared viral videos featuring unexpected in-game elements such as jet-skiing dogs, doomscrolling characters, and invincible protestors.",
+          "The sudden rush of content highlighted just how thoroughly the gaming event captured the digital spotlight, drawing millions of online spectators into the virtual world of Miami-inspired Vice City and its surrounding swamps."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Multiple Indian companies have declared holidays or offered optional leave to employees on November 19 to celebrate the global release of Grand Theft Auto VI. Brands like boAt, Influish, and Inde by ChairsCarte embraced the cultural phenomenon, allowing staff to dive into the long-awaited title after thirteen years of anticipation."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI was released on November 19, 2026.",
+      "The game was developed by Rockstar Games with a budget exceeding $1 billion.",
+      "Grand Theft Auto VI received a score of 99 on Metacritic.",
+      "boAt is co-founded by Aman Gupta.",
+      "Influish is an Udaipur-based company with a team of 50 employees."
+    ],
+    "entities": {
+      "people": [
+        "Sanya Jain",
+        "Aman Gupta",
+        "Lillian Suwanrumpha"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "GTA 6",
+        "Grand Theft Auto V",
+        "GTA 5",
+        "Vice City"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA 6",
+      "boAt",
+      "Influish",
+      "Inde by ChairsCarte"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/THAILAND-ENTERTAINMENT-GAMING-GTA6-5_1795080086548_Zoya_1795080095433_nx5R_e5427493-6c90-4809-b7ce-3fe9ead67b42_eJPu.jpg",
+        "caption": "Indian Firms Grant Employees Leave to Play Grand Theft Auto VI",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 14:52:46 +0530"
+  },
+  "emub8": {
+    "id": "emub8",
+    "type": "news",
+    "headline": "Ramayana Nears ₹650 Crore Hindi Net Milestone on Day 15",
+    "dek": "Namit Malhotra's Ramayana is on the verge of entering the exclusive ₹650 crore Hindi net club, setting up a second-fastest record for its lead actors Ranbir Kapoor and Yash.",
+    "body": [
+      {
+        "h": "Closing in on a Rare Milestone",
+        "p": [
+          "The theatrical journey of Namit Malhotra's Ramayana continues to shatter expectations as it reaches its fifteenth day in cinemas. The big-budget spectacle has nearly bridged the final gap required to conquer the coveted ₹650 crore Hindi net threshold.",
+          "Reaching this landmark places the movie among a very select group of Indian blockbusters that have achieved unprecedented financial success in the Hindi language market."
+        ]
+      },
+      {
+        "h": "Current Box Office Standing",
+        "p": [
+          "According to live tracking data on November 19, 2026, the Nitesh Tiwari directorial accumulated ₹648.38 crore in Hindi net collections by afternoon. With the previous day concluding at ₹643.50 crore, the ongoing Thursday performances brought the feature within just ₹1.62 crore of the historic figure.",
+          "Industry analysts anticipate that evening and night screenings will comfortably push the final tally past the target before the day concludes."
+        ]
+      },
+      {
+        "h": "Exclusive Company at the Top",
+        "p": [
+          "The ₹650 crore net tier in Hindi cinema has historically proven extremely difficult to breach, with only a tiny handful of titles managing the feat previously. Allu Arjun's Pushpa 2 first unlocked this elite bracket in 2024, followed shortly after by the massive box office runs of the Dhurandhar films.",
+          "Among these top-tier earners, Dhurandhar 2 holds the ultimate speed record by reaching the milestone in nine days, while Pushpa 2 took seventeen days and the original Dhurandhar took twenty-three days."
+        ]
+      },
+      {
+        "h": "Second-Fastest Entry Ever",
+        "p": [
+          "By achieving the ₹650 crore milestone in fifteen days, Ramayana secures its position as the second-fastest film to ever reach the mark in the Hindi market. This accomplishment highlights the immense theatrical pull and sustained momentum the feature has enjoyed since its release.",
+          "While Hindi remains the only language market in India to produce films crossing this specific threshold, regional languages like Telugu have also seen massive milestones, such as RRR reaching a ₹431.01 crore Telugu net total in sixteen days."
+        ]
+      },
+      {
+        "h": "Career Benchmarks for Ranbir and Yash",
+        "p": [
+          "The impending record carries special significance for leading men Ranbir Kapoor and Yash, neither of whom had previously headlined a project crossing ₹650 crore net in its Hindi version. For Ranbir Kapoor, this vaults him far beyond his previous high set by Animal, which wrapped its run with ₹502.98 crore Hindi net in 2023.",
+          "Meanwhile, Yash adds another major feather to his cap following the historic Hindi run of KGF Chapter 2, which previously pulled in ₹435.33 crore. This new milestone firmly cements his continuing dominance and massive appeal among Hindi-speaking audiences."
+        ]
+      },
+      {
+        "h": "Global and Domestic Scale",
+        "p": [
+          "The wider financial footprint of the production extends well beyond its domestic Hindi earnings. The epic has already raced past ₹1,500 crore in worldwide gross figures alongside a massive ₹1,000 crore gross inside India.",
+          "These staggering figures reflect a broader shift in modern box office dynamics, where pan-Indian releases command unprecedented revenues across multiple territories and languages."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana stands just ₹1.62 crore away from becoming the second-fastest film to cross ₹650 crore in Hindi net collections. This achievement marks a major career high for stars Ranbir Kapoor and Yash as the epic continues its historic box office run."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana reached ₹648.38 crore Hindi net as of 3:03 PM IST on November 19, 2026.",
+      "The film finished Wednesday at ₹643.50 crore Hindi net.",
+      "The remaining amount needed to reach ₹650 crore was ₹1.62 crore.",
+      "Animal finished with ₹502.98 crore Hindi net in 2023.",
+      "KGF Chapter 2 collected ₹435.33 crore Hindi net.",
+      "RRR finished at ₹431.01 crore Telugu net in 16 days."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Allu Arjun",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Animal",
+        "KGF Chapter 2",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana ₹650 crore Hindi net",
+      "Ramayana Day 15 collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028630.jpg",
+        "caption": "Ramayana Nears ₹650 Crore Hindi Net Milestone on Day 15",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 10:15:01 +0000"
+  },
+  "1106kve": {
+    "id": "1106kve",
+    "type": "news",
+    "headline": "Lara Dutta Discusses Playing Ranbir Kapoor's Stepmother in Ramayana Despite Age Gap",
+    "dek": "Actor Lara Dutta recently spoke about her role as Kaikeyi in Nitesh Tiwari's Ramayana, sharing why she had no hesitation about playing the stepmother to Ranbir Kapoor despite their minimal age difference.",
+    "body": [
+      {
+        "h": "Embracing the Character of Kaikeyi",
+        "p": [
+          "Actor Lara Dutta recently opened up about her decision to star as Queen Kaikeyi in Nitesh Tiwari's cinematic epic, Ramayana. Despite a modest four-year age gap between herself and her on-screen stepson, played by Ranbir Kapoor, Dutta stated she held no reservations whatsoever about taking on the role.",
+          "Reflecting on modern casting choices, the actor dismissed any notion that performers should shy away from maternal roles due to age considerations. She noted that contemporary actors look past outdated conventions to focus entirely on the depth of the characters they portray."
+        ]
+      },
+      {
+        "h": "Understanding the Historical Context",
+        "p": [
+          "Discussing the nuances of her character with the press, Dutta highlighted the importance of viewing the narrative within its broader historical framework. She pointed out that King Dasharath had three queens, each coming from distinct backgrounds and varying age brackets.",
+          "To authentically bring Kaikeyi to life, Dutta and director Nitesh Tiwari spent considerable time mapping out the character's entire history. This included exploring elements not explicitly shown on screen, such as her origins, her past relationships, and the background behind the famous boons."
+        ]
+      },
+      {
+        "h": "Working Closely with Co-Stars",
+        "p": [
+          "In the multi-starrer project, Dutta also portrays the mother of Addinath M Kothare, who takes on the role of Kaikeyi's son, Bharat. Like her dynamic with Kapoor, Dutta felt entirely comfortable sharing the screen with Kothare, who is forty-two years old.",
+          "The actor emphasized that stepping into the shoes of such a layered historical figure is a rare opportunity in any performer's career. When offered a chance of this magnitude, she believes it is something an actor should embrace completely."
+        ]
+      },
+      {
+        "h": "Drawing Parallels to Past Roles",
+        "p": [
+          "Dutta compared this monumental undertaking to another significant biographical portrayal in her career. She previously stepped into the role of former Prime Minister Indira Gandhi in Akshay Kumar's thriller BellBottom.",
+          "Describing that earlier project as a once-in-a-lifetime chance, Dutta expressed a similar reverence for portraying iconic and timeless figures on the silver screen, allowing her to test her range as a dramatic performer."
+        ]
+      },
+      {
+        "h": "About the Epic Project Ramayana",
+        "p": [
+          "Directed by acclaimed filmmaker Nitesh Tiwari, Ramayana is envisioned as a massive two-part cinematic epic. The production features a high-profile ensemble cast, with Ranbir Kapoor starring as Lord Ram and Sai Pallavi portraying Sita.",
+          "Additionally, the film casts Yash in the role of Ravana and Ravi Dubey as Lakshman. The project is backed by producer Namit Malhotra, generating immense anticipation among audiences across the country."
+        ]
+      },
+      {
+        "h": "Release Timeline",
+        "p": [
+          "The grand scale of Ramayana required a staggered release strategy to do justice to the source material and visual effects. The first installment of the two-part epic officially arrived in theaters on November 5, 2026.",
+          "Following the debut of the initial chapter, the makers have scheduled the second instalment to hit the big screen during the Diwali festive season in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lara Dutta discussed her role as Kaikeyi in Nitesh Tiwari's Ramayana, noting she had no issues playing the mother to Ranbir Kapoor despite their small age gap. The actor explained that the character required deep historical context and preparation alongside the film's ensemble cast. The two-part epic released its first installment on November 5, 2026, with the second part slated for Diwali 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Lara Dutta plays Kaikeyi in Ramayana",
+      "Ranbir Kapoor plays Lord Ram in Ramayana",
+      "Addinath M Kothare plays Bharat in Ramayana",
+      "Nitesh Tiwari is the director of Ramayana",
+      "Namit Malhotra is the producer of Ramayana",
+      "Sai Pallavi plays Sita in Ramayana",
+      "Yash plays Ravana in Ramayana",
+      "Ravi Dubey plays Lakshman in Ramayana",
+      "The first installment of Ramayana released on November 5, 2026",
+      "The second part of Ramayana is slated for a Diwali 2028 release"
+    ],
+    "entities": {
+      "people": [
+        "Lara Dutta",
+        "Ranbir Kapoor",
+        "Addinath M Kothare",
+        "Nitesh Tiwari",
+        "Dasharath",
+        "Akshay Kumar",
+        "Indira Gandhi",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "BellBottom"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Lara Dutta",
+      "Ranbir Kapoor",
+      "Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Lara_1795081003730_uJbX_1795081003980_C2ro_77ea6fda-edd7-4136-97b9-6afde3a16bf1_Vhlz.jpg",
+        "caption": "Lara Dutta Discusses Playing Ranbir Kapoor's Stepmother in Ramayana Despite Age Gap",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:43:33 +0530"
+  },
+  "6f4dqp": {
+    "id": "6f4dqp",
+    "type": "news",
+    "headline": "Prime Minister Shehbaz Sharif attributes economic achievements to civil-military cooperation",
+    "dek": "Addressing the American Business Council of Pakistan, Prime Minister Shehbaz Sharif praised the collaborative partnership between the political and military leadership for driving recent economic stability.",
+    "body": [
+      {
+        "h": "Address to the American Business Council",
+        "p": [
+          "Prime Minister Shehbaz Sharif recently delivered a keynote speech at a ceremony hosted by the American Business Council of Pakistan. During his address, he emphasized that the nation's ongoing financial recovery is directly tied to an unprecedented level of cooperation between political and military leaders.",
+          "The premier stressed that this collaborative framework represents a major milestone in the country's governance history, suggesting that past decades might have yielded significantly different outcomes had such a unified team approach existed earlier."
+        ]
+      },
+      {
+        "h": "A Unique Partnership",
+        "p": [
+          "Elaborating on the nature of this alliance, the prime minister noted that teamwork and mutual flexibility for the sake of the national interest have created a stable administrative environment. He explicitly shared credit with his broader governmental team as well as key military figures.",
+          "Specifically, he acknowledged the role of Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir alongside his staff, asserting that sincerity of purpose and selfless service are vital to keeping the economy vibrant."
+        ]
+      },
+      {
+        "h": "Overcoming Default Threats",
+        "p": [
+          "Reflecting on the severe fiscal challenges of 2023, the premier recalled that Pakistan narrowly avoided a major economic default. He highlighted that macroeconomic stability has since taken root despite external pressures.",
+          "Even amidst global complications such as the Gulf crisis, the administration has managed to maintain a steady path, though he acknowledged that the domestic energy sector remains in a fragile state due to heavy import reliance."
+        ]
+      },
+      {
+        "h": "Energy Management and Relief",
+        "p": [
+          "Addressing the nation's energy demands, the prime minister pointed out that despite importing over ninety percent of required energy resources, the country avoided widespread panic or fuel shortages at local stations.",
+          "Furthermore, the government successfully introduced targeted assistance measures, such as the Prime Minister's Fuel Relief Scheme, designed to protect the most vulnerable demographics from economic hardship."
+        ]
+      },
+      {
+        "h": "Regional Diplomacy and Middle East Crisis",
+        "p": [
+          "Shifting focus to international affairs, the premier discussed the ongoing crisis in the Middle East. He noted that diplomatic channels are actively being utilized to engage Washington and Tehran with the help of friendly nations.",
+          "He expressed strong optimism that persistent diplomatic efforts will eventually restore regional peace, which he believes will help elevate the domestic economy to unprecedented heights."
+        ]
+      },
+      {
+        "h": "Investor Relations and Tax Measures",
+        "p": [
+          "Engaging directly with the business community, the prime minister acknowledged the valuable role played by members of the American Business Council in advancing national economic interests. He promised streamlined mechanisms to handle investor grievances and remove regulatory bottlenecks.",
+          "Highlighting recent fiscal policies, he mentioned that the government provided Rs400 billion in tax breaks during the previous budget cycle despite operating under an International Monetary Fund program, aiming to stimulate manufacturing and exports."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Minister Shehbaz Sharif credited a productive partnership between political and military leadership for Pakistan's recent economic stability during an address to the American Business Council. He highlighted successful navigation past default threats, energy management achievements, and targeted relief initiatives while emphasizing ongoing transparency and regional diplomatic efforts."
+        ]
+      }
+    ],
+    "facts": [
+      "Prime Minister Shehbaz Sharif addressed the American Business Council of Pakistan on November 19, 2026.",
+      "Field Marshal Asim Munir serves as the Chief of Defence Forces and Chief of Army Staff.",
+      "Pakistan faced a serious threat of economic default in 2023.",
+      "The country imports more than 90 per cent of its energy requirements from abroad.",
+      "The government provided tax breaks worth Rs400 billion during the last budget."
+    ],
+    "entities": {
+      "people": [
+        "Shehbaz Sharif",
+        "Asim Munir"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Shehbaz Sharif American Business Council",
+      "Asim Munir military political partnership",
+      "Pakistan economic stability 2026",
+      "Prime Minister Fuel Relief Scheme"
+    ],
+    "images": [
+      {
+        "url": "https://i.dawn.com/large/2026/11/191544276f26864.webp",
+        "caption": "Prime Minister Shehbaz Sharif attributes economic achievements to civil-military cooperation",
+        "source": "Dawn — Images/ICON"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:46:34 +0500"
   }
 };

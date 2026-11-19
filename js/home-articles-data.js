@@ -39,6 +39,33 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 14:01:06 +0200"
   },
+  "6f4dqp": {
+    "id": "6f4dqp",
+    "type": "news",
+    "headline": "Prime Minister Shehbaz Sharif attributes economic achievements to civil-military cooperation",
+    "dek": "Addressing the American Business Council of Pakistan, Prime Minister Shehbaz Sharif praised the collaborative partnership between the political and military leadership for driving recent economic stability.",
+    "entities": {
+      "people": [
+        "Shehbaz Sharif",
+        "Asim Munir"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Shehbaz Sharif American Business Council",
+      "Asim Munir military political partnership",
+      "Pakistan economic stability 2026",
+      "Prime Minister Fuel Relief Scheme"
+    ],
+    "images": [
+      {
+        "url": "https://i.dawn.com/large/2026/11/191544276f26864.webp",
+        "caption": "Prime Minister Shehbaz Sharif attributes economic achievements to civil-military cooperation",
+        "source": "Dawn — Images/ICON"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:46:34 +0500"
+  },
   "prfkb": {
     "id": "prfkb",
     "type": "news",
@@ -107,6 +134,83 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 10:29:49 +0000"
+  },
+  "emub8": {
+    "id": "emub8",
+    "type": "news",
+    "headline": "Ramayana Nears ₹650 Crore Hindi Net Milestone on Day 15",
+    "dek": "Namit Malhotra's Ramayana is on the verge of entering the exclusive ₹650 crore Hindi net club, setting up a second-fastest record for its lead actors Ranbir Kapoor and Yash.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Allu Arjun",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Animal",
+        "KGF Chapter 2",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana ₹650 crore Hindi net",
+      "Ramayana Day 15 collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028630.jpg",
+        "caption": "Ramayana Nears ₹650 Crore Hindi Net Milestone on Day 15",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 10:15:01 +0000"
+  },
+  "1106kve": {
+    "id": "1106kve",
+    "type": "news",
+    "headline": "Lara Dutta Discusses Playing Ranbir Kapoor's Stepmother in Ramayana Despite Age Gap",
+    "dek": "Actor Lara Dutta recently spoke about her role as Kaikeyi in Nitesh Tiwari's Ramayana, sharing why she had no hesitation about playing the stepmother to Ranbir Kapoor despite their minimal age difference.",
+    "entities": {
+      "people": [
+        "Lara Dutta",
+        "Ranbir Kapoor",
+        "Addinath M Kothare",
+        "Nitesh Tiwari",
+        "Dasharath",
+        "Akshay Kumar",
+        "Indira Gandhi",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "BellBottom"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Lara Dutta",
+      "Ranbir Kapoor",
+      "Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Lara_1795081003730_uJbX_1795081003980_C2ro_77ea6fda-edd7-4136-97b9-6afde3a16bf1_Vhlz.jpg",
+        "caption": "Lara Dutta Discusses Playing Ranbir Kapoor's Stepmother in Ramayana Despite Age Gap",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:43:33 +0530"
   },
   "1q83nsb": {
     "id": "1q83nsb",
@@ -207,6 +311,41 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 09:27:58 +0000"
+  },
+  "uao2gh": {
+    "id": "uao2gh",
+    "type": "news",
+    "headline": "Indian Firms Grant Employees Leave to Play Grand Theft Auto VI",
+    "dek": "Several Indian businesses, including consumer electronics brand boAt and Udaipur-based Influish, have given employees the option to take a day off to experience the highly anticipated release of Grand Theft Auto VI.",
+    "entities": {
+      "people": [
+        "Sanya Jain",
+        "Aman Gupta",
+        "Lillian Suwanrumpha"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "GTA 6",
+        "Grand Theft Auto V",
+        "GTA 5",
+        "Vice City"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA 6",
+      "boAt",
+      "Influish",
+      "Inde by ChairsCarte"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/THAILAND-ENTERTAINMENT-GAMING-GTA6-5_1795080086548_Zoya_1795080095433_nx5R_e5427493-6c90-4809-b7ce-3fe9ead67b42_eJPu.jpg",
+        "caption": "Indian Firms Grant Employees Leave to Play Grand Theft Auto VI",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 14:52:46 +0530"
   },
   "156ox79": {
     "id": "156ox79",
@@ -4785,139 +4924,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 06:12:49 +0000"
-  },
-  "1icr0ob": {
-    "id": "1icr0ob",
-    "type": "news",
-    "headline": "Taeyeon Reveals Seventh Solo Concert 'F.L.Y.' and Extensive Asia Tour",
-    "dek": "The Girls' Generation star is set to launch her brand new concert series at the KSPO DOME in Seoul before traveling across six Asian cities, coinciding with the release of her fourth full-length album.",
-    "entities": {
-      "people": [
-        "Taeyeon"
-      ],
-      "titles": [
-        "TAEYEON CONCERT - F.L.Y. in Seoul",
-        "TAEYEON CONCERT - The TENSE",
-        "Unspecial",
-        "Toothache",
-        "Parachute",
-        "Cheers",
-        "INVU",
-        "Girls' Generation"
-      ]
-    },
-    "keywords": [
-      "Taeyeon FLY concert",
-      "Taeyeon Unspecial album",
-      "Taeyeon Asia tour 2027",
-      "TAEYEON CONCERT F.L.Y. in Seoul"
-    ],
-    "images": [],
-    "published": "Wed, 18 Nov 2026 01:00:00 EST"
-  },
-  "1tpge1r": {
-    "id": "1tpge1r",
-    "type": "news",
-    "headline": "Salman Khan Surprises 'Maatrubhumi: May War Rest in Peace' Cast and Crew with Luxury Watches at Panvel Farmhouse",
-    "dek": "Bollywood star Salman Khan recently surprised the team of his upcoming war drama with luxury Swiss watches during what was originally planned as a routine promotional meeting.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Chitrangda Singh",
-        "Apoorva Lakhia",
-        "Ankur Bhatia",
-        "Vipin Bhardwaj",
-        "Tanya Desai",
-        "Chintan Shah"
-      ],
-      "titles": [
-        "Maatrubhumi: May War Rest in Peace",
-        "Battle of Galwan"
-      ]
-    },
-    "keywords": [
-      "Salman Khan",
-      "Maatrubhumi: May War Rest in Peace",
-      "Chitrangda Singh",
-      "Apoorva Lakhia",
-      "Battle of Galwan"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135950955,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Salman Khan Surprises 'Maatrubhumi: May War Rest in Peace' Cast and Crew with Luxury Watches at Panvel Farmhouse",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T11:14:05+05:30"
-  },
-  "1os7b9w": {
-    "id": "1os7b9w",
-    "type": "news",
-    "headline": "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
-    "dek": "Ajay Devgn starrer Drishyam: The Conclusion has cleared its final major legal hurdle for streaming, as the Madras High Court refused to block its digital premiere.",
-    "entities": {
-      "people": [
-        "Ajay Devgn",
-        "Jaideep Ahlawat",
-        "Abhishek Pathak",
-        "Antony Perumbavoor",
-        "Jeethu Joseph",
-        "P B Balaji"
-      ],
-      "titles": [
-        "Drishyam 3",
-        "Drishyam: The Conclusion"
-      ]
-    },
-    "keywords": [
-      "Drishyam 3 OTT release",
-      "Ajay Devgn Drishyam The Conclusion",
-      "Madras High Court copyright case",
-      "Drishyam 3 streaming date"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156525160,thumbsize-154292,width-1280,height-720,resizemode-75/156525160.jpg",
-        "caption": "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T04:56:40Z"
-  },
-  "1shprc4": {
-    "id": "1shprc4",
-    "type": "news",
-    "headline": "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
-    "dek": "Renowned lyricist and writer Javed Akhtar opened up about Nitesh Tiwari's upcoming film Ramayana, calling Lord Ram a symbol of morality, while also sharing his thoughts on Sonia Gandhi's book.",
-    "entities": {
-      "people": [
-        "Javed Akhtar",
-        "Ranbir Kapoor",
-        "Nitesh Tiwari",
-        "Zoya Akhtar",
-        "Sonia Gandhi"
-      ],
-      "titles": [
-        "Ramayana",
-        "Belonging: A Journey of Love"
-      ]
-    },
-    "keywords": [
-      "Javed Akhtar Ramayana film",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayan",
-      "Javed Akhtar on Lord Ram",
-      "Sonia Gandhi Belonging book"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afc8974e0985-javed-akhtar-161952994-16x9.jpg",
-        "caption": "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T04:56:40Z"
   },
   "1wit30w": {
     "id": "1wit30w",
