@@ -158588,10 +158588,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana Day 11 collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana India collection"
+      "Ramayana box office Day 11 Ranbir Kapoor",
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Yash 1400 crore milestone",
+      "Ramayana second weekend collection"
     ],
     "images": [
       {
@@ -158686,10 +158686,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Nobody Wants This",
-      "Nobody Wants This Season 3",
-      "Kristen Bell Adam Brody",
-      "Netflix Nobody Wants This renewal"
+      "Nobody Wants This Season 4 renewal",
+      "Nobody Wants This Netflix series",
+      "Kristen Bell Adam Brody Nobody Wants This",
+      "Nobody Wants This season 3"
     ],
     "images": [
       {
@@ -158900,10 +158900,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Beast Games",
-      "MrBeast",
-      "Beast Games Season 3",
-      "Prime Video"
+      "Beast Games Season 3 Prime Video",
+      "MrBeast Beast Games World Champions",
+      "Beast Games December premiere",
+      "Beast Games international format"
     ],
     "images": [
       {
@@ -158996,10 +158996,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana Part 1 India collection",
-      "Nitesh Tiwari Ramayana film"
+      "Ramayana box office collection Day 11",
+      "Ranbir Kapoor Yash Ramayana 750 crore",
+      "Ramayana second Sunday collection",
+      "Ramayana India nett collection"
     ],
     "images": [
       {
@@ -159209,10 +159209,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Scene worldwide earnings",
-      "Scene vs Aavesham collection"
+      "Suriya Scene movie worldwide collection",
+      "Scene movie ten days box office",
+      "Suriya Scene 242 crore",
+      "Scene theatrical release Jithu Madhavan"
     ],
     "images": [
       {
@@ -159395,11 +159395,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Glenn Close honorary Oscar",
-      "Governors Awards",
-      "Ridley Scott",
-      "Floyd Norman",
-      "Irving G Thalberg Memorial Award"
+      "Glenn Close honorary Oscar Governors Awards",
+      "17th Governors Awards Glenn Close",
+      "Glenn Close Academy Award nominations",
+      "Governors Awards Ridley Scott"
     ],
     "images": [
       {
@@ -159605,10 +159604,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Adipurush box office disaster",
-      "Ranbir Kapoor Yash Ramayana",
-      "Prabhas Adipurush comparison"
+      "Ramayana Versus Adipurush box office",
+      "Ranbir Kapoor Yash Ramayana box office",
+      "Adipurush vs Ramayana comparison",
+      "Nitesh Tiwari Ramayana opening day"
     ],
     "images": [
       {
@@ -159710,8 +159709,8 @@ window.FA_ARTICLES = {
     "keywords": [
       "Bigg Boss 20 Episode 71",
       "Salman Khan Bigg Boss 20",
-      "ScoutOP Love Gill",
-      "Mahhi Vij Bigg Boss"
+      "Mahhi Vij Bigg Boss 20",
+      "Salman Khan ScoutOP Kanika Mann"
     ],
     "images": [
       {
@@ -159812,11 +159811,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Aakasamlo Oka Tara",
-      "Dulquer Salmaan",
-      "Allu Arjun",
-      "Pavan Sadineni",
-      "Shruti Haasan"
+      "Allu Arjun Aakasamlo Oka Tara",
+      "Dulquer Salmaan Aakasamlo Oka Tara",
+      "Aakasamlo Oka Tara pre-release event",
+      "Allu Arjun Pavan Sadineni"
     ],
     "images": [
       {
@@ -160005,10 +160003,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Delhi AQI Today",
-      "Delhi air quality poor",
-      "Chandni Chowk AQI 269",
-      "Delhi pollution sources"
+      "Delhi air quality AQI 213",
+      "Delhi air pollution November 16",
+      "AQI drops to 90 in Delhi",
+      "Surbhi Kaul Delhi air quality"
     ],
     "images": [
       {
@@ -160099,9 +160097,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "RESCENE MMA2026 wins",
-      "RESCENE PULSE mini album",
-      "RESCENE With Melon chart",
-      "RESCENE awards 2026"
+      "Melon Music Awards RESCENE",
+      "RESCENE Global Top 10",
+      "RESCENE awards Gocheok Sky Dome"
     ],
     "images": [],
     "published": "Sun, 15 Nov 2026 22:40:00 EST"
@@ -160187,10 +160185,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Johnny Depp Ebenezer",
-      "Ebenezer box office collection",
-      "Tim West A Christmas Carol movie",
-      "Ebenezer release date India"
+      "Johnny Depp Ebenezer box office",
+      "Ebenezer film Tim West",
+      "Johnny Depp A Christmas Carol adaptation",
+      "Ebenezer 42 million global opening"
     ],
     "images": [
       {
@@ -160463,10 +160461,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Tamannaah Bhatia Chhath Puja",
+      "Tamannaah Bhatia Chhath Puja Mumbai",
       "The Vvaan Force of the Forrest",
-      "Sidharth Malhotra The Vvaan",
-      "Deepak Kumar Mishra film"
+      "Tamannaah Bhatia The Vvaan success",
+      "Tamannaah Bhatia Chhath Puja video"
     ],
     "images": [
       {
@@ -160873,10 +160871,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Gilded Age Season 4",
+      "The Gilded Age Season 4 Episode 3",
+      "Peggy Scott marries Dr William Kirkland",
       "Agnes van Rhijn Bertha Russell",
-      "Peggy Scott William Kirkland",
-      "The Gilded Age Episode 3 recap"
+      "The Gilded Age recap"
     ],
     "images": [
       {
@@ -166028,10 +166026,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Downstate play",
-      "Bruce Norris Downstate",
-      "K. Todd Freeman Downstate",
-      "Downstate Broadway Booth Theatre"
+      "Downstate Bruce Norris Broadway",
+      "Downstate Booth Theatre",
+      "Bruce Norris play Downstate",
+      "Liza Colón-Zayas Downstate Broadway"
     ],
     "images": [
       {
@@ -187185,5 +187183,446 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 01:51:02 +0000"
+  },
+  "eqeou0": {
+    "id": "eqeou0",
+    "type": "news",
+    "headline": "Avengers Doomsday Advance Booking Crosses Rs 30 Crore in India Ahead of December Release",
+    "dek": "Marvel Studios' upcoming superhero spectacle has witnessed staggering pre-sales, clearing major milestones nearly a month prior to its theatrical debut.",
+    "body": [
+      {
+        "h": "Massive Pre-Sales Momentum in India",
+        "p": [
+          "Marvel Studios' highly anticipated blockbuster is off to a phenomenal start across the Indian subcontinent. With nearly a month remaining before its official theatrical rollout, pre-sales have already surged past a major financial milestone.",
+          "The superhero spectacle has accumulated massive numbers in advance sales across a four-day span, reflecting intense audience enthusiasm and heavy demand for tickets."
+        ]
+      },
+      {
+        "h": "Opening Day Dominance",
+        "p": [
+          "The first day of screenings, slated for Thursday, December 17, is driving the vast majority of the early transactions. This opening date alone has generated significant gross collections through pre-sales, including portions from block-seated inventories.",
+          "Without accounting for blocked seats, the opening-day performance alone represents millions in revenue alongside hundreds of thousands of individual tickets already secured by eager fans."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "When examining the breakdown across various linguistic formats, the English version commands the lion's share of opening-day advance revenue, accounting for the vast majority of the total tally.",
+          "Meanwhile, regional language dubs are also contributing to the overall figures, with distinct contributions coming from Hindi, Tamil, and Telugu versions respectively."
+        ]
+      },
+      {
+        "h": "Leading Regional Markets",
+        "p": [
+          "Geographically, several key Indian territories are spearheading the advance ticket sales. Maharashtra stands out as the top-performing region, contributing a notable fraction of the overall gross.",
+          "Other prominent urban centers and states, including Delhi and Karnataka, are following closely behind with substantial multi-crore contributions to the pre-release ledger."
+        ]
+      },
+      {
+        "h": "Broader Popularity and Extended Weekend",
+        "p": [
+          "This exceptional early box-office traction highlights the enduring popularity and deep cultural footprint of Hollywood superhero franchises within the country. Fans continue to show immense enthusiasm for multi-format and premium screen experiences.",
+          "Furthermore, the production is well-positioned to capitalize on an extended four-day opening weekend, backed by strategically scheduled early morning showtimes designed to maximize audience turnout."
+        ]
+      },
+      {
+        "h": "Promotional Material and Age Rating",
+        "p": [
+          "In tandem with the ticket sales surge, studio executives recently unveiled fresh promotional imagery highlighting iconic figures such as Loki, Mystique, Thor, Steve Rogers, and Robert Downey Jr's character commanding a legion of mutant-hunting Sentinels.",
+          "Helmed by directors Joe and Anthony Russo, the feature has also been assigned an official PG-13 classification by censorship boards citing thematic elements involving violence, language, and graphic imagery."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios' upcoming feature has crossed Rs 30 crore in advance bookings in India ahead of its December 17 release. The film has sold over two lakh tickets for Day 1, driven primarily by English-language screenings and strong regional demand."
+        ]
+      }
+    ],
+    "facts": [
+      "December 17, 2026",
+      "Rs 30 crore mark",
+      "Rs 34.34 crore",
+      "Rs 28.65 crore",
+      "Rs 16.48 crore",
+      "Rs 1.84 crore",
+      "Rs 14.64 crore",
+      "2.08 lakh tickets",
+      "Rs 13.98 crore",
+      "Rs 12.42 crore",
+      "Rs 2.12 crore",
+      "Rs 29.79 lakh",
+      "Rs 8.70 lakh",
+      "Rs 4.17 crore",
+      "Rs 2.73 crore",
+      "Rs 2.49 crore",
+      "Joe and Anthony Russo",
+      "Robert Downey Jr"
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Joe Russo",
+        "Anthony Russo",
+        "Loki",
+        "Mystique",
+        "Thor",
+        "Steve Rogers"
+      ],
+      "titles": [
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday advance booking",
+      "Avengers Doomsday box office India",
+      "Avengers Doomsday Day 1 tickets",
+      "Robert Downey Jr Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135975631,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Avengers Doomsday Advance Booking Crosses Rs 30 Crore in India Ahead of December Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T07:57:32+05:30"
+  },
+  "1hkeu71": {
+    "id": "1hkeu71",
+    "type": "news",
+    "headline": "Eight Near-Perfect Prime Video Series With Ten Episodes Or Fewer",
+    "dek": "Exploring standout short-run and single-season Prime Video shows that prove high quality does not require multiple seasons.",
+    "body": [
+      {
+        "h": "The Appeal Of Short-Form Series",
+        "p": [
+          "While sprawling multi-season television can offer deep character development, longer runtimes do not automatically equal superior storytelling. Many creative visionaries require only a handful of episodes to deliver complete, tightly woven narratives without unnecessary filler.",
+          "Prime Video features several exceptional titles that restrict themselves to ten episodes or fewer, achieving critical acclaim and cultural impact without outstaying their welcome."
+        ]
+      },
+      {
+        "h": "Spider-Noir",
+        "p": [
+          "Set in 1930s New York City, Spider-Noir centers on a hardened private investigator named Ben Reilly who formerly operated as a superhero known as The Spider. The narrative kicks into gear when mobsters and a mysterious femme fatale draw him back into action.",
+          "The series elevates superhero television through high-contrast hard lighting, black-and-white and true-hue full color filming, uncommon villains, and stellar performances from Nicolas Cage and Lamorne Morris."
+        ]
+      },
+      {
+        "h": "Small Axe",
+        "p": [
+          "The BBC and Prime Video collaboration Small Axe takes the form of an anthology inspired by true events, focusing on West Indian Black immigrants living in London between the 1960s and 1980s. Though sparking debate over whether it belongs in film or television categories, its power is undeniable.",
+          "Featuring standout performances by John Boyega and Letitia Wright alongside cinematography by Shabier Kirchner, the anthology presents poignant themes that resonate strongly today."
+        ]
+      },
+      {
+        "h": "The Girlfriend",
+        "p": [
+          "Based on the book by Michelle Frances, The Girlfriend explores a tense dynamic when a mother named Laura begins questioning the motivations of her son Daniel's new partner, Cherry. The narrative alternates between the perspectives of Laura and Cherry, raising questions about truth and reliability.",
+          "Leaning into campiness and melodrama rather than taking itself too seriously, the thriller benefits from the fierce enemy dynamic between Robin Wright and Olivia Cooke."
+        ]
+      },
+      {
+        "h": "Etoile And Swarm",
+        "p": [
+          "Amy Sherman-Palladino's Etoile explores prestigious ballet companies in New York City and Paris swapping talented dancers to save themselves from financial struggle. Despite its cancellation after one season, it offers rapid-fire dialogue, real dancers, and stellar choreography.",
+          "Meanwhile, Prime Video's seven-episode horror-comedy Swarm follows Andrea Dre Greene, an obsessive fan of pop star Ni'Jah who goes on a violent spiral. Dominique Fishback delivers an award-winning performance in a chilling look at parasocial relationships."
+        ]
+      },
+      {
+        "h": "My Lady Jane And A League Of Their Own",
+        "p": [
+          "My Lady Jane reimagines the brief historical reign of Lady Jane in a world split between humans and animal-shifters, pairing Emily Bader and Edward Bluemel in a raunchy, candy-pop historical romp.",
+          "The television adaptation of A League of Their Own centers on 1943 during WWII, following Carson Shaw trying out for the Rockford Peaches and Max Chapman finding alternative ways to play, balancing heartwarming comedy with nuanced characters."
+        ]
+      },
+      {
+        "h": "The Narrow Road To The Deep North",
+        "p": [
+          "The miniseries The Narrow Road to the Deep North depicts the harsh realities of World War II through the experiences of a soldier named Dorringo Evans before, during, and after his time in a Japanese labor camp.",
+          "Jacob Elordi delivers a powerful performance in a bleak, non-linear narrative that utilizes lighting and color to convey the physical and psychological toll of wartime brutality."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video hosts a variety of acclaimed miniseries and single-season shows containing ten episodes or fewer that deliver complete and powerful storytelling. From superhero noir and historical fantasy to gripping thrillers and wartime dramas, these titles demonstrate that brevity often enhances creative impact."
+        ]
+      }
+    ],
+    "facts": [
+      "Spider-Noir is set in 1930s New York City and stars Nicolas Cage and Lamorne Morris.",
+      "Small Axe focuses on West Indian Black immigrants living in London between the 1960s and 1980s and stars John Boyega and Letitia Wright.",
+      "The Girlfriend is based on the book by Michelle Frances and stars Robin Wright and Olivia Cooke.",
+      "Etoile was created by Amy Sherman-Palladino.",
+      "Swarm consists of seven episodes and stars Dominique Fishback.",
+      "My Lady Jane is based on the book by Brodi Ashton, Cynthia Hand, and Jodi Meadows, and stars Emily Bader and Edward Bluemel.",
+      "A League of Their Own is set in 1943 during WWII and features the Rockford Peaches.",
+      "The Narrow Road to the Deep North stars Jacob Elordi as a soldier taken prisoner in a Japanese labor camp."
+    ],
+    "entities": {
+      "people": [
+        "Ben Reilly",
+        "Nicolas Cage",
+        "Lamorne Morris",
+        "John Boyega",
+        "Letitia Wright",
+        "Shabier Kirchner",
+        "Michelle Frances",
+        "Daniel",
+        "Cherry",
+        "Laura",
+        "Robin Wright",
+        "Olivia Cooke",
+        "Amy Sherman-Palladino",
+        "Lou de Laage",
+        "Dominique Fishback",
+        "Andrea Dre Greene",
+        "Ni'Jah",
+        "Billie Eilish",
+        "Brodi Ashton",
+        "Cynthia Hand",
+        "Jodi Meadows",
+        "Lady Jane",
+        "Lord Guildford Dudley",
+        "Emily Bader",
+        "Edward Bluemel",
+        "Carson Shaw",
+        "Max Chapman",
+        "Dorringo Evans",
+        "Jacob Elordi"
+      ],
+      "titles": [
+        "Spider-Noir",
+        "Small Axe",
+        "The Girlfriend",
+        "Etoile",
+        "Swarm",
+        "My Lady Jane",
+        "A League of Their Own",
+        "The Narrow Road to the Deep North",
+        "Breaking Bad",
+        "Dark",
+        "Adolescence",
+        "The Underground Railroad",
+        "Ponies",
+        "Gilmore Girls",
+        "Star Wars",
+        "Black Panther"
+      ]
+    },
+    "keywords": [
+      "Prime Video shows",
+      "Spider-Noir",
+      "Small Axe",
+      "The Girlfriend",
+      "Swarm"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/lady-jane-uses-a-wax-sealer-while-looking-to-the-side-in-my-lady-jane.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Eight Near-Perfect Prime Video Series With Ten Episodes Or Fewer",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 03:00:07 GMT"
+  },
+  "1qq1wid": {
+    "id": "1qq1wid",
+    "type": "news",
+    "headline": "Dhanush Thanks CM Vijay For 6 AM Shows For OM: Operation Mole",
+    "dek": "Actor Dhanush has expressed his appreciation to Tamil Nadu Chief Minister C Joseph Vijay after the state cleared early morning screenings for his upcoming action thriller.",
+    "body": [
+      {
+        "h": "Early Morning Screenings Approved",
+        "p": [
+          "The actor-producer expressed his appreciation to the state leadership following the approval of early morning screenings for his next project. The Tamil Nadu administration greenlit the special 6 AM showtime, paving the way for fans to catch the very first public viewing on release day.",
+          "Such early timings are a hallmark of major cinematic events in the region, allowing enthusiastic followers to gather in large numbers before sunrise to celebrate the arrival of a major star vehicle in local halls."
+        ]
+      },
+      {
+        "h": "Gratitude Shared on Social Media",
+        "p": [
+          "Taking to digital platforms, the lead star issued a formal note acknowledging the government's decision. He offered specific thanks to the Chief Minister for permitting the early show slot ahead of the scheduled theatrical rollout.",
+          "The message highlighted the importance of government cooperation in ensuring that large-scale projects can launch smoothly and cater to the massive fan following waiting outside cinema doors."
+        ]
+      },
+      {
+        "h": "Call to Support Theatrical Releases",
+        "p": [
+          "Beyond the scheduling announcement, the actor used his statement to urge audiences to prioritize cinema halls. He emphasized that buying tickets for the big screen remains the most effective way to back everyone involved in the creative ecosystem.",
+          "According to his message, patronizing theatres directly feeds into the broader economic health and continuous expansion of the regional film community, ensuring that future projects receive adequate commercial backing."
+        ]
+      },
+      {
+        "h": "Plea for Fan Responsibility",
+        "p": [
+          "With early morning crowds often bringing high levels of excitement, the leading man specifically asked his supporters to maintain order. He requested that attendees exercise caution and avoid creating any disruptions for fellow moviegoers.",
+          "The statement underscored that true celebration lies in quietly and safely enjoying the artistic work on screen rather than engaging in rowdy behavior that might inconvenience others in the hall."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Helmed by director Rajkumar Periasamy, the project brings together several notable names from the industry. Malayalam superstar Mammootty plays a critical part in the narrative alongside the primary lead.",
+          "The movie also features Sai Pallavi and Sreeleela in essential capacities. Sai Pallavi portrays an IPS officer heading a special investigative team, while the leading man steps into the shoes of an intelligence operative."
+        ]
+      },
+      {
+        "h": "Plot and Technical Background",
+        "p": [
+          "The storyline follows an intelligence unit member tracking a smuggling ring dealing in Red Sanders, set against a tense action backdrop. The project has successfully secured a U/A certification from the Central Board of Film Certification.",
+          "Originally announced under a different title, the venture eventually settled on its current name. The technical crew includes composer Sai Abhyankkar, cinematographer Ezhil Arasu, and editor Kalaivanan R."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush thanked Tamil Nadu Chief Minister C Joseph Vijay after the state approved 6 AM screenings for his upcoming action thriller OM: Operation Mole, releasing on November 20. He urged fans to support the industry by watching films in theatres and asked them to remain responsible during early morning shows.",
+          "Directed by Rajkumar Periasamy and featuring Mammootty and Sai Pallavi, the film follows an intelligence operative tracking a smuggling network and has received a U/A certification."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhanush stars in OM: Operation Mole.",
+      "C Joseph Vijay is the Chief Minister of Tamil Nadu.",
+      "The film is scheduled to release on November 20.",
+      "Rajkumar Periasamy is the director of the film.",
+      "Mammootty, Sai Pallavi, and Sreeleela feature in key roles.",
+      "Dhanush plays D 402, a member of the Tamil Nadu Police's Organised Crime Intelligence Unit.",
+      "Sai Pallavi plays Nithya Reddy, an IPS officer leading an STF.",
+      "The film received a U/A certificate from the Central Board of Film Certification."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "C Joseph Vijay",
+        "Rajkumar Periasamy",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Sai Abhyankkar",
+        "Ezhil Arasu",
+        "Kalaivanan R",
+        "Kavya Sriram",
+        "Nithya Reddy"
+      ],
+      "titles": [
+        "OM: Operation Mole",
+        "OM: Chapter 1 – Udhiram: The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "Dhanush OM film",
+      "Rajkumar Periasamy movie",
+      "Mammootty OM Operation Mole"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156532024,thumbsize-522922,width-1280,height-720,resizemode-75/156532024.jpg",
+        "caption": "Dhanush Thanks CM Vijay For 6 AM Shows For OM: Operation Mole",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T03:53:08Z"
+  },
+  "xpfspt": {
+    "id": "xpfspt",
+    "type": "news",
+    "headline": "Netflix Reveals Return Date and First-Look Images for Ginny & Georgia Season 4",
+    "dek": "The hit Netflix drama series is coming back for its fourth season this January, bringing new chaos and challenges for Georgia Miller and her family.",
+    "body": [
+      {
+        "h": "The Return of Ginny & Georgia",
+        "p": [
+          "Fans of the popular Netflix family drama can finally mark their calendars for the next chapter of the Miller household. Netflix officially confirmed that the upcoming fourth season of the acclaimed series will premiere on January 21, 2027. Along with the release date announcement, the streaming platform treated audiences to a fresh batch of first-look images showcasing the main characters.",
+          "The show centers around the free-spirited Georgia Miller and her two children, Ginny and Austin. Their journey began when they relocated north to pursue a fresh start, only to discover that establishing new roots comes with plenty of unexpected obstacles and bumpy roads."
+        ]
+      },
+      {
+        "h": "What to Expect in Season 4",
+        "p": [
+          "As the fourth season kicks off, Georgia Miller finds herself having successfully dodged a murder charge. With that massive legal hurdle seemingly behind her, everyday life appears to be returning to normal for the family. However, stability never lasts long for the Millers, who find themselves struggling financially once again.",
+          "Complicating matters even further, Georgia discovers she is pregnant and remains unsure about the identity of the father. To make matters worse, bizarre occurrences begin to surface, strongly suggesting that Georgia's turbulent past refuses to stay buried beneath the surface."
+        ]
+      },
+      {
+        "h": "Family Dynamics and Growing Up",
+        "p": [
+          "The younger members of the household face their own intense struggles as the narrative progresses. Ginny is determined to break the cyclical patterns of chaos that have defined their lives, while Georgia desperately attempts to convince her children that she is capable of change.",
+          "Meanwhile, young Austin finds himself facing a solitary battle against the entire world. The entire family unit reaches a critical turning point, forcing them to question whether they can truly build a fresh life or if their collective past will inevitably pull them back down."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Creative Team",
+        "p": [
+          "The creative vision behind the series is led by Sarah Lampert, who serves as creator, co-showrunner, and executive producer. She shares showrunning and executive producing duties with Sarah Glinski.",
+          "Additional executive producers lending their talents to the production include Jenny Daly, Jeff Tahler, Holly Hines, Daniel March representing Dynamic Television, Lance Samuels and Daniel Iron from Blue Ice Pictures, alongside David Monahan, Danielle Hoover, and Ali Kinney."
+        ]
+      },
+      {
+        "h": "The Ensemble Cast",
+        "p": [
+          "The upcoming season features the return of the show's recognizable ensemble cast. Viewers will see familiar faces reprise their roles, continuing the complex relationships that have captured global audiences.",
+          "The credited cast list includes Brianne Howey, Antonia Gentry, Felix Mallard, Sara Waisglass, Scott Porter, Diesel La Torraca, Jennifer Robertson, Raymond Ablack, Katie Douglas, Chelsea Clark, and Nathan Mitchell."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has announced that Ginny & Georgia will return for its fourth season on January 21, 2027, accompanied by new first-look promotional images. The upcoming episodes follow Georgia dealing with an unexpected pregnancy, financial trouble, and lingering shadows from her past while her children try to navigate their own separate crises."
+        ]
+      }
+    ],
+    "facts": [
+      "Ginny & Georgia Season 4 premieres on January 21, 2027.",
+      "Netflix announced the return date and first look on November 18, 2026.",
+      "Sarah Lampert is the creator, co-showrunner, and executive producer.",
+      "Sarah Glinski is the co-showrunner and executive producer."
+    ],
+    "entities": {
+      "people": [
+        "Sarah Lampert",
+        "Sarah Glinski",
+        "Jenny Daly",
+        "Jeff Tahler",
+        "Holly Hines",
+        "Daniel March",
+        "Lance Samuels",
+        "Daniel Iron",
+        "David Monahan",
+        "Danielle Hoover",
+        "Ali Kinney",
+        "Brianne Howey",
+        "Antonia Gentry",
+        "Felix Mallard",
+        "Sara Waisglass",
+        "Scott Porter",
+        "Diesel La Torraca",
+        "Jennifer Robertson",
+        "Raymond Ablack",
+        "Katie Douglas",
+        "Chelsea Clark",
+        "Nathan Mitchell"
+      ],
+      "titles": [
+        "Ginny & Georgia"
+      ]
+    },
+    "keywords": [
+      "Ginny & Georgia season 4",
+      "Netflix Ginny & Georgia release date",
+      "Georgia Miller pregnancy",
+      "Ginny & Georgia cast"
+    ],
+    "images": [
+      {
+        "url": "http://www.thefutoncritic.com/images/global/bugblank.jpg",
+        "caption": "Netflix Reveals Return Date and First-Look Images for Ginny & Georgia Season 4",
+        "source": "The Futon Critic"
+      }
+    ],
+    "published": "2026-11-18T09:31:00+00:00"
   }
 };
