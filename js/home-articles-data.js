@@ -84,6 +84,92 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 14:08:11 +0530"
   },
+  "1jza4v6": {
+    "id": "1jza4v6",
+    "type": "news",
+    "headline": "First Teaser Unveiled for Upcoming Film New Recruit: Haunted Military Hospital",
+    "dek": "An initial preview has been released for the upcoming feature New Recruit: Haunted Military Hospital, showcasing a squad of soldiers confronting terrifying paranormal events during their stay.",
+    "entities": {
+      "people": [
+        "R Suhaila",
+        "Park Min Seok",
+        "Kim Min Ho",
+        "Choi Il Gu",
+        "Nam Tae Woo",
+        "Moon Bit Na Ri",
+        "Kim Yo Han",
+        "Kang Chan Seok",
+        "Lee Jung Hyun",
+        "Im Da Hye",
+        "Jeon Seung Hoon",
+        "Seong Yun Mo",
+        "Kim Hyun Kyu",
+        "Yoo Jae Hoon",
+        "Ryu Kyung Soo",
+        "Kim Dong Woo",
+        "Jang Sung Bum"
+      ],
+      "titles": [
+        "New Recruit: Haunted Military Hospital",
+        "New Recruit",
+        "New Recruit 4: Sabotage"
+      ]
+    },
+    "keywords": [
+      "New Recruit Haunted Military Hospital",
+      "Kim Min Ho New Recruit film",
+      "New Recruit movie teaser",
+      "Ryu Kyung Soo New Recruit",
+      "New Recruit Haunted Military Hospital release date"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/19122410/new-recruit-haunted-military-hospital-13.jpg",
+        "caption": "First Teaser Unveiled for Upcoming Film New Recruit: Haunted Military Hospital",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 08:32:11 +0000"
+  },
+  "dubtep": {
+    "id": "dubtep",
+    "type": "news",
+    "headline": "Vishwak Sen's Telugu Thriller 'Cult' Makes Rapid Jump To Prime Video Following Theatrical Run",
+    "dek": "The psychological thriller written, directed by, and starring Vishwak Sen has officially transitioned to the digital space just weeks after its big-screen debut.",
+    "entities": {
+      "people": [
+        "Vishwak Sen",
+        "Tarak Ponnappa",
+        "Gayatri Bharadwaj",
+        "Murali Sharma",
+        "Srikanth Iyengar",
+        "Prajna",
+        "Tharun Bhascker",
+        "Ravi Basrur",
+        "Sachin"
+      ],
+      "titles": [
+        "Cult",
+        "Falaknuma Das",
+        "Das Ka Dhamki",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Cult OTT release",
+      "Vishwak Sen Cult movie",
+      "Cult Prime Video streaming",
+      "Cult Telugu thriller cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135982802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vishwak Sen's Telugu Thriller 'Cult' Makes Rapid Jump To Prime Video Following Theatrical Run",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T13:57:18+05:30"
+  },
   "230ytn": {
     "id": "230ytn",
     "type": "news",
@@ -131,6 +217,51 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 13:43:11 +0530"
+  },
+  "3dio3q": {
+    "id": "3dio3q",
+    "type": "news",
+    "headline": "Netflix Boards Penélope Cruz and Juan Diego Botto Domestic Violence Drama 'Patricia'",
+    "dek": "Production is officially underway on the new dramatic feature starring Penélope Cruz, marking the first narrative feature for her company Moonlyon.",
+    "entities": {
+      "people": [
+        "Penélope Cruz",
+        "Juan Diego Botto",
+        "Goya Toledo",
+        "Ramón Barea",
+        "Dylan Radley",
+        "Diego Ávalos"
+      ],
+      "titles": [
+        "Patricia",
+        "La Bola Negra",
+        "Bunker",
+        "On The Fringe",
+        "Amores Perros",
+        "Marsella",
+        "Lullaby",
+        "Everybody knows",
+        "Volver",
+        "Pain and Glory",
+        "The Suicide Squad",
+        "The Room Next Door",
+        "Breaking Falls"
+      ]
+    },
+    "keywords": [
+      "Patricia film Netflix",
+      "Penelope Cruz Patricia",
+      "Juan Diego Botto movie",
+      "Moonlyon production company"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Red-Carpet-Platino-Awards-2023-1000.jpg?w=1000",
+        "caption": "Netflix Boards Penélope Cruz and Juan Diego Botto Domestic Violence Drama 'Patricia'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 08:00:03 +0000"
   },
   "11vesyw": {
     "id": "11vesyw",
@@ -286,6 +417,53 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 07:35:07 +0000"
+  },
+  "1fqe9tf": {
+    "id": "1fqe9tf",
+    "type": "news",
+    "headline": "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
+    "dek": "Netflix has quietly rolled out a collection of international short-form dramas featuring episodes running from under five minutes to twenty minutes, offering a feature-length storytelling experience without the commitment of hour-long chapters.",
+    "entities": {
+      "people": [
+        "Akiko Higashimura",
+        "Mauricio Montes",
+        "Fernando Urdapilleta",
+        "Pablo Illanes",
+        "Hoshino Midori",
+        "Konta",
+        "Nishigami",
+        "Anabel Roldán",
+        "Rafael",
+        "Carlos Monterrosa",
+        "Lucía",
+        "Bárbara",
+        "Álvaro",
+        "Iker",
+        "Fernanda"
+      ],
+      "titles": [
+        "The Vacation Principle",
+        "Bakansu no Hosoku",
+        "Stolen Heartbeats",
+        "En coma",
+        "Between Father and Son",
+        "Entre padre e hijo"
+      ]
+    },
+    "keywords": [
+      "The Vacation Principle Netflix",
+      "Stolen Heartbeats series",
+      "Between Father and Son show",
+      "Netflix short dramas under 20 minutes"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/3-netflix-short-dramas-to-watch-under-20-minutes-01.jpg",
+        "caption": "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 07:25:50 +0000"
   },
   "ovjjrn": {
     "id": "ovjjrn",
@@ -4735,206 +4913,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 04:37:04 +0000"
-  },
-  "5lfeat": {
-    "id": "5lfeat",
-    "type": "news",
-    "headline": "Anne Hathaway welcomes third child with husband Adam Shulman",
-    "dek": "Actor Anne Hathaway and her husband Adam Shulman have welcomed their third child together, sparking fan speculation about the baby's gender after being spotted in New York.",
-    "entities": {
-      "people": [
-        "Anne Hathaway",
-        "Adam Shulman",
-        "Jonathan",
-        "Jack",
-        "Michael Showalter",
-        "Dakota Johnson",
-        "Josh Hartnett",
-        "Colleen Hoover",
-        "Nick Antosca",
-        "Ron Howard",
-        "Adam Driver",
-        "Betty Gilpin",
-        "Dan Schilling",
-        "Lori Chapman Longfritz",
-        "John A Chapman",
-        "Riya Sharma",
-        "Jimmy Kimmel",
-        "Barbara Lewis"
-      ],
-      "titles": [
-        "Verity",
-        "Alone at Dawn",
-        "Baby I'm Yours"
-      ]
-    },
-    "keywords": [
-      "Anne Hathaway",
-      "Adam Shulman",
-      "Verity",
-      "Alone at Dawn"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/FILM-VERITY-_1794972362708_QlBY_1794972362839_1qo0_bb92d330-5197-4def-b87b-cf77e5e41f26_FKWv.JPG",
-        "caption": "Anne Hathaway welcomes third child with husband Adam Shulman",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 09:38:03 +0530"
-  },
-  "t4a0t8": {
-    "id": "t4a0t8",
-    "type": "news",
-    "headline": "Al Pacino and Charlie Heaton Lead New Trailer for Romantic Fantasy Drama",
-    "dek": "Magenta Edge Films has revealed the official trailer for Billy Knight, featuring Al Pacino and Stranger Things star Charlie Heaton in a magical cinematic journey.",
-    "entities": {
-      "people": [
-        "Al Pacino",
-        "Charlie Heaton",
-        "Diana Silvers",
-        "Patrick Schwarzenegger",
-        "Alec Griffen Roth",
-        "Beck",
-        "Diplo",
-        "Rick Ross",
-        "Harry Jowsey",
-        "Angela Sarafyan",
-        "Sara Sampaio",
-        "Elsie Hewitt",
-        "Aleeha Rogers",
-        "Vritti Johar"
-      ],
-      "titles": [
-        "Billy Knight",
-        "Stranger Things",
-        "Home Alone",
-        "Home Alone 2: Lost in New York"
-      ]
-    },
-    "keywords": [
-      "Billy Knight trailer",
-      "Al Pacino Billy Knight",
-      "Charlie Heaton Billy Knight",
-      "Magenta Edge Films"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-18-Nov-2026-03-07-PM-1483.jpg?resize=1200,630",
-        "caption": "Al Pacino and Charlie Heaton Lead New Trailer for Romantic Fantasy Drama",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 04:07:59 +0000"
-  },
-  "1pa0hc6": {
-    "id": "1pa0hc6",
-    "type": "news",
-    "headline": "Dancing With the Stars Shocks Fans With Harry Shum Jr. and Jenna Johnson Elimination in Semi-Finals",
-    "dek": "The latest episode of Dancing With the Stars Season 35 delivered a major surprise as Harry Shum Jr. and Jenna Johnson were sent home just before the finale.",
-    "entities": {
-      "people": [
-        "Harry Shum Jr.",
-        "Jenna Johnson",
-        "Julianne Hough",
-        "Alfonso Ribeiro",
-        "Maura Higgins",
-        "Mark Ballas",
-        "Ezra Frech",
-        "Daniella Karagach",
-        "Tatyana Ali",
-        "Jan Ravnik",
-        "Connor Wood",
-        "Rylee Arnold",
-        "Amber Glenn",
-        "Pasha Pashkov",
-        "Carrie Ann Inaba",
-        "Derek Hough",
-        "Bruno Tonioli",
-        "Elvis Presley",
-        "Calvin Harris",
-        "Luciano Perrone",
-        "Hozier",
-        "3 Doors Down",
-        "Kenny Loggins",
-        "Celia Cruz",
-        "Ariana Grande",
-        "Journey",
-        "Pete Rodríguez",
-        "Naya Rivera",
-        "Jenna Dewan",
-        "Guillermo Rodriguez",
-        "Julia Stiles",
-        "Tyler Cameron",
-        "Sarah Jane Nader",
-        "Taylor Hanson",
-        "Ciara Miller"
-      ],
-      "titles": [
-        "Dancing With the Stars",
-        "Glee"
-      ]
-    },
-    "keywords": [
-      "Harry Shum Jr",
-      "Jenna Johnson",
-      "Dancing With the Stars",
-      "DWTS Season 35 finale"
-    ],
-    "images": [
-      {
-        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/newspress-collage-88qqgvory-1794943358508.jpg?quality=75&amp;strip=all&amp;1794925649&amp;w=1024",
-        "caption": "Dancing With the Stars Shocks Fans With Harry Shum Jr. and Jenna Johnson Elimination in Semi-Finals",
-        "source": "Page Six"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 22:03:48 -0500"
-  },
-  "fuadk7": {
-    "id": "fuadk7",
-    "type": "news",
-    "headline": "'Avengers: Doomsday' Official Rating, Runtime and Box Office Advance Bookings Unveiled Ahead of December Release",
-    "dek": "Marvel Studios' upcoming blockbuster 'Avengers: Doomsday' secures an official PG-13 rating with content warnings for violence and language, while advance ticket sales in India cross Rs 10 crore.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr.",
-        "Patrick Stewart",
-        "Ian McKellen",
-        "James Marsden",
-        "Chris Hemsworth",
-        "Tom Hiddleston",
-        "Chris Evans",
-        "Peggy Carter",
-        "Reed Richards",
-        "Charles Xavier",
-        "Magneto",
-        "Cyclops",
-        "Thor",
-        "Loki",
-        "Steve Rogers",
-        "Doctor Doom"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers: Endgame",
-        "Avengers: Secret Wars"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Robert Downey Jr Doctor Doom",
-      "Avengers Doomsday rating",
-      "Avengers Doomsday runtime",
-      "Chris Evans Steve Rogers"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135946180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "'Avengers: Doomsday' Official Rating, Runtime and Box Office Advance Bookings Unveiled Ahead of December Release",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T08:26:58+05:30"
   },
   "1wit30w": {
     "id": "1wit30w",

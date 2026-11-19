@@ -189575,5 +189575,425 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 14:01:06 +0200"
+  },
+  "1fqe9tf": {
+    "id": "1fqe9tf",
+    "type": "news",
+    "headline": "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
+    "dek": "Netflix has quietly rolled out a collection of international short-form dramas featuring episodes running from under five minutes to twenty minutes, offering a feature-length storytelling experience without the commitment of hour-long chapters.",
+    "body": [
+      {
+        "h": "The Appeal of Short-Form Streaming",
+        "p": [
+          "Committing to television series featuring hour-long chapters can often feel demanding for viewers with busy schedules. To address this, Netflix has introduced a selection of international dramas featuring unusually short episodes, allowing audiences to complete an entire series within a single afternoon session.",
+          "Rather than relying on massive global marketing campaigns, the streaming platform has quietly made these compact releases available. These bite-sized titles combine polished production values with recognizable actors, removing unnecessary filler subplots to deliver maximum narrative impact in minimal time."
+        ]
+      },
+      {
+        "h": "Exploring Diverse International Formats",
+        "p": [
+          "The newly highlighted titles span across different regions and genres, bringing unique cultural settings to the streaming platform. From Japanese coastal dramedies to Colombian supernatural mysteries and Mexican family thrillers, these short-form releases provide alternative approaches to serialized entertainment.",
+          "Each show operates on a compressed episode runtime, ensuring viewers can easily navigate through multi-episode arcs without dedicating days to a traditional television marathon."
+        ]
+      },
+      {
+        "h": "The Vacation Principle (Bakansu no Hosoku)",
+        "p": [
+          "Directed by Akiko Higashimura and holding an IMDb rating of 6.7 out of 10, The Vacation Principle spans 18 episodes with individual runtimes between 15 and 19 minutes. The narrative follows Hoshino Midori, who experiences burnout and sudden unemployment when her beauty clinic goes bankrupt.",
+          "Midori escapes to her late grandmother's seaside villa, where she encounters her struggling actor brother Konta, close friends Rinrin, Tsumugi, and Tetsuro, and an enigmatic caretaker named Nishigami, who is secretly an otherworldly grim reaper stationed to watch locals before a late-summer typhoon."
+        ]
+      },
+      {
+        "h": "Stolen Heartbeats (En coma)",
+        "p": [
+          "Directed by Mauricio Montes and holding an IMDb rating of 5.7 out of 10, Stolen Heartbeats consists of 50 episodes with runtimes ranging from 1 to 5 minutes. The story centers on executive Anabel Roldán, whose body lies in a Bogotá hospital after a brutal attack leaves her in a coma.",
+          "While her consciousness lingers between life and death, Anabel depends on Rafael, a hospital nurse with the supernatural ability to hear the dead, to help her uncover who ordered the assault before her attackers and an organ-trafficking network finish the job."
+        ]
+      },
+      {
+        "h": "Between Father and Son (Entre padre e hijo)",
+        "p": [
+          "Directed by Fernando Urdapilleta and created by Pablo Illanes, Between Father and Son holds an IMDb rating of 4.3 out of 10 across 20 episodes running from 6 to 10 minutes. The Mexican thriller follows lawyer Bárbara as she visits the family estate of her older fiancé, Álvaro, to meet the Sarmiento clan.",
+          "Bárbara soon finds herself caught in an attraction with her future stepson, Iker, while unearthing family secrets, personal blackmail, and the mysterious past of a deceased woman named Fernanda that turns her engagement into a survival fight."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has expanded its catalog with a trio of international short-form dramas featuring episodes under twenty minutes, allowing users to finish entire seasons rapidly. The slate includes the Japanese series The Vacation Principle, the Colombian thriller Stolen Heartbeats, and the Mexican drama Between Father and Son, each showcasing unique plots and compressed runtimes."
+        ]
+      }
+    ],
+    "facts": [
+      "The Vacation Principle has an IMDb rating of 6.7 out of 10.",
+      "The Vacation Principle consists of 18 episodes with a duration of 15 to 19 minutes.",
+      "The Vacation Principle is directed by Akiko Higashimura.",
+      "Stolen Heartbeats has an IMDb rating of 5.7 out of 10.",
+      "Stolen Heartbeats consists of 50 episodes with a duration of 1 to 5 minutes.",
+      "Stolen Heartbeats is directed by Mauricio Montes.",
+      "Between Father and Son has an IMDb rating of 4.3 out of 10.",
+      "Between Father and Son consists of 20 episodes with a duration of 6 to 10 minutes.",
+      "Between Father and Son is directed by Fernando Urdapilleta and created by Pablo Illanes."
+    ],
+    "entities": {
+      "people": [
+        "Akiko Higashimura",
+        "Mauricio Montes",
+        "Fernando Urdapilleta",
+        "Pablo Illanes",
+        "Hoshino Midori",
+        "Konta",
+        "Nishigami",
+        "Anabel Roldán",
+        "Rafael",
+        "Carlos Monterrosa",
+        "Lucía",
+        "Bárbara",
+        "Álvaro",
+        "Iker",
+        "Fernanda"
+      ],
+      "titles": [
+        "The Vacation Principle",
+        "Bakansu no Hosoku",
+        "Stolen Heartbeats",
+        "En coma",
+        "Between Father and Son",
+        "Entre padre e hijo"
+      ]
+    },
+    "keywords": [
+      "The Vacation Principle Netflix",
+      "Stolen Heartbeats series",
+      "Between Father and Son show",
+      "Netflix short dramas under 20 minutes"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/3-netflix-short-dramas-to-watch-under-20-minutes-01.jpg",
+        "caption": "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 07:25:50 +0000"
+  },
+  "3dio3q": {
+    "id": "3dio3q",
+    "type": "news",
+    "headline": "Netflix Boards Penélope Cruz and Juan Diego Botto Domestic Violence Drama 'Patricia'",
+    "dek": "Production is officially underway on the new dramatic feature starring Penélope Cruz, marking the first narrative feature for her company Moonlyon.",
+    "body": [
+      {
+        "h": "Production Starts on Patricia",
+        "p": [
+          "Netflix has officially boarded the upcoming domestic violence drama titled Patricia, confirming that filming is now getting underway. The project is written and directed by Juan Diego Botto, bringing together a notable creative team to explore a serious and sensitive topic.",
+          "Penélope Cruz takes on the title role of Patricia, bringing her extensive acting experience to a character dealing with harrowing personal struggles. This feature also serves as a major milestone for Cruz behind the scenes as a producer."
+        ]
+      },
+      {
+        "h": "Moonlyon's First Narrative Feature",
+        "p": [
+          "The film marks the very first narrative feature produced under Moonlyon, the audiovisual company founded by Penélope Cruz. Moonlyon launched in 2022 as part of the Barcelona-based sports and entertainment group Imagina, which was previously known as Grup Mediapro before a September rebranding.",
+          "Developing the project has been a lengthy endeavor for the star and her production banner. Cruz spent over two years bringing the feature to this production stage, working closely alongside Botto through the scriptwriting and preparation phases."
+        ]
+      },
+      {
+        "h": "Plot and Character Details",
+        "p": [
+          "In Patricia, the central character manages to escape a nightmarish twelve-year abusive relationship. However, her fight for safety and stability is far from over once she enters the court system.",
+          "Facing a new kind of legal hell, Patricia lives in constant fear regarding the safety and wellbeing of her children. The narrative aims to shine a light on the daily suffering experienced by many women facing similar forms of domestic abuse."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Creative Collaborations",
+        "p": [
+          "Alongside Penélope Cruz in the lead role, the movie features a talented ensemble cast. Confirmed cast members include Goya Toledo, Ramón Barea, and Dylan Radley.",
+          "The film reunites Cruz and Juan Diego Botto following their previous work together on Botto's 2022 directorial debut, the social thriller On The Fringe. Botto's broader career includes close to eighty feature acting credits, such as The Suicide Squad, The Room Next Door, and Breaking Falls."
+        ]
+      },
+      {
+        "h": "Director's Research and Approach",
+        "p": [
+          "Director Juan Diego Botto approached the sensitive subject matter with extensive preparation. His creative process involved a long research phase featuring hours of interviews with real women who shared their stories with the filmmakers.",
+          "Botto's feature directorial debut, On The Fringe, previously premiered in the Horizons sidebar of the Venice Film Festival in 2022. He has expressed deep gratitude for the opportunity to bring this specific narrative to the screen with such a dedicated cast and crew."
+        ]
+      },
+      {
+        "h": "Netflix Partnership and Investment",
+        "p": [
+          "Netflix boarded the project after reviewing the script, marking Penélope Cruz's first time working with the platform. Diego Ávalos, Netflix's vice president of originals for Spain, Portugal, Turkey, and the Middle East, praised the film as a courageous and unforgettable story.",
+          "The acquisition aligns with Netflix's substantial commitment to Spanish productions. The streamer established its biggest European production hub for non-English-language content in Spain in 2015, pledging more than €1 billion in investments between 2025 and 2028 to celebrate its tenth anniversary in the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has announced the start of production on the domestic violence drama Patricia, written and directed by Juan Diego Botto. The film stars Penélope Cruz and serves as the first narrative feature for her production company Moonlyon."
+        ]
+      }
+    ],
+    "facts": [
+      "Production is underway on the domestic violence drama Patricia.",
+      "Juan Diego Botto is the writer and director of Patricia.",
+      "Penélope Cruz stars in the title role of Patricia and produces under Moonlyon.",
+      "Moonlyon launched in 2022 as part of Imagina, previously known as Grup Mediapro.",
+      "Patricia is Moonlyon's first narrative feature.",
+      "The story follows a woman escaping a twelve-year abusive relationship who faces legal struggles over her children.",
+      "The cast includes Goya Toledo, Ramón Barea, and Dylan Radley.",
+      "Botto and Cruz previously worked together on the 2022 film On The Fringe.",
+      "Netflix launched in Spain in 2015 and pledged over €1B in Spanish production investments from 2025 to 2028."
+    ],
+    "entities": {
+      "people": [
+        "Penélope Cruz",
+        "Juan Diego Botto",
+        "Goya Toledo",
+        "Ramón Barea",
+        "Dylan Radley",
+        "Diego Ávalos"
+      ],
+      "titles": [
+        "Patricia",
+        "La Bola Negra",
+        "Bunker",
+        "On The Fringe",
+        "Amores Perros",
+        "Marsella",
+        "Lullaby",
+        "Everybody knows",
+        "Volver",
+        "Pain and Glory",
+        "The Suicide Squad",
+        "The Room Next Door",
+        "Breaking Falls"
+      ]
+    },
+    "keywords": [
+      "Patricia film Netflix",
+      "Penelope Cruz Patricia",
+      "Juan Diego Botto movie",
+      "Moonlyon production company"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Red-Carpet-Platino-Awards-2023-1000.jpg?w=1000",
+        "caption": "Netflix Boards Penélope Cruz and Juan Diego Botto Domestic Violence Drama 'Patricia'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 08:00:03 +0000"
+  },
+  "dubtep": {
+    "id": "dubtep",
+    "type": "news",
+    "headline": "Vishwak Sen's Telugu Thriller 'Cult' Makes Rapid Jump To Prime Video Following Theatrical Run",
+    "dek": "The psychological thriller written, directed by, and starring Vishwak Sen has officially transitioned to the digital space just weeks after its big-screen debut.",
+    "body": [
+      {
+        "h": "The Digital Premiere",
+        "p": [
+          "The Telugu psychological thriller titled 'Cult' has officially arrived on the digital streaming platform Prime Video. Audiences who missed the film during its theatrical run can now watch it online from the comfort of their homes.",
+          "This swift digital rollout comes merely twenty days after the movie first premiered in traditional cinema halls. The quick transition allows a much broader audience to access the suspenseful feature without having to wait months for a home video release."
+        ]
+      },
+      {
+        "h": "Multilingual Availability",
+        "p": [
+          "To cater to a diverse demographic across the country, the digital release is not restricted to its original language alone. Viewers can stream the suspense feature in multiple audio formats including Telugu, Tamil, Kannada, Malayalam, and Hindi.",
+          "This wide linguistic availability ensures that fans of dark psychological thrillers outside the primary regional market can also experience the narrative in their preferred language."
+        ]
+      },
+      {
+        "h": "Plot And Premise",
+        "p": [
+          "Marketed by its creative team as an entry into India's slasher thriller space, the narrative blends intense psychological suspense with survival elements and violent confrontations. The plot kicks off at an upscale birthday gathering hosted by a prominent political figure's son.",
+          "What begins as an exclusive celebration for invited guests quickly devolves into a desperate fight for survival when unexpected murders start occurring. Furthermore, the event location is trapped with explosives, severely limiting the escape routes and options for the authorities."
+        ]
+      },
+      {
+        "h": "Character Roles And Central Conflict",
+        "p": [
+          "Actor Vishwak Sen steps into the narrative not only behind the camera but also on screen as DSP Sankalp Nayak. His character finds himself directly caught inside the perilous venue alongside the other high-profile attendees.",
+          "As the situation deteriorates rapidly into a deadly crisis, the police officer assumes leadership to shield the trapped guests. Meanwhile, Tarak Ponnappa portrays Elvin, the host of the ill-fated celebration whose party triggers the nightmare."
+        ]
+      },
+      {
+        "h": "Cast And Ensemble",
+        "p": [
+          "Alongside the main star, the feature includes Gayatri Bharadwaj taking on the female lead role. The broader ensemble features several familiar faces in pivotal parts to drive the suspenseful narrative forward.",
+          "Notable supporting cast members include Murali Sharma, Srikanth Iyengar, and Prajna. In total, the production features an expansive ensemble of around 100 performers, incorporating a mix of established names and fresh newcomers."
+        ]
+      },
+      {
+        "h": "Behind The Camera",
+        "p": [
+          "The project represents a notable milestone for its leading man, functioning as his third directorial endeavor following previous works like 'Falaknuma Das' and 'Das Ka Dhamki'. By handling writing, directing, and acting duties, he maintained deep creative control over the production.",
+          "The technical crew features several well-known industry talents. Filmmaker Tharun Bhascker contributed the dialogue writing, Ravi Basrur handled the musical composition, and Sachin brought his expertise from working on 'Animal' to oversee the sound design."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vishwak Sen's Telugu psychological thriller 'Cult' is now available for streaming on Prime Video just twenty days after its theatrical release. The film features a multi-language rollout in Telugu, Tamil, Kannada, Malayalam, and Hindi, bringing its survivalist plot and ensemble cast to a wider digital audience."
+        ]
+      }
+    ],
+    "facts": [
+      "Cult was released in theatres on October 30",
+      "The film is streaming on Prime Video 20 days after its theatrical release",
+      "Cult is available in Telugu, Tamil, Kannada, Malayalam and Hindi",
+      "Vishwak Sen plays DSP Sankalp Nayak and is the director of the film",
+      "Tarak Ponnappa plays Elvin, the son of Goa's Home Minister",
+      "Gayatri Bharadwaj is the female lead",
+      "The cast includes Murali Sharma, Srikanth Iyengar and Prajna",
+      "The film features around 100 actors",
+      "Cult is Vishwak Sen's third directorial venture after Falaknuma Das and Das Ka Dhamki",
+      "Tharun Bhascker penned the dialogues",
+      "Ravi Basrur composed the music",
+      "Sachin handled the sound design"
+    ],
+    "entities": {
+      "people": [
+        "Vishwak Sen",
+        "Tarak Ponnappa",
+        "Gayatri Bharadwaj",
+        "Murali Sharma",
+        "Srikanth Iyengar",
+        "Prajna",
+        "Tharun Bhascker",
+        "Ravi Basrur",
+        "Sachin"
+      ],
+      "titles": [
+        "Cult",
+        "Falaknuma Das",
+        "Das Ka Dhamki",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Cult OTT release",
+      "Vishwak Sen Cult movie",
+      "Cult Prime Video streaming",
+      "Cult Telugu thriller cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135982802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vishwak Sen's Telugu Thriller 'Cult' Makes Rapid Jump To Prime Video Following Theatrical Run",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T13:57:18+05:30"
+  },
+  "1jza4v6": {
+    "id": "1jza4v6",
+    "type": "news",
+    "headline": "First Teaser Unveiled for Upcoming Film New Recruit: Haunted Military Hospital",
+    "dek": "An initial preview has been released for the upcoming feature New Recruit: Haunted Military Hospital, showcasing a squad of soldiers confronting terrifying paranormal events during their stay.",
+    "body": [
+      {
+        "h": "Teaser Release and Plot Overview",
+        "p": [
+          "The upcoming motion picture titled New Recruit: Haunted Military Hospital has officially revealed its very first video teaser to the public. The narrative centers on a squad of recruits who check into a military hospital expecting a peaceful and relaxing retreat.",
+          "Instead of finding the paradise they anticipated, the soldiers are confronted with unsettling rumors surrounding the facility. Determined to understand the truth, they embark on a mission to investigate the dark secrets hidden within the hospital walls."
+        ]
+      },
+      {
+        "h": "Connection to the Popular Series",
+        "p": [
+          "This upcoming feature film serves as a direct cinematic adaptation of the highly successful television franchise New Recruit. The original series previously captivated viewers across several seasons by presenting a remarkably realistic depiction of everyday military life.",
+          "Fans of the television franchise will now see familiar elements translated into a suspenseful movie format, bridging the gap between grounded military drama and supernatural horror."
+        ]
+      },
+      {
+        "h": "Encountering Unsettling Phenomena",
+        "p": [
+          "The newly released video preview begins with an ominous and unsettling atmosphere. A mysterious soldier confronts the main squad of characters and poses a chilling question about whether they have noticed strange occurrences around the facility.",
+          "Corporal Park Min Seok quickly experiences intense fear after observing a mysterious patient named Yoo Jae Hoon acting bizarrely near the morgue late at night. Additional disturbing events plague the group, including Kang Chan Seok consuming food obsessively for no clear reason."
+        ]
+      },
+      {
+        "h": "Escalating Mystery and Rituals",
+        "p": [
+          "The psychological tension deepens as another soldier, the by-the-book character Kim Dong Woo, falls into a trance-like state and repeatedly utters the exact same words while staring blankly into space.",
+          "A spine-chilling remark within the preview warns that vengeful spirits are frequently spotted roaming the hospital corridors. In response to these paranormal terrors, the squad attempts to perform a mysterious ritual led by recruit Seong Yun Mo to fend off the nightly horrors."
+        ]
+      },
+      {
+        "h": "Cast Members and Characters",
+        "p": [
+          "The movie features an ensemble cast portraying the unfortunate soldiers stationed at the facility. Kim Min Ho takes on the role of Park Min Seok, while Nam Tae Woo plays Choi Il Gu.",
+          "The rest of the squad includes Kim Yo Han as Moon Bit Na Ri, Lee Jung Hyun as Kang Chan Seok, Jeon Seung Hoon as Im Da Hye, and Kim Hyun Kyu as Seong Yun Mo. Additionally, Ryu Kyung Soo appears as the mysterious patient Yoo Jae Hoon, alongside Jang Sung Bum as Kim Dong Woo."
+        ]
+      },
+      {
+        "h": "Theatrical Release Details",
+        "p": [
+          "As the squad fights to survive their ordeal and return safely to their barracks, audience anticipation continues to build. The introduction of these new characters and bizarre mysteries has generated significant interest ahead of the premiere.",
+          "The feature film is scheduled to officially arrive in theaters on December 30, giving fans a thrilling cinematic experience following the success of the television seasons."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming film New Recruit: Haunted Military Hospital has released its first teaser trailer, showcasing a squad of soldiers facing paranormal terrors during a hospital stay. Based on the hit television series, the movie is scheduled to hit theaters on December 30 with a cast including Kim Min Ho and Ryu Kyung Soo."
+        ]
+      }
+    ],
+    "facts": [
+      "The film is titled New Recruit: Haunted Military Hospital",
+      "The teaser was released on November 19, 2026",
+      "The film is set to hit theaters on December 30",
+      "Park Min Seok is played by Kim Min Ho",
+      "Choi Il Gu is played by Nam Tae Woo",
+      "Moon Bit Na Ri is played by Kim Yo Han",
+      "Kang Chan Seok is played by Lee Jung Hyun",
+      "Im Da Hye is played by Jeon Seung Hoon",
+      "Seong Yun Mo is played by Kim Hyun Kyu",
+      "Yoo Jae Hoon is played by Ryu Kyung Soo",
+      "Kim Dong Woo is played by Jang Sung Bum"
+    ],
+    "entities": {
+      "people": [
+        "R Suhaila",
+        "Park Min Seok",
+        "Kim Min Ho",
+        "Choi Il Gu",
+        "Nam Tae Woo",
+        "Moon Bit Na Ri",
+        "Kim Yo Han",
+        "Kang Chan Seok",
+        "Lee Jung Hyun",
+        "Im Da Hye",
+        "Jeon Seung Hoon",
+        "Seong Yun Mo",
+        "Kim Hyun Kyu",
+        "Yoo Jae Hoon",
+        "Ryu Kyung Soo",
+        "Kim Dong Woo",
+        "Jang Sung Bum"
+      ],
+      "titles": [
+        "New Recruit: Haunted Military Hospital",
+        "New Recruit",
+        "New Recruit 4: Sabotage"
+      ]
+    },
+    "keywords": [
+      "New Recruit Haunted Military Hospital",
+      "Kim Min Ho New Recruit film",
+      "New Recruit movie teaser",
+      "Ryu Kyung Soo New Recruit",
+      "New Recruit Haunted Military Hospital release date"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/19122410/new-recruit-haunted-military-hospital-13.jpg",
+        "caption": "First Teaser Unveiled for Upcoming Film New Recruit: Haunted Military Hospital",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 08:32:11 +0000"
   }
 };
