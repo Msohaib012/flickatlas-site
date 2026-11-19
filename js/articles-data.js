@@ -190759,5 +190759,377 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 15:46:34 +0500"
+  },
+  "cdff39": {
+    "id": "cdff39",
+    "type": "news",
+    "headline": "Apoorva Lakhia Highlights Salman Khan's Vital Role in Saving Maatrubhumi",
+    "dek": "Director Apoorva Lakhia opens up about the turbulent eighteen-month journey of Maatrubhumi: May War Rest In Peace, praising Salman Khan for keeping the team anchored through every setback.",
+    "body": [
+      {
+        "h": "A Rocky Road to the Big Screen",
+        "p": [
+          "The journey of bringing Maatrubhumi: May War Rest In Peace to theaters was fraught with difficulties, taking roughly a year and a half of relentless effort. The production faced persistent roadblocks, constant uncertainties, and widespread rumors regarding its future. Speculation often suggested that the project was completely stalled or might bypass theatrical exhibition entirely to premiere straight on an OTT streaming platform.",
+          "Despite the shifting finish lines and discouraging gossip, the core creative team remained steadfast in their vision. They firmly believed that this cinematic venture belonged on the grand theatrical screen rather than digital displays, prompting them to continuously push forward through every single obstacle."
+        ]
+      },
+      {
+        "h": "Salman Khan as the Ultimate Anchor",
+        "p": [
+          "Throughout the grueling eighteen-month ordeal, superstar Salman Khan emerged as the ultimate source of strength and motivation for the entire crew. Director Apoorva Lakhia has openly acknowledged that Khan's unwavering presence and constant reassurance played a pivotal role in keeping spirits high during both the highs and lows.",
+          "Having the leading man stand shoulder-to-shoulder with the crew made the most difficult operational and logistical hurdles much easier to tolerate. His steadfast belief in the project served as a driving force that prevented the team from giving up when circumstances looked bleak."
+        ]
+      },
+      {
+        "h": "Reflecting on the Long Struggle",
+        "p": [
+          "Director Apoorva Lakhia admitted that even as the project finally reached completion, he still had to pinch himself to believe they had successfully made it. The prolonged struggle demanded intense dedication, continuous fighting for the film's rightful place, and an uncompromising commitment to delivering the best possible experience for the star's massive fan base.",
+          "In a strange way, enduring these intense hardships together actually brought the entire crew significantly closer as a cohesive unit. The shared adversity forged strong bonds among the makers, transforming a stressful production phase into a unifying team experience."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Crew Details",
+        "p": [
+          "Directed by Apoorva Lakhia, the film features a notable leading cast that pairs Salman Khan alongside Chitrangda Singh in key roles. Their on-screen chemistry is anticipated to be one of the major highlights of the upcoming theatrical presentation.",
+          "On the production and distribution front, the movie enjoys massive backing. It is produced under the esteemed banner of Salman Khan Films, ensuring high production standards and robust industry support from its inception to its final cut."
+        ]
+      },
+      {
+        "h": "Distribution Partners and Release Date",
+        "p": [
+          "To ensure the movie reaches the widest possible audience, major distribution networks have locked in extensive plans. Jio Studios has taken charge of the all-India theatrical distribution across domestic markets, while Zee Studios is handling the overseas distribution responsibilities globally.",
+          "Fans eagerly awaiting the project will not have to wait much longer, as the film is officially scheduled for a theatrical release on December 4. This date marks the end of a long and winding road for everyone involved in the production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Apoorva Lakhia credited Salman Khan for guiding the team through 1.5 years of hurdles and rumors regarding Maatrubhumi: May War Rest In Peace. The film, starring Salman Khan and Chitrangda Singh, is scheduled for a theatrical release on December 4."
+        ]
+      }
+    ],
+    "facts": [
+      "Apoorva Lakhia directed Maatrubhumi: May War Rest In Peace",
+      "Salman Khan stars in Maatrubhumi: May War Rest In Peace",
+      "Chitrangda Singh stars in Maatrubhumi: May War Rest In Peace",
+      "The film faced 1.5 years of hurdles and rumors",
+      "Salman Khan Films produced the movie",
+      "Jio Studios is handling all-India distribution",
+      "Zee Studios is handling overseas distribution",
+      "The theatrical release date is December 4"
+    ],
+    "entities": {
+      "people": [
+        "Apoorva Lakhia",
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Srijita Sen",
+        "Sooraj Barjatya",
+        "Ayushmann Khurrana",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi May War Rest In Peace",
+      "Apoorva Lakhia",
+      "Salman Khan",
+      "Chitrangda Singh"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/salman-khan1795084927.jpg",
+        "caption": "Apoorva Lakhia Highlights Salman Khan's Vital Role in Saving Maatrubhumi",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-19T16:42:24+05:30"
+  },
+  "twxyqf": {
+    "id": "twxyqf",
+    "type": "news",
+    "headline": "The Diplomat Season 5 Receives Production Schedule And Release Window Updates",
+    "dek": "Netflix has confirmed preliminary filming dates and a potential release window for the fifth season of its hit political drama, indicating a break in the show's yearly release tradition.",
+    "body": [
+      {
+        "h": "Renewal Background and Context",
+        "p": [
+          "Netflix officially greenlit the fifth installment of the popular political drama on October 29th, arriving just a fortnight after the fourth season launched on October 15th. This recent scheduling cycle represents a shift from earlier patterns, as season 4 had been ordered months prior to the third season's premiere, allowing for an immediate return to the soundstages.",
+          "The political series has continued to maintain strong viewership metrics across its runs. The fourth season concluded a successful tenure in the top 10 rankings by November 8th, pulling in impressive figures that included 105.4 million viewing hours and 15.1 million completed views."
+        ]
+      },
+      {
+        "h": "Production Schedule and Timeline",
+        "p": [
+          "Fresh production listings indicate that cameras for the fifth season are scheduled to begin rolling on March 9th, 2027. The extensive shoot is currently mapped out to wrap up later that year on October 8th, 2027, subject to the usual schedule shifts inherent to television production.",
+          "This upcoming seven-month production timeline closely mirrors the operational schedule utilized for the previous season. Season 4 began filming on November 3rd, 2025, and continued through the summer months of 2026."
+        ]
+      },
+      {
+        "h": "Locations and Working Title",
+        "p": [
+          "Production listings reveal that the upcoming episodes will film under the working title Thunderstruck. New York has been designated as the primary hub, with operations once again anchored out of Steiner Studios situated in Brooklyn.",
+          "While previous installments have balanced filming between New York and London, and even incorporated a stint in Tuscany for season 4, the continued involvement of London-based production company Jammy Pictures suggests that the main character, Kate Wyler, will likely return to British soil during the shoot."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Creator Debora Cahn returns to helm the project as showrunner. The production lineup also features Janice Williams, Keri Russell, Alex Graves, Peter Noah, and Eli Attie listed in producer roles.",
+          "The series is backed by a collaborative group of production entities, including Fleet River Productions, Carrier Productions, Jammy Pictures, Well Red, and Netflix."
+        ]
+      },
+      {
+        "h": "Release Window Projections",
+        "p": [
+          "Since its initial launch in April 2023, the political drama has maintained a consistent pattern of releasing a new season every year, with seasons 2, 3, and 4 all premiering in October or late October. Because principal photography is not scheduled to wrap until October 8th, 2027, that annual streak is all but certain to conclude.",
+          "Looking at previous turnarounds, season 4 wrapped in the summer of 2026 and debuted roughly three and a half months later on October 15th. Applying a comparable post-production window to the fifth season points to an earliest possible release in late January 2028."
+        ]
+      },
+      {
+        "h": "Longest Gap Between Seasons",
+        "p": [
+          "With the year-end holiday period falling directly during the post-production phase, analysts estimate that the fifth season will arrive on the streaming platform sometime during the first quarter of 2028, specifically between late January and March.",
+          "This timeline means fans will experience a wait of well over a year between the fourth and fifth seasons, marking the longest operational gap the political series has faced since its inception."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has announced production dates for the fifth season of its hit political drama, confirming that filming will run from March 9th to October 8th, 2027. Due to this schedule, the series will miss its traditional yearly release cadence, pushing the expected premiere into the first quarter of 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 5 filming is scheduled from March 9th, 2027 to October 8th, 2027.",
+      "Season 5 is filming under the working title Thunderstruck.",
+      "The fifth season renewal was announced on October 29th.",
+      "Season 4 arrived on Netflix on October 15th.",
+      "Season 4 generated 105.4 million viewing hours and 15.1 million completed views.",
+      "Production for season 5 will be based out of Steiner Studios in Brooklyn, New York."
+    ],
+    "entities": {
+      "people": [
+        "Kate Wyler",
+        "Hal Wyler",
+        "Debora Cahn",
+        "Janice Williams",
+        "Keri Russell",
+        "Alex Graves",
+        "Peter Noah",
+        "Eli Attie",
+        "Erika Kuenka",
+        "Nick Wall"
+      ],
+      "titles": [
+        "The Diplomat"
+      ]
+    },
+    "keywords": [
+      "The Diplomat season 5",
+      "The Diplomat release date",
+      "Debora Cahn",
+      "Keri Russell The Diplomat"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-diplomat-season-5-gets-filming-release-date-update.jpg",
+        "caption": "The Diplomat Season 5 Receives Production Schedule And Release Window Updates",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 12:00:35 +0000"
+  },
+  "aqc5jh": {
+    "id": "aqc5jh",
+    "type": "news",
+    "headline": "Vedaant Madhavan Breaks West Virginia University Record at Ohio State Invitational",
+    "dek": "R Madhavan's son Vedaant Madhavan established a new West Virginia University record in the men's 800-yard freestyle relay during the Ohio State Invitational swimming competition in the US.",
+    "body": [
+      {
+        "h": "Record-Breaking Performance in the United States",
+        "p": [
+          "Vedaant Madhavan recently participated in the Ohio State Invitational swimming meet held in the United States. Representing West Virginia University, the 21-year-old swimmer competed in the men's 800-yard freestyle relay and delivered a remarkable performance that etched his name into the university's record books.",
+          "Teaming up with junior Oskar Farkas and fellow freshmen Jin Rossi and Owen Eisenhofer, Vedaant helped his quartet complete the event with a time of 6:24.82. This impressive timing successfully surpassed the previous school benchmark of 6:24.88, which had been established in the year 2025."
+        ]
+      },
+      {
+        "h": "Team Standing and Competition Details",
+        "p": [
+          "Despite setting a brand new record for West Virginia University, the four-member relay lineup finished in 11th place overall in the event standings. They shared this 11th position placement with the University of Louisville.",
+          "The collective effort of the quartet secured 42 points for the Mountaineers. This contribution elevated the men's team total to 165 points through the sixth event of the competitive swimming meet."
+        ]
+      },
+      {
+        "h": "Recent Meet History and Previous Challenges",
+        "p": [
+          "This record-breaking achievement arrived shortly after a challenging swimming meet against the University of Virginia. During that previous outing, Vedaant finished in seventh position in both the 200-yard and 500-yard freestyle races.",
+          "In that particular fixture, West Virginia fell to the University of Virginia with a final score of 175-83. Vedaant recorded timings of 1:42.10 in the 200-yard freestyle and 4:44.13 in the 500-yard freestyle event."
+        ]
+      },
+      {
+        "h": "Academic Background and Athletic Journey",
+        "p": [
+          "Currently in his senior academic year at West Virginia University, Vedaant transitioned to the institution following a transfer from Virginia Tech. He has steadily built a reputation as one of India's promising distance freestyle swimmers.",
+          "Beyond collegiate competition in the US, Vedaant has also carried the Indian flag on international stages. This includes representing the country at competitive international fixtures such as the 2026 Asian Games held in Aichi-Nagoya."
+        ]
+      },
+      {
+        "h": "Perspectives on India's Sporting Ecosystem",
+        "p": [
+          "Following his appearance at the 2026 Asian Games, Vedaant shared his insights regarding India's athletic potential and sporting infrastructure in an interview with PTI. He emphasized that Indian athletes possess immense natural talent and genetic gifts.",
+          "According to Vedaant, the primary obstacle holding the nation back from producing more world-class athletes revolves around diet, discipline, and nutrition. He expressed belief that focusing on higher protein intake and better dietary habits can unlock the true potential of the country's genetic pool."
+        ]
+      },
+      {
+        "h": "Family Values and Keeping a Low Profile",
+        "p": [
+          "Being the son of prominent actor R Madhavan naturally brings a substantial amount of media spotlight and public attention. However, his father has consistently emphasized the importance of humility and maintaining a grounded approach.",
+          "In an earlier interview with Lallantop Cinema, R Madhavan addressed his son's rising fame, noting that while his swimming accomplishments are commendable, he is still far from the Olympics. Both father and son remain acutely aware of the media attention and make a conscious effort to keep a low profile."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vedaant Madhavan set a new West Virginia University record in the men's 800-yard freestyle relay alongside his teammates at the Ohio State Invitational. The 21-year-old swimmer continues to make strides in his senior year while staying grounded amid public attention."
+        ]
+      }
+    ],
+    "facts": [
+      "Vedaant Madhavan is 21 years old.",
+      "The 800-yard freestyle relay team clocked a time of 6:24.82.",
+      "The previous West Virginia University record was 6:24.88, set in 2025.",
+      "The relay team finished 11th overall, sharing the position with the University of Louisville.",
+      "The performance earned the Mountaineers 42 points, taking the men's team tally to 165 through event six.",
+      "In the meet against the University of Virginia, Vedaant finished seventh in the 200-yard (1:42.10) and 500-yard (4:44.13) freestyle events.",
+      "West Virginia lost the meet against the University of Virginia 175-83.",
+      "Vedaant represented India at the 2026 Asian Games in Aichi-Nagoya."
+    ],
+    "entities": {
+      "people": [
+        "Vedaant Madhavan",
+        "Oskar Farkas",
+        "Jin Rossi",
+        "Owen Eisenhofer",
+        "R Madhavan"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Vedaant Madhavan",
+      "R Madhavan son swimming",
+      "West Virginia University swim record",
+      "Ohio State Invitational swimming"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135988156,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vedaant Madhavan Breaks West Virginia University Record at Ohio State Invitational",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T16:34:03+05:30"
+  },
+  "qq46p2": {
+    "id": "qq46p2",
+    "type": "news",
+    "headline": "Denzel Washington and Christopher McQuarrie Team Up for New Crime Thriller Compassionate Release",
+    "dek": "Principal photography has officially begun on Compassionate Release, pairing the legendary actor with the acclaimed filmmaker for a thrilling new project.",
+    "body": [
+      {
+        "h": "A Powerhouse Collaboration",
+        "p": [
+          "Legendary actor Denzel Washington is returning to the screen for a brand-new crime thriller titled Compassionate Release. Known for anchoring gritty action cinema through hits like Training Day, Man on Fire, The Book of Eli, and The Equalizer trilogy, the two-time Oscar winner is stepping into a deeply compelling new role.",
+          "This upcoming picture brings Washington together with director Christopher McQuarrie. Known widely for helming major entries in the Mission: Impossible franchise and co-writing Top Gun: Maverick alongside Tom Cruise, McQuarrie is stepping away from that long-running partnership to helm this unique feature."
+        ]
+      },
+      {
+        "h": "First Look From the Set",
+        "p": [
+          "Production on the film officially kicked off on November 16, with cameras rolling on location in Cranford, New Jersey. Behind-the-scenes photographs quickly surfaced on X, giving eager fans their very first visual preview of the project.",
+          "The newly released images feature Washington preparing to film alongside co-star Teyonah Parris. The pictures also capture director Christopher McQuarrie guiding the cast on set, alongside actress Vanessa Ferlito."
+        ]
+      },
+      {
+        "h": "Plot and Characters",
+        "p": [
+          "Penned by screenwriters Scott Barkan and Gregg Zehentner, the story follows a former police detective who is currently serving a life sentence. After receiving a terminal brain cancer diagnosis and learning he has only six months left to live, he is granted an early compassionate release.",
+          "Upon returning home, the protagonist tries to make peace and reconnect with his estranged daughter, played by Teyonah Parris, and a grandson he has never met. However, his quiet journey toward redemption is disrupted when dangerous figures from his dark past re-emerge."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "Alongside Denzel Washington and Teyonah Parris, the movie features actress Vanessa Ferlito, who was also spotted during the New Jersey shoot. Rising breakout talent Miles Caton joins the ensemble cast as well.",
+          "The feature is backed by Amazon MGM Studios and Scott Stuber's United Artists. Filming locations span across New Jersey and New York as production moves forward."
+        ]
+      },
+      {
+        "h": "Release Details and Anticipation",
+        "p": [
+          "With principal photography now underway, the production is keeping on schedule for its scheduled theatrical rollout. Moviegoers won't have to wait indefinitely to see the results of this major actor-director pairing.",
+          "The crime thriller is currently slated to hit cinemas on October 1, 2027, positioning itself as a major cinematic event for the fall season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Denzel Washington and director Christopher McQuarrie have begun filming their upcoming crime thriller Compassionate Release in New Jersey. The film follows a terminal former detective trying to reconnect with his estranged family before dangerous figures from his past return.",
+          "Backed by Amazon MGM Studios and United Artists, the movie features a cast including Teyonah Parris and Vanessa Ferlito, with a scheduled theatrical release date of October 1, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Denzel Washington stars in Compassionate Release",
+      "Christopher McQuarrie directs Compassionate Release",
+      "Principal photography began on November 16",
+      "Filming takes place in Cranford, New Jersey",
+      "Teyonah Parris plays the estranged daughter",
+      "Vanessa Ferlito is part of the cast",
+      "Scott Barkan and Gregg Zehentner wrote the script",
+      "The film is slated for release on October 1, 2027"
+    ],
+    "entities": {
+      "people": [
+        "Denzel Washington",
+        "Christopher McQuarrie",
+        "Tom Cruise",
+        "Teyonah Parris",
+        "Vanessa Ferlito",
+        "Scott Barkan",
+        "Gregg Zehentner",
+        "Scott Stuber",
+        "Miles Caton"
+      ],
+      "titles": [
+        "Compassionate Release",
+        "Training Day",
+        "Man on Fire",
+        "The Book of Eli",
+        "The Equalizer",
+        "Mission: Impossible",
+        "Top Gun: Maverick",
+        "The Marvels",
+        "Death Proof",
+        "Sinners"
+      ]
+    },
+    "keywords": [
+      "Compassionate Release film",
+      "Denzel Washington Compassionate Release",
+      "Christopher McQuarrie new movie",
+      "Teyonah Parris film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/denzel-washington-in-man-on-fire.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Denzel Washington and Christopher McQuarrie Team Up for New Crime Thriller Compassionate Release",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 11:25:28 GMT"
   }
 };

@@ -39,6 +39,153 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 14:01:06 +0200"
   },
+  "twxyqf": {
+    "id": "twxyqf",
+    "type": "news",
+    "headline": "The Diplomat Season 5 Receives Production Schedule And Release Window Updates",
+    "dek": "Netflix has confirmed preliminary filming dates and a potential release window for the fifth season of its hit political drama, indicating a break in the show's yearly release tradition.",
+    "entities": {
+      "people": [
+        "Kate Wyler",
+        "Hal Wyler",
+        "Debora Cahn",
+        "Janice Williams",
+        "Keri Russell",
+        "Alex Graves",
+        "Peter Noah",
+        "Eli Attie",
+        "Erika Kuenka",
+        "Nick Wall"
+      ],
+      "titles": [
+        "The Diplomat"
+      ]
+    },
+    "keywords": [
+      "The Diplomat season 5",
+      "The Diplomat release date",
+      "Debora Cahn",
+      "Keri Russell The Diplomat"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-diplomat-season-5-gets-filming-release-date-update.jpg",
+        "caption": "The Diplomat Season 5 Receives Production Schedule And Release Window Updates",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 12:00:35 +0000"
+  },
+  "qq46p2": {
+    "id": "qq46p2",
+    "type": "news",
+    "headline": "Denzel Washington and Christopher McQuarrie Team Up for New Crime Thriller Compassionate Release",
+    "dek": "Principal photography has officially begun on Compassionate Release, pairing the legendary actor with the acclaimed filmmaker for a thrilling new project.",
+    "entities": {
+      "people": [
+        "Denzel Washington",
+        "Christopher McQuarrie",
+        "Tom Cruise",
+        "Teyonah Parris",
+        "Vanessa Ferlito",
+        "Scott Barkan",
+        "Gregg Zehentner",
+        "Scott Stuber",
+        "Miles Caton"
+      ],
+      "titles": [
+        "Compassionate Release",
+        "Training Day",
+        "Man on Fire",
+        "The Book of Eli",
+        "The Equalizer",
+        "Mission: Impossible",
+        "Top Gun: Maverick",
+        "The Marvels",
+        "Death Proof",
+        "Sinners"
+      ]
+    },
+    "keywords": [
+      "Compassionate Release film",
+      "Denzel Washington Compassionate Release",
+      "Christopher McQuarrie new movie",
+      "Teyonah Parris film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/denzel-washington-in-man-on-fire.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Denzel Washington and Christopher McQuarrie Team Up for New Crime Thriller Compassionate Release",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 11:25:28 GMT"
+  },
+  "cdff39": {
+    "id": "cdff39",
+    "type": "news",
+    "headline": "Apoorva Lakhia Highlights Salman Khan's Vital Role in Saving Maatrubhumi",
+    "dek": "Director Apoorva Lakhia opens up about the turbulent eighteen-month journey of Maatrubhumi: May War Rest In Peace, praising Salman Khan for keeping the team anchored through every setback.",
+    "entities": {
+      "people": [
+        "Apoorva Lakhia",
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Srijita Sen",
+        "Sooraj Barjatya",
+        "Ayushmann Khurrana",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi May War Rest In Peace",
+      "Apoorva Lakhia",
+      "Salman Khan",
+      "Chitrangda Singh"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/salman-khan1795084927.jpg",
+        "caption": "Apoorva Lakhia Highlights Salman Khan's Vital Role in Saving Maatrubhumi",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-19T16:42:24+05:30"
+  },
+  "aqc5jh": {
+    "id": "aqc5jh",
+    "type": "news",
+    "headline": "Vedaant Madhavan Breaks West Virginia University Record at Ohio State Invitational",
+    "dek": "R Madhavan's son Vedaant Madhavan established a new West Virginia University record in the men's 800-yard freestyle relay during the Ohio State Invitational swimming competition in the US.",
+    "entities": {
+      "people": [
+        "Vedaant Madhavan",
+        "Oskar Farkas",
+        "Jin Rossi",
+        "Owen Eisenhofer",
+        "R Madhavan"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Vedaant Madhavan",
+      "R Madhavan son swimming",
+      "West Virginia University swim record",
+      "Ohio State Invitational swimming"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135988156,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vedaant Madhavan Breaks West Virginia University Record at Ohio State Invitational",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T16:34:03+05:30"
+  },
   "6f4dqp": {
     "id": "6f4dqp",
     "type": "news",
@@ -4755,176 +4902,6 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "Wed, 18 Nov 2026 02:00:00 EST"
   },
-  "1kttojm": {
-    "id": "1kttojm",
-    "type": "news",
-    "headline": "Call Me Bae Season 2 Sets December Release Date on Prime Video",
-    "dek": "Ananya Panday returns as Bella Chowdhary for an eight-episode second season of Call Me Bae, premiering worldwide on December 17, 2026.",
-    "entities": {
-      "people": [
-        "Ananya Panday",
-        "Shruti Haasan",
-        "Vir Das",
-        "Gurfateh Pirzada",
-        "Varun Sood",
-        "Vihaan Samat",
-        "Muskkaan Jaferi",
-        "Niharika Lyra Dutt",
-        "Lisa Mishra",
-        "Mini Mathur",
-        "Collin D'Cunha",
-        "Ishita Moitra",
-        "Karan Johar",
-        "Fernando Lindez",
-        "Luca Melucci"
-      ],
-      "titles": [
-        "Call Me Bae",
-        "Call Me Bae Season 2"
-      ]
-    },
-    "keywords": [
-      "Call Me Bae Season 2",
-      "Ananya Panday Call Me Bae",
-      "Call Me Bae release date",
-      "Shruti Haasan Call Me Bae"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/call-me-bae-season-21794902438.jpg",
-        "caption": "Call Me Bae Season 2 Sets December Release Date on Prime Video",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-18T12:17:24+05:30"
-  },
-  "fdq9wj": {
-    "id": "fdq9wj",
-    "type": "news",
-    "headline": "Lord of the Rings: Ascension Tabletop Game Officially Announced",
-    "dek": "Stone Blade Entertainment is bringing a new tabletop deckbuilding experience to Middle-earth, with shipping targeted for December 2027.",
-    "entities": {
-      "people": [
-        "Tom Wilson",
-        "J.R.R. Tolkien"
-      ],
-      "titles": [
-        "Lord of the Rings: Ascension",
-        "The Rings of Power",
-        "Middle-Earth: Shadow of War",
-        "The Lord Of The Rings: Gollum",
-        "The Lord of the Rings: Return to Moria",
-        "The Lord of the Rings (1978)",
-        "The Lord of the Rings: The Fellowship of the Ring",
-        "The Lord of the Rings: The Two Towers",
-        "The Lord of the Rings: The Return of the King",
-        "The Hobbit: An Unexpected Journey",
-        "The Hobbit: The Desolation of Smaug",
-        "The Hobbit: The Battle of the Five Armies",
-        "The Lord of the Rings: The War of the Rohirrim",
-        "The Lord of the Rings: The Rings of Power"
-      ]
-    },
-    "keywords": [
-      "Lord of the Rings Ascension",
-      "Stone Blade Entertainment",
-      "Gamefound crowdfunded",
-      "Lord of the Rings board game"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/elijah-wood-as-frodo-in-the-lord-of-the-rings-the-two-towers.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Lord of the Rings: Ascension Tabletop Game Officially Announced",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 06:30:18 GMT"
-  },
-  "1qeb00i": {
-    "id": "1qeb00i",
-    "type": "news",
-    "headline": "Panchayat Season 5 Gets Official December Release Date on Prime Video",
-    "dek": "The acclaimed comedy-drama Panchayat returns for its milestone fifth season on Prime Video, featuring a major leadership change in the village of Phulera.",
-    "entities": {
-      "people": [
-        "Naman Ramachandran",
-        "Deepak Kumar Mishra",
-        "Chandan Kumar",
-        "Arunabh Kumar",
-        "Jitendra Kumar",
-        "Raghubir Yadav",
-        "Neena Gupta",
-        "Sunita Rajwar",
-        "Faizal Malik",
-        "Chandan Roy",
-        "Sanvikaa",
-        "Durgesh Kumar",
-        "Ashok Pathak",
-        "Manish Menghani",
-        "Vijay Koshy"
-      ],
-      "titles": [
-        "Panchayat",
-        "Dune: Prophecy",
-        "Tunnel Men",
-        "The Age of Bhaarat"
-      ]
-    },
-    "keywords": [
-      "Panchayat Season 5",
-      "Prime Video Panchayat",
-      "The Viral Fever Panchayat",
-      "Phulera village Panchayat",
-      "Jitendra Kumar Panchayat"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/Panchayat-season-5.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Panchayat Season 5 Gets Official December Release Date on Prime Video",
-        "source": "Variety"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 06:25:00 +0000"
-  },
-  "mz2piw": {
-    "id": "mz2piw",
-    "type": "news",
-    "headline": "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
-    "dek": "Director Shashaank Khaitaan is back with a fresh romantic thriller titled Aisi Deewangi Dekhi Nahi Kahin, marking the cinematic debut of new actors Subhaan and Airah.",
-    "entities": {
-      "people": [
-        "Shashaank Khaitaan",
-        "Subhaan",
-        "Airah",
-        "Varun Dhawan",
-        "Alia Bhatt",
-        "Janhvi Kapoor",
-        "Ishaan Khatter",
-        "Amit Chandrra",
-        "Nalini Datta Khaitaan",
-        "Karishma Thakker"
-      ],
-      "titles": [
-        "Aisi Deewangi Dekhi Nahi Kahin",
-        "Badrinath Ki Dulhania",
-        "Dhadak"
-      ]
-    },
-    "keywords": [
-      "Aisi Deewangi Dekhi Nahi Kahin",
-      "Shashaank Khaitaan",
-      "Subhaan Airah debut film",
-      "Aisi Deewangi Dekhi Nahi Kahin release date"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Shashaank-Khaitaans-Aisi-Deewangi-Dekhi-Nahi-Kahin-Starring-Debut-Actors-Subhaan-And-Airah-To-Release-On-July-9-2027.jpg",
-        "caption": "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
-        "source": "Bollywood Bubble"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 06:12:49 +0000"
-  },
   "1wit30w": {
     "id": "1wit30w",
     "type": "news",
@@ -5672,46 +5649,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-14T14:45:15Z"
-  },
-  "ztw4hz": {
-    "id": "ztw4hz",
-    "type": "news",
-    "headline": "Grammy Awards 2027: Early Predictions Point to Ella Langley, Olivia Dean, and Olivia Rodrigo for Album of the Year",
-    "dek": "Early forecasts for the 69th annual Grammy Awards highlight strong contenders for the Album of the Year category, including Ella Langley, Taylor Swift, and Paul McCartney.",
-    "entities": {
-      "people": [
-        "Ella Langley",
-        "Olivia Dean",
-        "Olivia Rodrigo",
-        "Bobbie Gentry",
-        "Don Toliver",
-        "Taylor Swift",
-        "Paul McCartney",
-        "Noah Kahan",
-        "Rosalía",
-        "RAYE"
-      ],
-      "titles": [
-        "Octane",
-        "This Music May Contain Hope",
-        "The Life of a Showgirl",
-        "The Boys of Dungeon Lane"
-      ]
-    },
-    "keywords": [
-      "Grammy Awards 2027 Album of the Year",
-      "Ella Langley Olivia Dean Grammy Awards",
-      "Grammy Awards Album of the Year predictions",
-      "Olivia Rodrigo Grammy Awards 2027"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/11/5417-grammy-awards-2026.jpg",
-        "caption": "Grammy Awards 2027: Early Predictions Point to Ella Langley, Olivia Dean, and Olivia Rodrigo for Album of the Year",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-14T03:05:53Z"
   },
   "1iumf04": {
     "id": "1iumf04",
