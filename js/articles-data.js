@@ -191538,5 +191538,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 18:48:04 +0530"
+  },
+  "13y7g40": {
+    "id": "13y7g40",
+    "type": "news",
+    "headline": "Mahaveer Jain Announces Epic Musical Drama Kabira Focusing on the Life of Sant Kabir",
+    "dek": "Filmmaker Mahaveer Jain has revealed plans for a new cinematic project titled Kabira, tracing the journey of the 15th-century mystic and poet under the direction of Abhishek Sharma.",
+    "body": [
+      {
+        "h": "An Ambitious Cinematic Venture",
+        "p": [
+          "Mahaveer Jain Films has officially revealed its latest grand project, an epic musical drama titled Kabira. The upcoming feature is entirely dedicated to exploring the remarkable life, profound philosophy, and timeless teachings of the revered 15th-century poet, mystic, and social reformer Sant Kabir.",
+          "The creative team intends to bring a deeply significant chapter of Indian cultural heritage directly to theatrical audiences. By focusing on historical and spiritual elements, the production hopes to resonate strongly with viewers who appreciate deeply rooted biographical storytelling."
+        ]
+      },
+      {
+        "h": "Exploring the 15th-Century Setting of Kashi",
+        "p": [
+          "The narrative of Kabira is firmly set against the historical backdrop of 15th-century Kashi. The plot will trace the extraordinary life of a historical figure whose core philosophy prioritized universal humanity and spiritual unity above all else.",
+          "Born to a Hindu mother and subsequently raised by a Muslim weaver family, Kabir occupied a unique space outside established religious frameworks. His poetry openly challenged religious orthodoxy, rigid caste divisions, and societal boundaries, making his enduring message relevant across countless generations."
+        ]
+      },
+      {
+        "h": "Abhishek Sharma at the Helm",
+        "p": [
+          "Directing responsibilities for the project have been entrusted to filmmaker Abhishek Sharma. The director is widely recognized for helming notable feature projects such as Parmanu: The Story of Pokhran and Tere Bin Laden.",
+          "With Kashi serving as an essential component of the unfolding narrative, Sharma will focus heavily on recreating the authentic historical setting. His vision includes bringing the iconic ghats and vibrant cultural atmosphere of the city vividly to the big screen."
+        ]
+      },
+      {
+        "h": "Crafting the Musical Landscape",
+        "p": [
+          "Music is slated to serve as a foundational element of the entire project. Acclaimed composer Tanishk Bagchi has been brought on board to develop the distinctive sonic atmosphere for the film.",
+          "The creative approach involves reinterpreting Kabir's celebrated dohas and deep spiritual philosophy through an innovative blend of traditional folk, Sufi sounds, and classical fusion. The makers are positioning the venture as a comprehensive musical experience combining timeless poetry with modern cinematic presentation."
+        ]
+      },
+      {
+        "h": "Production Backing and Creative Team",
+        "p": [
+          "The cinematic enterprise is officially presented by Mahaveer Jain alongside Amit Upadhyay. Production duties are being managed by Mahaveer Jain Films, Saral Vallabh Bhansali, and Shraddha Singh under the banner of A Shock and Awe Production.",
+          "Although the creative minds behind the production have kept details regarding the principal cast under wraps for now, the project has a clear timeline in place for its physical production phase."
+        ]
+      },
+      {
+        "h": "Scheduling and Future Production Plans",
+        "p": [
+          "Anticipation is already building as the production crew prepares for the next major milestones. The feature film is officially scheduled to go on floors in early 2027.",
+          "As the development phase continues over the coming months, audiences and industry followers alike will be watching closely for further casting announcements and behind-the-scenes updates."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mahaveer Jain Films has announced the upcoming biographical musical drama Kabira, which explores the life and philosophy of 15th-century poet Sant Kabir. Directed by Abhishek Sharma with music composed by Tanishk Bagchi, the film is scheduled to begin production in early 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Mahaveer Jain Films announced the epic musical drama Kabira.",
+      "The film is based on the life and philosophy of Sant Kabir.",
+      "Abhishek Sharma is set to direct the film.",
+      "Tanishk Bagchi is set to compose the music.",
+      "The project is scheduled to go on floors in early 2027.",
+      "The film is presented by Mahaveer Jain and Amit Upadhyay."
+    ],
+    "entities": {
+      "people": [
+        "Mahaveer Jain",
+        "Abhishek Sharma",
+        "Tanishk Bagchi",
+        "Sant Kabir",
+        "Amit Upadhyay",
+        "Saral Vallabh Bhansali",
+        "Shraddha Singh"
+      ],
+      "titles": [
+        "Kabira",
+        "Parmanu: The Story of Pokhran",
+        "Tere Bin Laden",
+        "Lambodhara 2.0"
+      ]
+    },
+    "keywords": [
+      "Kabira film",
+      "Mahaveer Jain Kabira",
+      "Abhishek Sharma Kabira",
+      "Tanishk Bagchi music",
+      "Sant Kabir movie"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Mahaveer-Jain-announces-epic-musical-drama-Kabira-on-Sant-Kabir-Abhishek-Sharma-news.jpeg",
+        "caption": "Mahaveer Jain Announces Epic Musical Drama Kabira Focusing on the Life of Sant Kabir",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 19:45:00 +0200"
+  },
+  "14r8npf": {
+    "id": "14r8npf",
+    "type": "news",
+    "headline": "Vishal Bhardwaj Opens Up on Aryan Khan, Admits He Expected Entitlement",
+    "dek": "Filmmaker Vishal Bhardwaj shares his initial assumptions about Aryan Khan, praising the young creator's humility, offbeat humor, and distinctive creative voice that sets him apart from his father, Shah Rukh Khan.",
+    "body": [
+      {
+        "h": "Initial Impressions and Surprises",
+        "p": [
+          "Renowned filmmaker Vishal Bhardwaj recently penned a heartfelt note discussing Aryan Khan for a magazine feature. Reflecting on his initial interactions with the young creator at private film screenings in Mumbai years ago, Bhardwaj candidly admitted that he held certain preconceived notions.",
+          "Given that Aryan is the son of Bollywood legend Shah Rukh Khan, the director anticipated encountering a distinct sense of entitlement or arrogance. Instead, Bhardwaj was pleasantly surprised to discover an exceptionally gentle, humble, and respectful young man."
+        ]
+      },
+      {
+        "h": "Stepping Behind the Camera",
+        "p": [
+          "Rather than immediately pursuing an acting career in front of the lens like his famous father, Aryan chose a different path. He formally studied filmmaking and television production at the University of Southern California to hone his craft behind the camera.",
+          "His creative efforts culminated in 'The Ba***ds of Bollywood', an action-comedy and satirical drama series released in 2025. Created and directed by Aryan, the show explores glamour, power games, politics, and nepotism within the film industry."
+        ]
+      },
+      {
+        "h": "Humor and Self-Awareness",
+        "p": [
+          "Bhardwaj noted that Aryan's work on his directorial debut showcased a remarkable level of maturity and self-awareness. The series relies on offbeat humor, demonstrating the young director's willingness to poke fun at his own world and background.",
+          "Observing the intricate dynamics of the film industry and transforming them into an entertaining, irreverent narrative highlighted both deep sensitivity and robust creative confidence on Aryan's part."
+        ]
+      },
+      {
+        "h": "Contrasting Father and Son",
+        "p": [
+          "While comparing the father-son duo, Bhardwaj emphasized their contrasting yet equally powerful artistic styles. Shah Rukh Khan has spent decades entertaining generations as an iconic actor and master storyteller.",
+          "In contrast, Aryan possesses a very different but distinctively instinctive creative voice. Bhardwaj views the younger Khan as a capable filmmaker ready to propel Bollywood's rich entertainment tradition forward with a contemporary perspective."
+        ]
+      },
+      {
+        "h": "Venture Beyond Film",
+        "p": [
+          "Aside from his contributions to television and filmmaking, Aryan has also ventured into the business world. In the year 2022, he co-founded SLAB Ventures, a luxury lifestyle enterprise based in the Netherlands.",
+          "Through this corporate vehicle, he launched a premium spirits brand followed shortly by a luxury streetwear clothing label, expanding his professional footprint beyond entertainment."
+        ]
+      },
+      {
+        "h": "Cast and Cameos in the Spotlight",
+        "p": [
+          "Aryan's satirical series features a sprawling ensemble cast led by Lakshya as an ambitious outsider named Aasmaan Singh navigating rivalries in the industry. The regular cast also includes Bobby Deol, Raghav Juyal, Sahher Bambba, Anya Singh, Mona Singh, Manoj Pahwa, and Rajat Bedi.",
+          "Additionally, the project boasts numerous high-profile celebrity cameo appearances, featuring industry heavyweights such as Shah Rukh Khan, Karan Johar, Emraan Hashmi, Aamir Khan, Salman Khan, Ranveer Singh, and SS Rajamouli."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Vishal Bhardwaj shared his perspective on Aryan Khan, admitting he initially expected entitlement from the superstar's son but instead found humility and respect. Bhardwaj praised Aryan's distinctive directorial voice in his 2025 series 'The Ba***ds of Bollywood', setting him apart from his father Shah Rukh Khan."
+        ]
+      }
+    ],
+    "facts": [
+      "Vishal Bhardwaj wrote a note on Aryan Khan for a magazine mention.",
+      "Aryan Khan studied filmmaking and television production at the University of Southern California.",
+      "SLAB Ventures was co-founded by Aryan Khan in 2022 in the Netherlands.",
+      "The Ba***ds of Bollywood is a 2025 action-comedy series created and directed by Aryan Khan."
+    ],
+    "entities": {
+      "people": [
+        "Vishal Bhardwaj",
+        "Aryan Khan",
+        "Shah Rukh Khan",
+        "Gauri Khan",
+        "Lakshya",
+        "Bobby Deol",
+        "Raghav Juyal",
+        "Sahher Bambba",
+        "Anya Singh",
+        "Mona Singh",
+        "Manoj Pahwa",
+        "Rajat Bedi",
+        "Karan Johar",
+        "Emraan Hashmi",
+        "Aamir Khan",
+        "Salman Khan",
+        "Ranveer Singh",
+        "SS Rajamouli"
+      ],
+      "titles": [
+        "The Ba***ds of Bollywood"
+      ]
+    },
+    "keywords": [
+      "Vishal Bhardwaj Aryan Khan",
+      "The Ba***ds of Bollywood",
+      "Aryan Khan Shah Rukh Khan",
+      "SLAB Ventures Aryan Khan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135995850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vishal Bhardwaj Opens Up on Aryan Khan, Admits He Expected Entitlement",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T20:06:39+05:30"
+  },
+  "17ren64": {
+    "id": "17ren64",
+    "type": "news",
+    "headline": "Alia Bhatt Slams Internet Speculation About Her Marriage to Ranbir Kapoor, Calling Unequal Relationship Claims Offensive",
+    "dek": "Alia Bhatt opens up about the relentless online scrutiny surrounding her marriage to Ranbir Kapoor, expressing strong frustration over internet users who label her relationship as unequal.",
+    "body": [
+      {
+        "h": "Addressing the Online Rumors",
+        "p": [
+          "Bollywood star Alia Bhatt has openly criticized internet users and strangers who constantly analyze her marriage to fellow actor Ranbir Kapoor. For a long time, social media platforms have been filled with discussions attempting to break down every public interaction and interview featuring the couple. Observers online have frequently suggested that Alia is trapped in an unbalanced and unhappy partnership.",
+          "Rather than staying silent, Alia chose to directly challenge these narratives. She spoke out about how irritating it is to see her personal life subjected to endless speculation by people who do not know them personally."
+        ]
+      },
+      {
+        "h": "Insights from the TIME Magazine Interview",
+        "p": [
+          "The conversation surrounding the online claims came to light during Alia's interview for the TIME100 Next India list published in November 2026. While speaking with TIME magazine, she explained how tiring it is to have her marriage continually dissected by web commentators.",
+          "Highlighting her personal values, the actress noted that she has always stood up for women's independence and self-awareness. Consequently, she finds it deeply offensive when strangers paint her as someone who would quietly endure an imagined scenario of misery or subjugation."
+        ]
+      },
+      {
+        "h": "Defending Her Bond with Ranbir",
+        "p": [
+          "Alia also shared her perspective on why the public might struggle to comprehend her marital dynamic. She proposed that internet critics might simply be unfamiliar with relationships that do not fit into rigid, conventional molds.",
+          "Describing the true foundation of their partnership, the actress shared that true comfort comes from feeling genuinely seen and heard without needing to force anything. She emphasized that Ranbir provides that exact sense of reality and understanding for her."
+        ]
+      },
+      {
+        "h": "Origins of the Social Media Scrutiny",
+        "p": [
+          "The heavy online debate about their marriage did not happen overnight; it accumulated over several years through various casual revelations made by the couple. The trend gained momentum in May 2023 when Alia mentioned that Ranbir disliked it when she raised her voice during disagreements, prompting her to regulate her temper because her husband preferred keeping calm.",
+          "Another wave of criticism hit in August 2023 after an interview with Vogue India where Alia shared that Ranbir preferred her natural lip color and asked her to wipe off lipstick. While she recounted the story casually, online commentators quickly labeled the behavior as controlling and branded Ranbir a red flag."
+        ]
+      },
+      {
+        "h": "Television and Podcast Clarifications",
+        "p": [
+          "The controversy grew so loud that Alia felt compelled to address it directly on an episode of Koffee With Karan 8 in November 2023. She defended her husband during the show, clarifying that his remarks had been taken completely out of context by social media users.",
+          "The conversation reignited in July 2024 when Ranbir appeared on Nikhil Kamath's podcast and discussed the compromises partners make in relationships, noting that Alia had toned down her loud voice after marriage for his comfort. Following this, various clips of the couple circulated widely as users tried to read hidden meanings into their facial expressions."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Collaborations",
+        "p": [
+          "Despite the noise on social media, the couple continues to move forward strongly in their personal lives and professional careers. Alia and Ranbir, who began dating years prior and tied the knot in 2022 before welcoming their daughter Raha later that year, are preparing for their next big cinematic venture together.",
+          "On the work front, the duo is set to reunite on the big screen in Sanjay Leela Bhansali's upcoming movie Love War. The project marks their second major collaboration following Brahmastra and will also co-star Vicky Kaushal ahead of its theatrical release in January 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alia Bhatt has responded to internet speculation claiming her marriage to Ranbir Kapoor is unequal, calling the assumptions offensive given her advocacy for women. The scrutiny stems from past comments about arguments and personal preferences, which the couple has previously addressed. Meanwhile, the pair is preparing to share the screen again in the upcoming film Love War."
+        ]
+      }
+    ],
+    "facts": [
+      "Alia Bhatt married Ranbir Kapoor in 2022.",
+      "The couple welcomed their daughter, Raha, in 2022.",
+      "Alia addressed the online marriage speculation in an interview with TIME magazine for the TIME100 Next India list in November 2026.",
+      "Alia revealed in May 2023 that Ranbir disliked it when she raised her voice during arguments.",
+      "In August 2023, Alia shared in an interview with Vogue India that Ranbir preferred her natural lip color over lipstick.",
+      "Alia defended Ranbir on Koffee With Karan 8 in November 2023.",
+      "Ranbir discussed relationship adjustments on Nikhil Kamath's podcast in July 2024.",
+      "Alia and Ranbir are set to star together in Sanjay Leela Bhansali's 'Love War', which also features Vicky Kaushal and is scheduled for a theatrical release in January 2027.",
+      "Their previous on-screen collaboration was 'Brahmastra'."
+    ],
+    "entities": {
+      "people": [
+        "Alia Bhatt",
+        "Ranbir Kapoor",
+        "Raha",
+        "Nikhil Kamath",
+        "Sanjay Leela Bhansali",
+        "Vicky Kaushal"
+      ],
+      "titles": [
+        "TIME100 Next India",
+        "Vogue India",
+        "Koffee With Karan 8",
+        "Brahmastra",
+        "Love War"
+      ]
+    },
+    "keywords": [
+      "Alia Bhatt marriage Ranbir Kapoor",
+      "Alia Bhatt TIME magazine interview",
+      "Love War movie cast",
+      "Ranbir Kapoor Alia Bhatt relationship scrutiny"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135994917,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Alia Bhatt Slams Internet Speculation About Her Marriage to Ranbir Kapoor, Calling Unequal Relationship Claims Offensive",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T19:37:11+05:30"
+  },
+  "1w3euur": {
+    "id": "1w3euur",
+    "type": "news",
+    "headline": "Sheridan Smith Investigates Her Own Crime in Teaser Trailer for ITV Thriller 'Two Birds'",
+    "dek": "ITV has dropped the first teaser trailer for the six-part crime drama starring Sheridan Smith as a British police officer who moves to Australia and gets caught up in a case she must hide from her own department.",
+    "body": [
+      {
+        "h": "Introduction to the New Crime Series",
+        "p": [
+          "Broadcaster ITV has officially launched the very first teaser trailer for an upcoming six-part crime drama titled Two Birds. The series offers a refreshing and unconventional angle on the standard police procedural format by shifting the core dilemma away from a straightforward pursuit of justice.",
+          "Instead of showcasing an officer entirely dedicated to exposing the truth, the narrative centers on a protagonist who must desperately work to keep key facts buried. The core tension revolves around how far she will go to protect herself when doing what is ethically right threatens to dismantle her entire life."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story follows Izzie Cornwell, a widowed British police officer portrayed by Sheridan Smith, who relocates to Australia to leave behind a turbulent history. Dealing with grief through heavy alcohol consumption and casual relationships had severely strained her bond with her daughter, Skye, prompting the fresh start.",
+          "Izzie moves to the remote mining town of Dugdale to live with her sister, Karen, hoping for a clean slate. However, her plans unravel dramatically before she even reports for her first official day on the job."
+        ]
+      },
+      {
+        "h": "A Disastrous Decision Before Day One",
+        "p": [
+          "On the evening prior to beginning her new law enforcement role, Izzie goes out on a date for a final night of distraction. Set against the striking vistas of Dugdale's massive gold mine as the sun sets, the outing takes a severely negative turn.",
+          "This unexpected escalation forces her to make an immediate, split-second choice that carries potentially catastrophic repercussions. The situation intensifies further when she shows up for work and realizes she has been assigned to investigate that exact incident."
+        ]
+      },
+      {
+        "h": "Escalating Danger and Local Criminals",
+        "p": [
+          "Suddenly, Izzie finds herself in a high-stakes race not just to solve a mystery, but to actively prevent her fellow officers from uncovering her personal culpability. As the falsehoods accumulate, she becomes deeply entangled with Mrs Baxter, the fiercely protective matriarch of the local crime family.",
+          "With mounting guilt, elaborate deception, and escalating peril pressing in from every direction, the main dramatic question is whether Izzie can evade the outcomes of her choices or watch her carefully constructed new life collapse."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Alongside Sheridan Smith, the ensemble features Stephen Peacocke, Fiona Button, and Eva Morgan. Additionally, Academy Award-nominated Australian actress Jacki Weaver joins the production, bringing her notable history of playing formidable characters, such as her acclaimed role in Animal Kingdom.",
+          "The television drama is written by Helen FitzGerald and Megan Palinkas, with directing duties shared by BAFTA-nominated filmmakers James Griffiths and Corrie Chen."
+        ]
+      },
+      {
+        "h": "Production and Setting",
+        "p": [
+          "Filming for the series took place on location in Perth and Kalgoorlie, Western Australia. The production makes extensive use of the striking local landscapes, offering a distinct visual atmosphere compared to typical rain-soaked British detective series.",
+          "The project is produced by Chapter One in co-production with Stan Australia, with association and international distribution handled by ITV Studios."
+        ]
+      },
+      {
+        "h": "Broadcast Details",
+        "p": [
+          "Two Birds is scheduled to air across ITV1, ITVX, STV, and STV Player in the future. An exact UK premiere date has not yet been formally announced by the network."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ITV has released a teaser trailer for the six-part crime thriller Two Birds, starring Sheridan Smith as a British police officer who moves to Western Australia and gets assigned to investigate a crime she is personally involved in. Created by a notable team of writers and directors alongside a talented supporting cast including Jacki Weaver, the series will air across ITV platforms though an exact premiere date remains unannounced."
+        ]
+      }
+    ],
+    "facts": [
+      "ITV released the first teaser trailer for 'Two Birds' on November 19, 2026.",
+      "The series consists of six parts.",
+      "Sheridan Smith stars as police officer Izzie Cornwell.",
+      "Filming took place in Perth and Kalgoorlie, Western Australia.",
+      "The show is written by Helen FitzGerald and Megan Palinkas, and directed by James Griffiths and Corrie Chen."
+    ],
+    "entities": {
+      "people": [
+        "Sheridan Smith",
+        "Izzie Cornwell",
+        "Skye",
+        "Karen",
+        "Mrs Baxter",
+        "Stephen Peacocke",
+        "Jacki Weaver",
+        "Fiona Button",
+        "Eva Morgan",
+        "Helen FitzGerald",
+        "Megan Palinkas",
+        "James Griffiths",
+        "Corrie Chen",
+        "Dave Elliott"
+      ],
+      "titles": [
+        "Two Birds",
+        "I Fought The Law",
+        "Mrs Biggs",
+        "Five Bedrooms",
+        "The Newsreader",
+        "Silver Linings Playbook",
+        "Animal Kingdom",
+        "Yellowstone",
+        "The Split",
+        "Industry",
+        "The Gathering",
+        "This City Is Ours",
+        "The Day of the Jackal"
+      ]
+    },
+    "keywords": [
+      "Two Birds ITV thriller",
+      "Sheridan Smith Two Birds",
+      "Two Birds teaser trailer",
+      "Two Birds cast Jacki Weaver"
+    ],
+    "images": [
+      {
+        "url": "http://www.geektown.co.uk/wp-content/uploads/2026/03/twobirds-1.jpg",
+        "caption": "Sheridan Smith Investigates Her Own Crime in Teaser Trailer for ITV Thriller 'Two Birds'",
+        "source": "Geektown"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 14:31:05 +0000"
   }
 };

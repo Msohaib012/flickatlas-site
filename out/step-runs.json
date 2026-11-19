@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T14:51:59Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": {
-     "candidates": 481,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Yeh Prem Mol Liya trailer out: Sooraj Barjatya brings a tale of a modern marriage with Ayushmann Khurrana and Sharvari",
-      "'Almost Done 99%': Sharad Kapoor Friend Claims Actor Kept 'Dying Gradually'; Reveals Family Didn't Support Him",
-      "Ramayana Worldwide Box Office Day 14 Prediction: Ranbir’s Film Eyes 1500cr; Will It Beat Dhurandhar 2?",
-      "Ramayana Joins 1,000 Crore India Gross Club in 14 Days, Becomes Only Sixth Indian Film to Achieve the Milestone",
-      "Sharad Kapoor reveals SRK, Salman, Javed Akhtar reached out to him",
-      "Christopher Nolan on Robert Pattinson being cast as the next James Bond",
-      "'Gilmore Girls' BTS secrets: Here's all you need to know",
-      "Pedro Pascal reacts to Scarlet Witch’s possible MCU return",
-      "Dhanush thanks Tamil Nadu CM Vijay for 6 AM show permission for 'O.M'",
-      "5 reasons to watch Dhanush and Mammootty's 'O.M'",
-      "Jenny McCarthy’s son Evan Asher shares tearful goodbye after his childhood home in St. Charles was sold",
-      "Lara Dutta and Mahesh Bhupathi's daughter Saira wins tennis championship in UAE, actor shares proud moment",
-      "Yeh Prem Mol Liya trailer: Ayushmann Khurrana, Sharvari's love story challenges age-old marriage tradition of brides leaving their homes",
-      "Florence Pugh calls plastic surgery speculation ‘disturbing’ after Governors Awards, addresses changes in her appearance",
-      "Dhanush thanks CM Vijay for 6 am OM shows, urges fans to celebrate responsibly",
-      "Yeh Prem Mol Liya trailer: Romance takes on patriarchy, Rajshri style!",
-      "Amitabh Bachchan clarifies his 'bach gaye' remark with an unexpected KBC connection",
-      "Suriya gifts Cartier watch to Scene co-star Naslen, actor Kunchacko Boban reacts",
-      "Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy",
-      "DWTS' Glee Tribute Made Me Cry, But What Was Going On In The Background Made Me Irate"
-     ],
-     "updated": [],
-     "count": 449,
-     "detail": "462 stories, 1 duplicates removed, 19 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-18T15:52:03Z",
     "run_id": "44340260432",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "444 stories, 1 duplicates removed, 23 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T15:17:10Z",
-    "run_id": "44328721362",
+    "run_at": "2026-11-19T14:51:58Z",
+    "run_id": "44548123972",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 454,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Sharad Kapoor's Dire Condition Exposed by Friend, Claiming Actor Was 99 Percent Done",
-      "Dancing with the Stars Semi-Finals Shocker: Harry Shum Jr.'s Elimination and Glee Tribute Overshadowed by Background Antics",
-      "Ramayana Box Office: Ranbir Kapoor Starrer Nears Rs 1500 Crore Worldwide",
-      "Ramayana Hits 1,000 Crore Domestic Gross Milestone in 14 Days"
+      "Mahaveer Jain announces epic musical drama Kabira on Sant Kabir; Abhishek Sharma to direct, Tanishk Bagchi to compose",
+      "Mitti De Baway Episode 18 Release Time In India: Fans Look Forward To Baala vs Phajja & Zareena vs Qamarunissa",
+      "Ashton Kutcher’s Costliest Assets: From Vintage Cars To Million-Dollar Mansions – These Items Make His That ’70s Show Paychecks Look Like Pocket Money!",
+      "As Yeh Prem Mol Liya Is Ready To Arrive In Theaters – Here’s What Makes A Sooraj Barjatya Film A Sooraj Barjatya Film?",
+      "O.M Box Office: Dhanush delivers career-best advance with Rs 13.50 crore worldwide pre-sales for opening day",
+      "Inside PICS of Anirudh Ravichander and Kavya Maran’s Wedding: Composer calls Greece nuptials ‘favourite kind of magic’",
+      "Pinkvilla Predicts: Trailer update for Yeh Prem Mol Liya, Avengers Doomsday assembles sensational presales",
+      "Sreeleela EXCLUSIVE: O M actress spills tea on working with Dhanush, Mammootty and Sai Pallavi; ‘You feel the full weight…’",
+      "Vishal Bhardwaj on what sets Aryan apart from SRK: 'Expected him to carry some sense of entitlement'",
+      "Alia Bhatt says assumptionss that her marriage with Ranbir is unequal is 'offensive'",
+      "Aryan Khan calls SRK 'a beast' on being compared to him; says, 'I take it as a compliment'",
+      "In 2022, Adele bought Sylvester Stallone’s former residence; 4 years later the star has rebuilt the place",
+      "The Nightingale Footage Gives Us An Intense Look At Dakota And Elle Fanning As Sisters During WWII",
+      "Of Course, There Was A Pterodactyl Sighting The Same Year The End Of Oak Street Came Out",
+      "‘The Land Before Time’ Officially Returns With New Release as 40th Anniversary Nears",
+      "Spider-Noir Officially Returns After Prime Video Cancelled Nicolas Cage’s Series",
+      "The Spy Thriller That Inspired ‘Reacher’ Officially Sets 2027 Return With First Season 2 Footage",
+      "‘NCIS: New York’ Officially Gets a Special Sunday Episode Release",
+      "Billy Bob Thronton Officially Reunites With Ali Larter in New ‘Landman’ Season 3 set Images",
+      "Netflix Shocker: All 5 Seasons of Hit Original Viking Series Are Leaving Streaming Soon"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 420,
+     "detail": "433 stories, 0 duplicates removed, 21 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,27 +1464,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-19T14:58:06Z",
+    "run_id": "44548123972",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Mahaveer Jain Announces Epic Musical Drama Kabira Focusing on the Life of Sant Kabir",
+      "Vishal Bhardwaj Opens Up on Aryan Khan, Admits He Expected Entitlement",
+      "Alia Bhatt Slams Internet Speculation About Her Marriage to Ranbir Kapoor, Calling Unequal Relationship Claims Offensive",
+      "Sheridan Smith Investigates Her Own Crime in Teaser Trailer for ITV Thriller 'Two Birds'"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-18T15:55:17Z",
-    "run_id": "44340260432",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 367, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,35 +1903,27 @@
      "detail": "now 381, coming 8"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-19T14:58:06Z",
+    "run_id": "44548123972",
+    "status": "success",
+    "checked": {
+     "candidates": 389,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 381, coming 8"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-18T15:35:28Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "19n3ipj",
-      "1tfgzlo",
-      "k5ggdt",
-      "19blzq4",
-      "7spr66",
-      "u6q5rp",
-      "1ilvaza",
-      "qvfl28"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2412,27 +2386,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:34:50Z",
-    "run_id": "44328721362",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-19T15:03:08Z",
+    "run_id": "44548123972",
     "status": "success",
     "checked": {
-     "candidates": 707,
-     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2846,19 +2819,27 @@
      "detail": "+0 new rows, 3 updated rows, 691 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T15:03:06Z",
+    "run_id": "44548123972",
+    "status": "success",
+    "checked": {
+     "candidates": 718,
+     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 691 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3095,33 +3076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:35:27Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sharad Kapoor's Dire Condition Exposed by Friend, Claiming Actor Was 99 Percent Done",
-      "Dancing with the Stars Semi-Finals Shocker: Harry Shum Jr.'s Elimination and Glee Tribute Overshadowed by Background Antics",
-      "Ramayana Box Office: Ranbir Kapoor Starrer Nears Rs 1500 Crore Worldwide",
-      "Ramayana Hits 1,000 Crore Domestic Gross Milestone in 14 Days",
-      "Dastoor Episode 89 — Watch Online on Green TV"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3652,19 +3619,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-19T15:03:07Z",
+    "run_id": "44548123972",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Mahaveer Jain Announces Epic Musical Drama Kabira Focusing on the Life of Sant Kabir",
+      "Sheridan Smith Investigates Her Own Crime in Teaser Trailer for ITV Thriller 'Two Birds'",
+      "Vishal Bhardwaj Opens Up on Aryan Khan, Admits He Expected Entitlement",
+      "Alia Bhatt Slams Internet Speculation About Her Marriage to Ranbir Kapoor, Calling Unequal Relationship Claims Offensive"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3894,19 +3874,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4228,31 +4208,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:17:09Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 449 still unprocessed; today by category: movies 10/6, tv_dramas 12/4, episodes 0/2, box_office 11/6, celebrities_events 8/5, upcoming_releases 4/4, ott_streaming 7/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Sharad Kapoor's Dire Condition Exposed by Friend, Claiming Actor Was 99 Percent Done",
-      "Dancing with the Stars Semi-Finals Shocker: Harry Shum Jr.'s Elimination and Glee Tribute Overshadowed by Background Antics",
-      "Ramayana Box Office: Ranbir Kapoor Starrer Nears Rs 1500 Crore Worldwide",
-      "Ramayana Hits 1,000 Crore Domestic Gross Milestone in 14 Days"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4755,26 +4723,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-19T14:58:05Z",
+    "run_id": "44548123972",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "news queue items drafted this run; 420 still unprocessed; today by category: movies 13/6, tv_dramas 8/4, episodes 2/2, box_office 8/6, celebrities_events 10/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Mahaveer Jain Announces Epic Musical Drama Kabira Focusing on the Life of Sant Kabir",
+      "Vishal Bhardwaj Opens Up on Aryan Khan, Admits He Expected Entitlement",
+      "Alia Bhatt Slams Internet Speculation About Her Marriage to Ranbir Kapoor, Calling Unequal Relationship Claims Offensive",
+      "Sheridan Smith Investigates Her Own Crime in Teaser Trailer for ITV Thriller 'Two Birds'"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:18:41Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5081,19 +5054,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5373,19 +5346,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5705,19 +5678,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5967,19 +5940,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6214,19 +6187,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6510,19 +6483,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6763,19 +6736,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7005,19 +6978,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7266,6 +7239,16 @@
     "category": "Trending News",
     "run_at": "2026-11-19T14:27:12Z",
     "run_id": "44537472370",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7787,16 +7770,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-18T15:55:29Z",
     "run_id": "44340260432",
     "status": "skipped",
@@ -8033,19 +8006,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:35:36Z",
-    "run_id": "44328721362",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8275,8 +8248,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-19T15:03:16Z",
+    "run_id": "44548123972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-19T14:27:12Z"
+ "updated_at": "2026-11-19T15:03:16Z"
 }
