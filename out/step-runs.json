@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T16:51:06Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": {
-     "candidates": 414,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sachin Tyagi Wishes Deepa Shahi On Her Birthday, Praises The Values She Has Instilled In Her Family",
-      "Abhishek made tea on sets when Amitabh Bachchan faced bankruptcy",
-      "Naslen reveals Suriya gifted him a watch after ‘Scene’",
-      "Salman Khan’s Maatrubhumi gets CBFC clearance after months of delays, gets UA 16 rating",
-      "Bachelor Party D’eux trailer ‘unimpressive,’ but why Amal Neerad style still sells tickets?",
-      "Vijay Antony has not worn footwear since daughter Meera’s death in 2023, says wife Fatima: ‘For her’",
-      "Here’s what was served to Prince William at lunch at Dharma Productions",
-      "Yeh Prem Mol Liya trailer: Sooraj Barjatya tries to reverse patriarchy in Ayushmann-Sharvari film",
-      "Sreeleela returns with Dhanush’s Om, addresses Tollywood absence: ‘Doing medical internship’",
-      "Lara Dutta ‘proud’ of daughter’s tennis championship win: ‘Taller than me now’",
-      "Amitabh Bachchan’s pant’s belt broke during KBC shoot, actor reveals how he ‘saved’ the situation",
-      "Sonakshi Sinha mocks outrage over Rahul Gandhi’s ‘mom on papa’s lap’ remark: ‘Uncs losing it’",
-      "Rohit Roy’s daughter was approached for Archies, chose an Ivy League college; now set for debut",
-      "Vishwak Sen’s ENE Repeat producer started driving Uber in America while the film was being made",
-      "Koena Mitra was told ‘only prayers will work’ after nose job: ‘I didn’t hide anything’",
-      "Samantha Ruth Prabhu and Raj Nidimoru host puja ahead of baby’s arrival, share pics",
-      "Salman's 'na udo' advice for Sajid Nadiadwala's son Subhaan as he debuts in Bollywood",
-      "I Didn’t See The Royal Family Responding To The New Bond Coming (But I’m Glad Ian Fleming’s Estate Did)",
-      "Little Black Dresses Have Been Everywhere, But Alexandra Daddario Mixed Things Up In Gold",
-      "Bari Weiss Apparently ‘Arrived Like A Conquering Hero’ At CBS News. Why Things Reportedly Changed"
-     ],
-     "updated": [],
-     "count": 373,
-     "detail": "414 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-18T17:51:59Z",
     "run_id": "44363110020",
     "status": "success",
@@ -936,29 +897,48 @@
      "detail": "435 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T17:15:51Z",
-    "run_id": "44351868858",
+    "run_at": "2026-11-19T16:52:49Z",
+    "run_id": "44570622773",
     "status": "success",
     "checked": {
-     "candidates": 11,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 485,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Khafa Episode 30 Brings Fresh Drama and Surprises on Har Pal Geo"
+      "Panchayat 5 Twist EXCLUSIVE: What To Expect From Panchayat Season 5? Series To Release On...",
+      "Vishal Chaturvedi’s Hanuman Ansh Journey Earns Him Indian Of The Year 2026 Honour",
+      "Ramayana Worldwide Box Office Day 15 Prediction: Ranbir’s Film To Inch Close To 1550Cr Despite Another Dip",
+      "Kumar Sanu on reunites with Udit Narayan after 21 years for a song: 'Our friendship is very old'",
+      "Katie Price's sister has 'no sympathy' after 4th nose job; addresses weight loss",
+      "Ramayana box office collection day 15: Yash has a new winner in hand as film with Ranbir Kapoor takes over KGF Chapter 2 haul at  ₹861 crore",
+      "Marvel Fans Aren’t Holding Back After We Got Our First Look At One Doomsday Hero",
+      "Sunrise On The Reaping’s Whitney Peak Has Seen Your Unfettered Bird Dress Hot Takes, & Responded",
+      "7 Shows To Watch if You Love Netflix's 'The Body'",
+      "‘Only Murders in the Building’ Meets ‘Midsomer Murders’ in Acorn TV’s New 6-Part Mystery",
+      "‘The Night Agent’ Meets ‘Slow Horses’ in MGM+’s New 5-Part Spy Thriller",
+      "'Yellowjackets' Final Season Takes Too Long to Get to the Real Meat of Its Horror | Review",
+      "Robert Pattinson’s 007 Gets a Surprise Bond Girl Hopeful From WNBA",
+      "Popular Dinosaur Movie Franchise With Over 10 Sequels Returns in Impressive Fan-Made Trailer",
+      "Riley Keough & Aaron Paul Join Hit Netflix Thriller Show’s New Season Cast",
+      "Man of Tomorrow’s ‘Incredible’ Fight Scenes Teased by David Corenswet: ‘Really Up Their Game’",
+      "LeBron James Makes Major Legal Move Against App Using His Likeness",
+      "Superman’s David Corenswet Reveals the ‘Toughest’ Thing About Playing DCU Character",
+      "James Gunn’s Man of Tomorrow Reportedly Goes Darker & Teases Superman 3 With Cliffhanger",
+      "Dakota & Elle Fanning Battle Nazis in The Nightingale WWII Movie Trailer"
      ],
      "updated": [],
-     "count": 4,
-     "detail": "+1 articles, +0 box-office rows, 3 rows updated"
+     "count": 429,
+     "detail": "454 stories, 1 duplicates removed, 31 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,27 +1467,31 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-19T17:07:25Z",
+    "run_id": "44570622773",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Marvel Fans React Strongly to Nightcrawler's New Look in Avengers: Doomsday Posters",
+      "Kumar Sanu and Udit Narayan Reunite After 21 Years for ‘Suniyo Zara’",
+      "Acorn TV Greenlights Whimsical Crime Series 'The Seaside Mysteries' Starring Alex Jennings and Jack Davenport"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-18T17:53:55Z",
-    "run_id": "44363110020",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 367, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,35 +1905,27 @@
      "detail": "now 381, coming 8"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-19T17:07:25Z",
+    "run_id": "44570622773",
+    "status": "success",
+    "checked": {
+     "candidates": 389,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 381, coming 8"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-18T17:25:56Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1tfgzlo",
-      "19a32sa",
-      "7spr66",
-      "u6q5rp",
-      "ysh6sy",
-      "1x37hn2",
-      "1ilvaza",
-      "qvfl28"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2407,27 +2383,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T17:25:43Z",
-    "run_id": "44351868858",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-19T17:07:27Z",
+    "run_id": "44570622773",
     "status": "success",
     "checked": {
-     "candidates": 707,
-     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2841,19 +2816,27 @@
      "detail": "+0 new rows, 6 updated rows, 688 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T17:07:25Z",
+    "run_id": "44570622773",
+    "status": "success",
+    "checked": {
+     "candidates": 718,
+     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 691 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3090,31 +3073,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-18T17:25:56Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Khafa Episode 30 Brings Fresh Drama and Surprises on Har Pal Geo",
-      "Khushi Episode 67 — Watch Online on HUM TV",
-      "Uswah Episode 56 — Watch Online on Geo TV"
-     ],
-     "updated": [],
-     "count": 3,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3649,19 +3620,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-19T17:07:26Z",
+    "run_id": "44570622773",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Marvel Fans React Strongly to Nightcrawler's New Look in Avengers: Doomsday Posters",
+      "Acorn TV Greenlights Whimsical Crime Series 'The Seaside Mysteries' Starring Alex Jennings and Jack Davenport",
+      "Kumar Sanu and Udit Narayan Reunite After 21 Years for ‘Suniyo Zara’",
+      "Dhindora Season 2 Trailer Released Ahead of November 20 Premiere on Netflix"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3891,19 +3875,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4225,28 +4209,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-18T17:15:51Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "news queue items drafted this run; 373 still unprocessed; today by category: movies 10/6, tv_dramas 13/4, episodes 0/2, box_office 13/6, celebrities_events 9/5, upcoming_releases 4/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Khafa Episode 30 Brings Fresh Drama and Surprises on Har Pal Geo"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4752,26 +4727,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-19T17:07:24Z",
+    "run_id": "44570622773",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 429 still unprocessed; today by category: movies 15/6, tv_dramas 9/4, episodes 2/2, box_office 9/6, celebrities_events 11/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 3/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Marvel Fans React Strongly to Nightcrawler's New Look in Avengers: Doomsday Posters",
+      "Kumar Sanu and Udit Narayan Reunite After 21 Years for ‘Suniyo Zara’",
+      "Acorn TV Greenlights Whimsical Crime Series 'The Seaside Mysteries' Starring Alex Jennings and Jack Davenport"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-18T17:17:08Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5078,19 +5057,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5370,19 +5349,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5702,19 +5681,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5964,19 +5943,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6211,19 +6190,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6507,19 +6486,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6760,19 +6739,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7002,19 +6981,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7263,6 +7242,16 @@
     "category": "Trending News",
     "run_at": "2026-11-19T16:24:24Z",
     "run_id": "44559337497",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7784,16 +7773,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-18T17:54:08Z",
     "run_id": "44363110020",
     "status": "skipped",
@@ -8030,19 +8009,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-18T17:26:06Z",
-    "run_id": "44351868858",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8272,8 +8251,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-19T17:07:47Z",
+    "run_id": "44570622773",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-19T16:24:24Z"
+ "updated_at": "2026-11-19T17:07:47Z"
 }

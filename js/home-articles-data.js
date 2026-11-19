@@ -79,6 +79,100 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 19:07:48 +0200"
   },
+  "1ekuu23": {
+    "id": "1ekuu23",
+    "type": "news",
+    "headline": "Acorn TV Greenlights Whimsical Crime Series 'The Seaside Mysteries' Starring Alex Jennings and Jack Davenport",
+    "dek": "The streaming platform expands its mystery catalog with a new South African production blending cozy crime tropes and playful comedy.",
+    "entities": {
+      "people": [
+        "Alex Jennings",
+        "Jack Davenport",
+        "Don Klees",
+        "Darrel Bristow-Bovey",
+        "Stephen Moyer",
+        "Nina Singh"
+      ],
+      "titles": [
+        "The Seaside Mysteries",
+        "Art Detectives",
+        "The Crown",
+        "This Is Going to Hurt",
+        "The Morning Show",
+        "Pirates of the Caribbean",
+        "White Lies",
+        "True Blood"
+      ]
+    },
+    "keywords": [
+      "The Seaside Mysteries",
+      "Alex Jennings",
+      "Jack Davenport",
+      "Acorn TV",
+      "Art Detectives"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/acorntv-logo.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Acorn TV Greenlights Whimsical Crime Series 'The Seaside Mysteries' Starring Alex Jennings and Jack Davenport",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 16:35:56 GMT"
+  },
+  "z1zxb": {
+    "id": "z1zxb",
+    "type": "news",
+    "headline": "Marvel Fans React Strongly to Nightcrawler's New Look in Avengers: Doomsday Posters",
+    "dek": "The latest promotional material for Avengers: Doomsday has unveiled a fresh look at Alan Cumming returning as Nightcrawler, prompting a wave of mixed reactions and memes from the fanbase.",
+    "entities": {
+      "people": [
+        "Alan Cumming",
+        "Gene Wilder",
+        "Steve Buscemi",
+        "Jennifer Lawrence",
+        "Rebecca Romijn",
+        "Kevin Feige",
+        "Tom Holland",
+        "Anthony Mackie",
+        "Robert Downey Jr.",
+        "Whitney Peak",
+        "Dakota Fanning",
+        "Elle Fanning",
+        "Robert Pattinson",
+        "Nic Cage",
+        "Christian Bale",
+        "Anne Hathaway",
+        "Taylor Swift",
+        "Matt Damon"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "X-2",
+        "Dark Phoenix",
+        "30 Rock",
+        "Sunrise On The Reaping",
+        "The Nightingale",
+        "The Devil Wears Prada 2",
+        "Survivor",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Alan Cumming Nightcrawler",
+      "Nightcrawler Doomsday design",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/t9LkMMfGx4ZuJJ6ZowBFJR-2000-80.jpg",
+        "caption": "Marvel Fans React Strongly to Nightcrawler's New Look in Avengers: Doomsday Posters",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 16:33:36 +0000"
+  },
   "ham6mf": {
     "id": "ham6mf",
     "type": "news",
@@ -171,6 +265,38 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 21:14:51 +0530"
+  },
+  "ilh0wv": {
+    "id": "ilh0wv",
+    "type": "news",
+    "headline": "Kumar Sanu and Udit Narayan Reunite After 21 Years for ‘Suniyo Zara’",
+    "dek": "Veteran playback singers Kumar Sanu and Udit Narayan have collaborated again after more than two decades for a new Hindi film track.",
+    "entities": {
+      "people": [
+        "Kumar Sanu",
+        "Udit Narayan",
+        "Pakul"
+      ],
+      "titles": [
+        "Suniyo Zara",
+        "Suryaa: Ant Se Aarambh Tak",
+        "Tera Mera Yaarana"
+      ]
+    },
+    "keywords": [
+      "Kumar Sanu Udit Narayan Suniyo Zara",
+      "Suryaa Ant Se Aarambh Tak film song",
+      "Kumar Sanu Udit Narayan reunion",
+      "Tera Mera Yaarana YouTube song"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135997111,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Kumar Sanu and Udit Narayan Reunite After 21 Years for ‘Suniyo Zara’",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T20:56:41+05:30"
   },
   "1f0ck8v": {
     "id": "1f0ck8v",
@@ -4722,160 +4848,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 11:00:09 +0000"
-  },
-  "qshvge": {
-    "id": "qshvge",
-    "type": "news",
-    "headline": "Shah Rukh Khan's Action Spectacle King Generates Massive Pre-Release Buzz Ahead of Christmas Arrival",
-    "dek": "Superstar Shah Rukh Khan is returning to the silver screen after a three-year hiatus with the upcoming action entertainer King, slated for a December 24, 2026 theatrical debut.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Siddharth Anand",
-        "Deepika Padukone",
-        "Arijit Singh",
-        "Ed Sheeran",
-        "Sachin-Jigar",
-        "Suhana Khan",
-        "Abhishek Bachchan",
-        "Rani Mukerji"
-      ],
-      "titles": [
-        "King",
-        "Tu Mil Jaaye",
-        "Pathaan",
-        "Jawan",
-        "Avengers: Doomsday",
-        "Dune: Part Three"
-      ]
-    },
-    "keywords": [
-      "King film",
-      "Shah Rukh Khan King",
-      "Siddharth Anand King",
-      "Tu Mil Jaaye song"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028613.jpg",
-        "caption": "Shah Rukh Khan's Action Spectacle King Generates Massive Pre-Release Buzz Ahead of Christmas Arrival",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 10:58:05 +0000"
-  },
-  "ebc1ta": {
-    "id": "ebc1ta",
-    "type": "news",
-    "headline": "Unforgotten Season 7 First-Look Trailer Teases Emotional Territory for Jess and Sunny",
-    "dek": "ITV has revealed a first-look trailer for Unforgotten season 7, confirming a 2027 release date and announcing a star-studded cast addition.",
-    "entities": {
-      "people": [
-        "David Craig",
-        "Sophie Rundle",
-        "Kirsty J Curtis",
-        "Julian Rhind-Tutt",
-        "Natalie Simpson",
-        "Jessica 'Jess' James",
-        "Sunny Khan",
-        "Sinéad Keenan",
-        "Sanjeev Bhaskar",
-        "Jordan Long",
-        "Carolina Main",
-        "Pippa Nixon",
-        "Georgia Mackenzie",
-        "Leanne Balcombe",
-        "Paul Kaye",
-        "Jo Hartley",
-        "Paula Wilcox",
-        "Susan Hampshire",
-        "Philip Martin Brown",
-        "Andrew Lancel",
-        "Steve",
-        "Kate Robbins",
-        "Kate",
-        "Chris Lang",
-        "Andy Wilson",
-        "Gerry Cooper",
-        "Mary Brock",
-        "Lacee Cook",
-        "Hugh Swafham",
-        "Ruby Allenford",
-        "Murray Boulting",
-        "Fran Lingley",
-        "Kaz Willets"
-      ],
-      "titles": [
-        "Unforgotten",
-        "Peaky Blinders",
-        "The Winter King Podcast",
-        "High School Musical"
-      ]
-    },
-    "keywords": [
-      "Unforgotten season 7",
-      "Unforgotten trailer ITV",
-      "Sophie Rundle Unforgotten",
-      "Jess and Sunny Unforgotten"
-    ],
-    "images": [
-      {
-        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/unforgotten-sanjeev-sinead-season-7-c7d07c7.jpg?resize=1200%2C630",
-        "caption": "Unforgotten Season 7 First-Look Trailer Teases Emotional Territory for Jess and Sunny",
-        "source": "Radio Times"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 10:45:10 GMT"
-  },
-  "1o3iobz": {
-    "id": "1o3iobz",
-    "type": "news",
-    "headline": "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
-    "dek": "Renowned actress Tabu has signed on for her first Hindi original streaming project, starring in YRF Entertainment's upcoming fictionalised drama inspired by real-life survival efforts.",
-    "entities": {
-      "people": [
-        "Tabu",
-        "Shiv Rawail",
-        "Saugata Mukherjee",
-        "Akshaye Widhani",
-        "Mira Nair",
-        "Ashima Ganguli",
-        "Ang Lee"
-      ],
-      "titles": [
-        "Tunnel Men",
-        "Maachis",
-        "Chandni Bar",
-        "Maqbool",
-        "Haider",
-        "Andhadhun",
-        "The Namesake",
-        "Life of Pi",
-        "Dune: Prophecy",
-        "The Railway Men",
-        "Scam 1992",
-        "Maharani",
-        "Tabbar",
-        "Rocket Boys",
-        "Aarya",
-        "Real Kashmir Football Club",
-        "The Romantics"
-      ]
-    },
-    "keywords": [
-      "Tabu Tunnel Men",
-      "YRF Entertainment Netflix series",
-      "Uttarakhand tunnel rescue show",
-      "Shiv Rawail Tunnel Men"
-    ],
-    "images": [
-      {
-        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-12.00.jpg.jpeg",
-        "caption": "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
-        "source": "Bollywood Hungama"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 12:07:59 +0200"
   },
   "1wit30w": {
     "id": "1wit30w",
