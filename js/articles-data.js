@@ -191131,5 +191131,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 11:25:28 GMT"
+  },
+  "1y29syh": {
+    "id": "1y29syh",
+    "type": "news",
+    "headline": "Ramayana Hits Rs 1500 Crore Worldwide in 14 Days and Sets Twelve Records",
+    "dek": "Nitesh Tiwari's mythological epic starring Ranbir Kapoor, Sai Pallavi and Yash has achieved unprecedented box office milestones globally within two weeks of release.",
+    "body": [
+      {
+        "h": "Introduction to the Phenomenon",
+        "p": [
+          "Fourteen days after its theatrical debut, the mythological epic Ramayana: Rise of Legend has established a dominating presence across global box offices. Directed by Nitesh Tiwari, the movie features prominent lead performances from Ranbir Kapoor, Sai Pallavi and Yash, capturing widespread attention from audiences and industry analysts alike."
+        ]
+      },
+      {
+        "h": "Unprecedented Global and Domestic Collections",
+        "p": [
+          "The feature has accumulated a massive worldwide gross of Rs 1,519.05 crore. Furthermore, its domestic earnings have successfully cleared the Rs 1,000-crore threshold, placing it among a very exclusive group of Indian productions to achieve this domestic milestone."
+        ]
+      },
+      {
+        "h": "Unmatched Pace to Major Milestones",
+        "p": [
+          "Ramayana reached the Rs 1,500-crore milestone faster than any other domestic competitor, completing the run in just 14 days. It outpaced previous cinematic blockbusters including Dhurandhar 2, Pushpa 2, Baahubali 2 and Dangal in terms of speed to this financial target."
+        ]
+      },
+      {
+        "h": "Milestones for Cast and Crew",
+        "p": [
+          "The project has successfully secured career-best opening numbers for its main creative team. Ranbir Kapoor surpassed his previous best with a net opening day collection of Rs 64.85 crore, while Sai Pallavi and Nitesh Tiwari also eclipsed their former opening records."
+        ]
+      },
+      {
+        "h": "Domination Across Southern Markets",
+        "p": [
+          "In a rare feat for a Bollywood-origin project, the film cleared individual gross collections of Rs 50 crore across all four major southern territories. The threshold was finalized when its Tamil Nadu earnings crossed the Rs 50-crore mark on its fourteenth day."
+        ]
+      },
+      {
+        "h": "International and IMAX Records",
+        "p": [
+          "The title crossed $25 million in North America, establishing itself firmly in overseas territories. Additionally, its worldwide IMAX debut generated approximately $6 million, setting a new international record for Indian productions."
+        ]
+      },
+      {
+        "h": "Sustained Momentum and Future Targets",
+        "p": [
+          "Digital ticketing platforms like BookMyShow witnessed record-breaking rushes, including selling roughly 16.60 lakh tickets in a single day. The project is currently eyeing the lifetime collection record held by Pushpa 2 as its next major target."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has grossed Rs 1,519.05 crore worldwide in just 14 days, setting twelve major exhibition and box office records. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi and Yash, the film has crossed Rs 1,000 crore domestically and established new benchmarks across multiple regional and international territories."
+        ]
+      }
+    ],
+    "facts": [
+      "Rs 1,519.05 crore worldwide gross",
+      "14 days to reach Rs 1,500 crore",
+      "Rs 64.85 crore nett opening day",
+      "16.60 lakh tickets sold on BookMyShow in a single day",
+      "November 19, 2026 release coverage date"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Rise of Legend",
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Dangal",
+        "Animal",
+        "Amaran",
+        "KGF: Chapter 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Nitesh Tiwari Ramayana movie",
+      "Sai Pallavi Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/rs-1-500-crore--14-days-and-12-solid-records-ramayana-leaves-indian-cinema-stunned-193040183-16x9_0.jpg?VersionId=uCErPcFzMY1dlS8JQmDH3Za.4k.Hn8_c",
+        "caption": "Ramayana Hits Rs 1500 Crore Worldwide in 14 Days and Sets Twelve Records",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 19:01:41 +0530"
+  },
+  "8y4qlr": {
+    "id": "8y4qlr",
+    "type": "news",
+    "headline": "Blumhouse Atomic Faces Scrutiny Over Entirely Male 2027 Theatrical Horror Slate",
+    "dek": "During their recent press conference, studio executives confirmed that zero women are slated to direct nationwide theatrical releases for the company in 2027.",
+    "body": [
+      {
+        "h": "The 2027 Theatrical Slate Reveal",
+        "p": [
+          "During the recent Business of Fear press conference, the merged and renamed studio Blumhouse Atomic shared details regarding its upcoming theatrical schedule. The company announced that it has scheduled 10 movies for nationwide release throughout 2027. Among these titles, six are entirely original concepts while four belong to established franchises. Furthermore, seven of these upcoming projects are helmed by emerging voices whom the studio has brought on board.",
+          "However, when questioned directly about the demographic makeup of these filmmakers, studio founder Jason Blum confirmed that none of the chosen directors for the 2027 theatrical slate are women. While defending the studio's broader creative outreach, Blum acknowledged that female filmmakers simply did not land on the schedule for that specific year, despite ongoing efforts to reflect the company's overall viewing audience."
+        ]
+      },
+      {
+        "h": "Executive Responses and Panel Dynamics",
+        "p": [
+          "The discussion surrounding the lack of female directors highlighted broader representation questions within the studio's leadership panels. While Blum defended the studio's commitment to inclusive casting and hiring, other executives on stage offered little additional expansion on the 2027 scheduling disparity. Panel discussions predominantly featured male directors and studio presidents, leaving television president Melissa Aouate as the sole woman present across the day's conversations.",
+          "In a subsequent statement, Aouate emphasized that the company takes industry-wide contractions in opportunities for women very seriously. She pointed to prominent female creators working across the brand, such as showrunner Liz Sarnoff on Scarpetta and franchise director Emma Tammi, while admitting that both the company and the wider entertainment industry still have considerable progress to make."
+        ]
+      },
+      {
+        "h": "Historical Theatrical vs. Streaming Disparities",
+        "p": [
+          "A closer examination of the studio's recent release history reveals a distinct split between theatrical distributions and streaming projects. Data compiled from features released in at least 600 U.S. theaters between 2021 and 2025 shows that Emma Tammi remained the sole woman to direct a theatrical release for the company during that five-year span. Her work on the massively profitable Five Nights at Freddy's and its sequel demonstrated huge financial returns against their modest production budgets.",
+          "Conversely, opportunities for women have proven substantially more prevalent in digital and streaming formats. Over the same five-year period, female directors or co-directors helmed roughly 41 percent of features that debuted via streaming, premium television, or digital-on-demand platforms without a traditional theatrical run, highlighting a persistent pipeline divide between home viewing and the big screen."
+        ]
+      },
+      {
+        "h": "The Rise of Indie Horror and Online Scouting",
+        "p": [
+          "Studio executives also used the press conference to celebrate the booming success of independent horror and digital creators. Projects like Curry Barker's indie hit and Kane Parsons' YouTube-inspired feature adaptation achieved massive worldwide box office earnings, vastly outperforming traditional studio expectations. Blum and Atomic Monster president Michael Clear praised these young filmmakers for their innate ability to read audiences and craft genuine scares.",
+          "To find fresh talent, studio representatives noted they look beyond traditional channels into online spaces, horror shorts, and writing labs. Recent initiatives include a development deal struck with TikTok horror storyteller Heidi Wong, demonstrating that the company actively scouts digital creators even as questions linger about translating those partnerships into theatrical features."
+        ]
+      },
+      {
+        "h": "Industry Context and Past Commentary",
+        "p": [
+          "The current discussion arrives years after similar scrutiny faced by the studio regarding gender representation in horror. Past research examining decades of theatrical horror releases showed that women historically accounted for a very small fraction of directors getting films into major theaters. This systemic gap extends across the entire film industry, where reports like San Diego State University's Celluloid Ceiling study point to declining percentages of female directors among top-grossing domestic films.",
+          "While studio representatives emphasize that women heavily influence development, creative leadership, and franchise management behind the scenes, the complete absence of female directors on the upcoming 2027 theatrical slate suggests that scheduling coincidence cannot fully explain a deeply ingrained industry trend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Blumhouse Atomic confirmed that its upcoming 2027 theatrical horror slate features zero female directors among its ten nationwide releases, despite studio leadership asserting a commitment to diverse representation. While women have found significantly higher directing opportunities in the studio's streaming and digital projects, historical data and recent panel discussions underscore the ongoing barriers female filmmakers face in securing theatrical releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Jason Blum founded Blumhouse and serves as CEO.",
+      "Blumhouse Atomic scheduled 10 movies to open nationwide in 2027.",
+      "Emma Tammi directed Five Nights at Freddy's in 2023 and its 2025 sequel.",
+      "The first Five Nights at Freddy's earned nearly $300 million worldwide on a $20 million budget.",
+      "Five Nights at Freddy's 2 brought in $240 million against a $51 million budget.",
+      "Curry Barker directed an indie feature that surpassed $500 million worldwide.",
+      "Kane Parsons directed a feature adaptation of his YouTube series that earned $400 million.",
+      "Heidi Wong and Blum announced a deal to develop short films together at New York Comic Con."
+    ],
+    "entities": {
+      "people": [
+        "Jason Blum",
+        "James Wan",
+        "Abhijay Prakash",
+        "Melissa Aouate",
+        "Liz Sarnoff",
+        "Cynthia Childs",
+        "Emma Tammi",
+        "Yoko Okumura",
+        "Kate Dolan",
+        "Gary Dauberman",
+        "Michael Clear",
+        "Mike P. Nelson",
+        "Drew Hancock",
+        "Curry Barker",
+        "Kane Parsons",
+        "Heidi Wong",
+        "Stephen Follows"
+      ],
+      "titles": [
+        "Scarpetta",
+        "Worst Ever",
+        "Five Nights at Freddy's",
+        "Five Nights at Freddy's 2",
+        "The Last Kiss",
+        "SOULM8TE",
+        "Coin Operated",
+        "Seasons",
+        "Obsession",
+        "Backrooms",
+        "Anything but Ghosts"
+      ]
+    },
+    "keywords": [
+      "Blumhouse Atomic 2027 slate",
+      "Jason Blum horror directors",
+      "women directors Blumhouse",
+      "Five Nights at Freddy's Emma Tammi"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/11/img_7774_1024_a30a59.jpg?w=650",
+        "caption": "Blumhouse Atomic Faces Scrutiny Over Entirely Male 2027 Theatrical Horror Slate",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 13:30:00 +0000"
+  },
+  "171bwbm": {
+    "id": "171bwbm",
+    "type": "news",
+    "headline": "Mumbai's Iconic Gaiety-Galaxy Reopens After 74 Days Just Ahead of 54th Anniversary With Full Week Schedule Revealed",
+    "dek": "Mumbai's legendary cinema complex G7 multiplex, popularly known as Gaiety-Galaxy, has ended its 74-day closure and is set to welcome moviegoers back just days before its milestone anniversary.",
+    "body": [
+      {
+        "h": "The End of a Lengthy Shutdown",
+        "p": [
+          "Mumbai's legendary G7 multiplex, universally celebrated as Gaiety-Galaxy, is finally preparing to throw its doors open once again following a lengthy hiatus. Having remained completely shuttered since September 7, the renowned cinema complex faced an unexpected administrative hurdle centered around licence renewals that stretched far beyond initial expectations. What was anticipated to be a minor administrative pause instead dragged on for more than two months, leaving cinephiles across the city anxious about the future of their beloved landmark.",
+          "The protracted closure generated widespread concern among regular patrons and industry observers alike. Because Gaiety-Galaxy holds a special place in the hearts of Hindi film enthusiasts, the continuous delay in resolving the operational permits felt like a significant blow to the local theatergoing culture. However, the prolonged uncertainty has officially come to an end, paving the way for a triumphant return to normal business operations."
+        ]
+      },
+      {
+        "h": "Confirmation From Industry Insiders",
+        "p": [
+          "The breakthrough news regarding the reopening was officially shared by Digvijay Jinde, the prominent creator behind the popular YouTube channel Bollywood Premee. Confirming the development, Jinde expressed immense relief and joy, noting that the management had successfully cleared the final hurdles to resume operations and that advance bookings for the upcoming shows had already commenced.",
+          "Jinde's emotional reaction reflects the deep connection that people share with the venue. For countless fans and local film buffs, the temporary shutdown was an upsetting ordeal rather than a mere commercial inconvenience. The confirmation that screenings would restart brought an overwhelming sense of celebration to the community."
+        ]
+      },
+      {
+        "h": "A Landmark of Cinematic History",
+        "p": [
+          "For decades, Gaiety-Galaxy has transcended its physical status as a mere collection of screens to become an integral chapter of Mumbai's rich cinematic tapestry. It is traditionally viewed as a cultural temple where films are not simply watched passively, but experienced, cheered for, and celebrated with unmatched fervor by passionate audiences.",
+          "The venue has historically served as a critical barometer for how mainstream commercial movies connect with true masses. Its unique environment captures the raw, unfiltered pulse of Indian cinema culture, making any disruption to its daily functioning a matter of major public interest."
+        ]
+      },
+      {
+        "h": "Comprehensive Screening Schedule Revealed",
+        "p": [
+          "With operations officially resuming, the management has rolled out an extensive lineup of films across the various auditoriums within the complex. The primary Gaiety screen is slated to showcase Ramayana multiple times throughout the day, while the Galaxy auditorium will run the Hindi version of OM: Operation Mole across several scheduled time slots.",
+          "Other screens within the G7 complex are equally packed with diverse programming. Gemini will feature Rajini: The Jailer 2, the compact Gossip auditorium has slotted in Drishyam The Conclusion alongside Kaali Kheti, and screens like Gem and Glamour will feature a mix of regional Marathi releases and alternative titles such as Nanhe Dil, Jijai, Obsess, Udta Teer, The Vvaan, Bandhu, Maitreyaa, and Party Animals."
+        ]
+      },
+      {
+        "h": "Financial Strains and Employee Support",
+        "p": [
+          "The staggering 74-day closure undoubtedly imposed severe financial pressures on the leadership and management of the iconic complex. Maintaining a massive property without ticket sales or operating revenue for over two months creates immense economic strain under normal circumstances.",
+          "Despite these daunting financial challenges, executive director Manoj Desai ensured that staff welfare remained a top priority. Reports confirmed that Desai continued to disburse salaries to all employees throughout the shutdown period, safeguarding the workforce from financial hardship while the administrative issues were being resolved."
+        ]
+      },
+      {
+        "h": "Approaching a Historic Milestone",
+        "p": [
+          "The timing of the reopening adds an extra layer of emotional significance for the historic theatre. Originally inaugurated on November 24, 1972, the complex is set to resume screenings just four days prior to celebrating its remarkable 54th anniversary.",
+          "Reopening on the cusp of more than five decades of continuous service makes this operational comeback particularly poignant. Having witnessed the evolution, triumphs, and celebrations of Hindi cinema for over fifty years, the venue reaches this milestone anniversary with its legacy fully intact."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mumbai's iconic Gaiety-Galaxy cinema complex is finally reopening after being shut for 74 days due to licence renewal issues. Executive director Manoj Desai ensured employees were paid during the closure, and the venue will resume screenings just days before its 54th anniversary."
+        ]
+      }
+    ],
+    "facts": [
+      "Gaiety-Galaxy has been shut since September 7",
+      "The closure lasted a staggering 74 days",
+      "The theatre resumes operations from November 20",
+      "Gaiety-Galaxy was inaugurated on November 24, 1972",
+      "The theatre is reopening just four days before its 54th anniversary",
+      "Executive director Manoj Desai continued to pay salaries to the employees during the shutdown"
+    ],
+    "entities": {
+      "people": [
+        "Digvijay Jinde",
+        "Manoj Desai"
+      ],
+      "titles": [
+        "Ramayana",
+        "OM: Operation Mole",
+        "Rajini: The Jailer 2",
+        "Kaali Kheti",
+        "Drishyam The Conclusion",
+        "Nanhe Dil",
+        "Jijai",
+        "Obsess",
+        "Udta Teer",
+        "The Vvaan",
+        "Bandhu",
+        "Maitreyaa",
+        "Party Animals"
+      ]
+    },
+    "keywords": [
+      "Gaiety Galaxy reopening",
+      "G7 multiplex Mumbai",
+      "Manoj Desai Gaiety Galaxy",
+      "Digvijay Jinde Bollywood Premee"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/MEGA-EXCLUSIVE-Mumbais-iconic-Gaiety-Galaxy-FINALLY-reopens-after-74-days-just-4-days-before-its-54th-anniversary-full-film-schedule-for-the-week-REVEALED.jpeg",
+        "caption": "Mumbai's Iconic Gaiety-Galaxy Reopens After 74 Days Just Ahead of 54th Anniversary With Full Week Schedule Revealed",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 19:07:48 +0200"
+  },
+  "c5ud8d": {
+    "id": "c5ud8d",
+    "type": "news",
+    "headline": "Anirudh Ravichander Celebrates One Week of Marriage to Kavya Maran Following Greek Wedding Concert",
+    "dek": "Music composer Anirudh Ravichander shares affectionate inside photos and a video from his November 11 wedding to businesswoman Kavya Maran in Greece, featuring a live concert for guests.",
+    "body": [
+      {
+        "h": "The Greek Wedding Ceremony",
+        "p": [
+          "Music composer Anirudh Ravichander and businesswoman Kavya Maran tied the knot during a self-respect wedding ceremony held in Greece on November 11. The celebration took place at the Four Seasons Astir Palace Hotel Athens, surrounded by their loved ones.",
+          "Pre-wedding festivities officially commenced on November 10, leading up to the main ceremony a day later. The couple celebrated their union with family and friends before hosting further events."
+        ]
+      },
+      {
+        "h": "Sharing Special Moments Online",
+        "p": [
+          "Marking one week of marriage, Anirudh took to Instagram and X to post affectionate photos and a video capturing moments from the destination wedding. He captioned an Instagram post with a heart emoji, calling it his favorite kind of magic.",
+          "The shared media included a video set to his 2016 song Avalukena. The visuals showcased joyful moments, including Kavya smiling as the composer hugged her from behind and later locked eyes with her."
+        ]
+      },
+      {
+        "h": "Concert and Reception Highlights",
+        "p": [
+          "Among the highlights of the celebration was a specially organized concert where Anirudh performed on stage for his bride and guests. Kavya even joined him for part of the performance.",
+          "Photographs from the festivities also revealed a Greek-themed wedding bash where attendees dressed in white and gold. Family members, including Anirudh's uncle Rajinikanth, were spotted walking down the aisle and clapping for the couple."
+        ]
+      },
+      {
+        "h": "Prior Rumors and Confirmation",
+        "p": [
+          "While rumors of a relationship and impending wedding surfaced in 2025, they were initially dismissed by the composer. Speculation grew after his uncle Y Gee Mahendran hinted at an upcoming family wedding, and the duo attended a screening of Jailer 2 together.",
+          "The news was effectively confirmed in October when Telangana chief minister Revanth Reddy leaked details of the nuptials. Following that disclosure, Kavya's parents, Kalanithi Maran and Kavery Maran, personally extended invitations to prominent celebrities and political leaders, announcing a subsequent reception in Chennai on November 21."
+        ]
+      },
+      {
+        "h": "Anirudh Ravichander's Musical Lineup",
+        "p": [
+          "Anirudh has maintained a busy schedule with numerous musical projects across Tamil and Telugu cinema. His recent work includes compositions for Love Insurance Kompany, Jana Nayagan, DC, Jailer 2, and The Paradise.",
+          "Looking ahead, his upcoming slate features Indian 3, Dharman, Arasan, Dare Devil, and Sandiyar, alongside high-profile collaborations with stars like Allu Arjun, Kamal Haasan, Rajinikanth, Jr NTR, and Ram Charan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander and businesswoman Kavya Maran married in Greece on November 11 and celebrated their one-week anniversary by sharing pictures of their wedding concert and celebrations. Following earlier leaks by political figures and invitations from Kavya's parents, the couple's wedding festivities concluded ahead of a planned Chennai reception."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander and Kavya Maran married on November 11, 2026",
+      "The wedding took place at the Four Seasons Astir Palace Hotel Athens in Greece",
+      "Pre-wedding celebrations started on November 10, 2026",
+      "A wedding reception in Chennai was scheduled for November 21, 2026",
+      "Telangana chief minister Revanth Reddy leaked news of the wedding in October 2026",
+      "Anirudh's 2016 song is titled Avalukena"
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Rajinikanth",
+        "Y Gee Mahendran",
+        "Revanth Reddy",
+        "Kalanithi Maran",
+        "Kavery Maran",
+        "Allu Arjun",
+        "Lokesh Kanagaraj",
+        "Kamal Haasan",
+        "Nelson Dilipkumar",
+        "Jr NTR",
+        "Trivikram Srinivas",
+        "Ram Charan",
+        "Sukumar",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Avalukena",
+        "Jailer 2",
+        "Love Insurance Kompany",
+        "Jana Nayagan",
+        "DC",
+        "The Paradise",
+        "Indian 3",
+        "Dharman",
+        "Arasan",
+        "Dare Devil",
+        "Sandiyar"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander Kavya Maran wedding",
+      "Anirudh Ravichander Greek wedding concert",
+      "Kavya Maran marriage",
+      "Anirudh Ravichander news"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Anirudh_Ravichander_Kavya_Maran_1795091542825_H5Ao_1795091542973_xcSL_0a2bb3ca-0a8e-45b7-9178-1ccfc6c563ae_iKu5.jpg",
+        "caption": "Anirudh Ravichander Celebrates One Week of Marriage to Kavya Maran Following Greek Wedding Concert",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 18:48:04 +0530"
   }
 };
