@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T15:52:03Z",
-    "run_id": "44340260432",
-    "status": "success",
-    "checked": {
-     "candidates": 432,
-     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sachin Tyagi Wishes Deepa Shahi On Her Birthday, Praises The Values She Has Instilled In Her Family",
-      "OM Kerala Advance Booking: Dhanush And Mammootty's Film Surpasses Raayan In Day 1 Pre-Sales",
-      "Box Office: Has Ramayana Already Recovered 100% Of Its Budget? [Fact Check]",
-      "Abhishek made tea on sets when Amitabh Bachchan faced bankruptcy",
-      "‘Yeh Prem Mol Liya’ trailer out now",
-      "Rajkumar Periasamy reveals Mammootty's unique preparation for 'O.M'",
-      "Naslen reveals Suriya gifted him a watch after ‘Scene’",
-      "Dhanush-starrer OM gets U/A certificate; actor thanks Chief Minister Vijay for approval of 6 am shows across Tamil Nadu",
-      "Ranveer Singh’s Pralay will be a ‘spectacle’, declares producer Ananya Birla",
-      "Salman Khan’s Maatrubhumi gets CBFC clearance after months of delays, gets UA 16 rating",
-      "Bachelor Party D’eux trailer ‘unimpressive,’ but why Amal Neerad style still sells tickets?",
-      "Vijay Antony has not worn footwear since daughter Meera’s death in 2023, says wife Fatima: ‘For her’",
-      "Here’s what was served to Prince William at lunch at Dharma Productions",
-      "Yeh Prem Mol Liya trailer: Sooraj Barjatya tries to reverse patriarchy in Ayushmann-Sharvari film",
-      "Sreeleela returns with Dhanush’s Om, addresses Tollywood absence: ‘Doing medical internship’",
-      "Lara Dutta ‘proud’ of daughter’s tennis championship win: ‘Taller than me now’",
-      "Amitabh Bachchan’s pant’s belt broke during KBC shoot, actor reveals how he ‘saved’ the situation",
-      "Sonakshi Sinha mocks outrage over Rahul Gandhi’s ‘mom on papa’s lap’ remark: ‘Uncs losing it’",
-      "Rohit Roy’s daughter was approached for Archies, chose an Ivy League college; now set for debut",
-      "Vishwak Sen’s ENE Repeat producer started driving Uber in America while the film was being made"
-     ],
-     "updated": [],
-     "count": 414,
-     "detail": "424 stories, 0 duplicates removed, 8 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-18T16:51:06Z",
     "run_id": "44351868858",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "433 stories, 0 duplicates removed, 21 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T15:55:17Z",
-    "run_id": "44340260432",
+    "run_at": "2026-11-19T15:51:48Z",
+    "run_id": "44559337497",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 446,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Has Ramayana Recovered 100% Of Its Budget? Examining The Numbers Behind The Mythological Epic",
-      "The 'Yeh Prem Mol Liya' trailer: Ayushmann Khurrana and Sharvari's film showcases a new-age love story with changing traditions",
-      "Dhanush Starrer O.M - Operation Mole Shatters Kerala Advance Booking Records Ahead Of Worldwide Release",
-      "Ananya Birla Teases Ranveer Singh's Pralay as a 'Spectacle' on Koffee With Karan"
+      "Aakasamlo Oka Tara Premiere Show Twitter Review: What Early Audiences Are Saying About Dulquer Salmaan's Film",
+      "Bachelor Party D'eux Vs ENE Repeat Collection Day 1 Early Updates: Naslen Vs Vishwak; WHO's Leading?",
+      "Arjun Sarja files complaint against those spreading ‘derogatory allegations’ about daughter Aishwarya, her marriage to Umapathy Ramaiah",
+      "Aryan Khan calls Shah Rukh Khan a ‘beast’, says he takes comparisons with father as a compliment",
+      "Need to get things right: Keerthy Suresh hits back at troll explaining Mysskin clip",
+      "Salman brings quirky moves to Madirapan song, fans spot Jag Ghoomeya vibe",
+      "How To Watch The Odyssey Online And Stream Matt Damon Blockbuster From Anywhere",
+      "I’m Glad People Are Out There Asking Rumored Bond Girls How They'd Feel About Joining Robert Pattinson",
+      "The Obvious Problem With Survivor’s Coin Flip Isn’t Even My Biggest Problem With It",
+      "'Widow's Bay' and 'The Lowdown' Stars Reunite on New Episode of Ethan Hawke's 9-Part Horror Series",
+      "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+      "John Travolta Rejects Two Face/Off 2 Scripts Over One Big Flaw",
+      "Melissa George’s New Detective Show Dives Into Loch Ness Mysteries",
+      "The Social Reckoning Sets Digital & Blu-ray Release Dates, View Exclusive Clip",
+      "Eddie Redmayne Returns in 'The Day of the Jackal' Season 2 Teaser",
+      "Andrew Scott Gives One of the Year's Best Performances in a True Story That's Too Safe | Review",
+      "Elle & Dakota Fanning Join Forces for the First Time in New War Thriller Trailer",
+      "HBO's 'Harry Potter' Officially Reveals New Elder Wand in Hogwarts-Centric First Look",
+      "6 Smartest Netflix Sci-Fi Time Travel TV Shows",
+      "12 Best Far Side Comics About Dogs"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 411,
+     "detail": "435 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,27 +1464,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-19T16:17:14Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+      "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+      "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+      "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-18T17:15:52Z",
-    "run_id": "44351868858",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 367, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,26 +1903,27 @@
      "detail": "now 381, coming 8"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-18T15:55:18Z",
-    "run_id": "44340260432",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-19T16:17:14Z",
+    "run_id": "44559337497",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 389,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 381, coming 8"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2403,27 +2386,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-19T16:24:16Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1k985n5",
+      "u6qd1a",
+      "b9lif5"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:55:17Z",
-    "run_id": "44340260432",
-    "status": "success",
-    "checked": {
-     "candidates": 707,
-     "detail": "664 collected staging rows from readers; 234 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2837,19 +2823,27 @@
      "detail": "+0 new rows, 3 updated rows, 691 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T16:24:02Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 718,
+     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 688 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3086,32 +3080,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:55:18Z",
-    "run_id": "44340260432",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Has Ramayana Recovered 100% Of Its Budget? Examining The Numbers Behind The Mythological Epic",
-      "Dhanush Starrer O.M - Operation Mole Shatters Kerala Advance Booking Records Ahead Of Worldwide Release",
-      "Ananya Birla Teases Ranveer Singh's Pralay as a 'Spectacle' on Koffee With Karan",
-      "The 'Yeh Prem Mol Liya' trailer: Ayushmann Khurrana and Sharvari's film showcases a new-age love story with changing traditions"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3642,19 +3623,35 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-19T16:24:15Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+      "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+      "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+      "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions",
+      "Khushi Episode 68 — Watch Online on HUM TV",
+      "Uswah Episode 57 — Watch Online on Geo TV",
+      "Dastoor Episode 90 — Watch Online on Green TV"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3884,19 +3881,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4218,31 +4215,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:55:16Z",
-    "run_id": "44340260432",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 414 still unprocessed; today by category: movies 10/6, tv_dramas 12/4, episodes 0/2, box_office 13/6, celebrities_events 9/5, upcoming_releases 4/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Has Ramayana Recovered 100% Of Its Budget? Examining The Numbers Behind The Mythological Epic",
-      "The 'Yeh Prem Mol Liya' trailer: Ayushmann Khurrana and Sharvari's film showcases a new-age love story with changing traditions",
-      "Dhanush Starrer O.M - Operation Mole Shatters Kerala Advance Booking Records Ahead Of Worldwide Release",
-      "Ananya Birla Teases Ranveer Singh's Pralay as a 'Spectacle' on Koffee With Karan"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4745,19 +4730,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-19T16:17:13Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 411 still unprocessed; today by category: movies 14/6, tv_dramas 8/4, episodes 2/2, box_office 9/6, celebrities_events 11/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+      "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+      "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+      "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5064,19 +5061,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-19T16:18:38Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5356,19 +5360,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5688,19 +5692,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5950,19 +5954,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6197,19 +6201,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6493,19 +6497,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6746,19 +6750,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6988,19 +6992,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7253,30 +7257,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-17T14:08:14Z",
-    "run_id": "44095857155",
-    "status": "success",
-    "checked": {
-     "candidates": 570,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 557"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7764,19 +7757,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-19T16:17:44Z",
+    "run_id": "44559337497",
+    "status": "success",
+    "checked": {
+     "candidates": 579,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 566"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8016,19 +8020,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-18T15:55:29Z",
-    "run_id": "44340260432",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8258,8 +8262,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-19T16:24:24Z",
+    "run_id": "44559337497",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ]
  },
- "updated_at": "2026-11-19T15:03:16Z"
+ "updated_at": "2026-11-19T16:24:24Z"
 }

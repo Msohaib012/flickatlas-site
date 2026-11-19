@@ -79,6 +79,249 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 19:07:48 +0200"
   },
+  "ham6mf": {
+    "id": "ham6mf",
+    "type": "news",
+    "headline": "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+    "dek": "A fresh trailer for Wolf Creek 3 has been released, showcasing the return of John Jarratt as the infamous serial killer Mick Taylor.",
+    "entities": {
+      "people": [
+        "John Jarratt",
+        "Charlie Penton",
+        "Stacy Clausen",
+        "Laura Gordon",
+        "Meg Fraser",
+        "Ditch Davey",
+        "Maria Thattil",
+        "Connor Pullinger",
+        "Pia Jenkins",
+        "Sean Lahiff",
+        "Duncan Samarasinghe",
+        "Jeremy Bolt",
+        "Bianca Martino",
+        "Greg McLean",
+        "Kristian Moliere",
+        "Em Peterson",
+        "Mick Taylor"
+      ],
+      "titles": [
+        "Wolf Creek 3",
+        "Wolf Cre3k",
+        "Wolf Creek",
+        "Wolf Creek 2",
+        "What About Sal",
+        "Boar",
+        "Rogue",
+        "The Possessed"
+      ]
+    },
+    "keywords": [
+      "Wolf Creek 3",
+      "John Jarratt",
+      "Wolf Creek 3 trailer",
+      "Mick Taylor"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/John-Jarrat-Wolf-Creek-3.jpg?resize=1200,630",
+        "caption": "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:47:11 +0000"
+  },
+  "1763mbd": {
+    "id": "1763mbd",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions",
+    "dek": "Early viewers share their initial thoughts on X following the premiere screenings of the multilingual feature Aakasamlo Oka Tara.",
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Satvika Veeravalli",
+        "Shruti Haasan",
+        "Pavan Sadineni",
+        "Sandeep Gunnam",
+        "Ramya Gunnam",
+        "Vasanth Jurru",
+        "Gunnam Gangaraju",
+        "G. V. Prakash Kumar",
+        "Sujith Sarang",
+        "Praveen KL",
+        "Shwetha Sabu Cyril",
+        "Vamsi Krishna G.",
+        "Pallavi Singh"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "AOT"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara movie",
+      "Dulquer Salmaan Aakasamlo Oka Tara",
+      "Aakasamlo Oka Tara premiere review",
+      "Satvika Veeravalli AOT"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aakasamlookatarap-81031795102841.jpg",
+        "caption": "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 21:14:51 +0530"
+  },
+  "1f0ck8v": {
+    "id": "1f0ck8v",
+    "type": "news",
+    "headline": "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+    "dek": "A major cinematic showdown took place in theatres on November 19, featuring the release of two high-profile titles: Bachelor Party Deux and Ene Repeat. Early Sacnilk updates show a clear leader in the opening day earnings race.",
+    "entities": {
+      "people": [
+        "Amal Neerad",
+        "Naslen",
+        "Kunchacko Boban",
+        "Tovino Thomas",
+        "Soubin Shahir",
+        "Sharaf U Dheen",
+        "Sreenath Bhasi",
+        "Shine Tom Chacko",
+        "Chandu Salimkumar",
+        "Rajisha Vijayan",
+        "Jyothirmayi",
+        "Nadia Moidu",
+        "Paris Laxmi",
+        "Hansika Krishna",
+        "Tharun Bhascker Dhaassyam",
+        "Vishwak Sen",
+        "Srinath Maganti",
+        "Abhinav Gomatam"
+      ],
+      "titles": [
+        "Bachelor Party D'eux",
+        "Bachelor Party Deux",
+        "ENE Repeat",
+        "Ee Nagaraniki Emaindi",
+        "Bachelor Party"
+      ]
+    },
+    "keywords": [
+      "Bachelor Party Deux box office",
+      "Ene Repeat collection Day 1",
+      "Naslen Vishwak Sen box office clash",
+      "Bachelor Party Deux vs Ene Repeat"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-19t205118-003-69801795101690.jpg",
+        "caption": "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:52:07 +0530"
+  },
+  "1dw1wix": {
+    "id": "1dw1wix",
+    "type": "news",
+    "headline": "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+    "dek": "Actor Arjun Sarja has taken legal action after facing persistent speculation and derogatory remarks regarding his elder daughter Aishwarya Arjun and her marriage to Umapathy Ramaiah.",
+    "entities": {
+      "people": [
+        "Arjun Sarja",
+        "Aishwarya Arjun",
+        "Umapathy Ramaiah",
+        "Thambi Ramaiah",
+        "Anjana",
+        "Isaiah Nutter",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Survivor Tamil"
+      ]
+    },
+    "keywords": [
+      "Arjun Sarja complaint",
+      "Aishwarya Arjun marriage",
+      "Umapathy Ramaiah",
+      "Anjana wedding",
+      "Thambi Ramaiah"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Arjun_Sarja_Aishwarya_1795099804773_6zRm_1795099812642_aCfy_f5da520d-7212-4ec6-a152-51ab643b758f_Z7p1.jpg",
+        "caption": "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:51:09 +0530"
+  },
+  "1cvafmz": {
+    "id": "1cvafmz",
+    "type": "news",
+    "headline": "Khushi Episode 68 — Watch Online on HUM TV",
+    "dek": "Khushi episode 68 aired on 2026-11-19 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/iws1B7RhSX0/hqdefault.jpg",
+        "caption": "Khushi Episode 68",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-19T15:00:35Z"
+  },
+  "1erb46q": {
+    "id": "1erb46q",
+    "type": "news",
+    "headline": "Uswah Episode 57 — Watch Online on Geo TV",
+    "dek": "Uswah episode 57 aired on 2026-11-19 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/k2h_OrMiNIs/hqdefault.jpg",
+        "caption": "Uswah Episode 57",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-19T15:00:01Z"
+  },
+  "pdxuta": {
+    "id": "pdxuta",
+    "type": "news",
+    "headline": "Dastoor Episode 90 — Watch Online on Green TV",
+    "dek": "Dastoor episode 90 aired on 2026-11-19 — watch the full episode on Green TV.",
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Kn0ajlAn61g/hqdefault.jpg",
+        "caption": "Dastoor Episode 90",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-19T14:45:04Z"
+  },
   "14r8npf": {
     "id": "14r8npf",
     "type": "news",
@@ -4634,342 +4877,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 18 Nov 2026 12:07:59 +0200"
   },
-  "uz37b5": {
-    "id": "uz37b5",
-    "type": "news",
-    "headline": "The Remarried Empress Episodes 7-8 Ending Explained: Divorce Shockers, Secret Plans, and Royal Confessions",
-    "dek": "As The Remarried Empress approaches its final stretch on Disney+, episodes 7 and 8 deliver major plot twists, palace intrigue, and a shocking divorce announcement.",
-    "entities": {
-      "people": [
-        "Shin Min Ah",
-        "Ju Ji Hoon",
-        "Lee Jong Suk",
-        "Lee Se Young",
-        "Rashta",
-        "Sovieshu",
-        "Kosair",
-        "Heinrey",
-        "Wharton III",
-        "Krista",
-        "Rotteshu",
-        "Lee Jun Hyuk",
-        "Kang Han Na",
-        "Navier"
-      ],
-      "titles": [
-        "The Remarried Empress"
-      ]
-    },
-    "keywords": [
-      "The Remarried Empress",
-      "The Remarried Empress episodes 7 8",
-      "Rashta Sovieshu Navier",
-      "Heinrey Lady Krista"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-18t151812-229-69801794995298.jpg",
-        "caption": "The Remarried Empress Episodes 7-8 Ending Explained: Divorce Shockers, Secret Plans, and Royal Confessions",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 15:18:33 +0530"
-  },
-  "d3095e": {
-    "id": "d3095e",
-    "type": "news",
-    "headline": "Why There Is No New Scrubs Season 2 Episode Tonight",
-    "dek": "Fans tuning in for the latest medical comedy drama will need to exercise patience as the network implements a brief pause.",
-    "entities": {
-      "people": [
-        "Rishabh Shandilya",
-        "Zach Braff",
-        "Donald Faison",
-        "Sarah Chalke",
-        "Neil Flynn",
-        "Rachel Bilson",
-        "Ava Bunn",
-        "Asher Green",
-        "Blake Lewis",
-        "Amara Hadi",
-        "Dashana Trainor",
-        "John C. McGinley",
-        "Judy Reyes",
-        "Joel Kim Booster",
-        "X Mayo",
-        "Christa Miller",
-        "Ken Jenkins",
-        "Aseem Batra",
-        "Mike Royce",
-        "Mathew Harawitz",
-        "Michael Spiller",
-        "Randall Keenan Winston",
-        "Bill Lawrence",
-        "Jeff Ingold",
-        "Liza Katzer"
-      ],
-      "titles": [
-        "Scrubs",
-        "Scrubs Season 2"
-      ]
-    },
-    "keywords": [
-      "Scrubs Season 2",
-      "Scrubs Episode 7",
-      "Zach Braff Scrubs",
-      "Scrubs release schedule"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-18T151255.894.webp?resize=1200,630",
-        "caption": "Why There Is No New Scrubs Season 2 Episode Tonight",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 09:43:32 +0000"
-  },
-  "167bv68": {
-    "id": "167bv68",
-    "type": "news",
-    "headline": "The Hunger Games: Sunrise on the Reaping Explores Haymitch Abernathy's Deadliest Games",
-    "dek": "Panem returns to the big screen with the sixth theatrical installment in the dystopian franchise, focusing on the 50th Hunger Games and a teenage Haymitch Abernathy.",
-    "entities": {
-      "people": [
-        "Suzanne Collins",
-        "Katniss Everdeen",
-        "Coriolanus Snow",
-        "Haymitch Abernathy",
-        "Lenore Dove",
-        "Lucy Gray Baird",
-        "Joseph Zada",
-        "Woody Harrelson",
-        "Mckenna Grace",
-        "Maysilee Donner",
-        "Ben Wang",
-        "Wyatt Callow",
-        "Molly McCann",
-        "Louella McCoy",
-        "Percy Daggs IV",
-        "Ampert Latier",
-        "Beetee",
-        "Kelvin Harrison Jr.",
-        "Maya Hawke",
-        "Wiress",
-        "Lili Taylor",
-        "Mags Flanagan",
-        "Ralph Fiennes",
-        "Plutarch Heavensbee",
-        "Jesse Plemons",
-        "Philip Seymour Hoffman",
-        "Kieran Culkin",
-        "Caesar Flickerman",
-        "Elle Fanning",
-        "Effie Trinket",
-        "Glenn Close",
-        "Drusilla Sickle",
-        "Billy Porter",
-        "Magno Stift",
-        "Jennifer Lawrence",
-        "Josh Hutcherson"
-      ],
-      "titles": [
-        "The Hunger Games: Sunrise on the Reaping",
-        "The Ballad of Songbirds Snakes",
-        "The Hunger Games"
-      ]
-    },
-    "keywords": [
-      "The Hunger Games Sunrise on the Reaping",
-      "Haymitch Abernathy cast release date",
-      "Sunrise on the Reaping Panem timeline",
-      "The Hunger Games 50th Hunger Games"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-release-date-cast-everything-about-panems-deadliest-games.jpg",
-        "caption": "The Hunger Games: Sunrise on the Reaping Explores Haymitch Abernathy's Deadliest Games",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 09:40:53 +0000"
-  },
-  "xpfspt": {
-    "id": "xpfspt",
-    "type": "news",
-    "headline": "Netflix Reveals Return Date and First-Look Images for Ginny & Georgia Season 4",
-    "dek": "The hit Netflix drama series is coming back for its fourth season this January, bringing new chaos and challenges for Georgia Miller and her family.",
-    "entities": {
-      "people": [
-        "Sarah Lampert",
-        "Sarah Glinski",
-        "Jenny Daly",
-        "Jeff Tahler",
-        "Holly Hines",
-        "Daniel March",
-        "Lance Samuels",
-        "Daniel Iron",
-        "David Monahan",
-        "Danielle Hoover",
-        "Ali Kinney",
-        "Brianne Howey",
-        "Antonia Gentry",
-        "Felix Mallard",
-        "Sara Waisglass",
-        "Scott Porter",
-        "Diesel La Torraca",
-        "Jennifer Robertson",
-        "Raymond Ablack",
-        "Katie Douglas",
-        "Chelsea Clark",
-        "Nathan Mitchell"
-      ],
-      "titles": [
-        "Ginny & Georgia"
-      ]
-    },
-    "keywords": [
-      "Ginny & Georgia season 4",
-      "Netflix Ginny & Georgia release date",
-      "Georgia Miller pregnancy",
-      "Ginny & Georgia cast"
-    ],
-    "images": [
-      {
-        "url": "http://www.thefutoncritic.com/images/global/bugblank.jpg",
-        "caption": "Netflix Reveals Return Date and First-Look Images for Ginny & Georgia Season 4",
-        "source": "The Futon Critic"
-      }
-    ],
-    "published": "2026-11-18T09:31:00+00:00"
-  },
-  "6laf17": {
-    "id": "6laf17",
-    "type": "news",
-    "headline": "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
-    "dek": "The streaming platform has released the first teaser for Dr. Hassan, starring Nawazuddin Siddiqui and Dia Mirza, set to premiere on December 11.",
-    "entities": {
-      "people": [
-        "Nawazuddin Siddiqui",
-        "Hugh Laurie",
-        "Dia Mirza",
-        "Faisal Rashid",
-        "Rehmat Rattan",
-        "Jayson Thaam",
-        "Smaran Sanu",
-        "Vinay Chhawal",
-        "Ketan Pedgaonkar",
-        "Virat Basoya",
-        "Deepak Dhar",
-        "Rishi Negi",
-        "Rajesh Chadha",
-        "Mrinalini Jain",
-        "Shyam Rathi",
-        "Vibhas Singh Gautam",
-        "Alok Jain",
-        "David Shore",
-        "Linfield Ng",
-        "Rohan Sippy"
-      ],
-      "titles": [
-        "Dr. Hassan",
-        "House"
-      ]
-    },
-    "keywords": [
-      "Dr Hassan",
-      "Nawazuddin Siddiqui",
-      "Dia Mirza",
-      "JioHotstar",
-      "Rohan Sippy"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/Screenshot_2026-11-18_143926_1794992983669_EGew_1794992992581_xpRO_5fa69677-6f4e-4ccb-8904-8d294b8cc156_Dax4.png",
-        "caption": "Nawazuddin Siddiqui Leads JioHotstar's Dr. Hassan, An Indian Adaptation of House",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 14:49:48 +0530"
-  },
-  "19n3ipj": {
-    "id": "19n3ipj",
-    "type": "news",
-    "headline": "The Team Behind the Controversial Documentary 'NAZA' Maintains Plans for a Free Online Release",
-    "dek": "Despite a strong theatrical run and global box office earnings, the creators of the explosive documentary NAZA are preparing to launch the film for free on The Guardian platform.",
-    "entities": {
-      "people": [
-        "Yuval Abraham",
-        "Rachel Szor",
-        "Fionualla Jamison",
-        "Lindsay Poulton",
-        "Harry Davies",
-        "James Wilson",
-        "Neil Young",
-        "Coen Dijkstra",
-        "Miki Zohar",
-        "Benjamin Netanyahu"
-      ],
-      "titles": [
-        "NAZA",
-        "Concrete Land",
-        "To Hold A Mountain",
-        "No Other Land",
-        "NAZA: The Real Story",
-        "Zone of Interest"
-      ]
-    },
-    "keywords": [
-      "NAZA documentary",
-      "Yuval Abraham NAZA",
-      "The Guardian NAZA release",
-      "NAZA film IDFA"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png?w=1024",
-        "caption": "The Team Behind the Controversial Documentary 'NAZA' Maintains Plans for a Free Online Release",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 09:10:47 +0000"
-  },
-  "3nk9u7": {
-    "id": "3nk9u7",
-    "type": "news",
-    "headline": "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
-    "dek": "The hit animated series adapts Yuto Suzuki's bestselling manga and returns to Netflix for its second season following a massive global viewership run.",
-    "entities": {
-      "people": [
-        "Yuto Suzuki",
-        "Taro Sakamoto",
-        "Kikunosuke Toya",
-        "Misa Watanabe",
-        "Shinshū Fuji",
-        "Amane Yotsumura",
-        "Etsuko Satoda",
-        "Satoru Yotsumura"
-      ],
-      "titles": [
-        "Sakamoto Days",
-        "Blue Box",
-        "The Summer Hikaru Died"
-      ]
-    },
-    "keywords": [
-      "Sakamoto Days Season 2",
-      "Sakamoto Days Netflix release date",
-      "Yuto Suzuki Sakamoto Days",
-      "Sakamoto Days season 2 characters"
-    ],
-    "images": [
-      {
-        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2025/10/sakamoto-days-season-2-netflix-renewal.jpg",
-        "caption": "Sakamoto Days Season 2 Officially Sets January Netflix Launch Date",
-        "source": "What's on Netflix"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 09:04:53 +0000"
-  },
   "1wit30w": {
     "id": "1wit30w",
     "type": "news",
@@ -5009,63 +4916,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T17:00:10Z"
-  },
-  "1vjsa0": {
-    "id": "1vjsa0",
-    "type": "news",
-    "headline": "Manikanda Teaser Out Now: Vaibhav Stars In Vishnu Sasi Shankar's Upcoming Tamil Film",
-    "dek": "The official teaser for Manikanda has been released, offering audiences a first look at the Tamil film directed by Vishnu Sasi Shankar and starring Vaibhav in the lead role.",
-    "entities": {
-      "people": [
-        "Vaibhav",
-        "Vishnu Sasi Shankar",
-        "Aadukalam Naren",
-        "Aravind Aakash",
-        "Meenakshi Govindarajan",
-        "Ravi Mohan",
-        "Mirchi Shiva",
-        "Venkat Prabhu",
-        "Krishna",
-        "Mahath",
-        "Prem Gi Amaren",
-        "Gangai Amaran",
-        "JK Saravana",
-        "M Rajaram",
-        "Praveen KL",
-        "Yuvan Selva",
-        "Surya Rajeevan",
-        "Janakiraman",
-        "PA Vijay",
-        "Yuwaji",
-        "Kumar Ramanathan",
-        "Stunt Silva",
-        "Sakthi Saravanan",
-        "Ajay",
-        "Nanthakumar Thamichelvan",
-        "Adithya Tangirala",
-        "Prithivi Adithya",
-        "Prathap K",
-        "Mahesh Bharadwaj R"
-      ],
-      "titles": [
-        "Manikanda",
-        "Malikappuram"
-      ]
-    },
-    "keywords": [
-      "Manikanda teaser",
-      "Vaibhav Manikanda movie",
-      "Vishnu Sasi Shankar director",
-      "Manikanda release date 2026"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/manikanda-41331794931208.jpg",
-        "caption": "Manikanda Teaser Out Now: Vaibhav Stars In Vishnu Sasi Shankar's Upcoming Tamil Film",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 21:31:34 +0530"
   },
   "15hoh7e": {
     "id": "15hoh7e",
@@ -5283,55 +5133,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-16T14:45:28Z"
-  },
-  "1ftxgoc": {
-    "id": "1ftxgoc",
-    "type": "news",
-    "headline": "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
-    "dek": "Yuvaraj Chinnasamy directorial Haiku, starring Aegan, Sri Devi Apalla and Femina George, is heading to digital platforms in five languages following its October theatrical run.",
-    "entities": {
-      "people": [
-        "Aegan",
-        "Sri Devi Apalla",
-        "Femina George",
-        "Yuvaraj Chinnasamy",
-        "Shree Tej SK",
-        "Adirchi Arun",
-        "Subramanian Sethu",
-        "Adhiyaman",
-        "Mime Gopi",
-        "Indhumathi Manigandan",
-        "Hariharan Ram",
-        "Dr. D. Arulanandhu",
-        "Mathewo Arulanandhu",
-        "Aegan Arulanandhu",
-        "Sidhu Kumar",
-        "Priyesh Gurusamy",
-        "Sakthi Pranesh P",
-        "Prem Karunthamalai",
-        "Dinesh Manoharan",
-        "Anusha Vishwanathan",
-        "RP Bala",
-        "Mohmad Akram M"
-      ],
-      "titles": [
-        "Haiku"
-      ]
-    },
-    "keywords": [
-      "Haiku OTT Release",
-      "Haiku Netflix release date",
-      "Aegan Sri Devi Apalla Femina George film",
-      "Yuvaraj Chinnasamy Haiku movie"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/haiku-13111794766603.jpg",
-        "caption": "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 23:50:24 +0530"
   },
   "eh6qc3": {
     "id": "eh6qc3",
@@ -5860,71 +5661,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-13T16:00:30Z"
-  },
-  "fjhibe": {
-    "id": "fjhibe",
-    "type": "news",
-    "headline": "Aangan Episode 13 — Watch Online on HUM TV",
-    "dek": "Aangan episode 13 aired on 2026-11-13 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Aangan"
-      ],
-      "people": [
-        "Ahad Raza Mir",
-        "Sonya Husyn",
-        "Sajal Ali",
-        "Mawra Hocane",
-        "Ahsan Khan"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/3g9CYw-jXwI/hqdefault.jpg",
-        "caption": "Aangan Episode 13",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-13T16:00:07Z"
-  },
-  "1mjwnap": {
-    "id": "1mjwnap",
-    "type": "news",
-    "headline": "Izzat Episode 55 — Watch Online on ARY Digital",
-    "dek": "Izzat episode 55 aired on 2026-11-13 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Izzat"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/7UOShlc2vvw/hqdefault.jpg",
-        "caption": "Izzat Episode 55",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-13T15:00:38Z"
-  },
-  "i994z9": {
-    "id": "i994z9",
-    "type": "news",
-    "headline": "Khushi Episode 62 — Watch Online on HUM TV",
-    "dek": "Khushi episode 62 aired on 2026-11-13 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Khushi"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/EDv94RxGqeU/hqdefault.jpg",
-        "caption": "Khushi Episode 62",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-13T15:00:35Z"
   }
 };

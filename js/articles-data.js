@@ -191949,5 +191949,526 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 14:31:05 +0000"
+  },
+  "1cvafmz": {
+    "id": "1cvafmz",
+    "type": "news",
+    "headline": "Khushi Episode 68 — Watch Online on HUM TV",
+    "dek": "Khushi episode 68 aired on 2026-11-19 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 68 aired on 2026-11-19 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=iws1B7RhSX0"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 68 aired on 2026-11-19.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=iws1B7RhSX0",
+      "YouTube views: 198,428."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/iws1B7RhSX0/hqdefault.jpg",
+        "caption": "Khushi Episode 68",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-19T15:00:35Z"
+  },
+  "1erb46q": {
+    "id": "1erb46q",
+    "type": "news",
+    "headline": "Uswah Episode 57 — Watch Online on Geo TV",
+    "dek": "Uswah episode 57 aired on 2026-11-19 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 57 aired on 2026-11-19 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=k2h_OrMiNIs"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 57 aired on 2026-11-19.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=k2h_OrMiNIs",
+      "YouTube views: 569,597."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/k2h_OrMiNIs/hqdefault.jpg",
+        "caption": "Uswah Episode 57",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-19T15:00:01Z"
+  },
+  "pdxuta": {
+    "id": "pdxuta",
+    "type": "news",
+    "headline": "Dastoor Episode 90 — Watch Online on Green TV",
+    "dek": "Dastoor episode 90 aired on 2026-11-19 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 90 aired on 2026-11-19 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Kn0ajlAn61g"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 90 aired on 2026-11-19.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Kn0ajlAn61g",
+      "YouTube views: 78,709.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Kn0ajlAn61g/hqdefault.jpg",
+        "caption": "Dastoor Episode 90",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-19T14:45:04Z"
+  },
+  "1f0ck8v": {
+    "id": "1f0ck8v",
+    "type": "news",
+    "headline": "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+    "dek": "A major cinematic showdown took place in theatres on November 19, featuring the release of two high-profile titles: Bachelor Party Deux and Ene Repeat. Early Sacnilk updates show a clear leader in the opening day earnings race.",
+    "body": [
+      {
+        "h": "The South Indian Box Office Clash",
+        "p": [
+          "A highly anticipated box office competition unfolded on November 19, bringing two distinct regional films into direct theatrical competition. Audiences across southern markets found themselves choosing between an adventurous comedy-drama and a lighthearted buddy comedy.",
+          "Both features arrived with considerable expectations and captured substantial attention from moviegoers eager to witness how the opening day race would shape up between the rival releases."
+        ]
+      },
+      {
+        "h": "Bachelor Party Deux Overview and Premise",
+        "p": [
+          "Directed by Amal Neerad, Bachelor Party Deux entered cinemas to a mixed initial response from viewers and critics alike. The movie features a massive ensemble cast that brings together some of the most recognizable names in Malayalam cinema.",
+          "The plot centers around a closely knit assembly of unconventional individuals whose everyday routines spiral into absolute chaos. They find themselves deeply entangled in a web of crime, gold smuggling, and a high-stakes dangerous escape. Rather than functioning as a direct narrative continuation, the project acts as a spiritual successor to the 2012 film Bachelor Party."
+        ]
+      },
+      {
+        "h": "Bachelor Party Deux Cast and Crew",
+        "p": [
+          "The film boasts a star-studded lineup featuring Naslen, Kunchacko Boban, Tovino Thomas, Soubin Shahir, and Sharaf U Dheen. Additional prominent performances are delivered by Sreenath Bhasi, Shine Tom Chacko, Chandu Salimkumar, Rajisha Vijayan, Jyothirmayi, Nadia Moidu, Paris Laxmi, and Hansika Krishna.",
+          "Under the creative direction of Amal Neerad, the production attempts to recreate a gritty yet humorous atmosphere reminiscent of its predecessor while exploring new criminal escapades."
+        ]
+      },
+      {
+        "h": "Bachelor Party Deux Day 1 Collections",
+        "p": [
+          "According to the latest available data from Sacnilk recorded at 8:45 PM on its opening day, Bachelor Party Deux managed an estimated India net collection of ₹1.98 crore across 1,314 shows.",
+          "A breakdown of the numbers indicates that the Malayalam version pulled in ₹1.93 crore across 1,112 shows. Meanwhile, the Telugu version contributed ₹4 lakh from 184 shows, and the Tamil version added ₹1 lakh from 18 shows, bringing the total estimated gross collection to ₹2.34 crore."
+        ]
+      },
+      {
+        "h": "Ene Repeat Background and Storyline",
+        "p": [
+          "Helmed by director Tharun Bhascker Dhaassyam, Ene Repeat entered theatres as a fresh addition to the comedy genre. The movie serves as a direct sequel to the popular 2018 film Ee Nagaraniki Emaindi.",
+          "The storyline follows a buddy comedy format, focusing on the humorous dynamics and misadventures shared among its core male leads, resonating strongly with fans of the previous installment."
+        ]
+      },
+      {
+        "h": "Ene Repeat Cast and Day 1 Performance",
+        "p": [
+          "The principal cast of Ene Repeat features Vishwak Sen alongside Srinath Maganti and Abhinav Gomatam, who shoulder the narrative with their comedic timing.",
+          "Sacnilk data updated at 8:45 PM on opening day reveals that Ene Repeat performed impressively, accumulating an estimated India net collection of ₹3.44 crore across 1,506 shows, with the gross collection touching approximately ₹4.06 crore."
+        ]
+      },
+      {
+        "h": "Box Office Race Verdict",
+        "p": [
+          "Comparing the early box office metrics provides a definitive answer regarding which release seized the advantage on day one. Ene Repeat successfully secured a comfortable lead, outperforming the spiritual successor by a noticeable margin in the opening day collection race."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "On November 19, a box office clash occurred between Bachelor Party Deux and Ene Repeat. Early Sacnilk data indicated that Ene Repeat pulled ahead with higher collections, while Bachelor Party Deux generated a lower opening day return across multiple language versions."
+        ]
+      }
+    ],
+    "facts": [
+      "The box office clash took place on November 19.",
+      "Bachelor Party Deux earned an estimated India net collection of ₹1.98 crore across 1,314 shows as of 8:45 PM on Day 1.",
+      "The Malayalam version of Bachelor Party Deux contributed ₹1.93 crore from 1,112 shows.",
+      "The Telugu version of Bachelor Party Deux collected ₹4 lakh from 184 shows.",
+      "The Tamil version of Bachelor Party Deux collected ₹1 lakh from 18 shows.",
+      "Bachelor Party Deux total India gross collection stands at ₹2.34 crore.",
+      "Bachelor Party Deux is a spiritual successor to the 2012 Malayalam film Bachelor Party.",
+      "Ene Repeat collected an estimated India net of ₹3.44 crore across 1,506 shows on its opening day as of 8:45 PM.",
+      "Ene Repeat estimated India gross collection stands at ₹4.06 crore.",
+      "Ene Repeat is a sequel to the 2018 film Ee Nagaraniki Emaindi."
+    ],
+    "entities": {
+      "people": [
+        "Amal Neerad",
+        "Naslen",
+        "Kunchacko Boban",
+        "Tovino Thomas",
+        "Soubin Shahir",
+        "Sharaf U Dheen",
+        "Sreenath Bhasi",
+        "Shine Tom Chacko",
+        "Chandu Salimkumar",
+        "Rajisha Vijayan",
+        "Jyothirmayi",
+        "Nadia Moidu",
+        "Paris Laxmi",
+        "Hansika Krishna",
+        "Tharun Bhascker Dhaassyam",
+        "Vishwak Sen",
+        "Srinath Maganti",
+        "Abhinav Gomatam"
+      ],
+      "titles": [
+        "Bachelor Party D'eux",
+        "Bachelor Party Deux",
+        "ENE Repeat",
+        "Ee Nagaraniki Emaindi",
+        "Bachelor Party"
+      ]
+    },
+    "keywords": [
+      "Bachelor Party Deux box office",
+      "Ene Repeat collection Day 1",
+      "Naslen Vishwak Sen box office clash",
+      "Bachelor Party Deux vs Ene Repeat"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-19t205118-003-69801795101690.jpg",
+        "caption": "Box Office Clash Sees Ene Repeat Take Early Lead Over Bachelor Party Deux on Opening Day",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:52:07 +0530"
+  },
+  "ham6mf": {
+    "id": "ham6mf",
+    "type": "news",
+    "headline": "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+    "dek": "A fresh trailer for Wolf Creek 3 has been released, showcasing the return of John Jarratt as the infamous serial killer Mick Taylor.",
+    "body": [
+      {
+        "h": "The Return of Mick Taylor",
+        "p": [
+          "Horror enthusiasts have a new reason to celebrate as promotional material for Wolf Creek 3 officially debuts. The upcoming feature brings back veteran performer John Jarratt to reprise his most famous antagonist persona.",
+          "Jarratt steps back into the shoes of Mick Taylor, the terrifying serial killer who stalks and targets unsuspecting travelers visiting the isolated regions of the Australian wilderness."
+        ]
+      },
+      {
+        "h": "Plot and Synopsis Details",
+        "p": [
+          "The narrative centers around an American family traveling through the region who accidentally stumble directly into Taylor's hunting grounds. In a desperate bid for survival, the parents make the ultimate sacrifice to protect their offspring.",
+          "Following this tragic event, the young children find themselves completely isolated, lost, and heavily pursued across the vast and unforgiving landscape by the relentless antagonist."
+        ]
+      },
+      {
+        "h": "Inside the New Trailer",
+        "p": [
+          "The newly debuted promotional clip offers a quick yet intense 15-second preview filled with unsettling moments and violent sequences. It highlights the Peterson family as they attempt to escape the deadly landscape.",
+          "The footage concludes with Em Peterson, portrayed by Charlie Penton, fleeing for her life while a chilling audio line from the villain echoes in the background."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "Alongside Jarratt and Penton, the ensemble cast features performers such as Stacy Clausen, Laura Gordon, and Meg Fraser. Additional cast members rounding out the roster include Ditch Davey, Maria Thattil, Connor Pullinger, and Pia Jenkins.",
+          "Behind the camera, Sean Lahiff directs the feature film based on a screenplay crafted by Duncan Samarasinghe. The production duties are shared among Jeremy Bolt, Bianca Martino, Greg McLean, and Kristian Moliere."
+        ]
+      },
+      {
+        "h": "Release Information",
+        "p": [
+          "Fans waiting to see the next chapter in the slasher franchise will not have to wait much longer for the theatrical debut. The picture is officially slated to arrive in theaters on March 19, 2027.",
+          "This release expands upon a legacy that began with earlier installments like Wolf Creek and Wolf Creek 2, cementing the status of the antagonist in modern horror cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new trailer for Wolf Creek 3 has been released, featuring the return of John Jarratt as serial killer Mick Taylor. The film is scheduled to hit theaters on March 19, 2027, and follows American tourists hunted in the Australian wilderness."
+        ]
+      }
+    ],
+    "facts": [
+      "John Jarratt is 74 years old.",
+      "Wolf Creek 3 is scheduled to hit theaters on March 19, 2027.",
+      "Sean Lahiff is directing the movie.",
+      "Duncan Samarasinghe is the screenwriter."
+    ],
+    "entities": {
+      "people": [
+        "John Jarratt",
+        "Charlie Penton",
+        "Stacy Clausen",
+        "Laura Gordon",
+        "Meg Fraser",
+        "Ditch Davey",
+        "Maria Thattil",
+        "Connor Pullinger",
+        "Pia Jenkins",
+        "Sean Lahiff",
+        "Duncan Samarasinghe",
+        "Jeremy Bolt",
+        "Bianca Martino",
+        "Greg McLean",
+        "Kristian Moliere",
+        "Em Peterson",
+        "Mick Taylor"
+      ],
+      "titles": [
+        "Wolf Creek 3",
+        "Wolf Cre3k",
+        "Wolf Creek",
+        "Wolf Creek 2",
+        "What About Sal",
+        "Boar",
+        "Rogue",
+        "The Possessed"
+      ]
+    },
+    "keywords": [
+      "Wolf Creek 3",
+      "John Jarratt",
+      "Wolf Creek 3 trailer",
+      "Mick Taylor"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/John-Jarrat-Wolf-Creek-3.jpg?resize=1200,630",
+        "caption": "Wolf Creek 3 Trailer Brings John Jarratt Back for Another Outback Nightmare",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:47:11 +0000"
+  },
+  "1dw1wix": {
+    "id": "1dw1wix",
+    "type": "news",
+    "headline": "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+    "dek": "Actor Arjun Sarja has taken legal action after facing persistent speculation and derogatory remarks regarding his elder daughter Aishwarya Arjun and her marriage to Umapathy Ramaiah.",
+    "body": [
+      {
+        "h": "Action Taken Against Online Speculation",
+        "p": [
+          "Actor Arjun Sarja has officially registered a complaint with the relevant authorities in response to malicious rumours surrounding his elder daughter, actor Aishwarya Arjun. The situation escalated following recent family celebrations, prompting the family to abandon their usual silence in order to curb the widespread dissemination of false narratives.",
+          "The actor released a sternly worded statement addressing the continuous commentary regarding Aishwarya's marriage to Umapathy Ramaiah. He emphasised that while public figures expect a certain level of scrutiny, the boundary between normal curiosity and deliberate character assassination has been crossed."
+        ]
+      },
+      {
+        "h": "Addressing Derogatory Allegations",
+        "p": [
+          "The catalyst for the official complaint involved particularly harmful claims directed at Aishwarya's personal life and character. Among the circulating falsehoods were baseless assertions labelling her an alcoholic, a claim that Arjun strongly condemned as completely irresponsible and entirely unacceptable.",
+          "Arjun stressed that an individual's personal choices should not be subjected to malicious public degradation. He noted that false allegations can cause immense damage and that nobody should be forced to endure such unwarranted targeting."
+        ]
+      },
+      {
+        "h": "Background of the Marriage and Family Events",
+        "p": [
+          "Aishwarya Arjun tied the knot with actor Umapathy Ramaiah, son of veteran actor Thambi Ramaiah, during a ceremony in Chennai in June 2024. The couple had initially crossed paths in 2021 on the reality show Survivor Tamil before becoming engaged in October 2023.",
+          "Public speculation about potential marital discord intensified recently after Aishwarya's younger sister, Anjana, married Isaiah Nutter in October 2026. Observers noted the absence of Umapathy and Thambi Ramaiah at the wedding, while further online chatter emerged when Aishwarya did not publicly wish her husband a happy birthday in November."
+        ]
+      },
+      {
+        "h": "Standing Firm on Privacy",
+        "p": [
+          "In his public statement, Arjun expressed gratitude to those who extended warm wishes for Anjana's wedding while lamenting that he had to address private matters publicly. He clarified that he chose to respect Aishwarya's privacy and that she would speak out in her own time if she desired.",
+          "The actor underscored that silence should never be misconstrued as an admission of guilt or acceptance of misinformation. By taking legal steps, he aims to halt the continuous amplification of falsehoods by online creators and vloggers."
+        ]
+      },
+      {
+        "h": "A Stand for Women's Dignity",
+        "p": [
+          "Arjun noted that his decision to file a formal complaint extends beyond his immediate family. He stated that the action is intended to support any woman whose dignity is unjustly questioned or whose personal life becomes a target for public judgment.",
+          "He highlighted the vulnerability of women who lack familial support systems when facing severe online harassment. Concluding his statement, Arjun warned that those responsible for spreading misinformation must exercise caution or face further legal consequences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Arjun Sarja has filed a formal complaint against individuals spreading derogatory rumours and false allegations regarding his elder daughter Aishwarya Arjun and her marriage to Umapathy Ramaiah. The scrutiny increased following family events in late 2026, prompting the actor to take legal action to protect his family's dignity."
+        ]
+      }
+    ],
+    "facts": [
+      "Arjun Sarja filed a complaint regarding derogatory allegations about his daughter Aishwarya.",
+      "Aishwarya Arjun married Umapathy Ramaiah in June 2024 in Chennai.",
+      "The couple met in 2021 on the reality show Survivor Tamil.",
+      "Aishwarya and Umapathy got engaged in October 2023.",
+      "Anjana married Isaiah Nutter in October 2026.",
+      "Thambi Ramaiah is the father of Umapathy Ramaiah."
+    ],
+    "entities": {
+      "people": [
+        "Arjun Sarja",
+        "Aishwarya Arjun",
+        "Umapathy Ramaiah",
+        "Thambi Ramaiah",
+        "Anjana",
+        "Isaiah Nutter",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Survivor Tamil"
+      ]
+    },
+    "keywords": [
+      "Arjun Sarja complaint",
+      "Aishwarya Arjun marriage",
+      "Umapathy Ramaiah",
+      "Anjana wedding",
+      "Thambi Ramaiah"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Arjun_Sarja_Aishwarya_1795099804773_6zRm_1795099812642_aCfy_f5da520d-7212-4ec6-a152-51ab643b758f_Z7p1.jpg",
+        "caption": "Arjun Sarja Files Formal Complaint Over Defamatory Rumours Concerning Daughter Aishwarya",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:51:09 +0530"
+  },
+  "1763mbd": {
+    "id": "1763mbd",
+    "type": "news",
+    "headline": "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions",
+    "dek": "Early viewers share their initial thoughts on X following the premiere screenings of the multilingual feature Aakasamlo Oka Tara.",
+    "body": [
+      {
+        "h": "Premiere Screenings and Initial Views",
+        "p": [
+          "Special premiere screenings for Aakasamlo Oka Tara were held in select locations on November 19, giving a segment of moviegoers an early look at the production ahead of its formal theatrical launch. Following these initial screenings, viewers utilized social media platforms, particularly X, to voice their first impressions and share thoughts regarding the movie.",
+          "These initial posts offer a glimpse into how audiences are responding to the multi-language project. While these early notices do not represent the entirety of public opinion, they provide a preliminary gauge of viewer sentiment prior to the wide-scale theatrical rollout."
+        ]
+      },
+      {
+        "h": "Cast and Multilingual Release",
+        "p": [
+          "The theatrical project features Dulquer Salmaan and Satvika Veeravalli in the lead roles, with Shruti Haasan also participating in the main cast. Viewers on social media noted the performances of the lead actors during the premiere shows.",
+          "The feature is scheduled for release across multiple regional markets, with plans to reach audiences in Telugu, Malayalam, and Tamil. This multi-language approach aims to bring the story to a wider demographic across different linguistic regions."
+        ]
+      },
+      {
+        "h": "Audience Reactions to the First Half",
+        "p": [
+          "Social media posts commenting on the first half of the screening highlighted specific emotional moments. Some viewers mentioned emotional dialogue exchanges and character interactions, noting that certain sequences evoked strong reactions from the audience in attendance.",
+          "Commentary on the pacing indicated that the narrative adopts a deliberate tempo suited to its genre, with reviewers pointing out that the unfolding plot maintains a gripping quality despite the measured movement."
+        ]
+      },
+      {
+        "h": "Music and Technical Elements",
+        "p": [
+          "Early social media commentary also touched upon the musical score composed by G. V. Prakash Kumar, with specific mentions highlighting the background score as a notable component of the premiere screenings.",
+          "The technical framework involves contributions from cinematographer Sujith Sarang and editor Praveen KL. Additional design work is managed by production designer Shwetha Sabu Cyril, art director Vamsi Krishna G., and costume designer Pallavi Singh."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The film is written and directed by Pavan Sadineni, with the story developed jointly by Pavan Sadineni and Vasanth Jurru. Gunnam Gangaraju contributed to the screenplay and writing aspects of the project.",
+          "Production duties are handled by Sandeep Gunnam and Ramya Gunnam under the banner of Lightbox Media, with presentation support provided by Swapna Cinema and Geetha Arts."
+        ]
+      },
+      {
+        "h": "Wider Release Expectations",
+        "p": [
+          "The initial social media reactions originate from a limited number of attendees at the premiere shows and do not reflect the comprehensive public response. A clearer picture of the film's reception is anticipated as general screenings commence across various regions.",
+          "Subsequent audience feedback, formal reviews, and initial box office figures will provide a more complete assessment of how the production performs commercially and connects with the broader viewing public."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Early premiere screenings for Aakasamlo Oka Tara took place on November 19, prompting viewers to share initial reactions on X ahead of the November 20 theatrical release. The multilingual feature stars Dulquer Salmaan, Satvika Veeravalli, and Shruti Haasan, and is directed by Pavan Sadineni."
+        ]
+      }
+    ],
+    "facts": [
+      "Premiere screenings of Aakasamlo Oka Tara took place on November 19, 2026.",
+      "The film is scheduled for theatrical release on November 20, 2026.",
+      "The cast includes Dulquer Salmaan, Satvika Veeravalli, and Shruti Haasan.",
+      "The film is directed by Pavan Sadineni.",
+      "The film is produced by Sandeep Gunnam and Ramya Gunnam under Lightbox Media.",
+      "G. V. Prakash Kumar is the music composer for the film."
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Satvika Veeravalli",
+        "Shruti Haasan",
+        "Pavan Sadineni",
+        "Sandeep Gunnam",
+        "Ramya Gunnam",
+        "Vasanth Jurru",
+        "Gunnam Gangaraju",
+        "G. V. Prakash Kumar",
+        "Sujith Sarang",
+        "Praveen KL",
+        "Shwetha Sabu Cyril",
+        "Vamsi Krishna G.",
+        "Pallavi Singh"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara",
+        "AOT"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara movie",
+      "Dulquer Salmaan Aakasamlo Oka Tara",
+      "Aakasamlo Oka Tara premiere review",
+      "Satvika Veeravalli AOT"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aakasamlookatarap-81031795102841.jpg",
+        "caption": "Aakasamlo Oka Tara Premiere Screenings Bring Early Social Media Reactions",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 21:14:51 +0530"
   }
 };
