@@ -187624,5 +187624,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T09:31:00+00:00"
+  },
+  "59me0k": {
+    "id": "59me0k",
+    "type": "news",
+    "headline": "Ramayana Reaches Rs 1,500 Crore Worldwide on Day 14",
+    "dek": "The Nitesh Tiwari directorial crosses major box-office milestones, entering the domestic Rs 1,000-crore gross club while eyeing the Rs 1,700-crore global mark.",
+    "body": [
+      {
+        "h": "Global and Domestic Milestones",
+        "p": [
+          "The theatrical run of Ramayana has reached a historic juncture by completing two weeks in cinemas. On its fourteenth day, the production achieved significant financial milestones by entering both the domestic Rs 1,000-crore gross club and pushing its worldwide collection past the Rs 1,500-crore threshold.",
+          "With international earnings and domestic totals combined, the global tally has touched Rs 1,519.05 crore. The feature now looks ahead toward the Rs 1,700-crore milestone as it continues its theatrical journey."
+        ]
+      },
+      {
+        "h": "Day 14 Box Office Breakdown",
+        "p": [
+          "On Thursday, which marked the fourteenth day of release, the film secured Rs 23.20 crore in nett collections across India. This came from a total of 22,289 shows nationwide, yielding an average collection of Rs 10,409 per show.",
+          "The figures reflect an 18.9 per cent drop compared to the Rs 28.60 crore earned on the preceding thirteenth day. International markets contributed an additional Rs 8 crore on Day 14, elevating the total overseas gross to Rs 510 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "The Hindi version remained the primary driver of domestic revenue, contributing Rs 16.50 crore from 17,661 shows with an occupancy rate of 16.9 per cent. Regional versions also added to the overall daily sum.",
+          "The Malayalam language version brought in Rs 2.15 crore with a strong 41.1 per cent occupancy, followed by Kannada at Rs 1.65 crore, Tamil at Rs 1.60 crore, and Telugu at Rs 1.30 crore."
+        ]
+      },
+      {
+        "h": "Historical Standing in the Rs 1,000-Crore Club",
+        "p": [
+          "Ramayana has become the sixth Indian film overall to cross the Rs 1,000-crore gross mark within the domestic market. It joins an elite group that includes Baahubali 2, KGF Chapter 2, Pushpa 2, and the two installments of the Dhurandhar franchise.",
+          "While several titles have achieved this global figure previously, domestic entry into the bracket remained exclusive until recently. South Indian cinema held dominance for years until the trend expanded to include Hindi releases."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings Overview",
+        "p": [
+          "During its first eight days in theaters, the movie accumulated Rs 564.60 crore nett and Rs 675.05 crore gross in India across 1,90,518 shows. Between days nine and thirteen, it added another Rs 256.70 crore nett and Rs 306.45 crore gross.",
+          "By the close of Day 13, cumulative domestic numbers stood at Rs 821.30 crore nett and Rs 981.50 crore gross. The Hindi version alone accounted for Rs 627 crore nett, supported by contributions from Kannada, Telugu, Tamil, and Malayalam markets."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra, the epic adaptation features prominent actors in pivotal roles. Ranbir Kapoor stars as Lord Rama, Sai Pallavi plays Sita, and Yash portrays Ravana.",
+          "The ensemble cast also includes Ravi Dubey as Lakshman, Sunny Deol as Hanuman, and Arun Govil in a significant role. The project is structured as a two-part epic, with the sequel slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed Rs 1,000 crore gross in India and Rs 1,500 crore worldwide by its fourteenth day in theaters. The Nitesh Tiwari directorial is only the sixth Indian film to achieve the domestic milestone as it targets the Rs 1,700-crore global mark."
+        ]
+      }
+    ],
+    "facts": [
+      "Released on November 19, 2026",
+      "Crossed Rs 1,000 crore gross in India on Day 14",
+      "Worldwide collection reached Rs 1,519.05 crore in 14 days",
+      "Day 14 India nett collection was Rs 23.20 crore",
+      "Overseas collection reached Rs 510 crore",
+      "Directed by Nitesh Tiwari",
+      "Produced by Namit Malhotra",
+      "Starring Ranbir Kapoor, Sai Pallavi, and Yash"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Baahubali 2",
+        "KGF Chapter 2",
+        "Pushpa 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Day 14 collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Rs 1500 crore"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/kolkatas-svf-cinemas-goes-vegetarian-for-ranbir-kapoors-ramayana-171059218-16x9_1.png?VersionId=jRQnFptOjLhaKoN4udFldp0ASXy1oN.u",
+        "caption": "Ramayana Reaches Rs 1,500 Crore Worldwide on Day 14",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 09:14:38 +0530"
+  },
+  "1v85jxc": {
+    "id": "1v85jxc",
+    "type": "news",
+    "headline": "Chicago Fire Season 15 Episode 07 No Love Lost Viewer Rating and Character Spotlight",
+    "dek": "Share your thoughts on the latest Chicago Fire installment titled No Love Lost, cast your vote for the top performer of the week, and join the community conversation.",
+    "body": [
+      {
+        "h": "Evaluating the Latest Broadcast",
+        "p": [
+          "Fans of the long-running emergency services drama have another opportunity to grade the newest chapter of their favorite show. Episode 15.07 of Chicago Fire, titled No Love Lost, invites viewers to log their personal assessments through a specialized polling system. Supporters can assign a score ranging from five out of five for an outstanding installment down to zero for a major disappointment.",
+          "This ongoing interactive feature allows the devoted fanbase to quantify their weekly television viewing experience. Whether the narrative delivered high-stakes rescues, emotional character beats, or unexpected plot twists, the audience numbers reflect overall reception across the community."
+        ]
+      },
+      {
+        "h": "Highlighting Standout Performers",
+        "p": [
+          "Alongside the episode rating, enthusiasts are casting ballots to determine which actor or actress stole the spotlight. The roster of contenders features familiar faces from Firehouse 51, including Kelly Severide portrayed by Taylor Kinney and Christopher Herrmann played by David Eigenberg.",
+          "Other notable names on the ballot comprise Joe Cruz featuring Joe Minoso, Randy Mouch McHolland brought to life by Christian Stolte, and Stella Kidd represented by Miranda Rae Mayo. Additional characters rounding out the selection are Violet Mikami played by Hanako Greensmith, Sal Vasquez portrayed by Brandon Larracuente, and Lizzy Novak enacted by Jocelyn Hudon."
+        ]
+      },
+      {
+        "h": "More Cast Members in the Spotlight",
+        "p": [
+          "The competitive weekly lineup also includes seasoned fixtures around the station. Harold Capp is played by Randy Flagler, while Tony Ferraris features Anthony Ferraris, and Jacob Morales is brought to the screen by Carlos Miranda.",
+          "Completing the comprehensive list of eligible talent are Margaret Mikami and additional guest dynamics portrayed by Melinda McGraw. Each actor contributes to the ensemble chemistry that keeps viewers returning week after week."
+        ]
+      },
+      {
+        "h": "Community Discussion and Fan Reactions",
+        "p": [
+          "Beyond casting votes, the platform encourages followers to dive into the comments section to debate their preferred moments. Members share detailed breakdowns of what worked, what fell flat, and what narrative threads left them wanting more.",
+          "With deep engagement comes a standard warning regarding plot details. Because users freely discuss unfolding events and emotional revelations, catching up on the latest available episode beforehand is strongly advised to avoid unwanted plot disclosures."
+        ]
+      },
+      {
+        "h": "Newsletter and Platform Updates",
+        "p": [
+          "For enthusiasts looking to stay deeply connected to television schedules, subscription options offer regular updates regarding upcoming press releases and scheduling news. The community network covers a wide array of broadcast and streaming programming.",
+          "Additionally, ad-free viewing options are available for loyal community participants seeking an uninterrupted experience while browsing articles, episode databases, and related media coverage."
+        ]
+      },
+      {
+        "h": "Exploring Related Television Content",
+        "p": [
+          "The network surrounding these discussions extends far beyond a single firefighting drama. Readers frequently explore related press releases and episode previews for sister series and procedural favorites.",
+          "Cross-franchise interest often bridges gaps between emergency medical stories, legal dramas, and other primetime staples, creating a unified hub for television enthusiasts to track their favorite characters across multiple shows."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Viewers are invited to rate the seventh episode of the fifteenth season of Chicago Fire, titled No Love Lost, and vote for their favorite character among the ensemble cast. The platform also provides space for fans to discuss their favorite moments and plot developments in the comments section while keeping up with wider television scheduling updates."
+        ]
+      }
+    ],
+    "facts": [
+      "Chicago Fire Season 15 Episode 07 is titled No Love Lost",
+      "Taylor Kinney plays Kelly Severide",
+      "David Eigenberg plays Christopher Herrmann",
+      "Joe Minoso plays Joe Cruz",
+      "Christian Stolte plays Randy Mouch McHolland",
+      "Miranda Rae Mayo plays Stella Kidd",
+      "Hanako Greensmith plays Violet Mikami",
+      "Brandon Larracuente plays Sal Vasquez",
+      "Jocelyn Hudon plays Lizzy Novak",
+      "Randy Flagler plays Harold Capp",
+      "Anthony Ferraris plays Tony Ferraris",
+      "Carlos Miranda plays Jacob Morales",
+      "Melinda McGraw plays Margaret Mikami"
+    ],
+    "entities": {
+      "people": [
+        "Taylor Kinney",
+        "David Eigenberg",
+        "Joe Minoso",
+        "Christian Stolte",
+        "Miranda Rae Mayo",
+        "Hanako Greensmith",
+        "Brandon Larracuente",
+        "Jocelyn Hudon",
+        "Randy Flagler",
+        "Anthony Ferraris",
+        "Carlos Miranda",
+        "Melinda McGraw"
+      ],
+      "titles": [
+        "Chicago Fire",
+        "No Love Lost"
+      ]
+    },
+    "keywords": [
+      "Chicago Fire No Love Lost",
+      "Chicago Fire season 15 episode 7",
+      "Taylor Kinney Chicago Fire",
+      "Miranda Rae Mayo Chicago Fire"
+    ],
+    "images": [],
+    "published": "2026-11-19T03:00:00.252+00:00"
+  },
+  "13iddql": {
+    "id": "13iddql",
+    "type": "news",
+    "headline": "Jeff Bezos Shares Details on Choosing Robert Pattinson as the New James Bond",
+    "dek": "Amazon founder Jeff Bezos revealed his heavy involvement in casting Robert Pattinson as the next 007, detailing the rigorous screen tests that won over initial doubts.",
+    "body": [
+      {
+        "h": "The Casting Process And Jeff Bezos' Involvement",
+        "p": [
+          "Amazon founder Jeff Bezos recently discussed how Robert Pattinson was selected to take over the legendary role of James Bond. Speaking at a public conference, Bezos admitted he was intimately involved in the entire decision-making procedure and spent considerable time reviewing candidates.",
+          "The leadership group thoroughly evaluated multiple performers before whittling the contenders down to a final group of five. Each finalist participated in rigorous screen tests, performing three distinct sequences in full costume on specially constructed sets."
+        ]
+      },
+      {
+        "h": "Overcoming Initial Hesitation Over Fame",
+        "p": [
+          "Despite his impressive resume, Robert Pattinson was not an immediate favorite for everyone on the casting panel. The decision-makers felt a mild bias against him at first simply because he was already an established global star with a massive following.",
+          "The production team initially leaned toward finding a lesser-known performer to step into the iconic spy franchise. However, those reservations vanished completely once the actor completed his official screen tests."
+        ]
+      },
+      {
+        "h": "A Decisive Screen Test Performance",
+        "p": [
+          "When the leadership committee gathered on a Friday to review the footage, Pattinson's remarkable audition made it clear he was meant for the part. Bezos noted that there was an undeniable quality in the actor's portrayal that completely shifted their perspective.",
+          "The screen test was described as so profoundly convincing that it eliminated any lingering debate among the executives. The final consensus was immediate and absolute, confirming that he truly embodied the legendary secret agent."
+        ]
+      },
+      {
+        "h": "Robert Pattinson's Career Journey",
+        "p": [
+          "At forty years of age, Robert Pattinson brings an extensive cinematic history to the 007 franchise. He first gained widespread attention playing Cedric Diggory in a major fantasy film before achieving global superstardom in a prominent vampire romance saga.",
+          "Over the years, he expanded his range through acclaimed performances in independent dramas, sci-fi thrillers, and a gritty portrayal of a famous comic book vigilante in a dark superhero film."
+        ]
+      },
+      {
+        "h": "The Iconic Franchise And New Studio Backing",
+        "p": [
+          "The upcoming motion picture will represent the very first installment in the long-running British secret agent franchise to be supported by Amazon MGM Studios. The studio acquired creative control over the property via a partnership with longtime franchise custodians.",
+          "As anticipation builds for this fresh chapter, audiences continue to await further announcements regarding additional cast members, supporting crew, and an official premiere schedule for the project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jeff Bezos revealed his close involvement in selecting Robert Pattinson as the next James Bond after a rigorous screen test process that overcame initial doubts about the actor's fame. The upcoming film marks the first James Bond project under Amazon MGM Studios, with further details eagerly awaited by fans worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Jeff Bezos spoke at Semafor’s Silicon Valley The World conference.",
+      "Five candidates were narrowed down for the final James Bond screen tests.",
+      "Candidates performed three scenes in costume and on specially prepared sets.",
+      "Robert Pattinson is 40 years old.",
+      "Robert Pattinson made his film debut as Cedric Diggory in Harry Potter and the Goblet of Fire in 2005.",
+      "Amazon MGM Studios took creative control of the franchise in 2025 through a joint venture with Michael Wilson and Barbara Broccoli."
+    ],
+    "entities": {
+      "people": [
+        "Jeff Bezos",
+        "Robert Pattinson",
+        "Michael Wilson",
+        "Barbara Broccoli",
+        "Cedric Diggory",
+        "Edward Cullen",
+        "Bruce Wayne"
+      ],
+      "titles": [
+        "James Bond",
+        "Harry Potter and the Goblet of Fire",
+        "The Twilight Saga",
+        "The Lost City of Z",
+        "Tenet",
+        "The Batman"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Jeff Bezos James Bond casting",
+      "new James Bond actor",
+      "Robert Pattinson as 007"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/18121105/Miss-Malini-Wordpress-Images-2026-11-18T115937.241.jpg",
+        "caption": "Jeff Bezos Shares Details on Choosing Robert Pattinson as the New James Bond",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-19T04:51:55Z"
+  },
+  "17f6814": {
+    "id": "17f6814",
+    "type": "news",
+    "headline": "Selling Sunset Season 10 Official Trailer Released by Netflix Ahead of December Debut",
+    "dek": "The hit real estate reality series returns for its milestone tenth season, featuring returning favorites alongside a brand new crop of agents at the Oppenheim Group.",
+    "body": [
+      {
+        "h": "Official Trailer Debut and Premiere Date",
+        "p": [
+          "Netflix has officially released the trailer for the tenth season of its hit reality series Selling Sunset. Fans can mark their calendars as the milestone new season is scheduled to debut on December 4.",
+          "The upcoming season promises a major glow-up for the famous Oppenheim Group brokerage. Set against the glossy background of Los Angeles real estate, the new episodes will bring high stakes, elevated fashion, and plenty of office drama."
+        ]
+      },
+      {
+        "h": "Returning Favorites and Grand Returns",
+        "p": [
+          "Season 10 brings back familiar faces that fans have grown to love over the years. Original cast members Christine Quinn and Heather Rae El Moussa are making their grand returns to the series.",
+          "They will be joining a strong lineup of returning colleagues at the brokerage. Key cast members Jason Oppenheim, Brett Oppenheim, Bre Tiesi, and Amanza Smith are all back for the new episodes."
+        ]
+      },
+      {
+        "h": "Fresh Faces Joining the Brokerage",
+        "p": [
+          "In addition to the returning veterans, a crop of fresh new agents is storming the office. This new group includes Tara Burns, Sonni Pacheco, Sasha Stevenson, and Jordyn Taylor.",
+          "The arrival of these new personalities is set to raise the stakes in the office. Office dynamics will quickly begin to shift as fresh willpower is put to the test."
+        ]
+      },
+      {
+        "h": "Rising Stakes and Past Drama",
+        "p": [
+          "With a bold new reality facing the brokerage, agents will find their willpower severely tested. Fresh dynamics will rapidly emerge as everyone adjusts to the changing environment.",
+          "Furthermore, unfinished business and drama from the past are set to make a comeback. Old conflicts will return to bite the agents when they least expect it."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Production Team",
+        "p": [
+          "The tenth season of the reality hit is brought to viewers by a dedicated team of executive producers. The leadership behind the scenes includes Adam DiVello, Skyler Wakil, Sundee Manusakis, Suzy Ratner, Megan Roger, and Jason Oppenheim.",
+          "Production responsibilities for the series are handled by Done and Done Productions in association with Lionsgate. The collaborative effort ensures the high production value fans expect."
+        ]
+      },
+      {
+        "h": "Reflecting on Ten Seasons of Success",
+        "p": [
+          "Reflecting on the show's milestone achievement, executive producer and cast member Jason Oppenheim shared his thoughts. He expressed immense pride in showcasing Los Angeles and his passion for real estate to a global audience.",
+          "Oppenheim emphasized that his greatest reward has been seeing fans excited to meet Oppenheim Group agents. Knowing the show brings happiness, laughter, and entertainment to families has been deeply fulfilling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has debuted the official trailer for the tenth season of Selling Sunset, scheduled to premiere on December 4. The milestone season features the return of original cast members Christine Quinn and Heather Rae El Moussa alongside several new agents joining the Oppenheim Group."
+        ]
+      }
+    ],
+    "facts": [
+      "Selling Sunset Season 10 debuts on December 4",
+      "Christine Quinn and Heather Rae El Moussa return for Season 10",
+      "New cast members include Tara Burns, Sonni Pacheco, Sasha Stevenson, and Jordyn Taylor",
+      "Executive producers include Adam DiVello, Skyler Wakil, Sundee Manusakis, Suzy Ratner, Megan Roger, and Jason Oppenheim"
+    ],
+    "entities": {
+      "people": [
+        "Christine Quinn",
+        "Heather Rae El Moussa",
+        "Bre Tiesi",
+        "Amanza Smith",
+        "Jason Oppenheim",
+        "Brett Oppenheim",
+        "Tara Burns",
+        "Sonni Pacheco",
+        "Sasha Stevenson",
+        "Jordyn Taylor",
+        "Adam DiVello",
+        "Skyler Wakil",
+        "Sundee Manusakis",
+        "Suzy Ratner",
+        "Megan Roger"
+      ],
+      "titles": [
+        "Selling Sunset"
+      ]
+    },
+    "keywords": [
+      "Selling Sunset Season 10",
+      "Jason Oppenheim Selling Sunset",
+      "Christine Quinn Selling Sunset",
+      "Heather Rae El Moussa Selling Sunset",
+      "Selling Sunset Netflix December 4"
+    ],
+    "images": [
+      {
+        "url": "http://www.thefutoncritic.com/images/global/bugblank.jpg",
+        "caption": "Selling Sunset Season 10 Official Trailer Released by Netflix Ahead of December Debut",
+        "source": "The Futon Critic"
+      }
+    ],
+    "published": "2026-11-18T09:01:00+00:00"
   }
 };
