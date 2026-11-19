@@ -186342,5 +186342,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T05:15:27+05:30"
+  },
+  "9fmltg": {
+    "id": "9fmltg",
+    "type": "news",
+    "headline": "'Mookuthi Amman 2' Box Office Collections Day 13: Nayanthara Starrer Collects Rs 21.23 Cr; Why Recovering Its Rs 100 Cr Budget Will Be Tough",
+    "dek": "The fantasy drama starring Nayanthara is facing a challenging theatrical run, witnessing a dip in collections during its second week and falling far behind its reported high production budget.",
+    "body": [
+      {
+        "h": "Current Box Office Figures",
+        "p": [
+          "The fantasy drama featuring Nayanthara continues to navigate a difficult phase at the box office as its theatrical run progresses. During its thirteenth day in cinemas, the feature brought in a modest sum domestically, reflecting a slowing momentum.",
+          "Trade tracking indicates that the domestic net collection has reached a cumulative total that remains under pressure, while overall regional contributions highlight a stark contrast in audience turnout across different languages."
+        ]
+      },
+      {
+        "h": "Day-To-Day Collection Decline",
+        "p": [
+          "On the specific weekday of Wednesday, November 18, the movie managed to pull in a small amount domestically from hundreds of active screenings across the country. This marked a noticeable percentage drop compared to the previous day's earnings.",
+          "The downturn demonstrates that the feature is struggling to retain spectator interest as it moves further away from its opening week numbers, which had initially provided a stronger foundation for the total gross."
+        ]
+      },
+      {
+        "h": "Regional Language Breakdown",
+        "p": [
+          "A closer look at the geographical and linguistic revenue streams reveals that Tamil language screenings have acted as the primary driver for the film. Tamil language ticket sales account for the vast majority of the domestic net earnings.",
+          "Meanwhile, Telugu language screenings contributed only a single-digit percentage to the overall domestic tally, showing significantly lower traction outside of its core regional market."
+        ]
+      },
+      {
+        "h": "Theatre Occupancy Rates",
+        "p": [
+          "Audience attendance across halls running the Tamil version showed modest numbers throughout the day. Morning shows began with single-digit occupancy rates before picking up slightly during afternoon screenings.",
+          "Evening and night slots recorded the highest filling rates of the day, though these percentages still left a large portion of seats vacant across participating venues."
+        ]
+      },
+      {
+        "h": "Budget Recovery Challenges",
+        "p": [
+          "Financial projections indicate that achieving profitability will be an uphill battle given the high financial outlay required to produce and promote the project. Reports estimate the total budget reached a considerable figure, far outpacing current earnings.",
+          "Without an unexpected and drastic surge in theatrical footfall, closing the gap between the initial investment and the ongoing box office returns remains an improbable task."
+        ]
+      },
+      {
+        "h": "Cast and Creative Direction",
+        "p": [
+          "The narrative is spearheaded by a lead star cast playing a policewoman who discovers a profound connection to a divine entity. The project is directed by Sundar C, who also co-wrote the screenplay alongside Venkat Raghavan.",
+          "The plot weaves together mythology and supernatural conflict, pitting the protagonist against an ancient dark sorceress and her partner as she works to protect a young prince."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The fantasy drama 'Mookuthi Amman 2' has reached a domestic net collection of Rs 21.23 crore by its thirteenth day, continuing to face difficulties in recovering its substantial reported budget of Rs 100 crore.",
+          "Starring Nayanthara and directed by Sundar C, the film relies heavily on its Tamil language screenings while experiencing declining daily revenues and modest theatre occupancy rates."
+        ]
+      }
+    ],
+    "facts": [
+      "The film collected Rs 25 lakh net in India on Wednesday, November 18.",
+      "Wednesday's earnings represented a 16.7% decline compared to Tuesday's Rs 30 lakh.",
+      "Domestic net collection has reached Rs 21.23 cr.",
+      "India gross stands at Rs 24.48 cr.",
+      "The movie earned an average of Rs 3,650 per show on Day 13.",
+      "Opening week contributed Rs 17.93 cr net and Rs 20.72 cr gross.",
+      "Subsequent six days added Rs 3.30 cr net and Rs 3.76 cr gross.",
+      "The movie has recorded 16,812 shows across its theatrical run.",
+      "Tamil version contributed Rs 20.03 cr to the India net total, accounting for 94.3% of earnings.",
+      "Telugu screenings generated Rs 1.20 cr, representing 5.7%.",
+      "Tamil version registered an overall occupancy of 15.71% on Wednesday.",
+      "Estimated budget of the film is Rs 100 cr."
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "Venkat Raghavan",
+        "Regina Cassandra",
+        "Duniya Vijay"
+      ],
+      "titles": [
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 box office",
+      "Nayanthara Mookuthi Amman 2 collection",
+      "Mookuthi Amman 2 budget recovery",
+      "Sundar C Mookuthi Amman 2 earnings"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135974572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Mookuthi Amman 2' Box Office Collections Day 13: Nayanthara Starrer Collects Rs 21.23 Cr; Why Recovering Its Rs 100 Cr ",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T05:50:35+05:30"
+  },
+  "1beb3ug": {
+    "id": "1beb3ug",
+    "type": "news",
+    "headline": "Paramount+ Gives Green Light to Political Drama 'Clandestine' Starring Brit Marling and Tilda Swinton",
+    "dek": "The high-stakes political drama from creators Brit Marling and Zal Batmanglij has officially landed a series order at Paramount+ following a competitive bidding war.",
+    "body": [
+      {
+        "h": "A Major Series Order at Paramount+",
+        "p": [
+          "Paramount+ has officially given a series order to Clandestine, a high-stakes family drama centered around the political elite in Washington, D.C. The project is created, written, and executive produced by Brit Marling and Zal Batmanglij, celebrated for their previous collaborative work on acclaimed shows.",
+          "The production is backed by the independent studio Sister Pictures, which operates as part of the broader Sister Group. While the project had secured development under the previous platform leadership, it transitioned smoothly into the current strategic framework of the newly combined streaming operations."
+        ]
+      },
+      {
+        "h": "Starring Brit Marling and Tilda Swinton",
+        "p": [
+          "The upcoming drama features a prominent dual lead pairing, with co-creator Brit Marling taking on an on-screen role alongside Academy Award winner Tilda Swinton. For Swinton, this venture marks a significant television commitment, representing the largest series regular television role of her illustrious career thus far.",
+          "Casting for the remaining key roles has been actively underway since the summer months. Although the initial green light was secured without being strictly contingent on the full cast lineup, locking down top-tier talent opposite the main leads remained a high priority for the production team."
+        ]
+      },
+      {
+        "h": "Development History and Bidding Battle",
+        "p": [
+          "The creative journey for Clandestine began taking shape while previous studio executives were overseeing operations at Sister. The creators took their finished script out to the market during the spring, drawing heavy interest from multiple major outlets.",
+          "Ultimately, Paramount+ secured the series after prevailing in a competitive bidding war that also included major interest from FX and HBO. The competition was particularly notable given the professional history between the creators and various network executives who had previously commissioned their earlier streaming hits."
+        ]
+      },
+      {
+        "h": "Leadership Transitions and Executive Oversight",
+        "p": [
+          "The path of the series intersected with major corporate shifts, notably the merger between Paramount and Warner Bros. Discovery. This corporate realignment brought new content leadership into place, altering the reporting structure for original programming divisions.",
+          "Creative oversight of the drama slate is now managed by senior executives within the combined company. As leadership teams reviewed the existing development slate, prestige projects aligned with high-end premium standards were prioritized for continued production."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Production Team",
+        "p": [
+          "Alongside Marling and Batmanglij, the writing and executive production team includes Rory Haines and Sohrab Noshirvani. Jane Featherstone serves as an executive producer representing Sister Pictures.",
+          "Additional creative leadership involves co-executive producers Blake Holland and Alice Tyler, alongside producer Callum Devrell-Cameron. The collaborative team brings together diverse experience across acclaimed international television and film projects."
+        ]
+      },
+      {
+        "h": "The Creators' Legacy and Swinton's TV Return",
+        "p": [
+          "Brit Marling and Zal Batmanglij first established their distinct voice in the independent film sphere with their 2011 breakout feature Sound of My Voice, which premiered at the Sundance Film Festival. Their subsequent streaming projects built a dedicated cult following and cemented their reputation for complex narrative storytelling.",
+          "Tilda Swinton's involvement brings a rare television presence to the series, contrasting with her extensive and celebrated filmography. Her recent cinematic appearances include roles in high-profile international features directed by renowned auteurs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ has officially ordered the political drama series Clandestine, created by Brit Marling and Zal Batmanglij, featuring starring performances by Marling and Tilda Swinton. Produced by Sister Pictures, the project survived leadership transitions following a corporate merger and emerged victorious from a competitive bidding war against rival networks."
+        ]
+      }
+    ],
+    "facts": [
+      "Brit Marling and Zal Batmanglij created Clandestine",
+      "Tilda Swinton stars alongside Brit Marling",
+      "Sister Pictures produces the series",
+      "The project was won in a bidding war against FX and HBO"
+    ],
+    "entities": {
+      "people": [
+        "Brit Marling",
+        "Tilda Swinton",
+        "Zal Batmanglij",
+        "Rory Haines",
+        "Sohrab Noshirvani",
+        "Jane Featherstone",
+        "Blake Holland",
+        "Alice Tyler",
+        "Callum Devrell-Cameron"
+      ],
+      "titles": [
+        "Clandestine",
+        "Sound of My Voice",
+        "The OA",
+        "A Murder At the End of the World"
+      ]
+    },
+    "keywords": [
+      "Clandestine series",
+      "Brit Marling Clandestine",
+      "Tilda Swinton Paramount",
+      "Clandestine Paramount Plus"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/BritMarlingTildaSwinton.jpg?w=1024",
+        "caption": "Paramount+ Gives Green Light to Political Drama 'Clandestine' Starring Brit Marling and Tilda Swinton",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 00:02:46 +0000"
+  },
+  "11am910": {
+    "id": "11am910",
+    "type": "news",
+    "headline": "Sameera Reddy Recalls Nana Patekar's Quiet Philanthropy During Film Collaborations",
+    "dek": "Actor Sameera Reddy shares fond memories of working with the late Nana Patekar, highlighting his extensive, low-profile charitable contributions.",
+    "body": [
+      {
+        "h": "Reflecting on Early Career Collaborations",
+        "p": [
+          "Actor Sameera Reddy recently opened up about her experiences sharing the screen with the late veteran actor Nana Patekar. Having collaborated with him on projects early in her own career, Reddy expressed deep admiration for his craft and off-screen character.",
+          "Their professional paths crossed in the 2003 horror anthology Darna Mana Hai and later in the 2006 comedy thriller Taxi No. 9211. Working alongside a seasoned performer left a lasting impression on the younger members of the cast."
+        ]
+      },
+      {
+        "h": "Unveiling Quiet Philanthropic Efforts",
+        "p": [
+          "While Patekar enjoyed widespread acclaim for his powerful performances, Reddy emphasized that his dedication to charitable causes deserved equal recognition. She noted that he heavily supported numerous institutions without seeking publicity.",
+          "According to the actor, she only discovered the extent of his generosity while shooting for Taxi No. 9211. Unlike many figures in the entertainment industry who publicize their donations, Patekar preferred to keep his charitable endeavors entirely confidential."
+        ]
+      },
+      {
+        "h": "Deepening Respect Off the Screen",
+        "p": [
+          "Reddy recounted that witnessing the veteran actor's humility and humanitarian work sparked a profound sense of respect. She explained that his quiet altruism added another layer of appreciation to her perception of him.",
+          "The stark contrast between his high-profile celebrity status and his humble, hidden contributions made her value him not just as an exceptional artist, but as a genuinely compassionate human being."
+        ]
+      },
+      {
+        "h": "Learning the Craft on Set",
+        "p": [
+          "In addition to his philanthropic work, Reddy highlighted the invaluable learning experience of watching Patekar act. She observed his intricate approach to character building while he portrayed a layered, unconventional taxi driver.",
+          "Alongside co-star John Abraham, who played a wealthy businessman crossing paths with the driver over a single day, the younger cast members absorbed numerous lessons in performance and screen presence."
+        ]
+      },
+      {
+        "h": "Remembering the Film Taxi No. 9211",
+        "p": [
+          "Directed by Milan Luthria, Taxi No. 9211 remains a notable film in Hindi cinema for its engaging plot and standout performances. The story revolves around the collision of two very different lives over the course of a day.",
+          "Patekar played the taxi driver Raghav Shastri, while Abraham portrayed the businessman Jai Mittal. Sameera Reddy featured in the movie as Rupali, the girlfriend of Abraham's character, alongside co-star Sonali Kulkarni."
+        ]
+      },
+      {
+        "h": "The Passing of a Veteran",
+        "p": [
+          "Nana Patekar passed away on October 8 at the age of 75 in Goa. Medical professionals attempted emergency resuscitation with CPR for approximately 45 minutes after he was rushed to a hospital.",
+          "Subsequent medical evaluations and postmortem findings confirmed that the veteran actor suffered a fatal heart attack, bringing an end to his decades-long journey in cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sameera Reddy remembered the late actor Nana Patekar for his quiet philanthropy and heavy donations to various charities during their time working together on Taxi No. 9211. Patekar passed away at the age of 75 on October 8 due to a heart attack."
+        ]
+      }
+    ],
+    "facts": [
+      "Nana Patekar passed away on October 8 at the age of 75 in Goa.",
+      "The postmortem report confirmed Nana Patekar died of a heart attack.",
+      "Doctors attempted to revive Nana Patekar with CPR for around 45 minutes.",
+      "Sameera Reddy worked with Nana Patekar in Taxi No. 9211 (2006) and Darna Mana Hai (2003).",
+      "Taxi No. 9211 was directed by Milan Luthria."
+    ],
+    "entities": {
+      "people": [
+        "Sameera Reddy",
+        "Nana Patekar",
+        "John Abraham",
+        "Sonali Kulkarni",
+        "Milan Luthria"
+      ],
+      "titles": [
+        "Taxi No. 9211",
+        "Darna Mana Hai"
+      ]
+    },
+    "keywords": [
+      "Sameera Reddy",
+      "Nana Patekar",
+      "Taxi No. 9211",
+      "Darna Mana Hai"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/Sameera_Reddy_1725433983811_1795003533151_Ftcs_e0b5f627-827e-4b16-88ce-bb7bdfee62c3_NaRg.jpg",
+        "caption": "Sameera Reddy Recalls Nana Patekar's Quiet Philanthropy During Film Collaborations",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 06:05:58 +0530"
+  },
+  "172mw7e": {
+    "id": "172mw7e",
+    "type": "news",
+    "headline": "Sooraj Barjatya explains casting Ayushmann Khurrana for Yeh Prem Mol Liya",
+    "dek": "Director Sooraj Barjatya and actor Ayushmann Khurrana discuss stepping into the iconic Prem legacy at the trailer launch of Yeh Prem Mol Liya.",
+    "body": [
+      {
+        "h": "The Return of Prem in Mumbai",
+        "p": [
+          "Filmmaker Sooraj Barjatya is reviving his legendary cinematic persona, Prem, with actor Ayushmann Khurrana stepping into the iconic role for the upcoming family drama Yeh Prem Mol Liya. The official trailer for the movie debuted on a Wednesday during a launch event held in Mumbai, giving audiences their initial glimpse at the project which also co-stars Sharvari.",
+          "The announcement of a new face taking on the character sparked significant discussion among fans of Rajshri films. During the press gathering, the director elaborated on the creative decisions that led him to cast Ayushmann and shared insights into how the actor was encouraged to infuse his own distinct personality into the beloved role."
+        ]
+      },
+      {
+        "h": "Why Ayushmann Khurrana Was the Sole Choice",
+        "p": [
+          "According to the director, Ayushmann was the only actor who crossed his mind when the subject of the film was first presented to him. He sought someone capable of portraying a thoughtful protagonist who gently questions various aspects of life using a tender and personal perspective.",
+          "The filmmaker noted that Ayushmann's previous filmography, which includes projects like Bala and Dream Girl, highlights a natural simplicity and an ability to deliver meaningful viewpoints with grace. This inherent quality made him the ideal fit for the newly conceptualized version of the character."
+        ]
+      },
+      {
+        "h": "Acknowledging the Original Prem",
+        "p": [
+          "Stepping into a role historically linked with Salman Khan brings substantial expectations and responsibility. Salman famously played Prem across multiple Rajshri productions, beginning with his debut in the industry, while Shahid Kapoor also portrayed the character in Vivaah.",
+          "Addressing these massive expectations at the launch, Ayushmann referred to Salman as the original Prem, stating that nobody could portray the role better. He emphasized that embodying the character requires walking the talk and projecting the qualities of a sensitive, kind, and fundamentally good person."
+        ]
+      },
+      {
+        "h": "A Familiar Directional Approach",
+        "p": [
+          "The director drew parallels between his work with Salman Khan and his experience directing Ayushmann for this new feature. Rather than forcing actors to mimic past interpretations, he prefers to let them incorporate their own individual traits into the performance.",
+          "On the very first day of shooting, the filmmaker noticed that Ayushmann had grasped the underlying tone of the character effortlessly. He compared this creative freedom to his collaborative process with Salman, where narrative beats are discussed before allowing the actor to add his own personal spin."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Musical Collaborations",
+        "p": [
+          "Beyond the leads, the extensive supporting cast features well-known performers including Anupam Kher, Supriya Pathak Kapur, Seema Pahwa, Swanand Kirkire, Saumya Tandon, Shruti Seth, Shaad Randhawa, Girish Kulkarni, and Rajesh Kumar.",
+          "The project is a collaborative production between Rajshri Productions and Mahaveer Jain Films, marking Sooraj Barjatya's return to the director's chair following his National Award-winning film Uunchai. Furthermore, the director has reunited with composer Himesh Reshammiya for the soundtrack, which features a promotional track titled Jhumka Patola sung by Shreya Ghoshal."
+        ]
+      },
+      {
+        "h": "Release Details and Upcoming Clashes",
+        "p": [
+          "The Central Board of Film Certification has assigned the movie a U/A 13+ rating, and the final cut has an approximate runtime of two hours and fifty-three minutes. Fans can expect to see the project arrive in cinemas worldwide on November 27, 2026.",
+          "Upon hitting the big screen, the feature will experience a direct box-office clash with Gunmaaster G9, an upcoming film starring Emraan Hashmi and Genelia Deshmukh."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Sooraj Barjatya revealed why Ayushmann Khurrana was his exclusive choice to play the iconic character Prem in the upcoming family drama Yeh Prem Mol Liya, which also stars Sharvari. Ayushmann acknowledged the weight of taking on a role famously defined by Salman Khan, while the filmmaker praised the actor's natural simplicity and the freedom he was given to shape the character."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer of Yeh Prem Mol Liya was released on Wednesday, November 19, 2026.",
+      "Yeh Prem Mol Liya is scheduled to release in theatres worldwide on November 27, 2026.",
+      "The film has a runtime of approximately 2 hours and 53 minutes and received a U/A 13+ certificate from the CBFC.",
+      "Yeh Prem Mol Liya will clash at the box office with Gunmaaster G9, starring Emraan Hashmi and Genelia Deshmukh."
+    ],
+    "entities": {
+      "people": [
+        "Sooraj Barjatya",
+        "Ayushmann Khurrana",
+        "Salman Khan",
+        "Sharvari",
+        "Shahid Kapoor",
+        "Anupam Kher",
+        "Supriya Pathak Kapur",
+        "Seema Pahwa",
+        "Swanand Kirkire",
+        "Saumya Tandon",
+        "Shruti Seth",
+        "Shaad Randhawa",
+        "Girish Kulkarni",
+        "Rajesh Kumar",
+        "Himesh Reshammiya",
+        "Shreya Ghoshal",
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Bala",
+        "Dream Girl",
+        "Vivaah",
+        "Uunchai",
+        "Prem Ratan Dhan Payo",
+        "Jhumka Patola",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Ayushmann Khurrana",
+      "Sooraj Barjatya",
+      "Salman Khan"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/Salman_Khan_Ayushmann_Khurrana_1795018414198_GfPX_1795018420083_qll3_5fd7e924-8105-4a56-b3e3-7f1986fc1f4f_Izch.jpg",
+        "caption": "Sooraj Barjatya explains casting Ayushmann Khurrana for Yeh Prem Mol Liya",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 06:03:50 +0530"
   }
 };
