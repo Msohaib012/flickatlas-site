@@ -194059,5 +194059,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 19:44:11 +0000"
+  },
+  "bc8ehd": {
+    "id": "bc8ehd",
+    "type": "news",
+    "headline": "OM Advance Booking Day 1: Dhanush's Spy Thriller Crosses Rs 9 Crore in Presales",
+    "dek": "Dhanush starrer O.M: Operation Mole sets a new personal record with phenomenal advance ticket sales for its opening day.",
+    "body": [
+      {
+        "h": "Introduction to O.M: Operation Mole",
+        "p": [
+          "Actor Dhanush has dominated entertainment headlines following his earlier work in Kara this year, and he is now generating massive buzz with his new cinematic venture, O.M: Operation Mole. Framed as a high-stakes spy action thriller, the film has quickly established itself as one of the most anticipated theatrical events of the calendar.",
+          "Helmed by writer and director Rajkumar Periasamy, the feature brings together a major ensemble cast that has kept moviegoers talking ever since the initial promotional materials dropped. With excitement reaching a fever pitch, fans have eagerly secured their seats well ahead of the official opening."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble",
+        "p": [
+          "Alongside Dhanush in the lead, O.M: Operation Mole features a powerhouse cast including Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans in pivotal roles. The sheer star power involved has significantly amplified audience expectations across multiple regions.",
+          "The project also marks noteworthy reunions and new pairings within the industry. It serves as Dhanush's second collaboration with Sai Pallavi following their 2018 release Maari 2, and reunites Dhanush with Mammootty after a prior cameo connection in the 2013 film Kammath & Kammath."
+        ]
+      },
+      {
+        "h": "Phenomenal Day 1 Advance Booking",
+        "p": [
+          "With ticket windows opening well before the official premiere, the response from moviegoers has proven extraordinary. Advance sales figures compiled ahead of the release date indicate a massive wave of early ticket purchases.",
+          "According to a report from Sacnilk, the film accumulated Rs 9.74 crore through advance bookings alone for its opening day. This impressive figure was driven by the sale of 6.08 lakh tickets across participating theaters."
+        ]
+      },
+      {
+        "h": "Breaking Previous Records",
+        "p": [
+          "The opening day presales milestone has allowed O.M: Operation Mole to surpass the performance of Dhanush's previous outings. Specifically, its Rs 9.74 crore collection successfully beats the presales figures for Raayan, which had brought in Rs 6.15 crore from the sale of 4.3 lakh tickets.",
+          "By outperforming these prior benchmarks, the new spy thriller has officially recorded the highest advance booking collection of Dhanush's career thus far, underlining his growing box office pull."
+        ]
+      },
+      {
+        "h": "Reflecting on Mammootty",
+        "p": [
+          "Behind-the-scenes dynamics have also added a personal touch to the film's promotional journey. Discussing his veteran co-star Mammootty, Dhanush recalled their brief past interaction during Kammath & Kammath, noting that he initially perceived the legendary actor as rather rude based on interviews and fleeting meetings.",
+          "However, working closely together on the set of O.M: Operation Mole completely shifted that perspective. Dhanush emphasized that within three days of meeting him, he discovered Mammootty to be exceptionally sweet, humble, grounded, and giving, accompanied by an unbelievable sense of humor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush's new spy action thriller O.M: Operation Mole has achieved a record-breaking opening day advance booking collection of Rs 9.74 crore by selling 6.08 lakh tickets. Directed by Rajkumar Periasamy and co-starring Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans, the film successfully surpasses the presales record of Dhanush's earlier release Raayan."
+        ]
+      }
+    ],
+    "facts": [
+      "O.M: Operation Mole is written and directed by Rajkumar Periasamy.",
+      "The film stars Dhanush, Mammootty, Sai Pallavi, Sreeleela, Naseeruddin Shah, and Indrans.",
+      "OM day 1 advance booking collection reached Rs 9.74 crore with 6.08 lakh tickets sold.",
+      "Raayan had an advance booking collection of Rs 6.15 crore with 4.3 lakh tickets sold.",
+      "Dhanush and Sai Pallavi previously collaborated in Maari 2 in 2018.",
+      "Dhanush had a cameo in Mammootty's Kammath & Kammath in 2013.",
+      "The article was published on Friday, November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Rajkumar Periasamy",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Indrans"
+      ],
+      "titles": [
+        "Kara",
+        "O.M: Operation Mole",
+        "Maari 2",
+        "Kammath & Kammath",
+        "Raayan"
+      ]
+    },
+    "keywords": [
+      "OM advance booking collection",
+      "Dhanush Operation Mole",
+      "OM vs Raayan advance booking",
+      "Mammootty Dhanush movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ompresalesday1feature-48271795118353.jpg",
+        "caption": "OM Advance Booking Day 1: Dhanush's Spy Thriller Crosses Rs 9 Crore in Presales",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 01:31:19 +0530"
+  },
+  "1rth31g": {
+    "id": "1rth31g",
+    "type": "news",
+    "headline": "Marvel Fans Demand New Avengers: Doomsday Trailer With Hilarious Ultimatum",
+    "dek": "As the release date for Avengers: Doomsday approaches, frustrated Marvel enthusiasts are refusing to purchase advance tickets until the studio drops one final preview.",
+    "body": [
+      {
+        "h": "The Growing Wait For Final Footage",
+        "p": [
+          "Enthusiasts following the rollout of Avengers: Doomsday are eagerly awaiting further glimpses into the blockbuster before it arrives in cinemas next month. Over recent weeks, details about the narrative have trickled out through merchandise drops and promotional materials, yet supporters remain hungry for a definitive final trailer.",
+          "The desire for new footage intensified sharply after the conclusion of VisionQuest confirmed that Wanda is indeed alive. Consequently, viewers are lobbying for additional previews to shed light on her role and provide a deeper look at the overarching storyline."
+        ]
+      },
+      {
+        "h": "Fans Issue Lighthearted Ticket Boycott",
+        "p": [
+          "With Marvel Studios withholding further trailers despite advance tickets going on sale, community members have turned to social media to voice their annoyance. Some supporters have humorously declared that they will abstain from purchasing tickets until a fresh preview surfaces online.",
+          "This playful resistance highlights the immense passion surrounding the cinematic universe. Rather than causing genuine harm, the online banter reflects the high-stakes excitement typical of major superhero film rollouts."
+        ]
+      },
+      {
+        "h": "Social Media Reactions And Demands",
+        "p": [
+          "Users across X have been vocal about their longing for promotional content. One individual, @jomark_magbanua, posted a request for the trailer to catch more teases of the Scarlet Witch.",
+          "Another account, @Thomas_theman25, humorously threatened to skip buying tickets entirely and watch Dune multiple times instead. Additional comments from users like @Attorney4Agatha and @GarlandssALT similarly implored the studio to end the agonizing wait and deliver the requested footage."
+        ]
+      },
+      {
+        "h": "Marketing Campaigns And The Las Vegas Sphere",
+        "p": [
+          "The clamor for promotional material coincides with Marvel Studios ramping up its broader marketing strategy. Recent announcements indicate that the upcoming blockbuster will receive a special promotional activation at the Las Vegas Sphere.",
+          "These efforts are designed to emphasize the formidable presence of Doctor Doom as the premiere date nears. Even so, the absence of a traditional video trailer during these campaign milestones has left followers wanting more."
+        ]
+      },
+      {
+        "h": "Countdown Milestones And Upcoming Release",
+        "p": [
+          "Anticipation reached a fever pitch when the film's official countdown clock hit exactly one month remaining until opening day. Supporters had anticipated that this milestone would coincide with a major trailer release.",
+          "Because Marvel Studios chose not to issue an update at that juncture, eagerness for another look at the feature has only continued to swell. Avengers: Doomsday is scheduled to hit theaters on December 18, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel fans are demanding a final trailer for Avengers: Doomsday and have humorously threatened to withhold ticket purchases until it is released. The outcry follows a recent tease regarding Wanda's survival in VisionQuest and precedes the film's theatrical debut on December 18, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases in theaters on December 18, 2026.",
+      "VisionQuest revealed that Wanda is alive.",
+      "Marvel Studios is promoting Avengers: Doomsday at the Sphere in Las Vegas.",
+      "Anuraag Chatterjee reported the story on November 19, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Anuraag Chatterjee",
+        "jomark_magbanua",
+        "Thomas_theman25",
+        "Attorney4Agatha",
+        "GarlandssALT"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "VisionQuest",
+        "Dune"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Marvel Studios Doomsday",
+      "Avengers Doomsday tickets",
+      "VisionQuest Wanda alive"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/avengers-doomsday-1.jpg?resize=1200,630",
+        "caption": "Marvel Fans Demand New Avengers: Doomsday Trailer With Hilarious Ultimatum",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:45:38 +0000"
+  },
+  "12ycjzf": {
+    "id": "12ycjzf",
+    "type": "news",
+    "headline": "Ananya Panday, Ananya Birla, and Shanaya Kapoor Bring Pure Chaos to Koffee With Karan",
+    "dek": "Episode 6 of Koffee With Karan Season 9 delivered dating confessions, surprise phone calls to exes, and hilarious self-deprecating humor.",
+    "body": [
+      {
+        "h": "A Wild Group Therapy Session on the Couch",
+        "p": [
+          "Karan Johar returned with another explosive instalment of his celebrity chat show, turning a casual mid-week conversation into an unfiltered group therapy session. Episode 6 of Koffee With Karan Season 9 brought together actress Ananya Panday alongside businesswoman Ananya Birla, while childhood friend Shanaya Kapoor later walked in as a surprise wildcard entry for the rapid-fire round.",
+          "The trio held absolutely nothing back, dishing out dating confessions, billionaire secrets, and poking fun at nepotism and delayed cinematic debuts. Viewers were treated to candid revelations from the start, as the guests navigated the host's sharp probing with total ease and ample humor."
+        ]
+      },
+      {
+        "h": "Dating Confessions and Marriage Hopes",
+        "p": [
+          "Host Karan Johar wasted no time teasing Ananya Panday about her reputation for moving on quickly from past heartbreaks. Addressing the chatter surrounding her love life head-on, the actress offered an unapologetic perspective on romance and her ultimate relationship goals.",
+          "She confessed openly that she has experienced a few relationships, emphasizing that there is nothing inherently wrong with that reality. Expressing her deep-rooted belief in lifelong partnership, she noted that she feels she was born to get married, loves the concept of marriage, and looks forward to spending her life with one person. She added that if a dynamic fails to work or leaves individuals unhappy, everyone has the right to walk away."
+        ]
+      },
+      {
+        "h": "The Record-Breaking Phone Call Segment",
+        "p": [
+          "One of the standout moments arrived during the signature game segment when Panday was challenged to dial up former flames. Displaying impressive speed-dial luck, she reached out to Aditya Roy Kapur—who happened to be admitted to a hospital recovering from dengue—followed by Ishaan Khatter and a video call to Kartik Aaryan.",
+          "Remarkably, every single person answered the phone. Ananya Birla immediately teased her co-guest about contacting all her exes in one go, prompting Panday to laughingly declare herself a record breaker."
+        ]
+      },
+      {
+        "h": "Billionaire Secrets From Ananya Birla",
+        "p": [
+          "Businesswoman Ananya Birla shared plenty of intriguing stories of her own during the episode. She dropped fascinating insights into her high-profile lifestyle, revealing that she never carries physical cash and once went to the extent of getting an entire venue cleared purely for a private date night.",
+          "Beyond luxury anecdotes, Birla also opened up about her personal and professional struggles. She discussed rejecting a major marriage proposal multiple times while simultaneously navigating boardroom sexism and breaking barriers as a prominent entrepreneur."
+        ]
+      },
+      {
+        "h": "Shanaya Kapoor Joins as Wildcard",
+        "p": [
+          "The energy shifted when Shanaya Kapoor made her surprise entry onto the couch, injecting a fresh wave of hilarity and warmth. She addressed the endless chatter surrounding her cinematic journey with absolute grace, laughing off the rudest troll comment she had ever encountered regarding her long-awaited launch.",
+          "Making fun of the delay, she quoted a troll who remarked that she beat her father, Sanjay Kapoor, to the longest delayed debut. She also shared humorous anecdotes about her father endlessly talking about ice whenever she introduces him to potential suitors."
+        ]
+      },
+      {
+        "h": "Shared Crushes and Lighthearted Banter",
+        "p": [
+          "As the conversation flowed freely, the friendship between Panday and Kapoor was on full display. Both stars lightheartedly admitted to harboring a massive celebrity crush on Ranveer Singh.",
+          "Meanwhile, Panday poked fun at her fellow guest sharing her first name, jokingly remarking that she dislikes every other Ananya except Birla, capping off an episode filled with non-stop entertainment and playful banter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ananya Panday, Ananya Birla, and Shanaya Kapoor appeared as guests on Episode 6 of Koffee With Karan Season 9. The episode featured candid dating confessions, a hilarious phone call segment involving past flames, and lighthearted banter about industry debuts.",
+          "The trio kept viewers thoroughly entertained with uninhibited discussions about their personal lives, family quirks, and professional journeys on Karan Johar's famous couch."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 6 of Koffee With Karan Season 9 featured Ananya Panday, Ananya Birla, and Shanaya Kapoor.",
+      "Ananya Panday called Aditya Roy Kapur, Ishaan Khatter, and Kartik Aaryan during the show.",
+      "Aditya Roy Kapur was in the hospital with dengue when he received the call.",
+      "Shanaya Kapoor's father is Sanjay Kapoor.",
+      "Both Ananya Panday and Shanaya Kapoor admitted to having a crush on Ranveer Singh."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Ananya Birla",
+        "Shanaya Kapoor",
+        "Karan Johar",
+        "Aditya Roy Kapur",
+        "Ishaan Khatter",
+        "Kartik Aaryan",
+        "Sanjay Kapoor",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Koffee With Karan"
+      ]
+    },
+    "keywords": [
+      "Koffee With Karan Season 9",
+      "Ananya Panday",
+      "Ananya Birla",
+      "Shanaya Kapoor",
+      "Karan Johar"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/koffee-with-karan1795075979.jpg",
+        "caption": "Ananya Panday, Ananya Birla, and Shanaya Kapoor Bring Pure Chaos to Koffee With Karan",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-19T13:56:55+05:30"
+  },
+  "1ezysxt": {
+    "id": "1ezysxt",
+    "type": "news",
+    "headline": "Marvel Reveals Steve Rogers' Dark New Codename for Upcoming Hulk War Event",
+    "dek": "Steve Rogers receives a gruesome new moniker and terrifying visual redesign as part of the Infernal Hulk's monstrous team in the upcoming comic book event Hulk War.",
+    "body": [
+      {
+        "h": "Introduction to the New Era",
+        "p": [
+          "Marvel Comics has officially unveiled a chilling new codename for Steve Rogers, shedding the iconic Captain America mantle for a much darker identity. This shocking transition takes place within the context of the upcoming comic book event titled Hulk War, introducing a completely different status quo for the legendary hero.",
+          "Unlike previous eras where titles were passed down to trusted allies like Sam Wilson and Bucky Barnes, this latest development plunges the character into an entirely unexpected direction. Fans are introduced to a terrifying interpretation of Steve Rogers that breaks away from traditional superhero tropes."
+        ]
+      },
+      {
+        "h": "The Infernal Avengers Lineup",
+        "p": [
+          "Six months after the initial reveal of the Infernal Hulk's army, Marvel has officially named the members of this nightmarish iteration of the Avengers. Alongside Steve Rogers, other classic heroes receive horrific transformations and new titles tailored for the impending conflict.",
+          "The newly released character sheets highlight dramatic evolutions across the roster. Tony Stark becomes known as 'The Iron Thing', Spider-Man transforms into 'The Arthropod', Captain Marvel takes on the title of 'The Ebon Sphinx', Jubilee evolves into 'The Angler', and Vision is redefined as 'Diaboli Ex Machina'."
+        ]
+      },
+      {
+        "h": "The Gruesome Redesign of Steve Rogers",
+        "p": [
+          "Among all the members of the Infernal Hulk's team, the redesign given to Steve Rogers stands out as the most macabre. Rather than receiving a physical mutation or a powered-up exoskeleton like his peers, his fate takes a distinctly morbid turn.",
+          "Steve Rogers is depicted as crucified, bearing multiple spear wounds through his chest, back, and hands decorated with skulls. His unconscious or lifeless body is hoisted and carried by four zombie soldiers who are bathed entirely in his blood."
+        ]
+      },
+      {
+        "h": "Introducing The War Dead",
+        "p": [
+          "The official codename assigned to Steve Rogers for this dark team is 'The War Dead'. Designed by artist Nic Klein, the character sheet provides a closer look at the terrifyingly impractical nature of this new persona.",
+          "While teammates like the muscular Iron Thing and the energy-based Angler possess active combat capabilities, The War Dead appears physically incapacitated. The platform supporting his crucified body relies entirely on the strength of the undead soldiers carrying the weight."
+        ]
+      },
+      {
+        "h": "Historical Legacy of the Shield",
+        "p": [
+          "Throughout comic book history, the Captain America mantle has seen numerous official and unofficial successors. Following Steve Rogers' apparent disappearance in 1945, figures like William Nasland and Jeffrey Mace briefly wore the uniform to sustain public morale.",
+          "Other notable successors and impostors over the decades have included Isaiah Bradley, William Burnside during the Cold War, and Roscoe Simons. Even Steve himself has experienced dark variants in the past, such as his Captain Hydra clone during Secret Empire."
+        ]
+      },
+      {
+        "h": "Power Dynamics of the Infernal Hulk's Army",
+        "p": [
+          "Led by the Eldest-possessed body of the Hulk, the Infernal Hulk has established an imposing and nearly unbeatable force. The inclusion of heavy hitters like the colossal Arthropod and the flying Ebon Sphinx increases the threat level exponentially.",
+          "While Diaboli Ex Machina retains all of Vision's overpowered abilities without any moral restraints, The War Dead serves a primarily symbolic and gruesome role within the ranks of the monster Avengers."
+        ]
+      },
+      {
+        "h": "Publication Details and Availability",
+        "p": [
+          "Readers looking to witness the unfolding narrative of the upcoming conflict can find the details in the upcoming comic book release. The storyline officially kicks off with the release of Hulk War: Infernal Rage #1.",
+          "Scheduled to hit comic shop shelves on February 3, the issue is published by Marvel Comics and promises to deliver further insight into the horrifying fate of Steve Rogers and his teammates."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Comics has announced a dark new codename for Steve Rogers, transforming him into 'The War Dead' for the upcoming Hulk War event. The character's gruesome redesign features a crucified and blood-bathed body carried by undead soldiers as part of the Infernal Hulk's monstrous team."
+        ]
+      }
+    ],
+    "facts": [
+      "Steve Rogers receives the codename 'The War Dead' in Hulk War.",
+      "Tony Stark is named 'The Iron Thing'.",
+      "Spider-Man is named 'The Arthropod'.",
+      "Captain Marvel is named 'The Ebon Sphinx'.",
+      "Jubilee is named 'The Angler'.",
+      "Vision is named 'Diaboli Ex Machina'.",
+      "Hulk War: Infernal Rage #1 releases on February 3 from Marvel Comics.",
+      "The character sheet for the Infernal Avengers was designed by Nic Klein."
+    ],
+    "entities": {
+      "people": [
+        "Steve Rogers",
+        "Tony Stark",
+        "Sam Wilson",
+        "Bucky Barnes",
+        "William Nasland",
+        "Jeffrey Mace",
+        "Isaiah Bradley",
+        "William Burnside",
+        "Roscoe Simons",
+        "Nic Klein",
+        "Joe Simon",
+        "Jack Kirby"
+      ],
+      "titles": [
+        "Captain America",
+        "Hulk War",
+        "Hulk War: Infernal Rage #1",
+        "Secret Empire",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Steve Rogers The War Dead",
+      "Hulk War Marvel Comics",
+      "Infernal Avengers codenames",
+      "Steve Rogers new name"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/chris-evans-steve-rogers-leads-the-howling-commandos-in-captain-america-the-first-avenger.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Reveals Steve Rogers' Dark New Codename for Upcoming Hulk War Event",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 20:00:18 GMT"
   }
 };
