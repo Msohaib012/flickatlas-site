@@ -2,14 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "BR",
-      "date": "2026-11-19",
-      "date_kind": "digital",
-      "id": 1561834,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "US",
       "date": "2026-11-20",
       "date_kind": "digital",
@@ -95,6 +87,14 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "BR",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1561834,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "country": "US",
       "date": "2026-11-17",

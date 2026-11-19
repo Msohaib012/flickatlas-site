@@ -185883,5 +185883,464 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 18 Nov 2026 21:11:06 +0000"
+  },
+  "1qhirat": {
+    "id": "1qhirat",
+    "type": "news",
+    "headline": "'Ramayana' Box Office Collection Day 14: Ranbir Kapoor and Yash Starrer Crosses Rs 1,000 Crore in India",
+    "dek": "Namit Malhotra's epic film directed by Nitesh Tiwari reaches a historic domestic milestone in record time while pushing global gross collections past Rs 1,500 crore.",
+    "body": [
+      {
+        "h": "Reaching Historic Milestones",
+        "p": [
+          "The theatrical run of the epic motion picture 'Ramayana' has achieved a monumental milestone by officially surpassing the Rs 1,000 crore mark in the domestic market within just two weeks of release. Directed by Nitesh Tiwari and produced by Namit Malhotra, the feature has quickly established itself as a massive commercial success.",
+          "Tracking data from Sacnilk confirms that the big-budget production has entered an elite domestic category. This accomplishment establishes the feature as the sixth Indian film overall and the third Hindi-language production to enter the coveted Rs 1,000 crore domestic gross club."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Contributions",
+        "p": [
+          "The project brings together prominent cinematic figures, featuring performances by Ranbir Kapoor, Yash, and Sai Pallavi. Their combined star power has driven unprecedented ticket sales across multiple regions and languages since opening day.",
+          "For lead actors Ranbir Kapoor and Sai Pallavi, this milestone represents their first career entry into the Rs 1,000 crore India gross club. Meanwhile, co-star Yash adds a second title to his personal box office record following his previous blockbuster success."
+        ]
+      },
+      {
+        "h": "Breakdown of Day 14 Collections",
+        "p": [
+          "On its fourteenth day in theaters, the feature pulled in an estimated Rs 23.20 crore net across 22,289 shows nationwide. This single-day figure represents an 18.9% decline compared to its Day 13 performance of Rs 28.60 crore net.",
+          "The latest earnings push the total domestic net collection to an impressive Rs 844.40 crore. Concurrently, the cumulative domestic gross collection has climbed to an estimated Rs 1,009.05 crore."
+        ]
+      },
+      {
+        "h": "Multilingual Market Performance",
+        "p": [
+          "Language-wise earnings on the second Thursday show strong support from Hindi audiences, which contributed Rs 16.50 crore across 17,661 shows. Regional versions also maintained steady numbers during the mid-week run.",
+          "The Malayalam version added an estimated Rs 2.15 crore from 1,051 shows, while the Kannada dubbed version brought in Rs 1.65 crore across 897 shows. Additionally, the Tamil and Telugu versions contributed Rs 1.60 crore and Rs 1.30 crore respectively."
+        ]
+      },
+      {
+        "h": "Global Box Office Domination",
+        "p": [
+          "International markets continue to show robust demand, with the overseas territories contributing an estimated Rs 8 crore on Day 14. This brings the total overseas gross collection to an impressive Rs 510 crore.",
+          "Combined with domestic figures, the worldwide gross collection has officially reached a staggering total of Rs 1,519.05 crore. Industry reports note that the feature crossed this global threshold faster than any comparable title in cinematic history."
+        ]
+      },
+      {
+        "h": "Exclusive Industry Club Membership",
+        "p": [
+          "Entering the Rs 1,000 crore club places the production alongside elite historical blockbusters. Comparable titles on this exclusive roster include 'Baahubali 2', 'KGF: Chapter 2', 'Pushpa 2: The Rule', and the 'Dhurandhar' franchise.",
+          "As only the third Bollywood movie to achieve this feat, it follows in the footsteps of the 'Dhurandhar' films. The historic run cements the creative team's vision and demonstrates sustained audience enthusiasm."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's 'Ramayana', directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, crossed Rs 1,000 crore in domestic gross and Rs 1,500 crore globally by Day 14. The film earned Rs 23.20 crore net domestically on its fourteenth day across multiple languages, becoming the sixth Indian film to join the exclusive box office milestone club."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra's 'Ramayana' directed by Nitesh Tiwari crossed Rs 1,000 crore in India in two weeks.",
+      "The film stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "Day 14 net collection across 22,289 shows was Rs 23.20 crore.",
+      "Total India net collection reached Rs 844.40 crore.",
+      "Cumulative domestic gross collection hit an estimated Rs 1,009.05 crore.",
+      "Hindi version earned Rs 16.50 crore from 17,661 shows on Day 14.",
+      "Malayalam version earned Rs 2.15 crore from 1,051 shows.",
+      "Kannada dubbed version collected Rs 1.65 crore from 897 shows.",
+      "Tamil version contributed Rs 1.60 crore.",
+      "Telugu version contributed Rs 1.30 crore.",
+      "Day 13 collection was Rs 28.60 crore, marking an 18.9% decline to Day 14.",
+      "Overseas collection on Day 14 was Rs 8 crore.",
+      "Total overseas gross collection reached Rs 510 crore.",
+      "Worldwide gross collection hit a total of Rs 1,519.05 crore."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Baahubali 2",
+        "KGF: Chapter 2",
+        "Pushpa 2: The Rule",
+        "Dhurandhar",
+        "Dhurandhar The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Day 14 collection",
+      "Ramayana Rs 1000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135974573,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Ramayana' Box Office Collection Day 14: Ranbir Kapoor and Yash Starrer Crosses Rs 1,000 Crore in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T05:51:30+05:30"
+  },
+  "35qoqw": {
+    "id": "35qoqw",
+    "type": "news",
+    "headline": "Scene Box Office Day 13: Suriya and Nazriya Nazim Starrer Approaches Rs 300 Crore Milestone",
+    "dek": "The Jithu Madhavan directorial continues a steady theatrical run in its second week, crossing significant domestic and international collection milestones.",
+    "body": [
+      {
+        "h": "Second Week Stability at the Box Office",
+        "p": [
+          "The theatrical journey of the film continued on Wednesday, November 18, maintaining a relatively stable trajectory through its second week in cinemas.",
+          "Collections experienced only a minor drop compared to the previous day, bringing in steady numbers across multiple language screenings."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Screen Counts",
+        "p": [
+          "On its thirteenth day in theaters, the feature accumulated Rs 2.65 crore net within India, representing an 8.6 percent decrease from the preceding day's earnings.",
+          "The domestic output was driven by a combined total of 3,962 screenings across both Tamil and Telugu versions, pushing the cumulative domestic net past previous milestones."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "Tamil screenings generated the bulk of the domestic figures, contributing Rs 1.85 crore on the day, while Telugu shows added another Rs 80 lakh.",
+          "Looking at the broader domestic picture, the Tamil version accounts for the majority of the net collections in India, with the Telugu version making up the remainder."
+        ]
+      },
+      {
+        "h": "Global Gross and International Reach",
+        "p": [
+          "Beyond domestic borders, the movie added further strength to its totals through overseas markets, elevating its international gross collection.",
+          "With contributions from both domestic and international territories combined, the worldwide gross has climbed notably as the feature eyes the Rs 300 crore landmark."
+        ]
+      },
+      {
+        "h": "Regional Contribution Across States",
+        "p": [
+          "Within the domestic market, Tamil Nadu emerged as the highest-grossing region, accounting for nearly half of the tracked state-wise total.",
+          "Other southern regions, including Andhra Pradesh, Telangana, Kerala, and Karnataka, also added notable figures to the overall domestic tally."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Collaboration",
+        "p": [
+          "The leading roles are played by Suriya and Nazriya Nazim, alongside supporting performances from Naslen K. Gafoor, Lal, and Anandraj.",
+          "This project marks the initial creative partnership between the lead actor and director Jithu Madhavan, supported by a technical team handling cinematography, music composition, and editing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Suriya and Nazriya Nazim vehicle 'Scene' maintained steady momentum on its thirteenth day of release, recording modest earnings across domestic and international markets.",
+          "As the feature moves closer to the Rs 300 crore global milestone, it continues to draw consistent audience occupancy in theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of report: November 19, 2026",
+      "Day of box office tracking: Day 13",
+      "Date of box office data: Wednesday, November 18",
+      "Day 13 India net collection: Rs 2.65 cr",
+      "Day 12 India net collection: Rs 2.90 cr",
+      "Day 13 Tamil screenings collection: Rs 1.85 cr",
+      "Day 13 Telugu screenings collection: Rs 80 lakh",
+      "Total domestic screenings: 3,962",
+      "Cumulative India net collection: Rs 145.05 cr",
+      "Domestic gross collection: Rs 168.50 cr",
+      "Worldwide gross collection: Rs 256.50 cr",
+      "Overseas gross collection: Rs 88 cr",
+      "Opening week India net collection: Rs 111.70 cr",
+      "Opening week India gross collection: Rs 129.75 cr",
+      "Tamil Nadu Day 13 gross collection: Rs 1.40 cr",
+      "Combined state-wise total tracked: Rs 3.05 cr"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nazriya Nazim",
+        "Jithu Madhavan",
+        "Naslen K. Gafoor",
+        "Lal",
+        "Anandraj",
+        "Vineeth Augustian",
+        "Sushin Shyam",
+        "Ajmal Sabu"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Nazriya Nazim Scene film",
+      "Scene day 13 collection",
+      "Jithu Madhavan Scene"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135974264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Scene Box Office Day 13: Suriya and Nazriya Nazim Starrer Approaches Rs 300 Crore Milestone",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T05:24:43+05:30"
+  },
+  "xfoonf": {
+    "id": "xfoonf",
+    "type": "news",
+    "headline": "Ella Langley Leads Nominations and Taylor Swift Returns for the 2026 CMA Awards",
+    "dek": "The 60th Annual CMA Awards brought major milestones, featuring a leading nine nominations for Ella Langley, a high-profile win for Tim McGraw's collaborative track, and a historic performance by Taylor Swift.",
+    "body": [
+      {
+        "h": "Ella Langley Dominates the 2026 CMA Nominations",
+        "p": [
+          "Entering the 60th Annual CMA Awards ceremony, artist Ella Langley established herself as the dominant force of the evening. Securing a remarkable nine nods, she landed a historic first-time nomination in the prestigious entertainer of the year category.",
+          "Langley did not have to wait until the main event to start celebrating her achievements. She already claimed an early victory when her popular track \"Choosin' Texas\" was awarded music video of the year ahead of the broadcast."
+        ]
+      },
+      {
+        "h": "Star-Studded Hosting and Landmark Performances",
+        "p": [
+          "The ceremony featured returning host Lainey Wilson guiding viewers through the festivities at the Bridgestone Arena in Nashville, Tennessee. Wilson herself remained a prominent contender across multiple top categories during the night.",
+          "Adding immense star power to the lineup, Taylor Swift took the stage to perform for the first time in 13 years. Her presence generated significant excitement among fans and attendees alike."
+        ]
+      },
+      {
+        "h": "Early Victories and Musical Event Honors",
+        "p": [
+          "Before the primary television broadcast commenced, several winners were officially announced. Among them, the competitive musical event of the year honor went to \"McArthur,\" bringing together the combined talents of Tim McGraw, HARDY, Eric Church, and Morgan Wallen.",
+          "This early victory highlighted the collaborative spirit of country music, pitting various powerhouse combinations against one another before the rest of the categories were unveiled."
+        ]
+      },
+      {
+        "h": "Entertainer of the Year and Top Categories",
+        "p": [
+          "The race for entertainer of the year featured an elite lineup of nominees alongside Langley. Fellow contenders included Luke Combs, Cody Johnson, Chris Stapleton, and Lainey Wilson.",
+          "Other major categories such as single of the year, album of the year, and song of the year showcased stellar work from both established hitmakers and rising stars across the genre."
+        ]
+      },
+      {
+        "h": "Vocalist and Group Categories",
+        "p": [
+          "The competition for female vocalist of the year brought together top female talents including Miranda Lambert, Ella Langley, Megan Moroney, Kacey Musgraves, and Lainey Wilson.",
+          "Meanwhile, the male vocalist of the year field featured standout artists Luke Combs, Cody Johnson, Chris Stapleton, Zach Top, and Stephen Wilson Jr., representing diverse sounds within country music."
+        ]
+      },
+      {
+        "h": "Duo, Group, and Musician Showcases",
+        "p": [
+          "Group and duo categories highlighted the genre's enduring collaborative bonds, with nominees ranging from established staples like Lady A and Little Big Town to Brothers Osborne and Dan + Shay.",
+          "Musician of the year categories recognized the vital instrumentalists behind the hits, honoring top guitar, fiddle, and steel guitar players such as Tom Bukovac, Jenee Fleenor, and Paul Franklin."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 60th Annual CMA Awards took place at the Bridgestone Arena in Nashville, Tennessee, featuring Lainey Wilson as host and a landmark performance by Taylor Swift. Ella Langley dominated the evening with nine nominations and an early music video win for \"Choosin' Texas,\" while Tim McGraw secured a musical event victory alongside his collaborators."
+        ]
+      }
+    ],
+    "facts": [
+      "The 60th Annual CMA Awards were held on November 18, 2026.",
+      "The venue for the event was the Bridgestone Arena in Nashville, Tennessee.",
+      "Ella Langley received nine nominations, including entertainer of the year.",
+      "Taylor Swift performed on the CMA Awards show for the first time in 13 years.",
+      "Lainey Wilson returned as the host of the ceremony.",
+      "\"Choosin' Texas\" by Ella Langley won music video of the year.",
+      "\"McArthur\" by Tim McGraw, HARDY, Eric Church, and Morgan Wallen won musical event of the year."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Swift",
+        "Lainey Wilson",
+        "Ella Langley",
+        "Tim McGraw",
+        "HARDY",
+        "Eric Church",
+        "Morgan Wallen",
+        "Luke Combs",
+        "Cody Johnson",
+        "Chris Stapleton",
+        "Miranda Lambert",
+        "Ben West",
+        "Dave Clauss",
+        "Jack Antonoff",
+        "Laura Sisk",
+        "Jay Joyce",
+        "Jason Hall",
+        "Trent Willmon",
+        "Jack Clarke",
+        "Zach Top",
+        "Carson Chamberlain",
+        "Matt Rovey",
+        "Devin Dawson",
+        "Kacey Musgraves",
+        "Ian Fitchuk",
+        "Luke Laird",
+        "Daniel Tashian",
+        "Serban Ghenea",
+        "Konrad Snyder",
+        "Parker McCollum",
+        "Frank Liddell",
+        "Eric Masse",
+        "Chip Matthews",
+        "Jonathan Singleton",
+        "Smith Ahnquist",
+        "Michael Hardy",
+        "Jordan Schmidt",
+        "Jessi Alexander",
+        "Jessie Jo Dillon",
+        "Connie Harrington",
+        "Megan Moroney",
+        "Luke Dick",
+        "Joybeth Taylor",
+        "Shane McAnally",
+        "Josh Osborne",
+        "Stephen Wilson Jr.",
+        "Austin Goodloe",
+        "Carly Pearce",
+        "Riley Green",
+        "Tom Bukovac",
+        "Jenee Fleenor",
+        "Paul Franklin",
+        "Rob McNelley",
+        "Charlie Worsham",
+        "Caylee Robillard",
+        "Wales Toney",
+        "Hannah Lux Davis",
+        "Tim Cofield",
+        "Dustin Haney",
+        "Dave Cobb"
+      ],
+      "titles": [
+        "Choosin' Texas",
+        "McArthur",
+        "Be Her",
+        "I Knew It, I Knew You",
+        "Somewhere Over Laredo",
+        "The Fall",
+        "Ain't In It For My Health",
+        "Dandelion",
+        "Middle of Nowhere",
+        "Parker McCollum",
+        "The Way I Am",
+        "Beautiful Things",
+        "Dry Spell",
+        "Gary",
+        "A Song To Sing",
+        "Horses and Divorces",
+        "I Can't Love You Anymore",
+        "If I Don't Leave I'm Gonna Stay",
+        "White Horse"
+      ]
+    },
+    "keywords": [
+      "2026 CMA Awards winners",
+      "Ella Langley CMA nominations",
+      "Taylor Swift CMA performance",
+      "Tim McGraw CMA award",
+      "Lainey Wilson CMA host"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/taylor-swift-lainey-wilson-billboard-1800.jpg?w=1024",
+        "caption": "Ella Langley Leads Nominations and Taylor Swift Returns for the 2026 CMA Awards",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 00:31:41 +0000"
+  },
+  "11jt4om": {
+    "id": "11jt4om",
+    "type": "news",
+    "headline": "Ranveer Singh and Director Aditya Dhar Set for Major Collaboration Targeting a 2028 Theatrical Launch",
+    "dek": "Following massive box office triumphs, actor Ranveer Singh and director Aditya Dhar are reportedly planning a fresh grand-scale cinematic venture expected to release in 2028.",
+    "body": [
+      {
+        "h": "The Blockbuster Partnership Returns",
+        "p": [
+          "Bollywood star Ranveer Singh and acclaimed filmmaker Aditya Dhar are reportedly preparing to join forces once again for an ambitious new feature film. The actor-director pairing previously created immense waves at the box office, driving significant commercial success with their earlier projects.",
+          "Industry insiders indicate that this upcoming collaboration is being designed on a massive scale, drawing considerable attention from fans and trade analysts alike who are eager to see what the successful duo will deliver next."
+        ]
+      },
+      {
+        "h": "Production Timelines and Release Plans",
+        "p": [
+          "Current reports suggest that the makers are aiming for a theatrical premiere in the year 2028. Production is slated to commence in 2027, giving the creative team ample time for pre-production and thorough planning.",
+          "While the shooting schedules are yet to be officially locked down, the project has already established a clear trajectory toward its anticipated launch window."
+        ]
+      },
+      {
+        "h": "Speculation Surrounding the Plot and Historical Epics",
+        "p": [
+          "Although initial rumors led many followers to expect a third installment in their previous franchise, fresh speculation points toward an entirely different direction. Word has spread that Dhar might be shaping a historical epic focusing on Chandragupta Maurya and the expansion of the Mauryan Empire.",
+          "As of now, the production team has kept the official title, primary genre, and detailed plot lines tightly under wraps, leaving audiences to anticipate official announcements."
+        ]
+      },
+      {
+        "h": "Legacy of the 'Dhurandhar' Franchise",
+        "p": [
+          "The momentum for this new partnership stems largely from the extraordinary financial achievements of 'Dhurandhar' and 'Dhurandhar: The Revenge'. Together, these films crossed the milestone of Rs 3,000 crore worldwide.",
+          "That combined performance cemented the franchise as one of the most commercially dominant forces in contemporary Indian cinema, setting exceptionally high expectations for whatever project the actor and director choose to pursue next."
+        ]
+      },
+      {
+        "h": "Current Endeavors and Cast Developments",
+        "p": [
+          "While preparations for the upcoming Aditya Dhar venture continue behind the scenes, Ranveer Singh remains actively engaged in other cinematic commitments. The actor is currently involved in shooting 'Pralay', a post-apocalyptic thriller directed by Jai Mehta.",
+          "Meanwhile, speculation regarding the broader cast for Dhar's prospective historical venture continues to circulate, with various reports linking multiple prominent actors from different film industries to the ambitious undertaking."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ranveer Singh and director Aditya Dhar are reportedly reuniting for an upcoming big-budget film projected to hit theaters in 2028 following production in 2027. While official plot details and titles remain unannounced, the collaboration builds upon the massive worldwide success of their previous franchise work.",
+          "At the same time, Ranveer is currently busy filming the post-apocalyptic thriller 'Pralay' under the direction of Jai Mehta."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranveer Singh and Aditya Dhar are reuniting for an upcoming film.",
+      "The film eyes a theatrical release in 2028.",
+      "Production is expected to go on floors in 2027.",
+      "'Dhurandhar' and 'Dhurandhra The Revenge' collectively crossed the Rs 3,000 crore mark worldwide.",
+      "Ranveer Singh is currently filming 'Pralay', directed by Jai Mehta."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Aditya Dhar",
+        "Jai Mehta",
+        "Chandragupta Maurya"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Dhurandhra The Revenge",
+        "Pralay"
+      ]
+    },
+    "keywords": [
+      "Ranveer Singh",
+      "Aditya Dhar",
+      "Dhurandhar",
+      "Pralay film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135974215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranveer Singh and Director Aditya Dhar Set for Major Collaboration Targeting a 2028 Theatrical Launch",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T05:15:27+05:30"
   }
 };

@@ -1,12 +1,12 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-18T19:12:58Z",
-   "last_run": "2026-11-18T19:12:58Z",
+   "last_attempt_at": "2026-11-19T00:52:05Z",
+   "last_run": "2026-11-19T00:52:05Z",
    "last_status": "success",
-   "last_success": "2026-11-18T19:12:58Z",
+   "last_success": "2026-11-19T00:52:05Z",
    "consecutive_failures": 0,
-   "detail": "valid top 19 snapshot"
+   "detail": "valid top 20 snapshot"
   },
   "sacnilk_boxoffice": {
    "last_attempt_at": "2026-11-18T22:58:46Z",
@@ -17,12 +17,12 @@
    "detail": "reader timed out; last-good staging retained"
   },
   "fnn_boxoffice": {
-   "last_attempt_at": "2026-11-18T20:55:20Z",
-   "last_run": "2026-11-18T20:55:20Z",
+   "last_attempt_at": "2026-11-19T00:55:49Z",
+   "last_run": "2026-11-19T00:55:49Z",
    "last_status": "success",
-   "last_success": "2026-11-18T20:55:20Z",
+   "last_success": "2026-11-19T00:55:49Z",
    "consecutive_failures": 0,
-   "detail": "validated 185 rows; 0 staging files changed"
+   "detail": "validated 188 rows; 1 staging files changed"
   },
   "moviemint_boxoffice": {
    "last_attempt_at": "2026-11-18T13:49:43Z",
@@ -49,12 +49,12 @@
    "detail": "no valid nonempty source staging; last-good retained"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-18T20:56:17Z",
-   "last_run": "2026-11-18T20:56:17Z",
+   "last_attempt_at": "2026-11-19T00:56:40Z",
+   "last_run": "2026-11-19T00:56:40Z",
    "last_status": "success",
-   "last_success": "2026-11-18T20:56:17Z",
+   "last_success": "2026-11-19T00:56:40Z",
    "consecutive_failures": 0,
-   "detail": "validated 47 rows; 0 staging files changed"
+   "detail": "validated 74 rows; 1 staging files changed"
   },
   "filmibeat_boxoffice": {
    "last_attempt_at": "2026-11-18T19:52:55Z",
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-18T23:56:36Z"
+ "updated_at": "2026-11-19T00:56:40Z"
 }
