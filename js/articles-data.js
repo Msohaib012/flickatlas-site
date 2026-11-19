@@ -189995,5 +189995,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 08:32:11 +0000"
+  },
+  "1w9f5d5": {
+    "id": "1w9f5d5",
+    "type": "news",
+    "headline": "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
+    "dek": "Indian cinemas are gearing up for a packed weekend on November 20, 2026, with a diverse slate of domestic and international films hitting the big screen.",
+    "body": [
+      {
+        "h": "A Crowded Friday at the Box Office",
+        "p": [
+          "The theatrical landscape in India is preparing for a bustling Friday on November 20, 2026, featuring a wide spectrum of new cinematic arrivals across multiple languages. Moviegoers will have access to a rich assortment of genres spanning high-octane action, gripping drama, suspenseful horror, and lighthearted comedy.",
+          "This diverse slate includes major pan-Indian productions, highly anticipated Japanese monster features, and major Hollywood franchise entries. Exhibitors anticipate strong footfall as audiences choose from a variety of compelling options tailored to different regional and global tastes."
+        ]
+      },
+      {
+        "h": "OM Chapter 1 Leads Major Indian Releases",
+        "p": [
+          "Among the prominent domestic titles arriving this week is OM Chapter 1: Udhiram, also known as O.M. Operation Mole. Directed by Rajkumar Periasamy, the action thriller is anticipated as one of the biggest Indian releases of the season and draws its narrative influence from authentic incidents involving red sanders smuggling.",
+          "The multi-starrer feature boasts an extensive cast featuring Dhanush, Mammootty, Sai Pallavi, Sreeleela, and Naseeruddin Shah. To maximize its reach across different territories, the movie is scheduled to release simultaneously in Tamil, Telugu, and Hindi."
+        ]
+      },
+      {
+        "h": "Global Spectacles Arrive in India",
+        "p": [
+          "International cinema plays a significant role in this week's box-office contest, led by the Japanese monster spectacle Godzilla Minus Zero. Directed by Takashi Yamazaki, the film finally reaches Indian screens after a slight postponement from its original November 6 release date, serving as a successor to the Oscar-winning predecessor.",
+          "Hollywood is also making a strong push with The Hunger Games: Sunrise on the Reaping, directed by Francis Lawrence. This prequel focuses on a young Haymitch Abernathy during the milestone 50th Hunger Games and features performances from Joseph Zada, Ralph Fiennes, Elle Fanning, and Jesse Plemons."
+        ]
+      },
+      {
+        "h": "Regional and Hollywood Diversity",
+        "p": [
+          "The weekend lineup extends further with a variety of regional language features and Hollywood comedies. Dulquer Salmaan anchors the Telugu drama Aakasamlo Oka Tara, which follows a young woman aspiring to become an astronaut, while Jackie Shroff and Sharad Kelkar lead the Hindi horror thriller Kaali Kheti.",
+          "On the Hollywood front, viewers can catch the action comedy How to Rob a Bank starring Nicholas Hoult and Zoë Kravitz. Tamil cinema rounds out the offerings with Vijay Antony in Appakutty and Keerthy Suresh headlining the courtroom drama Sathyavan Savithiri."
+        ]
+      },
+      {
+        "h": "Competition and Exhibition Dynamics",
+        "p": [
+          "The newly arriving titles will encounter existing competition in theatres, most notably Namit Malhotra's Ramayana, which continues its theatrical run into its third week. Screen allocation remains a crucial factor for premium releases like Godzilla Minus Zero and The Hunger Games as they vie for screens geared toward immersive viewing.",
+          "With both domestic and international studios positioning their films for this late-November window, the weekend sets the stage for a compelling box-office battle across diverse consumer markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cinemas across India are preparing for a major slate of multi-language film releases on November 20, 2026. Major highlights include the Dhanush and Mammootty starrer OM Chapter 1, the monster sequel Godzilla Minus Zero, and the Hollywood prequel The Hunger Games: Sunrise on the Reaping."
+        ]
+      }
+    ],
+    "facts": [
+      "Releasing on November 20, 2026",
+      "OM Chapter 1: Udhiram is directed by Rajkumar Periasamy",
+      "OM stars Dhanush, Mammootty, Sai Pallavi, Sreeleela, and Naseeruddin Shah",
+      "Godzilla Minus Zero is directed by Takashi Yamazaki",
+      "The Hunger Games: Sunrise on the Reaping is directed by Francis Lawrence",
+      "Ramayana is in its third week"
+    ],
+    "entities": {
+      "people": [
+        "Sunit Jangir",
+        "Dhanush",
+        "Mammootty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Takashi Yamazaki",
+        "Francis Lawrence",
+        "Joseph Zada",
+        "Ralph Fiennes",
+        "Elle Fanning",
+        "Jesse Plemons",
+        "Dulquer Salmaan",
+        "Jackie Shroff",
+        "Sharad Kelkar",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Vijay Antony",
+        "Keerthy Suresh",
+        "Namit Malhotra",
+        "Christa Lincy",
+        "Rajinikanth",
+        "Suriya"
+      ],
+      "titles": [
+        "OM",
+        "Godzilla Minus Zero",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Om Chapter 1: Udhiram",
+        "Godzilla Minus One",
+        "How to Rob a Bank",
+        "Aakasamlo Oka Tara",
+        "Brindavihari",
+        "Kaali Kheti",
+        "Appakutty",
+        "Sathyavan Savithiri",
+        "Pratap",
+        "Ramayana",
+        "2.0",
+        "Scene",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "OM Chapter 1 Udhiram",
+      "Godzilla Minus Zero India release",
+      "The Hunger Games Sunrise on the Reaping",
+      "Dhanush Mammootty OM film",
+      "November 20 movie releases"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028628.jpg",
+        "caption": "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 09:27:58 +0000"
+  },
+  "1q83nsb": {
+    "id": "1q83nsb",
+    "type": "news",
+    "headline": "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
+    "dek": "Television stars Eisha Singh and Avinash Mishra have reportedly parted ways following a whirlwind romance sparked on reality television, with leaked audio clips and cryptic social media posts fueling intense fan speculation.",
+    "body": [
+      {
+        "h": "The Rise and Fall of AviSha",
+        "p": [
+          "Viewers first fell in love with television personalities Eisha Singh and Avinash Mishra during their time together on Bigg Boss 18, where their chemistry captured widespread public attention. Their bond deepened further when Avinash publicly professed his love for Eisha after winning Khatron Ke Khiladi 15, posing together with the trophy and melting the hearts of millions of fans who affectionately dubbed them AviSha.",
+          "However, their romance appears to have come to a sudden end. Recent reports indicate that the couple has separated, leaving their dedicated fanbase heartbroken and searching for answers about what went wrong between the once inseparable pair."
+        ]
+      },
+      {
+        "h": "Instagram Unfollowing Triggers Rumours",
+        "p": [
+          "Speculation regarding the status of their relationship began swirling online after Eisha Singh unfollowed Avinash Mishra on Instagram. Fans immediately noticed the digital distance between the two, prompting a wave of speculation across social media platforms.",
+          "As discussions intensified, various rumours regarding cheating began to surface. Reports suggested that Avinash may have been unfaithful with Rishita Kothari, though no substantiated statements regarding these claims were made at the time."
+        ]
+      },
+      {
+        "h": "The Viral Audio Clip and Mother's Revelation",
+        "p": [
+          "Amid the growing rumours, an audio clip surfaced on social media allegedly featuring Eisha's mother, Rekha Singh, discussing the reality behind the separation. The audio suggested that the family had supported the relationship after receiving reassurances, but that a breach of trust ultimately derailed everything.",
+          "According to the circulating clip, the speaker expressed deep pain regarding the cheating that allegedly occurred and the difficult atmosphere it created at home while trying to help Eisha cope. It is important to note that the authenticity of this viral audio clip has not been verified."
+        ]
+      },
+      {
+        "h": "Cryptic Social Media Messages",
+        "p": [
+          "Adding fuel to the ongoing narrative, Rekha Singh also shared a cryptic note on social media amid the breakup reports. The message emphasized that time acts as a mirror for everyone's actions and advised individuals not to let themselves be broken by the behavior of others.",
+          "The post advocated for maintaining peace and staying the course, suggesting that true answers and resolution are provided by time rather than words. This philosophical stance resonated heavily with followers tracking the celebrity drama."
+        ]
+      },
+      {
+        "h": "Avinash Mishra Appeals for Privacy",
+        "p": [
+          "In response to the mounting speculation and media attention, Avinash Mishra took to Instagram to address the situation directly. He urged fans and followers to put the controversy behind them and allow everyone involved to move forward peacefully.",
+          "Avinash emphasized that personal relationships should not be treated as public entertainment solely for the sake of views and engagement. He requested media pages and the public to respect everyone's privacy during what he described as a tough period for those involved."
+        ]
+      },
+      {
+        "h": "Impact on the Fanbase",
+        "p": [
+          "The sudden turn of events has left the AviSha fandom deeply divided and distressed. From celebrating television milestones and reality show victories together to processing an abrupt split, supporters have closely monitored every update.",
+          "While some fans continue to dissect the unverified audio clips and cryptic posts, others have echoed Avinash's sentiments, calling for an end to the speculation to give both actors the space they need to heal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television stars Eisha Singh and Avinash Mishra have reportedly ended their relationship following their time together on reality shows. While unverified audio clips attributed to Eisha's mother and cryptic social media posts point toward a painful separation involving alleged cheating, Avinash has publicly requested privacy and an end to the speculation."
+        ]
+      }
+    ],
+    "facts": [
+      "Eisha Singh and Avinash Mishra were featured on Bigg Boss 18.",
+      "Avinash Mishra won Khatron Ke Khiladi 15.",
+      "Eisha Singh unfollowed Avinash Mishra on Instagram.",
+      "A viral audio clip allegedly featured Eisha's mother, Rekha Singh.",
+      "Rishita Kothari was mentioned in unverified cheating reports.",
+      "Avinash Mishra posted a statement on Instagram requesting privacy."
+    ],
+    "entities": {
+      "people": [
+        "Eisha Singh",
+        "Avinash Mishra",
+        "Rekha Singh",
+        "Rishita Kothari"
+      ],
+      "titles": [
+        "Bigg Boss 18",
+        "Khatron Ke Khiladi 15",
+        "Juhi Muhi"
+      ]
+    },
+    "keywords": [
+      "Eisha Singh Avinash Mishra",
+      "Avinash Mishra break up",
+      "Rekha Singh audio clip",
+      "Bigg Boss 18 Eisha Avinash"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/eishaavinashbreakupreasonfeature-48471795082636.jpg",
+        "caption": "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:36:35 +0530"
+  },
+  "prfkb": {
+    "id": "prfkb",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
+    "dek": "Catch all the details on Bigg Boss 20 Episode 75, featuring an intense immunity clash between Arishfa Khan and Love Gill, streaming schedules, and captaincy updates.",
+    "body": [
+      {
+        "h": "Introduction to Episode 75",
+        "p": [
+          "The popular reality television series Bigg Boss 20 reaches its 75th episode, bringing fresh drama and high stakes for the remaining contestants. As the competition intensifies in its 11th week, the pressure on housemates continues to mount with every passing day.",
+          "Viewers can expect significant developments tonight as the narrative unfolds further, shaping the alliances and rivalries inside the heavily monitored house."
+        ]
+      },
+      {
+        "h": "Captaincy and Recent House Dynamics",
+        "p": [
+          "In the previous episode, Uditi Singh secured the position of the new house captain after the contendership task was cancelled in the second round. This cancellation came about because Love Gill violated established rules during the competition.",
+          "While the majority of the housemates voiced criticism against Love's rule-breaking behavior, Kanika chose to stand by her friends despite the controversies surrounding the incident."
+        ]
+      },
+      {
+        "h": "Arishfa Khan Versus Love Gill Immunity Task",
+        "p": [
+          "Tonight's episode will feature newly appointed captain Uditi Singh making critical choices regarding her peers. She will designate her most favorite and least favorite housemates, naming Arishfa Khan as her top favorite and Love Gill as her least favorite.",
+          "Following these announcements, Arishfa and Love will go head-to-head in a special immunity task. The winner of this face-off will secure safety from nominations for the ongoing week."
+        ]
+      },
+      {
+        "h": "Streaming and Broadcast Schedule",
+        "p": [
+          "Fans eager to watch Episode 75 can access the stream online through JioHotstar. The digital release is scheduled for 9 PM tonight.",
+          "For those preferring conventional television broadcasts, the episode will air on Colors TV at 10:30 PM, maintaining the program's standard timetable without any reported alterations."
+        ]
+      },
+      {
+        "h": "Eviction Context and Season Progress",
+        "p": [
+          "Since the season premiere on September 6, the reality show has witnessed six exits from the house. Previous departures include Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan.",
+          "With the grand finale drawing closer and fewer contestants remaining, each nomination cycle carries heavy consequences for everyone still in the running."
+        ]
+      },
+      {
+        "h": "Significance of Upcoming Weekend Ka Vaar",
+        "p": [
+          "The upcoming Weekend Ka Vaar episodes loom large over the housemates, as another potential elimination is anticipated. House dynamics are shifting rapidly as participants elevate their strategies to remain in the game.",
+          "Audience votes will ultimately determine the fate of the nominated contestants, adding an extra layer of tension to the ongoing proceedings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 Episode 75 airs tonight with Arishfa Khan and Love Gill competing in an immunity task following Uditi Singh's captaincy decisions. Viewers can watch the episode on JioHotstar at 9 PM and on Colors TV at 10:30 PM as the season approaches its later stages with ongoing nominations and previous evictions."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 premiered on September 6",
+      "Episode 75 airs on November 19",
+      "Six contestants have been evicted so far",
+      "JioHotstar streams the episode at 9 PM",
+      "Colors TV broadcasts the episode at 10:30 PM"
+    ],
+    "entities": {
+      "people": [
+        "Arishfa Khan",
+        "Love Gill",
+        "Salman Khan",
+        "Uditi Singh",
+        "Kanika",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Arishfa Khan",
+      "Love Gill",
+      "Bigg Boss 20 Episode 75"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20nov19eptimed1-19921795075049.jpg",
+        "caption": "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 16:00:21 +0530"
+  },
+  "113mw2y": {
+    "id": "113mw2y",
+    "type": "news",
+    "headline": "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
+    "dek": "Subhash Ahirwar, who claims to have won an episode of India's Got Latent Season 2, has shared an emotional video asking comedian Samay Raina to release his unseen performance.",
+    "body": [
+      {
+        "h": "An Emotional Appeal Over An Unreleased Episode",
+        "p": [
+          "Subhash Ahirwar, a contestant who claims victory in an episode of the second season of India's Got Latent, has turned to social media with a deeply emotional video. In the footage, he directly addresses comedian and host Samay Raina, pleading for his missing episode to be broadcast to the public.",
+          "According to Subhash, despite taking part in the show and being declared the winner by the panel, his specific segment never made it to the final cut viewed by audiences. The clip has since spread rapidly across online platforms, prompting numerous fans to tag Samay Raina and demand answers."
+        ]
+      },
+      {
+        "h": "Claims Of A Perfect Score And Unclaimed Rewards",
+        "p": [
+          "Elaborating on his appearance in the video, Subhash displayed a score sheet and asserted that he achieved a flawless 10 out of 10 from the judges. He maintained that this stellar performance rightfully earned him the winning title for that particular installment of the show.",
+          "While victory on the program carried prizes such as a phone, food coupons, and Rs 1 lakh, Subhash insisted that material rewards held no true value for him. His primary concern remained the public exhibition of his artistry rather than any monetary or physical compensation."
+        ]
+      },
+      {
+        "h": "A Lifetime Of Hardships And Relentless Struggle",
+        "p": [
+          "Subhash's emotional outburst was deeply tied to the severe hardships he has endured throughout his life. He revealed that his struggles began at a very tender age, recounting that he started begging on the streets around the age of six or seven.",
+          "His journey through adversity continued as he grew older, working at a dhaba at nine, selling vegetables at twelve, and taking on labor work at fifteen. He also spent five years working as a security guard while relentlessly chasing his creative ambitions."
+        ]
+      },
+      {
+        "h": "Sacrifices Made In Pursuit Of Art",
+        "p": [
+          "Despite coming from difficult circumstances, Subhash dedicated seven years of his life to theatre. After completing his graduation, he even took on a job cleaning washrooms to support himself while continuing to pursue music and performance.",
+          "In a particularly harrowing disclosure, he claimed to have sold his blood just to make ends meet. These extreme personal sacrifices underscore why seeing his India's Got Latent performance withheld feels like such a devastating blow to his aspirations."
+        ]
+      },
+      {
+        "h": "Direct Plea To Samay Raina",
+        "p": [
+          "Toward the conclusion of his viral video, a tearful Subhash expressed deep heartbreak, stating that he felt entirely defeated. He described his current emotional state using phrases like feeling as though he lost a won match.",
+          "Directly addressing the show's creator, he remarked that nobody should toy with another person's dreams. He wrapped up his heartfelt message by repeating his urgent request for Samay Raina to finally release his episode."
+        ]
+      },
+      {
+        "h": "Online Reaction And Fan Support",
+        "p": [
+          "The heartfelt plea quickly caught the attention of internet users, generating significant traction online. Viewers and supporters rallied behind Subhash, flooding social media spaces with tags directed at Samay Raina and the show's team.",
+          "Many online users urged the production team to look into the contestant's claims and rectify the situation, giving his inspiring journey and unreleased victory the spotlight it was originally promised."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "India's Got Latent contestant Subhash Ahirwar shared a viral video breaking down over his unreleased winning episode from the second season of the show. He detailed his lifelong struggles from childhood begging to working odd jobs and selling blood, ultimately appealing to host Samay Raina to release his performance."
+        ]
+      }
+    ],
+    "facts": [
+      "Subhash Ahirwar claims to have won an episode of India's Got Latent Season 2.",
+      "Subhash Ahirwar shared a video on social media on November 19, 2026.",
+      "He claimed to have scored 10/10 on the show.",
+      "Prizes mentioned included Rs 1 lakh, a phone, and food coupons."
+    ],
+    "entities": {
+      "people": [
+        "Subhash Ahirwar",
+        "Samay Raina",
+        "Manisha Karki"
+      ],
+      "titles": [
+        "India's Got Latent",
+        "India's Got Latent Season 2"
+      ]
+    },
+    "keywords": [
+      "Subhash Ahirwar",
+      "Samay Raina",
+      "Indias Got Latent",
+      "Subhash Ahirwar video"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Who-Is-Subhash-Ahirwar.webp",
+        "caption": "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 10:29:49 +0000"
   }
 };

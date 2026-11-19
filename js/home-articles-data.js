@@ -39,6 +39,175 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 14:01:06 +0200"
   },
+  "prfkb": {
+    "id": "prfkb",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
+    "dek": "Catch all the details on Bigg Boss 20 Episode 75, featuring an intense immunity clash between Arishfa Khan and Love Gill, streaming schedules, and captaincy updates.",
+    "entities": {
+      "people": [
+        "Arishfa Khan",
+        "Love Gill",
+        "Salman Khan",
+        "Uditi Singh",
+        "Kanika",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Arishfa Khan",
+      "Love Gill",
+      "Bigg Boss 20 Episode 75"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20nov19eptimed1-19921795075049.jpg",
+        "caption": "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 16:00:21 +0530"
+  },
+  "113mw2y": {
+    "id": "113mw2y",
+    "type": "news",
+    "headline": "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
+    "dek": "Subhash Ahirwar, who claims to have won an episode of India's Got Latent Season 2, has shared an emotional video asking comedian Samay Raina to release his unseen performance.",
+    "entities": {
+      "people": [
+        "Subhash Ahirwar",
+        "Samay Raina",
+        "Manisha Karki"
+      ],
+      "titles": [
+        "India's Got Latent",
+        "India's Got Latent Season 2"
+      ]
+    },
+    "keywords": [
+      "Subhash Ahirwar",
+      "Samay Raina",
+      "Indias Got Latent",
+      "Subhash Ahirwar video"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Who-Is-Subhash-Ahirwar.webp",
+        "caption": "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 10:29:49 +0000"
+  },
+  "1q83nsb": {
+    "id": "1q83nsb",
+    "type": "news",
+    "headline": "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
+    "dek": "Television stars Eisha Singh and Avinash Mishra have reportedly parted ways following a whirlwind romance sparked on reality television, with leaked audio clips and cryptic social media posts fueling intense fan speculation.",
+    "entities": {
+      "people": [
+        "Eisha Singh",
+        "Avinash Mishra",
+        "Rekha Singh",
+        "Rishita Kothari"
+      ],
+      "titles": [
+        "Bigg Boss 18",
+        "Khatron Ke Khiladi 15",
+        "Juhi Muhi"
+      ]
+    },
+    "keywords": [
+      "Eisha Singh Avinash Mishra",
+      "Avinash Mishra break up",
+      "Rekha Singh audio clip",
+      "Bigg Boss 18 Eisha Avinash"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/eishaavinashbreakupreasonfeature-48471795082636.jpg",
+        "caption": "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 15:36:35 +0530"
+  },
+  "1w9f5d5": {
+    "id": "1w9f5d5",
+    "type": "news",
+    "headline": "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
+    "dek": "Indian cinemas are gearing up for a packed weekend on November 20, 2026, with a diverse slate of domestic and international films hitting the big screen.",
+    "entities": {
+      "people": [
+        "Sunit Jangir",
+        "Dhanush",
+        "Mammootty",
+        "Rajkumar Periasamy",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Naseeruddin Shah",
+        "Takashi Yamazaki",
+        "Francis Lawrence",
+        "Joseph Zada",
+        "Ralph Fiennes",
+        "Elle Fanning",
+        "Jesse Plemons",
+        "Dulquer Salmaan",
+        "Jackie Shroff",
+        "Sharad Kelkar",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Vijay Antony",
+        "Keerthy Suresh",
+        "Namit Malhotra",
+        "Christa Lincy",
+        "Rajinikanth",
+        "Suriya"
+      ],
+      "titles": [
+        "OM",
+        "Godzilla Minus Zero",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Om Chapter 1: Udhiram",
+        "Godzilla Minus One",
+        "How to Rob a Bank",
+        "Aakasamlo Oka Tara",
+        "Brindavihari",
+        "Kaali Kheti",
+        "Appakutty",
+        "Sathyavan Savithiri",
+        "Pratap",
+        "Ramayana",
+        "2.0",
+        "Scene",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "OM Chapter 1 Udhiram",
+      "Godzilla Minus Zero India release",
+      "The Hunger Games Sunrise on the Reaping",
+      "Dhanush Mammootty OM film",
+      "November 20 movie releases"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028628.jpg",
+        "caption": "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 09:27:58 +0000"
+  },
   "156ox79": {
     "id": "156ox79",
     "type": "news",
@@ -4750,170 +4919,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-18T04:56:40Z"
   },
-  "1tfgzlo": {
-    "id": "1tfgzlo",
-    "type": "news",
-    "headline": "Earthshot Prize 2026: Alia Bhatt, Rakul Preet Singh, Karan Johar And Others Grace Prince William's Environmental Awards Ceremony",
-    "dek": "The Earthshot Prize 2026 brought together global royalty, Bollywood celebrities and environmental leaders in Mumbai for its sixth annual edition.",
-    "entities": {
-      "people": [
-        "Prince William",
-        "Catherine",
-        "Alia Bhatt",
-        "Rakul Preet Singh",
-        "Karan Johar",
-        "Sonam Kapoor",
-        "Sachin Tendulkar"
-      ],
-      "titles": [
-        "Earthshot Prize"
-      ]
-    },
-    "keywords": [
-      "Earthshot Prize 2026",
-      "Alia Bhatt Earthshot Prize",
-      "Prince William Mumbai",
-      "Rakul Preet Singh Earthshot"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156526118,thumbsize-275366,width-1280,height-720,resizemode-75/156526118.jpg",
-        "caption": "Earthshot Prize 2026: Alia Bhatt, Rakul Preet Singh, Karan Johar And Others Grace Prince William's Environmental Awards ",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T04:53:00Z"
-  },
-  "pnhdyi": {
-    "id": "pnhdyi",
-    "type": "news",
-    "headline": "Ami Trivedi: The Voice Behind Sai Pallavi's Sita in Hindi Ramayana",
-    "dek": "Discover television and theatre artist Ami Trivedi, the talented voice actor who dubbed Sai Pallavi's character Sita in the Hindi version of the film Ramayana.",
-    "entities": {
-      "people": [
-        "Ami Trivedi",
-        "Sai Pallavi",
-        "Rajan Shahi"
-      ],
-      "titles": [
-        "Ramayana",
-        "Humraahi",
-        "The Zee Horror Show",
-        "Khichdi",
-        "Kumkum – Ek Pyara Sa Bandhan",
-        "Kituu Sabb Jaantii Hai",
-        "Aahat",
-        "Ssshhhh...Phir Koi Hai",
-        "Mano Ya Na Mano",
-        "Zaara – Pyaar Ki Saugat",
-        "Rakhi – Atoot Rishtey Ki Dor",
-        "Jaane Kya Baat Hui",
-        "Bajega Band Baaja",
-        "Sajan Re Jhoot Mat Bolo",
-        "Papad Pol – Shahabuddin Rathod Ki Rangeen Duniya",
-        "Adaalat",
-        "Fear Files: Darr Ki Sacchi Tasvirein",
-        "Pritam Pyare Aur Woh",
-        "Tu Mere Agal Bagal Hai",
-        "Chidiya Ghar",
-        "Tedi Medi Family",
-        "Saat Phero Ki Hera Pherie",
-        "Yeh Rishta Kya Kehlata Hai"
-      ]
-    },
-    "keywords": [
-      "Ami Trivedi",
-      "Sai Pallavi Ramayana",
-      "Ramayana Hindi voice Sita",
-      "Ami Trivedi Yeh Rishta Kya Kehlata Hai"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156525638,thumbsize-526054,width-1280,height-720,resizemode-75/156525638.jpg",
-        "caption": "Ami Trivedi: The Voice Behind Sai Pallavi's Sita in Hindi Ramayana",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T04:53:00Z"
-  },
-  "mwaedw": {
-    "id": "mwaedw",
-    "type": "news",
-    "headline": "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
-    "dek": "Australian country music artist Wade Forster dominates the upcoming Golden Guitar Awards with 10 nominations, setting a unique record with simultaneous album nods.",
-    "entities": {
-      "people": [
-        "Wade Forster",
-        "Gavin Bain",
-        "Noah Kahan",
-        "Cody Johnson",
-        "Fanny Lumsden",
-        "Simon Johnson",
-        "Brooke McClymont",
-        "Adam Eckersley",
-        "James Johnston",
-        "Mack Geiger",
-        "Catherine Britt",
-        "Dean Perrett",
-        "Felicity Urquhart",
-        "Josh Cunningham",
-        "Morgan Evans",
-        "William Alexander",
-        "Beccy Cole",
-        "Tyla Rodrigues",
-        "Jake Whittaker",
-        "Duncan Toombs",
-        "Peter Ross",
-        "Dobe Newton"
-      ],
-      "titles": [
-        "The Aftermath",
-        "Gooseneck Party"
-      ]
-    },
-    "keywords": [
-      "Wade Forster Golden Guitar Awards",
-      "55th Golden Guitar Awards nominations",
-      "Wade Forster The Aftermath",
-      "Tamworth Country Music Festival 2027"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/wade-forster-2026-1800.jpg?w=1024",
-        "caption": "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 04:45:00 +0000"
-  },
-  "w22tv7": {
-    "id": "w22tv7",
-    "type": "news",
-    "headline": "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert",
-    "dek": "Former teacher Joyce Lakin shares her story of ending up in the spotlight during a recent performance at SoFi Stadium.",
-    "entities": {
-      "people": [
-        "Chris Brown",
-        "Joyce Lakin",
-        "Lori Lakin Hutcherson"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Chris Brown concert",
-      "Joyce Lakin",
-      "SoFi Stadium",
-      "Lori Lakin Hutcherson"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/chris-brown-81-year-old-fan.jpg",
-        "caption": "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 04:37:04 +0000"
-  },
   "1wit30w": {
     "id": "1wit30w",
     "type": "news",
@@ -4953,6 +4958,63 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T17:00:10Z"
+  },
+  "1vjsa0": {
+    "id": "1vjsa0",
+    "type": "news",
+    "headline": "Manikanda Teaser Out Now: Vaibhav Stars In Vishnu Sasi Shankar's Upcoming Tamil Film",
+    "dek": "The official teaser for Manikanda has been released, offering audiences a first look at the Tamil film directed by Vishnu Sasi Shankar and starring Vaibhav in the lead role.",
+    "entities": {
+      "people": [
+        "Vaibhav",
+        "Vishnu Sasi Shankar",
+        "Aadukalam Naren",
+        "Aravind Aakash",
+        "Meenakshi Govindarajan",
+        "Ravi Mohan",
+        "Mirchi Shiva",
+        "Venkat Prabhu",
+        "Krishna",
+        "Mahath",
+        "Prem Gi Amaren",
+        "Gangai Amaran",
+        "JK Saravana",
+        "M Rajaram",
+        "Praveen KL",
+        "Yuvan Selva",
+        "Surya Rajeevan",
+        "Janakiraman",
+        "PA Vijay",
+        "Yuwaji",
+        "Kumar Ramanathan",
+        "Stunt Silva",
+        "Sakthi Saravanan",
+        "Ajay",
+        "Nanthakumar Thamichelvan",
+        "Adithya Tangirala",
+        "Prithivi Adithya",
+        "Prathap K",
+        "Mahesh Bharadwaj R"
+      ],
+      "titles": [
+        "Manikanda",
+        "Malikappuram"
+      ]
+    },
+    "keywords": [
+      "Manikanda teaser",
+      "Vaibhav Manikanda movie",
+      "Vishnu Sasi Shankar director",
+      "Manikanda release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/manikanda-41331794931208.jpg",
+        "caption": "Manikanda Teaser Out Now: Vaibhav Stars In Vishnu Sasi Shankar's Upcoming Tamil Film",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 17 Nov 2026 21:31:34 +0530"
   },
   "15hoh7e": {
     "id": "15hoh7e",
@@ -5039,57 +5101,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T14:45:39Z"
-  },
-  "ltv81g": {
-    "id": "ltv81g",
-    "type": "news",
-    "headline": "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie",
-    "dek": "Following its premiere at the TCL Chinese Theater, critics and audiences shared enthusiastic first reactions to Brad Pitt's return as Cliff Booth in the Netflix pseudo-sequel.",
-    "entities": {
-      "people": [
-        "Brad Pitt",
-        "Quentin Tarantino",
-        "David Fincher",
-        "Ted Sarandos",
-        "Elizabeth Debicki",
-        "Peter Weller",
-        "Trent",
-        "Atticus",
-        "Clayton Davis",
-        "Simon Thompson",
-        "Germain Lussier",
-        "Courtney Howard",
-        "Jazz Tangcay"
-      ],
-      "titles": [
-        "The Further Mis-Adventures of Cliff Booth",
-        "Once Upon a Time in Hollywood",
-        "Once Upon a Time…",
-        "Hershey",
-        "Spider-Man: Brand New Day",
-        "Edward Said: Between Worlds",
-        "14th",
-        "Club Kid",
-        "Ebenezer",
-        "Blue Film",
-        "Kill Jackie",
-        "Call Me Bae"
-      ]
-    },
-    "keywords": [
-      "The Further Mis-Adventures of Cliff Booth",
-      "Brad Pitt Cliff Booth",
-      "David Fincher movie",
-      "Quentin Tarantino Cliff Booth"
-    ],
-    "images": [
-      {
-        "url": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
-        "caption": "First Reactions Praise 'The Further Mis-Adventures of Cliff Booth' as a Riotous Hangout Movie",
-        "source": "IndieWire"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 06:58:15 +0000"
   },
   "196ll1": {
     "id": "196ll1",
@@ -5221,6 +5232,55 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-16T14:45:28Z"
+  },
+  "1ftxgoc": {
+    "id": "1ftxgoc",
+    "type": "news",
+    "headline": "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
+    "dek": "Yuvaraj Chinnasamy directorial Haiku, starring Aegan, Sri Devi Apalla and Femina George, is heading to digital platforms in five languages following its October theatrical run.",
+    "entities": {
+      "people": [
+        "Aegan",
+        "Sri Devi Apalla",
+        "Femina George",
+        "Yuvaraj Chinnasamy",
+        "Shree Tej SK",
+        "Adirchi Arun",
+        "Subramanian Sethu",
+        "Adhiyaman",
+        "Mime Gopi",
+        "Indhumathi Manigandan",
+        "Hariharan Ram",
+        "Dr. D. Arulanandhu",
+        "Mathewo Arulanandhu",
+        "Aegan Arulanandhu",
+        "Sidhu Kumar",
+        "Priyesh Gurusamy",
+        "Sakthi Pranesh P",
+        "Prem Karunthamalai",
+        "Dinesh Manoharan",
+        "Anusha Vishwanathan",
+        "RP Bala",
+        "Mohmad Akram M"
+      ],
+      "titles": [
+        "Haiku"
+      ]
+    },
+    "keywords": [
+      "Haiku OTT Release",
+      "Haiku Netflix release date",
+      "Aegan Sri Devi Apalla Femina George film",
+      "Yuvaraj Chinnasamy Haiku movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/haiku-13111794766603.jpg",
+        "caption": "Tamil Romantic Drama Haiku Sets Official Netflix OTT Premiere Date for November",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 15 Nov 2026 23:50:24 +0530"
   },
   "eh6qc3": {
     "id": "eh6qc3",
