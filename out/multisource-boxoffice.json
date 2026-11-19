@@ -5745,15 +5745,33 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "overseas-backfill": 27.0
+              "overseas-backfill": 26.3
             },
-            "value": 27.0
+            "value": 26.3
           },
           "shows": {
             "sources": {
-              "overseas-backfill": 771
+              "overseas-backfill": 828
             },
-            "value": 771
+            "value": 828
+          }
+        },
+        "india": false
+      },
+      "13": {
+        "date": "2026-11-18",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 14.0
+            },
+            "value": 14.0
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 685
+            },
+            "value": 685
           }
         },
         "india": false

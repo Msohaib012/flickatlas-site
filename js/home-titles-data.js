@@ -4230,7 +4230,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-29",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-08-05",
     "popularity": 4.3429
   },
@@ -7746,7 +7753,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-31",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-06-26",
     "popularity": 3.4896
   },
@@ -24829,7 +24843,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-11",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-09",
     "popularity": 2.2374
   },
@@ -30352,7 +30373,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-16",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-14",
     "popularity": 1.9602
   },

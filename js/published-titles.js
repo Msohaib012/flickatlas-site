@@ -7027,7 +7027,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Ved Raj"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "328402": {
     "id": 328402,
@@ -12443,7 +12450,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-06-26",
     "date_kind": "release",
     "runtime": 170,
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1190511": {
     "id": 1190511,
@@ -39219,7 +39233,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-09",
     "date_kind": "release",
     "runtime": 3,
-    "providers": []
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1693535": {
     "id": 1693535,
@@ -48398,7 +48419,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-14",
     "date_kind": "release",
     "runtime": 44,
-    "providers": [],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1565810": {

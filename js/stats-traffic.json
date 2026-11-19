@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-19T01:51:49Z",
+  "generated": "2026-11-19T03:08:32Z",
   "realtime": {
-    "active_users": 5
+    "active_users": 4
   },
   "today": {
-    "users": 1,
-    "pageviews": 1,
-    "sessions": 1,
-    "avg_session_seconds": 0.8
+    "users": 12,
+    "pageviews": 10,
+    "sessions": 12,
+    "avg_session_seconds": 3.0
   },
   "last7": {
-    "users": 691,
-    "pageviews": 953,
-    "sessions": 732,
-    "avg_session_seconds": 24.9
+    "users": 702,
+    "pageviews": 962,
+    "sessions": 743,
+    "avg_session_seconds": 24.6
   },
   "top_pages": [
     {
@@ -82,20 +82,20 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 709,
-      "users": 677
+      "sessions": 718,
+      "users": 686
+    },
+    {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "sessions": 13,
+      "users": 13
     },
     {
       "source": "google",
       "medium": "organic",
       "sessions": 11,
       "users": 8
-    },
-    {
-      "source": "(not set)",
-      "medium": "(not set)",
-      "sessions": 9,
-      "users": 9
     },
     {
       "source": "search.google.com",
@@ -107,11 +107,11 @@
   "countries": [
     {
       "country": "United States",
-      "users": 225
+      "users": 226
     },
     {
       "country": "Brazil",
-      "users": 77
+      "users": 79
     },
     {
       "country": "Singapore",
@@ -119,37 +119,37 @@
     },
     {
       "country": "Colombia",
-      "users": 38
+      "users": 39
     },
     {
       "country": "Vietnam",
-      "users": 37
+      "users": 38
+    },
+    {
+      "country": "Indonesia",
+      "users": 33
     },
     {
       "country": "Hong Kong",
       "users": 32
     },
     {
-      "country": "Indonesia",
-      "users": 32
-    },
-    {
       "country": "Argentina",
-      "users": 28
+      "users": 29
     },
     {
       "country": "Bangladesh",
-      "users": 28
+      "users": 29
     },
     {
-      "country": "Mexico",
-      "users": 19
+      "country": "Malaysia",
+      "users": 20
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 676
+      "users": 687
     },
     {
       "device": "mobile",

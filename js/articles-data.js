@@ -186733,5 +186733,457 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 06:03:50 +0530"
+  },
+  "vt8ed1": {
+    "id": "vt8ed1",
+    "type": "news",
+    "headline": "Pierce Brosnan and Hollywood Support Robert Pattinson as the New James Bond",
+    "dek": "Former 007 actor Pierce Brosnan leads a wave of support for Robert Pattinson, who has been officially confirmed as the seventh actor to play James Bond in the upcoming franchise reboot by Amazon MGM Studios.",
+    "body": [
+      {
+        "h": "Pierce Brosnan Welcomes Robert Pattinson to 007",
+        "p": [
+          "Former James Bond star Pierce Brosnan has publicly congratulated Robert Pattinson on taking over the iconic role of 007, declaring that the actor will be magnificent in the part. Brosnan, who portrayed the British secret agent across four films between 1995 and 2002, shared an encouraging message on Instagram to mark the casting announcement.",
+          "Reflecting on their past collaboration, Brosnan fondly recalled working alongside Pattinson in the 2010 romantic drama Remember Me. He noted that it has been a true joy to watch Pattinson build a remarkable body of work over the years, ending his public note with the warm advice to enjoy the ride."
+        ]
+      },
+      {
+        "h": "Amazon MGM Studios Confirms the Reboot",
+        "p": [
+          "Amazon MGM Studios officially announced Pattinson's casting via 007 social media accounts, accompanied by a first-look photograph of the actor wearing Bond's signature tuxedo. The studio stated that his appointment will usher in a brand-new era for one of cinema's most celebrated characters.",
+          "The major announcement successfully concludes a prolonged search for a successor to Daniel Craig, whose successful five-film run as James Bond concluded with No Time to Die in 2021. Alongside the casting news, it was confirmed that Denis Villeneuve will direct the untitled 26th Bond film from a script written by Steven Knight."
+        ]
+      },
+      {
+        "h": "George Lazenby and Early Franchise History",
+        "p": [
+          "Former Bond actor George Lazenby also reached out to welcome Pattinson into what he described as the most exclusive club in the world. Lazenby, who played 007 in the 1969 film On Her Majesty's Secret Service, shared a video message advising the new star to enjoy himself during his tenure.",
+          "Pattinson's official confirmation as the seventh official actor to carry the torch marks another milestone for a character whose cinematic history spans decades. Craig's previous tenure, for instance, famously included the 2012 blockbuster Skyfall, which pulled in $1.1 billion worldwide."
+        ]
+      },
+      {
+        "h": "Brad Pitt and Elizabeth Debicki Praise the Casting",
+        "p": [
+          "Hollywood figures have widely praised the choice, with Brad Pitt expressing strong enthusiasm for Pattinson's career trajectory and eclectic choices while speaking at a Los Angeles premiere. Pitt even floated the idea of playing the antagonist in the upcoming Bond film, acknowledging the legacy left behind by previous villains like Javier Bardem in Skyfall.",
+          "Elizabeth Debicki, who starred alongside Pattinson in Christopher Nolan's 2020 science-fiction thriller Tenet, likewise voiced her excitement at a separate premiere. Describing Pattinson as an enigma who is both smart and funny, Debicki stated that she believes he is absolutely perfect for the role."
+        ]
+      },
+      {
+        "h": "Ralph Fiennes Weighs In on the Change",
+        "p": [
+          "Ralph Fiennes, who famously portrayed M across three Bond films, admitted that he still holds a deep fondness for Daniel Craig's iteration of the character. Nevertheless, Fiennes expressed full confidence in Pattinson's acting abilities and his readiness for the franchise.",
+          "Speaking at a New York premiere, Fiennes noted that Pattinson will bring a distinct vibe and a different quality compared to Craig, which he considers a positive way to change things up. He added that the producers must have rigorously tested Pattinson and that the actor looks fantastic in the early preview photographs."
+        ]
+      },
+      {
+        "h": "Pattinson's Extensive Career and Royal Recognition",
+        "p": [
+          "Pattinson's journey to the role spans prominent studio blockbusters and acclaimed independent films over the past two decades. He initially rose to global prominence through his appearances in Harry Potter and the Goblet of Fire and the Twilight film series, before later taking on complex leading roles including The Batman.",
+          "Recognition for his casting even extended beyond the entertainment industry, with the British royal family using their official X account to welcome Pattinson to His Majesty's Secret Service shortly after the announcement was made public."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson has been officially confirmed by Amazon MGM Studios as the seventh actor to play James Bond in an upcoming reboot directed by Denis Villeneuve. Former 007 actors Pierce Brosnan and George Lazenby joined other prominent Hollywood figures like Brad Pitt, Ralph Fiennes, and Elizabeth Debicki in publicly supporting his casting."
+        ]
+      }
+    ],
+    "facts": [
+      "Pierce Brosnan played James Bond in four films between 1995 and 2002.",
+      "Robert Pattinson and Pierce Brosnan worked together in the 2010 film Remember Me.",
+      "Robert Pattinson is confirmed as the seventh official actor to play James Bond.",
+      "Denis Villeneuve will direct the untitled 26th Bond film from a script by Steven Knight.",
+      "George Lazenby played Bond in the 1969 film On Her Majesty's Secret Service.",
+      "Daniel Craig's five-film run as Bond ended with No Time to Die in 2021.",
+      "Skyfall was released in 2012 and earned $1.1 billion worldwide.",
+      "Elizabeth Debicki and Robert Pattinson starred in Christopher Nolan's 2020 film Tenet."
+    ],
+    "entities": {
+      "people": [
+        "Pierce Brosnan",
+        "Robert Pattinson",
+        "George Lazenby",
+        "Brad Pitt",
+        "Ralph Fiennes",
+        "Elizabeth Debicki",
+        "Denis Villeneuve",
+        "Steven Knight",
+        "Daniel Craig",
+        "Javier Bardem",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "Remember Me",
+        "On Her Majesty's Secret Service",
+        "No Time to Die",
+        "Skyfall",
+        "The Further Mis-Adventures of Cliff Booth",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Tenet",
+        "Harry Potter and the Goblet of Fire",
+        "Twilight",
+        "The Batman",
+        "The Odyssey",
+        "The Batman II"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Pierce Brosnan Robert Pattinson",
+      "Amazon MGM Studios Bond reboot",
+      "Denis Villeneuve Bond film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/pierce-brosnan-190911184-16x9_0.jpg?VersionId=er5OeJnyYdSTQRBtN2HfshlnNMNPDD_3",
+        "caption": "Pierce Brosnan and Hollywood Support Robert Pattinson as the New James Bond",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 07:39:51 +0530"
+  },
+  "1ol3dnj": {
+    "id": "1ol3dnj",
+    "type": "news",
+    "headline": "Horror Box Office Crosses $2.49 Billion in 2026 Led by Blumhouse Atomic Hits",
+    "dek": "Global horror ticket sales soar to nearly $2.5 billion, with Blumhouse Atomic driving half the market through blockbusters like Obsession and Backrooms.",
+    "body": [
+      {
+        "h": "Global Horror Box Office Reaches New Heights",
+        "p": [
+          "The worldwide horror genre box office has climbed to $2.49 billion, marking an eight percent increase compared to the previous year's total of $2.3 billion. Industry statistics indicate that horror remains a dominant theatrical force, with ticket sales continuing to surge globally.",
+          "Significantly, Blumhouse Atomic accounted for precisely half of this massive global figure. The combined studio's success was propelled by multiple major titles released across various major distribution companies throughout the year."
+        ]
+      },
+      {
+        "h": "Blumhouse Atomic Dominates the Market",
+        "p": [
+          "The merger between Blumhouse and James Wan's Atomic Monster has consistently yielded one billion dollars annually at the box office since 2024. Their 2026 slate featured standout performers that shattered previous studio records.",
+          "Notable contributors to the half-billion-plus tally include Focus Features' highest grossing movie ever Obsession at $524.4 million worldwide, and A24's highest grossing movie ever Backrooms at $400 million worldwide."
+        ]
+      },
+      {
+        "h": "Standout Financial Returns and Indie Success",
+        "p": [
+          "During The Business of Fear 2026 symposium, studio executives highlighted the extraordinary return on investment delivered by these horror projects. Backrooms achieved a forty times return on its modest ten million dollar production cost.",
+          "Even more remarkable, Obsession delivered a staggering six hundred seventy times return against its tiny seven hundred fifty thousand dollar budget. Executives noted that independent horror films are currently outperforming traditional studio horror by wide margins."
+        ]
+      },
+      {
+        "h": "Shifting Demographics and Audience Engagement",
+        "p": [
+          "Industry leaders attribute the genre's massive explosion to changing cultural attitudes among younger demographics. James Wan noted that historical stigmas surrounding scary movies have completely vanished among younger generations, moving the genre firmly into the cultural mainstream.",
+          "Furthermore, data presented at the symposium revealed that fifty percent of Gen Z moviegoers actively prefer watching films inside traditional cinemas. Jason Blum compared the participatory nature of horror screenings to live sporting events and concerts."
+        ]
+      },
+      {
+        "h": "Genre Trends and Attendance Statistics",
+        "p": [
+          "While horror saw a seven percent uptick in theatrical admissions over the previous year, other genres experienced stark declines. Romantic comedies suffered the steepest drop among feature genres, falling by seventy-eight percent.",
+          "Industry experts explained that while post-pandemic audiences quickly returned to live events and concerts, younger audiences took longer to re-engage with theatrical films. Horror successfully bridged this gap because of its uniquely communal and interactive viewing experience."
+        ]
+      },
+      {
+        "h": "Upcoming Horror Slate for 2027",
+        "p": [
+          "Following a banner year, Blumhouse Atomic has scheduled an extensive lineup of horror releases for 2027 to maintain its box office momentum. Upcoming titles include New Line's Conjuring universe entry The Revenge of La Llorona on February twenty-sixth.",
+          "Additional notable projects on the calendar feature an Exorcist reboot on March twelfth, Lionsgate's Blair Witch revival on September twenty-fourth, and Sleepover on October eighth starring Michelle Monaghan and Justin Theroux."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The worldwide horror box office reached $2.49 billion, with Blumhouse Atomic driving half of the total earnings through record-breaking hits like Obsession and Backrooms. Studio executives highlighted exceptional returns on investment and a growing preference among Gen Z audiences for theatrical horror screenings."
+        ]
+      }
+    ],
+    "facts": [
+      "Horror box office hit $2.49 billion globally",
+      "Blumhouse Atomic accounted for 50 percent of the horror box office",
+      "Obsession grossed $524.4 million worldwide",
+      "Backrooms grossed $400 million worldwide",
+      "Insidious: Out of the Further grossed $172 million worldwide",
+      "The Other Mommy grossed $120 million worldwide",
+      "Lee Cronin's The Mummy grossed $90.5 million worldwide",
+      "Backrooms had a production cost of $10 million",
+      "Obsession had a production cost of $750 thousand"
+    ],
+    "entities": {
+      "people": [
+        "Anthony D'Alessandro",
+        "Chris Pratt",
+        "Joseph Eckert",
+        "Michelle Monaghan",
+        "Justin Theroux",
+        "James Wan",
+        "Craig Zobel",
+        "Jason Blum",
+        "Abhijay Prakash",
+        "Ray Subers",
+        "Curry Barker",
+        "Brit Marling",
+        "Tilda Swinton",
+        "Elon Musk",
+        "Pierce Brosnan",
+        "Robert Pattinson",
+        "David Ellison",
+        "Alex Gibney",
+        "Johnny Knoxville",
+        "Rob Lowe",
+        "Ben Shapiro",
+        "Kathryn Newton",
+        "Nina Dobrev",
+        "Adam Devine",
+        "Scott Eastwood",
+        "Thom Velde",
+        "Tom Hiddleston",
+        "Hayley Atwell",
+        "Billy Crystal"
+      ],
+      "titles": [
+        "Obsession",
+        "Backrooms",
+        "The Traveler",
+        "Sleepover",
+        "The Mummy",
+        "Insidious: Out of the Further",
+        "The Other Mommy",
+        "Something Is Killing The Children",
+        "Saw",
+        "The Revenge of La Llorona",
+        "The Exorcist",
+        "Blair Witch",
+        "Paranormal Activity",
+        "Anything But Ghosts",
+        "Hunger Games: Sunrise On The Reaping",
+        "Clandestine",
+        "The OA",
+        "Rush Hour 4",
+        "Musk",
+        "Friday The 13th",
+        "Return Of The Living Dead",
+        "Grendel",
+        "Confession",
+        "Sorry About My Friends",
+        "Much Ado About Nothing",
+        "860"
+      ]
+    },
+    "keywords": [
+      "Blumhouse Atomic horror box office",
+      "Obsession movie box office",
+      "Backrooms movie earnings",
+      "The Business of Fear 2026 symposium"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Obsession-Backrooms-Lee-Cronins-The-Mummy-Insidious-Out-of-the-Further.jpg?w=1000",
+        "caption": "Horror Box Office Crosses $2.49 Billion in 2026 Led by Blumhouse Atomic Hits",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 01:48:31 +0000"
+  },
+  "18n49lk": {
+    "id": "18n49lk",
+    "type": "news",
+    "headline": "Sooraj Barjatya Talks Yeh Prem Mol Liya And Rejects Dhurandhar Comparisons",
+    "dek": "Filmmaker Sooraj Barjatya explains why his upcoming film Yeh Prem Mol Liya is not competing with Ranveer Singh starrer Dhurandhar.",
+    "body": [
+      {
+        "h": "Addressing Comparisons With Dhurandhar",
+        "p": [
+          "Filmmaker Sooraj Barjatya recently opened up about how he views potential box-office matchups between distinct cinematic releases. He specifically addressed the conversation surrounding his upcoming family entertainer and Ranveer Singh's massive action hit. Rather than viewing the marketplace as a battleground, the director emphasized that multiple titles can coexist successfully.",
+          "Speaking directly to the discourse, Barjatya dismissed the notion that his project is locked in a fierce rivalry with high-earning blockbusters. He maintained a cooperative perspective on the industry, suggesting that the diverse tastes of contemporary audiences create a healthy environment for varied cinematic experiences."
+        ]
+      },
+      {
+        "h": "The Trailer Launch Event",
+        "p": [
+          "The discussion unfolded against the backdrop of a major promotional event held in Mumbai. Industry figures gathered on Wednesday for the official unveiling of the preview footage for Yeh Prem Mol Liya. The director used this platform to share his broader philosophy regarding theatrical storytelling and audience engagement.",
+          "During the interactive session, attendees and press members questioned the filmmaker about managing expectations following record-breaking global runs from rival projects. Barjatya responded by reiterating his confidence in the unique appeal of his own narrative and its specific target demographic."
+        ]
+      },
+      {
+        "h": "Embracing Different Genres",
+        "p": [
+          "Barjatya pointed out the fundamental stylistic differences that separate his directorial venture from heavy action spectacles. While praising the merit and execution of other prominent releases, he stressed that moviegoers naturally seek out contrasting viewing experiences depending on their mood and family requirements.",
+          "He explicitly noted that the public requires wholesome family entertainment just as much as high-octane blockbusters. According to the veteran director, the entertainment ecosystem thrives precisely because viewers have access to multiple genres that cater to entirely different emotional needs."
+        ]
+      },
+      {
+        "h": "Shifting Priorities At The Box Office",
+        "p": [
+          "Reflecting on his long career in the entertainment industry, the filmmaker discussed how his personal goals have evolved over time. Early in his professional journey, commercial dominance and top rankings were major preoccupations, but his mindset has matured significantly since then.",
+          "Today, the creator's primary motivation centers on forging a genuine emotional bond with spectators. Rather than obsessing over daily financial tallies or milestone revenue figures, his core objective is to deliver a meaningful experience that brings relatives together inside cinema halls."
+        ]
+      },
+      {
+        "h": "Plot And Social Themes",
+        "p": [
+          "The recently launched promotional preview offers a glimpse into a narrative that directly questions established societal norms surrounding marriage. Specifically, the story probes deeply into traditional expectations that require a woman to permanently leave her parental household after wedding ceremonies.",
+          "By tackling these conventional domestic arrangements, the film aims to spark thoughtful conversations among viewers. The plot navigates emotional complexities while maintaining the warmth and human connection that characterizes the director's signature style."
+        ]
+      },
+      {
+        "h": "Cast And Crew Highlights",
+        "p": [
+          "Yeh Prem Mol Liya features a prominent lead pairing, bringing together Ayushmann Khurrana and Sharvari in central roles. Their collaborative dynamic forms the emotional core of the narrative as it explores unconventional relationship dynamics and family bonds.",
+          "The extensive supporting roster includes notable industry talents such as Seema Pahwa, Supriya Pathak Kapur, Anupam Kher, Geeta Agrawal Sharma, Saumya Tandon, Surbhi Tiwari, Krish Rao, and Shruti Seth. The project is steered creatively under the direction of Sooraj Barjatya."
+        ]
+      },
+      {
+        "h": "Release Schedule And Legacy Box Office",
+        "p": [
+          "Fans will not have to wait much longer to experience the story on the big screen, as the theatrical release is locked in for November 27. The upcoming debut comes in the wake of immense commercial milestones achieved by action-heavy predecessors in the market.",
+          "For context, Aditya Dhar directed Dhurandhar—featuring Ranveer Singh alongside Akshaye Khanna, Sanjay Dutt, R Madhavan, and Arjun Rampal—which crossed Rs 1,300 crore worldwide. Its follow-up, Dhurandhar: The Revenge, pushed boundaries even further by amassing upwards of Rs 1,800 crore globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Sooraj Barjatya stated that his upcoming film Yeh Prem Mol Liya is not competing with Ranveer Singh's Dhurandhar because audiences enjoy different genres. Speaking at the film's trailer launch in Mumbai on Wednesday, Barjatya emphasized family connection over box-office figures ahead of the movie's November 27 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Sooraj Barjatya addressed comparisons with Dhurandhar at the Yeh Prem Mol Liya trailer launch.",
+      "Yeh Prem Mol Liya releases on November 27.",
+      "The trailer launch took place in Mumbai on Wednesday.",
+      "Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari.",
+      "Dhurandhar was directed by Aditya Dhar.",
+      "Dhurandhar starred Ranveer Singh, Akshaye Khanna, Sanjay Dutt, R Madhavan, and Arjun Rampal.",
+      "Dhurandhar earned more than Rs 1,300 crore worldwide.",
+      "Dhurandhar: The Revenge collected over Rs 1,800 crore globally.",
+      "The cast of Yeh Prem Mol Liya includes Seema Pahwa, Supriya Pathak Kapur, Anupam Kher, Geeta Agrawal Sharma, Saumya Tandon, Surbhi Tiwari, Krish Rao, and Shruti Seth."
+    ],
+    "entities": {
+      "people": [
+        "Sooraj Barjatya",
+        "Ranveer Singh",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Aditya Dhar",
+        "Akshaye Khanna",
+        "Sanjay Dutt",
+        "R Madhavan",
+        "Arjun Rampal",
+        "Seema Pahwa",
+        "Supriya Pathak Kapur",
+        "Anupam Kher",
+        "Geeta Agrawal Sharma",
+        "Saumya Tandon",
+        "Surbhi Tiwari",
+        "Krish Rao",
+        "Shruti Seth"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Dhurandhar: The Revenge",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Sooraj Barjatya Yeh Prem Mol Liya",
+      "Ayushmann Khurrana Sharvari film",
+      "Dhurandhar box office comparison",
+      "Yeh Prem Mol Liya trailer launch"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/sooraj-barjatya-195821935-16x9_0.jpg?VersionId=P3MBHrsqo2jcnTd3r8GzYp9M3AIif2FA",
+        "caption": "Sooraj Barjatya Talks Yeh Prem Mol Liya And Rejects Dhurandhar Comparisons",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 06:30:56 +0530"
+  },
+  "p0ppvw": {
+    "id": "p0ppvw",
+    "type": "news",
+    "headline": "Lainey Wilson and Vince Gill Open 2026 CMA Awards with Touching Tribute to Dolly Parton",
+    "dek": "The 2026 CMA Awards commenced on a deeply emotional note as host Lainey Wilson and music veteran Vince Gill honored the late country legend Dolly Parton.",
+    "body": [
+      {
+        "h": "A Somber Opening at the 2026 CMA Awards",
+        "p": [
+          "The 2026 CMA Awards commenced on a deeply emotional note during the live broadcast on Wednesday night, November 18. Instead of the usual high-energy comedic opening, the ceremony took a reflective turn to remember a towering figure in country music.",
+          "Host Lainey Wilson led the poignant beginning, setting a reverent tone for the evening and acknowledging the profound loss felt across the entire entertainment community."
+        ]
+      },
+      {
+        "h": "Lainey Wilson Honors Her Tennessee Angel",
+        "p": [
+          "Taking the stage as host, 34-year-old Lainey Wilson addressed the audience with heartfelt remarks about the late Dolly Parton. She noted how Dolly shared her heart and lived her life with compassion rooted in a shared spiritual upbringing.",
+          "Highlighting Dolly's enduring legacy, Wilson stated that the beloved icon was now with the angels, thanking her for everything she meant to the world and declaring that fans would always love her."
+        ]
+      },
+      {
+        "h": "A Powerful Duet with Vince Gill",
+        "p": [
+          "Following her opening speech, Wilson was joined on stage by 69-year-old country star Vince Gill. Together, the pair delivered a stirring rendition of Dolly Parton's iconic emotional ballad, 'I Will Always Love You'.",
+          "As they performed, a large black-and-white photograph of the legendary singer was displayed on the screen behind them, creating a powerful focal point for the musical tribute."
+        ]
+      },
+      {
+        "h": "Visible Emotion from the Audience",
+        "p": [
+          "The performance struck a deep chord with the star-studded crowd in attendance. Many artists in the audience were spotted singing along to the familiar lyrics while fighting back tears.",
+          "The collective grief in the room highlighted just how universally respected and beloved Dolly Parton was among her peers in the country music industry."
+        ]
+      },
+      {
+        "h": "Reflecting on Dolly's Personal Impact",
+        "p": [
+          "In an interview with Good Morning America just a day prior to the ceremony, Lainey Wilson opened up about the profound personal influence Dolly had on her life, noting the special friendship they shared.",
+          "Wilson emphasized that discussions about Dolly often transcended her numerous Grammys, accolades, and CMA awards, focusing instead on her exceptional character and the kind of person she truly was."
+        ]
+      },
+      {
+        "h": "Remembering a Country Icon",
+        "p": [
+          "Dolly Parton passed away on August 25 at the age of 80 following a brief and private battle with cancer. Her death marked the end of an era for country music.",
+          "Despite her passing, tributes from artists like Wilson and Gill demonstrate that her remarkable impact on the genre and the world will endure for generations to come."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lainey Wilson and Vince Gill opened the 2026 CMA Awards on November 18 with an emotional musical tribute to the late Dolly Parton, performing 'I Will Always Love You'. The heartfelt performance brought the audience to tears, honoring a legacy defined as much by her character as her legendary career following her passing in August at age 80."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 CMA Awards took place on Wednesday, November 18, 2026.",
+      "Lainey Wilson hosted the 2026 CMA Awards at age 34.",
+      "Vince Gill joined Lainey Wilson on stage at age 69.",
+      "Lainey Wilson and Vince Gill performed 'I Will Always Love You'.",
+      "Dolly Parton passed away on August 25 at the age of 80 following a brief and private battle with cancer."
+    ],
+    "entities": {
+      "people": [
+        "Lainey Wilson",
+        "Vince Gill",
+        "Dolly Parton"
+      ],
+      "titles": [
+        "I Will Always Love You"
+      ]
+    },
+    "keywords": [
+      "Lainey Wilson Vince Gill",
+      "2026 CMA Awards",
+      "Dolly Parton tribute",
+      "I Will Always Love You performance"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/cmas-opening-performance.jpg",
+        "caption": "Lainey Wilson and Vince Gill Open 2026 CMA Awards with Touching Tribute to Dolly Parton",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 01:51:02 +0000"
   }
 };

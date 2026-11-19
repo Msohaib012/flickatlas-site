@@ -4932,13 +4932,15 @@ window.FA_DAYWISE = {
       "date": "2026-11-15",
       "day": "Day 10",
       "collection": 88748,
-      "shows": 771,
-      "occupancy": 27.0
+      "shows": 828,
+      "occupancy": 26.3
     },
     {
       "date": "2026-11-18",
       "day": "Day 13",
-      "collection": 26413
+      "collection": 26413,
+      "shows": 685,
+      "occupancy": 14.0
     }
   ],
   "1475799": [

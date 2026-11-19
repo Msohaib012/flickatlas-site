@@ -352,6 +352,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-14",
+      "date_kind": "release",
+      "id": 1826442,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "CA",
       "date": "2026-11-14",
       "date_kind": "digital",
@@ -922,6 +934,18 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-11-09",
+      "date_kind": "release",
+      "id": 1820101,
+      "providers": [
+        {
+          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        }
+      ],
+      "type": "movie"
     },
     {
       "country": "FR",
@@ -2935,6 +2959,18 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-08-05",
+      "date_kind": "release",
+      "id": 328817,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-08-04",
       "date_kind": "digital",
       "id": 1212763,
@@ -3038,6 +3074,18 @@ window.FA_OTT = {
         {
           "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
           "name": "HBO Max"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-06-26",
+      "date_kind": "release",
+      "id": 1169516,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
         }
       ],
       "type": "movie"
