@@ -194437,5 +194437,390 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 20:00:18 GMT"
+  },
+  "zxuchp": {
+    "id": "zxuchp",
+    "type": "news",
+    "headline": "Amazon Secures Rights to Develop a Modern Adaptation of Cult Classic Series The Prisoner",
+    "dek": "The iconic 1967 British television show is returning to the small screen as Amazon Studios acquires the rights for a contemporary retelling.",
+    "body": [
+      {
+        "h": "Amazon Takes on The Prisoner",
+        "p": [
+          "Entertainment giant Amazon Studios has successfully acquired the rights to develop a brand new adaptation of the iconic British television program, The Prisoner. Rather than continuing past efforts to bring the property to the big screen as a feature film, the production is heading back to its original medium for a contemporary television format. The upcoming project has quickly become a high priority for the streaming platform, which is already actively meeting with potential showrunners to steer the creative direction.",
+          "The creative team steering the project forward includes Susan Montford and Don Murphy of Angry Films, who secured the rights as lifelong enthusiasts of the original 1967 broadcast. In addition to them, Philippe Maigret and Lucianne Papon from ITV, the original distribution company behind the classic series, are slated to serve as executive producers on the venture."
+        ]
+      },
+      {
+        "h": "A Modern Twist on a Cold War Classic",
+        "p": [
+          "While the original television production was heavily shaped by the political paranoia, espionage tactics, and existential dread characteristic of the Cold War era, this upcoming rendition will place the narrative firmly in modern times. The source material seamlessly blended science fiction elements with psychological drama and spy craft, forging a distinct storytelling style that captivated audiences decades ago.",
+          "The premise follows an intelligence operative who gets abducted and wakes up trapped inside an isolated community known simply as the Village. Stripped of his birth name just like every other inhabitant, he is designated as Number Six and spends his time navigating a web of paranoia, matching wits with figures like Number Two and Number One while searching for a way out."
+        ]
+      },
+      {
+        "h": "History of Hollywood Attempts",
+        "p": [
+          "For many years, the American film industry tried multiple times to transition the British cult favorite into a motion picture. Over the decades, notable filmmakers such as Christopher Nolan, Ridley Scott, and Simon West were linked to various stalled feature film adaptations that ultimately failed to materialize.",
+          "Beyond cinematic efforts, the property also inspired a previous television attempt. Back in 2009, AMC broadcast a six-part mini-series that featured a cast including Jim Caviezel and Ian McKellan, though that particular iteration received a largely poor reception from viewers and critics alike."
+        ]
+      },
+      {
+        "h": "Legacy of the 1967 Original",
+        "p": [
+          "The foundational 1967 program originally ran for only a single season, yet it managed to leave a remarkably extensive cultural footprint. Its longevity was aided by avant-garde production aesthetics reflective of the swinging sixties and a famous, ambiguous conclusion that left viewers questioning everything.",
+          "Over the years, critics and creators alike have pointed to the show as a profound creative influence on several later television hits, including Twin Peaks, The X-Files, and Lost, cementing its status as a trailblazer in serialized mystery storytelling."
+        ]
+      },
+      {
+        "h": "Background on the Producers",
+        "p": [
+          "The producing team behind the new adaptation brings substantial genre experience to the table. Don Murphy is well known for producing the long-running Transformers franchise, with another installment gearing up for production, while he and Susan Montford also produced the updated horror film Faces of Death earlier in the year.",
+          "Furthermore, the duo has several other high-profile projects in development, including feature adaptations of the classic pulp hero Buck Rogers at Legendary, alongside Don Pendleton's The Executioner book series at Sony, which features Shane Black attached to write and potentially direct."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Studios has acquired the rights to develop a modern television adaptation of the classic 1967 British series The Prisoner, with lifelong fans Susan Montford and Don Murphy executive producing alongside ITV representatives. The upcoming project will transport the sci-fi spy narrative into current times and serves as a major priority for the streaming service as it searches for showrunners."
+        ]
+      }
+    ],
+    "facts": [
+      "Amazon Studios picked up the rights to The Prisoner.",
+      "The original series aired in 1967.",
+      "Susan Montford and Don Murphy of Angry Films secured the rights and will executive produce.",
+      "Philippe Maigret and Lucianne Papon of ITV will executive produce.",
+      "The new series will be set in modern times.",
+      "The original show starred Patrick McGoohan as Number Six.",
+      "AMC aired a six-part mini-series remake in 2009 starring Jim Caviezel and Ian McKellan."
+    ],
+    "entities": {
+      "people": [
+        "Borys Kit",
+        "Patrick McGoohan",
+        "George Baker",
+        "Susan Montford",
+        "Don Murphy",
+        "Philippe Maigret",
+        "Lucianne Papon",
+        "Mariko Tamaki",
+        "Christopher Nolan",
+        "Ridley Scott",
+        "Simon West",
+        "Jim Caviezel",
+        "Ian McKellan",
+        "Shane Black",
+        "Don Pendleton",
+        "Aaron Couch",
+        "Nikki Glaser",
+        "E. Lockhart"
+      ],
+      "titles": [
+        "The Prisoner",
+        "The Arrival",
+        "Royal Blood",
+        "Transformers",
+        "Faces of Death",
+        "Buck Rogers",
+        "The Executioner",
+        "Kennedy Center Honors",
+        "The Gilded Age",
+        "Canada's Drag Race",
+        "The Curse Workers"
+      ]
+    },
+    "keywords": [
+      "The Prisoner series Amazon",
+      "The Prisoner remake",
+      "Don Murphy Susan Montford The Prisoner",
+      "The Prisoner 1967 TV show"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/TSDPRIS_EC023-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Amazon Secures Rights to Develop a Modern Adaptation of Cult Classic Series The Prisoner",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 21:49:47 +0000"
+  },
+  "wtsbfa": {
+    "id": "wtsbfa",
+    "type": "news",
+    "headline": "International Men's Day 2026: Celebrating Six Indian Actors Who Blend On-Screen Macho Energy With Off-Screen Pookie Charm",
+    "dek": "On the occasion of International Men's Day 2026, we take a look at six prominent Bollywood actors known for playing fierce, larger-than-life characters on the silver screen while revealing remarkably warm, goofy, and endearing personalities in their personal lives.",
+    "body": [
+      {
+        "h": "Embracing Masculinity and Softness in Bollywood",
+        "p": [
+          "International Men's Day 2026 offers a wonderful opportunity to celebrate a distinct breed of male stars in the Indian film industry who effortlessly balance intense on-screen masculinity with a genuinely tender and playful off-screen demeanor. While cinema often demands that these actors project rugged strength, dominance, and commanding authority, their everyday lives reveal completely different dimensions defined by warmth and affection.",
+          "Fans frequently draw a sharp contrast between the terrifying villains or gritty heroes portrayed in theaters and the approachable, family-oriented individuals these actors are behind closed doors. This duality highlights a modern evolution of male stardom, proving that a fierce cinematic persona can comfortably coexist with a soft, affectionate, and relatable personality in the real world."
+        ]
+      },
+      {
+        "h": "Yash: From Kannada Cinema Badass to Doting Father",
+        "p": [
+          "Rocking Star Yash commands an intimidating screen presence, whether he is striking fear into audiences as Ravana in the upcoming film Ramayana or delivering mass-appeal action as the legendary Rocky Bhai in the massive KGF series. His characters are unapologetically macho, gritty, and larger than life, dominating the cinematic landscape with intense energy and memorable dialogue delivery.",
+          "Away from the camera, however, Yash transforms into a devoted family man who frequently steals hearts with adorable moments shared with his children. A recent behind-the-scenes photograph from the sets of Ramayana featured the actor in full costume, yet his children entirely stole the limelight, showcasing his loving and gentle side as a father."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor: Blending Intense Drama with Playful Humor",
+        "p": [
+          "Ranbir Kapoor has mastered the art of extreme cinematic contrasts, transitioning seamlessly from the deeply unsettling and aggressive alpha male in Animal to the classic, virtuous hero role of Rama in Ramayana. His ability to anchor massive box-office blockbusters with such diverse emotional spectrums cements his status as one of the most versatile leading men of his generation.",
+          "In his public interactions and interviews, Kapoor completely sheds his heavy dramatic aura, revealing a notoriously witty, self-deprecating, and goofy personality. His candid humor, paired with widely discussed public displays of affection with his daughter Raha, highlight an endearing charm that audiences find thoroughly engaging."
+        ]
+      },
+      {
+        "h": "Vicky Kaushal: The Definitive Pookie Macho",
+        "p": [
+          "Vicky Kaushal has built an enviable filmography defined by physically demanding roles and intense patriotism, showcased brilliantly in military dramas like Uri: The Surgical Strike and Sam Bahadur. His commanding posture and fierce expressions give him an undeniable authority on-screen that captivates viewers across the country.",
+          "Off-screen, Kaushal is widely recognized as the quintessential pookie macho, winning over fans with his infectious smile, playful demeanor, and unpretentious nature. Following the introduction of his son Vihaan alongside Katrina Kaif, public appreciation for his loving and affectionate fatherly persona reached entirely new heights."
+        ]
+      },
+      {
+        "h": "Sidharth Malhotra and Shahid Kapoor: Style Meets Evolution",
+        "p": [
+          "Sidharth Malhotra has maintained his reputation as a quintessential Bollywood heartthrob, backed by a towering frame, sharp features, and an effortlessly cool sense of style. Beyond this striking physical exterior lies an exceptionally warm, affectionate, and easy-going personality that frequently shines through during media interactions.",
+          "Similarly, Shahid Kapoor has undergone a fascinating career evolution from his early days as a chocolate-boy romantic lead to rugged, intense avatars in films like Kabir Singh and Deva. While his cinematic choices continue to favor high-intensity drama, his personal life reveals a passionate love for dance, witty humor, and heartwarming glimpses of his family."
+        ]
+      },
+      {
+        "h": "Karan Tacker: Balancing Rugged Looks With Relatable Charm",
+        "p": [
+          "Karan Tacker rounds out the list with his striking features, rugged good looks, and naturally captivating screen presence that easily positions him among television and film's notable leading men. He effortlessly carries an aura of cool confidence that appeals to a wide segment of viewers.",
+          "Despite his sharp appearance, Tacker possesses a deeply endearing and softer side that becomes immediately apparent in his everyday life. Whether he is sharing candid moments spent with his nephew on social media or bringing an approachable, relatable charm to his interviews, he maintains a perfect equilibrium between cool and cute."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "On the occasion of International Men's Day 2026, six prominent Indian actors—Yash, Ranbir Kapoor, Vicky Kaushal, Sidharth Malhotra, Shahid Kapoor, and Karan Tacker—are celebrated for maintaining a stark contrast between their fierce, macho on-screen characters and their warm, family-oriented off-screen personalities. The feature highlights how these major film stars successfully balance demanding cinematic roles with affectionate fatherly and personal lives."
+        ]
+      }
+    ],
+    "facts": [
+      "International Men's Day is celebrated in the year 2026.",
+      "Yash plays Ravana in Ramayana and Rocky Bhai in the KGF series.",
+      "Ranbir Kapoor stars in Animal and Ramayana.",
+      "Vicky Kaushal starred in Uri: The Surgical Strike and Sam Bahadur.",
+      "Shahid Kapoor starred in Kabir Singh and Deva."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Vicky Kaushal",
+        "Sidharth Malhotra",
+        "Shahid Kapoor",
+        "Karan Tacker",
+        "Ayra",
+        "Raha",
+        "Vihaan",
+        "Katrina Kaif"
+      ],
+      "titles": [
+        "Ramayana",
+        "KGF",
+        "Animal",
+        "Uri: The Surgical Strike",
+        "Sam Bahadur",
+        "Kabir Singh",
+        "Deva"
+      ]
+    },
+    "keywords": [
+      "International Mens Day 2026 actors",
+      "Yash Ramayana family life",
+      "Ranbir Kapoor Animal interviews",
+      "Vicky Kaushal Katrina Kaif son Vihaan",
+      "Shahid Kapoor Kabir Singh Deva"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/11/19/2762240-rabir.jpg",
+        "caption": "International Men's Day 2026: Celebrating Six Indian Actors Who Blend On-Screen Macho Energy With Off-Screen Pookie Char",
+        "source": "DNA India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T21:52:55Z"
+  },
+  "1u2bkm6": {
+    "id": "1u2bkm6",
+    "type": "news",
+    "headline": "Disney Drops Ice Age 6 Trailer Instead of Avengers: Doomsday, Leaving Fans Livid",
+    "dek": "Marvel enthusiasts eagerly awaiting a final look at Avengers: Doomsday were left frustrated after Disney unveiled footage for an entirely different franchise.",
+    "body": [
+      {
+        "h": "The Great Trailer Disappointment",
+        "p": [
+          "Marvel enthusiasts experienced a wave of annoyance when Disney bypassed expectations and debuted an entirely unexpected promotional video this week. With the highly anticipated ensemble picture sitting less than a month away from its official premiere, followers of the cinematic universe anticipated the arrival of a final preview. Instead, the studio shocked audiences by dropping the official look at Ice Age 6: Boiling Point.",
+          "The sudden shift in focus immediately caused a stir across social media platforms. Supporters who logged on hoping for superhero action found themselves staring at an animated feature instead, triggering a swift and vocal wave of online backlash directed at the studio."
+        ]
+      },
+      {
+        "h": "Fan Outrage Across Social Media",
+        "p": [
+          "Disappointed viewers quickly took to X, formerly known as Twitter, to air their grievances regarding the unexpected drop. One user bluntly expressed their dissatisfaction by stating they wanted superhero footage instead of the animated release, while another shared a looping graphic of a man angrily kicking a door to emphasize their annoyance.",
+          "Additional accounts joined in on the digital protest, questioning the studio's choice of priorities. Many pointed out that despite numerous promotional spots arriving for various other projects, the lack of any substantial preview for the upcoming crossover event felt like a major letdown."
+        ]
+      },
+      {
+        "h": "Fueling the Hype and Expectations",
+        "p": [
+          "Although followers felt certain a preview was imminent, Marvel had never officially confirmed that a new promotional clip would drop on that specific day. However, excitement had reached a fever pitch following statements from high-ranking studio executives.",
+          "Asad Ayaz, who serves as Marvel’s Chief of Marketing, recently shared teasers that strongly hinted something significant was on the way. His remarks inadvertently stoked massive expectations among the community, making the subsequent pivot to an entirely different franchise feel all the more jarring."
+        ]
+      },
+      {
+        "h": "A Shift in Traditional Release Patterns",
+        "p": [
+          "The frustration stems partly from established traditions within the studio's promotional playbook. Historically, Disney and its subsidiary brands frequently unveil the ultimate previews for their blockbuster titles precisely when advance ticket bookings officially open to the public.",
+          "This time around, however, the company threw convention out the window. Advance ticketing went live without the accompanying drop of fresh footage, leaving audiences searching for answers regarding the studio's current rollout strategy."
+        ]
+      },
+      {
+        "h": "Alternative Promos Offer No New Footage",
+        "p": [
+          "In the absence of a brand-new trailer, enthusiasts had to parse through alternate forms of media for any scraps of unseen content. Filmmakers the Russo brothers shared a marketing spot, but it relied entirely on previously published material rather than offering fresh glimpses.",
+          "Similarly, an official behind-the-scenes featurette released by the studio failed to include any novel shots. This scarcity of fresh content has left everyone wondering if a dedicated preview will ever materialize before the premiere date."
+        ]
+      },
+      {
+        "h": "Massive Crossover Stakes",
+        "p": [
+          "The immense anticipation surrounding the film is well-deserved given its sprawling scale and roster. The storyline brings together Earth's mightiest heroes alongside the X-Men, the Fantastic Four, and the people of Wakanda for an unprecedented collision.",
+          "This unified front must contend with a formidable antagonist portrayed by Robert Downey Jr., who steps into the iconic role of Doctor Doom. The grand narrative is also designed to lay vital groundwork for an upcoming follow-up titled Avengers: Secret Wars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney frustrated Marvel enthusiasts by releasing an Ice Age 6 trailer instead of a final preview for Avengers: Doomsday. Despite marketing teases and traditional ticket-release patterns, the studio provided no new footage for the upcoming December 18, 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "The event occurred on November 19, 2026.",
+      "Avengers: Doomsday is scheduled to release on December 18, 2026.",
+      "Avengers: Secret Wars is scheduled to release in 2027.",
+      "Asad Ayaz is Marvel's Chief of Marketing.",
+      "Robert Downey Jr. plays Doctor Doom."
+    ],
+    "entities": {
+      "people": [
+        "Rahul Majumdar",
+        "Asad Ayaz",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Ice Age 6: Boiling Point",
+        "Avengers: Secret Wars"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday trailer",
+      "Disney Ice Age 6 Boiling Point",
+      "Asad Ayaz Marvel marketing",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/avengers-doomsday-2.jpg?resize=1200,630",
+        "caption": "Disney Drops Ice Age 6 Trailer Instead of Avengers: Doomsday, Leaving Fans Livid",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 21:01:57 +0000"
+  },
+  "jucfbm": {
+    "id": "jucfbm",
+    "type": "news",
+    "headline": "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day",
+    "dek": "Actor Ram Pothineni has shared a moody, atmospheric first glimpse of his upcoming psychological action drama RAPO23, featuring Bollywood actor Riteish Deshmukh.",
+    "body": [
+      {
+        "h": "The Pre-Look Reveal",
+        "p": [
+          "Actor Ram Pothineni caught the attention of fans by revealing a new pre-look poster for his upcoming project, widely referred to as RAPO23. The promotional rollout was timed specifically to coincide with International Men's Day, giving the star an opportunity to connect the film's thematic core with a special greeting to men everywhere.",
+          "Accompanying the poster reveal was a dictionary-style definition of a \"lone wolf,\" characterizing a fiercely independent man who forges his own journey and confronts the world by himself. The post immediately drew significant attention online, amplified by the use of dedicated hashtags that quickly began trending among his followers."
+        ]
+      },
+      {
+        "h": "Visuals And Atmosphere",
+        "p": [
+          "The newly released promotional image adopts a dark, moody tone, focusing on a solitary figure viewed from behind. The backdrop exudes a cold, modern, and slightly dystopian atmosphere, highlighted by striking architecture and moody lighting that give the frame an aesthetic reminiscent of Hollywood productions.",
+          "Industry observers and fans alike have noted the distinct stylistic choice, which leans heavily into psychological action drama and noir elements. This unconventional framing has heightened curiosity surrounding the narrative direction of the project, setting it apart from standard commercial potboilers."
+        ]
+      },
+      {
+        "h": "Character Dynamics And Premise",
+        "p": [
+          "Based on the visual clues provided in the poster and its accompanying tagline, the protagonist appears to be a deeply guarded individual. He is portrayed as a man likely shaped by past loss or betrayal, favoring quiet intensity over long dialogues and dramatic speeches.",
+          "The character's journey hints at internal struggles that run just as deep as his external conflicts. This psychological layering suggests a complex narrative where physical altercations are mirrored by intense emotional and mental battles."
+        ]
+      },
+      {
+        "h": "Star Cast And Crew",
+        "p": [
+          "A major highlight of the project is the inclusion of Bollywood actor Riteish Deshmukh, who is set to play a prominent role. Deshmukh's involvement marks his notable Telugu debut, adding significant cross-industry appeal to the venture.",
+          "Behind the scenes, the production has enlisted a strong technical crew to bring the dark vision to life. Sam CS has been brought on board to compose the music, while Kevin Kumar handles the action choreography as the fight master."
+        ]
+      },
+      {
+        "h": "Production Timeline And Milestones",
+        "p": [
+          "The yet-untitled film officially commenced production when it went on floors in the month of June. The journey represents an evolving phase for Ram Pothineni, who has steadily expanded his creative responsibilities beyond just acting to actively shape his cinematic narratives.",
+          "With a theatrical arrival anticipated in Summer 2027, the project is slated as an important upcoming milestone. The complete release schedule and exact premiere date are expected to be officially announced in the near future."
+        ]
+      },
+      {
+        "h": "Shift In Artistic Direction",
+        "p": [
+          "Taking on a gritty, noir-tinged drama signifies a notable departure from the familiar mass-hero templates that have defined much of the actor's career so far. By stepping into a psychologically complex role, he aims to showcase greater versatility on screen.",
+          "If the film manages to strike the right chord with viewers, it could redefine audience expectations and solidify his standing as a multifaceted performer willing to experiment with daring cinematic concepts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ram Pothineni released the atmospheric 'Lone Wolf' pre-look for RAPO23 on International Men's Day, showcasing a moody aesthetic and a dictionary-style definition for the protagonist. The psychological action noir features Riteish Deshmukh in a prominent role and is slated for a release in Summer 2027 following the commencement of filming in June."
+        ]
+      }
+    ],
+    "facts": [
+      "Ram Pothineni unveiled the pre-look of RAPO23 on International Men's Day on November 19, 2026.",
+      "Riteish Deshmukh plays a prominent role in the film, marking his Telugu debut.",
+      "The film went on floors in June.",
+      "Sam CS is the music director and Kevin Kumar is the fight master.",
+      "The film is expected to release in Summer 2027."
+    ],
+    "entities": {
+      "people": [
+        "Ram Pothineni",
+        "Riteish Deshmukh",
+        "Sam CS",
+        "Kevin Kumar"
+      ],
+      "titles": [
+        "RAPO23"
+      ]
+    },
+    "keywords": [
+      "Ram Pothineni",
+      "RAPO23",
+      "Riteish Deshmukh",
+      "Ram Pothineni RAPO23"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ram-pothineni-unveils-the-lone-wolf-pre-look-of-rapo231795082714.jpg",
+        "caption": "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-19T15:55:20+05:30"
   }
 };

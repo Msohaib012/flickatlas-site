@@ -1,15 +1,834 @@
 [
  {
   "story_id": "story-0001",
-  "category": "Box Office",
-  "title": "OM Advance Booking Day 1: Dhanush’s Film Crosses 9Cr In Presales; Creates THIS Record Ahead Of Release",
-  "url": "https://www.filmibeat.com/tamil/news/2026/om-advance-booking-day-1-dhanush-s-film-crosses-9cr-in-presales-creates-this-record-ahead-of-release-538655.html",
-  "source": "FilmiBeat",
+  "category": "Movies",
+  "title": "A Teen’s Make-A-Wish Dream Was To Be In A Hallmark Movie. She Got To Do That And So Much More",
+  "url": "https://www.cinemablend.com/television/a-teens-make-a-wish-dream-be-in-hallmark-movie-so-much-more-lacey-chabert",
+  "source": "CinemaBlend",
   "duplicate_count": 0,
   "duplicate_sources": []
  },
  {
   "story_id": "story-0002",
+  "category": "Movies",
+  "title": "Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend",
+  "url": "https://www.cinemablend.com/television/gordon-ramsays-hot-take-air-fryers-has-me-questioning-legend",
+  "source": "CinemaBlend",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0003",
+  "category": "Celebrity news & events",
+  "title": "Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal",
+  "url": "https://www.cinemablend.com/streaming-news/looking-for-holiday-movies-stream-paramount-plus-has-you-covered-with-amazing-discounted-deal",
+  "source": "CinemaBlend",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0004",
+  "category": "Movies",
+  "title": "Hulu’s 8-Part Mystery Series Feels Like It Was Made To Be Binged",
+  "url": "https://collider.com/hulu-phony-mystery-series-binge-watch/",
+  "source": "Collider",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0005",
+  "category": "Movies",
+  "title": "Andrew Garfield’s Artificial Movie’s Poster Is Hiding Big Secrets You Didn’t Notice at First",
+  "url": "https://www.comingsoon.net/movies/news/2227811-andrew-garfield-artificial-movie-poster-big-secrets-didnt-notice-at-first",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0006",
+  "category": "Movies",
+  "title": "Olympus Has Fallen & Agents of SHIELD Actor Lance Broadway Passes Away at 43",
+  "url": "https://www.comingsoon.net/movies/news/2227868-olympus-has-fallen-agents-of-shield-actor-lance-broadway-obituary",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0007",
+  "category": "Trailers",
+  "title": "Spider-Man 4 Extended Cut Teaser Has Big Announcement for Fans Who Want to See New MCU Footage",
+  "url": "https://www.comingsoon.net/movies/news/2227890-spider-man-4-extended-cut-teaser-new-mcu-footage",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0008",
+  "category": "Movies",
+  "title": "Brooks Nader Joins Jessica Biel & Johnny Depp’s Daughter in Cast of New NSFW Movie",
+  "url": "https://www.comingsoon.net/movies/news/2227831-brooks-nader-nsfw-mansion-movie-lily-rose-depp",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0009",
+  "category": "Movies",
+  "title": "World War Z 2 Gets Update, Brad Pitt Explains Bringing ‘Fresh’ Ideas to Zombie Genre",
+  "url": "https://www.comingsoon.net/movies/news/2227830-brad-pitt-world-war-z-2-update-catch",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0010",
+  "category": "Upcoming releases",
+  "title": "Andrew Garfield & Jude Law’s Siegfried & Roy Show Scores Apple TV Release Date, Watch Video",
+  "url": "https://www.comingsoon.net/tv/news/2227776-andrew-garfield-jude-law-siegfried-roy-show-apple-tv-release-date-video",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0011",
+  "category": "Trailers",
+  "title": "‘Whatever Nonsense This Is’: Disney’s New Big Trailer Release Has Avengers: Doomsday Fans Livid",
+  "url": "https://www.comingsoon.net/movies/news/2227849-disney-avengers-doomsday-trailer-fan-reactions",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0012",
+  "category": "Trailers",
+  "title": "Avengers: Doomsday Finally Unveils First Look at Fan-Favorite Character’s Radical Redesign",
+  "url": "https://www.comingsoon.net/movies/news/2227837-avengers-doomsday-unveils-first-look-fan-favorite-character-radical-redesign",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0013",
+  "category": "Movies",
+  "title": "Spider-Man’s Doctor Octopus Just Got His Most Horrifying Makeover Ever From Marvel, See It Here",
+  "url": "https://www.comingsoon.net/comics/news/2227813-spider-man-doctor-octopus-most-horrifying-makeover-marvel",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0014",
+  "category": "Movies",
+  "title": "007’s Léa Seydoux Has a Very Bitter Response to Who the Next James Bond Girl Should Be",
+  "url": "https://www.comingsoon.net/movies/news/2227764-lea-seydoux-james-bond-girl-response",
+  "source": "ComingSoon.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0015",
+  "category": "Movies",
+  "title": "Watch: Pixar's 'Love on a Plate' Short Film About Food & Community",
+  "url": "https://www.firstshowing.net/2026/watch-pixars-love-on-a-plate-short-film-about-food-community/",
+  "source": "FirstShowing.net",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0016",
+  "category": "OTT / Streaming",
+  "title": "Disney+ Crime Fantasy Adaptation Officially Moves Forward 16 Years Later",
+  "url": "https://movieweb.com/the-curse-workers-disney-plus-adaptation/",
+  "source": "MovieWeb",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0017",
+  "category": "OTT / Streaming",
+  "title": "'Breaking Bad' Icon Aaron Paul Officially Reunites With Netflix for Smash Hit Thriller Series",
+  "url": "https://movieweb.com/the-beast-in-me-season-2-update/",
+  "source": "MovieWeb",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0018",
+  "category": "Movies",
+  "title": "Matt Damon Responds to Christopher Nolan Calling His Odysseus the Performance of a Lifetime",
+  "url": "https://movieweb.com/matt-damon-christopher-nolan-odyssey-performance/",
+  "source": "MovieWeb",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0019",
+  "category": "Movies",
+  "title": "HBO's Greatest Historical Miniseries Has 95% on Rotten Tomatoes & You Can Binge It in Under 6 Hours",
+  "url": "https://movieweb.com/chernobyl-streaming-recommendation/",
+  "source": "MovieWeb",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0020",
+  "category": "OTT / Streaming",
+  "title": "Disney’s $1 Billion Live-Action Remake Sequel Officially Recruits ‘Spider-Man’ Star",
+  "url": "https://movieweb.com/lilo-and-stitch-2-jacob-batalon/",
+  "source": "MovieWeb",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0021",
+  "category": "Trailers",
+  "title": "Andrew Garfield & Jude Law Are Unrecognizable in Magical Teaser for Wild New Apple TV Series",
+  "url": "https://movieweb.com/wild-things-teaser/",
+  "source": "MovieWeb",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0022",
+  "category": "OTT / Streaming",
+  "title": "Forget Lioness, Taylor Sheridan’s 2-Part Action Series Is Now A 160-Day Streaming Sensation",
+  "url": "https://screenrant.com/taylor-sheridan-marshals-forget-lioness-paramount-plus-streaming-milestone-november-2026/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0023",
+  "category": "OTT / Streaming",
+  "title": "7 Reasons Netflix's New Stranger Things Series Should Be A Sequel, Not A Prequel",
+  "url": "https://screenrant.com/stranger-things-netflix-sequel-better-prequel/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0024",
+  "category": "Movies",
+  "title": "Superman Just Left The Justice League, Dark Decision Explained",
+  "url": "https://screenrant.com/superman-leave-justice-league/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0025",
+  "category": "Episodes",
+  "title": "South Park: Bigger, Longer & Uncut Is The Show's Best Episode",
+  "url": "https://screenrant.com/south-park-bigger-longer-uncut-best-episode-streaming/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0026",
+  "category": "Movies",
+  "title": "Bestselling 5-Novel Mystery Thriller Franchise Getting First-Ever TV Adaptation",
+  "url": "https://screenrant.com/dean-koontz-jane-hawk-tv-adaptation-development/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0027",
+  "category": "Movies",
+  "title": "Downton Abbey Has Everything It Needs For A Sequel Series Right Now",
+  "url": "https://screenrant.com/downton-abbey-sequel-series-ready/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0028",
+  "category": "Movies",
+  "title": "GTA 6: How To Get The Sneakers In Ride Or Die",
+  "url": "https://screenrant.com/gta-6-how-to-get-the-sneakers-in-ride-or-die/",
+  "source": "Screen Rant",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0029",
+  "category": "Movies",
+  "title": "The Best Gifts to Shop at Best Buy: From Home Theater Upgrades to Espresso Machines",
+  "url": "https://variety.com/2026/shopping/news/best-buy-gift-guide-best-deals-shop-online-1236953639/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0030",
+  "category": "Movies",
+  "title": "Caleb Hearon and Zooey Deschanel TIFF Dramedy ‘Trash Mountain’ Acquired by Magnolia Pictures",
+  "url": "https://variety.com/2026/film/news/caleb-hearon-zooey-deschanel-trash-mountain-magnolia-1236953596/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0031",
+  "category": "OTT / Streaming",
+  "title": "Executives From the Walt Disney Company, NBCUniversal Television, Blumhouse Atomic, Waymo and Chipotle to Join Variety’s Entertainment Summit at CES",
+  "url": "https://variety.com/2026/biz/news/variety-announces-programming-entertainment-summit-at-ces-1236953511/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0032",
+  "category": "Movies",
+  "title": "‘The Year of the Ghost,’ About Misogyny in China, Wins Best Film at IDFA Documentary Festival",
+  "url": "https://variety.com/2026/film/global/the-year-of-the-ghost-idfa-1236953608/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0033",
+  "category": "OTT / Streaming",
+  "title": "Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President",
+  "url": "https://variety.com/2026/film/news/tendo-nagenda-ryan-coogler-proximity-media-president-1236952410/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0034",
+  "category": "Movies",
+  "title": "‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia",
+  "url": "https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0035",
+  "category": "Movies",
+  "title": "Judge Allows Trump to Sue New York Times Reporters Over Tax Fraud Claims",
+  "url": "https://variety.com/2026/politics/news/trump-new-york-times-tax-fraud-lucky-loser-book-1236953532/",
+  "source": "Variety",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0036",
+  "category": "Movies",
+  "title": "NYC Book Publishing Mainstay Farrar, Straus & Giroux Marks 80th Anniversary",
+  "url": "https://deadline.com/2026/11/book-publisher-farrar-straus-giroux-marks-80th-anniversary-1237228484/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0037",
+  "category": "Upcoming releases",
+  "title": "Everything We Know About ‘The Nightingale’ Movie So Far: Release Date, Stars & More",
+  "url": "https://deadline.com/feature/the-nightingale-movie-news-updates-kristin-hannah-book-1236690359/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0038",
+  "category": "Awards",
+  "title": "IDFA Awards Ceremony: ‘The Year Of The Ghost’ And ‘Memories Of Lightning’ Earn Top Prizes",
+  "url": "https://deadline.com/2026/11/2026-idfa-awards-announcement-1237229526/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0039",
+  "category": "Trailers",
+  "title": "‘Spider-Man: Brand New Day’ Re-Release: First Look At Rosario Dawson As Night Nurse In Deleted Scene",
+  "url": "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-nurse-deleted-scene-1237229518/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0040",
+  "category": "Movies",
+  "title": "Playbill Apologizes Over ‘George Floyd Musical’ Ad & Bans Producer From Listings; Show’s Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights",
+  "url": "https://deadline.com/2026/11/playbill-george-floyd-musical-busted-broadway-kevin-lynch-1237229358/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0041",
+  "category": "Movies",
+  "title": "Tendo Nagenda Tapped As President Of Proximity Media",
+  "url": "https://deadline.com/2026/11/tendo-nagenda-ryan-coogler-proximity-media-1237228818/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0042",
+  "category": "TV & Dramas",
+  "title": "Justin Hartley & ChangeUp Productions Developing Medical Drama ‘Dr. Lucia’ At NBC",
+  "url": "https://deadline.com/2026/11/justin-hartley-developing-dr-lucia-series-nbc-1237229428/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0043",
+  "category": "Movies",
+  "title": "‘The Odyssey’s Christopher Nolan Explains Why “No One Will Ever See” Deleted Scenes Of Epic",
+  "url": "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/",
+  "source": "Deadline",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0044",
+  "category": "Movies",
+  "title": "New ‘The Prisoner’ Series in the Works as Amazon Picks Up Rights (Exclusive)",
+  "url": "https://www.hollywoodreporter.com/tv/tv-news/new-the-prisoner-series-in-the-works-amazon-1236759554/",
+  "source": "The Hollywood Reporter",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0045",
+  "category": "Movies",
+  "title": "Mariko Tamaki Writing Sexy Vampire Thriller ‘Royal Blood’ for Skybound, Image Comics (Exclusive)",
+  "url": "https://www.hollywoodreporter.com/tv/tv-news/mariko-tamaki-writing-sexy-vampire-thriller-royal-blood-1236759480/",
+  "source": "The Hollywood Reporter",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0046",
+  "category": "Movies",
+  "title": "T-Mobile Introduces T-Mix, an Innovative Phone Plan That Lets You Choose What’s Included",
+  "url": "https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-t-mix-launch-phone-plan-details-pricing-benefits-1236755222/",
+  "source": "The Hollywood Reporter",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0047",
+  "category": "Awards",
+  "title": "IDFA: ‘The Year of the Ghost’ and ‘Memories of Lightning’ Win Amsterdam Doc Fest Awards",
+  "url": "https://www.hollywoodreporter.com/movies/movie-news/idfa-2026-awards-the-year-of-the-ghost-memories-of-lightning-1236759272/",
+  "source": "The Hollywood Reporter",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0048",
+  "category": "Movies",
+  "title": "Tendo Nagenda Named President of Ryan Coogler’s Proximity Media",
+  "url": "https://www.hollywoodreporter.com/news/general-news/tendo-nagenda-president-ryan-coogler-proximity-media-1236759547/",
+  "source": "The Hollywood Reporter",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0049",
+  "category": "Movies",
+  "title": "Trump Posthumously Pardons Baseball Legend Pete Rose: ‘Was Treated Terribly by MLB’",
+  "url": "https://www.thewrap.com/culture-lifestyle/sports/trump-pardons-pete-rose/",
+  "source": "TheWrap",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0050",
+  "category": "Movies",
+  "title": "Rosario Dawson Shows Off Her Night Nurse Cameo in ‘Spider-Man: Brand New Day’",
+  "url": "https://www.thewrap.com/creative-content/movies/rosario-dawson-spider-man-brand-new-day-night-nurse-cameo-tease/",
+  "source": "TheWrap",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0051",
+  "category": "Movies",
+  "title": "Proximity Media Names Tendo Nagenda as President",
+  "url": "https://www.thewrap.com/creative-content/movies/proximity-media-names-tendo-nagenda-president/",
+  "source": "TheWrap",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0052",
+  "category": "Movies",
+  "title": "Director Brian Duffield Had to Find a New Form of Visual Storytelling for ‘Whalefall’",
+  "url": "https://www.indiewire.com/features/podcast/brian-duffield-on-whalefall-filmmaker-toolkit-1235225774/",
+  "source": "IndieWire",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0053",
+  "category": "OTT / Streaming",
+  "title": "Ryan Coogler’s Proximity Media Hires Former Netflix Exec Tendo Nagenda as President",
+  "url": "https://www.indiewire.com/news/breaking-news/ryan-coogler-proximity-media-hires-tendo-nagenda-president-1235228838/",
+  "source": "IndieWire",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0054",
+  "category": "Movies",
+  "title": "Billie Piper Is Ready For You To Cry But Knows The Real World Laughs Are Needed In ‘Elsinore’ [Interview]",
+  "url": "https://theplaylist.net/billie-piper-is-elsinore-interview-20261119/",
+  "source": "The Playlist",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0055",
+  "category": "Trailers",
+  "title": "‘Ice Age: Boiling Point’ Trailer: Manny, Sid & Diego Return For A Prehistoric Adventure",
+  "url": "https://theplaylist.net/ice-age-boiling-point-trailer-20261119/",
+  "source": "The Playlist",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0056",
+  "category": "Movies",
+  "title": "Quentin Tarantino Offers New Details On His Original ‘Inglourious Basterds’ Miniseries & The Black Soldiers Storyline He Cut",
+  "url": "https://theplaylist.net/quentin-tarantino-inglourious-basterds-eight-episode-miniseries-20261119/",
+  "source": "The Playlist",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0057",
+  "category": "Trailers",
+  "title": "Mark and Damien Darkblood Argue Over a Burger Mart Meal in the New Invincible Season 5 Teaser Trailer",
+  "url": "https://www.joblo.com/invincible-season-5-burger-mart-teaser/",
+  "source": "JoBlo",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0058",
+  "category": "Movies",
+  "title": "Sleepover: Michelle Monaghan replaces Parker Posey in Blumhouse horror movie",
+  "url": "https://www.joblo.com/sleepover-monaghan/",
+  "source": "JoBlo",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0059",
+  "category": "Celebrity news & events",
+  "title": "PS5 error CE-108255-1 is ruining GTA 6 for some players, and Rockstar and Sony aren't very helpful: \"Try updating your game\"",
+  "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/",
+  "source": "Total Film (GamesRadar)",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0060",
+  "category": "Movies",
+  "title": "The Rings Of Power: Why Tolkien Called Death The Gift Of Men",
+  "url": "https://www.tvline.com/2321609/the-rings-of-power-death-gift-for-men-explained/",
+  "source": "TVLine",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0061",
+  "category": "Movies",
+  "title": "Andrew Garfield, ‘Artificial’ stars on tackling AI, the Globes comedy debate, and being dropped by Amazon",
+  "url": "https://www.goldderby.com/film/2026/artificial-andrew-garfield-monica-barbaro-interview-golden-globes/",
+  "source": "Gold Derby",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0062",
+  "category": "Movies",
+  "title": "Interview: Andrew Scott on Creating Community in ‘Elsinore,’ the Importance of Preserving Gay Stories, and How “Prejudice Does Not Survive Proximity”",
+  "url": "https://awardswatch.com/interview-andrew-scott-on-creating-community-in-elsinore-the-importance-of-preserving-gay-stories-and-how-prejudice-does-not-survive-proximity/",
+  "source": "AwardsWatch",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0063",
+  "category": "Movies",
+  "title": "Black Friday is getting started early: Save big on 6 months of Crunchyroll",
+  "url": "https://decider.com/2026/11/19/crunchyroll-black-friday-deal-2026-get-6-months-for-4-per-month/",
+  "source": "Decider",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0064",
+  "category": "TV & Dramas",
+  "title": "\"100 Days of Deception\": 3 Big Mysteries to Solve Before the Finale",
+  "url": "https://mydramalist.com/article/28256-100-days-of-deception-mysteries-before-finale",
+  "source": "MyDramaList",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0065",
+  "category": "Movies",
+  "title": "Lee Soo Man faces trademark dispute over 'A20' brand as 3-year non-use becomes key issue",
+  "url": "https://lab.allkpop.com/article/2026/11/lee-soo-man-faces-trademark-dispute-over-a20-brand-as-3-year-non-use-becomes-key-issue",
+  "source": "allkpop",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0066",
+  "category": "Music / OST",
+  "title": "BLACKPINK Jennie’s “GTA 6” Soundtrack Song Hit With Heavily Mixed Reactions",
+  "url": "https://www.koreaboo.com/news/blackpink-jennie-gta-6-soundtrack-song-hit-heavily-mixed-reactions-grand-theft-auto-power-trip/",
+  "source": "Koreaboo",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0067",
+  "category": "Movies",
+  "title": "EastEnders star speaks out after shock Gina Knight exit news",
+  "url": "https://www.digitalspy.com/soaps/eastenders/a74481302/eastenders-gina-knight-exit/",
+  "source": "Digital Spy",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0068",
+  "category": "Celebrity news & events",
+  "title": "I'm A Celebrity's Wayne Rooney dubbed \"Wayne Poo-ney\" after wild toilet confession - leaving fans in stitches",
+  "url": "https://www.digitalspy.com/tv/reality-tv/a74481729/im-a-celebrity-wayne-rooney-coleen-toilet-confession/",
+  "source": "Digital Spy",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0069",
+  "category": "Movies",
+  "title": "Coronation Street airs shocking Daniel cliffhanger – here's what happens next",
+  "url": "https://www.digitalspy.com/soaps/coronation-street/a74479590/coronation-street-daniel-cliffhanger-adam/",
+  "source": "Digital Spy",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0070",
+  "category": "Movies",
+  "title": "The Gilded Age gets exciting season 5 news amid rising ratings: \"We can't wait\"",
+  "url": "https://www.digitalspy.com/tv/ustv/a74481280/the-gilded-age-season-5/",
+  "source": "Digital Spy",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0071",
+  "category": "Trailers",
+  "title": "Ice Age: Boiling Point unveils trailer and poster",
+  "url": "https://www.flickeringmyth.com/ice-age-boiling-point-unveils-trailer-and-poster/",
+  "source": "Flickering Myth",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0072",
+  "category": "Movies",
+  "title": "Curious About K-Beauty? For $35, Reviewers Say This Set is the Answer",
+  "url": "https://www.eonline.com/news/1438249/k-beauty-skincare-set-iherb-exclusive-bag-on-sale-for-black-friday?cmpid=rss-syndicate-genericrss-us-top_stories",
+  "source": "E! News",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0073",
+  "category": "Movies",
+  "title": "Jon Hamm & Wife Anna Osceola Welcome First Child Together!",
+  "url": "https://www.justjared.com/2026/11/19/jon-hamm-wife-anna-osceola-welcome-first-child-together/",
+  "source": "Just Jared",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0074",
+  "category": "Movies",
+  "title": "Patrick Stewart’s Official Cause of Death Revealed",
+  "url": "https://www.justjared.com/2026/11/19/patrick-stewarts-official-cause-of-death-revealed/",
+  "source": "Just Jared",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0075",
+  "category": "Movies",
+  "title": "Lea Seydoux Shares Hot Take When Asked Who Should Play Next Bond Girl in New James Bond Movie: ‘I Don’t Really Care’",
+  "url": "https://www.justjared.com/2026/11/19/lea-seydoux-shares-hot-take-when-asked-who-should-play-next-bond-girl-in-new-james-bond-movie-i-dont-really-care/",
+  "source": "Just Jared",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0076",
+  "category": "Movies",
+  "title": "Fiona the Hippo Passes Away at Age 9 After Swallowing Hat at Cincinnati Zoo",
+  "url": "https://www.justjared.com/2026/11/19/fiona-the-hippo-passes-away-at-age-9-after-swallowing-hat-at-cincinnati-zoo/",
+  "source": "Just Jared",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0077",
+  "category": "Movies",
+  "title": "Bella Hadid & New Boyfriend Nathan Lacy Share Sweet Kisses During Romantic Aspen Shopping Date",
+  "url": "https://www.justjared.com/2026/11/19/bella-hadid-nathan-lacy-kissing-pda-aspen-shopping-date/",
+  "source": "Just Jared",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0078",
+  "category": "Movies",
+  "title": "Macy’s Thanksgiving Day Parade Lineup Revealed: Performers, Broadway Shows & More Unveiled for 100th Celebration",
+  "url": "https://www.justjared.com/2026/11/19/macys-thanksgiving-day-parade-lineup-revealed-performers-broadway-shows-more-unveiled-for-100th-celebration/",
+  "source": "Just Jared",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0079",
+  "category": "Movies",
+  "title": "Angie Katsanevas’ estranged husband, Shawn Trujillo, moves into $1.1M bachelor pad ‘minutes’ away from ‘RHOSLC’ star as separation heats up",
+  "url": "https://pagesix.com/2026/11/19/celebrity-news/rhoslc-star-angie-katsanevas-estranged-husband-shawn-trujillo-moves-into-1-1m-bachelor-pad-amid-separation/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0080",
+  "category": "Movies",
+  "title": "Sydney Sweeney kicks off ‘seductress season’ in winter white lingerie",
+  "url": "https://pagesix.com/2026/11/19/style/sydney-sweeney-kicks-off-seductress-season-in-winter-white-syrn-lingerie/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0081",
+  "category": "Movies",
+  "title": "22 celeb-approved Amazon beauty deals to shop before Black Friday",
+  "url": "https://pagesix.com/2026/11/19/style/22-best-early-amazon-black-friday-beauty-deals-2026/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0082",
+  "category": "Movies",
+  "title": "Jon Hamm, 55, and wife Anna Osceola, 38, welcome their first baby together",
+  "url": "https://pagesix.com/2026/11/19/parents/jon-hamm-and-wife-anna-osceola-welcome-their-first-baby-together/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0083",
+  "category": "Music / OST",
+  "title": "Dianna Russini quietly deletes photo of her husband and kids from Instagram — after issuing bold statement on her comeback",
+  "url": "https://pagesix.com/2026/11/19/entertainment/dianna-russini-quietly-deletes-photo-of-her-husband-and-kids-from-instagram-after-issuing-bold-statement-on-her-comeback/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0084",
+  "category": "Music / OST",
+  "title": "Staggering amount Alix Earle earns for a single post revealed — as she’s primed to become ‘billionaire beauty mogul’",
+  "url": "https://pagesix.com/2026/11/19/celebrity-news/staggering-amount-alix-earle-earns-for-a-single-post-revealed-as-shes-primed-to-become-billionaire-beauty-mogul/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0085",
+  "category": "Celebrity news & events",
+  "title": "Pregnant Brittany Mahomes sparkles in silver sequins on first red carpet since announcing baby No. 4",
+  "url": "https://pagesix.com/2026/11/19/style/pregnant-brittany-mahomes-sparkles-in-silver-sequins-on-cma-awards-2026-red-carpet/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0086",
+  "category": "Movies",
+  "title": "Meghan Markle’s dad Thomas, 82, deemed mentally competent to stand trial in child porn case as he remains behind bars in Florida",
+  "url": "https://pagesix.com/2026/11/19/celebrity-news/meghan-markles-dad-thomas-82-deemed-mentally-competent-to-stand-trial-in-child-porn-case/",
+  "source": "Page Six",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0087",
+  "category": "Movies",
+  "title": "Chrissy Metz, 46, makes intimate confession after dramatic 100lb weight loss",
+  "url": "https://www.hellomagazine.com/us/936164/chrissy-metz-46-makes-intimate-confession-about-her-sex-life-after-dramatic-100lb-weight-loss/",
+  "source": "HELLO! Magazine",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0088",
+  "category": "Celebrity news & events",
+  "title": "Princess Kate shares cheeky exchange with Prince William on Earthshot red carpet",
+  "url": "https://www.hellomagazine.com/royalty/936161/kate-middleton-cheeky-moment-prince-william-earthshot/",
+  "source": "HELLO! Magazine",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0089",
+  "category": "Movies",
+  "title": "Willie Nelson’s Memoir Explains How His Wife Inspires His Creative Spirit: Here’s Where to Get Your Copy Online",
+  "url": "https://www.billboard.com/culture/product-recommendations/willie-nelson-the-last-leaf-memoir-book-shop-buy-online-1236384774/",
+  "source": "Billboard",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0090",
+  "category": "Movies",
+  "title": "Why the President (Any President) Shouldn’t Meddle In Who Receives Kennedy Center Honors: Critic’s Take",
+  "url": "https://www.billboard.com/music/awards/president-kennedy-center-honors-say-1236385920/",
+  "source": "Billboard",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0091",
+  "category": "Movies",
+  "title": "Michelle Salas Has the Look and the Chisme to Go With It | Presented by Shark Beauty",
+  "url": "https://www.billboard.com/video/michelle-salas-has-the-look-and-the-chisme-to-go-with-it/",
+  "source": "Billboard",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0092",
+  "category": "Movies",
+  "title": "‘Grand Theft Auto VI’ Drops for Sony PlayStation 5 and Xbox Series X/S: Here’s Where to Shop the Game Online",
+  "url": "https://www.billboard.com/culture/product-recommendations/grand-theft-auto-6-gta-6-ps5-xbox-how-to-buy-shop-online-1236385610/",
+  "source": "Billboard",
+  "duplicate_count": 0,
+  "duplicate_sources": []
+ },
+ {
+  "story_id": "story-0093",
   "category": "Movies",
   "title": "article govt proposes up to 3 year puc validity for new bs vi vehicles 6 months for older ones 3162573",
   "url": "https://zeenews.india.com/auto/article-govt-proposes-up-to-3-year-puc-validity-for-new-bs-vi-vehicles-6-months-for-older-ones-3162573",
@@ -18,7 +837,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0003",
+  "story_id": "story-0094",
   "category": "Movies",
   "title": "article alia bhatt recognised among influential emerging voices features on time100 next india cover 3162555",
   "url": "https://zeenews.india.com/entertainment/article-alia-bhatt-recognised-among-influential-emerging-voices-features-on-time100-next-india-cover-3162555",
@@ -27,7 +846,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0004",
+  "story_id": "story-0095",
   "category": "Movies",
   "title": "article amitabh bachchan reacts to his bach gaye comment on x reveals unexpected kbc link 3162503",
   "url": "https://zeenews.india.com/entertainment/article-amitabh-bachchan-reacts-to-his-bach-gaye-comment-on-x-reveals-unexpected-kbc-link-3162503",
@@ -36,7 +855,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0005",
+  "story_id": "story-0096",
   "category": "Movies",
   "title": "article aryan khan features on time100 next india inaugural cover recognised among emerging voices shaping indian cinema 3162518",
   "url": "https://zeenews.india.com/entertainment/article-aryan-khan-features-on-time100-next-india-inaugural-cover-recognised-among-emerging-voices-shaping-indian-cinema-3162518",
@@ -45,7 +864,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0006",
+  "story_id": "story-0097",
   "category": "Trailers",
   "title": "article dr hassan teaser nawazuddin siddiqui steps in hugh lauries shoes dia mirza joins remake of house 3162540",
   "url": "https://zeenews.india.com/entertainment/article-dr-hassan-teaser-nawazuddin-siddiqui-steps-in-hugh-lauries-shoes-dia-mirza-joins-remake-of-house-3162540",
@@ -54,7 +873,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0007",
+  "story_id": "story-0098",
   "category": "Movies",
   "title": "article government will take action shiv senas neelam gorhe on alleged death threat to saif ali khan 3162557",
   "url": "https://zeenews.india.com/entertainment/article-government-will-take-action-shiv-senas-neelam-gorhe-on-alleged-death-threat-to-saif-ali-khan-3162557",
@@ -63,7 +882,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0008",
+  "story_id": "story-0099",
   "category": "Movies",
   "title": "article jackie shroff joins delhi cm rekha gupta for post chhath puja yamuna cleanliness drive we should not dump waste 3162543",
   "url": "https://zeenews.india.com/entertainment/article-jackie-shroff-joins-delhi-cm-rekha-gupta-for-post-chhath-puja-yamuna-cleanliness-drive-we-should-not-dump-waste-3162543",
@@ -72,7 +891,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0009",
+  "story_id": "story-0100",
   "category": "Movies",
   "title": "article kaali kheti review jackie shroff and sharad kelkar deliver a terrifying rural horror experience 3162513",
   "url": "https://zeenews.india.com/entertainment/article-kaali-kheti-review-jackie-shroff-and-sharad-kelkar-deliver-a-terrifying-rural-horror-experience-3162513",
@@ -81,7 +900,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0010",
+  "story_id": "story-0101",
   "category": "Movies",
   "title": "article pratap movie review amit sadh delivers a powerful performance in this emotional tale of an encounter specialist 3162567",
   "url": "https://zeenews.india.com/entertainment/article-pratap-movie-review-amit-sadh-delivers-a-powerful-performance-in-this-emotional-tale-of-an-encounter-specialist-3162567",
@@ -90,7 +909,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0011",
+  "story_id": "story-0102",
   "category": "Movies",
   "title": "article salman khans priceless advice to debutant subhaan present mai raho na udo na depressed ho 3162507",
   "url": "https://zeenews.india.com/entertainment/article-salman-khans-priceless-advice-to-debutant-subhaan-present-mai-raho-na-udo-na-depressed-ho-3162507",
@@ -99,7 +918,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0012",
+  "story_id": "story-0103",
   "category": "Movies",
   "title": "article shah rukh khan the only indian actor in varietys 100 greatest movie stars of all time list 3162510",
   "url": "https://zeenews.india.com/entertainment/article-shah-rukh-khan-the-only-indian-actor-in-varietys-100-greatest-movie-stars-of-all-time-list-3162510",
@@ -108,7 +927,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0013",
+  "story_id": "story-0104",
   "category": "Music / OST",
   "title": "article shashi tharoor to make hosting debut with ramayana docuseries premieres december 7 3162568",
   "url": "https://zeenews.india.com/entertainment/article-shashi-tharoor-to-make-hosting-debut-with-ramayana-docuseries-premieres-december-7-3162568",
@@ -117,7 +936,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0014",
+  "story_id": "story-0105",
   "category": "Movies",
   "title": "article thalaiva and grandson yathra twin in style rajinikanth drops heartwarming photo following family getaway in greece 3162558",
   "url": "https://zeenews.india.com/entertainment/article-thalaiva-and-grandson-yathra-twin-in-style-rajinikanth-drops-heartwarming-photo-following-family-getaway-in-greece-3162558",
@@ -126,7 +945,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0015",
+  "story_id": "story-0106",
   "category": "Movies",
   "title": "article iffi 2026 to host india premiere of bharatbala and ar rahmans banaras 3162545",
   "url": "https://zeenews.india.com/entertainment/bollywood/article-iffi-2026-to-host-india-premiere-of-bharatbala-and-ar-rahmans-banaras-3162545",
@@ -135,7 +954,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0016",
+  "story_id": "story-0107",
   "category": "Movies",
   "title": "article sharvari opens up to madhuri dixit about admiring alia bhatts work life balance 3162542",
   "url": "https://zeenews.india.com/entertainment/bollywood/article-sharvari-opens-up-to-madhuri-dixit-about-admiring-alia-bhatts-work-life-balance-3162542",
@@ -144,7 +963,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0017",
+  "story_id": "story-0108",
   "category": "Movies",
   "title": "article shraddha kapoors eetha all you need to know about vithabai narayangaonkar whose book inspired a few events in the film 3162538",
   "url": "https://zeenews.india.com/entertainment/bollywood/article-shraddha-kapoors-eetha-all-you-need-to-know-about-vithabai-narayangaonkar-whose-book-inspired-a-few-events-in-the-film-3162538",
@@ -153,7 +972,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0018",
+  "story_id": "story-0109",
   "category": "Movies",
   "title": "article robert pattinson in ramayana next memes flood internet after actor confirmed as new james bond 3162519",
   "url": "https://zeenews.india.com/entertainment/hollywood/article-robert-pattinson-in-ramayana-next-memes-flood-internet-after-actor-confirmed-as-new-james-bond-3162519",
@@ -162,7 +981,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0019",
+  "story_id": "story-0110",
   "category": "Celebrity news & events",
   "title": "article arun vijay birthday special makers of muthaiyas irulan unveil two striking posters showcasing actors dual avatars 3162523",
   "url": "https://zeenews.india.com/entertainment/regional/article-arun-vijay-birthday-special-makers-of-muthaiyas-irulan-unveil-two-striking-posters-showcasing-actors-dual-avatars-3162523",
@@ -171,16 +990,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0020",
-  "category": "OTT / Streaming",
-  "title": "article latest malayalam tamil telugu kannada ott releases this week november 16 to november 22 2026 what to watch on netflix zee5 more 3162468",
-  "url": "https://zeenews.india.com/entertainment/regional/article-latest-malayalam-tamil-telugu-kannada-ott-releases-this-week-november-16-to-november-22-2026-what-to-watch-on-netflix-zee5-more-3162468",
-  "source": "Zee News — Entertainment",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0021",
+  "story_id": "story-0111",
   "category": "Movies",
   "title": "article opinion the real test of power is in the streets of uttar pradesh 3162572",
   "url": "https://zeenews.india.com/india/article-opinion-the-real-test-of-power-is-in-the-streets-of-uttar-pradesh-3162572",
@@ -189,7 +999,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0022",
+  "story_id": "story-0112",
   "category": "Movies",
   "title": "article pm modi rebukes corporates over jobs salaries despite government tax relief 3162578",
   "url": "https://zeenews.india.com/india/article-pm-modi-rebukes-corporates-over-jobs-salaries-despite-government-tax-relief-3162578",
@@ -198,7 +1008,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0023",
+  "story_id": "story-0113",
   "category": "Movies",
   "title": "article exclusive indian golfer diksha dagar opens up on indias historic asian games 2026 silver calls it a lifetime opportunity 3162575",
   "url": "https://zeenews.india.com/sports/article-exclusive-indian-golfer-diksha-dagar-opens-up-on-indias-historic-asian-games-2026-silver-calls-it-a-lifetime-opportunity-3162575",
@@ -207,7 +1017,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0024",
+  "story_id": "story-0114",
   "category": "Movies",
   "title": "article trump putin and xis nuclear summit is a new world order taking shape 3162579",
   "url": "https://zeenews.india.com/world/article-trump-putin-and-xis-nuclear-summit-is-a-new-world-order-taking-shape-3162579",
@@ -216,7 +1026,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0025",
+  "story_id": "story-0115",
   "category": "Box Office",
   "title": "photo gallery international men s day 2026 ahaan panday lakshya babil khan rohit saraf abhay verma vedang raina 6 young actors set to be bollywood next big stars 3224334",
   "url": "https://www.dnaindia.com/bollywood/photo-gallery-international-men-s-day-2026-ahaan-panday-lakshya-babil-khan-rohit-saraf-abhay-verma-vedang-raina-6-young-actors-set-to-be-bollywood-next-big-stars-3224334",
@@ -225,7 +1035,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0026",
+  "story_id": "story-0116",
   "category": "Box Office",
   "title": "photo gallery international men s day 2026 from yash to ranbir kapoor 6 indian actors who are macho on screen but pookie off screen 3224301",
   "url": "https://www.dnaindia.com/bollywood/photo-gallery-international-men-s-day-2026-from-yash-to-ranbir-kapoor-6-indian-actors-who-are-macho-on-screen-but-pookie-off-screen-3224301",
@@ -234,7 +1044,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0027",
+  "story_id": "story-0117",
   "category": "Box Office",
   "title": "photo gallery ramayana from fastest 1500 crore gross to biggest post diwali earner records broke by ranbir kapoor yash s blockbuster 3224309",
   "url": "https://www.dnaindia.com/bollywood/photo-gallery-ramayana-from-fastest-1500-crore-gross-to-biggest-post-diwali-earner-records-broke-by-ranbir-kapoor-yash-s-blockbuster-3224309",
@@ -243,7 +1053,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0028",
+  "story_id": "story-0118",
   "category": "Movies",
   "title": "photo gallery yeh prem mol liya 5 key factors from ayushmann khurrana sharvari sooraj barjatya s film that stand out from mundane romantic dramas 3224332",
   "url": "https://www.dnaindia.com/bollywood/photo-gallery-yeh-prem-mol-liya-5-key-factors-from-ayushmann-khurrana-sharvari-sooraj-barjatya-s-film-that-stand-out-from-mundane-romantic-dramas-3224332",
@@ -252,7 +1062,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0029",
+  "story_id": "story-0119",
   "category": "Box Office",
   "title": "alia bhatt is not going to stop choosing women led films even after jigra alpha box office failure",
   "url": "https://www.missmalini.com/alia-bhatt-is-not-going-to-stop-choosing-women-led-films-even-after-jigra-alpha-box-office-failure",
@@ -261,7 +1071,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0030",
+  "story_id": "story-0120",
   "category": "Entertainment viral",
   "title": "did avinash mishra cheat on eisha singh what does her mothers viral voice note reveal",
   "url": "https://www.missmalini.com/did-avinash-mishra-cheat-on-eisha-singh-what-does-her-mothers-viral-voice-note-reveal",
@@ -270,7 +1080,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0031",
+  "story_id": "story-0121",
   "category": "Movies",
   "title": "i cried more than ever ankita lokhande recalls feeling alone during bigg boss with vicky jain",
   "url": "https://www.missmalini.com/i-cried-more-than-ever-ankita-lokhande-recalls-feeling-alone-during-bigg-boss-with-vicky-jain",
@@ -279,7 +1089,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0032",
+  "story_id": "story-0122",
   "category": "Movies",
   "title": "i have never done any face surgery florence pugh addresses cosmetic procedure speculation",
   "url": "https://www.missmalini.com/i-have-never-done-any-face-surgery-florence-pugh-addresses-cosmetic-procedure-speculation",
@@ -288,7 +1098,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0033",
+  "story_id": "story-0123",
   "category": "Movies",
   "title": "is avinash mishra confirming his split with eisha singh actor requests privacy amid cheating speculation",
   "url": "https://www.missmalini.com/is-avinash-mishra-confirming-his-split-with-eisha-singh-actor-requests-privacy-amid-cheating-speculation",
@@ -297,7 +1107,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0034",
+  "story_id": "story-0124",
   "category": "Movies",
   "title": "mumbai police considers x category security for tiger shroff ayushmann khurrana amid threats report",
   "url": "https://www.missmalini.com/mumbai-police-considers-x-category-security-for-tiger-shroff-ayushmann-khurrana-amid-threats-report",
@@ -306,7 +1116,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0035",
+  "story_id": "story-0125",
   "category": "Trailers",
   "title": "okay but what exactly is shashaank khaitaan cooking with his new film the motion poster has us curious",
   "url": "https://www.missmalini.com/okay-but-what-exactly-is-shashaank-khaitaan-cooking-with-his-new-film-the-motion-poster-has-us-curious",
@@ -315,7 +1125,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0036",
+  "story_id": "story-0126",
   "category": "Movies",
   "title": "priyanka chopra shares adorable video of daughter malti marie reciting the gayatri mantra watch video",
   "url": "https://www.missmalini.com/priyanka-chopra-shares-adorable-video-of-daughter-malti-marie-reciting-the-gayatri-mantra-watch-video",
@@ -324,7 +1134,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0037",
+  "story_id": "story-0127",
   "category": "Movies",
   "title": "saif ali khan receives death threat from person claiming to be linked to baba siddique murder report",
   "url": "https://www.missmalini.com/saif-ali-khan-receives-death-threat-from-person-claiming-to-be-linked-to-baba-siddique-murder-report",
@@ -333,7 +1143,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0038",
+  "story_id": "story-0128",
   "category": "Movies",
   "title": "this needs a rethink alia bhatt supports deepika padukones 8 hour shift demand",
   "url": "https://www.missmalini.com/this-needs-a-rethink-alia-bhatt-supports-deepika-padukones-8-hour-shift-demand",
@@ -342,448 +1152,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0039",
-  "category": "Movies",
-  "title": "Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me",
-  "url": "https://www.cinemablend.com/streaming-news/nick-jonas-and-bridgerton-hannah-dodd-doing-rom-com-fans-shook-me",
-  "source": "CinemaBlend",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0040",
-  "category": "Movies",
-  "title": "Amy Poehler Explains Why One SNL Employee Has Seen Every Famous Person Naked",
-  "url": "https://www.cinemablend.com/television/amy-poehler-snl-donna-richards-costumes",
-  "source": "CinemaBlend",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0041",
-  "category": "Movies",
-  "title": "The Cliff Booth Reviews Point Out A Missed Opportunity In Brad Pitt’s Sequel, And I Have To Agree",
-  "url": "https://www.cinemablend.com/movies/further-mis-adventures-cliff-booth-reviews-missed-opportunity-brad-pitt-sequel-agree",
-  "source": "CinemaBlend",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0042",
-  "category": "Movies",
-  "title": "Every 2026 Game of the Year Nominee, Ranked",
-  "url": "https://collider.com/game-of-the-year-2026-nominees-ranked/",
-  "source": "Collider",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0043",
-  "category": "Movies",
-  "title": "‘GTA 6’ Officially Defeats Christopher Nolan’s ‘The Odyssey’ in Just 1 Day",
-  "url": "https://collider.com/gta-6-overtakes-christopher-nolan-the-odyssey-sales/",
-  "source": "Collider",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0044",
-  "category": "Movies",
-  "title": "Nathan Fillion’s 9-Part Crime Thriller Officially Returns in First Footage for New Season",
-  "url": "https://collider.com/nathan-fillion-the-rookie-season-9-trailer/",
-  "source": "Collider",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0045",
-  "category": "Movies",
-  "title": "Khloé Kardashian Unleashes F-Bomb Tirade Over Lamar Odom’s Marriage Admission",
-  "url": "https://www.comingsoon.net/tv/news/2227755-khloe-kardashian-lamar-odom-marriage-admission",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0046",
-  "category": "Trailers",
-  "title": "‘No Trailer, No Tickets!’: Marvel Fans Are Done Playing Nice Over the Avengers: Doomsday Trailer",
-  "url": "https://www.comingsoon.net/movies/news/2227817-avengers-doomsday-trailer-marvel-fans-demand",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0047",
-  "category": "Movies",
-  "title": "Vin Diesel Puts His Muscles on Display & Teases New Action Movie After Fast Forever",
-  "url": "https://www.comingsoon.net/movies/news/2227772-vin-diesel-muscles-new-action-movie-after-fast-forever",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0048",
-  "category": "Entertainment viral",
-  "title": "James Gunn Breaks Social Media Silence After DC Exit For a Great Reason, Watch New Video Here",
-  "url": "https://www.comingsoon.net/movies/news/2227800-james-gunn-social-media-silence-dc-exit-great-reason-video",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0049",
-  "category": "TV & Dramas",
-  "title": "The Traitors Spin-off Gets Best Renewal News Possible Ahead of Alan Cumming Show’s Finale",
-  "url": "https://www.comingsoon.net/tv/news/2227730-the-traitors-spin-off-season-2-renewal-before-alan-cumming-finale",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0050",
-  "category": "Music / OST",
-  "title": "Sky Katz Talks The Florist, Debut Album Release Date, & Working With Jean Reno | Interview",
-  "url": "https://www.comingsoon.net/movies/features/2227664-sky-katz-the-florist-interview-debut-album-relelase-date",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0051",
-  "category": "Trailers",
-  "title": "Al Pacino Is Part of an Assassination Attempt in 50 Cent & DJ Khaled’s Killing Castro Trailer",
-  "url": "https://www.comingsoon.net/movies/trailers/2227767-al-pacino-high-stakes-cia-mission-killing-castro-trailer",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0052",
-  "category": "Movies",
-  "title": "Brad Pitt’s Cliff Booth Movie’s RT Score Has Once Upon a Time in Hollywood Fans Shocked",
-  "url": "https://www.comingsoon.net/movies/news/2227724-brad-pitt-cliff-booth-movie-rt-score-better-once-upon-a-time-in-hollywood",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0053",
-  "category": "Movies",
-  "title": "‘It’s Been Really Scary’: Jax Taylor Reveals Complicated Cancer Surgery",
-  "url": "https://www.comingsoon.net/tv/news/2227713-jax-taylor-cancer-diagnosis-complicated-surgery",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0054",
-  "category": "Movies",
-  "title": "Rose McGowan & David Dastmalchian Horror Show Gets Big Renewal News, Spin-off Also Renewed",
-  "url": "https://www.comingsoon.net/tv/news/2227742-rose-mcgowan-david-dastmalchian-horror-show-renewal-news-spin-off",
-  "source": "ComingSoon.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0055",
-  "category": "Trailers",
-  "title": "Funny Full Trailer for Disney's 'Ice Age: Boiling Point' Animated Sequel",
-  "url": "https://www.firstshowing.net/2026/funny-full-trailer-for-disneys-ice-age-boiling-point-animated-sequel/",
-  "source": "FirstShowing.net",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0056",
-  "category": "Movies",
-  "title": "GTA 6 Sales Tracker: How It Compares To The Biggest Movies & Games Of All Time",
-  "url": "https://movieweb.com/gta-6-sales-tracker/",
-  "source": "MovieWeb",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0057",
-  "category": "OTT / Streaming",
-  "title": "Hugh Jackman's New \"Ridley Scott Meets Logan\" Action Thriller Is Taking Over the World on Streaming",
-  "url": "https://movieweb.com/death-of-robin-hood-stream-november-2026/",
-  "source": "MovieWeb",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0058",
-  "category": "Movies",
-  "title": "8 Action Thriller War Movies With Zombies",
-  "url": "https://movieweb.com/zombie-war-action-movies/",
-  "source": "MovieWeb",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0059",
-  "category": "Movies",
-  "title": "Cliff Booth Review: A Violent Sequel With Real Soul",
-  "url": "https://screenrant.com/video/cliff-booth-review-a-violent-sequel-with-real-soul/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0060",
-  "category": "Movies",
-  "title": "New Fallout Game Leaks Ahead Of Fallout 5",
-  "url": "https://screenrant.com/new-fallout-game-leak-wasteland-full-cats/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0061",
-  "category": "OTT / Streaming",
-  "title": "Julia Garner's New 8-Part Netflix Series Debuts To Rare Rotten Tomatoes Score",
-  "url": "https://screenrant.com/julia-garner-the-altruists-rotten-tomatoes-score-debut-netflix/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0062",
-  "category": "Movies",
-  "title": "What THAT Lucy Gray Reference In Sunrise On The Reaping Means For Her Hunger Games Fate",
-  "url": "https://screenrant.com/sunrise-reaping-book-lucy-gray-headstone-reference-meaning-explainer/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0063",
-  "category": "Movies",
-  "title": "Marvel Officially Announces Captain America’s New Codename For Steve Rogers’ Next Era",
-  "url": "https://screenrant.com/captain-america-new-codename-war-dead-marvel/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0064",
-  "category": "Box Office",
-  "title": "New Legend Of Zelda 40th Anniversary Collection Officially Confirmed For 2027",
-  "url": "https://screenrant.com/legend-of-zelda-40th-anniversary-collection-officially-confirmed/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0065",
-  "category": "Music / OST",
-  "title": "Sunrise On The Reaping Soundtrack Guide: Every Song & When They Play",
-  "url": "https://screenrant.com/hunger-games-sunrise-on-the-reaping-movie-soundtrack-songs/",
-  "source": "Screen Rant",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0066",
-  "category": "Movies",
-  "title": "Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’",
-  "url": "https://variety.com/2026/music/news/marlon-jackson-prostate-cancer-1236953546/",
-  "source": "Variety",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0067",
-  "category": "Trailers",
-  "title": "Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored",
-  "url": "https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529/",
-  "source": "Variety",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0068",
-  "category": "Movies",
-  "title": "Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’",
-  "url": "https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326/",
-  "source": "Variety",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0069",
-  "category": "Movies",
-  "title": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
-  "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/",
-  "source": "Deadline",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0070",
-  "category": "OTT / Streaming",
-  "title": "Teagan Meredith & Jacob Batalon Join Disney’s ‘Lilo & Stitch 2’",
-  "url": "https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336/",
-  "source": "Deadline",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0071",
-  "category": "Movies",
-  "title": "Zooey Deschanel & Caleb Hearon TIFF World Premiere ‘Trash Mountain’ Acquired By Magnolia Pictures",
-  "url": "https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457/",
-  "source": "Deadline",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0072",
-  "category": "Movies",
-  "title": "Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B ‘Lucky Loser’ Defamation Suit",
-  "url": "https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384/",
-  "source": "Deadline",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0073",
-  "category": "Movies",
-  "title": "Edgar Barrera Signs With Fortress Talent Management",
-  "url": "https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241/",
-  "source": "Deadline",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0074",
-  "category": "Movies",
-  "title": "The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte",
-  "url": "https://www.hollywoodreporter.com/lifestyle/shopping/paramount-plus-black-friday-deal-2026-november-promo-1236759110/",
-  "source": "The Hollywood Reporter",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0075",
-  "category": "Movies",
-  "title": "Judge Denies NY Times Effort to Dismiss Trump’s $15 Billion Defamation Lawsuit",
-  "url": "https://www.thewrap.com/industry-news/public-policy-legal/trump-new-york-times-15-billion-defamation-lawsuit-ruling/",
-  "source": "TheWrap",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0076",
-  "category": "Movies",
-  "title": "‘The Daily Show’ Begs for Trump Answers After Outages: ‘We Don’t Trust You, and That’s Dangerous’",
-  "url": "https://www.thewrap.com/creative-content/tv-shows/the-daily-show-outages-government-answers-trump-administration/",
-  "source": "TheWrap",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0077",
-  "category": "Awards",
-  "title": "Why the Radical Lesbian Filmmaker Doc ‘Barbara Forever’ Deserves Oscar Recognition",
-  "url": "https://www.indiewire.com/awards/consider-this/barbara-forever-brydie-o-connor-doc-deserves-oscar-nod-1235229318/",
-  "source": "IndieWire",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0078",
-  "category": "Movies",
-  "title": "Valve says \"memory and storage costs\" are so bad it won't do Steam Machine waitlists anymore",
-  "url": "https://www.gamesradar.com/games/valve-says-memory-and-storage-costs-are-so-bad-it-wont-do-steam-machine-waitlists-anymore-as-it-doesnt-know-how-many-it-can-make-or-what-theyll-cost/",
-  "source": "Total Film (GamesRadar)",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0079",
-  "category": "TV & Dramas",
-  "title": "CBS Sets Fall Finale Dates For Boston Blue, NCIS, Tracker, And Others — See Full December Schedule",
-  "url": "https://www.tvline.com/2322374/cbs-fall-finale-dates-december-2026-tv-schedule/",
-  "source": "TVLine",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0080",
-  "category": "Movies",
-  "title": "Save The Dates: Invincible Season 5, Gilmore Girls: A Year In The Life Jumps To Hulu, And More",
-  "url": "https://www.tvline.com/2322315/invincible-season-5-release-date-gilmore-girls-a-year-in-the-life-hulu/",
-  "source": "TVLine",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0081",
-  "category": "TV & Dramas",
-  "title": "Casting News: The Beast In Me Season 2 Adds Riley Keough And Aaron Paul, Brit Marling And Tilda Swinton's Political Drama, And More",
-  "url": "https://www.tvline.com/2322273/the-beast-in-me-season-2-riley-keough-aaron-paul-cast-brit-marling-paramount-plus-drama/",
-  "source": "TVLine",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0082",
-  "category": "Movies",
-  "title": "Larry Poindexter, Days Of Our Lives And General Hospital Actor, Dead At 66",
-  "url": "https://www.tvline.com/2322280/larry-poindexter-days-of-our-lives-general-hospital-actor-dead-obituary/",
-  "source": "TVLine",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0083",
-  "category": "OTT / Streaming",
-  "title": "‘The Altruists’ review round up: Critics praise Anthony Boyle and Julia Garner but say Netflix’s FTX drama loses sight of the bigger picture",
-  "url": "https://www.goldderby.com/film/2026/the-altruists-reviews-anthony-boyle-julia-garner/",
-  "source": "Gold Derby",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0084",
-  "category": "Movies",
-  "title": "Critics call ‘The Further Mis-Adventures of Cliff Booth’ ‘fun,’ but some wrestle with conflicting visions",
-  "url": "https://www.goldderby.com/film/2026/further-mis-adventures-of-cliff-booth-reviews-rotten-tomatoes-metacritic/",
-  "source": "Gold Derby",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0085",
-  "category": "Box Office",
-  "title": "‘The Hunger Games: Sunrise on the Reaping’ set to reap $100M+ at the box office",
-  "url": "https://www.goldderby.com/film/2026/hunger-games-sunrise-on-the-reaping-weekend-box-office-i-play-rocky/",
-  "source": "Gold Derby",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0086",
-  "category": "Movies",
-  "title": "Critics praise ‘Dig’ cast members Amy Poehler and Hugh Laurie, though show is ‘surprisingly light’ on laughs",
-  "url": "https://www.goldderby.com/tv/2026/critics-praise-dig-cast-amy-poehler-hugh-laurie-reviews/",
-  "source": "Gold Derby",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0087",
-  "category": "Upcoming releases",
-  "title": "The 50 Most-Watched Christmas Movies on Netflix",
-  "url": "https://www.whats-on-netflix.com/what-to-watch/most-watched-christmas-movies-on-netflix/",
-  "source": "What's on Netflix",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0088",
+  "story_id": "story-0129",
   "category": "Movies",
   "title": "brittany monk criminalized survival 1235619690",
   "url": "https://www.rollingstone.com/culture/culture-features/brittany-monk-criminalized-survival-1235619690/",
@@ -792,7 +1161,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0089",
+  "story_id": "story-0130",
   "category": "Movies",
   "title": "gta vi fans tv speaker setup 1235660433",
   "url": "https://www.rollingstone.com/culture/culture-features/gta-vi-fans-tv-speaker-setup-1235660433/",
@@ -801,7 +1170,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0090",
+  "story_id": "story-0131",
   "category": "Movies",
   "title": "gta vi grand theft auto out 1235660539",
   "url": "https://www.rollingstone.com/culture/culture-news/gta-vi-grand-theft-auto-out-1235660539/",
@@ -810,7 +1179,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0091",
+  "story_id": "story-0132",
   "category": "Movies",
   "title": "hemp ban thc drinks illegal 1235660981",
   "url": "https://www.rollingstone.com/politics/politics-features/hemp-ban-thc-drinks-illegal-1235660981/",
@@ -819,7 +1188,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0092",
+  "story_id": "story-0133",
   "category": "Movies",
   "title": "trump protect putin xi international courts 1235660994",
   "url": "https://www.rollingstone.com/politics/politics-news/trump-protect-putin-xi-international-courts-1235660994/",
@@ -828,7 +1197,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0093",
+  "story_id": "story-0134",
   "category": "Movies",
   "title": "youtube rejects uk government request russell brand video 1235660863",
   "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/youtube-rejects-uk-government-request-russell-brand-video-1235660863/",
@@ -837,7 +1206,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0094",
+  "story_id": "story-0135",
   "category": "Movies",
   "title": "artficial luca guadagnino andrew garfield",
   "url": "https://www.vanityfair.com/story/artficial-luca-guadagnino-andrew-garfield",
@@ -846,7 +1215,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0095",
+  "story_id": "story-0136",
   "category": "Movies",
   "title": "dolly parton avie lee parton mama sings essay",
   "url": "https://www.vanityfair.com/story/dolly-parton-avie-lee-parton-mama-sings-essay",
@@ -855,7 +1224,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0096",
+  "story_id": "story-0137",
   "category": "Movies",
   "title": "hilary simon miss halls school essay",
   "url": "https://www.vanityfair.com/story/hilary-simon-miss-halls-school-essay",
@@ -864,7 +1233,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0097",
+  "story_id": "story-0138",
   "category": "Movies",
   "title": "victorian psycho set diary",
   "url": "https://www.vanityfair.com/story/victorian-psycho-set-diary",
@@ -873,7 +1242,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0098",
+  "story_id": "story-0139",
   "category": "Movies",
   "title": "you must remember this bisexual perfume",
   "url": "https://www.vanityfair.com/story/you-must-remember-this-bisexual-perfume",
@@ -882,79 +1251,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0099",
-  "category": "Movies",
-  "title": "Silicon Valley elites 'bankrolled' news platform Visegrad24 publishing pro-Israel content: report",
-  "url": "https://www.dawn.com/news/2045708/silicon-valley-elites-bankrolled-news-platform-visegrad24-publishing-pro-israel-content-report",
-  "source": "Dawn — Images/ICON",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0100",
-  "category": "Movies",
-  "title": "\"Crash Season 2: Fury Road\" Rides AI-Crime Buzz to Strong First Week",
-  "url": "https://mydramalist.com/article/28254-crash-season-2-fury-road-rides-ai-crime-buzz-to-strong-first-week",
-  "source": "MyDramaList",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0101",
-  "category": "Movies",
-  "title": "IVE's Gaeul shares her hot take on following trends and becoming a trendsetter",
-  "url": "https://lab.allkpop.com/article/2026/11/ives-gaeul-shares-her-hot-take-on-following-trends-and-becoming-a-trendsetter",
-  "source": "allkpop",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0102",
-  "category": "Celebrity news & events",
-  "title": "Former BIGBANG member Seungri spotted returning to South Korea with pregnant wife, carrying luxury bag and luggage",
-  "url": "https://lab.allkpop.com/article/2026/11/former-bigbang-member-seungri-spotted-returning-to-south-korea-with-pregnant-wife-carrying-luxury-bag-and-luggage",
-  "source": "allkpop",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0103",
-  "category": "TV & Dramas",
-  "title": "Emmerdale cliffhanger promises huge drama as someone catches Caleb and Sadie",
-  "url": "https://www.digitalspy.com/soaps/emmerdale/a74480293/emmerdale-caleb-sadie-kiss/",
-  "source": "Digital Spy",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0104",
-  "category": "Episodes",
-  "title": "EastEnders airs exit for another Carter character in emotional episode",
-  "url": "https://www.digitalspy.com/soaps/eastenders/a74480308/eastenders-airs-exit-carter-character/",
-  "source": "Digital Spy",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0105",
-  "category": "Movies",
-  "title": "EastEnders exit revealed for Gina Knight as actress Francesca Henry bows out after 3 years in role",
-  "url": "https://www.radiotimes.com/tv/soaps/eastenders/eastenders-exit-gina-knight-francesca-henry-newsupdate/",
-  "source": "Radio Times",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0106",
-  "category": "TV & Dramas",
-  "title": "BBC and BritBox announce new crime drama The Loch Ness Mysteries",
-  "url": "https://tellymix.co.uk/bbc-and-britbox-announce-new-crime-drama-the-loch-ness-mysteries/",
-  "source": "TellyMix",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0107",
+  "story_id": "story-0140",
   "category": "Awards",
   "title": "Raye BRIT school record label Grammy Bond.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16299051/Raye-BRIT-school-record-label-Grammy-Bond.html",
@@ -963,7 +1260,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0108",
+  "story_id": "story-0141",
   "category": "Movies",
   "title": "Bond villain Robert Pattinson Cillian Murphy Florence Pugh.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16302151/Bond-villain-Robert-Pattinson-Cillian-Murphy-Florence-Pugh.html",
@@ -972,7 +1269,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0109",
+  "story_id": "story-0142",
   "category": "Movies",
   "title": "Meg Ryan changing face 65 tweakments.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16302585/Meg-Ryan-changing-face-65-tweakments.html",
@@ -981,7 +1278,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0110",
+  "story_id": "story-0143",
   "category": "Movies",
   "title": "Anne Hathaway 44 steps newborn 650 baby carrier shes seen time giving birth child.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16303377/Anne-Hathaway-44-steps-newborn-650-baby-carrier-shes-seen-time-giving-birth-child.html",
@@ -990,7 +1287,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0111",
+  "story_id": "story-0144",
   "category": "Movies",
   "title": "Florence Pugh says transformation result changing relationship alcohol hits surgery ozempic claims.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16303815/Florence-Pugh-says-transformation-result-changing-relationship-alcohol-hits-surgery-ozempic-claims.html",
@@ -999,7 +1296,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0112",
+  "story_id": "story-0145",
   "category": "Movies",
   "title": "Robert Niro 83 holds hands girlfriend Tiffany Chen 47 star studded Focker Law UK premiere.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16303885/Robert-Niro-83-holds-hands-girlfriend-Tiffany-Chen-47-star-studded-Focker-Law-UK-premiere.html",
@@ -1008,7 +1305,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0113",
+  "story_id": "story-0146",
   "category": "Awards",
   "title": "Jack Whitehall cries tissue playfully responds Becky Hills diss track calling Wetherspoons Whitney class row awards gag.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16303959/Jack-Whitehall-cries-tissue-playfully-responds-Becky-Hills-diss-track-calling-Wetherspoons-Whitney-class-row-awards-gag.html",
@@ -1017,7 +1314,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0114",
+  "story_id": "story-0147",
   "category": "Celebrity news & events",
   "title": "Im Celebritys Wayne Rooney praised viewers.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304015/Im-Celebritys-Wayne-Rooney-praised-viewers.html",
@@ -1026,16 +1323,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0115",
-  "category": "Movies",
-  "title": "Maya Jama gives huge hint bond girl role.html",
-  "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304157/Maya-Jama-gives-huge-hint-bond-girl-role.html",
-  "source": "Daily Mail — TV & Showbiz",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0116",
+  "story_id": "story-0148",
   "category": "Movies",
   "title": "Emotional Gordon Ramsay lost words makes history honoured Hollywood Walk Fame reveals daughter Holly days away giving birth.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304171/Emotional-Gordon-Ramsay-lost-words-makes-history-honoured-Hollywood-Walk-Fame-reveals-daughter-Holly-days-away-giving-birth.html",
@@ -1044,7 +1332,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0117",
+  "story_id": "story-0149",
   "category": "Movies",
   "title": "A forensic investigation murder solved case ten minutes says Roland White reviews Murder Case Fire Suburbs.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304227/A-forensic-investigation-murder-solved-case-ten-minutes-says-Roland-White-reviews-Murder-Case-Fire-Suburbs.html",
@@ -1053,7 +1341,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0118",
+  "story_id": "story-0150",
   "category": "Movies",
   "title": "Bond villain Rami Malek Robert Pattinson extraordinary 007.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304913/Bond-villain-Rami-Malek-Robert-Pattinson-extraordinary-007.html",
@@ -1062,7 +1350,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0119",
+  "story_id": "story-0151",
   "category": "Movies",
   "title": "Im Celeb tensions erupt Joanna Page storms camp clashing Mariella Frostrup cooking.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304935/Im-Celeb-tensions-erupt-Joanna-Page-storms-camp-clashing-Mariella-Frostrup-cooking.html",
@@ -1071,7 +1359,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0120",
+  "story_id": "story-0152",
   "category": "Celebrity news & events",
   "title": "Eva Longoria Andie MacDowell cuddle red carpet join glam Cara Delevingne LOreals Women Worth event LA.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304955/Eva-Longoria-Andie-MacDowell-cuddle-red-carpet-join-glam-Cara-Delevingne-LOreals-Women-Worth-event-LA.html",
@@ -1080,7 +1368,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0121",
+  "story_id": "story-0153",
   "category": "Movies",
   "title": "Celia Imrie hits Mikey Madison failing proper credit woman launched career.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16304985/Celia-Imrie-hits-Mikey-Madison-failing-proper-credit-woman-launched-career.html",
@@ -1089,7 +1377,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0122",
+  "story_id": "story-0154",
   "category": "Movies",
   "title": "Hailey Bieber turns heads plunging slip skirt Justin wear shades date night New York.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305013/Hailey-Bieber-turns-heads-plunging-slip-skirt-Justin-wear-shades-date-night-New-York.html",
@@ -1098,7 +1386,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0123",
+  "story_id": "story-0155",
   "category": "Trailers",
   "title": "Christine Quinn post divorce transformation Selling Sunset season 10 trailer.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305033/Christine-Quinn-post-divorce-transformation-Selling-Sunset-season-10-trailer.html",
@@ -1107,16 +1395,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0124",
-  "category": "Celebrity news & events",
-  "title": "Romesh Ranganathan hits mugs accusing ignoring British charities Celebrity Traitors win fiery tirade.html",
-  "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305041/Romesh-Ranganathan-hits-mugs-accusing-ignoring-British-charities-Celebrity-Traitors-win-fiery-tirade.html",
-  "source": "Daily Mail — TV & Showbiz",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0125",
+  "story_id": "story-0156",
   "category": "Movies",
   "title": "Khloe Kardashian reveals identifies demisexual five years celibacy.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305055/Khloe-Kardashian-reveals-identifies-demisexual-five-years-celibacy.html",
@@ -1125,7 +1404,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0126",
+  "story_id": "story-0157",
   "category": "Movies",
   "title": "Katie Price reveals shes having tests bottom unexplained weight loss.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305071/Katie-Price-reveals-shes-having-tests-bottom-unexplained-weight-loss.html",
@@ -1134,7 +1413,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0127",
+  "story_id": "story-0158",
   "category": "Movies",
   "title": "Davina McCall tears really hard year battling brain tumour cancer.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305085/Davina-McCall-tears-really-hard-year-battling-brain-tumour-cancer.html",
@@ -1143,7 +1422,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0128",
+  "story_id": "story-0159",
   "category": "Movies",
   "title": "Jimmy Carr long term family estrangement chilling ambush legal battle dont speak father 25 years.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305101/Jimmy-Carr-long-term-family-estrangement-chilling-ambush-legal-battle-dont-speak-father-25-years.html",
@@ -1152,7 +1431,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0129",
+  "story_id": "story-0160",
   "category": "Movies",
   "title": "Larry Poindexter dead aged 66 Days Lives actor passes away days hit car.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305107/Larry-Poindexter-dead-aged-66-Days-Lives-actor-passes-away-days-hit-car.html",
@@ -1161,7 +1440,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0130",
+  "story_id": "story-0161",
   "category": "TV & Dramas",
   "title": "Strictly Blackpool Jaime Winstone drag bar pro partner Carlos Gu contestants arrive special home ballroom dancing.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305117/Strictly-Blackpool-Jaime-Winstone-drag-bar-pro-partner-Carlos-Gu-contestants-arrive-special-home-ballroom-dancing.html",
@@ -1170,7 +1449,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0131",
+  "story_id": "story-0162",
   "category": "Celebrity news & events",
   "title": "Im Celebrity stars left complete shock AJ Odudu makes surprise entrance camp convinced sent home.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305211/Im-Celebrity-stars-left-complete-shock-AJ-Odudu-makes-surprise-entrance-camp-convinced-sent-home.html",
@@ -1179,7 +1458,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0132",
+  "story_id": "story-0163",
   "category": "Movies",
   "title": "Louise Thompson hits cost IVF reveals spent 50 000 bid second child insists annoying patient gets better care.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305269/Louise-Thompson-hits-cost-IVF-reveals-spent-50-000-bid-second-child-insists-annoying-patient-gets-better-care.html",
@@ -1188,7 +1467,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0133",
+  "story_id": "story-0164",
   "category": "Celebrity news & events",
   "title": "Mariella Frostrups children feared clash Im Celebrity campmates tensions erupted Joanna Page cooking.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305287/Mariella-Frostrups-children-feared-clash-Im-Celebrity-campmates-tensions-erupted-Joanna-Page-cooking.html",
@@ -1197,7 +1476,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0134",
+  "story_id": "story-0165",
   "category": "Movies",
   "title": "Rihanna daughter Rocki 14 months matching leather jackets Dior campaign.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305433/Rihanna-daughter-Rocki-14-months-matching-leather-jackets-Dior-campaign.html",
@@ -1206,7 +1485,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0135",
+  "story_id": "story-0166",
   "category": "Movies",
   "title": "Coronation Street Rhea Bailey 43 pregnant child Overtones Darren Everest five months tying knot.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305439/Coronation-Street-Rhea-Bailey-43-pregnant-child-Overtones-Darren-Everest-five-months-tying-knot.html",
@@ -1215,7 +1494,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0136",
+  "story_id": "story-0167",
   "category": "Movies",
   "title": "Teri Hatcher breaks tears impact fathers dementia battle family.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305555/Teri-Hatcher-breaks-tears-impact-fathers-dementia-battle-family.html",
@@ -1224,16 +1503,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0137",
-  "category": "Movies",
-  "title": "Katy Perry jets Milan Justin Trudeau amid plans reveal secrets dark marriage convicted rapist Russell Brand.html",
-  "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305613/Katy-Perry-jets-Milan-Justin-Trudeau-amid-plans-reveal-secrets-dark-marriage-convicted-rapist-Russell-Brand.html",
-  "source": "Daily Mail — TV & Showbiz",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0138",
+  "story_id": "story-0168",
   "category": "Movies",
   "title": "Tulisa 38 reveals shes completed egg freezing journey seven months cancel procedure crazy life experiences.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305795/Tulisa-38-reveals-shes-completed-egg-freezing-journey-seven-months-cancel-procedure-crazy-life-experiences.html",
@@ -1242,7 +1512,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0139",
+  "story_id": "story-0169",
   "category": "Movies",
   "title": "Strictly Takes Two host Ellie Taylor rushes son 3 hospital twice one day worst weekend life.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16305987/Strictly-Takes-Two-host-Ellie-Taylor-rushes-son-3-hospital-twice-one-day-worst-weekend-life.html",
@@ -1251,7 +1521,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0140",
+  "story_id": "story-0170",
   "category": "Movies",
   "title": "Michelle Keegan vamps things Angelina leg pose.html",
   "url": "https://www.dailymail.co.uk/tvshowbiz/article-16306003/Michelle-Keegan-vamps-things-Angelina-leg-pose.html",
@@ -1260,7 +1530,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0141",
+  "story_id": "story-0171",
   "category": "Movies",
   "title": "david victoria beckham proud parents premiere romeos erotic film 29802615",
   "url": "https://metro.co.uk/2026/11/18/david-victoria-beckham-proud-parents-premiere-romeos-erotic-film-29802615/",
@@ -1269,7 +1539,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0142",
+  "story_id": "story-0172",
   "category": "Movies",
   "title": "devastation eve suki ria exit eastenders spoilers reveal happens next 29801608",
   "url": "https://metro.co.uk/2026/11/18/devastation-eve-suki-ria-exit-eastenders-spoilers-reveal-happens-next-29801608/",
@@ -1278,7 +1548,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0143",
+  "story_id": "story-0173",
   "category": "Movies",
   "title": "florence pugh disturbed fans speculating appearance its not deep turned 30 29802981",
   "url": "https://metro.co.uk/2026/11/18/florence-pugh-disturbed-fans-speculating-appearance-its-not-deep-turned-30-29802981/",
@@ -1287,7 +1557,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0144",
+  "story_id": "story-0174",
   "category": "Movies",
   "title": "joanna page reveals james corden told secretly slap co stars arse set 29802900",
   "url": "https://metro.co.uk/2026/11/18/joanna-page-reveals-james-corden-told-secretly-slap-co-stars-arse-set-29802900/",
@@ -1296,7 +1566,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0145",
+  "story_id": "story-0175",
   "category": "Movies",
   "title": "tom king nightmare gets much worse emmerdale spoilers confirm happens next 29801980",
   "url": "https://metro.co.uk/2026/11/18/tom-king-nightmare-gets-much-worse-emmerdale-spoilers-confirm-happens-next-29801980/",
@@ -1305,7 +1575,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0146",
+  "story_id": "story-0176",
   "category": "Movies",
   "title": "baby reindeers real martha fiona harvey charged derogatory comments jewish people 29804366",
   "url": "https://metro.co.uk/2026/11/19/baby-reindeers-real-martha-fiona-harvey-charged-derogatory-comments-jewish-people-29804366/",
@@ -1314,7 +1584,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0147",
+  "story_id": "story-0177",
   "category": "Movies",
   "title": "celebrities earning staggering money on onlyfans after fame struggles 29802358",
   "url": "https://metro.co.uk/2026/11/19/celebrities-earning-staggering-money-on-onlyfans-after-fame-struggles-29802358/",
@@ -1323,7 +1593,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0148",
+  "story_id": "story-0178",
   "category": "Movies",
   "title": "deus ex creator hopes gta 6 massive budget will last kind 29804853",
   "url": "https://metro.co.uk/2026/11/19/deus-ex-creator-hopes-gta-6-massive-budget-will-last-kind-29804853/",
@@ -1332,7 +1602,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0149",
+  "story_id": "story-0179",
   "category": "Movies",
   "title": "first night gta 6 best looking video game ever made 29803154",
   "url": "https://metro.co.uk/2026/11/19/first-night-gta-6-best-looking-video-game-ever-made-29803154/",
@@ -1341,7 +1611,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0150",
+  "story_id": "story-0180",
   "category": "Movies",
   "title": "gta 6 61 cheat codes unlock 29803705",
   "url": "https://metro.co.uk/2026/11/19/gta-6-61-cheat-codes-unlock-29803705/",
@@ -1350,7 +1620,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0151",
+  "story_id": "story-0181",
   "category": "Movies",
   "title": "gta 6 comes free gta access a catch need remember 29804046",
   "url": "https://metro.co.uk/2026/11/19/gta-6-comes-free-gta-access-a-catch-need-remember-29804046/",
@@ -1359,7 +1629,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0152",
+  "story_id": "story-0182",
   "category": "Movies",
   "title": "gta 6 credits released confirm jeremy irons bad bunny weird al cameos 29805431",
   "url": "https://metro.co.uk/2026/11/19/gta-6-credits-released-confirm-jeremy-irons-bad-bunny-weird-al-cameos-29805431/",
@@ -1368,7 +1638,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0153",
+  "story_id": "story-0183",
   "category": "Movies",
   "title": "gta 6 not let hire sex workers unlike previous games 29804223",
   "url": "https://metro.co.uk/2026/11/19/gta-6-not-let-hire-sex-workers-unlike-previous-games-29804223/",
@@ -1377,7 +1647,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0154",
+  "story_id": "story-0184",
   "category": "Celebrity news & events",
   "title": "inside im a celebrity star joanna pages private life including marriage emmerdale actor 29805178",
   "url": "https://metro.co.uk/2026/11/19/inside-im-a-celebrity-star-joanna-pages-private-life-including-marriage-emmerdale-actor-29805178/",
@@ -1386,7 +1656,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0155",
+  "story_id": "story-0185",
   "category": "Movies",
   "title": "jack whitehall responds becky hill releases class row diss track 29803433",
   "url": "https://metro.co.uk/2026/11/19/jack-whitehall-responds-becky-hill-releases-class-row-diss-track-29803433/",
@@ -1395,7 +1665,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0156",
+  "story_id": "story-0186",
   "category": "Movies",
   "title": "jackson 5 star marlon jackson 69 diagnosed stage 4 prostate cancer 29805670",
   "url": "https://metro.co.uk/2026/11/19/jackson-5-star-marlon-jackson-69-diagnosed-stage-4-prostate-cancer-29805670/",
@@ -1404,7 +1674,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0157",
+  "story_id": "story-0187",
   "category": "Celebrity news & events",
   "title": "joanna page storms im a celebrity camp row campmate 29803201",
   "url": "https://metro.co.uk/2026/11/19/joanna-page-storms-im-a-celebrity-camp-row-campmate-29803201/",
@@ -1413,7 +1683,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0158",
+  "story_id": "story-0188",
   "category": "Movies",
   "title": "laura gallacher pictured visiting rapist husband russell brand cushy jail protesting innocence 29803862",
   "url": "https://metro.co.uk/2026/11/19/laura-gallacher-pictured-visiting-rapist-husband-russell-brand-cushy-jail-protesting-innocence-29803862/",
@@ -1422,7 +1692,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0159",
+  "story_id": "story-0189",
   "category": "Movies",
   "title": "lbcs james obrien mocked comparing gta 6 translation bible english 29804591",
   "url": "https://metro.co.uk/2026/11/19/lbcs-james-obrien-mocked-comparing-gta-6-translation-bible-english-29804591/",
@@ -1431,7 +1701,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0160",
+  "story_id": "story-0190",
   "category": "Movies",
   "title": "low budget vagina amanda tv moment year katherine ryan sweeps nation 29803794",
   "url": "https://metro.co.uk/2026/11/19/low-budget-vagina-amanda-tv-moment-year-katherine-ryan-sweeps-nation-29803794/",
@@ -1440,7 +1710,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0161",
+  "story_id": "story-0191",
   "category": "OTT / Streaming",
   "title": "netflix star alexander haskin dies aged 38 pulled ocean police 29803298",
   "url": "https://metro.co.uk/2026/11/19/netflix-star-alexander-haskin-dies-aged-38-pulled-ocean-police-29803298/",
@@ -1449,7 +1719,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0162",
+  "story_id": "story-0192",
   "category": "Movies",
   "title": "news reporters bulging biceps tv viewers losing minds 29803498",
   "url": "https://metro.co.uk/2026/11/19/news-reporters-bulging-biceps-tv-viewers-losing-minds-29803498/",
@@ -1458,7 +1728,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0163",
+  "story_id": "story-0193",
   "category": "Trailers",
   "title": "one best thrillers 2024 finally returning epic first look teaser 29804408",
   "url": "https://metro.co.uk/2026/11/19/one-best-thrillers-2024-finally-returning-epic-first-look-teaser-29804408/",
@@ -1467,7 +1737,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0164",
+  "story_id": "story-0194",
   "category": "Movies",
   "title": "pierce brosnan breaks silence magnificent robert pattinson becoming james bond 29803474",
   "url": "https://metro.co.uk/2026/11/19/pierce-brosnan-breaks-silence-magnificent-robert-pattinson-becoming-james-bond-29803474/",
@@ -1476,7 +1746,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0165",
+  "story_id": "story-0195",
   "category": "Movies",
   "title": "russell brand fears going bald stripped shampoo prison 29805773",
   "url": "https://metro.co.uk/2026/11/19/russell-brand-fears-going-bald-stripped-shampoo-prison-29805773/",
@@ -1485,7 +1755,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0166",
+  "story_id": "story-0196",
   "category": "Movies",
   "title": "watch tear jerking moment game show player forfeits 22 000 prize medical student 29804987",
   "url": "https://metro.co.uk/2026/11/19/watch-tear-jerking-moment-game-show-player-forfeits-22-000-prize-medical-student-29804987/",
@@ -1494,7 +1764,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0167",
+  "story_id": "story-0197",
   "category": "Movies",
   "title": "bond pierce brosnan robert pattinson 37892733",
   "url": "https://www.mirror.co.uk/3am/bond-pierce-brosnan-robert-pattinson-37892733",
@@ -1503,7 +1773,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0168",
+  "story_id": "story-0198",
   "category": "Movies",
   "title": "harry meghan markle winter wonderland 37895684",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/harry-meghan-markle-winter-wonderland-37895684",
@@ -1512,7 +1782,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0169",
+  "story_id": "story-0199",
   "category": "Movies",
   "title": "jackson 5 marlon prostate cancer 37896789",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/jackson-5-marlon-prostate-cancer-37896789",
@@ -1521,7 +1791,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0170",
+  "story_id": "story-0200",
   "category": "Movies",
   "title": "jojo siwa ultimatum chris hughes 37896532",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/jojo-siwa-ultimatum-chris-hughes-37896532",
@@ -1530,7 +1800,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0171",
+  "story_id": "story-0201",
   "category": "Movies",
   "title": "katie prices sister says ive 37895524",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/katie-prices-sister-says-ive-37895524",
@@ -1539,7 +1809,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0172",
+  "story_id": "story-0202",
   "category": "Music / OST",
   "title": "question of sport tour 2027 37894623",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/question-of-sport-tour-2027-37894623",
@@ -1548,7 +1818,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0173",
+  "story_id": "story-0203",
   "category": "Movies",
   "title": "romeo beckham david victoria beckham 37891017",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/romeo-beckham-david-victoria-beckham-37891017",
@@ -1557,7 +1827,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0174",
+  "story_id": "story-0204",
   "category": "Movies",
   "title": "russell brand bodyguard joe mccann 37893504",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/russell-brand-bodyguard-joe-mccann-37893504",
@@ -1566,7 +1836,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0175",
+  "story_id": "story-0205",
   "category": "Movies",
   "title": "russell brands wife laura gallachers 37890571",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/russell-brands-wife-laura-gallachers-37890571",
@@ -1575,7 +1845,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0176",
+  "story_id": "story-0206",
   "category": "Music / OST",
   "title": "steps 30 years live tour 37891838",
   "url": "https://www.mirror.co.uk/3am/celebrity-news/steps-30-years-live-tour-37891838",
@@ -1584,7 +1854,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0177",
+  "story_id": "story-0207",
   "category": "Movies",
   "title": "huda beauty easy bake perfume 37889409",
   "url": "https://www.mirror.co.uk/money/shopping-deals/huda-beauty-easy-bake-perfume-37889409",
@@ -1593,7 +1863,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0178",
+  "story_id": "story-0208",
   "category": "Movies",
   "title": "alice webb bbl inquest gloucester 37894804",
   "url": "https://www.mirror.co.uk/news/uk-news/alice-webb-bbl-inquest-gloucester-37894804",
@@ -1602,7 +1872,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0179",
+  "story_id": "story-0209",
   "category": "Movies",
   "title": "andy burnham luke hamnett no10 37896083",
   "url": "https://www.mirror.co.uk/news/uk-news/andy-burnham-luke-hamnett-no10-37896083",
@@ -1611,7 +1881,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0180",
+  "story_id": "story-0210",
   "category": "Movies",
   "title": "bradford stabbing councillor ibrar ali 37895423",
   "url": "https://www.mirror.co.uk/news/uk-news/bradford-stabbing-councillor-ibrar-ali-37895423",
@@ -1620,7 +1890,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0181",
+  "story_id": "story-0211",
   "category": "Movies",
   "title": "chrissie hynde felt physically sick 37895143",
   "url": "https://www.mirror.co.uk/news/uk-news/chrissie-hynde-felt-physically-sick-37895143",
@@ -1629,7 +1899,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0182",
+  "story_id": "story-0212",
   "category": "Movies",
   "title": "claudia lawrence cctv missing york 37888969",
   "url": "https://www.mirror.co.uk/news/uk-news/claudia-lawrence-cctv-missing-york-37888969",
@@ -1638,7 +1908,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0183",
+  "story_id": "story-0213",
   "category": "Movies",
   "title": "covid test and trace tories 37894401",
   "url": "https://www.mirror.co.uk/news/uk-news/covid-test-and-trace-tories-37894401",
@@ -1647,7 +1917,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0184",
+  "story_id": "story-0214",
   "category": "Movies",
   "title": "danika priim not guilty bbc 37894587",
   "url": "https://www.mirror.co.uk/news/uk-news/danika-priim-not-guilty-bbc-37894587",
@@ -1656,7 +1926,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0185",
+  "story_id": "story-0215",
   "category": "Movies",
   "title": "dogs neglect transformation rspca derbyshire 37896484",
   "url": "https://www.mirror.co.uk/news/uk-news/dogs-neglect-transformation-rspca-derbyshire-37896484",
@@ -1665,7 +1935,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0186",
+  "story_id": "story-0216",
   "category": "Movies",
   "title": "evacuation house collapses bolton manchester 37894934",
   "url": "https://www.mirror.co.uk/news/uk-news/evacuation-house-collapses-bolton-manchester-37894934",
@@ -1674,7 +1944,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0187",
+  "story_id": "story-0217",
   "category": "Movies",
   "title": "four men guilty sexually abusing 37895651",
   "url": "https://www.mirror.co.uk/news/uk-news/four-men-guilty-sexually-abusing-37895651",
@@ -1683,7 +1953,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0188",
+  "story_id": "story-0218",
   "category": "Movies",
   "title": "joanne young sex case arrests 37896383",
   "url": "https://www.mirror.co.uk/news/uk-news/joanne-young-sex-case-arrests-37896383",
@@ -1692,7 +1962,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0189",
+  "story_id": "story-0219",
   "category": "Movies",
   "title": "joseph glass dead hmp glenochil 37894830",
   "url": "https://www.mirror.co.uk/news/uk-news/joseph-glass-dead-hmp-glenochil-37894830",
@@ -1701,7 +1971,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0190",
+  "story_id": "story-0220",
   "category": "Movies",
   "title": "mary berrys christmas pudding recipe 37892400",
   "url": "https://www.mirror.co.uk/news/uk-news/mary-berrys-christmas-pudding-recipe-37892400",
@@ -1710,7 +1980,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0191",
+  "story_id": "story-0221",
   "category": "Movies",
   "title": "merseyside police litherland sex attacks 37896107",
   "url": "https://www.mirror.co.uk/news/uk-news/merseyside-police-litherland-sex-attacks-37896107",
@@ -1719,7 +1989,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0192",
+  "story_id": "story-0222",
   "category": "Movies",
   "title": "raise the colours billy allison 37895568",
   "url": "https://www.mirror.co.uk/news/uk-news/raise-the-colours-billy-allison-37895568",
@@ -1728,7 +1998,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0193",
+  "story_id": "story-0223",
   "category": "Movies",
   "title": "uk weather snow met office 37893783",
   "url": "https://www.mirror.co.uk/news/uk-news/uk-weather-snow-met-office-37893783",
@@ -1737,7 +2007,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0194",
+  "story_id": "story-0224",
   "category": "Movies",
   "title": "trump nvidia huang howard lutnick 37894665",
   "url": "https://www.mirror.co.uk/news/us-news/trump-nvidia-huang-howard-lutnick-37894665",
@@ -1746,7 +2016,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0195",
+  "story_id": "story-0225",
   "category": "Movies",
   "title": "trump putin xi summit china 37895854",
   "url": "https://www.mirror.co.uk/news/us-news/trump-putin-xi-summit-china-37895854",
@@ -1755,7 +2025,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0196",
+  "story_id": "story-0226",
   "category": "Movies",
   "title": "xavier taylor dead baseball accident 37895639",
   "url": "https://www.mirror.co.uk/news/us-news/xavier-taylor-dead-baseball-accident-37895639",
@@ -1764,7 +2034,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0197",
+  "story_id": "story-0227",
   "category": "Movies",
   "title": "denmark woman nazi kirsten schwalbe 37895436",
   "url": "https://www.mirror.co.uk/news/world-news/denmark-woman-nazi-kirsten-schwalbe-37895436",
@@ -1773,7 +2043,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0198",
+  "story_id": "story-0228",
   "category": "Movies",
   "title": "vladimir putin ukraine war russia 37894603",
   "url": "https://www.mirror.co.uk/news/world-news/vladimir-putin-ukraine-war-russia-37894603",
@@ -1782,7 +2052,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0199",
+  "story_id": "story-0229",
   "category": "Movies",
   "title": "alan carr suffers major blow 37893208",
   "url": "https://www.mirror.co.uk/tv/tv-news/alan-carr-suffers-major-blow-37893208",
@@ -1791,7 +2061,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0200",
+  "story_id": "story-0230",
   "category": "Movies",
   "title": "bargain hunt star chokes back 37893699",
   "url": "https://www.mirror.co.uk/tv/tv-news/bargain-hunt-star-chokes-back-37893699",
@@ -1800,7 +2070,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0201",
+  "story_id": "story-0231",
   "category": "Movies",
   "title": "bbc breakfast guest holds back 37892951",
   "url": "https://www.mirror.co.uk/tv/tv-news/bbc-breakfast-guest-holds-back-37892951",
@@ -1809,7 +2079,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0202",
+  "story_id": "story-0232",
   "category": "Movies",
   "title": "claire sweeney ricky hatton romance 37894918",
   "url": "https://www.mirror.co.uk/tv/tv-news/claire-sweeney-ricky-hatton-romance-37894918",
@@ -1818,7 +2088,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0203",
+  "story_id": "story-0233",
   "category": "Movies",
   "title": "earl spencer reveals prince harrys 37893552",
   "url": "https://www.mirror.co.uk/tv/tv-news/earl-spencer-reveals-prince-harrys-37893552",
@@ -1827,7 +2097,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0204",
+  "story_id": "story-0234",
   "category": "Celebrity news & events",
   "title": "im a celebrity mariella joanna 37893093",
   "url": "https://www.mirror.co.uk/tv/tv-news/im-a-celebrity-mariella-joanna-37893093",
@@ -1836,7 +2106,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0205",
+  "story_id": "story-0235",
   "category": "Movies",
   "title": "junior andre admits mum katie 37895208",
   "url": "https://www.mirror.co.uk/tv/tv-news/junior-andre-admits-mum-katie-37895208",
@@ -1845,7 +2115,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0206",
+  "story_id": "story-0236",
   "category": "Movies",
   "title": "tom king emmerdale sam belle 37896276",
   "url": "https://www.mirror.co.uk/tv/tv-news/tom-king-emmerdale-sam-belle-37896276",
@@ -1854,7 +2124,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0207",
+  "story_id": "story-0237",
   "category": "Movies",
   "title": "wayne rooney coleen im celeb 37891008",
   "url": "https://www.mirror.co.uk/tv/tv-news/wayne-rooney-coleen-im-celeb-37891008",
@@ -1863,133 +2133,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0208",
-  "category": "Movies",
-  "title": "Elon Musk’s Ex Grimes Calls Out His “Fixation on Fake Women”",
-  "url": "https://www.eonline.com/news/1438255/elon-musks-ex-grimes-calls-out-his-fixation-with-ai-women?cmpid=rss-syndicate-genericrss-us-top_stories",
-  "source": "E! News",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0209",
-  "category": "Movies",
-  "title": "Is Collin Gosselin Returning to the Marines? What to Know",
-  "url": "https://www.eonline.com/news/1438252/collin-gosselin-says-he-hopes-to-appeal-marines-discharge?cmpid=rss-syndicate-genericrss-us-top_stories",
-  "source": "E! News",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0210",
-  "category": "Movies",
-  "title": "The Hunting Wives’ Brittany Snow Is Engaged to Hunter Moreno",
-  "url": "https://www.eonline.com/news/1424910/brittany-snow-confirms-hunter-moreno-engagement?cmpid=rss-syndicate-genericrss-us-top_stories",
-  "source": "E! News",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0211",
-  "category": "Movies",
-  "title": "Off Campus Star Reveals He Won't Be Back for Season 2",
-  "url": "https://www.eonline.com/news/1438253/off-campus-riley-davis-wont-return-for-season-2-as-allies-boyfriend-sean?cmpid=rss-syndicate-genericrss-us-top_stories",
-  "source": "E! News",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0212",
-  "category": "Movies",
-  "title": "Chris Brown Agrees to Pay Ex Diamond Brown $12,000 a Month in Child Support Amid Custody Battle",
-  "url": "https://www.justjared.com/2026/11/19/chris-brown-diamond-brown-12000-month-child-support-custody-agreement/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0213",
-  "category": "Movies",
-  "title": "Kristen Bell Joins Cara Delevingne, Eva Longoria, & More at L’Oreal Paris’ Women of Worth 2026",
-  "url": "https://www.justjared.com/2026/11/19/kristen-bell-joins-cara-delevingne-eva-longoria-more-at-loreal-paris-women-of-worth-2026/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0214",
-  "category": "Movies",
-  "title": "Lance Broadway, ‘Olympus Has Fallen’ Actor & Former MLB Pitcher, Dies at 43",
-  "url": "https://www.justjared.com/2026/11/19/lance-broadway-olympus-has-fallen-actor-former-mlb-pitcher-dies-at-43/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0215",
-  "category": "OTT / Streaming",
-  "title": "Kim Kardashian Accuses Lamar Odom of ‘Using’ Khloe Kardashian as Sisters React to His Netflix Documentary",
-  "url": "https://www.justjared.com/2026/11/19/kim-kardashian-accuses-lamar-odom-using-khloe-netflix-documentary/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0216",
-  "category": "Movies",
-  "title": "Brooks Nader Officially Joins ‘Playmates’ Movie, Weeks After She Was Seen in Bunny Costume on Set",
-  "url": "https://www.justjared.com/2026/11/19/brooks-nader-officially-joins-playmates-movie-weeks-after-she-was-seen-in-bunny-costume-on-set/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0217",
-  "category": "Movies",
-  "title": "‘Days of Our Lives’ Actor Larry Poindexter Dies at 66 After Being Struck by a Car",
-  "url": "https://www.justjared.com/2026/11/19/days-of-our-lives-actor-larry-poindexter-dies-at-66-after-being-struck-by-a-car/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0218",
-  "category": "Movies",
-  "title": "Teresa Giudice Reveals ‘Staged’ ‘RHONJ’ Scenes She Regrets Filming, Admits Encouraging Infamous Fight",
-  "url": "https://www.justjared.com/2026/11/19/teresa-giudice-staged-rhonj-scenes-regrets-filming-fight/",
-  "source": "Just Jared",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0219",
-  "category": "Movies",
-  "title": "Marvel actor and ex-Mets pitcher Lance Broadway dead at 43 after his body was found in apartment stairwell",
-  "url": "https://pagesix.com/2026/11/19/celebrity-news/lance-broadway-marvel-actor-and-ex-mets-pitcher-dead-at-43/",
-  "source": "Page Six",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0220",
-  "category": "Movies",
-  "title": "Kylie Kelce takes one of these lip plumpers everywhere: ‘You can feel it working’",
-  "url": "https://pagesix.com/2026/11/19/style/kylie-kelce-swears-by-tarte-maracuja-juicy-lip-plump/",
-  "source": "Page Six",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0221",
-  "category": "Movies",
-  "title": "Kylie Kelce slams fans for invasive questions about her bedroom habits with husband Jason: ‘What the actual f–k?’",
-  "url": "https://pagesix.com/2026/11/19/celebrity-news/kylie-kelce-slams-fans-for-invasive-questions-about-her-bedroom-habits-with-husband-jason/",
-  "source": "Page Six",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0222",
+  "story_id": "story-0238",
   "category": "Movies",
   "title": "penn badgley gives rare update on fatherhood raising 4 kids",
   "url": "https://www.usmagazine.com/celebrity-moms/news/penn-badgley-gives-rare-update-on-fatherhood-raising-4-kids/",
@@ -1998,7 +2142,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0223",
+  "story_id": "story-0239",
   "category": "Movies",
   "title": "jax taylor and lori krebs complete relationship timeline",
   "url": "https://www.usmagazine.com/celebrity-news/news/jax-taylor-and-lori-krebs-complete-relationship-timeline/",
@@ -2007,7 +2151,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0224",
+  "story_id": "story-0240",
   "category": "Celebrity news & events",
   "title": "kelsey anderson and joey graziadei reveal wedding details",
   "url": "https://www.usmagazine.com/celebrity-news/news/kelsey-anderson-and-joey-graziadei-reveal-wedding-details/",
@@ -2016,16 +2160,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0225",
-  "category": "Movies",
-  "title": "kim zolciak facing 6 figure default judgment amid sons arrest",
-  "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciak-facing-6-figure-default-judgment-amid-sons-arrest/",
-  "source": "US Weekly",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0226",
+  "story_id": "story-0241",
   "category": "Movies",
   "title": "kj biermanns alleged victim to testify at battery trial",
   "url": "https://www.usmagazine.com/celebrity-news/news/kj-biermanns-alleged-victim-to-testify-at-battery-trial/",
@@ -2034,7 +2169,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0227",
+  "story_id": "story-0242",
   "category": "Movies",
   "title": "kylie kelce reacts to spicy question about jason kelce",
   "url": "https://www.usmagazine.com/celebrity-news/news/kylie-kelce-reacts-to-spicy-question-about-jason-kelce/",
@@ -2043,7 +2178,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0228",
+  "story_id": "story-0243",
   "category": "Movies",
   "title": "savannah chrisley shuts down gold digger marriage comments",
   "url": "https://www.usmagazine.com/celebrity-news/news/savannah-chrisley-shuts-down-gold-digger-marriage-comments/",
@@ -2052,16 +2187,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0229",
-  "category": "Movies",
-  "title": "2 men dead after hostage situation ends in murder suicide",
-  "url": "https://www.usmagazine.com/crime-news/news/2-men-dead-after-hostage-situation-ends-in-murder-suicide/",
-  "source": "US Weekly",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0230",
+  "story_id": "story-0244",
   "category": "Movies",
   "title": "foster mom killed boy for having snacks in bed prosecutors",
   "url": "https://www.usmagazine.com/crime-news/news/foster-mom-killed-boy-for-having-snacks-in-bed-prosecutors/",
@@ -2070,7 +2196,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0231",
+  "story_id": "story-0245",
   "category": "Movies",
   "title": "men arrested after body found in trunk florida police",
   "url": "https://www.usmagazine.com/crime-news/news/men-arrested-after-body-found-in-trunk-florida-police/",
@@ -2079,7 +2205,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0232",
+  "story_id": "story-0246",
   "category": "Movies",
   "title": "mom should have stayed homeafter killing son in drunk crash",
   "url": "https://www.usmagazine.com/crime-news/news/mom-should-have-stayed-homeafter-killing-son-in-drunk-crash/",
@@ -2088,7 +2214,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0233",
+  "story_id": "story-0247",
   "category": "Movies",
   "title": "susan smith denied parole 30 years after killing sons",
   "url": "https://www.usmagazine.com/crime-news/news/susan-smith-denied-parole-30-years-after-killing-sons/",
@@ -2097,7 +2223,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0234",
+  "story_id": "story-0248",
   "category": "Movies",
   "title": "virginia mom sentenced in murder of babysitter who was shot",
   "url": "https://www.usmagazine.com/crime-news/news/virginia-mom-sentenced-in-murder-of-babysitter-who-was-shot/",
@@ -2106,7 +2232,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0235",
+  "story_id": "story-0249",
   "category": "Movies",
   "title": "alabama barker gets upset over violating photos of her",
   "url": "https://www.usmagazine.com/entertainment/news/alabama-barker-gets-upset-over-violating-photos-of-her/",
@@ -2115,7 +2241,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0236",
+  "story_id": "story-0250",
   "category": "Movies",
   "title": "bachelors cassie randolph reveals if shed return to reality tv",
   "url": "https://www.usmagazine.com/entertainment/news/bachelors-cassie-randolph-reveals-if-shed-return-to-reality-tv/",
@@ -2124,7 +2250,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0237",
+  "story_id": "story-0251",
   "category": "Movies",
   "title": "big brothers aaryn williams slept with a woman in jury",
   "url": "https://www.usmagazine.com/entertainment/news/big-brothers-aaryn-williams-slept-with-a-woman-in-jury/",
@@ -2133,7 +2259,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0238",
+  "story_id": "story-0252",
   "category": "Movies",
   "title": "christopher briney wants to join landman after tsitp",
   "url": "https://www.usmagazine.com/entertainment/news/christopher-briney-wants-to-join-landman-after-tsitp/",
@@ -2142,7 +2268,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0239",
+  "story_id": "story-0253",
   "category": "Movies",
   "title": "dwts britt stewart teases reunion with taylor hanson",
   "url": "https://www.usmagazine.com/entertainment/news/dwts-britt-stewart-teases-reunion-with-taylor-hanson/",
@@ -2151,7 +2277,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0240",
+  "story_id": "story-0254",
   "category": "Movies",
   "title": "dwts pro jenna johnson was taken aback by elimination",
   "url": "https://www.usmagazine.com/entertainment/news/dwts-pro-jenna-johnson-was-taken-aback-by-elimination/",
@@ -2160,7 +2286,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0241",
+  "story_id": "story-0255",
   "category": "TV & Dramas",
   "title": "dwts season 35 finale songs and dances revealed",
   "url": "https://www.usmagazine.com/entertainment/news/dwts-season-35-finale-songs-and-dances-revealed/",
@@ -2169,7 +2295,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0242",
+  "story_id": "story-0256",
   "category": "Movies",
   "title": "joan vassos shares glimpse into chock chapple split",
   "url": "https://www.usmagazine.com/entertainment/news/joan-vassos-shares-glimpse-into-chock-chapple-split/",
@@ -2178,7 +2304,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0243",
+  "story_id": "story-0257",
   "category": "Celebrity news & events",
   "title": "love is blinds jax and stew give dating update after split",
   "url": "https://www.usmagazine.com/entertainment/news/love-is-blinds-jax-and-stew-give-dating-update-after-split/",
@@ -2187,7 +2313,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0244",
+  "story_id": "story-0258",
   "category": "Movies",
   "title": "rachael leigh cooks fear about playing twins for hallmark",
   "url": "https://www.usmagazine.com/entertainment/news/rachael-leigh-cooks-fear-about-playing-twins-for-hallmark/",
@@ -2196,7 +2322,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0245",
+  "story_id": "story-0259",
   "category": "Movies",
   "title": "the amazing races riley on lessons from show for motherhood",
   "url": "https://www.usmagazine.com/entertainment/news/the-amazing-races-riley-on-lessons-from-show-for-motherhood/",
@@ -2205,30 +2331,16 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0246",
-  "category": "Movies",
-  "title": "travis kelce supports taylor swifts 2026 cmas performance",
-  "url": "https://www.usmagazine.com/entertainment/news/travis-kelce-supports-taylor-swifts-2026-cmas-performance/",
+  "story_id": "story-0260",
+  "category": "Entertainment viral",
+  "title": "trending deals amazon black friday sale",
+  "url": "https://www.usmagazine.com/shopping/news/trending-deals-amazon-black-friday-sale/",
   "source": "US Weekly",
   "duplicate_count": 0,
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0247",
-  "category": "Entertainment viral",
-  "title": "trending deals amazon black friday sale",
-  "url": "https://www.usmagazine.com/shopping/news/trending-deals-amazon-black-friday-sale/",
-  "source": "US Weekly",
-  "duplicate_count": 4,
-  "duplicate_sources": [
-   "US Weekly",
-   "US Weekly",
-   "US Weekly",
-   "US Weekly"
-  ]
- },
- {
-  "story_id": "story-0248",
+  "story_id": "story-0261",
   "category": "Movies",
   "title": "amazon winter wardrobe staple sale",
   "url": "https://www.usmagazine.com/shopping/news/amazon-winter-wardrobe-staple-sale/",
@@ -2237,18 +2349,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0249",
-  "category": "Movies",
-  "title": "best black friday fashion deals 2026",
-  "url": "https://www.usmagazine.com/shopping/news/best-black-friday-fashion-deals-2026/",
-  "source": "US Weekly",
-  "duplicate_count": 1,
-  "duplicate_sources": [
-   "US Weekly"
-  ]
- },
- {
-  "story_id": "story-0250",
+  "story_id": "story-0262",
   "category": "Movies",
   "title": "jennifer aniston combat boots look for less",
   "url": "https://www.usmagazine.com/shopping/news/jennifer-aniston-combat-boots-look-for-less/",
@@ -2257,7 +2358,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0251",
+  "story_id": "story-0263",
   "category": "Movies",
   "title": "nicole kidman duffel bag look for less",
   "url": "https://www.usmagazine.com/shopping/news/nicole-kidman-duffel-bag-look-for-less/",
@@ -2266,7 +2367,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0252",
+  "story_id": "story-0264",
   "category": "Movies",
   "title": "lance broadway dead former white sox mets pitcher was 43",
   "url": "https://www.usmagazine.com/sports/news/lance-broadway-dead-former-white-sox-mets-pitcher-was-43/",
@@ -2275,88 +2376,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0253",
-  "category": "Movies",
-  "title": "hottest cmas 2026 couples lainey wilson husband duck more",
-  "url": "https://www.usmagazine.com/stylish/pictures/hottest-cmas-2026-couples-lainey-wilson-husband-duck-more/",
-  "source": "US Weekly",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0254",
-  "category": "Movies",
-  "title": "taylor swift dazzles at 2026 cmas with multiple outfits",
-  "url": "https://www.usmagazine.com/stylish/pictures/taylor-swift-dazzles-at-2026-cmas-with-multiple-outfits/",
-  "source": "US Weekly",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0255",
-  "category": "Movies",
-  "title": "Emotional Robin Roberts reduced to tears after GMA in backstage photo — see photo",
-  "url": "https://www.hellomagazine.com/us/936155/gma-robin-roberts-tearful-backstage-photo/",
-  "source": "HELLO! Magazine",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0256",
-  "category": "Celebrity news & events",
-  "title": "Charlotte Casiraghi's son, 12, is as tall as famous mother as he steps out in smart suit ahead of milestone birthday",
-  "url": "https://www.hellomagazine.com/royalty/936126/charlotte-casiraghi-son-raphael-elmaleh-grown-up-rare-appearance-ahead-13th-birthday/",
-  "source": "HELLO! Magazine",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0257",
-  "category": "Awards",
-  "title": "2026 CMA Awards: 6 Things You Didn’t See on TV",
-  "url": "https://www.billboard.com/lists/cma-awards-2026-best-moments-behind-scenes/",
-  "source": "Billboard",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0258",
-  "category": "Movies",
-  "title": "Here’s the Date the 2026 Kennedy Center Honors Will Air on CBS",
-  "url": "https://www.billboard.com/music/awards/2026-kennedy-center-honors-airdate-cbs-1236385879/",
-  "source": "Billboard",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0259",
-  "category": "Movies",
-  "title": "50 Cent Beats Lawsuit From Ex-Exec Who Says She Was Fired for Refusing to Join in Illegal Conduct",
-  "url": "https://www.billboard.com/pro/50-cent-lawsuit-dismissed-fired-exec-case-tossed-judge/",
-  "source": "Billboard",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0260",
-  "category": "Movies",
-  "title": "Bad Bunny’s Adidas BadBo Sneakers Get Two New Puerto Rico-Inspired Colorways — Here’s Where to Buy",
-  "url": "https://www.billboard.com/culture/product-recommendations/bad-bunny-adidas-badbo-sneakers-where-to-buy-nov-2026-1236385850/",
-  "source": "Billboard",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0261",
-  "category": "Movies",
-  "title": "Tatsuya Endo’s ‘SPY×FAMILY’ Vol. 18 Holds at No. 1 on Billboard Japan Book Hot 100",
-  "url": "https://www.billboard.com/music/chart-beat/tatsuya-endo-spyfamily-18-holds-atop-japan-book-hot-100-1236385853/",
-  "source": "Billboard",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0262",
+  "story_id": "story-0265",
   "category": "Movies",
   "title": "ram pothineni unveils the lone wolf pre look of rapo23 87262.html",
   "url": "https://www.filmfare.com/news/south/ram-pothineni-unveils-the-lone-wolf-pre-look-of-rapo23-87262.html",
@@ -2365,7 +2385,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0263",
+  "story_id": "story-0266",
   "category": "Trailers",
   "title": "dr hassan teaser out nawazuddin siddiqui and dia mirza star in indian adaptation of house 87256.html",
   "url": "https://www.filmfare.com/news/bollywood/dr-hassan-teaser-out-nawazuddin-siddiqui-and-dia-mirza-star-in-indian-adaptation-of-house-87256.html",
@@ -2374,7 +2394,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0264",
+  "story_id": "story-0267",
   "category": "Movies",
   "title": "somehow he hasnt changed alia bhatt pens heartfelt note for vicky kaushal 87258.html",
   "url": "https://www.filmfare.com/news/bollywood/somehow-he-hasnt-changed-alia-bhatt-pens-heartfelt-note-for-vicky-kaushal-87258.html",
@@ -2383,7 +2403,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0265",
+  "story_id": "story-0268",
   "category": "Movies",
   "title": "breaking her limits how rashmika mandanna became mysaa 87261.html",
   "url": "https://www.filmfare.com/news/south/breaking-her-limits-how-rashmika-mandanna-became-mysaa-87261.html",
@@ -2392,7 +2412,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0266",
+  "story_id": "story-0269",
   "category": "Movies",
   "title": "exclusive mrunal thakur on being misunderstood i want my work to speak for me 87260.html",
   "url": "https://www.filmfare.com/interviews/exclusive-mrunal-thakur-on-being-misunderstood-i-want-my-work-to-speak-for-me-87260.html",
@@ -2401,7 +2421,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0267",
+  "story_id": "story-0270",
   "category": "Movies",
   "title": "editors take zeenat aman the og it girl who refused to fade away 87252.html",
   "url": "https://www.filmfare.com/opinion/editorials/editors-take-zeenat-aman-the-og-it-girl-who-refused-to-fade-away-87252.html",
@@ -2410,16 +2430,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0268",
-  "category": "Box Office",
-  "title": "robert downey jr on returning to marvel as doctor doom in avengers doomsday 87259.html",
-  "url": "https://www.filmfare.com/news/bollywood/robert-downey-jr-on-returning-to-marvel-as-doctor-doom-in-avengers-doomsday-87259.html",
-  "source": "Filmfare",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0269",
+  "story_id": "story-0271",
   "category": "Movies",
   "title": "heres what went into samantha ruth prabhus baby shower ceremony 87255.html",
   "url": "https://www.filmfare.com/news/south/heres-what-went-into-samantha-ruth-prabhus-baby-shower-ceremony-87255.html",
@@ -2428,16 +2439,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0270",
-  "category": "Movies",
-  "title": "welcome to the world of bond pierce brosnan welcomes the new james bond robert pattinson 87257.html",
-  "url": "https://www.filmfare.com/news/hollywood/welcome-to-the-world-of-bond-pierce-brosnan-welcomes-the-new-james-bond-robert-pattinson-87257.html",
-  "source": "Filmfare",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0271",
+  "story_id": "story-0272",
   "category": "Episodes",
   "title": "all that happened on the latest episode of kwk ft ananya panday ananya birla and shanaya kapoor 87254.html",
   "url": "https://www.filmfare.com/news/bollywood/all-that-happened-on-the-latest-episode-of-kwk-ft-ananya-panday-ananya-birla-and-shanaya-kapoor-87254.html",
@@ -2446,7 +2448,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0272",
+  "story_id": "story-0273",
   "category": "Movies",
   "title": "photos priyanka chopra jonas balances a busy work schedule with her mom duties 87251.html",
   "url": "https://www.filmfare.com/photos/photos-priyanka-chopra-jonas-balances-a-busy-work-schedule-with-her-mom-duties-87251.html",
@@ -2455,7 +2457,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0273",
+  "story_id": "story-0274",
   "category": "Trailers",
   "title": "sacred jewel trailer ahn bo hyun embarks on a dangerous mission in new korean historical series 87249.html",
   "url": "https://www.filmfare.com/news/korean/sacred-jewel-trailer-ahn-bo-hyun-embarks-on-a-dangerous-mission-in-new-korean-historical-series-87249.html",
@@ -2464,7 +2466,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0274",
+  "story_id": "story-0275",
   "category": "Movies",
   "title": "sooraj barjatya says ayushmann khurrana brought his own touch to prem just like salman khan 87250.html",
   "url": "https://www.filmfare.com/news/bollywood/sooraj-barjatya-says-ayushmann-khurrana-brought-his-own-touch-to-prem-just-like-salman-khan-87250.html",
@@ -2473,7 +2475,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0275",
+  "story_id": "story-0276",
   "category": "Celebrity news & events",
   "title": "sagarika ghatge brother shivjeet ghatge wedding zaheer khan son steals limelight royal connection tmova 2700153 2026 11 19",
   "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/sagarika-ghatge-brother-shivjeet-ghatge-wedding-zaheer-khan-son-steals-limelight-royal-connection-tmova-2700153-2026-11-19",
@@ -2482,7 +2484,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0276",
+  "story_id": "story-0277",
   "category": "Movies",
   "title": "cm rekha gupta jackie shroff munak canal cleanliness drive in delhi other bollywood celebs joined tmova dskc 2700470 2026 11 19",
   "url": "https://www.aajtak.in/entertainment/bollywood-news/story/cm-rekha-gupta-jackie-shroff-munak-canal-cleanliness-drive-in-delhi-other-bollywood-celebs-joined-tmova-dskc-2700470-2026-11-19",
@@ -2491,7 +2493,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0277",
+  "story_id": "story-0278",
   "category": "Movies",
   "title": "dawood ibrahim shown in dhurandhar is fake reveals ex fbi agent kamran faridi tmova dskc 2700613 2026 11 19",
   "url": "https://www.aajtak.in/entertainment/bollywood-news/story/dawood-ibrahim-shown-in-dhurandhar-is-fake-reveals-ex-fbi-agent-kamran-faridi-tmova-dskc-2700613-2026-11-19",
@@ -2500,7 +2502,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0278",
+  "story_id": "story-0279",
   "category": "Movies",
   "title": "priyanka chopra shares daughter adorable video malti marie reciting gayatri mantra video tmovg dskc 2700639 2026 11 19",
   "url": "https://www.aajtak.in/entertainment/bollywood-news/story/priyanka-chopra-shares-daughter-adorable-video-malti-marie-reciting-gayatri-mantra-video-tmovg-dskc-2700639-2026-11-19",
@@ -2509,19 +2511,10 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0279",
+  "story_id": "story-0280",
   "category": "Movies",
   "title": "saif ali khan received threat gangster zeeshan akhtar accused in baba siddique murder case tmova rpti 2700506 2026 11 19",
   "url": "https://www.aajtak.in/entertainment/bollywood-news/story/saif-ali-khan-received-threat-gangster-zeeshan-akhtar-accused-in-baba-siddique-murder-case-tmova-rpti-2700506-2026-11-19",
-  "source": "Aaj Tak — Entertainment",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0280",
-  "category": "Music / OST",
-  "title": "tabu make hindi ott debut with yrf netflix series tunnel men inspired by 2023 rescue tmovg dskc 2700678 2026 11 19",
-  "url": "https://www.aajtak.in/entertainment/bollywood-news/story/tabu-make-hindi-ott-debut-with-yrf-netflix-series-tunnel-men-inspired-by-2023-rescue-tmovg-dskc-2700678-2026-11-19",
   "source": "Aaj Tak — Entertainment",
   "duplicate_count": 0,
   "duplicate_sources": []
@@ -2798,15 +2791,6 @@
  },
  {
   "story_id": "story-0311",
-  "category": "Music / OST",
-  "title": "robert downey jr on mcu comeback in avengers doomsday first reaction to kevin feiges offer article 156536245",
-  "url": "https://www.timesnownews.com/entertainment-news/hollywood/robert-downey-jr-on-mcu-comeback-in-avengers-doomsday-first-reaction-to-kevin-feiges-offer-article-156536245",
-  "source": "Times Now — Entertainment",
-  "duplicate_count": 0,
-  "duplicate_sources": []
- },
- {
-  "story_id": "story-0312",
   "category": "Upcoming releases",
   "title": "cult ott release date vishwak sens film premieres online 20 days after theatrical release plot cast platform article 156535337",
   "url": "https://www.timesnownews.com/entertainment-news/south/cult-ott-release-date-vishwak-sens-film-premieres-online-20-days-after-theatrical-release-plot-cast-platform-article-156535337",
@@ -2815,7 +2799,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0313",
+  "story_id": "story-0312",
   "category": "Movies",
   "title": "ene repeat ee nagaraniki emaindi part 2 x review netizens call tharun bhasckers sequel a fun ride say its for gen z article 156534973",
   "url": "https://www.timesnownews.com/entertainment-news/south/ene-repeat-ee-nagaraniki-emaindi-part-2-x-review-netizens-call-tharun-bhasckers-sequel-a-fun-ride-say-its-for-gen-z-article-156534973",
@@ -2824,7 +2808,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0314",
+  "story_id": "story-0313",
   "category": "Movies",
   "title": "rapo23 ram pothineni reveals his new avatar calls it story of a lone wolf article 156536274",
   "url": "https://www.timesnownews.com/entertainment-news/south/rapo23-ram-pothineni-reveals-his-new-avatar-calls-it-story-of-a-lone-wolf-article-156536274",
@@ -2833,7 +2817,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0315",
+  "story_id": "story-0314",
   "category": "Box Office",
   "title": "scene box office collection day 13 suriya nazriya nazims film eyes rs 300 crore mark despite dip in earnings article 156534361",
   "url": "https://www.timesnownews.com/entertainment-news/south/scene-box-office-collection-day-13-suriya-nazriya-nazims-film-eyes-rs-300-crore-mark-despite-dip-in-earnings-article-156534361",
@@ -2842,7 +2826,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0316",
+  "story_id": "story-0315",
   "category": "Movies",
   "title": "adil somi khan debunk divorce rumours after cryptic post sparks controversy we are together and happy excl article 156537019",
   "url": "https://www.timesnownews.com/entertainment-news/tv/adil-somi-khan-debunk-divorce-rumours-after-cryptic-post-sparks-controversy-we-are-together-and-happy-excl-article-156537019",
@@ -2851,7 +2835,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0317",
+  "story_id": "story-0316",
   "category": "Movies",
   "title": "avinash mishra reacts to eisha singh breakup rumours allow people to live in peace article 156536607",
   "url": "https://www.timesnownews.com/entertainment-news/tv/avinash-mishra-reacts-to-eisha-singh-breakup-rumours-allow-people-to-live-in-peace-article-156536607",
@@ -2860,7 +2844,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0318",
+  "story_id": "story-0317",
   "category": "OTT / Streaming",
   "title": "friday ott releases november 20 2026 11 new movies shows to watch on netflix amazon prime video and more article 156536701",
   "url": "https://www.timesnownews.com/entertainment-news/web-series/friday-ott-releases-november-20-2026-11-new-movies-shows-to-watch-on-netflix-amazon-prime-video-and-more-article-156536701",
@@ -2869,7 +2853,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0319",
+  "story_id": "story-0318",
   "category": "Movies",
   "title": "student of the year after dark actress anushree shukla says shanaya kapoor heart is of pure gold exclusive article 156535823",
   "url": "https://www.timesnownews.com/entertainment-news/web-series/student-of-the-year-after-dark-actress-anushree-shukla-says-shanaya-kapoor-heart-is-of-pure-gold-exclusive-article-156535823",
@@ -2878,7 +2862,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0320",
+  "story_id": "story-0319",
   "category": "Movies",
   "title": "jasprit bumrah goes past javagal srinath enters indias top 10 test wicket takers article 156534681",
   "url": "https://www.timesnownews.com/sports/cricket/jasprit-bumrah-goes-past-javagal-srinath-enters-indias-top-10-test-wicket-takers-article-156534681",
@@ -2887,7 +2871,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0321",
+  "story_id": "story-0320",
   "category": "Movies",
   "title": "rahul gandhi economic disaster remark bjp criticism video 156537076",
   "url": "https://www.timesnownews.com/videos/times-now/afternoon-dispatch/rahul-gandhi-economic-disaster-remark-bjp-criticism-video-156537076",
@@ -2896,7 +2880,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0322",
+  "story_id": "story-0321",
   "category": "Music / OST",
   "title": "rahul gandhis us tour allegations against indian democracy and economy video 156533615",
   "url": "https://www.timesnownews.com/videos/times-now/newshour/rahul-gandhis-us-tour-allegations-against-indian-democracy-and-economy-video-156533615",
@@ -2905,7 +2889,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0323",
+  "story_id": "story-0322",
   "category": "Movies",
   "title": "sunil bharti mittal journey of perseverance video 156533735",
   "url": "https://www.timesnownews.com/videos/times-now/newshour/sunil-bharti-mittal-journey-of-perseverance-video-156533735",
@@ -2914,7 +2898,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0324",
+  "story_id": "story-0323",
   "category": "Movies",
   "title": "political tensions rise in uttar pradesh ahead of 2027 elections video 156533716",
   "url": "https://www.timesnownews.com/videos/times-now/shows/political-tensions-rise-in-uttar-pradesh-ahead-of-2027-elections-video-156533716",
@@ -2923,7 +2907,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0325",
+  "story_id": "story-0324",
   "category": "Movies",
   "title": "rahul gandhi warns of economic disaster in india during columbia university address video 156533588",
   "url": "https://www.timesnownews.com/videos/times-now/shows/rahul-gandhi-warns-of-economic-disaster-in-india-during-columbia-university-address-video-156533588",
@@ -2932,7 +2916,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0326",
+  "story_id": "story-0325",
   "category": "Movies",
   "title": "iran us war latest news donald trump latest statement on us involvement israel conflict middle east tensions and strait of hormuz crisis liveblog 156536030",
   "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-latest-news-donald-trump-latest-statement-on-us-involvement-israel-conflict-middle-east-tensions-and-strait-of-hormuz-crisis-liveblog-156536030",
@@ -2941,7 +2925,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0327",
+  "story_id": "story-0326",
   "category": "Episodes",
   "title": "the altruists episode 1 netflix premiere.html",
   "url": "https://www.vulture.com/article/the-altruists-episode-1-netflix-premiere.html",
@@ -2950,7 +2934,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0328",
+  "story_id": "story-0327",
   "category": "Movies",
   "title": "theater review the charioteer dan giles.html",
   "url": "https://www.vulture.com/article/theater-review-the-charioteer-dan-giles.html",
@@ -2959,7 +2943,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0329",
+  "story_id": "story-0328",
   "category": "Episodes",
   "title": "the lowdown recap season 2 episode 7 fx.html",
   "url": "https://www.vulture.com/article/the-lowdown-recap-season-2-episode-7-fx.html",
@@ -2968,7 +2952,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0330",
+  "story_id": "story-0329",
   "category": "Episodes",
   "title": "survivor recap season 51 episode 9 cbs.html",
   "url": "https://www.vulture.com/article/survivor-recap-season-51-episode-9-cbs.html",
@@ -2977,7 +2961,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0331",
+  "story_id": "story-0330",
   "category": "Episodes",
   "title": "real housewives of salt lake city recap rhoslc season 7 episode 10 bravo.html",
   "url": "https://www.vulture.com/article/real-housewives-of-salt-lake-city-recap-rhoslc-season-7-episode-10-bravo.html",
@@ -2986,7 +2970,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0332",
+  "story_id": "story-0331",
   "category": "Movies",
   "title": "lost nathan fielder film youtube.html",
   "url": "https://www.vulture.com/article/lost-nathan-fielder-film-youtube.html",
@@ -2995,7 +2979,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0333",
+  "story_id": "story-0332",
   "category": "Movies",
   "title": "grand theft auto vi 62 birds 170 animals.html",
   "url": "https://www.vulture.com/article/grand-theft-auto-vi-62-birds-170-animals.html",
@@ -3004,7 +2988,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0334",
+  "story_id": "story-0333",
   "category": "Movies",
   "title": "low tier god.html",
   "url": "https://www.famousbirthdays.com/people/low-tier-god.html",
@@ -3013,7 +2997,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0335",
+  "story_id": "story-0334",
   "category": "Movies",
   "title": "adam driver 30716.php",
   "url": "https://www.thefamouspeople.com/profiles/adam-driver-30716.php",
@@ -3022,7 +3006,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0336",
+  "story_id": "story-0335",
   "category": "Movies",
   "title": "alicia christian foster 1860.php",
   "url": "https://www.thefamouspeople.com/profiles/alicia-christian-foster-1860.php",
@@ -3031,7 +3015,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0337",
+  "story_id": "story-0336",
   "category": "Movies",
   "title": "allison janney 29904.php",
   "url": "https://www.thefamouspeople.com/profiles/allison-janney-29904.php",
@@ -3040,7 +3024,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0338",
+  "story_id": "story-0337",
   "category": "Movies",
   "title": "della reese 30272.php",
   "url": "https://www.thefamouspeople.com/profiles/della-reese-30272.php",
@@ -3049,7 +3033,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0339",
+  "story_id": "story-0338",
   "category": "Movies",
   "title": "meg ryan 2332.php",
   "url": "https://www.thefamouspeople.com/profiles/meg-ryan-2332.php",
@@ -3058,7 +3042,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0340",
+  "story_id": "story-0339",
   "category": "Movies",
   "title": "mike nichols 7737.php",
   "url": "https://www.thefamouspeople.com/profiles/mike-nichols-7737.php",
@@ -3067,7 +3051,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0341",
+  "story_id": "story-0340",
   "category": "Movies",
   "title": "rosalynn carter 2757.php",
   "url": "https://www.thefamouspeople.com/profiles/rosalynn-carter-2757.php",
@@ -3076,7 +3060,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0342",
+  "story_id": "story-0341",
   "category": "Movies",
   "title": "terry melcher 11964.php",
   "url": "https://www.thefamouspeople.com/profiles/terry-melcher-11964.php",
@@ -3085,7 +3069,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0343",
+  "story_id": "story-0342",
   "category": "Celebrity news & events",
   "title": "ideas home wedding essentials ideas home",
   "url": "https://www.hmagpak.com/19-Nov-2026/ideas-home-wedding-essentials-ideas-home",
@@ -3094,7 +3078,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0344",
+  "story_id": "story-0343",
   "category": "Movies",
   "title": "royal walkabout history",
   "url": "https://www.vanityfair.com/story/royal-walkabout-history",
@@ -3103,7 +3087,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0345",
+  "story_id": "story-0344",
   "category": "Movies",
   "title": "newsletter preference centre",
   "url": "https://www.mirror.co.uk/newsletter-preference-centre/?utm_source=newslettersignupheader",
@@ -3112,7 +3096,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0346",
+  "story_id": "story-0345",
   "category": "Movies",
   "title": "steps 1",
   "url": "https://www.justwatch.com/us/movie/steps-1",
@@ -3121,7 +3105,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0347",
+  "story_id": "story-0346",
   "category": "Movies",
   "title": "the vvaan force of the forrest",
   "url": "https://www.justwatch.com/us/movie/the-vvaan-force-of-the-forrest",
@@ -3130,7 +3114,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0348",
+  "story_id": "story-0347",
   "category": "Movies",
   "title": "season 1",
   "url": "https://www.justwatch.com/us/tv-show/countdown-to-avengers-doomsday-official-podcast/season-1",
@@ -3139,7 +3123,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0349",
+  "story_id": "story-0348",
   "category": "Movies",
   "title": "season 29",
   "url": "https://www.justwatch.com/us/tv-show/south-park/season-29",
@@ -3148,7 +3132,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0350",
+  "story_id": "story-0349",
   "category": "Movies",
   "title": "the chosen 0",
   "url": "https://www.justwatch.com/us/tv-show/the-chosen-0",
@@ -3157,7 +3141,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0351",
+  "story_id": "story-0350",
   "category": "Movies",
   "title": "AEN20261118010000320",
   "url": "https://en.yna.co.kr/view/AEN20261118010000320?section=k-biz/ontherecord",
@@ -3166,7 +3150,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0352",
+  "story_id": "story-0351",
   "category": "Movies",
   "title": "AEN20261119001357315",
   "url": "https://en.yna.co.kr/view/AEN20261119001357315?section=national/diplomacy",
@@ -3175,7 +3159,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0353",
+  "story_id": "story-0352",
   "category": "Movies",
   "title": "AEN20261119001651315",
   "url": "https://en.yna.co.kr/view/AEN20261119001651315?section=national/diplomacy",
@@ -3184,7 +3168,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0354",
+  "story_id": "story-0353",
   "category": "Movies",
   "title": "AEN20261119002452315",
   "url": "https://en.yna.co.kr/view/AEN20261119002452315?section=national/politics",
@@ -3193,7 +3177,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0355",
+  "story_id": "story-0354",
   "category": "Movies",
   "title": "AEN20261119003951320",
   "url": "https://en.yna.co.kr/view/AEN20261119003951320?section=economy-finance/economy",
@@ -3202,7 +3186,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0356",
+  "story_id": "story-0355",
   "category": "Movies",
   "title": "AEN20261119005352315",
   "url": "https://en.yna.co.kr/view/AEN20261119005352315?section=national/national",
@@ -3211,7 +3195,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0357",
+  "story_id": "story-0356",
   "category": "Movies",
   "title": "AEN20261119006800320",
   "url": "https://en.yna.co.kr/view/AEN20261119006800320?section=k-biz/focus",
@@ -3220,7 +3204,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0358",
+  "story_id": "story-0357",
   "category": "Movies",
   "title": "AEN20261119007151315",
   "url": "https://en.yna.co.kr/view/AEN20261119007151315?section=national/politics",
@@ -3229,7 +3213,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0359",
+  "story_id": "story-0358",
   "category": "Movies",
   "title": "AEN20261119010251315",
   "url": "https://en.yna.co.kr/view/AEN20261119010251315?section=national/national",
@@ -3238,7 +3222,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0360",
+  "story_id": "story-0359",
   "category": "Movies",
   "title": "PYH20261119055300315",
   "url": "https://en.yna.co.kr/view/PYH20261119055300315?section=image/general",
@@ -3247,7 +3231,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0361",
+  "story_id": "story-0360",
   "category": "Movies",
   "title": "PYH20261119070500315",
   "url": "https://en.yna.co.kr/view/PYH20261119070500315?section=image/general",
@@ -3256,7 +3240,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0362",
+  "story_id": "story-0361",
   "category": "Movies",
   "title": "PYH20261119159700315",
   "url": "https://en.yna.co.kr/view/PYH20261119159700315?section=image/general",
@@ -3265,7 +3249,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0363",
+  "story_id": "story-0362",
   "category": "Movies",
   "title": "PYH20261119172200315",
   "url": "https://en.yna.co.kr/view/PYH20261119172200315?section=image/general",
@@ -3274,7 +3258,7 @@
   "duplicate_sources": []
  },
  {
-  "story_id": "story-0364",
+  "story_id": "story-0363",
   "category": "Movies",
   "title": "november20.html",
   "url": "https://www.famousbirthdays.com/november20.html",
