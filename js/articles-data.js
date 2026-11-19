@@ -193623,5 +193623,441 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 17:31:56 +0000"
+  },
+  "4c77y5": {
+    "id": "4c77y5",
+    "type": "news",
+    "headline": "Mera Ghar Episode 3 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 3 aired on 2026-11-19 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 3 aired on 2026-11-19 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=ditH_Sav94s"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 3 aired on 2026-11-19.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=ditH_Sav94s",
+      "YouTube views: 132,850."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ditH_Sav94s/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 3",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-19T15:00:32Z"
+  },
+  "1wefmih": {
+    "id": "1wefmih",
+    "type": "news",
+    "headline": "Mera Ghar Episode 2 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 2 aired on 2026-11-18 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 2 aired on 2026-11-18 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=AmcmTyvkOw4"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 2 aired on 2026-11-18.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=AmcmTyvkOw4",
+      "YouTube views: 504,184."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/AmcmTyvkOw4/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 2",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-18T15:00:01Z"
+  },
+  "c8l2zf": {
+    "id": "c8l2zf",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Trajectory Enters Day 16 Following Massive Multi-Language Run",
+    "dek": "An overview of the box office performance, theatrical occupancy figures, and earnings across multiple languages for Ramayana: Part 1 up to its sixteenth day.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The theatrical journey of Ramayana: Part 1 kicked off with impressive numbers across the country, pulling in a massive first day total of ₹62.5 crore net across all languages. The Hindi version contributed ₹45 crore, while regional markets added strong figures including ₹7.5 crore from Kannada, ₹6 crore from Telugu, ₹2.5 crore from Tamil, and ₹1.5 crore from Malayalam.",
+          "As the opening weekend progressed, the film maintained solid momentum. Day 2 brought in ₹48.75 crore, followed by an even stronger Day 3 surge yielding ₹70.75 crore net. By the end of its fourth day, the feature collected an additional ₹55 crore, establishing a formidable footing in the domestic box office arena."
+        ]
+      },
+      {
+        "h": "Mid-Week Surges and Week 1 Totals",
+        "p": [
+          "Mid-week ticket sales experienced a historic jump on Day 5, when the multi-language epic raked in a staggering ₹111.25 crore net, led heavily by a ₹92 crore contribution from the Hindi belt. Day 6 continued this phenomenal trend with a ₹95 crore collection before tapering slightly to ₹70.5 crore on Day 7 and ₹51 crore on Day 8.",
+          "Concluding its first eight-day week, the cinematic outing amassed an estimated grand total of ₹564.75 crore net domestically, with the Hindi version alone accounting for ₹439.5 crore of that milestone."
+        ]
+      },
+      {
+        "h": "Second Week Holding Power",
+        "p": [
+          "Entering its second week, Ramayana: Part 1 continued to draw audiences into theatres despite standard weekday drops. Day 9 added ₹46 crore to the tally, while the subsequent weekend saw strong revivals with ₹73.25 crore on Day 10 and ₹76 crore on Day 11.",
+          "As the second week wound down, collections shifted to ₹31.5 crore on Day 12, ₹28 crore on Day 13, ₹22.35 crore on Day 14, and ₹18.65 crore on Day 15. This brought the total estimated Week 2 earnings to ₹295.75 crore net."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Global Reach",
+        "p": [
+          "Total domestic net collections for Ramayana: Part 1 reached an estimated ₹860.5 crore by the end of the fifteenth day, with the Hindi version contributing ₹660 crore to that figure. When factoring in taxes and higher tiers, the India gross collection scaled up to ₹1015.4 crore.",
+          "Beyond domestic borders, the feature performed remarkably well overseas, pulling in $54.25 million, which translates roughly to ₹512.75 crore. Combined, the worldwide box office gross stands at an estimated ₹1528.15 crore."
+        ]
+      },
+      {
+        "h": "Hindi Version Occupancy Trends",
+        "p": [
+          "Audience turnout for the Hindi version fluctuated across morning, afternoon, and night shows throughout its theatrical run. Day 1 set a strong precedent with an overall occupancy of 30.17%, peaking during night shows at 45-50%.",
+          "The highest single-day occupancy was recorded on Day 5, hitting a massive 67.5% overall, driven by an 80% turnout during afternoon screenings and 70-75% at night. While occupancies naturally moderated in the following weeks, weekend spikes like Day 11 kept theatre seats consistently filled."
+        ]
+      },
+      {
+        "h": "Current Day 16 Status",
+        "p": [
+          "As the film transitions into its sixteenth day in cinemas, early estimates and official figures for the date remain pending. Trade analysts and tracking desks continue to monitor occupancy rates as updates are awaited.",
+          "Stakeholders and fans keep a close eye on the box office charts to see how the epic holds its ground against newer releases during the ongoing theatrical window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has achieved monumental box office numbers, accumulating a total domestic net of ₹860.5 crore and a worldwide gross of ₹1528.15 crore by its fifteenth day. While Day 16 estimates remain to be updated, the film's extensive multi-language run and strong occupancy trends underscore its massive commercial success."
+        ]
+      }
+    ],
+    "facts": [
+      "Day 1 collection was ₹62.5 crore net.",
+      "Day 5 collection reached ₹111.25 crore net.",
+      "Week 1 total reached ₹564.75 crore.",
+      "Total domestic net till Day 15 was ₹860.5 crore.",
+      "Worldwide collection reached ₹1528.15 crore."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Day 16 collection",
+      "Ramayana Part 1 earnings",
+      "Ramayana box office report"
+    ],
+    "images": [],
+    "published": "2026-11-20T00:25:06.490+05:30"
+  },
+  "2v3n2y": {
+    "id": "2v3n2y",
+    "type": "news",
+    "headline": "Tabu to Make Her Hindi OTT Debut with YRF Entertainment Series 'Tunnel Men' on Netflix",
+    "dek": "Acclaimed actor Tabu is officially stepping into the Hindi digital streaming space, joining the cast of Netflix's upcoming series 'Tunnel Men', which draws inspiration from the 2023 Uttarkashi tunnel rescue operation.",
+    "body": [
+      {
+        "h": "The Upcoming Netflix Series",
+        "p": [
+          "Renowned actor Tabu has signed on for 'Tunnel Men', an upcoming series produced by YRF Entertainment for Netflix. This project marks her very first foray into a Hindi original streaming series, expanding her illustrious career into the digital realm.",
+          "The fictionalized drama takes inspiration from the tense and challenging 2023 Uttarakhand tunnel rescue operation, which captured the attention and held the breath of the entire nation as workers were safely extracted from a collapsed tunnel."
+        ]
+      },
+      {
+        "h": "Reflecting a Historic Rescue",
+        "p": [
+          "In November 2023, audiences across the country watched closely as a massive, arduous rescue effort unfolded to save trapped laborers in Uttarakhand. 'Tunnel Men' aims to capture the spirit, grit, collective teamwork, and unwavering hope that defined those harrowing days underground."
+        ]
+      },
+      {
+        "h": "Tabu's Illustrious Career",
+        "p": [
+          "With a career spanning over three decades, Tabu has established herself as a powerhouse performer across mainstream, independent, and regional cinema. Her memorable roles in films such as 'Maachis' and 'Chandni Bar' earned her prestigious National Film Awards, while her work in 'Maqbool', 'Haider', and 'Andhadhun' showcased her exceptional range.",
+          "Her international footprint is equally strong, featuring in Ang Lee's 'Life of Pi', Mira Nair's 'The Namesake' as Ashima Ganguli, and the television series 'Dune: Prophecy' portraying Sister Francesca."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Direction",
+        "p": [
+          "The series will be guided by Shiv Rawail, who returns as the show-runner following his work on 'The Railway Men'. Known for his sensitive storytelling, Rawail aims to bring a fresh narrative of courage and human emotion to the screen.",
+          "'Tunnel Men' also marks Saugata Mukherjee's initial project as Head of Content at YRF Entertainment under CEO Akshaye Widhani. Mukherjee brings vast experience from overseeing acclaimed series like 'Scam 1992', 'Maharani', 'Tabbar', and 'Rocket Boys'."
+        ]
+      },
+      {
+        "h": "Partnership Between YRF and Netflix",
+        "p": [
+          "The release of 'Tunnel Men' on Netflix further deepens the ongoing creative collaboration between YRF Entertainment and the streaming platform. This partnership originally kicked off in 2023 with the documentary series 'The Romantics'."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Tabu is set to make her Hindi OTT debut in the Netflix series 'Tunnel Men', produced by YRF Entertainment and inspired by the 2023 Uttarakhand tunnel rescue. The fictionalized drama brings together director Shiv Rawail and content head Saugata Mukherjee to tell a story of human courage and survival."
+        ]
+      }
+    ],
+    "facts": [
+      "Tabu is making her Hindi OTT debut with the YRF Entertainment series Tunnel Men.",
+      "Tunnel Men is a fictional drama inspired by the 2023 Uttarakhand tunnel rescue operation.",
+      "Shiv Rawail is the show-runner of Tunnel Men.",
+      "Saugata Mukherjee is the Head of Content at YRF Entertainment.",
+      "Akshaye Widhani is the CEO of YRF Entertainment.",
+      "The partnership between YRF Entertainment and Netflix began in 2023 with The Romantics."
+    ],
+    "entities": {
+      "people": [
+        "Tabu",
+        "Shiv Rawail",
+        "Saugata Mukherjee",
+        "Akshaye Widhani",
+        "Ang Lee",
+        "Mira Nair"
+      ],
+      "titles": [
+        "Tunnel Men",
+        "Maachis",
+        "Chandni Bar",
+        "Maqbool",
+        "Haider",
+        "Andhadhun",
+        "Life of Pi",
+        "The Namesake",
+        "Dune: Prophecy",
+        "The Railway Men",
+        "Scam 1992",
+        "Maharani",
+        "Tabbar",
+        "Rocket Boys",
+        "The Romantics"
+      ]
+    },
+    "keywords": [
+      "Tabu Tunnel Men",
+      "YRF Netflix Tunnel Men",
+      "Tabu OTT debut",
+      "Tunnel Men series release"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afedc35b8b20-tunnel-men-tabu-ott-debut-192332671-16x9.jpg",
+        "caption": "Tabu to Make Her Hindi OTT Debut with YRF Entertainment Series 'Tunnel Men' on Netflix",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T20:12:29Z"
+  },
+  "rrtkkf": {
+    "id": "rrtkkf",
+    "type": "news",
+    "headline": "Resident Evil Worldwide Box Office: Horror Reboot Overtakes Major Franchise Hits",
+    "dek": "Zach Cregger's Resident Evil reboot achieves massive global success, surpassing multiple entries in the Conjuring Universe at the worldwide box office.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The Resident Evil horror reboot continues to demonstrate exceptional strength in theaters around the globe. Driven by sustained audience interest, the film has managed to eclipse the lifetime earnings of several major genre heavyweights.",
+          "With ticket sales mounting internationally, the production has firmly established itself among the most lucrative horror releases in cinematic history."
+        ]
+      },
+      {
+        "h": "North American Performance",
+        "p": [
+          "In the domestic market, the feature recently brought in fifty thousand dollars on its ninth Tuesday discount day. Exhibited across 421 screens in North America, this single day haul experienced a seventy-three percent decline compared to the previous discounted Tuesday.",
+          "Despite the week-over-week drop, this latest domestic addition pushes the film's cumulative North American earnings to a substantial 160.8 million dollars."
+        ]
+      },
+      {
+        "h": "International and Worldwide Totals",
+        "p": [
+          "When combining domestic figures with international contributions, the picture tells an even more impressive financial story. International markets have generated a remarkable 255.6 million dollars for the project.",
+          "Taken together with the domestic figures reported via Box Office Mojo, the total worldwide collection for the reboot has successfully crossed the 416.4 million dollar threshold."
+        ]
+      },
+      {
+        "h": "Surpassing the Conjuring Universe",
+        "p": [
+          "A notable milestone for the reboot is its performance relative to the immensely popular Conjuring franchise. The Resident Evil feature has officially surpassed the global hauls of both The Nun, which previously pulled in 366.08 million dollars, and The Conjuring 2 at 322.8 million dollars.",
+          "By leapfrogging these entries, the film has outperformed nearly every single title within one of the most successful horror cinematic universes ever created."
+        ]
+      },
+      {
+        "h": "The Remaining Challenge",
+        "p": [
+          "Despite its extraordinary ascent past films like The Conjuring at 320.4 million dollars, Annabelle: Creation at 306.6 million dollars, and The Nun II at 269.6 million dollars, one major obstacle remains.",
+          "The feature still sits some distance behind the absolute highest-grossing entry in that rival franchise, The Conjuring: Last Rites, which holds a commanding global haul of 499.2 million dollars."
+        ]
+      },
+      {
+        "h": "Plot and Release Background",
+        "p": [
+          "Directed by Zach Cregger, the narrative centers on an unfortunate courier tasked with delivering a package to an isolated hospital. The protagonist soon finds himself trapped inside a terrifying outbreak scenario.",
+          "To stay alive, he is forced to fight off hordes of mutated creatures. The film originally debuted in theaters on September 19."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Zach Cregger's Resident Evil reboot has crossed 416.4 million dollars globally, outperforming numerous major horror films including The Nun and The Conjuring 2. While it trails the top-grossing Conjuring: Last Rites, the September 19 release continues to assert its strong box office dominance."
+        ]
+      }
+    ],
+    "facts": [
+      "Resident Evil collected $50k on its 9th Tuesday/discount day at the North American box office",
+      "The North American box office collection for Resident Evil is $160.8 million",
+      "Resident Evil was screened in 421 screens in the home market",
+      "The international total for Resident Evil is $255.6 million",
+      "The worldwide collection of Resident Evil crossed the $416.4 million mark",
+      "The Nun grossed $366.08 million worldwide",
+      "The Conjuring 2 grossed $322.8 million worldwide",
+      "The Conjuring: Last Rites grossed $499.2 million worldwide",
+      "The Conjuring grossed $320.4 million worldwide",
+      "Annabelle: Creation grossed $306.6 million worldwide",
+      "The Nun II grossed $269.6 million worldwide",
+      "Annabelle grossed $257.04 million worldwide",
+      "Annabelle Comes Home grossed $231.25 million worldwide",
+      "The Conjuring: The Devil Made Me Do It grossed $206.4 million worldwide",
+      "The Curse of La Llorona grossed $123.2 million worldwide",
+      "Resident Evil was released on September 19"
+    ],
+    "entities": {
+      "people": [
+        "Zach Cregger"
+      ],
+      "titles": [
+        "Resident Evil",
+        "The Conjuring",
+        "The Conjuring 2",
+        "The Conjuring: Last Rites",
+        "The Nun",
+        "Annabelle: Creation",
+        "The Nun II",
+        "Annabelle",
+        "Annabelle Comes Home",
+        "The Conjuring: The Devil Made Me Do It",
+        "The Curse of La Llorona"
+      ]
+    },
+    "keywords": [
+      "Resident Evil worldwide box office",
+      "Zach Cregger Resident Evil",
+      "Resident Evil movie box office collection",
+      "Resident Evil vs Conjuring Universe"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/resident-evil-box-office.jpg",
+        "caption": "Resident Evil Worldwide Box Office: Horror Reboot Overtakes Major Franchise Hits",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 19:15:42 +0000"
+  },
+  "q3sr0w": {
+    "id": "q3sr0w",
+    "type": "news",
+    "headline": "Fans Slam Ice Age 6 Trailer Over Abysmal Animation Quality",
+    "dek": "The newly released trailer for Disney's Ice Age 6: Boiling Point has sparked severe backlash from fans on social media over its controversial visual style.",
+    "body": [
+      {
+        "h": "Trailer Release Triggers Backlash",
+        "p": [
+          "Disney recently dropped the first trailer for its upcoming animated feature, giving audiences a fresh look at the returning prehistoric herd. However, rather than generating excitement, the promotional footage drew immediate criticism across social media platforms regarding its overall visual execution.",
+          "Viewers quickly flooded digital spaces to voice their discontent, with many pointing out specific aesthetic choices that felt jarring. The negative response highlights a sharp disconnect between viewer expectations and the studio's stylistic choices for the long-running franchise."
+        ]
+      },
+      {
+        "h": "Social Media Outcry Over Visuals",
+        "p": [
+          "Disappointed fans took to X to share their grievances about the artistic direction. One user described the animation as abysmal, while another complained that the overall look felt excessively goofy and unappealing.",
+          "Other commentators questioned whether the project utilized an entirely unfamiliar artistic approach, noting that the final product appeared surprisingly inexpensive. Several viewers remarked that the quality felt more suited for a streaming platform release rather than a major theatrical outing."
+        ]
+      },
+      {
+        "h": "Comparisons to Previous Projects",
+        "p": [
+          "The ongoing conversation quickly shifted toward the creative lineage of the new picture. Observers noted distinct visual similarities between the upcoming footage and a previous franchise spinoff released on Disney+.",
+          "Audience members pointed out that both projects share an underlying aesthetic, leading to frustration among supporters who anticipated the premium production values traditionally associated with the studio's cinematic releases."
+        ]
+      },
+      {
+        "h": "Studio and Crew Connections",
+        "p": [
+          "The scrutiny also highlighted the specific entities tasked with bringing the project to life. Social media users recognized that Bardel Entertainment handled the production duties for both the controversial spinoff and the current installment.",
+          "Additionally, the film is directed by John C. Donkin, who previously served as a long-time producer for the beloved franchise, bringing a familiar creative voice to the director's chair despite the shifting animation styles."
+        ]
+      },
+      {
+        "h": "The Legacy of Blue Sky Studios",
+        "p": [
+          "Much of the fan discontent is underscored by nostalgia for the origins of the series. Blue Sky Studios served as the original creative house behind the property before shutting down following a major corporate acquisition.",
+          "The closure of the foundational studio left a lasting impact on longtime followers, who frequently compare modern installments against the distinct visual identity established by the original creators."
+        ]
+      },
+      {
+        "h": "Plot and Release Details",
+        "p": [
+          "Despite the ongoing visual controversy, the narrative promises an ambitious prehistoric journey. The story follows the familiar herd as they explore uncharted regions filled with lava and dinosaurs in a dangerous Lost World.",
+          "Audiences won't have to wait much longer to experience the full adventure on the big screen, as the movie is officially scheduled to land in theaters on February 5, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The release of the trailer for Ice Age 6: Boiling Point sparked widespread backlash from fans on X over its criticized animation style and visual quality. Viewers connected the new aesthetic to Bardel Entertainment and noted the absence of the franchise's original creators, even as the film prepares for its theatrical debut on February 5, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Ice Age 6: Boiling Point is scheduled to be released in theaters on February 5, 2027.",
+      "The film is directed by John C. Donkin.",
+      "Bardel Entertainment produced both Ice Age 6: Boiling Point and The Ice Age Adventures of Buck Wild.",
+      "Blue Sky Studios shut down in 2021 following Disney’s acquisition of 21st Century Fox."
+    ],
+    "entities": {
+      "people": [
+        "Christie D'Silva",
+        "John C. Donkin"
+      ],
+      "titles": [
+        "Ice Age 6: Boiling Point",
+        "The Ice Age Adventures of Buck Wild",
+        "Ice Age"
+      ]
+    },
+    "keywords": [
+      "Ice Age 6 Boiling Point",
+      "Ice Age 6 trailer animation",
+      "John C Donkin Ice Age 6",
+      "Bardel Entertainment Ice Age"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/12_2e1699.jpg?resize=1200,630",
+        "caption": "Fans Slam Ice Age 6 Trailer Over Abysmal Animation Quality",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 19:44:11 +0000"
   }
 };
