@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T07:05:21Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 407,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Tabu joins Tunnel Men, YRF Entertainment's Netflix series inspired by the spirit of the 2023 Uttarakhand tunnel rescue",
-      "IFFI 2026 FULL schedule REVEALED: Panchayat Season 5, Netflix's Pushpak Vimaan to premiere; Dhurandhar team to face audience questions; Hollywood cult classic Back To The Future to be screened on Goa's beaches",
-      "SCOOP: Ramayana's BLOCKBUSTER run creates IMAX show-sharing hurdles for Godzilla Minus Zero; The Hunger Games may skip IMAX release",
-      "BREAKING: Yeh Prem Mol Liya is a RARE Sooraj Barjatya film to get U/A rating; is the third longest film of the blockbuster director",
-      "Panchayat 5 Release Date Announced: When Will Panchayat Season 5 Premiere On Prime Video? Confirmed Update",
-      "Dancing With The Stars 35 Finalists: WHO Made It To The Top 5? WHO Went Home After The Semi-Finals?",
-      "Bigg Boss 20 Opening Voting Trends Week 11: Who Is At What Position In Voting So Far? Check UPDATE",
-      "'Ramayana': G. Aravindan's 'Kanchana Sita', The Malayalam Film That Reimagined The Epic Without Sita On Screen",
-      "Alia Bhatt, Karan Aujla & 'Kabhi Cheeni, Kabhi Gham': SORRY SUGAR CEO's Bollywood Dream- EXCLUSIVE",
-      "Akshay Oberoi Wraps Up Prakash Jha's Aashram 4; Opens Up About The Experience, Saying 'He Has A Unique...'",
-      "Ramayana Advance Booking Collection Day 14: Ranbir-Yash’s Film Crosses 490cr From Presales In 2 Weeks",
-      "Bouma Box Office Day 6: Malayalam Horror Thriller Hits 100% Budget Recovery – 11th Mollywood Film Of 2026 To Claim Success Verdict!",
-      "Ebenezer North America Box Office: How Far Is Johnny Depp’s Comeback Film From Entering His Top 10 Highest Grossers?",
-      "Avengers: Doomsday Box Office Advance Booking India: Sells 1 Lakh Tickets In Less Than 24 Hours, Eyes Hollywood’s Biggest Opening In India",
-      "Maatrubhumi Box Office Day 1: Highest Tiger 3’s 44.5 Crore To Antim’s Lowest 5 Crore – Where Will It Land In the Last 10 Openers Of Salman Khan?",
-      "Ramayana Box Office Day 14 Advance Booking: Kerala, Karnataka, Delhi, Maharashtra – Neck-to-Neck With 1+ Crore Pre-Sales For 2nd Wednesday",
-      "Golmaal 5 Storyline Revealed: Ajay Devgn's Gang to Protect a Young Girl From Akshay Kumar",
-      "From 2.0 to Scene: 7 Tamil Films That Earned Over 50% of Their India Gross Outside Tamil Nadu and Redefined Box Office Success",
-      "After Dhurandhar Duology, Ranveer Singh Set to Reunite With Aditya Dhar for His Next; Set for 2028 Release",
-      "When Allu Arjun revealed he struggled to get film offers due to his looks"
-     ],
-     "updated": [],
-     "count": 390,
-     "detail": "395 stories, 2 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-18T07:51:06Z",
     "run_id": "44262021648",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "333 stories, 2 duplicates removed, 7 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T07:05:49Z",
-    "run_id": "44254319667",
+    "run_at": "2026-11-19T06:51:51Z",
+    "run_id": "44475120634",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 292,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
-      "Lord of the Rings: Ascension Tabletop Game Officially Announced",
-      "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
-      "Panchayat Season 5 Gets Official December Release Date on Prime Video"
+      "Ankita Lokhande On Bigg Boss Journey, Insecurities With Vicky Jain On Double Date: Pehle Ladai Hoti...",
+      "Samaira Sandhu Stuns in a Series of Glamorous Looks; Fans Eager to See Her On Big Screen",
+      "Bigg Boss 20: Gullu Mania To Take Over Gurgaon! Team Gullu and Fans Call For Massive Rally To Show His Support",
+      "Gunmaaster G9 Title Track Out: Emraan Hashmi’s Film Gives Bappi Lahiri’s Classic A Fresh Twist",
+      "Salman Khan's Maatrubhumi Finally Gets U/A 16+ Censor Clearance After Months of Delays Ahead of December 4 Release",
+      "Avengers: Doomsday Set for Biggest Opening Day in India for Hollywood as 100 Crore Gross Comes Into Sight",
+      "'Dulquer Salmaan ready to act with Mammootty'",
+      "Guitarist John Christ passes away at 61",
+      "In 2008, 50 Cent helped reopen a Queens community garden with rainwater-collection features; the space still bears his name",
+      "International Men's Day| Garrett Graham to Keenu and Rory, the green flags on our screens in 2026",
+      "Is Yeh Prem Mol Liya a copy of Rocky Aur Rani? Ayushmann dismisses comparisons",
+      "Salman Khan's Maatrubhumi finally gets censor nod, awarded UA 16+ without cuts",
+      "Tamil cinema's Rs 1,000-crore dream: Why even Rajinikanth's Jailer 2 fell short",
+      "Emraan Hashmi’s Gunmaaster G9 Title Track Out! Bappi Lahiri’s Iconic Music Gets A Fresh Spin- Watch",
+      "EXCLUSIVE: Jackie Shroff Suffered Cuts While Performing Risky Sequence; Kaali Kheti Director Haris Imtiyaz Khan Spill The Beans",
+      "Beloved Unscripted Netflix Series Renewed for Season 2 as Franchise Expands",
+      "Food Network’s Bobby Flay Faces Explosive Claims From Fellow TV Chef Over 35-Year History",
+      "Chicago PD Fall Finale Trailer Teases Major Reckoning for Voight",
+      "All 8 Episodes Of HBO's 'Modern Sopranos' Masterpiece Are Perfect From Start To Finish",
+      "2 Months After GTA 6, Prime Video Drops The Closest Thing To Its Live-Action Series"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 280,
+     "detail": "285 stories, 0 duplicates removed, 7 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,27 +1464,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-19T06:53:55Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Emraan Hashmi's Gunmaaster G9 Title Track Out! Bappi Lahiri’s Iconic Music Gets A Fresh Spin",
+      "Iconic Raichand Mansion From Kabhi Khushi Kabhie Gham Recreated for Airbnb Experience",
+      "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
+      "Chicago PD Fall Finale Trailer Teases Major Reckoning for Voight"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-18T07:05:49Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 367, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,31 +1903,27 @@
      "detail": "now 372, coming 8"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-19T06:53:55Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 389,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 381, coming 8"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-18T07:19:10Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "9osenp",
-      "1d0uyzi",
-      "p5d6en",
-      "ddarhf"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2402,27 +2380,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-19T07:13:10Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "p0ppvw",
+      "xfoonf",
+      "ltv81g"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T07:19:07Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 707,
-     "detail": "664 collected staging rows from readers; 233 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2836,19 +2817,27 @@
      "detail": "+0 new rows, 3 updated rows, 689 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T07:12:34Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 715,
+     "detail": "667 collected staging rows from readers; 241 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 689 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3085,32 +3074,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-18T07:19:10Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
-      "Lord of the Rings: Ascension Tabletop Game Officially Announced",
-      "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
-      "Panchayat Season 5 Gets Official December Release Date on Prime Video"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3641,19 +3617,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-19T07:13:09Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Emraan Hashmi's Gunmaaster G9 Title Track Out! Bappi Lahiri’s Iconic Music Gets A Fresh Spin",
+      "Iconic Raichand Mansion From Kabhi Khushi Kabhie Gham Recreated for Airbnb Experience",
+      "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
+      "Chicago PD Fall Finale Trailer Teases Major Reckoning for Voight"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3883,19 +3872,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4217,31 +4206,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-18T07:05:49Z",
-    "run_id": "44254319667",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T06:52:38Z",
+    "run_id": "44475120634",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 390 still unprocessed; today by category: movies 4/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 0/3, awards 2/2, music_ost 0/2, viral 1/2"
+     "candidates": 515,
+     "sources": {
+      "trending": 19,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 39,
+      "pk_movies": 17
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Tabu Joins Cast of YRF Entertainment Series Tunnel Men on Netflix",
-      "Lord of the Rings: Ascension Tabletop Game Officially Announced",
-      "Shashaank Khaitaan Announces Revenge Love Story Aisi Deewangi Dekhi Nahi Kahin Starring Newcomers Subhaan and Airah",
-      "Panchayat Season 5 Gets Official December Release Date on Prime Video"
+      "Lo Chudail Chali Sasural (338656)",
+      "Waiting Room (1827895)",
+      "Agnes & Amir (1185542)",
+      "The Law of Beasts (332839)",
+      "Hail Mary (1704200)",
+      "Ohikiitävää (1827442)",
+      "Josephine (1299329)",
+      "Herdeiros da Cota (1826721)",
+      "The Body in the Locker (1584779)",
+      "SACRIFICIO (1826173)",
+      "Inherit (1480276)",
+      "Suuri rullakebab välikohtaus (1825074)",
+      "Hamka: Awal Mula Vol. 3 (1103760)",
+      "APESTOR (1824818)",
+      "The Fire Within You (1632188)",
+      "Bruleferum (1822719)",
+      "Insomnia (1819266)",
+      "Rondolino Docet (1818583)",
+      "Because You're Mine (1814123)",
+      "La Boca (1810976)"
      ],
      "updated": [],
-     "count": 4
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4744,26 +4767,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-19T06:53:54Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 280 still unprocessed; today by category: movies 6/6, tv_dramas 6/4, episodes 1/2, box_office 6/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Emraan Hashmi's Gunmaaster G9 Title Track Out! Bappi Lahiri’s Iconic Music Gets A Fresh Spin",
+      "Iconic Raichand Mansion From Kabhi Khushi Kabhie Gham Recreated for Airbnb Experience",
+      "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
+      "Chicago PD Fall Finale Trailer Teases Major Reckoning for Voight"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-18T07:07:15Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": {
-     "candidates": 54,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5070,24 +5098,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-19T06:55:13Z",
+    "run_id": "44475120634",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 54,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 398,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5347,24 +5377,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 382,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5654,19 +5684,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 29,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5916,19 +5951,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 81,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6163,19 +6203,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "metadata_refresh": [
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6461,19 +6506,73 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T06:53:14Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 50,
+     "valid": 50,
+     "failed": 0,
+     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Bachelor Party D'eux (1533928)",
+      "ENE Repeat (1505644)",
+      "This is Why (1823156)",
+      "Marseille, la révolution Tapie (1822084)",
+      "Sinister (1821218)",
+      "Pishtaco (1820552)",
+      "The Mad Pooper (1820305)",
+      "One Minute (1815821)",
+      "Too Old Not To (1815426)",
+      "La Fábrica (1815076)",
+      "The Search for Milliseconds (1814498)",
+      "Michael Michael Michael (1813770)",
+      "Todo lo que me pasa sucede en otro lugar (1812714)",
+      "My Ride or Die (1812462)",
+      "Migrantes: el viaje que nadie quiso emprender (1812110)",
+      "MiLakóta Yeló (1811945)",
+      "The Great Lake Bums (1810033)",
+      "Dark Noon (1809505)",
+      "Formline (1808463)",
+      "Back By Tea Time (1807161)",
+      "The Ride Home (1806640)",
+      "No Strings Attached (1806606)",
+      "The Squirrel Diaries (1806595)",
+      "Love in a Hopeless Place (1806583)",
+      "Angler (1806580)",
+      "Date Night (1806543)",
+      "Paper Tiger (1381273)",
+      "The Hunger Games: Sunrise on the Reaping (1300968)",
+      "V. Shantaram (1590846)",
+      "A Primeira Vez A Gente Nunca Esquece (1821412)",
+      "Gregor Samsa No Século XXI (1821378)",
+      "Where the Air Tastes Like the Sea (1816178)",
+      "The First Five Minutes... The Title Design Legacy of Dan Perri (1815534)",
+      "Precipicio (1814908)",
+      "Ouragan Hugo, l'épreuve du vent (1812796)",
+      "Moth Wood (1812211)",
+      "LIM YOUNG WOONG | IM HERO THE STADIUM 2 (1809304)",
+      "Wild Eyes: The Woman of the Prince (1809258)",
+      "TechnoChimères (1801528)",
+      "Mangabangabaka (1796426)",
+      "Princess (1790569)",
+      "sad pride generation (1782916)",
+      "Tu ne jugeras point (1782610)",
+      "Gomorrah (1766051)"
+     ],
+     "count": 44
+    },
+    "reason": null
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6714,19 +6813,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6956,19 +7055,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7221,30 +7320,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-17T05:53:31Z",
-    "run_id": "44026894548",
-    "status": "success",
-    "checked": {
-     "candidates": 568,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 555"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7732,19 +7820,30 @@
      "count": 14
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-19T06:54:14Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": {
+     "candidates": 577,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 564"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7984,19 +8083,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 232,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-18T07:19:18Z",
-    "run_id": "44254319667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8226,8 +8330,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-19T07:13:20Z",
+    "run_id": "44475120634",
+    "status": "failed",
+    "checked": null,
+    "changed": null,
+    "reason": "error"
    }
   ]
  },
- "updated_at": "2026-11-19T05:52:43Z"
+ "updated_at": "2026-11-19T07:13:20Z"
 }

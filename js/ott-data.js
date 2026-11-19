@@ -70,7 +70,7 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
+      "country": "BR",
       "date": "2026-12-08",
       "date_kind": "digital",
       "id": 1400940,
@@ -92,6 +92,83 @@ window.FA_OTT = {
       "date": "2026-11-19",
       "date_kind": "digital",
       "id": 1561834,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-19",
+      "date_kind": "release",
+      "id": 1584779,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1810033,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1822084,
+      "providers": [
+        {
+          "logo_path": "/w6Y6X8RIm2XolW7clhqf3VFsn5z.png",
+          "name": "CANAL+"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "RU",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1823156,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1813770,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "AU",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1766051,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-18",
+      "date_kind": "digital",
+      "id": 1812796,
       "providers": [],
       "type": "movie"
     },
@@ -3420,6 +3497,19 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "CA",
+      "date": "2026-04-21",
+      "date_kind": "digital",
+      "id": 1814498,
+      "providers": [
+        {
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-04-17",
       "date_kind": "release",
       "id": 1239134,
@@ -3547,6 +3637,19 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-02-26",
+      "date_kind": "digital",
+      "id": 1807161,
+      "providers": [
+        {
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
         }
       ],
       "type": "movie"

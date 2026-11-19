@@ -14900,8 +14900,8 @@ window.FA_PUBLISHED = {
     "title": "The Hunger Games: Sunrise on the Reaping",
     "poster_path": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-    "vote_average": 8.3,
-    "vote_count": 19,
+    "vote_average": 7.5,
+    "vote_count": 37,
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "industry": "world",
     "original_language": "en",
@@ -14920,7 +14920,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 122.6519
+    "popularity": 172.8994
   },
   "1244523": {
     "id": 1244523,
@@ -24200,7 +24200,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.7193
+    "popularity": 0.784
   },
   "1821412": {
     "id": 1821412,
@@ -24225,7 +24225,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.3913
+    "popularity": 0.2654
   },
   "1379486": {
     "id": 1379486,
@@ -24280,7 +24280,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.1668
+    "popularity": 0.1449
   },
   "1131943": {
     "id": 1131943,
@@ -24330,7 +24330,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.3332
+    "popularity": 0.3339
   },
   "1193614": {
     "id": 1193614,
@@ -24382,7 +24382,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 2.1248
+    "popularity": 2.133
   },
   "1814908": {
     "id": 1814908,
@@ -24407,7 +24407,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.2887
+    "popularity": 0.2519
   },
   "1812796": {
     "id": 1812796,
@@ -24434,7 +24434,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.4205
+    "popularity": 0.3463
   },
   "1812211": {
     "id": 1812211,
@@ -24459,7 +24459,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.2331
+    "popularity": 0.4605
   },
   "1809304": {
     "id": 1809304,
@@ -24486,7 +24486,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.356
+    "popularity": 0.3592
   },
   "1809258": {
     "id": 1809258,
@@ -24513,7 +24513,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.7687
+    "popularity": 0.7327
   },
   "1801528": {
     "id": 1801528,
@@ -24540,7 +24540,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.3115
+    "popularity": 0.3097
   },
   "1796426": {
     "id": 1796426,
@@ -24569,7 +24569,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.3194
+    "popularity": 0.264
   },
   "1790569": {
     "id": 1790569,
@@ -24601,7 +24601,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.3245
+    "popularity": 0.3222
   },
   "1782916": {
     "id": 1782916,
@@ -24628,7 +24628,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.3395
+    "popularity": 0.2911
   },
   "1782610": {
     "id": 1782610,
@@ -24655,7 +24655,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.7284
+    "popularity": 0.7483
   },
   "1774577": {
     "id": 1774577,
@@ -24705,7 +24705,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-18",
-    "popularity": 0.184
+    "popularity": 0.1637
   },
   "1559980": {
     "id": 1559980,
@@ -25251,11 +25251,11 @@ window.FA_PUBLISHED = {
     "id": 1533928,
     "type": "movie",
     "title": "Bachelor Party D'eux",
-    "poster_path": "/jwcM2ESEQXCZQHuLV0BmSuA7Q62.jpg",
-    "backdrop_path": "/5fnZe4ZoTyKTZnwHwn0fHW9s4uV.jpg",
+    "poster_path": "/l6vgYddcWa76ZnRmVBLEwXfbMiu.jpg",
+    "backdrop_path": "/rJMxmbqJhPFrTTJW8idTcqCNNV7.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "When urban chaos erupts around them, a band of honour-bound thieves must pull off a dangerous escape together, refusing to abandon each other despite deadly obstacles in their path.",
     "industry": "bollywood",
     "original_language": "ml",
     "origin_country": [
@@ -25269,20 +25269,20 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 2.4695
+    "popularity": 3.7281
   },
   "1505644": {
     "id": 1505644,
     "type": "movie",
     "title": "ENE Repeat",
-    "poster_path": "/yVIJDYaLHEheY1A3ofd0fBCOPHu.jpg",
+    "poster_path": "/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
     "backdrop_path": "/ygh5XRm9EmEUsBpBPNHnVGmxcSl.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
+    "overview": "Vivek and his gang of friends embark on an attempt to create an ambitious survival film.",
     "industry": "bollywood",
     "original_language": "te",
     "origin_country": [
@@ -25296,10 +25296,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 1.7864
+    "popularity": 3.3294
   },
   "1823156": {
     "id": 1823156,
@@ -25307,8 +25307,8 @@ window.FA_PUBLISHED = {
     "title": "This is Why",
     "poster_path": "/xuwwswz9IVe5NofMe5MYl7AqM30.jpg",
     "backdrop_path": "/dGvrdiUA8bG96XYyrzDkQCr5s9h.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 8.0,
+    "vote_count": 1,
     "overview": "During a depressive period one night, a guy discovers a ghost in his room.",
     "industry": "world",
     "original_language": "ru",
@@ -25323,10 +25323,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.097
+    "popularity": 0.2043
   },
   "1466007": {
     "id": 1466007,
@@ -25404,10 +25404,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1886
+    "popularity": 0.4397
   },
   "1616687": {
     "id": 1616687,
@@ -25465,10 +25465,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.2213
+    "popularity": 0.348
   },
   "1518204": {
     "id": 1518204,
@@ -25524,10 +25524,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.2572
+    "popularity": 0.3122
   },
   "1820172": {
     "id": 1820172,
@@ -25579,10 +25579,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.3111
+    "popularity": 0.4819
   },
   "1522071": {
     "id": 1522071,
@@ -25637,10 +25637,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1225
+    "popularity": 0.1415
   },
   "1815426": {
     "id": 1815426,
@@ -25662,10 +25662,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.0754
+    "popularity": 0.2815
   },
   "1815076": {
     "id": 1815076,
@@ -25690,10 +25690,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.7203
+    "popularity": 0.4191
   },
   "1814498": {
     "id": 1814498,
@@ -25718,13 +25718,13 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.3647
+    "popularity": 0.26
   },
   "1813770": {
     "id": 1813770,
     "type": "movie",
     "title": "Michael Michael Michael",
-    "poster_path": "/4nuWuphbD06esUP2L2WtfXAllsQ.jpg",
+    "poster_path": "/tmFtB4yJc8Db9nErLdlQY62rBFE.jpg",
     "backdrop_path": "/s4dmTJWB1Uf7KFiVx2UnPlREDQz.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -25740,10 +25740,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1246
+    "popularity": 0.2001
   },
   "1812714": {
     "id": 1812714,
@@ -25763,10 +25763,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.4456
+    "popularity": 0.3584
   },
   "1757174": {
     "id": 1757174,
@@ -25859,10 +25859,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1344
+    "popularity": 0.25
   },
   "1664682": {
     "id": 1664682,
@@ -25953,10 +25953,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.2606
+    "popularity": 0.5407
   },
   "1736905": {
     "id": 1736905,
@@ -26029,10 +26029,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.0493
+    "popularity": 0.0894
   },
   "1666787": {
     "id": 1666787,
@@ -26088,10 +26088,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.5623
+    "popularity": 0.6509
   },
   "1809505": {
     "id": 1809505,
@@ -26113,10 +26113,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 1.563
+    "popularity": 1.212
   },
   "1808463": {
     "id": 1808463,
@@ -26138,10 +26138,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1448
+    "popularity": 0.0263
   },
   "1807161": {
     "id": 1807161,
@@ -26168,7 +26168,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1758
+    "popularity": 0.147
   },
   "1806640": {
     "id": 1806640,
@@ -26192,10 +26192,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.2106
+    "popularity": 0.1909
   },
   "1806606": {
     "id": 1806606,
@@ -26219,10 +26219,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.2326
+    "popularity": 0.1648
   },
   "1806595": {
     "id": 1806595,
@@ -26246,10 +26246,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.0909
+    "popularity": 0.1279
   },
   "1806583": {
     "id": 1806583,
@@ -26273,10 +26273,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.8541
+    "popularity": 0.8474
   },
   "1806580": {
     "id": 1806580,
@@ -26300,10 +26300,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.1007
+    "popularity": 0.1049
   },
   "1806543": {
     "id": 1806543,
@@ -26327,10 +26327,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-19",
-    "popularity": 0.8813
+    "popularity": 0.2132
   },
   "1534851": {
     "id": 1534851,
@@ -26525,9 +26525,9 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Paper Tiger",
     "poster_path": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-    "backdrop_path": "/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
-    "vote_average": 6.0,
-    "vote_count": 1,
+    "backdrop_path": "/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
+    "vote_average": 8.0,
+    "vote_count": 2,
     "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "industry": "world",
     "original_language": "en",
@@ -26550,8 +26550,8 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "status": "Released",
     "providers": [],
-    "release_date": "2026-11-19",
-    "popularity": 8.1934
+    "release_date": "2026-11-27",
+    "popularity": 33.0063
   },
   "1522938": {
     "id": 1522938,
@@ -32741,5 +32741,555 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-25",
     "popularity": 0.3597
+  },
+  "338656": {
+    "id": 338656,
+    "type": "tv",
+    "title": "Lo Chudail Chali Sasural",
+    "poster_path": "/i7sliUK1jQkM2PvwvTjYlBaoZ69.jpg",
+    "backdrop_path": "/n3j0Sh2sVALIhvF4IvJZ07ZP2Nn.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Urvashi, a chudail longing for a human family, marries Aarav Patel and joins his lively Gujarati joint family. As her magic causes hilarious mishaps, Aarav struggles to protect her secret while her human-hating mother Kamini fuels the chaos. Amid magical mayhem, and family drama, love finds a way.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-19",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-18",
+    "popularity": 1.7483
+  },
+  "1827895": {
+    "id": 1827895,
+    "type": "movie",
+    "title": "Waiting Room",
+    "poster_path": "/yNTckKnb2fon5zgFi2esmuxkf4l.jpg",
+    "backdrop_path": "/v5FPdQDmyr8vTn8BXhQvk8b0rui.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lu, a young hypochondriac, wears a cast that no longer serves his body. Isolated in a suffocating routine, he waits for something to break the endless repetition of his days. An unexpected impulse forces him to confront what he fears most: the risk of breaking again.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "PY"
+    ],
+    "production_countries": [
+      "PY"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.311
+  },
+  "1185542": {
+    "id": 1185542,
+    "type": "movie",
+    "title": "Agnes & Amir",
+    "poster_path": "/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
+    "backdrop_path": "/fz82F00MCoJ2cQJBdDCe1riFUQF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Amir is 28, gay and has just fled from Iran. Agnes is 101 and still too young for a retirement home - she thinks. The two move in together - and save each other's lives.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 5.698
+  },
+  "332839": {
+    "id": 332839,
+    "type": "tv",
+    "title": "The Law of Beasts",
+    "poster_path": "/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+    "backdrop_path": "/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+    "vote_average": 7.2,
+    "vote_count": 3,
+    "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+    "industry": "world",
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "production_countries": [
+      "PL"
+    ],
+    "spoken_languages": [
+      "pl"
+    ],
+    "published_at": "2026-11-19",
+    "status": "Ended",
+    "providers": [],
+    "first_air_date": "2026-11-18",
+    "popularity": 23.3066
+  },
+  "1704200": {
+    "id": 1704200,
+    "type": "movie",
+    "title": "Hail Mary",
+    "poster_path": "/3AwDx1ltLo7ueIe625XyfBeVuu1.jpg",
+    "backdrop_path": "/79U66ITUw5N0mbJ6v7s1BntJsv5.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.9529
+  },
+  "1827442": {
+    "id": 1827442,
+    "type": "movie",
+    "title": "Ohikiitävää",
+    "poster_path": "/lp3xvhVSizfmSPTd5Pft00XYfbJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young woman starts following a mysterious elderly woman. The journey turns into a dreamlike passage  through life towards the unknown.",
+    "industry": "world",
+    "original_language": "xx",
+    "origin_country": [
+      "FI"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.1182
+  },
+  "1299329": {
+    "id": 1299329,
+    "type": "movie",
+    "title": "Josephine",
+    "poster_path": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
+    "backdrop_path": "/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After eight-year-old Josephine accidentally witnesses a brutal assault, she begins acting out violently to protect herself. This emotional trauma leads to conflicts between her parents as they search for justice and a way to feel safe again.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 12.7474
+  },
+  "1826721": {
+    "id": 1826721,
+    "type": "movie",
+    "title": "Herdeiros da Cota",
+    "poster_path": "/vB41hQAU8sUwcgHfnc3BzXDG0Gz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt",
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.5643
+  },
+  "1584779": {
+    "id": 1584779,
+    "type": "movie",
+    "title": "The Body in the Locker",
+    "poster_path": "/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+    "backdrop_path": "/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When Amy, the CEO of a major charity, loses her father, she's shocked to discover he owned a mysterious storage locker with a deadly secret inside - the body of a woman. Was her father a murderer? Who was this woman?",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Netflix Standard with Ads",
+        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-19",
+    "popularity": 2.5495
+  },
+  "1826173": {
+    "id": 1826173,
+    "type": "movie",
+    "title": "SACRIFICIO",
+    "poster_path": "/7ax5Nu2iuN6KVAt6fWit1hclPv6.jpg",
+    "backdrop_path": "/1vb6lCoadY0xtxVLyAH6cu1k7dl.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "HN"
+    ],
+    "production_countries": [
+      "HN"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2207
+  },
+  "1480276": {
+    "id": 1480276,
+    "type": "movie",
+    "title": "Inherit",
+    "poster_path": "/nM0pESYpH0xGOBcCTzt5pXtZ4CB.jpg",
+    "backdrop_path": "/hLVFiEzMDsYk6CW5kpPE1T7f4WL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows a wealthy family whose polished exterior begins to crack when an ancient centipede spirit infiltrates their bloodline.",
+    "industry": "world",
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 2.3098
+  },
+  "1825074": {
+    "id": 1825074,
+    "type": "movie",
+    "title": "Suuri rullakebab välikohtaus",
+    "poster_path": "/nE3U4IzCVklJbOhGXgrQrFI6899.jpg",
+    "backdrop_path": "/8gFHBYrBn09v6bSfHwE1IiXeU7P.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A group of friends stop for a late night snack, but a fateful kebab roll changes everything. Based on true events.",
+    "industry": "world",
+    "original_language": "fi",
+    "origin_country": [
+      "FI"
+    ],
+    "production_countries": [
+      "FI"
+    ],
+    "spoken_languages": [
+      "fi"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.1693
+  },
+  "1103760": {
+    "id": 1103760,
+    "type": "movie",
+    "title": "Hamka: Awal Mula Vol. 3",
+    "poster_path": "/qj8Z3NALhDKQFvLIuawOFbb9YGs.jpg",
+    "backdrop_path": "/xxcARyeROB3r4W79Nd9ODicEZoD.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Set against the backdrop of West Sumatra, a passionate young rebel clashes with his strict scholar father, prompting a self-funded pilgrimage to Mecca where he discovers his destiny to reform Indonesian Islam and finds the love of his life.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id",
+      "ms",
+      "ar"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 1.7233
+  },
+  "1824818": {
+    "id": 1824818,
+    "type": "movie",
+    "title": "APESTOR",
+    "poster_path": "/mO81ZUZWAnRLlGaZADRZ11vhrzi.jpg",
+    "backdrop_path": "/4BbbEz2KSaDnKkygDho0uy9wzfi.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.0575
+  },
+  "1632188": {
+    "id": 1632188,
+    "type": "movie",
+    "title": "The Fire Within You",
+    "poster_path": "/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
+    "backdrop_path": "/ArRgIhvBRwHjVNYUh7acGpAaf1z.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Antonio, who fled Naples many years ago, has built a family and a successful career in Milan, far from his mother Angela — a woman excessive in both her virtues and her flaws, irresistible, old-fashioned and hostile like few others — who has come to visit for Christmas and seems determined to stay.  Christmas Eve dinner becomes an emotional battlefield, at once comic and fierce, bringing to the surface a past of impositions and misunderstandings. With a stubborn capon that refuses to end up in the pot, a daughter whose arrival remains uncertain, and an unexpected distinguished guest, the evening turns into a reckoning between mother and son destined to change the meaning of their bond forever: a love that burns like a fire within, one that never dies out — not even by leaving.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-19",
+    "popularity": 1.7279
+  },
+  "1822719": {
+    "id": 1822719,
+    "type": "movie",
+    "title": "Bruleferum",
+    "poster_path": "/r0puUW7ibI0FHCKcrxPqXcYL5lX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Julia Pérez, an ambitious haute couture designer and leader of a satanic cult, will stop at nothing in her pursuit of prestige and power. However, when one of her rituals goes awry, a dark presence takes hold of her mansion, unleashing a wave of brutal deaths. Trapped between her desperate thirst for power and the supernatural horror she herself unleashed, Julia will discover that the price of eternal fame is the most painful of hells.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2472
+  },
+  "1819266": {
+    "id": 1819266,
+    "type": "movie",
+    "title": "Insomnia",
+    "poster_path": "/dbdDwc6g58Ja3uU5nDsIqpAxoEA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Struggling with insomnia, Luka begins experiencing strange events after a walk through the forest. As mysterious photographs and a shadowy figure appear to follow him, he struggles to distinguish reality from his own hallucinations. But the truth may be closer than he thinks.",
+    "industry": "world",
+    "original_language": "sr",
+    "origin_country": [
+      "RS"
+    ],
+    "production_countries": [
+      "RS"
+    ],
+    "spoken_languages": [
+      "sr"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.107
+  },
+  "1818583": {
+    "id": 1818583,
+    "type": "movie",
+    "title": "Rondolino Docet",
+    "poster_path": "/9IYE81ViFWgEVVswHQuc0qXFY8Y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.1179
+  },
+  "1814123": {
+    "id": 1814123,
+    "type": "movie",
+    "title": "Because You're Mine",
+    "poster_path": "/uPdqAd86SyLp9nHfTaKfEhGPB4d.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a desperate attempt to find solace, a young man joins a local support group where he meets a stranger whose outward charm masks far darker intentions.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.2859
+  },
+  "1810976": {
+    "id": 1810976,
+    "type": "movie",
+    "title": "La Boca",
+    "poster_path": "/woTp0cjzgdSMZzJ9Vo6LazpRGSF.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Following a historic drop in the water level of the Paraná River, Toli—an 80-year-old fisherman from the La Boca area—sets out to find a treasure buried 60 years ago. Together with a neighbor and a metal-detecting enthusiast, he embarks on a journey on horseback to a remote spot, overgrown with dense brush and reeds, where they begin digging in search of the treasure.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-19",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-26",
+    "popularity": 0.3113
   }
 };

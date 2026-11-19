@@ -188404,5 +188404,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T10:31:20+05:30"
+  },
+  "v95j8w": {
+    "id": "v95j8w",
+    "type": "news",
+    "headline": "Emraan Hashmi's Gunmaaster G9 Title Track Out! Bappi Lahiri’s Iconic Music Gets A Fresh Spin",
+    "dek": "The creators of Gunmaaster G9 have released the title track featuring a revamped composition by the late Bappi Lahiri.",
+    "body": [
+      {
+        "h": "Revamping A Classic",
+        "p": [
+          "The team behind Gunmaaster G9 has introduced a fresh promotional track that dips directly into the archives of Hindi cinema. This newly released title song revisits an original tune crafted by the late legendary composer Bappi Lahiri, giving it a modern sonic makeover while preserving its core nostalgic charm.",
+          "Producers and creative leads noted that the adaptation serves as a heartfelt homage to the composer, designed to introduce his timeless work to younger listeners who might discover the tune for the very first time."
+        ]
+      },
+      {
+        "h": "Origins In Surakksha",
+        "p": [
+          "The newly launched promotional number is rooted in the 1979 spy thriller Surakksha, which was directed by Ravikant Nagaich. The original composition, titled \"Mausam Hai Gaane Ka,\" has now been restructured for contemporary audiences.",
+          "Vikram Montrose took charge of the recreation, handling the music production, sound design, and arrangement. Meanwhile, fresh lyrical verses were written by Bassick, while the original lyrics continue to be credited to Farooq Qaiser."
+        ]
+      },
+      {
+        "h": "Voices Behind The Track",
+        "p": [
+          "The revamped song brings together a diverse lineup of vocalists to bridge the gap between past and present styles. The track features vocals contributed by Bassick, Bappi Lahiri himself, Annette Pinto, and Vikram Montrose.",
+          "Both Bappi Lahiri and Annette Pinto were the original voices behind the vintage composition, and their inclusion in the updated project maintains a direct link to the foundational track from decades ago."
+        ]
+      },
+      {
+        "h": "Director Aditya Datt On The Tribute",
+        "p": [
+          "Director Aditya Datt expressed profound admiration for the legendary musician, stating that Bappi Lahiri's artistic energy is entirely unique and impossible to replicate. He emphasized that the intention behind the new title track was never to compete with or substitute the original piece.",
+          "Instead, the goal was to approach the legacy with utmost humility and offer a fresh interpretation that resonates with current music lovers while respecting the nostalgic weight carried by the classic composition."
+        ]
+      },
+      {
+        "h": "Producer Deepak Mukut's Perspective",
+        "p": [
+          "Producer Deepak Mukut echoed similar sentiments, highlighting the massive contribution Bappi Lahiri made to Hindi cinema throughout his career. He pointed out that these compositions continue to find appreciative audiences across multiple generations.",
+          "Bringing the vintage track into the cinematic universe of the upcoming action film was described as a celebratory act and a humble tribute, with hopes that fans will embrace the new rendition alongside the original."
+        ]
+      },
+      {
+        "h": "Cast, Crew And Release Details",
+        "p": [
+          "The title track is currently available for streaming across platforms via Saregama Music. The film features a prominent star cast including Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh.",
+          "Directed by Aditya Datt and produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir under SRE Studio LLP and Soham Rockstar Entertainment Pvt. Ltd., the action romance is scheduled for a worldwide theatrical premiere on November 27, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of Gunmaaster G9 have released the film's title track, which is a revamped version of an original Bappi Lahiri composition from the 1979 spy thriller Surakksha. Featuring contributions from multiple artists and streaming on Saregama Music, the promotional track serves as a tribute ahead of the movie's theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "The title track revisits an original composition by the late Bappi Lahiri.",
+      "The original track was called \"Mausam Hai Gaane Ka\" from the 1979 spy thriller Surakksha, directed by Ravikant Nagaich.",
+      "The new version is recreated by Vikram Montrose.",
+      "Vocals for the new track are by Bassick, Bappi Lahiri, Annette Pinto, and Montrose.",
+      "Fresh lyrics were penned by Bassick, while original lyrics are credited to Farooq Qaiser.",
+      "The film is directed by Aditya Datt.",
+      "The film is produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir.",
+      "The film stars Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh.",
+      "The action romance is slated for a worldwide theatrical release on November 27, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Bappi Lahiri",
+        "Ravikant Nagaich",
+        "Vikram Montrose",
+        "Bassick",
+        "Annette Pinto",
+        "Farooq Qaiser",
+        "Aditya Datt",
+        "Deepak Mukut",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Hunar Mukut",
+        "Sangeeta Ahir"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Surakksha"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 title track",
+      "Emraan Hashmi Gunmaaster G9",
+      "Bappi Lahiri Gunmaaster G9 music",
+      "Surakksha Mausam Hai Gaane Ka"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Gunmaaster-G9-Title-Track-Out-Makers-Pay-Tribute-To-Bappi-Lahiri-With-A-Fresh-Take.webp",
+        "caption": "Emraan Hashmi's Gunmaaster G9 Title Track Out! Bappi Lahiri’s Iconic Music Gets A Fresh Spin",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 06:43:48 +0000"
+  },
+  "2iyvij": {
+    "id": "2iyvij",
+    "type": "news",
+    "headline": "Iconic Raichand Mansion From Kabhi Khushi Kabhie Gham Recreated for Airbnb Experience",
+    "dek": "Fans of the classic Bollywood film can book a limited-time stay at a recreation of the Raichand family home in Mumbai to celebrate the movie's milestone anniversary.",
+    "body": [
+      {
+        "h": "Celebrating a Silver Milestone",
+        "p": [
+          "In honor of the upcoming 25th anniversary of Karan Johar's monumental film Kabhi Khushi Kabhie Gham, Airbnb is bringing one of the most famous fictional residences in Bollywood history into the physical world. The platform has carefully recreated the lavish Raichand family mansion for an exclusive, limited-time activation situated in Mumbai.",
+          "This unique initiative allows dedicated admirers of the 2001 classic to step straight into the cinematic universe of the film. Visitors can explore meticulously designed replicas of iconic areas from the motion picture, offering a nostalgic journey through a cornerstone of Indian cinema."
+        ]
+      },
+      {
+        "h": "Inside the Raichand Residence Experience",
+        "p": [
+          "Titled 'At Home with the Raichands,' the special two-hour experience gives attendees the chance to wander through memorable zones of the sprawling estate. Guests can walk up the grand staircase, explore the family study, and tour an extravagant closet dedicated to the fashion of the character Poo.",
+          "In addition to walking the halls, visitors will be guided by an immersive audio tour highlighting unforgettable moments from the movie. Attendees can also participate in a character-inspired entry challenge and leave behind a personal note centered on the film's core themes of family and love, receiving a special commemorative keepsake at the end."
+        ]
+      },
+      {
+        "h": "Star-Studded Presentation and Hosting",
+        "p": [
+          "While the three stars attached to the presentation will not be present in person, the activation is proudly presented by filmmaker Karan Johar alongside actors Kareena Kapoor Khan and Hrithik Roshan. Both actors played pivotal roles in the original picture, portraying Rohan Raichand and the fashion-forward Poo, respectively.",
+          "The collaboration brings an authentic touch to the fan event, leveraging the enduring popularity of the characters. Both actors shared their enthusiasm for the project, noting how wonderful it is to see the film continue to resonate deeply with a brand new generation of viewers a quarter-century later."
+        ]
+      },
+      {
+        "h": "Background of a Defining Bollywood Drama",
+        "p": [
+          "Released in December 2001 and frequently referred to as K3G, the movie featured a massive ensemble cast that included cinematic legends Amitabh Bachchan and Jaya Bachchan, alongside superstar Shah Rukh Khan and Kajol. The plot centered around a wealthy Indian family torn apart after a son marries against the wishes of his strict father.",
+          "The family drama quickly cemented itself as a defining cultural touchstone of its era. Its grand production design, memorable musical numbers, and distinct fashion choices continue to influence and entertain younger audiences long after its initial theatrical run."
+        ]
+      },
+      {
+        "h": "Booking Details and Availability",
+        "p": [
+          "Space for the immersive experience is extremely limited, with just 180 total guest spots available across the duration of the event. The activation will officially run from December 1 through December 6 in Mumbai.",
+          "Booking requests are scheduled to open on November 23 at 12 p.m. IST via Airbnb's dedicated K3G page. While the experience itself is free and covers up to two guests per booking, visitors are responsible for arranging and funding their own travel to Mumbai."
+        ]
+      },
+      {
+        "h": "Entertainment and Fan Culture on Airbnb",
+        "p": [
+          "This special event forms a part of Airbnb's ongoing 'Only on Airbnb' program. The initiative increasingly leans into popular entertainment properties and broader fan culture to transform fictional settings into tangible, real-world experiences.",
+          "By merging travel and cinema, these activations offer enthusiasts rare opportunities to interact directly with the media they love. The K3G mansion recreation stands as a prime example of bringing beloved cinematic landmarks to life for passionate global fanbases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Airbnb has recreated the iconic Raichand mansion from the film Kabhi Khushi Kabhie Gham for a limited-time immersive experience in Mumbai celebrating the movie's 25th anniversary. Presented alongside Karan Johar, Kareena Kapoor Khan, and Hrithik Roshan, the free two-hour event will run from December 1 to December 6 with bookings opening on November 23."
+        ]
+      }
+    ],
+    "facts": [
+      "Kabhi Khushi Kabhie Gham was released in December 2001.",
+      "The film celebrates its 25th anniversary.",
+      "The Airbnb experience is titled 'At Home with the Raichands.'",
+      "The activation runs from Dec. 1-6.",
+      "There are 180 guest spots available.",
+      "The experience is presented by Karan Johar, Kareena Kapoor Khan, and Hrithik Roshan.",
+      "Booking requests open Nov. 23 at 12 p.m. IST."
+    ],
+    "entities": {
+      "people": [
+        "Karan Johar",
+        "Kareena Kapoor Khan",
+        "Hrithik Roshan",
+        "Amitabh Bachchan",
+        "Jaya Bachchan",
+        "Shah Rukh Khan",
+        "Kajol"
+      ],
+      "titles": [
+        "Kabhi Khushi Kabhie Gham"
+      ]
+    },
+    "keywords": [
+      "Kabhi Khushi Kabhie Gham Airbnb",
+      "Raichand mansion Mumbai",
+      "Kareena Kapoor Khan K3G",
+      "Hrithik Roshan Airbnb experience"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/At-Home-with-the-Raichands-Airbnb-5.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Iconic Raichand Mansion From Kabhi Khushi Kabhie Gham Recreated for Airbnb Experience",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 06:30:00 +0000"
+  },
+  "ovjjrn": {
+    "id": "ovjjrn",
+    "type": "news",
+    "headline": "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
+    "dek": "The legal tussle over the posthumous release of Sidhu Moose Wala's unreleased track Phantom Ferrari between his parents and Saga Music has been directed to mediation by the Delhi High Court.",
+    "body": [
+      {
+        "h": "Introduction To The Legal Dispute",
+        "p": [
+          "A fresh legal battle surrounding the musical legacy of the late Punjabi singer Sidhu Moose Wala has landed before the Delhi High Court. The core of the controversy involves his unreleased song titled Phantom Ferrari, which has sparked a disagreement between the singer's grieving parents and the recording studio, Saga Music.",
+          "The studio intends to put out the track, whereas the family has fiercely opposed the rollout. With both sides standing firm on their respective stances, the judiciary has stepped in to steer the warring parties toward a peaceful resolution."
+        ]
+      },
+      {
+        "h": "The Genesis Of The Controversy",
+        "p": [
+          "The friction began when Saga Music publicly announced plans to launch Phantom Ferrari, even going as far as dropping a promotional teaser and setting a release date. The family of the late artist immediately objected, pointing out that the label proceeded without securing their explicit permission or consent.",
+          "Following the pushback, the parents demanded the immediate removal of the teaser and a complete halt to the rollout. This prompted the record label to approach the court with a formal suit seeking compensation for financial losses and a restraining order against the family."
+        ]
+      },
+      {
+        "h": "Saga Music's Legal Standpoint",
+        "p": [
+          "Representing the recording label, senior advocate Akhil Sibal argued that the company legally holds the copyright in perpetuity. According to the studio, they signed an assignment agreement with Sidhu Moose Wala back in 2020 while the artist was still alive.",
+          "The label maintained that the late singer's parents were aware of this pact. Counsel also noted that the project was meant as a tribute, utilizing original footage shot with the artist prior to his tragic murder in May 2022."
+        ]
+      },
+      {
+        "h": "The Family's Counter-Arguments",
+        "p": [
+          "On the opposing side, the defense counsel representing the parents challenged the core legitimacy of the purported 2020 copyright agreement. Questions were raised regarding whether any actual payments were ever transacted under the deal.",
+          "Furthermore, the family's legal team pointed out discrepancies involving multiple agreements and differing signatures. They argued that the relatives were completely kept in the dark about the transaction and asserted their right to compensation if any valid contract had indeed been executed."
+        ]
+      },
+      {
+        "h": "Court Intervention And Mediation",
+        "p": [
+          "Justice Manoj Jain presided over the hearing and urged both factions to approach the matter with emotional sensitivity rather than escalating hostility. The court specifically cautioned against branding the parents as extortionists, noting that their actions likely stem from pure sentimentality.",
+          "With the mutual consent of all involved parties, the court referred the entire matter to mediation. The sessions are scheduled to commence shortly, while the formal court proceedings are set to resume on December 3."
+        ]
+      },
+      {
+        "h": "Interim Directives And Restrictions",
+        "p": [
+          "As part of the interim orders, the court recorded a formal undertaking given by the parents' legal representative. The family agreed to refrain from making any further public statements that might aggravate the situation ahead of the next hearing.",
+          "Additionally, the bench issued strict directives prohibiting any precipitative steps concerning the song and its distribution while the mediation process plays out."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Delhi High Court has referred the copyright dispute over Sidhu Moose Wala's unreleased song Phantom Ferrari between his parents and Saga Music to mediation. While the label claims perpetual rights from a 2020 agreement, the family questions its validity and demands consent, with proceedings set to resume on December 3."
+        ]
+      }
+    ],
+    "facts": [
+      "The dispute involves the unreleased song Phantom Ferrari.",
+      "The legal case is in the Delhi High Court.",
+      "Saga Music claims copyright under an agreement signed in 2020.",
+      "Sidhu Moose Wala passed away in May 2022.",
+      "Justice Manoj Jain suggested mediation, which begins on November 23.",
+      "The next court hearing is scheduled for December 3."
+    ],
+    "entities": {
+      "people": [
+        "Sidhu Moose Wala",
+        "Akhil Sibal",
+        "Manoj Jain"
+      ],
+      "titles": [
+        "Phantom Ferrari"
+      ]
+    },
+    "keywords": [
+      "Sidhu Moose Wala Phantom Ferrari",
+      "Saga Music copyright dispute",
+      "Sidhu Moose Wala unreleased song",
+      "Delhi High Court music mediation"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156532356,thumbsize-528767,width-1280,height-720,resizemode-75/156532356.jpg",
+        "caption": "Delhi High Court Sends Sidhu Moose Wala's Phantom Ferrari Song Dispute To Mediation",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T06:53:55Z"
+  },
+  "1d1g38p": {
+    "id": "1d1g38p",
+    "type": "news",
+    "headline": "Chicago PD Fall Finale Trailer Teases Major Reckoning for Voight",
+    "dek": "NBC releases the trailer for Chicago PD Season 14 Episode 8, teasing a high-stakes search for Max and a major reckoning for Voight.",
+    "body": [
+      {
+        "h": "Fall Finale Trailer Teases High Stakes",
+        "p": [
+          "The newly released trailer for the fall finale of Chicago PD Season 14 gives viewers a sneak peek into Episode 8, hinting that Voight might face his toughest battle yet. Far from dealing with typical threats, the upcoming episode presents a deeply personal and urgent crisis for the Intelligence Unit.",
+          "The promo sets up a frantic race against time as the team scrambles to locate a character named Max. Keeping him alive forms the core mission of this highly anticipated mid-season closer."
+        ]
+      },
+      {
+        "h": "Release Details and Broadcast Info",
+        "p": [
+          "Fans eager to watch the unfolding drama will not have to wait much longer. Episode 8 is scheduled to air on December 9, broadcasting on NBC and becoming available for streaming the next day on Peacock.",
+          "The series typically airs on Wednesdays at 10 p.m. ET. However, the show is taking a short break for Thanksgiving before returning with this special event."
+        ]
+      },
+      {
+        "h": "Context from Previous Episodes",
+        "p": [
+          "This upcoming finale builds directly upon the events of Episode 7, titled Persons Yet Unknown, which aired on November 18. That episode pushed the Intelligence Unit significantly closer to unmasking a mysterious drug dealer known as Ghost.",
+          "During the course of that investigation, tragedy struck when a key informant named DeMarcus jumped to his death after Ghost threatened his younger brother. That devastating loss raised the stakes for the entire squad."
+        ]
+      },
+      {
+        "h": "The FBI Audit and Agent Boyden",
+        "p": [
+          "Adding internal pressure to the unit, FBI Agent Charlie Boyden embedded himself with the team to complete a comprehensive audit of their operations. While investigating the drug ring, Boyden connected crucial evidence linking a laundromat's shell company directly to Ghost's operation, allowing the team to spot Ghost on security footage for the first time.",
+          "Boyden's audit also reached a dramatic turning point. He admitted that every instinct initially told him the Intelligence unit should be dissolved, but working alongside Voight proved that the unit remains essential to the city of Chicago. His final recommendation on the matter remains a lingering question heading into the fall finale."
+        ]
+      },
+      {
+        "h": "Season 14 Milestones and Storylines",
+        "p": [
+          "Season 14 has brought steady viewership, averaging between 3.59 and 4.09 million viewers across its first six episodes following its October 7 premiere. The run has featured several impactful character-driven storylines.",
+          "Notable moments so far include Kevin Atwater's emotional departure in Episode 2, Burgess going undercover against a meth ring in Episode 5, and Torres navigating community policing in Chinatown alongside Officer Imani in Episode 6."
+        ]
+      },
+      {
+        "h": "A Historic First for the Series",
+        "p": [
+          "The upcoming fall finale carries a special distinction as the very first Christmas episode in the history of Chicago PD. This seasonal setting promises to add a unique visual and emotional backdrop to the unit's intense pursuit.",
+          "While the show pauses for Thanksgiving, NBC's schedule will feature the Christmas in Rockefeller Center special on December 2 during the hiatus, keeping holiday programming front and center."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chicago PD released a trailer for its Season 14 fall finale, Episode 8, airing on December 9 on NBC and Peacock. The episode features a race to find a character named Max while following up on the unit's pursuit of a drug dealer named Ghost and the conclusion of Agent Boyden's audit."
+        ]
+      }
+    ],
+    "facts": [
+      "Chicago PD Season 14 Episode 8 airs on December 9 on NBC and Peacock.",
+      "Episode 7, Persons Yet Unknown, aired on November 18.",
+      "Season 14 premiered on October 7.",
+      "Season 14 has averaged between 3.59 and 4.09 million viewers across its first six episodes."
+    ],
+    "entities": {
+      "people": [
+        "Voight",
+        "Max",
+        "Charlie Boyden",
+        "DeMarcus",
+        "Kevin Atwater",
+        "Burgess",
+        "Torres",
+        "Imani",
+        "Kelly Clarkson",
+        "Anubhav Chaudhry"
+      ],
+      "titles": [
+        "Chicago PD",
+        "Persons Yet Unknown",
+        "Chicago Fire",
+        "Chicago Med",
+        "Worst Cooks in America",
+        "The Traitors"
+      ]
+    },
+    "keywords": [
+      "Chicago PD",
+      "Voight",
+      "Chicago PD Season 14",
+      "Ghost"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Untitled-design-2026-11-19T112110.861.jpg?resize=1200,630",
+        "caption": "Chicago PD Fall Finale Trailer Teases Major Reckoning for Voight",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 05:53:22 +0000"
   }
 };
