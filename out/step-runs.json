@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T04:56:17Z",
-    "run_id": "44240668180",
-    "status": "success",
-    "checked": {
-     "candidates": 305,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Ganesh: Dust To Stardust follows in the footsteps of Ramayana and Hanuman Ansh; passed with a ‘U’ certificate WITHOUT a single cut from CBFC",
-      "The Remarried Empress Episode 7-8 Release Time Today: When Will New Ep Premiere? Is It Available In India?",
-      "EXCL! Vineet Raina On Scam 2024-The Digital Arrest Story: AI Is So Dangerous, It Doesn't Take 2 Seconds To...",
-      "Sonakshi Sinha Mocks Those Outraged Over Rahul Gandhi's 'Lap' Remark About Sonia & Rajiv Gandhi: Buckle Up…",
-      "Shannon K Recalls Coachella 2025, Says She Had To Prove Herself Despite Famous Surname- EXCLUSIVE",
-      "Scene Crosses ₹250 Crore Worldwide as Suriya's Three Films Gross Over ₹770 Crore in 2026",
-      "Dhanush pays tribute to MS Dhoni, says game won’t be the same without him",
-      "'The Odyssey' digital debut: How and where to watch the film",
-      "Sreeleela calls working with Dhanush a ‘big privilege’, praises Mammootty and Sai Pallavi",
-      "Ramayana worldwide box office collection day 13: Ranbir Kapoor, Yash film races towards  ₹1500 crore; beats Dhurandhar 2, RRR, Pathaan's overseas hauls",
-      "Robert Pattinson: a smoother, more haunted Bond?",
-      "Taj Mahal of Indian cinema: RGV says nobody cares how much Ramayana cost to make",
-      "The 10 Worst Summer Blockbuster Movies in Film History, Ranked",
-      "Food Network Sets New Worst Cooks in America Season’s Release With Major Twist",
-      "The Eternaut Ending Explained: The Apocalypse's Cause & Who The \"Real Enemy\" Is",
-      "Marvel’s Best Avengers: Secret Wars Story Just Became A Lot More Likely",
-      "Silo: The Safeguard Procedure Explained",
-      "X-Men: Every Member Of The Magneto Family (And Their Relationship To Its Patriarch)",
-      "Stargate SG-1 Officially Gets A New Crew And Switches Genres In Timekeepers",
-      "Amitabh Bachchan, Amish Tripathi-Backed AAA Game ‘The Age of Bhaarat’ Taps India’s Annapurna Studios for Motion Capture (EXCLUSIVE)"
-     ],
-     "updated": [],
-     "count": 292,
-     "detail": "305 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-18T07:05:21Z",
     "run_id": "44254319667",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "266 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-18T04:56:41Z",
-    "run_id": "44240668180",
+    "run_at": "2026-11-19T05:51:39Z",
+    "run_id": "44467913537",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 340,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
-      "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
-      "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
-      "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert"
+      "Sharad Kapoor hadn’t bathed or stepped out of bed for two years, his brother refused to help him, reveals Hema Chaudhary; says, “He kept dying gradually”",
+      "Bachelor Party D'eux X Review: What Audiences Are Saying About Naslen, Kunchacko Boban And Tovino Thomas' Film",
+      "Yeh Rishta Kya Kehlata Hai Written Update Nov 19: Drunk Kabir Confesses Love For Maira In Front Of AbhiMaan",
+      "Ramayana Box Office Collection Day 14: Ranbir's Film Beats Dhurandhar Lifetime Earnings; Crosses 1000Cr Gross",
+      "Entertainment News Live Updates Nov 19: Alia Bhatt On ‘Unequal’ Marriage; Keerthy Uncomfortable With Mysskin?",
+      "Bachelor Party D'eux Advance Booking Final: Naslen-Kunchacko Boban's Film Crosses ₹2 Cr In Worldwide Pre-Sales",
+      "Ramayana Worldwide Box Office Day 14: Ranbir’s Film Crosses 1500cr; Beats Dhurandhar 2 To Create This Record",
+      "Koffee With Karan 9: Ananya Panday's Call To Hospitalised EX Aditya Roy Kapur Leaves KWK 5 Couch Buzzing",
+      "Koffee With Karan 9 Ananya Birla Episode Download In HD: How To Download Ananya Panday Ep For Offline Viewing?",
+      "Fool In Love Episode 13 Release Timings TODAY: Kidnapping Twist ALERT! When & Where To Watch?",
+      "The Hunger Games: Sunrise On The Reaping Early Reviews Out: Haymitch’s Tragic Story Has Critics Emotionally Wrecked!",
+      "Black Doves: 5 Reasons To Watch Keira Knightley & Ben Whishaw’s Spy Thriller On Netflix",
+      "Ramayana Part One Box Office: Ranbir Kapoor, Yash and Sai Pallavi starrer adds Rs 21 crore on 2nd Wednesday, smashes Rs 820 crore in India",
+      "Hansal Mehta's Gandhi Series Starring Pratik Gandhi in Advanced Talks with JioHotstar for 2027 OTT Release",
+      "Ramayana Day 15 Advance Booking: Sets Highest-Ever Second Week India Net Record in Just 6 Days as Third Thursday Top 3 Spot Beckons",
+      "Florence Pugh REACTS to plastic surgery rumours",
+      "Prabhas wishes Dulquer Salmaan’s ‘Aakasamlo Oka Tara’ team ahead of release",
+      "Sameera recalls Nana’s charity work: says he quietly funded charities",
+      "Saumya Tandon calls shoot a 30-day family wedding",
+      "Taylor Swift RETURNS to CMA stage after 13 years - WATCH"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 321,
+     "detail": "333 stories, 2 duplicates removed, 7 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,27 +1464,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-19T05:52:28Z",
+    "run_id": "44467913537",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Clint Eastwood Final Screen Performance Climbs the Netflix Charts",
+      "Fool In Love Episode 13 Release Date, Timings, and Kidnapping Twist on iQIYI",
+      "Chicago Fire Season 15 Fall Finale Trailer Teases New Menacing Threat",
+      "Saumya Tandon Discusses Her Role in Sooraj Barjatya's Upcoming Film"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-18T04:56:41Z",
-    "run_id": "44240668180",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 367, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,26 +1903,27 @@
      "detail": "now 372, coming 8"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-18T04:56:43Z",
-    "run_id": "44240668180",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-19T05:52:28Z",
+    "run_id": "44467913537",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 380,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 372, coming 8"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2402,27 +2385,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T04:56:41Z",
-    "run_id": "44240668180",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-19T05:52:31Z",
+    "run_id": "44467913537",
     "status": "success",
     "checked": {
-     "candidates": 707,
-     "detail": "664 collected staging rows from readers; 233 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 683 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2836,19 +2818,27 @@
      "detail": "+3 new rows, 4 updated rows, 685 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T05:52:29Z",
+    "run_id": "44467913537",
+    "status": "success",
+    "checked": {
+     "candidates": 715,
+     "detail": "667 collected staging rows from readers; 241 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 689 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3085,32 +3075,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-18T04:56:42Z",
-    "run_id": "44240668180",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
-      "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
-      "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
-      "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3641,19 +3618,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-19T05:52:30Z",
+    "run_id": "44467913537",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Clint Eastwood Final Screen Performance Climbs the Netflix Charts",
+      "Fool In Love Episode 13 Release Date, Timings, and Kidnapping Twist on iQIYI",
+      "Chicago Fire Season 15 Fall Finale Trailer Teases New Menacing Threat",
+      "Saumya Tandon Discusses Her Role in Sooraj Barjatya's Upcoming Film"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3883,19 +3873,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4217,31 +4207,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-18T04:56:40Z",
-    "run_id": "44240668180",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 292 still unprocessed; today by category: movies 4/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 0/4, ott_streaming 3/4, trailers 0/3, awards 2/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Javed Akhtar Shares Thoughts On Ranbir Kapoor's Ramayana And Praises Lord Ram",
-      "Wade Forster Leads the 55th Annual Golden Guitar Awards Nominations",
-      "Drishyam 3 OTT Release Cleared as Madras High Court Dismisses Copyright Suit",
-      "An 81-Year-Old Educator Goes Viral After Joining Chris Brown Onstage at Los Angeles Concert"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4744,19 +4722,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-19T05:52:28Z",
+    "run_id": "44467913537",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 321 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 1/2, box_office 6/6, celebrities_events 1/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 2/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Clint Eastwood Final Screen Performance Climbs the Netflix Charts",
+      "Fool In Love Episode 13 Release Date, Timings, and Kidnapping Twist on iQIYI",
+      "Chicago Fire Season 15 Fall Finale Trailer Teases New Menacing Threat",
+      "Saumya Tandon Discusses Her Role in Sooraj Barjatya's Upcoming Film"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5070,24 +5060,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 376,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5347,24 +5332,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 392,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5654,19 +5639,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 24,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5916,19 +5906,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6163,19 +6153,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6461,19 +6451,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6714,19 +6704,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6956,19 +6946,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7217,6 +7207,16 @@
     "category": "Trending News",
     "run_at": "2026-11-19T05:02:54Z",
     "run_id": "44461052834",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7738,16 +7738,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-18T07:19:18Z",
     "run_id": "44254319667",
     "status": "skipped",
@@ -7984,19 +7974,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-18T04:56:53Z",
-    "run_id": "44240668180",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8226,8 +8216,18 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-19T05:52:43Z",
+    "run_id": "44467913537",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-19T05:02:54Z"
+ "updated_at": "2026-11-19T05:52:43Z"
 }

@@ -188012,5 +188012,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-18T09:01:00+00:00"
+  },
+  "c25mhi": {
+    "id": "c25mhi",
+    "type": "news",
+    "headline": "Clint Eastwood Final Screen Performance Climbs the Netflix Charts",
+    "dek": "Years after its initial debut, Clint Eastwood's 2021 feature finds a major streaming audience on Netflix, prompting fresh conversations about his iconic career.",
+    "body": [
+      {
+        "h": "Finding a New Wave of Viewers on Streaming",
+        "p": [
+          "A notable late-career project from legendary filmmaker and actor Clint Eastwood has recently emerged as a major streaming success on Netflix. Five years after its initial theatrical and digital rollout, the feature has captured the attention of home audiences.",
+          "The renewed interest highlights how streaming platforms continue to give older titles a second wind, introducing mature cinematic works to demographic groups that may have missed them during their initial theatrical windows."
+        ]
+      },
+      {
+        "h": "A Long Journey Through Hollywood Development Hell",
+        "p": [
+          "The path to bringing this project to the screen was famously protracted. Based on a novel and screenplay originally authored by N. Richard Nash, the narrative spent decades circulating through Hollywood production circles without finding a permanent home.",
+          "Over the years, several major Hollywood names, including Robert Mitchum and Arnold Schwarzenegger, were attached to lead the feature at various points. Eventually, Eastwood took on both directing and starring duties when he reached his late eighties."
+        ]
+      },
+      {
+        "h": "An Unconventional Western Departure",
+        "p": [
+          "Unlike the high-octane revenge narratives and tense confrontations that defined much of Eastwood's legendary filmography in the 1970s and 1980s, this later project adopted a significantly more meditative and methodical pace.",
+          "Playing a retired Texas rodeo cowboy named Mike Milo, the actor portrays a figure hired to travel across the border into Mexico to bring a young boy back to his father, resulting in an unorthodox study of aging and generational gaps."
+        ]
+      },
+      {
+        "h": "Embracing Nonagenarian Realism On Screen",
+        "p": [
+          "Operating with his trademark efficiency behind the camera, Eastwood relied on quick shooting schedules, frequently utilizing minimal takes to capture performances. This straightforward style extended to working alongside non-professional actors.",
+          "Rather than masking his advanced age, the lead performance leans directly into it. The work utilizes the natural wear of time to imbue the character with authenticity and emotional weight without relying on vanity."
+        ]
+      },
+      {
+        "h": "Reflecting a Seven-Decade Legacy",
+        "p": [
+          "The film acts as a thematic bookend for an extraordinarily prolific career that spans over seventy years in the entertainment industry. It invites comparisons to earlier introspective characters played by the actor in past acclaimed dramas.",
+          "Although subsequent directorial efforts followed, this project stands out as a proper screen farewell, offering a quiet rumination on American iconography and the fading twilight of an iconic cinematic career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Clint Eastwood's 2021 feature has become a prominent streaming success on Netflix years after its initial release. The project, which spent decades in development before the veteran star took the helm, serves as his final screen performance and a reflective capstone to his legendary career."
+        ]
+      }
+    ],
+    "facts": [
+      "Clint Eastwood directed and starred in Unforgiven in 1992",
+      "Cry Macho was released in 2021",
+      "Juror #2 was directed by Clint Eastwood in 2024",
+      "N. Richard Nash wrote the screenplay and novel for Cry Macho",
+      "Robert Mitchum and Arnold Schwarzenegger were previously attached to Cry Macho"
+    ],
+    "entities": {
+      "people": [
+        "Clint Eastwood",
+        "Thomas Butt",
+        "Martin Scorsese",
+        "John Ford",
+        "Albert Brooks",
+        "N. Richard Nash",
+        "Robert Mitchum",
+        "Arnold Schwarzenegger",
+        "William Munny",
+        "Frankie Dunn",
+        "Walt Kowalski",
+        "Michael Milo",
+        "Andrea M. Ciriaco",
+        "Natalia Traven",
+        "Eduardo Minett"
+      ],
+      "titles": [
+        "Unforgiven",
+        "Cry Macho",
+        "Juror #2",
+        "Million Dollar Baby",
+        "Gran Torino",
+        "American Sniper",
+        "Sully",
+        "The Mule",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "Cry Macho",
+      "Clint Eastwood",
+      "Mike Milo",
+      "N. Richard Nash"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/03/cry-macho0.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Clint Eastwood Final Screen Performance Climbs the Netflix Charts",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 05:34:12 GMT"
+  },
+  "hx4ssy": {
+    "id": "hx4ssy",
+    "type": "news",
+    "headline": "Fool In Love Episode 13 Release Date, Timings, and Kidnapping Twist on iQIYI",
+    "dek": "Everything you need to know about Fool In Love Episode 13, including premiere timings in India and Thailand, streaming platforms, and major plot twists.",
+    "body": [
+      {
+        "h": "Introduction to Fool In Love Episode 13",
+        "p": [
+          "Fans of the popular Thai BL drama Fool In Love are eagerly awaiting the release of Episode 13. The series continues to capture global attention with its unique blend of emotional storytelling, heartbreak, and unexpected turns.",
+          "Based on the web novel My Beloved Fool, the show has cultivated a dedicated international fanbase. Viewers can catch the latest developments as the narrative dives deeper into its current emotional arc."
+        ]
+      },
+      {
+        "h": "Release Date and Streaming Platform",
+        "p": [
+          "Fool In Love Episode 13 officially premieres today, November 19, 2026. The episode will be available for streaming on the digital platform iQIYI.",
+          "International viewers, particularly those tuning in from India, can access the episode directly on the platform complete with English subtitles."
+        ]
+      },
+      {
+        "h": "Premiere Timings in India and Thailand",
+        "p": [
+          "For audiences following the broadcast locally, Fool In Love Episode 13 drops at 8:00 PM ICT according to Thailand time.",
+          "Fans located in India can tune in to watch the fresh episode starting from 6:30 PM IST on the same day."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "The series stars Bank Artit and Copter Nuntapong in prominent roles, driving the emotional core of the narrative. Their performances have been central to the show's ongoing success.",
+          "Discussing character motivations, the cast has noted that while Yok is generally smart, his judgment gets clouded when it comes to matters of the heart, reflecting the central theme of the series."
+        ]
+      },
+      {
+        "h": "Plot Spoilers and Upcoming Twists",
+        "p": [
+          "Episode 13 promises heightened tension as Ing faces mounting personal and professional challenges following betrayals and ongoing falsehoods.",
+          "Previews suggest Yok's jealousy will take center stage, especially after seeing Ing with Junior. Furthermore, a shocking sequence shows Ing losing consciousness after an attack, hinting at the anticipated kidnapping arc from the source novel."
+        ]
+      },
+      {
+        "h": "How to Watch and Stream on iQIYI",
+        "p": [
+          "Viewers can watch the latest episode in high definition by using an active VIP subscription on iQIYI without any additional charges per episode.",
+          "Fans can simply open the mobile application or website, sign into their account, search for the title, select Episode 13, and enable English subtitles or use the download feature for offline viewing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fool In Love Episode 13 premieres on iQIYI on November 19, 2026, bringing new twists for fans of the Thai BL series. Viewers in India and Thailand can watch the latest installment starting at 6:30 PM IST and 8:00 PM ICT respectively.",
+          "The upcoming episode highlights potential kidnapping plot points and escalating tensions involving characters played by Bank Artit and Copter Nuntapong."
+        ]
+      }
+    ],
+    "facts": [
+      "Fool In Love Episode 13 releases on November 19, 2026.",
+      "The episode premieres at 8:00 PM ICT in Thailand and 6:30 PM IST in India.",
+      "The show streams on iQIYI with English subtitles.",
+      "The series stars Bank Artit and Copter Nuntapong.",
+      "The drama is adapted from the web novel My Beloved Fool."
+    ],
+    "entities": {
+      "people": [
+        "Bank Artit",
+        "Copter Nuntapong",
+        "Ing",
+        "Itt",
+        "Yok",
+        "Junior"
+      ],
+      "titles": [
+        "Fool In Love",
+        "My Beloved Fool",
+        "Fool In Love First Fall"
+      ]
+    },
+    "keywords": [
+      "Fool In Love Episode 13",
+      "Fool In Love Thai BL",
+      "Bank Artit Copter Nuntapong",
+      "Fool In Love iQIYI release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-18t215635-504-83351795019201.jpg",
+        "caption": "Fool In Love Episode 13 Release Date, Timings, and Kidnapping Twist on iQIYI",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 09:30:24 +0530"
+  },
+  "on85d3": {
+    "id": "on85d3",
+    "type": "news",
+    "headline": "Chicago Fire Season 15 Fall Finale Trailer Teases New Menacing Threat",
+    "dek": "The latest promo for Chicago Fire Season 15 reveals a terrifying new danger and a tense church scene ahead of the December 9 winter break on NBC.",
+    "body": [
+      {
+        "h": "Chicago Fire Fall Finale Trailer Drops",
+        "p": [
+          "NBC has released a brand new promo for Chicago Fire Season 15 Episode 8, offering viewers a glimpse into the upcoming fall finale. The newly unveiled footage highlights a dangerous and escalating mystery that has already sent waves through the fan community, sparking countless online theories about what is to come.",
+          "The preview explicitly confirms that the upcoming episode will air on December 9 on both NBC and Peacock. Fans are eagerly counting down the days as the narrative builds toward a high-stakes turning point before the show pauses for its winter break."
+        ]
+      },
+      {
+        "h": "Schedule Changes and Holiday Break Shift",
+        "p": [
+          "This current television season breaks long-standing tradition for the network. Instead of wrapping up the fall runs in late November as seen in recent years, reduced episode counts have pushed all three One Chicago fall finales to sign off on December 9, 2026.",
+          "When the night arrives, viewers can follow the regular Wednesday lineup starting with Chicago Med Season 12 at 8/7c. Chicago Fire Season 15 follows immediately after at 9/8c, and Chicago P.D. Season 14 closes out the evening at 10/9c."
+        ]
+      },
+      {
+        "h": "Teased Church Scene and Ghost Threat",
+        "p": [
+          "The newly dropped trailer heavily highlights a dramatic church scene alongside a tense, unfolding investigation. Characters within the promo express palpable urgency and fear as the overarching danger continues to escalate heading into the winter break.",
+          "Additionally, the trailer points toward a mysterious figure known as Ghost who poses a serious threat. While Chicago P.D. tackles this enigmatic drug dealer, other departments face separate challenges, such as Vasquez and Kidd investigating an explosion."
+        ]
+      },
+      {
+        "h": "Upcoming Crossover Event and Winter Returns",
+        "p": [
+          "Following the winter break, regular winter premieres are officially scheduled to arrive on January 6, 2027. Fans will not have to wait long for even more interconnected drama after that initial return.",
+          "A massive three-hour One Chicago crossover event is locked in for January 13. That special crossover will center on a mysterious patient death affecting all three shows across the shared television universe."
+        ]
+      },
+      {
+        "h": "Cast Departures and Veteran Returns",
+        "p": [
+          "The current television seasons have also experienced notable cast shifts behind the scenes. Viewers recently witnessed Joe Minoso's departure during Fire's landmark 300th episode, alongside LaRoyce Hawkins exiting Chicago P.D. this season.",
+          "At the same time, veteran presence remains strong with current Chicago Fire Season 15 stars Taylor Kinney, Jesse Spencer, and Eamonn Walker leading the ensemble. Meanwhile, Chicago Med prepares to welcome Colin O’Donnell back in its own fall finale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The fall finale trailer for Chicago Fire Season 15 teases a dramatic church scene and a menacing new threat ahead of the December 9 winter break on NBC. With schedule shifts pushing the One Chicago finales into December, fans can look forward to winter premieres in January and a major crossover event."
+        ]
+      }
+    ],
+    "facts": [
+      "Chicago Fire Season 15 Episode 8 airs on December 9, 2026.",
+      "Winter premieres arrive on January 6, 2027.",
+      "A three-hour One Chicago crossover event is set for January 13, 2027.",
+      "Joe Minoso departed during Fire's 300th episode.",
+      "Chicago Fire Season 15 stars Taylor Kinney, Jesse Spencer, and Eamonn Walker."
+    ],
+    "entities": {
+      "people": [
+        "Vritti Johar",
+        "Colin O’Donnell",
+        "Vasquez",
+        "Kidd",
+        "Brandon Larracurente",
+        "Miranda Rae Mayo",
+        "Joe Minoso",
+        "LaRoyce Hawkins",
+        "Taylor Kinney",
+        "Jesse Spencer",
+        "Eamonn Walker"
+      ],
+      "titles": [
+        "Chicago Fire",
+        "Chicago Med",
+        "Chicago P.D.",
+        "Abbott Elementary",
+        "Marshals",
+        "Beast Games"
+      ]
+    },
+    "keywords": [
+      "Chicago Fire Season 15",
+      "Chicago Fire fall finale",
+      "One Chicago crossover event",
+      "Chicago Fire trailer Ghost"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-19-Nov-2026-04-48-PM-1094.jpg?resize=1200,630",
+        "caption": "Chicago Fire Season 15 Fall Finale Trailer Teases New Menacing Threat",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 05:48:37 +0000"
+  },
+  "hwbe4b": {
+    "id": "hwbe4b",
+    "type": "news",
+    "headline": "Saumya Tandon Discusses Her Role in Sooraj Barjatya's Upcoming Film",
+    "dek": "After tackling a heavy emotional role in Dhurandhar, Saumya Tandon opens up about transitioning into a warmer family environment for Sooraj Barjatya's upcoming movie Yeh Prem Mol Liya.",
+    "body": [
+      {
+        "h": "Transitioning to a Gentler Narrative",
+        "p": [
+          "Saumya Tandon is stepping into a remarkably different cinematic environment with her upcoming project. Having previously portrayed a grieving mother and wife in the dramatic feature Dhurandhar, the actress has now shifted gears toward a much warmer and softer atmosphere.",
+          "Her new venture is directed by filmmaker Sooraj Barjatya and is titled Yeh Prem Mol Liya. The project focuses on interpersonal relationships and emotional bonds, utilizing a significantly lighter narrative approach compared to her previous gritty outings."
+        ]
+      },
+      {
+        "h": "Stepping Into the Character of Urvashi",
+        "p": [
+          "Within the narrative of Yeh Prem Mol Liya, Tandon takes on the role of Urvashi. Her character is integrated into Sharvari's fictional family circle and plays a vital part in moving the plot forward.",
+          "Though she has yet to view the final cut of the motion picture, Tandon noted that her character goes through a distinct personal arc. Her emotional progression acts as a guiding thread for the overarching storyline."
+        ]
+      },
+      {
+        "h": "Director Sooraj Barjatya's Hands-On Approach",
+        "p": [
+          "Tandon also highlighted a memorable encounter from her very first day reporting to the film set. Director Sooraj Barjatya personally walked up to her vanity van to brief her on an upcoming sequence.",
+          "Demonstrating his signature humility, the filmmaker even wanted to remove his shoes before stepping inside her van. Even though the specific scene did not feature any dialogue for her character, the director wanted to ensure she fully grasped the context."
+        ]
+      },
+      {
+        "h": "Humility On Set Regardless of Stardom",
+        "p": [
+          "Reflecting on the director's gesture, the actress emphasized that she does not view herself as a massive star like Shah Rukh Khan or Salman Khan. Yet, the filmmaker treated every contributor with equal dedication.",
+          "She pointed out that no matter how small an actor's presence in a sequence might be, the director takes the time to visit their van to explain the details personally."
+        ]
+      },
+      {
+        "h": "A Thirty-Day Wedding Atmosphere",
+        "p": [
+          "The off-screen environment among the ensemble cast fostered a tight-knit community feeling throughout production. Tandon likened the entire shooting schedule to a massive, extended family celebration.",
+          "She humorously remarked that she spent more time getting dressed up for this cinematic project than she did for her actual wedding. The production schedule felt like a continuous stretch of wedding ceremonies followed by Diwali festivities."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The production features a notable lineup of well-known performers working alongside Saumya Tandon. The ensemble includes veteran and acclaimed actors such as Anupam Kher, Seema Pahwa, and Supriya Pathak.",
+          "Additionally, the cast brings together popular contemporary names like Ayushmann Khurrana and Sharvari, creating a wholesome family dynamic on screen."
+        ]
+      },
+      {
+        "h": "Theatrical Release Details",
+        "p": [
+          "Audiences won't have to wait much longer to see the collaborative effort on the big screen. Yeh Prem Mol Liya is scheduled to officially open in movie theaters on November 27.",
+          "Fans of the director's traditional family-centric storytelling can expect a warm theatrical experience just ahead of the winter holiday movie season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Saumya Tandon has transitioned from her gritty role in Dhurandhar to a much warmer family drama titled Yeh Prem Mol Liya, directed by Sooraj Barjatya. She praised the director's humility and described the 30-day shoot alongside a star-studded cast as feeling like a continuous family wedding. The film is slated for a theatrical release on November 27."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya releases in theatres on November 27.",
+      "Saumya Tandon plays the character Urvashi in the film.",
+      "The film's cast includes Anupam Kher, Seema Pahwa, Supriya Pathak, Ayushmann Khurrana, and Sharvari.",
+      "The shoot lasted for a stretch of 30 days."
+    ],
+    "entities": {
+      "people": [
+        "Saumya Tandon",
+        "Sooraj Barjatya",
+        "Anupam Kher",
+        "Seema Pahwa",
+        "Supriya Pathak",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Salman Khan",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya film",
+      "Saumya Tandon Yeh Prem Mol Liya",
+      "Sooraj Barjatya new movie",
+      "Yeh Prem Mol Liya release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135978138,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Saumya Tandon Discusses Her Role in Sooraj Barjatya's Upcoming Film",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T10:31:20+05:30"
   }
 };
