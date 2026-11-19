@@ -195203,5 +195203,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-19T15:30:13+05:30"
+  },
+  "1k32d7n": {
+    "id": "1k32d7n",
+    "type": "news",
+    "headline": "Patrick Stewart's Official Cause of Death Revealed as Alzheimer's and Lewy Body Dementia",
+    "dek": "Newly surfaced documents reveal health details following the passing of the beloved X-Men and Star Trek star, alongside tributes from family, friends, and co-stars.",
+    "body": [
+      {
+        "h": "Official Cause of Death and Medical Details",
+        "p": [
+          "Weeks after the passing of renowned actor Patrick Stewart at the age of 86, official documentation has shed light on his final health battles. According to his death certificate, the actor suffered from Alzheimer's disease and Lewy body dementia, which contributed to his passing.",
+          "The official paperwork additionally noted cardiopulmonary arrest, commonly referred to as cardiac arrest, alongside a neurocognitive disorder linked to Lewy body dementia. Medical definitions describe this condition as a brain disorder capable of generating significant hurdles regarding movement, thinking, behavior, and overall mood."
+        ]
+      },
+      {
+        "h": "Final Arrangements and Family Statements",
+        "p": [
+          "In addition to detailing his medical conditions, the death certificate disclosed that Patrick Stewart's remains underwent alkaline hydrolysis, an alternative process frequently known as water cremation. This specific method relies upon water, alkaline chemicals, heat, and sometimes agitation to accelerate natural decomposition, leaving behind bone fragments and a safe liquid byproduct.",
+          "The actor passed away at his Los Angeles residence. Family members shared that he was surrounded by loved ones, live music, prayers, and laughter during his final moments, experiencing peaceful ease under the care of his wife Sunny Ozell."
+        ]
+      },
+      {
+        "h": "Tributes From His Wife and Longtime Companions",
+        "p": [
+          "Sunny Ozell, who married the legendary actor in 2013, reflected warmly on their nearly two decades together in a heartfelt social media post following his passing. She expressed immense gratitude for the public outpouring of support and noted that they had left nothing unsaid during their time as partners.",
+          "Lifelong colleague and friend Ian McKellen also shared memories of their early days with the Royal Shakespeare Company. McKellen recalled cautioning Stewart decades prior about taking a leading television role in Hollywood, though he ultimately celebrated the incredible bridge Stewart built between classic theatre and massive cinematic franchises."
+        ]
+      },
+      {
+        "h": "Remembrances From Hollywood Colleagues",
+        "p": [
+          "Numerous actors and creators with whom Stewart worked over his decades-long career stepped forward to honor his memory. Hugh Jackman shared a personal tribute noting how much he learned from the veteran performer throughout their time in the industry.",
+          "Seth MacFarlane, who collaborated with Stewart on various animated projects including American Dad!, Family Guy, and Ted, remembered him as an icon of absolute humility. MacFarlane expressed astonishment at how Stewart always maintained the nervous energy of a novice on his very first day of shooting."
+        ]
+      },
+      {
+        "h": "Reflections From the Star Trek Universe",
+        "p": [
+          "Fellow Star Trek alumni also paid deep respects to their late captain. William Shatner praised Stewart's intelligence, grace, and humanity, noting that Captain Jean-Luc Picard truly represented the very best of humanity.",
+          "Additional tributes came from co-stars such as Rebecca Romijn, Jonathan Frakes, Michelle Hurd, Jeri Ryan, and George Takei, all of whom highlighted his booming classically trained voice, wonderful sense of humor, and profound kindness both on and off the screen."
+        ]
+      },
+      {
+        "h": "Legacy Across Stage and Screen",
+        "p": [
+          "Stewart's towering career stretched far beyond television science fiction into acclaimed cinematic universes and prestigious theatrical stages. From his powerful portrayals in X-Men to his classical Shakespearean performances at Stratford-upon-Avon, London's West End, and Broadway, he continuously redefined versatility.",
+          "Younger co-stars like Dafne Keen also shared touching stories of his patience, endless jokes, and colorful reading glasses during production. They emphasized his status as a walking master of his craft who treated every colleague with immense warmth and respect."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Official documents revealed that Patrick Stewart died from Alzheimer's disease, Lewy body dementia, and cardiac arrest at the age of 86. Family members, friends, and co-stars shared emotional tributes celebrating his legendary career on stage and screen, as well as his profound impact on those who knew him."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick Stewart died at the age of 86.",
+      "His official cause of death was determined to be Alzheimer's disease and Lewy body dementia.",
+      "His death certificate also listed cardiopulmonary arrest and a neurocognitive disorder with Lewy body dementia.",
+      "His remains underwent alkaline hydrolysis, also known as water cremation.",
+      "He passed away at his Los Angeles home on October 28.",
+      "His wife is Sunny Ozell, whom he married in 2013."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Sunny Ozell",
+        "Whoopi Goldberg",
+        "Ian McKellen",
+        "Hugh Jackman",
+        "Seth MacFarlane",
+        "William Shatner",
+        "Rebecca Romijn",
+        "Kyle MacLachlan",
+        "Elizabeth Banks",
+        "Peter Facinelli",
+        "Wil Wheaton",
+        "Kim Cattrall",
+        "Isa Briones",
+        "Jonathan Frakes",
+        "Michelle Hurd",
+        "Jeri Ryan",
+        "Dafne Keen",
+        "George Takei"
+      ],
+      "titles": [
+        "X-Men",
+        "Star Trek: The Next Generation",
+        "American Dad!",
+        "Family Guy",
+        "Ted",
+        "Star Trek Picard",
+        "Charlie's Angels"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart cause of death",
+      "Patrick Stewart Alzheimer's Lewy body dementia",
+      "Patrick Stewart death certificate",
+      "Sunny Ozell Patrick Stewart"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261119/ca7a4b35-1e02-47d9-a52e-f51e28f35ee6_1795129767.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Patrick Stewart's Official Cause of Death Revealed as Alzheimer's and Lewy Body Dementia",
+        "source": "E! News"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 23:43:58 GMT"
+  },
+  "17r7os4": {
+    "id": "17r7os4",
+    "type": "news",
+    "headline": "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
+    "dek": "The Telugu slasher thriller Cult makes its digital debut on Amazon Prime Video just twenty days after hitting theaters, offering viewers a mix of psychological suspense and survival horror across five languages.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "The Telugu thriller Cult has officially made its transition to the digital space, arriving on Amazon Prime Video exactly twenty days after its initial theatrical run. Written and directed by its lead star, the feature brings a distinct blend of the slasher genre to audiences, combining violent events, psychological suspense, and survival elements.",
+          "Following its cinematic exhibition, the movie is now accessible to a broader home audience. It has been released for streaming in five distinct languages, catering to viewers across different regions who missed the theatrical screenings."
+        ]
+      },
+      {
+        "h": "Plot Overview and Setting",
+        "p": [
+          "The narrative centers on Elvin, portrayed by Tarak Ponnappa, who is the son of the Home Minister of Goa. Elvin organizes an extravagant birthday celebration at a lavish venue, drawing influential guests from all over the country to partake in the festivities.",
+          "The celebratory atmosphere quickly dissolves into a terrifying ordeal when a wave of killings erupts inside the venue. Compounding the mortal danger, the location is rigged with explosives, severely limiting the rescue options available to the authorities."
+        ]
+      },
+      {
+        "h": "Character Roles and Survival",
+        "p": [
+          "Amidst the chaos and danger, DSP Sankalp Nayak finds himself trapped inside the venue along with the other guests. Played by Vishwak Sen, the character takes charge of the harrowing situation, using his training to protect the trapped attendees.",
+          "As the narrative progresses, the mounting threats force the characters into a desperate fight for survival against an unseen assailant while trying to navigate the rigged explosives surrounding the property."
+        ]
+      },
+      {
+        "h": "Director's Vision and Past Work",
+        "p": [
+          "Cult marks the third directorial venture for Vishwak Sen, who previously helmed projects such as Falaknuma Das and Das Ka Dhamki. In addition to directing the feature, he also anchors the primary cast.",
+          "Billed by its makers as an introduction to India's first slasher thriller, the film reflects Sen's ongoing experimentation with genre filmmaking within the Telugu film industry."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Crew",
+        "p": [
+          "Alongside Vishwak Sen and Tarak Ponnappa, the movie features Gayatri Bharadwaj as the female lead. The expansive supporting cast includes Murali Sharma, Srikanth Iyengar, and Prajna, alongside a large group of around 100 actors that features several newcomers.",
+          "Behind the scenes, popular filmmaker Tharun Bhascker penned the dialogues for the thriller, while Ravi Basrur composed the musical score. Additionally, Sachin contributed his expertise to the sound design after previously working on Animal."
+        ]
+      },
+      {
+        "h": "Production and Audience Reception",
+        "p": [
+          "The production was handled by Sandeep Kakarala and Karate Raju under the respective banners of Tarak Cinemas LLP and Vanmaye Creations.",
+          "Upon its initial release, viewers and fans commended Vishwak Sen for his commanding screen presence, particularly highlighting his performance in action sequences where his attitude and swag helped drive the narrative forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vishwak Sen's Telugu slasher thriller Cult has begun streaming on Amazon Prime Video twenty days after its theatrical release. Written, directed, and led by Sen, the film follows a birthday celebration turned deadly in Goa and features a supporting cast including Gayatri Bharadwaj and Tarak Ponnappa."
+        ]
+      }
+    ],
+    "facts": [
+      "Cult premiered on Amazon Prime Video 20 days after its theatrical release",
+      "The film is available to stream in Telugu, Tamil, Kannada, Malayalam and Hindi",
+      "Vishwak Sen wrote, directed, and starred in the film",
+      "Cult is Vishwak Sen's third directorial venture after Falaknuma Das and Das Ka Dhamki",
+      "Tarak Ponnappa plays Elvin, the son of Goa's Home Minister",
+      "Vishwak Sen plays DSP Sankalp Nayak",
+      "Gayatri Bharadwaj is the female lead",
+      "Murali Sharma, Srikanth Iyengar, and Prajna star in important roles",
+      "The cast features around 100 actors including several newcomers",
+      "Tharun Bhascker penned the dialogues",
+      "Ravi Basrur composed the music",
+      "Sachin handled the sound design",
+      "The film was produced by Sandeep Kakarala and Karate Raju under Tarak Cinemas LLP and Vanmaye Creations"
+    ],
+    "entities": {
+      "people": [
+        "Vishwak Sen",
+        "Gayatri Bharadwaj",
+        "Tarak Ponnappa",
+        "Murali Sharma",
+        "Srikanth Iyengar",
+        "Prajna",
+        "Tharun Bhascker",
+        "Ravi Basrur",
+        "Sachin",
+        "Sandeep Kakarala",
+        "Karate Raju"
+      ],
+      "titles": [
+        "Cult",
+        "Falaknuma Das",
+        "Das Ka Dhamki",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Cult OTT release date",
+      "Vishwak Sen Cult film",
+      "Cult Amazon Prime Video",
+      "Cult Telugu thriller cast"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156535340,thumbsize-525620,width-1280,height-720,resizemode-75/156535340.jpg",
+        "caption": "Vishwak Sen's Cult Lands on Amazon Prime Video Following Theatrical Run",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-19T23:52:12Z"
+  },
+  "14zr5a8": {
+    "id": "14zr5a8",
+    "type": "news",
+    "headline": "Robert Pattinson Officially Cast as the New James Bond",
+    "dek": "Following a secretive late-October screen test, Robert Pattinson has been announced as the next 007, making history as the first Bond of the new monarch's reign.",
+    "body": [
+      {
+        "h": "The Announcement of the New 007",
+        "p": [
+          "Nearly half a decade has passed since Daniel Craig concluded his defining run as Agent 007 in No Time to Die. Now, the search for his successor has finally reached its conclusion with an unexpected choice.",
+          "Robert Pattinson has officially secured the iconic role, stepping forward to lead the legendary cinematic franchise into its next major era."
+        ]
+      },
+      {
+        "h": "How Pattinson Entered the Race",
+        "p": [
+          "For months, the shortlist for the coveted spy role appeared tightly bound to a handful of names. Actors such as Josh O'Connor, Jack Lowden, Callum Turner, Jacob Elordi, Paul Mescal, and Harris Dickinson were widely considered the frontrunners.",
+          "However, rumors of an undisclosed, highly confidential screen test held in late October changed the trajectory completely, allowing Pattinson to emerge as a late contender and ultimately win the part."
+        ]
+      },
+      {
+        "h": "The Actor's Official Reaction",
+        "p": [
+          "Expressing his excitement about taking on the legendary part, Pattinson acknowledged the cultural weight of the franchise. He noted that stepping into the shoes of 007 is the privilege of a lifetime.",
+          "He further remarked that describing the opportunity as a dream come true would be an understatement, expressing eagerness to begin collaborating with the creative team behind the films."
+        ]
+      },
+      {
+        "h": "A Historic Royal Welcome",
+        "p": [
+          "While the casting choice has drawn varied reactions from audiences across the internet, it has also received high-profile institutional backing.",
+          "In a notable moment, the British Royal Family took to social media to share a public message celebrating the news, welcoming the actor to the service."
+        ]
+      },
+      {
+        "h": "A New Monarch's Secret Agent",
+        "p": [
+          "This casting choice marks a distinct turning point in the history of the cinematic spy series. Every previous actor to portray the character—including Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig—held the role during the reign of Queen Elizabeth II.",
+          "With this new era, Pattinson becomes the very first incarnation of the character to serve under His Majesty."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson has been officially announced as the new James Bond following a secret screen test in late October, succeeding Daniel Craig after a five-year gap. The casting has received notable attention, including a welcome message from the British Royal Family, marking Pattinson as the first 007 of the new monarch's reign."
+        ]
+      }
+    ],
+    "facts": [
+      "No Time to Die brought an end to Daniel Craig's chapter as 007 five years ago.",
+      "The shortlist for the new Bond was previously reduced to six names: Josh O'Connor, Jack Lowden, Callum Turner, Jacob Elordi, Paul Mescal, and Harris Dickinson.",
+      "A secret screen test took place in late October.",
+      "Robert Pattinson was announced as the new James Bond on November 19, 2026.",
+      "Previous actors who played James Bond include Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Daniel Craig",
+        "Josh O'Connor",
+        "Jack Lowden",
+        "Callum Turner",
+        "Jacob Elordi",
+        "Paul Mescal",
+        "Harris Dickinson",
+        "Sean Connery",
+        "George Lazenby",
+        "Roger Moore",
+        "Timothy Dalton",
+        "Pierce Brosnan",
+        "Queen Elizabeth II"
+      ],
+      "titles": [
+        "No Time to Die",
+        "James Bond",
+        "007"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "new James Bond actor",
+      "Robert Pattinson 007 casting",
+      "James Bond royal family reaction"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/james-bond-robert-pattinson-announcement.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Robert Pattinson Officially Cast as the New James Bond",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 23:00:12 GMT"
+  },
+  "1fhmkz2": {
+    "id": "1fhmkz2",
+    "type": "news",
+    "headline": "Alia Bhatt Affirms Commitment to Women-Led Cinema Despite Recent Box Office Setbacks",
+    "dek": "The actor explains why she refuses to let commercial performance dictate her future script choices following the box office results of Jigra and Alpha.",
+    "body": [
+      {
+        "h": "Standing Firm on Script Choices",
+        "p": [
+          "Commercial performance frequently dictates the trajectory of filmmakers and performers in the entertainment industry. However, Alia Bhatt has firmly stated that she will not allow box office results to control the types of narratives she decides to explore.",
+          "The actor intends to keep supporting and starring in women-led projects. This commitment remains unwavering even after the underwhelming theatrical runs experienced by movies like Jigra and Alpha."
+        ]
+      },
+      {
+        "h": "Double Standards in the Film Industry",
+        "p": [
+          "While speaking to TIME magazine following her inclusion in the TIME100 Next India list, Bhatt highlighted the distinct expectations placed on female actors. She pointed out the double standards that apply differently to films driven by men versus women.",
+          "She publicly questioned why a commercial failure from a male-led project rarely initiates broader conversations about whether audiences are fatigued by male-centric storytelling."
+        ]
+      },
+      {
+        "h": "Embracing the Risk of Female-Centric Stories",
+        "p": [
+          "Bhatt has previously addressed the inherent financial risks involved in carrying projects centred on women, particularly within genres traditionally dominated by male protagonists. She noted that when male-driven features stumble, critics do not call for an end to male-centric cinema.",
+          "Refusing to alter her path, she emphasized that taking creative gambles always carries the risk of falling flat, but it simultaneously opens the door to immense success. She believes the potential reward makes the risk entirely worthwhile."
+        ]
+      },
+      {
+        "h": "Navigating the Action Genre Gamble",
+        "p": [
+          "During a conversation with Femina regarding Alpha, Bhatt openly acknowledged that venturing into a female-led action film was a significant gamble. She understood that the action genre had not consistently delivered strong theatrical results for female leads in India.",
+          "Despite recognizing these industry hurdles, she considered the project an endeavor worth undertaking. Her recent statements confirm that the fear of a negative reception will not deter her from trying unconventional paths."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Professional Setbacks",
+        "p": [
+          "The actor is no stranger to professional disappointments and has spoken candidly about them in the past. In a 2016 discussion with PTI, she reflected on Shaandaar, which served as her very first box office failure.",
+          "Later, during a 2022 interaction with Galatta Plus, she recalled how the underwhelming reception of Kalank impacted her personally. Despite these hurdles, she has consistently chosen to explore diverse characters instead of relying solely on safe commercial bets."
+        ]
+      },
+      {
+        "h": "Balancing Triumphs and Future Projects",
+        "p": [
+          "Bhatt's career features notable successes in women-centric narratives alongside her recent struggles. Both Raazi and Gangubai Kathiawadi emerged as significant commercial and critical triumphs for the actor.",
+          "Even though Jigra and Alpha brought renewed scrutiny regarding the financial viability of such ventures, Bhatt looks forward to her upcoming slate. She will next appear in Sanjay Leela Bhansali's Love War, a project co-starring Ranbir Kapoor and Vicky Kaushal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alia Bhatt has stated that she will continue choosing women-led films despite the box office challenges faced by Jigra and Alpha. Addressing double standards in the industry, she emphasized that commercial risks will not stop her from backing female-centric stories as she looks toward her upcoming role in Love War."
+        ]
+      }
+    ],
+    "facts": [
+      "Alia Bhatt was included in the TIME100 Next India list.",
+      "Jigra and Alpha experienced underwhelming theatrical performances at the box office.",
+      "Alia Bhatt spoke to PTI in 2016 about her first box office failure, Shaandaar.",
+      "Alia Bhatt discussed the reception of Kalank with Galatta Plus in 2022.",
+      "Raazi and Gangubai Kathiawadi were significant successes for Alia Bhatt.",
+      "Alia Bhatt will next be seen in Sanjay Leela Bhansali's Love War alongside Ranbir Kapoor and Vicky Kaushal."
+    ],
+    "entities": {
+      "people": [
+        "Alia Bhatt",
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Vicky Kaushal"
+      ],
+      "titles": [
+        "Jigra",
+        "Alpha",
+        "Shaandaar",
+        "Kalank",
+        "Raazi",
+        "Gangubai Kathiawadi",
+        "Love War"
+      ]
+    },
+    "keywords": [
+      "Alia Bhatt women-led films",
+      "Jigra Alpha box office failure",
+      "Alia Bhatt TIME magazine",
+      "Love War Sanjay Leela Bhansali"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/19131805/Untitled-Design-37.jpg",
+        "caption": "Alia Bhatt Affirms Commitment to Women-Led Cinema Despite Recent Box Office Setbacks",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-19T23:52:12Z"
   }
 };
