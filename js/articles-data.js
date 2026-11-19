@@ -189173,5 +189173,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 19 Nov 2026 06:04:40 +0000"
+  },
+  "230ytn": {
+    "id": "230ytn",
+    "type": "news",
+    "headline": "Saif Ali Khan Targets of Death Threat Connected to High Profile Murder Case",
+    "dek": "Mumbai Police investigate a new threat directed at Bollywood actor Saif Ali Khan, allegedly linked to an accused individual in the high-profile killing of politician Baba Siddique.",
+    "body": [
+      {
+        "h": "The Threat Investigation",
+        "p": [
+          "Mumbai Police sources have revealed that Bollywood actor Saif Ali Khan recently received a serious death threat. The warning was allegedly issued by Zeeshan Akhtar, an individual wanted by authorities in connection with the 2024 murder of prominent politician Baba Siddique.",
+          "Law enforcement agencies are currently working to determine the authenticity of the communication. Investigators are examining whether Akhtar actually originated the threat or if an unrelated party utilized his notoriety to target prominent film personalities and mislead officials."
+        ]
+      },
+      {
+        "h": "Broader Pattern of Harassment",
+        "p": [
+          "This incident follows a series of similar alarming messages sent to other prominent members of the film industry earlier in the month. Actors Tusshar Kapoor and Ayushmann Khurrana were targeted with comparable threats prior to this case.",
+          "Police inquiries into those earlier incidents led to the arrest of a 30-year-old IIT graduate from Bengaluru named Vaibhav Mishra. Authorities discovered that Mishra had no existing connections to organized crime syndicates and allegedly leveraged artificial intelligence tools to generate and issue the threats."
+        ]
+      },
+      {
+        "h": "Actor Response and Silence",
+        "p": [
+          "Following the emergence of the police reports regarding the threat, the Bollywood star has not yet released any public statement or official reaction addressing the situation.",
+          "Security measures and police inquiries remain active as investigators continue to trace the origins of the communication and assess any potential risks to the safety of the actor and his family."
+        ]
+      },
+      {
+        "h": "Previous Home Invasion Ordeal",
+        "p": [
+          "The recent security scare arrives nearly two years after the actor survived a violent home invasion at his Bandra residence in the early hours of January 16, 2025. An intruder managed to breach the home around 2 am and moved toward the bedroom of his younger son, Jeh.",
+          "In an effort to protect his child, the actor confronted the individual and sustained multiple stab wounds to his neck and back during the intense physical struggle that followed."
+        ]
+      },
+      {
+        "h": "Hospitalization and Family Toll",
+        "p": [
+          "Following the violent residential attack, the injured star underwent a six-hour surgical procedure at Lilavati Hospital and was discharged five days later to recover at home.",
+          "His wife, Kareena Kapoor, later described the immense panic of the night, detailing how she ran onto the street in her night T-shirt to flag down vehicles for transport to the medical facility. The traumatic event created lasting emotional distress, with the couple noting difficulty sleeping for nearly six months afterward."
+        ]
+      },
+      {
+        "h": "Background of the Siddique Murder Case",
+        "p": [
+          "The individual allegedly linked to the current threat, Zeeshan Akhtar, remains wanted for the tragic October 12, 2024, killing of Baba Siddique, a 66-year-old former Maharashtra minister and NCP leader.",
+          "The politician was shot outside his son Zeeshan Siddique's office in Bandra East by three assailants. Additionally, Anmol Bishnoi, the younger brother of jailed gangster Lawrence Bishnoi, was deported from the United States and subsequently arrested by the National Investigation Agency, currently being held in New Delhi's Tihar jail."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Saif Ali Khan received a death threat allegedly issued by Zeeshan Akhtar, an accused party in the October 2024 murder of NCP leader Baba Siddique. Mumbai Police are investigating the validity of the message alongside similar AI-generated threats previously sent to actors Tusshar Kapoor and Ayushmann Khurrana by an IIT graduate from Bengaluru."
+        ]
+      }
+    ],
+    "facts": [
+      "Saif Ali Khan received a death threat allegedly from Zeeshan Akhtar on November 19, 2026.",
+      "Baba Siddique was shot dead on October 12, 2024.",
+      "Vaibhav Mishra is a 30-year-old IIT graduate from Bengaluru arrested for previous threats.",
+      "The home invasion involving Saif Ali Khan occurred on January 16, 2025.",
+      "Anmol Bishnoi is currently lodged in Tihar jail in New Delhi."
+    ],
+    "entities": {
+      "people": [
+        "Saif Ali Khan",
+        "Zeeshan Akhtar",
+        "Baba Siddique",
+        "Tusshar Kapoor",
+        "Ayushmann Khurrana",
+        "Vaibhav Mishra",
+        "Kareena Kapoor",
+        "Zeeshan Siddique",
+        "Anmol Bishnoi",
+        "Lawrence Bishnoi",
+        "Karan Johar",
+        "Dipesh D. Tripathi",
+        "Devika Bhattacharya",
+        "Bilkis Bano",
+        "Capt Amarinder",
+        "Sonia",
+        "Trump",
+        "Putin",
+        "Xi"
+      ],
+      "titles": [
+        "Koffee With Karan Season 9",
+        "Kia Carens CNG",
+        "Carens Clavis CNG"
+      ]
+    },
+    "keywords": [
+      "Saif Ali Khan death threat",
+      "Zeeshan Akhtar Baba Siddique",
+      "Vaibhav Mishra actor threats",
+      "Saif Ali Khan attack Bandra"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/saif-ali-khan-191522669-16x9_0.jpg?VersionId=3ULPZXM0xtXpf_UZsnXOF50Av61pkO3S",
+        "caption": "Saif Ali Khan Targets of Death Threat Connected to High Profile Murder Case",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 13:43:11 +0530"
+  },
+  "156ox79": {
+    "id": "156ox79",
+    "type": "news",
+    "headline": "Yeh Prem Mol Liya Trailer Divides Internet Over Old-School Family Drama",
+    "dek": "Sooraj Barjatya's upcoming directorial venture starring Ayushmann Khurrana and Sharvari has sparked a debate online after releasing its official trailer.",
+    "body": [
+      {
+        "h": "The Trailer Launch and Initial Reception",
+        "p": [
+          "Filmmaker Sooraj Barjatya is making his return to traditional family dramas with his upcoming feature film, Yeh Prem Mol Liya. The official preview of the movie debuted on November 18, immediately drawing widespread attention across various social media platforms and entertainment portals.",
+          "While a large segment of viewers has welcomed the nostalgic storytelling and musical score, others have expressed skepticism regarding whether the veteran director's signature style remains relevant to contemporary audiences."
+        ]
+      },
+      {
+        "h": "Praise for Emotional Appeal and Music",
+        "p": [
+          "Supporters of the project have lauded the preview for its comforting tone and relatable characters. Several social media users commended the soothing aesthetic, simple narrative structure, and the overall lack of over-the-top melodrama.",
+          "Comparisons have already begun circulating online, with some enthusiasts drawing parallels to classic family films and describing the project as a potential spiritual successor to older emotional dramas."
+        ]
+      },
+      {
+        "h": "Divided Opinions on Casting Choices",
+        "p": [
+          "Despite positive reactions to the primary performances, the casting choices received mixed feedback from internet users. While Sharvari earned praise from multiple corners, opinion on the male lead was split.",
+          "Certain commentators argued that different actors might have suited the protagonist's role better, though many acknowledged that the chosen lead delivered a commendable performance in the promotional footage."
+        ]
+      },
+      {
+        "h": "Debating Old-School Treatment",
+        "p": [
+          "A vocal section of the audience questioned whether the conventional narrative approach would resonate with today's moviegoers. These critics labeled the preview underwhelming and reminiscent of 1990s melodrama.",
+          "Skeptics also pointed out that the central premise involving extended family living arrangements felt unrealistic and disconnected from modern household dynamics."
+        ]
+      },
+      {
+        "h": "Unconventional Plot and Premise",
+        "p": [
+          "The story centers around Prem Mishra, portrayed by Ayushmann Khurrana, and Purva Solanki, played by Sharvari. The plot revolves around an unusual marriage arrangement where Purva, the sole provider for her household, refuses to leave her family.",
+          "To resolve the conflict, Prem proposes that his own relatives relocate to her home, setting up a comedic and emotional clash of two distinct households forced to live under one roof."
+        ]
+      },
+      {
+        "h": "Key Plot Points and Legal Conflict",
+        "p": [
+          "The preview opens with a revelation that Prem's father, Ved Mishra, has initiated legal action against Purva's relatives. This legal dispute adds an immediate layer of tension to the otherwise feel-good narrative.",
+          "Viewers are introduced to Solanki Nivaas, a home managed by six women, highlighting Purva's deep sense of duty and responsibility toward her loved ones before the matrimonial negotiations begin."
+        ]
+      },
+      {
+        "h": "Crew, Ensemble Cast, and Release Date",
+        "p": [
+          "The film features music composed by Himesh Reshammiya alongside an ensemble supporting cast including Supriya Pathak, Seema Pahwa, Saumya Tandon, Swanand Kirkire, Shruti Seth, Shaad Randhawa, Girish Kulkarni, and Rajesh Kumar.",
+          "Produced by Rajshri Productions and Mahaveer Jain Films, Yeh Prem Mol Liya is scheduled to hit theaters globally on November 27."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Sooraj Barjatya's upcoming film Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari, has sparked a divide among internet users following its release on November 18. While fans praised the emotional music and comforting family themes, critics questioned the old-school narrative style and casting choices ahead of the theatrical premiere on November 27."
+        ]
+      }
+    ],
+    "facts": [
+      "Yeh Prem Mol Liya trailer was released on November 18, 2026.",
+      "The film is directed by Sooraj Barjatya.",
+      "Ayushmann Khurrana and Sharvari star in the lead roles.",
+      "The film releases in cinemas on November 27, 2026.",
+      "Himesh Reshammiya composed the music for the film.",
+      "Anupam Kher plays the character Ved Mishra."
+    ],
+    "entities": {
+      "people": [
+        "Sooraj Barjatya",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Himesh Reshammiya",
+        "Anupam Kher",
+        "Supriya Pathak",
+        "Seema Pahwa",
+        "Saumya Tandon",
+        "Swanand Kirkire",
+        "Shruti Seth",
+        "Shaad Randhawa",
+        "Girish Kulkarni",
+        "Rajesh Kumar",
+        "Shahid Kapoor",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Tapasya",
+        "Vivah",
+        "Baghban"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya trailer",
+      "Ayushmann Khurrana Sharvari film",
+      "Sooraj Barjatya Yeh Prem Mol Liya",
+      "Rajshri Productions November 27"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/yeh-prem-mol-liya-trailer-18025821-16x9.jpg?VersionId=c5wbYTEgrIlqNzkgwzfOpaBHccfINPS9",
+        "caption": "Yeh Prem Mol Liya Trailer Divides Internet Over Old-School Family Drama",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 14:08:11 +0530"
+  },
+  "hztwd8": {
+    "id": "hztwd8",
+    "type": "news",
+    "headline": "How the Director of Josephine Discovered Her Lead Star at a Farmers Market",
+    "dek": "Beth de Araujo spent more than a decade trying to bring her deeply personal drama to the screen, but casting the crucial young lead happened entirely by chance.",
+    "body": [
+      {
+        "h": "A Serendipitous Encounter at the Farmers Market",
+        "p": [
+          "The path to casting the central role in the drama Josephine involved an unexpected stroke of luck at a local community market. Writer and director Beth de Araujo spent twelve years attempting to get the production off the ground before crossing paths with her future star.",
+          "While visiting the Clement Street Farmers Market in San Francisco, the filmmaker spotted a young girl sprinting past to purchase dates for her mother. Struck by her incredible energy and distinctive look, the director immediately envisioned her as the fictional offspring of her main cast members."
+        ]
+      },
+      {
+        "h": "From Unscripted Discovery to Onscreen Debut",
+        "p": [
+          "Mason Reeves had no professional acting background prior to landing the part, though she grew up familiar with the audition process through her mother's commercial work. Approached out of nowhere by the stranger with a promotional flyer, the newcomer eventually reviewed the script and stepped into her first major role.",
+          "Once the production team reviewed the newcomer's first audition tape, any doubts vanished. The creative team knew instantly that they had found the right face to carry the emotional weight of the narrative."
+        ]
+      },
+      {
+        "h": "Plot and Personal Origins",
+        "p": [
+          "The narrative centers on an eight-year-old girl who witnesses a traumatic crime inside Golden Gate Park. As the young child begins exhibiting behavioral changes, her parents struggle to navigate the complexities of helping her heal from the hidden event.",
+          "The story stems from real memories, originating from a conversation the filmmaker shared with her father regarding a distressing incident they experienced during an early morning park visit when she was eight years old."
+        ]
+      },
+      {
+        "h": "Development Hurdles and Cast Synergy",
+        "p": [
+          "Though the script was shared with Gemma Chan as early as 2019, subsequent global health delays and industry strikes repeatedly pushed back production. Looking back, the creative team feels the extended wait was meant to happen so that the young lead could reach the exact age required for the part.",
+          "Channing Tatum joined the project as both an actor and producer after being deeply impressed by the director's previous feature film. Reading the screenplay triggered personal reflections on his own childhood conversations with his father and his current perspective as a parent."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Bonding",
+        "p": [
+          "Away from the cameras, the veteran actor and the young newcomer built a strong offscreen rapport through fun outings and shared activities. Their bonding sessions included getting pedicures together and attending martial arts training lessons.",
+          "They also engaged in playful athletic competitions, including a test of endurance on the playground monkey bars. While friendly arguments persisted over who actually claimed victory in certain contests, the director ultimately confirmed the younger star's athletic triumph."
+        ]
+      },
+      {
+        "h": "Festival Reception and Theatrical Rollout",
+        "p": [
+          "The finished feature made its debut at the Sundance Film Festival, garnering positive attention and securing three Gotham Award nominations, including a nod for Best Feature. The project has also built substantial momentum during its early festival run.",
+          "Following its initial festival circuit, the picture is scheduled for a limited theatrical release before expanding to locations nationwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Beth de Araujo successfully brought her twelve-year passion project to the screen after discovering untrained young actor Mason Reeves at a San Francisco farmers market. Starring alongside Channing Tatum and Gemma Chan, the drama explores childhood trauma and flawed parenting, earning festival acclaim and multiple Gotham Award nominations ahead of its theatrical rollout."
+        ]
+      }
+    ],
+    "facts": [
+      "Beth de Araujo spent 12 years trying to get Josephine made.",
+      "The discovery happened at San Francisco's Clement Street Farmers Market.",
+      "The film premiered at Sundance and is nominated for three Gotham Awards including Best Feature.",
+      "The script was sent to Gemma Chan in 2019.",
+      "The film opens in select theaters on Nov. 20 before going nationwide Dec. 4."
+    ],
+    "entities": {
+      "people": [
+        "Beth de Araujo",
+        "Mason Reeves",
+        "Gemma Chan",
+        "Channing Tatum"
+      ],
+      "titles": [
+        "Josephine",
+        "Soft Quiet"
+      ]
+    },
+    "keywords": [
+      "Josephine film",
+      "Beth de Araujo Josephine",
+      "Mason Reeves Josephine",
+      "Channing Tatum Gemma Chan Josephine",
+      "Josephine release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/Josephine.jpg?w=650",
+        "caption": "How the Director of Josephine Discovered Her Lead Star at a Farmers Market",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 07:35:07 +0000"
+  },
+  "1cqt1t4": {
+    "id": "1cqt1t4",
+    "type": "news",
+    "headline": "Mumbai Police Considers X-Category Protection For Bollywood Stars Following Recent Threats",
+    "dek": "Prominent Hindi film personalities including Ayushmann Khurrana and Tiger Shroff have approached the authorities for security cover following worrying threats and violent incidents in Mumbai.",
+    "body": [
+      {
+        "h": "Rising Security Concerns Among Bollywood Figures",
+        "p": [
+          "A growing wave of apprehension has swept through the Hindi film industry as multiple prominent actors reportedly reach out to law enforcement agencies for protection. Prominent names such as Ayushmann Khurrana and Tiger Shroff are among those who have formally petitioned the Mumbai Police for added security cover amidst an escalating environment of intimidation and targeted warnings directed at film personalities.",
+          "The atmosphere of unease has been exacerbated by recent hostile occurrences in the city, forcing both established stars and studio personnel to reevaluate their day-to-day safety measures. Law enforcement officials have acknowledged receiving applications from several celebrities who feel increasingly vulnerable in their public and private lives."
+        ]
+      },
+      {
+        "h": "The Juhu Firing Incident and Immediate Triggers",
+        "p": [
+          "The urgency behind these protective requests intensified sharply following a dangerous shooting incident in Mumbai's Juhu neighborhood. During this alarming episode, a firearm was discharged directly at a car belonging to actor Tiger Shroff, sending shockwaves through the local entertainment community and highlighting the tangible physical risks faced by performers.",
+          "Investigators from the Security and Protection Branch of the Mumbai Police are currently analyzing this violent confrontation alongside other menace reports. The brazen nature of the Juhu attack has fundamentally shifted how security agencies perceive the threat matrix surrounding high-profile actors operating in the region."
+        ]
+      },
+      {
+        "h": "Police Scrutiny and X-Category Consideration",
+        "p": [
+          "In response to the formal requests submitted by Khurrana, Shroff, and other actors, the Mumbai Police are actively reviewing each individual application. Authorities are utilizing a systematic evaluation process to verify the credibility of the warnings and determine the precise risk level associated with every applicant.",
+          "Among the protective options currently being weighed by the police department is the assignment of X-category security. However, law enforcement representatives have clarified that no official orders have been finalized yet, and all assessments remain ongoing pending thorough threat verifications."
+        ]
+      },
+      {
+        "h": "Understanding X-Category Security Arrangements",
+        "p": [
+          "For those unfamiliar with the protocol, X-category security typically entails the deployment of a couple of armed security personnel tasked with guarding the designated individual at all times. This protective detail is designed to deter hostile actors and provide immediate armed response capabilities in emergency scenarios.",
+          "While the baseline model involves two armed guards, the final configuration of these protective measures can be dynamically adjusted. Security agencies tailor the setup according to specific risk evaluations and situational recommendations formulated during ongoing threat analyses."
+        ]
+      },
+      {
+        "h": "Wider Industry Implications and Targeted Stars",
+        "p": [
+          "The safety crisis extends far beyond just two actors, with a substantial roster of Bollywood talent reportedly caught in the crosshairs of various criminal elements. Other major stars noted in security discussions include Amitabh Bachchan, Abhishek Bachchan, Akshay Kumar, Ranveer Singh, Tusshar Kapoor, and Aamir Khan, all of whom have allegedly faced menacing communications.",
+          "Specific incidents have already led to legal actions, such as the arrest of a Bengaluru-based IT professional named Vaibhav Mishra after Ayushmann Khurrana received a direct threat. Meanwhile, alleged communications targeting Amitabh and Abhishek Bachchan from pro-Khalistan elements have further compounded the industry's collective anxiety."
+        ]
+      },
+      {
+        "h": "Investigating Criminal Networks and Gang Connections",
+        "p": [
+          "Behind the scenes, specialized investigating agencies are probing potential links between these celebrity threats and established criminal syndicates. Law enforcement is closely examining the possible involvement of the Lawrence Bishnoi gang network in coordinating or inspiring the intimidation campaigns.",
+          "Furthermore, authorities are scrutinizing other criminal elements and associations, including individuals linked to Babbar Khalsa, Anil Pandit, Harry Boxer, and Goldy Dhillon. Comprehensive investigations into these underground connections and their respective roles in targeting Bollywood figures remain actively underway."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ayushmann Khurrana and Tiger Shroff are among several Bollywood actors seeking additional security from the Mumbai Police following growing threats, including a firing incident targeting Tiger Shroff's car in Juhu. Authorities are currently examining these protection requests and considering X-category security, while investigating possible links to criminal networks like the Lawrence Bishnoi gang."
+        ]
+      }
+    ],
+    "facts": [
+      "Ayushmann Khurrana and Tiger Shroff approached Mumbai Police for security cover.",
+      "A firing incident targeted Tiger Shroff's car in Mumbai's Juhu area.",
+      "Vaibhav Mishra, a Bengaluru-based IT professional, was arrested following a threat to Ayushmann Khurrana.",
+      "Amitabh Bachchan and Abhishek Bachchan allegedly received threats from pro-Khalistan elements.",
+      "Other actors reportedly receiving threats include Akshay Kumar, Ranveer Singh, Tusshar Kapoor, and Aamir Khan.",
+      "Investigating agencies are examining potential involvement of the Lawrence Bishnoi gang, Babbar Khalsa-linked elements, Anil Pandit, Harry Boxer, and Goldy Dhillon."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Tiger Shroff",
+        "Vaibhav Mishra",
+        "Amitabh Bachchan",
+        "Abhishek Bachchan",
+        "Akshay Kumar",
+        "Ranveer Singh",
+        "Tusshar Kapoor",
+        "Aamir Khan",
+        "Lawrence Bishnoi",
+        "Anil Pandit",
+        "Harry Boxer",
+        "Goldy Dhillon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Ayushmann Khurrana",
+      "Tiger Shroff",
+      "Mumbai Police",
+      "X-Category Protection",
+      "Bollywood threats"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-1.57.40-PM.jpeg",
+        "caption": "Mumbai Police Considers X-Category Protection For Bollywood Stars Following Recent Threats",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 14:01:06 +0200"
   }
 };
