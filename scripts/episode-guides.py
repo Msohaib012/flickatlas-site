@@ -18,9 +18,11 @@ TIERED (owner-approved 2026-10-26):
      episodes are not news).
   2. EPISODE SUMMARY (EVERY episode, same run — owner order 2026-10-28):
      ROMAN URDU, ~120-180 words, written by Gemini WATCHING the
-     episode's own YouTube link (fileData video route, model
-     gemini-3.5-flash-lite, keys GEMINI_API_KEY_1..6, same rotation as
-     scripts/gemini_batch.py) — what happens in THAT episode, in order.
+     episode's own YouTube link (fileData video route, models
+     gemini-3.5-flash-lite then gemini-3.5-flash fallback — lite 503s
+     persistently since 2026-11-11, flash works; keys GEMINI_API_KEY_1..6,
+     same rotation as scripts/gemini_batch.py) — what happens in THAT
+     episode, in order.
      NEVER grounded in the description text: the YouTube description
      is the drama's premise, identical across episodes, so it can only
      ever produce the drama's story, never the episode's. NEVER fall
@@ -132,7 +134,24 @@ PUBLISHED_JS = os.path.join(ROOT, "js", "published-titles.js")
 # YouTube vs the site's Pakistani Dramas list).
 DRAMA_ALIASES = {"dar": "Dar-E-Nijaat", "zehar": "Zehar-e-Mohabbat"}
 
-MODEL = "gemini-3.5-flash-lite"
+# Model fallback (2026-11-20 fix): gemini-3.5-flash-lite fileData has
+# returned HTTP 503 "model is currently experiencing high demand" on
+# every attempt since ~2026-11-11 (last successful summary 11 Nov
+# 17:17 UTC; 25 episodes carry that 503 in summary_error; verified
+# live 20 Nov: lite 503s in ~13s, flash succeeds in ~25s on the same
+# YouTube URL). Lite stays first (cheaper); flash is the fallback so
+# one overloaded model can no longer stall the whole step.
+MODELS = ("gemini-3.5-flash-lite", "gemini-3.5-flash")
+# Time budget for the summary loop (seconds). The workflow step has
+# timeout-minutes: 20 and the loop used to run unbounded: with lite
+# 503ing, 6-key retries burned the whole 20 min on the first episodes
+# and the step was killed (run #661: 13:51:46Z -> 14:11:59Z) before it
+# could record success — 0 summaries since 11 Nov, backlog 56. The
+# budget stops starting new summaries with margin left, so the step
+# exits 0, records success, and the backlog drains over the gated
+# runs instead of dying every time.
+SUMMARY_TIME_BUDGET_SEC = int(
+    os.environ.get("SUMMARY_TIME_BUDGET_SEC", "900") or "900")
 # Safety ceiling only (owner order 2026-10-28: every episode gets its
 # summary in the run that detects it). Observed max 16 detected in one
 # run, 7 posted/day — 50 never binds; it only stops a runaway loop
@@ -719,10 +738,12 @@ def call_gemini_filedata(keys, video_url, drama, epno):
     word EPISODE summary in Roman Urdu, in our own words. Proven spike
     2026-10-25 and the 2026-10-26 redo of 24 episodes: fileData on
     gemini-3.5-flash-lite, ~217K VIDEO tokens/episode. Returns the
-    summary text or None. Tries each key in turn (rotation). The last
-    failure is kept on call_gemini_filedata.last_error for the caller
-    to record. NEVER grounded in the description — the description is
-    the drama's premise, identical across episodes."""
+    summary text or None. Tries each key in turn (rotation) on each
+    model in MODELS order (lite first, flash fallback — 2026-11-20:
+    lite fileData 503s persistently, flash works). The last failure is
+    kept on call_gemini_filedata.last_error for the caller to record.
+    NEVER grounded in the description — the description is the drama's
+    premise, identical across episodes."""
     prompt = (
         f"Is Pakistani drama episode ko dekho aur sirf IS episode mein "
         f"jo kuch hota hai uska summary apne alfaz mein Roman Urdu "
@@ -737,41 +758,44 @@ def call_gemini_filedata(keys, video_url, drama, epno):
         f"Sirf summary text likho — koi heading, preamble ya bullet "
         f"list nahi.")
     call_gemini_filedata.last_error = None
-    for key in keys:
-        try:
-            body = json.dumps({
-                "contents": [{"parts": [
-                    {"fileData": {"mimeType": "video/mp4",
-                                  "fileUri": video_url}},
-                    {"text": prompt},
-                ]}],
-                "generationConfig": {"maxOutputTokens": 1024},
-            }).encode("utf-8")
-            req = urllib.request.Request(
-                f"https://generativelanguage.googleapis.com/v1beta/models/"
-                f"{MODEL}:generateContent",
-                data=body,
-                headers={"x-goog-api-key": key,
-                         "Content-Type": "application/json"})
-            # Video ingestion takes a while — 5 min timeout.
-            with urllib.request.urlopen(req, timeout=300) as r:
-                resp = json.load(r)
-            usage = (resp.get("usageMetadata") or {})
-            if usage.get("totalTokenCount"):
-                print(f"  gemini fileData tokens used: "
-                      f"{usage.get('totalTokenCount'):,}")
-            text = resp["candidates"][0]["content"]["parts"][0]["text"]
-            text = (text or "").strip()
-            if len(text) < 50:
-                print("  gemini summary too short, treating as failure")
-                call_gemini_filedata.last_error = "summary too short"
+    for model in MODELS:
+        for key in keys:
+            try:
+                body = json.dumps({
+                    "contents": [{"parts": [
+                        {"fileData": {"mimeType": "video/mp4",
+                                      "fileUri": video_url}},
+                        {"text": prompt},
+                    ]}],
+                    "generationConfig": {"maxOutputTokens": 1024},
+                }).encode("utf-8")
+                req = urllib.request.Request(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/"
+                    f"{model}:generateContent",
+                    data=body,
+                    headers={"x-goog-api-key": key,
+                             "Content-Type": "application/json"})
+                # Video ingestion takes a while — 5 min timeout.
+                with urllib.request.urlopen(req, timeout=300) as r:
+                    resp = json.load(r)
+                usage = (resp.get("usageMetadata") or {})
+                if usage.get("totalTokenCount"):
+                    print(f"  gemini fileData tokens used: "
+                          f"{usage.get('totalTokenCount'):,}")
+                text = resp["candidates"][0]["content"]["parts"][0]["text"]
+                text = (text or "").strip()
+                if len(text) < 50:
+                    print("  gemini summary too short, treating as failure")
+                    call_gemini_filedata.last_error = "summary too short"
+                    continue
+                return text
+            except Exception as e:
+                call_gemini_filedata.last_error = str(e)
+                print(f"  gemini {model} key ...{key[-4:]} fileData "
+                      f"failed: {e}")
                 continue
-            return text
-        except Exception as e:
-            call_gemini_filedata.last_error = str(e)
-            print(f"  gemini key ...{key[-4:]} fileData failed: {e}")
-            continue
-    print("  gemini: all keys failed for this episode")
+        print(f"  gemini: all keys failed on {model}, trying next model")
+    print("  gemini: all keys failed on all models for this episode")
     return None
 
 
@@ -1182,7 +1206,18 @@ def main():
             print(f"summaries: backlog {len(pending)}, budget {budget} "
                   f"this run ({done_today} already today)")
             made = 0
+            # Time budget (2026-11-20 fix): the step dies at 20 min, so
+            # stop STARTING new summaries once the budget is spent —
+            # the rest stays queued for the next gated run instead of
+            # the step being killed mid-loop with nothing recorded.
+            loop_started = time.monotonic()
             for ep in pending[:budget]:
+                if time.monotonic() - loop_started > SUMMARY_TIME_BUDGET_SEC:
+                    print(f"  summaries: time budget "
+                          f"({SUMMARY_TIME_BUDGET_SEC}s) spent — "
+                          f"{len(pending) - made - len(failed_names)} "
+                          f"left for the next run")
+                    break
                 print(f"  summarising {ep['drama']} Ep {ep['episode']} "
                       f"({ep.get('views', 0):,} views)…")
                 # Roman Urdu EPISODE summary: Gemini watches the
