@@ -147303,6 +147303,12 @@ window.FA_ARTICLES = {
         "p": [
           "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bareera Shah Dawood se milne uske ghar pahunchti hai, jahan Dawood zehar ke asar se behosh ho jata hai aur use hospital le j"
+        ]
       }
     ],
     "facts": [
@@ -147310,7 +147316,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=HfokLFZYbGo",
       "YouTube views: 433,638.",
-      "TMDB: Nashtar (id 332312)."
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -147349,6 +147356,12 @@ window.FA_ARTICLES = {
         "p": [
           "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Faryal ko uske shohar ki gusse bhari call aati hai, jahan woh us par Mufti Sahab se shikayat karne ka ilzam lagata hai aur"
+        ]
       }
     ],
     "facts": [
@@ -147356,7 +147369,8 @@ window.FA_ARTICLES = {
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=3GePwM9Fq7s",
       "YouTube views: 537,667.",
-      "TMDB: Dar-E-Nijaat (id 328722)."
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -193710,13 +193724,20 @@ window.FA_ARTICLES = {
           "Mera Ghar Episode 2 aired on 2026-11-18 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=AmcmTyvkOw4"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Horain ki ammi ki tabiyat achanak kharab ho jati hai aur doctor unhe angioplasty ke liye kehte hain. Shahriyar (Sherry) hospital poh"
+        ]
       }
     ],
     "facts": [
       "Mera Ghar Episode 2 aired on 2026-11-18.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=AmcmTyvkOw4",
-      "YouTube views: 504,184."
+      "YouTube views: 504,184.",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -201580,13 +201601,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 58 aired on 2026-11-20 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=F8T3hlRBtTg"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Eesa apni gaadi mein baith kar Uswah ki baatein sochta hai aur baad mein apne dost Anas se mil kar apni uljhan aur gusse ka"
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 58 aired on 2026-11-20.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=F8T3hlRBtTg",
-      "YouTube views: 563,677."
+      "YouTube views: 563,677.",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -203369,5 +203397,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 18:13:39 +0000"
+  },
+  "1e131cd": {
+    "id": "1e131cd",
+    "type": "news",
+    "headline": "Avengers Doomsday Advance Booking Points to Record Hollywood Opening in India",
+    "dek": "Marvel Cinematic Universe entry Avengers Doomsday has opened advance bookings a month before its December 17 release in India, sparking massive interest and raising expectations for a potential 100 crore opening day.",
+    "body": [
+      {
+        "h": "Advance Booking Surge Ahead of Release",
+        "p": [
+          "Advance ticket sales for Avengers Doomsday have commenced roughly four weeks prior to its scheduled theatrical arrival in India, where it is slated to open a day early on December 17. Fans have responded with immense enthusiasm, causing a surge in ticket purchases as audiences rush to secure prime seats for the upcoming Marvel Cinematic Universe feature.",
+          "The early momentum indicates a monumental response across multiple territories, driven largely by English-language screenings while regional and Hindi language bookings also display strong initial numbers."
+        ]
+      },
+      {
+        "h": "Early Gross Collections and Occupancy",
+        "p": [
+          "According to data from Sacnilk up to November 20, advance bookings along with blocked seats have accumulated a gross collection of 42.07 crore across a four-day span. Out of this total, the opening day alone accounts for 19.14 crore in earnings, registering an opening day theater occupancy rate of 49 percent.",
+          "These figures are particularly notable given that the film is still about four weeks away from its premiere, and ticketing has only launched in select theaters rather than across the entire country."
+        ]
+      },
+      {
+        "h": "The Pursuit of a 100 Crore Opening",
+        "p": [
+          "The exceptional early traction has fueled widespread speculation that Avengers Doomsday could become the first Hollywood release in India to cross 100 crore in gross collections on its very first day. Achieving this milestone would require a surge of approximately 38 percent over the current record holder for Hollywood opening days in the country.",
+          "While current demand is robust, ticket sales are primarily concentrated in major metropolitan areas and premium-priced theaters, meaning the true scale of the film's opening potential will become clearer once nationwide booking opens fully."
+        ]
+      },
+      {
+        "h": "Breaking Previous Marvel Benchmarks",
+        "p": [
+          "Earlier this year, the Marvel Cinematic Universe set a high bar when Spider-Man Brand New Day achieved the largest opening day collection for a Hollywood film in India. Avengers Doomsday now stands poised to challenge and potentially surpass that benchmark.",
+          "Industry observers note that the upcoming movie carries the elements that franchise enthusiasts typically look for, positioning it favorably to shatter historical Hollywood box office ceilings in the region."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers Doomsday has begun advance bookings in India roughly a month before its December 17 premiere, generating 42.07 crore in gross collections over four days. The strong initial response has sparked predictions that the Marvel film could achieve a historic 100 crore opening day, potentially surpassing previous Hollywood records set by Spider-Man Brand New Day."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers Doomsday releases in India on December 17.",
+      "Advance bookings began about a month before release.",
+      "Gross collection reached 42.07 crore across four days as of November 20 according to Sacnilk.",
+      "First day collections accounted for 19.14 crore.",
+      "First day theater occupancy was noted at 49 percent.",
+      "Spider-Man Brand New Day previously set the record for the biggest Hollywood opening in India."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Avengers Doomsday",
+        "Spider-Man Brand New Day",
+        "Avengers Endgame",
+        "Baahubali"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Avengers Doomsday advance booking",
+      "Avengers Doomsday India box office",
+      "Spider-Man Brand New Day"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6affc71e4556e-avengers-doomsday-advance-booking-200548934-16x9.jpg",
+        "caption": "Avengers Doomsday Advance Booking Points to Record Hollywood Opening in India",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T20:11:41Z"
+  },
+  "10kqdg3": {
+    "id": "10kqdg3",
+    "type": "news",
+    "headline": "Spice and Wolf Season 2 Confirmed for January 2027 Release with New Lenos Arc and Returning Cast",
+    "dek": "The acclaimed anime remake is trading the wagon for a ship as Holo and Lawrence head to the port town of Lenos for Season 2, slated to air in January 2027.",
+    "body": [
+      {
+        "h": "Setting Sail for Lenos",
+        "p": [
+          "Fans of the 2024 remake Spice and Wolf: MERCHANT MEETS THE WISE WOLF finally have a confirmed release timeframe for the upcoming second season. Production teams announced that the series will return in January 2027 on TV Tokyo and other Japanese networks.",
+          "Moving away from the traditional horse-drawn wagon journeys of the first season, the main characters Holo and Lawrence are taking to the sea. Their next major destination is the bustling dock town of Lenos, introducing a brand-new maritime setting to the narrative."
+        ]
+      },
+      {
+        "h": "New Faces and Returning Cast",
+        "p": [
+          "The core voice talent remains completely intact for the second season. Ami Koshimizu returns to voice the sharp-witted wolf deity Holo, while Jun Fukuyama reprises his role as the economically minded merchant Kraft Lawrence.",
+          "A major addition to the cast is the return of Romi Park as Eve Bolan. Park previously voiced the character in the original 2008-2009 anime adaptation and is now back to portray the merchant who approaches Lawrence with a lucrative fur deal carrying high stakes."
+        ]
+      },
+      {
+        "h": "Behind the Production Team",
+        "p": [
+          "Studio Passione continues its animation work on the series, blending familiar leadership with fresh perspectives. Takeo Takahashi comes back as chief director alongside first-season director Hijiri Sanpei, while Nobuyoshi Nagayama and Takahiro Majima step in to co-direct Season 2.",
+          "The production consistency extends to the audio and visual design departments. Composer Kevin Penkin returns to handle the musical score, and Koji Haneda alongside Rina Sugimoto resume character design duties for the upcoming episodes."
+        ]
+      },
+      {
+        "h": "Adapting Unexplored Light Novel Material",
+        "p": [
+          "A major talking point surrounding the second season is its source material coverage. While the original 2009 anime adaptation skipped certain light novel volumes, the modern remake is focused on filling those historical gaps.",
+          "Viewers and longtime book readers have expressed excitement that this production trajectory may finally adapt deeper portions of Isuna Hasekura's original stories that were previously omitted or compressed in past television versions."
+        ]
+      },
+      {
+        "h": "Global Streaming Expectations",
+        "p": [
+          "While the Japanese broadcast window is locked for January 2027, an exact premiere day within the month has not yet been detailed. International audiences primarily expect Crunchyroll to serve as the global streaming home, following the distribution pattern of the first season.",
+          "Netflix has also featured the series in select regional markets, though precise availability will likely vary by country. Prior to the new season, streaming platforms like ABEMA hosted marathons of the first season's 25 episodes to help fans catch up."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Visuals",
+        "p": [
+          "Promotional materials for Season 2 emphasize the multifaceted relationship between Lawrence and Holo. Key visuals display contrasting moods, ranging from lighthearted travel moments on the docks to tense candlelit tavern discussions.",
+          "The introduction of town council figures and trade contacts like Eve Bolan, Arold, Rigolo, and Melta suggests that the economic tension and character drama will remain central to the plot as the narrative unfolds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Spice and Wolf Season 2 is officially scheduled to premiere in January 2027 on networks including TV Tokyo, shifting the setting to the port town of Lenos. The production features returning voice actors Ami Koshimizu and Jun Fukuyama alongside returning staff from studio Passione, promising to adapt new story arcs from the light novels."
+        ]
+      }
+    ],
+    "facts": [
+      "Spice and Wolf Season 2 is scheduled for January 2027.",
+      "The official announcement was made on November 18, 2026.",
+      "The story will feature the port town of Lenos.",
+      "Ami Koshimizu returns as Holo and Jun Fukuyama returns as Kraft Lawrence.",
+      "Romi Park returns to voice the character Eve Bolan.",
+      "Studio Passione handles the animation for the remake."
+    ],
+    "entities": {
+      "people": [
+        "Holo",
+        "Kraft Lawrence",
+        "Eve Bolan",
+        "Arold",
+        "Rigolo",
+        "Melta",
+        "Romi Park",
+        "Jun Fukuyama",
+        "Ami Koshimizu",
+        "Takeo Takahashi",
+        "Hijiri Sanpei",
+        "Nobuyoshi Nagayama",
+        "Takahiro Majima",
+        "Kevin Penkin",
+        "Koji Haneda",
+        "Rina Sugimoto",
+        "Isuna Hasekura"
+      ],
+      "titles": [
+        "Spice and Wolf",
+        "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
+        "Smile Down the Runway"
+      ]
+    },
+    "keywords": [
+      "Spice and Wolf Season 2",
+      "Holo and Lawrence",
+      "Eve Bolan Lenos arc",
+      "Spice and Wolf release date",
+      "Ami Koshimizu Jun Fukuyama"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/webp-27.webp",
+        "caption": "Spice and Wolf Season 2 Confirmed for January 2027 Release with New Lenos Arc and Returning Cast",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 19:26:52 +0000"
+  },
+  "1safbwi": {
+    "id": "1safbwi",
+    "type": "news",
+    "headline": "Eight Heart-Wrenching Romantic Web Series That Explore Pain and Love",
+    "dek": "From decades-spanning connections to doomed road trips, these eight romantic web series on streaming platforms offer emotional storytelling that deals with heartbreak.",
+    "body": [
+      {
+        "h": "The Allure of Tragic Romance on Streaming Platforms",
+        "p": [
+          "While traditional cinema has long relied on grand cinematic tragedies, the digital streaming era has expanded the scope of romance by offering extended narratives without the constraints of an intermission. Shows can now trace the trajectory of relationships over years, allowing audiences to deeply invest in characters before watching their stories slowly unravel.",
+          "Streaming platforms provide the ideal space for stories about longing, missed connections, and parting ways. Without the rush of a standard theatrical runtime, these eight television productions take their time to explore the delicate and often painful nuances of human affection."
+        ]
+      },
+      {
+        "h": "One Day Follows Two Decades of Unresolved Timing",
+        "p": [
+          "Available on Netflix, One Day revisits the lives of Emma and Dexter on the exact same date of July 15 across two decades. Portrayed by Ambika Mod and Leo Woodall, the characters cycle through being friends, strangers, and almost-lovers.",
+          "The narrative leaps forward by a year with each installment, making viewers wait twenty years for the timing to finally align. Its merciless finale ensures that the audience needs tissues nearby from start to finish."
+        ]
+      },
+      {
+        "h": "Normal People Captures Quiet Misunderstandings",
+        "p": [
+          "Distributed via Hulu and the BBC, Normal People stars Daisy Edgar-Jones and Paul Mescal as Marianne and Connell. Their connection drifts from the corridors of a small-town Irish school to university life and back again.",
+          "The emotional weight of the show relies heavily on unspoken words and heavy silences. Because the characters rarely say what they truly mean, the resulting pain feels remarkably grounded and quiet."
+        ]
+      },
+      {
+        "h": "Anthologies and Cross-Border Romances",
+        "p": [
+          "Prime Video's Modern Love presents half-hour episodes that function as individual universes of longing. Each distinct story explores different facets of affection and heartbreak without repeating formulas.",
+          "On Netflix, Crash Landing on You delivers a premise involving a South Korean heiress, a paragliding accident, and a North Korean army officer. Hyun Bin and Son Ye-jin convey their goodbyes so convincingly that their on-screen chemistry eventually translated into a real-life marriage."
+        ]
+      },
+      {
+        "h": "Exes and Farewells in Our Beloved Summer and Mr Plankton",
+        "p": [
+          "Our Beloved Summer on Netflix features Choi Woo-shik and Kim Da-mi as former partners forced back together when a documentary crew films them. The soft, slow-paced narrative sheds new light on old emotional wounds.",
+          "Also on Netflix, Mr Plankton stars Woo Do-hwan as Hae-jo, who has only months left to live. He takes his ex-partner Jae-mi, played by Lee Yoo-mi, away from her wedding day on an eccentric and bittersweet farewell road trip."
+        ]
+      },
+      {
+        "h": "Messy Breakups and Domestic Realism",
+        "p": [
+          "Broken But Beautiful, streaming across ALTBalaji and MX Player, examines the messy aftermath of a shattered romance. Led by Vikrant Massey and Harleen Sethi in the first season, the series explores late-night emotional spirals and the slow process of healing.",
+          "Netflix's Little Things stars Dhruv Sehgal and Mithila Palkar as Dev and Kavya, a live-in couple residing in Mumbai. Their narrative focuses on the small, quiet details of domestic life before delivering heavy bittersweet moments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A recent feature highlights eight romantic web series available on streaming platforms like Netflix, Hulu, BBC, Prime Video, ALTBalaji, and MX Player that focus on tragic and heartbreaking love stories. The curated selection includes shows featuring actors such as Ambika Mod, Leo Woodall, Daisy Edgar-Jones, Paul Mescal, Hyun Bin, Son Ye-jin, Vikrant Massey, and Mithila Palkar, among others."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 20, 2026, 17:15 IST",
+      "Written by Khushi Mundhwa",
+      "One Day drops every episode on July 15",
+      "Crash Landing on You stars Hyun Bin and Son Ye-jin",
+      "Broken But Beautiful features Vikrant Massey and Harleen Sethi in the first season"
+    ],
+    "entities": {
+      "people": [
+        "Khushi Mundhwa",
+        "Ambika Mod",
+        "Leo Woodall",
+        "Daisy Edgar-Jones",
+        "Paul Mescal",
+        "Hyun Bin",
+        "Son Ye-jin",
+        "Choi Woo-shik",
+        "Kim Da-mi",
+        "Woo Do-hwan",
+        "Lee Yoo-mi",
+        "Vikrant Massey",
+        "Harleen Sethi",
+        "Dhruv Sehgal",
+        "Mithila Palkar"
+      ],
+      "titles": [
+        "One Day",
+        "Normal People",
+        "Modern Love",
+        "Crash Landing on You",
+        "Our Beloved Summer",
+        "Mr Plankton",
+        "Broken But Beautiful",
+        "Little Things"
+      ]
+    },
+    "keywords": [
+      "One Day Netflix",
+      "Normal People Hulu BBC",
+      "Crash Landing on You Netflix",
+      "Broken But Beautiful ALTBalaji",
+      "Little Things Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/8-heart-wrenching-romantic-web-series-that-break-your-heart-beautifully1795171663.jpg",
+        "caption": "Eight Heart-Wrenching Romantic Web Series That Explore Pain and Love",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-20T17:15:27+05:30"
+  },
+  "1jksegr": {
+    "id": "1jksegr",
+    "type": "news",
+    "headline": "Sony Pictures Releases First Teaser Trailer for World War II Drama The Nightingale",
+    "dek": "Dakota and Elle Fanning share the screen for the very first time in Michael Morris's feature film adaptation of Kristin Hannah's bestselling novel.",
+    "body": [
+      {
+        "h": "First Teaser Trailer Debuts",
+        "p": [
+          "Sony Pictures has officially unveiled the very first teaser trailer for the upcoming feature film adaptation of The Nightingale. The preview offers audiences an early glimpse into the emotional wartime project, highlighting its high production values and atmospheric period setting.",
+          "The newly released footage introduces viewers to the harrowing world of the film, setting the tone for what is expected to be a powerful cinematic journey through European history."
+        ]
+      },
+      {
+        "h": "First-Time Screen Pairing of Dakota and Elle Fanning",
+        "p": [
+          "A major milestone of the production is the landmark casting of real-life sisters Dakota and Elle Fanning. Although both actors previously appeared in the 2001 release I Am Sam—where Elle portrayed a younger version of her sister's character—this project marks the first time they act directly opposite each other in shared scenes.",
+          "Their on-screen dynamic forms the emotional core of the narrative, bringing a unique layer of authentic sibling chemistry to their respective dramatic roles."
+        ]
+      },
+      {
+        "h": "Source Material and Plot Background",
+        "p": [
+          "The film is based on Kristin Hannah's highly popular 2015 bestselling novel of the same name. The narrative unfolds against the backdrop of German-occupied France during the turmoil of World War II.",
+          "The story follows two sisters, Vianne Mauriac and Isabelle Rossignol, as they navigate vastly different methods of survival during the wartime occupation. Vianne is portrayed as a married schoolteacher striving to shield her home and daughter after her husband is captured and a German officer takes up residence in her house. In contrast, Isabelle acts as a rebellious younger sibling who joins the clandestine French Resistance to rescue downed Allied airmen."
+        ]
+      },
+      {
+        "h": "Expanded Ensemble Cast",
+        "p": [
+          "Beyond the leading Fanning sisters, the movie features a robust supporting cast of acclaimed performers. Mark Rylance joins the ensemble as the characters' estranged father, Julien Rossignol.",
+          "Other notable names featured in the credits include Shira Haas, Edmund Donovan, Albrecht Schuch, Douglas Hodge, Gwilym Lee, and Vinette Robinson, rounding out a talented international roster."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Production Team",
+        "p": [
+          "The directorial duties for the adaptation belong to filmmaker Michael Morris, whose previous credits include To Leslie and Bridget Jones: Mad About the Boy. The screenplay was collaboratively written by Dana Stevens and Ann Peacock.",
+          "The production team includes Dakota and Elle Fanning as producers, working alongside Brittany Kahan Ward, Reese Witherspoon, Lauren Neustadter from Hello Sunshine, and Elizabeth Cantillon. Executive producers on the project consist of Emily Ferenbach, J. Michael Williams, and author Kristin Hannah."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Fans waiting to experience the historical drama on the big screen will not have to wait much longer. Sony Pictures has scheduled the film for an exclusive theatrical release.",
+          "The official launch date is locked in for March 19, 2027, bringing the literary adaptation directly to movie theaters nationwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony Pictures has released the first teaser trailer for the World War II drama The Nightingale, which adapts Kristin Hannah's 2015 bestselling novel. Directed by Michael Morris, the film marks the first time real-life sisters Dakota and Elle Fanning share the screen in a feature, set against the backdrop of occupied France. The movie is scheduled to open exclusively in theaters on March 19, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "The Nightingale is adapted from Kristin Hannah's 2015 bestselling novel.",
+      "The film is directed by Michael Morris.",
+      "Dakota Fanning plays Vianne Mauriac and Elle Fanning plays Isabelle Rossignol.",
+      "The movie is scheduled to open in theaters on March 19, 2027.",
+      "Mark Rylance plays Julien Rossignol."
+    ],
+    "entities": {
+      "people": [
+        "Dakota Fanning",
+        "Elle Fanning",
+        "Michael Morris",
+        "Kristin Hannah",
+        "Mark Rylance",
+        "Shira Haas",
+        "Edmund Donovan",
+        "Albrecht Schuch",
+        "Douglas Hodge",
+        "Gwilym Lee",
+        "Vinette Robinson",
+        "Dana Stevens",
+        "Ann Peacock",
+        "Brittany Kahan Ward",
+        "Reese Witherspoon",
+        "Lauren Neustadter",
+        "Elizabeth Cantillon",
+        "Emily Ferenbach",
+        "J. Michael Williams"
+      ],
+      "titles": [
+        "The Nightingale",
+        "I Am Sam",
+        "To Leslie",
+        "Bridget Jones: Mad About the Boy"
+      ]
+    },
+    "keywords": [
+      "The Nightingale film",
+      "Dakota and Elle Fanning",
+      "The Nightingale release date",
+      "Michael Morris director"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/The_Nightingale_NYevent_111626_0015.jpg?w=650",
+        "caption": "Sony Pictures Releases First Teaser Trailer for World War II Drama The Nightingale",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 19:30:00 +0000"
   }
 };

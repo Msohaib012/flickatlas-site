@@ -2147,34 +2147,34 @@
       "37": {
         "ai_first": false,
         "collection_currency": "USD",
-        "collection_inr_cr": 0.04,
+        "collection_inr_cr": 0.05,
         "collection_scope": "india_net",
-        "collection_usd": 4226,
+        "collection_usd": 5283,
         "date": "2026-11-20",
         "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 16.4
+              "filmynewsnetwork": 17.2
             },
-            "value": 16.4
+            "value": 17.2
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 104
+              "filmynewsnetwork": 105
             },
-            "value": 104
+            "value": 105
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 3055
+              "filmynewsnetwork": 3191
             },
-            "value": 3055
+            "value": 3191
           }
         },
         "india": true,
         "sources": {
-          "filmynewsnetwork": 0.04
+          "filmynewsnetwork": 0.05
         }
       },
       "4": {
@@ -4633,9 +4633,9 @@
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 1357
+              "filmynewsnetwork": 1356
             },
-            "value": 1357
+            "value": 1356
           }
         },
         "india": true,
@@ -7076,9 +7076,9 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 10.2
+              "filmynewsnetwork": 10.8
             },
-            "value": 10.2
+            "value": 10.8
           },
           "shows": {
             "sources": {
@@ -7088,9 +7088,9 @@
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 1750
+              "filmynewsnetwork": 1855
             },
-            "value": 1750
+            "value": 1855
           }
         },
         "india": true,
