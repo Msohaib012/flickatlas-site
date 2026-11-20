@@ -4922,6 +4922,11 @@ window.FA_DAYWISE = {
       "overseas": 105652,
       "shows": 3962,
       "occupancy": 17.7
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Day 14",
+      "collection": 200740
     }
   ],
   "1612811": [

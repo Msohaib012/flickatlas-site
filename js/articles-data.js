@@ -196412,5 +196412,431 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 06:13:47 +0530"
+  },
+  "1586ff6": {
+    "id": "1586ff6",
+    "type": "news",
+    "headline": "OM (Operation Mole) Advance Booking Crosses 19 Crore: Dhanush Breaks Career Records",
+    "dek": "Dhanush's upcoming spy thriller OM (Operation Mole) has shattered his previous advance-booking records ahead of its theatrical debut.",
+    "body": [
+      {
+        "h": "Record-Breaking Presale Numbers",
+        "p": [
+          "The upcoming spy thriller OM (Operation Mole) has shattered previous records by pulling in massive advance-booking figures prior to its theatrical debut. By the evening before its premiere, the feature crossed 19.36 crore gross in worldwide advance bookings.",
+          "When excluding blocked seats, the figures still stand at a remarkable 16.71 crore. This milestone highlights massive anticipation among fans globally."
+        ]
+      },
+      {
+        "h": "Ticket Sales Milestone",
+        "p": [
+          "Alongside the monetary earnings, the volume of tickets sold reflects extraordinary demand. Trade reports confirm that the project has moved 13.02 lakh tickets globally.",
+          "Even when excluding blocked seats, the ticket count remains exceptionally high at 11.22 lakh sold before the opening day."
+        ]
+      },
+      {
+        "h": "Surpassing Raayan",
+        "p": [
+          "The current presale collection marks the highest advance-booking total of Dhanush’s career. It successfully eclipses the opening-day presales of his previous venture Raayan.",
+          "Raayan had previously recorded roughly 6.15 to 6.20 crore in early ticket sales, a figure that OM (Operation Mole) has now comfortably outperformed."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "OM (Operation Mole) is spearheaded by director Rajkumar Periasamy. The film boasts a prominent main cast featuring Dhanush alongside veteran star Mammootty.",
+          "Additionally, the ensemble features acclaimed actors Sai Pallavi and Sreeleela in major roles, adding significant star power to the project."
+        ]
+      },
+      {
+        "h": "Release Details and Languages",
+        "p": [
+          "The spy thriller is scheduled to hit cinema screens on November 20, 2026. It will debut in its original Tamil language alongside simultaneous versions in Telugu, Hindi, Malayalam, and Kannada.",
+          "This multi-language rollout aims to capture a diverse, pan-Indian audience on opening day."
+        ]
+      },
+      {
+        "h": "Plot and Marketing Strategy",
+        "p": [
+          "While marketed as a high-stakes spy thriller, specific plot details for OM (Operation Mole) have been kept under wraps. The promotional campaign has intentionally maintained mystery surrounding the core storyline.",
+          "Comprehensive story details are expected to emerge once reviews and early audience reactions become available after the release."
+        ]
+      },
+      {
+        "h": "Opening Day Projections",
+        "p": [
+          "Following these historic advance bookings, trade analysts anticipate strong opening figures. Projections from Pinkvilla suggest the film is pacing toward 13.50 to 15 crore in worldwide opening-day advances alone.",
+          "Industry watchers will be closely monitoring whether these presale numbers translate into a definitive new personal best for the lead star's opening day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dhanush's spy thriller OM (Operation Mole) has achieved a career-best milestone by crossing 19.36 crore gross in worldwide advance bookings ahead of its November 20, 2026 release. Directed by Rajkumar Periasamy and co-starring Mammootty, Sai Pallavi, and Sreeleela, the multi-language film surpasses the presale numbers of his previous project Raayan.",
+          "Trade trackers await the official opening-day gross to see how strongly these historic advance ticket sales convert into final box office receipts."
+        ]
+      }
+    ],
+    "facts": [
+      "OM (Operation Mole) releases on November 20, 2026",
+      "Worldwide advance bookings reached 19.36 crore gross",
+      "Advance bookings excluding blocked seats reached 16.71 crore",
+      "Total tickets sold reached 13.02 lakh",
+      "Tickets sold excluding blocked seats reached 11.22 lakh",
+      "Previous film Raayan had opening-day presales of around 6.15 to 6.20 crore",
+      "Projected worldwide opening-day advances are pacing toward 13.50 to 15 crore",
+      "Directed by Rajkumar Periasamy",
+      "Stars Dhanush, Mammootty, Sai Pallavi, and Sreeleela",
+      "Releasing in Tamil, Telugu, Hindi, Malayalam, and Kannada"
+    ],
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Rajkumar Periasamy"
+      ],
+      "titles": [
+        "OM (Operation Mole)",
+        "Raayan"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "Dhanush Operation Mole",
+      "OM Operation Mole advance booking",
+      "Raayan Dhanush film"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/11/dhanush.jpg",
+        "caption": "OM (Operation Mole) Advance Booking Crosses 19 Crore: Dhanush Breaks Career Records",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 23:53:55 +0000"
+  },
+  "5gca82": {
+    "id": "5gca82",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Shatters Entertainment Records With Massive Launch Day Sales",
+    "dek": "The latest installment in the iconic video game franchise has taken the cultural zeitgeist by storm, pulling in billions on its opening day.",
+    "body": [
+      {
+        "h": "Record-Breaking Launch Day Financials",
+        "p": [
+          "The highly anticipated arrival of Grand Theft Auto VI has immediately rewritten the history books for the entertainment industry. Within the first twenty-four hours of going live, the title crossed extraordinary financial thresholds.",
+          "According to market intelligence data from Sensor Tower, the digital launch generated over two billion dollars, far surpassing earlier records and establishing a new benchmark for commercial success."
+        ]
+      },
+      {
+        "h": "Pre-Order Dominance and Digital Sales",
+        "p": [
+          "A substantial portion of the initial financial triumph came from advance reservations alone. Market analysts noted that consumer demand drove pre-orders past the two billion dollar mark even before the game officially unlocked at midnight.",
+          "The release opted for a completely download-based rollout, shifting millions of units primarily across current-generation home consoles."
+        ]
+      },
+      {
+        "h": "Setting a New Bar for the Franchise",
+        "p": [
+          "Thirteen years have passed since the previous mainline entry captivated players around the globe. That predecessor previously set high-water marks that now look modest by comparison.",
+          "The new chapter immediately eclipsed older milestones, multiplying opening figures as millions of fans rushed to download the massive digital file size onto their hardware."
+        ]
+      },
+      {
+        "h": "Cultural Impact and Media Convergence",
+        "p": [
+          "Beyond financial metrics, the title has thoroughly dominated public discourse across traditional media and digital platforms alike. News outlets, cultural commentators, and online streamers have dedicated extensive coverage to the phenomenon.",
+          "Public figures, government agencies, and corporate brands seized the moment to join the online conversation, integrating references to the fictional setting into their own messaging."
+        ]
+      },
+      {
+        "h": "Public Debate and Productivity Discussion",
+        "p": [
+          "The massive wave of engagement inevitably triggered broader conversations about modern workforce habits and cultural priorities. Pundits debated the economic implications of workers stepping away from daily routines to experience the release.",
+          "Despite critical commentary from some broadcast segments, the overwhelming public interest echoed the historic tradition of major entertainment milestones generating widespread debate."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Future Milestones",
+        "p": [
+          "Industry watchers project that financial accumulation will continue climbing rapidly in the coming weeks. Projections indicate the title could soon approach even higher economic tiers.",
+          "Further expansions into networked multiplayer environments later down the line are expected to generate yet another surge in player engagement and long-term revenue."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI achieved a record-shattering launch by surpassing two billion dollars in sales on its opening day. The digital release dominated global cultural conversations, sparking widespread media coverage and commentary across various public sectors."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI launched on November 19, 2026",
+      "Sensor Tower reported launch day sales passing $2.36 billion",
+      "Pre-order revenue exceeded $2 billion through launch day",
+      "Presales sat at $1.65 billion on early Wednesday",
+      "The game file size is 212GB",
+      "GTA VI has sold 24.59 million units",
+      "75% of sales were on PlayStation and the remainder on Xbox consoles",
+      "GTA V earned an $800 million launch-day record in 2013",
+      "The franchise debuted in 1997",
+      "The Miami Heat beat the Milwaukee Bucks 137-130 in a GTA VI-themed game",
+      "The previous GTA game was released 13 years ago"
+    ],
+    "entities": {
+      "people": [
+        "Dominic Patten",
+        "Karl Kontus",
+        "P.T. Barnum",
+        "Harris Faulkner",
+        "JD Vance",
+        "Matt Johnson",
+        "Justin Hartley",
+        "Bill Hader",
+        "Linda Cardellini",
+        "Stephen Colbert",
+        "Larry Poindexter",
+        "Dermot Mulroney",
+        "Mary Steenburgen",
+        "Kyra Sedgwick",
+        "Sophia Bush",
+        "Hilary Swank",
+        "Elon Musk",
+        "Patrick Stewart"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto V",
+        "GTA Online",
+        "Dr. Lucia",
+        "They Know",
+        "George Floyd Musical",
+        "S.W.A.T.",
+        "JAG",
+        "Days Of Our Lives",
+        "From",
+        "The Family Stone",
+        "Kindred Spirits",
+        "The Body"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA VI sales",
+      "Vice City",
+      "Rockstar Games"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/GTA-6-Times-Square.jpg?w=1024",
+        "caption": "Grand Theft Auto VI Shatters Entertainment Records With Massive Launch Day Sales",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 00:29:12 +0000"
+  },
+  "1mejrqk": {
+    "id": "1mejrqk",
+    "type": "news",
+    "headline": "Suriya's 'Scene' Nears Rs 260 Crore Worldwide As 'Mookuthi Amman 2' Crosses Rs 21 Crore In India After Two Weeks",
+    "dek": "Both Tamil language films experienced notable second-week box office drops as their fourteen-day theatrical runs continued.",
+    "body": [
+      {
+        "h": "The Box Office Showdown After Two Weeks",
+        "p": [
+          "Two prominent Tamil cinematic releases have completed a fortnight inside theatres, encountering a noticeable slowdown in their day-to-day business. While one project maintains a robust global presence, the other continues to navigate a demanding theatrical run following its initial week.",
+          "Both films experienced reduced earnings on Thursday, November 19, reflecting the typical mid-week tapering observed as movies transition deeper into their theatrical lifecycles."
+        ]
+      },
+      {
+        "h": "'Scene' Day 14 Earnings And Worldwide Milestones",
+        "p": [
+          "Suriya's movie pulled in Rs 1.90 crore in domestic net earnings across 3,090 shows on its fourteenth day. The Tamil version generated Rs 1.40 crore through 2,178 screenings, whereas the Telugu counterpart brought in 50 lakh from 912 shows.",
+          "This figure marked a 28.3 percent decrease from the previous day's collection of Rs 2.65 crore. The domestic net total has now touched Rs 146.95 crore, and the India gross stands at Rs 170.70 crore alongside an overseas gross of Rs 88.75 crore, pushing the worldwide gross close to the Rs 260 crore milestone at Rs 259.45 crore."
+        ]
+      },
+      {
+        "h": "Second-Week Trajectory For Suriya's Feature",
+        "p": [
+          "Despite starting its theatrical journey with a powerful opening week that yielded Rs 111.70 crore in India net collections, the film faced a heavier reduction during its second week. The subsequent seven-day period generated Rs 35.25 crore net, pointing to a 68.4 percent decline in domestic net earnings.",
+          "Tamil screenings have consistently driven the domestic business, making up 79.9 percent of the total net earnings with Rs 117.40 crore, while the Telugu version contributed the remaining 20.1 percent."
+        ]
+      },
+      {
+        "h": "'Mookuthi Amman 2' Performance On Day 14",
+        "p": [
+          "Nayanthara's fantasy drama secured an India net collection of 24 lakh through 600 shows on Thursday. This amount represented a 17.2 percent dip compared to the preceding day's earnings of 29 lakh.",
+          "The cumulative domestic net earnings for the project have advanced to Rs 21.51 crore, while the India gross total has reached Rs 24.79 crore. Ticket sales have totaled 19,11,767 throughout the run thus far."
+        ]
+      },
+      {
+        "h": "Decline In Nayanthara's Film Second Week",
+        "p": [
+          "The fantasy movie recorded an opening week of Rs 17.93 crore in India net collections, but its second week brought in just Rs 3.58 crore net. This translates to an 80 percent drop in domestic net earnings when compared side-by-side with its first week.",
+          "Language-wise distribution shows that Tamil contributions account for the vast majority at Rs 20.29 crore or 94.3 percent of the domestic net total, with Telugu adding 5.7 percent."
+        ]
+      },
+      {
+        "h": "Audience Occupancy And Creative Backing",
+        "p": [
+          "Theatre occupancy rates for 'Scene' reached 17.63 percent overall for Tamil 2D screenings on Thursday, peaking during night shows at 21.15 percent. Meanwhile, 'Mookuthi Amman 2' registered an overall occupancy of 13.70 percent for its Tamil 2D screenings.",
+          "'Mookuthi Amman 2' is directed by Sundar C., featuring Nayanthara in the lead role, cinematography by Gopi Amarnath, and music composed by Hiphop Tamizha. 'Scene' is directed by Jithu Madhavan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Both 'Scene' and 'Mookuthi Amman 2' completed two weeks in cinemas with reduced daily collections on Thursday, November 19. Suriya's film approached Rs 260 crore in worldwide gross despite a second-week drop, while Nayanthara's movie reached Rs 21.51 crore in India net collections following an 80 percent decline from its opening week."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya's 'Scene' and Nayanthara's 'Mookuthi Amman 2' completed two weeks in theatres on Thursday, November 19, 2026.",
+      "'Scene' collected Rs 1.90 cr in India net earnings on its 14th day.",
+      "The Tamil version of 'Scene' accounted for Rs 1.40 cr through 2,178 screenings on Day 14.",
+      "The Telugu version of 'Scene' contributed Rs 50 lakh from 912 shows on Day 14.",
+      "'Scene' domestic net collection stands at Rs 146.95 cr, with an India gross of Rs 170.70 cr.",
+      "Worldwide gross for 'Scene' reached Rs 259.45 cr.",
+      "'Mookuthi Amman 2' recorded an India net collection of Rs 24 lakh on Thursday.",
+      "'Mookuthi Amman 2' cumulative domestic net earnings reached Rs 21.51 cr.",
+      "Sundar C. directed 'Mookuthi Amman 2' and Jithu Madhavan directed 'Scene'."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nayanthara",
+        "Sundar C.",
+        "Gopi Amarnath",
+        "Hiphop Tamizha",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "Scene",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene movie box office",
+      "Mookuthi Amman 2 collection",
+      "Suriya Scene day 14",
+      "Nayanthara Mookuthi Amman 2",
+      "Tamil box office drop"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136008796,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya's 'Scene' Nears Rs 260 Crore Worldwide As 'Mookuthi Amman 2' Crosses Rs 21 Crore In India After Two Weeks",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T05:36:09+05:30"
+  },
+  "1u8ats9": {
+    "id": "1u8ats9",
+    "type": "news",
+    "headline": "Official Cause Of Death Revealed For Legendary Actor Sir Patrick Stewart",
+    "dek": "The official death certificate confirms the passing of the renowned Star Trek and X-Men star at the age of 86 due to Alzheimer's disease and Lewy body dementia.",
+    "body": [
+      {
+        "h": "Official Medical Details Revealed",
+        "p": [
+          "The official documentation detailing the passing of Sir Patrick Stewart has been made public. According to the actor's death certificate, obtained via media reports, the beloved performer died on October 28.",
+          "The primary causes listed on the official record include Alzheimer's disease and Lewy body dementia. Additionally, the certificate notes cardiopulmonary arrest alongside a neurocognitive disorder associated with Lewy bodies."
+        ]
+      },
+      {
+        "h": "Family Announcement And Background",
+        "p": [
+          "When the news of his passing was first shared, a statement released by his family referenced his medical condition. The family noted that his death occurred following a brief and poignant journey with Alzheimer's disease and Lewy body dementia.",
+          "The respected actor lived to be 86 years old. His passing marked the end of a remarkable life that touched millions of fans across the globe through various mediums."
+        ]
+      },
+      {
+        "h": "Legendary Sci-Fi Television Legacy",
+        "p": [
+          "Among his most monumental contributions to television is his portrayal of Captain Jean-Luc Picard. He first assumed the iconic role in 1987 for the syndicated series Star Trek: The Next Generation.",
+          "He commanded the USS Enterprise for seven seasons spanning from 1987 through 1994. Later, he returned to the character in the Paramount+ hit series Star Trek: Picard, which concluded its third and final season in April 2023."
+        ]
+      },
+      {
+        "h": "Cinematic Icon As Professor X",
+        "p": [
+          "Beyond the final frontier, the actor cemented his status in modern pop culture by playing Charles Xavier, also known as Professor X. He originated the character on the big screen in the 2000 feature film X-Men.",
+          "He reprised this signature role throughout numerous sequels in the franchise, including the acclaimed film Logan opposite Hugh Jackman. Furthermore, he portrayed the character once more in the upcoming feature Avengers: Doomsday, marking his eighth time bringing the mutant leader to life."
+        ]
+      },
+      {
+        "h": "Extensive Stage And Screen Career",
+        "p": [
+          "His illustrious career spanned nearly six decades, incorporating extensive work on stage and screen alike. He achieved recognition as a three-time Olivier Award winner and received a Tony Award nomination for his theatrical performances, which featured numerous Shakespearean productions.",
+          "His accolades also include a Grammy Award win secured in 1995. Throughout his decades-long profession, he earned multiple nominations for Emmy, Golden Globe, and SAG Awards."
+        ]
+      },
+      {
+        "h": "Diverse Additional Credits",
+        "p": [
+          "His filmography includes wide-ranging projects such as Star Trek: Generations, L.A. Story, Green Room, and Robin Hood: Men in Tights. Additional prominent screen credits feature Conspiracy Theory, I, Claudius, Tinker Tailor Soldier Spy, Dune, and Excalibur.",
+          "In addition to live-action performances, he lent his distinct voice to animated projects including The Simpsons, Family Guy, American Dad!, The Prince of Egypt, Chicken Little, and Jimmy Neutron: Boy Genius."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official death certificate confirms that Sir Patrick Stewart passed away on October 28 at the age of 86 from Alzheimer's disease and Lewy body dementia. The iconic performer leaves behind a monumental legacy defined by his unforgettable roles in Star Trek and the X-Men franchise, alongside a decorated career spanning nearly six decades on stage and screen."
+        ]
+      }
+    ],
+    "facts": [
+      "Sir Patrick Stewart died on October 28.",
+      "He was 86 years old.",
+      "The cause of death was Alzheimer's disease and Lewy body dementia, along with cardiopulmonary arrest.",
+      "He played Captain Jean-Luc Picard on Star Trek: The Next Generation from 1987-94.",
+      "Star Trek: Picard concluded its third and final season in April 2023.",
+      "He originated the role of Charles Xavier / Professor X in the 2000 film X-Men.",
+      "Avengers: Doomsday marks his eighth time portraying Professor X.",
+      "He won a Grammy in 1995 and was a three-time Olivier Award winner."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Hugh Jackman"
+      ],
+      "titles": [
+        "Star Trek: The Next Generation",
+        "Star Trek: Picard",
+        "X-Men",
+        "Logan",
+        "Avengers: Doomsday",
+        "Star Trek: Generations",
+        "Green Room",
+        "Robin Hood: Men in Tights",
+        "Conspiracy Theory",
+        "I, Claudius",
+        "Tinker Tailor Soldier Spy",
+        "Dune",
+        "Excalibur",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad!",
+        "The Prince of Egypt",
+        "Chicken Little",
+        "Jimmy Neutron: Boy Genius"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart cause of death",
+      "Sir Patrick Stewart death certificate",
+      "Patrick Stewart Alzheimer dementia",
+      "Star Trek X-Men actor Patrick Stewart"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Sir-Patrick-Stewart.webp?w=681",
+        "caption": "Official Cause Of Death Revealed For Legendary Actor Sir Patrick Stewart",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 01:16:13 +0000"
   }
 };

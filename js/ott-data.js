@@ -88,11 +88,19 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "BR",
       "date": "2026-11-19",
       "date_kind": "digital",
       "id": 1561834,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -167,11 +175,47 @@ window.FA_OTT = {
     {
       "date": "2026-11-18",
       "date_kind": "release",
+      "id": 332839,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-18",
+      "date_kind": "release",
       "id": 340280,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-18",
+      "date_kind": "release",
+      "id": 1551025,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-18",
+      "date_kind": "release",
+      "id": 338656,
+      "providers": [
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
         }
       ],
       "type": "tv"
@@ -551,6 +595,18 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-13",
+      "date_kind": "release",
+      "id": 334412,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1780407,
       "providers": [
@@ -847,6 +903,22 @@ window.FA_OTT = {
         {
           "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
           "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-11",
+      "date_kind": "release",
+      "id": 1131943,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -1396,6 +1468,10 @@ window.FA_OTT = {
         {
           "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
           "name": "Hulu"
+        },
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
         }
       ],
       "type": "movie"
@@ -1994,6 +2070,22 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 1637705,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -4258,6 +4350,10 @@ window.FA_OTT = {
         {
           "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
           "name": "MGM+ Amazon Channel"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
         },
         {
           "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",

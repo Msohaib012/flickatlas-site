@@ -55,6 +55,53 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 20 Nov 2026 01:30:16 GMT"
   },
+  "1u8ats9": {
+    "id": "1u8ats9",
+    "type": "news",
+    "headline": "Official Cause Of Death Revealed For Legendary Actor Sir Patrick Stewart",
+    "dek": "The official death certificate confirms the passing of the renowned Star Trek and X-Men star at the age of 86 due to Alzheimer's disease and Lewy body dementia.",
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Hugh Jackman"
+      ],
+      "titles": [
+        "Star Trek: The Next Generation",
+        "Star Trek: Picard",
+        "X-Men",
+        "Logan",
+        "Avengers: Doomsday",
+        "Star Trek: Generations",
+        "Green Room",
+        "Robin Hood: Men in Tights",
+        "Conspiracy Theory",
+        "I, Claudius",
+        "Tinker Tailor Soldier Spy",
+        "Dune",
+        "Excalibur",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad!",
+        "The Prince of Egypt",
+        "Chicken Little",
+        "Jimmy Neutron: Boy Genius"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart cause of death",
+      "Sir Patrick Stewart death certificate",
+      "Patrick Stewart Alzheimer dementia",
+      "Star Trek X-Men actor Patrick Stewart"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Sir-Patrick-Stewart.webp?w=681",
+        "caption": "Official Cause Of Death Revealed For Legendary Actor Sir Patrick Stewart",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 01:16:13 +0000"
+  },
   "3irknz": {
     "id": "3irknz",
     "type": "news",
@@ -215,6 +262,63 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 20 Nov 2026 06:13:47 +0530"
   },
+  "5gca82": {
+    "id": "5gca82",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Shatters Entertainment Records With Massive Launch Day Sales",
+    "dek": "The latest installment in the iconic video game franchise has taken the cultural zeitgeist by storm, pulling in billions on its opening day.",
+    "entities": {
+      "people": [
+        "Dominic Patten",
+        "Karl Kontus",
+        "P.T. Barnum",
+        "Harris Faulkner",
+        "JD Vance",
+        "Matt Johnson",
+        "Justin Hartley",
+        "Bill Hader",
+        "Linda Cardellini",
+        "Stephen Colbert",
+        "Larry Poindexter",
+        "Dermot Mulroney",
+        "Mary Steenburgen",
+        "Kyra Sedgwick",
+        "Sophia Bush",
+        "Hilary Swank",
+        "Elon Musk",
+        "Patrick Stewart"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto V",
+        "GTA Online",
+        "Dr. Lucia",
+        "They Know",
+        "George Floyd Musical",
+        "S.W.A.T.",
+        "JAG",
+        "Days Of Our Lives",
+        "From",
+        "The Family Stone",
+        "Kindred Spirits",
+        "The Body"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "GTA VI sales",
+      "Vice City",
+      "Rockstar Games"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/GTA-6-Times-Square.jpg?w=1024",
+        "caption": "Grand Theft Auto VI Shatters Entertainment Records With Massive Launch Day Sales",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 00:29:12 +0000"
+  },
   "1p6kg3y": {
     "id": "1p6kg3y",
     "type": "news",
@@ -251,6 +355,74 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T05:49:53+05:30"
+  },
+  "1mejrqk": {
+    "id": "1mejrqk",
+    "type": "news",
+    "headline": "Suriya's 'Scene' Nears Rs 260 Crore Worldwide As 'Mookuthi Amman 2' Crosses Rs 21 Crore In India After Two Weeks",
+    "dek": "Both Tamil language films experienced notable second-week box office drops as their fourteen-day theatrical runs continued.",
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nayanthara",
+        "Sundar C.",
+        "Gopi Amarnath",
+        "Hiphop Tamizha",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "Scene",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene movie box office",
+      "Mookuthi Amman 2 collection",
+      "Suriya Scene day 14",
+      "Nayanthara Mookuthi Amman 2",
+      "Tamil box office drop"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136008796,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya's 'Scene' Nears Rs 260 Crore Worldwide As 'Mookuthi Amman 2' Crosses Rs 21 Crore In India After Two Weeks",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T05:36:09+05:30"
+  },
+  "1586ff6": {
+    "id": "1586ff6",
+    "type": "news",
+    "headline": "OM (Operation Mole) Advance Booking Crosses 19 Crore: Dhanush Breaks Career Records",
+    "dek": "Dhanush's upcoming spy thriller OM (Operation Mole) has shattered his previous advance-booking records ahead of its theatrical debut.",
+    "entities": {
+      "people": [
+        "Dhanush",
+        "Mammootty",
+        "Sai Pallavi",
+        "Sreeleela",
+        "Rajkumar Periasamy"
+      ],
+      "titles": [
+        "OM (Operation Mole)",
+        "Raayan"
+      ]
+    },
+    "keywords": [
+      "OM Operation Mole",
+      "Dhanush Operation Mole",
+      "OM Operation Mole advance booking",
+      "Raayan Dhanush film"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/11/dhanush.jpg",
+        "caption": "OM (Operation Mole) Advance Booking Crosses 19 Crore: Dhanush Breaks Career Records",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Thu, 19 Nov 2026 23:53:55 +0000"
   },
   "17r7os4": {
     "id": "17r7os4",
@@ -4643,156 +4815,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-18T21:33:11Z"
-  },
-  "g1b14k": {
-    "id": "g1b14k",
-    "type": "news",
-    "headline": "Kareena Kapoor Shares Witty Note After Meeting Prince William",
-    "dek": "Actress Kareena Kapoor Khan posted pictures with Saif Ali Khan and Karan Johar following their meeting with Prince William in Mumbai.",
-    "entities": {
-      "people": [
-        "Kareena Kapoor",
-        "Prince William",
-        "Saif Ali Khan",
-        "Karan Johar",
-        "Mansoor Ali Khan Pataudi"
-      ],
-      "titles": [
-        "Jab We Met",
-        "Kabhi Khushi Kabhie Gham"
-      ]
-    },
-    "keywords": [
-      "Kareena Kapoor Prince William",
-      "Saif Ali Khan Karan Johar",
-      "Earthshot Prize 2026 Mumbai",
-      "Kabhi Khushi Kabhie Gham"
-    ],
-    "images": [
-      {
-        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/18/6931-qetw.jpg",
-        "caption": "Kareena Kapoor Shares Witty Note After Meeting Prince William",
-        "source": "Zee News — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T21:33:11Z"
-  },
-  "ok9mxg": {
-    "id": "ok9mxg",
-    "type": "news",
-    "headline": "Christine Quinn Makes Dramatic Comeback in Selling Sunset Season 10 Trailer",
-    "dek": "Netflix has dropped the official trailer and cast details for Selling Sunset Season 10, highlighting the highly anticipated return of Christine Quinn and fresh office friction.",
-    "entities": {
-      "people": [
-        "Christine Quinn",
-        "Jason Oppenheim",
-        "Heather Rae El Moussa"
-      ],
-      "titles": [
-        "Selling Sunset"
-      ]
-    },
-    "keywords": [
-      "Selling Sunset Season 10",
-      "Christine Quinn Selling Sunset",
-      "Heather Rae El Moussa",
-      "Jason Oppenheim Netflix"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/selling-sunset-season-10-trailer.jpg",
-        "caption": "Christine Quinn Makes Dramatic Comeback in Selling Sunset Season 10 Trailer",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Wed, 18 Nov 2026 21:11:06 +0000"
-  },
-  "3pa6ox": {
-    "id": "3pa6ox",
-    "type": "news",
-    "headline": "Ramayana Worldwide Box Office Collection Day 13: Ranbir Kapoor-Yash Epic Records Massive Rs 1484 Crore",
-    "dek": "Ranbir Kapoor and Yash's mythological epic Ramayana continues its phenomenal run, crossing impressive global milestones on its 13th day in theatres.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Ravi Dubey",
-        "Sunny Deol",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Anupam Kher"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana Day 13 collection",
-      "Ramayana Rise of a Legend"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156528262,thumbsize-379524,width-1280,height-720,resizemode-75/156528262.jpg",
-        "caption": "Ramayana Worldwide Box Office Collection Day 13: Ranbir Kapoor-Yash Epic Records Massive Rs 1484 Crore",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T20:52:15Z"
-  },
-  "xai06e": {
-    "id": "xai06e",
-    "type": "news",
-    "headline": "Panchayat Season 5 Release Date Announced: Prime Video Sets December Premiere for Neena Gupta and Jitendra Kumar Series",
-    "dek": "The wait is over for fans of the acclaimed village comedy-drama, as Prime Video confirms the arrival of Panchayat season 5 for early December, bringing back the political rivalries and quirky residents of Phulera.",
-    "entities": {
-      "people": [
-        "Neena Gupta",
-        "Jitendra Kumar",
-        "Tanmayi Savadi",
-        "Manju Devi",
-        "Kranti Devi",
-        "Abhishek Tripathi",
-        "Rinki",
-        "Bhushan Sharma",
-        "Banrakas",
-        "Brij Bhushan",
-        "Deepak Kumar Mishra",
-        "Chandan Kumar",
-        "Arunabh Kumar",
-        "Raghubir Yadav",
-        "Sunita Rajwar",
-        "Faizal Malik",
-        "Chandan Roy",
-        "Sanvikaa",
-        "Durgesh Kumar",
-        "Ashok Pathak",
-        "Bhushan"
-      ],
-      "titles": [
-        "Panchayat"
-      ]
-    },
-    "keywords": [
-      "Panchayat season 5",
-      "Panchayat release date",
-      "Jitendra Kumar Panchayat",
-      "Neena Gupta Prime Video",
-      "Phulera new Pradhan"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156529808,thumbsize-718208,width-1280,height-720,resizemode-75/156529808.jpg",
-        "caption": "Panchayat Season 5 Release Date Announced: Prime Video Sets December Premiere for Neena Gupta and Jitendra Kumar Series",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-18T20:52:15Z"
   },
   "1w900ih": {
     "id": "1w900ih",

@@ -1145,7 +1145,20 @@ window.FA_PUBLISHED = {
     "certification": "A",
     "release_date": "2026-10-30",
     "runtime": 152,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "date_kind": "release"
   },
   "1780005": {
@@ -11515,6 +11528,12 @@ window.FA_PUBLISHED = {
         "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
         "region": "US",
         "type": "flatrate"
+      },
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
       }
     ]
   },
@@ -21564,7 +21583,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-29",
     "date_kind": "release",
     "runtime": 122,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1811085": {
     "id": 1811085,
@@ -34484,6 +34516,12 @@ window.FA_PUBLISHED = {
         "type": "flatrate"
       },
       {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "MGM Plus Roku Premium Channel",
         "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
         "region": "US",
@@ -38405,7 +38443,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-11",
     "date_kind": "release",
     "runtime": 110,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1816178": {
     "id": 1816178,
@@ -41863,7 +41914,14 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1384528": {
     "id": 1384528,
@@ -50943,7 +51001,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-18",
     "date_kind": "release",
     "runtime": 0,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1484090": {
@@ -52555,7 +52620,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Vipul D. Shah"
     ],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1827895": {
@@ -52690,7 +52762,14 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "providers_wtw": []
   },
   "1704200": {
