@@ -200321,5 +200321,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 10:03:39 GMT"
+  },
+  "e6d0st": {
+    "id": "e6d0st",
+    "type": "news",
+    "headline": "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+    "dek": "Actor Samantha Ruth Prabhu and filmmaker Raj Nidimoru have announced the birth of their first child, a baby boy named Dev Nidimoru, born on November 19, 2026.",
+    "body": [
+      {
+        "h": "The Joyous Announcement",
+        "p": [
+          "Actor Samantha Ruth Prabhu and director Raj Nidimoru have officially welcomed their first child into the world. The couple shared the wonderful news with their well-wishers and followers on social media shortly after the birth.",
+          "The newborn baby boy has been named Dev Nidimoru by the proud parents. The arrival marks a significant and deeply emotional milestone in the lives of both entertainment personalities as they embrace parenthood."
+        ]
+      },
+      {
+        "h": "Sharing The First Glimpse",
+        "p": [
+          "Taking to Instagram, Samantha published an intimate and heartwarming photograph to introduce their son to the public. The picture featured the delicate hands of both parents gently holding onto the tiny fingers of their newborn child.",
+          "Alongside the touching image, Samantha posted a warm message expressing the immense joy they are currently experiencing. The caption celebrated their baby's birth date and revealed the child's full name to their audience."
+        ]
+      },
+      {
+        "h": "Industry Friends Extend Wishes",
+        "p": [
+          "The social media announcement quickly drew an outpouring of love and congratulatory messages from numerous colleagues across the entertainment industry. Friends, fans, and fellow actors rushed to comment on the post.",
+          "Prominent film actors including Varun Dhawan, Tamannaah Bhatia, and Ananya Panday were among the many notable personalities who extended their heartfelt best wishes to the new mother and father."
+        ]
+      },
+      {
+        "h": "Journey To Parenthood",
+        "p": [
+          "Samantha had previously confirmed her pregnancy to the public in June 2026. She shared the update during the success meet event for her cinematic project Maa Inti Bangaaram, effectively halting prior speculations.",
+          "Throughout their relationship, the couple has generally maintained a private stance regarding their personal lives, choosing to keep most private matters away from intense public scrutiny."
+        ]
+      },
+      {
+        "h": "Background And Marriage",
+        "p": [
+          "The latest addition to their family follows their wedding ceremony held on December 1, 2025. The couple tied the knot during an intimate and close-knit celebration.",
+          "Their wedding took place at the Isha Foundation spiritual centre in Coimbatore, in the presence of Sadhguru and select close attendees."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Samantha Ruth Prabhu and filmmaker Raj Nidimoru welcomed their newborn baby boy, Dev Nidimoru, on November 19, 2026. The couple announced the happy event on Instagram with a touching photo and received warm congratulations from peers like Varun Dhawan, Tamannaah Bhatia, and Ananya Panday."
+        ]
+      }
+    ],
+    "facts": [
+      "Samantha Ruth Prabhu and Raj Nidimoru welcomed a baby boy named Dev Nidimoru on November 19, 2026.",
+      "The couple announced the birth on social media on November 20, 2026.",
+      "Samantha announced her pregnancy in June 2026 during the success meet of her film Maa Inti Bangaaram.",
+      "Samantha Ruth Prabhu and Raj Nidimoru got married on December 1, 2025, at the Isha Foundation in Coimbatore."
+    ],
+    "entities": {
+      "people": [
+        "Samantha Ruth Prabhu",
+        "Raj Nidimoru",
+        "Dev Nidimoru",
+        "Varun Dhawan",
+        "Tamannaah Bhatia",
+        "Ananya Panday",
+        "Sadhguru"
+      ],
+      "titles": [
+        "Maa Inti Bangaaram"
+      ]
+    },
+    "keywords": [
+      "Samantha Ruth Prabhu",
+      "Raj Nidimoru",
+      "Dev Nidimoru",
+      "Maa Inti Bangaaram"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/samantha-ruth-prabhu-and-raj-nidimoru-blessed-with-a-baby-boy-dev-nidimoru1795172798.jpg",
+        "caption": "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-20T16:45:53+05:30"
+  },
+  "ohuvpz": {
+    "id": "ohuvpz",
+    "type": "news",
+    "headline": "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+    "dek": "Ludwig Göransson, Travis Scott, and James Blake dive into the creative process behind The Odyssey, revealing Christopher Nolan's unexpected contributions to the closing track.",
+    "body": [
+      {
+        "h": "Behind the Soundscapes of an Epic",
+        "p": [
+          "In the grand tradition of filmmaker Christopher Nolan, audio design carries just as much weight as visual storytelling and star-studded casting. For the ancient epic feature The Odyssey, the director once again joined forces with Academy Award-winning composer Ludwig Göransson.",
+          "To build the sonic landscape, Göransson brought in prominent singer-songwriters Travis Scott and James Blake. Within the narrative, Scott assumes the role of a bard recounting the arduous journey of King Odysseus, played by Matt Damon, as he attempts to find his way back home following the Trojan War."
+        ]
+      },
+      {
+        "h": "An Insider's Education on Set",
+        "p": [
+          "While contributing to the production, Travis Scott took full advantage of his time on location, frequently observing the director and cinematographer Hoyte van Hoytema at work. Rather than staying isolated in a trailer, the musician chose to absorb every detail of the filmmaking process.",
+          "Scott noted that the set operated with completely stripped-down egos, allowing a massive crew to function as a unified team. He closely watched the handling of specialized camera equipment and lighting techniques involving fire, smoke, and sound to build cinematic tension."
+        ]
+      },
+      {
+        "h": "Unheard Audio and Unused Experiments",
+        "p": [
+          "Creating a massive feature score requires endless experimentation, meaning plenty of material is ultimately left on the cutting room floor. Composer Ludwig Göransson begins his work immediately after reviewing the script, granting him ample time to craft excess tracks.",
+          "Collaborator James Blake humorously pointed out that a significant amount of audio featuring his own vocal screeching was ultimately cut from the final cut. According to the artists, these unconventional studio experiments will likely never be heard by the public."
+        ]
+      },
+      {
+        "h": "Christopher Nolan's Writing Credit on 'When I'm Home'",
+        "p": [
+          "A surprising detail regarding the end credits track, titled \"When I'm Home,\" is that the director holds an official writing credit on the song. The collaboration came together organically when Nolan and Göransson inserted audio snippets of Scott's dialogue from the movie directly into the musical arrangement.",
+          "Scott explained that hearing his spoken lines embedded in the music felt akin to a spiritual dialogue or a psychological reflection. Rather than treating it as a mere placeholder, he embraced the sound as a representation of the internal consciousness driving Odysseus forward."
+        ]
+      },
+      {
+        "h": "Channeling the Inner Voice of Odysseus",
+        "p": [
+          "The musician viewed the embedded dialogue track as a crucial mental anchor for the weary traveler trying to remember his origins amidst temptation. The audio serves as the inner voice pushing the protagonist to break free and return home.",
+          "Göransson noted that this vocal motif actually mirrors the very beginning of the film, which opens with the written script lines featuring a man, a face, and a war. By tying Scott's vocal performance of those words directly into the closing song, the production created a cohesive loop between the story and its soundtrack."
+        ]
+      },
+      {
+        "h": "Current Availability and Theatrical Rerelease",
+        "p": [
+          "Audiences eager to experience the epic can currently access the film across multiple home viewing formats. The Odyssey is widely available on Premium VOD, 4K disc, and standard DVD editions.",
+          "Additionally, fans hoping to witness the movie on the big screen will soon get another opportunity. The production is scheduled to return to select cinemas for an exclusive IMAX 70mm engagement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Travis Scott, Ludwig Göransson, and James Blake discussed their creative collaboration on the film The Odyssey, highlighting Christopher Nolan's unexpected writing credit on the end credits song. The interview also touched on Scott's firsthand observations of the production team and the extensive unreleased music generated during scoring sessions."
+        ]
+      }
+    ],
+    "facts": [
+      "The Odyssey is directed by Christopher Nolan.",
+      "Ludwig Göransson is the composer for The Odyssey.",
+      "Travis Scott and James Blake collaborated on music for the film.",
+      "Travis Scott plays a bard in the movie.",
+      "Matt Damon stars as King Odysseus.",
+      "Christopher Nolan has a writing credit on the final song 'When I'm Home'.",
+      "The Odyssey is available on Premium VOD, 4K, and DVD.",
+      "The film returns to theaters in IMAX 70mm on December 11."
+    ],
+    "entities": {
+      "people": [
+        "Travis Scott",
+        "Christopher Nolan",
+        "Ludwig Göransson",
+        "James Blake",
+        "Hoyte van Hoytema",
+        "Matt Damon"
+      ],
+      "titles": [
+        "The Odyssey",
+        "When I'm Home"
+      ]
+    },
+    "keywords": [
+      "Travis Scott The Odyssey",
+      "Christopher Nolan When I'm Home song",
+      "Ludwig Göransson The Odyssey score",
+      "James Blake The Odyssey music"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-odyssey-ludwig-goransson-travis-scott-james-black-interview.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 10:40:12 GMT"
+  },
+  "w7q3wz": {
+    "id": "w7q3wz",
+    "type": "news",
+    "headline": "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+    "dek": "After an emotional video by actor Sharad Kapoor seeking work and detailing personal struggles went viral, superstar Shah Rukh Khan personally contacted him to offer support and a meeting with Aryan Khan.",
+    "body": [
+      {
+        "h": "The Viral Appeal That Sparked Concern",
+        "p": [
+          "In a recent video that circulated widely across social media, actor Sharad Kapoor shared deeply emotional updates about his life. He revealed that he was recovering from a leg injury while battling depression, leading him to make the heartbreaking choice to part ways with his four pet dogs.",
+          "The vulnerable clip immediately drew immense concern from fans and industry peers alike. Within the video, Sharad issued an earnest plea for employment opportunities and moral backing from the entertainment community."
+        ]
+      },
+      {
+        "h": "Shah Rukh Khan Extends a Helping Hand",
+        "p": [
+          "Following the widespread attention the video received, Bollywood icon Shah Rukh Khan personally reached out to his former co-star. Sharad confirmed that the superstar called him to offer assistance and reassurance during a difficult time.",
+          "During their conversation, the superstar reportedly encouraged him to pursue whatever paths he wished and promised further support. Additionally, plans were set for Sharad to meet with Aryan Khan in the near future."
+        ]
+      },
+      {
+        "h": "Revisiting Their Past On-Screen Dynamic",
+        "p": [
+          "The recent outreach highlights a bond forged over two decades ago on the cinematic sets of Mansoor Khan's 2000 cult hit Josh. In that memorable feature, Shah Rukh portrayed the character Max while Sharad played his fierce rival gang leader Prakash.",
+          "Reflecting on their past interactions, Sharad recalled the grace and generosity the superstar displayed during production. He noted that this supportive camaraderie has remarkably endured across twenty-six years."
+        ]
+      },
+      {
+        "h": "Wider Industry Support and Assistance",
+        "p": [
+          "Shah Rukh Khan was not the only prominent figure from the film fraternity to check in on the troubled actor. Salman Khan stepped forward to provide financial backing, while Sonu Sood organized specialized medical care for his injured leg at a facility located in Karjat.",
+          "A multitude of other notable heavy hitters also made contact to offer encouragement. This growing list of supporters includes filmmakers Rohit Shetty and Ahmed Khan, alongside legendary names such as Amitabh Bachchan, Sanjay Dutt, Rajpal Yadav, and Javed Akhtar."
+        ]
+      },
+      {
+        "h": "Reaching Out to CINTAA",
+        "p": [
+          "Amid his struggles, Sharad formally directed an appeal toward CINTAA for professional assistance. He expressed a deep desire to secure good acting projects and requested their backing.",
+          "Emphasizing that even a small amount of moral backing would be sufficient for him, he sought to leverage established industry networks to restart his career path."
+        ]
+      },
+      {
+        "h": "Looking Toward a Fresh Chapter",
+        "p": [
+          "With an outpouring of backing from various corners of the industry, Sharad is now preparing for a renewed phase in his professional life. This upcoming period marks a notable turnaround from his recent hardships.",
+          "Among his upcoming professional milestones is an anticipated Hollywood debut. Filming for this international project is officially scheduled to commence in January 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sharad Kapoor received a personal phone call and an offer of help from Shah Rukh Khan after an emotional video detailing his leg injury, depression, and need for work went viral. Multiple industry figures, including Salman Khan and Sonu Sood, also stepped in with financial and medical assistance as the actor prepares for a Hollywood debut in January 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharad Kapoor posted a viral video parting ways with his four pet dogs while recovering from a leg injury and battling depression.",
+      "Shah Rukh Khan called Sharad Kapoor after his work appeal went viral and offered to help, mentioning a meeting with Aryan Khan.",
+      "Sharad Kapoor and Shah Rukh Khan previously worked together in Mansoor Khan's 2000 cult hit Josh, where Sharad played Prakash and Shah Rukh played Max.",
+      "Salman Khan provided financial support to Sharad Kapoor.",
+      "Sonu Sood arranged medical care for Sharad's injured leg at a facility in Karjat.",
+      "Rohit Shetty, Ahmed Khan, Amitabh Bachchan, Sanjay Dutt, Rajpal Yadav, and Javed Akhtar also called to offer encouragement.",
+      "Sharad Kapoor is scheduled to begin filming for a Hollywood debut in January 2027."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Sharad Kapoor",
+        "Aryan Khan",
+        "Mansoor Khan",
+        "Salman Khan",
+        "Sonu Sood",
+        "Rohit Shetty",
+        "Ahmed Khan",
+        "Amitabh Bachchan",
+        "Sanjay Dutt",
+        "Rajpal Yadav",
+        "Javed Akhtar"
+      ],
+      "titles": [
+        "Josh"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan Sharad Kapoor",
+      "Sharad Kapoor Josh work appeal",
+      "Sharad Kapoor viral video",
+      "Sharad Kapoor Hollywood debut"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shah-rukh-khan-calls-josh-co-star-sharad-kapoor-after-viral-work-appeal-offers1795158697.jpg",
+        "caption": "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-20T13:12:02+05:30"
+  },
+  "1lq6pbn": {
+    "id": "1lq6pbn",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel",
+    "dek": "Takash Yamazaki returns with the direct sequel to the Oscar-winning Godzilla Minus One, arriving in Indian cinemas with bigger action, a new monstrous threat, and the returning lead cast.",
+    "body": [
+      {
+        "h": "Arrival in Indian Theatres",
+        "p": [
+          "Indian fans can finally experience Godzilla Minus Zero on the big screen as the film makes its local theatrical debut. Originally slated for an earlier arrival on November 6, the release moved to November 20 due to limited premium screen availability during the opening weeks of Namit Malhotra's Ramayana.",
+          "PVR INOX Pictures is handling the distribution of the movie in association with Toho. Viewers can book tickets for both Japanese and English versions, with IMAX and other premium formats accessible at select locations across various cities."
+        ]
+      },
+      {
+        "h": "Connection to Godzilla Minus One",
+        "p": [
+          "The new feature serves as a direct narrative continuation of the 2023 Japanese blockbuster Godzilla Minus One, distinguishing itself from Hollywood MonsterVerse projects. The predecessor achieved global acclaim by collecting over $116 million on a modest budget.",
+          "Making history, the previous installment earned the Academy Award for Best Visual Effects, marking a first for the franchise. Watching that earlier chapter provides helpful context since the sequel picks up directly with the surviving characters."
+        ]
+      },
+      {
+        "h": "Setting and Plot Details",
+        "p": [
+          "Set in the year 1949, the storyline finds Japan attempting to recover from the devastation of World War II and the initial monster onslaught. Ryunosuke Kamiki reprises his role as Koichi Shikishima, joined by Minami Hamabe as Noriko and their adopted daughter Akiko.",
+          "Just as the family tries to build a stable life, a new and terrifying danger appears. The script preserves the emotional focus on the human cost of catastrophe while introducing a much greater peril."
+        ]
+      },
+      {
+        "h": "The Creative Force Behind the Project",
+        "p": [
+          "Filmmaker Takashi Yamazaki is back as the director, writer, and visual effects supervisor, ensuring creative continuity for the series. He earned international praise for producing remarkable visual effects on a budget significantly smaller than standard Hollywood productions.",
+          "For this follow-up, Yamazaki has broadened the scale of the creature sequences while maintaining his exploration of post-war Japan. International reviews have highlighted the grand action and effects, alongside mixed reactions to the dramatic storytelling."
+        ]
+      },
+      {
+        "h": "Escalated Action and New Threats",
+        "p": [
+          "A primary highlight of the latest installment is the appearance of an additional powerful monster. This addition pushes the narrative beyond the destruction seen in the preceding film.",
+          "Promotional trailers have teased larger confrontations and sophisticated visual effects. At the same time, Yamazaki retains substantial character-driven drama to balance out the creature-feature spectacle."
+        ]
+      },
+      {
+        "h": "Runtime, Certification, and Formats",
+        "p": [
+          "According to BookMyShow listings, the picture runs for a duration of 2 hours and 20 minutes. It has been cleared by censors with a U/A 16+ certification.",
+          "Audiences seeking an immersive experience can find IMAX and premium-format screenings at select theaters, though exact showtimes depend on the city."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero arrives in Indian theatres on November 20, 2026, following a slight delay from its initial November 6 schedule. Directed by Takashi Yamazaki, the sequel to Godzilla Minus One brings back its original cast and introduces a new monster threat in post-war 1949 Japan."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero released in India on November 20, 2026",
+      "The film was originally scheduled to release in India on November 6, 2026",
+      "Takashi Yamazaki directed, wrote, and supervised visual effects for the film",
+      "Godzilla Minus One grossed more than $116 million",
+      "Godzilla Minus One won the Academy Award for Best Visual Effects",
+      "The film is set in 1949",
+      "Ryunosuke Kamiki stars as Koichi Shikishima",
+      "Minami Hamabe stars as Noriko",
+      "Akiko is played as their adopted daughter",
+      "PVR INOX Pictures is distributing the film in India in association with Toho",
+      "Namit Malhotra's Ramayana affected premium-screen availability",
+      "The runtime is 2 hours and 20 minutes",
+      "The film has a U/A 16+ certification"
+    ],
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Namit Malhotra",
+        "Koichi Shikishima",
+        "Noriko",
+        "Akiko"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus One",
+      "Takashi Yamazaki",
+      "Ryunosuke Kamiki",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028651.jpg",
+        "caption": "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 10:21:09 +0000"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T12:02:49Z",
-    "run_id": "44520002697",
-    "status": "success",
-    "checked": {
-     "candidates": 478,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Godzilla Minus Zero Box Office: Has Already Raked In Over 3x Its Budget From North America Alone!",
-      "Avengers Doomsday: From Loki-Mystique To Yelena-Gambit – 3 Best & Worst Superhero Pairings From MCU [Opinion]",
-      "Arjun Sarja slams people for demeaning his elder daughter Aishwarya Arjun and warns of 'strict action'",
-      "Abhishek Malhan EXCLUSIVE: Fukra Insaan breaks silence on Shambhavi Sharma wanting him to be removed as the gang leader",
-      "Arasan: Silambarasan TR starrer to replace Anirudh Ravichander with Lydian Nadhaswaram? Here’s what we know",
-      "EXCLUSIVE: Dune Part 3 advance booking to open in India on November 20, Paid Previews planned",
-      "Robert Downey Jr Reveals His FIRST Reaction To Avengers Doomsday Offer: “I Wondered, How Many Surprises Are Left?”",
-      "exclusive apoorva lakhia credits salman khan as maatrubhumi overcomes 15 years of hurdles 87263.html",
-      "ram pothineni unveils the lone wolf pre look of rapo23 87262.html",
-      "dr hassan teaser out nawazuddin siddiqui and dia mirza star in indian adaptation of house 87256.html",
-      "somehow he hasnt changed alia bhatt pens heartfelt note for vicky kaushal 87258.html",
-      "breaking her limits how rashmika mandanna became mysaa 87261.html",
-      "exclusive mrunal thakur on being misunderstood i want my work to speak for me 87260.html",
-      "editors take zeenat aman the og it girl who refused to fade away 87252.html",
-      "robert downey jr on returning to marvel as doctor doom in avengers doomsday 87259.html",
-      "heres what went into samantha ruth prabhus baby shower ceremony 87255.html",
-      "welcome to the world of bond pierce brosnan welcomes the new james bond robert pattinson 87257.html",
-      "all that happened on the latest episode of kwk ft ananya panday ananya birla and shanaya kapoor 87254.html",
-      "photos priyanka chopra jonas balances a busy work schedule with her mom duties 87251.html",
-      "sacred jewel trailer ahn bo hyun embarks on a dangerous mission in new korean historical series 87249.html"
-     ],
-     "updated": [],
-     "count": 390,
-     "detail": "404 stories, 5 duplicates removed, 74 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-19T13:51:33Z",
     "run_id": "44537472370",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "324 stories, 1 duplicates removed, 17 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T14:13:39Z",
-    "run_id": "44537472370",
+    "run_at": "2026-11-20T12:51:27Z",
+    "run_id": "44739152801",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 526,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Hits Rs 1500 Crore Worldwide in 14 Days and Sets Twelve Records",
-      "Blumhouse Atomic Faces Scrutiny Over Entirely Male 2027 Theatrical Horror Slate",
-      "Mumbai's Iconic Gaiety-Galaxy Reopens After 74 Days Just Ahead of 54th Anniversary With Full Week Schedule Revealed",
-      "Anirudh Ravichander Celebrates One Week of Marriage to Kavya Maran Following Greek Wedding Concert"
+      "hanuman ansh director reacts to industrys silence despite the films blockbuster success 87292.html",
+      "om review dhanushs undercover operation takes the long route to its strongest moments 87289.html",
+      "how to rob a bank 87284.html",
+      "8 heart wrenching romantic web series that break your heart beautifully 87281.html",
+      "samantha ruth prabhu and raj nidimoru blessed with a baby boy dev nidimoru 87283.html",
+      "aakasamlo oka tara review uplifting sincere and inventive 87280.html",
+      "the vvaan ott release when and where to watch sidharth malhotra and tamannaah bhatia starrer 87279.html",
+      "14 light hearted college dramas to relive your youth 87272.html",
+      "the nightingale trailer dakota and elle fanning headline an emotional world war ii drama 87278.html",
+      "reports miley cyrus to marry fianc maxx morando in southern california this weekend 87277.html",
+      "shah rukh khan calls josh co star sharad kapoor after viral work appeal offers to help 87276.html",
+      "bachelor party deux review amal neerads gangsters are better at banter than bloodshed 87275.html",
+      "mohitt maalik to play antagonist opposite tiger shroff in vajr 87274.html",
+      "party animals review leaves you dazed and confused 87238.html",
+      "teen tigada series review a campus romance that could have been more 87273.html",
+      "pratapgarh ram katha pawan singh raja bhaiya mic controversy response dhirendra shastri video tmovb dskc 2701495 2026 11 20",
+      "zaheer khan son fatehsingh steals limelight at sagarika ghatge brother royal wedding photos vidya malvade shared tmova 2701482 2026 11 20",
+      "aishwarya rai bodyguard actor ketan karande claims salman khan relationship with actress tmovj dskc 2701428 2026 11 20",
+      "bollywood actor prem nath detained in china on suspicion of being an american spy tmovg dskc 2701572 2026 11 20",
+      "kriti sanon birthday post for kabir dating rumours age gap marriage tmova dskc 2701356 2026 11 20"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 392,
+     "detail": "402 stories, 6 duplicates removed, 124 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T12:52:03Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+      "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+      "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+      "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T16:17:14Z",
-    "run_id": "44559337497",
-    "status": "success",
-    "checked": {
-     "candidates": 389,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 381, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,31 +1900,27 @@
      "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T12:52:03Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": {
+     "candidates": 397,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 390, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T14:27:04Z",
-    "run_id": "44537472370",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1vjsa0",
-      "1ftxgoc",
-      "u6qd1a",
-      "b9lif5"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2438,27 +2416,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T12:05:37Z",
-    "run_id": "44520002697",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-20T12:55:22Z",
+    "run_id": "44739152801",
     "status": "success",
     "checked": {
-     "candidates": 718,
-     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 8,
-     "detail": "+2 new rows, 6 updated rows, 686 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2872,19 +2849,27 @@
      "detail": "+0 new rows, 3 updated rows, 698 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T12:55:04Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": {
+     "candidates": 726,
+     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 695 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3121,33 +3106,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T14:27:03Z",
-    "run_id": "44537472370",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Hits Rs 1500 Crore Worldwide in 14 Days and Sets Twelve Records",
-      "Blumhouse Atomic Faces Scrutiny Over Entirely Male 2027 Theatrical Horror Slate",
-      "Mumbai's Iconic Gaiety-Galaxy Reopens After 74 Days Just Ahead of 54th Anniversary With Full Week Schedule Revealed",
-      "Anirudh Ravichander Celebrates One Week of Marriage to Kavya Maran Following Greek Wedding Concert",
-      "Rana Daggubati Reveals Initial Look at Horror Project Starring Kangana Ranaut"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3680,19 +3651,33 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-20T12:55:22Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+      "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel",
+      "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+      "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+      "Ali Abbas Zafar Makes Musical Debut in Parivarik ManuRanjan"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3922,19 +3907,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4256,31 +4241,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T12:03:11Z",
-    "run_id": "44520002697",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 390 still unprocessed; today by category: movies 11/6, tv_dramas 8/4, episodes 2/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 4/4, ott_streaming 5/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Apoorva Lakhia Highlights Salman Khan's Vital Role in Saving Maatrubhumi",
-      "The Diplomat Season 5 Receives Production Schedule And Release Window Updates",
-      "Vedaant Madhavan Breaks West Virginia University Record at Ohio State Invitational",
-      "Denzel Washington and Christopher McQuarrie Team Up for New Crime Thriller Compassionate Release"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4785,19 +4758,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T12:52:03Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 392 still unprocessed; today by category: movies 7/6, tv_dramas 11/4, episodes 1/2, box_office 7/6, celebrities_events 13/5, upcoming_releases 2/4, ott_streaming 8/4, trailers 0/3, awards 2/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+      "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+      "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+      "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5111,19 +5096,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5413,24 +5398,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 17,
+     "count": 377,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5730,24 +5715,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 77,
+     "count": 30,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5992,19 +5977,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 76,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6239,19 +6229,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6533,19 +6523,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6786,19 +6776,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7028,19 +7018,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7289,6 +7279,16 @@
     "category": "Trending News",
     "run_at": "2026-11-20T12:02:29Z",
     "run_id": "44730855922",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7809,16 +7809,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-19T14:27:12Z",
     "run_id": "44537472370",
     "status": "skipped",
@@ -8055,19 +8045,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T12:05:49Z",
-    "run_id": "44520002697",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8317,8 +8307,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-20T12:55:31Z",
+    "run_id": "44739152801",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8159,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-20T12:02:29Z"
+ "updated_at": "2026-11-20T12:55:31Z"
 }

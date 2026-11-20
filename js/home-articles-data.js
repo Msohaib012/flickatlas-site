@@ -80,6 +80,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 20 Nov 2026 16:46:31 +0530"
   },
+  "e6d0st": {
+    "id": "e6d0st",
+    "type": "news",
+    "headline": "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+    "dek": "Actor Samantha Ruth Prabhu and filmmaker Raj Nidimoru have announced the birth of their first child, a baby boy named Dev Nidimoru, born on November 19, 2026.",
+    "entities": {
+      "people": [
+        "Samantha Ruth Prabhu",
+        "Raj Nidimoru",
+        "Dev Nidimoru",
+        "Varun Dhawan",
+        "Tamannaah Bhatia",
+        "Ananya Panday",
+        "Sadhguru"
+      ],
+      "titles": [
+        "Maa Inti Bangaaram"
+      ]
+    },
+    "keywords": [
+      "Samantha Ruth Prabhu",
+      "Raj Nidimoru",
+      "Dev Nidimoru",
+      "Maa Inti Bangaaram"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/samantha-ruth-prabhu-and-raj-nidimoru-blessed-with-a-baby-boy-dev-nidimoru1795172798.jpg",
+        "caption": "Samantha Ruth Prabhu And Raj Nidimoru Welcome Their First Child, A Baby Boy",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-20T16:45:53+05:30"
+  },
   "6h5y98": {
     "id": "6h5y98",
     "type": "news",
@@ -150,6 +184,77 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 10:58:10 +0000"
+  },
+  "ohuvpz": {
+    "id": "ohuvpz",
+    "type": "news",
+    "headline": "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+    "dek": "Ludwig Göransson, Travis Scott, and James Blake dive into the creative process behind The Odyssey, revealing Christopher Nolan's unexpected contributions to the closing track.",
+    "entities": {
+      "people": [
+        "Travis Scott",
+        "Christopher Nolan",
+        "Ludwig Göransson",
+        "James Blake",
+        "Hoyte van Hoytema",
+        "Matt Damon"
+      ],
+      "titles": [
+        "The Odyssey",
+        "When I'm Home"
+      ]
+    },
+    "keywords": [
+      "Travis Scott The Odyssey",
+      "Christopher Nolan When I'm Home song",
+      "Ludwig Göransson The Odyssey score",
+      "James Blake The Odyssey music"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-odyssey-ludwig-goransson-travis-scott-james-black-interview.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Travis Scott Breaks Down Christopher Nolan's Writing Role on 'The Odyssey' Final Song",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 10:40:12 GMT"
+  },
+  "1lq6pbn": {
+    "id": "1lq6pbn",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel",
+    "dek": "Takash Yamazaki returns with the direct sequel to the Oscar-winning Godzilla Minus One, arriving in Indian cinemas with bigger action, a new monstrous threat, and the returning lead cast.",
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Namit Malhotra",
+        "Koichi Shikishima",
+        "Noriko",
+        "Akiko"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus One",
+      "Takashi Yamazaki",
+      "Ryunosuke Kamiki",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028651.jpg",
+        "caption": "Godzilla Minus Zero Hits Indian Theatres: Five Key Things to Know About the Japanese Monster Sequel",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 10:21:09 +0000"
   },
   "1l44miu": {
     "id": "1l44miu",
@@ -696,6 +801,45 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-20T07:53:58Z"
+  },
+  "w7q3wz": {
+    "id": "w7q3wz",
+    "type": "news",
+    "headline": "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+    "dek": "After an emotional video by actor Sharad Kapoor seeking work and detailing personal struggles went viral, superstar Shah Rukh Khan personally contacted him to offer support and a meeting with Aryan Khan.",
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Sharad Kapoor",
+        "Aryan Khan",
+        "Mansoor Khan",
+        "Salman Khan",
+        "Sonu Sood",
+        "Rohit Shetty",
+        "Ahmed Khan",
+        "Amitabh Bachchan",
+        "Sanjay Dutt",
+        "Rajpal Yadav",
+        "Javed Akhtar"
+      ],
+      "titles": [
+        "Josh"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan Sharad Kapoor",
+      "Sharad Kapoor Josh work appeal",
+      "Sharad Kapoor viral video",
+      "Sharad Kapoor Hollywood debut"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shah-rukh-khan-calls-josh-co-star-sharad-kapoor-after-viral-work-appeal-offers1795158697.jpg",
+        "caption": "Shah Rukh Khan Reaches Out to Josh Co-Star Sharad Kapoor Following Viral Work Appeal",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-20T13:12:02+05:30"
   },
   "1g342q9": {
     "id": "1g342q9",
@@ -4608,180 +4752,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-19T07:51:25Z"
-  },
-  "1k985n5": {
-    "id": "1k985n5",
-    "type": "news",
-    "headline": "Dakota and Elle Fanning Unite Onscreen for the First Time in The Nightingale Adaptation",
-    "dek": "Real-life sisters Dakota and Elle Fanning bring Kristin Hannah's bestselling novel to the big screen, exploring sisterhood and survival during World War II.",
-    "entities": {
-      "people": [
-        "Dakota Fanning",
-        "Elle Fanning",
-        "Kristin Hannah",
-        "Michael Morris",
-        "Mark Rylance",
-        "Dana Stevens",
-        "Shira Haas",
-        "Albrecht Schuch",
-        "Edmund Donovan",
-        "Mélanie Laurent",
-        "Andrée de Jongh",
-        "Douglas Hodge",
-        "Gwilym Lee",
-        "Katherine Heigl",
-        "Sarah Chalke",
-        "Stellan Skarsgård",
-        "Sofia Vassilieva",
-        "Abigail Breslin"
-      ],
-      "titles": [
-        "The Nightingale",
-        "I Am Sam",
-        "My Sister's Keeper",
-        "Firefly Lane",
-        "Margo's Got Money Troubles",
-        "The Great",
-        "The Hunger Games",
-        "Unorthodox",
-        "All Quiet on the Western Front",
-        "Civil War",
-        "Sentimental Value"
-      ]
-    },
-    "keywords": [
-      "The Nightingale film",
-      "Dakota and Elle Fanning",
-      "Kristin Hannah The Nightingale",
-      "Michael Morris director"
-    ],
-    "images": [
-      {
-        "url": "https://media.vanityfair.com/photos/6afd2102076e601c9d2486ea/16:9/w_1280,c_limit/VF-Nightingale-5.png",
-        "caption": "Dakota and Elle Fanning Unite Onscreen for the First Time in The Nightingale Adaptation",
-        "source": "Vanity Fair"
-      }
-    ],
-    "published": "2026-11-19T07:51:25Z"
-  },
-  "6vnwap": {
-    "id": "6vnwap",
-    "type": "news",
-    "headline": "Tabu Sets Hindi OTT Debut With YRF Entertainment Series Tunnel Men Inspired By 2023 Rescue",
-    "dek": "Veteran actress Tabu has joined the cast of YRF Entertainment's upcoming Netflix drama Tunnel Men, marking her first appearance in a Hindi original streaming series.",
-    "entities": {
-      "people": [
-        "Tabu",
-        "Vishal Bhardwaj",
-        "Sriram Raghavan",
-        "Mira Nair",
-        "Ang Lee"
-      ],
-      "titles": [
-        "Tunnel Men",
-        "Maachis",
-        "Chandni Bar",
-        "Maqbool",
-        "Haider",
-        "Andhadhun",
-        "The Namesake",
-        "Life of Pi"
-      ]
-    },
-    "keywords": [
-      "Tabu Tunnel Men",
-      "YRF Netflix series Tunnel Men",
-      "Tabu Hindi OTT debut",
-      "Uttarakhand tunnel rescue series"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156530533,thumbsize-143632,width-1280,height-720,resizemode-75/156530533.jpg",
-        "caption": "Tabu Sets Hindi OTT Debut With YRF Entertainment Series Tunnel Men Inspired By 2023 Rescue",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-19T07:51:25Z"
-  },
-  "hztwd8": {
-    "id": "hztwd8",
-    "type": "news",
-    "headline": "How the Director of Josephine Discovered Her Lead Star at a Farmers Market",
-    "dek": "Beth de Araujo spent more than a decade trying to bring her deeply personal drama to the screen, but casting the crucial young lead happened entirely by chance.",
-    "entities": {
-      "people": [
-        "Beth de Araujo",
-        "Mason Reeves",
-        "Gemma Chan",
-        "Channing Tatum"
-      ],
-      "titles": [
-        "Josephine",
-        "Soft Quiet"
-      ]
-    },
-    "keywords": [
-      "Josephine film",
-      "Beth de Araujo Josephine",
-      "Mason Reeves Josephine",
-      "Channing Tatum Gemma Chan Josephine",
-      "Josephine release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/Josephine.jpg?w=650",
-        "caption": "How the Director of Josephine Discovered Her Lead Star at a Farmers Market",
-        "source": "Gold Derby"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 07:35:07 +0000"
-  },
-  "1fqe9tf": {
-    "id": "1fqe9tf",
-    "type": "news",
-    "headline": "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
-    "dek": "Netflix has quietly rolled out a collection of international short-form dramas featuring episodes running from under five minutes to twenty minutes, offering a feature-length storytelling experience without the commitment of hour-long chapters.",
-    "entities": {
-      "people": [
-        "Akiko Higashimura",
-        "Mauricio Montes",
-        "Fernando Urdapilleta",
-        "Pablo Illanes",
-        "Hoshino Midori",
-        "Konta",
-        "Nishigami",
-        "Anabel Roldán",
-        "Rafael",
-        "Carlos Monterrosa",
-        "Lucía",
-        "Bárbara",
-        "Álvaro",
-        "Iker",
-        "Fernanda"
-      ],
-      "titles": [
-        "The Vacation Principle",
-        "Bakansu no Hosoku",
-        "Stolen Heartbeats",
-        "En coma",
-        "Between Father and Son",
-        "Entre padre e hijo"
-      ]
-    },
-    "keywords": [
-      "The Vacation Principle Netflix",
-      "Stolen Heartbeats series",
-      "Between Father and Son show",
-      "Netflix short dramas under 20 minutes"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/3-netflix-short-dramas-to-watch-under-20-minutes-01.jpg",
-        "caption": "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 07:25:50 +0000"
   },
   "1w900ih": {
     "id": "1w900ih",
