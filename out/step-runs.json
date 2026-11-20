@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T20:51:57Z",
-    "run_id": "44612745201",
-    "status": "success",
-    "checked": {
-     "candidates": 481,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "OM Advance Booking Day 1: Dhanush’s Film Crosses 9Cr In Presales; Creates THIS Record Ahead Of Release",
-      "article govt proposes up to 3 year puc validity for new bs vi vehicles 6 months for older ones 3162573",
-      "article alia bhatt recognised among influential emerging voices features on time100 next india cover 3162555",
-      "article amitabh bachchan reacts to his bach gaye comment on x reveals unexpected kbc link 3162503",
-      "article aryan khan features on time100 next india inaugural cover recognised among emerging voices shaping indian cinema 3162518",
-      "article dr hassan teaser nawazuddin siddiqui steps in hugh lauries shoes dia mirza joins remake of house 3162540",
-      "article government will take action shiv senas neelam gorhe on alleged death threat to saif ali khan 3162557",
-      "article jackie shroff joins delhi cm rekha gupta for post chhath puja yamuna cleanliness drive we should not dump waste 3162543",
-      "article kaali kheti review jackie shroff and sharad kelkar deliver a terrifying rural horror experience 3162513",
-      "article pratap movie review amit sadh delivers a powerful performance in this emotional tale of an encounter specialist 3162567",
-      "article salman khans priceless advice to debutant subhaan present mai raho na udo na depressed ho 3162507",
-      "article shah rukh khan the only indian actor in varietys 100 greatest movie stars of all time list 3162510",
-      "article shashi tharoor to make hosting debut with ramayana docuseries premieres december 7 3162568",
-      "article thalaiva and grandson yathra twin in style rajinikanth drops heartwarming photo following family getaway in greece 3162558",
-      "article iffi 2026 to host india premiere of bharatbala and ar rahmans banaras 3162545",
-      "article sharvari opens up to madhuri dixit about admiring alia bhatts work life balance 3162542",
-      "article shraddha kapoors eetha all you need to know about vithabai narayangaonkar whose book inspired a few events in the film 3162538",
-      "article robert pattinson in ramayana next memes flood internet after actor confirmed as new james bond 3162519",
-      "article arun vijay birthday special makers of muthaiyas irulan unveil two striking posters showcasing actors dual avatars 3162523",
-      "article opinion the real test of power is in the streets of uttar pradesh 3162572"
-     ],
-     "updated": [],
-     "count": 345,
-     "detail": "364 stories, 5 duplicates removed, 117 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-19T21:52:02Z",
     "run_id": "44622787487",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "347 stories, 0 duplicates removed, 49 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T20:51:06Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": {
+     "candidates": 337,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Kangana Ranaut, Ravi Kishan, Arun Govil and Manoj Muntashir mourn CM Yogi’s mother",
+      "I Need To Point Out One Unexpected (And Positive) Side Effect Of That Kelly Clarkson Bird Brouhaha",
+      "‘Bodyguard’ Meets ‘The Hunt for Red October’ in Netflix’s 7-Part Political Thriller",
+      "‘Dungeon Crawler Carl’ Replacement Series Sets Release Date",
+      "VisionQuest: The Trick That Made Tommy’s Speed Feel Real | Collider BTS",
+      "Chris Hemsworth Home Burglary Update Reveals Arrest Has Been Made, Details Here",
+      "The Muppets: Jennifer Lawrence Shares Exciting Update on Miss Piggy Movie With Emma Stone",
+      "Richard Kind Reveals Life-Changing Skin Disease He’s Battled for Decades: ‘It’s Horrible’",
+      "Denzel Washington’s Fan-Favorite Sci-Fi Thriller Movie Is Now Streaming Free",
+      "Watch: Animated Short Film 'Beast of the Seine' About a Heroic Dog",
+      "'Grand Theft Auto VI' Players Divided Over \"Disgusting\" Lucia Twist",
+      "Netflix's New (Very) R-Rated 3-Part Historical Epic Is Officially Crowned a Streaming Hit",
+      "Gerard Butler's New 'Die Hard'-Esque Action Thriller Gets Netflix-Sized Release Update",
+      "Netflix’s Near-Perfect Action Thriller Fixes the Biggest Problem With 'Reacher' In Only 14 Episodes",
+      "Jared Padalecki’s New Netflix Adaptation Sets All-Time Career Rotten Tomatoes Record",
+      "Yellowjackets Is Officially Changing Its Format In Season 4",
+      "Baldur's Gate 3: Shadowheart Officially Confirmed For 2027 Release",
+      "Wednesday Season 3 Is Finally Adapting The Real Addams Family",
+      "Derval Whelan Exits Searchlight As Head Of U.S. Distribution, Had 17-Year Run With Label",
+      "Oregon-Based Laika Set To Give Thanks To Portland For Success Of ‘Wildwood’ By Offering Free Screenings At Theaters Citywide Over Thanksgiving Holiday Weekend"
+     ],
+     "updated": [],
+     "count": 324,
+     "detail": "337 stories, 0 duplicates removed, 0 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-19T21:05:58Z",
-    "run_id": "44613341770",
-    "status": "success",
-    "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1466,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T20:51:28Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Saif Ali Khan faces threats from criminal syndicate amid Kareena Kapoor pendant controversy",
+      "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr.",
+      "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
+      "New LitRPG Series 'Castle Crawl' Sets April 2027 Release Date"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T22:51:33Z",
-    "run_id": "44632336485",
-    "status": "success",
-    "checked": {
-     "candidates": 391,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 383, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,26 +1905,27 @@
      "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T21:05:59Z",
-    "run_id": "44613341770",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T20:51:29Z",
+    "run_id": "44814970429",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 397,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2432,27 +2420,35 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-20T20:51:32Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1v7o6jf",
+      "xfoonf",
+      "1gzmapt",
+      "9osenp",
+      "1d0uyzi",
+      "3159w2",
+      "tvcq7i",
+      "wthlxh"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T20:57:34Z",
-    "run_id": "44612745201",
-    "status": "success",
-    "checked": {
-     "candidates": 718,
-     "detail": "669 collected staging rows from readers; 245 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 691 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2866,19 +2862,27 @@
      "detail": "+0 new rows, 6 updated rows, 695 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T20:51:29Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": {
+     "candidates": 726,
+     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3108,27 +3112,19 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T21:05:58Z",
-    "run_id": "44613341770",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3653,19 +3649,36 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-20T20:51:31Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Saif Ali Khan faces threats from criminal syndicate amid Kareena Kapoor pendant controversy",
+      "New LitRPG Series 'Castle Crawl' Sets April 2027 Release Date",
+      "Avengers Doomsday Advance Booking Points to Record Hollywood Opening in India",
+      "Sony Pictures Releases First Teaser Trailer for World War II Drama The Nightingale",
+      "Spice and Wolf Season 2 Confirmed for January 2027 Release with New Lenos Arc and Returning Cast",
+      "Eight Heart-Wrenching Romantic Web Series That Explore Pain and Love",
+      "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
+      "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr."
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3942,19 +3955,19 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4276,31 +4289,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T20:52:21Z",
-    "run_id": "44612745201",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 345 still unprocessed; today by category: movies 16/6, tv_dramas 11/4, episodes 2/2, box_office 12/6, celebrities_events 15/5, upcoming_releases 7/4, ott_streaming 6/4, trailers 5/3, awards 2/2, music_ost 3/2, viral 4/2"
-    },
-    "changed": {
-     "added": [
-      "OM Advance Booking Day 1: Dhanush's Spy Thriller Crosses Rs 9 Crore in Presales",
-      "Marvel Fans Demand New Avengers: Doomsday Trailer With Hilarious Ultimatum",
-      "Ananya Panday, Ananya Birla, and Shanaya Kapoor Bring Pure Chaos to Koffee With Karan",
-      "Marvel Reveals Steve Rogers' Dark New Codename for Upcoming Hulk War Event"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4805,19 +4806,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T20:51:28Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 324 still unprocessed; today by category: movies 11/6, tv_dramas 21/4, episodes 1/2, box_office 12/6, celebrities_events 19/5, upcoming_releases 3/4, ott_streaming 9/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Saif Ali Khan faces threats from criminal syndicate amid Kareena Kapoor pendant controversy",
+      "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr.",
+      "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
+      "New LitRPG Series 'Castle Crawl' Sets April 2027 Release Date"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5131,19 +5144,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5473,19 +5486,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 372,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5805,19 +5823,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 50,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6067,19 +6090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6314,19 +6337,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6608,19 +6631,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6861,19 +6884,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7103,19 +7126,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7364,6 +7387,16 @@
     "category": "Trending News",
     "run_at": "2026-11-20T20:40:48Z",
     "run_id": "44805874590",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7884,16 +7917,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-19T22:03:17Z",
     "run_id": "44622787487",
     "status": "skipped",
@@ -8130,19 +8153,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T20:57:43Z",
-    "run_id": "44612745201",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8407,8 +8430,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-20T20:51:45Z",
+    "run_id": "44814970429",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-20T20:40:48Z"
+ "updated_at": "2026-11-20T20:51:45Z"
 }

@@ -203788,5 +203788,377 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 19:30:00 +0000"
+  },
+  "j4q0ip": {
+    "id": "j4q0ip",
+    "type": "news",
+    "headline": "Saif Ali Khan faces threats from criminal syndicate amid Kareena Kapoor pendant controversy",
+    "dek": "Bollywood star Saif Ali Khan has reportedly received a threatening audio clip from the Rohit Godara gang, stemming from backlash over an heirloom pendant worn by Kareena Kapoor.",
+    "body": [
+      {
+        "h": "The Threat Emerges",
+        "p": [
+          "Bollywood actor Saif Ali Khan has allegedly been targeted with a threatening audio message originating from the Rohit Godara gang. The alarming development has drawn widespread attention across media platforms as security concerns grow around the prominent actor.",
+          "Authorities in Mumbai have taken immediate note of the situation and initiated a thorough investigation into the circulated audio clip. Law enforcement agencies are actively analyzing the recording to verify its authenticity and trace the perpetrators behind the intimidation."
+        ]
+      },
+      {
+        "h": "Root of the Controversy",
+        "p": [
+          "The current security scare is directly linked to an ongoing public backlash involving actress Kareena Kapoor. The controversy ignited after she wore a historically significant piece of jewelry during recent Diwali festivities, which quickly drew intense scrutiny.",
+          "The item in question is a four-century-old heirloom pendant belonging to the royal house of Bhopal. Its public display has sparked unexpected friction and controversy within certain public circles."
+        ]
+      },
+      {
+        "h": "Religious Sentiments and Allegations",
+        "p": [
+          "At the center of the dispute are accusations that the antique royal pendant features inscribed verses from the Quran. Critics and various commentators claimed that wearing such an item caused hurt to religious sentiments.",
+          "The resulting public outcry escalated rapidly on social platforms, creating a tense atmosphere around the celebrity couple before culminating in the alleged criminal threats directed at Saif Ali Khan."
+        ]
+      },
+      {
+        "h": "Police Investigation Underway",
+        "p": [
+          "Mumbai Police personnel are leaving no stone unturned as they probe the origins of the viral audio message. Investigators are reviewing digital footprints and communication channels to determine how the threat was transmitted.",
+          "Security protocols surrounding the actor and his family are being evaluated by law enforcement officials while the technical analysis of the audio recording continues."
+        ]
+      },
+      {
+        "h": "Involvement of the Rohit Godara Gang",
+        "p": [
+          "The inclusion of the Rohit Godara gang in this controversy has elevated the gravity of the police inquiry. Organized crime syndicates targeting Bollywood figures historically trigger heightened security responses from municipal authorities.",
+          "Investigators are cross-referencing the audio file with known communication patterns associated with the gang to establish concrete links and apprehend those responsible for issuing the menace."
+        ]
+      },
+      {
+        "h": "Public and Media Reaction",
+        "p": [
+          "The unfolding situation has dominated entertainment news cycles, sparking intense discussions regarding celebrity safety and public sensitivities. Observers across the film industry have expressed concern over the intersection of cultural disputes and criminal intimidation.",
+          "As updates emerge from investigative agencies, fans and well-wishers continue to monitor the status of the police probe and the safety measures implemented for the Bollywood family."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Saif Ali Khan has reportedly received a threatening audio clip from the Rohit Godara gang amidst a controversy over a four-hundred-year-old Bhopal royal family pendant worn by Kareena Kapoor during Diwali. The item faced accusations of hurting religious sentiments due to Quranic verses inscribed on it, prompting Mumbai Police to launch a detailed investigation into the viral audio."
+        ]
+      }
+    ],
+    "facts": [
+      "Saif Ali Khan received a threatening audio clip from the Rohit Godara gang.",
+      "The controversy involves a 400-year-old Bhopal royal family pendant worn by Kareena Kapoor on Diwali.",
+      "The pendant allegedly has Quranic verses inscribed on it, leading to accusations of hurting religious sentiments.",
+      "Mumbai Police is investigating the viral audio clip and the threat.",
+      "The update was published on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Saif Ali Khan",
+        "Kareena Kapoor",
+        "Rohit Godara"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Saif Ali Khan",
+      "Kareena Kapoor pendant",
+      "Rohit Godara gang",
+      "Saif Ali Khan threat"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202611/6affd9d041a5d-saif-ali-khan-receives-death-threat-202535252-16x9.png",
+        "caption": "Saif Ali Khan faces threats from criminal syndicate amid Kareena Kapoor pendant controversy",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T20:51:28Z"
+  },
+  "y68cb8": {
+    "id": "y68cb8",
+    "type": "news",
+    "headline": "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr.",
+    "dek": "The acclaimed performer shared a heartfelt tribute on social media following the death of his father at age 74, remembering his foundational influence on his life and iconic style.",
+    "body": [
+      {
+        "h": "A Devastating Loss for the Pop Icon",
+        "p": [
+          "Global music star Bruno Mars is grieving the loss of his father, Peter Hernandez Sr., who passed away at the age of 74. The singer took to Instagram to share the heartbreaking news with his followers, posting a deeply personal message that reflected on the profound impact his father had on his personal life and career.",
+          "The announcement resonated deeply with millions of fans across the globe, who flooded comment sections and social media platforms with messages of condolence and support for the grieving artist and his family during this difficult time."
+        ]
+      },
+      {
+        "h": "Final Moments and Lasting Gratitude",
+        "p": [
+          "In his emotional public tribute, the singer revealed that he was fortunate enough to spend precious final moments with his father shortly before his passing. He expressed immense gratitude for being able to embrace him one last time.",
+          "The touching post emphasized how deeply the beloved entertainer valued his father's presence, noting that he would miss him every single day moving forward until they are eventually reunited."
+        ]
+      },
+      {
+        "h": "The Greatest Dad and Family Pillar",
+        "p": [
+          "Describing him as the greatest father in the world, the performer highlighted the immense dedication and love his father showed while raising a large household. Peter Hernandez Sr. successfully raised four daughters and two sons.",
+          "The artist also tenderly requested that his father send greetings to his late mother, Bernadette San Pedro Bayot, who tragically passed away in the year 2013 due to a brain aneurysm."
+        ]
+      },
+      {
+        "h": "The Root of a Legendary Musical Journey",
+        "p": [
+          "Long before achieving superstardom, the young artist found his earliest musical education directly under his father's guidance. The senior Hernandez was an old-school working musician whose passion for rhythm shaped his children's artistic paths.",
+          "In past interviews, the Grammy-winning singer frequently credited his father with teaching him the fundamentals of rhythm, recalling how he was first introduced to playing bongos as a young child under his father's watchful eye."
+        ]
+      },
+      {
+        "h": "Inspiration Behind the Iconic Style",
+        "p": [
+          "Beyond musical technique, Peter Hernandez Sr. served as the blueprint for his son's signature theatrical aesthetic and vintage fashion sense. The unmistakable stage persona heavily draws from old-school showmanship.",
+          "Elements such as the signature pinky rings, tailored suits, patent-leather shoes, and the classic pompadour hairstyle can all be traced back to the young boy observing his stylish working-musician father."
+        ]
+      },
+      {
+        "h": "Current Endeavors Amid Personal Grief",
+        "p": [
+          "The heartbreaking family tragedy arrives while the pop sensation is actively engaged in his ongoing concert tour for his current musical project titled The Romantic.",
+          "Despite the demanding schedule of life on the road and performing for massive crowds night after night, the artist has understandably paused to honor the memory of the man who built the foundation of his entire career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bruno Mars shared on social media that his father, Peter Hernandez Sr., died at the age of 74. The singer paid tribute to his father's lifelong musical mentorship and influence on his signature style, while currently on tour for The Romantic."
+        ]
+      }
+    ],
+    "facts": [
+      "Peter Hernandez Sr. died at the age of 74.",
+      "Bruno Mars shared the news on November 19.",
+      "Peter Hernandez Sr. raised four sisters and one brother alongside Bruno Mars.",
+      "Bernadette San Pedro Bayot died in 2013 due to a brain aneurysm.",
+      "Bruno Mars is currently on tour for his album The Romantic."
+    ],
+    "entities": {
+      "people": [
+        "Bruno Mars",
+        "Peter Hernandez Sr.",
+        "Bernadette San Pedro Bayot"
+      ],
+      "titles": [
+        "The Romantic"
+      ]
+    },
+    "keywords": [
+      "Bruno Mars father",
+      "Peter Hernandez Sr.",
+      "Bruno Mars dad death",
+      "The Romantic tour"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/356/1c0/654ae3d4a48449b36797ed760843014bef-bruno-mars.1x.rsocial.w1200.jpg",
+        "caption": "Bruno Mars Mourns the Passing of His Father and Lifelong Musical Mentor, Peter Hernandez Sr.",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-20T02:09:04.274Z"
+  },
+  "71zf1d": {
+    "id": "71zf1d",
+    "type": "news",
+    "headline": "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
+    "dek": "Reviewing the Zee5 series Teen Tigada, directed by Rajeev Raj and starring Prasanna Bisht and Danesh Razvi.",
+    "body": [
+      {
+        "h": "Introduction and Core Premise",
+        "p": [
+          "The newly released series Teen Tigada brings together a young couple navigating the complexities of ambition and unexpected life changes. At its core, the show revolves around two collegians trying to balance their individual career aspirations with a sudden pregnancy that threatens to upend everything. Asmani is focused on making the national selection as a cricketer, while Manas hopes to establish himself as a musician. This collision of youthful dreams and unplanned responsibility provides a strong narrative foundation filled with potential for comedy and drama.",
+          "Despite an interesting setup, the series struggles to translate its premise into a fully engaging dramatic experience. Directed by Rajeev Raj, the project has a pleasant surface aesthetic but ultimately lacks the emotional weight required for a compelling watch. The runtime spans three hours and ten minutes across its episodes, yet the storytelling often feels stretched and uncertain of its primary tone."
+        ]
+      },
+      {
+        "h": "Tone and Structural Issues",
+        "p": [
+          "One of the major shortcomings of Teen Tigada is its identity crisis. The narrative shifts haphazardly between a lighthearted campus comedy, a standard young romance, and an occasional family drama. There is a clear attempt to emulate the breezy vibe of American campus comedies, but the execution falls flat. Furthermore, critics note that the material may have originally been written as a feature film before being chopped into episodic segments, as the natural progression and episodic momentum expected from a web series are frequently missing."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Maturity",
+        "p": [
+          "The central relationship between Asmani and Manas forms the strongest pillar of the show. Actors Prasanna Bisht and Danesh Razvi establish a genuine chemistry and look comfortable together on screen. However, their persistent indecision regarding their careers, future, and relationship begins to test the viewer's patience. An unplanned pregnancy should logically force the characters to mature and reevaluate their priorities; instead, the protagonists remain stuck in circles even by the ninth episode, stunting their emotional development."
+        ]
+      },
+      {
+        "h": "Conflicted Secrets and Pacing",
+        "p": [
+          "The dramatic tension is further hampered by weak conflict resolution. The couple's primary obstacle is their hesitation to inform their parents about their relationship and the pregnancy. This reluctance feels particularly baffling given that Asmani's parents are portrayed as warm and indulgent, while Manas' mother acts as a protective helicopter parent. The narrative drags its feet in moving this central conflict forward, leaving the secret under wraps for an unrealistic duration without generating the necessary urgency."
+        ]
+      },
+      {
+        "h": "Setting and Atmospheric Misses",
+        "p": [
+          "Set against the backdrop of Mumbai, the series fails to utilize its location effectively. The atmosphere lacks authentic local flavor, with the campus life and character interactions feeling detached from the city's actual vibe. While Asmani occasionally uses a smattering of Marathi with her parents in their village, the rest of the dialogue defaults to polished Hindi. A stronger connection to the local environment could have given the series a much-needed distinct identity."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Musical Highlights",
+        "p": [
+          "The wider ensemble cast contributes to the proceedings with characters like Yashika, Sandy, Rakesh, Arun, Vihaan, and Manas' childhood friend Tara, though tighter character development could have elevated their impact. On the bright side, the soundtrack serves as a definite asset. The songs successfully complement the mood and provide a much-needed layer of freshness to the overall viewing experience."
+        ]
+      },
+      {
+        "h": "Cliffhanger Ending and Final Verdict",
+        "p": [
+          "The first season concludes on an unresolved cliffhanger, leaving viewers uncertain about whether Asmani proceeds with an abortion or what ultimate choice she makes. While a second season might offer closure, cliffhangers only truly resonate when the audience is deeply invested in the outcome. Teen Tigada ultimately emerges as an average watch that combines watchable lead performances and good music with weak writing and superficial conflict."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Teen Tigada is a romance drama series directed by Rajeev Raj and currently streaming on Zee5. Starring Prasanna Bisht and Danesh Razvi as two collegians dealing with an unplanned pregnancy, the show receives a 3.0 critic rating for its pleasant tone and music but falls short due to uneven pacing and lack of emotional depth."
+        ]
+      }
+    ],
+    "facts": [
+      "Teen Tigada was published on Nov 20, 2026.",
+      "The series has a critic rating of 3.0 out of 5.",
+      "The duration of the series is 3 hours 10 minutes.",
+      "The director of Teen Tigada is Rajeev Raj.",
+      "The series is streaming on Zee5."
+    ],
+    "entities": {
+      "people": [
+        "Devesh Sharma",
+        "Prasanna Bisht",
+        "Danesh Razvi",
+        "Tanya Bhardwaj",
+        "Isha Narayan Singh",
+        "Divyanshu Bisht",
+        "Archika Arora",
+        "Grusha Kapoor",
+        "Sagar Deshmukh",
+        "Aditi Sarangdhar",
+        "Rajeev Raj",
+        "Aditya Pratap Singh",
+        "Smarth Mehta"
+      ],
+      "titles": [
+        "Teen Tigada"
+      ]
+    },
+    "keywords": [
+      "Teen Tigada",
+      "Prasanna Bisht",
+      "Danesh Razvi",
+      "Rajeev Raj",
+      "Teen Tigada series review"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/teen-tigada1795108011.jpg",
+        "caption": "Teen Tigada Review: A Campus Romance Constrained by Shallow Depth",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-20T10:56:16+05:30"
+  },
+  "offz68": {
+    "id": "offz68",
+    "type": "news",
+    "headline": "New LitRPG Series 'Castle Crawl' Sets April 2027 Release Date",
+    "dek": "Game writer Justin Sloan and Disney shorts director Zack Petroc are launching a brand-new LitRPG book series titled Castle Crawl, published by 47North.",
+    "body": [
+      {
+        "h": "Introduction to Castle Crawl",
+        "p": [
+          "A fresh entry into the LitRPG genre is officially on the horizon for fantasy readers and gamers alike. Publisher 47North has announced the upcoming release of Castle Crawl, a 316-page paperback that serves as the first installment in a brand-new series.",
+          "Fans of tactical progression fantasy and imaginative world-building can mark their calendars for April 13, 2027, when the book officially hits shelves."
+        ]
+      },
+      {
+        "h": "The Plot and Setting",
+        "p": [
+          "The story unfolds within Realm One, a high-stakes environment introduced in the upcoming novel. Thousands of soldiers find themselves trapped on a top-secret military base following a devastating cyberattack.",
+          "The security breach fundamentally alters the physical surroundings, transforming the military facility into a playable fantasy landscape filled with treacherous castles, challenging levels, and a formidable underground-burrowing dragon."
+        ]
+      },
+      {
+        "h": "Meet the Protagonist",
+        "p": [
+          "At the center of the narrative is Reeve Thompson, a young cadet caught in the middle of the crisis. His primary objective is a personal rescue mission to locate and save his missing brother.",
+          "However, navigating the altered military base requires teamwork. Reeve must attempt to recruit fellow survivors and lead them through the initial castle, even as unknown threats begin to hunt them from behind."
+        ]
+      },
+      {
+        "h": "The Creative Minds Behind the Book",
+        "p": [
+          "Castle Crawl brings together two distinct creative talents from the gaming and animation industries. Justin Sloan, a writer known for his work on Battlefield 6 as well as narrative titles from Telltale including Game of Thrones and The Walking Dead, brings his expertise in branching paths and moral choices.",
+          "Co-creator Zack Petroc transitions from his animation background at Disney, where he contributed to Wreck-It Ralph and supervised the modeling team on Big Hero 6, bringing a strong visual sensibility to the project."
+        ]
+      },
+      {
+        "h": "Background and Genre Context",
+        "p": [
+          "Before transitioning into game writing and fiction, Sloan served as a Marine Corps non-commissioned officer working in signals intelligence. That military background informs the structured tactical dilemmas faced by characters in his stories.",
+          "The new series arrives amid rising interest in LitRPG storytelling, a genre where characters navigate worlds governed by explicit game mechanics, leveling systems, and quest-driven progression."
+        ]
+      },
+      {
+        "h": "Mysterious Companions and Rising Stakes",
+        "p": [
+          "As Reeve fights to uncover who launched the original cyberattack before the fantasy elements completely consume the surrounding world, he will not be entirely alone. Promotional details hint at the inclusion of a baby unicorn accompanying the squad.",
+          "While the publisher remains tight-lipped about the animal's exact role or abilities, 47North has teased that the baby unicorn is harboring a significant secret that could impact the journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Publisher 47North will release Castle Crawl on April 13, 2027, launching a new LitRPG series written by Justin Sloan and Zack Petroc. The 316-page paperback follows a cadet named Reeve as he navigates a top-secret military base transformed into a playable fantasy world."
+        ]
+      }
+    ],
+    "facts": [
+      "Castle Crawl is published by 47North.",
+      "The book releases on April 13, 2027.",
+      "The paperback is 316 pages long.",
+      "The creators are Justin Sloan and Zack Petroc.",
+      "The protagonist is cadet Reeve Thompson."
+    ],
+    "entities": {
+      "people": [
+        "Hannah Hunt",
+        "Matt Dinniman",
+        "Reeve Thompson",
+        "Justin Sloan",
+        "Zack Petroc",
+        "Chris Yost"
+      ],
+      "titles": [
+        "Dungeon Crawler Carl",
+        "Castle Crawl",
+        "Battlefield 6",
+        "Game of Thrones",
+        "The Walking Dead",
+        "Wreck-It Ralph",
+        "Big Hero 6",
+        "Harry Potter",
+        "Lord of the Rings",
+        "Star Wars",
+        "Star Trek"
+      ]
+    },
+    "keywords": [
+      "Castle Crawl",
+      "Justin Sloan",
+      "Zack Petroc",
+      "47North",
+      "Realm One"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/samjad-94.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "New LitRPG Series 'Castle Crawl' Sets April 2027 Release Date",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 19:23:44 GMT"
   }
 };
