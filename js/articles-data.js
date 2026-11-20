@@ -136559,13 +136559,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 51 aired on 2026-11-13 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=J_9LiddZcTg"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah bhari baarish ke dauran apna samaan lekar Issa ka ghar chor kar nikal jati hai. Issa use rokne aur gari mein bithane ki"
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 51 aired on 2026-11-13.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=J_9LiddZcTg",
-      "YouTube views: 583,308."
+      "YouTube views: 583,308.",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -137567,6 +137574,12 @@ window.FA_ARTICLES = {
         "p": [
           "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zaryab aur uske shohar ke darmeyan Hamna ke phone call ko lekar galat fehmi par baat hoti hai. Shohar Zary"
+        ]
       }
     ],
     "facts": [
@@ -137574,7 +137587,8 @@ window.FA_ARTICLES = {
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=dk4uVsevJeU",
       "YouTube views: 644,734.",
-      "TMDB: Dar-E-Nijaat (id 328722)."
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -137615,6 +137629,12 @@ window.FA_ARTICLES = {
         "p": [
           "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bareera Dawood ke pas wapas jane ke liye khud ko tayaar karti hai aur uski baaton ko yaad karti hai. Dusri taraf, Tamseel"
+        ]
       }
     ],
     "facts": [
@@ -137622,7 +137642,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=3YwBQFb22qM",
       "YouTube views: 570,662.",
-      "TMDB: Nashtar (id 332312)."
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -147405,13 +147426,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 52 aired on 2026-11-14 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=plFvcyS24Sc"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Isa aur Uswah ke darmian ek takleef deh alvidaee ka manzar dikhaya gaya hai. Isa Uswah ko gari"
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 52 aired on 2026-11-14.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=plFvcyS24Sc",
-      "YouTube views: 895,036."
+      "YouTube views: 895,036.",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -182937,6 +182965,12 @@ window.FA_ARTICLES = {
         "p": [
           "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Issa Uswah ke ghayab hone par buhat pareshan hota hai. Jab Fariya us se baat karne aati hai, toh Issa Uswah"
+        ]
       }
     ],
     "facts": [
@@ -182944,7 +182978,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=ZMsOyXB0mzM",
       "YouTube views: 947,887.",
-      "TMDB: Uswah (id 336291)."
+      "TMDB: Uswah (id 336291).",
+      "Episode summary added 2026-11-20."
     ],
     "entities": {
       "titles": [
@@ -201490,5 +201525,556 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-20T05:29:48-08:00"
+  },
+  "1gwcmjz": {
+    "id": "1gwcmjz",
+    "type": "news",
+    "headline": "Mera Ghar Episode 4 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 4 aired on 2026-11-20 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mera Ghar Episode 4 aired on 2026-11-20 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=avyZa9suoBE"
+        ]
+      }
+    ],
+    "facts": [
+      "Mera Ghar Episode 4 aired on 2026-11-20.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=avyZa9suoBE",
+      "YouTube views: 16,409."
+    ],
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/avyZa9suoBE/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 4",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-20T15:00:38Z"
+  },
+  "k1fda1": {
+    "id": "k1fda1",
+    "type": "news",
+    "headline": "Uswah Episode 58 — Watch Online on Geo TV",
+    "dek": "Uswah episode 58 aired on 2026-11-20 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 58 aired on 2026-11-20 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=F8T3hlRBtTg"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 58 aired on 2026-11-20.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=F8T3hlRBtTg",
+      "YouTube views: 563,677."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/F8T3hlRBtTg/hqdefault.jpg",
+        "caption": "Uswah Episode 58",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-20T15:00:26Z"
+  },
+  "1ymw66j": {
+    "id": "1ymw66j",
+    "type": "news",
+    "headline": "Khushi Episode 69 — Watch Online on HUM TV",
+    "dek": "Khushi episode 69 aired on 2026-11-20 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 69 aired on 2026-11-20 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=lyPplOgbgKs"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 69 aired on 2026-11-20.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=lyPplOgbgKs",
+      "YouTube views: 194,715."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/lyPplOgbgKs/hqdefault.jpg",
+        "caption": "Khushi Episode 69",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-20T15:00:04Z"
+  },
+  "slhud1": {
+    "id": "slhud1",
+    "type": "news",
+    "headline": "Dastoor Episode 91 — Watch Online on Green TV",
+    "dek": "Dastoor episode 91 aired on 2026-11-20 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 91 aired on 2026-11-20 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=30jDb_LyKmA"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 91 aired on 2026-11-20.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=30jDb_LyKmA",
+      "YouTube views: 85,435.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/30jDb_LyKmA/hqdefault.jpg",
+        "caption": "Dastoor Episode 91",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-20T14:45:34Z"
+  },
+  "5suwun": {
+    "id": "5suwun",
+    "type": "news",
+    "headline": "Ramayana Approaches Rs 1575 Crore Worldwide As It Enters Day 16",
+    "dek": "Nitesh Tiwari's ambitious directorial Ramayana eyes further milestones at the box office on its sixteenth day.",
+    "body": [
+      {
+        "h": "Introduction To The Box Office Milestone",
+        "p": [
+          "Nitesh Tiwari's heavily anticipated cinematic venture Ramayana continues to make headlines as it approaches its sixteenth day in theatres. The feature has captured widespread public interest, establishing itself as a major talking point across the entertainment industry.",
+          "With strong momentum driving its theatrical run, the project stands out as the fastest Bollywood film to surpass the Rs 1500 crore threshold globally. Observers are closely monitoring its trajectory as the feature heads toward its third weekend."
+        ]
+      },
+      {
+        "h": "Worldwide Collection Projections",
+        "p": [
+          "Having accumulated a massive Rs 1,547.15 crore worldwide over its initial fifteen days, the film is projected to edge closer to the Rs 1575 crore mark on day 16, which marks the third Friday of its theatrical release.",
+          "The steady inflow of numbers highlights the scale of its commercial success, keeping trade analysts focused on its capability to sustain these high figures moving forward."
+        ]
+      },
+      {
+        "h": "Domestic Market Breakdown",
+        "p": [
+          "Domestically, the movie is eyeing collections near the Rs 880 crore milestone. Its regional performance shows robust numbers across multiple languages throughout the country.",
+          "The feature has earned Rs 664.58 crore in the Hindi version, alongside Rs 70.91 crore in Kannada, Rs 54.68 crore in Telugu, Rs 41.93 crore in Tamil, and Rs 40.55 crore in Malayalam."
+        ]
+      },
+      {
+        "h": "International And Overseas Trends",
+        "p": [
+          "While domestic figures remain solid, the overseas market indicates a slight cooling off. Predictions suggest the international territories will contribute between Rs 3 crore and Rs 4 crore on day 16.",
+          "This incremental overseas addition will lift the cumulative international collection close to the Rs 520 crore threshold as the third weekend begins."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The production boasts an extensive ensemble cast, featuring Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana. Their inclusion has generated substantial curiosity among moviegoers.",
+          "Additional prominent names in the lineup include Rakul Preet Singh, Lara Dutta, Arun Govil, Vivek Oberoi, Anupam Kher, Adinath Kothare, and Sheeba Chaddha, forming a vast collaborative effort."
+        ]
+      },
+      {
+        "h": "Career Significance For Lead Actors",
+        "p": [
+          "This project represents a noteworthy transition for Sai Pallavi, expanding her presence into major Hindi cinema after establishing a strong reputation in Tamil, Telugu, and Malayalam industries.",
+          "For Ranbir Kapoor, the film arrives on the heels of Animal, offering audiences a distinct thematic shift from his recent intense big-screen persona."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana continues its strong theatrical run, aiming for a worldwide collection close to Rs 1575 crore on its sixteenth day. The film has recorded significant domestic earnings across multiple languages alongside steady international figures."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari.",
+      "The film stars Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana.",
+      "The cast includes Rakul Preet Singh, Lara Dutta, Arun Govil, Vivek Oberoi, Anupam Kher, Adinath Kothare, and Sheeba Chaddha.",
+      "Ramayana is the fastest Bollywood movie to cross Rs 1500cr worldwide.",
+      "The worldwide box office collection in 15 days was Rs 1,547.15cr.",
+      "Day 16 overseas collection is predicted to be Rs 3-4cr.",
+      "Total overseas collection is expected to reach close to Rs 520cr.",
+      "Domestic box office collection includes Rs 664.58cr in Hindi, Rs 70.91cr in Kannada, Rs 54.68cr in Telugu, Rs 41.93cr in Tamil, and Rs 40.55cr in Malayalam."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Anupam Kher",
+        "Adinath Kothare",
+        "Sheeba Chaddha"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana worldwide collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday11overseasfeature-46351795169787.jpg",
+        "caption": "Ramayana Approaches Rs 1575 Crore Worldwide As It Enters Day 16",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 19:53:35 +0530"
+  },
+  "mt1zlt": {
+    "id": "mt1zlt",
+    "type": "news",
+    "headline": "First Trailer Released For Upcoming Thriller 'Killing Castro' Starring Diego Boneta",
+    "dek": "Lionsgate has debuted the first official trailer for the upcoming thriller Killing Castro, starring Diego Boneta and Al Pacino, ahead of its December 11 theatrical and VOD release.",
+    "body": [
+      {
+        "h": "First Trailer Debut",
+        "p": [
+          "Studio Lionsgate has officially unveiled the very first trailer for its upcoming dramatic thriller Killing Castro. The promotional clip offers audiences an early look at the tension-filled historical narrative heading to screens very soon.",
+          "The newly released footage introduces the high-stakes atmosphere surrounding a pivotal historical moment, setting the stage for a tense confrontation involving international figures and political plotting."
+        ]
+      },
+      {
+        "h": "Release Date And Platforms",
+        "p": [
+          "Fans won't have to wait long to see the feature in full, as Lionsgate has scheduled the film to bow in theaters and on VOD on December 11. This dual-release strategy will make the project accessible to viewers both in cinema halls and at home.",
+          "The upcoming launch brings the historical thriller directly to the public just weeks after the initial promotional rollout begins."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "The upcoming motion picture boasts a massive ensemble cast led by Diego Boneta in a central role. He is joined by cinema legend Al Pacino, bringing considerable star power to the project.",
+          "Rounding out the extensive roster of talent are Xolo Maridueña, KiKi Layne, Alexander Ludwig, Ron Livingston, Kendrick Sampson, Nicole Beharie, Logan Marshall Green, and Titus Welliver."
+        ]
+      },
+      {
+        "h": "Behind The Camera",
+        "p": [
+          "Direction for the project comes from Eif Rivera, who helms the feature from a screenplay crafted by a trio of writers: Leon Hendrix, Thomas DeGrezia, and Colin Bateman.",
+          "Production duties are handled by Romulus Entertainment's Brad Feinstein alongside Christina Weiss Lurie of Fourth and Twenty-Eight Films, with Romulus also serving as the financier."
+        ]
+      },
+      {
+        "h": "Executive Producers",
+        "p": [
+          "A large team of executive producers supports the film's production, featuring recognizable names such as DJ Khaled, Rene Mclean, Lylette Pizarro, Jon Jashni, and Shawn Costner.",
+          "Additional executive producers lending their oversight to the feature include John Takis, Rudy Langlais, Josh Glick, Diego Boneta, Sam Slater, Leon Hendrix, Colin Bateman, Piers Tempest, Joseph Ingrassia, and Nick Ham."
+        ]
+      },
+      {
+        "h": "Plot And Historical Background",
+        "p": [
+          "Rooted in true events and set in 1960, the story follows Fidel Castro shortly after he wins the Cuban revolution and travels to New York City to deliver his inaugural speech to the United Nations. After facing hostility at his original hotel, Castro crosses paths with Malcolm X, who invites him to lodge at the famous Hotel Theresa in Harlem.",
+          "Amid global attention, a rookie undercover FBI agent originally assigned to investigate Malcolm X suddenly transforms into the bureau's most vital asset. He is tasked with protecting Castro from assassination plots by the CIA and the Italian mafia by any means necessary."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate has released the first trailer for Killing Castro, a thriller directed by Eif Rivera and starring Diego Boneta and Al Pacino. The film is set in 1960 and follows Fidel Castro's historic visit to New York, where an undercover FBI agent must protect him from the CIA and the mafia. The movie is scheduled to debut in theaters and on VOD on December 11."
+        ]
+      }
+    ],
+    "facts": [
+      "Lionsgate released the first trailer for Killing Castro on November 20, 2026.",
+      "The film stars Diego Boneta and Al Pacino.",
+      "Killing Castro is scheduled to bow in theaters and on VOD on December 11.",
+      "The movie is set in 1960.",
+      "Eif Rivera directs the film from a script by Leon Hendrix, Thomas DeGrezia, and Colin Bateman."
+    ],
+    "entities": {
+      "people": [
+        "Diego Boneta",
+        "Al Pacino",
+        "Xolo Maridueña",
+        "KiKi Layne",
+        "Alexander Ludwig",
+        "Ron Livingston",
+        "Kendrick Sampson",
+        "Nicole Beharie",
+        "Logan Marshall Green",
+        "Titus Welliver",
+        "Eif Rivera",
+        "Leon Hendrix",
+        "Thomas DeGrezia",
+        "Colin Bateman",
+        "Brad Feinstein",
+        "Christina Weiss Lurie",
+        "DJ Khaled",
+        "Rene Mclean",
+        "Lylette Pizarro",
+        "Jon Jashni",
+        "Shawn Costner",
+        "John Takis",
+        "Rudy Langlais",
+        "Josh Glick",
+        "Sam Slater",
+        "Piers Tempest",
+        "Joseph Ingrassia",
+        "Nick Ham",
+        "Fidel Castro",
+        "Malcolm X"
+      ],
+      "titles": [
+        "Killing Castro"
+      ]
+    },
+    "keywords": [
+      "Killing Castro film",
+      "Diego Boneta Killing Castro",
+      "Killing Castro trailer",
+      "Al Pacino Killing Castro"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/06/Killing-Castro.jpg?w=980",
+        "caption": "First Trailer Released For Upcoming Thriller 'Killing Castro' Starring Diego Boneta",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 15:16:06 +0000"
+  },
+  "1as21z7": {
+    "id": "1as21z7",
+    "type": "news",
+    "headline": "Anupam Kher Opens Up on Net Worth Rumors and Rented Living",
+    "dek": "Veteran actor Anupam Kher debunks reports estimating his wealth at hundreds of crores, explaining why choosing a rented home brought him peace of mind.",
+    "body": [
+      {
+        "h": "Addressing the Net Worth Rumors",
+        "p": [
+          "Veteran Bollywood actor Anupam Kher recently spoke out against online estimates claiming his net worth is between Rs 400 and 500 crore. In a candid interview, the actor firmly denied these figures, stating that they do not reflect his actual financial reality.",
+          "He revealed that the circulating numbers are heavily exaggerated and that he does not even possess a fraction of the estimated wealth. According to the actor, friends often read these internet reports and joke with him about sharing his supposed fortune."
+        ]
+      },
+      {
+        "h": "The Choice to Live in a Rented Home",
+        "p": [
+          "For a decade, the performer has consciously chosen to reside in a rented apartment instead of buying permanent property in Mumbai. He noted that letting go of property ownership freed him from the typical stress associated with real estate.",
+          "Reflecting on his past, he recalled owning a house in Mumbai and eventually selling it to Alia Bhatt before shifting to another dwelling. Following changes in his family's routine, including his wife Kirron Kher becoming a Member of Parliament and relocating to Chandigarh, he decided to embrace renting full-time."
+        ]
+      },
+      {
+        "h": "Prioritizing Comfort Over Material Status",
+        "p": [
+          "While he prefers renting his living space, the actor emphasized that he has not compromised on comfort. He continues to enjoy traveling, dining at high-end restaurants, and staying in luxury hotels.",
+          "He believes that material acquisitions have a limit and that personal fulfilment does not stem from owning massive assets. Reflecting on his perspective, he remarked that basic human needs remain simple regardless of one's bank balance."
+        ]
+      },
+      {
+        "h": "Buying a Home for His Mother",
+        "p": [
+          "Despite his personal philosophy on renting, the actor made an exception for his mother in Shimla. After spending nearly sixty years living in rented spaces, she expressed a desire to own a proper home of her own.",
+          "To fulfil her wish, he searched for a place in Shimla and ultimately purchased a large eight-bedroom house for her. He viewed this gesture as a symbolic milestone rather than a departure from his own lifestyle beliefs."
+        ]
+      },
+      {
+        "h": "Avoiding Family Property Disputes",
+        "p": [
+          "Another major factor behind the actor's decision to avoid accumulating property is his observation of bitter family disputes. He has witnessed numerous instances where elderly parents suffer or relatives fight over inheritance and real estate assets.",
+          "By keeping his own asset portfolio lightweight and relying on liquid financial security instead, he believes he can prevent such conflicts. He maintains that staying unburdened by property allows a person greater psychological freedom."
+        ]
+      },
+      {
+        "h": "Evolution of Wealth Perspective",
+        "p": [
+          "The actor compared his evolving view on life's necessities to historical narratives of moving past excessive materialism, noting how his financial standing has grown significantly since earning a modest amount early in his career.",
+          "He stressed that true achievement lies in personal growth and professional milestones rather than hoarding gold or silver symbols. Financial security, in his view, can be successfully managed without owning heavy physical assets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anupam Kher has dismissed internet reports stating his net worth is Rs 400 to 500 crore, clarifying that he owns far less and happily lives in a rented apartment. He explained that avoiding property ownership frees him from stress and family inheritance disputes, though he previously purchased a home in Shimla for his mother."
+        ]
+      }
+    ],
+    "facts": [
+      "Anupam Kher denied that his net worth is Rs 400-500 crore.",
+      "He decided to live in a rented apartment ten years ago.",
+      "He previously sold his Mumbai house to Alia Bhatt.",
+      "Kirron Kher became an MP and moved to Chandigarh.",
+      "He bought an eight-bedroom house for his mother in Shimla after she lived in rented houses for 60 years."
+    ],
+    "entities": {
+      "people": [
+        "Anupam Kher",
+        "Alia Bhatt",
+        "Kirron Kher"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Anupam Kher net worth",
+      "Anupam Kher rented apartment",
+      "Anupam Kher Alia Bhatt house",
+      "Anupam Kher interview"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136030787,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Anupam Kher Opens Up on Net Worth Rumors and Rented Living",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T20:11:17+05:30"
+  },
+  "cjvly2": {
+    "id": "cjvly2",
+    "type": "news",
+    "headline": "Trump, Putin, and Xi Jinping's Trilateral Photo Triggers Weezer Blue Album Memes Online",
+    "dek": "A photograph capturing Donald Trump, Vladimir Putin, and Xi Jinping standing together against a blue backdrop has sparked widespread online jokes comparing the global leaders to the iconic 1994 cover of Weezer's self-titled debut record.",
+    "body": [
+      {
+        "h": "The Trilateral Meeting in Shenzhen",
+        "p": [
+          "President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping gathered for a trilateral meeting at the Kylin Villa in Shenzhen, China. During the proceedings, the three leaders posed together in front of a distinct blue background, a routine diplomatic photo opportunity that quickly caught the attention of internet observers.",
+          "While the gathering focused on major international diplomacy, the visual staging of the photograph immediately drew parallels to pop culture history. Social media users across platforms like Reddit and X were quick to point out the striking compositional resemblance to a famous 1990s album cover."
+        ]
+      },
+      {
+        "h": "The Enduring Legacy of Weezer's Blue Album",
+        "p": [
+          "Ever since its release in May 1994 via DGC, the self-titled debut album by the alternative rock band Weezer has served as a frequent source of internet humor. Commonly referred to as The Blue Album, its minimalist cover features the four band members posing horizontally against a solid blue wall.",
+          "Over the decades, whenever a group of individuals has stood before a similar blue background, fans and internet commentators have regularly noted the uncanny visual symmetry with the legendary power-pop record's cover art."
+        ]
+      },
+      {
+        "h": "Internet Reactions and Viral Memes",
+        "p": [
+          "Following the publication of the photograph from Shenzhen, social media users flooded digital spaces with humorous takes and parodies. One popular post on the Weezer subreddit joked about 'The Orange Album,' while other contributors offered clever alterations of classic band lyrics and track titles.",
+          "Jokes ranged from playful puns referencing songs like 'Buddy Holly' and 'My Name Is Jonas' to viral posts on X suggesting that the alternative rock group was undergoing some rather unusual and dramatic lineup changes."
+        ]
+      },
+      {
+        "h": "Fan Mixed Sentiments",
+        "p": [
+          "While many participants in the online discourse treated the resemblance as lighthearted meme material, some dedicated fans expressed reservations. Commenters noted the stark contrast between their affection for the historically nonpartisan band and the controversial political figures featured in the accidental recreation.",
+          "Despite the mixed feelings regarding the personalities involved, the viral momentum demonstrated the persistent cultural footprint of the 1994 record and its instantly recognizable visual identity."
+        ]
+      },
+      {
+        "h": "Historical Chart Performance",
+        "p": [
+          "The debut record that inspired the viral wave achieved notable commercial success following its release in the mid-1990s. It eventually peaked at No. 16 on the Billboard 200 chart in February 1995.",
+          "Several tracks from the release became alternative radio staples. The debut single, 'Undone – The Sweater Song,' reached No. 57 on the Billboard Hot 100 and No. 6 on Alternative Airplay, while follow-up singles 'Buddy Holly' and 'Say It Ain’t So' secured peak positions of Nos. 2 and 7 respectively on the Alternative Airplay chart."
+        ]
+      },
+      {
+        "h": "Recent Band Milestones",
+        "p": [
+          "The viral photo coincidence arrives as Weezer continues to receive recognition for its long-standing touring career and enduring influence across generations. The band recently appeared on the cover of Billboard and was honored as Legends of Live at the publication's Live Music Summit.",
+          "During these appearances, members reflected on the realities of life on the road and their ongoing connection to audiences, proving that their music remains as relevant today as it was three decades ago."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Donald Trump, Vladimir Putin, and Xi Jinping posed in front of a blue backdrop during a trilateral summit in Shenzhen, prompting internet users to compare the image to the cover of Weezer's 1994 Blue Album. The viral comparison generated widespread social media memes, highlighting the unexpected intersection of global politics and alternative rock nostalgia."
+        ]
+      }
+    ],
+    "facts": [
+      "Donald Putin and Xi Jinping participated in a trilateral meeting at the Kylin Villa on Nov. 19, 2026, in Shenzhen, China.",
+      "Weezer's self-titled debut album was released in May 1994 via DGC and peaked at No. 16 on the Billboard 200 in February 1995.",
+      "Single 'Undone – The Sweater Song' reached No. 57 on the Billboard Hot 100 and No. 6 on Alternative Airplay.",
+      "Singles 'Buddy Holly' and 'Say It Ain’t So' peaked at Nos. 2 and 7 on Alternative Airplay."
+    ],
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Xi Jinping",
+        "Rivers Cuomo",
+        "Jason Lipshutz",
+        "Peter Hernandez",
+        "Erykah Badu",
+        "Rapsody",
+        "Eminem",
+        "Rihanna"
+      ],
+      "titles": [
+        "The Blue Album",
+        "My Name Is Jonas",
+        "Everything Will Be Alright in the End",
+        "Teal Album",
+        "Buddy Holly",
+        "Beverly Hills",
+        "Undone – The Sweater Song",
+        "Say It Ain’t So"
+      ]
+    },
+    "keywords": [
+      "Weezer Blue Album",
+      "Trump Putin Xi photo",
+      "Weezer internet reacts",
+      "Kylin Villa summit"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/putin-xi-trump-billboard-1800.jpg?w=1024",
+        "caption": "Trump, Putin, and Xi Jinping's Trilateral Photo Triggers Weezer Blue Album Memes Online",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 15:26:29 +0000"
   }
 };

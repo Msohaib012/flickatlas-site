@@ -33,6 +33,260 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 20 Nov 2026 18:18:06 +0200"
   },
+  "cjvly2": {
+    "id": "cjvly2",
+    "type": "news",
+    "headline": "Trump, Putin, and Xi Jinping's Trilateral Photo Triggers Weezer Blue Album Memes Online",
+    "dek": "A photograph capturing Donald Trump, Vladimir Putin, and Xi Jinping standing together against a blue backdrop has sparked widespread online jokes comparing the global leaders to the iconic 1994 cover of Weezer's self-titled debut record.",
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Xi Jinping",
+        "Rivers Cuomo",
+        "Jason Lipshutz",
+        "Peter Hernandez",
+        "Erykah Badu",
+        "Rapsody",
+        "Eminem",
+        "Rihanna"
+      ],
+      "titles": [
+        "The Blue Album",
+        "My Name Is Jonas",
+        "Everything Will Be Alright in the End",
+        "Teal Album",
+        "Buddy Holly",
+        "Beverly Hills",
+        "Undone – The Sweater Song",
+        "Say It Ain’t So"
+      ]
+    },
+    "keywords": [
+      "Weezer Blue Album",
+      "Trump Putin Xi photo",
+      "Weezer internet reacts",
+      "Kylin Villa summit"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/putin-xi-trump-billboard-1800.jpg?w=1024",
+        "caption": "Trump, Putin, and Xi Jinping's Trilateral Photo Triggers Weezer Blue Album Memes Online",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 15:26:29 +0000"
+  },
+  "mt1zlt": {
+    "id": "mt1zlt",
+    "type": "news",
+    "headline": "First Trailer Released For Upcoming Thriller 'Killing Castro' Starring Diego Boneta",
+    "dek": "Lionsgate has debuted the first official trailer for the upcoming thriller Killing Castro, starring Diego Boneta and Al Pacino, ahead of its December 11 theatrical and VOD release.",
+    "entities": {
+      "people": [
+        "Diego Boneta",
+        "Al Pacino",
+        "Xolo Maridueña",
+        "KiKi Layne",
+        "Alexander Ludwig",
+        "Ron Livingston",
+        "Kendrick Sampson",
+        "Nicole Beharie",
+        "Logan Marshall Green",
+        "Titus Welliver",
+        "Eif Rivera",
+        "Leon Hendrix",
+        "Thomas DeGrezia",
+        "Colin Bateman",
+        "Brad Feinstein",
+        "Christina Weiss Lurie",
+        "DJ Khaled",
+        "Rene Mclean",
+        "Lylette Pizarro",
+        "Jon Jashni",
+        "Shawn Costner",
+        "John Takis",
+        "Rudy Langlais",
+        "Josh Glick",
+        "Sam Slater",
+        "Piers Tempest",
+        "Joseph Ingrassia",
+        "Nick Ham",
+        "Fidel Castro",
+        "Malcolm X"
+      ],
+      "titles": [
+        "Killing Castro"
+      ]
+    },
+    "keywords": [
+      "Killing Castro film",
+      "Diego Boneta Killing Castro",
+      "Killing Castro trailer",
+      "Al Pacino Killing Castro"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/06/Killing-Castro.jpg?w=980",
+        "caption": "First Trailer Released For Upcoming Thriller 'Killing Castro' Starring Diego Boneta",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 15:16:06 +0000"
+  },
+  "1gwcmjz": {
+    "id": "1gwcmjz",
+    "type": "news",
+    "headline": "Mera Ghar Episode 4 — Watch Online on ARY Digital",
+    "dek": "Mera Ghar episode 4 aired on 2026-11-20 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Mera Ghar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/avyZa9suoBE/hqdefault.jpg",
+        "caption": "Mera Ghar Episode 4",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-20T15:00:38Z"
+  },
+  "k1fda1": {
+    "id": "k1fda1",
+    "type": "news",
+    "headline": "Uswah Episode 58 — Watch Online on Geo TV",
+    "dek": "Uswah episode 58 aired on 2026-11-20 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/F8T3hlRBtTg/hqdefault.jpg",
+        "caption": "Uswah Episode 58",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-20T15:00:26Z"
+  },
+  "1ymw66j": {
+    "id": "1ymw66j",
+    "type": "news",
+    "headline": "Khushi Episode 69 — Watch Online on HUM TV",
+    "dek": "Khushi episode 69 aired on 2026-11-20 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/lyPplOgbgKs/hqdefault.jpg",
+        "caption": "Khushi Episode 69",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-20T15:00:04Z"
+  },
+  "slhud1": {
+    "id": "slhud1",
+    "type": "news",
+    "headline": "Dastoor Episode 91 — Watch Online on Green TV",
+    "dek": "Dastoor episode 91 aired on 2026-11-20 — watch the full episode on Green TV.",
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/30jDb_LyKmA/hqdefault.jpg",
+        "caption": "Dastoor Episode 91",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-20T14:45:34Z"
+  },
+  "1as21z7": {
+    "id": "1as21z7",
+    "type": "news",
+    "headline": "Anupam Kher Opens Up on Net Worth Rumors and Rented Living",
+    "dek": "Veteran actor Anupam Kher debunks reports estimating his wealth at hundreds of crores, explaining why choosing a rented home brought him peace of mind.",
+    "entities": {
+      "people": [
+        "Anupam Kher",
+        "Alia Bhatt",
+        "Kirron Kher"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Anupam Kher net worth",
+      "Anupam Kher rented apartment",
+      "Anupam Kher Alia Bhatt house",
+      "Anupam Kher interview"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-136030787,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Anupam Kher Opens Up on Net Worth Rumors and Rented Living",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T20:11:17+05:30"
+  },
+  "5suwun": {
+    "id": "5suwun",
+    "type": "news",
+    "headline": "Ramayana Approaches Rs 1575 Crore Worldwide As It Enters Day 16",
+    "dek": "Nitesh Tiwari's ambitious directorial Ramayana eyes further milestones at the box office on its sixteenth day.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Anupam Kher",
+        "Adinath Kothare",
+        "Sheeba Chaddha"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana worldwide collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday11overseasfeature-46351795169787.jpg",
+        "caption": "Ramayana Approaches Rs 1575 Crore Worldwide As It Enters Day 16",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 19:53:35 +0530"
+  },
   "pwxi9v": {
     "id": "pwxi9v",
     "type": "news",
@@ -4447,321 +4701,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 19 Nov 2026 15:46:34 +0500"
   },
-  "prfkb": {
-    "id": "prfkb",
-    "type": "news",
-    "headline": "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
-    "dek": "Catch all the details on Bigg Boss 20 Episode 75, featuring an intense immunity clash between Arishfa Khan and Love Gill, streaming schedules, and captaincy updates.",
-    "entities": {
-      "people": [
-        "Arishfa Khan",
-        "Love Gill",
-        "Salman Khan",
-        "Uditi Singh",
-        "Kanika",
-        "Rohed Khan",
-        "Isha Rikhi",
-        "Rhiti Tiwari",
-        "Aman Gandhi",
-        "Mary Kom",
-        "Aasif Khan"
-      ],
-      "titles": [
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss 20",
-      "Arishfa Khan",
-      "Love Gill",
-      "Bigg Boss 20 Episode 75"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/biggboss20nov19eptimed1-19921795075049.jpg",
-        "caption": "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 16:00:21 +0530"
-  },
-  "113mw2y": {
-    "id": "113mw2y",
-    "type": "news",
-    "headline": "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
-    "dek": "Subhash Ahirwar, who claims to have won an episode of India's Got Latent Season 2, has shared an emotional video asking comedian Samay Raina to release his unseen performance.",
-    "entities": {
-      "people": [
-        "Subhash Ahirwar",
-        "Samay Raina",
-        "Manisha Karki"
-      ],
-      "titles": [
-        "India's Got Latent",
-        "India's Got Latent Season 2"
-      ]
-    },
-    "keywords": [
-      "Subhash Ahirwar",
-      "Samay Raina",
-      "Indias Got Latent",
-      "Subhash Ahirwar video"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Who-Is-Subhash-Ahirwar.webp",
-        "caption": "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
-        "source": "Bollywood Bubble"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 10:29:49 +0000"
-  },
-  "jucfbm": {
-    "id": "jucfbm",
-    "type": "news",
-    "headline": "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day",
-    "dek": "Actor Ram Pothineni has shared a moody, atmospheric first glimpse of his upcoming psychological action drama RAPO23, featuring Bollywood actor Riteish Deshmukh.",
-    "entities": {
-      "people": [
-        "Ram Pothineni",
-        "Riteish Deshmukh",
-        "Sam CS",
-        "Kevin Kumar"
-      ],
-      "titles": [
-        "RAPO23"
-      ]
-    },
-    "keywords": [
-      "Ram Pothineni",
-      "RAPO23",
-      "Riteish Deshmukh",
-      "Ram Pothineni RAPO23"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/ram-pothineni-unveils-the-lone-wolf-pre-look-of-rapo231795082714.jpg",
-        "caption": "Ram Pothineni Unveils Intriguing 'Lone Wolf' Pre-Look For RAPO23 On International Men's Day",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-19T15:55:20+05:30"
-  },
-  "emub8": {
-    "id": "emub8",
-    "type": "news",
-    "headline": "Ramayana Nears ₹650 Crore Hindi Net Milestone on Day 15",
-    "dek": "Namit Malhotra's Ramayana is on the verge of entering the exclusive ₹650 crore Hindi net club, setting up a second-fastest record for its lead actors Ranbir Kapoor and Yash.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Ranbir Kapoor",
-        "Yash",
-        "Allu Arjun",
-        "Nitesh Tiwari"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2",
-        "Dhurandhar",
-        "Dhurandhar 2",
-        "Animal",
-        "KGF Chapter 2",
-        "RRR"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana ₹650 crore Hindi net",
-      "Ramayana Day 15 collection"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028630.jpg",
-        "caption": "Ramayana Nears ₹650 Crore Hindi Net Milestone on Day 15",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 10:15:01 +0000"
-  },
-  "1106kve": {
-    "id": "1106kve",
-    "type": "news",
-    "headline": "Lara Dutta Discusses Playing Ranbir Kapoor's Stepmother in Ramayana Despite Age Gap",
-    "dek": "Actor Lara Dutta recently spoke about her role as Kaikeyi in Nitesh Tiwari's Ramayana, sharing why she had no hesitation about playing the stepmother to Ranbir Kapoor despite their minimal age difference.",
-    "entities": {
-      "people": [
-        "Lara Dutta",
-        "Ranbir Kapoor",
-        "Addinath M Kothare",
-        "Nitesh Tiwari",
-        "Dasharath",
-        "Akshay Kumar",
-        "Indira Gandhi",
-        "Sai Pallavi",
-        "Yash",
-        "Ravi Dubey",
-        "Namit Malhotra"
-      ],
-      "titles": [
-        "Ramayana",
-        "BellBottom"
-      ]
-    },
-    "keywords": [
-      "Ramayana",
-      "Lara Dutta",
-      "Ranbir Kapoor",
-      "Nitesh Tiwari"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/19/1600x900/logo/Lara_1795081003730_uJbX_1795081003980_C2ro_77ea6fda-edd7-4136-97b9-6afde3a16bf1_Vhlz.jpg",
-        "caption": "Lara Dutta Discusses Playing Ranbir Kapoor's Stepmother in Ramayana Despite Age Gap",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 15:43:33 +0530"
-  },
-  "1q83nsb": {
-    "id": "1q83nsb",
-    "type": "news",
-    "headline": "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
-    "dek": "Television stars Eisha Singh and Avinash Mishra have reportedly parted ways following a whirlwind romance sparked on reality television, with leaked audio clips and cryptic social media posts fueling intense fan speculation.",
-    "entities": {
-      "people": [
-        "Eisha Singh",
-        "Avinash Mishra",
-        "Rekha Singh",
-        "Rishita Kothari"
-      ],
-      "titles": [
-        "Bigg Boss 18",
-        "Khatron Ke Khiladi 15",
-        "Juhi Muhi"
-      ]
-    },
-    "keywords": [
-      "Eisha Singh Avinash Mishra",
-      "Avinash Mishra break up",
-      "Rekha Singh audio clip",
-      "Bigg Boss 18 Eisha Avinash"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/eishaavinashbreakupreasonfeature-48471795082636.jpg",
-        "caption": "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 15:36:35 +0530"
-  },
-  "1r4pmw4": {
-    "id": "1r4pmw4",
-    "type": "news",
-    "headline": "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House",
-    "dek": "JioHotstar has dropped the teaser for Dr. Hassan, an Indian reimagining of the global hit series House, starring Nawazuddin Siddiqui and Dia Mirza ahead of its December premiere.",
-    "entities": {
-      "people": [
-        "Nawazuddin Siddiqui",
-        "Dia Mirza",
-        "Hugh Laurie",
-        "Rohan Sippy",
-        "Faisal Rashid",
-        "Rehmat Rattan",
-        "Jayson Thaam",
-        "Smaran Sanu"
-      ],
-      "titles": [
-        "Dr. Hassan",
-        "House",
-        "Thug Life",
-        "Avengers: Doomsday"
-      ]
-    },
-    "keywords": [
-      "Dr Hassan teaser",
-      "Nawazuddin Siddiqui Dr Hassan",
-      "Dia Mirza JioHotstar series",
-      "Dr Hassan House adaptation"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/dr-hassan1795076699.jpg",
-        "caption": "Dr. Hassan Teaser Released: Nawazuddin Siddiqui Stars in Indian Adaptation of House",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-19T15:30:13+05:30"
-  },
-  "1w9f5d5": {
-    "id": "1w9f5d5",
-    "type": "news",
-    "headline": "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
-    "dek": "Indian cinemas are gearing up for a packed weekend on November 20, 2026, with a diverse slate of domestic and international films hitting the big screen.",
-    "entities": {
-      "people": [
-        "Sunit Jangir",
-        "Dhanush",
-        "Mammootty",
-        "Rajkumar Periasamy",
-        "Sai Pallavi",
-        "Sreeleela",
-        "Naseeruddin Shah",
-        "Takashi Yamazaki",
-        "Francis Lawrence",
-        "Joseph Zada",
-        "Ralph Fiennes",
-        "Elle Fanning",
-        "Jesse Plemons",
-        "Dulquer Salmaan",
-        "Jackie Shroff",
-        "Sharad Kelkar",
-        "Nicholas Hoult",
-        "Zoë Kravitz",
-        "Vijay Antony",
-        "Keerthy Suresh",
-        "Namit Malhotra",
-        "Christa Lincy",
-        "Rajinikanth",
-        "Suriya"
-      ],
-      "titles": [
-        "OM",
-        "Godzilla Minus Zero",
-        "The Hunger Games: Sunrise on the Reaping",
-        "Om Chapter 1: Udhiram",
-        "Godzilla Minus One",
-        "How to Rob a Bank",
-        "Aakasamlo Oka Tara",
-        "Brindavihari",
-        "Kaali Kheti",
-        "Appakutty",
-        "Sathyavan Savithiri",
-        "Pratap",
-        "Ramayana",
-        "2.0",
-        "Scene",
-        "Jailer 2"
-      ]
-    },
-    "keywords": [
-      "OM Chapter 1 Udhiram",
-      "Godzilla Minus Zero India release",
-      "The Hunger Games Sunrise on the Reaping",
-      "Dhanush Mammootty OM film",
-      "November 20 movie releases"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028628.jpg",
-        "caption": "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Thu, 19 Nov 2026 09:27:58 +0000"
-  },
   "1w900ih": {
     "id": "1w900ih",
     "type": "news",
@@ -5047,49 +4986,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-17T14:45:39Z"
-  },
-  "tvcq7i": {
-    "id": "tvcq7i",
-    "type": "news",
-    "headline": "Jennifer Lawrence and Josh Hutcherson Reunite at the World Premiere of 'Sunrise on the Reaping'",
-    "dek": "The original franchise stars walked the red carpet in New York City alongside returning cast members and prequel actors for the latest installment.",
-    "entities": {
-      "people": [
-        "Jennifer Lawrence",
-        "Josh Hutcherson",
-        "Elizabeth Banks",
-        "Amandla Stenberg",
-        "Jena Malone",
-        "Willow Shields",
-        "Rachel Zegler",
-        "Tom Blyth",
-        "Woody Harrelson",
-        "Suzanne Collins",
-        "Joseph Zada",
-        "Liam Hemsworth"
-      ],
-      "titles": [
-        "Sunrise on the Reaping",
-        "The Hunger Games",
-        "The Hunger Games: Mockingjay – Part 2",
-        "The Hunger Games: The Ballad of Songbirds and Snakes",
-        "No Hard Feelings"
-      ]
-    },
-    "keywords": [
-      "Sunrise on the Reaping premiere",
-      "Jennifer Lawrence Hunger Games",
-      "Josh Hutcherson Sunrise on the Reaping",
-      "The Hunger Games franchise box office"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445522.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Jennifer Lawrence and Josh Hutcherson Reunite at the World Premiere of 'Sunrise on the Reaping'",
-        "source": "Variety"
-      }
-    ],
-    "published": "Tue, 17 Nov 2026 00:32:42 +0000"
   },
   "196ll1": {
     "id": "196ll1",
@@ -5377,81 +5273,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-15T14:45:19Z"
   },
-  "p2dq2x": {
-    "id": "p2dq2x",
-    "type": "news",
-    "headline": "Full Winners List Revealed for the Second Day of the 2026 Melon Music Awards in Seoul",
-    "dek": "Discover all the major winners, top artists, and special category victors from the second day of the 18th Melon Music Awards held at the Gocheok Sky Dome.",
-    "entities": {
-      "people": [
-        "Lee Se Young",
-        "Moon Sang Min",
-        "Choi Daniel",
-        "Lee Joo Bin",
-        "Roh Jeong Eui",
-        "Kim Shin Rock",
-        "Kim Jae Young",
-        "Hong Jong Hyun",
-        "Ahn Jae Hyun",
-        "Lee Joon"
-      ],
-      "titles": [
-        "The Remarried Empress",
-        "NCT WISH",
-        "IVE",
-        "CORTIS",
-        "PLAVE",
-        "KiiiKiii",
-        "ILLIT",
-        "AND2BLE",
-        "BTS",
-        "BANG BANG"
-      ]
-    },
-    "keywords": [
-      "2026 Melon Music Awards",
-      "MMA winners list",
-      "BTS IVE NCT WISH MMA",
-      "18th Melon Music Awards"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-15t153102-175-27901794736882.jpg",
-        "caption": "Full Winners List Revealed for the Second Day of the 2026 Melon Music Awards in Seoul",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sun, 15 Nov 2026 16:16:56 +0530"
-  },
-  "it29do": {
-    "id": "it29do",
-    "type": "news",
-    "headline": "BTS Dominates Melon Music Awards 2026 With Four Major Wins and Special Tribute",
-    "dek": "BTS received a dedicated video tribute for their global ARIRANG World Tour and secured four major awards, including two Daesangs, at Day 1 of the 2026 Melon Music Awards.",
-    "entities": {
-      "people": [
-        "Arpita Sarkar",
-        "Lim Young Woong"
-      ],
-      "titles": [
-        "ARIRANG"
-      ]
-    },
-    "keywords": [
-      "BTS Melon Music Awards 2026",
-      "BTS ARIRANG World Tour",
-      "BTS four major wins Melon Music Awards",
-      "BTS Daesang Melon Music Awards"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156510064,thumbsize-498770,width-1280,height-720,resizemode-75/156510064.jpg",
-        "caption": "BTS Dominates Melon Music Awards 2026 With Four Major Wins and Special Tribute",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-15T02:56:42Z"
-  },
   "3jqsav": {
     "id": "3jqsav",
     "type": "news",
@@ -5568,90 +5389,64 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-14T16:00:08Z"
   },
-  "1mlvo3": {
-    "id": "1mlvo3",
+  "1thuied": {
+    "id": "1thuied",
     "type": "news",
-    "headline": "Khushi Episode 63 — Watch Online on HUM TV",
-    "dek": "Khushi episode 63 aired on 2026-11-14 — watch the full episode on HUM TV.",
+    "headline": "Diljit Dosanjh Faces Song Restrictions and Safety Demands Ahead of Ahmedabad Concert",
+    "dek": "Local authorities in Ahmedabad have been urged to restrict specific tracks from Diljit Dosanjh's upcoming live performance over concerns regarding references to alcohol, drugs, and weapons, following an earlier controversy in Indore.",
     "entities": {
-      "titles": [
-        "Khushi"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/Oyt7TXJEMI4/hqdefault.jpg",
-        "caption": "Khushi Episode 63",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-14T15:00:27Z"
-  },
-  "ou3z6s": {
-    "id": "ou3z6s",
-    "type": "news",
-    "headline": "Uswah Episode 52 — Watch Online on Geo TV",
-    "dek": "Uswah episode 52 aired on 2026-11-14 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Uswah"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/plFvcyS24Sc/hqdefault.jpg",
-        "caption": "Uswah Episode 52",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-14T15:00:19Z"
-  },
-  "1fhp08s": {
-    "id": "1fhp08s",
-    "type": "news",
-    "headline": "Izzat Episode 56 — Watch Online on ARY Digital",
-    "dek": "Izzat episode 56 aired on 2026-11-14 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Izzat"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/eExG78dFNQ8/hqdefault.jpg",
-        "caption": "Izzat Episode 56",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-14T15:00:02Z"
-  },
-  "tgtl2e": {
-    "id": "tgtl2e",
-    "type": "news",
-    "headline": "Dastoor Episode 85 — Watch Online on Green TV",
-    "dek": "Dastoor episode 85 aired on 2026-11-14 — watch the full episode on Green TV.",
-    "entities": {
-      "titles": [
-        "Dastoor"
-      ],
       "people": [
-        "Hibba Aziz",
-        "Danial Afzal Khan",
-        "Areej Mohyudin",
-        "Faraz Farooqui",
-        "Azra Mohyeddin"
+        "Diljit Dosanjh",
+        "Dr Panditrao Dharenavar"
+      ],
+      "titles": [
+        "Patiala Pegg",
+        "5 Taara Theeke",
+        "Jeeb Vicho Feem Labbiya",
+        "Jatt Uthe Fire Karda Jithe Pabandi Hathiyara Di"
       ]
     },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh song restrictions Narendra Modi Stadium",
+      "Diljit Dosanjh concert safety demands",
+      "Diljit Dosanjh Ahmedabad performance"
+    ],
     "images": [
       {
-        "url": "https://i.ytimg.com/vi/Ieyj4l3Q7e0/hqdefault.jpg",
-        "caption": "Dastoor Episode 85",
-        "source": "Green TV"
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/13115628/image-69.jpeg",
+        "caption": "Diljit Dosanjh Faces Song Restrictions and Safety Demands Ahead of Ahmedabad Concert",
+        "source": "MissMalini"
       }
     ],
-    "published": "2026-11-14T14:45:15Z"
+    "published": "2026-11-14T03:29:34Z"
+  },
+  "ykslct": {
+    "id": "ykslct",
+    "type": "news",
+    "headline": "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+    "dek": "Singing superstar Diljit Dosanjh has been urged by child protection authorities to drop four tracks from his Ahmedabad concert setlist, while separate bomb threats target multiple locations ahead of his performance in Indore.",
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Pushyamitra Bhargav",
+        "Rajesh Dandotiya"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh Indore concert",
+      "Patiala Peg 5 Taara Theke",
+      "Indore Mayor Secretariat threat"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/10/30/4429-diljit-dosanjh-1.png",
+        "caption": "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T20:15:42Z"
   }
 };
