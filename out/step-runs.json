@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T09:51:07Z",
-    "run_id": "44500100018",
-    "status": "success",
-    "checked": {
-     "candidates": 363,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Avinash Mishra-Eisha Singh Break Up | KKK15 Winner Reacts To Break Up & Cheating Rumours: Not Everything Is...",
-      "Dil Ki Bewafaiyaan EXCLUSIVE: Shraddha Arya On Returning to TV After 2-Year Maternity Break: Have Started...",
-      "International Men’s Day: 6 Promising Young Actors Set To Be The Next Big Stars Of Bollywood",
-      "Bigg Boss 20 Early Voting Results Week 11: Who Is Lagging In Votes? Check Current Voting Trends - UPDATE",
-      "Samuk: Mannan Shaah to Create the Soundscape for Akshay Kumar’s Sci-Fi Survival Thriller",
-      "Ebenezer Worldwide Box Office: Outgrosses Johnny Depp’s Biggest Hollywood Disaster, The Astronaut’s Wife!",
-      "Avengers Doomsday: Could Doctor Doom Use Another Set Of Infinity Stones To Bring Thanos Back? Here’s What He Would Gain From Bringing The Mad Titan Back",
-      "3 Netflix Short Dramas With Episodes Under 20 Minutes You Probably Missed",
-      "Ramayana North America Box Office: Nitesh Tiwari’s Film Takes Down Ne Zha 2’s Lifetime Collection In Just 12 Days!",
-      "Ramayana Box Office Day 15 Advance Booking & Prediction: Enters Top 10 3rd Thursday Already But Dhurandhar’s #1 Spot Too Far To Cancel!",
-      "The Blue Road: Release Date, Cast, Plot & Everything We Know About The Korean-Japanese Crime Thriller",
-      "Good Partner Season 1 Recap: Where Jang Na-ra & Nam Ji-hyun’s Legal Kdrama Left Off Ahead Of Season 2",
-      "OM Day 1 Advance Crosses ₹7 Crore Gross Incl. Block Seats, Breaks Dhanush's Advance Record as Film Eyes His No. 1 Opening",
-      "Shah Rukh Khan's Tu Mil Jaaye From King Becomes a Celebration as Song Crosses 100 Million Plays and Dominates Music Charts",
-      "Maatrubhumi: Salman plays a father; film releases Dec 4",
-      "‘Cult’: Vishwak Sen starrer psychological thriller OTT details",
-      "Ram Pothineni unveils ‘Lone Wolf’ pre-look of ‘RaPo23’ on International Men’s Day",
-      "All about the ‘Panchayat’ series ahead of season 5 release",
-      "Keerthy Suresh on Radhika Apte’s Muraimaaman remark",
-      "Men's Day special: South Indian films that celebrate motivation"
-     ],
-     "updated": [],
-     "count": 348,
-     "detail": "363 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-19T10:51:44Z",
     "run_id": "44509368179",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "267 stories, 0 duplicates removed, 7 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-19T10:52:59Z",
-    "run_id": "44509368179",
+    "run_at": "2026-11-20T09:51:09Z",
+    "run_id": "44714112994",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 275,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
-      "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation",
-      "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
-      "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode"
+      "Best Pancakes in the County (2026)",
+      "Devils The (1971 United Kingdom)",
+      "Elsinore (2026 United Kingdom)",
+      "Everest The Other Side (2026)",
+      "Further Mis Adventures of Cliff Booth The (2026)",
+      "John Doe EXCLUSIVE! Srishti On Playing Mother's Role In Tamil Debut: Didn't Look At Darshana Merely...",
+      "Miley Cyrus Second Wedding Date, Husband: Miley-Maxx Set To Say 'I Do'? What's Their Age Gap?",
+      "EXCLUSIVE: Why Last Man In Tower Doesn't Have Clear Heroes Or Villains, Director Ben Rekhi Explains",
+      "Men's Day EXCL: What Priyanshu Modi, Manish Poonam, Thejas Bhatt Share What They'd Tell Their Younger Selves?",
+      "Anbil Avan Movie Review: Ashok Selvan & Preity Mukhundhan Shine, But The Survival Drama Lacks Spark",
+      "Ebenezer North American Box Office: Closing In On $25 Million As It Targets 28 Years Later: The Bone Temple!",
+      "ENE Repeat Box Office Day 1: Vishwak Sen Hits A Career High With His Biggest-Ever Opening",
+      "Bachelor Party Deux Box Office Day 1: Despite Star-Studded Cast, Fails To Enter Mollywood’s Top 10 Openers Of 2026",
+      "Aamir Khan and Ashutosh Gowariker's Lalkaara to Begin Shooting on January 4, 2027, Marking a Special Lagaan Reunion",
+      "SS Rajamouli reviews Dulquer Salmaan’s ‘Aakasamlo Oka Tara’, calls it a ‘triumph’",
+      "'O.M' BO Day 1 [Live]: Dhanush starrer eyes 30 crore opening",
+      "Lalit sends warm birthday wishes to his ex girlfriend Sushmita Sen",
+      "‘Aakasamlo Oka Tara’ actress Satvika Veeravalli to star opposite Ram Charan and Dhruv Vikram?",
+      "IFFI gives documentaries a bigger screen, rolls out red carpet for MIFF winners",
+      "Kriti Sanon shares vacation photo of rumoured boyfriend Kabir Bahia on his birthday, calls him ‘cutie’"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 263,
+     "detail": "274 stories, 0 duplicates removed, 1 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-20T09:51:44Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "The Hunger Games: Sunrise on the Reaping Film Review",
+      "Spider-Man: Brand New Day Extended Cut Reveals First Look at Cut Claire Temple Scene",
+      "BTS J-Hope Reacts to Fan Dressed as 'Mama Jung' at Kaohsiung Concert",
+      "Bigg Boss 20 Episode 75: Arishfa Khan Secures Immunity in Face-Off Against Love Gill"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-19T12:03:22Z",
-    "run_id": "44520002697",
-    "status": "success",
-    "checked": {
-     "candidates": 389,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 381, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,34 +1900,27 @@
      "detail": "now 390, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-20T09:51:44Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 397,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 390, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-19T11:03:05Z",
-    "run_id": "44509368179",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1w9f5d5",
-      "xfoonf",
-      "167bv68",
-      "1vjsa0",
-      "1ftxgoc",
-      "1rry6ab",
-      "ztw4hz"
-     ],
-     "updated": [],
-     "count": 7
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2434,27 +2409,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-20T10:05:18Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "zx08nk",
+      "15eqb9k",
+      "1469c18",
+      "8u9d4d",
+      "1mz6jd6",
+      "p5yih5",
+      "p2dq2x",
+      "it29do"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T09:51:46Z",
-    "run_id": "44500100018",
-    "status": "success",
-    "checked": {
-     "candidates": 716,
-     "detail": "667 collected staging rows from readers; 244 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 689 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2868,19 +2851,27 @@
      "detail": "+0 new rows, 6 updated rows, 695 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T10:04:54Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 725,
+     "detail": "673 collected staging rows from readers; 248 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 698 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3117,32 +3108,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-19T11:03:04Z",
-    "run_id": "44509368179",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20 Episode 75 Release Time: Arishfa Khan and Love Gill Face Off in Immunity Task",
-      "India's Got Latent Winner Subhash Ahirwar Breaks Down, Appeals To Samay Raina To Release His Episode",
-      "OM, Godzilla Minus Zero, and The Hunger Games Headline Big November 20 Theatrical Lineup",
-      "Eisha Singh and Avinash Mishra Break Up: Rekha Singh and Viral Audio Spark Speculation"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3676,19 +3654,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-20T10:05:17Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "The Hunger Games: Sunrise on the Reaping Film Review",
+      "Spider-Man: Brand New Day Extended Cut Reveals First Look at Cut Claire Temple Scene",
+      "BTS J-Hope Reacts to Fan Dressed as 'Mama Jung' at Kaohsiung Concert",
+      "Bigg Boss 20 Episode 75: Arishfa Khan Secures Immunity in Face-Off Against Love Gill"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3918,19 +3909,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4252,31 +4243,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-19T09:51:40Z",
-    "run_id": "44500100018",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 348 still unprocessed; today by category: movies 9/6, tv_dramas 7/4, episodes 1/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Three Short-Form International Netflix Dramas Offering Quick Binge-Watching",
-      "Netflix Boards Penélope Cruz and Juan Diego Botto Domestic Violence Drama 'Patricia'",
-      "Vishwak Sen's Telugu Thriller 'Cult' Makes Rapid Jump To Prime Video Following Theatrical Run",
-      "First Teaser Unveiled for Upcoming Film New Recruit: Haunted Military Hospital"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4781,19 +4760,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-20T09:51:43Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 263 still unprocessed; today by category: movies 4/6, tv_dramas 8/4, episodes 1/2, box_office 7/6, celebrities_events 9/5, upcoming_releases 2/4, ott_streaming 8/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "The Hunger Games: Sunrise on the Reaping Film Review",
+      "Spider-Man: Brand New Day Extended Cut Reveals First Look at Cut Claire Temple Scene",
+      "BTS J-Hope Reacts to Fan Dressed as 'Mama Jung' at Kaohsiung Concert",
+      "Bigg Boss 20 Episode 75: Arishfa Khan Secures Immunity in Face-Off Against Love Gill"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5100,24 +5091,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-20T09:53:00Z",
+    "run_id": "44714112994",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 55,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 420,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5392,24 +5385,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 33,
+     "count": 387,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5709,19 +5702,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 28,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5971,19 +5969,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6218,19 +6216,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6512,19 +6510,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6765,19 +6763,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7007,19 +7005,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7272,30 +7270,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-18T08:54:30Z",
-    "run_id": "44270456617",
-    "status": "success",
-    "checked": {
-     "candidates": 574,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 558"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7782,19 +7769,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-20T09:52:02Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": {
+     "candidates": 585,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 571"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8034,19 +8032,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-19T09:51:56Z",
-    "run_id": "44500100018",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8291,8 +8289,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-20T10:05:25Z",
+    "run_id": "44714112994",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4425,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-20T08:54:56Z"
+ "updated_at": "2026-11-20T10:05:25Z"
 }

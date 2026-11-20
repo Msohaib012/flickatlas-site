@@ -199128,5 +199128,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-20T08:52:57Z"
+  },
+  "16le2de": {
+    "id": "16le2de",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise on the Reaping Film Review",
+    "dek": "A star-studded cast supports young lead Joseph Zada in the new Hunger Games prequel exploring the origin story of Haymitch Abernathy.",
+    "body": [
+      {
+        "h": "Introduction to the Prequel",
+        "p": [
+          "The popular dystopian franchise returns to theaters with a brand new installment focusing on the early days of a beloved character. The latest cinematic chapter brings back the tradition of featuring a remarkably distinguished supporting ensemble, echoing the casting successes of the earliest films in the series.",
+          "Directed by Francis Lawrence and written by Suzanne Collins, the new film earns a solid three-and-a-half-star rating from critics. It serves as an exciting, visually stunning, and emotionally resonant origin story for Haymitch Abernathy."
+        ]
+      },
+      {
+        "h": "The Premise of the 50th Games",
+        "p": [
+          "Set in the post-apocalyptic nation of Panem, the story unfolds on the fateful day of the reaping for the fiftieth edition of the deadly tournament. This specific event marks the second quarter quell, demanding four tributes from every single district instead of the usual two to fight for survival while distracting the populace.",
+          "A young Haymitch finds himself selected to participate, devastating his family and his girlfriend. Once thrust into the arena, he quickly realizes he must forge alliances to stay alive and eventually uncovers a conspiracy among individuals determined to put an end to the cruel machine once and for all."
+        ]
+      },
+      {
+        "h": "An Extraordinary Ensemble Cast",
+        "p": [
+          "The production boasts an incredible lineup of celebrated Hollywood talent, including Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin, and Elle Fanning. Rather than stealing focus from the younger actors, these seasoned professionals deliberately remain in the background to add immense credibility and gravity to the narrative.",
+          "Each veteran performer brings a unique flair to their stylized role without disrupting the fantastical atmosphere. Glenn Close delivers a memorable portrayal of Druscilla, Ralph Fiennes projects simmering menace as President Snow, and Kieran Culkin infuses the screen with manic energy."
+        ]
+      },
+      {
+        "h": "Standout Performances by Younger Leads",
+        "p": [
+          "With the heavy lifting of world-building handled by the supporting cast, lead actor Joseph Zada successfully anchors the movie as a teenage Haymitch. He captures the character's rage and teenage rebellion while maintaining a deeply human core that connects the audience to the emotional stakes.",
+          "Whitney Peak portrays his love interest and complements his journey effectively, while Mckenna Grace injects much-needed acidic humor and wit into the story. Grace's performance makes her character instantly likeable and easy for viewers to root for throughout the ordeal."
+        ]
+      },
+      {
+        "h": "Vibrant Visuals and Retro-Futuristic Design",
+        "p": [
+          "In stark contrast to modern blockbusters that often drain color from their frames, the new prequel embraces a rich and vibrant aesthetic. The deadly arena bursts with lively flora and fauna, featuring waterfalls, rabbits, storks, butterflies, and vivid flowers.",
+          "Set twenty-four years before the original story, the film blends futuristic elements with a steampunk retro design. The clever use of mahogany, vintage wood panels, and bright primary tones successfully establishes a distinct visual identity that fully immerses the audience."
+        ]
+      },
+      {
+        "h": "Emotional Core and Thematic Depth",
+        "p": [
+          "Whether approached as an Easter egg-filled experience for longtime fans or as a standalone coming-of-age narrative, the film keeps emotion at its center. It explores complex themes of brotherhood, justice, equality, and second chances while offering a direct critique of autocracy.",
+          "The intense final act, driven by Zada's emotional commitment and unexpected cameos, highlights the crushing weight of systemic injustice. This poignant conclusion serves as a fitting bridge connecting the narrative directly to the later rebellion led by Katniss and Peeta."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games prequel Sunrise on the Reaping successfully revives the franchise's tradition of star-studded supporting casts to prop up young lead Joseph Zada. Directed by Francis Lawrence, the film explores the origin story of a sixteen-year-old Haymitch Abernathy during the 50th Hunger Games, earning praise for its vibrant visuals and emotional depth."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping is directed by Francis Lawrence.",
+      "The film was written by Suzanne Collins.",
+      "The cast includes Joseph Zada, Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin, Elle Fanning, Mckenna Grace, Ben Wang, and Whitney Peak.",
+      "The film received a rating of 3.5 out of 5 stars.",
+      "The story is set 24 years before the original The Hunger Games.",
+      "The plot centers on the 50th Hunger Games, which is the 2nd Quarter Quell."
+    ],
+    "entities": {
+      "people": [
+        "Joseph Zada",
+        "Francis Lawrence",
+        "Suzanne Collins",
+        "Jesse Plemons",
+        "Ralph Fiennes",
+        "Glenn Close",
+        "Kieran Culkin",
+        "Elle Fanning",
+        "Mckenna Grace",
+        "Ben Wang",
+        "Whitney Peak",
+        "Haymitch Abernathy",
+        "President Snow",
+        "Druscilla",
+        "Jennifer Lawrence",
+        "Katniss",
+        "Peeta",
+        "Beetee Latier",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "The Hunger Games",
+        "The Ballad of Songbirds Snakes",
+        "Harry Potter"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Joseph Zada",
+      "Francis Lawrence",
+      "Mckenna Grace",
+      "Haymitch Abernathy"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/20/1600x900/logo/The_Hunger_Games_Sunrise_on_the_Reaping_review__1795159908751_wFB5_1795159908909_6gu6_231da84b-06c4-4c82-9548-c3fa2c22b62b_PuDF.png",
+        "caption": "The Hunger Games: Sunrise on the Reaping Film Review",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 13:29:19 +0530"
+  },
+  "6badv7": {
+    "id": "6badv7",
+    "type": "news",
+    "headline": "Spider-Man: Brand New Day Extended Cut Reveals First Look at Cut Claire Temple Scene",
+    "dek": "Rosario Dawson shares a sneak peek of her character Claire Temple making an appearance in the upcoming theatrical re-release of Spider-Man: Brand New Day.",
+    "body": [
+      {
+        "h": "First Look at the Extended Cut",
+        "p": [
+          "Audiences are getting their first glimpse of Rosario Dawson in the role of Claire Temple, a character originally known from Netflix's Daredevil series, ahead of the theatrical re-release of Spider-Man: Brand New Day. The upcoming extended cut arrives in cinemas on December 4th, bringing previously unseen footage and additional sequences back to the big screen.",
+          "The project adds fresh elements to the blockbuster that originally premiered earlier this summer, giving fans a reason to return to theatres to experience the updated version of the Marvel Cinematic Universe hit."
+        ]
+      },
+      {
+        "h": "Claire Temple Crosses the Multiverse",
+        "p": [
+          "Dawson recently took to social media to publish a still image from the upcoming version, displaying her character alongside Tom Holland's Peter Parker. In the newly revealed photograph, Dawson appears in green medical scrubs accompanied by a stethoscope, standing next to Holland dressed in his signature web-slinger mask and a hospital gown.",
+          "The inclusion of this crossover bridges the gap between different corners of Marvel's live-action projects, as Dawson previously portrayed the nurse across multiple Netflix series including Jessica Jones, Luke Cage, Iron First, and The Defenders."
+        ]
+      },
+      {
+        "h": "Why the Scene Was Originally Cut",
+        "p": [
+          "Co-writer Chris McKenna previously addressed the exclusion of the character from the initial theatrical release, noting that the choice came down to strict time limitations. The film already ran at roughly two and a half hours, prompting the creative team to trim certain sequences despite praising Dawson's performance.",
+          "With an abundance of notable figures and plotlines packed into the production, creators faced difficult choices during editing before deciding to restore the missing footage for the upcoming extended cut."
+        ]
+      },
+      {
+        "h": "Plot Speculation and Character Interactions",
+        "p": [
+          "The newly teased photographic evidence hints at a hospital encounter between Peter Parker and the medical professional. Speculation suggests the meeting may occur following an incident where the web-slinger protects Jean Grey, portrayed by Sadie Sink, from a projectile fired by Frank Castle, also known as the Punisher, played by Jon Bernthal.",
+          "Official confirmation regarding the exact context of the scene will have to wait until the updated version reaches the silver screen next month."
+        ]
+      },
+      {
+        "h": "Creative Team and Production Background",
+        "p": [
+          "Spider-Man: Brand New Day is directed by Destin Daniel Cretton. The screenplay was written by the established duo Chris McKenna and Erik Sommers, who have penned all of Holland's solo outings as the iconic comic book hero.",
+          "The summer release of the movie achieved record-breaking success at the box office, prompting Sony Pictures to assemble the upcoming extended theatrical cut featuring new sequences and surprises for fans."
+        ]
+      },
+      {
+        "h": "Release Details and Availability",
+        "p": [
+          "Fans wishing to catch the additional footage and the return of the fan-favorite nurse can view the updated film when it returns to cinemas across the UK on December 4th.",
+          "The cinematic re-release promises to offer fresh context and expand upon the already massive world established by the previous Marvel Cinematic Universe installment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rosario Dawson has shared a first look at her character Claire Temple in an upcoming extended cut of Spider-Man: Brand New Day, which hits cinemas on December 4th. The scene was initially cut from the record-breaking summer release due to time constraints, but will now be restored alongside other surprises for fans."
+        ]
+      }
+    ],
+    "facts": [
+      "Spider-Man: Brand New Day extended cut releases in cinemas on 4 December",
+      "Rosario Dawson plays Claire Temple",
+      "Tom Holland plays Peter Parker / Spider-Man",
+      "Sadie Sink plays Jean Grey",
+      "Jon Bernthal plays Frank Castle / Punisher",
+      "Chris McKenna and Erik Sommers are the writers",
+      "Destin Daniel Cretton is the director"
+    ],
+    "entities": {
+      "people": [
+        "Rosario Dawson",
+        "Tom Holland",
+        "Jean Grey",
+        "Sadie Sink",
+        "Frank Castle",
+        "Jon Bernthal",
+        "Chris McKenna",
+        "Destin Daniel Cretton",
+        "Erik Sommers"
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Daredevil",
+        "Jessica Jones",
+        "Luke Cage",
+        "Iron First",
+        "The Defenders",
+        "Star Wars: Ahsoka",
+        "Avengers: Endgame",
+        "Doomsday"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day",
+      "Rosario Dawson Claire Temple",
+      "Spider-Man Brand New Day extended cut",
+      "Tom Holland Peter Parker"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/834f200b-0391-4b9e-a1e7-69077193f5ec.jpg?crop=0.575xw:0.683xh;0.232xw,0.317xh&amp;resize=1200:*",
+        "caption": "Spider-Man: Brand New Day Extended Cut Reveals First Look at Cut Claire Temple Scene",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 08:00:00 +0000"
+  },
+  "1hitn6j": {
+    "id": "1hitn6j",
+    "type": "news",
+    "headline": "BTS J-Hope Reacts to Fan Dressed as 'Mama Jung' at Kaohsiung Concert",
+    "dek": "During a live performance in Kaohsiung, BTS member J-Hope encountered a dedicated fan recreating his memorable 'Mama Jung' character from a past comedy sketch, sparking laughter and excitement across the internet.",
+    "body": [
+      {
+        "h": "An Unexpected Concert Encounter",
+        "p": [
+          "BTS member J-Hope surprised the audience during a recent performance in Kaohsiung when he spotted an attendee wearing a hilarious outfit. The fan had dressed up to mirror the singer's well-known 'Mama Jung' persona.",
+          "The lighthearted interaction quickly became a major talking point among concertgoers, highlighting the playful dynamic between the K-pop star and his supporters."
+        ]
+      },
+      {
+        "h": "Recreating the 'Mama Jung' Look",
+        "p": [
+          "The dedicated ARMY member went to great lengths to ensure accuracy, sporting a black outfit paired with a short black bob wig and a pearl necklace. These specific elements matched the distinct aesthetic of J-Hope's comedic role.",
+          "Additionally, the fan carried a large banner with the text 'calm down my daughter' alongside a large photograph that further emphasized the humorous reference."
+        ]
+      },
+      {
+        "h": "J-Hope's Priceless Reaction",
+        "p": [
+          "Upon noticing the witty costume, J-Hope could not hide his amusement. He experienced a moment of visible surprise before breaking out into genuine laughter.",
+          "Refusing to let the funny moment pass by, the singer pulled out his personal phone to record the fan and snap a picture of the clever setup."
+        ]
+      },
+      {
+        "h": "The Legacy of House of Army",
+        "p": [
+          "The humorous character originated from the group's beloved comedy segment titled 'House of ARMY'. In that sketch, J-Hope played a devoted wife complete with a bob wig and pearl accessories, while fellow member Jungkook portrayed the husband.",
+          "That exaggerated domestic comedy segment quickly won over the fandom, transforming into a cherished piece of group lore that continues to inspire memes and edits."
+        ]
+      },
+      {
+        "h": "Internet Reactions and Social Media Buzz",
+        "p": [
+          "As video clips and images from the Kaohsiung venue spread across online platforms, fans flooded social media with excitement. Many praised J-Hope for his quick wit and willingness to engage with the amusing homage.",
+          "Comments poured in from followers expressing their joy at seeing the classic comedy sketch referenced live at a modern concert."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS member J-Hope laughed and recorded a fan dressed as his 'Mama Jung' wife character during a concert in Kaohsiung. The costume referenced a popular comedy sketch from the group's past, delighting supporters online."
+        ]
+      }
+    ],
+    "facts": [
+      "J-Hope is a member of BTS.",
+      "The event took place at a concert in Kaohsiung.",
+      "The fan dressed up as the 'Mama Jung' wife character from the House of ARMY sketch.",
+      "Jungkook played the husband in the original House of ARMY sketch.",
+      "The fan held a banner reading calm down my daughter."
+    ],
+    "entities": {
+      "people": [
+        "J-Hope",
+        "Jungkook",
+        "Arpita Sarkar"
+      ],
+      "titles": [
+        "House of ARMY"
+      ]
+    },
+    "keywords": [
+      "BTS J-Hope Kaohsiung concert",
+      "Mama Jung wife look",
+      "House of ARMY sketch",
+      "J-Hope Mama Jung fan"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156537668,thumbsize-243052,width-1280,height-720,resizemode-75/156537668.jpg",
+        "caption": "BTS J-Hope Reacts to Fan Dressed as 'Mama Jung' at Kaohsiung Concert",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T09:51:44Z"
+  },
+  "rtlfp0": {
+    "id": "rtlfp0",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 75: Arishfa Khan Secures Immunity in Face-Off Against Love Gill",
+    "dek": "Arishfa Khan triumphs in a high-stakes immunity challenge against Love Gill on Bigg Boss 20, securing safety from eviction alongside house captain Uditi Singh.",
+    "body": [
+      {
+        "h": "The Latest Contestant Dynamics",
+        "p": [
+          "Following the events of the previous Weekend Ka Vaar episodes, the power dynamics and alliances inside the Bigg Boss 20 house experienced significant shifts. ScoutOP chose to distance himself from Love Gill, triggering a broader trend where the majority of the housemates decided to oppose her.",
+          "This sweeping change in house equations directly influenced the planning and execution of the latest immunity challenge. With Uditi Singh holding the position of house captain and already enjoying immunity from elimination for the week, the stage was set for another contestant to join her in safety."
+        ]
+      },
+      {
+        "h": "Setting Up the Immunity Challenge",
+        "p": [
+          "Bigg Boss introduced a special task designed to put the shifting loyalties to the test. House captain Uditi Singh was given the responsibility by Bigg Boss to name her most and least favorite housemates, positioning Arishfa Khan as her choice for safety and Love Gill as her least favorite.",
+          "This selection forced Love Gill and Arishfa Khan into a direct competitive face-off for the week's remaining immunity spot. The mechanics of the task required participants to designate a writer to draft the letters A and L onto sticky notes, which were then pasted onto respective boards and aggressively guarded against the opposing team."
+        ]
+      },
+      {
+        "h": "Divided Loyalties and Team Support",
+        "p": [
+          "The housemates quickly aligned themselves behind the two competing contestants. Kanika Mann and Gullu stepped forward to support Love Gill during the proceedings, offering their backing on her side of the board.",
+          "Conversely, a substantial coalition of housemates rallied around Arishfa Khan. ScoutOP, Mahhi Vij, Aamrapali Dubey, Qazi Touqeer, Manish Goel, and Yung DSA all stood by Arishfa to help her secure the win."
+        ]
+      },
+      {
+        "h": "A Fierce First Round Battle",
+        "p": [
+          "The first round of the challenge saw Kanika Mann handling the writing duties for Love's team, while Love took charge of sticking and defending the notes. For Arishfa's side, Aamrapali Dubey managed the writing while Qazi Touqeer handled the sticking and guarding.",
+          "The initial round concluded in a tightly contested tie. However, Arishfa's team maintained their momentum and successfully claimed victory in the crucial tie-breaker round."
+        ]
+      },
+      {
+        "h": "Securing Victory in Round Two",
+        "p": [
+          "As the challenge moved into its second round, Kanika continued writing with Gullu taking over the responsibility of sticking the notes. Meanwhile, Arishfa's team swapped personnel, bringing in Yung DSA to replace Aamrapali and ScoutOP to step in for Qazi.",
+          "Despite aggressive attempts by Gullu and Scout to snatch the sticky notes while defending, Arishfa's team dominated the round. Uditi Singh, acting as the sanchalak for the task, officially declared Arishfa Khan as the winner of the challenge."
+        ]
+      },
+      {
+        "h": "Heated Arguments and Aftermath",
+        "p": [
+          "The intense environment of the activity led to a fiery confrontation between Love Gill and Yung DSA. The two exchanged verbal abuses and derogatory names, resulting in portions of their argument being muted for the official telecast.",
+          "As the episode drew to a close, Gullu and Scout managed to resolve their own differences which had flared up during the task. The fallout from the challenge left Love isolated with only Kanika and Gullu as her remaining supporters while the rest of the house stood firmly against her."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Arishfa Khan emerged victorious in an immunity challenge against Love Gill on Bigg Boss 20, earning safety from eviction alongside house captain Uditi Singh. The task highlighted shifting alliances within the house and sparked intense friction among the contestants."
+        ]
+      }
+    ],
+    "facts": [
+      "Arishfa Khan won the immunity task against Love Gill on Bigg Boss 20 Episode 75.",
+      "Uditi Singh is the new captain of the house and is immune from eviction.",
+      "Kanika Mann and Gullu supported Love Gill during the task.",
+      "ScoutOP, Mahhi Vij, Aamrapali Dubey, Qazi Touqeer, Manish Goel, and Yung DSA supported Arishfa Khan.",
+      "Love Gill and Yung DSA got into a heated argument with muted abuses."
+    ],
+    "entities": {
+      "people": [
+        "Arishfa Khan",
+        "Love Gill",
+        "Uditi Singh",
+        "ScoutOP",
+        "Kanika Mann",
+        "Gullu",
+        "Mahhi Vij",
+        "Aamrapali Dubey",
+        "Qazi Touqeer",
+        "Manish Goel",
+        "Yung DSA"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Arishfa Khan",
+      "Love Gill",
+      "Uditi Singh",
+      "Bigg Boss 20 Episode 75"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156538693,thumbsize-465516,width-1280,height-720,resizemode-75/156538693.jpg",
+        "caption": "Bigg Boss 20 Episode 75: Arishfa Khan Secures Immunity in Face-Off Against Love Gill",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T09:51:44Z"
   }
 };
