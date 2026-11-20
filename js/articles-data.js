@@ -198763,5 +198763,370 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-20T07:53:58Z"
+  },
+  "18ajq47": {
+    "id": "18ajq47",
+    "type": "news",
+    "headline": "Appa Kutty X Reviews: Early Reactions Surface for Vijay Antony and Preethi Asrani's Family Action Drama",
+    "dek": "Tamil film Appa Kutty hit cinemas on November 20, 2026, featuring a lead cast led by Vijay Antony and Preethi Asrani under the direction of MU. Maran.",
+    "body": [
+      {
+        "h": "Theatrical Release And Overview",
+        "p": [
+          "The Tamil feature film Appa Kutty officially premiered in theatres on Friday, November 20, 2026. Billed as a family action drama, the movie places a strong emphasis on the dynamic between a father and his daughter, weaving together interpersonal relationships, domestic emotions, and high-energy action sequences.",
+          "Helmed by director MU. Maran, the production brings together a diverse ensemble of performers to support its central narrative. Moviegoers seeking family-oriented drama mixed with genre thrills have begun evaluating the project on its opening day across various platforms."
+        ]
+      },
+      {
+        "h": "Cast And Production Team",
+        "p": [
+          "Vijay Antony shares the screen with Preethi Asrani in the primary lead roles. The extended casting includes supporting actors such as Bhagavathi Perumal, Vettai Muthukumar, Aruvi Mathan, Jenson Diwakar, Muruganantham, Sreeja Ravi, Praveena, Chitra Laxmanan, Hari Priya Isai, Hari Priya, Kumar Natarajan, Swamynathan, and Baby Lithanya.",
+          "Behind the camera, MU. Maran handled both the writing and directing responsibilities. Fatima Vijay Antony produced the feature under the Vijay Antony Film Corporation banner, while Meera Vijay Antony served as the presenter."
+        ]
+      },
+      {
+        "h": "Vijay Antony's Multi-Faceted Involvement",
+        "p": [
+          "Lead actor Vijay Antony expanded his contributions to the project by taking on several technical roles. Aside from acting, he functioned as the film's editor and contributed as the music composer.",
+          "His hands-on involvement across multiple departments highlights his extensive creative input in shaping the final cinematic cut and the overall auditory tone of the family drama."
+        ]
+      },
+      {
+        "h": "Crew And Technical Credits",
+        "p": [
+          "The cinematography for the release was managed by Rajeev Rajendran, with additional dialogues written by Puthiya Parithi. A. Raja oversaw the art direction, and Rajasekar directed the stunt and action sequences.",
+          "Song lyrics were penned by Ekadesi and Arun Bharathi. Other key crew members include costume designers Anusha Meenakshi and M. Selvaraj, makeup artist Sreeralan Mani, and sound engineer S. Chandrasekhar."
+        ]
+      },
+      {
+        "h": "Initial Social Media Reactions",
+        "p": [
+          "Following the morning and early afternoon screenings, audiences took to X, formerly known as Twitter, to share their initial thoughts and ratings. Reviewers noted that while the pacing took some time to establish the core premise, the performances remained steady throughout.",
+          "Specific praise was directed toward the interval block and the background score. Some viewers pointed out that the narrative felt somewhat extended, but praised the emotional weight of the climax sequence."
+        ]
+      },
+      {
+        "h": "Audience Consensus And Ratings",
+        "p": [
+          "Early social media feedback categorizes the project as a harmless watch despite certain structural flaws in the screenplay. One viewer awarded the picture a 3 out of 5 rating, highlighting the emotional impact of the ending scenes.",
+          "Observers noted that these early opinions reflect individual reactions from initial attendees. A more comprehensive assessment of the film's theatrical journey is anticipated as wider audiences view the project over the subsequent days."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Appa Kutty debuted in theatres on November 20, 2026, bringing together a father-daughter narrative directed by MU. Maran and starring Vijay Antony and Preethi Asrani. Early social media reviews highlight strong emotional moments and musical scoring alongside observations regarding the film's runtime and pacing."
+        ]
+      }
+    ],
+    "facts": [
+      "Appa Kutty released in theatres on Friday, November 20, 2026.",
+      "The film is directed by MU. Maran.",
+      "Vijay Antony and Preethi Asrani play the lead roles.",
+      "Fatima Vijay Antony produced the film under Vijay Antony Film Corporation.",
+      "Meera Vijay Antony presented the film."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Antony",
+        "Preethi Asrani",
+        "MU. Maran",
+        "Fatima Vijay Antony",
+        "Meera Vijay Antony",
+        "Bhagavathi Perumal",
+        "Vettai Muthukumar",
+        "Aruvi Mathan",
+        "Rajeev Rajendran"
+      ],
+      "titles": [
+        "Appa Kutty"
+      ]
+    },
+    "keywords": [
+      "Appa Kutty movie",
+      "Vijay Antony Appa Kutty",
+      "Preethi Asrani film",
+      "Appa Kutty X review",
+      "MU Maran director"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/appakutty-91501795164093.jpg",
+        "caption": "Appa Kutty X Reviews: Early Reactions Surface for Vijay Antony and Preethi Asrani's Family Action Drama",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 14:12:43 +0530"
+  },
+  "4f2jpj": {
+    "id": "4f2jpj",
+    "type": "news",
+    "headline": "New Trailer for Korean Drama The Substitute Teases High-Stakes Deal",
+    "dek": "A fresh preview for the upcoming crime thriller series The Substitute highlights a perilous arrangement between its lead characters ahead of its premiere.",
+    "body": [
+      {
+        "h": "Introduction to The Substitute",
+        "p": [
+          "Audiences awaiting fresh television thrillers can look forward to the upcoming series titled The Substitute. A brand new preview has arrived to give viewers a glimpse into the suspenseful tone and narrative direction of the show.",
+          "The project brings together an intriguing premise centered on academic pressure, criminal elements, and hidden secrets that threaten to upend the lives of the main characters."
+        ]
+      },
+      {
+        "h": "Plot and Premise Details",
+        "p": [
+          "The story follows a top-performing student from a low-income background who finds himself cornered. He is subjected to blackmail, forcing him to take the crucial college entrance exam on behalf of another individual.",
+          "The person he is forced to substitute for is a model student harboring significant and dangerous secrets. This illegal arrangement forms the core conflict of the narrative."
+        ]
+      },
+      {
+        "h": "Cast Members and Leading Actors",
+        "p": [
+          "The television series features prominent young talent in its primary roles. Actor Bae Hyun Sung takes on the character of the model student who holds hidden secrets.",
+          "Meanwhile, actor Cha Kang Yoon portrays the impoverished top student who gets blackmailed into taking the high-stakes test."
+        ]
+      },
+      {
+        "h": "Trailer Highlights and Dangerous Deals",
+        "p": [
+          "The newly released promotional video showcases intense confrontations between the two male leads. Viewers are treated to visual cues of the perilous pact they strike.",
+          "Tensions run high as the footage emphasizes the risky nature of their agreement and the looming threat of exposure hanging over them."
+        ]
+      },
+      {
+        "h": "Genre and Creative Direction",
+        "p": [
+          "Categorized as a crime thriller, the production leans heavily into suspenseful storytelling and high-pressure situations. The narrative explores dark themes related to the intense academic culture and socioeconomic disparities.",
+          "The clash between the characters' vastly different backgrounds drives the dramatic tension throughout the unfolding episodes."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Platform",
+        "p": [
+          "Fans will not have to wait long to watch the series unfold. The official premiere date has been set for November 23.",
+          "Viewers can stream the program exclusively on the TVING platform upon its release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new trailer for the crime thriller series The Substitute showcases a dangerous deal between actors Bae Hyun Sung and Cha Kang Yoon. The show is scheduled to premiere on November 23 on TVING."
+        ]
+      }
+    ],
+    "facts": [
+      "The Substitute premieres on November 23, 2026.",
+      "The series will air on TVING.",
+      "Bae Hyun Sung stars as a model student with secrets.",
+      "Cha Kang Yoon stars as a low-income top student who is blackmailed."
+    ],
+    "entities": {
+      "people": [
+        "Bae Hyun Sung",
+        "Cha Kang Yoon"
+      ],
+      "titles": [
+        "The Substitute",
+        "Shin's Project",
+        "The Dream Life of Mr. Kim"
+      ]
+    },
+    "keywords": [
+      "The Substitute",
+      "Bae Hyun Sung",
+      "Cha Kang Yoon",
+      "The Substitute TVING"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/kdramakisses.com/wp-content/uploads/2026/10/Substitute-Bae-Hyun-Sung-2.jpg?fit=400%2C225&ssl=1",
+        "caption": "New Trailer for Korean Drama The Substitute Teases High-Stakes Deal",
+        "source": "Kdrama Kisses"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 08:00:46 +0000"
+  },
+  "7ja3yg": {
+    "id": "7ja3yg",
+    "type": "news",
+    "headline": "The Beekeeper 2 Sets Worldwide Theatrical Release Date With Jason Statham Returning",
+    "dek": "Action star Jason Statham is officially returning for The Beekeeper 2, bringing high-stakes combat and an expanded ensemble cast to theaters in January 2027.",
+    "body": [
+      {
+        "h": "The Return Of The Action Star",
+        "p": [
+          "Action cinema enthusiasts have reason to celebrate as Jason Statham gears up to reprise his signature role in an upcoming cinematic sequel. Producers have released a striking promotional image that showcases the leading man heavily armed and fully prepared for his next dangerous endeavor. This official reveal has immediately revitalized fan enthusiasm and set expectations high for the forthcoming continuation.",
+          "Building directly upon the foundation laid by its predecessor, this upcoming installment aims to deliver an even more explosive narrative experience. Audiences can anticipate the return of the same relentless intensity, high-octane sequences, and strategic intrigue that propelled the initial movie to widespread popularity among action genre followers."
+        ]
+      },
+      {
+        "h": "Behind The Camera And The Stakes",
+        "p": [
+          "Directorial duties for this explosive continuation have been handed over to Timo Tjahjanto. Under his creative direction, the protagonist is thrust back into the secretive and lethal world of the Beekeepers to navigate a fresh assignment defined by significantly elevated stakes.",
+          "Following the commercial triumph of the original 2024 motion picture, the production team is actively working to surpass previous benchmarks. The new chapter intends to introduce more elaborate combat choreography alongside a complex, suspenseful mystery that tests the protagonist's limits."
+        ]
+      },
+      {
+        "h": "Expanding The Ensemble Cast",
+        "p": [
+          "While the production centers firmly on its main star, it also brings back familiar faces while introducing fresh talent to the universe. Jeremy Irons is officially confirmed to reprise his character from the first film, ensuring a sense of continuity for loyal followers of the franchise.",
+          "In addition to returning personnel, the roster welcomes prominent new additions. Pom Klementieff, recognized for her prominent work in major Hollywood blockbusters, joins the lineup alongside former professional wrestling star Adam Copeland to broaden the scope of the narrative."
+        ]
+      },
+      {
+        "h": "Global Distribution And Production",
+        "p": [
+          "The financial and logistical backing for the project is anchored by major industry players. Amazon MGM Studios is heading the production side of the enterprise, ensuring substantial resources are dedicated to realizing the ambitious vision of the filmmakers.",
+          "For international distribution, Sony Pictures Releasing International has secured the rights to bring the title to viewers across the globe. This partnership guarantees a massive international rollout strategy when the film finally arrives in commercial cinemas."
+        ]
+      },
+      {
+        "h": "Official Release Schedule",
+        "p": [
+          "Eager moviegoers waiting to witness the next phase of the franchise now have a confirmed date on the calendar. The studio has locked in a global theatrical launch, ensuring that territories worldwide will receive the movie simultaneously.",
+          "Marking the calendar for early 2027, the picture is scheduled to hit cinema screens on the fifteenth of January. Fans can prepare themselves for an adrenaline-fueled theatrical outing as winter unfolds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jason Statham is returning for The Beekeeper 2, a sequel directed by Timo Tjahjanto that features returning actor Jeremy Irons and new cast members Pom Klementieff and Adam Copeland. Produced by Amazon MGM Studios and distributed globally by Sony Pictures Releasing International, the action film is scheduled to arrive in theaters on January 15, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Jason Statham stars in The Beekeeper 2",
+      "Timo Tjahjanto directs The Beekeeper 2",
+      "Jeremy Irons reprises his role in the sequel",
+      "Pom Klementieff and Adam Copeland join the cast",
+      "Amazon MGM Studios produces the film",
+      "Sony Pictures Releasing International distributes the film",
+      "The film releases worldwide in cinemas on January 15, 2027",
+      "The first film was released in 2024"
+    ],
+    "entities": {
+      "people": [
+        "Jason Statham",
+        "Timo Tjahjanto",
+        "Jeremy Irons",
+        "Pom Klementieff",
+        "Adam Copeland"
+      ],
+      "titles": [
+        "The Beekeeper 2",
+        "The Beekeeper",
+        "Guardians of the Galaxy",
+        "Mission: Impossible"
+      ]
+    },
+    "keywords": [
+      "The Beekeeper 2",
+      "Jason Statham",
+      "The Beekeeper 2 release date",
+      "Timo Tjahjanto"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-beekeeper-2-jason-statham-appears-armed-and-ready-for-action-in-the-sequels-latest-poster-001.jpg",
+        "caption": "The Beekeeper 2 Sets Worldwide Theatrical Release Date With Jason Statham Returning",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 08:15:00 +0000"
+  },
+  "8mrcis": {
+    "id": "8mrcis",
+    "type": "news",
+    "headline": "Sarabjit Singh Bobby Honored by Amitabh Bachchan on KBC with Force of Good Award",
+    "dek": "Shimla social worker Sarabjit Singh Bobby received the Force of Good award from Amitabh Bachchan on the sets of Kaun Banega Crorepati, along with 21 lakh rupees for his organization Almighty Blessings.",
+    "body": [
+      {
+        "h": "Introduction to the National Recognition",
+        "p": [
+          "Sarabjit Singh Bobby, a dedicated social worker hailing from Shimla, has achieved significant national acclaim for his relentless community service. His long-standing commitment to uplifting underprivileged individuals caught the attention of producers on one of India's most popular television programs.",
+          "Appearing on the sets of the hit game show Kaun Banega Crorepati, Bobby was personally invited to receive accolades for his grassroots initiatives. The recognition sheds light on quiet humanitarian efforts rooted in the Himalayan region that often go unnoticed on national television."
+        ]
+      },
+      {
+        "h": "Amitabh Bachchan Honors the Social Worker",
+        "p": [
+          "Legendary Bollywood actor Amitabh Bachchan presided over the special segment, applauding Bobby for his tireless dedication to society. Bachchan formally presented him with the prestigious Force of Good award on November 13, 2026.",
+          "The moment highlighted the actor's appreciation for ordinary citizens who create extraordinary change. By shining a spotlight on Bobby's service on national media, the platform elevated regional humanitarian efforts to a broader audience."
+        ]
+      },
+      {
+        "h": "Financial Support for Almighty Blessings",
+        "p": [
+          "In addition to the honorary title, Bobby's NGO, Almighty Blessings, received a substantial financial grant of 21 lakh rupees. This monetary assistance is intended to bolster the ongoing social welfare projects managed by the organization.",
+          "The injection of funds is expected to expand the reach of the NGO's charitable drives, enabling them to supply essential aid to a larger pool of vulnerable and needy people across the region."
+        ]
+      },
+      {
+        "h": "Background of Community Service in Shimla",
+        "p": [
+          "Long before his appearance on national television, Sarabjit Singh Bobby established a reputation in Shimla for standing by the destitute and helpless. Through Almighty Blessings, he has championed multiple community-driven programs aimed at bridging social gaps.",
+          "His sustained efforts have earned him immense local respect, transforming his initiative into a reliable safety net for individuals struggling with extreme hardship and lack of basic resources."
+        ]
+      },
+      {
+        "h": "Significance of the KBC Platform",
+        "p": [
+          "Kaun Banega Crorepati frequently transcends traditional entertainment by featuring inspiring real-life stories that resonate deeply with viewers across the country. Inviting grassroots changemakers aligns with the show's tradition of honoring humanitarian work.",
+          "The appearance not only validated Bobby's years of sacrifice but also inspired millions of viewers to recognize the power of individual agency in driving positive social transformation."
+        ]
+      },
+      {
+        "h": "Legacy of the Almighty Blessings Foundation",
+        "p": [
+          "The national acknowledgment serves as a major milestone for Almighty Blessings, cementing its status as an impactful non-profit entity operating out of Himachal Pradesh. The support received on the show marks a turning point for its administrative capabilities.",
+          "As Bobby returns to his core mission with renewed vigor, the foundation stands poised to scale its community outreach, leaving a lasting imprint on regional social work."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shimla social worker Sarabjit Singh Bobby was honored with the Force of Good award by Amitabh Bachchan on the sets of Kaun Banega Crorepati on November 13, 2026. His organization, Almighty Blessings, also received 21 lakh rupees in financial assistance to further its charitable endeavors for the needy."
+        ]
+      }
+    ],
+    "facts": [
+      "Sarabjit Singh Bobby is a social worker from Shimla.",
+      "Amitabh Bachchan presented the Force of Good award to Sarabjit Singh Bobby on the KBC stage.",
+      "The event took place on November 13, 2026.",
+      "Almighty Blessings received 21 lakh rupees in financial aid for social work."
+    ],
+    "entities": {
+      "people": [
+        "Sarabjit Singh Bobby",
+        "Amitabh Bachchan",
+        "Vikas Sharma",
+        "Sonia Gandhi",
+        "Kangana Ranaut",
+        "Mahesh",
+        "Aamir Khan",
+        "Xi Jinping",
+        "Vladimir Putin",
+        "Donald Trump",
+        "Aparna Yadav",
+        "Keshav Maurya",
+        "Akhilesh Yadav"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati"
+      ]
+    },
+    "keywords": [
+      "Sarabjit Singh Bobby",
+      "Almighty Blessings Shimla",
+      "Force of Good award KBC",
+      "Amitabh Bachchan KBC 2026"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6afef13d2e53f-sarabjit-singh-bobby-19531683-16x9.jpg",
+        "caption": "Sarabjit Singh Bobby Honored by Amitabh Bachchan on KBC with Force of Good Award",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T08:52:57Z"
   }
 };
