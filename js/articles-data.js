@@ -201122,5 +201122,373 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 20 Nov 2026 13:17:43 GMT"
+  },
+  "pwxi9v": {
+    "id": "pwxi9v",
+    "type": "news",
+    "headline": "MTV Roadies 21 Episode 11: What to Expect from the Final Round of Personal Interviews",
+    "dek": "As MTV Roadies Rebirth reaches its final personal interview round, the tension rises with the OGs versus NewGs format and clashes among the leaders.",
+    "body": [
+      {
+        "h": "Introduction to the Final Personal Interviews",
+        "p": [
+          "The latest installment of MTV Roadies season 21 brings viewers to the concluding phase of personal interviews in Roadies Rebirth. Contestants are stepping up into the audition room to secure their spots in the ongoing journey, facing intense scrutiny from the panel of leaders.",
+          "The selection process goes far beyond physical endurance alone. Hopeful participants must demonstrate strong self-assurance, clear communication skills, and a capacity to remain calm under heavy pressure during the rigorous questioning."
+        ]
+      },
+      {
+        "h": "The OGs vs NewGs Format",
+        "p": [
+          "This season introduces a distinctive dynamic centered around the OGs versus NewGs format, escalating the competitive nature of the auditions. Six gang leaders are split evenly into two factions, each striving to assemble the most formidable team possible.",
+          "The division among the leadership has added new layers of rivalry and strategy to the selection process. Every leader is keeping a close eye on potential team members to ensure they have the right mix of talent and grit."
+        ]
+      },
+      {
+        "h": "Meet the Gang Leaders",
+        "p": [
+          "The OG side of the panel features returning favorites and seasoned veterans including Nikhil Chinapa, Neha Dhupia, and Prince Narula. They bring years of experience and tactical knowledge to their side of the bench.",
+          "Opposing them on the NewGs side are Abhishek Malhan, also recognized as Fukra Insaan, alongside Bani J and Baseer Ali. This fresh mix of leaders introduces contrasting perspectives and spirited competition to the recruitment rounds."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Expectations",
+        "p": [
+          "Industry insiders have noted that the production team and network have pulled out all the stops to deliver a blockbuster season. From an innovative theme to an energetic roster of participants and leaders, the creative direction aims to elevate the format.",
+          "Viewers tuning into the upcoming broadcast can anticipate much more than straightforward selections. Early tensions, personal backgrounds, and tactical decisions by the leaders frequently surface during these high-stakes audition segments."
+        ]
+      },
+      {
+        "h": "Release Details and Streaming Options",
+        "p": [
+          "The fresh episode is scheduled for television broadcast on MTV at 7 PM on November 20. Simultaneous digital streaming will be accessible on JioHotstar during the same time slot.",
+          "For those searching for availability on alternative platforms like Dailymotion, online viewing is generally expected following the initial television telecast after 9 PM. However, official channels such as JioHotstar, MTV India, or Netflix remain the recommended viewing destinations."
+        ]
+      },
+      {
+        "h": "Future Challenges on the Horizon",
+        "p": [
+          "Once the final team rosters are completely locked in, the selected contestants will quickly transition into rigorous tasks and sudden eliminations. These elements form the core foundation of the traditional Roadies format.",
+          "Shifting alliances and unpredictable twists will continue to test the endurance and adaptability of every participant as the competition progresses further into the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MTV Roadies season 21 is currently airing its final personal interview round for Roadies Rebirth with the OGs versus NewGs format. Episode 21 is set to release on November 20 with broadcast and streaming options available on MTV and JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "MTV Roadies 21 episode 11 features the last round of personal interviews in Roadies Rebirth.",
+      "Rannvijay Singha returns as the host.",
+      "The six gang leaders are Nikhil Chinapa, Neha Dhupia, Prince Narula, Abhishek Malhan, Bani J, and Baseer Ali.",
+      "The episode is scheduled to air on MTV at 7 PM on November 20 with online streaming on JioHotstar."
+    ],
+    "entities": {
+      "people": [
+        "Rannvijay Singha",
+        "Nikhil Chinapa",
+        "Neha Dhupia",
+        "Prince Narula",
+        "Abhishek Malhan",
+        "Bani J",
+        "Baseer Ali"
+      ],
+      "titles": [
+        "MTV Roadies 21",
+        "Roadies Rebirth"
+      ]
+    },
+    "keywords": [
+      "MTV Roadies 21 episode 11",
+      "Roadies Rebirth Dailymotion",
+      "Abhishek Malhan Prince Narula",
+      "MTV Roadies 21 release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/mtvroadies21episode11dailymotion-56041795180861.jpg",
+        "caption": "MTV Roadies 21 Episode 11: What to Expect from the Final Round of Personal Interviews",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 19:13:48 +0530"
+  },
+  "vmhm8z": {
+    "id": "vmhm8z",
+    "type": "news",
+    "headline": "The Rookie: North Trailer Explores New Frontiers and Fresh Faces in Spin-off",
+    "dek": "ABC has unveiled the first trailer for The Rookie: North, shifting the police procedural franchise from Los Angeles to Washington with Jay Ellis leading the cast.",
+    "body": [
+      {
+        "h": "Introduction to The Rookie: North",
+        "p": [
+          "The popular police procedural universe is expanding in a completely new direction with the arrival of a fresh expansion series. ABC recently debuted the inaugural preview for the upcoming television project, showcasing how the brand plans to evolve beyond its initial urban roots. Instead of the bustling streets of Southern California, the narrative relocates to the picturesque yet demanding landscapes of Washington state.",
+          "This latest extension brings an entirely different department and working environment into the spotlight. Fans of the overarching franchise will notice distinct stylistic choices in the preview that separate this new project from previous iterations, establishing a unique identity right from the start."
+        ]
+      },
+      {
+        "h": "Shift in Setting and Atmosphere",
+        "p": [
+          "Moving away from the familiar sunny avenues of Los Angeles, the new narrative unfolds across Washington’s Pierce County. The visual tone and geographical challenges differ significantly from the original show, offering a blend of urban coastlines and deep rural forests.",
+          "According to official plot details, these remote locations introduce unique logistical hurdles for law enforcement officers. In areas where backup is not merely a five-minute drive away, the stakes feel vastly higher, forcing characters to rely heavily on their own training and instincts."
+        ]
+      },
+      {
+        "h": "Meet the Lead Character",
+        "p": [
+          "At the heart of the new series is Alex Holland, portrayed by Jay Ellis. The character transitions into law enforcement following a profound personal disruption, specifically surviving a harrowing home invasion that sparks a dormant sense of purpose.",
+          "Dealing with a lifetime of unfulfilled ambitions, Alex steps into the Pierce County Police Department as an older rookie. The trailer captures early moments of his training, including a breathless high-speed pursuit where he rides shotgun while trying to maintain his composure."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Department Dynamics",
+        "p": [
+          "The newly released preview also highlights several key supporting players who will shape the protagonist's journey. Janet Montgomery steps into the role of Charlotte Dru, the skeptical training officer tasked with guiding Alex through the rigors of the job.",
+          "Additionally, the department features Chris Sullivan as Sgt. Nix, who delivers stern warnings to incoming recruits about the demanding nature of the work. Froy Gutierrez, Karen Fukuhara as Leah Mizuno, and Malik Watson as Mark Lewis round out the ensemble, offering essential mentorship and friction."
+        ]
+      },
+      {
+        "h": "Core Themes and Logline Insights",
+        "p": [
+          "The official premise centers around personal redemption and the arduous path of proving oneself under pressure. Alex Holland confronts the realization that his midlife path requires a radical course correction after facing violence firsthand.",
+          "Throughout the narrative, the protagonist must demonstrate his worth not only to his demanding training officer and fellow recruits, but ultimately to himself as he navigates a profession with zero margin for error."
+        ]
+      },
+      {
+        "h": "Franchise Expansion and Expectations",
+        "p": [
+          "As part of a sprawling television universe, this latest entry carries high expectations from eager viewers. The preview successfully sparked widespread discussions online, with audiences dissecting every frame for hints about serialized plots and crossover potential.",
+          "By trading metropolitan congestion for dense Pacific Northwest woods, the creative team aims to inject fresh tension into the formula while honoring the core themes that made the original property a staple of network television."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ABC has released the first trailer for The Rookie: North, a new spin-off starring Jay Ellis as rookie officer Alex Holland in Washington's Pierce County. The series shifts the franchise away from Los Angeles and features a supporting cast including Janet Montgomery, Chris Sullivan, Froy Gutierrez, and Karen Fukuhara."
+        ]
+      }
+    ],
+    "facts": [
+      "The Rookie: North is a television spin-off of The Rookie.",
+      "The trailer was released on November 20, 2026.",
+      "Jay Ellis stars as the lead character Alex Holland.",
+      "The show is set in Washington's Pierce County.",
+      "Janet Montgomery plays training officer Charlotte Dru.",
+      "Chris Sullivan portrays Sgt. Nix.",
+      "Karen Fukuhara plays Leah Mizuno and Malik Watson plays Mark Lewis."
+    ],
+    "entities": {
+      "people": [
+        "Disheeta Maheshwari",
+        "Jay Ellis",
+        "Janet Montgomery",
+        "Froy Gutierrez",
+        "Chris Sullivan",
+        "Karen Fukuhara",
+        "Alex Holland",
+        "Malik Watson"
+      ],
+      "titles": [
+        "The Rookie",
+        "The Rookie: North"
+      ]
+    },
+    "keywords": [
+      "The Rookie North",
+      "Jay Ellis The Rookie North",
+      "The Rookie spin off trailer",
+      "Alex Holland Pierce County"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/The-Rookie-North.jpg?resize=1200,630",
+        "caption": "The Rookie: North Trailer Explores New Frontiers and Fresh Faces in Spin-off",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 12:50:25 +0000"
+  },
+  "14jkc6": {
+    "id": "14jkc6",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Aryan Khan’s Brand D’YAVOL X Partners with Golden Goose for Exclusive Fashion Line",
+    "dek": "The luxury lifestyle label co-founded by Shah Rukh Khan and Aryan Khan has teamed up with Italian footwear giant Golden Goose for a distinctive collection that will also be featured in the upcoming film King.",
+    "body": [
+      {
+        "h": "An Exciting New Fashion Partnership",
+        "p": [
+          "The luxury lifestyle brand D’YAVOL X has joined forces with Italian footwear and apparel label Golden Goose for an upcoming collaborative release. Co-founded by superstar Shah Rukh Khan, his son Aryan Khan, along with Leti Blagoeva and Bunty Singh, D’YAVOL X is known for bringing high-end street fashion and exclusivity to the market.",
+          "This strategic alliance merges the renowned artisanal craftsmanship of the Italian label with the distinct contemporary streetwear philosophy upheld by the co-founders. Fans and fashion enthusiasts alike can look forward to getting their hands on the unique collaborative items very soon."
+        ]
+      },
+      {
+        "h": "Launch Date and Retail Expansion",
+        "p": [
+          "The exclusive collection is officially scheduled to launch on November 24, 2026. This initial drop will be followed by a secondary release in early 2027, which promises to introduce even more styles to the growing lineup.",
+          "In addition to online availability through the official website in selected countries, this partnership marks a major milestone for D’YAVOL X. For the very first time, the brand's streetwear collections will step into physical retail stores via Golden Goose outlets located across India."
+        ]
+      },
+      {
+        "h": "Footwear Highlights and Unique Details",
+        "p": [
+          "At the core of the footwear range are three exclusive unisex interpretations of Golden Goose’s famous Super-Star sneakers. These sneakers will be crafted in silver, white, and black leather variations, incorporating distinctive suede details and laminated leather accents.",
+          "The silver and white sneaker models feature specific brand lettering on the foxing alongside thematic phrases. The male version proudly displays the phrase 'Forever King', while the female version is inscribed with 'No crown needed', complemented by red D’YAVOL 'X' branding on the upper."
+        ]
+      },
+      {
+        "h": "Apparel and Accessory Offerings",
+        "p": [
+          "Complementing the footwear is a versatile unisex charcoal-grey workwear jacket manufactured from washed cotton. It features striking silver studs, a contrasting black velvet collar, and carefully executed vintage-inspired finishes.",
+          "The clothing selection further includes four unisex T-shirts and three hoodies available in washed cream, charcoal grey, and burgundy. To round out the complete collection, designers added a cropped charcoal-grey hoodie decorated with tonal crystals and a classic burgundy baseball cap."
+        ]
+      },
+      {
+        "h": "Direct Connection to the Silver Screen",
+        "p": [
+          "Beyond retail stores and online platforms, the collaboration holds a special tie-in with Shah Rukh Khan’s much-anticipated upcoming feature film, King. Select pieces from this exclusive fashion line are set to appear directly in the movie.",
+          "This integration bridges the gap between off-screen entrepreneurial ventures and cinematic artistry, allowing audiences to witness the brand's unique pieces in action on the big screen."
+        ]
+      },
+      {
+        "h": "Founders and Legacy",
+        "p": [
+          "Shah Rukh Khan brings decades of experience to the table, having starred in over 100 films throughout a career spanning more than thirty years. His creative involvement in D’YAVOL X reflects his ongoing commitment to style, luxury, and artistic self-expression.",
+          "Co-founders Aryan Khan, Leti Blagoeva, and Bunty Singh have similarly focused on building a label defined by high standards of craftsmanship. This latest venture with Golden Goose elevates their profile further within the global fashion landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Luxury lifestyle brand D’YAVOL X, co-founded by Shah Rukh Khan and Aryan Khan, has announced an exclusive collaboration with Italian label Golden Goose. Set to launch on November 24, 2026, the collection of sneakers, clothing, and accessories will be sold in physical stores across India for the first time and will also be featured in the upcoming film King."
+        ]
+      }
+    ],
+    "facts": [
+      "Golden Goose collaborated with D’YAVOL X for an exclusive collection.",
+      "D’YAVOL X is co-founded by Shah Rukh Khan, Aryan Khan, Leti Blagoeva, and Bunty Singh.",
+      "The collection is set to launch on November 24, 2026.",
+      "A second drop is planned for early 2027.",
+      "Select pieces from the collection will feature in the movie King.",
+      "Shah Rukh Khan has worked across more than 100 films in a career spanning over three decades."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Aryan Khan",
+        "Leti Blagoeva",
+        "Bunty Singh"
+      ],
+      "titles": [
+        "King",
+        "D’YAVOL X"
+      ]
+    },
+    "keywords": [
+      "D YAVOL X",
+      "Shah Rukh Khan",
+      "Aryan Khan",
+      "Golden Goose",
+      "King"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Shah-Rukh-Khan-Aryan-Khan-brand-DYAVOL-X-collaborates-with-Golden-Goose-for-news.jpeg",
+        "caption": "Shah Rukh Khan and Aryan Khan’s Brand D’YAVOL X Partners with Golden Goose for Exclusive Fashion Line",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 18:18:06 +0200"
+  },
+  "1dwm79s": {
+    "id": "1dwm79s",
+    "type": "news",
+    "headline": "Reinaldo Dennes Execution in Texas Lasts Over an Hour Amid Pain Complaints",
+    "dek": "The lethal injection procedure for inmate Reinaldo Dennes stretched past an hour on Thursday in Texas as staff struggled to establish an intravenous line.",
+    "body": [
+      {
+        "h": "The Execution Procedure",
+        "p": [
+          "The lethal injection procedure for inmate Reinaldo Dennes took over an hour to complete on Thursday in Texas. Prison staff experienced difficulties locating a suitable vein to attach the intravenous line required for the lethal pentobarbital injection.",
+          "Prior to the procedure moving forward, Dennes offered a brief statement before instructing the warden to proceed. The lengthy process ultimately drew intense scrutiny regarding the administration of capital punishment in the state."
+        ]
+      },
+      {
+        "h": "Inmate Claims of Pain",
+        "p": [
+          "During the prolonged attempt to secure an IV line, Dennes voiced explicit complaints about severe physical discomfort. He shouted out about experiencing intense pain and called upon a higher power for relief.",
+          "The inmate specifically mentioned his right leg causing him agony and questioned the normality of the situation while urging officials to end his suffering. Observers noted that he later began snoring loudly before his breathing grew progressively quieter."
+        ]
+      },
+      {
+        "h": "Official Prison Response",
+        "p": [
+          "Representatives for the Texas Department of Criminal Justice maintained that standard protocols were strictly followed throughout the duration of the event. Officials defended their actions despite the visible struggles encountered by the staff.",
+          "Amanda Hernandez, a spokesperson for the department, addressed the allegations of distress and the difficulty with the intravenous placement. She noted that finding alternative locations for IV insertion and receiving immediate claims of pain from inmates are occurrences that have happened previously."
+        ]
+      },
+      {
+        "h": "Background and Conviction",
+        "p": [
+          "Reinaldo Dennes had been convicted for the 1996 murder of Janos Szucs. The capital case ultimately culminated in his scheduled lethal injection in the state of Texas decades after the original crime took place.",
+          "The incident highlights ongoing legal and ethical debates surrounding capital punishment methods in various states across the country."
+        ]
+      },
+      {
+        "h": "Broader Context on Executions",
+        "p": [
+          "The hour-long procedure involving Dennes follows closely behind other recent developments in capital punishment nationwide. Notably, it occurred almost two months after a troubled procedure intended to carry out an execution for Christa Pike in Tennessee.",
+          "Other states, including Florida and Texas, have similarly faced public attention regarding upcoming or recently executed individuals involved in high-profile criminal cases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The execution of Reinaldo Dennes in Texas extended past an hour on Thursday as staff encountered difficulties placing an IV line for the lethal injection. Dennes vocalized severe pain and distress during the procedure before being declared dead after 64 minutes, while prison officials stated that standard protocols were properly followed."
+        ]
+      }
+    ],
+    "facts": [
+      "Reinaldo Dennes was executed on Thursday in Texas",
+      "The execution procedure took over an hour, specifically 64 minutes",
+      "Prison staff struggled to find a vein to hook up an IV line for lethal pentobarbital",
+      "Dennes complained of pain, stating his right leg was killing him",
+      "Amanda Hernandez is the spokesperson for the Texas Department of Criminal Justice",
+      "Dennes was convicted of the 1996 murder of Janos Szucs",
+      "The event occurred almost two months after a botched procedure meant to put Christa Pike to death in Tennessee"
+    ],
+    "entities": {
+      "people": [
+        "Reinaldo Dennes",
+        "Janos Szucs",
+        "Amanda Hernandez",
+        "Christa Pike",
+        "Patrick Stewart",
+        "Robert Pattinson",
+        "Thomas Markle",
+        "Meghan",
+        "Salice Rose",
+        "Miley Cyrus",
+        "Maxx Morando"
+      ],
+      "titles": [
+        "Hunger Games"
+      ]
+    },
+    "keywords": [
+      "Reinaldo Dennes execution",
+      "Texas Department of Criminal Justice",
+      "Amanda Hernandez",
+      "Janos Szucs murder",
+      "Christa Pike execution"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/bf/16by9/2026/11/20/bf4153b532e948798e5446d712bf6896_xl.jpg",
+        "caption": "Reinaldo Dennes Execution in Texas Lasts Over an Hour Amid Pain Complaints",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-20T05:29:48-08:00"
   }
 };
