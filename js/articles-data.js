@@ -197622,5 +197622,358 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-20T04:52:13Z"
+  },
+  "11gwvrh": {
+    "id": "11gwvrh",
+    "type": "news",
+    "headline": "Shiv Sena Leader Neelam Gorhe Assures Action Following Threat to Saif Ali Khan",
+    "dek": "Shiv Sena MLC Neelam Gorhe has addressed the recent security concerns surrounding Bollywood star Saif Ali Khan, asserting that state authorities will take swift action.",
+    "body": [
+      {
+        "h": "Recent Security Threats to Bollywood",
+        "p": [
+          "Concerns regarding the safety of prominent Bollywood figures have intensified following a reported death threat directed at actor Saif Ali Khan. The threat was allegedly issued by a wanted suspect linked to the Baba Siddiqui murder case.",
+          "Authorities and political figures have taken notice of these recurring security challenges, prompting discussions about the safety measures in place for prominent personalities within the film industry."
+        ]
+      },
+      {
+        "h": "Underworld Concerns Raised by Neelam Gorhe",
+        "p": [
+          "Shiv Sena leader Neelam Gorhe spoke to the media regarding the situation, drawing attention to a perceived resurgence of underworld elements in Mumbai. She noted that various individuals periodically attempt to intimidate and extort actors.",
+          "Gorhe contrasted the current climate with the past, remarking that threats of this nature were far less common when Balasaheb Thackeray was active, suggesting that criminal networks are trying to reassert their presence."
+        ]
+      },
+      {
+        "h": "Confidence in Maharashtra Police",
+        "p": [
+          "Despite these worrying developments, the Shiv Sena leader expressed full confidence in the capabilities of the Maharashtra Police. She emphasized that law enforcement agencies possess the necessary tools to handle such crises effectively.",
+          "According to Gorhe, advanced technology allows authorities to accurately trace the locations of those issuing threats. She assured the public that the government intends to act promptly against the culprits."
+        ]
+      },
+      {
+        "h": "Government Response and Leadership",
+        "p": [
+          "Highlighting the active role of the state administration, Gorhe pointed out that Deputy Chief Minister Eknath Shinde personally visits locations immediately following any major security incident.",
+          "The leadership maintains that both the political administration and the police force remain fully equipped to protect citizens and high-profile residents alike from criminal intimidation."
+        ]
+      },
+      {
+        "h": "Prior Incidents Involving Bollywood Stars",
+        "p": [
+          "This recent development follows a series of security scares affecting other major Bollywood celebrities in recent months. In October, a bomb threat email targeted the bungalow of veteran actor Amitabh Bachchan, originating from a message sent to a school in Mumbai's Bandra-Kurla Complex.",
+          "Additionally, actor Tiger Shroff faced a violent incident on October 18 when his car was fired upon in Juhu as he left a football session. Shroff escaped without major injuries, and police subsequently arrested suspects in Kota, where a trial is now underway."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shiv Sena leader Neelam Gorhe has responded to an alleged death threat against Saif Ali Khan by asserting that the government and Maharashtra Police will take swift action using advanced technology. Highlighting a concerning pattern of incidents involving Bollywood stars like Amitabh Bachchan and Tiger Shroff, the leader emphasized the administration's commitment to countering any resurgence of criminal intimidation in Mumbai."
+        ]
+      }
+    ],
+    "facts": [
+      "Neelam Gorhe is a Shiv Sena MLC and leader.",
+      "The death threat to Saif Ali Khan was reported on Thursday, November 19, 2026.",
+      "The threat to Saif Ali Khan allegedly came from a wanted accused in the Baba Siddiqui murder case.",
+      "An email threatening Amitabh Bachchan's bungalow was reported in October.",
+      "The threatening email for Amitabh Bachchan was received by a school in Mumbai's Bandra-Kurla Complex.",
+      "Tiger Shroff was attacked in Juhu on October 18.",
+      "Tiger Shroff escaped without major injuries after multiple shots were fired at his car.",
+      "The accused in the Tiger Shroff attack were arrested in Kota and their trial is currently underway."
+    ],
+    "entities": {
+      "people": [
+        "Neelam Gorhe",
+        "Saif Ali Khan",
+        "Balasaheb Thackeray",
+        "Eknath Shinde",
+        "Amitabh Bachchan",
+        "Tiger Shroff",
+        "Baba Siddiqui"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Neelam Gorhe Saif Ali Khan threat",
+      "Saif Ali Khan death threat",
+      "Tiger Shroff attack Kota arrest",
+      "Amitabh Bachchan bomb threat email"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/19/7023-n-jn.jpg",
+        "caption": "Shiv Sena Leader Neelam Gorhe Assures Action Following Threat to Saif Ali Khan",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-20T05:51:25Z"
+  },
+  "zwa157": {
+    "id": "zwa157",
+    "type": "news",
+    "headline": "War Season 2 Cast Updates: Who Is Returning and Who Is Leaving",
+    "dek": "Following the season one finale of HBO's legal drama War, details have emerged about major cast changes, returning favorites, and characters not returning for the second season.",
+    "body": [
+      {
+        "h": "Introduction to the War Cast Shakeup",
+        "p": [
+          "The HBO series War has officially concluded its first season, and preparations for the next chapter are already well underway. Following the dramatic conclusion of the freshman run, HBO released a teaser trailer confirming significant updates regarding the main cast.",
+          "While the narrative structure of the show allows for a shifting focus, viewers can expect a mix of familiar faces returning to the legal battlefield alongside new additions."
+        ]
+      },
+      {
+        "h": "Season One Premise and Legal Battles",
+        "p": [
+          "The first season of War immersed audiences in the high-stakes legal environment of London, centering on a bitter battle between two prominent law firms, Cathcarts Sons and Taylor Byrne.",
+          "The central plot of the inaugural season followed the contentious divorce proceedings between wealthy tech entrepreneur Morgan Henderson and international movie star Carla Duval."
+        ]
+      },
+      {
+        "h": "Dominic West Exits the Series",
+        "p": [
+          "Dominic West portrayed tech entrepreneur Morgan Henderson throughout the first season of the drama. With the resolution of his character's high-profile divorce in the finale, his storyline has officially reached its conclusion.",
+          "Because Morgan's wealth was split equally with his ex-wife, his narrative arc is fully wrapped up, and the actor will not be reprising his role for the second season."
+        ]
+      },
+      {
+        "h": "Sienna Miller Departs After Season One",
+        "p": [
+          "Sienna Miller starred alongside West as international movie star Carla Duval, anchoring much of the emotional and dramatic weight of the premiere season's core legal dispute.",
+          "Like her on-screen counterpart's ex-husband, Carla's narrative journey concluded satisfactorily by the end of the first season, confirming that Miller will not return for subsequent episodes."
+        ]
+      },
+      {
+        "h": "Returning Characters and Firm Dynamics",
+        "p": [
+          "Although the upcoming episodes will shift attention to a brand new legal dispute revolving around a defamation claim, the broader universe of the show remains anchored by its competing law firms.",
+          "This structural design ensures that various legal team members from Cathcarts Sons and Taylor Byrne can continue their work across different cases, with six actors officially confirmed to reprise their roles."
+        ]
+      },
+      {
+        "h": "Teaser Trailer and Season Two Focus",
+        "p": [
+          "Immediately following the airing of the season one finale on Thursday, November 19, HBO dropped a quick teaser trailer to build excitement for what lies ahead.",
+          "The promotional footage provided early glimpses into the new defamation case that will drive the narrative forward while shedding light on the expanding roster of leads."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO has revealed major cast updates for the second season of War following the conclusion of its first season on Thursday, November 19, 2026. While six actors are confirmed to return for a new defamation case, stars Dominic West and Sienna Miller will not be coming back as their characters' storylines concluded in the finale."
+        ]
+      }
+    ],
+    "facts": [
+      "War is an HBO series.",
+      "Season one followed law firms Cathcarts Sons and Taylor Byrne.",
+      "Morgan Henderson and Carla Duval were involved in a divorce case in season one.",
+      "Dominic West played Morgan Henderson.",
+      "Sienna Miller played Carla Duval.",
+      "Morgan and Carla split their wealth equally in the finale.",
+      "Dominic West and Sienna Miller are not returning for season two.",
+      "Six actors are confirmed to return for season two.",
+      "Season two will focus on a defamation claim.",
+      "The season one finale aired on Thursday, November 19, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dominic West",
+        "Sienna Miller",
+        "Morgan Henderson",
+        "Carla Duval"
+      ],
+      "titles": [
+        "War"
+      ]
+    },
+    "keywords": [
+      "War HBO series",
+      "War season 2 cast",
+      "Dominic West War",
+      "Sienna Miller War"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/war-cast.jpg",
+        "caption": "War Season 2 Cast Updates: Who Is Returning and Who Is Leaving",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 04:48:49 +0000"
+  },
+  "fsmggk": {
+    "id": "fsmggk",
+    "type": "news",
+    "headline": "Alia Bhatt Backs Deepika Padukone's Demand For Eight-Hour Workdays In Bollywood",
+    "dek": "Alia Bhatt has added her voice to the ongoing industry conversation regarding fair work hours, supporting Deepika Padukone's stance on shift limits and highlighting basic on-set needs.",
+    "body": [
+      {
+        "h": "Alia Bhatt Weighs In On Working Hours",
+        "p": [
+          "Alia Bhatt recently addressed the ongoing discussion surrounding work schedules in the film industry, expressing support for Deepika Padukone's stance. The conversation gained widespread attention after reports emerged that Padukone sought an eight-hour workday shift.",
+          "Reflecting on how personal priorities have shifted following marriage and motherhood, Bhatt emphasized that the focus within the industry should now shift toward quality rather than sheer quantity."
+        ]
+      },
+      {
+        "h": "Calls For A Major Industry Rethink",
+        "p": [
+          "During a recent interview, Bhatt discussed the common practice of actors and crew members spending up to fifteen to eighteen hours daily on set. She stated that this grueling routine requires a serious and urgent rethink.",
+          "While noting her own fortunate experiences working with accommodating producers, she stressed that schedules should not remain arbitrary and that setting professional boundaries should not invite the fear of losing employment."
+        ]
+      },
+      {
+        "h": "Support From Other Industry Peers",
+        "p": [
+          "The conversation surrounding reasonable work hours has resonated with several prominent figures across the entertainment sector. Alongside Padukone's initial stand, actresses Kajol and Kareena Kapoor Khan have also spoken out on the matter.",
+          "Bhatt's recent endorsement adds significant momentum to these calls for reform, highlighting a growing consensus among top stars regarding the necessity of fair and sustainable working conditions."
+        ]
+      },
+      {
+        "h": "Basic Facilities And Clean Washrooms",
+        "p": [
+          "Beyond shift limits, Bhatt drew attention to fundamental amenities that remain lacking on various film sets. She specifically raised concerns about the availability of clean and hygienic toilets for women.",
+          "Questioning why basic sanitation continues to be a talking point, she asserted that proper restroom facilities must be guaranteed to everyone involved in a production, regardless of whether they are a lead actor, crew member, or junior artist."
+        ]
+      },
+      {
+        "h": "Current Projects And Future Lineup",
+        "p": [
+          "Amidst these discussions about industry culture, Bhatt's professional commitments continue to move forward. She was recently seen sharing the screen with Sharvari in the action film Alpha.",
+          "Looking ahead, her upcoming schedule includes Sanjay Leela Bhansali's upcoming directorial venture Love War, which also features Ranbir Kapoor and Vicky Kaushal and is slated for release in January 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alia Bhatt has expressed support for Deepika Padukone's call for an eight-hour workday, emphasizing the need for a rethink regarding long hours on film sets. Additionally, Bhatt highlighted the necessity of providing basic amenities like clean washrooms for all cast and crew members."
+        ]
+      }
+    ],
+    "facts": [
+      "Alia Bhatt supported Deepika Padukone's demand for an eight-hour workday in November 2026.",
+      "Alia Bhatt was last seen in Alpha with Sharvari.",
+      "Alia Bhatt will next appear in Sanjay Leela Bhansali's Love War, releasing in January 2027.",
+      "Love War also stars Ranbir Kapoor and Vicky Kaushal."
+    ],
+    "entities": {
+      "people": [
+        "Alia Bhatt",
+        "Deepika Padukone",
+        "Sandeep Reddy Vanga",
+        "Kajol",
+        "Kareena Kapoor Khan",
+        "Sharvari",
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Vicky Kaushal"
+      ],
+      "titles": [
+        "Spirit",
+        "Alpha",
+        "Love War"
+      ]
+    },
+    "keywords": [
+      "Alia Bhatt",
+      "Deepika Padukone 8-hour shift demand",
+      "Love War Sanjay Leela Bhansali",
+      "Alpha movie Sharvari"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/19165222/Miss-Malini-Wordpress-Images-2026-11-19T165152.147.jpg",
+        "caption": "Alia Bhatt Backs Deepika Padukone's Demand For Eight-Hour Workdays In Bollywood",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-20T05:51:25Z"
+  },
+  "xeyflr": {
+    "id": "xeyflr",
+    "type": "news",
+    "headline": "Katie Ginella of The Real Housewives of Orange County to Search for Birth Family in New Docuseries",
+    "dek": "Former reality star Katie Ginella is heading to South Korea to track down her biological relatives for an upcoming NBCUniversal Local docuseries.",
+    "body": [
+      {
+        "h": "Heading to South Korea",
+        "p": [
+          "Former reality star Katie Ginella is preparing to embark on a deeply personal journey to trace her roots. Born in South Korea in 1984, she was adopted by an American family as a baby and has frequently spoken about her identity and desire to find her biological mother.",
+          "That wish is becoming a reality as she travels to South Korea in December to search for her birth family. Her journey will be captured on camera for an upcoming NBCUniversal Local docuseries."
+        ]
+      },
+      {
+        "h": "The Reunion Project Details",
+        "p": [
+          "The upcoming show titled The Reunion Project follows real individuals as they look for people or elements tied to their personal histories. The series blends emotional storytelling with investigative reporting, focusing heavily on human connection, family, and identity.",
+          "During her time in South Korea, Ginella will spend a week collaborating with local journalists, investigators, and adoption experts. Together, they will evaluate adoption documents and follow up on potential DNA links."
+        ]
+      },
+      {
+        "h": "Guiding Voices and Hosts",
+        "p": [
+          "Accompanying Ginella on the trip is Cody Broadway, who serves as the host and storyteller for The Reunion Project. Broadway is also a co-creator and executive producer of the series.",
+          "The show is additionally executive produced by Diane Petzke, who holds the position of vice president of programming and partnerships for NBCUniversal Local."
+        ]
+      },
+      {
+        "h": "Real Housewives Background",
+        "p": [
+          "Ginella is widely recognized for her stint on The Real Housewives of Orange County, joining the program in 2024 as its first Asian cast member. She participated in both Season 18 and Season 19.",
+          "Her time on the Bravo series included stepping away halfway through Season 19 due to conflicts with other castmates. She later returned for the Season 19 reunion before officially leaving the show ahead of Season 20."
+        ]
+      },
+      {
+        "h": "Sharing Her Feelings Online",
+        "p": [
+          "Following the announcement, Ginella took to Instagram to share her mixed emotions in a video message posted on a Thursday. She admitted to feeling overwhelmed, excited, and nervous about visiting her birthplace.",
+          "She also mentioned that she is trying to keep an open mind with zero expectations, letting whatever is meant to happen unfold naturally. Ginella confirmed she would provide further updates once her trip begins on December 10."
+        ]
+      },
+      {
+        "h": "Release Plans and Platforms",
+        "p": [
+          "While an exact premiere date for Ginella's specific episode has not been finalized, the episode is anticipated to debut in 2027. The broader series has already begun rolling out content across multiple networks.",
+          "The opening episode of The Reunion Project aired via COZI TV and NBC-Owned stations' FAST streaming channels. Additionally, the first four episodes are slated to become available on Peacock in January 2027, with NBCUniversal serving as the parent company for both Bravo and NBCUniversal Local."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Katie Ginella, an alum of The Real Housewives of Orange County, is heading to South Korea in December to search for her biological family for an NBCUniversal Local docuseries called The Reunion Project. Accompanied by host Cody Broadway, she will work with local experts and investigators to follow adoption records and DNA links for an episode expected to air in 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Katie Ginella was born in South Korea in 1984 and adopted as an infant.",
+      "She joined The Real Housewives of Orange County in 2024 for Seasons 18 and 19.",
+      "Ginella travels to South Korea on December 10 for The Reunion Project.",
+      "The docuseries is executive produced by Diane Petzke and Cody Broadway.",
+      "The first four episodes of the series will stream on Peacock in January 2027."
+    ],
+    "entities": {
+      "people": [
+        "Katie Ginella",
+        "Cody Broadway",
+        "Diane Petzke"
+      ],
+      "titles": [
+        "The Real Housewives of Orange County",
+        "The Reunion Project"
+      ]
+    },
+    "keywords": [
+      "Katie Ginella",
+      "The Reunion Project",
+      "The Real Housewives of Orange County",
+      "Cody Broadway"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-19T201740.017.jpg",
+        "caption": "Katie Ginella of The Real Housewives of Orange County to Search for Birth Family in New Docuseries",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 20 Nov 2026 04:30:54 +0000"
   }
 };
