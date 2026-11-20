@@ -1,6 +1,6 @@
 {
  "bucket": "08",
- "count": 68,
+ "count": 69,
  "titles": {
   "movie:10208": {
    "backdrop_path": "/4n10DEpEsNOJj5Is1NjpGqrN7Lv.jpg",
@@ -1007,6 +1007,131 @@
    "type": "movie",
    "vote_average": 6.735,
    "vote_count": 843
+  },
+  "movie:1254808": {
+   "backdrop_path": "/c15Fg4jvclF5VjxCi1mtjUg4a6H.jpg",
+   "budget": 9900000,
+   "cast": [
+    {
+     "c": "Jean-Luc Godard",
+     "n": "Guillaume Marbeck"
+    },
+    {
+     "c": "Jean Seberg",
+     "n": "Zoey Deutch"
+    },
+    {
+     "c": "Jean-Paul Belmondo",
+     "n": "Aubry Dullin"
+    },
+    {
+     "c": "François Truffaut",
+     "n": "Adrien Rouyard"
+    },
+    {
+     "c": "Claude Chabrol",
+     "n": "Antoine Besson"
+    },
+    {
+     "c": "Suzanne Schiffman",
+     "n": "Jodie Ruth-Forest"
+    },
+    {
+     "c": "Georges de Beauregard",
+     "n": "Bruno Dreyfürst"
+    },
+    {
+     "c": "Pierre Rissient",
+     "n": "Benjamin Cléry"
+    },
+    {
+     "c": "Raoul Coutard",
+     "n": "Matthieu Penchinat"
+    },
+    {
+     "c": "Suzon Faye",
+     "n": "Pauline Belle"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "R",
+   "date_kind": "release",
+   "director": [
+    "Richard Linklater"
+   ],
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "id": 1254808,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "After writing for Cahiers du cinéma, young Godard decides making films is the best film criticism. He gets Beauregard to fund a low-budget feature, creating a treatment with Truffaut about a gangster couple.",
+   "popularity": 2.68,
+   "poster_path": "/AfE7DZ0DPgme6I58dlYp1Bo9xeN.jpg",
+   "production_countries": [
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    },
+    {
+     "name": "BFI Player"
+    },
+    {
+     "name": "BFI Player Amazon Channel"
+    },
+    {
+     "name": "BFI Player Apple TV Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-20",
+   "release_date": "2025-10-08",
+   "revenue": 0,
+   "runtime": 106,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr",
+    "en",
+    "it"
+   ],
+   "status": "Released",
+   "tagline": "Everyone loves the new wave.",
+   "title": "Nouvelle Vague",
+   "trailer": {
+    "key": "sRqWbsdACzg",
+    "name": "Official UK Trailer [Subtitled]",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.187,
+   "vote_count": 300
   },
   "movie:1321008": {
    "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",

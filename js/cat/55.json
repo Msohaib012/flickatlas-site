@@ -1,6 +1,6 @@
 {
  "bucket": "55",
- "count": 90,
+ "count": 91,
  "titles": {
   "movie:1002155": {
    "backdrop_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
@@ -7209,6 +7209,126 @@
    "type": "movie",
    "vote_average": 6.511,
    "vote_count": 837
+  },
+  "movie:778855": {
+   "backdrop_path": "/7neeXze9HB3MTxDYyh3wwysydMN.jpg",
+   "budget": 20000000,
+   "cast": [
+    {
+     "c": "Chickenhare (voice)",
+     "n": "Jordan Tartakow"
+    },
+    {
+     "c": "Abe (voice)",
+     "n": "Joe Ochman"
+    },
+    {
+     "c": "Meg / Cute Hare / Cute Hen (voice)",
+     "n": "Laila Berzins"
+    },
+    {
+     "c": "Lapin (voice)",
+     "n": "Danny Fehsenfeld"
+    },
+    {
+     "c": "Peter (voice)",
+     "n": "Chris McCune"
+    },
+    {
+     "c": "Aide / Big Oxe (voice)",
+     "n": "Michael Orenstein"
+    },
+    {
+     "c": "Barry / Mr Mc Garnicle (voice)",
+     "n": "Dino Andrade"
+    },
+    {
+     "c": "Bartender / Old Hare (voice)",
+     "n": "Kyle Hebert"
+    },
+    {
+     "c": "Guard (voice)",
+     "n": "James Fredrick"
+    },
+    {
+     "c": "Judge / Rusty (voice)",
+     "n": "Jeff Doucette"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "PG",
+   "date_kind": "release",
+   "director": [
+    "Benjamin Mousquet",
+    "Ben Stassen"
+   ],
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "id": 778855,
+   "industry": "world",
+   "origin_country": [
+    "BE",
+    "FR"
+   ],
+   "original_language": "en",
+   "overview": "A brave young animal explorer teams up with two trusty friends to find a powerful artifact before his greedy uncle can get his paws on it.",
+   "popularity": 3.4294,
+   "poster_path": "/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg",
+   "production_countries": [
+    "BE",
+    "FR",
+    "US"
+   ],
+   "providers": [
+    {
+     "name": "Netflix"
+    },
+    {
+     "name": "Netflix Standard with Ads"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+     "name": "Netflix",
+     "region": "US"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+     "name": "Netflix Standard with Ads",
+     "region": "US"
+    }
+   ],
+   "published_at": "2026-11-20",
+   "release_date": "2022-02-16",
+   "revenue": 10885116,
+   "runtime": 91,
+   "source": "catalogue",
+   "spoken_languages": [
+    "en"
+   ],
+   "status": "Released",
+   "tagline": "Their differences will be their greatest strength!",
+   "title": "Chickenhare and the Hamster of Darkness",
+   "trailer": {
+    "key": "0WpES_bo4mE",
+    "name": "nWave | Chickenhare and the Hamster of Darkness (2022) | Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 7.213,
+   "vote_count": 300
   },
   "movie:791155": {
    "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",

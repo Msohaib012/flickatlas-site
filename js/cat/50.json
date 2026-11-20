@@ -1,6 +1,6 @@
 {
  "bucket": "50",
- "count": 75,
+ "count": 76,
  "titles": {
   "movie:10050": {
    "backdrop_path": "/saQxwnIr4ftRmFpJeV9DQI1lsWd.jpg",
@@ -6546,6 +6546,105 @@
    "type": "movie",
    "vote_average": 6.32,
    "vote_count": 392
+  },
+  "movie:712150": {
+   "backdrop_path": "/w3sqSIZDQLthCPpOCkcN5CkLRYM.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Adrien",
+     "n": "Benjamin Lavernhe"
+    },
+    {
+     "c": "Sonia",
+     "n": "Sara Giraudeau"
+    },
+    {
+     "c": "Ludo",
+     "n": "Kyan Khojandi"
+    },
+    {
+     "c": "Sophie",
+     "n": "Julia Piaton"
+    },
+    {
+     "c": "Le père d'Adrien",
+     "n": "François Morel"
+    },
+    {
+     "c": "La mère d'Adrien",
+     "n": "Guilaine Londez"
+    },
+    {
+     "c": "Sébastien",
+     "n": "Sébastien Chassagne"
+    },
+    {
+     "c": "Karine",
+     "n": "Sarah Suco"
+    },
+    {
+     "c": "Romain",
+     "n": "Sébastien Pouderoux"
+    },
+    {
+     "c": "Solène",
+     "n": "Adeline D'Hermy"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "12",
+   "date_kind": "release",
+   "director": [
+    "Laurent Tirard"
+   ],
+   "genres": [
+    "Comedy"
+   ],
+   "id": 712150,
+   "industry": "world",
+   "origin_country": [
+    "FR"
+   ],
+   "original_language": "fr",
+   "overview": "Meet Adrien! He's 35. He's stuck in a mid-life crisis. He's neurotic and hypochondriac. Tonight he's stuck in an endless family dinner and his girlfriend is not answering his texts. On top of that, his dumb brother-in-law asks him to prepare a speech for his wedding. Could it get even worse?",
+   "popularity": 1.0109,
+   "poster_path": "/i2G0QrM10xCkrJmzgky53DlNjn2.jpg",
+   "production_countries": [
+    "FR"
+   ],
+   "providers": [],
+   "providers_wtw": [
+    {
+     "kind": "rent",
+     "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+     "name": "Amazon Video",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-20",
+   "release_date": "2021-06-09",
+   "revenue": 3044720,
+   "runtime": 87,
+   "source": "catalogue",
+   "spoken_languages": [
+    "fr"
+   ],
+   "status": "Released",
+   "tagline": "",
+   "title": "The Speech",
+   "trailer": {
+    "key": "BqIvdLGLNWs",
+    "name": "The Wedding Speech - Official Trailer",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.307,
+   "vote_count": 300
   },
   "movie:732450": {
    "backdrop_path": "/jvRewPpawHAfBW38EzHoFdTVEez.jpg",

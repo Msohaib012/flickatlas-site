@@ -1,6 +1,6 @@
 {
  "bucket": "27",
- "count": 66,
+ "count": 67,
  "titles": {
   "movie:103327": {
    "backdrop_path": "/1ESciDN81pKupe1Gb8rmWhmYzKr.jpg",
@@ -5544,6 +5544,129 @@
    "type": "movie",
    "vote_average": 4.073,
    "vote_count": 368
+  },
+  "movie:571627": {
+   "backdrop_path": "/4MDYpCwqSVO5RcTiZ4GEfePzDdl.jpg",
+   "budget": 0,
+   "cast": [
+    {
+     "c": "Yong-hu",
+     "n": "Park Seo-jun"
+    },
+    {
+     "c": "Father Ahn",
+     "n": "Ahn Sung-ki"
+    },
+    {
+     "c": "Ji-shin",
+     "n": "Woo Do-hwan"
+    },
+    {
+     "c": "Father Choi",
+     "n": "Choi Woo-shik"
+    },
+    {
+     "c": "Su-jin",
+     "n": "Park Ji-hyun"
+    },
+    {
+     "c": "Ho-seok",
+     "n": "Jung Ji-hoon"
+    },
+    {
+     "c": "Stranger",
+     "n": "Lee Seung-hee"
+    },
+    {
+     "c": "Father Kim",
+     "n": "Sim Hee-seop"
+    },
+    {
+     "c": "Teresa",
+     "n": "Kim See-eun"
+    },
+    {
+     "c": "Angela",
+     "n": "Kim Seon-min"
+    }
+   ],
+   "catalogue": true,
+   "catalogue_stage": 1,
+   "categories": [
+    "catalogue"
+   ],
+   "certification": "NR",
+   "date_kind": "release",
+   "director": [
+    "Jason Kim"
+   ],
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+   ],
+   "id": 571627,
+   "industry": "world",
+   "origin_country": [
+    "KR"
+   ],
+   "original_language": "ko",
+   "overview": "After waking up with mysterious wounds on his hands, a champion fighter finds himself in an otherworldly battle against evil forces that wreak havoc in the human world.",
+   "popularity": 2.1327,
+   "poster_path": "/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg",
+   "production_countries": [
+    "KR"
+   ],
+   "providers": [
+    {
+     "name": "Amazon Prime Video"
+    },
+    {
+     "name": "Amazon Prime Video with Ads"
+    },
+    {
+     "name": "Hi-YAH"
+    },
+    {
+     "name": "ViX Premium Amazon Channel"
+    },
+    {
+     "name": "Hi-YAH Amazon Channel"
+    }
+   ],
+   "providers_wtw": [
+    {
+     "kind": "flatrate",
+     "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+     "name": "Amazon Prime Video",
+     "region": "IN"
+    },
+    {
+     "kind": "flatrate",
+     "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+     "name": "Amazon Prime Video with Ads",
+     "region": "IN"
+    }
+   ],
+   "published_at": "2026-11-20",
+   "release_date": "2019-07-31",
+   "revenue": 11750306,
+   "runtime": 129,
+   "source": "catalogue",
+   "spoken_languages": [
+    "ko"
+   ],
+   "status": "Released",
+   "tagline": "Will you stand with good or evil?",
+   "title": "The Divine Fury",
+   "trailer": {
+    "key": "xLrYXoeanxQ",
+    "name": "The Divine Fury_2nd Trailer_Int'l",
+    "site": "YouTube"
+   },
+   "type": "movie",
+   "vote_average": 6.673,
+   "vote_count": 300
   },
   "movie:627": {
    "backdrop_path": "/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
