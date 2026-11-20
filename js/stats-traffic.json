@@ -1,32 +1,32 @@
 {
   "connected": true,
-  "generated": "2026-11-20T12:55:29Z",
+  "generated": "2026-11-20T14:27:52Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 1982,
-    "pageviews": 1873,
-    "sessions": 1986,
+    "users": 2116,
+    "pageviews": 2006,
+    "sessions": 2121,
     "avg_session_seconds": 3.6
   },
   "last7": {
-    "users": 3098,
-    "pageviews": 3220,
-    "sessions": 3119,
-    "avg_session_seconds": 8.5
+    "users": 3232,
+    "pageviews": 3353,
+    "sessions": 3257,
+    "avg_session_seconds": 8.3
   },
   "top_pages": [
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profile | FlickAtlas",
-      "views": 1336,
+      "views": 1409,
       "avg_time_seconds": 3.7
     },
     {
       "path": "/person",
       "title": "Actor & Filmmaker Profiles | FlickAtlas",
-      "views": 801,
+      "views": 850,
       "avg_time_seconds": 2.8
     },
     {
@@ -66,30 +66,30 @@
       "avg_time_seconds": 9.9
     },
     {
+      "path": "/upcoming",
+      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 8.3
+    },
+    {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
       "views": 13,
       "avg_time_seconds": 10.2
-    },
-    {
-      "path": "/upcoming",
-      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 9.0
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2988,
-      "users": 2955
+      "sessions": 3102,
+      "users": 3088
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 286,
-      "users": 286
+      "sessions": 295,
+      "users": 295
     },
     {
       "source": "google",
@@ -107,49 +107,49 @@
   "countries": [
     {
       "country": "Brazil",
-      "users": 593
+      "users": 616
     },
     {
       "country": "United States",
-      "users": 510
+      "users": 525
     },
     {
       "country": "Singapore",
-      "users": 453
+      "users": 491
     },
     {
       "country": "Argentina",
-      "users": 186
+      "users": 199
     },
     {
       "country": "Hong Kong",
-      "users": 169
+      "users": 175
     },
     {
       "country": "China",
-      "users": 148
-    },
-    {
-      "country": "Colombia",
-      "users": 146
+      "users": 156
     },
     {
       "country": "Vietnam",
-      "users": 146
+      "users": 153
+    },
+    {
+      "country": "Colombia",
+      "users": 147
     },
     {
       "country": "Mexico",
-      "users": 125
+      "users": 131
     },
     {
-      "country": "Indonesia",
-      "users": 119
+      "country": "Pakistan",
+      "users": 123
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 3083
+      "users": 3217
     },
     {
       "device": "mobile",
